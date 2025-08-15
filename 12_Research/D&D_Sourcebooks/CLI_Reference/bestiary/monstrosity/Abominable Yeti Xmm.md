@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.336980+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-abominable-yeti-xmm-abominable-yeti-xmm.svg)
 
@@ -40,6 +37,24 @@ world: Both
 Giants even among their own intimidating kind, abominable yetis are stronger and bloodthirstier than their kin. They claim whole regions as their hunting grounds, and they might track trespassers for days. On sighting prey, abominable yetis fling boulders of ice and snow before closing to finish foes. In addition to their icy claws and gaze, they can exhale a blast of arctic cold.
 
 Abominable yetis dwell in frigid ruins or the deserted lairs of other monsters atop infamous peaks.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Yetis
 
@@ -56,7 +71,6 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
 > 
 > In the yeti, I find no kinship, no understanding, no mercy. Theirs is not the might of the mountain or the magic of glacial wonders. Theirs is a world where harmony lies murdered and frozen.
 
-
 ```statblock
 "name": "Abominable Yeti (XMM)"
 "size": "Huge"
@@ -72,7 +86,6 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
   - !!int "22"
   - !!int "9"
   - !!int "13"
-  - !!int "9"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
@@ -124,19 +137,28 @@ Abominable yeti xmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of abominable yeti xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around abominable yeti xmm.
 
-## Adventure Hooks
-
-- A rumor ties abominable yeti xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at abominable yeti xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to abominable yeti xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

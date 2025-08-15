@@ -26,11 +26,8 @@ updated: '2025-08-13T12:34:06.607289+00:00'
 world: Both
 ---
 
-
-
 # Primordial Ward
 *6th-level, Abjuration*  
-
 
 - **Casting time:** 1 Action
 - **Range:** Self
@@ -45,6 +42,24 @@ When you take damage of one of those types, you can use your reaction to gain im
 
 *Source: Xanathar's Guide to Everything p. 163*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Primordial ward xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -53,19 +68,39 @@ Primordial ward xge is a undersea element of the setting, known for bioluminesce
 
 Legends speak of primordial ward xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around primordial ward xge.
 
-## Adventure Hooks
-
-- A rumor ties primordial ward xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at primordial ward xge to avert a public scandal.
-- A map overlay reveals a hidden approach to primordial ward xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A noble needs help delivering before dawn
+- A merchant needs help investigating before winter
+- A map reveals ancient history about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

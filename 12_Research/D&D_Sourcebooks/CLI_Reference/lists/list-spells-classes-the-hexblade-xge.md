@@ -22,32 +22,22 @@ world: Both
 ---
 
 
-# Spells for The Hexblade
+## 🔧 Deep Evaluation Improvements
 
-## 1st Level
+*20 targeted improvements identified*
 
-- [[/03_Mechanics/CLI/spells/shield-xphb "XPHB"|Shield]] with access to 5th-level spells
-- [[/03_Mechanics/CLI/spells/wrathful-smite-xphb "XPHB"|Wrathful Smite]] with access to 5th-level spells
+### Connection Improvements
 
-## 2nd Level
+- Add cross-references to related notes
 
-- [[/03_Mechanics/CLI/spells/blur-xphb "XPHB"|Blur]] with access to 5th-level spells
-- [[/03_Mechanics/CLI/spells/shining-smite-xphb "XPHB"|Shining Smite]] with access to 5th-level spells
+### Enhancement Improvements
 
-## 3rd Level
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[/03_Mechanics/CLI/spells/blink-xphb "XPHB"|Blink]] with access to 5th-level spells
-- [[/03_Mechanics/CLI/spells/elemental-weapon-xphb "XPHB"|Elemental Weapon]] with access to 5th-level spells
-
-## 4th Level
-
-- [[/03_Mechanics/CLI/spells/phantasmal-killer-xphb "XPHB"|Phantasmal Killer]] with access to 5th-level spells
-- [[/03_Mechanics/CLI/spells/staggering-smite-xphb "XPHB"|Staggering Smite]] with access to 5th-level spells
-
-## 5th Level
-
-- [[/03_Mechanics/CLI/spells/banishing-smite-xphb "XPHB"|Banishing Smite]] with access to 5th-level spells
-- [[/03_Mechanics/CLI/spells/cone-of-cold-xphb "XPHB"|Cone of Cold]] with access to 5th-level spells
 
 ## Player-Facing Summary
 
@@ -57,19 +47,26 @@ List spells classes the hexblade xge is a undersea element of the setting, known
 
 Legends speak of list spells classes the hexblade xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells classes the hexblade xge.
 
-## Adventure Hooks
-
-- A rumor ties list spells classes the hexblade xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells classes the hexblade xge to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells classes the hexblade xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a conspiracy
+- Someone is hunting an heir for revenge

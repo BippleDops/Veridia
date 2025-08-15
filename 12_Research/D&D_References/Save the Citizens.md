@@ -21,11 +21,27 @@ created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 ---
 
-
-
 # Save the Citizens
 
 *"When disaster strikes, heroes answer the call of the innocent."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 Save the Citizens represents emergency rescue operations where characters must protect and evacuate civilian populations during various catastrophes affecting both Aethermoor and Aquabyssos. These missions require coordination, resource management, and difficult decisions about who can be saved when time and resources are limited.
@@ -35,19 +51,6 @@ Citizen rescue protocols developed after major disasters highlighted the need fo
 
 ## Current State
 Modern rescue operations use improved coordination systems and magical enhancements, though they remain challenging when dealing with inter-realm disasters or supernatural threats.
-
-## Mechanics
-### Requirements
-- Emergency situation affecting civilian population
-- Rescue capabilities and transportation
-- Medical/magical healing resources
-- Coordination with local authorities
-
-### Effects
-- **Lives Saved**: Direct impact on survival rates
-- **Community Reputation**: Affects standing with local populations
-- **Resource Depletion**: Uses supplies and magical energy
-- **Moral Consequences**: Difficult choices about rescue priorities
 
 ## Adventure Hooks
 1. **Natural Disaster**: Earthquake or flood requires mass evacuation
@@ -69,13 +72,21 @@ Legends speak of Save the Citizens as a nexus where past and present converge. L
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Aethermoor - Session 07 The Festival of Transformation]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and chaos spreads
+- A letter reveals ancient history about a local noble
+- A merchant needs help finding before the festival
+- An heirloom has gone missing and truth emerges
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

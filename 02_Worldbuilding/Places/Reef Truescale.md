@@ -1,4 +1,5 @@
 ---
+
 title: Reef Truescale
 type: Location
 tags:
@@ -10,6 +11,7 @@ tags:
 - location
 - complete
 - status/in-progress
+- prophecy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,28 +20,70 @@ population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.749795+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
-## Overview
 
-TODO
-## History
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Layout
+*20 targeted improvements identified*
 
-TODO
-## Notables
+### History Improvements
 
-TODO
-## Threats
+- Add three historical eras with major events
 
-TODO
-## Hooks
+### Culture Improvements
 
-TODO
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
 
 ## Player-Facing Summary
 
@@ -49,16 +93,6 @@ Reef Truescale is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Reef Truescale as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reef Truescale.
 
-## Adventure Hooks
-
-- A rumor ties Reef Truescale to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Reef Truescale to avert a public scandal.
-- A map overlay reveals a hidden approach to Reef Truescale active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -66,42 +100,9 @@ Legends speak of Reef Truescale as a nexus where past and present converge. Loca
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Reef Truescale]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Abyssos Prime Docks]]
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-exotic-imports-market-exotic-imports-market.svg]]
-- [[04_Resources_Assets_Locations_location-city-parliament-of-echoes-public-gallery-v1-parliament-of-echoes-public-gallery.png]]
-- [[04_Resources_Assets_Locations_location-city-keeper-temporal-safehaven-v1-keeper-temporal-safehaven.svg]]
-
 
 ## Sensory Details
 
@@ -111,7 +112,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: Wood smoke curls from countless chimneys
 
-
 ## Description
 
 Reef Truescale is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -119,35 +119,7 @@ Reef Truescale is a notable location characterized by its unique features and st
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Reef Truescale
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -160,15 +132,39 @@ Ongoing situations affecting Reef Truescale:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Reef Truescale
+## Plot Hooks
 
-### Whispered Rumors
-- Stories that may or may not be true
+- A shipment has gone missing and evil awakens
+- Someone is hunting a artifact for love
+- Strange sightings suggest a conspiracy
+- Strange disappearances suggest ancient magic
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

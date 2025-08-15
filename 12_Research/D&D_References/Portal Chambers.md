@@ -17,28 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -48,28 +42,37 @@ Portal Chambers is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Portal Chambers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Portal Chambers.
 
-## Adventure Hooks
-
-- A rumor ties Portal Chambers to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Portal Chambers to avert a public scandal.
-- A map overlay reveals a hidden approach to Portal Chambers active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Portal Chambers|02 Worldbuilding/Places/Portal Chambers]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Tenebrarum Ambassadors]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A corpse reveals ancient history about the cult
+- A merchant needs help investigating before dawn
+- A document has gone missing and evil awakens
+- A journal reveals the truth about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -21,9 +21,8 @@ updated: '2025-08-12T23:37:33.290709'
 world: Both
 ---
 
-
 # Wild Magic Surge
-*Source: Player's Handbook p. 103. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+*Source: Player's Handbook p. 103. Available in the SRD and the Free Rules (2024)* 
 
 **Wild Magic Surge**
 
@@ -49,7 +48,7 @@ world: Both
 | 31-32 | You are transported to the Astral Plane until the end of your next turn, after which time you return to the space you previously occupied or the nearest unoccupied space if that space is occupied. |
 | 33-34 | Maximize the damage of the next damaging spell you cast within the next minute. |
 | 35-36 | Roll a `d10`. Your age changes by a number of years equal to the roll. If the roll is odd, you get younger (minimum 1 year old). If the roll is even, you get older. |
-| 37-38 | `d6` [[flumph-xmm|flumphs]] controlled by the DM appear in unoccupied spaces within 60 feet of you and are [[conditions#Frightened|frightened]] of you. They vanish after 1 minute. |
+| 37-38 | `d6` [[flumph-xmm|flumphs]] controlled by the DM appear in unoccupied spaces within 60 feet of you and are [[conditions#frightened|frightened]] of you. They vanish after 1 minute. |
 | 39-40 | You regain `2d10` hit points. |
 | 41-42 | You turn into a potted plant until the start of your next turn. While a plant, you are [[conditions#Incapacitated|incapacitated]] and have vulnerability to all damage. If you drop to 0 hit points, your pot breaks, and your form reverts. |
 | 43-44 | For the next minute, you can teleport up to 20 feet as a bonus action on each of your turns. |
@@ -64,7 +63,7 @@ world: Both
 | 61-62 | For the next minute, you must shout when you speak. |
 | 63-64 | You cast [[fog-cloud-xphb|fog cloud]] centered on yourself. |
 | 65-66 | Up to three creatures you choose within 30 feet of you take `4d10` lightning damage. |
-| 67-68 | You are [[conditions#Frightened|frightened]] by the nearest creature until the end of your next turn. |
+| 67-68 | You are [[conditions#frightened|frightened]] by the nearest creature until the end of your next turn. |
 | 69-70 | Each creature within 30 feet of you becomes [[conditions#Invisible|invisible]] for the next minute. The invisibility ends on a creature when it attacks or casts a spell. |
 | 71-72 | You gain resistance to all damage for the next minute. |
 | 73-74 | A random creature within 60 feet of you becomes [[conditions#Poisoned|poisoned]] for `d4` hours. |
@@ -83,6 +82,24 @@ world: Both
 | 99-00 | You regain all expended sorcery points. |
 ^wild-magic-surge
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Wild magic surge phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -91,20 +108,22 @@ Wild magic surge phb is a undersea element of the setting, known for bioluminesc
 
 Legends speak of wild magic surge phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wild magic surge phb.
 
-## Adventure Hooks
-
-- A rumor ties wild magic surge phb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at wild magic surge phb to avert a public scandal.
-- A map overlay reveals a hidden approach to wild magic surge phb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

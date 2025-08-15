@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.874049'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cogwork-archivist-scc-cogwork-archivist-scc.svg)
 
@@ -58,16 +56,13 @@ Programmed with knowledge of Strixhaven's extensive lore catalog, cogwork archiv
   - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+5"
   - "name": "[[skills#History|History]]"
-    "desc": "+5"
   - "name": "[[skills#Nature|Nature]]"
-    "desc": "+5"
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+2"
   - "name": "[[skills#Religion|Religion]]"
-    "desc": "+5"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Petrified|petrified]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "all"
@@ -95,6 +90,24 @@ Programmed with knowledge of Strixhaven's extensive lore catalog, cogwork archiv
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Cogwork archivist scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -103,19 +116,32 @@ Cogwork archivist scc is a undersea element of the setting, known for biolumines
 
 Legends speak of cogwork archivist scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cogwork archivist scc.
 
-## Adventure Hooks
-
-- A rumor ties cogwork archivist scc to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at cogwork archivist scc to avert a public scandal.
-- A map overlay reveals a hidden approach to cogwork archivist scc active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Someone is protecting a witness for power
+- Someone is hunting an heir for power
+- Someone is blackmailing information for love
+- Someone is searching for information for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

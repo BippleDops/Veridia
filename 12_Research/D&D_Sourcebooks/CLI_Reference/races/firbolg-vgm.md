@@ -22,7 +22,6 @@ updated: '2025-08-12T23:37:37.690161'
 world: Both
 ---
 
-
 # Firbolg
 *Source: Volo's Guide to Monsters p. 107*  
 ![](/03_Mechanics/CLI/races/img/firbolg.webp#right)
@@ -31,8 +30,6 @@ world: Both
 - **Size**: Medium
 - **Speed**: 30 ft.
 - **Spellcasting**: Wisdom
-
-## Traits
 
 ### Age
 
@@ -62,6 +59,24 @@ You have the ability to communicate in a limited manner with beasts and plants. 
 
 You can speak, read, and write Common, Elvish, and Giant.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Description
 
 Firbolg tribes cloister in remote forest strongholds, preferring to spend their days in quiet harmony with the woods. When provoked, firbolgs demonstrate formidable skills with weapons and druidic magic.
@@ -83,15 +98,10 @@ Firbolgs who become druids serve as stronghold leaders. With every action the tr
 > [!note] Firbolg Classes
 > 
 > Most firbolgs are druids, rangers, or fighters. Among their kind, these vocations are passed down from one generation to the next. The firbolgs' magical heritage also expresses itself in other ways; those who become bards preserve the clan's lore, and firbolg sorcerers defend their communities. Firbolg wizards arise when a clan becomes friendly with elves.
-> 
 > Firbolg rogues are typically scouts tasked with spying on neighboring folk to determine their intentions. They are most common among firbolgs whose homes border human settlements.
-> 
 > Firbolg barbarians are rare except among clans that face constant threats from evil humanoids and other invaders.
-> 
 > Firbolg clerics and paladins are usually dedicated to nature gods and are seen as enforcers of that god's will.
-> 
 > Firbolg warlocks are rare, but some clans forge alliances and arcane pacts with powerful fey beings.
-> 
 > Firbolg monks are almost entirely unheard of, though a monastery might take in the young survivors of a devastated firbolg clan.
 ^firbolg-classes
 
@@ -147,19 +157,17 @@ Firbolg vgm is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of firbolg vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around firbolg vgm.
 
-## Adventure Hooks
-
-- A rumor ties firbolg vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at firbolg vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to firbolg vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting information for revenge
+- A prisoner has gone missing and evil awakens
+- A corpse reveals ancient history about a local noble

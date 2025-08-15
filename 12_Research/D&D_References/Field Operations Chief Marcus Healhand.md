@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.931206+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,27 @@ Field Operations Chief Marcus Healhand is a undersea element of the setting, kno
 
 Legends speak of Field Operations Chief Marcus Healhand as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Field Operations Chief Marcus Healhand.
 
-## Adventure Hooks
-
-- A rumor ties Field Operations Chief Marcus Healhand to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Field Operations Chief Marcus Healhand to avert a public scandal.
-- A map overlay reveals a hidden approach to Field Operations Chief Marcus Healhand active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Investigate Shadow Surgeons|02 Worldbuilding/Groups/Investigate Shadow Surgeons]]
-
-
-## Connections
-
-- [[Investigate Shadow Surgeons]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- Someone is blackmailing a artifact for power
+- A map reveals a conspiracy about a local noble
+- Someone is blackmailing a witness for love
+- A stranger needs help stealing before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

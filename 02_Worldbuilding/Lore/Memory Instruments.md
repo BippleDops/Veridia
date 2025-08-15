@@ -1,4 +1,5 @@
 ---
+
 title: Memory Instruments
 type: Lore
 tags:
@@ -10,18 +11,79 @@ tags:
 - complete
 - status/in-progress
 - aethermoor
+- conspiracy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
 updated: '2025-08-13T12:34:16.481342+00:00'
 world: Aethermoor
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
-## Overview
 
-TODO
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
 
 ## Player-Facing Summary
 
@@ -31,50 +93,53 @@ Memory Instruments is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Memory Instruments as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Instruments.
 
-## Adventure Hooks
-
-- A rumor ties Memory Instruments to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Memory Instruments to avert a public scandal.
-- A map overlay reveals a hidden approach to Memory Instruments active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Siren]]
-
-
-## Connections
-
-- [[The Siren]]
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
-
-
 ## Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
-
 
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
 
-## Game Applications
 
-### Adventure Hooks
-- Discovery of related artifacts or texts
-- Conflicts arising from different interpretations
-- Prophecies beginning to manifest
+## Plot Hooks
 
-### Character Connections
-- Scholarly interest
-- Personal involvement in events
-- Hereditary knowledge or curse
+- A noble needs help finding before dawn
+- A journal reveals a betrayal about the cult
+- A journal reveals a conspiracy about a local noble
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
+
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

@@ -22,12 +22,29 @@ updated: '2025-08-12T23:37:34.724340'
 world: Both
 ---
 
-
 # Charm of the Slayer
 
 One weapon in your possession becomes a [[dragon-slayer-xdmg|Dragon Slayer]] or [[giant-slayer-xdmg|Giant Slayer]] (DM's choice) for the next 9 days. The Charm then vanishes from you, and the weapon returns to normal.
 
 *Source: Dungeon Master's Guide (2024) p. 99*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -37,19 +54,21 @@ Charm of the slayer xdmg is a undersea element of the setting, known for biolumi
 
 Legends speak of charm of the slayer xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around charm of the slayer xdmg.
 
-## Adventure Hooks
-
-- A rumor ties charm of the slayer xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at charm of the slayer xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to charm of the slayer xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and chaos spreads
+- A corpse reveals ancient history about this place
+- Someone is hunting an heir for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

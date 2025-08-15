@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.656011+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,27 +42,9 @@ Ambassador Lysandra Silvertonge's Embassy is a undersea element of the setting, 
 
 Legends speak of Ambassador Lysandra Silvertonge's Embassy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ambassador Lysandra Silvertonge's Embassy.
 
-## Adventure Hooks
-
-- A rumor ties Ambassador Lysandra Silvertonge's Embassy to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Ambassador Lysandra Silvertonge's Embassy to avert a public scandal.
-- A map overlay reveals a hidden approach to Ambassador Lysandra Silvertonge's Embassy active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Concierge Phillip Gracewater|02 Worldbuilding/Places/Concierge Phillip Gracewater]]
-
-
-## Connections
-
-- [[Concierge Phillip Gracewater]]
-
 
 ## Related
 

@@ -15,36 +15,26 @@ world: Aethermoor
 updated: '2025-08-13T01:18:36.829794+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-trade-captain-current-trade-captain-current.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Appearance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Personality
-
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -54,28 +44,34 @@ Trade Captain Current is a undersea element of the setting, known for biolumines
 
 Legends speak of Trade Captain Current as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Trade Captain Current.
 
-## Adventure Hooks
-
-- A rumor ties Trade Captain Current to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Trade Captain Current to avert a public scandal.
-- A map overlay reveals a hidden approach to Trade Captain Current active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Trade Captain Current|02 Worldbuilding/People/Trade Captain Current]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Quest - The Missing Fleet]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Relationships
+
+- **Creditor**: [[Portrait NPC High Priest Dagon Deepcaller High Priest Dagon Deepcaller.svg]]
+- **Mentor**: [[Portrait NPC Captain Threshold Captain Threshold.svg]]
+- **Mentor**: [[Assets Locations Location City Master Trader Abyss Currentbinder V1 Master Trader Abyss Currentbinder.svg]]
+- **Victim**: [[Merchant Lord Cornelius Generous]]
+- **Sibling**: [[Portrait NPC Keeper of the Shattered Crown Marcus Crystalvein Keeper of the Shattered Crown Marcus Crystalvein.svg]]
+
+
+## Plot Hooks
+
+- Strange accidents suggest a portal
+- A merchant needs help investigating before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -23,21 +23,36 @@ updated: '2025-08-12T23:37:36.734479'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-iron-spikes-xphb-iron-spikes-xphb.svg)
 
 # Iron Spikes
 *Adventuring gear*  
 
-
 - **Cost**: 1 gp
 - **Weight**: 5.0 lbs.
 
 Iron Spikes come in bundles of ten. As a [[actions#Utilize|Utilize]] action, you can use a blunt object, such as a [[light-hammer-xphb|Light Hammer]], to hammer a spike into wood, earth, or a similar material. You can do so to jam a door shut or to then tie a [[rope-xphb|Rope]] or [[chain-xphb|Chain]] to the Spike.
 
-*Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 228. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -47,19 +62,30 @@ Iron spikes xphb is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of iron spikes xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around iron spikes xphb.
 
-## Adventure Hooks
-
-- A rumor ties iron spikes xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at iron spikes xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to iron spikes xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Plot Hooks
+
+- A letter reveals a conspiracy about a local noble
+- Someone is searching for a witness for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

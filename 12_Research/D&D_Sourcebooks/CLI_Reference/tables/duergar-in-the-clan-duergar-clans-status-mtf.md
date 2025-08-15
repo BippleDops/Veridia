@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.353922'
 world: Both
 ---
 
-
 # Duergar in the Clan; Duergar Clan's Status
 *Source: Mordenkainen's Tome of Foes p. 84* 
 
@@ -39,6 +38,24 @@ world: Both
 | 6 | Refugees. Defeated by enemies, few survivors |
 ^duergar-clans-status
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Duergar in the clan duergar clans status mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -47,19 +64,30 @@ Duergar in the clan duergar clans status mtf is a undersea element of the settin
 
 Legends speak of duergar in the clan duergar clans status mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around duergar in the clan duergar clans status mtf.
 
-## Adventure Hooks
-
-- A rumor ties duergar in the clan duergar clans status mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at duergar in the clan duergar clans status mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to duergar in the clan duergar clans status mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Plot Hooks
+
+- A document has gone missing and evil awakens
+- A journal reveals ancient history about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

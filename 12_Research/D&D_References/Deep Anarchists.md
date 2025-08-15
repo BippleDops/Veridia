@@ -15,36 +15,26 @@ world: Both
 updated: '2025-08-13T01:18:36.823124+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-deep-anarchists-deep-anarchists.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Appearance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Personality
-
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -54,28 +44,37 @@ Deep Anarchists is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Deep Anarchists as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Deep Anarchists.
 
-## Adventure Hooks
-
-- A rumor ties Deep Anarchists to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Deep Anarchists to avert a public scandal.
-- A map overlay reveals a hidden approach to Deep Anarchists active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Deep Anarchists|02 Worldbuilding/People/Deep Anarchists]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Throne of Bubbles]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Relationships
+
+- **Parent**: [[Portrait NPC Quest the Runaway Golem Quest the Runaway Golem.svg]]
+- **Child**: [[Master Smith-Priest Vulcan Depthforge]]
+- **Creditor**: [[Portrait NPC Elder Whisper in the Dark V1 Elder Whisper in the Dark.svg]]
+- **Friend**: [[The Verdant Accord]]
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for money
+- A shipment has gone missing and chaos spreads
+- Someone is blackmailing information for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

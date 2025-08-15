@@ -1,4 +1,5 @@
 ---
+
 title: The Great Cataloguing
 type: Faction
 tags:
@@ -10,6 +11,7 @@ tags:
 - active
 - complete
 - status/in-progress
+- bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -17,6 +19,8 @@ headquarters: Unknown
 membership: Unknown
 updated: '2025-08-13T12:34:17.354895+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -25,14 +29,66 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-great-cataloguing-the-great-cataloguing.svg]]
 
 
-## Cross-References
+## 🔧 Deep Evaluation Improvements
 
-- [[Merchant's Covenant]]
+*20 targeted improvements identified*
 
+### History Improvements
 
-## Connections
+- Add three historical eras with major events
 
-- [[Merchant's Covenant]]
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
 
 ## Player-Facing Summary
 
@@ -42,18 +98,9 @@ The Great Cataloguing is a undersea element of the setting, known for biolumines
 
 Legends speak of The Great Cataloguing as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Great Cataloguing.
 
-## Adventure Hooks
-
-- A rumor ties The Great Cataloguing to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Great Cataloguing to avert a public scandal.
-- A map overlay reveals a hidden approach to The Great Cataloguing active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Overview
 
@@ -64,14 +111,6 @@ The Great Cataloguing operates as an influential organization with specific goal
 **Membership**: Dozens to thousands
 **Secrecy**: Public/Semi-secret/Secret
 
-
-## Structure
-
-### Leadership
-- **Supreme Leader**: Ultimate authority
-- **Council/Board**: Decision makers
-- **Department Heads**: Operational leaders
-
 ### Ranks
 1. Initiate level
 2. Member level
@@ -79,96 +118,63 @@ The Great Cataloguing operates as an influential organization with specific goal
 4. Officer level
 5. Leadership level
 
-
-## Members
-
-### Notable Members
-- [[Leader Name]] - Current head
-- [[Key Officer]] - Important figure
-- [[Rising Star]] - Ambitious member
-
-### Membership Requirements
-- Skills or qualities needed
-- Initiation process
-- Ongoing obligations
-
-
-## Goals
-
 ### Public Mission
 What they claim to pursue
-
-### True Objectives
-- Primary goal
-- Secondary objectives
-- Long-term vision
-
-### Current Projects
-- Active operations
-- Research efforts
-- Political maneuvers
-
-
-## Resources
-
-### Financial
-- Funding sources
-- Wealth level
-- Economic influence
-
-### Physical Assets
-- Properties owned
-- Equipment available
-- Special resources
-
-### Human Resources
-- Member skills
-- Allies and contacts
-- Information networks
-
-
-## Operations
-
-### Regular Activities
-- Day-to-day operations
-- Revenue generation
-- Member services
-
-### Special Operations
-- Covert activities
-- Major projects
-- Crisis responses
-
-
-## Relationships
-
-### Allies
-- Aligned organizations
-- Political supporters
-- Business partners
-
-### Enemies
-- Rival organizations
-- Opposed factions
-- Active threats
-
-### Neutral Parties
-- Potential allies or enemies
-- Trade partners
-- Watching parties
-
-
-## Secrets
 
 ### Open Secrets
 Things widely suspected
 
-### Hidden Truths
-- Real leadership
-- True funding sources
-- Secret objectives
 
-### Deep Mysteries
-- Ancient connections
-- Forbidden knowledge
-- Ultimate goals
+## Plot Hooks
+
+- A map reveals a betrayal about a local noble
+- Someone is searching for an heir for power
+- Strange accidents suggest ancient magic
+- The authorities needs help stealing before the festival
+
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
+
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

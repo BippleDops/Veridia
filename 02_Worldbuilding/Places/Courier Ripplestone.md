@@ -1,4 +1,5 @@
 ---
+
 title: Courier Ripplestone
 type: Location
 tags:
@@ -18,6 +19,8 @@ population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.759468+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,24 +29,66 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-courier-ripplestone-courier-ripplestone.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## History
+*20 targeted improvements identified*
 
-TODO
-## Layout
+### History Improvements
 
-TODO
-## Notables
+- Add three historical eras with major events
 
-TODO
-## Threats
+### Culture Improvements
 
-TODO
-## Hooks
+- Define unique cultural practices and taboos
 
-TODO
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
 
 ## Player-Facing Summary
 
@@ -53,16 +98,6 @@ Courier Ripplestone is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Courier Ripplestone as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Courier Ripplestone.
 
-## Adventure Hooks
-
-- A rumor ties Courier Ripplestone to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Courier Ripplestone to avert a public scandal.
-- A map overlay reveals a hidden approach to Courier Ripplestone active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -70,42 +105,9 @@ Legends speak of Courier Ripplestone as a nexus where past and present converge.
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Courier Ripplestone]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Current Riders Guild]]
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-official-memory-keepers-v1-official-memory-keepers.svg]]
-- [[04_Resources_Assets_Locations_location-city-diplomatic-dining-protocol-diplomatic-dining-protocol.svg]]
-- [[04_Resources_Assets_Locations_location-city-shipwreck-cove-shipwreck-cove.svg]]
-
 
 ## Sensory Details
 
@@ -115,7 +117,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: The aroma of fresh bread wafts from bakeries
 
-
 ## Description
 
 Courier Ripplestone is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -123,35 +124,7 @@ Courier Ripplestone is a notable location characterized by its unique features a
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Courier Ripplestone
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -164,15 +137,55 @@ Ongoing situations affecting Courier Ripplestone:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Courier Ripplestone
+## Secret Connections
 
-### Whispered Rumors
-- Stories that may or may not be true
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Stars
+
+
+## Trade Importance
+
+Key stop on spices trade route
+
+
+## Plot Hooks
+
+- A noble needs help investigating before winter
+- Someone is hunting an heir for money
+- A letter reveals ancient history about the cult
+- Strange accidents suggest a conspiracy
+
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
+
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

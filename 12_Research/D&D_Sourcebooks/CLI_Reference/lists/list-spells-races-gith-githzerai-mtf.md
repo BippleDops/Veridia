@@ -22,19 +22,22 @@ world: Both
 ---
 
 
-# Spells for Gith (Githzerai)
+## 🔧 Deep Evaluation Improvements
 
-## Cantrip
+*20 targeted improvements identified*
 
-- [[/03_Mechanics/CLI/spells/mage-hand-xphb "XPHB"|Mage Hand]] at class level 5
+### Connection Improvements
 
-## 1st Level
+- Add cross-references to related notes
 
-- [[/03_Mechanics/CLI/spells/shield-xphb "XPHB"|Shield]] at class level 5
+### Enhancement Improvements
 
-## 2nd Level
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[/03_Mechanics/CLI/spells/detect-thoughts-xphb "XPHB"|Detect Thoughts]] at class level 5
 
 ## Player-Facing Summary
 
@@ -44,19 +47,17 @@ List spells races gith githzerai mtf is a undersea element of the setting, known
 
 Legends speak of list spells races gith githzerai mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells races gith githzerai mtf.
 
-## Adventure Hooks
-
-- A rumor ties list spells races gith githzerai mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells races gith githzerai mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells races gith githzerai mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help delivering before dawn
+- A noble needs help finding before winter
+- The authorities needs help finding before the new moon

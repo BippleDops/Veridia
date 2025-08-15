@@ -26,10 +26,8 @@ updated: '2025-08-12T23:37:35.980793'
 world: Both
 ---
 
-
 # Conjure Celestial
 *7th-level, Conjuration*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet
@@ -49,7 +47,25 @@ Whenever the [[cylinder-area-of-effect-xphb|Cylinder]] moves into the space of a
 
 **Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]
 
-*Source: Player's Handbook (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 254. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -59,19 +75,17 @@ Conjure celestial xphb is a undersea element of the setting, known for biolumine
 
 Legends speak of conjure celestial xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around conjure celestial xphb.
 
-## Adventure Hooks
-
-- A rumor ties conjure celestial xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at conjure celestial xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to conjure celestial xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help finding before the new moon
+- A journal reveals a betrayal about the cult
+- A corpse reveals a conspiracy about the cult

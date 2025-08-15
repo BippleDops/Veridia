@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.773511+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-merfolk-wavebender-xmm-merfolk-wavebender-xmm.svg)
 
@@ -39,6 +36,24 @@ world: Both
 *Source: Monster Manual (2024) p. 209*  
 
 These merfolk mages use magic to manipulate water, storms, and sea creatures to aid them.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Merfolk
 
@@ -86,13 +101,13 @@ Beneath the waves dwell merfolk, mysterious creatures that merge the features of
     "name": "Multiattack"
   - "desc": "Melee  or Ranged Attack Roll: +7, reach 5 ft. or range 60 ft. Hit:\
       \ 20 (3d10 + 4) Cold damage. If the target is a Large or smaller creature, it\
-      \ has the [[conditions#Prone|Prone]] condition."
+      \ has the [[conditions#prone|Prone]] condition."
     "name": "Aquatic Burst"
   - "desc": "The merfolk casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 15):\n\
       \nAt will: [[elementalism-xphb|Elementalism]],\
-      \ [[light-xphb|Light]]\n\n1/day each: [[control-water-xphb|Control\
-      \ Water]], [[create-or-destroy-water-xphb|Create or Destroy\
+      \ [[light-xphb|Light]]\n\n1/day each: [[control-water-xphb|Control\]]
+      \ Water]], [[create-or-destroy-water-xphb|Create or Destroy\]]
       \ Water]]"
     "name": "Spellcasting"
 "reactions":
@@ -119,19 +134,29 @@ Merfolk wavebender xmm is a undersea element of the setting, known for biolumine
 
 Legends speak of merfolk wavebender xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around merfolk wavebender xmm.
 
-## Adventure Hooks
-
-- A rumor ties merfolk wavebender xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at merfolk wavebender xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to merfolk wavebender xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing a artifact for power
+- Strange sightings suggest a conspiracy
+- Strange disappearances suggest a portal
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

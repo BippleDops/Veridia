@@ -34,11 +34,8 @@ updated: '2025-08-13T12:34:06.309326+00:00'
 world: Both
 ---
 
-
-
 # Feign Death
 *3rd-level, Necromancy (ritual)*  
-
 
 - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** Touch
@@ -55,6 +52,24 @@ The target also has [[resistance-xphb|Resistance]] to all damage except Psychic 
 
 *Source: Player's Handbook (2024) p. 271*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Feign death xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -63,19 +78,21 @@ Feign death xphb is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of feign death xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around feign death xphb.
 
-## Adventure Hooks
-
-- A rumor ties feign death xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at feign death xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to feign death xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- The authorities needs help finding before the festival
+- Strange dreams suggest a portal

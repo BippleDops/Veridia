@@ -37,15 +37,9 @@ Crew tips
 Risks
 - The profit can cost your name
 
-## Cross-References
-
-- [[Doctrine Quick Reference]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

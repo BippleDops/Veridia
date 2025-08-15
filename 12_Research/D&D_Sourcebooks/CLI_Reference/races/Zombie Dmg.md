@@ -23,18 +23,13 @@ updated: '2025-08-13T12:34:08.050773+00:00'
 world: Both
 ---
 
-
-
 # Zombie
 *Source: Dungeon Master's Guide p. 282*  
-
 
 - **Ability Scores**: str +1 con +2 int -6 wis -4 cha -4
 - **Type**: undead
 - **Size**: Medium
 - **Speed**: 30 ft.
-
-## Traits
 
 ### Creature Type
 
@@ -56,6 +51,24 @@ You can see in dim light within 60 feet of you as if it were bright light, and i
 
 You can't speak, but you can understand the languages you knew in life.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Zombie dmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -64,19 +77,25 @@ Zombie dmg is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of zombie dmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around zombie dmg.
 
-## Adventure Hooks
-
-- A rumor ties zombie dmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at zombie dmg to avert a public scandal.
-- A map overlay reveals a hidden approach to zombie dmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

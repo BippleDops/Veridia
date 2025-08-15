@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:35.495851+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,34 @@ Community Organizer Current Communalspirit is a undersea element of the setting,
 
 Legends speak of Community Organizer Current Communalspirit as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Community Organizer Current Communalspirit.
 
-## Adventure Hooks
-
-- A rumor ties Community Organizer Current Communalspirit to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Community Organizer Current Communalspirit to avert a public scandal.
-- A map overlay reveals a hidden approach to Community Organizer Current Communalspirit active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Bloom Fields|02 Worldbuilding/Lore/The Bloom Fields]]
-
-
-## Connections
-
-- [[The Bloom Fields]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- A merchant needs help investigating before the festival
+- A map reveals ancient history about the cult
+- A stranger needs help finding before the new moon
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

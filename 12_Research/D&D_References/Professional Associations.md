@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.440992+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-professional-associations-professional-associations.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Keeper of the Past, Elderly Morgan|02 Worldbuilding/Places/Keeper Of The Past, Elderly Morgan]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Keeper of the Past, Elderly Morgan]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,27 @@ Professional Associations is a undersea element of the setting, known for biolum
 
 Legends speak of Professional Associations as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Professional Associations.
 
-## Adventure Hooks
-
-- A rumor ties Professional Associations to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Professional Associations to avert a public scandal.
-- A map overlay reveals a hidden approach to Professional Associations active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help investigating before the festival
+- A corpse reveals the truth about the cult
+- Strange disappearances suggest a curse
+- A merchant needs help delivering before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

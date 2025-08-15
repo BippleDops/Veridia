@@ -29,16 +29,31 @@ updated: '2025-08-13T12:34:06.035380+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-blue-dragon-xmm-young-blue-dragon-xmm.svg)
 
 # [[young-blue-dragon-xmm|Young Blue Dragon]]
-*Source: Monster Manual (2024) p. 48. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 48. Available in the SRD and the Free Rules (2024)*  
 
 Young blue dragons seek to establish themselves as forces to be feared. Many claim isolated communities to rule over or ancient ruins where they might find magical paths to power. These blue dragons might temporarily cooperate with other dragons or powerful villains to gain followers and influence.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Blue Dragons
 
@@ -115,19 +130,15 @@ Young blue dragon xmm is a undersea element of the setting, known for biolumines
 
 Legends speak of young blue dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around young blue dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties young blue dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at young blue dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to young blue dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

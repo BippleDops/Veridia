@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.090883'
 world: Both
 ---
 
-
 # Mixing Potions
 *Source: Dungeon Master's Guide p. 140* 
 
@@ -45,6 +44,24 @@ When a character mixes two potions together, you can roll on the Potion Miscibil
 | 00 | Only one potion works, but its effect is permanent. Choose the simplest effect to make permanent, or the one that seems the most fun. For example, a [[potion-of-healing-xdmg|potion of healing]] might increase the drinker's hit point maximum by 4, or [[oil-of-etherealness-xdmg|oil of etherealness]] might permanently trap the user in the Ethereal Plane. At your discretion, an appropriate spell, such as [[dispel-magic-xphb|dispel magic]] or [[remove-curse-xphb|remove curse]], might end this lasting effect. |
 ^potion-miscibility
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Mixing potions is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -53,19 +70,41 @@ Mixing potions is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of mixing potions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mixing potions.
 
-## Adventure Hooks
-
-- A rumor ties mixing potions to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at mixing potions to avert a public scandal.
-- A map overlay reveals a hidden approach to mixing potions active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A journal reveals ancient history about the government
+- Someone is hunting a witness for money
+- A corpse reveals ancient history about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

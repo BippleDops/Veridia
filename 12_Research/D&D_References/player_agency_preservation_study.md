@@ -10,7 +10,23 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Player Agency Preservation Study
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Maintaining Player Choice in Complex Narrative Systems
 
@@ -133,12 +149,10 @@ decision_making_style: str  # "proactive", "reactive", "collaborative"
 ```
 
 Session agency metrics:
-```python
 meaningful_choices_count: int  # Number of significant decisions per session
 consequence_visibility_rate: float  # Percentage of choices with visible results
 player_satisfaction_score: int  # Post-session agency satisfaction rating
 choice_diversity_index: float  # Variety of choice types offered
-```
 
 ### Success Indicators
 
@@ -154,7 +168,6 @@ Healthy agency preservation shows:
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -162,3 +175,11 @@ Healthy agency preservation shows:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and war looms
+- A corpse reveals the truth about the cult
+- Strange disappearances suggest ancient magic
+- A journal reveals a betrayal about a local noble

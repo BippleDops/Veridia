@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.171625+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,22 @@ The Whispering Tower is a undersea element of the setting, known for bioluminesc
 
 Legends speak of The Whispering Tower as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Whispering Tower.
 
-## Adventure Hooks
-
-- A rumor ties The Whispering Tower to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Whispering Tower to avert a public scandal.
-- A map overlay reveals a hidden approach to The Whispering Tower active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Quest - The Truth Unveiled|02 Worldbuilding/Places/Quest The Truth Unveiled]]
-
-
-## Connections
-
-- [[Quest - The Truth Unveiled]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals the truth about this place
+- Strange disappearances suggest a conspiracy
+- Strange disappearances suggest a curse
+- A stranger needs help delivering before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -1,4 +1,5 @@
 ---
+
 title: Sorceress Luna Prismatic
 type: Location
 tags:
@@ -17,6 +18,8 @@ region: Unknown
 population: Unknown
 updated: '2025-08-13T12:34:16.691532+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -25,14 +28,69 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-sorceress-luna-prismatic-sorceress-luna-prismatic.svg]]
 
 
-## Cross-References
+## 🔧 Deep Evaluation Improvements
 
-- [[Inverted Ballroom Wing]]
+*20 targeted improvements identified*
 
+### History Improvements
 
-## Connections
+- Add three historical eras with major events
 
-- [[Inverted Ballroom Wing]]
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
 
 ## Player-Facing Summary
 
@@ -42,16 +100,6 @@ Sorceress Luna Prismatic is a undersea element of the setting, known for biolumi
 
 Legends speak of Sorceress Luna Prismatic as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sorceress Luna Prismatic.
 
-## Adventure Hooks
-
-- A rumor ties Sorceress Luna Prismatic to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Sorceress Luna Prismatic to avert a public scandal.
-- A map overlay reveals a hidden approach to Sorceress Luna Prismatic active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -59,33 +107,9 @@ Legends speak of Sorceress Luna Prismatic as a nexus where past and present conv
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-the-depth-market-v1-the-depth-market.svg]]
-- [[Magical Services]]
-- [[04_Resources_Assets_Locations_location-city-mourning-depths-v1-mourning-depths.svg]]
-
 
 ## Sensory Details
 
@@ -95,7 +119,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: The tang of salt air permeates everything
 
-
 ## Description
 
 Sorceress Luna Prismatic is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -103,47 +126,10 @@ Sorceress Luna Prismatic is a notable location characterized by its unique featu
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Sorceress Luna Prismatic
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
-
-## History
+**Goverce**: Local authority structure
 
 ### Founding
 Sorceress Luna Prismatic was established in the distant past, growing from humble beginnings to its current state.
-
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
-
 
 ## Current Events
 
@@ -156,15 +142,14 @@ Ongoing situations affecting Sorceress Luna Prismatic:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Sorceress Luna Prismatic
+## Prophecy Connection
 
-### Whispered Rumors
-- Stories that may or may not be true
+Mentioned in The First Prophecy of Winds
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+
+## Plot Hooks
+
+- Strange dreams suggest a curse
+- A stranger needs help delivering before winter
+- Strange dreams suggest a conspiracy

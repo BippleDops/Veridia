@@ -1,4 +1,5 @@
 ---
+
 title: Arts Communities
 type: Location
 tags:
@@ -10,6 +11,7 @@ tags:
 - location
 - complete
 - status/in-progress
+- conspiracy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -17,6 +19,8 @@ region: Unknown
 population: Unknown
 updated: '2025-08-13T12:34:16.913257+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -25,14 +29,72 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-arts-communities-arts-communities.svg]]
 
 
-## Cross-References
+## 🔧 Deep Evaluation Improvements
 
-- [[Keeper of the Past, Elderly Morgan|02 Worldbuilding/Places/Keeper Of The Past, Elderly Morgan]]
+*20 targeted improvements identified*
 
+### History Improvements
 
-## Connections
+- Add three historical eras with major events
 
-- [[Keeper of the Past, Elderly Morgan]]
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
 
 ## Player-Facing Summary
 
@@ -42,16 +104,6 @@ Arts Communities is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of Arts Communities as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Arts Communities.
 
-## Adventure Hooks
-
-- A rumor ties Arts Communities to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Arts Communities to avert a public scandal.
-- A map overlay reveals a hidden approach to Arts Communities active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -59,33 +111,9 @@ Legends speak of Arts Communities as a nexus where past and present converge. Lo
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-pressure-polyps-pressure-polyps.svg]]
-- [[04_Resources_Assets_Locations_location-city-the-maritime-quarter-v1-the-maritime-quarter.svg]]
-- [[04_Resources_Assets_Locations_location-city-pelagic-cup-v1-pelagic-cup.svg]]
-
 
 ## Sensory Details
 
@@ -95,7 +123,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: Wood smoke curls from countless chimneys
 
-
 ## Description
 
 Arts Communities is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -103,47 +130,10 @@ Arts Communities is a notable location characterized by its unique features and 
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Arts Communities
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
-
-## History
+**Goverce**: Local authority structure
 
 ### Founding
 Arts Communities was established in the distant past, growing from humble beginnings to its current state.
-
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
-
 
 ## Current Events
 
@@ -156,15 +146,21 @@ Ongoing situations affecting Arts Communities:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Arts Communities
+## Economic Structure
 
-### Whispered Rumors
-- Stories that may or may not be true
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

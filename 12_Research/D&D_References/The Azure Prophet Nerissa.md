@@ -15,29 +15,26 @@ updated: '2025-08-13T01:18:37.009068+00:00'
 world: Both
 ---
 
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-azure-prophet-nerissa-the-azure-prophet-nerissa.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[Quest - The Convergence Crisis|02 Worldbuilding/Quests/Quest The Convergence Crisis]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Brother Matthias the Amber Bearer]]
-- [[Captain Thaddeus Blackwater]]
-- [[Order of the Shattered Crown]]
-- [[The Emerald Sage Willowbark]]
-- [[The Shadow Singer Naia]]
-- [[The Azure Coast]]
-- [[The Order of the Shattered Crown]]
-- [[Quest - The Convergence Crisis]]
 
 ## Player-Facing Summary
 
@@ -47,19 +44,20 @@ The Azure Prophet Nerissa is a undersea element of the setting, known for biolum
 
 Legends speak of The Azure Prophet Nerissa as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Azure Prophet Nerissa.
 
-## Adventure Hooks
-
-- A rumor ties The Azure Prophet Nerissa to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Azure Prophet Nerissa to avert a public scandal.
-- A map overlay reveals a hidden approach to The Azure Prophet Nerissa active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

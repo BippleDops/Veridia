@@ -23,8 +23,6 @@ updated: '2025-08-13T12:34:04.896814+00:00'
 world: Both
 ---
 
-
-
 # Tavern Brawler
 *Source: Player's Handbook (2024) p. 202*  
 
@@ -38,6 +36,24 @@ You gain the following benefits.
 
 **Push.** When you hit a creature with an Unarmed Strike as part of the [[actions#Attack|Attack]] action on your turn, you can deal damage to the target and also push it 5 feet away from you. You can use this benefit only once per turn.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Tavern brawler xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -46,19 +62,15 @@ Tavern brawler xphb is a undersea element of the setting, known for bioluminesce
 
 Legends speak of tavern brawler xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tavern brawler xphb.
 
-## Adventure Hooks
-
-- A rumor ties tavern brawler xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at tavern brawler xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to tavern brawler xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

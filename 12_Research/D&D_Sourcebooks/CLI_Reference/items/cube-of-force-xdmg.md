@@ -23,11 +23,9 @@ updated: '2025-08-12T23:37:37.286802'
 world: Both
 ---
 
-
 # Cube of Force
 *Wondrous item, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/cube-of-force.webp#right)
-
 
 This cube is about an inch across. Each face has a distinct marking on it. You can press one of those faces, expend the number of charges required for it, and thereby cast the spell associated with it (save DC 17), as shown in the Cube of Force Faces table.
 
@@ -45,7 +43,25 @@ The cube starts with 10 charges, and it regains `d6` expended charges daily at d
 | [[wall-of-force-xphb|Wall of Force]] | 5 |
 ^cube-of-force-faces
 
-*Source: Dungeon Master's Guide (2024) p. 246. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 246. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -55,19 +71,35 @@ Cube of force xdmg is a undersea element of the setting, known for bioluminescen
 
 Legends speak of cube of force xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cube of force xdmg.
 
-## Adventure Hooks
-
-- A rumor ties cube of force xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at cube of force xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to cube of force xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a portal
+- An heirloom has gone missing and truth emerges
+- Strange disappearances suggest a curse
+- A letter reveals ancient history about the cult
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

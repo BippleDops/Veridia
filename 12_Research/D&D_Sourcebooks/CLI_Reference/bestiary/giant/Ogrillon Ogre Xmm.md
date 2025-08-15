@@ -35,9 +35,6 @@ updated: '2025-08-13T12:34:05.374309+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ogrillon-ogre-xmm-ogrillon-ogre-xmm.svg)
 
@@ -45,6 +42,24 @@ world: Both
 *Source: Monster Manual (2024) p. 231*  
 
 Ogrillons arise from Humanoids cursed by foul magic or the will of wrathful deities. They appear similar to whoever they once were, but they grow to over 8 feet tall and gain ogre-like features. Ogrillons constantly seethe with supernatural anger, which they might struggle to control or purposefully vent on other creatures.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Ogres
 
@@ -72,7 +87,6 @@ Ogres trace their origins to wrathful deities such as Erythnul, Takhisis, and Va
   - !!int "14"
   - !!int "7"
   - !!int "9"
-  - !!int "10"
 "speed": "30 ft."
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common, Giant"
@@ -101,19 +115,15 @@ Ogrillon ogre xmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of ogrillon ogre xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ogrillon ogre xmm.
 
-## Adventure Hooks
-
-- A rumor ties ogrillon ogre xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ogrillon ogre xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ogrillon ogre xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes

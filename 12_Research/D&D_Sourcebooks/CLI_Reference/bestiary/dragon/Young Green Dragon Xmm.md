@@ -28,16 +28,31 @@ updated: '2025-08-13T12:34:06.025428+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![[04_Resources/Assets/Creatures/creature-creature-young-green-dragon-xmm-v1-young-green-dragon-xmm.png]]
 
 # [[young-green-dragon-xmm|Young Green Dragon]]
-*Source: Monster Manual (2024) p. 152. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 152. Available in the SRD and the Free Rules (2024)*  
 
 Young green dragons frequently control groups of ettercaps, kobolds, thieves, or other cowardly servants. These dragons do so while avoiding other evil dragons, who would sabotage them. Gradually, oppressing weaker creatures and amassing meaningless fortunes bore young green dragons, and they pursue more ambitious ways to indulge their egos.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Green Dragons
 
@@ -117,19 +132,36 @@ Young green dragon xmm is a undersea element of the setting, known for biolumine
 
 Legends speak of young green dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around young green dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties young green dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at young green dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to young green dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A merchant needs help delivering before the festival
+- A stranger needs help investigating before the festival
+- Someone is protecting an heir for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

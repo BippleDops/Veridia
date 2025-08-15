@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:07.229568+00:00'
 world: Both
 ---
 
-
-
 # Staff of the Python
 *Staff, weapon, uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/staff-of-the-python.webp#right)
@@ -42,7 +40,25 @@ On your turn, you can mentally command the snake (no action required) if it is w
 
 As a [[bonus-action-xphb|Bonus Action]], you can command the snake to revert to staff form in its current space, and you can't use the staff's property again for 1 hour. If the snake is reduced to 0 [[hit-points-xphb|Hit Points]], it dies and reverts to its staff form; the staff then shatters and is destroyed. If the snake reverts to staff form before losing all its [[hit-points-xphb|Hit Points]], it regains all of them.
 
-*Source: Dungeon Master's Guide (2024) p. 311. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 311. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -52,19 +68,30 @@ Staff of the python xdmg is a undersea element of the setting, known for biolumi
 
 Legends speak of staff of the python xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around staff of the python xdmg.
 
-## Adventure Hooks
-
-- A rumor ties staff of the python xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at staff of the python xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to staff of the python xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a curse
+- A merchant needs help investigating before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -1,5 +1,6 @@
 ---
-title: Deep Priest Covenant
+
+title: Deep Priest Covet
 type: Npc
 tags:
 - aquabyssos
@@ -10,6 +11,7 @@ tags:
 - active
 - complete
 - status/in-progress
+- bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,102 +20,93 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.748755+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-deep-priest-covenant-deep-priest-covenant.svg]]
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-deep-priest-covet-deep-priest-covet.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward avoidance
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward avoidance
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
 
 ## Player-Facing Summary
 
-Deep Priest Covenant is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+Deep Priest Covet is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of Deep Priest Covenant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Deep Priest Covenant.
-
-## Adventure Hooks
-
-- A rumor ties Deep Priest Covenant to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Deep Priest Covenant to avert a public scandal.
-- A map overlay reveals a hidden approach to Deep Priest Covenant active only during specific tides/storms.
-
-
+Legends speak of Deep Priest Covet as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Deep Priest Covet.
 
 ## Background
 
-Deep-Priest Covenant's path to their current position involved:
+Deep-Priest Covet's path to their current position involved:
 
 - **Early Life**: Formative experiences that shaped their worldview
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
 
 ## Motivations
 
@@ -124,19 +117,13 @@ Deep-Priest Covenant's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
-Deep-Priest Covenant harbors secrets that could change everything:
+Deep-Priest Covet harbors secrets that could change everything:
 
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Stolen identity
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -148,24 +135,20 @@ Deep-Priest Covenant harbors secrets that could change everything:
 
 ## Current Activities
 
-Deep-Priest Covenant is currently engaged in:
+Deep-Priest Covet is currently engaged in:
 
 - Managing their regular responsibilities
 - Pursuing a specific objective
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
-1. **The Request**: Deep-Priest Covenant needs assistance with a delicate matter
-2. **The Opposition**: Someone wants Deep-Priest Covenant stopped or removed
-3. **The Secret**: Information about Deep-Priest Covenant's past surfaces
-4. **The Alliance**: Opportunity to work with or against Deep-Priest Covenant
-5. **The Crisis**: Deep-Priest Covenant is caught in a situation requiring intervention
-
-
+1. **The Request**: Deep-Priest Covet needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Deep-Priest Covet stopped or removed
+3. **The Secret**: Information about Deep-Priest Covet's past surfaces
+4. **The Alliance**: Opportunity to work with or against Deep-Priest Covet
+5. **The Crisis**: Deep-Priest Covet is caught in a situation requiring intervention
 
 ## Notable Quotes
 
@@ -179,20 +162,33 @@ Deep-Priest Covenant is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Deep-Priest Covenant]]
+## Secret Connections
 
-<!-- enriched: true -->
-
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
 
+## Cultural Practices
 
-## Relationship Web
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
 
-- [[04_Resources_Assets_Locations_location-city-dock-master-anchor-holdfast-dock-master-anchor-holdfast.svg]]: *sworn enemy*
-- [[04_Resources_Assets_Symbols_symbol-heraldry-the-sunken-observatory-the-sunken-observatory.svg]]: *secret ally*
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
 
-## Connections
 
-- [[The Restoration Movement]]
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

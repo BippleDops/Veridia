@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.792360'
 world: Both
 ---
 
-
 # Forest Encounters (Levels 17—20)
 *Source: Xanathar's Guide to Everything p. 97* 
 
@@ -34,7 +33,7 @@ world: Both
 | 01-05 | 1 [[young-green-dragon-xmm|young green dragon]] |
 | 06-10 | 1 [[treant-xmm|treant]] |
 | 11-13 | 1 [[guardian-naga-xmm|guardian naga]] |
-| 14-16 | `d10` [[revenant-xmm|revenants]] |
+| 14-16 | `d10` [[revet-xmm|revets]] |
 | 17-19 | `1d8 + 1` [[unicorn-xmm|unicorns]] |
 | 20-22 | `d3` [[grick-ancient-xmm|grick alphas]] |
 | 23-25 | For a few hundred feet, wherever the characters step, flowers bloom and emit soft light. |
@@ -57,6 +56,24 @@ world: Both
 | 00 | 1 [[ancient-gold-dragon-xmm|ancient gold dragon]] |
 ^forest-encounters-levels-1720
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Forest encounters levels 1720 xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -65,19 +82,16 @@ Forest encounters levels 1720 xge is a undersea element of the setting, known fo
 
 Legends speak of forest encounters levels 1720 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around forest encounters levels 1720 xge.
 
-## Adventure Hooks
-
-- A rumor ties forest encounters levels 1720 xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at forest encounters levels 1720 xge to avert a public scandal.
-- A map overlay reveals a hidden approach to forest encounters levels 1720 xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help delivering before the new moon
+- Strange accidents suggest a portal

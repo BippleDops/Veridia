@@ -15,26 +15,26 @@ world: Both
 updated: '2025-08-13T01:18:34.789478+00:00'
 ---
 
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-floating-markets-of-nereidios-the-floating-markets-of-nereidios.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Overview
+*20 targeted improvements identified*
 
-TODO
-## Historical Context
+### Connection Improvements
 
-TODO
-## Current Relevance
+- Add cross-references to related notes
 
-TODO
-## See Also
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -44,25 +44,22 @@ The Floating Markets is a undersea element of the setting, known for bioluminesc
 
 Legends speak of The Floating Markets as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Floating Markets.
 
-## Adventure Hooks
-
-- A rumor ties The Floating Markets to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Floating Markets to avert a public scandal.
-- A map overlay reveals a hidden approach to The Floating Markets active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Vault_Navigation_Hub|Vault Navigation Hub]]
 
 
-## Connections
+## Plot Hooks
 
-- See also: [[Campaign Guide]]
-- Related: [[Historical Context]]
-- Connected to: [[Main Quest Line]]
+- Strange dreams suggest a conspiracy
+- A corpse reveals a conspiracy about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

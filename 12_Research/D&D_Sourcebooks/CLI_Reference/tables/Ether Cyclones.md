@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.856246+00:00'
 world: Both
 ---
 
-
-
 # Ether Cyclones
 *Source: Dungeon Master's Guide p. 49* 
 
@@ -38,6 +36,24 @@ world: Both
 | 20 | Hurled into the Astral Plane |
 ^ether-cyclones
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Ether cyclones is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -46,19 +62,40 @@ Ether cyclones is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of ether cyclones as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ether cyclones.
 
-## Adventure Hooks
-
-- A rumor ties ether cyclones to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ether cyclones to avert a public scandal.
-- A map overlay reveals a hidden approach to ether cyclones active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting an heir for love
+- Strange sightings suggest a conspiracy
+- An heirloom has gone missing and chaos spreads
+- A shipment has gone missing and war looms
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

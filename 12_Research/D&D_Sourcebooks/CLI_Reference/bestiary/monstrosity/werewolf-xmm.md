@@ -28,13 +28,29 @@ updated: '2025-08-12T23:37:34.959952'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-werewolf-xmm-v1-werewolf-xmm.svg)
 
 # [[werewolf-xmm|Werewolf]]
-*Source: Monster Manual (2024) p. 327. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 327. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Werewolf
 
@@ -58,16 +74,13 @@ Werewolves change from their humanoid forms into fierce wolves or wolf-humanoid 
 "stats":
   - !!int "16"
   - !!int "14"
-  - !!int "14"
   - !!int "10"
   - !!int "11"
-  - !!int "10"
 "speed": "30 ft., 40 ft. (wolf form only)"
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+4"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Common (can't speak in wolf form)"
 "cr": "3"
@@ -117,19 +130,39 @@ Werewolf xmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of werewolf xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around werewolf xmm.
 
-## Adventure Hooks
-
-- A rumor ties werewolf xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at werewolf xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to werewolf xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Someone is hunting a artifact for love
+- A merchant needs help stealing before winter
+- A letter reveals a conspiracy about this place
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

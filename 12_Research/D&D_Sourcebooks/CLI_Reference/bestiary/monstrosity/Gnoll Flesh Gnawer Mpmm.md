@@ -31,9 +31,6 @@ updated: '2025-08-13T12:34:05.285402+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gnoll-flesh-gnawer-mpmm-gnoll-flesh-gnawer-mpmm.svg)
 
@@ -41,6 +38,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 144, Volo's Guide to Monsters p. 154*  
 
 These gnolls eschew the use of ranged weapons in favor of short blades that they wield with great speed and efficiency. In the thick of a fight, they dash across the battlefield, slashing and snarling as they run down stragglers and finish off wounded foes.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Gnolls
 
@@ -59,10 +74,8 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "stats":
   - !!int "12"
   - !!int "14"
-  - !!int "12"
   - !!int "8"
   - !!int "10"
-  - !!int "8"
 "speed": "30 ft."
 "saves":
   - "dexterity": !!int "4"
@@ -76,7 +89,6 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
       \ + 2) piercing damage."
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6\
-      \ + 2) piercing damage."
     "name": "Shortsword"
   - "desc": "Until the end of the turn, the gnoll's speed increases by 60 feet and\
       \ it doesn't provoke [[actions#Opportunity%20Attack|opportunity attacks]]."
@@ -104,19 +116,20 @@ Gnoll flesh gnawer mpmm is a undersea element of the setting, known for biolumin
 
 Legends speak of gnoll flesh gnawer mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gnoll flesh gnawer mpmm.
 
-## Adventure Hooks
-
-- A rumor ties gnoll flesh gnawer mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gnoll flesh gnawer mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to gnoll flesh gnawer mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

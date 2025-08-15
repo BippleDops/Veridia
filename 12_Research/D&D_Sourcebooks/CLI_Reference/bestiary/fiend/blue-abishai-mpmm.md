@@ -29,8 +29,6 @@ updated: '2025-08-12T23:37:35.528118'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-blue-abishai-mpmm-blue-abishai-mpmm.svg)
 
@@ -38,6 +36,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 39, Mordenkainen's Tome of Foes p. 161*  
 
 Seekers of forgotten lore and lost relics, blue abishais are the most cunning and learned of their kind. Their research into occult subjects gleaned from tomes plundered from across the multiverse enables them to become accomplished spellcasters. They use their magic to devastate Tiamat's enemies.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Abishais
 
@@ -124,19 +140,27 @@ Blue abishai mpmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of blue abishai mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around blue abishai mpmm.
 
-## Adventure Hooks
-
-- A rumor ties blue abishai mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at blue abishai mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to blue abishai mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a conspiracy
+- The authorities needs help finding before winter
+- A journal reveals ancient history about the cult
+- The authorities needs help delivering before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

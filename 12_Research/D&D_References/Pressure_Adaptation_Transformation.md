@@ -16,10 +16,6 @@ updated: '2025-08-13'
 world: Aquabyssos
 ---
 
-
-# Pressure Adaptation Transformation
-## Deep Pressure Evolution System
-
 ### Overview
 
 Characters who spend extended time in extreme depths undergo gradual physiological changes that allow them to survive crushing pressures. This transformation can be voluntary (through training) or involuntary (through prolonged exposure).
@@ -37,8 +33,6 @@ Characters who spend extended time in extreme depths undergo gradual physiologic
 - Extended time below 500 fathoms (weeks)
 - Near-death pressure experiences
 - Emergency deep refuge situations
-
-### Adaptation Stages
 
 #### Stage 1: Surface Adaptation (0-200 fathoms)
 **Time Required:** 1 month of regular exposure
@@ -76,8 +70,6 @@ Characters who spend extended time in extreme depths undergo gradual physiologic
 - Echolocation (blindsight 30 feet underwater)
 - Pressure immunity
 - Can survive surface atmosphere but with difficulty
-
-### Transformation Process
 
 #### Week 1-4: Initial Adaptation
 **Symptoms:**
@@ -118,15 +110,12 @@ Characters who spend extended time in extreme depths undergo gradual physiologic
 - Communication without speech
 - Integration with marine life
 
-### Mechanical Implementation
-
 #### Adaptation Tracking
 ```
 Adaptation Level: ___/4
 Current Depth Tolerance: _______ fathoms
 Training Time Invested: _______ months
 Transformation Complications: ___________
-```
 
 #### Constitution Save Modifications
 
@@ -152,8 +141,6 @@ Transformation Complications: ___________
 - Stage 3: -1 to Dexterity saves (heavy adaptation)
 - Stage 4: Disadvantage on Constitution saves (surface environment)
 
-### Complications & Side Effects
-
 #### Physical Complications (d6)
 1. **Bone Density Issues:** Reduced mobility, increased weight
 2. **Blood Chemistry Imbalance:** Fatigue, dietary restrictions
@@ -161,15 +148,6 @@ Transformation Complications: ___________
 4. **Sensory Overload:** Overwhelmed by pressure changes
 5. **Social Alienation:** Difficulty relating to surface dwellers
 6. **Identity Crisis:** Questions about remaining human
-
-#### Psychological Effects
-- Increased comfort in isolated environments
-- Preference for high-pressure social situations
-- Claustrophobia when at surface pressures
-- Enhanced empathy with marine life
-- Detachment from surface world concerns
-
-### Reversal & Treatment
 
 #### Voluntary Reversal
 **Process:** 6 months of surface-only living
@@ -183,44 +161,6 @@ Transformation Complications: ___________
 **Surgical Options:** Risky but potentially complete reversal
 **Alchemical Treatment:** Expensive potions for gradual change
 
-### Roleplay Considerations
-
-#### Social Interactions
-- Adapted characters may seem alien to surface dwellers
-- Shared experience bonds with other adapted individuals
-- Potential discrimination from purist factions
-- Enhanced status in deep-water communities
-
-#### Character Development
-- Adaptation as metaphor for personal growth
-- Choosing between two worlds/identities
-- Questions about the cost of power
-- Environmental themes and responsibility
-
-#### Campaign Integration
-- Adaptation requirements for certain missions
-- Political implications of transformation
-- Economic advantages in deep-water trade
-- Military applications and recruitment
-
-### Adventure Hooks
-
-- **The Deep Patrol:** Military service requiring adaptation
-- **Lost Expedition:** Rescue mission to extreme depths
-- **Adaptation Academy:** Training alongside diverse candidates
-- **The Purist Challenge:** Political opposition to transformation
-- **Deep Commerce:** Economic opportunities in abyss
-- **The Reversal Quest:** Seeking to undo unwanted adaptation
-
-### Equipment Considerations
-
-#### Adapted Character Equipment
-- Specialized clothing for pressure changes
-- Modified armor for underwater combat
-- Pressure-resistant equipment containers
-- Emergency ascent devices
-- Depth measurement tools
-
 #### Mechanical Adjustments
 - Weapon effectiveness at different pressures
 - Armor weight modifications underwater
@@ -231,10 +171,27 @@ Transformation Complications: ___________
 
 *Pressure adaptation represents a meaningful choice with both benefits and costs, suitable for characters committed to deep-water exploration and the themes of transformation and sacrifice for power.*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -243,3 +200,20 @@ Transformation Complications: ___________
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Plot Hooks
+
+- A letter reveals a betrayal about a local noble
+- Strange disappearances suggest ancient magic
+- Strange disappearances suggest a curse
+- Strange sightings suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

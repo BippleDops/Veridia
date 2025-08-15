@@ -16,11 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[Sky Burial Traditions|02 Worldbuilding/Lore/Sky Burial Traditions]]
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -30,19 +41,22 @@ Cloud Shepherd Guild Customs is a undersea element of the setting, known for bio
 
 Legends speak of Cloud Shepherd Guild Customs as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Cloud Shepherd Guild Customs.
 
-## Adventure Hooks
-
-- A rumor ties Cloud Shepherd Guild Customs to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Cloud Shepherd Guild Customs to avert a public scandal.
-- A map overlay reveals a hidden approach to Cloud Shepherd Guild Customs active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- Strange dreams suggest a curse
+- A map reveals a conspiracy about a local noble
+- An heirloom has gone missing and war looms

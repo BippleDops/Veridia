@@ -1,4 +1,5 @@
 ---
+
 title: Refugee Camps
 type: Npc
 tags:
@@ -10,6 +11,8 @@ tags:
 - active
 - complete
 - status/in-progress
+- conspiracy
+- prophecy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +21,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.645848+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +31,63 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-refugee-camps-refugee-camps.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward avoidance
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward avoidance
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
 
 ## Player-Facing Summary
 
@@ -67,14 +96,6 @@ Refugee Camps is a undersea element of the setting, known for bioluminescent glo
 ## Lore Details
 
 Legends speak of Refugee Camps as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Refugee Camps.
-
-## Adventure Hooks
-
-- A rumor ties Refugee Camps to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Refugee Camps to avert a public scandal.
-- A map overlay reveals a hidden approach to Refugee Camps active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +106,6 @@ Refugee Camps's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Maintaining balance
@@ -124,8 +115,6 @@ Refugee Camps's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Refugee Camps harbors secrets that could change everything:
@@ -134,13 +123,9 @@ Refugee Camps harbors secrets that could change everything:
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Prophetic visions
 
-
-
-
-
 ## Voice & Mannerisms
 
-**Voice**: Deep and resonant
+**Voice**: Deep and resot
 
 **Speech Pattern**: Carefully chosen words
 
@@ -155,8 +140,6 @@ Refugee Camps is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Refugee Camps needs assistance with a delicate matter
@@ -164,8 +147,6 @@ Refugee Camps is currently engaged in:
 3. **The Secret**: Information about Refugee Camps's past surfaces
 4. **The Alliance**: Opportunity to work with or against Refugee Camps
 5. **The Crisis**: Refugee Camps is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,21 +160,38 @@ Refugee Camps is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Refugee Camps]]
+## Economic Structure
 
-<!-- enriched: true -->
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
 
 
+## A Day in the Life
 
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
 
-## Relationship Web
-
-- [[Intelligence Services]]: *informant*
-- [[02_Worldbuilding_People_Dr._Marina_Coralheart_-_Shadow]]: *mentor*
-- [[04_Resources_Assets_Locations_location-city-quartermaster-sterling-suppystone-v1-quartermaster-sterling-suppystone.svg]]: *family member*
-
-## Connections
-
-- [[Jasper Three-Eyes Flint]]
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

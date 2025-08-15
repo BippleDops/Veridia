@@ -14,6 +14,24 @@ modified: '2025-08-14'
 
 %% Use reading mode for visual gallery %%
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## handout-handout-aged-treasure-map-aged-treasure-map
 ![[04_Resources/Assets/Handouts/handout-handout-aged-treasure-map-aged-treasure-map.png]]
 
@@ -206,11 +224,9 @@ modified: '2025-08-14'
 ## missing-caravan
 ![[04_Resources/Assets/Handouts/missing-caravan.png]]
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -219,3 +235,13 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

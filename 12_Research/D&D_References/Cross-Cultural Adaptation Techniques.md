@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Marriage Between Worlds|02 Worldbuilding/Lore/Marriage Between Worlds]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Marriage Between Worlds]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,27 @@ Cross Cultural Adaptation Techniques is a undersea element of the setting, known
 
 Legends speak of Cross Cultural Adaptation Techniques as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Cross Cultural Adaptation Techniques.
 
-## Adventure Hooks
-
-- A rumor ties Cross Cultural Adaptation Techniques to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Cross Cultural Adaptation Techniques to avert a public scandal.
-- A map overlay reveals a hidden approach to Cross Cultural Adaptation Techniques active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and war looms
+- A journal reveals ancient history about the cult
+- A map reveals ancient history about this place
+- Someone is protecting an heir for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

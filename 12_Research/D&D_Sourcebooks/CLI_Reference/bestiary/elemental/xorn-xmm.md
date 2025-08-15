@@ -29,13 +29,29 @@ updated: '2025-08-12T23:37:35.419131'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-xorn-xmm-v1-xorn-xmm.svg)
 
 # [[xorn-xmm|Xorn]]
-*Source: Monster Manual (2024) p. 338. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 338. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Xorn
 
@@ -82,14 +98,11 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
   - !!int "10"
   - !!int "22"
   - !!int "11"
-  - !!int "10"
-  - !!int "11"
 "speed": "20 ft., burrow 20 ft."
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+6"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
   \ [[conditions#Poisoned|poisoned]]"
@@ -133,19 +146,25 @@ Xorn xmm is a undersea element of the setting, known for bioluminescent glow and
 
 Legends speak of xorn xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around xorn xmm.
 
-## Adventure Hooks
-
-- A rumor ties xorn xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at xorn xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to xorn xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

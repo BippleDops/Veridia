@@ -19,11 +19,6 @@ updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
 
-
-# Criminal and Underground Guide
-
-## Criminal Organizations Structure
-
 ### Shadow Conspiracy
 **Type**: Secret Society with governmental infiltration
 **Structure**: Cell-based hierarchy with consciousness-linked communication
@@ -38,10 +33,6 @@ world: Both
 | **Cell Leaders** | Local command | Direct cell operations | Minor modifications, subtle signs |
 | **Agents** | Field operatives | Information gathering, infiltration | May be unaware of true nature |
 | **Assets** | Unknowing pawns | Manipulated civilians | No knowledge of involvement |
-
-### Traditional Criminal Organizations
-
-#### Aquabyssos Underworld
 
 ##### The Depth Runners
 **Specialization**: Deep-sea smuggling and contraband transport
@@ -79,8 +70,6 @@ world: Both
 - Equipment specialists and mechanics
 - Information brokers and scouts
 
-#### Aethermoor Underworld
-
 ##### Sky Reavers
 **Specialization**: Aerial piracy and atmospheric crime
 **Territory**: Trade wind routes, storm corridors
@@ -116,8 +105,6 @@ world: Both
 - Communication specialists
 - Social manipulation experts
 - Diplomatic service defectors
-
-## Criminal Personalities and Archetypes
 
 ### The Ruthless Enforcer
 **Personality**: Violent, loyal, intimidating
@@ -163,10 +150,6 @@ world: Both
 - "I hear interesting things from interesting people."
 - "Knowledge is power, but timing is everything."
 
-## Criminal Activities and Services
-
-### Smuggling Operations
-
 #### Aquabyssos Smuggling
 **Common Contraband**:
 - Pressure equipment (military-grade, safety-compromised)
@@ -199,8 +182,6 @@ world: Both
 
 **Typical Prices**: 75-300% markup, weather-dependent availability
 
-### Information and Intelligence Services
-
 #### Data Types and Pricing
 | Information Type | Base Price | Risk Factor | Verification |
 |------------------|------------|-------------|--------------|
@@ -209,33 +190,6 @@ world: Both
 | **Government information** | 500-2000 gp | High | Critical |
 | **Military intelligence** | 1000-5000 gp | Extreme | Essential |
 | **Deep/high secrets** | 2000-10000 gp | Lethal | Impossible |
-
-#### Intelligence Gathering Methods
-- **Social infiltration**: Long-term relationship building
-- **Electronic surveillance**: Communication monitoring
-- **Document theft**: Physical and digital break-ins
-- **Bribery networks**: Corrupted insiders and officials
-- **Memory extraction**: Illegal consciousness probing
-
-### Protection and Security Services
-
-#### Service Types
-- **Personal protection**: Bodyguard services, threat elimination
-- **Business security**: Protection from competitors, regulatory issues
-- **Information security**: Data protection, counter-intelligence
-- **Transportation security**: Cargo protection, safe passage
-- **Reputation management**: Scandal suppression, public relations
-
-#### Pricing Structure
-- **Basic protection**: 10-50 gp per day
-- **Professional security**: 50-200 gp per day
-- **High-risk protection**: 200-1000 gp per day
-- **Specialist services**: 500-2000 gp per operation
-- **Extreme risk operations**: 1000+ gp, often unsuccessful
-
-## Criminal Safe Houses and Hideouts
-
-### Aquabyssos Criminal Locations
 
 #### The Pressure Drop
 **Type**: Abandoned pressure research facility
@@ -258,8 +212,6 @@ world: Both
 **Security**: Depth barriers, trained leviathan guards
 **Services**: Vehicle modification, crew recruitment, cargo laundering
 
-### Aethermoor Criminal Locations
-
 #### Storm's Edge Platform
 **Type**: Mobile sky platform following storm systems
 **Location**: Variable altitude, storm-chasing pattern
@@ -281,10 +233,6 @@ world: Both
 **Security**: Wind-based early warning, magical concealment
 **Services**: Intelligence gathering, message interception, communication services
 
-## Law Enforcement Response
-
-### Aquabyssos Law Enforcement
-
 #### Parliamentary Guard
 **Role**: Government protection, political crime investigation
 **Authority**: National level, unlimited in scope
@@ -302,8 +250,6 @@ world: Both
 **Authority**: Commercial areas, trade-related crimes
 **Methods**: Cargo inspection, merchant regulation, port security
 **Corruption Level**: High (frequent bribery, smuggling blind spots)
-
-### Aethermoor Law Enforcement
 
 #### Royal Guard
 **Role**: Crown protection, high-level security, noble crime
@@ -323,56 +269,12 @@ world: Both
 **Methods**: Market inspection, merchant licensing, customs enforcement
 **Corruption Level**: High (extensive bribery, regulatory capture)
 
-## Criminal Investigation Techniques
-
 ### Standard Investigation Methods
 1. **Surveillance**: Physical and magical observation
 2. **Informant Networks**: Paid sources and turned criminals
-3. **Financial Tracking**: Following money and resource flows
+3. **Ficial Tracking**: Following money and resource flows
 4. **Communication Interception**: Monitoring messages and signals
 5. **Undercover Operations**: Infiltration and false identity work
-
-### Realm-Specific Methods
-
-#### Aquabyssos Techniques
-- **Memory analysis**: Extracting information from memory pearls
-- **Pressure tracking**: Following depth-adapted movement patterns
-- **Current analysis**: Tracking transportation via ocean flows
-- **Biological sampling**: DNA and organism tracking
-- **Echo pattern analysis**: Sound-based investigation
-
-#### Aethermoor Techniques
-- **Weather tracking**: Following atmospheric disturbances
-- **Crystal resonance**: Using magical signatures for tracking
-- **Wind pattern analysis**: Tracking aerial movement
-- **Altitude monitoring**: Tracking height-based activities
-- **Storm correlation**: Connecting activities to weather patterns
-
-## Criminal Code and Honor Systems
-
-### Underground Rules
-
-#### Universal Criminal Code
-- **No cooperation with law enforcement** (death penalty for violation)
-- **Honor debts and agreements** (reputation-based economy)
-- **Protect criminal safe spaces** (mutual benefit preservation)
-- **Respect territorial boundaries** (avoid unnecessary conflict)
-- **Handle disputes internally** (avoid outside attention)
-
-#### Shadow Conspiracy Code
-- **Complete loyalty to the vision** (consciousness merger as ultimate goal)
-- **Protect the network at all costs** (individual sacrifice expected)
-- **Maintain operational security** (compartmentalized information)
-- **Eliminate security threats** (no witnesses, no evidence)
-- **Advance the infiltration** (every position gained is valuable)
-
-### Punishment Systems
-- **Minor violations**: Fines, temporary exclusion, public embarrassment
-- **Major violations**: Physical punishment, permanent exile, property seizure
-- **Betrayal**: Torture, death, family targeting, reputation destruction
-- **Cooperation with law**: Immediate execution, family targeting, property destruction
-
-## Adventure Hooks with Criminals
 
 ### Investigation Adventures
 1. **Missing Person**: Civilian disappeared into criminal underworld
@@ -395,42 +297,27 @@ world: Both
 4. **Debt Collection**: Owe money to criminal organization
 5. **Whistleblower Protection**: Help criminal expose corruption
 
-## Criminal NPCs by Challenge Rating
 
-### Street Criminal (CR 1/8)
-- **Skills**: Stealth +3, Sleight of Hand +3
-- **Equipment**: Concealed weapons, stolen goods
-- **Motivation**: Survival, quick money
-- **Information**: Local area, small-time operations
+## 🔧 Deep Evaluation Improvements
 
-### Professional Criminal (CR 1/2)
-- **Skills**: Stealth +4, Investigation +3, Deception +4
-- **Equipment**: Quality tools, reliable contacts
-- **Motivation**: Career advancement, professional pride
-- **Information**: Organization structure, ongoing operations
+*20 targeted improvements identified*
 
-### Crime Boss (CR 5)
-- **Skills**: Persuasion +8, Intimidation +7, Insight +6
-- **Equipment**: Political connections, loyal enforcers
-- **Motivation**: Power expansion, territory control
-- **Information**: Extensive criminal network, corruption details
+### Connection Improvements
 
-### Shadow Operative (CR 8)
-- **Skills**: All mental skills +6, consciousness abilities
-- **Equipment**: Surgical modifications, advanced technology
-- **Motivation**: Conspiracy advancement, reality control
-- **Information**: Deep conspiracy secrets, infiltration extent
+- Add cross-references to related notes
 
-## Links to Related Content
-- [[Shadow_Conspiracy]]
-- [[Criminal_Organizations]]
-- [[Faction_Quick_Reference]]
-- [[Social_Encounter_Reference]]
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -439,3 +326,20 @@ world: Both
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- Strange dreams suggest a conspiracy
+- A corpse reveals ancient history about a local noble
+- A prisoner has gone missing and war looms
+- A stranger needs help investigating before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

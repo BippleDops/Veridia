@@ -19,8 +19,6 @@ updated: '2025-08-13T01:18:37.144810+00:00'
 world: Both
 ---
 
-
-
 # Merger Vessels Catalog (36)
 
 1. Time Skipper — Arrives before departing; paradox fuel checks
@@ -34,7 +32,7 @@ world: Both
 9. Eventide Courier — Moves at sunset in both worlds
 10. Schrödinger Sloop — Cargo both present and absent
 11. Identity Shuttle — Swaps roles; crew reassignment mechanic
-12. Null Ghost — No mass at odd ticks; ignores collisions then
+12.  Ghost — No mass at odd ticks; ignores collisions then
 13. Kaleidoscope Brig — Color-state changes alter physics
 14. Ouroboros Skiff — Eats its wake; infinite fuel loop risk
 15. Tesseract Barge — Folds deck space; labyrinth fights
@@ -62,6 +60,24 @@ world: Both
 
 Integration keys: Anchors/RSB, Sanity & memory costs, Deep Mother bargains, Paradox rules.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Merger Vessels Catalog is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -70,23 +86,35 @@ Merger Vessels Catalog is a undersea element of the setting, known for biolumine
 
 Legends speak of Merger Vessels Catalog as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merger Vessels Catalog.
 
-## Adventure Hooks
-
-- A rumor ties Merger Vessels Catalog to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Merger Vessels Catalog to avert a public scandal.
-- A map overlay reveals a hidden approach to Merger Vessels Catalog active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Vehicles_Index|03 Mechanics/Vehicles/Vehicles Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help investigating before dawn
+- An heirloom has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

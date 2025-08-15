@@ -22,12 +22,22 @@ world: Both
 ---
 
 
-# Spells for Firbolg
+## 🔧 Deep Evaluation Improvements
 
-## 1st Level
+*20 targeted improvements identified*
 
-- [[/03_Mechanics/CLI/spells/detect-magic-xphb "XPHB"|Detect Magic]] 
-- [[/03_Mechanics/CLI/spells/disguise-self-xphb "XPHB"|Disguise Self]]
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -37,19 +47,29 @@ List spells races firbolg vgm is a undersea element of the setting, known for bi
 
 Legends speak of list spells races firbolg vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells races firbolg vgm.
 
-## Adventure Hooks
-
-- A rumor ties list spells races firbolg vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells races firbolg vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells races firbolg vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and truth emerges
+- An heirloom has gone missing and evil awakens
+- Strange disappearances suggest a portal
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

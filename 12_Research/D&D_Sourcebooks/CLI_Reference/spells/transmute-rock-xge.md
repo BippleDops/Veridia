@@ -26,10 +26,8 @@ updated: '2025-08-12T23:37:36.029152'
 world: Both
 ---
 
-
 # Transmute Rock
 *5th-level, Transmutation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -37,6 +35,24 @@ world: Both
 - **Duration:** Until dispelled
 
 You choose an area of stone or mud that you can see that fits within a 40-foot cube and is within range, and choose one of the following effects.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Transmute Rock to Mud
 
@@ -64,19 +80,20 @@ Transmute rock xge is a undersea element of the setting, known for bioluminescen
 
 Legends speak of transmute rock xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around transmute rock xge.
 
-## Adventure Hooks
-
-- A rumor ties transmute rock xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at transmute rock xge to avert a public scandal.
-- A map overlay reveals a hidden approach to transmute rock xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

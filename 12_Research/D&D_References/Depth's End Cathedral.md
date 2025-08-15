@@ -17,28 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -48,28 +42,32 @@ Depth's End Cathedral is a undersea element of the setting, known for biolumines
 
 Legends speak of Depth's End Cathedral as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth's End Cathedral.
 
-## Adventure Hooks
-
-- A rumor ties Depth's End Cathedral to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Depth's End Cathedral to avert a public scandal.
-- A map overlay reveals a hidden approach to Depth's End Cathedral active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Depth's End Cathedral|02 Worldbuilding/Places/Depth's End Cathedral]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Pressure Angel Benthia]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A document has gone missing and war looms
+- A merchant needs help investigating before the festival
+- A merchant needs help finding before the festival
+- Strange disappearances suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

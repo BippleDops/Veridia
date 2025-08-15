@@ -1,4 +1,5 @@
 ---
+
 title: Session Planning Guide
 type: Lore
 tags:
@@ -17,6 +18,8 @@ status: complete
 world: Aquabyssos
 created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -25,25 +28,74 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *"Every current has direction, every tide has purpose - plan the flow of adventure."*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+
 ## Overview
 
 The Session Planning Guide provides dungeon masters with frameworks and tools for organizing adventures in the complex dual-realm setting. This guide addresses the unique challenges of managing sessions that may span both Aquabyssos and Aethermoor, including travel logistics, cultural transitions, and the integration of both surface and underwater elements.
-
-## Mechanics
-
-### Requirements
-
-- Understanding of both realm cultures and politics
-- Preparation for environmental transitions
-- Balancing surface and underwater content
-- Managing complex inter-realm logistics
-
-### Effects
-
-- **Smooth Transitions**: Seamless movement between realms
-- **Cultural Consistency**: Accurate representation of both societies
-- **Balanced Content**: Equal engagement for all character types
-- **Narrative Coherence**: Maintaining story flow across realm changes
 
 ### Duration
 
@@ -59,16 +111,6 @@ Ongoing campaign management tool requiring regular updates.
 
 Essential reference for dungeon masters running dual-realm campaigns.
 
-
-## Connections
-
-- [[Campaign World]]
-- [[Comprehensive-World-Connection-Guide]]
-- [[Current PC Lead]]
-- [[Party Information]]
-- [[Random Encounter Tables]]
-- [[Templater Advanced]]
-
 ## Player-Facing Summary
 
 Session Planning Guide is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -81,36 +123,46 @@ Legends speak of Session Planning Guide as a nexus where past and present conver
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Master_Lore_Index|Master Lore Index]]
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
-
-
 ## Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
-
 
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
 
-## Game Applications
 
-### Adventure Hooks
-- Discovery of related artifacts or texts
-- Conflicts arising from different interpretations
-- Prophecies beginning to manifest
+## Secret Connections
 
-### Character Connections
-- Scholarly interest
-- Personal involvement in events
-- Hereditary knowledge or curse
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

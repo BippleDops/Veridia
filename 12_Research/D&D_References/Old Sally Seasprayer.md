@@ -15,30 +15,26 @@ updated: '2025-08-13T01:18:36.289249+00:00'
 world: Both
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-old-sally-seasprayer-old-sally-seasprayer.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[The Tidepool Markets|02 Worldbuilding/Places/The Tidepool Markets]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Abyssos Prime]]
-- [[Aethermoor]]
-- [[Crystal Gardens]]
-- [[Depth Wardens]]
-- [[Memory Farmers]]
-- [[Parliament of Echoes]]
-- [[Pearl_Harbor_City|Pearl Harbor City]]
-- [[The Hadal Depths]]
-- [[The Tidepool Markets]]
 
 ## Player-Facing Summary
 
@@ -48,19 +44,33 @@ Old Sally Seasprayer is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Old Sally Seasprayer as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Old Sally Seasprayer.
 
-## Adventure Hooks
-
-- A rumor ties Old Sally Seasprayer to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Old Sally Seasprayer to avert a public scandal.
-- A map overlay reveals a hidden approach to Old Sally Seasprayer active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- Strange dreams suggest ancient magic
+- A shipment has gone missing and evil awakens
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

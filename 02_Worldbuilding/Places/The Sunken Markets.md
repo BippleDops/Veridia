@@ -1,4 +1,5 @@
 ---
+
 title: The Sunken Markets
 type: Location
 tags:
@@ -34,6 +35,8 @@ notable_npcs:
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.096186+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -42,7 +45,72 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-sunken-markets-the-sunken-markets.svg]]
 
 
-# The Sunken Markets
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
 
 ## Overview
 Beneath [[Port Meridian]]'s harbor lies an otherworldly marketplace that exists half-submerged, where air-breathing merchants trade with denizens of the deep. Discovered only two years ago when the Crimson Shard's placement in the harbor caused tidal anomalies, the Sunken Markets have become a crucial but dangerous connection point between Aethermoor and [[Aquabyssos]].
@@ -50,81 +118,12 @@ Beneath [[Port Meridian]]'s harbor lies an otherworldly marketplace that exists 
 ## Structure
 The Markets occupy a series of partially flooded caves and ruins that predate the current city:
 
-### The Breathing Halls
-- Massive air pockets maintained by ancient enchantments
-- Crystalline formations that purify air and water
-- Stone walkways that rise and fall with the tides
-- Bioluminescent coral providing eerie illumination
-
-### The Exchange Pools
-- Circular pools where surface and aquatic traders meet
-- Water enchanted to allow air-breathers to submerge safely for limited periods
-- Translation crystals that convert speech between air and water
-- Neutral territory enforced by both surface and deep guards
-
-### The Depth Vaults
-- Ancient storage chambers recently excavated
-- Some flooded, some dry, some shifting between states
-- Contains pre-Shattering artifacts and forgotten trade goods
-- Heavily guarded by mysterious constructs
-
-### The Tidal Gates
-- Four massive portals that open at specific tide times
-- Connect to different underwater locations
-- Northern Gate: [[The Shadowmere]]'s Lake Gloom
-- Eastern Gate: Deep ocean trenches
-- Southern Gate: [[Aquabyssos]] outer territories
-- Western Gate: Status unknown (sealed)
-
-## Inhabitants & Traders
-
-### Regular Merchants
-- **Brine Merchants:** Selling preserved goods that never spoil
-- **Pearl Divers Guild:** Offering deep pearls with magical properties
-- **Coral Shapers:** Creating living armor and weapons
-- **Memory Fishers:** Trading in bottled experiences from the depths
-
-### Notable Figures
-- **Harbormistress Coral Thrice-Drowned:** Half-human, half-aquatic overseer
-- **The Depth Speaker:** Translator between incompatible languages
-- **Merchant-Captain Vrex:** Sahuagin trader with surface connections
-- **The Tidecaller:** Mysterious figure who controls market access
-
-## Trade Goods
-
-### From the Surface
-- Crystal technology (highly sought after)
-- Preserved foods and wines
-- Metal tools and weapons
-- Written knowledge and maps
-
-### From the Depths
-- Deep pearls (magical enhancement)
-- Living coral (grows into structures)
-- Pressure crystals (store kinetic energy)
-- Depth silk (stronger than steel when wet)
-- Memories of drowned civilizations
-
-## Hazards & Challenges
-- **Tidal Shifts:** Markets flood/drain unpredictably
-- **Pressure Sickness:** Rapid depth changes can be fatal
-- **Deep Predators:** Sometimes follow traders through gates
-- **Crystalline Plague:** Meeting crystal corruption in new environment
-- **Time Distortion:** Some areas experience temporal flux
-
 ## Laws & Customs
 1. No violence in the Exchange Pools (enforced by ancient magic)
 2. All trades must be witnessed by a Depth Speaker
 3. Blood debts carry over between surface and deep
 4. Certain names must not be spoken (invoke deep curses)
 5. Iron weapons forbidden (rust corrupts the waters)
-
-## Current Events
-- Increasing refugees from deeper Aquabyssos regions
-- Crystal corruption beginning to affect aquatic species
-- [[Ambassador Nerida Deepcurrent]] establishing permanent embassy
-- Black market for Shard fragments growing
-- Prophecies of "Great Drowning" causing panic
 
 ## Secrets
 > [!warning] DM Only
@@ -136,34 +135,6 @@ The Markets occupy a series of partially flooded caves and ruins that predate th
 > - Several major surface merchants have been replaced by deep-dwelling shapeshifters
 > - The tidal anomalies are counting down to a specific convergence event
 
-## Access & Navigation
-### Getting There
-- Through hidden entrances in Port Meridian's warehouse district
-- Via underwater approach (requires water breathing)
-- Portal from [[Castellan Ironledger III]]'s vault (secret)
-- Shadow paths from [[The Shadowmere]] (dangerous)
-
-### Operating Hours
-- Low Tide: Full access to all areas
-- Mid Tide: Exchange Pools only
-- High Tide: Underwater access only
-- Spring Tides: Special markets with rare goods
-
-## Factions & Influence
-- **[[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]:** Controls smuggling operations
-- **[[Merchant Princes]]:** Seeking to monopolize trade
-- **Tidal Courts:** Aquabyssos's official presence
-- **Crystal Wardens:** Monitoring for corruption spread
-- **Order of Drowned Mysteries:** Religious sect worshipping deep gods
-
-## Services Available
-- Currency exchange (surface coins to depth pearls)
-- Underwater breathing enchantments (temporary)
-- Deep guide hiring
-- Pressure adaptation treatments
-- Memory extraction/implantation
-- Prophecy reading via tidal patterns
-
 ## Plot Hooks
 1. Diplomatic escort for sensitive negotiations between surface and deep
 2. Investigate murders that cross between air and water
@@ -172,17 +143,6 @@ The Markets occupy a series of partially flooded caves and ruins that predate th
 5. Discover why refugees are fleeing the deep waters
 6. Decode ancient inscriptions revealing the Crown's origin
 
-## Notable Merchandise & Prices
-- Breathing Pearl (8 hours underwater): 500 gp
-- Deep Compass (points to nearest portal): 1,000 gp
-- Pressure Blade (deals force damage): 2,500 gp
-- Memory Bottle (contains lost knowledge): 100-10,000 gp
-- Tidal Chart (predicts gate openings): 750 gp
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -190,23 +150,8 @@ The Markets occupy a series of partially flooded caves and ruins that predate th
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 The Sunken Markets serve as the primary interface between the surface world and Aquabyssos, allowing introduction of underwater elements without requiring full aquatic adventures. The location's mix of commerce and danger provides opportunities for social encounters, investigation, and combat. The various factions present create natural conflict and alliance opportunities. The ancient nature of the site connects to the deeper mysteries of both the Seven Shards and the origins of the crystal corruption.
-
-
-## Connections
-
-- [[Rescue Senator Glaucus]]
 
 ## Player-Facing Summary
 
@@ -216,31 +161,6 @@ The Sunken Markets is a undersea element of the setting, known for bioluminescen
 
 Legends speak of The Sunken Markets as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Sunken Markets.
 
-## Adventure Hooks
-
-- A rumor ties The Sunken Markets to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Sunken Markets to avert a public scandal.
-- A map overlay reveals a hidden approach to The Sunken Markets active only during specific tides/storms.
-
-## Cross-References
-
-- [[The Sunken Markets]]
-
-<!-- enriched: true -->
-
-
-## Notable Residents
-
-- [[04_Resources_Assets_Locations_location-city-master-goldwin-ledgerkeeper-master-goldwin-ledgerkeeper.svg]]
-- [[04_Resources_Assets_Portraits_portrait-npc-captain-torrent-swiftcurrent-captain-torrent-swiftcurrent.svg]]
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-traditional-elder-wisdom-keeper-v1-traditional-elder-wisdom-keeper.svg]]
-- [[04_Resources_Assets_Locations_location-city-deep-mother-zealots-v1-deep-mother-zealots.svg]]
-- [[04_Resources_Assets_Locations_location-city-echo-keeper-selin-v1-echo-keeper-selin.svg]]
-
-
 ## Sensory Details
 
 **Sights**: Sunlight filters through stained glass windows
@@ -249,7 +169,6 @@ Legends speak of The Sunken Markets as a nexus where past and present converge. 
 
 **Smells**: The aroma of fresh bread wafts from bakeries
 
-
 ## Description
 
 The Sunken Markets is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -257,44 +176,29 @@ The Sunken Markets is a notable location characterized by its unique features an
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of The Sunken Markets
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## History
+**Goverce**: Local authority structure
 
 ### Founding
 The Sunken Markets was established in the distant past, growing from humble beginnings to its current state.
 
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
+
+## Trade Importance
+
+Key stop on textiles trade route
 
 
-## Secrets & Rumors
+## A Day in the Life
 
-### Common Knowledge
-- What everyone knows about The Sunken Markets
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
 
-### Whispered Rumors
-- Stories that may or may not be true
-
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

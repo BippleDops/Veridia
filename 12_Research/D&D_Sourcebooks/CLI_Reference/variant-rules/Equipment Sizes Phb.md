@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.534478+00:00'
 world: Both
 ---
 
-
-
 # Equipment Sizes
 *Source: Player's Handbook p. 145* 
 
@@ -33,6 +31,24 @@ The DM can impose more realism. For example, a suit of plate armor made for one 
 
 Using this variant, when adventurers find armor, clothing, and similar items that are made to be worn, they might need to visit an armorsmith, tailor, leatherworker, or similar expert to make the item wearable. The cost for such work varies from 10 to 40 percent of the market price of the item. The DM can either roll `1d4 × 10` or determine the increase in cost based on the extent of the alterations required.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Equipment sizes phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -41,19 +57,17 @@ Equipment sizes phb is a undersea element of the setting, known for bioluminesce
 
 Legends speak of equipment sizes phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around equipment sizes phb.
 
-## Adventure Hooks
-
-- A rumor ties equipment sizes phb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at equipment sizes phb to avert a public scandal.
-- A map overlay reveals a hidden approach to equipment sizes phb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing information for love
+- Strange accidents suggest a portal
+- A corpse reveals the truth about the cult

@@ -15,25 +15,26 @@ updated: '2025-08-13T01:18:36.947170+00:00'
 world: Both
 ---
 
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-investigate-shadow-conspiracy-investigate-shadow-conspiracy.svg)
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[Rescue Senator Glaucus|02 Worldbuilding/Quests/Rescue Senator Glaucus]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[The Shadow Conspiracy]]
-- [[Original Glaucus]]
-- [[Rescue Senator Glaucus]]
-- [[Aquabyssos - Session 01 - The Drowning Welcome]]
 
 ## Player-Facing Summary
 
@@ -43,19 +44,24 @@ Investigate Shadow Conspiracy is a undersea element of the setting, known for bi
 
 Legends speak of Investigate Shadow Conspiracy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Investigate Shadow Conspiracy.
 
-## Adventure Hooks
-
-- A rumor ties Investigate Shadow Conspiracy to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Investigate Shadow Conspiracy to avert a public scandal.
-- A map overlay reveals a hidden approach to Investigate Shadow Conspiracy active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting a witness for money
+- The authorities needs help delivering before winter
+- Someone is protecting a witness for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

@@ -1,4 +1,5 @@
 ---
+
 title: The Original Palace
 type: Location
 tags:
@@ -14,6 +15,7 @@ tags:
 - location
 - palace
 - world/aquabyssos
+- bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -28,6 +30,8 @@ location_type: Royal Palace
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.204343+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -35,18 +39,77 @@ world: Aquabyssos
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-original-palace-the-original-palace.svg]]
 
-
 # The Original Palace
 
 *The ancestral seat of the [[Deep Ones]] and the architectural marvel that served as the model for all subsequent underwater royal residences, the Original Palace stands as a testament to the ancient mastery of aquatic civilization.*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
 
 ## Overview
 
 Deep within the [[Midnight Trenches]] of [[Aquabyssos]], at a crushing depth where sunlight has never touched stone, rises the Original Palace—the first and greatest of all underwater royal residences. Built over three millennia ago by the [[Elder Deep Ones]] using techniques lost to time, this magnificent structure served as the template for the later [[The Coral Throne]] chambers and remains the ceremonial heart of the [[Abyssal Courts]].
 
 The palace exists in a state of constant, gentle motion, its living coral walls breathing with the rhythm of the deep currents. Bioluminescent organisms integrated into the architecture provide an ethereal glow that shifts through the spectrum of deep-sea colors: blues, purples, and the occasional flash of silver or gold.
-
-## Architectural Marvel
 
 ### The Living Foundation
 Unlike surface palaces built from dead stone, the Original Palace grows from a massive [[Titan Coral]] formation that has been carefully cultivated for millennia. The coral continues to grow and adapt, incorporating new chambers and passages as needed. The foundation extends deep into the sea floor, its roots intertwining with underwater volcanic vents that provide both heat and mineral nutrients.
@@ -63,7 +126,7 @@ The palace consists of five great spires, each serving a distinct purpose and re
 **The Spire of Currents** (Central Tower)
 - **Height:** 500 feet above the sea floor
 - **Function:** Throne rooms and formal audience chambers
-- **Notable Features:** The original [[The Coral Throne]], now empty but still resonant with ancient magic
+- **Notable Features:** The original [[The Coral Throne]], now empty but still resot with ancient magic
 - **Architecture:** Spiral chambers following the pattern of ocean currents
 
 **The Spire of Depths** (Northern Tower)
@@ -92,8 +155,6 @@ The palace consists of five great spires, each serving a distinct purpose and re
 
 ### The Connecting Bridges
 Between the spires, graceful bridges of woven [[Sea Silk]] and reinforced coral create pathways that undulate with the current. These bridges can be retracted in times of danger, isolating each spire for defense.
-
-## Current Inhabitants
 
 ### The Royal Court
 Though the throne stands empty following the events of [[The Depth Accords]], the palace remains home to a significant population:
@@ -130,11 +191,9 @@ The palace requires a vast staff to maintain its complex systems:
 - **Responsibilities:** Ensuring proper circulation, maintaining comfortable conditions
 
 **[[Pearl Divers]]** (15 individuals)
-- **Role:** Harvest materials needed for palace maintenance
+- **Role:** Harvest materials needed for palace maintece
 - **Skills:** Deep-sea diving, creature handling, pearl cultivation
 - **Territory:** The [[Abyssal Gardens]] surrounding the palace
-
-## Notable Features and Services
 
 ### The Hall of Echoing Depths
 The palace's main audience chamber, where the acoustics have been designed to carry whispers across vast distances while allowing private conversations to remain unheard just feet away. The ceiling rises 200 feet and is decorated with a living mural that depicts the history of the [[Deep Ones]] through bioluminescent coral formations.
@@ -180,7 +239,7 @@ The palace serves as the hub for an ancient communication system that connects t
 
 **Crystal Resonators**
 - Networks of specially tuned crystals that carry messages instantly across vast distances
-- Maintained by [[Master Resonants]] who understand the ancient techniques
+- Maintained by [[Master Resots]] who understand the ancient techniques
 - Can reach other major deep-sea cities and outposts
 - Occasionally picks up communications from other planes of existence
 
@@ -189,8 +248,6 @@ The palace serves as the hub for an ancient communication system that connects t
 - Protected by magical wards that prevent eavesdropping
 - Equipped with translation magic for cross-species communication
 - Used for diplomatic correspondence and intelligence gathering
-
-## Adventure Hooks and Opportunities
 
 ### The Missing Heir
 **Level Range:** 5-8  
@@ -252,8 +309,6 @@ A coded map has been discovered that allegedly leads to a hidden treasure vault 
 - Traps designed to test worthiness
 - Multiple possible treasure locations
 
-## Connections to Other Locations
-
 ### The [[The Coral Throne]] Chamber
 The destroyed throne that sparked [[The Depth Accords]] quest was a newer creation, modeled after the Original Palace's design. Pieces of the original throne remain here, and they may hold the key to creating a permanent replacement.
 
@@ -268,9 +323,7 @@ Though deep beneath the waves, the palace maintains secret connections to surfac
 - Hidden underwater caves that connect to coastal cities
 - Magical portals that allow rapid transit
 - Networks of loyal surface agents and diplomats
-- Trade routes for rare materials needed for palace maintenance
-
-## Secrets and Hidden Knowledge
+- Trade routes for rare materials needed for palace maintece
 
 ### The True Purpose
 While most believe the Original Palace was built purely as a royal residence, ancient texts suggest it serves a more fundamental purpose: it's a massive magical focus that helps maintain the barrier between the material plane and the [[Far Realms]]. The increasing instability following recent political upheavals may weaken this barrier.
@@ -284,20 +337,6 @@ The coral walls of the palace have been absorbing conversations for thousands of
 ### The Deep Foundations
 The palace's roots extend far deeper than most realize, connecting to an underground network of caverns that may predate the [[Deep Ones]] themselves. These caverns contain evidence of even more ancient civilizations and powers that once ruled the depths.
 
-## Visiting the Palace
-
-### Access Requirements
-- Official diplomatic credentials or invitation from the [[Abyssal Courts]]
-- Ability to survive at crushing depths (magic or natural adaptation required)
-- Respect for [[Trade Union]] customs and protocols
-- Payment of appropriate tribute or demonstration of worthy purpose
-
-### Cultural Protocols
-- Never swim directly above a Deep One noble without permission
-- Gifts of surface light (specially prepared magical illumination) are highly valued
-- Speaking in the [[Old Tongue]] is considered a sign of respect
-- Weapons must be declared and peace-bonded upon entry
-
 ### Practical Considerations
 - Water breathing and pressure protection are essential
 - Normal surface food spoils quickly; local cuisine requires acquired taste
@@ -305,11 +344,6 @@ The palace's roots extend far deeper than most realize, connecting to an undergr
 - The palace's day/night cycle follows deep-sea patterns, not surface rhythms
 
 The Original Palace stands not just as an architectural wonder, but as a living piece of history that continues to shape the political and magical landscape of [[Aquabyssos]]. Its ancient halls have witnessed the rise and fall of dynasties, the forging of treaties that shaped continents, and the preservation of secrets that could change the fate of multiple worlds.
-
-
-## Connections
-
-- [[Find the Grief Bomb]]
 
 ## Player-Facing Summary
 
@@ -319,32 +353,12 @@ The Original Palace is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Original Palace as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Original Palace.
 
-## Adventure Hooks
-
-- A rumor ties The Original Palace to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Original Palace to avert a public scandal.
-- A map overlay reveals a hidden approach to The Original Palace active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
-
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
 
 ## DM Notes
 
@@ -354,21 +368,8 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[The Original Palace]]
 
-<!-- enriched: true -->
 riched: true -->
 - [[The Depth Accords]]
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-memory-thief-v1-memory-thief.svg]]
-- [[Anti-Religious Philosophical Arguments]]
-- [[04_Resources_Assets_Locations_location-city-unity-hopecurrent-v1-unity-hopecurrent.svg]]
-
 
 ## Sensory Details
 
@@ -378,7 +379,6 @@ riched: true -->
 
 **Smells**: The tang of salt air permeates everything
 
-
 ## Description
 
 The Original Palace is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -386,33 +386,10 @@ The Original Palace is a notable location characterized by its unique features a
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
-
-## History
+**Goverce**: Local authority structure
 
 ### Founding
 The Original Palace was established in the distant past, growing from humble beginnings to its current state.
-
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
-
 
 ## Current Events
 
@@ -425,15 +402,12 @@ Ongoing situations affecting The Original Palace:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about The Original Palace
+## Prophecy Connection
 
-### Whispered Rumors
-- Stories that may or may not be true
+Mentioned in The Second Prophecy of Stars
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+
+## Trade Importance
+
+Key stop on metals trade route

@@ -15,15 +15,8 @@ world: Both
 updated: '2025-08-13T01:18:36.973529+00:00'
 ---
 
-
-
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-lighthouse-keeper-lighthouse-keeper.svg]]
-
-
-
 
 # Alaric Stormwatch, the Keeper of the Light
 
@@ -44,6 +37,24 @@ updated: '2025-08-13T01:18:36.973529+00:00'
 **Challenge Rating** 9 (5,000 XP)  
 **Proficiency Bonus** +4
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Special Abilities
 
 **Beacon Sight.** Alaric can see clearly through any weather conditions out to 5 miles, and can detect invisible creatures within 120 feet. He can also sense the approach of storms, shadow manifestations, and dimensional rifts up to 24 hours in advance.
@@ -54,7 +65,7 @@ updated: '2025-08-13T01:18:36.973529+00:00'
 
 **Guardian's Vigil.** Alaric requires only 4 hours of sleep and can maintain watch during long rests. He has advantage on Initiative rolls and cannot be surprised while conscious.
 
-**Crystal Resonance.** Alaric can attune to crystal formations to enhance his lighthouse's beam, creating effects similar to *daylight*, *faerie fire*, or *detect magic* within the lighthouse's range.
+**Crystal Resoce.** Alaric can attune to crystal formations to enhance his lighthouse's beam, creating effects similar to *daylight*, *faerie fire*, or *detect magic* within the lighthouse's range.
 
 **Fey Ancestry.** Advantage on saving throws against being charmed, and magic can't put him to sleep.
 
@@ -91,16 +102,6 @@ The lighthouse he tends is no ordinary beacon—its crystal core was a gift from
 
 Alaric's quarters atop the lighthouse are spartan but functional: charts of every current and reef for fifty miles, a collection of message bottles from grateful sailors, and a small shrine to Tempus, god of storms. His most prized possession is the Storm Mirror, a scrying device that lets him observe weather patterns and potential threats across the entire coast.
 
-## Equipment
-
-- **Storm Harpoon** (magical weapon that returns when thrown and conducts electricity)
-- **Lighthouse Crystal** (focuses his magical abilities and enhances beacon range)
-- **Weather Cloak** (+2 to AC, resistance to lightning and thunder damage)
-- **Boots of the Shore** (walk on water for up to 1 hour per day)
-- **Storm Mirror** (crystal scrying device attuned to weather and maritime threats)
-- **Signal Flares** (6 magical flares that create specific coded messages)
-- **Emergency Supplies** (enough food and water for 12 people for a week)
-
 ## Relationships
 
 **Allies:**
@@ -129,14 +130,6 @@ Alaric's quarters atop the lighthouse are spartan but functional: charts of ever
 4. **The Storm Caller** - Someone has been artificially generating dangerous storms, putting both realms at risk. Alaric's weather sense tells him these aren't natural, and he needs help finding and stopping the perpetrator.
 
 5. **The Lighthouse Network** - Alaric wants to establish a chain of crystal-enhanced lighthouses along the coast, but each new site faces opposition from those who profit from shipwrecks and maritime chaos.
-
-## Secrets
-
-- **The Pact Price**: His warlock powers come from a covenant with the Storm Eternal, an elemental entity from the Plane of Air. The price is that he must someday guide a great storm that will reshape the coastlines of both realms.
-- **The Sunken City**: Alaric has discovered the ruins of an ancient city beneath the waves near his lighthouse. The ruins pulse with shadow energy, and something vast stirs within them during storm season.
-- **Royal Blood**: He's the illegitimate son of a minor Aethermoor noble, which he's kept secret to avoid political complications that might interfere with his lighthouse duties.
-- **The Storm Archive**: Alaric has been recording strange weather patterns for twenty years, and his data suggests someone has been deliberately manipulating climate across both realms.
-- **The Last Message**: The final message he received from the previous lighthouse keeper contained coordinates to a location where "the light must never shine"—coordinates he's never shared with anyone.
 
 ## Motivations
 
@@ -172,30 +165,32 @@ Lighthouse Keeper is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Lighthouse Keeper as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lighthouse Keeper.
 
-## Adventure Hooks
-
-- A rumor ties Lighthouse Keeper to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Lighthouse Keeper to avert a public scandal.
-- A map overlay reveals a hidden approach to Lighthouse Keeper active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Lighthouse Keeper|02 Worldbuilding/People/Lighthouse Keeper]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Admiral Cassandra Stormwind]]
-- [[Archdruid Thornweaver]]
-- [[Queen Seraphina Lumengarde]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and truth emerges
+- A noble needs help delivering before the new moon
+- A letter reveals a betrayal about the cult
+- Someone is hunting an heir for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

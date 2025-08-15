@@ -41,15 +41,9 @@ Possible outcomes
 - A dream that won’t let go
 - A memory you didn’t mean to lose
 
-## Cross-References
-
-- [[06_GM_Resources/Session_Packets/Aquabyssos Session 01]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

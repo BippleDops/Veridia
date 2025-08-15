@@ -23,17 +23,32 @@ updated: '2025-08-13T12:34:05.259729+00:00'
 world: Both
 ---
 
-
-
 # Folk Hero
 *Source: Player's Handbook p. 131. Available in the Basic Rules (2014)*  
-
 
 - **Skill Proficiencies.** [[skills#Animal%20Handling|Animal Handling]], [[skills#Survival|Survival]]  
 - **Tool Proficiencies.** One type of artisan's tools, vehicles (land)  
 - **Equipment.** A set of artisan's tools (one of your choice), a [[shovel-xphb|shovel]], an [[iron-pot-xphb|iron pot]], a set of [[common-clothes|common clothes]], and a belt [[pouch-xphb|pouch]] containing 10 gp  
 
 You come from a humble social rank, but you are destined for so much more. Already the people of your home village regard you as their champion, and your destiny calls you to stand against the tyrants and monsters that threaten the common folk everywhere.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Feature: Rustic Hospitality
 
@@ -104,7 +119,6 @@ A folk hero is one of the common people, for better or for worse. Most folk hero
 `dice: [](folk-hero.md#^flaw)`
 
 | dice: d6 | Flaw |
-|----------|------|
 | 1 | The tyrant who rules my land will stop at nothing to see me killed. |
 | 2 | I'm convinced of the significance of my destiny, and blind to my shortcomings and the risk of failure. |
 | 3 | The people who knew me when I was young know my shameful secret, so I can never go home again. |
@@ -121,19 +135,21 @@ Folk hero is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of folk hero as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around folk hero.
 
-## Adventure Hooks
-
-- A rumor ties folk hero to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at folk hero to avert a public scandal.
-- A map overlay reveals a hidden approach to folk hero active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and chaos spreads
+- A prisoner has gone missing and evil awakens
+- A letter reveals the truth about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

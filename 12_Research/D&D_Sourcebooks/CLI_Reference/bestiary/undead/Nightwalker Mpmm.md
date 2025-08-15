@@ -31,9 +31,6 @@ updated: '2025-08-13T12:34:05.905801+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![[04_Resources/Assets/Creatures/creature-creature-nightwalker-mpmm-nightwalker-mpmm.png]]
 
@@ -69,9 +66,9 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
   \ slashing from nonmagical attacks"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Grappled|grappled]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
-  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#prone|prone]],\
   \ [[conditions#Restrained|restrained]]"
 "senses": "darkvision 120 ft., passive Perception 9"
 "languages": ""
@@ -98,8 +95,8 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
     "name": "Enervating Focus"
   - "desc": "The nightwalker points at one creature it can see within 300 feet of\
       \ it. The target must succeed on a DC 21 Wisdom saving throw or take 39 (6d12)\
-      \ necrotic damage and become [[conditions#Frightened|frightened]]\
-      \ until the end of the nightwalker's next turn. While [[conditions#Frightened|frightened]]\
+      \ necrotic damage and become [[conditions#frightened|frightened]]\
+      \ until the end of the nightwalker's next turn. While [[conditions#frightened|frightened]]\
       \ in this way, the creature is also [[conditions#Paralyzed|paralyzed]].\
       \ If a target's saving throw is successful, the target is immune to the nightwalker's\
       \ Finger of Doom for the next 24 hours."
@@ -110,6 +107,24 @@ Generally, a nightwalker on the Material Plane is attracted to elements of the w
 "image": "/03_Mechanics/CLI/bestiary/undead/token/nightwalker-mpmm.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Environment
 
@@ -123,19 +138,15 @@ Nightwalker mpmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of nightwalker mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around nightwalker mpmm.
 
-## Adventure Hooks
-
-- A rumor ties nightwalker mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at nightwalker mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to nightwalker mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes

@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.361375+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-giant-sea-horse-giant-sea-horse.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,26 @@ Giant Sea Horse is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Giant Sea Horse as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Giant Sea Horse.
 
-## Adventure Hooks
-
-- A rumor ties Giant Sea Horse to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Giant Sea Horse to avert a public scandal.
-- A map overlay reveals a hidden approach to Giant Sea Horse active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Giant Sea Horse|02 Worldbuilding/Places/Giant Sea Horse]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Current Riders Guild]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- The authorities needs help stealing before the festival
+- Someone is protecting a witness for power

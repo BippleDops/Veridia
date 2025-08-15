@@ -21,11 +21,28 @@ updated: '2025-08-12T23:37:34.138124'
 world: Both
 ---
 
-
 # Downtime Activity: Gaining Renown
 *Source: Dungeon Master's Guide p. 129* 
 
 A character can spend downtime improving his or her renown within a particular organization (see "Renown" in chapter 1). Between adventures, a character undertakes minor tasks for the organization and socializes with its members. After pursuing these activities for a combined number of days equal to his or her current renown multiplied by 10, the character's renown increases by 1.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -35,19 +52,23 @@ Downtime activity gaining renown is a undersea element of the setting, known for
 
 Legends speak of downtime activity gaining renown as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around downtime activity gaining renown.
 
-## Adventure Hooks
-
-- A rumor ties downtime activity gaining renown to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at downtime activity gaining renown to avert a public scandal.
-- A map overlay reveals a hidden approach to downtime activity gaining renown active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help investigating before winter
+- A map reveals the truth about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

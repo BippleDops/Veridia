@@ -42,15 +42,9 @@ Possible outcomes
 - The ship’s eyes go fuzzy
 - Hooks thud into the hull
 
-## Cross-References
-
-- [[06_GM_Resources/Session_Packets/Aquabyssos Session 01]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

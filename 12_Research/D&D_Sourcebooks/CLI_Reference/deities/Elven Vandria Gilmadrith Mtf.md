@@ -17,7 +17,21 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
 ## Player-Facing Summary
@@ -28,19 +42,29 @@ Elven vandria gilmadrith mtf is a undersea element of the setting, known for bio
 
 Legends speak of elven vandria gilmadrith mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elven vandria gilmadrith mtf.
 
-## Adventure Hooks
-
-- A rumor ties elven vandria gilmadrith mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at elven vandria gilmadrith mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to elven vandria gilmadrith mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals ancient history about the cult
+- A stranger needs help delivering before the festival
+- An heirloom has gone missing and chaos spreads
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

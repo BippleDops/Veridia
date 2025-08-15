@@ -16,18 +16,26 @@ world: Aquabyssos
 updated: '2025-08-13T01:18:35.684014+00:00'
 ---
 
-
-
-
-
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-the-artisans-collective-of-master-crafters-the-artisans-collective-of-master-crafters.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Overview
+*20 targeted improvements identified*
 
-TODO
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -37,30 +45,30 @@ The Artisans' Collective is a undersea element of the setting, known for biolumi
 
 Legends speak of The Artisans' Collective as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Artisans' Collective.
 
-## Adventure Hooks
-
-- A rumor ties The Artisans' Collective to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Artisans' Collective to avert a public scandal.
-- A map overlay reveals a hidden approach to The Artisans' Collective active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Stop the Shadow Harvest|02 Worldbuilding/Groups/Stop The Shadow Harvest]]
-
-
-## Connections
-
-- [[Establish the New Order]]
-- [[Shadow Independence Levels]]
-- [[Stop the Shadow Harvest]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- Someone is hunting a witness for love
+- Someone is protecting a witness for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

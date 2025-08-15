@@ -1,4 +1,5 @@
 ---
+
 title: Deep Mother Priestess Sira
 type: Npc
 tags:
@@ -10,6 +11,7 @@ tags:
 - active
 - complete
 - status/in-progress
+- bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +20,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.649805+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +30,66 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-deep-mother-priestess-sira-deep-mother-priestess-sira.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward confrontation
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward avoidance
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
 
 ## Player-Facing Summary
 
@@ -67,14 +98,6 @@ Deep Mother Priestess Sira is a undersea element of the setting, known for biolu
 ## Lore Details
 
 Legends speak of Deep Mother Priestess Sira as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Deep Mother Priestess Sira.
-
-## Adventure Hooks
-
-- A rumor ties Deep Mother Priestess Sira to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Deep Mother Priestess Sira to avert a public scandal.
-- A map overlay reveals a hidden approach to Deep Mother Priestess Sira active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +108,6 @@ Deep Mother Priestess Sira's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Seeking redemption
@@ -124,8 +117,6 @@ Deep Mother Priestess Sira's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Deep Mother Priestess Sira harbors secrets that could change everything:
@@ -133,10 +124,6 @@ Deep Mother Priestess Sira harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Hidden past
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +142,6 @@ Deep Mother Priestess Sira is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Deep Mother Priestess Sira needs assistance with a delicate matter
@@ -164,8 +149,6 @@ Deep Mother Priestess Sira is currently engaged in:
 3. **The Secret**: Information about Deep Mother Priestess Sira's past surfaces
 4. **The Alliance**: Opportunity to work with or against Deep Mother Priestess Sira
 5. **The Crisis**: Deep Mother Priestess Sira is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,21 +162,7 @@ Deep Mother Priestess Sira is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Deep Mother Priestess Sira]]
+## Bloodline
 
-<!-- enriched: true -->
-
-
-
-
-## Relationship Web
-
-- [[Blood in the Water]]: *patron*
-- [[Order of the Shattered Crown]]: *competitor*
-- [[Storm Empress Tempestas Maelstrom]]: *patron*
-
-## Connections
-
-- [[Theological Warfare]]
+Member of House Dragonblood - Trait: magical affinity

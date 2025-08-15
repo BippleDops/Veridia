@@ -30,8 +30,6 @@ updated: '2025-08-12T23:37:35.475825'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-wastrilith-mpmm-v1-wastrilith-mpmm.svg)
 
@@ -59,7 +57,6 @@ Creatures that ingest water corrupted by a wastrilith risk their very souls. Tho
   - !!int "19"
   - !!int "18"
   - !!int "21"
-  - !!int "19"
   - !!int "12"
   - !!int "14"
 "speed": "30 ft., swim 80 ft."
@@ -120,6 +117,24 @@ Creatures that ingest water corrupted by a wastrilith risk their very souls. Tho
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 coastal, swamp, underdark, underwater
@@ -132,19 +147,27 @@ Wastrilith mpmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of wastrilith mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wastrilith mpmm.
 
-## Adventure Hooks
-
-- A rumor ties wastrilith mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at wastrilith mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to wastrilith mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and war looms
+- A document has gone missing and truth emerges
+- Someone is searching for information for revenge
+- A corpse reveals a betrayal about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -17,28 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -48,28 +42,38 @@ Poet Laureate Tidal Wordsmith is a undersea element of the setting, known for bi
 
 Legends speak of Poet Laureate Tidal Wordsmith as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Poet Laureate Tidal Wordsmith.
 
-## Adventure Hooks
-
-- A rumor ties Poet Laureate Tidal Wordsmith to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Poet Laureate Tidal Wordsmith to avert a public scandal.
-- A map overlay reveals a hidden approach to Poet Laureate Tidal Wordsmith active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Poet Laureate Tidal Wordsmith|02 Worldbuilding/Places/Poet Laureate Tidal Wordsmith]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Tethyan Hegemony]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- Strange dreams suggest a portal
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

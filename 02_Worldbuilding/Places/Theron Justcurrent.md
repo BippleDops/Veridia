@@ -1,4 +1,5 @@
 ---
+
 title: Theron Justcurrent
 type: Location
 tags:
@@ -18,28 +19,79 @@ population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.974508+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
-## Overview
 
-TODO
-## History
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Layout
+*20 targeted improvements identified*
 
-TODO
-## Notables
+### History Improvements
 
-TODO
-## Threats
+- Add three historical eras with major events
 
-TODO
-## Hooks
+### Culture Improvements
 
-TODO
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
 
 ## Player-Facing Summary
 
@@ -49,16 +101,6 @@ Theron Justcurrent is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Theron Justcurrent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Theron Justcurrent.
 
-## Adventure Hooks
-
-- A rumor ties Theron Justcurrent to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Theron Justcurrent to avert a public scandal.
-- A map overlay reveals a hidden approach to Theron Justcurrent active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -66,42 +108,9 @@ Legends speak of Theron Justcurrent as a nexus where past and present converge. 
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Theron Justcurrent]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Coral Throne Syndicate]]
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-primary-schools-v1-primary-schools.svg]]
-- [[Portal Commander Marina Bridgewright]]
-- [[Trade Captain Marina Pathkeeper]]
-
 
 ## Sensory Details
 
@@ -111,7 +120,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: The tang of salt air permeates everything
 
-
 ## Description
 
 Theron Justcurrent is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -119,35 +127,7 @@ Theron Justcurrent is a notable location characterized by its unique features an
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Theron Justcurrent
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -160,15 +140,25 @@ Ongoing situations affecting Theron Justcurrent:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Theron Justcurrent
+## Secret Connections
 
-### Whispered Rumors
-- Stories that may or may not be true
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+
+## Trade Importance
+
+Key stop on textiles trade route
+
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon

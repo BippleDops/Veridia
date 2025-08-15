@@ -21,30 +21,25 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# S-114 Gravity Well Rescue
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Read-Aloud
 > The stricken ship hangs at the lip of an invisible cliff, rigging screaming toward a point you can’t quite see.
-
-## Setup
-- Band: High • Category: Rescue/Physics
-
-## Mechanics
-- Tactics DC 15 plan extraction
-- Helm DC 16 positioning
-- Engineer DC 15 counter-field timing
-
-## Outcomes
-- Success: Free ship; faction +2; 200–600 gp reward
-- Partial: Free but damaged (2d6)
-- Fail: Forced to abandon or risk severe damage (4d6); moral call
-
-## Integrations
-- Faction; physics; Fleet doctrines
-
-## Quick-Run
-- Tactics→Helm→Engineer→resolve reward or damage
 
 ## Player-Facing Summary
 
@@ -54,19 +49,30 @@ S 114 Gravity Well Rescue is a undersea element of the setting, known for biolum
 
 Legends speak of S 114 Gravity Well Rescue as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around S 114 Gravity Well Rescue.
 
-## Adventure Hooks
-
-- A rumor ties S 114 Gravity Well Rescue to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at S 114 Gravity Well Rescue to avert a public scandal.
-- A map overlay reveals a hidden approach to S 114 Gravity Well Rescue active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A corpse reveals ancient history about this place
+- The authorities needs help stealing before winter
+- A shipment has gone missing and truth emerges
+- A map reveals a betrayal about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

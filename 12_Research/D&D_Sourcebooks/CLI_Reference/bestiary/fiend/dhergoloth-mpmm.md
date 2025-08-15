@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.540385'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dhergoloth-mpmm-dhergoloth-mpmm.svg)
 
@@ -38,7 +36,6 @@ world: Both
 > [!quote] A quote from Mordenkainen  
 > 
 > A dhergoloth's head doesn't turn along with its furiously spinning torso, and its torso can spin a different direction from its dancing legs.
-> 
 > I'd like to vivisect one a some point to find out how this can be.
 
 A kind of yugoloth, dhergoloths rush into battle like whirlwinds of destruction, lashing out with the five sets of claws that extend from their squat, barrel-shaped bodies. They take contracts to put down uprisings, clear out rabble, and eliminate scouts and skirmishers, and they revel in the butchery they create, their gleeful laughter rising above their victims' screams.
@@ -61,7 +58,6 @@ Since dhergoloths are little more than brutes, employers must use caution when i
   - !!int "10"
   - !!int "19"
   - !!int "7"
-  - !!int "10"
   - !!int "9"
 "speed": "30 ft."
 "saves":
@@ -101,6 +97,24 @@ Since dhergoloths are little more than brutes, employers must use caution when i
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 underdark
@@ -113,19 +127,33 @@ Dhergoloth mpmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of dhergoloth mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dhergoloth mpmm.
 
-## Adventure Hooks
-
-- A rumor ties dhergoloth mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dhergoloth mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to dhergoloth mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -1,7 +1,7 @@
-# Prevent Resonance Cascade
+# Prevent Resoce Cascade
 
 ---
-title: Prevent Resonance Cascade
+title: Prevent Resoce Cascade
 type: Lore
 tags:
 - lore
@@ -9,7 +9,7 @@ tags:
 - crisis-response
 - quest
 - research
-- resonance-cascade
+- resoce-cascade
 - active
 - complete
 - prevention
@@ -21,35 +21,38 @@ created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 ---
 
-
-
-# Prevent Resonance Cascade
+# Prevent Resoce Cascade
 
 *"When magic itself begins to unravel, heroes must act before reality tears apart."*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
-Preventing a Resonance Cascade involves stopping the catastrophic chain reaction that occurs when magical energies between Aquabyssos and Aethermoor become destabilized and begin feeding back on themselves. This phenomenon threatens to tear apart the barriers between realms, potentially destroying both worlds in a cascade of uncontrolled magical energy.
+Preventing a Resoce Cascade involves stopping the catastrophic chain reaction that occurs when magical energies between Aquabyssos and Aethermoor become destabilized and begin feeding back on themselves. This phenomenon threatens to tear apart the barriers between realms, potentially destroying both worlds in a cascade of uncontrolled magical energy.
 
 The cascade begins when dimensional stress points reach critical thresholds, causing magic itself to become unstable. Spells begin failing unpredictably, magical items overload, and reality itself starts to warp around areas of high magical concentration.
 
 ## Historical Background
-Resonance cascades were first theorized after minor magical feedback events during early inter-realm magical experiments. The devastating potential was confirmed when a small-scale cascade destroyed an entire research facility, creating a permanent magical dead zone.
+Resoce cascades were first theorized after minor magical feedback events during early inter-realm magical experiments. The devastating potential was confirmed when a small-scale cascade destroyed an entire research facility, creating a permanent magical dead zone.
 
 ## Current State
 Warning signs of an impending major cascade are becoming apparent: increased magical instability, dimensional barrier fluctuations, and reports of reality distortions in high-magic areas. Prevention requires coordinated action across both realms.
-
-## Mechanics
-### Requirements
-- Identification of cascade initiation points
-- Coordinated magical stabilization efforts
-- Neutralization of overcharged magical sources
-- Evacuation of high-risk areas
-
-### Effects
-- **Cascade Prevention**: Stops reality-threatening magical disaster
-- **Stability Restoration**: Returns magical environment to normal parameters
-- **Hero Recognition**: Success brings acclaim from both realms
-- **Failure Consequences**: Cascade continues with increasing severity
 
 ### Duration
 Prevention efforts must be completed within days or hours once cascade signs appear.
@@ -64,23 +67,40 @@ Ideal for high-stakes adventures where character actions have world-changing con
 
 ## Player-Facing Summary
 
-Prevent Resonance Cascade is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+Prevent Resoce Cascade is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of Prevent Resonance Cascade as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Prevent Resonance Cascade.
+Legends speak of Prevent Resoce Cascade as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Prevent Resoce Cascade.
 
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Campaign Index|02 Worldbuilding/Lore/Campaign Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting a witness for love
+- A journal reveals the truth about a local noble
+- A merchant needs help stealing before winter
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

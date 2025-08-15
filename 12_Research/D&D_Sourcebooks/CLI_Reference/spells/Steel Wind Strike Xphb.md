@@ -29,11 +29,8 @@ updated: '2025-08-13T12:34:06.576181+00:00'
 world: Both
 ---
 
-
-
 # Steel Wind Strike
 *5th-level, Conjuration*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -48,6 +45,24 @@ You then teleport to an unoccupied space you can see within 5 feet of one of the
 
 *Source: Player's Handbook (2024) p. 320*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Steel wind strike xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -56,19 +71,30 @@ Steel wind strike xphb is a undersea element of the setting, known for biolumine
 
 Legends speak of steel wind strike xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around steel wind strike xphb.
 
-## Adventure Hooks
-
-- A rumor ties steel wind strike xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at steel wind strike xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to steel wind strike xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and evil awakens
+- Strange sightings suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

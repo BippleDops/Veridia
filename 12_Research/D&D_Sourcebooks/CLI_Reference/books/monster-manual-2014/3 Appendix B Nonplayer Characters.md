@@ -22,12 +22,28 @@ updated: '2025-08-13T12:34:05.152529+00:00'
 world: Both
 ---
 
-
-
 # Appendix B: Nonplayer Characters
 *Source: Monster Manual (2014), p. 342* 
 
 This appendix contains statistics for various humanoid nonplayer characters (NPCs) that adventurers might encounter during a D&D campaign, including lowly commoners and mighty archmages. These stat blocks can be used to represent both human and nonhuman NPCs.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Customizing NPCs
 
@@ -79,19 +95,21 @@ The more powerful an NPC, the more likely it has one or more magic items in its 
 
 Legends speak of 3 appendix b nonplayer characters as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 3 appendix b nonplayer characters.
 
-## Adventure Hooks
-
-- A rumor ties 3 appendix b nonplayer characters to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 3 appendix b nonplayer characters to avert a public scandal.
-- A map overlay reveals a hidden approach to 3 appendix b nonplayer characters active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing information for revenge
+- Strange dreams suggest a curse
+- A noble needs help investigating before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

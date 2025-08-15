@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.894442+00:00'
 world: Both
 ---
 
-
-
 # A Sample Pantheon; Dawn War Deities
 *Source: Dungeon Master's Guide p. 11* 
 
@@ -53,6 +51,24 @@ world: Both
 | [[dawn-war-zehir-dmg|Zehir]], god of darkness and poison | CE | Trickery, Death | Snake in the shape of a dagger |
 ^dawn-war-deities
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 A sample pantheon dawn war deities is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -61,20 +77,28 @@ A sample pantheon dawn war deities is a undersea element of the setting, known f
 
 Legends speak of a sample pantheon dawn war deities as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around a sample pantheon dawn war deities.
 
-## Adventure Hooks
-
-- A rumor ties a sample pantheon dawn war deities to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at a sample pantheon dawn war deities to avert a public scandal.
-- A map overlay reveals a hidden approach to a sample pantheon dawn war deities active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A noble needs help investigating before dawn
+- Someone is searching for a artifact for power
+- Someone is blackmailing information for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

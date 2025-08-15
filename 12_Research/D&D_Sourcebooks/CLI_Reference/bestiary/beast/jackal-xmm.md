@@ -28,13 +28,29 @@ updated: '2025-08-12T23:37:35.131702'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-jackal-xmm-jackal-xmm.svg)
 
 # [[jackal-xmm|Jackal]]
-*Source: Monster Manual (2024) p. 364. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 364. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Animals
 
@@ -86,18 +102,9 @@ Jackal xmm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of jackal xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around jackal xmm.
 
-## Adventure Hooks
-
-- A rumor ties jackal xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at jackal xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to jackal xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

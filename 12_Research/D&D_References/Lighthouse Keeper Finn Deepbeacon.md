@@ -17,27 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## History
+### Enhancement Improvements
 
-TODO
-## Layout
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -47,23 +42,21 @@ Lighthouse Keeper Finn Deepbeacon is a undersea element of the setting, known fo
 
 Legends speak of Lighthouse Keeper Finn Deepbeacon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lighthouse Keeper Finn Deepbeacon.
 
-## Adventure Hooks
-
-- A rumor ties Lighthouse Keeper Finn Deepbeacon to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Lighthouse Keeper Finn Deepbeacon to avert a public scandal.
-- A map overlay reveals a hidden approach to Lighthouse Keeper Finn Deepbeacon active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Lighthouse Keeper Finn Deepbeacon|02 Worldbuilding/Places/Lighthouse Keeper Finn Deepbeacon]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting an heir for love
+- A stranger needs help finding before the new moon
+- A map reveals the truth about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -28,14 +28,29 @@ updated: '2025-08-13T12:34:05.339678+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-troglodyte-xmm-troglodyte-xmm.svg)
 
 # [[troglodyte-xmm|Troglodyte]]
 *Source: Monster Manual (2024) p. 309*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Troglodyte
 
@@ -52,7 +67,6 @@ Troglodytes prefer to ambush prey and can change their scale color to blend in w
 > 
 > Smells fine to me.
 
-
 ```statblock
 "name": "Troglodyte (XMM)"
 "size": "Medium"
@@ -64,9 +78,6 @@ Troglodytes prefer to ambush prey and can change their scale color to blend in w
 "modifier": !!int "0"
 "stats":
   - !!int "14"
-  - !!int "10"
-  - !!int "14"
-  - !!int "6"
   - !!int "10"
   - !!int "6"
 "speed": "30 ft., climb 30 ft."
@@ -107,19 +118,22 @@ Troglodyte xmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of troglodyte xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around troglodyte xmm.
 
-## Adventure Hooks
-
-- A rumor ties troglodyte xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at troglodyte xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to troglodyte xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest ancient magic
+- Strange accidents suggest a curse
+- A journal reveals a betrayal about a local noble
+- Someone is blackmailing a witness for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

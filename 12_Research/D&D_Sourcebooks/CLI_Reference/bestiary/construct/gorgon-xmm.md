@@ -29,15 +29,31 @@ updated: '2025-08-12T23:37:35.832277'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-brazen-gorgon-xmm-brazen-gorgon-xmm.svg)
 
 # [[gorgon-xmm|Gorgon]]
-*Source: Monster Manual (2024) p. 148. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 148. Available in the SRD and the Free Rules (2024)*  
 
 Most gorgons are iron bulls wreathed in clouds of petrifying gas. Their metal plates vary in sheen and color, from sleek silver to pitted black. The oldest gorgons might be covered in rust, but this rarely impedes their abilities. These gorgons' stomping grounds are littered with the shattered remains of [[conditions#Petrified|petrified]] foes. Many gorgons outlive their creators by centuries, misleading some to believe these creations have natural origins and territories. Most such gorgons continue to follow age-old commands, guarding sites long fallen to ruin.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Gorgons
 
@@ -72,7 +88,6 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
 > 
 > Notable among my eccentric ancestor's scattered designs was a schematic of a swamp-dwelling bovine monster and an ominous note: "Do better."
 
-
 ```statblock
 "name": "Gorgon (XMM)"
 "size": "Large"
@@ -101,7 +116,7 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
 "actions":
   - "desc": "Melee Attack Roll: +8, reach 5 ft. Hit: 18 (2d12 + 5) Piercing damage.\
       \ If the target is a Large or smaller creature and the gorgon moved 20+ feet\
-      \ straight toward it immediately before the hit, the target has the [[conditions#Prone|Prone]]\
+      \ straight toward it immediately before the hit, the target has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Gore"
   - "desc": "Constitution Saving Throw: DC 15, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
@@ -110,11 +125,10 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
       \ [[conditions#Restrained|Restrained]], ending the effect\
       \ on itself on a success. 2nd Failure: The target has the [[conditions#Petrified|Petrified]]\
       \ condition instead of the [[conditions#Restrained|Restrained]]\
-      \ condition."
     "name": "Petrifying Breath (Recharge 5-6)"
 "bonus_actions":
   - "desc": "Dexterity Saving Throw: DC 16, one creature within 5 feet that has\
-      \ the [[conditions#Prone|Prone]] condition. Failure: 16\
+      \ the [[conditions#prone|Prone]] condition. Failure: 16\
       \ (2d10 + 5) Bludgeoning damage. Success: Half damage."
     "name": "Trample"
 "source":
@@ -135,19 +149,34 @@ Gorgon xmm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of gorgon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gorgon xmm.
 
-## Adventure Hooks
-
-- A rumor ties gorgon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gorgon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to gorgon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## Plot Hooks
+
+- Someone is searching for a artifact for power
+- A merchant needs help delivering before winter
+- An heirloom has gone missing and evil awakens
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

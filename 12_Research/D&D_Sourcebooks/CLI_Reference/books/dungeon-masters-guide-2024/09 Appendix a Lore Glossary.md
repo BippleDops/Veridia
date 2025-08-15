@@ -22,12 +22,28 @@ updated: '2025-08-13T12:34:05.170943+00:00'
 world: Both
 ---
 
-
-
 # Appendix A: Lore Glossary
 *Source: Dungeon Master's Guide (2024), p. 354* 
 
 This appendix provides brief descriptions for many of the D&D game's most famous heroes, villains, creatures, locations, and materials. The entries are presented in alphabetical order.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Acererak
 
@@ -167,7 +183,7 @@ Icewind Dale is the northernmost settled region of the Forgotten Realms setting.
 
 ## Iggwilv
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/206-11-003-tasha.webp#center "The Wizard Tasha, before she became Iggwilv the Witch Queen"|The Wizard Tasha, before s...]]
+!]
 
 Before she changed her name and conquered enough of Eastern Oerik (the Greyhawk setting) to rightfully call herself the Witch Queen of Perrenland, Iggwilv *(IGG-wilv)* was known as Tasha, a human mage who began her career as the apprentice of Zagig Yragerne (see "Zagyg"). Later, as an adventurer, she created several new spells, including [[tashas-hideous-laughter-xphb|Tasha's Hideous Laughter]] and [[tashas-bubbling-cauldron-xphb|Tasha's Bubbling Cauldron]], leaning on the teachings of her adoptive mother, the arch-hag "Baba Yaga". As Tasha grew in power and made powerful enemies, she changed her name to Iggwilv. In this guise, she became enchanted with the power of the Abyss and wrote the definitive treatise on demonkind: the [[demonomicon-of-iggwilv-xdmg|Demonomicon of Iggwilv]] (see "chapter 7"). She also bound and trapped the demon lord "Graz'zt" (see "chapter 6").
 
@@ -183,7 +199,7 @@ The youngest and most recently appointed member of the "Circle of Eight" (see "c
 
 ## Kas the Betrayer
 
-Kas *(KOSS)* is a vampire, legendary sword-fighter, and ruthless warlord. He once served as the leader of "Vecna"'s armies and the lich's most trusted lieutenant, and he wielded a sword made for him (the [[sword-of-kas-xdmg|Sword of Kas]], described in "chapter 7") by his liege. But the evil sword convinced Kas to betray Vecna, and now Kas is driven primarily by his hatred for his former lord.
+Kas *(KOSS)* is a vampire, legendary sword-fighter, and ruthless warlord. He once served as the leader of "Vecna"'s armies and the lich's most trusted lieutet, and he wielded a sword made for him (the [[sword-of-kas-xdmg|Sword of Kas]], described in "chapter 7") by his liege. But the evil sword convinced Kas to betray Vecna, and now Kas is driven primarily by his hatred for his former lord.
 
 ## Keraptis
 
@@ -343,7 +359,7 @@ Prominent members of Valor's Call include the dwarf Fighter Elkhorn, the human C
 
 ## Vecna
 
-Vecna *(VECK-nah)* had humble beginnings in the Greyhawk setting, where an order of Wizards used him as a bootblack and scribe. He studied magic in secret until he amassed enough power to slaughter the order, and then he turned his efforts toward scribing the [[book-of-vile-darkness-xdmg|Book of Vile Darkness]] (described in "chapter 7"). Armed with that dread tome, he forged a kingdom to rule, with the vampire "Kas" as his lieutenant. But Kas betrayed and killed him, leaving only one hand and one eye intact (the [[eye-and-hand-of-vecna-xdmg|Eye and Hand of Vecna]] are described in "chapter 7").
+Vecna *(VECK-nah)* had humble beginnings in the Greyhawk setting, where an order of Wizards used him as a bootblack and scribe. He studied magic in secret until he amassed enough power to slaughter the order, and then he turned his efforts toward scribing the [[book-of-vile-darkness-xdmg|Book of Vile Darkness]] (described in "chapter 7"). Armed with that dread tome, he forged a kingdom to rule, with the vampire "Kas" as his lieutet. But Kas betrayed and killed him, leaving only one hand and one eye intact (the [[eye-and-hand-of-vecna-xdmg|Eye and Hand of Vecna]] are described in "chapter 7").
 
 Vecna's evil will was so great that he persisted beyond death and eventually became a demigod of secrets and evil magic. His ambition drives him to pursue greater divine power across the multiverse.
 
@@ -369,11 +385,9 @@ Waterdeep is the most famous and cosmopolitan city in the Forgotten Realms setti
 
 Xanathar *(ZAN-a-thar)* is an eccentric beholder crime lord dwelling beneath "Waterdeep". Desiring to know all there is to know, Xanathar collects knowledge from across the multiverse, but its most prized possession is its goldfish, Sylgar.
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/212-11-009-xanathar.webp#center "Xanathar is a tyrannical crime lord as well as a beholder"|Xanathar is a tyrannical c...]]
-
 ## Yawning Portal, The
 
-The Yawning Portal is a tavern in "Waterdeep", built around an entrance to the infamous dungeon of "Undermountain". Adventurers throughout the Forgotten Realms setting and elsewhere in the multiverse visit the Yawning Portal to exchange knowledge about Undermountain and other dungeons. Most visitors are content to swap stories by the hearth, but some adventurers pay the toll for entry into Undermountain (collected by the mysterious owner and bartender, Durnan).
+The Yawning Portal is a tavern in "Waterdeep", built around an entrance to the infamous dungeon of "Undermountain". Adventurers throughout the Forgotten Realms setting and elsewhere in the multiverse visit the Yawning Portal to exchange knowledge about Undermountain and other dungeons. Most visitors are content to swap stories by the hearth, but some adventurers pay the toll for entry into Undermountain (collected by the mysterious owner and bartender, Dur).
 
 ## Yolande
 
@@ -395,19 +409,15 @@ Zargon *(ZAR-gawn)* is an "Elder Evil"—an undying abomination from eons past w
 
 Legends speak of 09 appendix a lore glossary as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 09 appendix a lore glossary.
 
-## Adventure Hooks
-
-- A rumor ties 09 appendix a lore glossary to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 09 appendix a lore glossary to avert a public scandal.
-- A map overlay reveals a hidden approach to 09 appendix a lore glossary active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

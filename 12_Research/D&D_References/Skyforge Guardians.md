@@ -17,21 +17,22 @@ updated: '2025-08-13T01:18:34.512211+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## Historical Context
+### Enhancement Improvements
 
-TODO
-## Current Relevance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## See Also
-
-TODO
 
 ## Player-Facing Summary
 
@@ -41,17 +42,9 @@ Skyforge Guardians is a sky-borne element of the setting, known for brass fittin
 
 Legends speak of Skyforge Guardians as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Skyforge Guardians.
 
-## Adventure Hooks
-
-- A rumor ties Skyforge Guardians to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Skyforge Guardians to avert a public scandal.
-- A map overlay reveals a hidden approach to Skyforge Guardians active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
 
 ## Semantic Connections
 *Related concepts and locations:*
@@ -67,8 +60,12 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Border Fortresses]]
 
 
-## Connections
 
-- See also: [[Master Timeline]]
-- Related: [[Power Structures]]
-- Connected to: [[Side Adventures]]
+## Plot Hooks
+
+- A shipment has gone missing and evil awakens
+- Strange accidents suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

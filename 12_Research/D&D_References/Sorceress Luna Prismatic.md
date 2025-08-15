@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.121564+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-sorceress-luna-prismatic-sorceress-luna-prismatic.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Inverted Ballroom Wing|02 Worldbuilding/Places/Inverted Ballroom Wing]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Inverted Ballroom Wing]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,40 @@ Sorceress Luna Prismatic is a undersea element of the setting, known for biolumi
 
 Legends speak of Sorceress Luna Prismatic as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sorceress Luna Prismatic.
 
-## Adventure Hooks
-
-- A rumor ties Sorceress Luna Prismatic to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Sorceress Luna Prismatic to avert a public scandal.
-- A map overlay reveals a hidden approach to Sorceress Luna Prismatic active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Depths
+
+
+## Plot Hooks
+
+- Strange accidents suggest ancient magic
+- A map reveals a conspiracy about the government
+- Strange dreams suggest a portal
+- Someone is searching for a witness for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

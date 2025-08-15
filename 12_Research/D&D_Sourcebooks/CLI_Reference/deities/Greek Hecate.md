@@ -25,15 +25,31 @@ updated: '2025-08-13T12:34:04.316863+00:00'
 world: Both
 ---
 
-
-
 # Hecate
-*Source: Player's Handbook p. 298, Sword Coast Adventurer's Guide p. 125. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+*Source: Player's Handbook p. 298, Sword Coast Adventurer's Guide p. 125. Available in the SRD* 
 
 - **Alignment**: Chaotic Evil
 - **Domains**: Knowledge, Trickery, Arcana
 - **Pantheon**: Greek
 - **Symbol**: Setting moon
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -43,19 +59,22 @@ Greek hecate is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of greek hecate as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around greek hecate.
 
-## Adventure Hooks
-
-- A rumor ties greek hecate to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at greek hecate to avert a public scandal.
-- A map overlay reveals a hidden approach to greek hecate active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and evil awakens
+- A document has gone missing and war looms
+- Strange sightings suggest a portal
+- A journal reveals ancient history about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

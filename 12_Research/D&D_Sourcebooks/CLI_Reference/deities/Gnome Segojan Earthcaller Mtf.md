@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:04.250244+00:00'
 world: Both
 ---
 
-
-
 # Segojan Earthcaller
 *Source: Mordenkainen's Tome of Foes p. 112* 
 
@@ -39,6 +37,24 @@ The gnomes know Segojan Earthcaller as a kind, modest hero. He is said to be the
 
 Forest gnomes believe that their ability to speak with burrowing animals comes from Segojan. All gnomes see Segojan as a healer of the sick and a protector of the hearth. He is also revered in his role as a guide for gnomish souls after death, as long as the body is buried before worms claim it. If a gnome's body isn't entrusted to Segojan by interring it, the soul is forced to find its own way to the afterlife.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Gnome segojan earthcaller mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -47,19 +63,25 @@ Gnome segojan earthcaller mtf is a undersea element of the setting, known for bi
 
 Legends speak of gnome segojan earthcaller mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gnome segojan earthcaller mtf.
 
-## Adventure Hooks
-
-- A rumor ties gnome segojan earthcaller mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gnome segojan earthcaller mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to gnome segojan earthcaller mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

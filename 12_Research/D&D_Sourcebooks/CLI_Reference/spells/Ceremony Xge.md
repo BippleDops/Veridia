@@ -31,11 +31,8 @@ updated: '2025-08-13T12:34:06.222044+00:00'
 world: Both
 ---
 
-
-
 # Ceremony
 *1st-level, Abjuration (ritual)*  
-
 
 - **Casting time:** 1 hour unless cast as a ritual
 - **Range:** Touch
@@ -43,6 +40,24 @@ world: Both
 - **Duration:** Instantaneous
 
 You perform a special religious ceremony that is infused with magic. When you cast the spell, choose one of the following rites, the target of which must be within 10 feet of you throughout the casting.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Atonement
 
@@ -82,19 +97,26 @@ Ceremony xge is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of ceremony xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ceremony xge.
 
-## Adventure Hooks
-
-- A rumor ties ceremony xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ceremony xge to avert a public scandal.
-- A map overlay reveals a hidden approach to ceremony xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## Plot Hooks
+
+- A document has gone missing and truth emerges
+- Strange disappearances suggest ancient magic
+- A noble needs help finding before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

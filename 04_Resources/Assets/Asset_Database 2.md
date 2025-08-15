@@ -18,11 +18,9 @@ Formats: Portraits 1:1@2048, Scenes 16:9@2560x1440, Maps 16:9@2560x1440, Symbols
 Versioning: keep JSON sidecars in Generated/metadata
 Licensing: track source (AI/local), model, seed, rights in sidecar
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

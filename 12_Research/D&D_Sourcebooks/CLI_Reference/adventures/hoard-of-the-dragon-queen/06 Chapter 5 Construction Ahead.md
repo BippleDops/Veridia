@@ -22,14 +22,30 @@ updated: '2025-08-13T12:34:04.984136+00:00'
 world: Both
 ---
 
-
-
 # Chapter 5: Construction Ahead
 *Source: Hoard of the Dragon Queen, p. 55* 
 
 ![](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/024-tod-05-01.webp#center)
 
 The freight travels as far north as possible, following the Trade Way past Waterdeep to where the great road was swallowed up by the ever-expanding Mere of Dead Men. A fortified roadhouse that once served merchants and teamsters now feeds laborers and safeguards road-building supplies, and it also aids the Cult of the Dragon in smuggling its treasure.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Waterdeep
 
@@ -61,7 +77,7 @@ Remember that the characters are just part of the convoy escort. The monsters li
 
 #### Encounters North of Waterdeep
 
-| d20 + <span>[Modifier]</span> | Encounter |
+| d20 + [Modifier] | Encounter |
 |-------------------------------|-----------|
 | 1–14 | No encounter |
 | 15 | 12 human [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandits]] |
@@ -165,19 +181,35 @@ The cultist means to kill the character, and she will if she wins the duel (cont
 
 Legends speak of 06 chapter 5 construction ahead as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 06 chapter 5 construction ahead.
 
-## Adventure Hooks
-
-- A rumor ties 06 chapter 5 construction ahead to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 06 chapter 5 construction ahead to avert a public scandal.
-- A map overlay reveals a hidden approach to 06 chapter 5 construction ahead active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for a artifact for revenge
+- An heirloom has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

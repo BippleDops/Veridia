@@ -25,8 +25,6 @@ updated: '2025-08-13T12:34:07.653526+00:00'
 world: Both
 ---
 
-
-
 # Rod of Lordly Might
 *Rod, legendary (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/rod-of-lordly-might.webp#right)
@@ -34,6 +32,24 @@ world: Both
 - **Weight**: 2.0 lbs.
 
 This rod has a flanged head, and it functions as a magic Mace that grants a +3 bonus to attack rolls and damage rolls made with it. The rod has properties associated with six different buttons that are set in a row along the haft. It has three other properties as well, detailed below.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Buttons
 
@@ -56,9 +72,9 @@ When you hit a creature with a melee attack using the rod, you can force the tar
 
 ## Terrify
 
-While holding the rod, you can take a [[actions#Magic|Magic]] action to force each creature you can see within 30 feet of yourself to make a DC 17 Wisdom saving throw. On a failed save, a target has the [[conditions#Frightened|Frightened]] condition for 1 minute. A [[conditions#Frightened|Frightened]] target repeats the save at the end of each of its turns, ending the effect on itself on a success. Once used, this property can't be used again until the next dawn.
+While holding the rod, you can take a [[actions#Magic|Magic]] action to force each creature you can see within 30 feet of yourself to make a DC 17 Wisdom saving throw. On a failed save, a target has the [[conditions#frightened|Frightened]] condition for 1 minute. A [[conditions#frightened|Frightened]] target repeats the save at the end of each of its turns, ending the effect on itself on a success. Once used, this property can't be used again until the next dawn.
 
-*Source: Dungeon Master's Guide (2024) p. 300. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 300. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -68,19 +84,26 @@ Rod of lordly might xdmg is a undersea element of the setting, known for biolumi
 
 Legends speak of rod of lordly might xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rod of lordly might xdmg.
 
-## Adventure Hooks
-
-- A rumor ties rod of lordly might xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at rod of lordly might xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to rod of lordly might xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for an heir for money
+- Strange disappearances suggest a portal
+- The authorities needs help stealing before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

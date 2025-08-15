@@ -16,10 +16,6 @@ updated: '2025-08-13'
 world: Both
 ---
 
-
-# Combat Encounter Analysis
-## Improve tactical gameplay
-
 ### Encounter Overview
 
 ```
@@ -34,11 +30,9 @@ Overall Encounter Rating:
 ★★★☆☆  Good
 ★★★★☆  Great
 ★★★★★  Excellent
-```
 
 ### Difficulty Assessment
 
-```
 DIFFICULTY LEVEL:
 □ Too easy - no challenge
 □ Easy - minimal threat
@@ -58,11 +52,9 @@ TACTICAL COMPLEXITY:
 □ Moderate - required some planning
 □ Complex - needed careful strategy
 □ Too complex - overwhelming options
-```
 
 ### Character Performance
 
-```
 Did your character feel useful in this encounter?
 □ Very useful - multiple contributions
 □ Useful - solid contributions
@@ -71,11 +63,8 @@ Did your character feel useful in this encounter?
 
 What did your character do well?
 _______________________________________
-_______________________________________
 
 What would you have done differently?
-_______________________________________
-_______________________________________
 
 Did you get to use your favorite abilities?
 □ Yes, used them effectively
@@ -83,11 +72,9 @@ Did you get to use your favorite abilities?
 □ A few abilities
 □ Barely any
 □ None at all
-```
 
 ### Environmental Factors
 
-```
 TERRAIN/ENVIRONMENT:
 □ Added great tactical options
 □ Added some interesting elements
@@ -108,11 +95,9 @@ SPECIAL MECHANICS:
 □ Adequate
 □ Confusing or unclear
 □ None present
-```
 
 ### Pacing & Flow
 
-```
 COMBAT PACING:
 □ Too slow - dragged on
 □ Slightly slow
@@ -130,14 +115,11 @@ TURN ORDER MANAGEMENT:
 RULE CLARITY:
 □ All rules were clear
 □ Most rules clear
-□ Some confusion
 □ Frequent rule questions
 □ Very confusing
-```
 
 ### Improvements
 
-```
 What could have made this encounter better?
 □ More interesting terrain
 □ Different enemy types
@@ -149,26 +131,38 @@ What could have made this encounter better?
 □ Other: _______________________________
 
 Specific suggestions:
-_______________________________________
-_______________________________________
 
 What made this encounter memorable?
-_______________________________________
-_______________________________________
 
 Would you want to face similar encounters again?
 □ Yes, loved it
 □ Yes, with minor changes
 □ Maybe, depends on context
 □ No, didn't enjoy it
-```
 
 *Good combat keeps everyone engaged and challenged*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -177,3 +171,23 @@ Would you want to face similar encounters again?
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Strange disappearances suggest ancient magic
+- A stranger needs help investigating before dawn
+
+## 07_Player_Resources Specific Content
+
+Contextual improvement based on 07_Player_Resources
+
+
+## 07_Player_Resources Specific Content
+
+Contextual improvement based on 07_Player_Resources

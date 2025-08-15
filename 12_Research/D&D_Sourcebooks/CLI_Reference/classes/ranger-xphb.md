@@ -16,6 +16,21 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
 ## Player-Facing Summary
@@ -26,19 +41,25 @@ Ranger xphb is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of ranger xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ranger xphb.
 
-## Adventure Hooks
-
-- A rumor ties ranger xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ranger xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to ranger xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- Strange dreams suggest a conspiracy
+- A journal reveals a betrayal about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

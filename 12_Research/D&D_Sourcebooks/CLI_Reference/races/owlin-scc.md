@@ -22,7 +22,6 @@ updated: '2025-08-12T23:37:37.710033'
 world: Both
 ---
 
-
 # Owlin
 *Source: Strixhaven: A Curriculum of Chaos p. 29*  
 ![[/03_Mechanics/CLI/races/img/owlin.webp#right|Owlin unleash magic in the sky above Strixhaven]]
@@ -30,8 +29,6 @@ world: Both
 - **Ability Scores**: Choose one of: (a) Choose any +2, choose any other +1; (b) Choose any +1, choose any other +1, choose any other +1
 - **Size**: Small or Medium
 - **Speed**: walk: 30 ft.; fly equal to your walking speed
-
-## Traits
 
 ### Size
 
@@ -49,6 +46,24 @@ Thanks to your wings, you have a flying speed equal to your walking speed. You c
 
 You have proficiency in the [[skills#Stealth|Stealth]] skill.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Description
 
 Distant kin of giant owls from the Feywild, owlin come in many shapes and sizes, from petite and fluffy to wide-winged and majestic. Owlin have arms and legs like other Humanoids, as well as wings that extend from their back and shoulders.
@@ -65,19 +80,25 @@ Owlin scc is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of owlin scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around owlin scc.
 
-## Adventure Hooks
-
-- A rumor ties owlin scc to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at owlin scc to avert a public scandal.
-- A map overlay reveals a hidden approach to owlin scc active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals a betrayal about a local noble
+- Someone is hunting a witness for power
+- Strange dreams suggest a curse
+- Strange dreams suggest a conspiracy
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

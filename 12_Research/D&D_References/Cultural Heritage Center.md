@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Shadow Vale|02 Worldbuilding/Groups/Shadow Vale]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Shadow Vale]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,21 @@ Cultural Heritage Center is a undersea element of the setting, known for biolumi
 
 Legends speak of Cultural Heritage Center as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Cultural Heritage Center.
 
-## Adventure Hooks
-
-- A rumor ties Cultural Heritage Center to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Cultural Heritage Center to avert a public scandal.
-- A map overlay reveals a hidden approach to Cultural Heritage Center active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a portal
+- The authorities needs help delivering before winter
+- A stranger needs help investigating before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

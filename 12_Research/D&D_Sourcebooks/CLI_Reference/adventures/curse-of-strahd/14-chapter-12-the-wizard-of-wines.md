@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.535767'
 world: Both
 ---
 
-
 # Chapter 12: The Wizard of Wines
 *Source: Curse of Strahd, p. 173* 
 
@@ -53,19 +52,34 @@ Two days ago, the druids returned with a horde of blights and drove Davian's fam
 
 Even if the characters succeed in helping the Martikovs reclaim the winery, wine production in the valley will eventually stop as the vineyard dies off. Only by recovering the magic gems and replanting them in the soil can the characters ensure that the Barovians aren't without wine to comfort them on dark, wretched nights.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Approaching the Vineyard
 
 A branch of the Old Svalich Road leads to the vineyard. If the characters approach along this path, read:
 
 > [!readaloud] 
-> 
 > After a half mile, the road becomes a muddy trail that meanders through the woods, descending gradually until the trees part, revealing a mist-shrouded meadow. The trail splits. One branch heads west into the valley, and the other leads south into dark woods. A wooden signpost at the intersection points west and reads, "Vineyard."
 ^593
 
 If the characters head west on the trail toward the vineyard, read:
 
-> [!readaloud] 
-> 
 > A light drizzle begins to fall. Unpainted fences blindly follow the trail, which skirts north of a sprawling vineyard before bending south toward a stately building. The fog takes on ghostly forms as it swirls between the neatly tended rows of grapevines. Here and there, you see rope-handled half-barrels used for hauling grapes. North of the trail is a large stand of trees. A man wearing a dark cloak and cowl stands at the edge of the trees, beckoning you.
 ^594
 
@@ -95,17 +109,12 @@ If the characters come to the vineyard looking to obtain wine, Adrian can confir
 
 If the characters continue toward the winery, read:
 
-> [!readaloud] 
-> 
 > Situated in the midst of the vineyard, the winery is an old, two-story stone building with multiple entrances, thick ivy covering every wall, and iron fencing along its roofline. The trail ends at an open loading dock on the ground floor.
-> 
 > A wooden stable of more recent construction is attached to the east side of the winery, next to the loading dock. West of the winery is a crumbling well and a wooden outhouse.
 ^597
 
 When the characters reach the winery, read:
 
-> [!readaloud] 
-> 
 > You hear the rustle of dead vines all around you. Inhuman shapes emerge from the vineyard, their limbs cracking as they trudge forth through the mist and rain.
 ^598
 
@@ -134,8 +143,6 @@ The Martikovs keep two [[draft-horse-xmm|draft horses]] here and use them to pul
 
 ### W2. Loading Dock
 
-> [!readaloud] 
-> 
 > Parked in the loading dock is a wagon with three barrels set in braces on the bed. A raised wooden walkway runs along the west, south, and east walls. Through a hole in the ceiling you see the wooden arm of a loading crane with ropes and hooks dangling from it.
 ^59c
 
@@ -145,8 +152,6 @@ The south door has been forced open and hangs ajar. It can't be closed properly 
 
 ### W3. Barrel Maker's Workshop
 
-> [!readaloud] 
-> 
 > Strips of iron and wood lie in neat piles on the floor of this workshop, the walls of which are lined with tools. Two worktables stand against the east wall.
 ^59e
 
@@ -154,8 +159,6 @@ Wine barrels are made here. The north door is barred from the inside.
 
 ### W4. Barrel Storage
 
-> [!readaloud] 
-> 
 > Rows of new barrels fill this room. A narrow stone staircase spirals upward in the southwest corner.
 ^5a0
 
@@ -163,10 +166,7 @@ The room contains thirteen empty barrels.
 
 ### W5. Veranda
 
-> [!readaloud] 
-> 
 > Resting on a flagstone veranda are three five-foot-diameter wooden tubs, their insides stained with grape juice. Each tub has a short ladder bolted to its side and a catch basin tucked underneath.
-> 
 > At the back of the veranda is a large set of sliding wooden doors as well as a normal-sized wooden door. Stone pillars and arches support the upper floor above.
 ^5a2
 
@@ -178,8 +178,6 @@ A ring of tight-fitting, moss-covered stones encloses this 40-foot-deep well.
 
 ### W7. Outhouse
 
-> [!readaloud] 
-> 
 > Sweet-smelling herbs hang from the eaves of this ramshackle wooden outhouse, which has a small crescent moon carved into its door.
 ^5a5
 
@@ -187,8 +185,6 @@ The outhouse contains no surprises.
 
 ### W8. Storage
 
-> [!readaloud] 
-> 
 > Bare hooks line the walls of this storage room. Shelves to the south hold several pairs of stained wooden sandals with oversized soles. Both doors to this room hang open. The one to the west is fitted with iron brackets and leads outside into the rain. Lying on the floor next to it is a five-foot-long wooden beam.
 ^5a7
 
@@ -198,8 +194,6 @@ The wooden beam on the floor can be used to bar the outer door.
 
 ### W9. Fermentation Vats
 
-> [!readaloud] 
-> 
 > The rich smell of fermenting wine fills this large, two-story chamber, which is dominated by four enormous wooden casks, each one eight feet wide and twelve feet tall. A wooden staircase in the center of the room climbs to a ten-foot-high wooden balcony that clings to the south wall, which has four windows set into it at balcony level. Stacked against the wall underneath the balcony are old, empty barrels with "The Wizard of Wines" burned into their sides. The balcony climbs another five feet as it continues along the west and east walls, ending at doors leading to the winery's upper level. Underneath these side balconies are several doors, some of which hang open. Beneath the sloping roof stretch thick rafters, upon which scores of ravens have quietly gathered. They watch you with great interest.
 ^5a9
 
@@ -207,8 +201,6 @@ Four [[swarm-of-ravens-xmm|swarms of ravens]] perch on the rafters but don't att
 
 Unless they have been drawn outside, twenty-four [[twig-blight-xmm|twig blights]] and one [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] (NE female human) are also present. If they are here, read:
 
-> [!readaloud] 
-> 
 > The balcony creaks, drawing your eye to a wild-looking figure hunched over the westernmost cask, pouring a flask of thick syrup into it. She wears a gown made of animal skins and a headdress with goat horns, and her hair is long and unkempt. Suddenly, you see something skittering across the floor. It looks like a tiny creature made of twigs. It moves from its hiding place under the stairs and disappears behind the easternmost cask.
 ^5aa
 
@@ -226,8 +218,6 @@ The single door leading to area W5 is barred shut from the inside, as is the sin
 
 ### W10. Glassblower's Workshop
 
-> [!readaloud] 
-> 
 > A dirty window in the south wall allows dim light to enter this room. Wine bottles are manufactured here, as evidenced by the tools lying about, the wooden rack full of freshly blown glass bottles along the south wall, the hearth built into the southwest corner, and the barrel of sand standing next to it. A staircase descends underground, and between it and the rack of bottles stands a barred door.
 ^5ac
 
@@ -239,8 +229,6 @@ If your card reading reveals that a treasure is here, it's buried in the barrel 
 
 ### W11. Spiral Staircase
 
-> [!readaloud] 
-> 
 > This turret contains a stone spiral staircase. Windows in the outer wall allow light to enter.
 ^5af
 
@@ -248,8 +236,6 @@ The stairs connect all three levels of the winery.
 
 ### W12. Ramp
 
-> [!readaloud] 
-> 
 > This turret has a sloping, wooden floor that spirals from the cellar to the upper levels. Scratch marks suggest that barrels are rolled up and down the ramp on a routine basis.
 ^5b1
 
@@ -257,8 +243,6 @@ The spiraling ramp connects all three levels of the winery. The evil druids who 
 
 ### W13. Back Staircase
 
-> [!readaloud] 
-> 
 > Thick moss covers the walls of this underground staircase. At the foot of the steps is a landing with an arched wooden door set into the north wall.
 ^5b3
 
@@ -268,15 +252,11 @@ This staircase connects areas W10 and W14.
 
 In the winery's heyday, the wine cellar was packed with barrels awaiting shipment, but those days are long gone.
 
-> [!readaloud] 
-> 
 > Wooden pillars and beams support the ten-foot-high ceiling of this ice-cold cellar, which is split in two by a five-foot-thick brick wall. A thin mist covers the floor. Each half of the cellar features an eight-foot tall wooden partition that doubles as a wine rack. The western rack stands empty, but the eastern one is half filled with wine bottles.
 ^5b6
 
 Unless they have been drawn outside, five [[needle-blight-xmm|needle blights]] and one [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] (NE male human) lurk in the eastern portion of the cellar. If they are here when the characters enter that part of the cellar, read:
 
-> [!readaloud] 
-> 
 > Something moves behind the eastern wine rack. Through the holes, you glimpse a half dozen humanoid figures, one with a full rack of antlers. You hear a gravelly voice mutter the words of a spell.
 ^5b7
 
@@ -292,8 +272,6 @@ A secret door between the two halves of the wine cellar can be pushed open to re
 
 If the characters open the secret door, read:
 
-> [!readaloud] 
-> 
 > It takes some effort to push open the secret door, and you are greeted by a blast of cold air. A dark tunnel stretches for fifteen feet, ending at an archway beyond which lies a shallow cave.
 ^5b9
 
@@ -301,8 +279,6 @@ Characters who have a light source can see brown mold covering the walls, floor,
 
 ### W16. Loading Winch
 
-> [!readaloud] 
-> 
 > This room has a wooden floor with a ten-foot-square hole cut into the middle of it. Looming over the hole is a wooden winch. Perched atop it is a man with wild hair, rotted teeth, and skin painted red with blood. He waves a gnarled staff made from a black branch and babbles at you.
 ^5bc
 
@@ -318,8 +294,6 @@ The druid wields a [[gulthias-staff-cos|Gulthias staff]] (see appendix C), which
 
 This bedroom normally belongs to [[/03_Mechanics/CLI/bestiary/npc/davian-martikov-cos|Davian Martikov]] but is currently being used by his daughter, Stefania, and son-in-law, Dag, while they raise their baby daughter.
 
-> [!readaloud] 
-> 
 > This room contains a four-poster bed, its headboard carved in the likeness of a giant raven. A soft black rug covers the floor between the bed and the door. In the corners of the south wall stand two slender wardrobes with a tapestry of a church hanging on the wall between them. Beneath the tapestry sits a handsomely carved rocking cradle. To the north, under a window, is a plain desk and chair. Other furnishings include a wooden chest and a freestanding mirror in a wooden frame.
 ^5bf
 
@@ -344,8 +318,6 @@ Inside the chest are 50 gp, 270 ep (each electrum coin stamped with the profiled
 
 ### W18. Kitchen and Dining Room
 
-> [!readaloud] 
-> 
 > This room contains a rectangular table surrounded by eight chairs, an L-shaped cupboard, and a floor-to-ceiling closet pantry. Next to the pantry is a small iron stove.
 ^5c2
 
@@ -353,8 +325,6 @@ The cupboard holds dishware and eating utensils. The pantry holds cooking ingred
 
 ### W19. Sleeping Quarters
 
-> [!readaloud] 
-> 
 > Two pairs of bunk beds occupy this room. Against the west wall rest four identical footlockers.
 ^5c4
 
@@ -366,15 +336,11 @@ The footlockers contain clothing and personal belongings, but nothing of value.
 
 The door to this room hangs open.
 
-> [!readaloud] 
-> 
 > In this chamber are a desk, a chair, a tall wooden cabinet, and a strange contraption that takes up most of the northern end of the room.
 ^5c6
 
 Two [[vine-blight-xmm|vine blights]] and one [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] (NE female human) are in the room unless they have been drawn elsewhere, If they are here, read:
 
-> [!readaloud] 
-> 
 > Three creatures are here. One appears human but is so caked with dirt and mud that it's hard to know for sure. Her hair is full of twigs, and her face is hidden behind a veil of moss. She is rooting through the contents of the cabinet and haphazardly tossing them onto the floor. Behind her stand two creatures made entirely of dead vines.
 ^5c7
 
@@ -420,19 +386,21 @@ Three days after Wintersplinter's attack, [[/03_Mechanics/CLI/bestiary/npc/baba-
 
 Legends speak of 14 chapter 12 the wizard of wines as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 14 chapter 12 the wizard of wines.
 
-## Adventure Hooks
-
-- A rumor ties 14 chapter 12 the wizard of wines to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 14 chapter 12 the wizard of wines to avert a public scandal.
-- A map overlay reveals a hidden approach to 14 chapter 12 the wizard of wines active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest ancient magic
+- A map reveals the truth about this place
+- Strange sightings suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

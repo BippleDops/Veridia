@@ -21,15 +21,32 @@ updated: '2025-08-12T23:37:34.791605'
 world: Both
 ---
 
-
 # Chapter 6: Cosmology
 *Source: Dungeon Master's Guide (2024), p. 173* 
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/084-06-001-the-lady-of-pain.webp#center "The Lady of Pain appears without warning in the bustling streets of Sigil, and the city's residents get out of her way"|The Lady of Pain appears w...]]
+!]
 
 The worlds of D&D are part of an immense cosmos. Most campaigns and adventures play out on worlds on the Material Plane. The rest of the multiverse consists of different planes of existence defined in relation to the Material Plane.
 
 The planes of existence are strange and often dangerous environments undreamed of in the natural world. Adventurers can stroll along streets of fire, test their mettle on battlefields where the fallen are resurrected with each dawn, and behold the terrifying majesty of the Lady of Pain as she floats above the streets of the ring-shaped city at the center of the multiverse.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## The Planes
 
@@ -68,7 +85,7 @@ The Inner Planes surround the Material Plane and its echoes, providing the raw e
 
 These realms exemplify the physical essence and elemental nature of air, earth, fire, and water. The entire substance of the Elemental Plane of Fire, for example, is suffused with the fundamental nature of fire: energy, passion, transformation, and destruction. Even objects of solid brass or basalt seem to dance with flame in a manifestation of the vibrancy of fire's dominion.
 
-At their innermost edges, where they are conceptually closest to the Material Plane, the four Elemental Planes and the four Para-elemental Planes resemble places on the Material Plane. The four elements mingle together as they do on the Material Plane, forming land, sea, and sky. But the dominant element strongly influences the environment, altering those locations' fundamental qualities.
+At their innermost edges, where they are conceptually closest to the Material Plane, the four Elemental Planes and the four Para-elemental Planes resemble places on the Material Plane. The four elements mingle together as they do on the Material Plane, forming land, sea, and sky. But the domit element strongly influences the environment, altering those locations' fundamental qualities.
 
 The inhabitants of this inner ring include aarakocra, azers, dragon turtles, gargoyles, genies, lizardfolk, mephits, salamanders, and xorn. Some originated on the Material Plane, and all can travel to the Material Plane (if they have access to the magic required) and survive there.
 
@@ -84,7 +101,7 @@ If the Inner Planes are the raw matter and energy that make up the multiverse, t
 
 When discussing anything to do with deities and their realms, the language used must be highly metaphorical. Their actual homes aren't literally places at all but exemplify the idea that the Outer Planes are realms of thought and spirit.
 
-The planes with an element of good in their nature are called the Upper Planes, while those with an element of evil are the Lower Planes. A plane's alignment (as shown in the Outer Planes table) is its essence, and a creature whose alignment doesn't match the plane's alignment experiences a sense of dissonance there. When a good creature visits Elysium, for example, it feels in tune with the plane, but an evil creature feels uncomfortable.
+The planes with an element of good in their nature are called the Upper Planes, while those with an element of evil are the Lower Planes. A plane's alignment (as shown in the Outer Planes table) is its essence, and a creature whose alignment doesn't match the plane's alignment experiences a sense of dissoce there. When a good creature visits Elysium, for example, it feels in tune with the plane, but an evil creature feels uncomfortable.
 
 ![[outer-planes-xdmg|Outer Planes]]
 
@@ -110,7 +127,7 @@ The Outer Planes are realms of thought and morality more than merely physical re
 
 At your discretion, a creature that spends a long time on an Outer Plane that is not its home plan can begin to take on aspects of that plane's ethos. Visitors to the Upper Planes might feel strange urges to perform deeds of kindness or compassion, while visitors to the Lower Planes might find themselves drawn to acts of cruelty or betrayal. Those who spend time on Mechanus and other lawful planes might feel their ties of loyalty to each other growing stronger, while those who visit Limbo and other chaotic planes might become temporarily more independent or self-absorbed. These tendencies are best handled as DM suggestions and then roleplayed by the players, but you might award [[heroic-inspiration-xphb|Heroic Inspiration]] to characters who bring these characteristics to life in their characters.
 
-##### Planar Dissonance
+##### Planar Dissoce
 
 Celestials who visit the Lower Planes and Fiends who visit the Upper Planes experience significant discomfort if their visits last more than a few hours. After finishing a Long Rest on a plane that is alien to its nature, a Celestial or Fiend makes a DC 10 Constitution saving throw. On a failed save, whenever the creature makes a [[d20-test-xphb|D20 Test]], the creature must subtract `d4` from the roll. The effect is cumulative with each failed save and ends when the creature finishes a Long Rest on a plane that isn't opposed to its nature.
 
@@ -183,8 +200,6 @@ Some legends describe a great tree, a seedling of Yggdrasil, that the god Corell
 
 Planar travelers can climb among the roots and branches of Yggdrasil to travel from plane to plane or world to world. Some creatures position themselves as expert guides to this vast cosmic network of branching pathways, constantly studying the ever-changing paths as the tree continues its eternal growth.
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/086-06-003-portal-to-the-beastlands.webp#center "A portal to the Beastlands opens amid the branches of the World Tree"|A portal to the Beastlands...]]
-
 ## Planar Adventuring
 
 In real-world myths, legends, and literature, venturing onto other planes of existence isn't simply a matter of visiting an unusual environment inhabited by strange creatures; it's a journey with meaning expressed through layers of symbol and metaphor. Adventuring on the planes of the D&D cosmology is an opportunity to craft similarly meaningful and profound journeys.
@@ -255,7 +270,7 @@ Orcus rules Thanatos from a vast palace known as Everlost, crafted of obsidian a
 
 #### Layer 222: The Slime Pits
 
-Also known as Shedaklah, this layer is ruled by two separate yet equally repugnant demon lords—Juiblex and Zuggtmoy—who coexist with little conflict.
+Also known as Shedaklah, this layer is ruled by two separate yet equally repugt demon lords—Juiblex and Zuggtmoy—who coexist with little conflict.
 
 Juiblex, the Demon Lord of Slimes and Oozes, is an amorphous mass that lurks in the abyssal depths. The wretched Faceless Lord cares nothing for cultists or mortal servants, and its sole desire is to turn all creatures into formless copies of its horrid self. Zuggtmoy is the Demon Queen of Fungi and the Lady of Rot and Decay. Her primary desire is to infect the living with spores, transforming them into her servants and, eventually, into decomposing hosts for the mushrooms, molds, and other fungi that she spawns.
 
@@ -278,8 +293,6 @@ Baphomet's layer is a never-ending dungeon with the Horned King's enormous palac
 The Abyss embodies the loathsome corruption of chaos and evil. A descent into the Abyss is a journey into a hostile and uncharted environment. It's also an opportunity to confront the evil in one's own heart and to resist the temptation to turn against allies in order to survive. Heroic characters might make a desperate last stand against endless hordes of demons here, or they might try to avoid detection while seeking a holy relic left behind by some lost hero who dared to venture here.
 
 It's the nature of the Abyss to contaminate the other planes it touches. Opening a portal to the Abyss from any other plane allows the Abyss to create tiny pockets of Abyssal evil that can eventually become so corrupted that they're drawn into the Abyss. Thus, adventurers exploring a desecrated temple or fetid swamp on the Material Plane can unexpectedly find themselves in a demon-infested environment very much like the Abyss without ever leaving their home plane.
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/087-06-004-demonweb-pits.webp#center "The detritus of the Planes is tangled in the Demonweb Pits"|The detritus of the Planes...]]
 
 ### Acheron
 
@@ -369,8 +382,6 @@ As an Astral traveler approaches a Wildspace system, the silver fog of the Astra
 
 A Wildspace system teems with space-dwelling life-forms, including spores, plankton, and larger creatures that resemble fish and aquatic mammals. Creatures and objects in Wildspace age normally and exist on both the Astral Plane and Material Plane simultaneously. This overlap enables creatures to use spells such as [[teleport-xphb|Teleport]] to travel from Wildspace to a nearby world, or vice versa. A creature or ship traveling from one Wildspace system to another must cross the Astral Plane unless it has some other magical means of traveling from one world to another. (See ""Material Plane"" in this chapter.) "Spelljammer: Adventures in Space" contains extensive information about Wildspace and Astral travel.
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/089-06-006-tunarath.webp#center "A spelljamming wasp ship approaches the githyanki city of Tu'Narath"|A spelljamming wasp ship a...]]
-
 #### Psychic Wind
 
 A psychic wind is a storm of thought that batters travelers' minds rather than their bodies. The storm is made of lost memories, forgotten ideas, and subconscious fears that went astray in the Astral Plane and conglomerated into this powerful force.
@@ -425,8 +436,6 @@ The grim inspiration for all other prisons in existence, Carceri is a plane of d
 
 #### Prison Plane
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/090-06-007-ice-of-carceri.webp#center "Unknown horrors are entrapped in the ice of Carceri"|Unknown horrors are entrap...]]
-
 No one can leave Carceri easily. Magical efforts to leave the plane by any spell other than [[wish-xphb|Wish]] simply fail. Portals and gates that open onto the plane become one-way only. Secret passages out of the plane exist, but they are hidden and well guarded by traps and deadly monsters. And though the River Styx flows between Carceri and its neighbors, the passage is extremely dangerous, and ferries leading out of Carceri are both rare and expensive.
 
 #### Carceri Adventures
@@ -446,8 +455,6 @@ A demiplane can be as small as a single chamber or large enough to contain an en
 Demiplanes are limited realities shaped according to the will of whoever created them. Adventures in demiplanes might let characters explore how they would shape reality to suit their desires and ideals, or confront distortions of reality crafted by villains.
 
 ### Elemental Plane of Air
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/091-06-008-plane-of-air.webp#center "Aarakocra scouts return home to a city on the Plane of Air"|Aarakocra scouts return ho...]]
 
 The Plane of Air is home to constant winds of varying strength. Here and there, chunks of earth drift in the openness, many covered with lush vegetation. These earth motes serve as homes for djinn and other natives of the plane. Other creatures live on cloud banks infused with magic to become solid surfaces, supporting towns and castles.
 
@@ -513,7 +520,7 @@ Important features of the Plane of Fire include the following:
 
 #### Cinder Wastes
 
-The Plane of Fire is dominated by a great expanse of black cinders and embers crossed by rivers of lava. Roving bands of salamanders battle each other, raid azer outposts, and avoid patrols from the City of Brass. Obsidian ruins dot the desert—remnants of forgotten civilizations.
+The Plane of Fire is dominated by a great expanse of black cinders and embers crossed by rivers of lava. Roving bands of salamanders battle each other, raid azer outposts, and avoid patrols from the City of Brass. Obsidian ruins dot the desert—remts of forgotten civilizations.
 
 #### City of Brass
 
@@ -534,8 +541,6 @@ Fire represents vibrancy, passion, and change. At its best, fire reflects the li
 The cults of Elemental Evil represent fire at its worst: cruel and wantonly destructive. Cultists of Evil Fire seek the power to burn away the impurities of the world with volcanic eruptions, uncontrolled wildfires, heat waves, and droughts, transforming the Material Plane into a mirror of the Cinder Wastes.
 
 Adventurers frequently come to the City of Brass on quests for legendary magic. If it's possible to buy magic items in your campaign, the City of Brass is the most likely place to find any item for sale. The efreet are fond of trading in favors, especially when they have the upper hand in negotiations. Perhaps a magical contagion or poison can be cured only with something that must be purchased in the markets of the city.
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/092-06-009-city-of-brass.webp#center "The City of Brass is a hub for trade from across the multiverse"|The City of Brass is a hub...]]
 
 ### Elemental Plane of Water
 
@@ -611,8 +616,6 @@ Normally, creatures in the Border Ethereal can't attack creatures on the overlap
 
 To reach the Deep Ethereal, one typically needs a [[plane-shift-xphb|Plane Shift]] spell, a [[gate-xphb|Gate]] spell, or a magical portal. Visitors to the Deep Ethereal are engulfed by roiling mist. Scattered throughout the plane are curtains of vaporous color, and passing through a curtain leads a traveler to a region of the Border Ethereal connected to a specific Inner Plane, the Material Plane, the Feywild, or the Shadowfell. The color of the curtain indicates the plane whose Border Ethereal the curtain conceals; see the Ethereal Curtains table. The curtains are also distinguishable by texture and temperature, each one reflecting something of the nature of the plane beyond.
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/093-06-010-the-radiant-citadel.webp#center "The Radiant Citadel is a refuge in the Ethereal Plane, despite its proximity to a raging ether cyclone"|The Radiant Citadel is a r...]]
-
 ![[deep-ethereal-ethereal-curtains-xdmg|Deep Ethereal; Ethereal Curtains]]
 
 Traveling through the Deep Ethereal is unlike physical travel. Distance is meaningless, so although travelers feel as if they can move by a simple act of will, it's impossible to measure speed and hard to track the passage of time. A trip through the Deep Ethereal takes `1d10 × 10` hours from one curtain to another, regardless of the origin and destination. In combat, creatures move at their normal speeds.
@@ -642,8 +645,6 @@ Adventurers typically use the Ethereal Plane to travel from one place to another
 The Radiant Citadel can serve as a home base for any campaign built around the idea of exploring new worlds. Several such worlds are introduced in Journeys through the Radiant Citadel, an anthology of short adventures.
 
 ### Far Realm
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/095-06-012-the-vast-gate.webp#center "When the Dragon's Tear comet appears above Firestorm Peak, the Vast Gate forms a bridge to the Far Realm"|When the Dragon's Tear com...]]
 
 The Far Realm is outside the known multiverse. In fact, it might be an entirely separate universe with its own physical and magical laws. Where stray energies from the Far Realm leak onto another plane, matter is warped into alien shapes that defy understandable geometry and biology. Aberrations such as mind flayers and beholders are either from this plane or shaped by its strange influence.
 
@@ -713,8 +714,6 @@ Whenever a creature or group of creatures leaves the Feywild after spending at l
 
 The Feywild gives physical expression to powerful emotion and excels at metaphor. When characters venture into the Feywild, they might find themselves robbed of a cherished memory or deep regret, then later find the stolen memories embodied in little figurines or lockets. A mischievous sprite might sneak up behind a character who is laughing loudly and steal their laughter, robbing the character of the ability to laugh until the sprite is found and the laughter—perhaps taking physical form as a bouquet of lovely flowers—reclaimed.
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/096-06-013-the-gloaming-court.webp#center "Fey revel in the Gloaming Court under the watchful eye of the Queen of Air and Darkness"|Fey revel in the Gloaming ...]]
-
 ### Gehenna
 
 A volcanic mountain dominates each of the four layers of Gehenna, and lesser volcanic earthbergs drift in the air and smash into the greater mountains. The rocky slopes of the plane make movement difficult and dangerous. The ground inclines at least 45 degrees almost everywhere. In places, steep cliffs and deep canyons present more challenging obstacles. Hazards include volcanic fissures that vent noxious fumes or searing flames.
@@ -783,8 +782,6 @@ Some myths describe a great tree that grew on the First World at the dawn of tim
 
 The most widely known worlds are the ones that have been published as official campaign settings for the D&D game over the years, many of which are shown on the "D&D Settings table" in "chapter 5". If your campaign takes place in one of these settings, your version of it can diverge wildly from what's in print.
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/097-06-014-eberron-technology.webp#center "With its magical marvels of technology, Eberron is one of countless worlds on the Material Plane"|With its magical marvels o...]]
-
 #### Traveling between Worlds
 
 Transit between the worlds of the Material Plane is rare but not impossible and can be accomplished in a variety of ways.
@@ -829,8 +826,6 @@ The Seven Heavens of Mount Celestia rise like a mountain from a shining Silver S
 
 The pervasive goodness of Mount Celestia "bestows blessings" on creatures on the plane (see ""Environmental Effects"" in "chapter 3").
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/098-06-015-mount-celestia.webp#center "The Seven Heavens of Mount Celestia beckon virtuous souls toward ever-greater heights"|The Seven Heavens of Mount...]]
-
 ![[layers-of-mount-celestia-xdmg|Layers of Mount Celestia]]
 
 #### Mount Celestia Adventures
@@ -866,8 +861,6 @@ The Layers of the Nine Hells table summarizes each layer; detailed descriptions 
 ![[layers-of-the-nine-hells-xdmg|Layers of the Nine Hells]]
 
 #### Avernus
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/099-06-016-avernus.webp#center "The first of Nine Hells, Avernus, is an eternal battlefield in the Blood War"|The first of Nine Hells, A...]]
 
 By Asmodeus's orders, no planar portals connect directly to the lower layers of the Nine Hells. The first layer, Avernus, is the arrival point for visitors, a rocky wasteland with rivers of blood and clouds of biting flies. Fiery comets occasionally fall from the darkened sky and carve out fuming impact craters. Empty battlefields are littered with weapons and bones, showing where the legions of the Nine Hells prevailed against invading enemies.
 
@@ -930,8 +923,6 @@ The lowest layer of the Nine Hells, Nessus is a realm of dark pits whose walls a
 Malsheem resembles a gigantic hollowed-out stalagmite. The citadel is also a prison for souls that Asmodeus has locked away for safekeeping. Convincing him to release even one of those souls comes at a steep price, and it is rumored that Asmodeus has claimed whole kingdoms in the past in exchange for such favors.
 
 Asmodeus most often appears as a handsome, bearded man with four large horns, piercing red eyes, and flowing robes. He can also assume other forms and is seldom seen without his ruby-tipped scepter in hand. Asmodeus is the most cunning and well-mannered of archdevils. On the surface, he seems warm, pleasant, and lighthearted, doling out wisdom and small acts of kindness like a caring father. The ultimate evil he represents can be seen only when he wills it so, or if he forgets himself and flies into a rage.
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/100-06-017-asmodeus.webp#center "Asmodeus, the Lord of the Nine, maintains a veneer of pleasantry while inflicting agony on imprisoned souls"|Asmodeus, the Lord of the ...]]
 
 #### Infernal Hierarchy
 
@@ -1010,8 +1001,6 @@ An adventure in Pandemonium can be a way to explore what happens to characters o
 
 A jagged spike somewhere in Cocytus, called Howler's Crag, is rumored to have a unique magical property: anything yelled from the top of the crag is said to find the ears of its intended recipient—carried on a shrieking, frigid wind—no matter where in the multiverse that person might be.
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/101-06-018-winds-of-pandemonium.webp#center "Three adventurers brave the howling winds of Pandemonium in search of Howler's Crag"|Three adventurers brave th...]]
-
 ### Para-elemental Planes
 
 The regions where the Elemental Planes collide and their elemental substances overlap are called Para-elemental Planes.
@@ -1032,7 +1021,7 @@ The boundary between the Plane of Earth and the Plane of Fire is a great range o
 
 #### Plane of Ooze
 
-The border region between the Plane of Water and the Plane of Earth is a horrid swamp where gnarled trees and thick, stinging vines grow from the dense muck and slime. Here and there on the Plane of Ooze (also called the Swamp of Oblivion), stagnant lakes and pools play host to thickets of weeds and monstrous swarms of mosquitoes. The few settlements here consist of wooden structures suspended above the muck on platforms between trees. Visitors to the plane have sometimes tried elevating houses on poles stuck in the mud, but since no solid earth underlies the muck, even such structures eventually sink.
+The border region between the Plane of Water and the Plane of Earth is a horrid swamp where gnarled trees and thick, stinging vines grow from the dense muck and slime. Here and there on the Plane of Ooze (also called the Swamp of Oblivion), stagt lakes and pools play host to thickets of weeds and monstrous swarms of mosquitoes. The few settlements here consist of wooden structures suspended above the muck on platforms between trees. Visitors to the plane have sometimes tried elevating houses on poles stuck in the mud, but since no solid earth underlies the muck, even such structures eventually sink.
 
 It is said that any object cast into the Swamp of Oblivion can't be found again for at least a century. Now and then, a desperate soul casts an Artifact of power into this place, keeping it away from the rest of the multiverse for a time. The promise of powerful magic lures adventurers to brave the monstrous insects and hags of the swamp.
 
@@ -1059,8 +1048,6 @@ The Shadowfell, also called the Plane of Shadow, is a gloomy dimension whose sky
 The Shadowfell overlaps the Material Plane in much the same way as the Feywild. Aside from the bleak landscape, it appears similar to the Material Plane. Travelers from the Material Plane who enter the Shadowfell often observe landmarks similar to the world they left, but distorted and often sinister. A mountain on the Material Plane might be replaced in the Shadowfell by a skull-shaped rock outcropping, a heap of rubble, or the crumbling ruin of a once-great castle. The forests of the Shadowfell hold sinister-looking trees, their branches reaching out to snare travelers' cloaks, and their roots coiling to trip those who pass by.
 
 Shadow dragons and Undead haunt this bleak plane, as do other creatures that thrive in the gloom, including cloakers and darkmantles.
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/102-06-019-the-shadowfell.webp#center "The Shadowfell is a realm of death, despair, and dread"|The Shadowfell is a realm ...]]
 
 #### Shadow Crossings
 
@@ -1122,8 +1109,6 @@ The city is the domain of the inscrutable Lady of Pain, a being whose purpose an
 
 "Planescape: Adventures in the Multiverse" includes extensive information on "Sigil".
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/103-06-020-citizens-of-sigil.webp#center "In the cosmopolitan streets of Sigil, creatures from across the multiverse coexist in uneasy peace"|In the cosmopolitan street...]]
-
 ### Ysgard
 
 Ysgard is a rugged realm of soaring mountains, deep fjords, and windswept battlefields, with summers that are long and hot and winters that are cold and unforgiving. Its continents float above oceans of volcanic rock, below which are enormous icy caverns that hold entire kingdoms of giants, humans, dwarves, gnomes, and other beings. Heroes come to Ysgard to test their mettle not only against the plane itself, but also against giants, dragons, and other mighty creatures across Ysgard's vast terrain.
@@ -1146,19 +1131,15 @@ An adventure in Ysgard can be an opportunity for lighthearted combat without con
 
 Legends speak of 06 chapter 6 cosmology as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 06 chapter 6 cosmology.
 
-## Adventure Hooks
-
-- A rumor ties 06 chapter 6 cosmology to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 06 chapter 6 cosmology to avert a public scandal.
-- A map overlay reveals a hidden approach to 06 chapter 6 cosmology active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

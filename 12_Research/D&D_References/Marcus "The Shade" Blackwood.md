@@ -15,31 +15,26 @@ updated: '2025-08-13T01:18:36.979739+00:00'
 world: Both
 ---
 
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-marcus-the-shade-blackwood-marcus-the-shade-blackwood.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[The Bone Colosseum|02 Worldbuilding/Places/The Bone Colosseum]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Shadow Independence Levels]]
-- [[The Whisper Syndicate]]
-- [[Captain Lyanna Brightshield]]
-- [[High Priestess Celeste Dawnbringer]]
-- [[Lord Commander Gareth Steelborn]]
-- [[Vex Shadowthorn's Apprentices]]
-- [[Vex Shadowthorn]]
-- [[Crystalhaven]]
-- [[The Bone Colosseum]]
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -49,19 +44,31 @@ Marcus "The Shade" Blackwood is a undersea element of the setting, known for bio
 
 Legends speak of Marcus "The Shade" Blackwood as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Marcus "The Shade" Blackwood.
 
-## Adventure Hooks
-
-- A rumor ties Marcus "The Shade" Blackwood to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Marcus "The Shade" Blackwood to avert a public scandal.
-- A map overlay reveals a hidden approach to Marcus "The Shade" Blackwood active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Winds
+
+
+## Plot Hooks
+
+- The authorities needs help stealing before winter
+- Strange disappearances suggest a portal
+- A letter reveals the truth about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

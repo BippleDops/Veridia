@@ -1,4 +1,5 @@
 ---
+
 title: Pharmaceutical Development Station
 type: item
 tags:
@@ -12,12 +13,83 @@ status: placeholder
 rarity: Unknown
 value: Unknown
 updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
 
 
 # 02_Worldbuilding/Items/Pharmaceutical Development Station
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
 
 ## Description
 
@@ -26,12 +98,6 @@ updated: 2025-08-14
 ## Details
 
 *[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[Investigate Shadow Surgeons]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Investigate Shadow Surgeons]]
 
 ## Notes
 
@@ -50,22 +116,6 @@ updated: 2025-08-14
 **Attunement**: Required/Not Required
 **Value**: 100-10,000 gp
 
-
-## Mechanics
-
-### Base Properties
-- Standard item statistics
-
-### Magical Effects
-- Primary power
-- Secondary benefits
-- Activation requirements
-
-### Limitations
-- Usage restrictions
-- Recharge requirements
-
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -73,3 +123,23 @@ updated: 2025-08-14
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and evil awakens
+- A merchant needs help finding before dawn
+- Someone is blackmailing information for revenge
+- Strange dreams suggest a conspiracy
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

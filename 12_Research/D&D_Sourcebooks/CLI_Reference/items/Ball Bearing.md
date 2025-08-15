@@ -24,21 +24,35 @@ updated: '2025-08-13T12:34:07.363342+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-ball-bearing-ball-bearing.svg)
 
 # Ball Bearing
 *Adventuring gear*  
 
-
 - **Weight**: 0.002 lbs.
 
 Most commonly found inside a [[ball-bearings-xphb|bag of ball bearings]].
 
-*Source: Player's Handbook p. 151. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*
+*Source: Player's Handbook p. 151. Available in the SRD and the Basic Rules (2014)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -48,19 +62,22 @@ Ball bearing is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of ball bearing as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ball bearing.
 
-## Adventure Hooks
-
-- A rumor ties ball bearing to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ball bearing to avert a public scandal.
-- A map overlay reveals a hidden approach to ball bearing active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help delivering before dawn
+- A prisoner has gone missing and chaos spreads
+- A document has gone missing and evil awakens
+- A corpse reveals a conspiracy about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

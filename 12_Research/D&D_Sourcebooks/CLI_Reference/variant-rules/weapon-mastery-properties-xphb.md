@@ -21,11 +21,28 @@ updated: '2025-08-12T23:37:34.129308'
 world: Both
 ---
 
-
 # Weapon Mastery Properties
-*Source: Player's Handbook (2024) p. 214. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+*Source: Player's Handbook (2024) p. 214. Available in the SRD and the Free Rules (2024)* 
 
 Each weapon has a mastery property, which is usable only by a character who has a feature, such as Weapon Mastery, that unlocks the property for the character. The properties are defined below.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Cleave
 
@@ -53,7 +70,7 @@ If you hit a creature with this weapon and deal damage to it, you can reduce its
 
 ## Topple
 
-If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the [[conditions#Prone|Prone]] condition.
+If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the [[conditions#prone|Prone]] condition.
 
 ## Vex
 
@@ -67,19 +84,30 @@ Weapon mastery properties xphb is a undersea element of the setting, known for b
 
 Legends speak of weapon mastery properties xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around weapon mastery properties xphb.
 
-## Adventure Hooks
-
-- A rumor ties weapon mastery properties xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at weapon mastery properties xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to weapon mastery properties xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

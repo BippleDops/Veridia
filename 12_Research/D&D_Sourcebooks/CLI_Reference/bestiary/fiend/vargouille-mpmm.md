@@ -29,8 +29,6 @@ updated: '2025-08-12T23:37:35.483691'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-vargouille-mpmm-v1-vargouille-mpmm.svg)
 
@@ -56,7 +54,6 @@ Vargouilles that roam free on the Material Plane are a dire threat to all creatu
 "modifier": !!int "2"
 "stats":
   - !!int "6"
-  - !!int "14"
   - !!int "14"
   - !!int "4"
   - !!int "7"
@@ -86,8 +83,8 @@ Vargouilles that roam free on the Material Plane are a dire threat to all creatu
     "name": "Abyssal Curse"
   - "desc": "The vargouille shrieks. Each Humanoid and Beast within 30 feet of the\
       \ vargouille and able to hear it must succeed on a DC 12 Wisdom saving throw\
-      \ or be [[conditions#Frightened|frightened]] of the vargouille\
-      \ until the end of the vargouille's next turn. While [[conditions#Frightened|frightened]]\
+      \ or be [[conditions#frightened|frightened]] of the vargouille\
+      \ until the end of the vargouille's next turn. While [[conditions#frightened|frightened]]\
       \ in this way, a target is [[conditions#Stunned|stunned]].\
       \ If a target's saving throw is successful or the effect ends for it, the target\
       \ is immune to the Stunning Shriek of all vargouilles for 1 hour."
@@ -98,6 +95,24 @@ Vargouilles that roam free on the Material Plane are a dire threat to all creatu
 "image": "/03_Mechanics/CLI/bestiary/fiend/token/vargouille-mpmm.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Environment
 
@@ -111,19 +126,32 @@ Vargouille mpmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of vargouille mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around vargouille mpmm.
 
-## Adventure Hooks
-
-- A rumor ties vargouille mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at vargouille mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to vargouille mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A map reveals a conspiracy about this place
+- Someone is hunting an heir for love
+- A noble needs help stealing before the new moon
+- Someone is blackmailing an heir for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

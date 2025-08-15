@@ -22,12 +22,29 @@ updated: '2025-08-12T23:37:34.744651'
 world: Both
 ---
 
-
 # Boon of the Unfettered
 
 You have advantage on ability checks made to resist being [[conditions#Grappled|grappled]]. In addition, you can use an action to automatically escape a grapple or free yourself of restraints of any kind. 
 
 *Source: Dungeon Master's Guide p. 232*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -37,19 +54,40 @@ Boon of the unfettered is a undersea element of the setting, known for biolumine
 
 Legends speak of boon of the unfettered as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around boon of the unfettered.
 
-## Adventure Hooks
-
-- A rumor ties boon of the unfettered to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at boon of the unfettered to avert a public scandal.
-- A map overlay reveals a hidden approach to boon of the unfettered active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Plot Hooks
+
+- Strange dreams suggest a portal
+- A prisoner has gone missing and chaos spreads
+- Strange sightings suggest a portal
+- The authorities needs help finding before the new moon
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

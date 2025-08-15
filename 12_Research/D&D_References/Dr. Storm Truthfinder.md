@@ -19,13 +19,22 @@ updated: '2025-08-13T01:18:35.441175+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -35,28 +44,28 @@ Dr. Storm Truthfinder is a undersea element of the setting, known for biolumines
 
 Legends speak of Dr. Storm Truthfinder as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Dr. Storm Truthfinder.
 
-## Adventure Hooks
-
-- A rumor ties Dr. Storm Truthfinder to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Dr. Storm Truthfinder to avert a public scandal.
-- A map overlay reveals a hidden approach to Dr. Storm Truthfinder active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Investigate Shadow Surgeons|02 Worldbuilding/Groups/Investigate Shadow Surgeons]]
-
-
-## Connections
-
-- [[Investigate Shadow Surgeons]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

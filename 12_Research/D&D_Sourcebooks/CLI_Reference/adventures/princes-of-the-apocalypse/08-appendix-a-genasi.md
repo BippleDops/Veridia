@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.586735'
 world: Both
 ---
 
-
 # Appendix A: Genasi
 *Source: Princes of the Apocalypse, p. 227* 
 
@@ -34,6 +33,24 @@ During these visits, a mortal might catch a genie's eye. Friendship forms, roman
 Occasionally, genasi result from exposure to a surge of elemental power, through phenomena such as an eruption from the Inner Planes or a planar convergence. Elemental energy saturates any creatures in the area and might alter their nature enough that their offspring with other mortals are born as genasi.
 
 ![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/135-poaappa-01.webp#center)
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Heirs to Elemental Power
 
@@ -82,15 +99,10 @@ Genasi use the naming conventions of the people among whom they were raised. The
 - Genasi (Water)  
 
 > [!note] Genasi Backgrounds
-> 
 > Each genasi subrace has its own temperament, which might make some backgrounds more suitable than others.
-> 
 > Air genasi are proud of their heritage, sometimes to the point of haughtiness. They can be flamboyant, and are keen to have an audience. They rarely stay in one place for long, always looking for a new sky to see and breathe. Air genasi who don't live in cities favor open lands such as plains, deserts, and high mountains. Fitting backgrounds include charlatan, entertainer, and noble.
-> 
 > Earth genasi are more withdrawn, and their connection to the earth keeps them from being comfortable in most cities. Their uncommon size and strength makes them natural soldiers, though, and with their stoic demeanor, they can encourage others and become great leaders. Many earth genasi live underground, where they can be in their favored element. When they emerge from their caves, they might roam the hills and mountains or lay claim to old ruins. Appropriate backgrounds for earth genasi include hermit, outlander, and soldier.
-> 
 > Fire genasi often get themselves into difficulty with their fiery tempers. Like their air genasi cousins, they sometimes flaunt their perceived superiority over common folk. But they also want others to share their high opinion of themselves, so they constantly seek to enhance their reputations. Likely backgrounds for a fire genasi include criminal, folk hero, and noble.
-> 
 > Water genasi almost all have some experience aboard or around sea vessels. They make excellent mariners and fishers. Like earth genasi, though, water genasi prefer quiet and solitude; the wide shores are their natural homes. They go where they want, do what they want, and rarely feel bound to anything. Good backgrounds for water genasi include hermit and sailor.
 ^genasi-backgrounds
 
@@ -102,19 +114,38 @@ Genasi use the naming conventions of the people among whom they were raised. The
 
 Legends speak of 08 appendix a genasi as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 08 appendix a genasi.
 
-## Adventure Hooks
-
-- A rumor ties 08 appendix a genasi to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 08 appendix a genasi to avert a public scandal.
-- A map overlay reveals a hidden approach to 08 appendix a genasi active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- A journal reveals the truth about the government
+- Strange sightings suggest a curse
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

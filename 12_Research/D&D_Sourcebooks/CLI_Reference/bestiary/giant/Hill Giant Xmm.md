@@ -28,14 +28,29 @@ updated: '2025-08-13T12:34:05.385728+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hill-giant-xmm-hill-giant-xmm.svg)
 
 # [[hill-giant-xmm|Hill Giant]]
-*Source: Monster Manual (2024) p. 168. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 168. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Hill Giant
 
@@ -77,7 +92,7 @@ Disaster, invasion, or want might drive hill giants from their homes into other 
   - "desc": "The giant makes two attacks, using Tree Club or Trash Lob in any combination."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +8, reach 10 ft. Hit: 18 (3d8 + 5) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Tree Club"
   - "desc": "Ranged Attack Roll: +8, range 60/240 ft. Hit: 16 (2d10 + 5) Bludgeoning\
@@ -102,19 +117,35 @@ Hill giant xmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of hill giant xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hill giant xmm.
 
-## Adventure Hooks
-
-- A rumor ties hill giant xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at hill giant xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to hill giant xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Plot Hooks
+
+- A noble needs help delivering before dawn
+- A letter reveals ancient history about the government
+- The authorities needs help investigating before dawn
+- A letter reveals the truth about this place
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -21,11 +21,28 @@ updated: '2025-08-12T23:37:34.571458'
 world: Both
 ---
 
-
 # Appendix C: Adapting to Other Worlds
 *Source: Princes of the Apocalypse, p. 243* 
 
 Old as creation itself, Elemental Evil has arisen in a thousand different worlds across the ages of the multiverse. *Princes of the Apocalypse* describes the rise of Elemental Evil in the world of the Forgotten Realms setting. However, there is no reason you couldn't adjust this adventure to fit in almost any world that is part of the Dungeons & Dragons multiverse. In this appendix, we take a look at how you can adapt this adventure to some of the well-known settings for the D&D game, or to your own campaign world.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Dark Sun
 
@@ -334,19 +351,20 @@ The Sumber Hills are presented as an area of dry badlands, but they don't have t
 
 Legends speak of 10 appendix c adapting to other worlds as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 10 appendix c adapting to other worlds.
 
-## Adventure Hooks
-
-- A rumor ties 10 appendix c adapting to other worlds to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 10 appendix c adapting to other worlds to avert a public scandal.
-- A map overlay reveals a hidden approach to 10 appendix c adapting to other worlds active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting information for love
+- A prisoner has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

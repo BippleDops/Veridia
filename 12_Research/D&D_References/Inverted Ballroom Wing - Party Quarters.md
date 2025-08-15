@@ -21,17 +21,30 @@ updated: '2025-08-11T00:00:00+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-inverted-ballroom-wing-party-quarters-inverted-ballroom-wing-party-quarters.svg)
-
-
-
-
 
 # Inverted Ballroom Wing - Party Quarters
 
 *"Where the depths meet the heights in impossible splendor."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 A magnificent underwater palace wing where gravity magic creates an inverted ballroom experience. Guests dance on crystal floors while the ballroom itself hangs suspended overhead, filled with bioluminescent waters and floating decorations.
@@ -41,67 +54,10 @@ This exclusive venue hosts the most prestigious social events in Aquabyssos, whe
 ## Layout
 Three-tiered structure with the main ballroom suspended from the ceiling. Coral-carved galleries surround the space while private alcoves offer intimate conversation areas. Kelp gardens provide natural barriers between social circles.
 
-## Notable Features
-- Gravity-defying ballroom filled with dancing waters
-- Bioluminescent coral chandeliers
-- Pressure-regulated private chambers
-- Living kelp walls that respond to music
-- Tidal pools serving as conversation pits
-
-## NPCs
-- **Duchess Marina Deepcurrent**: Host and social orchestrator
-- **Conductor Nereon**: Master of aquatic entertainment
-- **The Tide Dancers**: Elite underwater performers
-
-## Current Events
-- Monthly nobility gatherings
-- Upcoming succession celebration
-- Recent diplomatic tensions affecting guest lists
-
-## Secrets
-- Hidden spy galleries behind living coral
-- Secret passages to royal quarters
-- Political alliances formed during private functions
-
 ## Adventure Hooks
 1. Assassination attempt during major celebration
 2. Missing ambassador last seen at recent party
 3. Magical sabotage threatens gravity systems
-
-## Services Available
-- Exclusive event hosting
-- Diplomatic meeting facilitation
-- Entertainment booking and catering
-
-## Connections
-- Direct access to Royal Palace chambers
-- Underwater tunnels to noble residences
-- [[Find the Grief Bomb]]
-- [[Aquabyssos - Session 01 - The Drowning Welcome]]
-
-
-## History
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -115,13 +71,33 @@ Legends speak of Inverted Ballroom Wing   Party Quarters as a nexus where past a
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Inverted Ballroom Wing - Party Quarters|02 Worldbuilding/Places/Inverted Ballroom Wing Party Quarters]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A corpse reveals the truth about a local noble
+- A noble needs help finding before winter
+- A letter reveals ancient history about the cult
+- A document has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -23,45 +23,35 @@ updated: '2025-08-13T12:34:04.805519+00:00'
 world: Both
 ---
 
-
-
 # Fiend Patron
 *[[warlock-xphb|Warlock]]: Warlock Subclass*  
-*Source: Player's Handbook (2024) p. 161. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Player's Handbook (2024) p. 161. Available in the SRD and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
-> <table class="class-progression">
-> <thead>
-> <tr><th colspan='3'></th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
-> </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Fiend Patron (Level 3)' class='internal-link'>Fiend Patron</a></td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Dark One's Own Luck (Level 6)' class='internal-link'>Dark One's Own Luck</a></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Fiendish Resilience (Level 10)' class='internal-link'>Fiendish Resilience</a></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Hurl Through Hell (Level 14)' class='internal-link'>Hurl Through Hell</a></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> </tbody></table>
+> LevelPBFeatures
+> 1st+2
+> 2nd+2
+> 3rd+2Fiend Patron
+> 4th+2
+> 5th+3
+> 6th+3Dark One's Own Luck
+> 7th+3
+> 8th+3
+> 9th+4
+> 10th+4Fiendish Resilience
+> 11th+4
+> 12th+4
+> 13th+5
+> 14th+5Hurl Through Hell
+> 15th+5
+> 16th+5
+> 17th+6
+> 18th+6
+> 19th+6
+> 20th+6
 
 ^class-progression
-
-
-## Class Features
 
 ### Fiend Patron (Level 3)
 
@@ -103,6 +93,24 @@ Once per turn when you hit a creature with an attack roll, you can try to instan
 
 Once you use this feature, you can't use it again until you finish a [[long-rest-xphb|Long Rest]] unless you expend a Pact Magic spell slot (no action required) to restore your use of it.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Warlock xphb fiend patron xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -111,19 +119,20 @@ Warlock xphb fiend patron xphb is a undersea element of the setting, known for b
 
 Legends speak of warlock xphb fiend patron xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around warlock xphb fiend patron xphb.
 
-## Adventure Hooks
-
-- A rumor ties warlock xphb fiend patron xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at warlock xphb fiend patron xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to warlock xphb fiend patron xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest ancient magic
+- A journal reveals a conspiracy about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

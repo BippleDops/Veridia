@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.533669'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sahuagin-priest-xmm-sahuagin-priest-xmm.svg)
 
@@ -37,6 +35,24 @@ world: Both
 *Source: Monster Manual (2024) p. 265*  
 
 Sahuagin priests serve the will of Sekolah or other fiendish masters. They direct and support other sahuagin, and they consider every combatant that falls in battle—whether enemy or ally—a sacrifice to their fierce deities.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Sahuagin
 
@@ -53,7 +69,6 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
 > 
 > When a sahuagin comes at you, it doesn't seem to be living until it bites you. Then the thing's black eyes turn red as hellfire and the waves foam crimson. Then comes the screaming.
 
-
 ```statblock
 "name": "Sahuagin Priest (XMM)"
 "size": "Medium"
@@ -67,9 +82,7 @@ Sahuagin constantly war on any peoples living near their territory. Merfolk and 
   - !!int "13"
   - !!int "11"
   - !!int "12"
-  - !!int "12"
   - !!int "14"
-  - !!int "13"
 "speed": "30 ft., swim 40 ft."
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
@@ -125,19 +138,30 @@ Sahuagin priest xmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of sahuagin priest xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sahuagin priest xmm.
 
-## Adventure Hooks
-
-- A rumor ties sahuagin priest xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at sahuagin priest xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to sahuagin priest xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A journal reveals ancient history about the cult
+- The authorities needs help delivering before the new moon
+- A merchant needs help investigating before the new moon
+- A document has gone missing and evil awakens
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

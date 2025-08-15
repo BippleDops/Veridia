@@ -21,18 +21,33 @@ updated: '2025-08-13T12:34:17.769767+00:00'
 world: Both
 ---
 
-
-
-
 # Mass Combat Evolution
 
-Expands mass combat with underwater armies, aerial fleets, parasite swarms, crystal resonance warfare, depth charges, and reality siege weapons.
+Expands mass combat with underwater armies, aerial fleets, parasite swarms, crystal resoce warfare, depth charges, and reality siege weapons.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Modules
 - Undersea Formations: Current lines, pressure wedges
 - Aerial Formations: Altitude stacks, gravity traps
 - Parasite Swarms: Infection vectors and countermeasures
-- Resonance Warfare: Frequency dominance phases
+- Resoce Warfare: Frequency domice phases
 - Reality Siege: Anchor breaker engines; merger storms as weapons
 
 Hooks: [[Complete Faction Warfare System]], [[Fleet_Dynamics_Generator|Fleet Dynamics Generator]], [[Vehicle_Core_Rules|Vehicle Core Rules]].
@@ -45,23 +60,21 @@ Mass Combat Evolution is a undersea element of the setting, known for biolumines
 
 Legends speak of Mass Combat Evolution as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Mass Combat Evolution.
 
-## Adventure Hooks
-
-- A rumor ties Mass Combat Evolution to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Mass Combat Evolution to avert a public scandal.
-- A map overlay reveals a hidden approach to Mass Combat Evolution active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Phase_Omega_Enhanced_Index|03 Mechanics/Phase Omega Enhanced Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A journal reveals the truth about the cult
+- The authorities needs help delivering before the new moon

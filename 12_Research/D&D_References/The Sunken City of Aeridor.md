@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.538446+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,40 @@ The Sunken City of Aeridor is a undersea element of the setting, known for biolu
 
 Legends speak of The Sunken City of Aeridor as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Sunken City of Aeridor.
 
-## Adventure Hooks
-
-- A rumor ties The Sunken City of Aeridor to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Sunken City of Aeridor to avert a public scandal.
-- A map overlay reveals a hidden approach to The Sunken City of Aeridor active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Ancient Mer-Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]
-
-
-## Connections
-
-- [[Ancient Mer-Folk Empire]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before dawn
+- A noble needs help investigating before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

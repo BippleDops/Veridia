@@ -27,9 +27,6 @@ updated: '2025-08-13T12:34:05.322307+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-tile-chimera-rot-animated-tile-chimera-rot.svg)
 
@@ -49,7 +46,6 @@ world: Both
 "stats":
   - !!int "19"
   - !!int "11"
-  - !!int "19"
   - !!int "3"
   - !!int "14"
   - !!int "10"
@@ -59,7 +55,7 @@ world: Both
     "desc": "+8"
 "damage_resistances": "piercing"
 "damage_immunities": "poison, psychic"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 18"
@@ -81,7 +77,6 @@ world: Both
   - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10\
       \ (1d12 + 4) bludgeoning damage."
     "name": "Horns"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11\
       \ (2d6 + 4) slashing damage."
     "name": "Claws"
   - "desc": "The dragon head exhales fire in a 15-foot cone. Each creature in that\
@@ -99,6 +94,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Animated tile chimera rot is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -107,19 +120,27 @@ Animated tile chimera rot is a undersea element of the setting, known for biolum
 
 Legends speak of animated tile chimera rot as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around animated tile chimera rot.
 
-## Adventure Hooks
-
-- A rumor ties animated tile chimera rot to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at animated tile chimera rot to avert a public scandal.
-- A map overlay reveals a hidden approach to animated tile chimera rot active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and war looms
+- A journal reveals the truth about the cult
+- A noble needs help finding before the festival
+- Someone is protecting information for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.590857+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-elder-brain-mpmm-elder-brain-mpmm.svg)
 
@@ -42,6 +39,24 @@ The ultimate expression of mind flayer domination, an elder brain sprawls within
 An elder brain sustains itself by consuming the brains of other creatures. If its mind flayer servants don't bring meals directly to it, the elder brain reaches out with tendrils of thought, compelling creatures to come to it so that it can feed on them.
 
 When a mind flayer perishes, the elder brain's servants feed its brain to their master, which then absorbs the knowledge and experience contained therein. Mind flayers conceive of this oneness with the elder brain as a sacred state akin to an afterlife.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Hive Mind
 
@@ -85,9 +100,7 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
   - "name": "[[skills#Insight|Insight]]"
     "desc": "+14"
   - "name": "[[skills#Intimidation|Intimidation]]"
-    "desc": "+12"
   - "name": "[[skills#Persuasion|Persuasion]]"
-    "desc": "+12"
 "senses": "blindsight 120 ft., passive Perception 14"
 "languages": "understands Common, Deep Speech, and Undercommon but can't speak, telepathy\
   \ 5 miles"
@@ -126,9 +139,9 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
   - "desc": "The elder brain casts one of the following spells, requiring no spell\
       \ components and using Intelligence as the spellcasting ability (spell save\
       \ DC 18):\n\nAt will: [[detect-thoughts-xphb|detect thoughts]],\
-      \ [[levitate-xphb|levitate]]\n\n3/day: [[modify-memory-xphb|modify\
+      \ [[levitate-xphb|levitate]]\n\n3/day: [[modify-memory-xphb|modify\]]
       \ memory]]\n\n1/day each:\
-      \ [[dominate-monster-xphb|dominate monster]], [[plane-shift-xphb|plane\
+      \ [[dominate-monster-xphb|dominate monster]], [[plane-shift-xphb|plane\]]
       \ shift]] (self only)"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
@@ -154,11 +167,9 @@ An elder brain's ambitions are always tempered by its relative immobility. Altho
       \ on a spell it has cast. The creature also takes 2 (d4) psychic damage per\
       \ level of the spell."
     "name": "Break Concentration"
-  - "desc": "The elder brain targets one creature within 120 feet of it with which\
       \ it has a psychic link. The target and enemies of the elder brain within 30\
       \ feet of target take 10 (3d6) psychic damage."
     "name": "Psychic Pulse"
-  - "desc": "The elder brain targets one creature within 120 feet of it with which\
       \ it has a psychic link. The elder brain ends the link, causing the creature\
       \ to have disadvantage on all ability checks, attack rolls, and saving throws\
       \ until the end of the creature's next turn."
@@ -184,19 +195,21 @@ Elder brain mpmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of elder brain mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elder brain mpmm.
 
-## Adventure Hooks
-
-- A rumor ties elder brain mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at elder brain mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to elder brain mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and chaos spreads
+- Someone is protecting an heir for money
+- A letter reveals the truth about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

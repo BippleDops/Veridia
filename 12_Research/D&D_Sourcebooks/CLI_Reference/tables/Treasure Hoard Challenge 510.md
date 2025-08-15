@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.986725+00:00'
 world: Both
 ---
 
-
-
 # Treasure Hoard: Challenge 5—10
 *Source: Dungeon Master's Guide p. 133* 
 
@@ -69,6 +67,24 @@ world: Both
 | 00 | `2d4` (5) 250 gp art objects | Roll once on [[magic-item-table-h|Magic Item Table H]]. |
 ^gems-or-art-objects-magic-items
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Treasure hoard challenge 510 is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -77,19 +93,43 @@ Treasure hoard challenge 510 is a undersea element of the setting, known for bio
 
 Legends speak of treasure hoard challenge 510 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around treasure hoard challenge 510.
 
-## Adventure Hooks
-
-- A rumor ties treasure hoard challenge 510 to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at treasure hoard challenge 510 to avert a public scandal.
-- A map overlay reveals a hidden approach to treasure hoard challenge 510 active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before the festival
+- Someone is hunting a artifact for power
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

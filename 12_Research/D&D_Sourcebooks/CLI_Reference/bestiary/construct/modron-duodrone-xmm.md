@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.859116'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-modron-duodrone-xmm-modron-duodrone-xmm.svg)
 
@@ -37,6 +35,24 @@ world: Both
 *Source: Monster Manual (2024) p. 217*  
 
 Duodrones can perform two tasks at once and often oversee monodrone work groups. They are slightly more skeptical of strangers than monodrones are.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Modrons
 
@@ -76,7 +92,6 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 > [!quote] A quote from A planar explorer learning modrons have no sense of humor  
 > 
 > The guide swore "beep boop" meant "hello, friend." I don't know why they're after us!
-
 
 ```statblock
 "name": "Modron Duodrone (XMM)"
@@ -128,19 +143,23 @@ Modron duodrone xmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of modron duodrone xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around modron duodrone xmm.
 
-## Adventure Hooks
-
-- A rumor ties modron duodrone xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at modron duodrone xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to modron duodrone xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

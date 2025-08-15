@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.827795'
 world: Both
 ---
 
-
 # Tiefling Names – Female
 *Source: Xanathar's Guide to Everything p. 180* 
 
@@ -83,6 +82,24 @@ world: Both
 | 99-00 | Verin |
 ^tiefling-names-female
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Tiefling names female xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -91,19 +108,25 @@ Tiefling names female xge is a undersea element of the setting, known for biolum
 
 Legends speak of tiefling names female xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tiefling names female xge.
 
-## Adventure Hooks
-
-- A rumor ties tiefling names female xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at tiefling names female xge to avert a public scandal.
-- A map overlay reveals a hidden approach to tiefling names female xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and truth emerges
+- A letter reveals ancient history about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

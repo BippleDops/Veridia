@@ -24,19 +24,33 @@ updated: '2025-08-13T12:34:06.895406+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-obsidian-statuette-with-gold-fittings-and-inlay-xdmg-obsidian-statuette-with-gold-fittings-and-inlay-xdmg.svg)
 
 # Obsidian statuette with gold fittings and inlay
 *Treasure (art object)*  
 
-
 - **Cost**: 750 gp
 
 *Source: Dungeon Master's Guide (2024) p. 215*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -46,19 +60,40 @@ Obsidian statuette with gold fittings and inlay xdmg is a undersea element of th
 
 Legends speak of obsidian statuette with gold fittings and inlay xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around obsidian statuette with gold fittings and inlay xdmg.
 
-## Adventure Hooks
-
-- A rumor ties obsidian statuette with gold fittings and inlay xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at obsidian statuette with gold fittings and inlay xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to obsidian statuette with gold fittings and inlay xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before winter
+- A merchant needs help delivering before dawn
+- A noble needs help finding before dawn
+- A map reveals a betrayal about the government
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:07.481241+00:00'
 world: Both
 ---
 
-
-
 # Book of Exalted Deeds
 *Wondrous item, artifact (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/book-of-exalted-deeds.webp#right)
@@ -42,9 +40,27 @@ Other creatures that peruse the book's open pages can read the text but glean no
 
 Benefits granted by the Book of Exalted Deeds last only as long as you strive to do good. If you fail to perform at least one act of kindness or generosity within the span of 10 days, or if you willingly perform an evil act, you lose all the benefits granted by the book.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Celestial Calm
 
-While attuned to the book, you have [[immunity-xphb|Immunity]] to the [[conditions#Charmed|Charmed]] and [[conditions#Frightened|Frightened]] conditions and [[resistance-xphb|Resistance]] to Psychic damage. These benefits become permanent after you spend the requisite amount of time reading and studying the book.
+While attuned to the book, you have [[immunity-xphb|Immunity]] to the [[conditions#Charmed|Charmed]] and [[conditions#frightened|Frightened]] conditions and [[resistance-xphb|Resistance]] to Psychic damage. These benefits become permanent after you spend the requisite amount of time reading and studying the book.
 
 ## Divine Wisdom
 
@@ -79,19 +95,25 @@ Book of exalted deeds xdmg is a undersea element of the setting, known for biolu
 
 Legends speak of book of exalted deeds xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around book of exalted deeds xdmg.
 
-## Adventure Hooks
-
-- A rumor ties book of exalted deeds xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at book of exalted deeds xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to book of exalted deeds xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Winds
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

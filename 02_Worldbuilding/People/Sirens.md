@@ -1,4 +1,5 @@
 ---
+
 title: Sirens
 type: Npc
 tags:
@@ -18,6 +19,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.479007+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +29,69 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-sirens-sirens.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward manipulation
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward negotiation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
 
 ## Player-Facing Summary
 
@@ -67,14 +100,6 @@ Sirens is a undersea element of the setting, known for bioluminescent glow and p
 ## Lore Details
 
 Legends speak of Sirens as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sirens.
-
-## Adventure Hooks
-
-- A rumor ties Sirens to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Sirens to avert a public scandal.
-- A map overlay reveals a hidden approach to Sirens active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +110,6 @@ Sirens's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Serving justice
@@ -124,8 +119,6 @@ Sirens's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Sirens harbors secrets that could change everything:
@@ -133,10 +126,6 @@ Sirens harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Lost memory
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +144,6 @@ Sirens is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Sirens needs assistance with a delicate matter
@@ -164,8 +151,6 @@ Sirens is currently engaged in:
 3. **The Secret**: Information about Sirens's past surfaces
 4. **The Alliance**: Opportunity to work with or against Sirens
 5. **The Crisis**: Sirens is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,39 +164,48 @@ Sirens is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Sirens]]
-
-<!-- enriched: true -->
-
-
-
-
-## Relationship Web
-
-- [[04_Resources_Assets_Symbols_symbol-heraldry-thalassa-the-pathfinder-thalassa-the-pathfinder.svg]]: *debt holder*
-- [[Sunken Kingdom of Nereon]]: *mentor*
-
-## Connections
-
-- [[Harbor Master Luna Freedrift]]
-
-
-## Character Arc
-
-### Starting Point
-- **Current State**: Troubled
-- **Core Desire**: Love
-- **Major Flaw**: Fear
-
 ### Development Triggers
 1. **Catalyst Event**: Discovery
 2. **Challenge**: Must overcome external threat
 3. **Growth Moment**: Learns humility
 
-### Potential Endings
-- **Redemption**: Overcomes flaw and finds peace
-- **Tragedy**: Succumbs to flaw with consequences  
-- **Transformation**: Becomes someone entirely new
-- **Stasis**: Refuses to change despite opportunities
+
+## Relationships
+
+- **Debtor**: [[Sage Elara]]
+- **Parent**: [[Portrait NPC Madame Nightwhisper Madame Nightwhisper.svg]]
+- **Friend**: [[Portrait NPC the Bloodline Carrier V1 the Bloodline Carrier.svg]]
+- **Enemy**: [[Portrait NPC Quest the Missing Guards V2 Quest the Missing Guards.svg]]
+- **Child**: [[Lady Jade Clawgrip]]
+
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

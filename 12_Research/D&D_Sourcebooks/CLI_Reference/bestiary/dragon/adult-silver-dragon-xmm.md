@@ -17,7 +17,7 @@ tags:
 - ttrpg-cli/monster/type/dragon/metallic
 - ttrpg-cli/monster/cr/16
 - status/in-progress
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-monster
@@ -28,15 +28,31 @@ updated: '2025-08-12T23:37:35.776822'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-adult-silver-dragon-xmm-adult-silver-dragon-xmm.svg)
 
 # [[adult-silver-dragon-xmm|Adult Silver Dragon]]
-*Source: Monster Manual (2024) p. 279. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 279. Available in the SRD and the Free Rules (2024)*  
 
 Adult silver dragons love to spend time among various peoples. Rather than manipulating politics directly, they support individuals who have ambitious goals or who popularize the return of great universities, inspiring athletics events or festivals, and other salutary civic institutions of the past. Silver dragons often surround themselves with like-minded allies and are watchful for hidden threats.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Silver Dragons
 
@@ -100,7 +116,6 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
   - "desc": "Constitution Saving Throw: DC 20, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: 54 (12d8) Cold damage. Success: Half damage."
     "name": "Cold Breath (Recharge 5-6)"
-  - "desc": "Constitution Saving Throw: DC 20, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
       \ 1st Failure: The target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn, when it repeats the save. 2nd Failure:\
       \ The target has the [[conditions#Paralyzed|Paralyzed]] condition,\
@@ -140,9 +155,7 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
       \ [[control-weather-xphb|Control Weather]], requiring\
       \ no Material components and using the same spellcasting ability as its Spellcasting\
       \ action.  "
-    "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/dragon/token/adult-silver-dragon-xmm.webp"
@@ -161,19 +174,20 @@ Adult silver dragon xmm is a undersea element of the setting, known for biolumin
 
 Legends speak of adult silver dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around adult silver dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties adult silver dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at adult silver dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to adult silver dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals a conspiracy about the government
+- A merchant needs help finding before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

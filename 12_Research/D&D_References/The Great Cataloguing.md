@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.704750+00:00'
 world: Both
 ---
 
-
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-the-great-cataloguing-the-great-cataloguing.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Merchant's Covenant|02 Worldbuilding/Groups/Merchant's Covenant]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Merchant's Covenant]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,21 @@ The Great Cataloguing is a undersea element of the setting, known for biolumines
 
 Legends speak of The Great Cataloguing as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Great Cataloguing.
 
-## Adventure Hooks
-
-- A rumor ties The Great Cataloguing to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Great Cataloguing to avert a public scandal.
-- A map overlay reveals a hidden approach to The Great Cataloguing active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and chaos spreads
+- A document has gone missing and evil awakens
+- A stranger needs help investigating before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

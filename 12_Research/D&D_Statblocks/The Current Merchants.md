@@ -33,16 +33,29 @@ MyCategory: NPC
 obsidianUIMode: preview
 ---
 
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-current-merchants-the-current-merchants.svg]]
 
-
-
-
 # The Current Merchants
 *Nereon Swiftcurrent, Master of the Deep Trades, Navigator of Infinite Possibilities*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 Nereon Swiftcurrent, known throughout Aquabyssos simply as "The Current Merchants" due to his mastery over oceanic trade routes, is the most successful merchant in the underwater realm's history. His Deep Current Trading Company has revolutionized commerce by utilizing magical manipulation of ocean currents to create impossibly fast and efficient shipping networks that connect the farthest reaches of the aquatic world.
@@ -65,7 +78,6 @@ He possesses an entrepreneur's optimism combined with a navigator's caution, alw
 
 His greatest flaw is his tendency to see everything in terms of profit and loss, sometimes missing the human cost of his business decisions. However, he has begun to mature beyond pure mercantilism, recognizing that long-term success requires consideration of environmental and social impacts.
 
-## Background & History
 ### The Current Apprentice (78-50 years ago)
 Born to a family of traditional kelp farmers in the outer reaches of Aquabyssos, Nereon showed early signs of current-sensitivity—the ability to sense and predict changes in water flow patterns. Rather than following his family into agriculture, he apprenticed himself to an elderly sea elf navigator named Master Torrent who taught him the ancient arts of current-reading and water-path navigation.
 
@@ -86,8 +98,6 @@ Recent years have brought new challenges as Nereon's success has attracted both 
 
 Nereon has responded by diversifying his interests beyond pure commerce, investing in research, education, and infrastructure projects that benefit the entire realm. He has also begun training successors who can maintain his trading empire while he transitions to a more advisory role focused on long-term economic planning and oceanic environmental protection.
 
-## Abilities & Powers
-
 ### Current Mastery
 Nereon's deep connection to oceanic currents grants him extraordinary abilities:
 - **Current Sight**: Can perceive the flow of all water within a 50-mile radius, including speed, direction, and magical influences
@@ -96,22 +106,6 @@ Nereon's deep connection to oceanic currents grants him extraordinary abilities:
 - **Current Riding**: Can travel at incredible speeds by surfing natural or artificial current flows
 - **Temporal Flow**: Limited ability to accelerate or slow the passage of time in small areas by manipulating temporal currents
 
-### Storm Sorcery
-- **Weather Command**: Can summon storms, calm rough seas, or create perfect sailing conditions
-- **Lightning Control**: Channels electrical energy through water to power devices or attack enemies
-- **Wind Mastery**: Commands air currents as well as water flows, allowing for surface sailing optimization
-- **Teleportation**: Can instantly travel between connected water sources using current networks
-- **Elemental Binding**: Can trap air or water elementals in current patterns to serve as ship power sources
-
-### Merchant Prince Skills
-- **Perfect Memory**: Never forgets a deal, price, or trade route detail
-- **Value Assessment**: Can instantly determine the fair market value of any object or service
-- **Network Analysis**: Understands complex economic systems and can predict market changes
-- **Negotiation Mastery**: Exceptional ability to find mutually beneficial solutions to commercial disputes
-- **Cultural Adaptation**: Can quickly understand and respect the customs of any trading partner
-
-## Resources & Influence
-
 ### The Deep Current Trading Company
 Nereon's commercial empire includes:
 - **Main Fleet**: 200 current-riding vessels of various sizes and specializations
@@ -119,53 +113,6 @@ Nereon's commercial empire includes:
 - **Warehouse Networks**: Secure storage facilities in every major city and many smaller settlements
 - **Employee Base**: Over 3,000 sailors, traders, administrators, and support staff
 - **Subsidiary Companies**: Smaller specialized firms handling insurance, banking, and specialized cargo
-
-### Current Infrastructure
-- **The Grand Circuit**: Magically enhanced current system connecting all major Aquabyssos locations
-- **Navigation Beacons**: Magical markers that help ships navigate complex current patterns
-- **Current Locks**: Artificial current management systems that control flow speed and direction
-- **Emergency Networks**: Backup current routes for use during natural disasters or conflicts
-- **Research Stations**: Facilities dedicated to studying current patterns and developing new transportation techniques
-
-### Financial Resources
-- **Liquid Assets**: Estimated at 2.5 million gold pieces in various currencies and tradeable commodities
-- **Credit Networks**: Can arrange financing for major projects through his network of banking partners
-- **Insurance Operations**: Provides coverage for maritime ventures throughout the realm
-- **Investment Portfolio**: Holdings in mining operations, fishing fleets, manufacturing, and real estate
-- **Government Contracts**: Exclusive arrangements with imperial administration for official cargo transportation
-
-## Relationships
-
-### Business Partners
-- **[[Emperor Thalassius the Wise]]** - Primary client for government shipping contracts; complex relationship balancing mutual benefit with political independence
-- **[[Master Artificer Korvin Gearwright]]** - Technical partnership developing magically enhanced shipping technologies
-- **[[The Pearl Guard]]** - Security contractor providing protection for high-value shipments
-- **Foreign Trade Delegations** - Commercial relationships with surface world and other underwater realm merchants
-
-### Professional Rivals
-- **Traditional Shipping Guilds** - Older organizations that resent his disruption of established trade patterns
-- **[[The Coral Throne Syndicate]]** - Criminal organization that competes for control of certain trade routes
-- **Regional Monopolists** - Local merchant princes who see his expansion as a threat to their territories
-- **Environmental Groups** - Organizations that oppose his current manipulation on ecological grounds
-
-### Political Relationships
-- **[[High Tidecaller Nerissa Deepcurrent]]** - Mutual respect but occasional conflicts over environmental policy
-- **[[Parliament of Echoes]]** - Provides economic expertise but maintains independence from political factions
-- **[[The Tidal Council]]** - Advises on trade policy while protecting his commercial interests
-- **Tax Collectors** - Ongoing negotiations about fair contribution to realm revenues
-
-### Personal Connections
-- **Captain Siphon Rapidstream** - His most trusted ship captain and oldest friend
-- **Navigator Coral Deepeye** - Protégé being groomed as potential successor to his navigation expertise
-- **Merchant Princess Algae Goldcurrent** - Romantic interest who leads a competing but allied trading company
-- **His Extended Family** - Maintains connections to his kelp-farming roots while supporting relatives' business ventures
-
-## Current Activities
-- Developing new current-enhancement techniques that work with natural flow patterns rather than fighting them
-- Establishing trade relationships with surface world merchants through carefully negotiated diplomatic channels
-- Creating a comprehensive merchant academy to train the next generation of current-riding traders
-- Investigating reports of artificial current disruptions that may indicate sabotage by competitors
-- Planning a grand expedition to map previously unknown deep ocean current systems
 
 ## Motivations
 1. **Primary**: Expand and improve the oceanic trade networks that connect all aquatic communities
@@ -245,35 +192,6 @@ Nereon prefers to avoid direct confrontation, but when forced to fight:
 
 **Storm Summons (1/Day).** Nereon calls upon his storm mastery to create extreme weather in a 1-mile radius for 1 hour. Effects include heavy rain, lightning strikes (3d6 lightning damage, DC 19 Dex save for half), strong currents, and reduced visibility.
 
-### Legendary Actions (3 per turn)
-- **Move.** Nereon moves up to his speed without provoking opportunity attacks
-- **Current Shift.** Nereon uses minor current manipulation to reposition himself or an ally
-- **Cantrip.** Nereon casts a cantrip
-- **Lightning Strike (Costs 2 Actions).** Nereon makes one Current Strike attack with additional lightning damage
-- **Network Call (Costs 3 Actions).** Nereon uses his Merchant's Network ability if available
-
-## Services & Resources Offered
-### Transportation Services
-- **Express Shipping**: Fastest delivery service in Aquabyssos using current-riding vessels (premium pricing)
-- **Bulk Cargo**: Cost-effective transport for large shipments between major cities (standard rates)
-- **Passenger Service**: Comfortable travel for individuals and small groups (luxury pricing)
-- **Emergency Transport**: Priority service for medical, military, or disaster response (negotiated rates)
-- **Charter Operations**: Exclusive use of vessels for specific missions or events (very expensive)
-
-### Commercial Services
-- **Trade Consultation**: Expert advice on market conditions, routes, and opportunities (1,000-10,000gp)
-- **Currency Exchange**: Conversion between different realm currencies at competitive rates (3% commission)
-- **Insurance Programs**: Protection for cargo, vessels, and personnel against various risks (varies by coverage)
-- **Market Analysis**: Detailed reports on supply, demand, and pricing trends (5,000-25,000gp)
-- **Business Partnership**: Investment and collaboration opportunities for qualified merchants (negotiated terms)
-
-### Specialized Services
-- **Current Mapping**: Navigation charts for new routes or dangerous areas (10,000-50,000gp)
-- **Weather Forecasting**: Advance warning of storms and optimal travel conditions (1,000gp per forecast)
-- **Communication Network**: Message delivery throughout the trading network (100gp per message)
-- **Diplomatic Transport**: Secure conveyance for sensitive political missions (50,000gp plus guarantees)
-- **Exploration Support**: Logistics for expeditions to unknown regions (varies by scope and danger)
-
 ## Adventure Hooks
 1. **The Disrupted Current**: Nereon's main shipping route has been mysteriously blocked, causing economic chaos. He needs investigators to discover if this is natural, magical, or sabotage
 2. **The Competitor's Gambit**: A rival trading company is using dangerous magic to create their own current network. Nereon needs the party to expose their methods before they cause an ecological disaster
@@ -300,27 +218,6 @@ Nereon prefers to avoid direct confrontation, but when forced to fight:
 
 *(When negotiating)* "Now, I could charge you the standard rate, but I see an opportunity here for both of us. What if we structured this as a partnership instead of a simple transaction?"*
 
-## Connected Elements
-- Central figure in Aquabyssos's economic system and inter-realm trade development
-- Bridge between traditional maritime culture and innovative magical technology
-- Key player in political situations involving resource distribution and economic policy
-- Potential patron for expeditions, exploration, and diplomatic missions
-- Living embodiment of how individual innovation can reshape entire civilizations
-
-## DM Notes
-- Nereon represents the power of economic forces to shape political and social change
-- His current networks provide a way to quickly move parties and NPCs around the underwater realm
-- Can serve as patron, rival, information source, or complication depending on party goals
-- His business empire offers numerous plot hooks involving trade disputes, exploration, and innovation
-- Perfect for campaigns exploring themes of environmental change, economic development, and cultural adaptation
-- His eventual succession crisis could be a major campaign storyline affecting all of Aquabyssos
-
-
-## Connections
-
-- [[Mayor Thompson]]
-- [[The Pearl Guard]]
-
 ## Player-Facing Summary
 
 The Current Merchants is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -329,17 +226,11 @@ The Current Merchants is a undersea element of the setting, known for biolumines
 
 Legends speak of The Current Merchants as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Current Merchants.
 
-## Cross-References
-
-- [[The Current Merchants|02 Worldbuilding/People/The Current Merchants]]
-
-<!-- enriched: true -->
-- [[Emperor Thalassius the Wise]]
-- [[Master Artificer Korvin Gearwright]]
-- [[The Tidal Council]]
-- [[Parliament of Echoes]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

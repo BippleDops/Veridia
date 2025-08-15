@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.872341'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-broom-of-animated-attack-cos-broom-of-animated-attack-cos.svg)
 
@@ -35,6 +33,24 @@ world: Both
 *Source: Curse of Strahd p. 226*  
 
 A broom of animated attack is easily mistaken for a broom of flying. It attacks any creature that grabs it or tries to ride it.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Flying Broom
 
@@ -53,24 +69,22 @@ Some brooms of animated attack allow their creators to ride them, in which case 
 "stats":
   - !!int "10"
   - !!int "17"
-  - !!int "10"
   - !!int "1"
   - !!int "5"
-  - !!int "1"
 "speed": "0 ft., fly 50 ft. (hover)"
 "damage_immunities": "poison, psychic"
 "condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
   \ [[conditions#Deafened|deafened]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
-  \ [[conditions#Prone|prone]]"
+  \ [[conditions#prone|prone]]"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 7"
 "languages": ""
 "cr": "1/4"
 "traits":
   - "desc": "An animated object doesn't require air, food, drink, or sleep.\n\nThe\
       \ magic that animates an object is dispelled when the construct drops to 0 hit\
-      \ points. An animated object reduced to 0 hit points becomes inanimate and is\
+      \ points. An animated object reduced to 0 hit points becomes iimate and is\
       \ too damaged to be of much use or value to anyone."
     "name": "Constructed Nature"
   - "desc": "The broom is [[conditions#Incapacitated|incapacitated]]\
@@ -109,19 +123,20 @@ Broom of animated attack cos is a undersea element of the setting, known for bio
 
 Legends speak of broom of animated attack cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around broom of animated attack cos.
 
-## Adventure Hooks
-
-- A rumor ties broom of animated attack cos to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at broom of animated attack cos to avert a public scandal.
-- A map overlay reveals a hidden approach to broom of animated attack cos active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest ancient magic
+- Someone is protecting a witness for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

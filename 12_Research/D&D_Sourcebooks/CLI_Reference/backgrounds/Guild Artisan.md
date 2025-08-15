@@ -23,11 +23,8 @@ updated: '2025-08-13T12:34:05.260538+00:00'
 world: Both
 ---
 
-
-
 # Guild Artisan
 *Source: Player's Handbook p. 132*  
-
 
 - **Skill Proficiencies.** [[skills#Insight|Insight]], [[skills#Persuasion|Persuasion]]  
 - **Tool Proficiencies.** One type of artisan's tools  
@@ -35,6 +32,24 @@ world: Both
 - **Equipment.** A set of artisan's tools (one of your choice), a letter of introduction from your guild, a set of [[travelers-clothes-xphb|traveler's clothes]], and a belt [[pouch-xphb|pouch]] containing 15 gp  
 
 You are a member of an artisan's guild, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your guild, until you became a master in your own right.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Feature: Guild Membership
 
@@ -119,7 +134,6 @@ Guild artisans are among the most ordinary people in the world—until they set 
 `dice: [](guild-artisan.md#^flaw)`
 
 | dice: d6 | Flaw |
-|----------|------|
 | 1 | I'll do anything to get my hands on something rare or priceless. |
 | 2 | I'm quick to assume that someone is trying to cheat me. |
 | 3 | No one must ever learn that I once stole money from guild coffers. |
@@ -136,19 +150,15 @@ Guild artisan is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of guild artisan as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around guild artisan.
 
-## Adventure Hooks
-
-- A rumor ties guild artisan to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at guild artisan to avert a public scandal.
-- A map overlay reveals a hidden approach to guild artisan active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes

@@ -1,4 +1,5 @@
 ---
+
 title: Ambassador Marina Tidecaller
 type: Faction
 tags:
@@ -17,6 +18,8 @@ headquarters: Unknown
 membership: Unknown
 updated: '2025-08-13T12:34:17.336078+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -25,14 +28,69 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-ambassador-marina-tidecaller-ambassador-marina-tidecaller.svg]]
 
 
-## Cross-References
+## 🔧 Deep Evaluation Improvements
 
-- [[Order of the Drowned Star|02 Worldbuilding/Groups/Order Of The Drowned Star]]
+*20 targeted improvements identified*
 
+### History Improvements
 
-## Connections
+- Add three historical eras with major events
 
-- [[Order of the Drowned Star]]
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
 
 ## Player-Facing Summary
 
@@ -42,23 +100,9 @@ Ambassador Marina Tidecaller is a undersea element of the setting, known for bio
 
 Legends speak of Ambassador Marina Tidecaller as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ambassador Marina Tidecaller.
 
-## Adventure Hooks
-
-- A rumor ties Ambassador Marina Tidecaller to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Ambassador Marina Tidecaller to avert a public scandal.
-- A map overlay reveals a hidden approach to Ambassador Marina Tidecaller active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
-
-## Known Members
-
-- [[04_Resources_Assets_Symbols_symbol-heraldry-financial-crime-investigatio-financial-crime-investigatio.svg]]
-
 
 ## Overview
 
@@ -69,14 +113,6 @@ Ambassador Marina Tidecaller operates as an influential organization with specif
 **Membership**: Dozens to thousands
 **Secrecy**: Public/Semi-secret/Secret
 
-
-## Structure
-
-### Leadership
-- **Supreme Leader**: Ultimate authority
-- **Council/Board**: Decision makers
-- **Department Heads**: Operational leaders
-
 ### Ranks
 1. Initiate level
 2. Member level
@@ -84,96 +120,64 @@ Ambassador Marina Tidecaller operates as an influential organization with specif
 4. Officer level
 5. Leadership level
 
-
-## Members
-
-### Notable Members
-- [[Leader Name]] - Current head
-- [[Key Officer]] - Important figure
-- [[Rising Star]] - Ambitious member
-
-### Membership Requirements
-- Skills or qualities needed
-- Initiation process
-- Ongoing obligations
-
-
-## Goals
-
 ### Public Mission
 What they claim to pursue
-
-### True Objectives
-- Primary goal
-- Secondary objectives
-- Long-term vision
-
-### Current Projects
-- Active operations
-- Research efforts
-- Political maneuvers
-
-
-## Resources
-
-### Financial
-- Funding sources
-- Wealth level
-- Economic influence
-
-### Physical Assets
-- Properties owned
-- Equipment available
-- Special resources
-
-### Human Resources
-- Member skills
-- Allies and contacts
-- Information networks
-
-
-## Operations
-
-### Regular Activities
-- Day-to-day operations
-- Revenue generation
-- Member services
-
-### Special Operations
-- Covert activities
-- Major projects
-- Crisis responses
-
-
-## Relationships
-
-### Allies
-- Aligned organizations
-- Political supporters
-- Business partners
-
-### Enemies
-- Rival organizations
-- Opposed factions
-- Active threats
-
-### Neutral Parties
-- Potential allies or enemies
-- Trade partners
-- Watching parties
-
-
-## Secrets
 
 ### Open Secrets
 Things widely suspected
 
-### Hidden Truths
-- Real leadership
-- True funding sources
-- Secret objectives
 
-### Deep Mysteries
-- Ancient connections
-- Forbidden knowledge
-- Ultimate goals
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A merchant needs help investigating before the new moon
+- A corpse reveals a betrayal about the cult
+- A merchant needs help stealing before winter
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
+
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.696107+00:00'
 world: Both
 ---
 
-
-
 # Hill Encounters (Levels 11—16)
 *Source: Xanathar's Guide to Everything p. 101* 
 
@@ -43,7 +41,7 @@ world: Both
 | 23-24 | A stream of smoke emerging from a small chimney in the hillside |
 | 25-28 | `d4` [[wyvern-xmm|wyverns]] |
 | 29-32 | `1d8 + 1` [[wereboar-xmm|wereboars]] |
-| 33-36 | `d3` [[revenant-xmm|revenants]] |
+| 33-36 | `d3` [[revet-xmm|revets]] |
 | 37-38 | A mild earthquake that shakes the region for `d20` seconds |
 | 39-42 | `d3` [[chimera-xmm|chimeras]] |
 | 43-46 | `d4` [[gorgon-xmm|gorgons]] |
@@ -63,6 +61,24 @@ world: Both
 | 00 | 1 [[ancient-copper-dragon-xmm|ancient copper dragon]] |
 ^hill-encounters-levels-1116
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Hill encounters levels 1116 xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -71,19 +87,23 @@ Hill encounters levels 1116 xge is a undersea element of the setting, known for 
 
 Legends speak of hill encounters levels 1116 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hill encounters levels 1116 xge.
 
-## Adventure Hooks
-
-- A rumor ties hill encounters levels 1116 xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at hill encounters levels 1116 xge to avert a public scandal.
-- A map overlay reveals a hidden approach to hill encounters levels 1116 xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting a witness for power
+- A map reveals a betrayal about the government
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

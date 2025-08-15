@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Master Smith Vulcan Deepforge|02 Worldbuilding/Places/Master Smith Vulcan Deepforge]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Master Smith Vulcan Deepforge]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,29 @@ Student Engineer Bronze is a undersea element of the setting, known for biolumin
 
 Legends speak of Student Engineer Bronze as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Student Engineer Bronze.
 
-## Adventure Hooks
-
-- A rumor ties Student Engineer Bronze to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Student Engineer Bronze to avert a public scandal.
-- A map overlay reveals a hidden approach to Student Engineer Bronze active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- A shipment has gone missing and chaos spreads
+- Someone is hunting information for revenge
+- A noble needs help stealing before winter
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

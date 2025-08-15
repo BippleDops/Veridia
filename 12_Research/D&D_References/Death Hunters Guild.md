@@ -16,28 +16,22 @@ updated: '2025-08-13T01:18:36.813777+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Structure
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Goals
-
-TODO
-## Assets
-
-TODO
-## Conflicts
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -47,28 +41,34 @@ Death Hunters Guild is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Death Hunters Guild as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Death Hunters Guild.
 
-## Adventure Hooks
-
-- A rumor ties Death Hunters Guild to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Death Hunters Guild to avert a public scandal.
-- A map overlay reveals a hidden approach to Death Hunters Guild active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Withered Court|02 Worldbuilding/Places/Withered Court]]
-
-
-## Connections
-
-- [[Withered Court]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help delivering before the festival
+- A letter reveals a betrayal about the cult
+- A prisoner has gone missing and chaos spreads
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

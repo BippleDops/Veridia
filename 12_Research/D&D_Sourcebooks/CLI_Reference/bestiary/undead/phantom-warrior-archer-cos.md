@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.603935'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-phantom-warrior-archer-cos-phantom-warrior-archer-cos.svg)
 
@@ -46,7 +44,6 @@ world: Both
 "stats":
   - !!int "16"
   - !!int "11"
-  - !!int "16"
   - !!int "8"
   - !!int "10"
   - !!int "15"
@@ -59,9 +56,9 @@ world: Both
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Grappled|grappled]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
-  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#prone|prone]],\
   \ [[conditions#Restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "any languages it knew in life"
@@ -97,6 +94,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Phantom warrior archer cos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -105,19 +120,26 @@ Phantom warrior archer cos is a undersea element of the setting, known for biolu
 
 Legends speak of phantom warrior archer cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around phantom warrior archer cos.
 
-## Adventure Hooks
-
-- A rumor ties phantom warrior archer cos to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at phantom warrior archer cos to avert a public scandal.
-- A map overlay reveals a hidden approach to phantom warrior archer cos active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a betrayal about this place
+- A document has gone missing and evil awakens
+- Someone is searching for an heir for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.159212+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-replacement-survivor-support-groups-replacement-survivor-support-groups.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,16 @@ Replacement Survivor Support Groups is a undersea element of the setting, known 
 
 Legends speak of Replacement Survivor Support Groups as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Replacement Survivor Support Groups.
 
-## Adventure Hooks
-
-- A rumor ties Replacement Survivor Support Groups to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Replacement Survivor Support Groups to avert a public scandal.
-- A map overlay reveals a hidden approach to Replacement Survivor Support Groups active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Replacement Survivor Support Groups|02 Worldbuilding/Places/Replacement Survivor Support Groups]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Investigate Shadow Surgeons]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals ancient history about the government
+- Someone is protecting information for power

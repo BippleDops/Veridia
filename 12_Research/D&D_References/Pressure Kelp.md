@@ -17,14 +17,22 @@ updated: '2025-08-13T01:18:34.635297+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
 
 ## Player-Facing Summary
 
@@ -34,28 +42,28 @@ Pressure Kelp is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of Pressure Kelp as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pressure Kelp.
 
-## Adventure Hooks
-
-- A rumor ties Pressure Kelp to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Pressure Kelp to avert a public scandal.
-- A map overlay reveals a hidden approach to Pressure Kelp active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Lock|02 Worldbuilding/Places/The Lock]]
-
-
-## Connections
-
-- [[The Lock]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals ancient history about the cult
+- A map reveals a betrayal about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

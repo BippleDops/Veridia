@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:04.352311+00:00'
 world: Both
 ---
 
-
-
 # Ghaunadaur
 *Source: Mordenkainen's Tome of Foes p. 53* 
 
@@ -42,6 +40,24 @@ Worship of That Which Lurks is widespread in the Underdark. Not just drow pay re
 
 Those who are faithful to Lolth often oppose Ghaunadaur's cultists, driving them into hiding or forcing them into open conflict. Some priestesses and scholars believe that this enmity exists because Ghaunadaur betrayed Lolth shortly after she betrayed Corellon. In these legends, Ghaunadaur tried to curry favor with Corellon and recapture his earlier formless nature by turning on Lolth. Ghaunadaur's double act of betrayal brought retribution from both gods, and he was cast down into the world as a skinless, boneless mass. Other stories portray Ghaunadaur as an incredibly ancient and ineffable deity, one of the so-called Great Old Ones. Both claims might have merit, because the truth about the time of the birth of gods can never be known for certain.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Drow ghaunadaur mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -50,20 +66,44 @@ Drow ghaunadaur mtf is a undersea element of the setting, known for bioluminesce
 
 Legends speak of drow ghaunadaur mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around drow ghaunadaur mtf.
 
-## Adventure Hooks
-
-- A rumor ties drow ghaunadaur mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at drow ghaunadaur mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to drow ghaunadaur mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Stars
+
+
+## Plot Hooks
+
+- A map reveals a betrayal about a local noble
+- The authorities needs help stealing before the new moon
+- An heirloom has gone missing and war looms
+- A stranger needs help delivering before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

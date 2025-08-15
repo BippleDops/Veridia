@@ -1,4 +1,5 @@
 ---
+
 title: Shadow Independence Levels
 type: Faction
 tags:
@@ -43,6 +44,8 @@ officers:
 primary_contact: Elder Whisper-In-The-Dark
 updated: '2025-08-13T12:34:17.382433+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -50,23 +53,81 @@ world: Aquabyssos
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-shadow-independence-levels-shadow-independence-levels.svg)
 
-
 # Shadow Independence Levels
 
-*A progressive movement advocating for shadow-touched autonomy and self-governance within Aquabyssos*
+*A progressive movement advocating for shadow-touched autonomy and self-goverce within Aquabyssos*
 
-The **Shadow Independence Levels** represents a sophisticated political and social movement that emerged from the growing population of shadow-touched individuals in Aquabyssos. Unlike organizations that seek to hide their shadow nature or integrate fully into standard society, the SIL advocates for recognition of shadow-touched people as a distinct demographic deserving of autonomous rights and self-governance.
+The **Shadow Independence Levels** represents a sophisticated political and social movement that emerged from the growing population of shadow-touched individuals in Aquabyssos. Unlike organizations that seek to hide their shadow nature or integrate fully into standard society, the SIL advocates for recognition of shadow-touched people as a distinct demographic deserving of autonomous rights and self-goverce.
 
 The organization operates on a unique philosophical framework that recognizes different "levels" of shadow independence - from basic recognition of shadow-touched rights to complete autonomous shadow territories. Rather than pursuing revolution or assimilation, they seek incremental progress through structured advocacy, community building, and demonstration of shadow-touched society's viability.
 
 Founded in the aftermath of the [[The Great Drowning]] when many citizens found themselves permanently altered by shadow realm exposure, the SIL has evolved from a support group into a sophisticated political movement with international implications. They represent the largest organized voice for shadow-touched rights in Aquabyssos and have begun expanding influence to other realms facing similar shadow integration challenges.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
 
 ## Organizational Structure
 
 The Shadow Independence Levels operates through a council-based democracy that reflects shadow realm collective consciousness while maintaining individual autonomy. The structure deliberately mirrors the "levels" of independence they advocate for in broader society.
 
 ### Council of Autonomous Shadows
-Rather than a single leader, the SIL is governed by a rotating council of seven members representing different aspects of shadow-touched experience. Council membership changes quarterly through shadow consensus - a unique decision-making process where members temporarily merge consciousness to reach unanimous agreement.
+Rather than a single leader, the SIL is governed by a rotating council of seven members representing different aspects of shadow-touched experience. Council membership changes quarterly through shadow consensus - a unique decision-making process where members temporarily merge consciousness to reach uimous agreement.
 
 **Current Council Members:**
 - [[Elder Whisper-In-The-Dark]]: Represents original shadow realm inhabitants
@@ -90,56 +151,8 @@ The most ambitious SIL initiative, working to establish self-governing shadow-to
 
 The SIL's political philosophy centers on a progressive framework of shadow-touched rights and autonomy, structured in ascending levels of independence:
 
-### Level 1: Recognition and Protection
-- Legal recognition of shadow-touched individuals as citizens with full rights
-- Anti-discrimination laws protecting shadow-touched in employment and housing
-- Medical coverage for shadow-related health needs and integration support
-- Educational accommodations in schools and training programs
-
-### Level 2: Cultural Accommodation
-- Official recognition of shadow-touched cultural practices and traditions
-- Accommodation of shadow realm calendar and ritual observances
-- Shadow-touched representation in government proportional to population
-- Public facilities adapted for shadow-touched accessibility needs
-
-### Level 3: Community Autonomy
-- Designated shadow-touched neighborhoods with self-governance rights
-- Shadow-touched schools, medical facilities, and cultural institutions
-- Economic zones supporting shadow-realm commerce and trade
-- Cultural exchange programs between shadow and non-shadow communities
-
-### Level 4: Territorial Semi-Autonomy
-- Formal shadow-touched territories with limited self-governance
-- Shadow council representation in regional government decisions
-- Independent shadow-touched law enforcement and judicial systems
-- Economic agreements as semi-independent political entity
-
-### Level 5: Full Shadow Independence
-- Complete political autonomy for shadow-touched territories
-- Independent diplomatic relations with other realms and planes
-- Full shadow-touched nation status with international recognition
-- Voluntary association agreements with Aquabyssos confederation
-
-## Goals and Objectives
-
-### Public Goals
-- Achieving legal recognition and protection for all shadow-touched individuals
-- Establishing support networks for shadow integration and community building
-- Promoting understanding between shadow-touched and non-shadow populations
-- Creating economic opportunities specifically suited to shadow-touched abilities
-- Developing educational programs about shadow realm culture and history
-
-### Strategic Objectives
-- Building political coalitions supporting shadow-touched rights legislation
-- Establishing economically viable shadow-touched communities and enterprises
-- Training shadow-touched individuals for leadership roles in society
-- Creating cultural institutions preserving and promoting shadow traditions
-- Developing diplomatic relationships with other realms' shadow-touched populations
-
 ### Long-term Vision: The Shadow Confederation
-The ultimate goal involves creating a network of autonomous shadow-touched territories throughout the planes, connected by shadow realm pathways and governed through collective consciousness democracy. This confederation would serve as a new model for post-traditional governance suited to beings existing across multiple dimensional planes.
-
-## Membership and Community
+The ultimate goal involves creating a network of autonomous shadow-touched territories throughout the planes, connected by shadow realm pathways and governed through collective consciousness democracy. This confederation would serve as a new model for post-traditional goverce suited to beings existing across multiple dimensional planes.
 
 ### Membership Categories
 
@@ -180,42 +193,11 @@ Community hubs promoting shadow-touched culture:
 - Meditation spaces for shadow consciousness development
 
 **Autonomous Settlement Projects**
-Experimental communities demonstrating shadow-touched self-governance:
+Experimental communities demonstrating shadow-touched self-goverce:
 - [[Shadow Vale]]: Agricultural community specializing in shadow realm crops
 - **Umbral Heights**: Urban district with shadow-adapted architecture
 - **The Dusk Markets**: Commercial zone facilitating shadow-material plane trade
 - **Whisper Harbor**: Port community for interdimensional transportation
-
-## Allies and Relationships
-
-### Allied Organizations
-- **[[The Parliament of Nobody]]**: Shares interest in alternative governance models
-- **[[The Convergence Seekers]]**: Collaborates on dimensional research and theory
-- **[[The Void Watchers]]**: Intelligence sharing on interdimensional threats
-- **[[Ancient Mer-Folk Empire]]**: Historical precedent for minority autonomy rights
-- **[[The Seekers' Guild]]**: Research partnerships on shadow realm studies
-
-### Sympathetic but Cautious
-- **[[Parliament of Echoes]]**: Some members support shadow-touched rights legislation
-- **[[The Crown Authority]]**: Officially neutral but contains individual supporters
-- **[[Merchant Princes]]**: Interested in shadow realm trade opportunities
-- **[[The Artisans' Collective]]**: Appreciates shadow-touched crafting innovations
-- **[[Temple of Divine Order]]**: Progressive factions support dimensional tolerance
-
-### Opposed Organizations
-- **[[Purist Coalition]]**: Actively campaigns against shadow integration
-- **[[Crystal Wardens]]**: Views shadow autonomy as security threat
-- **[[The Deepwatch Guard]]**: Concerned about dimensional border security
-- **[[Party Shadows]]**: Competes for shadow-touched political loyalty
-- **[[The Shadow Conspiracy]]**: Opposes transparent shadow political organization
-
-### Complex Relationships
-- **[[Shadow Surgeons Collective]]**: Shares shadow-touched advocacy but disagrees on methods
-- **[[The Crimson Fleet]]**: Some shadow-touched pirates support autonomy goals
-- **[[The Leviathan Cult]]**: Theological disagreements about shadow realm nature
-- **[[The Whisper Syndicate]]**: Economic cooperation despite political differences
-
-## Territory and Operations
 
 ### Primary Territories
 **[[The Shadowmere]]**: Natural shadow realm intersection serving as movement headquarters
@@ -235,7 +217,7 @@ Experimental communities throughout Aquabyssos:
 
 **Shadow Vale**: Agricultural settlement proving economic viability
 - Farms producing shadow realm crops for specialized markets
-- Demonstration of sustainable shadow-touched community governance
+- Demonstration of sustainable shadow-touched community goverce
 - Research center for shadow-enhanced agricultural techniques
 - Cultural preservation site maintaining traditional shadow practices
 
@@ -245,21 +227,17 @@ Experimental communities throughout Aquabyssos:
 - Public works projects demonstrating shadow-touched municipal management
 - Educational facilities providing shadow studies curriculum
 
-## Internal Politics and Philosophical Debates
-
 ### The Gradualist Faction
 Led by [[The Shadow Singer Naia]], believes in achieving goals through incremental progress and cooperation with existing institutions. They emphasize building positive relationships with non-shadow communities and demonstrating shadow-touched contributions to society.
 
 ### The Autonomist Faction
-Following [[Elder Whisper-In-The-Dark]], advocates for rapid establishment of fully autonomous territories. They argue that true equality requires complete self-governance and that integration efforts ultimately compromise shadow-touched identity.
+Following [[Elder Whisper-In-The-Dark]], advocates for rapid establishment of fully autonomous territories. They argue that true equality requires complete self-goverce and that integration efforts ultimately compromise shadow-touched identity.
 
 ### The Integrationist Wing
 Supported by [[Marcus "The Shade" Blackwood]], believes shadow-touched individuals should pursue full participation in existing Aquabyssos society rather than separate development. They focus on anti-discrimination efforts and individual advancement.
 
 ### The Confederation Movement
 Influenced by contact with other realms' shadow-touched populations, this group believes the movement should prioritize building interdimensional networks over local territorial autonomy.
-
-## Economic Activities and Resources
 
 ### Shadow Realm Trade
 The SIL facilitates legitimate commerce between shadow and material planes:
@@ -268,21 +246,6 @@ The SIL facilitates legitimate commerce between shadow and material planes:
 - **Dimensional Transportation**: Safe travel services between planes
 - **Shadow Agriculture**: Crops enhanced through shadow realm cultivation
 - **Consultation Services**: Expertise on shadow integration and accommodation
-
-### Community Enterprises
-- **Umbralight Cooperative**: Worker-owned businesses employing shadow-touched individuals
-- **Dusk Communications**: Messaging services utilizing shadow realm networks
-- **Twilight Construction**: Building company specializing in shadow-adapted architecture
-- **Shadow Studies Institute**: Educational institution offering dimensional research programs
-
-### Funding Sources
-- Membership dues and voluntary community contributions
-- Grants from sympathetic organizations and research institutions  
-- Revenue from community enterprises and shadow realm trade
-- Donations from successful shadow-touched individuals and allies
-- Cultural exchange programs and educational workshop fees
-
-## Adventure Hooks
 
 ### Community Development Scenarios
 1. **Settlement Defense**: Protecting a new autonomous settlement from hostile neighbors
@@ -308,8 +271,6 @@ The SIL facilitates legitimate commerce between shadow and material planes:
 15. **Dimensional Instability**: Managing shadow realm disruptions affecting settlements
 16. **Economic Warfare**: Countering attempts to economically isolate shadow-touched communities
 
-## Services and Programs
-
 ### Public Services
 | Service | Cost | Availability |
 |---------|------|-------------|
@@ -325,7 +286,7 @@ The SIL facilitates legitimate commerce between shadow and material planes:
 | Economic Development | Associate+ | Business loans and mentorship |
 | Political Advocacy | Primary Members | Representation in legal matters |
 | Cultural Resources | All Members | Access to libraries and cultural centers |
-| Leadership Training | Senior Members | Preparation for community governance roles |
+| Leadership Training | Senior Members | Preparation for community goverce roles |
 
 ## Cultural Contributions
 
@@ -337,20 +298,6 @@ Promoting artistic expression utilizing shadow realm aesthetics and techniques:
 - **Echo Poetry**: Verse that changes meaning based on reader's shadow integration level
 - **Dusk Music**: Compositions incorporating sounds from shadow realm
 - **Memory Theater**: Performance art utilizing shared consciousness experiences
-
-### Academic Contributions
-- Establishing shadow studies as legitimate academic discipline
-- Publishing research on dimensional psychology and sociology
-- Developing educational curricula for multicultural dimensional education
-- Training programs for professionals working with shadow-touched populations
-
-### Social Innovation
-- Collective consciousness democracy as alternative governance model
-- Community support systems for dimensional integration challenges
-- Conflict resolution techniques utilizing shadow realm empathy abilities
-- Economic models incorporating interdimensional trade relationships
-
-## Future Challenges and Opportunities
 
 ### Growing Pains
 As the movement expands, the SIL faces increasing complexity in maintaining unity across diverse shadow-touched communities. Balancing autonomous development with broader integration goals requires constant negotiation and compromise.
@@ -366,11 +313,6 @@ Advancing shadow-realm technology creates opportunities for economic development
 
 The Shadow Independence Levels represents a unique approach to minority rights advocacy in a supernatural setting - combining practical political action with philosophical exploration of identity, autonomy, and interdimensional citizenship. They offer extensive opportunities for campaigns exploring themes of civil rights, community building, and the challenges of creating new forms of society.
 
-
-## Connections
-
-- [[Stop the Shadow Harvest]]
-
 ## Player-Facing Summary
 
 Shadow Independence Levels is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -383,37 +325,6 @@ Legends speak of Shadow Independence Levels as a nexus where past and present co
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Parliament of Echoes]]
-- [[Ancient Mer-Folk Empire]]
-- [[Crystal Wardens]]
-- [[Merchant Princes]]
-- [[Party Shadows]]
-- [[Purist Coalition]]
-- [[Shadow Surgeons Collective]]
-- [[Shadow Vale]]
-- [[Temple of Divine Order]]
-- [[The Crown Authority]]
-- [[The Deepwatch Guard]]
-- [[The Leviathan Cult]]
-- [[The Parliament of Nobody]]
-- [[The Seekers' Guild]]
-- [[The Shadow Conspiracy]]
-- [[The Void Watchers]]
-- [[The Whisper Syndicate]]
-- [[The Shadow Singer Naia]]
-- [[New Thalassopolis]]
-- [[Parliament of Echoes]]
-
-
-## Known Members
-
-- [[Pearl Empress Lustrous]]
-
-
 ## Overview
 
 Shadow Independence Levels operates as an influential organization with specific goals and methods. Their reach extends throughout their sphere of influence.
@@ -423,14 +334,6 @@ Shadow Independence Levels operates as an influential organization with specific
 **Membership**: Dozens to thousands
 **Secrecy**: Public/Semi-secret/Secret
 
-
-## Structure
-
-### Leadership
-- **Supreme Leader**: Ultimate authority
-- **Council/Board**: Decision makers
-- **Department Heads**: Operational leaders
-
 ### Ranks
 1. Initiate level
 2. Member level
@@ -438,67 +341,49 @@ Shadow Independence Levels operates as an influential organization with specific
 4. Officer level
 5. Leadership level
 
-
-## Resources
-
-### Financial
-- Funding sources
-- Wealth level
-- Economic influence
-
-### Physical Assets
-- Properties owned
-- Equipment available
-- Special resources
-
-### Human Resources
-- Member skills
-- Allies and contacts
-- Information networks
-
-
-## Operations
-
-### Regular Activities
-- Day-to-day operations
-- Revenue generation
-- Member services
-
-### Special Operations
-- Covert activities
-- Major projects
-- Crisis responses
-
-
-## Relationships
-
-### Allies
-- Aligned organizations
-- Political supporters
-- Business partners
-
-### Enemies
-- Rival organizations
-- Opposed factions
-- Active threats
-
-### Neutral Parties
-- Potential allies or enemies
-- Trade partners
-- Watching parties
-
-
-## Secrets
-
 ### Open Secrets
 Things widely suspected
 
-### Hidden Truths
-- Real leadership
-- True funding sources
-- Secret objectives
 
-### Deep Mysteries
-- Ancient connections
-- Forbidden knowledge
-- Ultimate goals
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
+
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

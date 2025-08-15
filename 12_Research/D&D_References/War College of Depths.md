@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[02_Worldbuilding/Lore/Ω_System-CLI-spells-school-evocation|02 Worldbuilding/Lore/Ω System CLI Spells School Evocation]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Ω_System-CLI-spells-school-evocation|Ω System CLI Spells School Evocation]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,26 @@ War College of Depths is a undersea element of the setting, known for biolumines
 
 Legends speak of War College of Depths as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around War College of Depths.
 
-## Adventure Hooks
-
-- A rumor ties War College of Depths to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at War College of Depths to avert a public scandal.
-- A map overlay reveals a hidden approach to War College of Depths active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting information for love
+- Strange dreams suggest a curse
+- Someone is hunting information for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

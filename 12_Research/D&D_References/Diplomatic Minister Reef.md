@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.474475+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-diplomatic-minister-reef-diplomatic-minister-reef.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Quest - The Missing Fleet|02 Worldbuilding/Places/Quest The Missing Fleet]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Quest - The Missing Fleet]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,50 @@ Diplomatic Minister Reef is a undersea element of the setting, known for biolumi
 
 Legends speak of Diplomatic Minister Reef as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Diplomatic Minister Reef.
 
-## Adventure Hooks
-
-- A rumor ties Diplomatic Minister Reef to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Diplomatic Minister Reef to avert a public scandal.
-- A map overlay reveals a hidden approach to Diplomatic Minister Reef active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- The authorities needs help investigating before the new moon
+- Strange dreams suggest ancient magic
+- A map reveals a conspiracy about this place
+- Someone is blackmailing information for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

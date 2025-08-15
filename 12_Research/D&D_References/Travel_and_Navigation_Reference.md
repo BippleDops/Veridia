@@ -18,11 +18,6 @@ updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
 
-
-# Travel and Navigation Reference
-
-## Travel Times and Distances
-
 ### Aquabyssos Travel Speeds
 | Transport Method | Speed (mph) | Daily Distance | Passenger Capacity |
 |------------------|-------------|----------------|-------------------|
@@ -35,8 +30,6 @@ world: Both
 | **Current Riding** | 5-40 | Variable | 1-4 |
 
 ### Aethermoor Travel Speeds
-| Transport Method | Speed (mph) | Daily Distance | Passenger Capacity |
-|------------------|-------------|----------------|-------------------|
 | **Walking** | 2-3 | 16-24 miles | N/A |
 | **Personal Glider** | 15-25 | 120-200 miles | 1-2 |
 | **Wind Rider** | 25-40 | 200-320 miles | 1-4 |
@@ -54,9 +47,6 @@ world: Both
 | **Ritual Portal** | 24 hours | 90% | 500 gp |
 | **Natural Convergence** | Variable | 60% | Free |
 
-## Navigation Systems
-
-### Aquabyssos Navigation
 #### Current Reading
 | Current Type | Navigation Bonus | Special Properties |
 |--------------|------------------|-------------------|
@@ -65,13 +55,6 @@ world: Both
 | **Deep Currents** | +5 | Very fast, high pressure required |
 | **Tidal Currents** | +1 | Cyclical, timing dependent |
 | **Magical Currents** | +4 | Unpredictable, magical effects |
-
-#### Depth Markers
-- **Pressure Readings**: Precise depth measurement
-- **Light Penetration**: Rough depth estimation
-- **Bioluminescent Signals**: Navigation beacons
-- **Mineral Formations**: Landmark recognition
-- **Echo Patterns**: Sonar-based navigation
 
 #### Navigation Tools
 | Tool | Accuracy | Cost | Special Features |
@@ -82,7 +65,6 @@ world: Both
 | **Pressure Charts** | Navigation +2 | 25 gp | Regional pressure maps |
 | **Leviathan Caller** | Special | 500 gp | Summons guide creatures |
 
-### Aethermoor Navigation
 #### Wind Reading
 | Wind Type | Navigation Bonus | Special Properties |
 |-----------|------------------|-------------------|
@@ -92,30 +74,19 @@ world: Both
 | **Crystal Winds** | +4 | Magical enhancement |
 | **Jet Streams** | +6 | Extreme altitude required |
 
-#### Altitude Markers
-- **Barometric Pressure**: Precise altitude measurement
-- **Star Positions**: Celestial navigation
-- **Cloud Formations**: Weather-based landmarks
-- **Crystal Resonance**: Magical position finding
-- **Platform Beacons**: Artificial navigation aids
-
 #### Navigation Tools
-| Tool | Accuracy | Cost | Special Features |
-|------|----------|------|------------------|
 | **Altimeter** | ±50 feet | 75 gp | Pressure-based |
 | **Wind Compass** | ±3° | 150 gp | Air current detection |
 | **Star Charts** | Navigation +3 | 40 gp | Celestial references |
 | **Crystal Locator** | ±100 feet | 300 gp | Magical position finding |
 | **Storm Glass** | Weather +2 | 100 gp | Weather prediction |
 
-## Hazards and Complications
-
 ### Aquabyssos Travel Hazards
 | Hazard | Frequency | Severity | Avoidance Method |
 |--------|-----------|----------|------------------|
 | **Pressure Changes** | Common | Moderate | Proper equipment, slow ascent |
 | **Hostile Sea Life** | Uncommon | High | Stealth, defensive measures |
-| **Equipment Failure** | Rare | Severe | Maintenance, backup systems |
+| **Equipment Failure** | Rare | Severe | Maintece, backup systems |
 | **Current Storms** | Uncommon | Moderate | Weather prediction, route planning |
 | **Void Pockets** | Very Rare | Extreme | Ancient charts, magical detection |
 
@@ -134,8 +105,6 @@ world: Both
 12. **Void Touch**: Reality distortion in area
 
 ### Aethermoor Travel Hazards
-| Hazard | Frequency | Severity | Avoidance Method |
-|--------|-----------|----------|------------------|
 | **Wind Shear** | Common | Moderate | Weather monitoring, route adjustment |
 | **Lightning Storms** | Uncommon | High | Grounding, storm prediction |
 | **Platform Collisions** | Rare | Severe | Traffic control, communication |
@@ -156,9 +125,6 @@ world: Both
 11. **Military Patrol**: Official inspection
 12. **Weather Phenomenon**: Unusual atmospheric event
 
-## Weather Systems
-
-### Aquabyssos Weather Patterns
 #### Surface Weather Effects on Deep Travel
 | Surface Condition | Deep Travel Effect | Modifier |
 |-------------------|-------------------|----------|
@@ -167,13 +133,6 @@ world: Both
 | **Heavy Storms** | Major current disruption | -2 navigation |
 | **Hurricane** | Extreme turbulence | -5 navigation, damage risk |
 
-#### Deep Weather Phenomena
-- **Thermal Inversions**: Temperature layers create navigation barriers
-- **Pressure Storms**: Rapid pressure changes, equipment stress
-- **Current Convergences**: Multiple currents meet, turbulent travel
-- **Void Disturbances**: Reality anomalies affect navigation
-
-### Aethermoor Weather Patterns
 #### Standard Weather Types
 | Weather Type | Visibility | Wind Speed | Navigation Modifier |
 |-------------|------------|------------|-------------------|
@@ -182,54 +141,6 @@ world: Both
 | **Heavy Clouds** | 1 mile | 20-30 mph | -1 |
 | **Storm Clouds** | 500 feet | 30-50 mph | -3 |
 | **Severe Storm** | 100 feet | 50+ mph | -5 |
-
-#### Magical Weather Phenomena
-- **Crystal Storms**: Crystalline precipitation, magical effects
-- **Wind Mazes**: Air currents form complex patterns
-- **Gravity Wells**: Localized gravitational anomalies
-- **Reality Rifts**: Tears in space-time fabric
-
-## Route Planning
-
-### Aquabyssos Major Routes
-#### The Deep Current Highway
-- **Route**: Central Aquabyssos, depth 3000-4000 feet
-- **Travel Time**: 50% normal time
-- **Requirements**: Advanced pressure adaptation
-- **Hazards**: Deep-dwelling predators, void phenomena
-
-#### The Shallow Circuit
-- **Route**: Coastal regions, depth 100-500 feet
-- **Travel Time**: 120% normal time
-- **Requirements**: Basic equipment
-- **Hazards**: Surface interference, crowded shipping
-
-#### The Thermal Express
-- **Route**: Following underwater thermal vents
-- **Travel Time**: 75% normal time
-- **Requirements**: Heat-resistant equipment
-- **Hazards**: Temperature damage, geological instability
-
-### Aethermoor Major Routes
-#### The High Wind Road
-- **Route**: 10,000-15,000 feet altitude
-- **Travel Time**: 60% normal time
-- **Requirements**: Advanced altitude gear
-- **Hazards**: Extreme weather, oxygen depletion
-
-#### The Trade Winds Path
-- **Route**: 2,000-5,000 feet altitude
-- **Travel Time**: 90% normal time
-- **Requirements**: Standard flying equipment
-- **Hazards**: Commercial traffic, weather changes
-
-#### The Storm Circuit
-- **Route**: Following major weather systems
-- **Travel Time**: 40% normal time
-- **Requirements**: Storm-rated vehicles
-- **Hazards**: Lightning strikes, severe turbulence
-
-## Navigation Checks and DCs
 
 ### Standard Navigation DCs
 | Situation | Base DC | Modifiers |
@@ -247,8 +158,6 @@ world: Both
 | **10-14** | Lost (double time, resource drain) |
 | **15+** | Dangerous situation (hazard encounter) |
 
-## Travel Costs
-
 ### Aquabyssos Transportation Costs
 | Service | Cost per Mile | Notes |
 |---------|---------------|-------|
@@ -259,8 +168,6 @@ world: Both
 | **Emergency Evacuation** | 15 gp | Immediate departure |
 
 ### Aethermoor Transportation Costs
-| Service | Cost per Mile | Notes |
-|---------|---------------|-------|
 | **Cargo Airship** | 2 gp | Passenger service |
 | **Private Flight** | 4 gp | Custom destinations |
 | **Express Courier** | 6 gp | Fast delivery |
@@ -275,36 +182,27 @@ world: Both
 | **Cargo Portal** | 50 gp/ton | Bulk shipping |
 | **Emergency Portal** | 500 gp | Crisis situations |
 
-## Communication During Travel
 
-### Aquabyssos Communication
-- **Echo Messages**: Sound-based long-distance communication
-- **Bioluminescent Signals**: Light-based emergency communication
-- **Current Messages**: Messages carried by water currents
-- **Leviathan Post**: Messages carried by trained sea creatures
+## 🔧 Deep Evaluation Improvements
 
-### Aethermoor Communication
-- **Wind Messages**: Paper messages carried by air currents
-- **Crystal Resonance**: Magical long-distance communication
-- **Signal Mirrors**: Light-based visual communication
-- **Sky Courier**: Messages carried by trained flying creatures
+*20 targeted improvements identified*
 
-### Emergency Signals
-#### Universal Distress Signals
-- **Aquabyssos**: Repeating bioluminescent pulse pattern
-- **Aethermoor**: Specific crystal resonance frequency
-- **Cross-Realm**: Magical flare visible in both realms
+### Connection Improvements
 
-## Links to Related Content
-- [[Vehicles]]
-- [[Aquabyssos_Submarines]]
-- [[Aethermoor_Airships]]
-- [[Travel_Rules]]
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

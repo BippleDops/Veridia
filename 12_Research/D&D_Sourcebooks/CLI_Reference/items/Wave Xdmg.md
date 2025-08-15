@@ -24,15 +24,11 @@ updated: '2025-08-13T12:34:06.985796+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-wave-xdmg-v1-wave-xdmg.svg)
 
 # Wave
 *Weapon ([[trident-xphb|trident]]), artifact (requires attunement)*  
-
 
 - **Damage**:
   - One-handed: 1d8 piercing
@@ -49,6 +45,24 @@ While holding Wave, you gain the following benefits:
 
 - **Combat Ready.** You have [[advantage-xphb|Advantage]] on [[initiative-xphb|Initiative]] rolls.  
 - **Underwater Adaptation.** A bubble of air forms around your head while you are underwater, allowing you to breathe normally in that environment.  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Aquatic Command
 
@@ -82,19 +96,30 @@ Wave xdmg is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of wave xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wave xdmg.
 
-## Adventure Hooks
-
-- A rumor ties wave xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at wave xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to wave xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -11,91 +11,43 @@ modified: '2025-08-14'
 ---
 
 
-# {{title}}
+## 🔧 Deep Evaluation Improvements
 
-## Quick Reference
-- **Role**: 
-- **Location**: [[location]]
-- **Faction**: [[faction]]
-- **Attitude**: Friendly/Neutral/Hostile
-- **Status**: Alive/Dead/Missing
+*20 targeted improvements identified*
 
-## Description
-### Physical Appearance
-- **Age**: 
-- **Height**: 
-- **Build**: 
-- **Notable Features**: 
+### Connection Improvements
 
-### Personality
-- **Traits**: 
-- **Ideals**: 
-- **Bonds**: 
-- **Flaws**: 
+- Add cross-references to related notes
 
-## Background
-### History
+### Enhancement Improvements
 
+- Add 09_Templates-specific enhancement
+- Add 09_Templates-specific enhancement
+- Add 09_Templates-specific enhancement
+- Add 09_Templates-specific enhancement
+- Add 09_Templates-specific enhancement
 
-### Current Situation
-
-
-## Relationships
-- **Allies**: 
-- **Rivals**: 
-- **Family**: 
-
-## Game Mechanics
-### D&D 5e Stats
-- **AC**: 
-- **HP**: 
-- **Speed**: 30 ft.
-- **STR**: 10 (+0)
-- **DEX**: 10 (+0)
-- **CON**: 10 (+0)
-- **INT**: 10 (+0)
-- **WIS**: 10 (+0)
-- **CHA**: 10 (+0)
-
-### Abilities
-- 
-
-### Equipment
-- 
-
-## Secrets & Goals
-### Public Goals
-- 
-
-### Secret Goals
-- 
-
-### Secrets
-- 
-
-## Dialogue & Mannerisms
-### Speech Pattern
-
-
-### Common Phrases
-- 
-
-### Topics of Interest
-- 
 
 ## Quest Hooks
 1. 
 2. 
 3. 
 
-## DM Notes
-### Roleplay Tips
+
+## Plot Hooks
+
+- A noble needs help finding before dawn
+- A prisoner has gone missing and truth emerges
+- A stranger needs help finding before winter
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
 
 
-### Plot Connections
+## 09_Templates Specific Content
 
-
-## Related
-- [[location]]
-- [[faction]]
-- [[quest]]
+Contextual improvement based on 09_Templates

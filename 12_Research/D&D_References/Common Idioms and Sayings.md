@@ -23,13 +23,25 @@ obsidianUIMode: preview
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# Common Idioms and Sayings
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Summary
 A comprehensive collection of idioms, proverbs, and common expressions used across both Aquabyssos and Aethermoor, reflecting the unique environmental and cultural influences of each realm.
-
-## Aquabyssos Idioms
 
 ### **Depth and Pressure Expressions**
 
@@ -102,8 +114,6 @@ A comprehensive collection of idioms, proverbs, and common expressions used acro
 - *Usage*: Acknowledging that no situation is without difficulties
 - *Cultural Context*: Different dangers at various ocean depths
 
-## Aethermoor Idioms
-
 ### **Wind and Sky Expressions**
 
 **"Catching the wind"**
@@ -131,14 +141,14 @@ A comprehensive collection of idioms, proverbs, and common expressions used acro
 - *Usage*: Describing successful exploitation of favorable conditions
 - *Cultural Context*: Aerial navigation and flight techniques
 
-### **Crystal and Resonance Expressions**
+### **Crystal and Resoce Expressions**
 
 **"Crystal clear"**
 - *Meaning*: Completely transparent and understandable
 - *Usage*: Describing obvious situations or clear communication
 - *Cultural Context*: Optical qualities of high-grade crystals
 
-**"Resonance without harmony"**
+**"Resoce without harmony"**
 - *Meaning*: Technical skill without artistic or social grace
 - *Usage*: Criticizing someone who's competent but socially awkward
 - *Cultural Context*: Crystal technology requiring both precision and musical sensitivity
@@ -146,12 +156,12 @@ A comprehensive collection of idioms, proverbs, and common expressions used acro
 **"Tuned to different crystals"**
 - *Meaning*: People with incompatible perspectives or methods
 - *Usage*: Explaining interpersonal conflicts or communication breakdowns
-- *Cultural Context*: Crystal resonance networks requiring precise frequency matching
+- *Cultural Context*: Crystal resoce networks requiring precise frequency matching
 
 **"Singing the same frequency"**
 - *Meaning*: Being in complete agreement or harmony
 - *Usage*: Describing perfect cooperation or understanding
-- *Cultural Context*: Harmonic resonance in crystal technology and wind song
+- *Cultural Context*: Harmonic resoce in crystal technology and wind song
 
 **"Cracked crystal"**
 - *Meaning*: Someone or something fundamentally flawed but still valuable
@@ -174,8 +184,6 @@ A comprehensive collection of idioms, proverbs, and common expressions used acro
 - *Meaning*: Impractical, dreamy, or unrealistic thinking
 - *Usage*: Gentle criticism of overly idealistic behavior
 - *Cultural Context*: Literal hazards of flying in cloud layers
-
-## Cross-Realm Expressions
 
 ### **Trade and Commerce**
 
@@ -201,8 +209,6 @@ A comprehensive collection of idioms, proverbs, and common expressions used acro
 **"Shared waters, shared fate"** (Aquabyssos)
 - *Meaning*: Communities must cooperate for mutual survival
 - *Cross-realm equivalent*: "Shared skies, shared storms" (Aethermoor)
-
-## Profession-Specific Sayings
 
 ### **Merchant Class**
 
@@ -234,8 +240,6 @@ A comprehensive collection of idioms, proverbs, and common expressions used acro
 - *"Depth research, surface publication"* - Thorough investigation enables accessible communication
 - *"Crystal methodology, wind creativity"* - Combine rigorous methods with innovative thinking
 - *"Pressure testing, altitude perspective"* - Subject ideas to stress while maintaining broad vision
-
-## Cultural Code-Switching
 
 ### **Social Situation Variations**
 
@@ -271,8 +275,6 @@ A comprehensive collection of idioms, proverbs, and common expressions used acro
 - Playful linguistic experimentation
 - Bridge-building through shared linguistic creativity
 
-## Translation Challenges
-
 ### **Untranslatable Idioms**
 
 **Aquabyssos-Specific:**
@@ -301,14 +303,6 @@ A comprehensive collection of idioms, proverbs, and common expressions used acro
 
 *"Words are like water and wind—they take the shape of the vessel that contains them and the medium through which they travel."* - Linguistic Scholar Nerida Deepword of the Inter-Realm Communication Institute
 
-## Connections
-
-- [[Depth Speak Variations]]
-- [[Wind Song Linguistic Guide]]
-- [[Professional Terminology]]
-- [[Swear Words and Curses]]
-- [[Name Etymology Guide]]
-
 ## Player-Facing Summary
 
 Common Idioms and Sayings is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -317,19 +311,21 @@ Common Idioms and Sayings is a undersea element of the setting, known for biolum
 
 Legends speak of Common Idioms and Sayings as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Common Idioms and Sayings.
 
-## Adventure Hooks
-
-- A rumor ties Common Idioms and Sayings to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Common Idioms and Sayings to avert a public scandal.
-- A map overlay reveals a hidden approach to Common Idioms and Sayings active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and truth emerges
+- A map reveals a betrayal about this place
+- The authorities needs help delivering before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

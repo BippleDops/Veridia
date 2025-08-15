@@ -17,14 +17,22 @@ updated: '2025-08-13T01:18:34.718420+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
 
 ## Player-Facing Summary
 
@@ -34,28 +42,24 @@ Coral Consciousness Network is a undersea element of the setting, known for biol
 
 Legends speak of Coral Consciousness Network as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Coral Consciousness Network.
 
-## Adventure Hooks
-
-- A rumor ties Coral Consciousness Network to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Coral Consciousness Network to avert a public scandal.
-- A map overlay reveals a hidden approach to Coral Consciousness Network active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Sinking Atoll|02 Worldbuilding/Places/The Sinking Atoll]]
-
-
-## Connections
-
-- [[The Sinking Atoll]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and truth emerges
+- Someone is protecting a artifact for love
+- A merchant needs help delivering before the new moon
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

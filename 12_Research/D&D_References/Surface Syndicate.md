@@ -24,18 +24,30 @@ obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.876535+00:00'
 ---
 
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-surface-syndicate-surface-syndicate.svg)
-
-
-
-
 
 # Surface Syndicate
 
 *"The surface world's gold flows as deep as their ignorance runs shallow." - Captain Marina Blacktide*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 The Surface Syndicate operates as a sophisticated criminal organization specializing in illicit trade between the surface world and Aquabyssos. Led by surface-born criminals who've adapted to underwater life, they exploit the cultural and economic gaps between the two realms. The Syndicate smuggles prohibited goods, launders currency through shell companies, and maintains extensive networks of corrupt officials in both worlds.
@@ -47,12 +59,6 @@ Established during the early days of surface contact, the Syndicate initially fo
 **Surface Captains:** Experienced operatives who manage specific territories
 **Deep Runners:** Mid-level smugglers and enforcers
 **Current Riders:** Low-level associates and informants
-
-### Known Leadership
-- **Captain Marina Blacktide:** Former surface pirate, now runs underwater operations
-- **The Broker:** Anonymous figure who handles high-value exchanges
-- **Depth Master Soren:** Specialist in magical contraband
-- **Surface Speaker Elena:** Maintains above-water criminal contacts
 
 ## Criminal Operations
 **Contraband Smuggling:** Prohibited magical items, rare materials, restricted texts
@@ -93,7 +99,7 @@ Increased security measures following recent political tensions have disrupted t
 5. Share intelligence about law enforcement activities
 
 ## Resources and Assets
-**Financial:** Estimated 2 million gold equivalent in liquid assets
+**Ficial:** Estimated 2 million gold equivalent in liquid assets
 **Naval:** Dozen modified vessels capable of depth/surface operation
 **Personnel:** 200+ active associates across both realms
 **Facilities:** Safe houses, warehouses, and hidden bases in 15+ locations
@@ -129,42 +135,6 @@ Syndicate members blend surface and depth cultural elements, often speaking with
 ## DM Notes
 The Surface Syndicate provides excellent opportunities for morally ambiguous adventures. They can serve as employers, antagonists, or uneasy allies depending on circumstances. Their cross-realm nature allows for adventures that span both underwater and surface settings, while their criminal activities offer heist scenarios and underworld intrigue.
 
-
-## Connections
-
-- [[The Barnacle]]
-- [[The_Crimson_Pearl|The Crimson Pearl]]
-
-
-## Appearance
-
-
-TODO
-
-
-## Personality
-
-
-TODO
-
-
-## Goals
-
-
-TODO
-
-
-## Relationships
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 Surface Syndicate is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -172,13 +142,6 @@ Surface Syndicate is a undersea element of the setting, known for bioluminescent
 ## Lore Details
 
 Legends speak of Surface Syndicate as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Surface Syndicate.
-
-## Cross-References
-
-- [[Surface Syndicate|02 Worldbuilding/People/Surface Syndicate]]
-
-<!-- enriched: true -->
-
 
 ## Related
 

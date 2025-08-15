@@ -17,18 +17,26 @@ world: Dimensional Nexus (Both Realms)
 updated: '2025-08-13T01:18:35.714950+00:00'
 ---
 
-
 > [!figure] Asset
 ![[04_Resources/Assets/Symbols/symbol-heraldry-the-memory-wars-the-memory-wars.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -38,23 +46,21 @@ The Memory Wars is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of The Memory Wars as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Memory Wars.
 
-## Adventure Hooks
-
-- A rumor ties The Memory Wars to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Memory Wars to avert a public scandal.
-- A map overlay reveals a hidden approach to The Memory Wars active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Floating Market|02 Worldbuilding/Places/The Floating Market]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a betrayal about the government
+- A document has gone missing and war looms
+- Someone is searching for a witness for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

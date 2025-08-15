@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.458920'
 world: Both
 ---
 
-
 # Githzerai Groups; Githzerai Mission Purpose
 *Source: Mordenkainen's Tome of Foes p. 98* 
 
@@ -37,6 +36,24 @@ world: Both
 | 4 | Seek to ally with party on a raid against mind flayers |
 ^githzerai-mission-purpose
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Githzerai groups githzerai mission purpose mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -45,19 +62,21 @@ Githzerai groups githzerai mission purpose mtf is a undersea element of the sett
 
 Legends speak of githzerai groups githzerai mission purpose mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around githzerai groups githzerai mission purpose mtf.
 
-## Adventure Hooks
-
-- A rumor ties githzerai groups githzerai mission purpose mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at githzerai groups githzerai mission purpose mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to githzerai groups githzerai mission purpose mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help stealing before dawn
+- The authorities needs help investigating before winter
+- A corpse reveals a betrayal about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

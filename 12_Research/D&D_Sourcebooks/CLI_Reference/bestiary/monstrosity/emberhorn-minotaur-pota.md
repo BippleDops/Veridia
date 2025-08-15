@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.003015'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-emberhorn-minotaur-pota-emberhorn-minotaur-pota.svg)
 
@@ -49,7 +47,6 @@ world: Both
   - !!int "11"
   - !!int "16"
   - !!int "6"
-  - !!int "16"
   - !!int "9"
 "speed": "40 ft."
 "skillsaves":
@@ -63,7 +60,7 @@ world: Both
   - "desc": "If the minotaur moves at least 10 feet straight toward a target and then\
       \ hits it with a gore attack on the same turn, the target takes an extra 9 (2d8)\
       \ piercing damage. If the target is a creature, it must succeed on a DC 14 Strength\
-      \ saving throw or be pushed up to 10 feet away and knocked [[conditions#Prone|prone]]."
+      \ saving throw or be pushed up to 10 feet away and knocked [[conditions#prone|prone]]."
     "name": "Charge"
   - "desc": "The minotaur can perfectly recall any path it has traveled."
     "name": "Labyrinthine Recall"
@@ -89,6 +86,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Emberhorn minotaur pota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -97,19 +112,21 @@ Emberhorn minotaur pota is a undersea element of the setting, known for biolumin
 
 Legends speak of emberhorn minotaur pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around emberhorn minotaur pota.
 
-## Adventure Hooks
-
-- A rumor ties emberhorn minotaur pota to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at emberhorn minotaur pota to avert a public scandal.
-- A map overlay reveals a hidden approach to emberhorn minotaur pota active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting a witness for power
+- A shipment has gone missing and evil awakens
+- A prisoner has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

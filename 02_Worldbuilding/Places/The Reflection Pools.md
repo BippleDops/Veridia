@@ -1,4 +1,5 @@
 ---
+
 title: The Reflection Pools
 type: Location
 tags:
@@ -34,6 +35,8 @@ accessibility:
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:16.789384+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -44,13 +47,73 @@ world: Aquabyssos
 
 *Where every choice not taken shimmers in the water*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+
 ## Overview
 
 Hidden in the Twilight Depths between the Sunken Palace and the Whispering Trenches, the Reflection Pools are a series of thirteen interconnected basins where the boundaries between possibility and actuality grow thin. Each pool shows not what is, but what could be—or what could have been. The site serves as Aquabyssos's premier divination center, though its revelations often drive visitors to madness or despair.
 
 The Pools predate recorded history, possibly existing before water itself. They are maintained by the Order of Mirrors, blind oracles who navigate by reading the ripples of possibility. Politicians, lovers, generals, and desperate souls all make pilgrimages here, though few leave with the answers they sought.
-
-## Physical Description
 
 ### The Approach
 
@@ -59,8 +122,6 @@ Reaching the Reflection Pools requires navigating the Corridor of Choices, a win
 - **Branches**: Unique to each visitor
 - **Navigation**: Cannot be mapped—changes with each journey
 - **Time**: Takes exactly as long as needed for contemplation
-
-### The Thirteen Pools
 
 #### Pool of What Was Never Born
 
@@ -173,8 +234,6 @@ Reaching the Reflection Pools requires navigating the Corridor of Choices, a win
 - Fish that swim in multiple directions at once
 - Touching anything causes quantum collapse to single state
 
-## Inhabitants
-
 ### The Order of Mirrors
 
 **High Oracle Serendipity Twelve-Lives**
@@ -284,8 +343,6 @@ STR 18 (+4), DEX 14 (+2), CON 18 (+4), INT 10 (+0), WIS 15 (+2), CHA 12 (+1)
 5. Creature gains a random memory from another creature in the storm
 6. Creature splits into two versions for 1 minute (both controlled by player, but only one remains when effect ends)
 
-## Divination Services
-
 ### Standard Consultations
 
 **Simple Question** (100 gp)
@@ -341,8 +398,6 @@ STR 18 (+4), DEX 14 (+2), CON 18 (+4), INT 10 (+0), WIS 15 (+2), CHA 12 (+1)
 | 19 | The pools all show the same terrible future |
 | 20 | A god's reflection emerges from pool |
 
-## Pool Properties and Effects
-
 ### Gazing Into Pools
 
 **Duration and Effects Table**
@@ -369,8 +424,6 @@ STR 18 (+4), DEX 14 (+2), CON 18 (+4), INT 10 (+0), WIS 15 (+2), CHA 12 (+1)
 - **Elixir of Elsewhen**: Briefly exist in two places
 - **Draught of Different**: Temporarily gain alternate class feature
 
-## Adventure Hooks
-
 ### The Stolen Timeline
 
 Someone has been using the pools to steal favorable outcomes from other timelines, causing reality distortions. The party must track the thief through multiple possibilities and stop them before reality collapses.
@@ -390,8 +443,6 @@ A child who was never born has emerged from the Pool of What Was Never Born, cla
 ### The Council of Selves
 
 A powerful wizard has gathered versions of themselves from twelve different timelines to form a council. They seek to use the Reflection Pools to merge all timelines where they exist into one where they are god-emperor.
-
-## Treasures
 
 ### The Probability Compass
 
@@ -421,34 +472,6 @@ A powerful wizard has gathered versions of themselves from twelve different time
 - 50% chance of containing what you need most
 - 50% chance of containing what you fear most
 
-## Environmental Hazards
-
-### Probability Storms
-
-- Random events from other timelines manifest
-- Duration: 1d10 minutes
-- Effects: Roll on wild magic table every round
-
-### Temporal Whirlpools
-
-- Drain years from those caught within
-- Can age or de-age victims
-- Sometimes transport to other timelines
-
-### Reality Fractures
-
-- Cracks where possibilities leak through
-- Stepping through leads to alternate timeline
-- May close suddenly, trapping travelers
-
-### Quantum Locks
-
-- Areas where no choices can be made
-- All actions become predetermined
-- Free will returns after leaving area
-
-## The Deep Secrets
-
 ### The Truth of the Pools
 
 Unknown to most, the Reflection Pools are not natural phenomena but prison cells. Each pool contains a trapped god from a timeline that was prevented from existing. The reflections are their attempts to escape into reality.
@@ -461,28 +484,12 @@ The central pool doesn't show possibilities—it creates them. Every reflection 
 
 Each prophecy made drains possibility from the future, making reality more rigid and predetermined. Too much divination could lock the timeline into an inescapable fate.
 
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
-
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
-## DM Notes
 
 ### Running the Reflection Pools
 
@@ -503,22 +510,6 @@ Each prophecy made drains possibility from the future, making reality more rigid
 - Large paradoxes require divine intervention
 - Campaign-ending paradoxes should be telegraphed
 
-### Scaling Encounters
-
-- **Level 1-5**: Simple consultations, minor visions
-- **Level 6-10**: Deep viewing, meeting alternates
-- **Level 11-15**: Timeline manipulation, major prophecies
-- **Level 16-20**: Reality-altering possibilities
-
-### Integration Ideas
-
-- Make the pools a recurring element
-- Have NPCs reference consulting them
-- Use them to foreshadow campaign events
-- Let players glimpse alternate campaigns
-
----
-
 ## See Also
 
 - [[02_Worldbuilding/Groups/Order of Mirrors|02 Worldbuilding/Groups/Order Of Mirrors]]
@@ -537,33 +528,6 @@ The Reflection Pools is a undersea element of the setting, known for bioluminesc
 
 Legends speak of The Reflection Pools as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Reflection Pools.
 
-## Cross-References
-
-- [[12_Research/D&D_Statblocks/The Reflection Pools]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Reflection Pools - Surgical Theater]]
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Portraits_portrait-npc-pilgrim-guide-samuel-walkingfaith-pilgrim-guide-samuel-walkingfaith.svg]]
-- [[The Gloom Gardens]]
-- [[The Last Seeds]]
-
-
 ## Sensory Details
 
 **Sights**: Shadows dance across weathered stone walls
@@ -572,7 +536,6 @@ Legends speak of The Reflection Pools as a nexus where past and present converge
 
 **Smells**: The tang of salt air permeates everything
 
-
 ## Description
 
 The Reflection Pools is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -580,34 +543,10 @@ The Reflection Pools is a notable location characterized by its unique features 
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of The Reflection Pools
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## History
+**Goverce**: Local authority structure
 
 ### Founding
 The Reflection Pools was established in the distant past, growing from humble beginnings to its current state.
-
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
-
 
 ## Current Events
 
@@ -620,15 +559,29 @@ Ongoing situations affecting The Reflection Pools:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about The Reflection Pools
+## Secret Connections
 
-### Whispered Rumors
-- Stories that may or may not be true
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+
+## Trade Importance
+
+Key stop on spices trade route
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

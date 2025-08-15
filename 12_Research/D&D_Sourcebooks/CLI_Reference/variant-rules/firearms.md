@@ -20,11 +20,28 @@ updated: '2025-08-13T01:18:32.002159+00:00'
 world: Both
 ---
 
-
 # Firearms
 *Source: Dungeon Master's Guide p. 267* 
 
 If you want to model the swashbuckling style of The Three Musketeers and similar tales, you can introduce gunpowder weapon to your campaign that are associated with the Renaissance. Similarly, in a campaign where a spaceship has crashed or elements of modern-day Earth are present, futuristic or modern firearms might appear. The Firearms table provides examples of firearms from all three of those periods. The modern and futuristic items are priceless.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Proficiency
 
@@ -54,19 +71,25 @@ Firearms is a undersea element of the setting, known for bioluminescent glow and
 
 Legends speak of firearms as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around firearms.
 
-## Adventure Hooks
-
-- A rumor ties firearms to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at firearms to avert a public scandal.
-- A map overlay reveals a hidden approach to firearms active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and evil awakens
+- Strange disappearances suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

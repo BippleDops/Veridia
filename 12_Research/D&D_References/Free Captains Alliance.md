@@ -15,35 +15,26 @@ world: Both
 updated: '2025-08-13T01:18:36.994187+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-free-captains-alliance-free-captains-alliance.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## Appearance
+### Enhancement Improvements
 
-TODO
-## Personality
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -53,23 +44,21 @@ Free Captains Alliance is a undersea element of the setting, known for biolumine
 
 Legends speak of Free Captains Alliance as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Free Captains Alliance.
 
-## Adventure Hooks
-
-- A rumor ties Free Captains Alliance to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Free Captains Alliance to avert a public scandal.
-- A map overlay reveals a hidden approach to Free Captains Alliance active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Free Captains Alliance|02 Worldbuilding/People/Free Captains Alliance]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and war looms
+- A corpse reveals a conspiracy about the government

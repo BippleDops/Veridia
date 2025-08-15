@@ -1,4 +1,5 @@
 ---
+
 title: CR Calculator
 type: calculator
 tags:
@@ -7,9 +8,13 @@ tags:
 - cr
 - balance
 - active
+- bloodline
 created: '2025-08-14'
 modified: '2025-08-14'
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
 
 
 # CR & Encounter Calculator
@@ -23,6 +28,65 @@ FROM "06_Bestiary"
 SORT cr DESC
 ```
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Clarification Improvements
+
+- Add 3 examples of increasing complexity
+
+### Completeness Improvements
+
+- Address unusual situations and corner cases
+
+### Balance Improvements
+
+- Include mathematical analysis and comparisons
+
+### Usability Improvements
+
+- Create quick reference table
+
+### Narrative_Triggers Improvements
+
+- Suggest story moments to introduce rule
+
+### Monster_Use Improvements
+
+- Explain if/how monsters use this rule
+- Explain if/how monsters use this rule
+
+### Automated Improvements
+
+- Add macro/code for VTT implementation
+- Add macro/code for VTT implementation
+- Add macro/code for VTT implementation
+- Add macro/code for VTT implementation
+
+### Simplified Improvements
+
+- Create simplified version for new players
+- Create simplified version for new players
+- Create simplified version for new players
+
+### Magic_Items Improvements
+
+- Note how magic items affect this rule
+- Note how magic items affect this rule
+- Note how magic items affect this rule
+
+### Interaction Improvements
+
+- Clarify interaction with multiclassing
+- Clarify interaction with multiclassing
+
+### Session_Zero Improvements
+
+- Include session zero discussion points
+
+
 ## Quick CR Reference
 | CR | Prof | AC | HP | Attack | Damage | Save DC |
 |----|------|----|----|--------|---------|---------|
@@ -32,11 +96,9 @@ SORT cr DESC
 | 1/2 | +2 | 13 | 50-70 | +3 | 6-8 | 13 |
 | 1 | +2 | 13 | 71-85 | +3 | 9-14 | 13 |
 
-
 ## Rule Summary
 
 CR_Calculator provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay.
-
 
 ## When to Use
 
@@ -44,9 +106,6 @@ Apply this rule when:
 - Specific trigger conditions are met
 - Players request this type of action
 - The situation calls for additional detail
-
-
-## Examples
 
 ### Example 1: Basic Application
 *Scenario*: Simple use case
@@ -58,7 +117,6 @@ Apply this rule when:
 *Resolution*: Step-by-step process
 *Outcome*: Various possibilities
 
-
 ## Quick Reference
 
 1. Trigger condition occurs
@@ -67,14 +125,6 @@ Apply this rule when:
 4. Apply results
 5. Narrate outcome
 
-
-## Connections
-
-- See also: [[World Overview]]
-- Related: [[Regional Politics]]
-- Connected to: [[Side Adventures]]
-
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -82,3 +132,25 @@ Apply this rule when:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## Plot Hooks
+
+- A stranger needs help delivering before the festival
+- Someone is protecting a witness for revenge
+
+## Examples of Play
+
+### Basic Example
+Sara wants to jump across a 10ft chasm. She rolls Athletics: d20+3 vs DC 10.
+
+### Intermediate Example
+During combat, Marcus attempts to jump the chasm while being shot at. He rolls with disadvantage.
+
+### Advanced Example
+Elena tries to jump while carrying an unconscious ally in heavy rain. DC increases to 15, disadvantage, and STR check to not drop ally.

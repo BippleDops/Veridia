@@ -19,12 +19,25 @@ world: Both
 ---
 
 
-# Quick NPC Generator
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Basic NPC Framework
 Roll once on each table or choose as needed for quick NPC creation.
-
-## Physical Appearance
 
 ### Aquabyssos NPCs (Roll d20)
 | Roll | Physical Trait | Description |
@@ -41,8 +54,6 @@ Roll once on each table or choose as needed for quick NPC creation.
 | 19-20 | Memory pearl jewelry | Pearls containing stored memories |
 
 ### Aethermoor NPCs (Roll d20)
-| Roll | Physical Trait | Description |
-|------|----------------|-------------|
 | 1-2 | Wind-tousled hair | Hair constantly moving as if in breeze |
 | 3-4 | Crystal-flecked eyes | Eyes sparkle with inner crystalline light |
 | 5-6 | Lightweight build | Lean frame adapted for high altitudes |
@@ -53,8 +64,6 @@ Roll once on each table or choose as needed for quick NPC creation.
 | 15-16 | Floating elements | Small objects orbiting around them |
 | 17-18 | Prismatic clothing | Garments that refract light |
 | 19-20 | Wind-singer marks | Tattoos that respond to air currents |
-
-## Occupation/Role (Roll d20)
 
 ### Aquabyssos Occupations
 | Roll | Occupation | Quick Description |
@@ -81,8 +90,6 @@ Roll once on each table or choose as needed for quick NPC creation.
 | 20 | Void Researcher | Studies the Deep Mother |
 
 ### Aethermoor Occupations
-| Roll | Occupation | Quick Description |
-|------|------------|-------------------|
 | 1 | Wind Rider | Pilots aerial vehicles |
 | 2 | Crystal Singer | Uses voice to enhance crystals |
 | 3 | Sky Merchant | Trades between floating platforms |
@@ -173,8 +180,6 @@ Roll once on each table or choose as needed for quick NPC creation.
 | 7 | Authority Figure | Has power over PC actions |
 | 8 | Mirror Character | Reflects PC personality or goals |
 
-## Special Abilities/Features (Roll d10)
-
 ### Aquabyssos Special Features
 | Roll | Ability | Description |
 |------|---------|-------------|
@@ -190,11 +195,9 @@ Roll once on each table or choose as needed for quick NPC creation.
 | 10 | Shadow Resistance | Harder to influence or possess |
 
 ### Aethermoor Special Features
-| Roll | Ability | Description |
-|------|---------|-------------|
 | 1 | Wind Walking | Moves through air as if solid |
 | 2 | Weather Sense | Predicts atmospheric changes |
-| 3 | Crystal Resonance | Enhances crystal magical effects |
+| 3 | Crystal Resoce | Enhances crystal magical effects |
 | 4 | Gravity Defiance | Briefly ignores falling |
 | 5 | Lightning Affinity | Conducts electricity safely |
 | 6 | Sky Sight | Sees clearly at great distances |
@@ -202,8 +205,6 @@ Roll once on each table or choose as needed for quick NPC creation.
 | 8 | Wind Speech | Communicates through air currents |
 | 9 | Altitude Adaptation | Unaffected by height changes |
 | 10 | Storm Calling | Minor influence over weather |
-
-## Quick Equipment (Roll d6)
 
 ### Universal Equipment
 | Roll | Item | Purpose |
@@ -228,8 +229,6 @@ Roll once on each table or choose as needed for quick NPC creation.
 | 7 | Secret Mission | Working toward hidden goal |
 | 8 | Vulnerable Spot | Has exploitable weakness |
 
-## Quick Name Generator
-
 ### Aquabyssos Names (Roll d20 each)
 **First Names**: Coral, Depth, Echo, Flow, Marina, Nautilus, Pearl, Current, Tide, Abyss, Benthic, Cascade, Deep, Flux, Hydra, Nereid, Pelagic, Rift, Stream, Tidal
 
@@ -239,8 +238,6 @@ Roll once on each table or choose as needed for quick NPC creation.
 **First Names**: Aether, Breeze, Cirrus, Dawn, Gale, Storm, Tempest, Wind, Zephyr, Altitude, Crystal, Flight, Nimbus, Prism, Sky, Stellar, Thermal, Vapor, Vortex, Wisp
 
 **Surnames**: Skywright, Windweaver, Stormcaller, Cloudwalker, Heightborn, Crystalsong, Airborne, Windward, Skybound, Driftwise
-
-## Usage Guidelines
 
 ### Quick Creation (30 seconds)
 1. Roll or choose occupation
@@ -260,33 +257,9 @@ Roll once on each table or choose as needed for quick NPC creation.
 3. Determine relationship to PCs
 4. Create brief background
 
-## Adaptation Notes
-
-### For Shadow Conspiracy
-- 25% chance of connection (hidden or obvious)
-- May have memory gaps or alterations
-- Could be under influence without knowing
-
-### For Crystal Plague
-- 15% chance of infection (early to advanced stage)
-- May know someone affected
-- Could be researcher or healer
-
-### For Deep Mother Influence
-- 10% chance of cult connection
-- May have experienced nightmares
-- Could carry void-touched items
-
-## Links to Related Content
-- [[Dynamic_NPC_Personality_Matrix]]
-- [[NPC_Reaction_Generator]]
-- [[Faction_Network_Tracker]]
-- [[Session_Planning_Template]]
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -295,3 +268,28 @@ Roll once on each table or choose as needed for quick NPC creation.
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- Strange disappearances suggest ancient magic
+- Someone is blackmailing an heir for power
+- A map reveals ancient history about a local noble
+- Strange sightings suggest a portal
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

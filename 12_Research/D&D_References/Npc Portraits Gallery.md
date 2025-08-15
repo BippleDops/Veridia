@@ -14,6 +14,24 @@ modified: '2025-08-14'
 
 %% Use reading mode for visual gallery %%
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## gareth-default
 ![[04_Resources/Assets/Portraits/gareth-default.png]]
 
@@ -953,14 +971,14 @@ modified: '2025-08-14'
 ## portrait-npc-deep-mother-priestess-sira-v2-deep-mother-priestess-sira
 ![[04_Resources/Assets/Portraits/portrait-npc-deep-mother-priestess-sira-v2-deep-mother-priestess-sira.svg]]
 
-## portrait-npc-deep-priest-covenant-deep-priest-covenant
-![[04_Resources/Assets/Portraits/portrait-npc-deep-priest-covenant-deep-priest-covenant.svg]]
+## portrait-npc-deep-priest-covet-deep-priest-covet
+![[04_Resources/Assets/Portraits/portrait-npc-deep-priest-covet-deep-priest-covet.svg]]
 
-## portrait-npc-deep-priest-covenant-v1-deep-priest-covenant
-![[04_Resources/Assets/Portraits/portrait-npc-deep-priest-covenant-v1-deep-priest-covenant.svg]]
+## portrait-npc-deep-priest-covet-v1-deep-priest-covet
+![[04_Resources/Assets/Portraits/portrait-npc-deep-priest-covet-v1-deep-priest-covet.svg]]
 
-## portrait-npc-deep-priest-covenant-v2-deep-priest-covenant
-![[04_Resources/Assets/Portraits/portrait-npc-deep-priest-covenant-v2-deep-priest-covenant.svg]]
+## portrait-npc-deep-priest-covet-v2-deep-priest-covet
+![[04_Resources/Assets/Portraits/portrait-npc-deep-priest-covet-v2-deep-priest-covet.svg]]
 
 ## portrait-npc-deep-sea-explorer-captain-abyss-deep-sea-explorer-captain-abyss
 ![[04_Resources/Assets/Portraits/portrait-npc-deep-sea-explorer-captain-abyss-deep-sea-explorer-captain-abyss.svg]]
@@ -1214,14 +1232,14 @@ modified: '2025-08-14'
 ## portrait-npc-fence-queen-sticky-fingers-sal-v2-fence-queen-sticky-fingers-sal
 ![[04_Resources/Assets/Portraits/portrait-npc-fence-queen-sticky-fingers-sal-v2-fence-queen-sticky-fingers-sal.svg]]
 
-## portrait-npc-financial-corruption-financial-corruption
-![[04_Resources/Assets/Portraits/portrait-npc-financial-corruption-financial-corruption.svg]]
+## portrait-npc-ficial-corruption-ficial-corruption
+![[04_Resources/Assets/Portraits/portrait-npc-ficial-corruption-ficial-corruption.svg]]
 
-## portrait-npc-financial-corruption-v1-financial-corruption
-![[04_Resources/Assets/Portraits/portrait-npc-financial-corruption-v1-financial-corruption.svg]]
+## portrait-npc-ficial-corruption-v1-ficial-corruption
+![[04_Resources/Assets/Portraits/portrait-npc-ficial-corruption-v1-ficial-corruption.svg]]
 
-## portrait-npc-financial-corruption-v2-financial-corruption
-![[04_Resources/Assets/Portraits/portrait-npc-financial-corruption-v2-financial-corruption.svg]]
+## portrait-npc-ficial-corruption-v2-ficial-corruption
+![[04_Resources/Assets/Portraits/portrait-npc-ficial-corruption-v2-ficial-corruption.svg]]
 
 ## portrait-npc-find-the-shadow-cure-find-the-shadow-cure
 ![[04_Resources/Assets/Portraits/portrait-npc-find-the-shadow-cure-find-the-shadow-cure.svg]]
@@ -1304,14 +1322,14 @@ modified: '2025-08-14'
 ## portrait-npc-golden-scale-transformation-v2-golden-scale-transformation
 ![[04_Resources/Assets/Portraits/portrait-npc-golden-scale-transformation-v2-golden-scale-transformation.svg]]
 
-## portrait-npc-goldwave-financial-offices-goldwave-financial-offices
-![[04_Resources/Assets/Portraits/portrait-npc-goldwave-financial-offices-goldwave-financial-offices.svg]]
+## portrait-npc-goldwave-ficial-offices-goldwave-ficial-offices
+![[04_Resources/Assets/Portraits/portrait-npc-goldwave-ficial-offices-goldwave-ficial-offices.svg]]
 
-## portrait-npc-goldwave-financial-offices-v1-goldwave-financial-offices
-![[04_Resources/Assets/Portraits/portrait-npc-goldwave-financial-offices-v1-goldwave-financial-offices.svg]]
+## portrait-npc-goldwave-ficial-offices-v1-goldwave-ficial-offices
+![[04_Resources/Assets/Portraits/portrait-npc-goldwave-ficial-offices-v1-goldwave-ficial-offices.svg]]
 
-## portrait-npc-goldwave-financial-offices-v2-goldwave-financial-offices
-![[04_Resources/Assets/Portraits/portrait-npc-goldwave-financial-offices-v2-goldwave-financial-offices.svg]]
+## portrait-npc-goldwave-ficial-offices-v2-goldwave-ficial-offices
+![[04_Resources/Assets/Portraits/portrait-npc-goldwave-ficial-offices-v2-goldwave-ficial-offices.svg]]
 
 ## portrait-npc-guardian-captain-marcus-shieldwall-guardian-captain-marcus-shieldwall
 ![[04_Resources/Assets/Portraits/portrait-npc-guardian-captain-marcus-shieldwall-guardian-captain-marcus-shieldwall.svg]]
@@ -1542,19 +1560,16 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Portraits/portrait-npc-jasper-three-eyes-flint-jasper-three-eyes-flint.png]]
 
 ## portrait-npc-jasper-three-eyes-flint-jasper-three-eyes-flint
-![[04_Resources/Assets/Portraits/portrait-npc-jasper-three-eyes-flint-jasper-three-eyes-flint.png]]
 
 ## portrait-npc-jasper-three-eyes-flint-v1-jasper-three-eyes-flint
 ![[04_Resources/Assets/Portraits/portrait-npc-jasper-three-eyes-flint-v1-jasper-three-eyes-flint.png]]
 
 ## portrait-npc-jasper-three-eyes-flint-v1-jasper-three-eyes-flint
-![[04_Resources/Assets/Portraits/portrait-npc-jasper-three-eyes-flint-v1-jasper-three-eyes-flint.png]]
 
 ## portrait-npc-jasper-three-eyes-flint-v2-jasper-three-eyes-flint
 ![[04_Resources/Assets/Portraits/portrait-npc-jasper-three-eyes-flint-v2-jasper-three-eyes-flint.png]]
 
 ## portrait-npc-jasper-three-eyes-flint-v2-jasper-three-eyes-flint
-![[04_Resources/Assets/Portraits/portrait-npc-jasper-three-eyes-flint-v2-jasper-three-eyes-flint.png]]
 
 ## portrait-npc-keeper-of-the-shattered-crown-marcus-crystalvein-keeper-of-the-shattered-crown-marcus-crystalvein
 ![[04_Resources/Assets/Portraits/portrait-npc-keeper-of-the-shattered-crown-marcus-crystalvein-keeper-of-the-shattered-crown-marcus-crystalvein.svg]]
@@ -2217,7 +2232,6 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 ## portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer
-![[04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 ## portrait-npc-patriarch-valdris-lightbringer-v1-patriarch-valdris-lightbringer
 ![[04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-v1-patriarch-valdris-lightbringer.svg]]
@@ -2265,13 +2279,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-pressure-angel-benthia.png]]
 
 ## portrait-npc-pressure-angel-benthia-pressure-angel-benthia
-![[04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-pressure-angel-benthia.png]]
 
 ## portrait-npc-pressure-angel-benthia-v1-pressure-angel-benthia
 ![[04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-v1-pressure-angel-benthia.png]]
 
 ## portrait-npc-pressure-angel-benthia-v1-pressure-angel-benthia
-![[04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-v1-pressure-angel-benthia.png]]
 
 ## portrait-npc-pressure-angel-benthia-v2-pressure-angel-benthia
 ![[04_Resources/Assets/Portraits/portrait-npc-pressure-angel-benthia-v2-pressure-angel-benthia.svg]]
@@ -3608,14 +3620,14 @@ modified: '2025-08-14'
 ## portrait-npc-the-reality-sick-mayor-lord-quantum-aldrich-v2-the-reality-sick-mayor-lord-quantum-aldrich
 ![[04_Resources/Assets/Portraits/portrait-npc-the-reality-sick-mayor-lord-quantum-aldrich-v2-the-reality-sick-mayor-lord-quantum-aldrich.svg]]
 
-## portrait-npc-the-resonance-prophet-the-resonance-prophet
-![[04_Resources/Assets/Portraits/portrait-npc-the-resonance-prophet-the-resonance-prophet.svg]]
+## portrait-npc-the-resoce-prophet-the-resoce-prophet
+![[04_Resources/Assets/Portraits/portrait-npc-the-resoce-prophet-the-resoce-prophet.svg]]
 
-## portrait-npc-the-resonance-prophet-v1-the-resonance-prophet
-![[04_Resources/Assets/Portraits/portrait-npc-the-resonance-prophet-v1-the-resonance-prophet.svg]]
+## portrait-npc-the-resoce-prophet-v1-the-resoce-prophet
+![[04_Resources/Assets/Portraits/portrait-npc-the-resoce-prophet-v1-the-resoce-prophet.svg]]
 
-## portrait-npc-the-resonance-prophet-v2-the-resonance-prophet
-![[04_Resources/Assets/Portraits/portrait-npc-the-resonance-prophet-v2-the-resonance-prophet.svg]]
+## portrait-npc-the-resoce-prophet-v2-the-resoce-prophet
+![[04_Resources/Assets/Portraits/portrait-npc-the-resoce-prophet-v2-the-resoce-prophet.svg]]
 
 ## portrait-npc-the-royal-treasury-depths-the-royal-treasury-depths
 ![[04_Resources/Assets/Portraits/portrait-npc-the-royal-treasury-depths-the-royal-treasury-depths.svg]]
@@ -3995,11 +4007,9 @@ modified: '2025-08-14'
 ## portrait-npc-zephyr-goldwhisper-zephyr-goldwhisper
 ![[04_Resources/Assets/Portraits/portrait-npc-zephyr-goldwhisper-zephyr-goldwhisper.svg]]
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -4008,3 +4018,13 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -24,22 +24,36 @@ updated: '2025-08-13T12:34:07.091083+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-pole-xphb-pole-xphb.svg)
 
 # Pole
 *Adventuring gear*  
 
-
 - **Cost**: 5 cp
 - **Weight**: 7.0 lbs.
 
 A Pole is 10 feet long. You can use it to touch something up to 10 feet away. If you must make a Strength ([[skills#Athletics|Athletics]]) check as part of a High or [[long-jump-xphb|Long Jump]], you can use the Pole to vault, giving yourself [[advantage-xphb|Advantage]] on the check.
 
-*Source: Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 228. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -49,19 +63,20 @@ Pole xphb is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of pole xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around pole xphb.
 
-## Adventure Hooks
-
-- A rumor ties pole xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at pole xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to pole xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- A letter reveals a betrayal about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

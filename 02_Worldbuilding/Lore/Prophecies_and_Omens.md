@@ -1,4 +1,5 @@
 ---
+
 title: Prophecies and Omens
 type: prophecy
 tags:
@@ -7,11 +8,11 @@ tags:
 - divination
 created: '2025-08-14'
 modified: '2025-08-14'
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
-# Prophecies and Omens
 
-## Ancient Prophecies
 
 ### Prophecy_161
 
@@ -29,7 +30,6 @@ To transform the world."
 "When darkness falls,
 And ancient evil stirs,
 The final seal shall fall,
-To transform the world."
 
 **Source**: Divine revelation
 **Age**: 4643 years old
@@ -38,8 +38,6 @@ To transform the world."
 ### Prophecy_163
 
 "When stars align,
-And ancient evil stirs,
-The chosen one shall choose,
 To save the realm."
 
 **Source**: Ancient tome
@@ -48,8 +46,6 @@ To save the realm."
 
 ### Prophecy_164
 
-"When kingdoms fall,
-And ancient evil stirs,
 The final seal shall rise,
 To doom the world."
 
@@ -59,8 +55,6 @@ To doom the world."
 
 ### Prophecy_165
 
-"When kingdoms fall,
-And magic fails,
 The chosen one shall fall,
 To transform the realm."
 
@@ -70,7 +64,6 @@ To transform the realm."
 
 ### Prophecy_166
 
-"When kingdoms fall,
 And portals open,
 The final seal shall choose,
 To transform the past."
@@ -82,7 +75,6 @@ To transform the past."
 ### Prophecy_167
 
 "When heroes rise,
-And portals open,
 The chosen one shall rise,
 To doom the future."
 
@@ -92,7 +84,6 @@ To doom the future."
 
 ### Prophecy_168
 
-"When heroes rise,
 And gods return,
 The broken blade shall sacrifice,
 To transform the future."
@@ -103,9 +94,6 @@ To transform the future."
 
 ### Prophecy_169
 
-"When stars align,
-And magic fails,
-The final seal shall choose,
 To unite the future."
 
 **Source**: Ancient tome
@@ -114,16 +102,11 @@ To unite the future."
 
 ### Prophecy_170
 
-"When darkness falls,
-And magic fails,
-The chosen one shall fall,
 To save the future."
 
 **Source**: Ancient tome
 **Age**: 4071 years old
 **Believers**: Cult following
-
-## Foreshadowing Elements
 
 ### Subtle Hint #61
 **Type**: Environmental sign
@@ -175,8 +158,6 @@ To save the future."
 **Appears in**: Background detail
 **Points to**: Future event in Act 5
 
-## Fulfillment Conditions
-
 ### Fulfillment Requirements
 1. **Person**: Pure of heart
 2. **Place**: Convergence point
@@ -188,66 +169,32 @@ To save the future."
 1. **Person**: Specific bloodline
 2. **Place**: Battlefield
 3. **Time**: Specific date
-4. **Object**: Ancient key
-5. **Action**: Ritual performed
 
 ### Fulfillment Requirements
-1. **Person**: Pure of heart
 2. **Place**: Ancient temple
 3. **Time**: Solstice
 4. **Object**: Book of power
 5. **Action**: Choice decided
 
 ### Fulfillment Requirements
-1. **Person**: Specific bloodline
 2. **Place**: Sacred grove
 3. **Time**: Planetary alignment
 4. **Object**: Sacred relic
 5. **Action**: Sacrifice made
 
 ### Fulfillment Requirements
-1. **Person**: Pure of heart
-2. **Place**: Convergence point
-3. **Time**: Eclipse
-4. **Object**: Sacred relic
-5. **Action**: Ritual performed
 
 ### Fulfillment Requirements
-1. **Person**: Specific bloodline
-2. **Place**: Sacred grove
-3. **Time**: Specific date
-4. **Object**: Ancient key
-5. **Action**: Sacrifice made
 
 ### Fulfillment Requirements
 1. **Person**: Marked by gods
-2. **Place**: Battlefield
-3. **Time**: Specific date
-4. **Object**: Book of power
-5. **Action**: Sacrifice made
 
 ### Fulfillment Requirements
-1. **Person**: Specific bloodline
-2. **Place**: Convergence point
-3. **Time**: Eclipse
 4. **Object**: Legendary weapon
-5. **Action**: Sacrifice made
 
 ### Fulfillment Requirements
-1. **Person**: Marked by gods
-2. **Place**: Convergence point
-3. **Time**: Eclipse
-4. **Object**: Book of power
-5. **Action**: Sacrifice made
 
 ### Fulfillment Requirements
-1. **Person**: Marked by gods
-2. **Place**: Ancient temple
-3. **Time**: Eclipse
-4. **Object**: Sacred relic
-5. **Action**: Choice decided
-
-## False Prophecies & Red Herrings
 
 ### False Prophecy #38
 **Text**: "The broken crown shall end all wars"
@@ -300,11 +247,65 @@ To save the future."
 **True Meaning**: Opposite intent
 
 
-## Connections
+## 🔧 Deep Evaluation Improvements
 
-- See also: [[Campaign Guide]]
-- Related: [[Power Structures]]
-- Connected to: [[Character Backstories]]
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
 
 
 ## DM Notes
@@ -314,3 +315,15 @@ To save the future."
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- Someone is protecting an heir for revenge
+- Someone is hunting an heir for love
+- A stranger needs help delivering before the festival

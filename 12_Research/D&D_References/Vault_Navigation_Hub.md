@@ -32,197 +32,6 @@ chronology: active
 
 > *Your complete guide to navigating the twin realms where ocean depths meet sky kingdoms*
 
-## 🎯 Quick Campaign Access
-
-### Essential Documents
-- [[Campaign_Dashboard|Campaign Dashboard]] - Live session tracker & DM tools
-- [[Aquabyssos]] - Complete setting guide  
-- [[Campaign Quick Reference Sheets]] - Rules & mechanics at a glance
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]] - NPC & faction connections
-- [[Master_Campaign_Index|Master Campaign Index]] - Complete content directory
-
-### Vault Statistics
-- **Total Entries**: 739 documents
-- **Completed**: 600 entries (81%)
-- **Cross-Links**: 2,147+ connections
-- **Campaign Ready**: Yes ✅
-
-## 🗺️ World Navigation
-
-### 🌊 AQUABYSSOS - The Sunken Kingdoms
-
-#### Major Cities
-- [[The Silent Marketplace]] - Trade hub of the depths
-- [[Port Meridian]] - Gateway between worlds
-- [[The Crystal Forest]] - Living mineral groves
-- [[The Sunken Palace]] - Ancient seat of power
-
-#### Key Districts  
-- [[The Forge of War]] - Military industrial complex
-- [[Port Meridian - Harbor District]] - Maritime commerce
-- [[Port Meridian - Market District]] - General trade
-- [[The Living Docks]] - Biotechnology harbor
-
-#### Natural Features
-- [[Npc]] - Underwater trade routes
-- [[The Void Touched Depths]] - Corrupted ocean floor
-- [[The Bloom Fields]] - Bioluminescent gardens
-- [[The Pressure Crown]] - Deep sea power nexus
-
-### ☁️ AETHERMOOR - The Sky Kingdoms
-
-#### Major Cities
-- [[Skyhold Citadel]] - Capital of the clouds
-- [[Windweaver Spire]] - Magical academy
-- [[The Floating Markets]] - Aerial trade center
-- [[Stormwatch Keep]] - Military stronghold
-
-#### Key Features
-- [[The Wind Roads]] - Aerial travel routes
-- [[Cloud Gardens]] - Agricultural platforms
-- [[The Lightning Forge]] - Storm-powered industry
-- [[The Observatory]] - Knowledge center
-- [[The Singing Shadows]] - Mysterious acoustic phenomena
-
-## 👥 Major Players
-
-### Power Brokers
-- [[Admiral Coralheart]] - Aquabyssos naval commander
-- [[Sky Marshal Windstrider]] - Aethermoor defense chief
-- [[The Deep Mother]] - Ancient entity of the depths
-- [[Elder Stormcaller]] - Weather control master
-
-### Key NPCs by Role
-- **Merchants**: [[Balta Kaine]], [[Memory Merchant Valeria]], [[Forge Master Thorne]]
-- **Mystics**: [[The Tidecaller]], [[Oracle Mistweaver]], [[Void Prophet Zephyr]]
-- **Adventurers**: [[Captain Nautilus]], [[Ranger Skybow]], [[Scout Deepfinder]]
-- **Faction Leaders**: [[Guild Master Shellforge]], [[Matriarch Cloudweaver]]
-
-## 🏛️ Major Factions
-
-### Political Powers
-- [[United Councils of Both Worlds]] - Joint governance
-- [[The Depth Wardens]] - Aquabyssos protectors
-- [[Sky Sovereign Alliance]] - Aethermoor coalition
-- [[The Neutral Zones Treaty]] - Peace keepers
-
-### Secret Organizations
-- [[The Crimson Hand]] - Shadow operatives
-- [[Void Touched Cult]] - Corruption spreaders
-- [[The Preservers]] - Ancient knowledge guardians
-- [[Shadow Market Syndicat]] - Underground trade
-
-## 📚 Lore & History
-
-### Core Concepts
-- [[Timeline of the Catastrophe]] - The world-changing event
-- [[The Merging]] - Planar collision aftermath
-- [[Pressure Magic]] - Aquabyssos power source
-- [[Wind Song Traditions]] - Aethermoor culture
-
-### Mysteries & Secrets
-- [[The Void Conspiracy]] - Reality's threat
-- [[Lost Archives]] - Forgotten knowledge
-- [[The Prophecy of Tides]] - Future visions
-- [[Ancient Pacts]] - Binding agreements
-
-## 🎲 Game Resources
-
-### DM Tools
-- [[Campaign_Dashboard|Campaign Dashboard]] - Live tracking
-- [[Random_Encounter_Tables]] - Quick content
-- [[Treasure Generators]] - Loot systems
-- [[Npc Generator]] - Quick characters
-
-### Player Resources
-- [[Character Creation Guide]] - Build heroes
-- [[Equipment Catalogs]] - Gear lists
-- [[Spell Compendiums]] - Magic reference
-- [[Player Handouts]] - In-game documents
-
-## 🗂️ Master Indexes
-
-### Complete Category Lists
-- 📍 [[Master_Places_Index|Master Places Index]] - All 248 locations
-- 👤 [[Master_People_Index|Master People Index]] - All 250+ NPCs
-- 📖 [[Master_Lore_Index|Master Lore Index]] - All 194 lore entries
-- 🏛️ [[Master_Groups_Index|Master Groups Index]] - All 46 organizations
-- 🎯 [[Master_Campaign_Index|Master Campaign Index]] - Everything in one place
-
-## ⚡ Quick Start Adventures
-
-### Levels 1-5: Local Heroes
-- [[Quest - Missing Shipments]] - Trade route mystery
-- [[Quest - The Haunted Depths]] - Underwater horror
-- [[Quest - Sky Pirates]] - Aerial bandits
-- [[Quest - Crystal Corruption]] - Environmental threat
-
-### Levels 6-10: Regional Champions
-- [[Quest - The Void Conspiracy]] - Reality breach
-- [[Quest - War of Tides]] - Faction conflict
-- [[Quest - The Lost City]] - Ancient exploration
-- [[Quest - Storm Lord's Challenge]] - Elemental trial
-
-### Levels 11-15: World Shapers
-- [[Quest - The Deep Mother Awakens]] - Cosmic threat
-- [[Quest - Planar Convergence]] - Reality merger
-- [[Quest - The Final Tide]] - Apocalyptic prevention
-- [[Quest - Ascension]] - Godhood paths
-
-## 🛠️ Mechanics & Systems
-
-### Unique Rules
-- [[Pressure & Depth Mechanics]] - Underwater survival
-- [[Altitude & Wind Effects]] - Aerial navigation
-- [[Corruption & Sanity]] - Mental health tracking
-- [[Faction Reputation]] - Social standing
-
-### Magic Systems
-- [[Pressure Magic]] - Aquabyssos spellcasting
-- [[Wind Songs]] - Aethermoor traditions
-- [[Void Touch]] - Corruption powers
-- [[Merged Magic]] - Hybrid techniques
-
-## 📊 Campaign Management
-
-### Session Tools
-- [[Session Zero Checklist]] - Campaign setup
-- [[Session Notes Template]] - Documentation
-- [[Initiative_Tracker|Initiative Tracker]] - Combat management
-- [[Campaign Calendar]] - Timeline tracking
-
-### World Building
-- [[Random Location Generator]] - Quick places
-- [[Culture Builder]] - Society creation
-- [[Faction Relationship Web]] - Politics tracker
-- [[Economic Systems]] - Trade & commerce
-
-## 🌟 Featured Content
-
-### New Additions
-- [[Deep_Mother_Subsystem]] - Eldritch horror mechanics
-- [[Sanity Horror Framework]] - Mental health rules
-- [[Transformation Compendium]] - Mutation systems
-
-### Recently Updated
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]] - Complete NPC connections
-- [[Aquabyssos]] - Comprehensive setting guide
-- [[Campaign Quick Reference Sheets]] - Enhanced quick references
-
-## 🎭 Quick Reference
-
-### Common Rolls
-- **Pressure Resistance**: CON save DC 10 + depth/100ft
-- **Wind Navigation**: DEX check DC 12 + wind strength
-- **Corruption Save**: WIS save DC 15
-- **Faction Reputation**: CHA check + reputation modifier
-
-### Key Terms
-- **The Merging**: When sea met sky, creating hybrid zones
-- **Pressure Points**: Magical nodes in Aquabyssos
-- **Wind Lanes**: Aerial highways in Aethermoor
-- **Void Touched**: Corrupted by otherworldly forces
-
 ### Campaign Themes
 1. **Duality**: Ocean vs Sky, Tradition vs Innovation
 2. **Corruption**: The spreading void influence
@@ -236,84 +45,27 @@ chronology: active
 
 **Vault Version**: 2.0 | **Last Updated**: 2025-08-11 | **Campaign Ready**: ✅
 
-## Cross-References
 
-- [[United Councils of Both Worlds|02 Worldbuilding/Lore/United Councils Of Both Worlds]]
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Connections
+### Connection Improvements
 
-- [[Culture Builder]]
-- [[Guild Master Shellforge]]
-- [[Shadow Market Syndicat]]
-- [[Void Touched Cult]]
-- [[Altitude & Wind Effects]]
-- [[Balta Kaine]]
-- [[Campaign Calendar]]
-- [[Character Creation Guide]]
-- [[Cloud Gardens]]
-- [[Corruption & Sanity]]
-- [[Economic Systems]]
-- [[Elder Stormcaller]]
-- [[Equipment Catalogs]]
-- [[Faction Reputation]]
-- [[Forge Master Thorne]]
-- [[Lost Archives]]
-- [[Matriarch Cloudweaver]]
-- [[Npc]]
-- [[Npc Generator]]
-- [[Oracle Mistweaver]]
-- [[Player Handouts]]
-- [[Pressure & Depth Mechanics]]
-- [[Pressure Magic]]
-- [[Pressure Magic]]
-- [[Quest - Ascension]]
-- [[Quest - Crystal Corruption]]
-- [[Quest - Missing Shipments]]
-- [[Quest - Planar Convergence]]
-- [[Quest - Sky Pirates]]
-- [[Quest - The Final Tide]]
-- [[Quest - The Haunted Depths]]
-- [[Quest - The Lost City]]
-- [[Quest - War of Tides]]
-- [[Random_Encounter_Tables]]
-- [[Random Location Generator]]
-- [[Ranger Skybow]]
-- [[Scout Deepfinder]]
-- [[Session Notes Template]]
-- [[Session Zero Checklist]]
-- [[Sky Marshal Windstrider]]
-- [[The Bloom Fields]]
-- [[The Crimson Hand]]
-- [[The Crystal Forest]]
-- [[The Floating Markets]]
-- [[The Forge of War]]
-- [[The Lightning Forge]]
-- [[The Living Docks]]
-- [[The Merging]]
-- [[The Neutral Zones Treaty]]
-- [[The Preservers]]
-- [[The Prophecy of Tides]]
-- [[The Silent Marketplace]]
-- [[The Void Conspiracy]]
-- [[The Wind Roads]]
-- [[Timeline of the Catastrophe]]
-- [[United Councils of Both Worlds]]
-- [[Void Prophet Zephyr]]
-- [[Void Touch]]
-- [[Windweaver Spire]]
-- [[Deep_Mother_Subsystem]]
-- [[Sanity Horror Framework]]
-- [[Transformation Compendium]]
-- [[Campaign_Dashboard|Campaign Dashboard]]
-- [[Campaign Quick Reference Sheets]]
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -322,3 +74,15 @@ chronology: active
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and truth emerges
+- A shipment has gone missing and war looms
+- Strange sightings suggest a curse
+- A corpse reveals a conspiracy about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

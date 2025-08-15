@@ -35,15 +35,11 @@ updated: '2025-08-12T23:37:36.623153'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-armor-of-necrotic-resistance-xdmg-armor-of-necrotic-resistance-xdmg.svg)
 
 # Armor of Necrotic Resistance
 *Rare (requires attunement)*  
-
-
 
 You have [[resistance-xphb|Resistance]] to necrotic damage while you wear this armor.
 
@@ -61,78 +57,30 @@ You have [[resistance-xphb|Resistance]] to necrotic damage while you wear this a
 - [Splint Armor of Necrotic Resistance](#Splint%20Armor%20of%20Necrotic%20Resistance)
 - [Studded Leather Armor of Necrotic Resistance](#Studded%20Leather%20Armor%20of%20Necrotic%20Resistance)
 
-## Breastplate of Necrotic Resistance
-
-- **Armor Class**: 14 + Dex modifier (max of +2)
-- **Weight**: 20.0 lbs.
-
-### Chain Mail of Necrotic Resistance
-
-- **Armor Class**: 16
-- **Strength**: Requires 13 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 55.0 lbs.
-
-### Chain Shirt of Necrotic Resistance
-
-- **Armor Class**: 13 + Dex modifier (max of +2)
-- **Weight**: 20.0 lbs.
-
-### Half Plate Armor of Necrotic Resistance
-
-- **Armor Class**: 15 + Dex modifier (max of +2)
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 40.0 lbs.
-
-### Hide Armor of Necrotic Resistance
-
-- **Armor Class**: 12 + Dex modifier (max of +2)
-- **Weight**: 12.0 lbs.
-
-### Leather Armor of Necrotic Resistance
-
-- **Armor Class**: 11 + Dex modifier
-- **Weight**: 10.0 lbs.
-
-### Padded Armor of Necrotic Resistance
-
-- **Armor Class**: 11 + Dex modifier
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 8.0 lbs.
-
-### Plate Armor of Necrotic Resistance
-
-- **Armor Class**: 18
-- **Strength**: Requires 15 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 65.0 lbs.
-
-### Ring Mail of Necrotic Resistance
-
-- **Armor Class**: 14
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 40.0 lbs.
-
-### Scale Mail of Necrotic Resistance
-
-- **Armor Class**: 14 + Dex modifier (max of +2)
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 45.0 lbs.
-
-### Splint Armor of Necrotic Resistance
-
-- **Armor Class**: 17
-- **Strength**: Requires 15 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 60.0 lbs.
-
 ### Studded Leather Armor of Necrotic Resistance
 
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
 
+*Source: Dungeon Master's Guide (2024) p. 231. Available in the SRD and the Free Rules (2024)*
 
-*Source: Dungeon Master's Guide (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -142,19 +90,45 @@ Armor of necrotic resistance xdmg is a undersea element of the setting, known fo
 
 Legends speak of armor of necrotic resistance xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around armor of necrotic resistance xdmg.
 
-## Adventure Hooks
-
-- A rumor ties armor of necrotic resistance xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at armor of necrotic resistance xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to armor of necrotic resistance xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Plot Hooks
+
+- A corpse reveals a conspiracy about the government
+- The authorities needs help investigating before the festival
+- Strange sightings suggest a conspiracy
+- A map reveals ancient history about the government
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

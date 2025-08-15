@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.093796+00:00'
 world: Both
 ---
 
-
-
 # Modify Total XP for Multiple Monsters; Encounter Multipliers
 *Source: Dungeon Master's Guide p. 82. Available in the Basic Rules (2014)* 
 
@@ -39,6 +37,24 @@ world: Both
 | 15 or more | ×4 |
 ^encounter-multipliers
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Modify total xp for multiple monsters encounter multipliers is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -47,19 +63,27 @@ Modify total xp for multiple monsters encounter multipliers is a undersea elemen
 
 Legends speak of modify total xp for multiple monsters encounter multipliers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around modify total xp for multiple monsters encounter multipliers.
 
-## Adventure Hooks
-
-- A rumor ties modify total xp for multiple monsters encounter multipliers to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at modify total xp for multiple monsters encounter multipliers to avert a public scandal.
-- A map overlay reveals a hidden approach to modify total xp for multiple monsters encounter multipliers active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A noble needs help investigating before winter
+- A map reveals the truth about the cult
+- A map reveals a conspiracy about the government
+- A map reveals a conspiracy about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

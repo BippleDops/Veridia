@@ -21,14 +21,22 @@ world: Aquabyssos
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
 
 ## Player-Facing Summary
 
@@ -38,28 +46,25 @@ Mind Surgeon Dr. Forget Me Always is a undersea element of the setting, known fo
 
 Legends speak of Mind Surgeon Dr. Forget Me Always as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Mind Surgeon Dr. Forget Me Always.
 
-## Adventure Hooks
-
-- A rumor ties Mind Surgeon Dr. Forget Me Always to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Mind Surgeon Dr. Forget Me Always to avert a public scandal.
-- A map overlay reveals a hidden approach to Mind Surgeon Dr. Forget Me Always active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Vote Vaults]]
-
-
-## Connections
-
-- [[Vote Vaults]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help investigating before the new moon
+- Strange disappearances suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

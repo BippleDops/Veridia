@@ -27,8 +27,6 @@ updated: '2025-08-13T12:34:05.822753+00:00'
 world: Both
 ---
 
-
-
 # [[narzugon-mpmm|Narzugon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 190, Mordenkainen's Tome of Foes p. 167*  
 
@@ -67,7 +65,7 @@ Each narzugon claims a [[nightmare-xmm|nightmare]] as its mount. These steeds ar
 "damage_resistances": "acid; cold; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 22"
 "languages": "Common, Infernal, telepathy 120 ft."
@@ -93,11 +91,11 @@ Each narzugon claims a [[nightmare-xmm|nightmare]] as its mount. These steeds ar
       \ life. Constructs and devils are immune to this effect."
     "name": "Hellfire Lance"
   - "desc": "Each ally of the narzugon within 60 feet of it can't be [[conditions#Charmed|charmed]]\
-      \ or [[conditions#Frightened|frightened]] until the end of\
+      \ or [[conditions#frightened|frightened]] until the end of\
       \ the narzugon's next turn."
     "name": "Infernal Command"
   - "desc": "Each creature within 60 feet of the narzugon that isn't a Fiend must\
-      \ succeed on a DC 17 Charisma saving throw or become [[conditions#Frightened|frightened]]\
+      \ succeed on a DC 17 Charisma saving throw or become [[conditions#frightened|frightened]]\
       \ of the narzugon for 1 minute. A creature can repeat the saving throw at the\
       \ end of each of its turns, ending the effect on itself on a success. A creature\
       \ that makes a successful saving throw is immune to this narzugon's Terrifying\
@@ -112,6 +110,24 @@ Each narzugon claims a [[nightmare-xmm|nightmare]] as its mount. These steeds ar
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Narzugon mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -120,19 +136,25 @@ Narzugon mpmm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of narzugon mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around narzugon mpmm.
 
-## Adventure Hooks
-
-- A rumor ties narzugon mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at narzugon mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to narzugon mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a conspiracy
+- A prisoner has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

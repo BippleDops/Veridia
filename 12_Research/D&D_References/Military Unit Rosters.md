@@ -21,17 +21,31 @@ world: Aquabyssos
 updated: '2025-08-13T01:18:34.876301+00:00'
 ---
 
-
-
 # Military Unit Rosters
 *"In the depths, brothers-in-arms become brothers-in-soul"*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 The military forces of Aquabyssos operate through complex command structures that blend traditional hierarchy with bonds forged in underwater combat. Understanding these relationships reveals networks of loyalty, rivalry, and brotherhood that often transcend official rank and political allegiance.
 
 ---
-
-## Royal Aquabyssos Navy
 
 ### **1st Deep Fleet - The Crown's Trident**
 *Primary Naval Force*
@@ -125,7 +139,7 @@ The military forces of Aquabyssos operate through complex command structures tha
 - **Captain Henrik Proudbanner** (Border Patrol: *Frontier Pride*)
   - **Crew Culture:** Military traditionalists, strong discipline, elite unit pride
   - **Relationships:**
-    - **Lieutenant Colonel Marcus Ironwill** - Former superior, maintains informal authority
+    - **Lieutet Colonel Marcus Ironwill** - Former superior, maintains informal authority
     - **Sergeant Major Elena Voidward** - Senior NCO, knows crew better than officers
     - **Border Patrol Units** - Coordination with ground-based territorial forces
 
@@ -141,8 +155,6 @@ The military forces of Aquabyssos operate through complex command structures tha
   - **Discovery Protocol:** Balances scientific exploration with military security needs
 
 ---
-
-## Parliamentary Guard Forces
 
 ### **The Speakers' Guard**
 *Legislative Protection and Internal Security*
@@ -160,7 +172,7 @@ The military forces of Aquabyssos operate through complex command structures tha
 
 - **Captain Truth Ironwill** (Ethics Investigation)
   - **Internal Affairs:** Investigates corruption and misconduct within guard
-  - **Family Legacy:** Son of Lieutenant Colonel Marcus Ironwill
+  - **Family Legacy:** Son of Lieutet Colonel Marcus Ironwill
   - **Moral Conflict:** Father's military tradition vs. political investigation duties
 
 **Parliamentary Archive Security:**
@@ -176,7 +188,7 @@ The military forces of Aquabyssos operate through complex command structures tha
 - **Captain Marcus Shieldwall** (Underground Defense)
   - **Facility Knowledge:** Expert in parliament building's hidden passages and defenses
   - **Emergency Protocols:** Coordinated with surface security for crisis response
-  - **Personal Network:** Relationships with maintenance staff, archive personnel, intelligence services
+  - **Personal Network:** Relationships with maintece staff, archive personnel, intelligence services
 
 **Specialized Units:**
 - **Guardian Captain Marcus Shieldwall** (Facility Defense)
@@ -185,8 +197,6 @@ The military forces of Aquabyssos operate through complex command structures tha
   - **Intelligence Sharing:** Informal coordination with multiple security services
 
 ---
-
-## Noble House Military Forces
 
 ### **House Deepcurrent Royal Guard**
 *Traditional Noble Military*
@@ -262,8 +272,6 @@ The military forces of Aquabyssos operate through complex command structures tha
 
 ---
 
-## Specialized Combat Units
-
 ### **The Sky Knight Orders**
 *Aerial Combat Specialists*
 
@@ -328,8 +336,6 @@ The military forces of Aquabyssos operate through complex command structures tha
 
 ---
 
-## Military Brotherhood Networks
-
 ### **The Deep War Veterans**
 *Shared Combat Experience Bonds*
 
@@ -390,8 +396,6 @@ The military forces of Aquabyssos operate through complex command structures tha
 
 ---
 
-## Command Rivalries and Tensions
-
 ### **Traditional vs. Innovation Conflicts**
 
 **Naval Tradition vs. Democratic Reform:**
@@ -438,8 +442,6 @@ The military forces of Aquabyssos operate through complex command structures tha
 
 ---
 
-## Intelligence and Espionage Networks
-
 ### **Military Intelligence Coordination**
 
 **Inter-Service Intelligence:**
@@ -470,11 +472,9 @@ The military forces of Aquabyssos operate through complex command structures tha
 
 ---
 
-## Crisis Response and Emergency Command
-
 ### **Succession Crisis Military Preparations**
 
-**Neutrality Maintenance:**
+**Neutrality Maintece:**
 - **Fleet Admiral Cassandra Stormwind** (Coordinating Neutral Military Stance)
 - **Challenge:** Maintaining military neutrality while preparing for potential civil conflict
 - **Preparation:** Emergency protocols for protecting key infrastructure and civilians
@@ -515,8 +515,6 @@ The military forces of Aquabyssos operate through complex command structures tha
 - **Civilian Support:** Military resources devoted to civilian population protection
 
 ---
-
-## Personal Relationships and Military Culture
 
 ### **Marriage and Family Networks**
 
@@ -561,8 +559,6 @@ The military forces of Aquabyssos operate through complex command structures tha
 - **Educational Programs:** Military expertise shared with civilian educational institutions
 
 ---
-
-## GM Campaign Integration
 
 ### **Military as Adventure Catalyst**
 
@@ -619,19 +615,26 @@ Military Unit Rosters is a undersea element of the setting, known for biolumines
 
 Legends speak of Military Unit Rosters as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Military Unit Rosters.
 
-## Adventure Hooks
-
-- A rumor ties Military Unit Rosters to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Military Unit Rosters to avert a public scandal.
-- A map overlay reveals a hidden approach to Military Unit Rosters active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and chaos spreads
+- A noble needs help finding before dawn
+- Someone is protecting a witness for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

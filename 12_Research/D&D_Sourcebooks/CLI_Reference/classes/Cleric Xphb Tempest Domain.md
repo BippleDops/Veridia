@@ -24,48 +24,38 @@ updated: '2025-08-13T12:34:04.841353+00:00'
 world: Both
 ---
 
-
-
 # Tempest Domain
 *[[cleric-xphb|Cleric]]: Cleric Subclass*  
 *Source: Player's Handbook p. 62*  
 
 > [!tldr] Class and Feature Progression
 > 
-> <table class="class-progression">
-> <thead>
-> <tr><th colspan='3'></th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
-> </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Tempest Domain (Level 3)' class='internal-link'>Tempest Domain</a>, <a href='#Channel Divinity: Destructive Wrath (Level 3)' class='internal-link'>Channel Divinity: Destructive Wrath</a></td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Thunderbolt Strike (Level 6)' class='internal-link'>Thunderbolt Strike</a></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Stormborn (Level 17)' class='internal-link'>Stormborn</a></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> </tbody></table>
+> LevelPBFeatures
+> 1st+2
+> 2nd+2
+> 3rd+2Tempest Domain, Channel Divinity: Destructive Wrath
+> 4th+2
+> 5th+3
+> 6th+3Thunderbolt Strike
+> 7th+3
+> 8th+3
+> 9th+4
+> 10th+4
+> 11th+4
+> 12th+4
+> 13th+5
+> 14th+5
+> 15th+5
+> 16th+5
+> 17th+6Stormborn
+> 18th+6
+> 19th+6
+> 20th+6
 
 ^class-progression
 
-
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
-
-## Class Features
 
 ### Tempest Domain (Level 3)
 
@@ -108,6 +98,24 @@ At 6th level, when you deal lightning damage to a Large or smaller creature, you
 
 At 17th level, you have a flying speed equal to your current walking speed whenever you are not underground or indoors.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Cleric xphb tempest domain is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -116,19 +124,18 @@ Cleric xphb tempest domain is a undersea element of the setting, known for biolu
 
 Legends speak of cleric xphb tempest domain as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cleric xphb tempest domain.
 
-## Adventure Hooks
-
-- A rumor ties cleric xphb tempest domain to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at cleric xphb tempest domain to avert a public scandal.
-- A map overlay reveals a hidden approach to cleric xphb tempest domain active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

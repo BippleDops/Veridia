@@ -30,7 +30,6 @@ updated: '2025-08-12T23:37:35.759389'
 world: Both
 ---
 
-
 # [[kobold-dragonshield-mpmm|Kobold Dragonshield]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 163, Volo's Guide to Monsters p. 165*  
 
@@ -73,7 +72,7 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
       \ 3–4, cold (silver or white); 5–6, fire (brass, gold, or red); 7–8, lightning\
       \ (blue or bronze); 9–10, poison (green)."
     "name": "Dragon's Resistance"
-  - "desc": "If the kobold is [[conditions#Frightened|frightened]]\
+  - "desc": "If the kobold is [[conditions#frightened|frightened]]\
       \ or [[conditions#Paralyzed|paralyzed]] by an effect that\
       \ allows a saving throw, it can repeat the save at the start of its turn to\
       \ end the effect on itself and all kobolds within 30 feet of it. Any kobold\
@@ -102,6 +101,24 @@ Dragonshields know they have a place of honor among those who venerate dragons, 
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 forest, hill, mountain, underdark
@@ -114,19 +131,25 @@ Kobold dragonshield mpmm is a undersea element of the setting, known for biolumi
 
 Legends speak of kobold dragonshield mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around kobold dragonshield mpmm.
 
-## Adventure Hooks
-
-- A rumor ties kobold dragonshield mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at kobold dragonshield mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to kobold dragonshield mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

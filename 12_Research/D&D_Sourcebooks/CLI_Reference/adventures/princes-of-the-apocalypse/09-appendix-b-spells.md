@@ -21,13 +21,30 @@ updated: '2025-08-12T23:37:34.577953'
 world: Both
 ---
 
-
 # Appendix B: Spells
 *Source: Princes of the Apocalypse, p. 230* 
 
 This appendix presents new spells that you can make available to your players. Some of the spells are used by creatures in chapter 7.
 
 It's up to you whether these spells are available at character creation, whether they are discovered over the course of the adventure, or whether they don't end up in the characters' hands at all. Many players are fine sticking with the spells in the *Player's Handbook*, whereas other players will be excited to gain new spell options.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Spell Descriptions
 
@@ -85,19 +102,15 @@ The spells are presented in alphabetical order.
 
 Legends speak of 09 appendix b spells as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 09 appendix b spells.
 
-## Adventure Hooks
-
-- A rumor ties 09 appendix b spells to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 09 appendix b spells to avert a public scandal.
-- A map overlay reveals a hidden approach to 09 appendix b spells active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Winds

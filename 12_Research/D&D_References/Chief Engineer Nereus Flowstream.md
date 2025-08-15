@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.347686+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-chief-engineer-nereus-flowstream-chief-engineer-nereus-flowstream.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Pressure Tubes|02 Worldbuilding/Places/Pressure Tubes]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Pressure Tubes]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,26 @@ Chief Engineer Nereus Flowstream is a undersea element of the setting, known for
 
 Legends speak of Chief Engineer Nereus Flowstream as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Chief Engineer Nereus Flowstream.
 
-## Adventure Hooks
-
-- A rumor ties Chief Engineer Nereus Flowstream to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Chief Engineer Nereus Flowstream to avert a public scandal.
-- A map overlay reveals a hidden approach to Chief Engineer Nereus Flowstream active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- An heirloom has gone missing and chaos spreads
+- A map reveals a betrayal about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

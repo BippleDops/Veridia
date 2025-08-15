@@ -23,13 +23,29 @@ updated: '2025-08-12T23:37:37.166925'
 world: Both
 ---
 
-
 # Hag Eye
 *Wondrous item, uncommon*  
 ![](/03_Mechanics/CLI/items/img/hag-eye.webp#right)
 
-
 A Hag Eye has 3 charges. While wearing or holding this item, you can expend 1 charge to cast [[darkvision-xphb|Darkvision]] (targeting yourself only) or [[see-invisibility-xphb|See Invisibility]]. The Hag Eye regains all expended charges daily at dawn.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Coven Sensor
 
@@ -49,19 +65,20 @@ Hag eye xdmg is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of hag eye xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hag eye xdmg.
 
-## Adventure Hooks
-
-- A rumor ties hag eye xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at hag eye xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to hag eye xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

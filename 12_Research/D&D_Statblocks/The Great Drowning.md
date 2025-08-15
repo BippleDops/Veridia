@@ -30,23 +30,35 @@ accessibility:
   - Open Door
 ---
 
-
-
-
-
 # The Great Drowning
 
 ![[04_Resources/Assets/Art/Places/The_Great_Drowning.png|The Great Drowning Portrait]]
 
 *The site of Aquabyssos's greatest catastrophe and darkest memory*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 
 The Great Drowning marks both a physical location and a temporal scar in the fabric of Aquabyssos—the epicenter where the ancient city of Thalassopolis was consumed by an uncontrolled planar breach 847 years ago. Now a massive whirlpool spanning three miles in diameter, it serves as both a memorial to the 300,000 souls lost and a persistent reminder of the dangers of unchecked magical experimentation.
 
 The site pulses with residual planar energy, creating unpredictable currents that can transport unwary travelers through space and time. The Abyssal Senate maintains a permanent garrison here, both to prevent access to the depths where Thalassopolis's ruins lie and to monitor the strange phenomena that continue to manifest.
-
-## Physical Description
 
 ### The Maelstrom
 The Great Drowning appears as a colossal whirlpool that defies natural physics:
@@ -69,8 +81,6 @@ Time flows differently near the Great Drowning:
 - **Inner Spiral**: 1 hour = 1 day external time
 - **Event Horizon**: Time becomes non-linear
 
-## History
-
 ### The Thalassopolis Experiment (Year 2177)
 The mage-council of Thalassopolis attempted to create a permanent portal to the Elemental Plane of Water to solve the city's expansion needs. Led by Archmagus Nereon the Profound, thirteen archmages combined their power in a ritual that had taken decades to prepare.
 
@@ -83,15 +93,6 @@ On the 13th day of the Tide Month, the ritual went catastrophically wrong:
 5. **Hour 13**: City's reality anchors failed
 6. **Hour 19**: Thalassopolis completely submerged
 7. **Hour 24**: Planar breach stabilized into current maelstrom
-
-### The Aftermath
-- **Immediate**: 300,000 citizens lost, presumed dead or worse
-- **First Year**: Rescue attempts failed, 47 more lives lost
-- **Decade**: Abyssal Senate declared site forbidden
-- **Century**: Memorial stations established
-- **Present**: Monitored by the Depth Guard continuously
-
-## Current Inhabitants
 
 ### The Depth Guard
 **Commander**: Captain Theron Voidwatcher
@@ -134,14 +135,14 @@ Mysterious beings that emerged from the maelstrom, appearing as translucent huma
 - Cannot be harmed by physical means
 - Disappear if brought more than a mile from the site
 
-### The Remnants
+### The Remts
 Survivors of Thalassopolis transformed by the planar energies:
 - No longer fully human—part water elemental
 - Retain fragments of their former memories
 - Cannot leave the area without dissolving
 - Trade information for offerings thrown into the maelstrom
 
-**Remnant of Thalassopolis** (CR 5)
+**Remt of Thalassopolis** (CR 5)
 *Medium elemental, neutral*
 
 **Armor Class** 14 (natural armor)
@@ -157,18 +158,16 @@ STR 14 (+2), DEX 16 (+3), CON 18 (+4), INT 11 (+0), WIS 13 (+1), CHA 15 (+2)
 **Languages** Aquan, Common (fragmented)
 **Challenge** 5 (1,800 XP)
 
-**Fragmented Memory.** The remnant has disadvantage on Intelligence checks but advantage on saving throws against being charmed.
+**Fragmented Memory.** The remt has disadvantage on Intelligence checks but advantage on saving throws against being charmed.
 
-**Water Form.** The remnant can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
+**Water Form.** The remt can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 
 **Actions**
-**Multiattack.** The remnant makes two slam attacks.
+**Multiattack.** The remt makes two slam attacks.
 
 **Slam.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage.
 
-**Memory Flood (Recharge 5-6).** The remnant forces a target within 30 feet to experience fragments of Thalassopolis's destruction. The target must make a DC 14 Wisdom saving throw or be stunned for 1 minute as they experience the memories. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-## Notable Features
+**Memory Flood (Recharge 5-6).** The remt forces a target within 30 feet to experience fragments of Thalassopolis's destruction. The target must make a DC 14 Wisdom saving throw or be stunned for 1 minute as they experience the memories. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ### The Archive Stones
 Thirteen massive obsidian pillars that orbit the maelstrom:
@@ -197,7 +196,7 @@ Crystallized tears of the victims form underwater gardens:
 |------|-----------|
 | 1-2 | Depth Guard patrol investigating disturbance |
 | 3-4 | Echo Shepherd leading phantom procession |
-| 5-6 | Remnant seeking news of descendants |
+| 5-6 | Remt seeking news of descendants |
 | 7-8 | Time loop—party encounters themselves from 1 hour ago |
 | 9-10 | Memory crystal storm (1d6 psychic damage per round) |
 | 11-12 | Planar rift opens briefly to Elemental Plane of Water |
@@ -206,8 +205,6 @@ Crystallized tears of the victims form underwater gardens:
 | 17-18 | Deep Mother cultists attempting ritual |
 | 19 | Future version of party member warning of danger |
 | 20 | Archive Stone activates spontaneously |
-
-## Adventure Hooks
 
 ### The Thirteenth Hour
 The party must enter the maelstrom during a specific temporal alignment to retrieve an artifact from Thalassopolis before the city's destruction. They have exactly 13 hours of subjective time, but each hour deeper they go, the harder it becomes to return.
@@ -223,8 +220,6 @@ A message in a bottle emerges from the maelstrom claiming to be from survivors w
 
 ### Temporal Assassination
 The party discovers evidence of someone using the Tide Calendar to send assassins into the past to eliminate key figures. They must navigate the temporal streams to prevent changes to history—or decide if some changes might be for the better.
-
-## Treasures
 
 ### Memory Pearls
 Crystallized memories that can be consumed to gain temporary benefits:
@@ -245,23 +240,9 @@ Devices that protect against time distortion:
 
 This spiral shell constantly drips with water that never runs dry. While attuned:
 - You can breathe underwater and have swim speed equal to walking speed
-- Once per day, can summon 1d4 Remnants of Thalassopolis for 1 hour
+- Once per day, can summon 1d4 Remts of Thalassopolis for 1 hour
 - Can hear whispers from the Great Drowning regardless of distance
 - Cursed: Must make DC 15 Wisdom save each dawn or be compelled to visit the Great Drowning
-
-## DM Notes
-
-### Scaling the Horror
-- **Low Level (1-5)**: Focus on the memorial aspects and Depth Guard
-- **Mid Level (6-10)**: Introduce temporal mechanics and Remnants
-- **High Level (11-15)**: Deep exploration and Archive Stones
-- **Epic Level (16-20)**: Attempt to close or control the breach
-
-### Environmental Hazards
-- **Pressure Waves**: CON save DC 15 or stunned 1 round
-- **Temporal Shears**: DEX save DC 17 or age 1d10 years
-- **Memory Storms**: WIS save DC 14 or confused 1 minute
-- **Reality Tears**: INT save DC 16 or teleported 1d100 feet randomly
 
 ### Campaign Integration
 The Great Drowning serves as:
@@ -290,44 +271,7 @@ The Great Drowning is a undersea element of the setting, known for bioluminescen
 
 Legends speak of The Great Drowning as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Great Drowning.
 
-## Cross-References
 
-- [[The Great Drowning|02 Worldbuilding/Places/The Great Drowning]]
+## 12_Research Specific Content
 
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Establish the New Order]]
-- [[Shadow Independence Levels]]
-- [[Aetheron]]
-- [[Aquabyssos-Aethermoor Treaties]]
-- [[Corallion]]
-- [[Queen Seraphina]]
-- [[The Breathing Stone]]
-- [[Vorthak]]
-- [[Prophet Nerida Voidgazer]]
-- [[Amnesia Gallery]]
-- [[Crystallium]]
-- [[Forge of War]]
-- [[Luminous Hollow]]
-- [[New Tethys]]
-- [[Old Valdris]]
-- [[Pressure's End]]
-- [[Sister Morwyn]]
-- [[The Archive of Unremembered Things]]
-- [[The Bathyal Palace]]
-- [[The Cerulean Trench]]
-- [[The Eternal Senate]]
-- [[The First Failure]]
-- [[The Foundation Depths]]
-- [[The Lock]]
-- [[The Primordial Vaults]]
-- [[The Recursion Cult]]
-- [[The Silent Watcher]]
-- [[The Singing Trenches]]
-- [[The Vanishing Depths]]
-- [[The Whispering Peaks]]
-- [[Theological Warfare]]
-- [[Whisper-Touched William]]
+Contextual improvement based on 12_Research

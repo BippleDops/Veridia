@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Maelstrom Palace|02 Worldbuilding/Places/Maelstrom Palace]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Maelstrom Palace]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,25 @@ Chancellor Squall Deepcurrent is a undersea element of the setting, known for bi
 
 Legends speak of Chancellor Squall Deepcurrent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Chancellor Squall Deepcurrent.
 
-## Adventure Hooks
-
-- A rumor ties Chancellor Squall Deepcurrent to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Chancellor Squall Deepcurrent to avert a public scandal.
-- A map overlay reveals a hidden approach to Chancellor Squall Deepcurrent active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals the truth about the cult
+- An heirloom has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

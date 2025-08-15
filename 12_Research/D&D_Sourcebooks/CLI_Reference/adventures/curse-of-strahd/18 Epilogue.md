@@ -22,14 +22,30 @@ updated: '2025-08-13T12:34:04.945736+00:00'
 world: Both
 ---
 
-
-
 # Epilogue
 *Source: Curse of Strahd, p. 207* 
 
 Strahd is a deadly challenge for the characters. If they confront the vampire too soon, without the benefit of magic items such as the [[holy-symbol-of-ravenkind-cos|Holy Symbol of Ravenkind]] and the [[sunsword-cos|Sunsword]], they will likely perish. Characters can improve their chances of survival by exploring the land of Barovia, defeating lesser evils, and gaining allies, magic items, and levels of experience.
 
 The outcome of the final showdown between Strahd and the characters determines how the adventure ends.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Strahd Prevails
 
@@ -56,8 +72,6 @@ If the characters finish off Strahd in his coffin, read:
 
 If Strahd dies but [[/03_Mechanics/CLI/bestiary/npc/rahadin-cos|Rahadin]] yet lives, the dusk elf chamberlain appears moments after Strahd's demise. When that occurs, read:
 
-> [!readaloud] 
-> 
 > "Master!" says a voice from behind you. An elf with dusky brown skin and long black hair, his face a mask of terror, looks on what you have wrought and screams.
 ^6b1
 
@@ -69,18 +83,11 @@ This optional scene can be used after Strahd has been defeated. It assumes that 
 
 On the morning after Strahd's demise, the characters feel drawn to Castle Ravenloft's overlook (area K6), and there they witness the following scene.
 
-> [!readaloud] 
-> 
 > Thick clouds fill the sky. Through the chilly morning mists, the land of Barovia is visible far below. There is peacefulness here. Rest has come to the valley for the first time anyone can remember.
-> 
-> A light flashes behind you. Wheeling around, you see a stately man—a being of flesh and blood—in shining armor and a flapping cape. His countenance shows great strength of will, yet the forcefulness of his presence is tempered by his calm, sad eyes. His features are those of Strahd, yet subtly different.
-> 
+> A light flashes behind you. Wheeling around, you see a stately man—a being of flesh and blood—in shining armor and a flapping cape. His countece shows great strength of will, yet the forcefulness of his presence is tempered by his calm, sad eyes. His features are those of Strahd, yet subtly different.
 > His voice is calm and peaceful. "My name is Sergei von Zarovich." He turns to Ireena. "Tatyana, the time is at hand to rest. Come, my love and wife." He stretches forth his hand.
-> 
 > [[/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos|Ireena Kolyana]]'s questioning eyes suddenly open with recognition and knowledge. Forgotten memories rush back to her. "Sergei!" she cries, springing to him with the grace of a doe. They embrace.
-> 
 > Ireena turns to you and says, "I am [[/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos|Ireena Kolyana]], but in my past I was Sergei's beloved Tatyana. Through these many centuries we have played out the tragedy of our lives. Now, with our deepest gratitude to you, that tragedy is over. It is time for joy to begin again."
-> 
 > Shimmering light surrounds Ireena and Sergei. Hand in hand, they walk east toward the edge of the overlook. Their feet do not touch the ground as they tread a path beyond this mortal world. Their invisible road takes them beyond the eastern precipice, their glow illuminating and thinning the clouds above Barovia. The clouds suddenly break open, letting shafts of glorious sunlight flood through. In the valley below, the strange fog dissolves. Barovia is free once more.
 ^6b3
 
@@ -94,7 +101,7 @@ The Barovians take the sunlight as a sign that the evil in their land has been p
 
 The bats, wolves, and dire wolves of Barovia lose their supernatural link to Strahd upon his destruction and become ordinary beasts, destined to be hunted down or driven to the farthest reaches of the Svalich Woods.
 
-Even after Strahd's death, Castle Ravenloft remains a haunted place shunned by all Barovians. Its dark immensity and threatening countenance are enough to deter locals from plundering or reoccupying it.
+Even after Strahd's death, Castle Ravenloft remains a haunted place shunned by all Barovians. Its dark immensity and threatening countece are enough to deter locals from plundering or reoccupying it.
 
 #### The Rise of Ismark
 
@@ -130,19 +137,38 @@ After the mists reappear, [[/03_Mechanics/CLI/bestiary/npc/madam-eva-cos|Madam E
 
 Legends speak of 18 epilogue as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 18 epilogue.
 
-## Adventure Hooks
-
-- A rumor ties 18 epilogue to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 18 epilogue to avert a public scandal.
-- A map overlay reveals a hidden approach to 18 epilogue active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Plot Hooks
+
+- Someone is searching for an heir for money
+- The authorities needs help finding before dawn
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:33.957119'
 world: Both
 ---
 
-
 # Sehanine Moonbow
 *Source: Mordenkainen's Tome of Foes p. 46* 
 
@@ -42,6 +41,24 @@ In stories of the Seldarine, Sehanine is Corellon's steadfast companion, the one
 
 Sehanine's priests often seek her guidance by entering into a state of true sleep and sifting through their dreams for signs. But Sehanine has another way of sending messages to the elves of the world. The crescent-shaped cataracts that appear in the eyes of an elderly elf at Transcendence are symbolic of the moonbow, an astronomical phenomenon with which she is associated. It appears in the night sky above the moon as a luminous arc of refracted light, no brighter than the moon itself. Only elves and some half-elves can perceive this sign, for it is meant only for Corellon's people. What it signifies depends on the phase of the moon. Above a full moon, when it is most often detected, it means that an elf of great importance and advanced age will soon journey to Arvandor. Elves who see the sign might be compelled to seek out this individual to commune with and learn from before the elder departs the world. The moonbow appearing above the moon during its other phases can be interpreted in many ways, depending on the season and the timing of its appearance. A moonbow appearing above a new moon is the most dreaded sign, for it is said to signal a coming period of great upheaval and many deaths.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Lunar Worship
 
 Temples to Sehanine Moonbow are almost always aligned with the heavens to enable the priests to track the motion and phases of the moon. The sleeping quarters of the priests are positioned such that a shaft of light from the full moon falls on them while they are sleeping, and this silver light of Sehanine can influence their dreams and impart messages to them.
@@ -56,19 +73,31 @@ Elven sehanine moonbow mtf is a undersea element of the setting, known for biolu
 
 Legends speak of elven sehanine moonbow mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elven sehanine moonbow mtf.
 
-## Adventure Hooks
-
-- A rumor ties elven sehanine moonbow mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at elven sehanine moonbow mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to elven sehanine moonbow mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A merchant needs help finding before dawn
+- Someone is hunting a witness for power
+- A noble needs help investigating before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

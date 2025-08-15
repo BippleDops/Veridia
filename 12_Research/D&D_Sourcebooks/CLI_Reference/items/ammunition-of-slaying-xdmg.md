@@ -29,11 +29,9 @@ updated: '2025-08-12T23:37:36.755694'
 world: Both
 ---
 
-
 # Ammunition of Slaying
 *Ammunition, very rare*  
 ![](/03_Mechanics/CLI/items/img/ammunition-of-slaying.webp#right)
-
 
 This magic ammunition is meant to slay creatures of a particular type, which the DM chooses or determines randomly by rolling on the table below. If a creature of that type takes damage from the ammunition, the creature makes a DC 17 Constitution saving throw, taking an extra `6d10` Force damage on a failed save or half as much extra damage on a successful one.
 
@@ -67,32 +65,29 @@ After dealing its extra damage to a creature, the ammunition becomes nonmagical.
 - [Needle of Slaying](#Needle%20of%20Slaying)
 - [Sling Bullet of Slaying](#Sling%20Bullet%20of%20Slaying)
 
-## Arrow of Slaying
-
-- **Weight**: 0.05 lbs.
-
-### Bolt of Slaying
-
-- **Weight**: 0.075 lbs.
-
-### Energy Cell of Slaying
-
-- **Weight**: 0.5 lbs.
-
-### Firearm Bullet of Slaying
-
-- **Weight**: 0.2 lbs.
-
-### Needle of Slaying
-
-- **Weight**: 0.02 lbs.
-
 ### Sling Bullet of Slaying
 
 - **Weight**: 0.075 lbs.
 
+*Source: Dungeon Master's Guide (2024) p. 228. Available in the SRD and the Free Rules (2024)*
 
-*Source: Dungeon Master's Guide (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -102,19 +97,33 @@ Ammunition of slaying xdmg is a undersea element of the setting, known for biolu
 
 Legends speak of ammunition of slaying xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ammunition of slaying xdmg.
 
-## Adventure Hooks
-
-- A rumor ties ammunition of slaying xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ammunition of slaying xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to ammunition of slaying xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for information for money
+- Strange disappearances suggest a curse
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

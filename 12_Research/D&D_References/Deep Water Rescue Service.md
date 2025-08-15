@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:35.595196+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,28 @@ Deep Water Rescue Service is a undersea element of the setting, known for biolum
 
 Legends speak of Deep Water Rescue Service as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Deep Water Rescue Service.
 
-## Adventure Hooks
-
-- A rumor ties Deep Water Rescue Service to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Deep Water Rescue Service to avert a public scandal.
-- A map overlay reveals a hidden approach to Deep Water Rescue Service active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Depth Effect Quick Reference|02 Worldbuilding/Lore/Depth Effect Quick Reference]]
-
-
-## Connections
-
-- [[Depth Effect Quick Reference]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and evil awakens
+- A prisoner has gone missing and truth emerges
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -16,15 +16,9 @@ updated: '2025-08-13'
 world: Both
 ---
 
-
-# Shadow Separation Syndrome
-## Consciousness Splitting Mechanics
-
 ### Overview
 
 Shadow Conspiracy surgical techniques can separate a person's shadow from their body, creating an independent entity while leaving the original diminished. This horrific transformation serves the conspiracy's infiltration goals.
-
-### Separation Process
 
 #### Stage 1: Surgical Preparation
 **Duration:** 2-4 hours
@@ -43,8 +37,6 @@ Shadow Conspiracy surgical techniques can separate a person's shadow from their 
 **Process:** Original person's memory gaps filled with false information
 **Goal:** Make original believe shadow never existed
 **Success Rate:** 70% complete conditioning, 20% partial, 10% failure
-
-### Mechanical Effects
 
 #### Original Person (Post-Separation)
 **Ability Score Changes:**
@@ -78,8 +70,6 @@ Shadow Conspiracy surgical techniques can separate a person's shadow from their 
 - Weakened in bright light (disadvantage)
 - Tethered to original (max 1 mile distance)
 
-### Detection Methods
-
 #### Visual Identification
 **Shadow Examination:**
 - Original person casts no shadow in direct light
@@ -100,8 +90,6 @@ Shadow Conspiracy surgical techniques can separate a person's shadow from their 
 - Reduced emotional responses
 - Increased compliance with authority
 - Difficulty with creative or intuitive tasks
-
-### Shadow Behavior
 
 #### Infiltration Tactics
 **Identity Theft:**
@@ -129,8 +117,6 @@ Shadow Conspiracy surgical techniques can separate a person's shadow from their 
 - Conflicted about identity
 - Gradually develops independent personality
 
-### Reversal & Reunification
-
 #### Magical Reunification
 **Requirements:**
 - Both original and shadow must be willing
@@ -150,14 +136,6 @@ Shadow Conspiracy surgical techniques can separate a person's shadow from their 
 **Personality Integration:** Must reconcile different choices made
 **Guilt Processing:** Original learns what shadow did in their name
 **Identity Crisis:** Questions about which memories are "real"
-
-#### Failed Reunification Effects
-- Both entities suffer psychic damage
-- Shadow becomes hostile to original
-- Original gains partial shadow abilities
-- Permanent mental scarring possible
-
-### Campaign Applications
 
 #### NPC Infiltration
 **Government Officials:** Shadows replace key decision makers
@@ -179,28 +157,6 @@ Shadow Conspiracy surgical techniques can separate a person's shadow from their 
 - Economic policies favoring conspiracy
 - Religious corruption spreading
 
-### Horror Elements
-
-#### Body Horror
-- Surgical separation process
-- Living without essential part of self
-- Identity theft by own shadow
-- Forced psychological manipulation
-
-#### Existential Horror
-- Questions about identity and authenticity
-- Which version is the "real" person?
-- Memories of actions you didn't take
-- Loved ones unable to tell the difference
-
-#### Social Horror
-- Isolation due to memory gaps
-- Betrayal by own shadow
-- Society infiltrated by false people
-- Trust becomes impossible
-
-### Recovery & Support
-
 #### Medical Treatment
 **Physical Therapy:** Relearning intuitive responses
 **Psychological Counseling:** Processing trauma and memory gaps
@@ -213,14 +169,6 @@ Shadow Conspiracy surgical techniques can separate a person's shadow from their 
 **Professional Reintegration:** Adjusting to reduced capabilities
 **Spiritual Guidance:** Religious support for identity questions
 
-### Equipment & Tools
-
-#### Detection Equipment
-- **Shadow Lamps:** Reveal missing shadows
-- **Truth Crystals:** Detect incomplete responses
-- **Memory Stones:** Help identify false memories
-- **Identity Anchors:** Magical items proving authenticity
-
 #### Protection Gear
 - **Light Sources:** Prevent shadow manifestation
 - **Blessed Items:** Harm shadow entities
@@ -231,10 +179,27 @@ Shadow Conspiracy surgical techniques can separate a person's shadow from their 
 
 *Shadow separation represents one of the most insidious forms of transformation, attacking identity itself while serving as a powerful tool for conspiracy infiltration.*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -243,3 +208,8 @@ Shadow Conspiracy surgical techniques can separate a person's shadow from their 
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

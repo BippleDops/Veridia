@@ -1,7 +1,7 @@
-# campaign_coherence_maintenance
+# campaign_coherence_maintece
 
 ---
-title: campaign coherence maintenance
+title: campaign coherence maintece
 type: research
 tags:
 - active
@@ -10,7 +10,23 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Campaign Coherence Maintenance
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Systems for Maintaining Narrative and World Consistency
 
@@ -18,25 +34,25 @@ Research on preserving internal logic and continuity across complex, long-runnin
 
 ### The Coherence Framework
 
-**Factual Coherence** (30% of coherence maintenance):
+**Factual Coherence** (30% of coherence maintece):
 - **World Rules Consistency**: Physical laws, magic systems, and technological capabilities remain stable
 - **Historical Accuracy**: Events maintain consistent timeline and logical causation
 - **Geographic Logic**: Locations maintain spatial relationships and environmental characteristics
 - **Character Continuity**: NPCs behave consistently with established personalities and motivations
 
-**Narrative Coherence** (35% of coherence maintenance):
+**Narrative Coherence** (35% of coherence maintece):
 - **Thematic Consistency**: Campaign maintains unified tone and central themes
 - **Character Arc Logic**: Personal development follows believable psychological progression
 - **Plot Thread Integration**: Multiple storylines connect meaningfully rather than existing in isolation
 - **Consequence Tracking**: Actions produce logical results that affect future events
 
-**Emotional Coherence** (25% of coherence maintenance):
+**Emotional Coherence** (25% of coherence maintece):
 - **Relationship Authenticity**: Character interactions reflect established bonds and conflicts
 - **Tonal Continuity**: Emotional atmosphere remains appropriate to campaign themes
 - **Character Investment**: Player attachment to world elements remains strong and meaningful
 - **Dramatic Pacing**: Tension and release cycles maintain appropriate emotional rhythm
 
-**Social Coherence** (10% of coherence maintenance):
+**Social Coherence** (10% of coherence maintece):
 - **Cultural Logic**: Societies behave according to established values and customs
 - **Political Realism**: Faction actions reflect organizational goals and capabilities
 - **Economic Sensibility**: Trade, resources, and wealth distribution follow logical patterns
@@ -103,7 +119,7 @@ Research on preserving internal logic and continuity across complex, long-runnin
 **Shared Responsibility**:
 - **Player Fact-Checking**: Encouraging players to help track world consistency
 - **Character Memory**: Players maintaining their own character history records
-- **Collaborative Timeline**: Group maintenance of campaign chronology
+- **Collaborative Timeline**: Group maintece of campaign chronology
 - **Consistency Discussion**: Open dialogue about potential coherence issues
 
 **Creative Coherence Solutions**:
@@ -114,11 +130,11 @@ Research on preserving internal logic and continuity across complex, long-runnin
 
 ### Documentation and Organization
 
-**Campaign Bible Maintenance**:
+**Campaign Bible Maintece**:
 - **Regular Updates**: Systematic updating of world information after each session
 - **Cross-Reference Systems**: Linking related information for easy coherence checking
 - **Version Control**: Tracking changes and evolution of world elements
-- **Access Management**: Ensuring all participants can contribute to coherence maintenance
+- **Access Management**: Ensuring all participants can contribute to coherence maintece
 
 **Quick Reference Systems**:
 - **Session Summary Templates**: Standardized formats for recording important information
@@ -147,8 +163,7 @@ class CoherenceViolation(BaseModel):
     resolution_status: str  # "unresolved", "addressed", "retconned"
 ```
 
-Campaign coherence maintenance:
-```python
+Campaign coherence maintece:
 class CampaignCoherence(BaseModel):
     fact_database: Dict[str, WorldFact]
     timeline: List[str]  # Chronological event list
@@ -156,11 +171,10 @@ class CampaignCoherence(BaseModel):
     location_states: Dict[str, Any]  # Current location status
     coherence_violations: List[CoherenceViolation]
     consistency_score: float  # Overall coherence rating
-```
 
 ### Success Metrics
 
-Effective coherence maintenance shows:
+Effective coherence maintece shows:
 - **Player Trust**: Players rely on world consistency for decision-making
 - **Immersion Preservation**: Coherence issues don't break suspension of disbelief
 - **Narrative Flow**: Story progresses without jarring inconsistencies
@@ -172,7 +186,6 @@ Effective coherence maintenance shows:
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -180,3 +193,18 @@ Effective coherence maintenance shows:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

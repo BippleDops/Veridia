@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:05.685622+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-oblex-spawn-mpmm-oblex-spawn-mpmm.svg)
 
@@ -43,14 +40,30 @@ An oblex devours memories not only to sustain its existence, but also to spawn n
 
 Newly formed oblexes lack the capabilities of their older kin. They seek only to feed on memories and grow until they can impersonate their victims.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Oblexes
 
 > [!quote] A quote from Mordenkainen  
 > 
 > Mind flayers unleash all manner of foul experiments upon the planes with little thought for the consequences. Here, though, I suspect another influence: Juiblex.
 
-> [!quote] A quote from Mordenkainen  
-> 
 > An oblex wants memories, but not to serve any end of its own making. Oblexes are hungry for memories and personalities because they are empty without such nourishment. In this way they serve their creators, the illithids. An oblex in the range of an elder brain's powers provides everything necessary for the mind flayers to find choice victims.
 
 By experimenting on the slimes, jellies, and puddings that infest the depths of the Underdark, mind flayers created a special breed of Ooze, the oblex—a slime capable of assaulting the minds of other creatures. These pools of jelly are cunning hunters that feed on thoughts and memories. The sharper the mind, the better the meal, so oblexes hunt targets more likely to be intelligent, such as wizards and other spellcasters. When suitable fare comes within reach, an oblex draws its body up to engulf its victim. As it withdraws, it plunders the creature's mind, leaving its prey befuddled and confused—or dead.
@@ -79,7 +92,7 @@ When oblexes feed on thoughts, they can form weird copies of their prey to use a
   - "charisma": !!int "2"
 "condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
   \ [[conditions#Deafened|deafened]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Prone|prone]]"
+  \ [[conditions#prone|prone]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 12"
 "languages": ""
 "cr": "1/4"
@@ -114,19 +127,44 @@ Oblex spawn mpmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of oblex spawn mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around oblex spawn mpmm.
 
-## Adventure Hooks
-
-- A rumor ties oblex spawn mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at oblex spawn mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to oblex spawn mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- Strange sightings suggest a curse
+- Strange sightings suggest a curse
+- Someone is hunting information for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

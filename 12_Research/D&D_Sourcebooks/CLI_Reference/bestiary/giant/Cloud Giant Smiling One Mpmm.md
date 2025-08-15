@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.381128+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cloud-giant-smiling-one-mpmm-cloud-giant-smiling-one-mpmm.svg)
 
@@ -69,7 +66,6 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
   - "name": "[[skills#Insight|Insight]]"
     "desc": "+7"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+11"
   - "name": "[[skills#Sleight%20of%20Hand|Sleight of Hand]]"
     "desc": "+9"
 "senses": "passive Perception 21"
@@ -96,12 +92,12 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
     "name": "Change Shape"
   - "desc": "The giant casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 15):\n\nAt\
-      \ will: [[detect-magic-xphb|detect magic]], [[fog-cloud-xphb|fog\
+      \ will: [[detect-magic-xphb|detect magic]], [[fog-cloud-xphb|fog\]]
       \ cloud]], [[light-xphb|light]],\
       \ [[minor-illusion-xphb|minor illusion]]\n\n3/day\
-      \ each: [[invisibility-xphb|invisibility]], [[silent-image-xphb|silent\
+      \ each: [[invisibility-xphb|invisibility]], [[silent-image-xphb|silent\]]
       \ image]], [[suggestion-xphb|suggestion]],\
-      \ [[tongues-xphb|tongues]]\n\n1/day each: [[gaseous-form-xphb|gaseous\
+      \ [[tongues-xphb|tongues]]\n\n1/day each: [[gaseous-form-xphb|gaseous\]]
       \ form]], [[major-image-xphb|major image]]"
     "name": "Spellcasting"
 "bonus_actions":
@@ -115,6 +111,24 @@ Smiling ones take their name from the strange two-faced masks they wear. The smi
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 mountain
@@ -127,19 +141,31 @@ Cloud giant smiling one mpmm is a undersea element of the setting, known for bio
 
 Legends speak of cloud giant smiling one mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cloud giant smiling one mpmm.
 
-## Adventure Hooks
-
-- A rumor ties cloud giant smiling one mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at cloud giant smiling one mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to cloud giant smiling one mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- The authorities needs help stealing before the festival
+- A journal reveals a conspiracy about a local noble
+- A letter reveals a conspiracy about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

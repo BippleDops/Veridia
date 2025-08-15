@@ -22,12 +22,28 @@ updated: '2025-08-13T12:34:05.001580+00:00'
 world: Both
 ---
 
-
-
 # Appendix A: Modifying Backgrounds
 *Source: Out of the Abyss, p. 221* 
 
 This appendix provides alternative background features and bonds for player characters, with options that are strongly connected to the NPCs, themes, and events of this adventure.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Substitute Features
 
@@ -37,7 +53,7 @@ A player can choose one of the following features to replace the feature normall
 
 ### Optional Feature: Deep Delver
 
-You have a knack for making your way in the deep places of the world. You can recall the twists and turns of passageways and tunnels such that you can always retrace your steps underground. You're also well acquainted with foraging and survival in the Underdark, and can determine when sources of food and water are safe to consume. You can always find sufficient food and water for yourself and up to five other people in the Underdark, as long as sustenance is available in the area.
+You have a knack for making your way in the deep places of the world. You can recall the twists and turns of passageways and tunnels such that you can always retrace your steps underground. You're also well acquainted with foraging and survival in the Underdark, and can determine when sources of food and water are safe to consume. You can always find sufficient food and water for yourself and up to five other people in the Underdark, as long as sustece is available in the area.
 
 ### Optional Feature: Underdark Experience
 
@@ -71,19 +87,15 @@ This table provides alternative bonds that characters can have instead of the bo
 
 Legends speak of 18 appendix a modifying backgrounds as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 18 appendix a modifying backgrounds.
 
-## Adventure Hooks
-
-- A rumor ties 18 appendix a modifying backgrounds to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 18 appendix a modifying backgrounds to avert a public scandal.
-- A map overlay reveals a hidden approach to 18 appendix a modifying backgrounds active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

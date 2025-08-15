@@ -1,4 +1,5 @@
 ---
+
 title: Memory Sharing Techniques
 type: Location
 tags:
@@ -18,6 +19,8 @@ population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:17.089781+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,24 +29,75 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-memory-sharing-techniques-memory-sharing-techniques.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## History
+*20 targeted improvements identified*
 
-TODO
-## Layout
+### History Improvements
 
-TODO
-## Notables
+- Add three historical eras with major events
 
-TODO
-## Threats
+### Culture Improvements
 
-TODO
-## Hooks
+- Define unique cultural practices and taboos
 
-TODO
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
 
 ## Player-Facing Summary
 
@@ -53,16 +107,6 @@ Memory Sharing Techniques is a undersea element of the setting, known for biolum
 
 Legends speak of Memory Sharing Techniques as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Sharing Techniques.
 
-## Adventure Hooks
-
-- A rumor ties Memory Sharing Techniques to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Memory Sharing Techniques to avert a public scandal.
-- A map overlay reveals a hidden approach to Memory Sharing Techniques active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -70,42 +114,9 @@ Legends speak of Memory Sharing Techniques as a nexus where past and present con
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Memory Sharing Techniques]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Mediator Serenity Stillwater]]
-
-
-## Notable Residents
-
-- [[Character_Creation_Extended]]
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-temporal-rescue-v1-temporal-rescue.svg]]
-- [[04_Resources_Assets_Locations_location-city-pearlshell-v1-pearlshell.svg]]
-- [[04_Resources_Assets_Portraits_portrait-npc-high-priestess-nerida-soulcurrent-high-priestess-nerida-soulcurrent.svg]]
-
 
 ## Sensory Details
 
@@ -115,7 +126,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: The tang of salt air permeates everything
 
-
 ## Description
 
 Memory Sharing Techniques is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -123,35 +133,7 @@ Memory Sharing Techniques is a notable location characterized by its unique feat
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Memory Sharing Techniques
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -164,15 +146,81 @@ Ongoing situations affecting Memory Sharing Techniques:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Memory Sharing Techniques
+## Trade Importance
 
-### Whispered Rumors
-- Stories that may or may not be true
+Key stop on spices trade route
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+
+## Plot Hooks
+
+- Strange dreams suggest ancient magic
+- A merchant needs help stealing before the festival
+- A journal reveals a betrayal about the government
+- Someone is blackmailing information for money
+
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
+
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

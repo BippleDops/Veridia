@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.404866'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-otherworldly-steed-xphb-otherworldly-steed-xphb.svg)
 
@@ -45,7 +43,6 @@ world: Both
   - !!int "12"
   - !!int "14"
   - !!int "6"
-  - !!int "12"
   - !!int "8"
 "speed": "60 ft., fly 60 ft. (requires level 4+ spell)"
 "senses": "passive Perception 11"
@@ -61,7 +58,7 @@ world: Both
     "name": "Otherworldly Slam"
 "bonus_actions":
   - "desc": "Wisdom Saving Throw: DC equals your spell save DC, one creature within\
-      \ 60 feet the steed can see. Failure: The target has the [[conditions#Frightened|Frightened]]\
+      \ 60 feet the steed can see. Failure: The target has the [[conditions#frightened|Frightened]]\
       \ condition until the end of your next turn."
     "name": "Fell Glare (Fiend Only; Recharges after a Long Rest)"
   - "desc": "The steed teleports, along with its rider, to an unoccupied space of\
@@ -76,6 +73,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Otherworldly steed xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -84,19 +99,18 @@ Otherworldly steed xphb is a undersea element of the setting, known for biolumin
 
 Legends speak of otherworldly steed xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around otherworldly steed xphb.
 
-## Adventure Hooks
-
-- A rumor ties otherworldly steed xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at otherworldly steed xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to otherworldly steed xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting information for power
+- A prisoner has gone missing and chaos spreads
+- Strange dreams suggest ancient magic
+- A corpse reveals a betrayal about a local noble

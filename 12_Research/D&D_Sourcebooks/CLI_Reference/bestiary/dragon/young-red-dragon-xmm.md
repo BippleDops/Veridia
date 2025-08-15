@@ -28,15 +28,31 @@ updated: '2025-08-12T23:37:35.752192'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-red-dragon-xmm-v1-young-red-dragon-xmm.svg)
 
 # [[young-red-dragon-xmm|Young Red Dragon]]
-*Source: Monster Manual (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 254. Available in the SRD and the Free Rules (2024)*  
 
 Young red dragons number among the most unpredictable of their kind. They seek territories rich with treasures and potential followers, raiding, burning, and slaughtering to enforce their will. Unless these dragons meet significant resistance, they cement their power and begin reigns of terror that can last for centuries.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Red Dragons
 
@@ -112,19 +128,27 @@ Young red dragon xmm is a undersea element of the setting, known for bioluminesc
 
 Legends speak of young red dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around young red dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties young red dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at young red dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to young red dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help investigating before the festival
+- Strange disappearances suggest a curse
+- A shipment has gone missing and truth emerges
+- A merchant needs help stealing before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

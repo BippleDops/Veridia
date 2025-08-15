@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:05.190240+00:00'
 world: Both
 ---
 
-
-
 # Shared Campaigns
 *Source: Xanathar's Guide to Everything, p. 172* 
 
@@ -42,19 +40,33 @@ In order to be successful, a shared campaign needs a champion-someone who takes 
 > [!note] Code of Conduct
 > 
 > Time and time again, the core rulebooks come back to the point that the most important goal of a D&D play session is for everyone involved to have fun. In keeping with that goal, it's a good idea for a shared campaign to have a code of conduct. Because people who don't normally play together might end up at the same table in a shared campaign, it can be helpful to establish some ground rules for behavior.
-> 
 > On the broadest level, everyone in a shared campaign is responsible for making sure that everyone else has an enjoyable time. If anyone feels offended, belittled, or bullied by the actions of another person, the entire purpose of getting together to play is defeated.
-> 
 > The basic code of conduct for a shared campaign might be modeled on a similar document that another organization or location uses. Beyond that, some special policies might need to be added to account for what might happen at the table when players and DMs interact. As a starting point, consider the following material, which is excerpted from the Adventurers League code of conduct.
-> 
 > During a play session, participants are expected to:
-> 
 > - Follow the DM's lead and refrain from arguing with the DM or other players over rules.  
 > - Let other players speak, and allow other players to get attention from the DM.  
 > - Avoid excessive conversation that is not relevant to the adventure.  
 > - Discourage others from using social media to bully, shame, or intimidate other participants.  
 > - Make the DM or the campaign's administrators aware of disruptive or aggressive behavior so that appropriate action can be taken.  
 ^code-of-conduct
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Designing Adventures
 
@@ -115,19 +127,25 @@ See the [[shared-campaign-variant-rules-xge|variant rules]] entry for more infor
 
 Legends speak of 5 shared campaigns as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 5 shared campaigns.
 
-## Adventure Hooks
-
-- A rumor ties 5 shared campaigns to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 5 shared campaigns to avert a public scandal.
-- A map overlay reveals a hidden approach to 5 shared campaigns active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

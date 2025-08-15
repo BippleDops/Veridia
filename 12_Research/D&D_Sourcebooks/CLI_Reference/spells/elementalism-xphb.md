@@ -34,10 +34,8 @@ updated: '2025-08-12T23:37:36.175600'
 world: Both
 ---
 
-
 # Elementalism
 *cantrip, Transmutation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -45,6 +43,24 @@ world: Both
 - **Duration:** Instantaneous
 
 You exert control over the elements, creating one of the following effects within range.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Beckon Air
 
@@ -70,7 +86,7 @@ You cause dirt, sand, fire, smoke, mist, or water that can fit in a 1-foot [[cub
 
 **Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-warrior-of-the-elements-xphb "subclass=XPHB;class=XPHB"|Monk (Warrior of the Elements)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-nature-domain "class=XPHB"|Cleric (Nature Domain)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
 
-*Source: Player's Handbook (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 267. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -80,19 +96,43 @@ Elementalism xphb is a undersea element of the setting, known for bioluminescent
 
 Legends speak of elementalism xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elementalism xphb.
 
-## Adventure Hooks
-
-- A rumor ties elementalism xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at elementalism xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to elementalism xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Stars
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- Strange sightings suggest a curse
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.303124+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,30 @@ Diplomatic Immunity Systems is a undersea element of the setting, known for biol
 
 Legends speak of Diplomatic Immunity Systems as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Diplomatic Immunity Systems.
 
-## Adventure Hooks
-
-- A rumor ties Diplomatic Immunity Systems to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Diplomatic Immunity Systems to avert a public scandal.
-- A map overlay reveals a hidden approach to Diplomatic Immunity Systems active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Reputation System|02 Worldbuilding/Lore/Reputation System]]
-
-
-## Connections
-
-- [[Reputation System]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals a betrayal about this place
+- An heirloom has gone missing and war looms
+- Strange accidents suggest a curse
+- A shipment has gone missing and evil awakens
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

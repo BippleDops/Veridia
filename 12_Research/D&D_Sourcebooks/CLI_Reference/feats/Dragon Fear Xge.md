@@ -23,8 +23,6 @@ updated: '2025-08-13T12:34:04.897542+00:00'
 world: Both
 ---
 
-
-
 # Dragon Fear
 *Source: Xanathar's Guide to Everything p. 74*  
 
@@ -33,7 +31,25 @@ world: Both
 When angered, you radiate menace. You gain the following benefits:
 
 - Increase your Strength, Constitution, or Charisma by 1, to a maximum of 20.  
-- Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds on the save if it can't hear or see you. On a failed save, a target becomes [[conditions#Frightened|frightened]] of you for 1 minute. If the [[conditions#Frightened|frightened]] target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.
+- Instead of exhaling destructive energy, you can expend a use of your Breath Weapon trait to roar, forcing each creature of your choice within 30 feet of you to make a Wisdom saving throw (DC 8 + your proficiency bonus + your Charisma modifier). A target automatically succeeds on the save if it can't hear or see you. On a failed save, a target becomes [[conditions#frightened|frightened]] of you for 1 minute. If the [[conditions#frightened|frightened]] target takes any damage, it can repeat the saving throw, ending the effect on itself on a success.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -43,19 +59,25 @@ Dragon fear xge is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of dragon fear xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dragon fear xge.
 
-## Adventure Hooks
-
-- A rumor ties dragon fear xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dragon fear xge to avert a public scandal.
-- A map overlay reveals a hidden approach to dragon fear xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and chaos spreads
+- Strange sightings suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

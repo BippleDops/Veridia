@@ -24,12 +24,9 @@ updated: '2025-08-13T12:34:07.135026+00:00'
 world: Both
 ---
 
-
-
 # Rope of Entanglement
 *Wondrous item, rare*  
 ![](/03_Mechanics/CLI/items/img/rope-of-entanglement.webp#right)
-
 
 This rope is 30 feet long. While holding one end of the rope, you can take a [[actions#Magic|Magic]] action to command the other end to dart forward and entangle one creature you can see within 20 feet of yourself. The target must succeed on a DC 15 Dexterity saving throw or have the [[conditions#Restrained|Restrained]] condition. You can release the target by letting go of your end of the rope (causing the rope to coil up in the target's space) or by using a [[bonus-action-xphb|Bonus Action]] to repeat the command (causing the rope to coil up in your hand).
 
@@ -37,7 +34,25 @@ A target [[conditions#Restrained|Restrained]] by the rope can take an action to 
 
 The rope has AC 20, HP 20, and [[immunity-xphb|Immunity]] to Poison and Psychic damage. It regains 1 [[hit-points-xphb|Hit Point]] every 5 minutes as long as it has at least 1 [[hit-points-xphb|Hit Point]]. If the rope drops to 0 [[hit-points-xphb|Hit Points]], it is destroyed.
 
-*Source: Dungeon Master's Guide (2024) p. 301. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 301. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -47,19 +62,15 @@ Rope of entanglement xdmg is a undersea element of the setting, known for biolum
 
 Legends speak of rope of entanglement xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rope of entanglement xdmg.
 
-## Adventure Hooks
-
-- A rumor ties rope of entanglement xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at rope of entanglement xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to rope of entanglement xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality

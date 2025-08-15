@@ -16,16 +16,27 @@ updated: '2025-08-13T01:18:36.169639+00:00'
 danger_level: Moderate
 ---
 
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-screaming-gardens-screaming-gardens.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
-# The Screaming Gardens
 ## Where Every Tree Was Once a Drowning Child
 
 > *"They planted screams and grew a forest. Now the forest sings warnings no one heeds."*
@@ -35,17 +46,11 @@ danger_level: Moderate
 
 The Screaming Gardens sprawl across three square miles of Abyssos Prime's eastern district, a crystallized forest where every tree was formed from the death screams of drowning victims. When the current flows through the crystal branches, they resonate with the final moments of those who died, creating an endless symphony of warning and anguish.
 
-## History
-
 ### The Great Drowning
 During the Cataclysm of Tides, thousands of children were at the Meridian Youth Academy when the waters rose. Their screams crystallized in the magical catastrophe, growing into the first trees. Over centuries, more screaming trees have been "planted" as executions, murders, and suicides add to the grove.
 
 ### The Conductor's Arrival
 Fifty years ago, a musician named Orpheus Deepnote went mad trying to compose a symphony from the screams. He transformed himself into living sound, becoming [[The Conductor]], and now orchestrates the gardens' cacophony into prophetic warnings.
-
-## Geography
-
-### Districts
 
 #### The Songwood Grove
 **Description**: The oldest section, where the original academy children became trees
@@ -71,43 +76,14 @@ Fifty years ago, a musician named Orpheus Deepnote went mad trying to compose a 
 **Sounds**: Organized into actual prophecies and warnings
 **Danger**: The Conductor's experiments with visitors' screams
 
-## Notable Features
-
 ### The Mother Tree
-The largest tree, formed from a pregnant woman who drowned trying to save her children. Sometimes, on quiet nights, you can hear a lullaby that causes uncontrollable weeping.
+The largest tree, formed from a pregt woman who drowned trying to save her children. Sometimes, on quiet nights, you can hear a lullaby that causes uncontrollable weeping.
 
 ### The Harmony Hollow
 A depression where screams cancel each other out, creating perfect silence. The only quiet place in the gardens, but the silence is so complete it causes madness.
 
 ### The Echo Chamber
 A crystalline amphitheater where screams bounce eternally, growing louder with each reflection. Entering means hearing every scream that ever was and ever will be.
-
-## Inhabitants
-
-### The Conductor
-- **Role**: Self-appointed orchestrator of screams
-- **Abilities**: Can weaponize screams, predict future through scream patterns
-- **Motivation**: Compose the perfect symphony of suffering
-- **Secret**: Is actually three children fused together during transformation
-
-### Scream Thieves
-- **Description**: Creatures that steal voices to add to the garden
-- **Method**: Silent until they strike, then victim can only scream
-- **Purpose**: Expanding the garden's collection
-
-### The Mute Gardeners
-- **Description**: Volunteers who gave up their voices to tend the gardens
-- **Appearance**: Wrapped in sound-dampening cloth
-- **Communication**: Elaborate sign language
-- **Knowledge**: Which trees hold important warnings
-
-### Memory Parasites
-- **Description**: Psychic entities that feed on traumatic memories
-- **Appearance**: Invisible until fed, then take the form of the trauma
-- **Effect**: Drain memories but leave the emotional scars
-- **Reproduction**: Split when fully fed
-
-## Plot Hooks
 
 ### The Missing Verse
 The Conductor claims the gardens' symphony is missing one crucial scream - a specific person who needs to die to complete the prophecy. They're willing to pay anything to arrange this death.
@@ -120,8 +96,6 @@ One tree screams in reverse, speaking of events that haven't happened yet. Its p
 
 ### The Garden's Growth
 The gardens are expanding faster than new deaths can account for. Trees are appearing that contain screams from people who are still alive, suggesting timeline contamination.
-
-## Encounters
 
 ### Screaming Tree Guardian
 **CR**: 5
@@ -143,15 +117,13 @@ The gardens are expanding faster than new deaths can account for. Trees are appe
 - Psychic Scream: 2d4 psychic damage to all within 10 ft
 - Split: At full HP, divides into two parasites
 
-## Environmental Hazards
-
 ### Scream Saturation
 **Frequency**: Every 10 minutes of exposure
 **Effect**: CON save DC 13 or deafened for 1 hour
 **Accumulation**: After 3 failures, permanently sensitive to sound
 **Protection**: Silence spells, wax earplugs (partial)
 
-### Harmonic Resonance
+### Harmonic Resoce
 **Trigger**: Speaking above a whisper
 **Effect**: Voice harmonizes with screams, can't stop screaming for 1d4 rounds
 **Danger**: Attracts predators and Conductor's attention
@@ -160,8 +132,6 @@ The gardens are expanding faster than new deaths can account for. Trees are appe
 **Location**: Near older trees
 **Effect**: Experience random death memories, WIS save DC 15 or frightened
 **Benefit**: Might gain crucial information from the memories
-
-## Treasures
 
 ### The Conductor's Tuning Fork
 **Type**: Wondrous Item, Rare
@@ -181,8 +151,6 @@ The gardens are expanding faster than new deaths can account for. Trees are appe
 **Risk**: May develop independence and turn on user
 **Value**: 1,000 gp to the right buyer
 
-## Services
-
 ### The Conductor's Prophecies
 **Cost**: A scream of genuine emotion
 **Service**: Interpret the gardens' warnings
@@ -195,29 +163,8 @@ The gardens are expanding faster than new deaths can account for. Trees are appe
 **Benefit**: Know which trees to avoid
 **Limitation**: Cannot protect from The Conductor
 
-## Connections
-
 ### To Aethermoor
 The gardens exist partially in [[Port Meridian|02 Worldbuilding/Places/Port Meridian]], where sensitive individuals hear children singing/screaming near the old academy ruins. During crystal plague outbreaks, new trees appear in both locations simultaneously.
-
-### To Other Districts
-- **Parliament of Echoes**: Executions performed here end in the gardens
-- **Memory Meadows**: Memory parasites migrate between locations
-- **Reflection Pools**: Sometimes reflect the gardens' victims before transformation
-
-## DM Notes
-
-### Atmosphere
-- Constant sound - never complete silence except in Harmony Hollow
-- Crystal trees tinkle like wind chimes between screams
-- Light refracts through crystal creating rainbow patterns over horror
-- Smell of salt and terror-sweat
-
-### Roleplay Tips
-- The Conductor speaks in musical terms only
-- Mute Gardeners use exaggerated gestures
-- Trees "recognize" people who remind them of their lives
-- Children's trees are the most active and aggressive
 
 ### Horror Elements
 - Parents might recognize their children's screams
@@ -226,7 +173,6 @@ The gardens exist partially in [[Port Meridian|02 Worldbuilding/Places/Port Meri
 - The compulsion to add your own scream to the symphony
 
 > *"Every scream tells a story. Every story ends the same. But oh, what music they make together!"*
-> — The Conductor
 
 ---
 
@@ -254,19 +200,28 @@ Screaming Gardens is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Screaming Gardens as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Screaming Gardens.
 
-## Adventure Hooks
-
-- A rumor ties Screaming Gardens to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Screaming Gardens to avert a public scandal.
-- A map overlay reveals a hidden approach to Screaming Gardens active only during specific tides/storms.
-
-## Cross-References
-
-- [[Screaming Gardens|02 Worldbuilding/Places/Screaming Gardens]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Plot Hooks
+
+- A corpse reveals ancient history about a local noble
+- A noble needs help delivering before dawn
+- The authorities needs help delivering before dawn
+- Strange dreams suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

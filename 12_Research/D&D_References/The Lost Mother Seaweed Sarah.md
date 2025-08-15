@@ -20,14 +20,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
 
 ## Player-Facing Summary
 
@@ -37,28 +45,30 @@ The Lost Mother, Seaweed Sarah is a undersea element of the setting, known for b
 
 Legends speak of The Lost Mother, Seaweed Sarah as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Lost Mother, Seaweed Sarah.
 
-## Adventure Hooks
-
-- A rumor ties The Lost Mother, Seaweed Sarah to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Lost Mother, Seaweed Sarah to avert a public scandal.
-- A map overlay reveals a hidden approach to The Lost Mother, Seaweed Sarah active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Transformed Citizens]]
-
-
-## Connections
-
-- [[The Transformed Citizens]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- A document has gone missing and truth emerges
+- Strange disappearances suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

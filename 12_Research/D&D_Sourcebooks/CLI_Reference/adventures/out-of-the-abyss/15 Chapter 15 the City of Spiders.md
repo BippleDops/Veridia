@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:05.005379+00:00'
 world: Both
 ---
 
-
-
 # Chapter 15: The City of Spiders
 *Source: Out of the Abyss, p. 190* 
 
@@ -32,6 +30,24 @@ The center of the chaos and madness now spreading throughout the Underdark is th
 Menzoberranzan was the site of Demogorgon's appearance in the Underdark, and the lash of his tentacles and the crushing tread of his clawed feet left a trail of broken buildings, bodies, and minds. Unfortunately for the drow, the worst may be yet to come if the renegade drow archmage [[/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota|Vizeran DeVir]] won the adventurers' support for his plan to use a powerful ritual to draw the demon lords and their fiendish servants out of the Underdark and set them against each other. As the demon lords destroy each other in the material world, their dark essences will be drawn back to the Abyss once more. But one of the key parts of Vizeran's plan involves the characters' making sure that the City of Spiders plays host to this final, devastating battle.
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/103-ooa15-01.webp#center)
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Goals
 
@@ -52,11 +68,8 @@ Fortunately for the characters, Vizeran isn't without allies in the city. The Co
 > [!note] Statistical Modifications for Drow NPCs
 > 
 > When using the generic stat blocks in "appendix B" of the *Monster Manual* to represent drow NPCs, assume that the drow are neutral evil and speak Elvish and Undercommon. Also give those NPCs the following additional features.
-> 
 > **Fey Ancestry.** The drow has advantage on saving throws against being [[conditions#Charmed|charmed]], and magic can't put the drow to sleep.
-> 
 > **Innate Spellcasting.** The drow's innate spellcasting ability is Charisma (spell save DC equal to 10 + the drow's Charisma modifier). The drow can innately cast the following spells, requiring no material components: At will: [[dancing-lights-xphb|dancing lights]] 1/day each: [[darkness-xphb|darkness]], [[faerie-fire-xphb|faerie fire]], [[levitate-xphb|levitate]] (self only)
-> 
 > **Sunlight Sensitivity.** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom ([[skills#Perception|Perception]]) checks that rely on sight.
 ^statistical-modifications-for-drow-npcs
 
@@ -135,7 +148,6 @@ The spider golem's eight eyes are six-inch-diameter red crystal orbs worth 1,000
 ## Menzoberranzan
 
 > [!note] 
-> 
 > - **Population**: 20,000 drow plus thousands of slaves (of various races)  
 > - **Government**: Matriarchal theocracy worshiping Lolth, the Demon Queen of Spiders  
 > - **Defense**: Large standing army of trained drow warriors and mages, bolstered by armed slaves and magical wards; the citizens of the city create a formidable militia  
@@ -155,10 +167,6 @@ The Dark Dominion is a great place for random encounters. When it suits you, rol
 
 ### Dark Dominion Encounters
 
-`dice: [](15-chapter-15-the-city-of-spiders.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1–2 | `2d4` [[bugbear-warrior-xmm|bugbears]] |
 | 3–4 | Clandestine meeting |
 | 5 | `d4` [[drider-xmm|driders]] |
@@ -168,7 +176,6 @@ The Dark Dominion is a great place for random encounters. When it suits you, rol
 | 15–16 | `1d4 + 1` [[goblin-warrior-xmm|goblins]] |
 | 17–19 | [[glyph-of-warding-xphb|Glyph of warding]] |
 | 20 | `d4` [[intellect-devourer-xmm|intellect devourers]] |
-^encounter
 
 ### Bugbears
 
@@ -238,13 +245,9 @@ Drow priestesses are fond of placing *glyphs of warding* in the tunnels surround
 Mind flayers like to send [[intellect-devourer-xmm|intellect devourers]] into the Dark Dominion in search of hosts, using them as spies to keep an eye on the drow city. These intellect devourers creep up behind the party and use their Devour Intellect attack against party members in the rear of the marching order.
 
 > [!note] Menzoberranzan: General Features
-> 
 > The following features can be found throughout the City of Spiders.
-> 
 > **Light.** Most streets and buildings are lit by eldritch green, blue, and violet lights as bright as torches (created with [[continual-flame-xphb|continual flame]] spells). Other areas are dark.
-> 
 > **Shielded City.** The drow have locked down their city in the wake of Demogorgon's rampage. For the duration of this adventure, creatures can't teleport into or out of Menzoberranzan. In addition, creatures, objects, and spaces within the city can't be targeted by divination spells or perceived through scrying sensors created by divination spells.
-> 
 > **The Stone Curse.** The "stone curse" is an ancient enchantment woven by the wizards of Sorcere to protect the city from cave-ins. Any character casting [[earthquake-xphb|earthquake]], [[move-earth-xphb|move earth]], or similar magic within the city triggers a [[reverse-gravity-xphb|reverse gravity]] spell (save DC 18) centered on the caster, which takes effect before the triggering spell is completed. The [[reverse-gravity-xphb|reverse gravity]] lasts for 1 minute, and is accompanied by a peal of thunder that alerts everyone nearby. The caster of the triggering spell must make a successful DC 18 Constitution saving throw to maintain concentration. On a failed check, the triggering spell fails.
 ^menzoberranzan-general-features
 
@@ -268,10 +271,6 @@ The Braeryn is a great place to find allies or meet an untimely end. Roll for ra
 
 #### Encounters in the Braeryn
 
-`dice: [](15-chapter-15-the-city-of-spiders.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1–2 | `1d4 + 2` [[bugbear-warrior-xmm|bugbears]] |
 | 3–8 | Drow adolescents |
 | 9–10 | Drow pickpocket |
@@ -280,7 +279,6 @@ The Braeryn is a great place to find allies or meet an untimely end. Roll for ra
 | 15–16 | Mad drow |
 | 17–18 | 1 shield dwarf [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|berserker]] |
 | 19–20 | Svirfneblin lure |
-^encounter
 
 #### Bugbears
 
@@ -324,16 +322,11 @@ Donigarten was spared from Demogorgon's rampage. Although it is sparsely populat
 
 #### Donigarten Encounters
 
-`dice: [](15-chapter-15-the-city-of-spiders.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1–5 | Drow patrol |
 | 6–8 | `2d4 + 2` [[drow-spore-servant-oota|drow spore servants]] (see appendix C) |
 | 9–10 | Escaped slaves |
 | 11–14 | `1d6 + 2` [[giant-wolf-spider-xmm|giant wolf spiders]] |
 | 15–20 | Slave farmers |
-^encounter
 
 #### Drow Patrol
 
@@ -358,9 +351,7 @@ The drow use orc slaves to farm their fungi fields. The orcs pour water into car
 The characters encounter `3d6` orc [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]]. The orcs are chaotic evil and have [[senses#Darkvision|darkvision]] out to a range of 60 feet, but they don't attack drow or anyone accompanied by a drow. There's a 25 percent chance that `d4` drow [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]] are standing within 120 feet of the orcs, quietly resenting the fact that they've been assigned to "watch orcs till our waste." If the orcs come under attack, the drow rush in to protect them.
 
 > [!note] The Way of Lolth
-> 
 > Menzoberranzan's principle law is the Way of Lolth. Its tenets are as follows:
-> 
 > - There is no god or goddess other than Lolth. Any who follows the dictates of another entity will be slain, preferably as a sacrifice to Lolth.  
 > - Ritual worship of any entity other than Lolth is forbidden within the city's vault. Non-drow who violate this tenet are fined and expelled from the city. Second offenders or any drow who do so are slain.  
 > - Slaves have no rights, and there are no limits to the punishments or duties that can be set for them. Treatment of slaves is the affair of their owners. It is a capital offense for a slave to refuse any order from a drow of the house that owns the slave.  
@@ -378,16 +369,11 @@ If you want a random encounter to occur as the characters make their way through
 
 #### Duthcloim Encounters
 
-`dice: [](15-chapter-15-the-city-of-spiders.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1–4 | Bregan D'aerthe spy |
 | 5–8 | Drow foot patrol |
 | 9–12 | Drow priestess of Lolth |
 | 13–16 | Spider nest |
 | 17–20 | Statue of Lolth |
-^encounter
 
 #### Bregan D'aerthe Spy
 
@@ -424,19 +410,12 @@ The characters stumble upon a 9-foot-tall statue of Lolth depicted in her drow f
 If an intact statue is touched by a non-drow or otherwise defiled, the statue opens its mouth and disgorges a [[swarm-of-insects-xmm|swarm of insects]] (spiders). These spiders crawl down the statue and attack whoever touched or defiled the statue. Once the statue disgorges a swarm, its mouth closes, and it can't release another swarm until 1 hour has passed.
 
 > [!note] Common Drow Phrases
-> 
 > The following are a few key drow phrases you can use when roleplaying dark elves.
-> 
 > *Oloth plynn dos*! ("Darkness take you!"), a common drow curse.
-> 
 > *Ssussan*! ("Light!"), another drow curse.
-> 
 > *Xun izil dos phuul quarthen, lueth dro.* ("Do as you are ordered, and live.")
-> 
 > *Lolth tlu malla*. ("Lolth be praised.")
-> 
 > *Lil alurl velve zhah lil velkyn uss.* ("The best knife is an unseen one.")
-> 
 > *Khaless nau uss*. ("Trust no one.")
 ^common-drow-phrases
 
@@ -448,15 +427,10 @@ If you want a random encounter to occur as the characters make their way through
 
 #### Eastmyr Encounters
 
-`dice: [](15-chapter-15-the-city-of-spiders.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1–5 | Bregan D'aerthe spy |
 | 6–10 | Cult of "[[/03_Mechanics/CLI/bestiary/npc/y-oota|Y]]" |
 | 11–15 | Drow foot patrol |
 | 16–20 | Scroll from Narbondel's Shadow |
-^encounter
 
 #### Bregan D'aerthe Spy
 
@@ -474,8 +448,6 @@ The [[/03_Mechanics/CLI/bestiary/humanoid/drow-noble-oota|drow noble]] offers no
 
 #### Drow Foot Patrol
 
-See "Duthcloim" for more information.
-
 #### Scroll from Narbondel's Shadow
 
 A cloaked half-drow [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|spy]] named Shinzi approaches the characters when they are alone and gives them a scroll bearing an advertisement for Narbondel's Shadow, the "finest rooming house in Menzoberranzan." If the party includes non-drow, Shinzi says that non-drow are "more than welcome at the Shadow." The advertisement doesn't list any prices, but on the back of the scroll is a map marking the location of the rooming house in northeastern Eastmyr, near the Clawrift.
@@ -492,11 +464,6 @@ Kyorbblivvin is a spider-haunted forest of giant mushrooms that spreads across t
 
 #### Kyorbblivvin Encounters
 
-`dice: [](15-chapter-15-the-city-of-spiders.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
-| 1–10 | No encounter |
 | 11 | 1 [[black-pudding-xmm|black pudding]] |
 | 12 | `3d6` [[drow-spore-servant-oota|drow spore servants]] (see appendix C) |
 | 13 | Elite drow foot patrol |
@@ -507,7 +474,6 @@ Kyorbblivvin is a spider-haunted forest of giant mushrooms that spreads across t
 | 18 | 1 [[shrieker-fungus-xmm|shrieker]] |
 | 19 | `3d6` [[stirge-xmm|stirges]] |
 | 20 | `1d4 + 1` [[violet-fungus-xmm|violet fungi]] |
-^encounter
 
 #### Black Pudding
 
@@ -556,7 +522,6 @@ The characters happen upon a group of `1d4 + 2` [[/03_Mechanics/CLI/bestiary/hum
 `dice: [](15-chapter-15-the-city-of-spiders.md#^house)`
 
 | dice: d8 | House |
-|----------|-------|
 | 1 | Baenre |
 | 2 | Barrison Del'Armgo |
 | 3 | Faen Tlabbar |
@@ -581,7 +546,7 @@ These [[violet-fungus-xmm|fungi]] extrude their branches and attack when the cha
 
 ### Narbondel
 
-The most dominant feature within the city, Narbondel is a 1,000-foot-tall column of rock that helps support the cavern ceiling. At the same time each day, the city's Archmage (or a representative from Sorcere) magically heats Narbondel's base, causing the stone to glow. The band of warm light rises slowly up the column to mark the passage of time, taking twenty-four hours to reach the top. The Archmage of Menzoberranzan, Gromph Baenre, has fled the city in the wake of Demogorgon's attack, leaving the task of lighting Narbondel to a host of other wizards.
+The most domit feature within the city, Narbondel is a 1,000-foot-tall column of rock that helps support the cavern ceiling. At the same time each day, the city's Archmage (or a representative from Sorcere) magically heats Narbondel's base, causing the stone to glow. The band of warm light rises slowly up the column to mark the passage of time, taking twenty-four hours to reach the top. The Archmage of Menzoberranzan, Gromph Baenre, has fled the city in the wake of Demogorgon's attack, leaving the task of lighting Narbondel to a host of other wizards.
 
 #### Drow Ruling Houses of Menzoberranzan
 
@@ -607,16 +572,10 @@ If you want a random encounter to occur as the characters make their way through
 
 #### Narbondellyn Encounters
 
-`dice: [](15-chapter-15-the-city-of-spiders.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1–3 | [[beholder-xmm|Beholder]] |
 | 4–7 | Bregan D'aerthe mercenaries |
 | 8–12 | Elite drow patrol |
 | 13–16 | Noble entourage |
-| 17–20 | Statue of Lolth |
-^encounter
 
 #### Beholder
 
@@ -644,14 +603,11 @@ The characters encounter a drow [[/03_Mechanics/CLI/bestiary/humanoid/noble-xmm|
 
 #### Drow House Slaves
 
-`dice: [](15-chapter-15-the-city-of-spiders.md#^slaves)`
-
 | dice: d6 | Slaves |
 |----------|--------|
 | 1–2 | 6 shield dwarf [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]] |
 | 3–4 | 6 moon elf [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]] |
 | 5–6 | 6 human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]] |
-^slaves
 
 ##### Treasure
 
@@ -662,8 +618,6 @@ Each noble carries a pouch that contains `2d10` pp and wears `d3` pieces of fine
 If the characters do anything to antagonize the nobles, they order their guards to attack. If the guards are defeated, the nobles offer the party a bribe in exchange for their lives.
 
 #### Statue of Lolth
-
-See "Duthcloim" for more information.
 
 ### Qu'ellarz'orl
 
@@ -677,23 +631,17 @@ Roll for random encounters as the characters cross this district. You can roll a
 
 #### Qu'ellarz'orl Encounters
 
-`dice: [](15-chapter-15-the-city-of-spiders.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1–5 | Elite drow patrol |
 | 6–8 | `2d4` [[gargoyle-xmm|gargoyles]] |
 | 9–10 | `1d6 + 2` [[giant-wolf-spider-xmm|giant wolf spiders]] |
 | 11–14 | Groundskeepers |
 | 15–20 | Slave parade |
-^encounter
 
 #### Elite Drow Patrol
 
 This patrol consists of two [[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm|drow elite warriors]] mounted on [[giant-riding-lizard-oota|giant riding lizards]] (see the end of chapter 8 for statistics). If one or more party members appear to be anything other than drow of one of the eight ruling houses, or slaves in the company of such a drow, the patrol calls for reinforcements, which arrive in `1d4 + 2` rounds and consist of `d4` similar drow patrols.
 
 > [!note] Old Enemies
-> 
 > It is possible that the adventurers' drow jailers or pursuers from Velkynvelve (chapter 1) managed to survive to this point in the campaign, and that they have returned to Menzoberranzan in the wake of Demogorgon's attack and the ongoing chaos. If so, they might be on hand for an unfortunate encounter with the party. If you are looking to throw a twist into the events in the City of Spiders, having an old foe turn up at the least opportune moment to denounce the characters as escaped prisoners and enemies of the drow could well be it.
 ^old-enemies
 
@@ -751,14 +699,9 @@ Roll for random encounters as the characters explore the Academy grounds. You ca
 
 #### Tier Breche Encounters
 
-`dice: [](15-chapter-15-the-city-of-spiders.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1–6 | Drow acolytes |
 | 7–12 | Drow mages |
 | 13–20 | Drow warriors |
-^encounter
 
 #### Drow Acolytes
 
@@ -782,16 +725,11 @@ Roll for random encounters as the characters cross this district. You can roll a
 
 #### West Wall Encounters
 
-`dice: [](15-chapter-15-the-city-of-spiders.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1–3 | Bandersnatches |
 | 4–7 | Bregan D'aerthe spy |
 | 8–14 | Drow foot patrol |
 | 15–17 | Slave abuse |
 | 18–20 | Statue of Lolth |
-^encounter
 
 #### Bandersnatches
 
@@ -810,19 +748,13 @@ The leader of the Bandersnatches is a capricious and nihilistic female drow name
 
 #### Bregan D'aerthe Spy
 
-See "Duthcloim" for more information.
-
 #### Drow Foot Patrol
-
-This patrol consists of `2d4` [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]]. If one or more party members appear to be anything other than drow or slaves in the company of its drow master, the patrol confronts the party and starts asking questions. If any of the answers arouse suspicion or come across as insolent, the drow attack.
 
 #### Slave Abuse
 
 The characters see a drow [[/03_Mechanics/CLI/bestiary/humanoid/noble-xmm|noble]] flogging one of a handful of slaves ([[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]] of any race) while `d4` [[bugbear-warrior-xmm|bugbear]] bodyguards keep an eye out for trouble. Unless the characters intervene, the merciless noble has the slave dragged to the Westrift and unceremoniously tossed into it. The poor slave falls `3d6 × 10` feet before being caught in a web and cocooned by a [[giant-spider-xmm|giant spider]] (to be devoured later). If the characters come to the slave's defense, the bugbears attack them.
 
 #### Statue of Lolth
-
-See "Duthcloim" for more information.
 
 ## Unexpected Allies
 
@@ -861,7 +793,6 @@ Quenthel doesn't care that the adventurers are fighting to send the demon lords 
 Whether the characters are brought in by force or arrive willingly, read the following when they meet [[/03_Mechanics/CLI/bestiary/npc/quenthel-baenre-oota|Quenthel Baenre]].
 
 > [!readaloud] 
-> 
 > A vast web of heavy metallic strands forms a kind of fence around a sprawling compound of structures laid out on the plateau at the top of Menzoberranzan's great cavern. Dozens of massive stalagmites and stalactites have been carved and shaped into towers, girded with balconies and walkways, and connected with delicate-looking ramps and bridges. All the compound is lit with blazing light in pale shades of violet, green, and blue. Dozens of drow warriors are stationed on the overlooks and walkways, ever vigilant as they watch your approach.
 ^558
 
@@ -890,9 +821,7 @@ In addition to witnessing first hand the destruction wrought in Menzoberranzan, 
 
 If the characters agree to meet with Jarlaxle in House Do'Urden, read the following when they first arrive.
 
-> [!readaloud] 
-> 
-> A drow house stands alone and forlorn with its back against the west wall of Menzoberranzan's great vault. Its towers are dark, its walls crumbling and in desperate need of repair. The old fortress has the countenance of a haunted ruin, but here and there you glimpse signs of life: drow in black leather armor standing guard in the shadows and magical flames dancing in the stone braziers that flank the entrance. As you are led inside, a pillared hall strewn with broken statuary looms all around you. Leaning against a cracked pillar is a drow with an eyepatch and a wide-brimmed hat. A saber hangs from his hip, and he cuts a dashing figure. "Well met!" he says with a smile.
+> A drow house stands alone and forlorn with its back against the west wall of Menzoberranzan's great vault. Its towers are dark, its walls crumbling and in desperate need of repair. The old fortress has the countece of a haunted ruin, but here and there you glimpse signs of life: drow in black leather armor standing guard in the shadows and magical flames dancing in the stone braziers that flank the entrance. As you are led inside, a pillared hall strewn with broken statuary looms all around you. Leaning against a cracked pillar is a drow with an eyepatch and a wide-brimmed hat. A saber hangs from his hip, and he cuts a dashing figure. "Well met!" he says with a smile.
 ^55b
 
 When Matron Mother [[/03_Mechanics/CLI/bestiary/npc/quenthel-baenre-oota|Quenthel Baenre]] resurrected House Do'Urden, she ordered her brother Jarlaxle to look after the long-abandoned Do'Urden estate. He now uses the ruined drow house as a Bregan D'aerthe base. Most of the house is off-limits to visitors, and Jarlaxle won't allow the characters to stay long.
@@ -939,10 +868,6 @@ If the tower goes on alert (as indicated in some of the encounter descriptions),
 
 #### Sorcere Encounters
 
-`dice: [](15-chapter-15-the-city-of-spiders.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1–6 | `d4` [[/03_Mechanics/CLI/bestiary/humanoid/bandit-deceiver-xmm|drow mages]] |
 | 7–8 | 1 [[giant-spider-xmm|giant spider]] |
 | 9–10 | 1 [[conditions#Invisible|invisible]] [[quasit-xmm|quasit]] |
@@ -950,7 +875,6 @@ If the tower goes on alert (as indicated in some of the encounter descriptions),
 | 13–14 | 1 [[shadow-demon-xmm|shadow demon]] |
 | 15–18 | `d4` slaves |
 | 19–20 | 1 [[succubus-xmm|succubus]] or [[incubus-xmm|incubus]] |
-^encounter
 
 #### Drow Mages
 
@@ -986,8 +910,6 @@ A sometime lover and ally of one of the tower's wizards, this fiend adopts the f
 
 The black marble door to Gromph Baenre's chambers is etched with silvery runes around its edge and closed with an [[arcane-lock-xphb|arcane lock]] keyed to him. Picking the lock requires a successful DC 23 Dexterity check using thieves' tools, while forcing the door open requires a successful DC 25 Strength check. A [[knock-xphb|knock]] spell also opens the door, and Grin Ousstyl can have the spell prepared if none of the adventurers knows it.
 
-> [!readaloud] 
-> 
 > The chamber beyond the door is floored in black marble, lined with shelves laden with books and scrolls, and dominated by a broad desk of polished bone. A plush chair covered with lizard hide sits behind the desk, while a smaller and simpler zurkhwood chair sits facing it on the opposite side. A seven-foot-tall obsidian statue of a four-armed, sword-wielding drow warrior stands behind the desk against one wall. Burning red candles are set about the room in holders made from skeletal hands.
 ^56a
 
@@ -995,10 +917,7 @@ The black marble door to Gromph Baenre's chambers is etched with silvery runes a
 
 If anyone tampers with the desk or the shelves' contents, or attempts to remove anything from the room, the [[four-armed-statue-oota|four-armed statue]] animates and attacks. It has the statistics of a [[stone-golem-xmm|stone golem]], but replace its Multiattack and Slam action options with the following:
 
-> [!note] 
-> 
 > **Multiattack.** The golem makes four sword attacks.
-> 
 > **Sword.** *Melee Weapon Attack*: +10 to hit, reach 5 ft., one target. *Hit*: 10 (`1d8 + 6`) slashing damage.
 ^56b
 
@@ -1020,8 +939,6 @@ The drawers of the desk are sealed with [[arcane-lock-xphb|arcane lock]] spells.
 
 Read the following text to players whose characters escape Gromph's demiplane (see "Gromph's Outer Sanctum") and appear in the archmage's inner sanctum.
 
-> [!readaloud] 
-> 
 > This circular chamber is lit by magic candles and floored in black stone, engraved and inlaid with magical diagrams in silver and gold. A female drow stands in the center of one magic circle, hands resting on her hips. Behind her, shelves and cabinets hold ceramic pots, glass vials, and other arcane paraphernalia, while a tome bound in black leather lies open on a lectern, its pages covered in spidery glyphs. The only exit appears to be an archway filled with a black void.
 ^571
 
@@ -1057,19 +974,25 @@ By the end of this chapter, characters should have Gromph's grimoire and certain
 
 Legends speak of 15 chapter 15 the city of spiders as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 15 chapter 15 the city of spiders.
 
-## Adventure Hooks
-
-- A rumor ties 15 chapter 15 the city of spiders to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 15 chapter 15 the city of spiders to avert a public scandal.
-- A map overlay reveals a hidden approach to 15 chapter 15 the city of spiders active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

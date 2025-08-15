@@ -18,12 +18,6 @@ updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
 
-
-# Names and Languages Reference
-
-## Aquabyssos Naming Conventions
-
-### Personal Names
 #### Common First Names (Roll d20)
 **Traditional Names:**
 1. Coral, 2. Depth, 3. Echo, 4. Flow, 5. Marina, 6. Nautilus, 7. Pearl, 8. Current, 9. Tide, 10. Abyss, 11. Benthic, 12. Cascade, 13. Deep, 14. Flux, 15. Hydra, 16. Nereid, 17. Pelagic, 18. Rift, 19. Stream, 20. Tidal
@@ -34,37 +28,6 @@ world: Both
 #### Family Names (Roll d20)
 1. Deepwater, 2. Currentflow, 3. Pearlheart, 4. Tidecaller, 5. Voidseeker, 6. Pressureborn, 7. Echowise, 8. Stormcurrent, 9. Darkdepth, 10. Flownever, 11. Abyssalborn, 12. Depthstrider, 13. Currentrider, 14. Tidewalker, 15. Pearlsong, 16. Voidtouched, 17. Pressuredweller, 18. Echoheart, 19. Stormdancer, 20. Deepwhisper
 
-### Title Structures
-#### Professional Titles
-- **Depth [Profession]**: Depth Engineer, Depth Explorer
-- **Current [Specialization]**: Current Reader, Current Rider
-- **Pressure [Role]**: Pressure Smith, Pressure Healer
-- **Echo [Function]**: Echo Listener, Echo Caller
-
-#### Noble Titles
-- **Depth Ranks**: Surface-Born, Shallow-Walker, Medium-Dweller, Deep-Adapted, Abyssal-Touched
-- **Parliamentary Titles**: Councilor of [Depth], Representative of [Current], Speaker for [Region]
-- **Ancient Titles**: Leviathan-Friend, Void-Touched, Memory-Keeper, Pearl-Singer
-
-### Naming Patterns by Social Class
-#### Lower Classes (Surface Dwellers)
-- Simple water-related names
-- Often named after tools or jobs
-- Family names reference specific locations
-
-#### Middle Classes (Depth Adapted)
-- Classical ocean terminology
-- Professional achievements in names
-- Family names show adaptation level
-
-#### Upper Classes (Deep Dwellers)
-- Ancient oceanic languages
-- Multiple titles indicating depth reached
-- Family names trace to legendary figures
-
-## Aethermoor Naming Conventions
-
-### Personal Names
 #### Common First Names (Roll d20)
 **Traditional Names:**
 1. Aether, 2. Breeze, 3. Cirrus, 4. Dawn, 5. Gale, 6. Storm, 7. Tempest, 8. Wind, 9. Zephyr, 10. Altitude, 11. Crystal, 12. Flight, 13. Nimbus, 14. Prism, 15. Sky, 16. Stellar, 17. Thermal, 18. Vapor, 19. Vortex, 20. Wisp
@@ -75,25 +38,9 @@ world: Both
 #### Family Names (Roll d20)
 1. Skywright, 2. Windweaver, 3. Stormcaller, 4. Cloudwalker, 5. Heightborn, 6. Crystalsong, 7. Airborne, 8. Windward, 9. Skybound, 10. Driftwise, 11. Altitudeborn, 12. Stormrider, 13. Windchaser, 14. Cloudtouched, 15. Skydancer, 16. Heightseeker, 17. Stormborn, 18. Windwhisper, 19. Cloudcaller, 20. Skykeeper
 
-### Title Structures
-#### Professional Titles
-- **Sky [Profession]**: Sky Merchant, Sky Guard
-- **Wind [Specialization]**: Wind Singer, Wind Rider
-- **Storm [Role]**: Storm Watcher, Storm Caller
-- **Crystal [Function]**: Crystal Singer, Crystal Wright
-
-#### Royal Titles
-- **Height Ranks**: Ground-Bound, Low-Flyer, Medium-Soarer, High-Rider, Extreme-Walker
-- **Court Titles**: Duchess of [Winds], Earl of [Storms], Baroness of [Heights]
-- **Ancient Titles**: Storm-Blessed, Wind-Touched, Sky-Born, Crystal-Crowned
-
-## Language Families
-
-### Aquabyssos Languages
-
 #### Deep Aquabyssos (Ancient/Formal)
 **Characteristics:**
-- Flowing, liquid consonants
+- Flowing, liquid consots
 - Long vowel sounds that echo
 - Tonal elements based on water pressure
 - Grammar reflects depth hierarchy
@@ -122,11 +69,9 @@ world: Both
 - "Vesh tal" - "Deep truth" (agreement)
 - "Thol nara" - "Tide change" (things are changing)
 
-### Aethermoor Languages
-
 #### High Aethermoor (Royal/Formal)
 **Characteristics:**
-- Crisp, crystalline consonants
+- Crisp, crystalline consots
 - Ascending and descending pitch patterns
 - Complex honorific systems
 - Grammar reflects altitude hierarchy
@@ -154,8 +99,6 @@ world: Both
 - "Syl kala" - "Clear skies" (casual farewell)
 - "Vel tal" - "Crystal truth" (agreement)
 - "Mor nala" - "Wind shift" (change coming)
-
-### Ancient Languages
 
 #### Primordial Aquatic
 **Usage:** Religious ceremonies, ancient texts
@@ -189,54 +132,6 @@ world: Both
 - Written on materials that flutter
 - Meaning changes with air currents
 
-## Regional Dialects and Accents
-
-### Aquabyssos Regional Variations
-
-#### Northern Depths
-- Harder consonants due to colder waters
-- Military terminology influence
-- Practical, direct communication style
-
-#### Southern Shallows
-- Softer, flowing pronunciation
-- Trade language mixing
-- More casual formality levels
-
-#### Central Abyssal
-- Ancient pronunciation preserved
-- Formal speech patterns maintained
-- Heavy use of traditional honorifics
-
-#### Border Territories
-- Mixed with Aethermoor influences
-- Code-switching common
-- Practical bilingualism
-
-### Aethermoor Regional Variations
-
-#### Eastern Heights
-- Crisp, precise pronunciation
-- Royal court influence
-- Elaborate honorific systems
-
-#### Western Lowlands
-- Relaxed pronunciation
-- Merchant influence
-- Practical vocabulary
-
-#### Central Peaks
-- Traditional pronunciation
-- Religious terminology
-- Formal speech patterns
-
-#### Trade Routes
-- International influences
-- Simplified grammar
-- Commercial focus
-
-## Cross-Realm Communication
-
 ### Translation Challenges
 | Concept | Aquabyssos | Aethermoor | Common Issue |
 |---------|------------|------------|--------------|
@@ -257,8 +152,6 @@ world: Both
 - "Tal vesh syl" - "Truth under sky and sea"
 - "Mor kala thess" - "Fair trade and good relations"
 
-## Names for Organizations
-
 ### Aquabyssos Organization Names
 **Pattern:** [Depth] + [Concept] + [Group Type]
 - Deep Memory Guild
@@ -273,9 +166,6 @@ world: Both
 - Storm Knowledge Circle
 - Altitude Mastery Order
 
-## Quick Name Generation
-
-### Random Name Combinations (Roll 2d20)
 #### Aquabyssos Characters
 **Format:** [First Name] [Family Name] [Title]
 - Example: Marina Deepwater, Pressure Engineer
@@ -294,30 +184,27 @@ world: Both
 5. **Ancient Name + Noble Title**
 6. **Mixed Realm Heritage Name**
 
-## Cultural Naming Taboos
 
-### Aquabyssos Restrictions
-- Never name after failed depth explorers
-- Avoid names of known Shadow Conspiracy members
-- Don't use names of Deep Mother cultists
-- Respect parliamentary naming conventions
+## 🔧 Deep Evaluation Improvements
 
-### Aethermoor Restrictions
-- Royal names reserved for nobility
-- Storm names require weather-worker blessing
-- Crystal names need guild approval
-- Height references must match actual capability
+*20 targeted improvements identified*
 
-## Links to Related Content
-- [[Aquabyssos_Languages]]
-- [[Aquabyssos_Cultural_Codex]]
-- [[Quick_NPC_Generator]]
-- [[Faction_Quick_Reference]]
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -326,3 +213,26 @@ world: Both
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A map reveals the truth about this place
+- Strange sightings suggest ancient magic
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

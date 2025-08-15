@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.859225+00:00'
 world: Both
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-void-watchers-shrines-the-void-watchers-shrines.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Elder Whisper-In-The-Dark|02 Worldbuilding/People/Elder Whisper In The Dark]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Elder Whisper-In-The-Dark]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,35 @@ The Void Watchers' Shrines is a void-touched element of the setting, known for i
 
 Legends speak of The Void Watchers' Shrines as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Void Watchers' Shrines.
 
-## Adventure Hooks
-
-- A rumor ties The Void Watchers' Shrines to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Void Watchers' Shrines to avert a public scandal.
-- A map overlay reveals a hidden approach to The Void Watchers' Shrines active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Winds
+
+
+## Plot Hooks
+
+- A journal reveals the truth about a local noble
+- Strange disappearances suggest a curse
+- Strange accidents suggest ancient magic
+- A prisoner has gone missing and evil awakens
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -1,4 +1,5 @@
 ---
+
 title: Marine Protection Guild
 type: Faction
 tags:
@@ -17,28 +18,73 @@ headquarters: Unknown
 membership: Unknown
 updated: '2025-08-13T12:34:17.470059+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
-## Overview
 
-TODO
-## Structure
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Goals
+*20 targeted improvements identified*
 
-TODO
-## Assets
+### History Improvements
 
-TODO
-## Conflicts
+- Add three historical eras with major events
 
-TODO
-## Hooks
+### Culture Improvements
 
-TODO
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
 
 ## Player-Facing Summary
 
@@ -48,105 +94,42 @@ Marine Protection Guild 2 is a undersea element of the setting, known for biolum
 
 Legends speak of Marine Protection Guild 2 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Marine Protection Guild 2.
 
-## Adventure Hooks
-
-- A rumor ties Marine Protection Guild 2 to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Marine Protection Guild 2 to avert a public scandal.
-- A map overlay reveals a hidden approach to Marine Protection Guild 2 active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
-## Known Members
-
-- [[Quest - The Shadow-Water Accords]]
-- [[02-chapter-1-playing-the-game#Stabilizing a Character]]
-
-
-## Members
-
-### Notable Members
-- [[Leader Name]] - Current head
-- [[Key Officer]] - Important figure
-- [[Rising Star]] - Ambitious member
-
-### Membership Requirements
-- Skills or qualities needed
-- Initiation process
-- Ongoing obligations
-
-
-## Resources
-
-### Financial
-- Funding sources
-- Wealth level
-- Economic influence
-
-### Physical Assets
-- Properties owned
-- Equipment available
-- Special resources
-
-### Human Resources
-- Member skills
-- Allies and contacts
-- Information networks
-
-
-## Operations
-
-### Regular Activities
-- Day-to-day operations
-- Revenue generation
-- Member services
-
-### Special Operations
-- Covert activities
-- Major projects
-- Crisis responses
-
-
-## Relationships
-
-### Allies
-- Aligned organizations
-- Political supporters
-- Business partners
-
-### Enemies
-- Rival organizations
-- Opposed factions
-- Active threats
-
-### Neutral Parties
-- Potential allies or enemies
-- Trade partners
-- Watching parties
-
-
-## Secrets
-
 ### Open Secrets
 Things widely suspected
 
-### Hidden Truths
-- Real leadership
-- True funding sources
-- Secret objectives
 
-### Deep Mysteries
-- Ancient connections
-- Forbidden knowledge
-- Ultimate goals
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
 
-## Connections
+## Prophecy Connection
 
-- See also: [[Campaign Guide]]
-- Related: [[Historical Context]]
-- Connected to: [[World Events]]
+Mentioned in The Hidden Prophecy of Stars
+
+
+## Plot Hooks
+
+- A noble needs help stealing before winter
+- A letter reveals a betrayal about this place
+
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established

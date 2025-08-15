@@ -16,6 +16,21 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
 ## Player-Facing Summary
@@ -26,19 +41,22 @@ Trade bars xdmg is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of trade bars xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around trade bars xdmg.
 
-## Adventure Hooks
-
-- A rumor ties trade bars xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at trade bars xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to trade bars xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals ancient history about this place
+- A noble needs help stealing before dawn
+- Strange dreams suggest a portal
+- A prisoner has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

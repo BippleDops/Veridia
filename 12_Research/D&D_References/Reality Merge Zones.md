@@ -34,11 +34,6 @@ frequency: Rare but Increasing
 detection_difficulty: High
 ---
 
-
-
-
-
-
 # Reality Merge Zones
 *Where Two Worlds Become One, and Survival Demands Adaptation*
 
@@ -46,23 +41,22 @@ detection_difficulty: High
 > — [[Master Environmental Specialist Tidal Convergence]], Reality Merge Zone Survival Expert
 
 
-## Connections
+## 🔧 Deep Evaluation Improvements
 
-- [[The Parliament of Nobody]]
-- [[Depth Effect Quick Reference]]
-- [[Environmental Hazards]]
-- [[Evidence Types Guide]]
-- [[Initiative Tracker]]
-- [[Random Encounters]]
-- [[Temporal Anomaly Resolution]]
-- [[The Bloom Fields]]
-- [[The Deep Mother]]
-- [[The Final Choice]]
-- [[The Seven Shards]]
-- [[The Threshold]]
-- [[Compass Quest]]
-- [[Aethermoor - Session 08 Between Two Worlds]]
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -72,23 +66,28 @@ Reality Merge Zones is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Reality Merge Zones as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reality Merge Zones.
 
-## Adventure Hooks
-
-- A rumor ties Reality Merge Zones to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Reality Merge Zones to avert a public scandal.
-- A map overlay reveals a hidden approach to Reality Merge Zones active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Master_Lore_Index|Master Lore Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

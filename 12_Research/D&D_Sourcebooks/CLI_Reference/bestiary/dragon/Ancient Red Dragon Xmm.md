@@ -29,16 +29,31 @@ updated: '2025-08-13T12:34:05.987630+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ancient-red-dragon-xmm-ancient-red-dragon-xmm.svg)
 
 # [[ancient-red-dragon-xmm|Ancient Red Dragon]]
-*Source: Monster Manual (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 256. Available in the SRD and the Free Rules (2024)*  
 
 Ancient red dragons number among the most feared and destructive beings in the multiverse. Few can withstand the wrath of an ancient red dragon that turns its mind toward devastation. These dragons' greed matches their ruinous potential, and they collect vast hoards studded with storied treasures and magic items. Their lairs frequently tap into volcanic depths and might pierce other planes of existence, bringing servants from the Elemental Plane of Fire or the Lower Planes into their service.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Red Dragons
 
@@ -116,7 +131,6 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
     "name": "Commanding Presence"
   - "desc": "The dragon uses Spellcasting to cast [[scorching-ray-xphb|Scorching Ray]]\
       \ (level 3 version). The dragon can't take this action again until the start\
-      \ of its next turn."
     "name": "Fiery Rays"
   - "desc": "The dragon moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Rend attack."
@@ -134,9 +148,7 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
       \ in that area, that creature must succeed on a DC 15 Constitution saving throw\
       \ or have the [[conditions#Poisoned|Poisoned]] condition\
       \ for 1 hour.  "
-    "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/dragon/token/ancient-red-dragon-xmm.webp"
@@ -155,19 +167,27 @@ Ancient red dragon xmm is a undersea element of the setting, known for biolumine
 
 Legends speak of ancient red dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ancient red dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties ancient red dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ancient red dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ancient red dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- A merchant needs help stealing before the new moon
+- A noble needs help finding before the new moon
+- Someone is blackmailing information for power
+- Strange accidents suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

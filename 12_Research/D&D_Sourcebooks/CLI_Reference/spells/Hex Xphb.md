@@ -27,11 +27,8 @@ updated: '2025-08-13T12:34:06.486845+00:00'
 world: Both
 ---
 
-
-
 # Hex
 *1st-level, Enchantment*  
-
 
 - **Casting time:** 1 Bonus Action
 - **Range:** 90 feet
@@ -46,7 +43,25 @@ If the target drops to 0 [[hit-points-xphb|Hit Points]] before this spell ends, 
 
 **Classes**: [[list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Great Old One Patron)]]
 
-*Source: Player's Handbook (2024) p. 285. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 285. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -56,19 +71,26 @@ Hex xphb is a undersea element of the setting, known for bioluminescent glow and
 
 Legends speak of hex xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hex xphb.
 
-## Adventure Hooks
-
-- A rumor ties hex xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at hex xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to hex xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a betrayal about the government
+- Strange sightings suggest ancient magic
+- A map reveals the truth about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[The Deep Harvest|02 Worldbuilding/Lore/The Deep Harvest]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[The Deep Harvest]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,21 @@ Bio Mechanical Specialist Tide Lifeforge is a undersea element of the setting, k
 
 Legends speak of Bio Mechanical Specialist Tide Lifeforge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Bio Mechanical Specialist Tide Lifeforge.
 
-## Adventure Hooks
-
-- A rumor ties Bio Mechanical Specialist Tide Lifeforge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Bio Mechanical Specialist Tide Lifeforge to avert a public scandal.
-- A map overlay reveals a hidden approach to Bio Mechanical Specialist Tide Lifeforge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a curse
+- Someone is searching for a witness for money
+- Someone is searching for an heir for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

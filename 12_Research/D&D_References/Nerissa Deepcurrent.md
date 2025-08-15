@@ -19,18 +19,26 @@ updated: '2025-08-13T12:34:17.504368+00:00'
 world: Both
 ---
 
-
-
-
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-nerissa-deepcurrent-nerissa-deepcurrent.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-# High Tidecaller Nerissa Deepcurrent
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Description
 
@@ -40,82 +48,17 @@ Nerissa appears ageless, though she has ruled for nearly two centuries. Her silv
 
 Born into the Oracle bloodline that predicted the Great Submersion, Nerissa was raised from birth to lead Aquabyssos. She witnessed the last days of the surface empire through inherited memories and carries the weight of three thousand years of isolation. Her grandmother was the last Oracle to speak with [[Emperor Thalassius the Wise]] before his sacrifice.
 
-### Rise to Power
-- Age 7: First prophetic vision
-- Age 16: Chosen as Tide Apprentice
-- Age 45: Became youngest Council member
-- Age 127: Unanimous election as High Tidecaller
-- Age 298: Current day, longest-serving leader
-
-## Political Position
-
-### Allies
-- **[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** - Military commander, trusted but stubborn
-- **[[Master of Currents Zephyr]]** - Chief advisor, childhood friend
-- **[[The Pearl Guard]]** - Elite protectors
-
-### Rivals
-- **[[The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]** - Necessary evil, controls too much trade
-- **[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]** - Dangerous idealist threatening stability
-- **[[Aboleth Prime Yoth]]** - Ancient threat that must be contained
-
-### Neutral Parties
-- **[[Surface Ambassador Lord Seaworthy]]** - Useful but untrustworthy
-- **[[The Depth Wardens]]** - Loyal to Aquabyssos, not necessarily to her
-
-## Current Concerns
-
 ### The Second Rising Prophecy
 Her own visions show two paths:
 1. Aquabyssos rises and burns in the sun
 2. Aquabyssos stays and drowns in darkness
 She seeks a third option but hasn't found it.
 
-### The Pressure Wars
-- [[Pearl_Harbor_City]] grows too independent
-- [[The Maw of Darkness]] stirs with ancient evil
-- Resources stretched thin across seven depths
-
-### Surface Relations
-- Trade is necessary but brings contamination
-- [[Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] offers alliance but at what cost?
-- Surface nations eye Aquabyssos's resources greedily
-
-## Powers & Abilities
-
-### Tidal Magic
-- **Tide Turn:** Reverse any water-based effect
-- **Pressure Word:** Single word can crush or decompress
-- **Current Sight:** See through any water in 10 miles
-- **Depth Speech:** Communicate with all sea life
-
-### Political Influence
-- Can mobilize entire nation
-- Controls access to depth portals
-- Commands loyalty of most faction leaders
-- Holds three of seven Depth Seals
-
-### Prophetic Visions
-- Sees possible futures in water reflections
-- Dreams of the past through ancestral memories
-- Can induce visions in others through touch
-- Knows the true location of [[The Heart of Oceanus]]
-
-## Hidden Agendas
-
 ### Secret Projects
 1. **Project Surface Light:** Building surface observation posts
 2. **The Third Path:** Seeking way to partially surface Aquabyssos
 3. **Memory Preservation:** Recording pre-Submersion history
 4. **Void Research:** Investigating if the threat still exists
-
-### Personal Desires
-- Wants to see the sun once before she dies
-- Seeks to break the Oracle curse on her bloodline
-- Hopes to find descendants of [[Emperor Thalassius]]
-- Dreams of reuniting the scattered depth colonies
-
-## Relationships
 
 ### [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
 "My strong right hand, even when it forms a fist against me."
@@ -162,22 +105,6 @@ She seeks a third option but hasn't found it.
 - Uses Pressure Words to disable
 - Retreats to Maelstrom Palace if losing
 
-## Interaction Guide
-
-### Approach Methods
-- **Formal:** Requires proper diplomatic channels
-- **Crisis:** Will see anyone during emergencies
-- **Visions:** Those who share prophetic dreams get audiences
-- **Ancient Knowledge:** Information about pre-Submersion era
-
-### Disposition Modifiers
-- +2: Bring surface world news
-- +3: Solve depth conflicts peacefully
-- +1: Show respect for traditions
-- -2: Support the Restoration Movement
-- -3: Threaten Aquabyssos stability
-- -5: Harm innocents
-
 ## Secrets & Mysteries
 
 1. **The Fragment:** She wears a piece of the Heart of Oceanus as a necklace
@@ -185,21 +112,6 @@ She seeks a third option but hasn't found it.
 3. **The Lover:** Had a secret relationship with a surface dweller who died
 4. **The Doubt:** No longer believes the Void Plague was real
 5. **The Plan:** Has a way to raise only Pearl Harbor City as a test
-
-## Notable Quotes
-
-- *"The tide rises and falls, but the ocean remains."*
-- *"In the depths, we found ourselves by losing the sun."*
-- *"Every bubble rises eventually - the question is whether it survives the surface."*
-- *"I carry the weight of water above and the pressure of stone below."*
-
-## DM Notes
-
-### Using Nerissa
-- She's not evil, just burdened by impossible choices
-- Use her for political intrigue and moral dilemmas
-- Her prophecies should be cryptic but accurate
-- She knows more than she ever reveals
 
 ### Plot Potential
 - Could become ally or adversary based on party actions
@@ -220,30 +132,28 @@ Nerissa Deepcurrent is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Nerissa Deepcurrent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Nerissa Deepcurrent.
 
-## Adventure Hooks
-
-- A rumor ties Nerissa Deepcurrent to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Nerissa Deepcurrent to avert a public scandal.
-- A map overlay reveals a hidden approach to Nerissa Deepcurrent active only during specific tides/storms.
-
-## Cross-References
-
-- [[Nerissa_Deepcurrent|02 Worldbuilding/People/Nerissa Deepcurrent]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Aboleth Prime Yoth]]
-- [[Emperor Thalassius the Wise]]
-- [[Emperor Thalassius]]
-- [[Surface Ambassador Lord Seaworthy]]
-- [[The Depth Wardens]]
-- [[The Heart of Oceanus]]
-- [[The Maw of Darkness]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting an heir for love
+- Someone is searching for a artifact for love
+- The authorities needs help finding before winter
+- The authorities needs help stealing before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

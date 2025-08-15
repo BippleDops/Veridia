@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.702414+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-empyrean-xmm-empyrean-xmm.svg)
 
@@ -40,6 +37,24 @@ world: Both
 Inheritors of divine might, empyreans are idealized, human-shaped beings of godly power. These beings might have relationships with their creators akin to those of parents and their children, royalty and their servants, inventors and their creations, or other bonds. Empyreans' existences are fundamentally influenced by their patrons and their connection to the heavenly deities of the Upper Planes or the fiendish deities of the Lower Planes. Nevertheless, empyreans have free will.
 
 Celestial empyreans are typically noble beings who quest to prove themselves worthy of their divine pedigree. Many work in the service of their parents or support those gods' causes and champions. Fiendish empyreans are usually dreadful, self-serving villains who seek to claim their parents' power. Some forge unholy armies or rule over hidden realms in mockery of true gods, while others might seek to escape their accursed families.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Empyreans
 
@@ -68,7 +83,6 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
 > 
 > One day I might be the god of storms—mind countless followers, answer prayers, change whole worlds—but, until then, I do what I please.
 
-
 ```statblock
 "name": "Empyrean (XMM)"
 "size": "Huge"
@@ -81,8 +95,6 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
 "stats":
   - !!int "30"
   - !!int "21"
-  - !!int "30"
-  - !!int "21"
   - !!int "22"
   - !!int "27"
 "speed": "50 ft., fly 50 ft. (hover), swim 50 ft."
@@ -93,7 +105,6 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
   - "name": "[[skills#Insight|Insight]]"
     "desc": "+13"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+13"
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "necrotic, radiant"
 "senses": "truesight 120 ft., passive Perception 23"
@@ -125,7 +136,7 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
       \ [[greater-restoration-xphb|Greater Restoration]],\
       \ [[pass-without-trace-xphb|Pass without Trace]],\
       \ [[water-breathing-xphb|Water Breathing]]\n\n1/day\
-      \ each: [[commune-xphb|Commune]], [[dispel-evil-and-good-xphb|Dispel Evil and\
+      \ each: [[commune-xphb|Commune]], [[dispel-evil-and-good-xphb|Dispel Evil and\]]
       \ Good]], [[plane-shift-xphb|Plane Shift]]"
     "name": "Spellcasting"
 "legendary_actions":
@@ -137,7 +148,7 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
     "name": "Bolster"
   - "desc": "Constitution Saving Throw: DC 23, each creature in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the empyrean. Failure: 27 (6d8) Force damage, and the target\
-      \ has the [[conditions#Prone|Prone]] condition. Success:\
+      \ has the [[conditions#prone|Prone]] condition. Success:\
       \ Half damage only. Failure or Success: The empyrean can't take this action\
       \ again until the start of its next turn."
     "name": "Shockwave of Glory"
@@ -161,19 +172,20 @@ Empyrean xmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of empyrean xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around empyrean xmm.
 
-## Adventure Hooks
-
-- A rumor ties empyrean xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at empyrean xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to empyrean xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Winds
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

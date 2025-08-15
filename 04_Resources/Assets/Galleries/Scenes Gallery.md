@@ -290,11 +290,9 @@ modified: '2025-08-14'
 ## scene-scene-whisper-island-fog-dawn-whisper-island-fog-dawn
 ![[04_Resources/Assets/Scenes/scene-scene-whisper-island-fog-dawn-whisper-island-fog-dawn.svg]]
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:05.289830+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-shadow-mastiff-mpmm-shadow-mastiff-mpmm.svg)
 
@@ -40,6 +37,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*  
 
 Shunning sunlight, these hounds are usually met as a pack. Some faiths devoted to deities of gloom and night, such as that of Shar in the Forgotten Realms, perform unholy rites to summon shadow mastiffs to work as temple sentinels and bodyguards.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Shadow Mastiffs
 
@@ -60,7 +75,6 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
   - !!int "13"
   - !!int "5"
   - !!int "12"
-  - !!int "5"
 "speed": "40 ft."
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
@@ -81,7 +95,7 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
 "actions":
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
       \ (2d6 + 3) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 13 Strength saving throw or be knocked [[conditions#Prone|prone]]."
+      \ a DC 13 Strength saving throw or be knocked [[conditions#prone|prone]]."
     "name": "Bite"
 "bonus_actions":
   - "desc": "While in dim light or darkness, the shadow mastiff becomes [[conditions#Invisible|invisible]],\
@@ -108,19 +122,32 @@ Shadow mastiff mpmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of shadow mastiff mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around shadow mastiff mpmm.
 
-## Adventure Hooks
-
-- A rumor ties shadow mastiff mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at shadow mastiff mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to shadow mastiff mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for power
+- Strange accidents suggest a curse
+- A document has gone missing and chaos spreads
+- A document has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

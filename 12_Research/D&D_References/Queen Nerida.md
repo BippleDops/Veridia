@@ -15,36 +15,26 @@ world: Aquabyssos
 updated: '2025-08-13T01:18:36.943429+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-queen-nerida-queen-nerida.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Appearance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Personality
-
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -54,28 +44,17 @@ Queen Nerida is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of Queen Nerida as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Queen Nerida.
 
-## Adventure Hooks
-
-- A rumor ties Queen Nerida to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Queen Nerida to avert a public scandal.
-- A map overlay reveals a hidden approach to Queen Nerida active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Queen Nerida|02 Worldbuilding/People/Queen Nerida]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The Depth Accords]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and evil awakens
+- Strange disappearances suggest a curse
+- A journal reveals the truth about the cult

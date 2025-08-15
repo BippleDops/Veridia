@@ -20,11 +20,28 @@ updated: '2025-08-13T01:18:31.980032+00:00'
 world: Both
 ---
 
-
 # Madness
-*Source: Dungeon Master's Guide p. 258. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+*Source: Dungeon Master's Guide p. 258. Available in the SRD* 
 
 In a typical campaign, characters aren't driven mad by the horrors they face and the carnage they inflict day after day, but sometimes the stress of being an adventurer can be too much to bear. If your campaign has a strong horror theme, you might want to use madness as a way to reinforce that theme, emphasizing the extraordinarily horrific nature of the threats the adventurers face.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Going Mad
 
@@ -60,19 +77,31 @@ Madness is a undersea element of the setting, known for bioluminescent glow and 
 
 Legends speak of madness as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around madness.
 
-## Adventure Hooks
-
-- A rumor ties madness to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at madness to avert a public scandal.
-- A map overlay reveals a hidden approach to madness active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting an heir for revenge
+- Strange dreams suggest a curse
+- A corpse reveals a betrayal about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

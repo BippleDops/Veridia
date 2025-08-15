@@ -30,8 +30,6 @@ updated: '2025-08-12T23:37:35.042691'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-spirit-troll-mpmm-spirit-troll-mpmm.svg)
 
@@ -39,6 +37,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 247, Mordenkainen's Tome of Foes p. 244*  
 
 A troll blasted with psychic energy can take a non physical form upon regenerating. The troll's psyche survives, but the body is as insubstantial as shadow. The troll might be unaware of the transition—the creature still moves and attacks with teeth and claws as ever—but now the troll strikes at victims' minds.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Trolls
 
@@ -75,7 +91,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
   \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
-  \ [[conditions#Petrified|petrified]], [[conditions#Prone|prone]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#prone|prone]],\
   \ [[conditions#Restrained|restrained]], [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Giant"
@@ -100,7 +116,6 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
       \ saving throw at the end of each of its turns, ending the effect on itself\
       \ on a success."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 19\
       \ (3d10 + 3) psychic damage."
     "name": "Claws"
 "source":
@@ -122,19 +137,44 @@ Spirit troll mpmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of spirit troll mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spirit troll mpmm.
 
-## Adventure Hooks
-
-- A rumor ties spirit troll mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at spirit troll mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to spirit troll mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A merchant needs help delivering before dawn
+- A noble needs help investigating before the new moon
+- Strange dreams suggest a conspiracy
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

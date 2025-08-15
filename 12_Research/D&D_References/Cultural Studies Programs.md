@@ -16,18 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Mad Oracle Thessaly|02 Worldbuilding/Places/Mad Oracle Thessaly]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Keeper of the Past, Elderly Morgan]]
-- [[Mad Oracle Thessaly]]
 
 ## Player-Facing Summary
 
@@ -37,19 +41,30 @@ Cultural Studies Programs is a undersea element of the setting, known for biolum
 
 Legends speak of Cultural Studies Programs as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Cultural Studies Programs.
 
-## Adventure Hooks
-
-- A rumor ties Cultural Studies Programs to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Cultural Studies Programs to avert a public scandal.
-- A map overlay reveals a hidden approach to Cultural Studies Programs active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

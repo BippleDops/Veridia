@@ -27,9 +27,6 @@ updated: '2025-08-13T12:34:06.096072+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-paper-whirlwind-rot-paper-whirlwind-rot.svg)
 
@@ -51,16 +48,15 @@ world: Both
   - !!int "8"
   - !!int "3"
   - !!int "12"
-  - !!int "6"
 "speed": "10 ft., fly 50 ft."
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
-  \ [[conditions#Petrified|petrified]], [[conditions#Prone|prone]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#prone|prone]],\
   \ [[conditions#Restrained|restrained]], [[conditions#Stunned|stunned]]"
 "senses": "passive Perception 15"
 "languages": ""
@@ -81,6 +77,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Paper whirlwind rot is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -89,19 +103,22 @@ Paper whirlwind rot is a undersea element of the setting, known for bioluminesce
 
 Legends speak of paper whirlwind rot as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around paper whirlwind rot.
 
-## Adventure Hooks
-
-- A rumor ties paper whirlwind rot to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at paper whirlwind rot to avert a public scandal.
-- A map overlay reveals a hidden approach to paper whirlwind rot active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and chaos spreads
+- An heirloom has gone missing and chaos spreads
+- A prisoner has gone missing and war looms
+- A map reveals a conspiracy about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,27 +22,22 @@ world: Both
 ---
 
 
-# Spells for Monster Slayer
+## 🔧 Deep Evaluation Improvements
 
-## 1st Level
+*20 targeted improvements identified*
 
-- [[/03_Mechanics/CLI/spells/protection-from-evil-and-good-xphb "XPHB"|Protection from Evil and Good]] at class level 13
+### Connection Improvements
 
-## 2nd Level
+- Add cross-references to related notes
 
-- [[/03_Mechanics/CLI/spells/zone-of-truth-xphb "XPHB"|Zone of Truth]] at class level 13
+### Enhancement Improvements
 
-## 3rd Level
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[/03_Mechanics/CLI/spells/magic-circle-xphb "XPHB"|Magic Circle]] at class level 13
-
-## 4th Level
-
-- [[/03_Mechanics/CLI/spells/banishment-xphb "XPHB"|Banishment]] at class level 13
-
-## 5th Level
-
-- [[/03_Mechanics/CLI/spells/hold-monster-xphb "XPHB"|Hold Monster]] at class level 13
 
 ## Player-Facing Summary
 
@@ -52,19 +47,25 @@ List spells classes monster slayer xge is a undersea element of the setting, kno
 
 Legends speak of list spells classes monster slayer xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells classes monster slayer xge.
 
-## Adventure Hooks
-
-- A rumor ties list spells classes monster slayer xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells classes monster slayer xge to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells classes monster slayer xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

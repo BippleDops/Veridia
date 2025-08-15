@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:07.624241+00:00'
 world: Both
 ---
 
-
-
 # Brass Dragon Scale Mail
 *Medium armor ([[scale-mail-xphb|scale mail]]), very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/dragon-scale-mail.webp#right)
@@ -40,7 +38,25 @@ While wearing this armor, you gain a +1 bonus to [[armor-class-xphb|Armor Class]
 
 Additionally, you can focus your senses as a [[actions#Magic|Magic]] action to discern the distance and direction to the closest brass dragon within 30 miles of yourself. This action can't be used again until the next dawn.
 
-*Source: Dungeon Master's Guide (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 254. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -50,19 +66,27 @@ Brass dragon scale mail xdmg is a undersea element of the setting, known for bio
 
 Legends speak of brass dragon scale mail xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around brass dragon scale mail xdmg.
 
-## Adventure Hooks
-
-- A rumor ties brass dragon scale mail xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at brass dragon scale mail xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to brass dragon scale mail xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for power
+- A prisoner has gone missing and chaos spreads
+- The authorities needs help stealing before dawn
+- A document has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

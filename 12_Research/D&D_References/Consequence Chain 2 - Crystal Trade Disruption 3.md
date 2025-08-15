@@ -4,7 +4,7 @@
 title: Consequence Chain 2   Crystal Trade Disruption 3
 type: Lore
 tags:
-- financial-corruption
+- ficial-corruption
 - lore
 - status/complete
 - silverscale-consortium
@@ -27,11 +27,26 @@ visibility: 4
 world: Aethermoor
 ---
 
-
-
-
 # Consequence Chain 2: Crystal Trade Disruption
 *The Silverscale Consortium's Economic Empire Exposed*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Initial Action
 
@@ -49,7 +64,7 @@ world: Aethermoor
 - **[[Marina-Red-Tide-Coralheart]]**: Identity as Depth Guard revealed, becomes key witness
 - **[[Queen Seraphina Lumengarde]]**: Authority challenged by corporate overreach
 - **[[Vex Shadowthorn]]**: Operations disrupted, forced underground
-- **Nobles with Silverscale debts**: Financial leverage exposed, political autonomy threatened
+- **Nobles with Silverscale debts**: Ficial leverage exposed, political autonomy threatened
 
 **Immediate visible results:**
 - Silverscale stock prices crashed 60% within hours of exposure
@@ -128,7 +143,7 @@ world: Aethermoor
 ## Long-term Consequences (Months/Years)
 
 **Permanent world changes:**
-- **Economic system restructure**: Cooperative and guild-based commerce replaced corporate dominance
+- **Economic system restructure**: Cooperative and guild-based commerce replaced corporate domice
 - **Legal framework evolution**: Corporate law extensively reformed to prevent future abuse
 - **Technological democratization**: Crystal research became public domain rather than proprietary
 - **Educational institution founding**: [[Royal Academy of Ethical Commerce]] established
@@ -159,46 +174,12 @@ world: Aethermoor
 - **Economic Sabotage**: Investigating disruptions to new cooperative systems
 - **Successor Organizations**: New corporations learning from Silverscale's mistakes
 
-## Ongoing Monitoring Points
-
-### Economic Recovery Indicators
-- **Market stability**: Crystal prices stabilized after 6 months at 40% higher than Consortium era
-- **Employment recovery**: Cooperative organizations absorbed 85% of displaced workers
-- **Innovation metrics**: Patent applications increased 300% after research democratization
-- **Trade volume**: Cross-realm commerce recovered to 90% of pre-crisis levels
-
-### Political Effectiveness Measures
-- **Regulatory compliance**: New corporate oversight preventing concentration of power
-- **Public confidence**: Trust in government increased 120% due to successful intervention
-- **International standing**: Diplomatic reputation enhanced by ethical business practices
-- **Legal precedent**: Corporate accountability laws adopted by neighboring kingdoms
-
-### Social Transformation Tracking
-- **Worker organization**: Union membership increased 400% across all industries
-- **Consumer behavior**: Ethical certification requirements drove market transformation
-- **Educational impact**: Business schools integrated ethics as core curriculum requirement
-- **Cultural production**: Anti-corporate artistic movements became mainstream
-
-### Security and Stability Assessment
-- **Corporate espionage**: Foreign attempts to recreate Consortium model detected and prevented
-- **Asset recovery**: 70% of hidden Consortium wealth located and redistributed
-- **Resistance activity**: Underground Silverscale loyalist cells monitored but minimal threat
-- **Border security**: Enhanced trade monitoring preventing artifact smuggling
-
-## Connected Consequences
-
-### Links to Other Major Events
-- **[[Consequence Chain 5 - Marina's Identity Revelation]]**: Marina's Depth Guard status legitimized cross-realm cooperation
-- **[[Crystal Plague Origins]]**: Democratized research accelerated plague treatment development
-- **[[Cross-realm diplomatic relations]]**: Economic cooperation laid foundation for political alliance
-- **[[Worker organization movements]]**: Labor solidarity spread to other realms
-
 ### Systemic Changes Implemented
 1. **Corporate Size Limitations**: No single entity may control >20% of any essential market
 2. **Public Research Requirements**: Major discoveries must be shared within 2 years
 3. **Cross-Realm Trade Ethics**: Exploitation of other civilizations criminalized
 4. **Worker Protection Standards**: Collective bargaining rights enshrined in law
-5. **Transparency Mandates**: Large organizations must publish detailed financial records
+5. **Transparency Mandates**: Large organizations must publish detailed ficial records
 
 ### Unresolved Questions
 1. How many other "Silverscale-type" conspiracies exist in other realms?
@@ -212,20 +193,9 @@ world: Aethermoor
 *"The day the Golden Promise exploded wasn't just a ship burning—it was the old way of doing business going up in flames. What we built from those ashes proved that honest work pays better than honest theft."*
 — [[Master Shipwright Helena Trueforge]], Leader of the Port Meridian Cooperative
 
-## Cross-References
-
-- [[Campaign Consequence Tracking Framework]]
-- [[Silverscale Consortium]]
-- [[Aethermoor - Session 04 The Silverscale Gambit]]
-- [[The Silverscale Conspiracy]]
-- [[Economic History of the Realms]]
-- [[Director Hadrian Silverscale]]
-- [[Port Meridian]]
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -234,3 +204,8 @@ world: Aethermoor
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession

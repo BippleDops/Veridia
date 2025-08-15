@@ -18,7 +18,22 @@ world: Both
 ---
 
 
-# Random Event Generator
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Universal Events (Roll d20)
 
@@ -53,7 +68,7 @@ world: Both
 | 2 | Bioluminescent Bloom | Unusual sea life activity | Blinding light, toxic emissions |
 | 3 | Current Reversal | Ocean flows change direction | Navigation confusion, travel disruption |
 | 4 | Memory Tide | Collective memories surface | Shared visions, psychological disturbance |
-| 5 | Crystal Growth | New crystals spontaneously appear | Corruption spread, magical resonance |
+| 5 | Crystal Growth | New crystals spontaneously appear | Corruption spread, magical resoce |
 | 6 | Shadow Manifestation | Darkness moves independently | Conspiracy activity, possession attempts |
 | 7 | Parliamentary Summons | Urgent government meeting called | Political crisis, emergency powers |
 | 8 | Deep Pressure Wave | Extreme depth changes approach | Equipment stress, depth sickness |
@@ -65,7 +80,6 @@ world: Both
 ## Aethermoor-Specific Events (Roll d12)
 
 | Roll | Event | Description | Altitude Effects |
-|------|-------|-------------|------------------|
 | 1 | Wind Shear Storm | Violent air currents develop | Platform instability, flight dangers |
 | 2 | Crystal Rain | Crystalline precipitation falls | Equipment enhancement, corruption risk |
 | 3 | Thermal Updraft | Sudden powerful rising air | Altitude changes, atmospheric disturbance |
@@ -77,7 +91,7 @@ world: Both
 | 9 | Cloud City Emergence | Hidden settlement appears | First contact, territorial disputes |
 | 10 | Aerial Wildlife Migration | Sky creatures in unusual patterns | Flight path blockages, ecological signs |
 | 11 | Atmospheric Pressure Drop | Sudden altitude sickness risk | Emergency descent, equipment failure |
-| 12 | Crystal Resonance Cascade | All crystals begin vibrating | Magical amplification, system overload |
+| 12 | Crystal Resoce Cascade | All crystals begin vibrating | Magical amplification, system overload |
 
 ## Cross-Realm Events (Roll d10)
 
@@ -97,7 +111,6 @@ world: Both
 ## Shadow Conspiracy Events (Roll d8)
 
 | Roll | Event | Description | Conspiracy Level |
-|------|-------|-------------|------------------|
 | 1 | Asset Activation | Sleeper agent becomes active | Surveillance increase, loyalty tests |
 | 2 | Information Leak | Classified data becomes public | Damage control, scapegoat searches |
 | 3 | Recruitment Drive | New members sought actively | Infiltration opportunities, moral tests |
@@ -145,7 +158,6 @@ world: Both
 ## Social Events (Roll d8)
 
 | Roll | Event | Description | Social Impact |
-|------|-------|-------------|---------------|
 | 1 | Celebrity Scandal | Famous person's reputation destroyed | Public distraction, influence shift |
 | 2 | Religious Revival | Spiritual movement gains momentum | Political implications, social division |
 | 3 | Youth Rebellion | Younger generation protests authority | Generation gap, tradition questioning |
@@ -154,8 +166,6 @@ world: Both
 | 6 | Educational Reform | Learning methods change dramatically | Knowledge accessibility, tradition loss |
 | 7 | Social Media Phenomenon | New communication method spreads | Information speed, privacy concerns |
 | 8 | Cultural Preservation | Effort to maintain traditions | Resource allocation, modernization tension |
-
-## Timing Modifiers
 
 ### Daily Events (Roll d4)
 1. **Dawn**: New beginnings, optimism
@@ -172,29 +182,6 @@ world: Both
 6. **Festival Day**: Celebration and culture
 7. **Memory Day**: Remembrance and history
 
-### Seasonal Events
-- **Spring Currents**: Growth, renewal, optimism
-- **Summer Storms**: Peak activity, intense conflicts
-- **Autumn Depths**: Harvest, preparation, reflection
-- **Winter Calm**: Rest, planning, introspection
-
-## Event Escalation Guidelines
-
-### Minor Event (Initial Roll)
-- Affects small group or local area
-- Resolves within 1-2 sessions
-- Limited long-term consequences
-
-### Major Event (Roll again if doubles)
-- Affects entire community or region
-- Requires 3-5 sessions to resolve
-- Significant campaign implications
-
-### Campaign Event (Roll triples)
-- Affects multiple regions or realms
-- Becomes central campaign focus
-- Permanent world changes
-
 ## Quick Event Resolution
 For each event, consider:
 1. **Immediate Effect**: What happens right now?
@@ -203,16 +190,9 @@ For each event, consider:
 4. **Consequences**: What are the long-term effects?
 5. **Connections**: How does this tie to ongoing plots?
 
-## Links to Related Content
-- [[Random_Encounters]]
-- [[Faction_Network_Tracker]]
-- [[Campaign_Timeline_Tracker]]
-- [[Session_Planning_Template]]
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

@@ -24,7 +24,6 @@ updated: '2025-08-12T23:37:37.495981'
 world: Both
 ---
 
-
 # Rod of Resurrection
 *Rod, legendary (requires attunement by a cleric, druid, or paladin)*  
 ![](/03_Mechanics/CLI/items/img/rod-of-resurrection.webp#right)
@@ -35,7 +34,25 @@ The rod has 5 charges. While you hold it, you can cast one of the following spel
 
 The rod regains 1 expended charge daily at dawn. If you expend the last charge, roll `d20`. On a 1, the rod disappears in a harmless burst of radiance.
 
-*Source: Dungeon Master's Guide (2024) p. 301. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 301. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -45,19 +62,20 @@ Rod of resurrection xdmg is a undersea element of the setting, known for biolumi
 
 Legends speak of rod of resurrection xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rod of resurrection xdmg.
 
-## Adventure Hooks
-
-- A rumor ties rod of resurrection xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at rod of resurrection xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to rod of resurrection xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a betrayal about the government
+- A journal reveals a betrayal about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

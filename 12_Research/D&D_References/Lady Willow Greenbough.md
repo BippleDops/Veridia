@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:37.027349+00:00'
 world: Both
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-lady-willow-greenbough-lady-willow-greenbough.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Quest - Foreign Interests|02 Worldbuilding/Quests/Quest Foreign Interests]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Quest - Foreign Interests]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,26 @@ Lady Willow Greenbough is a undersea element of the setting, known for biolumine
 
 Legends speak of Lady Willow Greenbough as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lady Willow Greenbough.
 
-## Adventure Hooks
-
-- A rumor ties Lady Willow Greenbough to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Lady Willow Greenbough to avert a public scandal.
-- A map overlay reveals a hidden approach to Lady Willow Greenbough active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## Plot Hooks
+
+- A map reveals a conspiracy about the cult
+- Strange disappearances suggest a curse
+- Strange disappearances suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

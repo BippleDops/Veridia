@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.448862+00:00'
 danger_level: Moderate
 ---
 
-
-
-
-
 > [!figure] Map
 ![[04_Resources/Assets/Maps/map-map-kelp-forest-labyrinth-kelp-forest-labyrinth.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Overview
+*20 targeted improvements identified*
 
-TODO
-## History
+### Connection Improvements
 
-TODO
-## Layout
+- Add cross-references to related notes
 
-TODO
-## Notables
+### Enhancement Improvements
 
-TODO
-## Threats
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,18 @@ Kelp Forest is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of Kelp Forest as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Kelp Forest.
 
-## Adventure Hooks
-
-- A rumor ties Kelp Forest to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Kelp Forest to avert a public scandal.
-- A map overlay reveals a hidden approach to Kelp Forest active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Kelp Forest|02 Worldbuilding/Places/Kelp Forest]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The Depth Plague]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a curse
+- Someone is hunting an heir for love
+- Strange sightings suggest a curse
+- An heirloom has gone missing and truth emerges

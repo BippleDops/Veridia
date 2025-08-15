@@ -8,24 +8,13 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# 04_Resources/Assets/Art/Lore/Aethermoor_Archives.png
-
 ## Overview
 
 04_Resources/Assets/Art/Lore/Aethermoor_Archives.png represents a crucial aspect of the world's history, cosmology, or fundamental nature.
 
-[Lore content continues with similar detail...]
-
 ---
 
 *Last Updated: 2025-08-14 19:03*
-
-## Connections
-
-- See also: [[Central Index]]
-- Related: [[Historical Context]]
-- Connected to: [[Character Backstories]]
-
 
 ## DM Notes
 

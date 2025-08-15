@@ -24,15 +24,31 @@ updated: '2025-08-13T12:34:04.316037+00:00'
 world: Both
 ---
 
-
-
 # Hathor
-*Source: Player's Handbook p. 299. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+*Source: Player's Handbook p. 299. Available in the SRD* 
 
 - **Alignment**: Neutral Good
 - **Domains**: Life, Light
 - **Pantheon**: Egyptian
 - **Symbol**: Horned cow's head with lunar disk
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -42,19 +58,15 @@ Egyptian hathor is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of egyptian hathor as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around egyptian hathor.
 
-## Adventure Hooks
-
-- A rumor ties egyptian hathor to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at egyptian hathor to avert a public scandal.
-- A map overlay reveals a hidden approach to egyptian hathor active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Stars

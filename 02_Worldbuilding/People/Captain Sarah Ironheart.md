@@ -1,4 +1,5 @@
 ---
+
 title: Captain Sarah Ironheart
 type: Npc
 tags:
@@ -18,6 +19,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.642365+00:00'
 world: Aethermoor
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +29,69 @@ world: Aethermoor
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-sarah-ironheart-captain-sarah-ironheart.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward confrontation
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward negotiation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
 
 ## Player-Facing Summary
 
@@ -67,14 +100,6 @@ Captain Sarah Ironheart is a undersea element of the setting, known for biolumin
 ## Lore Details
 
 Legends speak of Captain Sarah Ironheart as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Sarah Ironheart.
-
-## Adventure Hooks
-
-- A rumor ties Captain Sarah Ironheart to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Captain Sarah Ironheart to avert a public scandal.
-- A map overlay reveals a hidden approach to Captain Sarah Ironheart active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +110,6 @@ Captain Sarah Ironheart's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Accumulating wealth
@@ -124,8 +119,6 @@ Captain Sarah Ironheart's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Captain Sarah Ironheart harbors secrets that could change everything:
@@ -133,10 +126,6 @@ Captain Sarah Ironheart harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Divine mission
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +144,6 @@ Captain Sarah Ironheart is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Captain Sarah Ironheart needs assistance with a delicate matter
@@ -164,8 +151,6 @@ Captain Sarah Ironheart is currently engaged in:
 3. **The Secret**: Information about Captain Sarah Ironheart's past surfaces
 4. **The Alliance**: Opportunity to work with or against Captain Sarah Ironheart
 5. **The Crisis**: Captain Sarah Ironheart is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,23 +164,50 @@ Captain Sarah Ironheart is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Captain Sarah Ironheart]]
+## Historical Timeline
 
-<!-- enriched: true -->
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
 
 
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income
 
 
-## Relationship Web
+## A Day in the Life
 
-- [[Reflection Pools]]: *debt holder*
-- [[04_Resources_Assets_Portraits_portrait-npc-the-depth-blessed-fisherman-captain-sal-deepcurrent-the-depth-blessed-fisherman-captain-sal-deepcurrent.svg]]: *former lover*
-- [[Captain Repossession]]: *family member*
-- [[04_Resources_Assets_Locations_location-city-captain-trawl-netcaster-captain-trawl-netcaster.svg]]: *student*
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
 
-## Connections
-
-- [[Quest - The Blackmail Papers]]
-- [[Quest - The Truth Unveiled]]
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

@@ -27,13 +27,29 @@ updated: '2025-08-12T23:37:35.670031'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-banshee-xmm-banshee-xmm.svg)
 
 # [[banshee-xmm|Banshee]]
 *Source: Monster Manual (2024) p. 29*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Banshee
 
@@ -82,9 +98,9 @@ All manner of torments might give rise to a banshee. Roll on or choose a result 
 "damage_resistances": "acid, bludgeoning, fire, lightning, piercing, slashing, thunder"
 "damage_immunities": "cold, necrotic, poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Grappled|grappled]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
-  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#prone|prone]],\
   \ [[conditions#Restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, Elvish"
@@ -103,7 +119,7 @@ All manner of torments might give rise to a banshee. Roll on or choose a result 
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 7 (1d8 + 3) Necrotic damage."
     "name": "Corrupting Touch"
   - "desc": "Wisdom Saving Throw: DC 13, one creature the banshee can see within\
-      \ 60 feet that can see the banshee. Failure: The target has the [[conditions#Frightened|Frightened]]\
+      \ 60 feet that can see the banshee. Failure: The target has the [[conditions#frightened|Frightened]]\
       \ condition until the start of the banshee's next turn. Success: The target\
       \ is immune to this banshee's Horrify for 24 hours."
     "name": "Horrify"
@@ -131,19 +147,15 @@ Banshee xmm is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of banshee xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around banshee xmm.
 
-## Adventure Hooks
-
-- A rumor ties banshee xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at banshee xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to banshee xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

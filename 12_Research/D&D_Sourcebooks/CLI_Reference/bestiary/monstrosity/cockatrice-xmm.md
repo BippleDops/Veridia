@@ -27,15 +27,31 @@ updated: '2025-08-12T23:37:34.944354'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cockatrice-xmm-cockatrice-xmm.svg)
 
 # [[cockatrice-xmm|Cockatrice]]
-*Source: Monster Manual (2024) p. 75. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 75. Available in the SRD and the Free Rules (2024)*  
 
 Cockatrices often try to claim eye-catching structures—such as ruins and secluded farms—as roosts.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Cockatrices
 
@@ -57,7 +73,6 @@ Cockatrices combine the features of irate roosters and starving reptiles. They p
 "modifier": !!int "1"
 "stats":
   - !!int "6"
-  - !!int "12"
   - !!int "12"
   - !!int "2"
   - !!int "13"
@@ -95,19 +110,32 @@ Cockatrice xmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of cockatrice xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cockatrice xmm.
 
-## Adventure Hooks
-
-- A rumor ties cockatrice xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at cockatrice xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to cockatrice xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Plot Hooks
+
+- Someone is searching for a witness for love
+- Someone is blackmailing a witness for money
+- A stranger needs help investigating before dawn
+- Someone is protecting a artifact for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

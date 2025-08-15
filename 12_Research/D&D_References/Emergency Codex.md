@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:35.229160+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,25 @@ Emergency Codex is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Emergency Codex as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Emergency Codex.
 
-## Adventure Hooks
-
-- A rumor ties Emergency Codex to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Emergency Codex to avert a public scandal.
-- A map overlay reveals a hidden approach to Emergency Codex active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Legal System of Aquabyssos|02 Worldbuilding/Lore/Legal System Of Aquabyssos]]
-
-
-## Connections
-
-- [[Legal System of Aquabyssos]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

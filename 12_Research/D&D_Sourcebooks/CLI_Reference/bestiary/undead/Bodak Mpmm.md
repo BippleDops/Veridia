@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:05.909189+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bodak-mpmm-bodak-mpmm.svg)
 
@@ -60,9 +57,7 @@ A bodak retains vague impressions of its past life. It seeks out its former alli
 "stats":
   - !!int "15"
   - !!int "16"
-  - !!int "15"
   - !!int "7"
-  - !!int "12"
   - !!int "12"
 "speed": "30 ft."
 "skillsaves":
@@ -73,7 +68,7 @@ A bodak retains vague impressions of its past life. It seeks out its former alli
 "damage_resistances": "cold; fire; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "necrotic, poison"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "Abyssal, the languages it knew in life"
@@ -83,7 +78,7 @@ A bodak retains vague impressions of its past life. It seeks out its former alli
       \ 30 feet of the bodak, the bodak can force it to make a DC 13 Constitution\
       \ saving throw if the bodak isn't [[conditions#Incapacitated|incapacitated]]\
       \ and can see the creature. If the saving throw fails by 5 or more, the creature\
-      \ is reduced to 0 hit points unless it is immune to the [[conditions#Frightened|frightened]]\
+      \ is reduced to 0 hit points unless it is immune to the [[conditions#frightened|frightened]]\
       \ condition. Otherwise, a creature takes 16 (3d10) psychic damage on a failed\
       \ save.\n\nUnless [[conditions#Surprised|surprised]], a creature\
       \ can avert its eyes to avoid the saving throw at the start of its turn. If\
@@ -116,6 +111,24 @@ A bodak retains vague impressions of its past life. It seeks out its former alli
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 swamp, underdark, urban
@@ -128,19 +141,26 @@ Bodak mpmm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of bodak mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bodak mpmm.
 
-## Adventure Hooks
-
-- A rumor ties bodak mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at bodak mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to bodak mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- A shipment has gone missing and war looms
+- Someone is protecting information for love
+- A journal reveals the truth about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

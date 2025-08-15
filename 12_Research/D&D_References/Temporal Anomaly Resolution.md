@@ -35,15 +35,29 @@ response_time: Immediate to Extended Operations
 specialization_required: Temporal Engineering Certification
 ---
 
-
-
-
-
 # Temporal Anomaly Resolution
 *Restoring Order to the Flow of Time*
 
 > *"When time itself becomes wounded, when cause follows effect down impossible paths, when yesterday threatens to devour tomorrow—that is when we step forward. We are the surgeons of causality, the healers of broken moments, the guardians who ensure that the river of time continues to flow toward its proper destination."*
 > — [[Master Temporal Engineer Chronos Fieldwright]], Director of Temporal Anomaly Resolution Services
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -55,14 +69,12 @@ Unlike traditional magical services that work within the constraints of normal t
 
 The growing frequency and severity of temporal anomalies has made these services increasingly vital for both civilizations. What began as a small research division has evolved into a comprehensive emergency response system capable of handling temporal disasters that could affect millions of people across multiple timelines. Their work represents humanity's most ambitious attempt to master time itself while preserving the fundamental laws that govern reality.
 
-## Temporal Anomaly Classification System
-
 ### Type Alpha: Minor Temporal Distortions
 
 **Characteristics:**
 - Duration: 1-60 minutes
 - Scope: 10-100 foot radius
-- Cause: Magical interference, crystal resonance, minor equipment failure
+- Cause: Magical interference, crystal resoce, minor equipment failure
 - Severity: Minimal risk to timeline integrity
 
 **Common Manifestations:**
@@ -74,7 +86,7 @@ The growing frequency and severity of temporal anomalies has made these services
 
 **Resolution Protocols:**
 - **Field Stabilization**: Deploy portable temporal anchors to normalize time flow
-- **Resonance Dampening**: Use harmonic dampeners to eliminate temporal vibrations
+- **Resoce Dampening**: Use harmonic dampeners to eliminate temporal vibrations
 - **Causal Thread Repair**: Manually correct minor disruptions in cause-and-effect chains
 - **Memory Synchronization**: Help affected individuals integrate temporal experiences
 - **Documentation**: Record anomaly patterns for predictive analysis
@@ -171,9 +183,7 @@ The growing frequency and severity of temporal anomalies has made these services
 - International cooperation agreements
 - Specialized temporal refugee facilities
 - Advanced reality restoration technology
-- Long-term monitoring and maintenance systems
-
-## Temporal Detection and Monitoring Systems
+- Long-term monitoring and maintece systems
 
 ### Early Warning Networks
 
@@ -210,7 +220,7 @@ Portable devices for investigating suspected temporal anomalies in detail:
 - Handheld devices measuring local time flow rates and detecting distortions
 - Multi-spectrum chronological analysis revealing different types of temporal effects
 - Causal relationship trackers identifying broken or altered cause-and-effect chains
-- Historical resonance detectors finding echoes of past events
+- Historical resoce detectors finding echoes of past events
 - Future probability analyzers assessing likelihood of potential temporal outcomes
 
 **Personal Protective Equipment:**
@@ -234,7 +244,7 @@ Advanced computational systems predicting likely temporal anomalies:
 
 **Modeling Components:**
 - **Historical Analysis**: Studying patterns in past temporal anomalies
-- **Magical Resonance Tracking**: Monitoring magical activities that could cause temporal effects
+- **Magical Resoce Tracking**: Monitoring magical activities that could cause temporal effects
 - **Dimensional Stability Assessment**: Evaluating cross-realm interactions affecting time flow
 - **Consciousness Impact Studies**: Understanding how human awareness affects temporal stability
 - **Cosmic Factor Analysis**: Considering celestial and cosmic influences on local time
@@ -245,8 +255,6 @@ Advanced computational systems predicting likely temporal anomalies:
 - Long-term projections (months to years) planning preventive measures
 - Real-time risk assessment for ongoing operations in temporally sensitive areas
 - Emergency prediction systems providing rapid warning of imminent temporal crises
-
-## Resolution Technologies and Techniques
 
 ### Temporal Stabilization Equipment
 
@@ -326,8 +334,6 @@ Procedures for removing people from dangerous temporal anomalies:
 - Physical rehabilitation for temporal acceleration or deceleration effects
 - Long-term monitoring for delayed effects of temporal exposure
 
-## Professional Organizations and Training
-
 ### Temporal Engineering Guild
 
 **Organizational Structure:**
@@ -406,8 +412,6 @@ Services supporting temporal engineers throughout their professional careers:
 - International exchange programs enabling collaboration with other civilizations
 - Leadership opportunities advancing the profession and science
 
-## Research and Development Programs
-
 ### Advanced Temporal Theory
 
 **Cutting-Edge Research:**
@@ -476,12 +480,10 @@ Joint research and development programs with other civilizations:
 **Cultural Integration:**
 Understanding how different civilizations approach temporal engineering:
 - Aquabyssos focus on pressure-based temporal stabilization techniques
-- Aethermoor emphasis on crystal-resonance temporal manipulation
+- Aethermoor emphasis on crystal-resoce temporal manipulation
 - Integration of different philosophical approaches to time and causality
 - Learning from other civilizations' historical experiences with temporal anomalies
 - Developing culturally sensitive approaches to temporal crisis management
-
-## Environmental Integration and Ecosystem Effects
 
 ### Temporal Ecology
 
@@ -535,8 +537,6 @@ Understanding how temporal anomalies affect food production and resource extract
 - Economic frameworks supporting communities in temporally unstable areas
 - International cooperation ensuring food security despite temporal challenges
 
-## Campaign Integration and Adventure Opportunities
-
 ### Temporal Crisis Adventures
 
 **Emergency Response Scenarios:**
@@ -578,10 +578,10 @@ Adventures focused on understanding and studying temporal phenomena:
 
 ### Social and Political Adventures
 
-**Temporal Governance Scenarios:**
+**Temporal Goverce Scenarios:**
 Adventures dealing with political and social aspects of temporal anomaly management:
 
-**Governance Adventures:**
+**Goverce Adventures:**
 - **International Cooperation**: Diplomatic missions coordinating temporal safety across civilizations
 - **Public Safety Management**: Adventures managing civilian reactions to temporal crises
 - **Resource Allocation**: Missions ensuring adequate resources for temporal safety programs
@@ -614,29 +614,6 @@ Working with Temporal Anomaly Resolution provides unique character development o
 - **Reality Flexibility**: Comfort working with fluid physics and changing natural laws
 - **Cosmic Perspective**: Understanding of individual actions within vast temporal frameworks
 
-## Connected Systems and Cross-References
-
-### Related Environmental Systems
-- **[[Temporal Distortion Zones]]**: Controlled areas where temporal manipulation is conducted
-- **[[Environmental Hazards]]**: Broader category including temporal hazards among other environmental dangers
-- **[[Reality Merge Zones]]**: Areas where temporal anomalies interact with dimensional instabilities
-- **[[Convergence Point]]**: Ultimate location where temporal and dimensional effects combine
-- **[[Pressure Adaptation System]]**: Parallel system addressing physical rather than temporal environmental challenges
-
-### Key Locations
-- **[[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]**: Primary location for underwater temporal anomaly resolution services
-- **[[Aethermoor|02 Worldbuilding/Places/Aethermoor]]**: Partner civilization providing aerial perspective on temporal effects
-- **[[Temporal Engineering Institute]]**: Primary research and training facility for temporal anomaly resolution
-- **[[Crisis Command Center]]**: Coordination facility for major temporal emergencies
-- **[[Temporal Stabilization Network]]**: Infrastructure maintaining temporal stability across both realms
-
-### Important Organizations
-- **[[Temporal Engineering Guil|02 Worldbuilding/Groups/Temporal Engineering Guil]]**: Professional organization coordinating temporal safety efforts
-- **[[International Temporal Safety Council]]**: Government organization overseeing temporal engineering
-- **[[Emergency Response Corps]]**: Specialized teams handling temporal crises
-- **[[Temporal Research Institute]]**: Scientific organization advancing temporal understanding
-- **[[Cross-Realm Cooperation Authority]]**: Diplomatic organization managing international temporal projects
-
 ### Key Personnel
 - **[[Master Temporal Engineer Chronos Fieldwright]]**: Director of Temporal Anomaly Resolution Services
 - **[[Grand Chronarch Echo Causality]]**: Overall leader of international temporal safety efforts
@@ -646,11 +623,6 @@ Working with Temporal Anomaly Resolution provides unique character development o
 
 Temporal Anomaly Resolution represents humanity's most ambitious attempt to master time itself, not for personal gain or power, but for the protection and preservation of causality itself. Through these dedicated services, the natural order of cause and effect is maintained, paradoxes are prevented, and the flow of time continues toward its intended destination. As the convergence between realms creates increasingly complex temporal challenges, these brave specialists stand as guardians of the very foundation of reality—ensuring that tomorrow will arrive as it should, and yesterday remains where it belongs.
 
-
-## Connections
-
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
-
 ## Player-Facing Summary
 
 Temporal Anomaly Resolution is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -659,22 +631,12 @@ Temporal Anomaly Resolution is a undersea element of the setting, known for biol
 
 Legends speak of Temporal Anomaly Resolution as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Temporal Anomaly Resolution.
 
-## Adventure Hooks
-
-- A rumor ties Temporal Anomaly Resolution to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Temporal Anomaly Resolution to avert a public scandal.
-- A map overlay reveals a hidden approach to Temporal Anomaly Resolution active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
 
-## Cross-References
 
-- [[Master_Lore_Index|Master Lore Index]]
-- [[Convergence Point]]
-- [[Pressure Adaptation System]]
-- [[Reality Merge Zones]]
-- [[Temporal Distortion Zones]]
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession

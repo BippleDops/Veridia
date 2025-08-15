@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Vex Shadowthorn Boss Fight|02 Worldbuilding/Groups/Vex Shadowthorn Boss Fight]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Vex Shadowthorn Boss Fight]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,16 @@ Advanced Combat Training Methods is a undersea element of the setting, known for
 
 Legends speak of Advanced Combat Training Methods as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Advanced Combat Training Methods.
 
-## Adventure Hooks
-
-- A rumor ties Advanced Combat Training Methods to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Advanced Combat Training Methods to avert a public scandal.
-- A map overlay reveals a hidden approach to Advanced Combat Training Methods active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and war looms
+- A merchant needs help finding before the new moon

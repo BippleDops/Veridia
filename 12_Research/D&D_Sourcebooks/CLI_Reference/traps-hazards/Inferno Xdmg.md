@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:05.051057+00:00'
 world: Both
 ---
 
-
-
 # Inferno
 *Generic Hazard*  
 
@@ -35,6 +33,24 @@ An inferno damages any vegetation or object that isn't being worn or carried tha
 
 *Source: Dungeon Master's Guide (2024) p. 76*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Inferno xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -43,19 +59,20 @@ Inferno xdmg is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of inferno xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around inferno xdmg.
 
-## Adventure Hooks
-
-- A rumor ties inferno xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at inferno xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to inferno xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

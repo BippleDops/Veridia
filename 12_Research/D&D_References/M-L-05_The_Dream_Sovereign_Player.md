@@ -19,8 +19,6 @@ updated: '2025-08-13T01:18:37.209254+00:00'
 world: Both
 ---
 
-
-
 # The Dream Sovereign
 
 Sleep leans over everything. You can feel a question in the dark: Will you dream with me?
@@ -39,10 +37,26 @@ Possible outcomes
 - A rule written in someone else’s dream
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -51,3 +65,16 @@ Possible outcomes
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

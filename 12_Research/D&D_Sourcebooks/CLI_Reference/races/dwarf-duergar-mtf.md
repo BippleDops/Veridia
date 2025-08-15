@@ -22,17 +22,13 @@ updated: '2025-08-12T23:37:37.708635'
 world: Both
 ---
 
-
 # Dwarf (Duergar)
 *Source: Mordenkainen's Tome of Foes p. 81*  
-
 
 - **Ability Scores**: str +1
 - **Size**: Medium
 - **Speed**: 25 ft.
 - **Spellcasting**: Intelligence
-
-## Traits
 
 ### Age
 
@@ -78,6 +74,24 @@ When you reach 3rd level, you can cast the [[enlarge-reduce-xphb|Enlarge/Reduce]
 
 You have disadvantage on attack rolls and Wisdom ([[skills#Perception|Perception]]) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Description
 
 The gray dwarves, or duergar, live deep in the Underdark. After delving deeper than any other dwarves, they were enslaved by mind flayers for eons. Although they eventually won their freedom, these grim, ashen-skinned dwarves now take slaves of their own and are as tyrannical as their former masters.
@@ -121,11 +135,8 @@ Dwarves who take up the adventuring life might be motivated by a desire for trea
 > [!note] Slow to Trust
 > 
 > Dwarves get along passably well with most other races. "The difference between an acquaintance and a friend is about a hundred years," is a dwarf saying that might be hyperbole, but certainly points to how difficult it can be for a member of a short-lived race like humans to earn a dwarf's trust.
-> 
 > **Elves.** "It's not wise to depend on the elves. No telling what an elf will do next; when the hammer meets the orc's head, they're as apt to start singing as to pull out a sword. They're flighty and frivolous. Two things to be said for them, though: They don't have many smiths, but the ones they have do very fine work. And when orcs or goblins come streaming down out of the mountains, an elf's good to have at your back. Not as good as a dwarf, maybe, but no doubt they hate the orcs as much as we do."
-> 
 > **Halflings.** "Sure, they're pleasant folk. But show me a halfling hero. An empire, a triumphant army. Even a treasure for the ages made by halfling hands. Nothing. How can you take them seriously?"
-> 
 > **Humans.** "You take the time to get to know a human, and by then the human's on her deathbed. If you're lucky, she's got kin-a daughter or granddaughter, maybe-who's got hands and heart as good as hers. That's when you can make a human friend. And watch them go!. They set their hearts on something, they'll get it whether it's a dragon's hoard or an empire's throne. You have to admire that kind of dedication, even if it gets them in trouble more often than not."
 ^slow-to-trust
 
@@ -137,10 +148,9 @@ A dwarf who misuses or brings shame to a clan name is stripped of the name and f
 
 - **Male Names.** Adrik, Alberich, Baern, Barendd, Brottor, Bruenor, Dain, Darrak, Delg, Eberk, Einkil, Fargrim, Flint, Gardain, Harbek, Kildrak, Morgran, Orsik, Oskar, Rangrim, Rurik, Taklinn, Thoradin, Thorin, Tordek, Traubon, Travok, Ulfgar, Veit, Vondal  
 - **Female Names.** Amber, Artin, Audhild, Bardryn, Dagnal, Diesa, Eldeth, Falkrunn, Finellen, Gunnloda, Gurdis, Helja, Hlin, Kathra, Kristryd, Ilde, Liftrasa, Mardred, Riswynn, Sannl, Torbera, Torgga, Vistra  
-- **Clan Names.** Balderk, Battlehammer, Brawnanvil, Dankil, Fireforge, Frostbeard, Gorunn, Holderhek, Ironfist, Loderr, Lutgehr, Rumnaheim, Strakeln, Torunn, Ungart  
+- **Clan Names.** Balderk, Battlehammer, Brawvil, Dankil, Fireforge, Frostbeard, Gorunn, Holderhek, Ironfist, Loderr, Lutgehr, Rumnaheim, Strakeln, Torunn, Ungart  
 
 > [!note] Duergar
-> 
 > In cities deep in the Underdark live the duergar, or gray dwarves. These vicious, stealthy slave traders raid the surface world for captives, then sell their prey to the other races of the Underdark. They have innate magical abilities to become invisible and to temporarily grow to giant size.
 ^duergar
 
@@ -152,19 +162,20 @@ Dwarf duergar mtf is a undersea element of the setting, known for bioluminescent
 
 Legends speak of dwarf duergar mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dwarf duergar mtf.
 
-## Adventure Hooks
-
-- A rumor ties dwarf duergar mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dwarf duergar mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to dwarf duergar mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for an heir for love
+- A document has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,16 +22,26 @@ updated: '2025-08-13T01:18:37.138218+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
-
-
-# Aquabyssos Creature Compendium
 ## Unique Horrors of the Drowned Realm
 
 > *"The creatures of Aquabyssos aren't just adapted to the depths—they're symptoms of a reality gone wrong."*
-
-## Shadow Entities
 
 ### Shadow Separator
 *Medium aberration, neutral evil*
@@ -74,8 +84,6 @@ updated: '2025-08-13T01:18:37.138218+00:00'
 **Hit Points** 127 (15d10 + 45)
 **Speed** 30 ft., swim 30 ft.
 
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
 | 16 (+3) | 12 (+1) | 16 (+3) | 18 (+4) | 20 (+5) | 14 (+2) |
 
 **Skills** Insight +9, Perception +9
@@ -110,8 +118,6 @@ The shepherd can take 2 legendary actions, choosing from the options below. Only
 
 ---
 
-## Depth Horrors
-
 ### Pressure Wraith
 *Medium undead, chaotic evil*
 
@@ -119,8 +125,6 @@ The shepherd can take 2 legendary actions, choosing from the options below. Only
 **Hit Points** 67 (9d8 + 27)
 **Speed** 0 ft., fly 60 ft. (hover), swim 60 ft.
 
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
 | 6 (-2) | 18 (+4) | 16 (+3) | 12 (+1) | 14 (+2) | 15 (+2) |
 
 **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
@@ -151,8 +155,6 @@ The shepherd can take 2 legendary actions, choosing from the options below. Only
 **Hit Points** 184 (16d12 + 80)
 **Speed** 10 ft., swim 50 ft.
 
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
 | 23 (+6) | 11 (+0) | 21 (+5) | 4 (-3) | 12 (+1) | 6 (-2) |
 
 **Skills** Perception +5
@@ -188,8 +190,6 @@ The shepherd can take 2 legendary actions, choosing from the options below. Only
 **Hit Points** 114 (12d10 + 48)
 **Speed** 0 ft.
 
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
 | 1 (-5) | 1 (-5) | 18 (+4) | 16 (+3) | 14 (+2) | 18 (+4) |
 
 **Damage Vulnerabilities** fire
@@ -218,8 +218,6 @@ The shepherd can take 2 legendary actions, choosing from the options below. Only
 
 ---
 
-## Recursion Entities
-
 ### Fractal Spider
 *Medium aberration, unaligned*
 
@@ -227,8 +225,6 @@ The shepherd can take 2 legendary actions, choosing from the options below. Only
 **Hit Points** 93 (11d8 + 44)
 **Speed** 30 ft., climb 30 ft.
 
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
 | 14 (+2) | 19 (+4) | 18 (+4) | 10 (+0) | 13 (+1) | 8 (-1) |
 
 **Skills** Stealth +8
@@ -254,8 +250,6 @@ The shepherd can take 2 legendary actions, choosing from the options below. Only
 
 ---
 
-## Memory Entities
-
 ### The Forgotten One
 *Medium aberration, neutral*
 
@@ -263,8 +257,6 @@ The shepherd can take 2 legendary actions, choosing from the options below. Only
 **Hit Points** 135 (18d8 + 54)
 **Speed** 30 ft., fly 30 ft. (hover)
 
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
 | 10 (+0) | 16 (+3) | 16 (+3) | 20 (+5) | 18 (+4) | 21 (+5) |
 
 **Saving Throws** Int +9, Wis +8, Cha +9
@@ -303,8 +295,6 @@ The Forgotten One can take 3 legendary actions, choosing from the options below.
 
 ---
 
-## Divine Corpse Dwellers
-
 ### Antibody Titan
 *Huge construct, unaligned*
 
@@ -312,8 +302,6 @@ The Forgotten One can take 3 legendary actions, choosing from the options below.
 **Hit Points** 230 (20d12 + 100)
 **Speed** 40 ft., swim 40 ft.
 
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
 | 26 (+8) | 9 (-1) | 20 (+5) | 3 (-4) | 11 (+0) | 1 (-5) |
 
 **Damage Immunities** poison, psychic
@@ -352,8 +340,6 @@ The titan can take 3 legendary actions, choosing from the options below.
 
 ---
 
-## Unique Bosses
-
 ### The Infinite Gardener
 *Large aberration, lawful neutral*
 
@@ -361,8 +347,6 @@ The titan can take 3 legendary actions, choosing from the options below.
 **Hit Points** 172 (15d10 + 90)
 **Speed** 30 ft.
 
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
 | 18 (+4) | 14 (+2) | 22 (+6) | 25 (+7) | 21 (+5) | 19 (+4) |
 
 **Saving Throws** Int +12, Wis +10, Cha +9
@@ -416,19 +400,31 @@ Aquabyssos Creature Compendium is a undersea element of the setting, known for b
 
 Legends speak of Aquabyssos Creature Compendium as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos Creature Compendium.
 
-## Adventure Hooks
-
-- A rumor ties Aquabyssos Creature Compendium to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Aquabyssos Creature Compendium to avert a public scandal.
-- A map overlay reveals a hidden approach to Aquabyssos Creature Compendium active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Plot Hooks
+
+- Someone is protecting an heir for revenge
+- Someone is blackmailing an heir for love
+- A noble needs help investigating before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

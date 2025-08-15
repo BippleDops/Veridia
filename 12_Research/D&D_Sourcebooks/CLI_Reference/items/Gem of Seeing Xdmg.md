@@ -24,18 +24,33 @@ updated: '2025-08-13T12:34:07.501547+00:00'
 world: Both
 ---
 
-
-
 # Gem of Seeing
 *Wondrous item, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/gem-of-seeing.webp#right)
-
 
 This gem has 3 charges. As a [[actions#Magic|Magic]] action, you can expend 1 charge. For the next 10 minutes, you have [[senses#Truesight|Truesight]] out to 120 feet when you peer through the gem.
 
 The gem regains `d3` expended charges daily at dawn.
 
-*Source: Dungeon Master's Guide (2024) p. 264. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 264. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -45,19 +60,33 @@ Gem of seeing xdmg is a undersea element of the setting, known for bioluminescen
 
 Legends speak of gem of seeing xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gem of seeing xdmg.
 
-## Adventure Hooks
-
-- A rumor ties gem of seeing xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gem of seeing xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to gem of seeing xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

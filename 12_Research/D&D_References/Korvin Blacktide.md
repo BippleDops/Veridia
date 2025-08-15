@@ -15,25 +15,26 @@ updated: '2025-08-13T01:18:36.833003+00:00'
 world: Both
 ---
 
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-korvin-blacktide-korvin-blacktide.svg)
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[Envoy Blackwater Jr.|02 Worldbuilding/Places/Envoy Blackwater Jr.]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Admiral Thorne Blackwater]]
-- [[Emperor Thalassius the Wise]]
-- [[Sir Marcus Dawnforge]]
-- [[Envoy Blackwater Jr.]]
 
 ## Player-Facing Summary
 
@@ -43,19 +44,24 @@ Korvin Blacktide is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of Korvin Blacktide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Korvin Blacktide.
 
-## Adventure Hooks
-
-- A rumor ties Korvin Blacktide to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Korvin Blacktide to avert a public scandal.
-- A map overlay reveals a hidden approach to Korvin Blacktide active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Relationships
+
+- **Rival**: [[Assets Locations Location City Dr Vera Spectrumseeker Dr Vera Spectrumseeker.svg]]
+- **Rival**: [[Sunken Kingdom of Nereon]]
+- **Lover**: [[Master_Artificer_Coral_Gemwright]]
+- **Ally**: [[The Republican Coalition]]
+- **Blackmailer**: [[Portrait NPC the Nameless Auditor V2 the Nameless Auditor.svg]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

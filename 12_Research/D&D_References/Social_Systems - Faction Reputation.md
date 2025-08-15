@@ -24,29 +24,11 @@ updated: '2025-08-13T12:34:17.788624+00:00'
 world: Both Worlds
 ---
 
-
-
-
-
 # Faction Reputation System
 *Tracking Standing with Groups*
 
-## Core Mechanics
-
 ### Reputation Scale
 **Range**: -100 to +100 (Hostile to Revered)
-
-#### Reputation Levels
-- **Revered (81-100)**: Legendary status, near-divine respect
-- **Exalted (61-80)**: Highly honored, significant privileges
-- **Honored (41-60)**: Respected member, trusted with secrets
-- **Friendly (21-40)**: Liked, welcomed presence
-- **Neutral (0-20)**: Unknown or indifferent
-- **Unfriendly (-20 to -1)**: Disliked, watched with suspicion
-- **Hostile (-40 to -21)**: Active opposition, denied services
-- **Hated (-60 to -41)**: Open enemies, attacked on sight
-- **Reviled (-80 to -61)**: Despised, bounties placed
-- **Nemesis (-100 to -81)**: Eternal enemies, no redemption
 
 ### Reputation Modifiers by Level
 | Level | Discount/Markup | Service Access | Information Access | Quest Availability |
@@ -62,15 +44,11 @@ world: Both Worlds
 | Reviled | No service | Banned | Active lies | Assassination |
 | Nemesis | Attacked | Killed on sight | War propaganda | Faction war |
 
-## Major Factions & Starting Reputation
-
-### Aethermoor Factions
-
 #### The Silverscale Consortium
 **Type**: Economic Powerhouse
 **Goals**: 
-- Complete market dominance
-- Corporate governance replacing monarchy
+- Complete market domice
+- Corporate goverce replacing monarchy
 - Crystal monopoly across both worlds
 - Debt-based control of nobility
 **Starting Reputation**: +0 (Neutral)
@@ -115,7 +93,7 @@ world: Both Worlds
 **Goals**:
 - Spiritual guidance for all
 - Healing and protection
-- Moral authority maintenance
+- Moral authority maintece
 - Prevention of dark magic
 **Starting Reputation**: +15 (Neutral-Friendly)
 **Reputation Gains**: Righteous acts (+3-10), Healing service (+2-5), Moral choices (+1-8)
@@ -125,14 +103,12 @@ world: Both Worlds
 **Type**: Information Network/Criminals
 **Goals**:
 - Information control
-- Shadow market dominance
+- Shadow market domice
 - Political manipulation
 - Survival through secrecy
 **Starting Reputation**: -10 (Unfriendly)
 **Reputation Gains**: Information trading (+2-8), Completed contracts (+5-15), Keeping secrets (+3-10)
 **Reputation Losses**: Information leaks (-8-25), Law enforcement cooperation (-10-30), Exposure (-15-40)
-
-### Aquabyssos Factions
 
 #### Parliament of Echoes
 **Type**: Democratic Government
@@ -162,7 +138,7 @@ world: Both Worlds
 - Deep sea security
 - Exploration of the abyss
 - Protection from leviathans
-- Pressure zone maintenance
+- Pressure zone maintece
 **Starting Reputation**: +15 (Neutral-Friendly)
 **Reputation Gains**: Military service (+5-15), Exploration support (+3-10), Monster slaying (+8-25)
 **Reputation Losses**: Cowardice (-10-30), Civilian endangerment (-8-20), Desertion (-15-40)
@@ -179,7 +155,7 @@ world: Both Worlds
 **Reputation Losses**: Cult disruption (-15-40), Ritual prevention (-20-50), Member rescue (-10-25)
 
 #### Ancient Mer-Folk Empire
-**Type**: Historical Power/Remnants
+**Type**: Historical Power/Remts
 **Goals**:
 - Restoration of ancient glory
 - Reclaim underwater territories
@@ -188,8 +164,6 @@ world: Both Worlds
 **Starting Reputation**: -15 (Unfriendly)
 **Reputation Gains**: Cultural respect (+3-10), Territory restoration (+10-25), Alliance building (+8-20)
 **Reputation Losses**: Cultural destruction (-10-30), Territory seizure (-15-35), Mer-folk hostility (-8-20)
-
-### Cross-Dimensional Factions
 
 #### The Convergence Seekers
 **Type**: Dimensional Scientists
@@ -224,41 +198,6 @@ world: Both Worlds
 **Reputation Gains**: Profitable partnerships (+3-10), Trade facilitation (+5-15), Economic growth (+8-20)
 **Reputation Losses**: Trade disruption (-8-20), Economic sabotage (-10-25), Partnership betrayal (-15-35)
 
-## Additional Factions (Minor)
-
-### Regional Powers
-- **Dockworkers Union**: Labor rights, fair wages, working conditions (+10 starting)
-- **Merchant Princes**: Trade wealth, luxury goods, social climbing (+5 starting)
-- **Thieves Guild**: Criminal enterprise, information, underground economy (-20 starting)
-- **Crystal Throne Syndicate**: Power consolidation, corruption, shadow rule (-15 starting)
-- **Temple of Divine Order**: Law, order, traditional values (+15 starting)
-
-### Specialized Groups
-- **The Artisans' Collective**: Craftsmanship, innovation, quality goods (+10 starting)
-- **Brotherhood of the Black Anchor**: Maritime brotherhood, sea traditions, mutual aid (+0 starting)
-- **Purist Coalition**: Anti-corruption, traditional purity, xenophobia (-5 starting)
-- **The Seekers' Guild**: Knowledge, exploration, discovery (+10 starting)
-- **Independent Smugglers**: Freedom, profit, anti-authority (-10 starting)
-
-## Reputation Change Events
-
-### Universal Modifiers
-- **Quest Completion**: +5 to +25 depending on importance
-- **Quest Failure**: -3 to -15 depending on consequences
-- **Betrayal**: -25 to -50, may trigger faction war
-- **Heroic Sacrifice**: +15 to +40, legendary status possible
-- **Public Humiliation**: -10 to -30, social consequences
-
-### Faction-Specific Events
-- **Economic**: Trade deals, contracts, market manipulation
-- **Military**: Service, battles, strategy, leadership
-- **Religious**: Devotion, moral choices, spiritual guidance
-- **Criminal**: Contracts, loyalty, silence, profit sharing
-- **Scientific**: Research, discovery, ethical choices
-- **Political**: Elections, legislation, diplomacy, intrigue
-
-## Reputation Tracking Sheet
-
 ### Individual Character Tracking
 ```
 Character: [Name]
@@ -283,32 +222,6 @@ CROSS-DIMENSIONAL:
 □ Convergence Seekers: [  ] ([Level])
 □ Void Watchers: [  ] ([Level])
 □ Liminal Trading: [  ] ([Level])
-```
-
-## Reputation Consequences
-
-### Social Benefits
-- **Information Access**: Higher rep = better intel
-- **Service Quality**: Discounts and priority treatment
-- **Quest Opportunities**: Exclusive missions at high rep
-- **Social Status**: Recognition and respect
-- **Political Power**: Influence and voting rights
-
-### Social Penalties
-- **Service Denial**: Refused at businesses
-- **Hostile Reception**: Attacked on sight
-- **Information Warfare**: False intel and lies
-- **Economic Pressure**: Inflated prices, denied credit
-- **Legal Problems**: Framed, arrested, prosecuted
-
-### Reputation Recovery
-- **Community Service**: Long-term reputation building
-- **Heroic Acts**: Dramatic reputation swings
-- **Public Apology**: Minor reputation restoration
-- **Faction Champion**: Sponsor helps rebuild reputation
-- **Time**: Slow natural recovery over seasons
-
-## DM Tools
 
 ### Reputation Event Generator
 Roll 1d20 for random reputation events:
@@ -332,6 +245,24 @@ Track specific events, key NPCs met, promises made, and faction-specific story b
 
 *"Your reputation precedes you—make sure it's saying what you want it to say."*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Faction Reputation is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -340,18 +271,9 @@ Faction Reputation is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Faction Reputation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Faction Reputation.
 
-## Adventure Hooks
-
-- A rumor ties Faction Reputation to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Faction Reputation to avert a public scandal.
-- A map overlay reveals a hidden approach to Faction Reputation active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

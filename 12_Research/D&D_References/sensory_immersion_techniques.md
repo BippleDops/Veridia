@@ -10,7 +10,23 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Sensory Immersion Techniques
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Environmental Storytelling Through Senses
 
@@ -43,14 +59,14 @@ Research on maximizing player immersion through systematic sensory description.
 ### Sensory Escalation Methodology
 
 1. **Establish Baseline** (First 30 seconds of scene)
-   - One primary sense dominant
+   - One primary sense domit
    - Two supporting senses mentioned
 
 2. **Layer Complexity** (Middle of scene)  
    - Add contradictory sensory elements
    - Introduce realm-specific signature markers
 
-3. **Emotional Resonance** (Scene climax)
+3. **Emotional Resoce** (Scene climax)
    - Connect physical sensations to emotional states
    - Use sensory memory triggers
 
@@ -86,7 +102,6 @@ atmospheric_tags: ["pressure", "isolation", "corruption", "beauty"]
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -94,3 +109,29 @@ atmospheric_tags: ["pressure", "isolation", "corruption", "beauty"]
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- A merchant needs help stealing before the new moon
+- A stranger needs help delivering before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

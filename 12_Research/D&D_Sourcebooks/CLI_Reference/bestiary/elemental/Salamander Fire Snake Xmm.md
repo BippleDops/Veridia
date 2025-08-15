@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:05.728626+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-salamander-fire-snake-xmm-salamander-fire-snake-xmm.svg)
 
@@ -40,6 +37,24 @@ world: Both
 *Source: Monster Manual (2024) p. 266*  
 
 Juvenile salamanders emerge from burning hot, two-foot-diameter eggs. Called fire snakes, these serpent-like creatures slither through the Plane of Fire and other intensely hot places. After consuming the proper fuels and exposing themselves to fiery extremes, fire snakes grow into salamanders.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Salamanders
 
@@ -55,7 +70,6 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 > [!quote] A quote from Filiag Highthumbs  
 > 
 > The salamanders of the Elemental Plane of Fire delight in meeting visitors from other realms. For them, every stranger is a potential addition to their fiery artistry. Don't fall for their flattery, no matter how beautifully they say you'll burn.
-
 
 ```statblock
 "name": "Salamander Fire Snake (XMM)"
@@ -106,19 +120,38 @@ Salamander fire snake xmm is a undersea element of the setting, known for biolum
 
 Legends speak of salamander fire snake xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around salamander fire snake xmm.
 
-## Adventure Hooks
-
-- A rumor ties salamander fire snake xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at salamander fire snake xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to salamander fire snake xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest a portal
+- Strange disappearances suggest a portal
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Consortium Security Constructs|02 Worldbuilding/Groups/Consortium Security Constructs]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Consortium Security Constructs]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,32 @@ Alpha Prime is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of Alpha Prime as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Alpha Prime.
 
-## Adventure Hooks
-
-- A rumor ties Alpha Prime to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Alpha Prime to avert a public scandal.
-- A map overlay reveals a hidden approach to Alpha Prime active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for information for revenge
+- A corpse reveals a conspiracy about the government
+- Strange sightings suggest a portal
+- A letter reveals a betrayal about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

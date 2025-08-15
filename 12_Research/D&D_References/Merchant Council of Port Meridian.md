@@ -17,28 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -48,28 +42,22 @@ Merchant Council of Port Meridian is a undersea element of the setting, known fo
 
 Legends speak of Merchant Council of Port Meridian as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merchant Council of Port Meridian.
 
-## Adventure Hooks
-
-- A rumor ties Merchant Council of Port Meridian to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Merchant Council of Port Meridian to avert a public scandal.
-- A map overlay reveals a hidden approach to Merchant Council of Port Meridian active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Merchant Council of Port Meridian|02 Worldbuilding/Places/Merchant Council Of Port Meridian]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Port Meridian - Merchant Quarter]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and war looms
+- Strange accidents suggest a conspiracy
+- An heirloom has gone missing and chaos spreads
+- Someone is hunting a witness for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

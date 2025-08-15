@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.902466+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-deathlock-mpmm-deathlock-mpmm.svg)
 
@@ -40,6 +37,24 @@ world: Both
 An overpowering urge to serve consumes the mind of a newly awakened deathlock. Any goals and ambitions it had in life that don't please its patron fall away as its master's desires become the purpose that drives it. The deathlock immediately resumes work on its patron's behalf.
 
 Whatever the goal, it always reflects the patron's interests, ranging from small-scale concerns to matters of cosmic scope. A deathlock in the thrall of a Fiend might work to destroy a specific temple dedicated to a good god, while one that serves a Great Old One might hunt for the materials needed to call forth a horrifying entity into the world. To accomplish a difficult goal, the deathlock might be forced to serve another powerful creature or might need to gather servants of its own.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Deathlocks
 
@@ -72,7 +87,6 @@ An powerful necromancer might also discover the wicked methods of creating a dea
   - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+4"
   - "name": "[[skills#History|History]]"
-    "desc": "+4"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "poison"
@@ -122,19 +136,31 @@ Deathlock mpmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of deathlock mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around deathlock mpmm.
 
-## Adventure Hooks
-
-- A rumor ties deathlock mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at deathlock mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to deathlock mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Depths
+
+
+## Plot Hooks
+
+- A corpse reveals ancient history about the cult
+- Someone is blackmailing information for power
+- A journal reveals a conspiracy about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

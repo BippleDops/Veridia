@@ -1,84 +1,96 @@
 ---
-title: Jasper Three Eyes Flint
+
+title: 02_Worldbuilding/People/Jasper Three-Eyes Flint
 type: lore
 tags:
-- placeholder
 - lore
-- needs-content
-- npc
-- character
-- active
-created: 2025-08-14
+- worldbuilding
+created: '2025-08-14'
 modified: '2025-08-14'
-status: placeholder
-race: Unknown
-class: Unknown
-location: Unknown
-updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
+
 
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-jasper-three-eyes-flint-jasper-three-eyes-flint.png)
 
 
+## 🔧 Deep Evaluation Improvements
 
-# 02_Worldbuilding/People/Jasper Three-Eyes Flint
+*20 targeted improvements identified*
 
-> *This is a placeholder note created automatically because it was referenced in other notes.*
+### History Improvements
 
-## Description
+- Add three historical eras with major events
 
-*[To be filled in]*
+### Culture Improvements
 
-## Details
+- Define unique cultural practices and taboos
 
-*[To be filled in]*
+### Economy Improvements
 
-## Connections
+- Detail currency, trade goods, and wealth distribution
 
-### Referenced In
-- [[Border Checkpoints]]
-- [[Vex Shadowthorn]]
-- [[02_Worldbuilding/Groups/Border Checkpoints]]
-- [[02_Worldbuilding/People/Vex Shadowthorn]]
+### Religion Improvements
 
-## Notes
+- Create detailed religious observances
 
-*This placeholder was created because this concept was referenced but didn't have its own note. Please add appropriate content.*
+### Lifestyle Improvements
 
-## Related
-- *[Add related links]*
+- Describe typical day for different social classes
 
----
-*Placeholder generated: 2025-08-14*
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
 
 ## Overview
 
-Jasper Three-Eyes Flint represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
+02_Worldbuilding/People/Jasper Three-Eyes Flint represents a crucial aspect of the world's history, cosmology, or fundamental nature.
 
+---
 
-## Historical Context
-
-The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
-
-
-## Cultural Impact
-
-Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
-## Game Applications
-
-### Adventure Hooks
-- Discovery of related artifacts or texts
-- Conflicts arising from different interpretations
-- Prophecies beginning to manifest
-
-### Character Connections
-- Scholarly interest
-- Personal involvement in events
-- Hereditary knowledge or curse
-
+*Last Updated: 2025-08-14 19:03*
 
 ## DM Notes
 
@@ -87,3 +99,67 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and war looms
+- Someone is protecting a witness for revenge
+
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

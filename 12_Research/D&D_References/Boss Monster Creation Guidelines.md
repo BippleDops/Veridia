@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.266787+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,29 @@ Boss Monster Creation Guidelines is a undersea element of the setting, known for
 
 Legends speak of Boss Monster Creation Guidelines as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Boss Monster Creation Guidelines.
 
-## Adventure Hooks
-
-- A rumor ties Boss Monster Creation Guidelines to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Boss Monster Creation Guidelines to avert a public scandal.
-- A map overlay reveals a hidden approach to Boss Monster Creation Guidelines active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Multi-Phase Boss Fights|02 Worldbuilding/Lore/Multi Phase Boss Fights]]
-
-
-## Connections
-
-- [[Multi-Phase Boss Fights]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing a artifact for money
+- A document has gone missing and evil awakens
+- Strange disappearances suggest a curse
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

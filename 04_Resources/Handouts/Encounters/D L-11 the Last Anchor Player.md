@@ -41,15 +41,9 @@ Possible outcomes
 - It holds for now
 - It breaks
 
-## Cross-References
-
-- [[06_GM_Resources/Session_Packets/Aquabyssos Session 01]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

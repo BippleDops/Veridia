@@ -1,4 +1,5 @@
 ---
+
 title: Counter Mirror Safe Houses
 type: Lore
 tags:
@@ -16,13 +17,76 @@ modified: '2025-08-14'
 status: complete
 updated: '2025-08-13T12:34:15.986682+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
-## Overview
 
-TODO
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
 
 ## Player-Facing Summary
 
@@ -32,50 +96,22 @@ Counter Mirror Safe Houses is a undersea element of the setting, known for biolu
 
 Legends speak of Counter Mirror Safe Houses as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Counter Mirror Safe Houses.
 
-## Adventure Hooks
-
-- A rumor ties Counter Mirror Safe Houses to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Counter Mirror Safe Houses to avert a public scandal.
-- A map overlay reveals a hidden approach to Counter Mirror Safe Houses active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Shadow Broker Mirrors|02 Worldbuilding/Groups/Shadow Broker Mirrors]]
-
-
-## Connections
-
-- [[Shadow Broker Mirrors]]
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-
-
 ## Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
-
 
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
 
-## Game Applications
 
-### Adventure Hooks
-- Discovery of related artifacts or texts
-- Conflicts arising from different interpretations
-- Prophecies beginning to manifest
+## Plot Hooks
 
-### Character Connections
-- Scholarly interest
-- Personal involvement in events
-- Hereditary knowledge or curse
+- A corpse reveals ancient history about a local noble
+- A merchant needs help delivering before the new moon
+- A journal reveals ancient history about the cult

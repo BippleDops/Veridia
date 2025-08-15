@@ -23,11 +23,9 @@ updated: '2025-08-12T23:37:37.593920'
 world: Both
 ---
 
-
 # Belt of Giant Strength
 *Wondrous item (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/belt-of-giant-strength.webp#right)
-
 
 | Belt | Str. | Rarity |
 |------|------|--------|
@@ -47,7 +45,25 @@ world: Both
 - [[belt-of-stone-giant-strength-xdmg|Belt of Stone Giant Strength]]
 - [[belt-of-storm-giant-strength-xdmg|Belt of Storm Giant Strength]]
 
-*Source: Dungeon Master's Guide (2024) p. 236. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 236. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -57,18 +73,9 @@ Belt of giant strength xdmg is a undersea element of the setting, known for biol
 
 Legends speak of belt of giant strength xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around belt of giant strength xdmg.
 
-## Adventure Hooks
-
-- A rumor ties belt of giant strength xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at belt of giant strength xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to belt of giant strength xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.229151'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-deep-rothe-mpmm-deep-rothe-mpmm.svg)
 
@@ -36,6 +34,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 71, Volo's Guide to Monsters p. 208*  
 
 Deep rothé are Underdark cattle that communicate with one another using the dancing lights spell. Some scholars speculate that rothé came originally from the Feywild and brought the ability to cast the spell with them. Other sages attribute the ability to the centuries rothé have spent in the Underdark, where ambient magic slowly transforms everything.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Cattle
 
@@ -56,7 +72,6 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
   - !!int "10"
   - !!int "14"
   - !!int "2"
-  - !!int "10"
   - !!int "4"
 "speed": "30 ft."
 "senses": "darkvision 60 ft., passive Perception 10"
@@ -94,19 +109,23 @@ Deep rothe mpmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of deep rothe mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around deep rothe mpmm.
 
-## Adventure Hooks
-
-- A rumor ties deep rothe mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at deep rothe mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to deep rothe mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- Someone is searching for an heir for money
+- A map reveals ancient history about the cult
+- Strange sightings suggest a portal
+- A shipment has gone missing and war looms

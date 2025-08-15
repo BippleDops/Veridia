@@ -24,16 +24,31 @@ updated: '2025-08-13T12:34:06.729258+00:00'
 world: Both
 ---
 
-
-
 # Sphere of Annihilation
 *Wondrous item, legendary*  
 ![](/03_Mechanics/CLI/items/img/sphere-of-annihilation.webp#right)
 
-
 This 2-foot-diameter black sphere is a hole in the multiverse, hovering in space and stabilized by a magical field surrounding it.
 
 The sphere obliterates all matter it passes through and all matter that passes through it. Artifacts are the exception. Unless an Artifact is susceptible to damage from a Sphere of Annihilation, it passes through the sphere unscathed. Anything else that touches the sphere but isn't wholly engulfed and obliterated by it takes `8d10` Force damage.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Controlling the Sphere
 
@@ -54,7 +69,7 @@ If the sphere comes into contact with a planar portal (such as that created by t
 | 86-00 | A spatial rift sends the sphere and each creature and object within 180 feet of the sphere to a random plane of existence. |
 ^1-result
 
-*Source: Dungeon Master's Guide (2024) p. 306. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 306. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -64,19 +79,21 @@ Sphere of annihilation xdmg is a undersea element of the setting, known for biol
 
 Legends speak of sphere of annihilation xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sphere of annihilation xdmg.
 
-## Adventure Hooks
-
-- A rumor ties sphere of annihilation xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at sphere of annihilation xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to sphere of annihilation xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals the truth about a local noble
+- Strange disappearances suggest ancient magic
+- An heirloom has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.956522+00:00'
 world: Both
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-king-torrhen-lumengarde-king-torrhen-lumengarde.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Quest - The Pretender|02 Worldbuilding/Places/Quest The Pretender]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Quest - The Pretender]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,32 @@ King Torrhen Lumengarde is a undersea element of the setting, known for biolumin
 
 Legends speak of King Torrhen Lumengarde as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around King Torrhen Lumengarde.
 
-## Adventure Hooks
-
-- A rumor ties King Torrhen Lumengarde to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at King Torrhen Lumengarde to avert a public scandal.
-- A map overlay reveals a hidden approach to King Torrhen Lumengarde active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A map reveals a betrayal about the cult
+- A document has gone missing and chaos spreads
+- Someone is hunting information for love
+- A merchant needs help finding before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

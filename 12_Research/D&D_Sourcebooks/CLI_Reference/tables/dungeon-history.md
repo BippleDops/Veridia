@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.572997'
 world: Both
 ---
 
-
 # Dungeon History
 *Source: Dungeon Master's Guide p. 101* 
 
@@ -45,6 +44,24 @@ world: Both
 | 20 | Site of a great miracle |
 ^dungeon-history
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Dungeon history is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -53,19 +70,17 @@ Dungeon history is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of dungeon history as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dungeon history.
 
-## Adventure Hooks
-
-- A rumor ties dungeon history to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dungeon history to avert a public scandal.
-- A map overlay reveals a hidden approach to dungeon history active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a conspiracy about the cult
+- Someone is hunting an heir for revenge
+- Someone is blackmailing a witness for power

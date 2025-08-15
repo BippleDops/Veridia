@@ -21,15 +21,12 @@ updated: '2025-08-12T23:37:34.621780'
 world: Both
 ---
 
-
 # Chapter 10: The Sea of Moving Ice
 *Source: Rise of Tiamat, p. 110* 
 
 ![](/03_Mechanics/CLI/adventures/rise-of-tiamat/img/007-tod-10-01.webp#center)
 
 Far to the north, beyond the Spine of the World and above even Icewind Dale, lies the Sea of Moving Ice. Gigantic icebergs wander listlessly through this glasslike sea, or are sent smashing and grinding against each other by bitterly cold winds, the sea spray transformed into fantastic frozen shapes around them. Only creatures adapted to severe cold can survive such frigid extremes, but many beasts—and even people—make their homes in the Sea of Moving Ice. One such creature is the white dragon Arauthator, known as "Old White Death" by those he stalks and terrorizes. In this section of the adventure, the heroes' battle against the cult leads them to one of Arauthator's iceberg lairs.
-
-## Introduction
 
 ### The Draakhorn's Call
 
@@ -40,7 +37,6 @@ The adventurers were introduced to the [[draakhorn-rot|Draakhorn]] by Dala Silme
 > [!readaloud] 
 > 
 > "The Sea of Moving Ice was the last known location of the [[draakhorn-rot|Draakhorn]]. No one can pinpoint its present location from the sound, or even verify with certainty that the relic is still in the northern sea, but the search must start there.
-> 
 > "The one person who could tell us more is a tiefling sorcerer called [[/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot|Maccath the Crimson]]. No one alive knows more about the [[draakhorn-rot|Draakhorn]] than her, but the Arcane Brotherhood, of which she is also a member, hasn't seen her for three years. She was investigating the Sea of Moving Ice when she disappeared."
 ^081
 
@@ -64,10 +60,7 @@ The Arcane Brotherhood is a league of mages based in the city of Luskan at the f
 
 Dala Silmerhelve provides the characters with all that is known of Maccath's fate.
 
-> [!readaloud] 
-> 
 > "Maccath reported her progress to the Hosttower by way of [[sending-xphb|sending]] spells. Her last report spoke of seeing Ice Hunters paddling their sealskin boats toward a huge iceberg, flattened like a plateau across its surface, but ringed by icy peaks. She had intended to follow the Ice Hunters and investigate the iceberg. After that, no more reports came.
-> 
 > "Attempts to find Maccath using scrying and other magical means located only her ship, adrift and heavily damaged. Some of the ship's crew were seen dead, but no sign of the tiefling sorcerer was ever found. However, the lair of a dragon as powerful as Arauthator is no doubt protected against scrying magic. If Maccath is alive, in addition to the lore she can share regarding the [[draakhorn-rot|Draakhorn]], the Arcane Brotherhood would be most grateful to get her back."
 ^084
 
@@ -76,6 +69,24 @@ Dala Silmerhelve provides the characters with all that is known of Maccath's fat
 In Waterdeep, the characters are outfitted with cold weather gear, including snowshoes suitable for traversing deep drifts, and have passage north arranged on a ship specially built for plying the waters of the Sea of Moving Ice. *Frostskimmr* is captained by a human male known as Lerustah Half-face. The right half of his face was left a scarred ruin from severe frostbite suffered years ago on the Sea of Moving Ice. He keeps a leather hood drawn across his face most of the time, both for warmth and so as not to frighten children. Lerustah is a brave explorer and a skilled sailor.
 
 *Frostskimmr* is a light longship with a shallow draft, driven by a single sail or by oars when necessary. The combination of wind and oar power is needed for picking a course through close-packed ice. Despite the ship's length of nearly sixty feet, it is still light enough to be lifted by its forty crew members if it becomes hemmed in by ice. The ship is open to the air, but the crew rig sailcloth shelters across the deck to keep away the wind and sleet and hold in some warmth.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## The Sea of Moving Ice
 
@@ -95,7 +106,7 @@ Searching the Sea of Moving Ice for the plateau-like iceberg described by Maccat
 
 #### Sea of Moving Ice Encounters
 
-| d6 + <span>[Modifier]</span> | Encounter or Event |
+| d6 + [Modifier] | Encounter or Event |
 |------------------------------|--------------------|
 | 1 | [[giant-octopus-xmm|Giant octopi]] |
 | 2 | [[merrow-xmm|Merrow]] |
@@ -207,11 +218,8 @@ With effective roleplaying and a DC 15 Charisma ([[skills#Persuasion|Persuasion]
 Beneath the village lies a network of ice caves inhabited by Arauthator and his minions. Two entrances lead into the caves from the village: one hidden inside the meeting hall and the other inside the shaman's hut. The dragon enters the caves by way of underwater tunnels that connect to his lair chamber, but these are too deep and well hidden to be used by the adventurers.
 
 > [!note] Ice Toads
-> 
 > Arauthator has attracted a number of ice toads to Oyaviggaton, where they help to maintain the iceberg and the dragon's many treasures and trophies. The ice toads are good at this job, thanks to their exceptionally intelligent leader, [[/03_Mechanics/CLI/bestiary/npc/marfulb-rot|Marfulb]].
-> 
 > Feeding on seals, sea birds, and fish caught for them by the Ice Hunters, Oyaviggaton's ice toads are not automatically hostile to strangers. Once characters get inside Arauthator's lair, they might find that these creatures can be helpful to their quest. Ice toads normally speak only their own obscure language. Those in Oyaviggaton know a little Draconic and Uluik (the language of the Ice Hunters), but their accents are thick and their pronunciation atrocious. [[/03_Mechanics/CLI/bestiary/npc/marfulb-rot|Marfulb]] is fluent in Draconic thanks to many hours spent conversing with Arauthator.
-> 
 > When the characters encounter ice toads, their intelligence won't be apparent until they act or attempt to speak. Even then, characters might not recognize the ice toads' croaking as language. Ice toads move on all fours, but their webbed front feet are surprisingly dexterous. Some carry tools and useful items in pouches slung around their necks.
 ^ice-toads
 
@@ -227,7 +235,7 @@ Most passages in the ice caves are at least 15 feet wide, and ceilings are 20 fe
 
 The floors inside the iceberg are worn glass-smooth from decades of traffic. Arauthator, the ice trolls, and the ice toads move across the slick ice with ease thanks to claws and bony spurs on their feet that give them traction. The dragon's kobold servants wear crampons made of animal teeth strapped to their feet. Characters without crampons or the ability to walk on ice treat all areas of the ice caves as difficult terrain. A successful DC 10 Intelligence check allows a character to rig a set of crampons from items in a climbing kit, or to convert a pair of kobold-sized crampons to fit a Medium creature. Snowshoes are of no help inside the iceberg.
 
-There are no stairs inside the iceberg; the floor slopes between areas of different elevation. Characters can slide down a one-level ramp with ease. Sliding down a two-level ramp (for example, from area 10 to area 9) is automatic if the character is sitting, but requires a DC 10 Dexterity ([[skills#Acrobatics|Acrobatics]]) check if the character tries to slide down while standing. Characters equipped with crampons cannot stand, but can treat ramps as difficult terrain. Moving along a two-level ramp with crampons also requires a successful DC 12 Dexterity ([[skills#Acrobatics|Acrobatics]]) check. Characters without crampons can climb a one-level ramp with a successful DC 15 Dexterity check, or can climb a two-level ramp with a successful DC 20 Dexterity check. [[skills#Acrobatics|Acrobatics]] is of no use to these checks, but using a climber's kit grants advantage on the checks. Any failed Dexterity check to move on a ramp results in the character sliding to the bottom of the ramp and falling [[conditions#Prone|prone]].
+There are no stairs inside the iceberg; the floor slopes between areas of different elevation. Characters can slide down a one-level ramp with ease. Sliding down a two-level ramp (for example, from area 10 to area 9) is automatic if the character is sitting, but requires a DC 10 Dexterity ([[skills#Acrobatics|Acrobatics]]) check if the character tries to slide down while standing. Characters equipped with crampons cannot stand, but can treat ramps as difficult terrain. Moving along a two-level ramp with crampons also requires a successful DC 12 Dexterity ([[skills#Acrobatics|Acrobatics]]) check. Characters without crampons can climb a one-level ramp with a successful DC 15 Dexterity check, or can climb a two-level ramp with a successful DC 20 Dexterity check. [[skills#Acrobatics|Acrobatics]] is of no use to these checks, but using a climber's kit grants advantage on the checks. Any failed Dexterity check to move on a ramp results in the character sliding to the bottom of the ramp and falling [[conditions#prone|prone]].
 
 #### Light
 
@@ -284,8 +292,6 @@ Encountered singly or in small roving gangs, [[ice-troll-rot|ice trolls]] are or
 > ![[/03_Mechanics/CLI/adventures/rise-of-tiamat/img/009-map-10-1-arauthators-iceberg.webp#gallery|Map 10.1: Arauthator's Iceberg and Lair]]
 > ![[/03_Mechanics/CLI/adventures/rise-of-tiamat/img/010-map-10-1-arauthators-iceberg-player.webp#gallery|Player Version]]
 
-### Ice Caves (areas 1-7)
-
 ### 1. Entrance from Hut
 
 Inside the hut of the shaman Bonecarver, old furs heaped atop poles are laid across an opening leading down to the ice caves. Steps are cut into the wall of the chute, creating steep, icy stairs that drop down 100 feet in a tight spiral. Because this entrance is seldom used, the steps become increasingly obscured by frost as the characters descend. At the 40-foot mark, a character must attempt a DC 12 Dexterity ([[skills#Acrobatics|Acrobatics]]) check to maintain a grip on the dangerously uneven footholds. Failure means the character loses his or her footing, sliding and tumbling 60 feet to the bottom and taking 21 (`6d6`) bludgeoning damage. Characters can mitigate this danger by roping themselves together or using a climber's kit. Past the 40-foot mark, the steps improve again so that no further checks are necessary.
@@ -312,8 +318,6 @@ Also stockpiled in this chamber are coils of rope, spikes, and a few pulleys. It
 
 Arauthator's kobold servants live in this chamber.
 
-> [!readaloud] 
-> 
 > A dozen kobolds occupy this disheveled and filthy chamber. Half-eaten fish heads and gnawed seal flippers are tossed into corners or carelessly strewn around matted heaps of furs, which would undoubtedly smell as bad as they look if not for the cold.
 ^0ad
 
@@ -333,8 +337,6 @@ The kobolds throw their litter, food scraps, waste, worn-out boots, and other us
 
 This narrow cavern is the access point to the lair of Arauthator below.
 
-> [!readaloud] 
-> 
 > This chamber feels far colder than any area of the ice caves you've explored so far. The cold issues from a yawning pit in the floor that twists down into darkness, and above which a heavy iron hook is anchored in the ice of the ceiling. A five-foot-wide walkway extends around both sides of the pit, connecting this entrance to an exit across the room. Carved into the ice of the walls are images of white dragons in flight.
 ^0b1
 
@@ -347,8 +349,6 @@ The chute drops 60 feet to the top of the ice platform in area 16  in Arauthator
 The bodies of some of the frost giants Arauthator has fought and killed over the centuries are on display in this chamber, frozen into crystal-clear ice walls. Visibility at this level is only 45 feet, so characters won't be able to see much from the doorway. As they move into the chamber, the shape of the first frost giant becomes dimly visible at a distance of 60 feet. At 45 feet, the figure is easily mistakable for a living frost giant standing perfectly still. At 30 feet, the characters recognize that the giant is dead and frozen, seeing its torn armor and the awful claw wounds in its pale blue flesh. The hall displays the bodies of eight frost giants, one fire giant, and one cloud giant.
 
 When the characters arrive in this area, 8 [[kobold-warrior-xmm|kobolds]] are working in the chamber, polishing and maintaining the ice. If they recognize the characters as intruders, they try to keep away from them in the fog, then slip out of the chamber when they can.
-
-### Ice Caves (areas 8-14)
 
 ### 8. Trophy Hall
 
@@ -370,8 +370,6 @@ If [[/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot|Maccath the Crimson]
 
 At the top of the ramp from area 9, 1 ice [[ice-troll-rot|ice troll]] (see area 12) stands guard over this cavern. It positions itself around the corner so it can't be seen until intruders reach the top of the ramp.
 
-> [!readaloud] 
-> 
 > The empty ice floor of this chamber holds a most unexpected sight. A large shelter is seemingly built of scraps, and in the style of the tents used by the desert nomads of Calimshan, some two thousand miles to the south.
 ^0b8
 
@@ -379,17 +377,12 @@ Maccath's shelter is made from huge tapestries and carpets draped across a frame
 
 When the characters step inside, read or paraphrase the following.
 
-> [!readaloud] 
-> 
 > The interior of the shelter is surprisingly warm, thanks to a small stove and simple lamps burning aromatic whale oil. Carpets are heaped on the floor in thick layers, and tapestries from every culture in Faerûn hang suspended from a sturdy frame of whale ribs.
-> 
 > Books and scrolls are stacked neatly on tables and reading stands made of hide and whalebone. The only furnishings in the shelter not made from these natural materials are the carpets and tapestries, and a portable writing desk that appears to have been taken from a sailing ship.
 ^0b9
 
 If this is the characters' first meeting with [[/03_Mechanics/CLI/bestiary/npc/maccath-the-crimson-rot|Maccath the Crimson]], add:
 
-> [!readaloud] 
-> 
 > Seated at the writing desk is a female tiefling wearing a blazing crimson cloak over tailored furs. The cloak is fastened with a silver-and-ivory brooch bearing a design reminiscent of a stylized, branching tree—the symbol of the Arcane Brotherhood. Two kobold attendants stand nearby, glancing nervously between you and the tiefling. After a few moments, the tiefling looks up with an expression of pale disinterest and asks, "Have you come to save me or kill me? Not that there will be much difference between the two."
 ^0ba
 
@@ -424,8 +417,6 @@ If the party seems intent on fighting Arauthator, Maccath offers them a [[ring-o
 
 Though this chamber is deeper than the adjacent caverns, no mist hangs in the air here.
 
-> [!readaloud] 
-> 
 > Three shelves stand in this otherwise empty cavern, cobbled together out of salvaged wood, whale bone, pieces of giants' armor, and even the frozen limbs of yetis. A number of scrolls, books, parchments, and folios are carefully arranged on the shelves, all bearing the markings of magical writing.
 ^0be
 
@@ -449,8 +440,6 @@ The ice trolls that Arauthator has gathered to his service use this hall as thei
 
 A minimum of 2 [[ice-troll-rot|ice trolls]] are here when characters first enter, but 3 or more can be placed in this area at your discretion (and depending on whether the adventurers meet conditions that might lead to fighting; see below).
 
-> [!readaloud] 
-> 
 > This cavernous chamber is filled with drifting mist that shrouds a field of ice pillars rising from floor to ceiling. The muffled silence beyond is broken only by the sound of running water.
 ^0c2
 
@@ -464,8 +453,6 @@ The trolls speak Giant and understand a little bit of the Draconic tongue. They 
 
 Giant ice toads serve Arauthator as overseers at Oyaviggaton. They manage the labor of the kobolds, direct the Ice Hunter villagers to provide the lair with food and other supplies, and have the patience required to deal with the ornery ice trolls.
 
-> [!readaloud] 
-> 
 > A bizarre sight greets you in this rough-walled chamber. About a dozen giant toads with thick, mottled white hides are at work here, scribing strange writing into the ice of the walls, or onto weathered parchment and stone tablets. A few toads transfer parchments and tablets into and out of floor-to-ceiling cubbyholes cut into the ice along the entire southern wall.
 ^0c4
 
@@ -473,7 +460,7 @@ A total of 11 [[ice-toad-rot|ice toads]] (see appendix D for statistics) work in
 
 See "Random Encounters" (above) for guidelines on how the giant ice toads respond to intruders. The characters' best chance to avoid a fight in this area—and to keep the toads from alerting the ice trolls—is to win the ice toads to their cause by treating with their leader, [[/03_Mechanics/CLI/bestiary/npc/marfulb-rot|Marfulb]].
 
-The average ice toad is smart, but their leader [[/03_Mechanics/CLI/bestiary/npc/marfulb-rot|Marfulb]] is exceptional (Intelligence 13). Her knack for organization and governance had no outlet until her path crossed Arauthator's on the Sea of Moving Ice, and she has served as the seneschal of Oyaviggaton for the four decades since. Not even Arauthator understands the workings of Oyaviggaton as well as [[/03_Mechanics/CLI/bestiary/npc/marfulb-rot|Marfulb]], who knows the contents and value of every pack, chest, and heap of coins in the iceberg down to the last copper piece.
+The average ice toad is smart, but their leader [[/03_Mechanics/CLI/bestiary/npc/marfulb-rot|Marfulb]] is exceptional (Intelligence 13). Her knack for organization and goverce had no outlet until her path crossed Arauthator's on the Sea of Moving Ice, and she has served as the seneschal of Oyaviggaton for the four decades since. Not even Arauthator understands the workings of Oyaviggaton as well as [[/03_Mechanics/CLI/bestiary/npc/marfulb-rot|Marfulb]], who knows the contents and value of every pack, chest, and heap of coins in the iceberg down to the last copper piece.
 
 #### Marfulb's Lore
 
@@ -525,7 +512,7 @@ If the characters approach, the scrags duck into hiding places, then attempt to 
 
 Pillars of ice jut from the floor in this area. Climbing an ice pillar more than 8 feet tall requires a climber's kit and a successful DC 15 Strength ([[skills#Athletics|Athletics]]) check.
 
-A creature dropping down the chute from area 6 lands on the top level of the large ice platform in the southeast part of the cavern, 16 feet above the cavern floor. The creature must then succeed on a DC 15 Dexterity saving throw to stay on the platform. (A creature that intentionally jumps down the chute takes half damage from the descent and has advantage on this saving throw.) If the saving throw fails, the creature slides off the top level of the icy platform and hits the second level, taking 3 (`d6`) bludgeoning damage and falling [[conditions#Prone|prone]].
+A creature dropping down the chute from area 6 lands on the top level of the large ice platform in the southeast part of the cavern, 16 feet above the cavern floor. The creature must then succeed on a DC 15 Dexterity saving throw to stay on the platform. (A creature that intentionally jumps down the chute takes half damage from the descent and has advantage on this saving throw.) If the saving throw fails, the creature slides off the top level of the icy platform and hits the second level, taking 3 (`d6`) bludgeoning damage and falling [[conditions#prone|prone]].
 
 Any creature falling to the cavern floor attracts the attention of the scrags in area 15.
 
@@ -533,7 +520,7 @@ Any creature falling to the cavern floor attracts the attention of the scrags in
 
 This jagged ridge of ice divides the cavern into sections. Climbing up to at least the 8-foot level and moving along the ridge is the only safe way to get from area 15 or 16 into area 19 or 20 without encountering the traps in areas 18a and 18b.
 
-Unlike other ledges in the cavern, the horizontal surfaces of the Icewolf's Spine aren't level. The denizens of the lair can traverse the ledges without difficulty, but any other creature that moves more than 15 feet during a round must make a DC 12 Dexterity ([[skills#Acrobatics|Acrobatics]]) check. Failure indicates that the creature loses its footing and falls to the next level below, taking 3 (`d6`) bludgeoning damage and landing [[conditions#Prone|prone]]. Wearing crampons grants advantage on this check.
+Unlike other ledges in the cavern, the horizontal surfaces of the Icewolf's Spine aren't level. The denizens of the lair can traverse the ledges without difficulty, but any other creature that moves more than 15 feet during a round must make a DC 12 Dexterity ([[skills#Acrobatics|Acrobatics]]) check. Failure indicates that the creature loses its footing and falls to the next level below, taking 3 (`d6`) bludgeoning damage and landing [[conditions#prone|prone]]. Wearing crampons grants advantage on this check.
 
 ### 18a. The Gullet
 
@@ -603,20 +590,23 @@ The characters gain a level at the end of this chapter.
 
 Legends speak of 03 chapter 10 the sea of moving ice as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 03 chapter 10 the sea of moving ice.
 
-## Adventure Hooks
-
-- A rumor ties 03 chapter 10 the sea of moving ice to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 03 chapter 10 the sea of moving ice to avert a public scandal.
-- A map overlay reveals a hidden approach to 03 chapter 10 the sea of moving ice active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help stealing before winter
+- A prisoner has gone missing and war looms
+- Someone is protecting a witness for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

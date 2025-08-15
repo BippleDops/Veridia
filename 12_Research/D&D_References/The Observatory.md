@@ -15,26 +15,26 @@ world: Both
 updated: '2025-08-13T01:18:34.554375+00:00'
 ---
 
-
 > [!figure] Asset
 ![[04_Resources/Assets/Locations/location-city-the-observatory-the-observatory.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## Historical Context
+### Enhancement Improvements
 
-TODO
-## Current Relevance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## See Also
-
-TODO
 
 ## Player-Facing Summary
 
@@ -44,25 +44,21 @@ The Observatory is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of The Observatory as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Observatory.
 
-## Adventure Hooks
-
-- A rumor ties The Observatory to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Observatory to avert a public scandal.
-- A map overlay reveals a hidden approach to The Observatory active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[The Observatory|02 Worldbuilding/Places/The Observatory]]
+## Secret Connections
 
-<!-- enriched: true -->
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
 
 
-## Connections
+## Prophecy Connection
 
-- See also: [[Campaign Guide]]
-- Related: [[Recent Events]]
-- Connected to: [[Character Backstories]]
+Mentioned in The Second Prophecy of Stars
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

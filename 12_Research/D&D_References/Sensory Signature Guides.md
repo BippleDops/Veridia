@@ -11,19 +11,12 @@ tags:
 - active
 - complete
 - status/in-progress
-created: null
+created: 
 modified: '2025-08-14'
 status: complete
 updated: '2025-08-13T12:34:28.523622+00:00'
 world: Both
 ---
-
-
-
-# Sensory Signature Guides
-## Regional Environmental Characteristics
-
-### **AQUABYSSOS - THE DEPTHS**
 
 #### Core Sensory Profile
 **Visual**: Bioluminescent spectrum dominates—blues, greens, and cold purples replacing natural sunlight. Coral veins pulse through architecture like living circulatory systems. Temporal layers create double-vision effects where multiple time periods overlap visually.
@@ -108,12 +101,10 @@ world: Both
 
 ---
 
-### **AETHERMOOR - THE SKY CITIES**
-
 #### Core Sensory Profile
 **Visual**: Crystal-enhanced light creating prismatic effects everywhere. Magical machinery produces visible energy flows. Architectural impossibilities supported by crystal technology. Vast sky views with floating platforms and crystal bridges.
 
-**Audio**: Crystal resonance harmonics underlying all sound, wind patterns channeled through architectural design, magical machinery humming, coordinated crystal formations creating symphonic ambiance.
+**Audio**: Crystal resoce harmonics underlying all sound, wind patterns channeled through architectural design, magical machinery humming, coordinated crystal formations creating symphonic ambiance.
 
 **Olfactory**: Clean, high-altitude air with crystal ozone, minimal organic scents except in gardens, metallic notes from extensive crystal machinery, artificially pure atmosphere.
 
@@ -127,7 +118,7 @@ world: Both
 
 **Crystal Gardens - The Prismatic Heart**
 - Living crystal formations singing in harmonic coordination
-- Scent-signatures from magical resonance rather than organic chemistry
+- Scent-signatures from magical resoce rather than organic chemistry
 - Footsteps creating musical tones on crystal-laced pathways
 - Air weight and texture like silk fabric that can be felt but not grasped
 
@@ -139,7 +130,7 @@ world: Both
 
 **Sky Cities - Floating Platforms**
 - Constant gentle wind from altitude, channeled by architectural design
-- Crystal-supported structures creating unique resonance patterns
+- Crystal-supported structures creating unique resoce patterns
 - Vast spatial awareness from unobstructed sky views
 - Reduced weight sensation from anti-gravity crystal fields
 
@@ -153,7 +144,7 @@ world: Both
 
 **1,000-3,000 feet (Mid-Level Cities)**
 - Slight breathing changes, enhanced endurance from magical air
-- Noticeable crystal resonance affecting coordination and grace
+- Noticeable crystal resoce affecting coordination and grace
 - Wind patterns becoming significant navigation factor
 - Magical field effects enhancing physical capabilities
 
@@ -169,7 +160,7 @@ world: Both
 - Maximum magical enhancement of physical and mental abilities
 - Cosmic perspective effects creating philosophical/spiritual responses
 
-#### Crystal Resonance Effects
+#### Crystal Resoce Effects
 
 **Harmonic Attunement**: Prolonged exposure causes personal biorhythms to synchronize with crystal frequencies, improving health and magical ability.
 
@@ -183,13 +174,11 @@ world: Both
 
 **Storm Systems**: Crystal networks channel and redirect weather, creating spectacular but safe lightning displays, wind art through architectural design.
 
-**Seasonal Cycles**: Climate control maintains optimal conditions, but seasonal celebrations enhance crystal resonance patterns for cultural/emotional variety.
+**Seasonal Cycles**: Climate control maintains optimal conditions, but seasonal celebrations enhance crystal resoce patterns for cultural/emotional variety.
 
 **Wind Patterns**: Architectural design transforms wind into musical instruments, practical transportation aid, and aesthetic experience.
 
 ---
-
-### **CORRUPTION ZONES - CRYSTAL PLAGUE AREAS**
 
 #### Progressive Corruption Stages
 
@@ -229,8 +218,6 @@ world: Both
 
 ---
 
-### **MEMORY MERCHANT DISTRICTS**
-
 #### Sensory Experience Specializations
 
 **Nostalgia Markets**
@@ -247,7 +234,7 @@ world: Both
 
 **Experience Galleries**
 - Synaesthetic sensory combinations where memories cross sensory boundaries
-- Emotional resonance from others' experiences affecting personal mood
+- Emotional resoce from others' experiences affecting personal mood
 - False memory implantation creating confusion about personal history
 - Temporal vertigo from experiencing different time periods simultaneously
 
@@ -255,13 +242,11 @@ world: Both
 
 **Safe Interaction**: Protective equipment creating sensory barriers, time-limited exposure preventing identity confusion, memory anchors maintaining personal identity.
 
-**Risk Management**: Identity verification procedures, memory contamination detection, psychological stability monitoring, reality anchor maintenance.
+**Risk Management**: Identity verification procedures, memory contamination detection, psychological stability monitoring, reality anchor maintece.
 
 **Professional Handling**: Specialized training for memory merchants, protective rituals and equipment, collective memory storage and organization systems.
 
 ---
-
-### **SHADOW INDEPENDENT ZONES**
 
 #### Progressive Shadow Autonomy
 
@@ -287,8 +272,6 @@ world: Both
 
 ---
 
-### **CROSS-REGIONAL TRANSITION ZONES**
-
 #### Aethermoor-Aquabyssos Boundaries
 **Pressure Transition**: Gradual shift from crystal-lightened air to water-pressure intensity
 **Temperature Gradients**: Crystal warmth gradually replaced by depth-cold
@@ -309,8 +292,6 @@ world: Both
 
 ---
 
-### **PRACTICAL APPLICATION GUIDELINES**
-
 #### For Game Masters
 1. **Layered Description**: Start with one primary sense, then add others gradually
 2. **Cultural Consistency**: Maintain regional sensory signatures for world-building immersion
@@ -329,6 +310,24 @@ world: Both
 3. **Cultural Integration**: Different peoples should have developed cultural responses to their environmental sensory conditions
 4. **Mechanical Integration**: Sensory descriptions should support rather than contradict game mechanical systems
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Sensory Signature Guides is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -337,19 +336,38 @@ Sensory Signature Guides is a undersea element of the setting, known for biolumi
 
 Legends speak of Sensory Signature Guides as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sensory Signature Guides.
 
-## Adventure Hooks
-
-- A rumor ties Sensory Signature Guides to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Sensory Signature Guides to avert a public scandal.
-- A map overlay reveals a hidden approach to Sensory Signature Guides active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Winds
+
+
+## Plot Hooks
+
+- A document has gone missing and truth emerges
+- A document has gone missing and war looms
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

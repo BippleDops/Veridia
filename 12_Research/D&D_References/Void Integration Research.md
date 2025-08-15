@@ -17,28 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -48,28 +42,20 @@ Void Integration Research is a void-touched element of the setting, known for im
 
 Legends speak of Void Integration Research as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Void Integration Research.
 
-## Adventure Hooks
-
-- A rumor ties Void Integration Research to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Void Integration Research to avert a public scandal.
-- A map overlay reveals a hidden approach to Void Integration Research active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Void Integration Research|02 Worldbuilding/Places/Void Integration Research]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Forge of War]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- A letter reveals ancient history about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

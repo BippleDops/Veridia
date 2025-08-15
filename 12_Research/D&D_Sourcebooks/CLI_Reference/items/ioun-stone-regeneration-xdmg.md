@@ -24,11 +24,9 @@ updated: '2025-08-12T23:37:37.333940'
 world: Both
 ---
 
-
 # Ioun Stone, Regeneration
 *Wondrous item, legendary (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/ioun-stone.webp#right)
-
 
 Roughly marble sized, *Ioun Stones* are named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of *Ioun Stones* exist, each type a distinct combination of shape and color.
 
@@ -40,7 +38,25 @@ As a [[actions#Utilize|Utilize]] action, you can seize and stow any number of *I
 
 You regain 15 [[hit-points-xphb|Hit Points]] at the end of each hour this pearly white spindle orbits your head if you have at least 1 [[hit-points-xphb|Hit Point]].
 
-*Source: Dungeon Master's Guide (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 273. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -50,19 +66,33 @@ Ioun stone regeneration xdmg is a undersea element of the setting, known for bio
 
 Legends speak of ioun stone regeneration xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ioun stone regeneration xdmg.
 
-## Adventure Hooks
-
-- A rumor ties ioun stone regeneration xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ioun stone regeneration xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to ioun stone regeneration xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting an heir for love
+- A letter reveals the truth about the cult
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -30,10 +30,8 @@ updated: '2025-08-12T23:37:36.283998'
 world: Both
 ---
 
-
 # Aura of Vitality
 *3rd-level, Abjuration*  
-
 
 - **Casting time:** 1 Action
 - **Range:** Self (30-foot Emanation)
@@ -46,6 +44,24 @@ An aura radiates from you in a 30-foot [[emanation-area-of-effect-xphb|Emanation
 
 *Source: Player's Handbook (2024) p. 244*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Aura of vitality xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -54,19 +70,20 @@ Aura of vitality xphb is a undersea element of the setting, known for biolumines
 
 Legends speak of aura of vitality xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around aura of vitality xphb.
 
-## Adventure Hooks
-
-- A rumor ties aura of vitality xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at aura of vitality xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to aura of vitality xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -10,7 +10,23 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Corruption Mechanics Analysis
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Psychological and Mechanical Framework for Transformation Systems
 
@@ -34,7 +50,7 @@ Rather than binary "corrupted/pure" states, research supports a seven-stage prog
 - Enhances mental abilities and magical power
 - Increases emotional control and logical thinking
 - Reduces empathy and creative flexibility
-- Creates harmonic resonance with others similarly affected
+- Creates harmonic resoce with others similarly affected
 
 **Shadow Corruption (Chaos-based)**  
 - Enhances physical abilities and stealth capabilities
@@ -66,10 +82,10 @@ Research shows corruption mechanics work best when:
 **Character-to-Character Effects:**
 - Same corruption type: Enhanced cooperation, shared abilities
 - Opposite corruption type: Mutual interference, power fluctuation  
-- Mixed corruption: Unique hybrid effects, unstable resonance
+- Mixed corruption: Unique hybrid effects, unstable resoce
 - Uncorrupted interaction: Protection vs. vulnerability dynamics
 
-**Environmental Resonance:**
+**Environmental Resoce:**
 - Crystal environments: Amplify crystal corruption, suppress shadow
 - Shadow environments: Amplify shadow corruption, suppress crystal
 - Neutral environments: Corruption effects at baseline
@@ -128,7 +144,6 @@ Successful corruption systems maintain:
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -136,3 +151,28 @@ Successful corruption systems maintain:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

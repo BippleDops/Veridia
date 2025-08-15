@@ -15,32 +15,26 @@ world: Both
 updated: '2025-08-13T01:18:36.690133+00:00'
 ---
 
-
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-arcane-master-voidweav-arcane-master-voidweav.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## Structure
+### Enhancement Improvements
 
-TODO
-## Goals
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Assets
-
-TODO
-## Conflicts
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -50,19 +44,23 @@ Arcane Master Voidweave 2 is a void-touched element of the setting, known for im
 
 Legends speak of Arcane Master Voidweave 2 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Arcane Master Voidweave 2.
 
-## Adventure Hooks
-
-- A rumor ties Arcane Master Voidweave 2 to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Arcane Master Voidweave 2 to avert a public scandal.
-- A map overlay reveals a hidden approach to Arcane Master Voidweave 2 active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a portal
+- A merchant needs help stealing before winter
+- A stranger needs help delivering before the new moon
+- A map reveals ancient history about the cult

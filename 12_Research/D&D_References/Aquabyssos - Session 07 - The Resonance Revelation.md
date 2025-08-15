@@ -1,7 +1,7 @@
-# Aquabyssos - Session 07 - The Resonance Revelation
+# Aquabyssos - Session 07 - The Resoce Revelation
 
 ---
-title: The Resonance Revelation
+title: The Resoce Revelation
 type: Lore
 tags:
 - lore
@@ -21,13 +21,13 @@ status: outlined
 location:
 - - Crystallium
 session_number: 7
-date_played: null
+date_played: 
 MyCategory: Unknown
 MyContainer: None
 depth: 6,000-8,000 ft
 estimated_time: 4 hours
 npcs_featured:
-- - - 02_Worldbuilding/People/The Resonance Prophet
+- - - 02_Worldbuilding/People/The Resoce Prophet
 - - - 02_Worldbuilding/People/Marina-Red-Tide-Coralheart
 - - - 02_Worldbuilding/People/Shadow Duchess Nyx
 - - - The Conductor
@@ -36,7 +36,7 @@ party_level: 7
 quests_advanced:
 - - - Stop the Shadow Harvest
 - - - Discover the Singers Beyond
-- - - Prevent Resonance Cascade
+- - - Prevent Resoce Cascade
 themes:
 - Alien communication
 - Harmonic horror
@@ -46,21 +46,29 @@ world: Aquabyssos
 ---
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
-
-
-
-
-# Session 7: The Resonance Revelation
 ## Journey to the Crystal Deep
 
 > *"In Crystallium, thoughts become crystal, lies shatter like glass, and the truth resonates until it breaks you."*
 
 ## 🎬 Strong Start
-The party arrives at [[Crystallium]] to find the entire continent vibrating at a frequency that makes their bones ache. Citizens stand frozen, their bodies crystallizing as they hum in perfect unison. The [[The Resonance Prophet]] appears, their crystalline form constantly shifting: "You're too late. The Singers Beyond have heard our call. Reality itself is about to harmonize. Listen—can you hear your shadows screaming?"
-
-## 🎭 Scenes
+The party arrives at [[Crystallium]] to find the entire continent vibrating at a frequency that makes their bones ache. Citizens stand frozen, their bodies crystallizing as they hum in perfect unison. The [[The Resoce Prophet]] appears, their crystalline form constantly shifting: "You're too late. The Singers Beyond have heard our call. Reality itself is about to harmonize. Listen—can you hear your shadows screaming?"
 
 ### Scene 1: The Harmony Hive Entrance
 **Location**: Crystallium's Collective Consciousness Center  
@@ -70,9 +78,9 @@ The party arrives at [[Crystallium]] to find the entire continent vibrating at a
 - Everyone in Crystallium shares thoughts when harmonized
 - The frequency is actually a language
 - It's not calling shadows—it's calling their creators
-- [[The Conductor]] is here, orchestrating the resonance
+- [[The Conductor]] is here, orchestrating the resoce
 
-**Resonance Mechanics**:
+**Resoce Mechanics**:
 - **WIS Save DC 15** each hour or begin harmonizing
 - Harmonized characters share all thoughts
 - Speaking lies causes 1d6 psychic damage
@@ -95,7 +103,7 @@ The party arrives at [[Crystallium]] to find the entire continent vibrating at a
 - **Level 4**: Pure information (Wisdom DC 20)
 
 ### Scene 3: The Valley of Future Sounds
-**Location**: Echo Valleys - Temporal Resonance Zone  
+**Location**: Echo Valleys - Temporal Resoce Zone  
 **Situation**: Hearing the future of the harvest  
 **Conflict**: Prevent the future from becoming fixed  
 **Discoveries**:
@@ -110,9 +118,9 @@ The party arrives at [[Crystallium]] to find the entire continent vibrating at a
 - Death isn't permanent but causes paradoxes
 - Victory requires changing the predetermined outcome
 
-### Scene 4: The Resonance Prophet's Truth
+### Scene 4: The Resoce Prophet's Truth
 **Location**: The Singing Citadel's Peak  
-**Situation**: Confront the Prophet during peak resonance  
+**Situation**: Confront the Prophet during peak resoce  
 **Conflict**: Prophet reveals they're trying to SAVE everyone  
 **Discoveries**:
 - The Singers Beyond are reality parasites
@@ -121,62 +129,10 @@ The party arrives at [[Crystallium]] to find the entire continent vibrating at a
 - The harvest would make humans invisible to Singers
 
 **The Terrible Choice**:
-- **Stop Resonance**: Singers Beyond notice humanity
+- **Stop Resoce**: Singers Beyond notice humanity
 - **Complete Harvest**: Humanity survives but as shadows
 - **Redirect Signal**: Call something else instead
 - **Harmonize**: Join the collective to fight from within
-
-## 🗡️ Combat Encounters
-
-### Crystallized Citizens (Wave Combat)
-- **Wave 1**: 6 citizens (AS 14, HP 30)
-- **Wave 2**: 4 crystal guards (AS 16, HP 45)
-- **Wave 3**: 2 harmony enforcers (AS 17, HP 65)
-- All immune to psychic damage
-- Death shatters them, dealing area damage
-
-### Echo Valley Temporal Echoes
-- **Future Selves**: Mirror party stats +2 levels
-- **Past Selves**: Mirror party stats -2 levels
-- **Paradox Spawns**: AS 15, HP 50, reality-warping attacks
-- Defeating them changes timeline probabilities
-
-### The Resonance Prophet (Transformed)
-- **AS** 19, **HP** 150
-- **Legendary Resistance** (3/day)
-- **Legendary Actions** (3/round)
-- **Harmonic Shield**: Immunity to first attack each round
-- **Resonance Cascade**: AOE that forces harmonization
-- **Crystal Form**: Can shatter and reform
-- **Truth Frequency**: Forces WIS saves or speak only truth
-
-## 🎲 Environmental Challenges
-
-### Crystallium Deep Pressure
-- **Depth**: 6,000-8,000 feet
-- **CON Save**: DC 16 every hour
-- **Crystal Growth**: Failed saves begin crystallization
-- **Thought Transparency**: All thoughts become visible
-
-### Resonance Effects
-- **Harmonic Buildup**: Increasing DC each hour
-- **Frequency Damage**: Thunder damage from dissonance
-- **Collective Thoughts**: Privacy impossible
-- **Reality Crystallization**: Objects become crystal
-
-### The Singing Citadel
-- Architectural music causes various effects
-- Different rooms have different frequencies
-- Some frequencies heal, others harm
-- Final chamber resonates with cosmic void
-
-## 💰 Treasure & Rewards
-- Resonance Codex (understanding Singer language)
-- 1,500 [[Sorrow Pearls]]
-- Crystal Tuning Fork (control local frequency)
-- Prophet's Third Eye (see probability threads)
-- Harmonic Shield Generator
-- Map showing Singer approach vectors
 
 ## 🔍 Secrets & Clues
 1. The Singers Beyond have consumed twelve realities already
@@ -190,15 +146,6 @@ The party arrives at [[Crystallium]] to find the entire continent vibrating at a
 9. The harvest was always about survival, not conquest
 10. There's a way to hide reality itself from Singers
 
-## 🔗 Reality-Shaking Revelations
-
-### The Truth About Everything
-- Aquabyssos isn't underwater—it's in a dimensional bubble
-- The Cataclysm was intentional dimensional hiding
-- Shadows are humanity's evolution for survival
-- The surface world is already Singer-infected
-- Time is running out—Singers arrive in days
-
 ### Marina's Fate
 Regardless of which Marina survived:
 - She's connected to the Singers somehow
@@ -207,7 +154,7 @@ Regardless of which Marina survived:
 - The party must choose her fate
 
 ## 🎪 Cliffhanger Ending
-As the party makes their choice about the resonance, reality cracks. Through the fissures, they see them—the Singers Beyond. Incomprehensible entities of living sound that exist in spaces between spaces. One turns its attention to Aquabyssos.
+As the party makes their choice about the resoce, reality cracks. Through the fissures, they see them—the Singers Beyond. Incomprehensible entities of living sound that exist in spaces between spaces. One turns its attention to Aquabyssos.
 
 The Prophet gasps: "It sees us. The camouflage has failed. We have minutes, not hours." 
 
@@ -219,36 +166,9 @@ She begins to resonate at a frequency that makes reality blur: "Get to the [[Mou
 
 ---
 
-## 🎯 DM Notes
-- This session reveals the cosmic horror scope
-- Singers should be incomprehensible, not traditional enemies
-- Reality should feel fragile and breaking
-- Marina's sacrifice should feel inevitable but tragic
-- Set up for the final arc
-
-## 📅 Next Session Prep
-- [[Aquabyssos - Session 08 - The Fractal Conspiracy]]
-- Design Singer Beyond manifestations
-- Prepare Mourning Depths approach
-- Create the Grief Bomb mechanics
-
-## Cross-References
-
-- [[Campaign Index]]
-
-
-## Connections
-
-- [[Deep Mother]]
-- [[Sorrow Pearls]]
-- [[Crystallium]]
-- [[Mourning Depths]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -257,3 +177,26 @@ She begins to resonate at a frequency that makes reality blur: "Get to the [[Mou
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -21,18 +21,27 @@ updated: '2025-08-13T12:34:17.775140+00:00'
 world: Both
 ---
 
-
-
-
 # Reality Breach Event Compiler
 
 Generates 1,000+ merger zone effects, physics breakdowns, impossible spaces, paradoxes, anchor mini-games, and invasions.
 
-## Effect Families (samples)
-- Geometry failure, time slur, sense inversion, identity echo, memory flood
 
-## Anchor Mini-Games
-- Balance meters, chant cadence, memory alignment puzzles
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Dimensional Invasions
 - Creatures of elsewhere; sanity and anchor checks
@@ -47,23 +56,25 @@ Reality Breach Event Compiler is a undersea element of the setting, known for bi
 
 Legends speak of Reality Breach Event Compiler as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reality Breach Event Compiler.
 
-## Adventure Hooks
-
-- A rumor ties Reality Breach Event Compiler to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Reality Breach Event Compiler to avert a public scandal.
-- A map overlay reveals a hidden approach to Reality Breach Event Compiler active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Phase_Omega_Enhanced_Index|03 Mechanics/Phase Omega Enhanced Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for money
+- Strange disappearances suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

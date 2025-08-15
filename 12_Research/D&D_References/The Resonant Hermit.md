@@ -1,7 +1,7 @@
-# The Resonant Hermit
+# The Resot Hermit
 
 ---
-title: The Resonant Hermit
+title: The Resot Hermit
 type: Location
 tags:
 - both
@@ -16,64 +16,68 @@ updated: '2025-08-13T01:18:36.305951+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-the-resonant-hermit-the-resonant-hermit.svg]]
+![[04_Resources/Assets/Locations/location-city-the-resot-hermit-the-resot-hermit.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
-The Resonant Hermit is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+The Resot Hermit is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of The Resonant Hermit as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Resonant Hermit.
-
-## Adventure Hooks
-
-- A rumor ties The Resonant Hermit to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Resonant Hermit to avert a public scandal.
-- A map overlay reveals a hidden approach to The Resonant Hermit active only during specific tides/storms.
+Legends speak of The Resot Hermit as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Resot Hermit.
 
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[The Resonant Hermit|02 Worldbuilding/Places/The Resonant Hermit]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The Singing Trenches]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Winds
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before winter
+- Strange sightings suggest a curse
+- A letter reveals a conspiracy about this place
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

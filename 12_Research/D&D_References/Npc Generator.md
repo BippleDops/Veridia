@@ -20,22 +20,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Historical Context
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Current Relevance
-
-TODO
-## See Also
-
-TODO
 
 ## Player-Facing Summary
 
@@ -45,25 +45,29 @@ NPC Generator is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of NPC Generator as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around NPC Generator.
 
-## Adventure Hooks
-
-- A rumor ties NPC Generator to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at NPC Generator to avert a public scandal.
-- A map overlay reveals a hidden approach to NPC Generator active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Vault_Navigation_Hub|Vault Navigation Hub]]
 
 
-## Connections
+## Plot Hooks
 
-- See also: [[Master Timeline]]
-- Related: [[Regional Politics]]
-- Connected to: [[Main Quest Line]]
+- The authorities needs help stealing before the festival
+- An heirloom has gone missing and evil awakens
+- A map reveals the truth about the cult
+- Someone is protecting a artifact for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

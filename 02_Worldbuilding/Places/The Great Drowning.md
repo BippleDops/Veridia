@@ -1,4 +1,5 @@
 ---
+
 title: The Great Drowning
 type: Location
 tags:
@@ -14,6 +15,7 @@ tags:
 - world/aquabyssos
 - shadow-touched
 - crystal-enhanced
+- bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -34,6 +36,8 @@ accessibility:
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:16.867597+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -44,13 +48,76 @@ world: Aquabyssos
 
 *The site of Aquabyssos's greatest catastrophe and darkest memory*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+
 ## Overview
 
 The Great Drowning marks both a physical location and a temporal scar in the fabric of Aquabyssos—the epicenter where the ancient city of Thalassopolis was consumed by an uncontrolled planar breach 847 years ago. Now a massive whirlpool spanning three miles in diameter, it serves as both a memorial to the 300,000 souls lost and a persistent reminder of the dangers of unchecked magical experimentation.
 
 The site pulses with residual planar energy, creating unpredictable currents that can transport unwary travelers through space and time. The Abyssal Senate maintains a permanent garrison here, both to prevent access to the depths where Thalassopolis's ruins lie and to monitor the strange phenomena that continue to manifest.
-
-## Physical Description
 
 ### The Maelstrom
 
@@ -76,8 +143,6 @@ Time flows differently near the Great Drowning:
 - **Inner Spiral**: 1 hour = 1 day external time
 - **Event Horizon**: Time becomes non-linear
 
-## History
-
 ### The Thalassopolis Experiment (Year 2177)
 
 The mage-council of Thalassopolis attempted to create a permanent portal to the Elemental Plane of Water to solve the city's expansion needs. Led by Archmagus Nereon the Profound, thirteen archmages combined their power in a ritual that had taken decades to prepare.
@@ -92,16 +157,6 @@ On the 13th day of the Tide Month, the ritual went catastrophically wrong:
 5. **Hour 13**: City's reality anchors failed
 6. **Hour 19**: Thalassopolis completely submerged
 7. **Hour 24**: Planar breach stabilized into current maelstrom
-
-### The Aftermath
-
-- **Immediate**: 300,000 citizens lost, presumed dead or worse
-- **First Year**: Rescue attempts failed, 47 more lives lost
-- **Decade**: Abyssal Senate declared site forbidden
-- **Century**: Memorial stations established
-- **Present**: Monitored by the Depth Guard continuously
-
-## Current Inhabitants
 
 ### The Depth Guard
 
@@ -146,7 +201,7 @@ Mysterious beings that emerged from the maelstrom, appearing as translucent huma
 - Cannot be harmed by physical means
 - Disappear if brought more than a mile from the site
 
-### The Remnants
+### The Remts
 
 Survivors of Thalassopolis transformed by the planar energies:
 - No longer fully human—part water elemental
@@ -154,7 +209,7 @@ Survivors of Thalassopolis transformed by the planar energies:
 - Cannot leave the area without dissolving
 - Trade information for offerings thrown into the maelstrom
 
-**Remnant of Thalassopolis** (CR 5)
+**Remt of Thalassopolis** (CR 5)
 *Medium elemental, neutral*
 
 **Armor Class** 14 (natural armor)
@@ -170,18 +225,16 @@ STR 14 (+2), DEX 16 (+3), CON 18 (+4), INT 11 (+0), WIS 13 (+1), CHA 15 (+2)
 **Languages** Aquan, Common (fragmented)
 **Challenge** 5 (1,800 XP)
 
-**Fragmented Memory.** The remnant has disadvantage on Intelligence checks but advantage on saving throws against being charmed.
+**Fragmented Memory.** The remt has disadvantage on Intelligence checks but advantage on saving throws against being charmed.
 
-**Water Form.** The remnant can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
+**Water Form.** The remt can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 
 **Actions**
-**Multiattack.** The remnant makes two slam attacks.
+**Multiattack.** The remt makes two slam attacks.
 
 **Slam.** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8 + 4) bludgeoning damage.
 
-**Memory Flood (Recharge 5-6).** The remnant forces a target within 30 feet to experience fragments of Thalassopolis's destruction. The target must make a DC 14 Wisdom saving throw or be stunned for 1 minute as they experience the memories. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-
-## Notable Features
+**Memory Flood (Recharge 5-6).** The remt forces a target within 30 feet to experience fragments of Thalassopolis's destruction. The target must make a DC 14 Wisdom saving throw or be stunned for 1 minute as they experience the memories. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ### The Archive Stones
 
@@ -213,7 +266,7 @@ Crystallized tears of the victims form underwater gardens:
 |------|-----------|
 | 1-2 | Depth Guard patrol investigating disturbance |
 | 3-4 | Echo Shepherd leading phantom procession |
-| 5-6 | Remnant seeking news of descendants |
+| 5-6 | Remt seeking news of descendants |
 | 7-8 | Time loop—party encounters themselves from 1 hour ago |
 | 9-10 | Memory crystal storm (1d6 psychic damage per round) |
 | 11-12 | Planar rift opens briefly to Elemental Plane of Water |
@@ -222,8 +275,6 @@ Crystallized tears of the victims form underwater gardens:
 | 17-18 | Deep Mother cultists attempting ritual |
 | 19 | Future version of party member warning of danger |
 | 20 | Archive Stone activates spontaneously |
-
-## Adventure Hooks
 
 ### The Thirteenth Hour
 
@@ -244,8 +295,6 @@ A message in a bottle emerges from the maelstrom claiming to be from survivors w
 ### Temporal Assassination
 
 The party discovers evidence of someone using the Tide Calendar to send assassins into the past to eliminate key figures. They must navigate the temporal streams to prevent changes to history—or decide if some changes might be for the better.
-
-## Treasures
 
 ### Memory Pearls
 
@@ -269,13 +318,9 @@ Devices that protect against time distortion:
 
 This spiral shell constantly drips with water that never runs dry. While attuned:
 - You can breathe underwater and have swim speed equal to walking speed
-- Once per day, can summon 1d4 Remnants of Thalassopolis for 1 hour
+- Once per day, can summon 1d4 Remts of Thalassopolis for 1 hour
 - Can hear whispers from the Great Drowning regardless of distance
 - Cursed: Must make DC 15 Wisdom save each dawn or be compelled to visit the Great Drowning
-
-
-
-## Map Notes
 
 ### Key Locations
 1. Main entrance/approach
@@ -283,32 +328,6 @@ This spiral shell constantly drips with water that never runs dry. While attuned
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
-
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
-## DM Notes
-
-### Scaling the Horror
-
-- **Low Level (1-5)**: Focus on the memorial aspects and Depth Guard
-- **Mid Level (6-10)**: Introduce temporal mechanics and Remnants
-- **High Level (11-15)**: Deep exploration and Archive Stones
-- **Epic Level (16-20)**: Attempt to close or control the breach
-
-### Environmental Hazards
-
-- **Pressure Waves**: CON save DC 15 or stunned 1 round
-- **Temporal Shears**: DEX save DC 17 or age 1d10 years
-- **Memory Storms**: WIS save DC 14 or confused 1 minute
-- **Reality Tears**: INT save DC 16 or teleported 1d100 feet randomly
 
 ### Campaign Integration
 
@@ -339,66 +358,6 @@ The Great Drowning is a undersea element of the setting, known for bioluminescen
 
 Legends speak of The Great Drowning as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Great Drowning.
 
-## Cross-References
-
-- [[12_Research/D&D_Statblocks/The Great Drowning]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Establish the New Order]]
-- [[Shadow Independence Levels]]
-- [[Aetheron]]
-- [[Aquabyssos-Aethermoor Treaties]]
-- [[Corallion]]
-- [[Queen Seraphina]]
-- [[The Breathing Stone]]
-- [[Vorthak]]
-- [[Prophet Nerida Voidgazer]]
-- [[Amnesia Gallery]]
-- [[Crystallium]]
-- [[12_Research/D&D_Statblocks/Forge of War]]
-- [[12_Research/D&D_Statblocks/Luminous Hollow]]
-- [[New Tethys]]
-- [[Old Valdris]]
-- [[Pressure's End]]
-- [[Sister Morwyn]]
-- [[The Archive of Unremembered Things]]
-- [[The Bathyal Palace]]
-- [[The Cerulean Trench]]
-- [[The Eternal Senate]]
-- [[The First Failure]]
-- [[12_Research/D&D_Statblocks/The Foundation Depths]]
-- [[The Lock]]
-- [[The Primordial Vaults]]
-- [[The Recursion Cult]]
-- [[The Silent Watcher]]
-- [[The Singing Trenches]]
-- [[The Vanishing Depths]]
-- [[The Whispering Peaks]]
-- [[Theological Warfare]]
-- [[Whisper-Touched William]]
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
-- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-temple-districts-v1-temple-districts.svg]]
-- [[Surface Contact Prohibition]]
-- [[Tidal Harmony]]
-
-
 ## Sensory Details
 
 **Sights**: Sunlight filters through stained glass windows
@@ -407,7 +366,6 @@ Legends speak of The Great Drowning as a nexus where past and present converge. 
 
 **Smells**: Wood smoke curls from countless chimneys
 
-
 ## Description
 
 The Great Drowning is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -415,21 +373,7 @@ The Great Drowning is a notable location characterized by its unique features an
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -442,15 +386,37 @@ Ongoing situations affecting The Great Drowning:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about The Great Drowning
+## Historical Timeline
 
-### Whispered Rumors
-- Stories that may or may not be true
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

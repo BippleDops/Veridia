@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:05.162650+00:00'
 world: Both
 ---
 
-
-
 # Animals
 *Source: Monster Manual (2025), p. 348* 
 
@@ -246,7 +244,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!embed-monster]- Giant Vulture
 > ![[giant-vulture-xmm#^statblock|Giant Vulture]]
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/013-27-015-giant-wasp.webp#center "A gnome rogue distracts a hive of giant wasps while Sheila the thief sneaks by"|A gnome rogue distracts a ...]]
+!]
 
 > [!embed-monster]- Giant Wasp
 > ![[giant-wasp-xmm#^statblock|Giant Wasp]]
@@ -274,8 +272,6 @@ Use these stat blocks to represent the creatures they're named for or other simi
 
 > [!embed-monster]- Hunter Shark
 > ![[hunter-shark-xmm#^statblock|Hunter Shark]]
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/017-27-018-druid-with-fish.webp#center "Aquatic animals swim alongside a druid exploring the sea"|Aquatic animals swim along...]]
 
 > [!embed-monster]- Hyena
 > ![[hyena-xmm#^statblock|Hyena]]
@@ -333,8 +329,6 @@ Use these stat blocks to represent the creatures they're named for or other simi
 
 > [!embed-monster]- Rat
 > ![[rat-xmm#^statblock|Rat]]
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/021-27-022-rats.webp#center "An adventurer underestimates the extent of a tavern's giant rat infestation"|An adventurer underestimat...]]
 
 > [!embed-monster]- Raven
 > ![[raven-xmm#^statblock|Raven]]
@@ -410,7 +404,23 @@ Use these stat blocks to represent the creatures they're named for or other simi
 > [!embed-monster]- Wolf
 > ![[wolf-xmm#^statblock|Wolf]]
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/026-27-027-druid-in-jungle.webp#center "Inhabitants of the rain forest answer a druid's summons"|Inhabitants of the rain fo...]]
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -420,19 +430,15 @@ Use these stat blocks to represent the creatures they're named for or other simi
 
 Legends speak of 3 animals as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 3 animals.
 
-## Adventure Hooks
-
-- A rumor ties 3 animals to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 3 animals to avert a public scandal.
-- A map overlay reveals a hidden approach to 3 animals active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

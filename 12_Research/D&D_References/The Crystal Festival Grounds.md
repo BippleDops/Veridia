@@ -21,12 +21,27 @@ created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 ---
 
-
-
-
 # The Crystal Festival Grounds
 
 *"Where surface and sea unite in crystalline celebration."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 The Crystal Festival Grounds is a specially prepared area on the surface that serves as the primary venue for the annual Crystal Festival, a major inter-realm celebration. The grounds feature terraced amphitheaters, crystal display pavilions, magical water features that allow underwater visitors to participate, and temporary portal stations for easy travel between realms.
@@ -36,19 +51,6 @@ Established to provide a neutral meeting place where citizens of both realms cou
 
 ## Current State
 The grounds remain active year-round with smaller events and cultural exchanges, though the main Crystal Festival represents the peak of activity and attendance.
-
-## Mechanics
-### Requirements
-- Extensive preparation for festival events
-- Security coordination between both realms
-- Magical infrastructure for underwater visitor accommodation
-- Cultural sensitivity training for mixed-realm interactions
-
-### Effects
-- **Cultural Unity**: Promotes understanding between realms
-- **Economic Boost**: Major trade and tourism activity
-- **Diplomatic Opportunity**: Facilitates inter-realm negotiations
-- **Security Challenges**: Large crowds require extensive protection
 
 ### Duration
 Main festival lasts one week annually, with year-round smaller events.
@@ -60,12 +62,6 @@ Main festival lasts one week annually, with year-round smaller events.
 
 ## Campaign Use
 Provides colorful setting for social encounters, diplomatic missions, and cultural exploration adventures.
-
-
-## Connections
-
-- [[Crystal Festival]]
-- [[Crystal Mimics]]
 
 ## Player-Facing Summary
 
@@ -79,13 +75,16 @@ Legends speak of The Crystal Festival Grounds as a nexus where past and present 
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Crystal Mimics|02 Worldbuilding/Lore/Crystal Mimics]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

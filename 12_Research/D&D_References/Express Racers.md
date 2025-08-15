@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.508933+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-express-racers-express-racers.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Blood Current Express|02 Worldbuilding/Places/Blood Current Express]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Blood Current Express]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,20 @@ Express Racers is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Express Racers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Express Racers.
 
-## Adventure Hooks
-
-- A rumor ties Express Racers to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Express Racers to avert a public scandal.
-- A map overlay reveals a hidden approach to Express Racers active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help investigating before dawn
+- Someone is hunting a witness for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

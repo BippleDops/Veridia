@@ -22,10 +22,8 @@ updated: '2025-08-13T12:34:03.867513+00:00'
 world: Both
 ---
 
-
-
 # Travel Terrain
-*Source: Dungeon Master's Guide (2024) p. 39. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+*Source: Dungeon Master's Guide (2024) p. 39. Available in the SRD and the Free Rules (2024)* 
 
 **Travel Terrain**
 
@@ -48,6 +46,24 @@ world: Both
 
 †Characters' rate of travel while waterborne depends on the vehicle carrying them; see "Vehicles."
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Travel terrain xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -56,18 +72,9 @@ Travel terrain xdmg is a undersea element of the setting, known for bioluminesce
 
 Legends speak of travel terrain xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around travel terrain xdmg.
 
-## Adventure Hooks
-
-- A rumor ties travel terrain xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at travel terrain xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to travel terrain xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

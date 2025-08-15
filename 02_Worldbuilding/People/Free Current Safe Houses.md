@@ -1,4 +1,5 @@
 ---
+
 title: Free Current Safe Houses
 type: Npc
 tags:
@@ -10,6 +11,8 @@ tags:
 - active
 - complete
 - status/in-progress
+- bloodline
+- prophecy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +21,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.557036+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +31,69 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-free-current-safe-houses-free-current-safe-houses.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward confrontation
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward negotiation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
 
 ## Player-Facing Summary
 
@@ -67,14 +102,6 @@ Free Current Safe Houses is a undersea element of the setting, known for biolumi
 ## Lore Details
 
 Legends speak of Free Current Safe Houses as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Free Current Safe Houses.
-
-## Adventure Hooks
-
-- A rumor ties Free Current Safe Houses to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Free Current Safe Houses to avert a public scandal.
-- A map overlay reveals a hidden approach to Free Current Safe Houses active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +112,6 @@ Free Current Safe Houses's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Achieving fame
@@ -124,8 +121,6 @@ Free Current Safe Houses's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Free Current Safe Houses harbors secrets that could change everything:
@@ -133,10 +128,6 @@ Free Current Safe Houses harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Prophetic visions
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +146,6 @@ Free Current Safe Houses is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Free Current Safe Houses needs assistance with a delicate matter
@@ -164,8 +153,6 @@ Free Current Safe Houses is currently engaged in:
 3. **The Secret**: Information about Free Current Safe Houses's past surfaces
 4. **The Alliance**: Opportunity to work with or against Free Current Safe Houses
 5. **The Crisis**: Free Current Safe Houses is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,22 +166,38 @@ Free Current Safe Houses is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Free Current Safe Houses]]
+## Bloodline
 
-<!-- enriched: true -->
-
+Member of House Eagleblood - Trait: prophecy
 
 
+## Historical Timeline
 
-## Relationship Web
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
 
-- [[Lord Aldric Blackwater]]: *business partner*
-- [[04_Resources_Assets_Locations_location-city-master-smith-coral-hammer-v1-master-smith-coral-hammer.svg]]: *former lover*
-- [[04_Resources_Assets_Portraits_portrait-npc-lady-catherine-mourning-lady-catherine-mourning.svg]]: *business partner*
-- [[Quest - The Root Network]]: *bitter rival*
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
 
-## Connections
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
 
-- [[Harbor Master Luna Freedrift]]
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon

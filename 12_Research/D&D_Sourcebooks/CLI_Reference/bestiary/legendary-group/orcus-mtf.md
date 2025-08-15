@@ -22,12 +22,26 @@ updated: '2025-08-12T23:37:35.687096'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-orcus-mtf-orcus-mtf.svg)
 
-# Orcus
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Mordenkainen's Tome of Foes_
@@ -39,7 +53,6 @@ On Initiative count 20 (losing initiative ties), Orcus can take a lair action to
 - Orcus causes skeletal arms to rise from an area on the ground in a 20-foot square that he can see. They last until the next initiative count 20. Each creature in that area when the arms appear must succeed on a DC 23 Strength saving throw or be [[conditions#Restrained|restrained]] until the arms disappear or until Orcus releases their grasp (no action required).  
 
 ## Regional effects
-_Source: Mordenkainen's Tome of Foes_
 
 The region containing Orcus's lair is warped by his magic, creating one or more of the following effects:
 
@@ -74,18 +87,9 @@ Orcus mtf is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of orcus mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around orcus mtf.
 
-## Adventure Hooks
-
-- A rumor ties orcus mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at orcus mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to orcus mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

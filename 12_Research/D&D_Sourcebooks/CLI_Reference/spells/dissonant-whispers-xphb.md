@@ -1,9 +1,9 @@
-# dissonant-whispers-xphb
+# dissot-whispers-xphb
 
 ---
-title: dissonant whispers xphb
+title: dissot whispers xphb
 aliases:
-- Dissonant Whispers
+- Dissot Whispers
 type: note
 tags:
 - mechanics/magic
@@ -28,10 +28,8 @@ updated: '2025-08-12T23:37:36.377473'
 world: Both
 ---
 
-
-# Dissonant Whispers
+# Dissot Whispers
 *1st-level, Enchantment*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -44,29 +42,57 @@ One creature of your choice that you can see within range hears a discordant mel
 
 **Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-aberrant-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Aberrant Sorcery)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-great-old-one-patron-xphb "subclass=XPHB;class=XPHB"|Warlock (Great Old One Patron)]]; [[list-spells-classes-bard|Bard]]
 
-*Source: Player's Handbook (2024) p. 264. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 264. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
-Dissonant whispers xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+Dissot whispers xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of dissonant whispers xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dissonant whispers xphb.
-
-## Adventure Hooks
-
-- A rumor ties dissonant whispers xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dissonant whispers xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to dissonant whispers xphb active only during specific tides/storms.
+Legends speak of dissot whispers xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dissot whispers xphb.
 
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help stealing before dawn
+- A letter reveals a conspiracy about the government
+- A noble needs help investigating before the festival
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

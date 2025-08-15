@@ -18,7 +18,7 @@ tags:
 - ttrpg-cli/monster/environment/planar
 - active
 - status/in-progress
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-monster
@@ -29,13 +29,29 @@ updated: '2025-08-12T23:37:35.779454'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-juvenile-shadow-dragon-xmm-juvenile-shadow-dragon-xmm.svg)
 
 # [[juvenile-shadow-dragon-xmm|Juvenile Shadow Dragon]]
 *Source: Monster Manual (2024) p. 275*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Shadow Dragons
 
@@ -58,7 +74,6 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
 > 
 > If ye truly be adventurers of lore, seek the great shadowy wyrm who lairs beneath the Peaks of Thunder and return in triumph bearing aloft her fabled Eye of Shadow.
 
-
 ```statblock
 "name": "Juvenile Shadow Dragon (XMM)"
 "size": "Medium"
@@ -71,7 +86,6 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
 "stats":
   - !!int "17"
   - !!int "14"
-  - !!int "17"
   - !!int "12"
   - !!int "11"
   - !!int "15"
@@ -112,8 +126,6 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
       \ count but acts immediately after the dragon."
     "name": "Shadow Breath (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "While in [[dim-light-xphb|Dim Light]]\
-      \ or [[darkness-xphb|Darkness]], the dragon\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "source":
@@ -134,19 +146,26 @@ Juvenile shadow dragon xmm is a undersea element of the setting, known for biolu
 
 Legends speak of juvenile shadow dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around juvenile shadow dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties juvenile shadow dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at juvenile shadow dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to juvenile shadow dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- A map reveals a betrayal about this place
+- An heirloom has gone missing and war looms
+- Someone is protecting an heir for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

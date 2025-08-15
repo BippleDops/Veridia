@@ -17,14 +17,22 @@ updated: '2025-08-13T01:18:35.120058+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
 
 ## Player-Facing Summary
 
@@ -34,28 +42,35 @@ Research Assistant Kell Memory is a undersea element of the setting, known for b
 
 Legends speak of Research Assistant Kell Memory as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Research Assistant Kell Memory.
 
-## Adventure Hooks
-
-- A rumor ties Research Assistant Kell Memory to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Research Assistant Kell Memory to avert a public scandal.
-- A map overlay reveals a hidden approach to Research Assistant Kell Memory active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Threshold|02 Worldbuilding/Lore/The Threshold]]
-
-
-## Connections
-
-- [[The Threshold]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

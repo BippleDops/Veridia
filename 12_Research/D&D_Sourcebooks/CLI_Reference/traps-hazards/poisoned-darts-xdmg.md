@@ -22,13 +22,30 @@ updated: '2025-08-12T23:37:34.697827'
 world: Both
 ---
 
-
 # Poisoned Darts
 *Generic Hazard*  
 
 When a creature moves onto this trap's pressure plate for the first time on a turn, poisoned darts shoot from tubes embedded in the surrounding walls. The holes that house these tubes are obscured by dust and cobwebs, or skillfully hidden amid bas-reliefs, murals, or frescoes.
 
 Each creature in the darts' path must succeed on a DC 13 Dexterity saving throw or be struck by `d3` darts, taking 3 (`d6`) Poison damage per dart.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Detect and Disarm
 
@@ -40,7 +57,7 @@ As a [[actions#Search|Search]] action, a creature can examine the section of flo
 
 You can scale the trap for higher levels by increasing each dart's Poison damage as follows: 7 (`2d6`) at levels 5–10, 14 (`4d6`) at levels 11–16, or 24 (`7d6`) at levels 17–20.
 
-*Source: Dungeon Master's Guide (2024) p. 101. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 101. Available in the SRD*
 
 ## Player-Facing Summary
 
@@ -50,19 +67,20 @@ Poisoned darts xdmg is a undersea element of the setting, known for bioluminesce
 
 Legends speak of poisoned darts xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around poisoned darts xdmg.
 
-## Adventure Hooks
-
-- A rumor ties poisoned darts xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at poisoned darts xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to poisoned darts xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

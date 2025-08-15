@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.641779'
 world: Both
 ---
 
-
 # Chapter 1: Prisoners of the Drow
 *Source: Out of the Abyss, p. 4* 
 
@@ -34,6 +33,24 @@ The setup of *Out of the Abyss* is such that the characters need have no connect
 "Prisoners of the Drow" assumes the characters start at 1st level, and that they will achieve 2nd level (if not 3rd) by the end of this chapter of the adventure. Given the challenges of the adventure and the dangers of the Underdark, you can start the characters at a higher level (2nd or 3rd) to make things a bit easier for the players.
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/000-ooa01-01.webp#center)
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Escape!
 
@@ -106,7 +123,7 @@ The characters are held with ten other prisoners, captured during various raids 
 
 #### Buppido
 
-A male [[derro-mpmm|derro]], [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] is surprisingly gregarious and talkative, demonstrating a keen mind and a disarming manner. This pleasant facade conceals the soul of an insane killer. [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] secretly believes he is the living incarnation of the derro god Diinkarazan—an avatar of murder offering bloody sacrifices to create a path of carnage through the Underdark for his people to follow to glory. He rationalizes any setbacks (including his capture and imprisonment) as part of his "divine plan." His killings are carefully ritualized, following an exacting process of cutting open the victims and arranging their organs.
+A male [[derro-mpmm|derro]], [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] is surprisingly gregarious and talkative, demonstrating a keen mind and a disarming manner. This pleasant facade conceals the soul of an insane killer. [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] secretly believes he is the living incarnation of the derro god Diinkarazan—an avatar of murder offering bloody sacrifices to create a path of carnage through the Underdark for his people to follow to glory. He rationalizes any secks (including his capture and imprisonment) as part of his "divine plan." His killings are carefully ritualized, following an exacting process of cutting open the victims and arranging their organs.
 
 Although mad, [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] is cunning and capable of hiding his true nature to serve his own ends. Because he believes he is a god, he is convinced that he can't be killed (or at least that the death of his mortal form means nothing to him), so he is completely fearless. He assumes everything is part of his divine plan, and enthusiastically participates in any plot to escape from the drow so he can continue his holy work. [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] is happy to consider his fellow prisoners allies until such time as he no longer needs them, or becomes convinced that the omens point toward the need for one or more of them to be sacrificed to his greater glory.
 
@@ -158,7 +175,7 @@ Shuushar is familiar with Sloobludop, the kuo-toa town near the Darklake, and ha
 
 #### Stool
 
-[[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] is a [[myconid-sprout-xmm|myconid sprout]] captured by [[/03_Mechanics/CLI/bestiary/npc/sarith-kzekarit-oota|Sarith Kzekarit]]. [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] is lonely and [[conditions#Frightened|frightened]], wanting only to return to its home in Neverlight Grove. If befriended by the characters, [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] gladly offers to guide them to its home, promising them sanctuary with its folk, although it isn't aware of the dangers posed by Zuggtmoy's influence on the myconids (see chapter 5).
+[[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] is a [[myconid-sprout-xmm|myconid sprout]] captured by [[/03_Mechanics/CLI/bestiary/npc/sarith-kzekarit-oota|Sarith Kzekarit]]. [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] is lonely and [[conditions#frightened|frightened]], wanting only to return to its home in Neverlight Grove. If befriended by the characters, [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] gladly offers to guide them to its home, promising them sanctuary with its folk, although it isn't aware of the dangers posed by Zuggtmoy's influence on the myconids (see chapter 5).
 
 [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] uses rapport spores to establish telepathic communication with other creatures, and it does so to communicate with characters who are kind and friendly toward it. The myconid will also help establish communication with Underdark denizens with whom the characters don't share a language. Once it becomes attached to one or more of the adventurers, [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] behaves somewhat like an enthusiastic and curious younger sibling, sticking close to the characters and asking all kinds of questions.
 
@@ -169,9 +186,7 @@ Twin deep gnomes, [[/03_Mechanics/CLI/bestiary/npc/topsy-oota|Topsy]] and her br
 [[/03_Mechanics/CLI/bestiary/npc/topsy-oota|Topsy]] and [[/03_Mechanics/CLI/bestiary/npc/turvy-oota|Turvy]] hide the fact that they are [[wererat-xmm|wererats]]. Infected with the curse of lycanthropy, neither deep gnome has entirely embraced it yet, and they struggle to control their wererat instincts and urges. They are fearful of what potential allies might do if they learn the truth, and are looking out for each other and their own survival. With their transformations controlled by the unseen cycle of the moon, you can use the twins' impending change as a wild card in the adventure. They've been prisoners for less than a month, meaning the full moon is coming.
 
 > [!note] A Motley Crew
-> 
 > The other prisoners who manage to escape with the player characters are likely to become their companions for a substantial part of the adventure, so it is good to lay the groundwork for those relationships early on. Some of the NPCs might not survive the initial escape attempt. Others might be lost to the dangers of the Underdark—or might reveal their true colors and betray the party. A few could become true companions. Keep in mind the other prisoners have their own personalities and goals, but are generally willing to cooperate for their own benefit. Their knowledge of the Underdark should encourage the player characters to keep them around at least initially.
-> 
 > Since managing such a large cast of NPCs can be quite involved, enlist the aid of the players if you wish, having each of them take on the role of managing one or more of the party's companions. The player generally decides what that NPC is doing, with the knowledge that you, as Dungeon Master, can overrule them as needed by the story. Not only does this make the secondary characters easier to manage, it helps the players get to know them and strengthens the bonds between the NPCs and the adventurers.
 ^a-motley-crew
 
@@ -227,12 +242,10 @@ The garrison at Velkynvelve consists of twelve [[/03_Mechanics/CLI/bestiary/huma
 
 ### Prominent Drow
 
-|    |    |
-|----|----|
 | **Ilvara Mizzrym** | Drow priestess and commander of the outpost |
 | **Asha Vandree** | Junior priestess |
-| **Shoor Vandree** | Drow elite warrior. Ilvara's lieutenant and lover, and Asha's distant cousin |
-| **Jorlan Duskryn** | Maimed drow elite warrior. Ilvara's former lieutenant and lover. |
+| **Shoor Vandree** | Drow elite warrior. Ilvara's lieutet and lover, and Asha's distant cousin |
+| **Jorlan Duskryn** | Maimed drow elite warrior. Ilvara's former lieutet and lover. |
 
 ### Ilvara Mizzrym
 
@@ -250,9 +263,9 @@ Asha is ambitious enough to know she could assume command of the outpost if anyt
 
 ### Shoor Vandree
 
-This drow elite warrior has assumed the role of Ilvara's lieutenant and lover after the injuries suffered by his predecessor, Jorlan Duskryn. Shoor is relatively young and quite arrogant for a drow male, proud of his abilities and accomplishments. He is still flush with his success in winning the favor of Ilvara and advancing his position within the outpost, which shows in his swagger and the way he lords it over every other male in Velkynvelve, particularly Jorlan. Still insecure in his position, Shoor feels the need to demonstrate his skill and effectiveness to his mistress and to find ways to please her.
+This drow elite warrior has assumed the role of Ilvara's lieutet and lover after the injuries suffered by his predecessor, Jorlan Duskryn. Shoor is relatively young and quite arrogant for a drow male, proud of his abilities and accomplishments. He is still flush with his success in winning the favor of Ilvara and advancing his position within the outpost, which shows in his swagger and the way he lords it over every other male in Velkynvelve, particularly Jorlan. Still insecure in his position, Shoor feels the need to demonstrate his skill and effectiveness to his mistress and to find ways to please her.
 
-As Ilvara's lieutenant, Shoor carries a [[wand-of-viscid-globs-oota|wand of viscid globs]] (see appendix B), which once belonged to Jorlan and is used to capture and restrain prisoners.
+As Ilvara's lieutet, Shoor carries a [[wand-of-viscid-globs-oota|wand of viscid globs]] (see appendix B), which once belonged to Jorlan and is used to capture and restrain prisoners.
 
 ### Jorlan Duskryn
 
@@ -271,7 +284,6 @@ Because of his injuries, Jorlan has disadvantage on attack rolls, Dexterity chec
 The remaining drow males garrisoning Velkynvelve are named Balok, Bemeril, Guldor, Honemmeth, Imbros, Jaezred, Jevan, Kalannar, Malagar, Nadal, Nym, and Sorn.
 
 > [!note] Roleplaying the Drow
-> 
 > The drow are arrogant, cruel, and vicious, viewing their slaves as little more than livestock and treating them with cold disregard. Even the lowest drow understands the inferiority of other creatures, behaving toward the prisoners like sneering nobility. With their superiors, however, the drow are fawning sycophants with a passive-aggressive edge. The males defer to the females, the rank-and-file warriors defer to the elite warriors, and everyone defers to the priestess Ilvara.
 ^roleplaying-the-drow
 
@@ -284,29 +296,19 @@ With the small amount of dim light used in the outpost shielded from the cavern 
 Three caves and two hanging towers surrounding a platform make up the main part of the outpost for the drow warriors. The largest of the hanging towers is reserved for the priestesses and the shrine of Lolth, while the other is a guard tower opposite the cave used to hold slaves. North of the slave pen is the den of the outpost's quaggoth servants. Watch posts lie at either end of the outpost, near the northern and southern entrances to the cavern.
 
 > [!note] Velkynvelve: General Features
-> 
 > The following features apply throughout the outpost.
-> 
 > **Light.** The interior spaces of the outpost are dimly illuminated by lanterns containing phosphorescent fungi, while the exterior is dark.
-> 
 > **Sound.** A small waterfall pouring into the cavern creates a constant background noise, negating the cave's tendency to amplify and carry sounds. Checks made to hear things in the cavern are made normally.
-> 
 > **Stairs.** These 5-foot-wide stairs are carved into the stone sides of the cavern between several of the cave entrances.
-> 
 > **Bridges.** Bridges of spider silk rope connect the walkways to the guard tower and the entrance to the priestess's tower. The swaying bridges are difficult terrain for non-drow.
-> 
 > **Falling.** A creature pushed off the stairs, a bridge, or the edge of a platform must attempt a DC 10 Dexterity saving throw. On a failure, the creature falls, landing in the webs stretched beneath the outpost. On a successful save, a creature grabs hold of the edge and hangs there until it can climb back up with a DC 10 Strength ([[skills#Athletics|Athletics]]) check made as part of its movement. A failed Strength check means the creature is unable to move and must check again, while failure by 5 or more means a fall to the webs.
-> 
 > **Webs.** The dense webs of giant spiders kept by the drow conceal the outpost from below. A creature falling into the webs becomes [[conditions#Restrained|restrained]]. As an action, a [[conditions#Restrained|restrained]] creature can attempt a DC 12 Strength check to break free from the webs. The webs can also be attacked and destroyed (AC 10, 15 hp per 10-foot section, vulnerability to fire, and immunity to bludgeoning, poison, and psychic damage). Each foot of movement in the webs costs 1 extra foot, and any creature other than a spider that enters the webs or starts its turn there must succeed on a DC 12 Strength or Dexterity check to avoid becoming [[conditions#Restrained|restrained]]. Any movement in the webs attracts the attention of the giant spiders, which attack and feed on trapped creatures.
-> 
 > A creature falling from the webbing to the cavern floor takes `10d6` bludgeoning damage.
 ^velkynvelve-general-features
 
 > [!gallery]
 > ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/005-01-04.webp#gallery|Map 1.1: Velkynvelve]]
 > ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/006-velkynvelve-player-version.webp#gallery|Player Version]]
-
-### Areas of Velkynvelve
 
 ### 1. Southern Watch Post
 
@@ -342,7 +344,7 @@ There is nothing of value in the main hall apart from what the drow have on them
 
 ### 4. Elite Barracks
 
-The two hanging towers flanking the platform are the quarters of the elite warriors of the outpost, except for the commander's lieutenant (currently Shoor Vandree) who has his own quarters in the priestess's tower. Each hanging tower has two chambers, with a rope ladder running between the upper and lower chamber through a zurkhwood trapdoor. The elite warriors have finer furniture, including zurkhwood chairs and small tables around which they sit.
+The two hanging towers flanking the platform are the quarters of the elite warriors of the outpost, except for the commander's lieutet (currently Shoor Vandree) who has his own quarters in the priestess's tower. Each hanging tower has two chambers, with a rope ladder running between the upper and lower chamber through a zurkhwood trapdoor. The elite warriors have finer furniture, including zurkhwood chairs and small tables around which they sit.
 
 One off-duty [[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm|drow elite warrior]] rests in one of the chambers here at any given time. There is a 50 percent chance that one [[quaggoth-xmm|quaggoth]] is also present, carrying out chores such as cleaning up or delivering water. Either reacts hostilely to intruders, but they might choose to flee and warn the outpost rather than attack, depending on the odds.
 
@@ -411,7 +413,7 @@ Additionally, the chest contains any valuables once held by the characters and N
 
 ### 8. Shoor's Quarters
 
-The lowermost and smallest chamber of the priestess's tower belongs to the commander's lieutenant, the leader of the elite warriors of the outpost. Shoor Vandree, Ilvara's current favorite, is the present occupant. The area's former occupant, Jorlan Duskryn, has been displaced to the elite barracks after his recent injuries.
+The lowermost and smallest chamber of the priestess's tower belongs to the commander's lieutet, the leader of the elite warriors of the outpost. Shoor Vandree, Ilvara's current favorite, is the present occupant. The area's former occupant, Jorlan Duskryn, has been displaced to the elite barracks after his recent injuries.
 
 The chamber contains cushions laid out across floor mats, a small carved table with two chairs, and a sturdy zurkhwood chest.
 
@@ -558,20 +560,29 @@ In addition to the XP awards earned for overcoming the creatures in this chapter
 
 Legends speak of 01 chapter 1 prisoners of the drow as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 01 chapter 1 prisoners of the drow.
 
-## Adventure Hooks
-
-- A rumor ties 01 chapter 1 prisoners of the drow to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 01 chapter 1 prisoners of the drow to avert a public scandal.
-- A map overlay reveals a hidden approach to 01 chapter 1 prisoners of the drow active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before the new moon
+- Strange accidents suggest a conspiracy
+- A journal reveals a betrayal about a local noble
+- Someone is protecting a artifact for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

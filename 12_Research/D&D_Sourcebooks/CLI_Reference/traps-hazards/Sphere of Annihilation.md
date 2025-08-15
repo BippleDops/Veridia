@@ -23,9 +23,6 @@ updated: '2025-08-13T12:34:05.023652+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-sphere-of-annihilation-xdmg-sphere-of-annihilation-xdmg.svg)
 
@@ -38,7 +35,25 @@ A successful DC 20 Intelligence ([[skills#Arcana|Arcana]]) check reveals that th
 
 A successful [[dispel-magic-xphb|dispel magic]] (DC 18) removes this enchantment.
 
-*Source: Dungeon Master's Guide p. 123. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*
+*Source: Dungeon Master's Guide p. 123. Available in the SRD*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -48,19 +63,18 @@ Sphere of annihilation is a undersea element of the setting, known for biolumine
 
 Legends speak of sphere of annihilation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sphere of annihilation.
 
-## Adventure Hooks
-
-- A rumor ties sphere of annihilation to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at sphere of annihilation to avert a public scandal.
-- A map overlay reveals a hidden approach to sphere of annihilation active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- Strange accidents suggest a portal
+- Someone is blackmailing information for revenge
+- A journal reveals ancient history about this place

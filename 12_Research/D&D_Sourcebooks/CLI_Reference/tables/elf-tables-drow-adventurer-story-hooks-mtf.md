@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.475142'
 world: Both
 ---
 
-
 # Elf Tables; Drow Adventurer Story Hooks
 *Source: Mordenkainen's Tome of Foes p. 64* 
 
@@ -41,6 +40,24 @@ world: Both
 | 8 | You were part of a delegation carrying diplomatic messages to another drow city when duergar attacked the caravan for slaves and treasure. Only you and one other guard escaped. If you'd returned home, you'd have been poisoned or worse for failure. Becoming a mercenary was your best option. |
 ^drow-adventurer-story-hooks
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Elf tables drow adventurer story hooks mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -49,19 +66,17 @@ Elf tables drow adventurer story hooks mtf is a undersea element of the setting,
 
 Legends speak of elf tables drow adventurer story hooks mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elf tables drow adventurer story hooks mtf.
 
-## Adventure Hooks
-
-- A rumor ties elf tables drow adventurer story hooks mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at elf tables drow adventurer story hooks mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to elf tables drow adventurer story hooks mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- A letter reveals ancient history about the government
+- A prisoner has gone missing and evil awakens

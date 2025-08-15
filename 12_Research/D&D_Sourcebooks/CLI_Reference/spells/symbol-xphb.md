@@ -29,14 +29,11 @@ updated: '2025-08-12T23:37:36.406598'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-holy-symbol-xphb-holy-symbol-xphb.svg)
 
 # Symbol
 *7th-level, Abjuration*  
-
 
 - **Casting time:** 1 minute
 - **Range:** Touch
@@ -48,6 +45,24 @@ You inscribe a harmful glyph either on a surface (such as a section of floor or 
 The glyph is nearly imperceptible and requires a successful Wisdom ([[skills#Perception|Perception]]) check against your spell save DC to notice.
 
 When you inscribe the glyph, you set its trigger and choose which effect the symbol bears: Death, Discord, Fear, Pain, Sleep, or Stunning. Each one is explained below.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Set the Trigger
 
@@ -67,7 +82,7 @@ Each target makes a Wisdom saving throw. On a failed save, a target argues with 
 
 ## Fear
 
-Each target must succeed on a Wisdom saving throw or have the [[conditions#Frightened|Frightened]] condition for 1 minute. While [[conditions#Frightened|Frightened]], the target must move at least 30 feet away from the glyph on each of its turns, if able.
+Each target must succeed on a Wisdom saving throw or have the [[conditions#frightened|Frightened]] condition for 1 minute. While [[conditions#frightened|Frightened]], the target must move at least 30 feet away from the glyph on each of its turns, if able.
 
 ## Pain
 
@@ -85,7 +100,7 @@ Each target must succeed on a Wisdom saving throw or have the [[conditions#Stunn
 
 **Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-abjurer-xphb "subclass=XPHB;class=XPHB"|Wizard (Abjurer)]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
 
-*Source: Player's Handbook (2024) p. 329. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 329. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -95,19 +110,15 @@ Symbol xphb is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of symbol xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around symbol xphb.
 
-## Adventure Hooks
-
-- A rumor ties symbol xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at symbol xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to symbol xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession

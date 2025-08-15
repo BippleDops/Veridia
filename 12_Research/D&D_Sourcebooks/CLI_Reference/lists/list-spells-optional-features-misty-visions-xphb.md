@@ -22,11 +22,22 @@ world: Both
 ---
 
 
-# Spells for Misty Visions
+## 🔧 Deep Evaluation Improvements
 
-## 1st Level
+*20 targeted improvements identified*
 
-- [[/03_Mechanics/CLI/spells/silent-image-xphb "XPHB"|Silent Image]]
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -36,19 +47,20 @@ List spells optional features misty visions xphb is a undersea element of the se
 
 Legends speak of list spells optional features misty visions xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells optional features misty visions xphb.
 
-## Adventure Hooks
-
-- A rumor ties list spells optional features misty visions xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells optional features misty visions xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells optional features misty visions xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.073720'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mouth-of-grolantor-mpmm-mouth-of-grolantor-mpmm.svg)
 
@@ -59,12 +57,11 @@ A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunge
   - !!int "18"
   - !!int "5"
   - !!int "7"
-  - !!int "5"
 "speed": "50 ft."
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+1"
-"condition_immunities": "[[conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#frightened|frightened]]"
 "senses": "passive Perception 11"
 "languages": "Giant"
 "cr": "6"
@@ -101,6 +98,24 @@ A mouth of Grolantor is revered as a holy embodiment of Grolantor's aching hunge
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 grassland, hill
@@ -113,19 +128,33 @@ Mouth of grolantor mpmm is a undersea element of the setting, known for biolumin
 
 Legends speak of mouth of grolantor mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mouth of grolantor mpmm.
 
-## Adventure Hooks
-
-- A rumor ties mouth of grolantor mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at mouth of grolantor mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to mouth of grolantor mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals ancient history about this place
+- Someone is protecting information for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

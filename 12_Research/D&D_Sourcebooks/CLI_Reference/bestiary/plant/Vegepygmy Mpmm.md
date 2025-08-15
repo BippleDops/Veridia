@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.665078+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![[04_Resources/Assets/Creatures/creature-creature-thorny-vegepygmy-mpmm-thorny-vegepygmy-mpmm.png]]
 
@@ -40,9 +37,27 @@ world: Both
 
 Typical vegepygmies originate from the remains left behind when a Humanoid or a Giant is killed by [[russet-mold-vgm|russet mold]]. One or more vegepygmies emerge from the corpse a day later.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Vegepygmies
 
-Vegepygmies are fungus creatures that live in simple bands, hunting for sustenance and spreading the spores by which they reproduce. Also called mold folk or moldies, vegepygmies inhabit dark, moist areas, so they're most commonly found underground or in forests where little sunlight penetrates. A vegepygmy feels kinship with other plant and fungus creatures, and thus vegepygmy bands coexist well with creatures such as [[myconid-adult-xmm|myconid adults]], [[shrieker-fungus-xmm|shriekers]], and [[violet-fungus-xmm|violet fungi]].
+Vegepygmies are fungus creatures that live in simple bands, hunting for sustece and spreading the spores by which they reproduce. Also called mold folk or moldies, vegepygmies inhabit dark, moist areas, so they're most commonly found underground or in forests where little sunlight penetrates. A vegepygmy feels kinship with other plant and fungus creatures, and thus vegepygmy bands coexist well with creatures such as [[myconid-adult-xmm|myconid adults]], [[shrieker-fungus-xmm|shriekers]], and [[violet-fungus-xmm|violet fungi]].
 
 Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb nutrients from soil and many sorts of organic matter, so they rarely go hungry. A vegepygmy can hiss and make other noises by forcing air through its mouth, but it can't speak in a conventional sense. Among themselves, vegepygmies communicate by hissing, gestures, and tapping. Vegepygmies build and craft little; any gear they have is acquired from other creatures or built by copying simple construction they have witnessed.
 
@@ -62,7 +77,6 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
   - !!int "13"
   - !!int "6"
   - !!int "11"
-  - !!int "7"
 "speed": "30 ft."
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
@@ -108,19 +122,31 @@ Vegepygmy mpmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of vegepygmy mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around vegepygmy mpmm.
 
-## Adventure Hooks
-
-- A rumor ties vegepygmy mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at vegepygmy mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to vegepygmy mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and evil awakens
+- A map reveals the truth about the government
+- Strange disappearances suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

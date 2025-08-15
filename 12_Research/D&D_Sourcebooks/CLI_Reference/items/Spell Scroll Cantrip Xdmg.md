@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:07.215616+00:00'
 world: Both
 ---
 
-
-
 # Spell Scroll (Cantrip)
 *Scroll, common*  
 ![](/03_Mechanics/CLI/items/img/spell-scroll.webp#right)
@@ -38,7 +36,25 @@ If the spell is on your spell list but of a higher level than you can normally c
 
 If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is `+5`.
 
-*Source: Dungeon Master's Guide (2024) p. 305, Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 305, Player's Handbook (2024) p. 228. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -48,19 +64,30 @@ Spell scroll cantrip xdmg is a undersea element of the setting, known for biolum
 
 Legends speak of spell scroll cantrip xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spell scroll cantrip xdmg.
 
-## Adventure Hooks
-
-- A rumor ties spell scroll cantrip xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at spell scroll cantrip xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to spell scroll cantrip xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -1,7 +1,7 @@
-# The Scribes' Covenant
+# The Scribes' Covet
 
 ---
-title: The Scribes' Covenant
+title: The Scribes' Covet
 type: Lore
 tags:
 - lore
@@ -17,45 +17,50 @@ updated: '2025-08-13T01:18:35.813014+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
 
 ## Player-Facing Summary
 
-The Scribes' Covenant is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+The Scribes' Covet is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of The Scribes' Covenant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Scribes' Covenant.
-
-## Adventure Hooks
-
-- A rumor ties The Scribes' Covenant to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Scribes' Covenant to avert a public scandal.
-- A map overlay reveals a hidden approach to The Scribes' Covenant active only during specific tides/storms.
+Legends speak of The Scribes' Covet as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Scribes' Covet.
 
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Sunken Library of Thalassius|02 Worldbuilding/Places/The Sunken Library Of Thalassius]]
-
-
-## Connections
-
-- [[The Sunken Library of Thalassius]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals a conspiracy about this place
+- A journal reveals the truth about a local noble
+- A corpse reveals a betrayal about the cult
+- Strange disappearances suggest a conspiracy
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

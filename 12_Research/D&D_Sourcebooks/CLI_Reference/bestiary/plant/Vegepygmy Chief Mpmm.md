@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.680787+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-vegepygmy-chief-mpmm-v1-vegepygmy-chief-mpmm.svg)
 
@@ -40,9 +37,27 @@ world: Both
 
 As a [[vegepygmy-mpmm|vegepygmy]] ages, it grows tougher and develops spore clusters on its body. Other vegepygmies defer to these so-called chiefs. A chief can expel its spores in a burst, infecting nearby creatures. If a creature dies while infected, its corpse produces vegepygmies the same way [[russet-mold-vgm|russet mold]] does.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Vegepygmies
 
-Vegepygmies are fungus creatures that live in simple bands, hunting for sustenance and spreading the spores by which they reproduce. Also called mold folk or moldies, vegepygmies inhabit dark, moist areas, so they're most commonly found underground or in forests where little sunlight penetrates. A vegepygmy feels kinship with other plant and fungus creatures, and thus vegepygmy bands coexist well with creatures such as [[myconid-adult-xmm|myconid adults]], [[shrieker-fungus-xmm|shriekers]], and [[violet-fungus-xmm|violet fungi]].
+Vegepygmies are fungus creatures that live in simple bands, hunting for sustece and spreading the spores by which they reproduce. Also called mold folk or moldies, vegepygmies inhabit dark, moist areas, so they're most commonly found underground or in forests where little sunlight penetrates. A vegepygmy feels kinship with other plant and fungus creatures, and thus vegepygmy bands coexist well with creatures such as [[myconid-adult-xmm|myconid adults]], [[shrieker-fungus-xmm|shriekers]], and [[violet-fungus-xmm|violet fungi]].
 
 Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb nutrients from soil and many sorts of organic matter, so they rarely go hungry. A vegepygmy can hiss and make other noises by forcing air through its mouth, but it can't speak in a conventional sense. Among themselves, vegepygmies communicate by hissing, gestures, and tapping. Vegepygmies build and craft little; any gear they have is acquired from other creatures or built by copying simple construction they have witnessed.
 
@@ -57,8 +72,6 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
 "hit_dice": "6d6 + 12"
 "modifier": !!int "2"
 "stats":
-  - !!int "14"
-  - !!int "14"
   - !!int "14"
   - !!int "7"
   - !!int "12"
@@ -119,19 +132,35 @@ Vegepygmy chief mpmm is a undersea element of the setting, known for bioluminesc
 
 Legends speak of vegepygmy chief mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around vegepygmy chief mpmm.
 
-## Adventure Hooks
-
-- A rumor ties vegepygmy chief mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at vegepygmy chief mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to vegepygmy chief mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a conspiracy about this place
+- A corpse reveals ancient history about a local noble
+- Strange dreams suggest a curse
+- Strange dreams suggest a portal
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

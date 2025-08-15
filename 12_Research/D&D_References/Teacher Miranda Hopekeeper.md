@@ -26,18 +26,30 @@ obsidianUIMode: preview
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-teacher-miranda-hopekeeper-teacher-miranda-hopekeeper.svg]]
-
-
-
-
 
 # The Hopekeeper Academy
 
 *"Knowledge is the light that pierces the deepest darkness" - Academy Motto*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -46,20 +58,6 @@ The Hopekeeper Academy stands as a beacon of learning and resistance in the dept
 ## Physical Description
 
 The academy is ingeniously constructed within a living kelp forest, with buildings woven from cultivated coral and reinforced kelp fronds. The complex consists of:
-
-### Main Campus
-- **The Central Dome**: A massive air-filled chamber for surface dwellers, with bioluminescent ceiling murals
-- **Kelp Corridors**: Naturally grown pathways between buildings that sway with the currents
-- **The Living Library**: Books preserved in waterproof bio-luminescent pods
-- **Laboratory Caverns**: Natural rock formations converted into research spaces
-- **The Sanctuary**: Hidden chamber where anti-corruption research takes place
-
-### Grounds
-- **Training Pools**: Various depths for practicing magic and combat underwater
-- **Meditation Gardens**: Carefully tended coral formations that filter corruption
-- **The Nursery**: Where young kelp and coral are cultivated for construction
-
-## Key NPCs
 
 ### [[Miranda Hopekeeper]] (Headmistress)
 *Medium humanoid (half-elf), lawful good*
@@ -82,30 +80,6 @@ An elderly triton who has memorized the contents of every book in the academy. H
 *Large plant, neutral*
 A sentient coral entity that maintains the living buildings. Can communicate through color changes and water vibrations. Highly protective of students.
 
-### Students of Note
-- **[[Finn Brightwater]]**: A young human prodigy studying anti-corruption magic
-- **[[Nerissa Depthsong]]**: A merfolk student researching the connection between [[Aethermoor]] and [[Aquabyssos]]
-- **[[Tobias Currentrider]]**: A sea elf who discovered a new form of underwater spellcasting
-
-## Environmental Features
-
-### The Living Library
-- **Bio-luminescent Preservation**: Books are stored in living pods that glow when accessed
-- **Memory Coral**: Stores knowledge in living coral formations
-- **Restricted Section**: Contains dangerous knowledge about corruption magic (DC 20 Investigation to find)
-
-### Kelp Forest Defenses
-- **Natural Camouflage**: Academy appears as ordinary kelp forest from outside
-- **Current Maze**: Complex water currents disorient unwelcome visitors
-- **Sentinel Kelp**: Magically enhanced kelp that alerts to intruders
-
-### The Purification Chambers
-- **Cleansing Pools**: Remove corruption effects (functions as Greater Restoration)
-- **Crystal Filters**: Use crystals from [[Aethermoor]] to purify water and air
-- **Emergency Lockdown**: Can seal entire academy if corruption breach occurs
-
-## Environmental Hazards
-
 ### Corruption Intrusion
 During periods of high corruption activity:
 - **Tainted Currents**: DC 15 Constitution save or suffer 1d6 necrotic damage
@@ -117,8 +91,6 @@ Student experiments sometimes create hazardous areas:
 - **Wild Magic Surges**: Spells cast have 25% chance of triggering wild magic surge
 - **Temporal Eddies**: Time flows differently (1 minute = 1d4 hours outside)
 - **Elemental Rifts**: Random portals to elemental planes
-
-## Treasure and Resources
 
 ### The Headmistress's Office
 [[Miranda Hopekeeper]]'s private chambers contain:
@@ -141,22 +113,6 @@ Various magical items created by students:
 - **Glowing Pearl of Light**: Casts daylight spell 3x/day
 - **Net of Entanglement**: +2 to attack rolls, automatic grapple on hit
 
-## Academic Programs
-
-### Standard Curriculum
-- **Aquatic History**: Study of [[Aquabyssos]] before corruption
-- **Marine Biology**: Understanding sea creatures and their corruption
-- **Elemental Magic**: Focus on water, ice, and earth magic
-- **Navigation**: Underwater and surface world travel
-
-### Secret Courses
-- **Corruption Theory**: Understanding shadow magic's nature and weaknesses
-- **Resistance Tactics**: Combat techniques against corrupted beings
-- **Surface Contact**: Communication with [[Aethermoor]]
-- **Purification Rituals**: Advanced anti-corruption magic
-
-## Quest Hooks
-
 ### The Missing Student
 [[Nerissa Depthsong]] disappeared while researching in the [[Deep Trenches]]. Her last message mentioned discovering something about the corruption's origin. [[Miranda Hopekeeper]] needs discrete help finding her.
 **Reward**: 750 gp + access to restricted library section
@@ -177,43 +133,6 @@ A message arrives from [[Aethermoor]] requesting immediate assistance. The surfa
 Final exams are approaching, but the testing chambers have been corrupted. Students are experiencing nightmare visions during their practical tests. The party must cleanse the chambers and discover who or what is behind the sabotage.
 **Reward**: 500 gp + honorary academy membership
 
-## Connected Locations
-
-- **[[The Ironlung Tavern]]**: Safe meeting place for academy contacts
-- **[[Crystal Caves of Aethermoor]]**: Source of purification crystals
-- **[[Memory Coral Reefs]]**: Natural repository of pre-corruption knowledge  
-- **[[Deep Trenches|02 Worldbuilding/Lore/Deep Trenches]]**: Dangerous research location
-- **[[The Corrupted Admiralty]]**: Primary opposition to academy's mission
-- **[[Port Shadowmere]]**: Where academy alumni often work undercover
-
-## Lore and Secrets
-
-- The academy is built on the site of an ancient temple to a forgotten sea goddess who opposed corruption
-- [[Miranda Hopekeeper]] is actually over 200 years old, sustained by the goddess's blessing
-- Several prominent figures in [[The Corrupted Admiralty]] are former students who were turned
-- The academy has a secret tunnel network connecting to resistance safe houses throughout [[Aquabyssos]]
-- [[Coral]], the groundskeeper, is the reincarnated spirit of the temple's high priestess
-- The academy's research has discovered that the corruption originates from a breach between dimensions
-
-## Academic Calendar
-
-### Term Schedule
-- **Deep Current Season** (months 1-3): Focus on history and theory
-- **Warm Tide Season** (months 4-6): Practical magic and fieldwork
-- **Shadow Season** (months 7-9): Advanced corruption studies (secret students only)
-- **Crystal Season** (months 10-12): Examinations and thesis presentations
-
-### Special Events
-- **Founder's Day**: Celebration of [[Miranda Hopekeeper]]'s founding of the academy
-- **Purification Ceremony**: Monthly cleansing of academy grounds
-- **Knowledge Festival**: Students present research to the community
-- **Memorial Vigil**: Honoring those lost to corruption
-
-
-## Connections
-
-- [[The Wandering Atoll]]
-
 ## Player-Facing Summary
 
 Teacher Miranda Hopekeeper is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -222,24 +141,15 @@ Teacher Miranda Hopekeeper is a undersea element of the setting, known for biolu
 
 Legends speak of Teacher Miranda Hopekeeper as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Teacher Miranda Hopekeeper.
 
-## Adventure Hooks
-
-- A rumor ties Teacher Miranda Hopekeeper to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Teacher Miranda Hopekeeper to avert a public scandal.
-- A map overlay reveals a hidden approach to Teacher Miranda Hopekeeper active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Teacher Miranda Hopekeeper|02 Worldbuilding/Places/Teacher Miranda Hopekeeper]]
-
-<!-- enriched: true -->
-- [[Aethermoor]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

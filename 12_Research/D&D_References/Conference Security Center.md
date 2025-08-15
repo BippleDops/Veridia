@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Diplomatic Tides|02 Worldbuilding/Quests/Diplomatic Tides]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Diplomatic Tides]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,28 @@ Conference Security Center is a undersea element of the setting, known for biolu
 
 Legends speak of Conference Security Center as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Conference Security Center.
 
-## Adventure Hooks
-
-- A rumor ties Conference Security Center to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Conference Security Center to avert a public scandal.
-- A map overlay reveals a hidden approach to Conference Security Center active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Stars
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for love
+- A noble needs help delivering before the festival
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

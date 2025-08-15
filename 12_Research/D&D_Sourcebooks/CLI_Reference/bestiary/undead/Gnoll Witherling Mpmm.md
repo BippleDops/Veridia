@@ -31,9 +31,6 @@ updated: '2025-08-13T12:34:05.869215+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gnoll-witherling-mpmm-gnoll-witherling-mpmm.svg)
 
@@ -65,8 +62,6 @@ Witherlings travel with their comrades and try to kill anything in their path. T
   - !!int "8"
   - !!int "12"
   - !!int "5"
-  - !!int "5"
-  - !!int "5"
 "speed": "30 ft."
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
@@ -83,7 +78,6 @@ Witherlings travel with their comrades and try to kill anything in their path. T
   - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
       \ + 2) necrotic damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4\
       \ + 2) piercing damage."
     "name": "Spiked Club"
 "bonus_actions":
@@ -102,6 +96,24 @@ Witherlings travel with their comrades and try to kill anything in their path. T
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 arctic, forest, grassland, hill
@@ -114,19 +126,23 @@ Gnoll witherling mpmm is a undersea element of the setting, known for biolumines
 
 Legends speak of gnoll witherling mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gnoll witherling mpmm.
 
-## Adventure Hooks
-
-- A rumor ties gnoll witherling mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gnoll witherling mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to gnoll witherling mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

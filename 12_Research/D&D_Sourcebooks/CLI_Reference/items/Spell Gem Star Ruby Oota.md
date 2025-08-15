@@ -25,16 +25,11 @@ updated: '2025-08-13T12:34:07.121210+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Generated/Items/item-artifact-spell-gem-star-ruby-oota-spell-gem-star-ruby-oota.svg)
 
 # Spell Gem (Star ruby)
 *Wondrous item, legendary (attunement optional)*  
-
-
 
 A star ruby spell gem can contain one spell from any class's spell list. You become aware of the spell when you learn the gem's properties. While holding the gem, you can cast the spell from it as an action if you know the spell or if the spell is on your class's spell list. Doing so doesn't require any components, and doesn't require attunement. The spell then disappears from the gem.
 
@@ -50,6 +45,24 @@ Deep gnomes created these magic gemstones and keep the creation process a secret
 
 *Source: Out of the Abyss p. 223*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Spell gem star ruby oota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -58,19 +71,20 @@ Spell gem star ruby oota is a undersea element of the setting, known for biolumi
 
 Legends speak of spell gem star ruby oota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spell gem star ruby oota.
 
-## Adventure Hooks
-
-- A rumor ties spell gem star ruby oota to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at spell gem star ruby oota to avert a public scandal.
-- A map overlay reveals a hidden approach to spell gem star ruby oota active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

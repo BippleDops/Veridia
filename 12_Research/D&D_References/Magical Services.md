@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.312444+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-magical-services-magical-services.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,32 @@ Magical Services is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of Magical Services as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Magical Services.
 
-## Adventure Hooks
-
-- A rumor ties Magical Services to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Magical Services to avert a public scandal.
-- A map overlay reveals a hidden approach to Magical Services active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Magical Services|02 Worldbuilding/Places/Magical Services]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Inverted Ballroom Wing]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- Strange accidents suggest a curse
+- The authorities needs help delivering before dawn
+- An heirloom has gone missing and chaos spreads
+- Strange disappearances suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

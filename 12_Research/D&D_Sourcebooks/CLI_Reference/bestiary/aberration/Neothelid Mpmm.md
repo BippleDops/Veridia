@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.649023+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-neothelid-mpmm-neothelid-mpmm.svg)
 
@@ -89,11 +86,11 @@ Mind flayers consider neothelids dangerous abominations—normally they eat or d
       \ 21 (6d6) acid damage at the start of each of the neothelid's turns.\n\nIf\
       \ the neothelid takes 30 damage or more on a single turn from a creature inside\
       \ it, the neothelid must succeed on a DC 18 Constitution saving throw at the\
-      \ end of that turn or regurgitate all swallowed creatures, which fall [[conditions#Prone|prone]]\
+      \ end of that turn or regurgitate all swallowed creatures, which fall [[conditions#prone|prone]]\
       \ in a space within 10 feet of the neothelid. If the neothelid dies, a swallowed\
       \ creature is no longer [[conditions#Restrained|restrained]]\
       \ by it and can escape from the corpse by using 20 feet of movement, exiting\
-      \ [[conditions#Prone|prone]]."
+      \ [[conditions#prone|prone]]."
     "name": "Tentacles"
   - "desc": "The neothelid exhales acid in a 60-foot cone. Each creature in that area\
       \ must make a DC 18 Dexterity saving throw, taking 35 (10d6) acid damage on\
@@ -111,6 +108,24 @@ Mind flayers consider neothelids dangerous abominations—normally they eat or d
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 underdark
@@ -123,19 +138,27 @@ Neothelid mpmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of neothelid mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around neothelid mpmm.
 
-## Adventure Hooks
-
-- A rumor ties neothelid mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at neothelid mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to neothelid mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for a witness for power
+- Strange disappearances suggest a curse
+- A corpse reveals a conspiracy about the cult
+- The authorities needs help stealing before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.576975+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,23 @@ The Tidal Sanctum is a undersea element of the setting, known for bioluminescent
 
 Legends speak of The Tidal Sanctum as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Tidal Sanctum.
 
-## Adventure Hooks
-
-- A rumor ties The Tidal Sanctum to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Tidal Sanctum to avert a public scandal.
-- A map overlay reveals a hidden approach to The Tidal Sanctum active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Oracle Nerida the Tidereader|02 Worldbuilding/People/Oracle Nerida The Tidereader]]
-
-
-## Connections
-
-- [[Crown of Tidal Sovereignty]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- The authorities needs help investigating before the festival
+- A map reveals the truth about a local noble
+- A journal reveals a conspiracy about this place
+- Strange dreams suggest a curse

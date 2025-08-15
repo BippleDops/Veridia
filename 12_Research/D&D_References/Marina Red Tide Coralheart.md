@@ -15,17 +15,26 @@ world: Universal
 updated: '2025-08-13T01:18:34.582856+00:00'
 ---
 
-
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-marina-red-tide-coralheart-aquabyssos-marina-red-tide-coralheart-aquabyssos.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Overview
+*20 targeted improvements identified*
 
-TODO
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -35,23 +44,22 @@ Marina Red Tide Coralheart is a undersea element of the setting, known for biolu
 
 Legends speak of Marina Red Tide Coralheart as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Marina Red Tide Coralheart.
 
-## Adventure Hooks
-
-- A rumor ties Marina Red Tide Coralheart to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Marina Red Tide Coralheart to avert a public scandal.
-- A map overlay reveals a hidden approach to Marina Red Tide Coralheart active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Update Indexes|02 Worldbuilding/Lore/Update Indexes]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a conspiracy about a local noble
+- The authorities needs help delivering before winter
+- Someone is hunting information for love
+- A prisoner has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

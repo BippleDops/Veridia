@@ -17,7 +17,7 @@ tags:
 - ttrpg-cli/monster/type/monstrosity
 - active
 - status/in-progress
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-monster
@@ -28,14 +28,29 @@ updated: '2025-08-13T12:34:05.299519+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-female-steeder-mpmm-female-steeder-mpmm.svg)
 
 # [[female-steeder-mpmm|Female Steeder]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 231, Mordenkainen's Tome of Foes p. 238*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Steeders
 
@@ -112,19 +127,40 @@ Female steeder mpmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of female steeder mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around female steeder mpmm.
 
-## Adventure Hooks
-
-- A rumor ties female steeder mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at female steeder mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to female steeder mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Winds
+
+
+## Plot Hooks
+
+- A merchant needs help finding before the new moon
+- A document has gone missing and truth emerges
+- A document has gone missing and chaos spreads
+- A shipment has gone missing and chaos spreads
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

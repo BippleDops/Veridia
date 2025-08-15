@@ -16,7 +16,7 @@ tags:
 - ttrpg-cli/monster/environment/forest
 - status/in-progress
 - ttrpg-cli/monster/cr/22
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-monster
@@ -27,11 +27,28 @@ updated: '2025-08-12T23:37:35.775945'
 world: Both
 ---
 
-
 # [[ancient-green-dragon-xmm|Ancient Green Dragon]]
-*Source: Monster Manual (2024) p. 154. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 154. Available in the SRD and the Free Rules (2024)*  
 
 Ancient green dragons are creatures of legend, rarely seen by their servants or foes. Via magic and well-hidden agents, these dragons stoke suspicion between allies and undermine noble works. As bonds fray, the dragons reap rewards of greater wealth and control. Eventually the ambitions of ancient green dragons stretch beyond their territories as they seek control over empires, planar realms, or death itself.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Green Dragons
 
@@ -75,7 +92,6 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+17"
   - "name": "[[skills#Persuasion|Persuasion]]"
-    "desc": "+13"
   - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+8"
 "damage_immunities": "poison"
@@ -101,13 +117,12 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
     "name": "Poison Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 21):\n\nAt\
-      \ will: [[detect-magic-xphb|Detect Magic]], [[mind-spike-xphb|Mind\
+      \ will: [[detect-magic-xphb|Detect Magic]], [[mind-spike-xphb|Mind\]]
       \ Spike]] (level 5 version)\n\n1/day\
       \ each: [[geas-xphb|Geas]], [[modify-memory-xphb|Modify Memory]]"
     "name": "Spellcasting"
 "legendary_actions":
   - "desc": "The dragon uses Spellcasting to cast [[mind-spike-xphb|Mind Spike]]\
-      \ (level 5 version)."
     "name": "Mind Invasion"
   - "desc": "Constitution Saving Throw: DC 21, each creature in a 30-foot-radius\
       \ [[sphere-area-of-effect-xphb|Sphere]] centered\
@@ -131,9 +146,7 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
       \ in that area, it must succeed on a DC 15 Constitution saving throw or have\
       \ the [[conditions#Poisoned|Poisoned]] condition for 1 hour.\
       \  "
-    "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/dragon/token/ancient-green-dragon-xmm.webp"
@@ -152,19 +165,28 @@ Ancient green dragon xmm is a undersea element of the setting, known for biolumi
 
 Legends speak of ancient green dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ancient green dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties ancient green dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ancient green dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ancient green dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

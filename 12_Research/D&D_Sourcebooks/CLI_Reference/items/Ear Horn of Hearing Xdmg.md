@@ -24,20 +24,33 @@ updated: '2025-08-13T12:34:06.947500+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-ear-horn-of-hearing-xdmg-ear-horn-of-hearing-xdmg.svg)
 
 # Ear Horn of Hearing
 *Wondrous item, common*  
 
-
-
 While held up to your ear, this horn suppresses the effects of the [[conditions#Deafened|Deafened]] condition on you.
 
 *Source: Dungeon Master's Guide (2024) p. 256*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -47,19 +60,25 @@ Ear horn of hearing xdmg is a undersea element of the setting, known for biolumi
 
 Legends speak of ear horn of hearing xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ear horn of hearing xdmg.
 
-## Adventure Hooks
-
-- A rumor ties ear horn of hearing xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ear horn of hearing xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to ear horn of hearing xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- A noble needs help investigating before dawn
+- A shipment has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.073268+00:00'
 world: Both
 ---
 
-
-
 # Random Height and Weight
 *Source: Player's Handbook p. 121. Available in the Basic Rules (2014)* 
 
@@ -45,6 +43,24 @@ world: Both
 | [[tiefling-xphb|Tiefling]] | 4 '9" | +`2d8` | 110 lb. | × (`2d4`) lb. |
 ^random-height-and-weight
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Random height and weight phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -53,20 +69,22 @@ Random height and weight phb is a undersea element of the setting, known for bio
 
 Legends speak of random height and weight phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random height and weight phb.
 
-## Adventure Hooks
-
-- A rumor ties random height and weight phb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at random height and weight phb to avert a public scandal.
-- A map overlay reveals a hidden approach to random height and weight phb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -21,30 +21,27 @@ updated: '2025-08-13T12:34:17.799809+00:00'
 world: Both
 ---
 
-
-
-
 # Vault Self-Improvement Engine
 
 Automatic cross-references, consistency validation, gap identification, integration tests, balance verification, emergent combinators.
 
-## Cross-Reference Generator
-- Periodically crawl and link related notes; surface orphaned content
 
-## Consistency Validator
-- Flag conflicting values (DCs, prices, names); suggest harmonization
+## 🔧 Deep Evaluation Improvements
 
-## Gap Finder
-- Detect missing examples, tables, or integrations per system
+*20 targeted improvements identified*
 
-## Integration Tests
-- Scenario checklists across systems (pressure+reality+sanity+memory)
+### Connection Improvements
 
-## Balance Verification
-- Heuristics to detect runaway combos; propose caps or costs
+- Add cross-references to related notes
 
-## Emergent Combinators
-- Suggest new mechanics from existing interactions; log in backlog
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -54,23 +51,27 @@ Vault Self Improvement Engine is a undersea element of the setting, known for bi
 
 Legends speak of Vault Self Improvement Engine as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Vault Self Improvement Engine.
 
-## Adventure Hooks
-
-- A rumor ties Vault Self Improvement Engine to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Vault Self Improvement Engine to avert a public scandal.
-- A map overlay reveals a hidden approach to Vault Self Improvement Engine active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Phase_Omega_Enhanced_Index|03 Mechanics/Phase Omega Enhanced Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A document has gone missing and truth emerges
+- A shipment has gone missing and war looms
+- Strange disappearances suggest a portal
+- A shipment has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

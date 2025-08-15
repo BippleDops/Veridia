@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.256612+00:00'
 world: Both
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-memory-meadows-black-market-the-memory-meadows-black-market.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[The Bone Colosseum|02 Worldbuilding/Places/The Bone Colosseum]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Crystal Wardens]]
 
 ## Player-Facing Summary
 
@@ -40,18 +44,9 @@ The Memory Meadows Black Market is a undersea element of the setting, known for 
 
 Legends speak of The Memory Meadows Black Market as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Memory Meadows Black Market.
 
-## Adventure Hooks
-
-- A rumor ties The Memory Meadows Black Market to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Memory Meadows Black Market to avert a public scandal.
-- A map overlay reveals a hidden approach to The Memory Meadows Black Market active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

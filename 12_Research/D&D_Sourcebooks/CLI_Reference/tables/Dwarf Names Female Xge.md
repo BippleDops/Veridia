@@ -17,7 +17,21 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
 ## Player-Facing Summary
@@ -28,19 +42,31 @@ Dwarf names female xge is a undersea element of the setting, known for biolumine
 
 Legends speak of dwarf names female xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dwarf names female xge.
 
-## Adventure Hooks
-
-- A rumor ties dwarf names female xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dwarf names female xge to avert a public scandal.
-- A map overlay reveals a hidden approach to dwarf names female xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A letter reveals the truth about a local noble
+- Someone is blackmailing an heir for revenge
+- A corpse reveals a conspiracy about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

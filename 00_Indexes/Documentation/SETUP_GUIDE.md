@@ -10,22 +10,6 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# 🚀 TTRPG Online Integration Setup Guide
-
-## ✅ Already Configured
-
-### OpenAI (GPT-4 + DALL-E 3)
-- **Status:** Ready to use!
-- **API Key:** Configured in `.obsidian/api_config.json`
-- **Test:** Run `node scripts/openai_generator.js`
-
-### Unsplash
-- **Status:** Ready to use!
-- **Access Key:** Configured
-- **Usage:** Free tier allows 50 requests/hour
-
-## 📋 Services to Set Up
-
 ### 1. Discord Webhooks (Free)
 **Purpose:** Get notifications when assets are generated
 
@@ -86,8 +70,6 @@ modified: '2025-08-14'
 2. Generate new token (classic)
 3. Scopes: public_repo
 4. Use in n8n HTTP Request nodes
-
-## 🔧 n8n Workflow Setup
 
 ### Import Workflows
 1. Open n8n: http://localhost:5678
@@ -158,13 +140,11 @@ curl http://localhost:5679/stats
 Open the dashboard: `09_Performance/integration_dashboard.html`
 
 Or check status via CLI:
-```bash
 # Check all services
 node scripts/configure_apis.js
 
 # View generation stats
 cat 09_Performance/production_report.json
-```
 
 ## 🔒 Security Notes
 
@@ -178,11 +158,9 @@ cat 09_Performance/production_report.json
 
 Ready to generate amazing TTRPG content with AI! 🎲✨
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

@@ -1,4 +1,5 @@
 ---
+
 title: Captain Hadal Drake
 type: Npc
 tags:
@@ -18,43 +19,76 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.593683+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
-## Overview
 
-TODO
-## Appearance
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Personality
+*20 targeted improvements identified*
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more focused
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward avoidance
+### History Improvements
 
+- Add three historical eras with major events
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward confrontation
+### Culture Improvements
 
+- Define unique cultural practices and taboos
 
-TODO
-## Goals
+### Economy Improvements
 
-TODO
-## Relationships
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Hooks
+### Religion Improvements
 
-TODO
-## Stat Block
+- Create detailed religious observances
 
-TODO
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
 
 ## Player-Facing Summary
 
@@ -63,14 +97,6 @@ Captain Hadal Drake is a undersea element of the setting, known for bioluminesce
 ## Lore Details
 
 Legends speak of Captain Hadal Drake as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Hadal Drake.
-
-## Adventure Hooks
-
-- A rumor ties Captain Hadal Drake to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Captain Hadal Drake to avert a public scandal.
-- A map overlay reveals a hidden approach to Captain Hadal Drake active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -81,36 +107,6 @@ Captain Hadal Drake's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Accumulating wealth
@@ -120,8 +116,6 @@ Captain Hadal Drake's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Captain Hadal Drake harbors secrets that could change everything:
@@ -129,10 +123,6 @@ Captain Hadal Drake harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Cursed bloodline
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -151,8 +141,6 @@ Captain Hadal Drake is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Captain Hadal Drake needs assistance with a delicate matter
@@ -160,8 +148,6 @@ Captain Hadal Drake is currently engaged in:
 3. **The Secret**: Information about Captain Hadal Drake's past surfaces
 4. **The Alliance**: Opportunity to work with or against Captain Hadal Drake
 5. **The Crisis**: Captain Hadal Drake is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -175,20 +161,15 @@ Captain Hadal Drake is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Captain Hadal Drake]]
+## Religious Observances
 
-<!-- enriched: true -->
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
 
-
-
-
-## Relationship Web
-
-- [[04_Resources_Assets_Locations_location-city-marina-dreamwhisper-marina-dreamwhisper.svg]]: *informant*
-- [[Quest - The Successor's Burden]]: *sworn enemy*
-
-## Connections
-
-- [[Memory Merchant Zephyr Mindweaver]]
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

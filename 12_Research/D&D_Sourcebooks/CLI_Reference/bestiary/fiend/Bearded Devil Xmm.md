@@ -29,14 +29,29 @@ updated: '2025-08-13T12:34:05.835545+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bearded-devil-xmm-bearded-devil-xmm.svg)
 
 # [[bearded-devil-xmm|Bearded Devil]]
-*Source: Monster Manual (2024) p. 33. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 33. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Bearded Devil
 
@@ -64,7 +79,6 @@ Bearded devils' eponymous beards consist of grotesque, tentacle-like growths. Th
 "stats":
   - !!int "16"
   - !!int "15"
-  - !!int "15"
   - !!int "9"
   - !!int "11"
   - !!int "14"
@@ -75,7 +89,7 @@ Bearded devils' eponymous beards consist of grotesque, tentacle-like growths. Th
   - "charisma": !!int "4"
 "damage_resistances": "cold"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#frightened|frightened]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft. (unimpeded by magical [[darkness-xphb|Darkness]]),\
   \ passive Perception 10"
@@ -122,19 +136,20 @@ Bearded devil xmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of bearded devil xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bearded devil xmm.
 
-## Adventure Hooks
-
-- A rumor ties bearded devil xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at bearded devil xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to bearded devil xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

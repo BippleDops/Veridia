@@ -22,9 +22,6 @@ updated: '2025-08-13T12:34:32.393526+00:00'
 world: Both
 ---
 
-
-
-
 # The Anchor Cataclysm
 
 One by one, the world’s steadying songs fall silent.
@@ -42,11 +39,9 @@ Possible outcomes
 - A loss you can count
 - A new map
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

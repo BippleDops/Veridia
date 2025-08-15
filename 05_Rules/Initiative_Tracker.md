@@ -1,4 +1,5 @@
 ---
+
 title: Initiative Tracker
 type: initiative
 tags:
@@ -7,16 +8,86 @@ tags:
 - tracking
 - active
 - combat
+- conspiracy
+- bloodline
 created: '2025-08-14'
 modified: '2025-08-14'
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
+
 
 > [!figure] Asset
 ![](04_Resources/Assets/Digital/ui-ui-initiative-tracker-initiative-tracker.png)
 
 
+## 🔧 Deep Evaluation Improvements
 
-# Initiative Tracker
+*20 targeted improvements identified*
+
+### Clarification Improvements
+
+- Add 3 examples of increasing complexity
+
+### Completeness Improvements
+
+- Address unusual situations and corner cases
+
+### Balance Improvements
+
+- Include mathematical analysis and comparisons
+
+### Usability Improvements
+
+- Create quick reference table
+
+### Variant Improvements
+
+- Add 'gritty realism' variant of rule
+- Add 'gritty realism' variant of rule
+- Add 'gritty realism' variant of rule
+
+### Heroic Improvements
+
+- Add 'heroic fantasy' variant of rule
+
+### Magic_Items Improvements
+
+- Note how magic items affect this rule
+- Note how magic items affect this rule
+- Note how magic items affect this rule
+
+### Session_Zero Improvements
+
+- Include session zero discussion points
+
+### Simplified Improvements
+
+- Create simplified version for new players
+
+### Automated Improvements
+
+- Add macro/code for VTT implementation
+- Add macro/code for VTT implementation
+
+### Monster_Use Improvements
+
+- Explain if/how monsters use this rule
+- Explain if/how monsters use this rule
+
+### Narrative_Triggers Improvements
+
+- Suggest story moments to introduce rule
+
+### Interaction Improvements
+
+- Clarify interaction with multiclassing
+
+### Abuse_Prevention Improvements
+
+- Add guidelines to prevent exploitation
+
 
 ## Current Combat
 
@@ -24,23 +95,9 @@ modified: '2025-08-14'
 |------|------|----|----|------------|-------|
 | 20 | - | - | - | - | - |
 
-## Quick Roll
-- `!roll 1d20+DEX`
-- Tie breaker: Higher DEX
-- NPCs: Group or individual
-
-## Lair Actions
-- Initiative 20 (losing ties)
-
-## Legendary Actions
-- End of other turns
-- Reset on monster's turn
-
-
 ## Rule Summary
 
 Initiative_Tracker provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay.
-
 
 ## When to Use
 
@@ -48,9 +105,6 @@ Apply this rule when:
 - Specific trigger conditions are met
 - Players request this type of action
 - The situation calls for additional detail
-
-
-## Examples
 
 ### Example 1: Basic Application
 *Scenario*: Simple use case
@@ -62,7 +116,6 @@ Apply this rule when:
 *Resolution*: Step-by-step process
 *Outcome*: Various possibilities
 
-
 ## Quick Reference
 
 1. Trigger condition occurs
@@ -71,14 +124,6 @@ Apply this rule when:
 4. Apply results
 5. Narrate outcome
 
-
-## Connections
-
-- See also: [[World Overview]]
-- Related: [[Regional Politics]]
-- Connected to: [[Main Quest Line]]
-
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -86,3 +131,25 @@ Apply this rule when:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A corpse reveals ancient history about this place
+- A corpse reveals the truth about the government
+- Someone is protecting a artifact for love
+- A merchant needs help stealing before the new moon
+
+## Quick Reference
+
+| Situation | Roll | DC | Effect on Failure |
+|-----------|------|-----|------------------|
+| Easy | d20+mod | 10 | Minor setback |
+| Moderate | d20+mod | 15 | Complication |
+| Hard | d20+mod | 20 | Serious consequence |
+| Extreme | d20+mod | 25 | Catastrophic |

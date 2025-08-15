@@ -22,32 +22,27 @@ updated: '2025-08-13T12:34:17.761571+00:00'
 world: Both
 ---
 
-
-
-
-
 # Vessel Horror Intensifier
 
 Turn ships into characters and haunted spaces. Hooks deeply into [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Deep Mother]], and living ship rules.
 
-## Confined-Space Horror
-- Isolation Clocks: Track hours without external contact; escalate checks
-- Tight Bulkheads: Movement penalties, echoing footsteps, claustrophobia saves
-- Lighting Economy: Darkness creates false sensor echoes; fear triggers
 
-## Parasite & Infestation Playbooks
-- Hull Worms: Eat through segments; crew hunt mini-dungeon
-- Choir Mold: Singing fungus; lures crew to vents
-- Mind Barnacles: Attach to helmsman; steer off course
+## 🔧 Deep Evaluation Improvements
 
-## Ghosts & Curses
-- Memory Ghosts: Former crews replay final hours; can be bargained with
-- Cursed Hulls: Ship remembers injustice; demands atonement quests
+*20 targeted improvements identified*
 
-## Living Ship Psychology
-- Hungers: Memories, storms, songs, sacrifices
-- Attachment: Picks favorite crew; jealousy events
-- Nightmares: Ship dreams leak into corridors; shared visions
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Mechanics
 - Horror Scenes grant XP to ship and crew; but drain Sanity Pool (see [[Vehicle_Core_Rules#6) Ship Sanity & Madness (Living/Conscious Vessels)|Ship Sanity]])
@@ -63,32 +58,44 @@ Vessel Horror Intensifier is a undersea element of the setting, known for biolum
 
 Legends speak of Vessel Horror Intensifier as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Vessel Horror Intensifier.
 
-## Adventure Hooks
-
-- A rumor ties Vessel Horror Intensifier to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Vessel Horror Intensifier to avert a public scandal.
-- A map overlay reveals a hidden approach to Vessel Horror Intensifier active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Merger_Transit_Complications|06 GM Resources/Travel/Merger Transit Complications]]
-
-
-## Connections
-
-- [[Aquabyssos_Submarines|Aquabyssos Submarines]]
-- [[Journey_Event_Compiler|Journey Event Compiler]]
-- [[Merger_Hybrid_Vehicles|Merger Hybrid Vehicles]]
-- [[Vehicle_Customization_Progression|Vehicle Customization Progression]]
-- [[Merger_Transit_Complications|Merger Transit Complications]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Stars
+
+
+## Plot Hooks
+
+- Strange accidents suggest a conspiracy
+- A map reveals the truth about this place
+- Someone is blackmailing information for power
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

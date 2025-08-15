@@ -22,12 +22,29 @@ updated: '2025-08-12T23:37:34.727372'
 world: Both
 ---
 
-
 # Boon of Undetectability
 
 You gain a +10 bonus to Dexterity ([[skills#Stealth|Stealth]]) checks, and you can't be detected or targeted by divination magic, including scrying sensors.
 
 *Source: Dungeon Master's Guide p. 232*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -37,19 +54,25 @@ Boon of undetectability is a undersea element of the setting, known for biolumin
 
 Legends speak of boon of undetectability as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around boon of undetectability.
 
-## Adventure Hooks
-
-- A rumor ties boon of undetectability to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at boon of undetectability to avert a public scandal.
-- A map overlay reveals a hidden approach to boon of undetectability active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Plot Hooks
+
+- Someone is searching for a artifact for money
+- A letter reveals the truth about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.580704+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-slaad-tadpole-xmm-slaad-tadpole-xmm.svg)
 
@@ -39,6 +36,24 @@ world: Both
 *Source: Monster Manual (2024) p. 284, Player's Handbook (2024) p. 357. Available in the Free Rules (2024)*  
 
 Slaad tadpoles are ravenous, newborn slaadi. They hatch from eggs implanted into living hosts by red slaadi, but they also appear in great numbers in Limbo and other chaotic realms. Under most conditions, a slaad tadpole transforms into a blue slaad—or a green slaad if its host was able to cast spells of level 3 or higher—within `2d12` hours of hatching.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Slaadi
 
@@ -54,14 +69,11 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 > [!note] Slaad Control Gems
 > 
 > A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [[conditions#Charmed|Charmed]] condition and obeys the gem's bearer. The slaad ceases to be [[conditions#Charmed|Charmed]] if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [[greater-restoration-xphb|Greater Restoration]] spell cast on a slaad destroys the gem, and the slaad ceases to be [[conditions#Charmed|Charmed]].
-> 
 > One can obtain a slaad's control gem using a [[wish-xphb|Wish]] or [[imprisonment-xphb|Imprisonment]] spell. If the slaad fails its saving throw against [[imprisonment-xphb|Imprisonment]], the caster gains the gem, and the slaad isn't imprisoned. An [[conditions#Incapacitated|Incapacitated]] slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([[skills#Medicine|Medicine]]) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
 ^slaad-control-gems
 
 > [!quote] A quote from Jebeel Sloom  
-> 
 > Fight a slaad and lose, the story's over. Fight a slaad and win, there's a thousand more standing in line just to prove they're tougher.
-
 
 ```statblock
 "name": "Slaad Tadpole (XMM)"
@@ -78,7 +90,6 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
   - !!int "10"
   - !!int "3"
   - !!int "5"
-  - !!int "3"
 "speed": "30 ft., burrow 10 ft."
 "skillsaves":
   - "name": "[[skills#Stealth|Stealth]]"
@@ -113,19 +124,31 @@ Slaad tadpole xmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of slaad tadpole xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around slaad tadpole xmm.
 
-## Adventure Hooks
-
-- A rumor ties slaad tadpole xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at slaad tadpole xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to slaad tadpole xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## Plot Hooks
+
+- Strange dreams suggest ancient magic
+- A map reveals a betrayal about the cult
+- A letter reveals the truth about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

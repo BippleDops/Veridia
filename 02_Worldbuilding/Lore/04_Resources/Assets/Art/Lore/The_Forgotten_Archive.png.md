@@ -8,24 +8,13 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# 04_Resources/Assets/Art/Lore/The_Forgotten_Archive.png
-
 ## Overview
 
 04_Resources/Assets/Art/Lore/The_Forgotten_Archive.png represents a crucial aspect of the world's history, cosmology, or fundamental nature.
 
-[Lore content continues with similar detail...]
-
 ---
 
 *Last Updated: 2025-08-14 19:03*
-
-## Connections
-
-- See also: [[Campaign Guide]]
-- Related: [[Regional Politics]]
-- Connected to: [[World Events]]
-
 
 ## DM Notes
 

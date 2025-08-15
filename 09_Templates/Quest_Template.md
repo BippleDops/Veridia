@@ -11,7 +11,22 @@ modified: '2025-08-14'
 ---
 
 
-# {{title}}
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 09_Templates-specific enhancement
+- Add 09_Templates-specific enhancement
+- Add 09_Templates-specific enhancement
+- Add 09_Templates-specific enhancement
+- Add 09_Templates-specific enhancement
+
 
 ## Quest Summary
 **Type**: Main/Side/Personal
@@ -25,39 +40,15 @@ modified: '2025-08-14'
 ## Hook
 *How the party learns about this quest*
 
-
 ## Background
 *What's really going on*
 
-
-## Objectives
-### Primary Objective
-- [ ] 
-
-### Secondary Objectives
-- [ ] 
-- [ ] 
-
-### Hidden Objectives
-- [ ] 
-
-## Key NPCs
 ### Quest Giver
 **Name**: [[NPC]]
 **Location**: 
 **Motivation**: 
 **Information**: 
 
-### Allies
-- [[NPC]] - Role
-
-### Antagonists
-- [[NPC]] - Role
-
-### Neutral Parties
-- [[NPC]] - Role
-
-## Locations
 ### Starting Point
 **Location**: [[Location]]
 **Description**: 
@@ -72,7 +63,6 @@ modified: '2025-08-14'
 **Description**: 
 **Challenges**: 
 
-## Encounters
 ### Combat
 1. **Location**: Enemy (CR)
 2. **Location**: Enemy (CR)
@@ -85,120 +75,17 @@ modified: '2025-08-14'
 1. **Challenge**: Description
 2. **Challenge**: Description
 
-## Clues & Information
 ### Essential Clues
 1. **Clue**: Where found
 2. **Clue**: Where found
 
-### Optional Information
-- 
-
-### False Leads
-- 
-
-## Challenges
-### Combat Challenges
-- 
-
-### Puzzle/Riddles
-- 
-
-### Social Challenges
-- 
-
-### Environmental Hazards
-- 
-
-## Rewards
-### Completion Rewards
-- **XP**: 
-- **Gold**: 
-- **Items**: 
-- **Reputation**: 
-- **Information**: 
-
 ### Bonus Rewards
 *For completing secondary objectives*
-- 
 
-### Failure Consequences
-- 
-
-## Paths & Approaches
-### Combat Path
-
-
-### Stealth Path
-
-
-### Diplomacy Path
-
-
-### Creative Solutions
-
-
-## Complications
 ### Potential Twists
 1. 
 2. 
 
-### Time Pressure
-- 
-
-### Moral Dilemmas
-- 
-
-## Scaling
-### For Lower Levels
-- Reduce enemy CR
-- Simplify puzzles
-- Add more clues
-
-### For Higher Levels
-- Increase enemy CR
-- Add complications
-- Reduce obvious clues
-
-## Connections
-### Related Quests
-- [[Quest]] - How it connects
-
-### Future Hooks
-- 
-
-### Faction Impacts
-- [[Faction]]: +/- reputation
-
-## DM Notes
-### Key Themes
-- 
-
-### Pacing Notes
-- 
-
-### Player Agency
-- 
-
-### Contingencies
-- If players skip X:
-- If players kill quest giver:
-- If players fail:
-
-## Resolution
-### Success Outcomes
-- 
-
-### Failure Outcomes
-- 
-
-### Partial Success
-- 
-
-## Related
-- [[Quest Giver]]
-- [[Main Location]]
-- [[Related Quest]]
-- [[Faction]]
 ## Semantic Connections
 *Related concepts and locations:*
 - [[dwarves-on-the-move-group-leader-mtf]]
@@ -211,3 +98,14 @@ modified: '2025-08-14'
 - [[fiendish-cults-cult-organization-mtf]]
 - [[new-organizations]]
 - [[Border Fortresses]]
+
+
+## Plot Hooks
+
+- Someone is protecting a witness for love
+- A shipment has gone missing and truth emerges
+- The authorities needs help stealing before the new moon
+
+## 09_Templates Specific Content
+
+Contextual improvement based on 09_Templates

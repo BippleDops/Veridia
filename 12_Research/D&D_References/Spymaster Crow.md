@@ -26,27 +26,39 @@ updated: '2025-08-12T00:00:00+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-spymaster-crow-spymaster-crow.svg]]
-
-
-
 
 # The Crow's Perch - Spymaster's Sanctum
 
 *A hidden network of safe houses, information brokers, and covert meeting places controlled by the enigmatic Spymaster known only as "Crow"*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 
 The Crow's Perch isn't a single location but rather an interconnected web of safe houses, hidden chambers, and secret meeting spots throughout Aquabyssos. Named after its mysterious leader, this intelligence network serves as neutral ground for information brokers, double agents, and those who trade in secrets. Despite its shadowy nature, the Crow's Perch maintains a reputation for reliability and discretion that spans both the depths of Aquabyssos and extends to contacts on the surface.
 
-## Primary Locations
-
 ### The Central Rookery
 *Hidden within the old Parliament Building's abandoned sections*
 
-The main headquarters of the Crow's Perch is concealed within the forgotten upper levels of Aquabyssos's Parliament Building. Access is gained through a series of maintenance tunnels and hidden passages that most inhabitants don't know exist.
+The main headquarters of the Crow's Perch is concealed within the forgotten upper levels of Aquabyssos's Parliament Building. Access is gained through a series of maintece tunnels and hidden passages that most inhabitants don't know exist.
 
 **Physical Description:**
 - A circular chamber with a domed ceiling covered in mirrors and periscopes
@@ -85,8 +97,6 @@ The Crow maintains at least a dozen safe houses across the city, each serving di
 **Market District Hideout**: Information gathering hub focused on commercial intelligence
 **Residential Bloc Shelter**: Emergency accommodation for assets needing protection
 **Industrial Sector Base**: Technical operations including forgery and encryption
-
-## Key Personnel and Assets
 
 ### Spymaster Crow
 *The Enigmatic Leader*
@@ -141,8 +151,6 @@ Nobody knows Crow's true identity, gender, or even species. They communicate thr
 - Paid well for information and treated fairly
 - Fiercely loyal due to protection from more exploitative organizations
 
-## Services Offered
-
 ### Information Brokerage
 The Crow's Perch trades in various types of intelligence:
 - **Political Intelligence**: Government plans, policy changes, corruption scandals
@@ -170,8 +178,6 @@ The Crow's Perch trades in various types of intelligence:
 **Investigation Services**: Private inquiries into specific individuals or events
 **Negotiation Facilitation**: Neutral ground for sensitive diplomatic exchanges
 
-## Rules and Protocols
-
 ### The Crow's Code
 1. **Neutrality**: The network serves no single faction or government
 2. **Discretion**: Client confidentiality is absolute
@@ -179,21 +185,12 @@ The Crow's Perch trades in various types of intelligence:
 4. **Self-Preservation**: The network's survival takes priority over any single operation
 5. **No Innocents**: Operations never target children or the genuinely helpless
 
-### Membership Requirements
-- Demonstration of valuable skills or information
-- Sponsorship by an existing member
-- Completion of a probationary assignment
-- Oath of loyalty to the network's principles
-- Regular contribution of intelligence or services
-
 ### Punishment for Betrayal
 Those who betray the network face:
 - Complete exposure of all personal secrets
 - Blacklisting from all legitimate business in Aquabyssos
 - Active campaign to destroy reputation and relationships
 - In extreme cases, permanent removal from the city
-
-## Plot Hooks and Adventure Opportunities
 
 ### The Missing Spymaster
 **Level**: 6-10
@@ -215,8 +212,6 @@ A rival organization is attempting to expose and blackmail prominent citizens us
 **Level**: 10-15
 The Crow offers the party an impossible job: steal something from the most secure location in Aquabyssos. Success would gain them a powerful ally and valuable information, but failure would make them enemies of forces too dangerous to ignore.
 
-## Secrets and Hidden Elements
-
 ### Crow's True Identity
 Spymaster Crow is actually Lady Vivienne Deepcurrent, a presumed-dead noble who faked her own death to escape an arranged marriage. She now lives multiple identities while coordinating the intelligence network from the shadows.
 
@@ -228,8 +223,6 @@ One of the network's most valuable assets is a deep-cover agent operating in a m
 
 ### The Shard Information
 The Crow possesses detailed intelligence about the locations and capabilities of several of the Seven Shards but has kept this information secret due to its dangerous implications for the balance of power.
-
-## Mechanical Elements
 
 ### Network Resources
 The Crow's network provides mechanical benefits to those who gain their favor:
@@ -254,8 +247,6 @@ The network operates on a favor-based economy:
 **Exposure Risk**: Characters associating with the network may be targeted by rival organizations
 **Information Overload**: Access to too much sensitive information can make characters targets for elimination
 **Moral Compromise**: Network missions may require actions that conflict with character values
-
-## Treasure and Resources
 
 ### The Crow's Vault
 Hidden within the Central Rookery:
@@ -299,14 +290,6 @@ The Crow's network connects to numerous other locations and organizations:
 
 *The Crow's Perch represents the shadowy underbelly of diplomacy and politics in Aquabyssos. In a world where information can be more valuable than gold and secrets can topple governments, the network serves as both a vital service and a constant reminder that someone is always watching from the shadows.*
 
-
-## Connections
-
-- [[Investigation Procedures]]
-- [[Admiral Thorne Blackwater]]
-- [[Memory Merchant Zephyr Mindweaver]]
-- [[Pressure's End]]
-
 ## Player-Facing Summary
 
 Spymaster Crow is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -315,23 +298,25 @@ Spymaster Crow is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Spymaster Crow as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Spymaster Crow.
 
-## Adventure Hooks
-
-- A rumor ties Spymaster Crow to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Spymaster Crow to avert a public scandal.
-- A map overlay reveals a hidden approach to Spymaster Crow active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Spymaster Crow|02 Worldbuilding/Places/Spymaster Crow]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a portal
+- Someone is searching for a artifact for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

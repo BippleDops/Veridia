@@ -1,4 +1,5 @@
 ---
+
 title: Political Corruption
 type: Faction
 tags:
@@ -10,6 +11,7 @@ tags:
 - active
 - complete
 - status/in-progress
+- conspiracy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -17,6 +19,8 @@ headquarters: Unknown
 membership: Unknown
 updated: '2025-08-13T12:34:17.340774+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -25,24 +29,63 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-political-corruption-political-corruption.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Structure
+*20 targeted improvements identified*
 
-TODO
-## Goals
+### History Improvements
 
-TODO
-## Assets
+- Add three historical eras with major events
 
-TODO
-## Conflicts
+### Culture Improvements
 
-TODO
-## Hooks
+- Define unique cultural practices and taboos
 
-TODO
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
 
 ## Player-Facing Summary
 
@@ -52,99 +95,26 @@ Political Corruption is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Political Corruption as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Political Corruption.
 
-## Adventure Hooks
-
-- A rumor ties Political Corruption to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Political Corruption to avert a public scandal.
-- A map overlay reveals a hidden approach to Political Corruption active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
-## Members
-
-### Notable Members
-- [[Leader Name]] - Current head
-- [[Key Officer]] - Important figure
-- [[Rising Star]] - Ambitious member
-
-### Membership Requirements
-- Skills or qualities needed
-- Initiation process
-- Ongoing obligations
-
-
-## Resources
-
-### Financial
-- Funding sources
-- Wealth level
-- Economic influence
-
-### Physical Assets
-- Properties owned
-- Equipment available
-- Special resources
-
-### Human Resources
-- Member skills
-- Allies and contacts
-- Information networks
-
-
-## Operations
-
-### Regular Activities
-- Day-to-day operations
-- Revenue generation
-- Member services
-
-### Special Operations
-- Covert activities
-- Major projects
-- Crisis responses
-
-
-## Relationships
-
-### Allies
-- Aligned organizations
-- Political supporters
-- Business partners
-
-### Enemies
-- Rival organizations
-- Opposed factions
-- Active threats
-
-### Neutral Parties
-- Potential allies or enemies
-- Trade partners
-- Watching parties
-
-
-## Secrets
-
 ### Open Secrets
 Things widely suspected
 
-### Hidden Truths
-- Real leadership
-- True funding sources
-- Secret objectives
 
-### Deep Mysteries
-- Ancient connections
-- Forbidden knowledge
-- Ultimate goals
+## A Day in the Life
 
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
 
-## Connections
-
-- See also: [[Master Timeline]]
-- Related: [[Power Structures]]
-- Connected to: [[Character Backstories]]
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

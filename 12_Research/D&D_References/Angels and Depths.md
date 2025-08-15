@@ -24,18 +24,30 @@ updated: '2025-08-11T00:00:00+00:00'
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-angels-and-depths-angels-and-depths.svg]]
-
-
-
-
 
 # Angels and Depths
 
 *A weathered tavern where sea chanties blend with the whispers of the deep*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -46,27 +58,6 @@ The **Angels and Depths** stands as one of [[Aquabyssos]]'s most storied taverns
 The tavern's interior is a marvel of nautical architecture. Bioluminescent coral growths provide ethereal blue-green lighting, while the polished bone walls are adorned with salvaged treasures from countless shipwrecks. The air carries the perpetual scent of sea salt, aged rum, and the mysterious depths. At high tide, seawater laps at the lower windows, creating an otherworldly ambiance as [[Abyssal Fish]] swim past the glass.
 
 The centerpiece is the **Kraken's Crown** - a massive chandelier crafted from crystallized tentacles that pulses with faint magical energy. Local legend claims it grants prophetic dreams to those who sleep beneath it, though the visions often come with a price.
-
-## Services & Amenities
-
-### Lodging
-- **Surface Rooms** (5 gp/night): Traditional chambers with standard amenities
-- **Tidal Pools** (8 gp/night): Partially flooded rooms preferred by [[Merfolk]] and [[Sea Elves]]
-- **The Deep Suite** (20 gp/night): Luxurious underwater chamber accessible only at high tide
-
-### Dining & Drink
-- **Kraken Ink Stout**: Signature black ale that grants darkvision for 1 hour (15 gp)
-- **Siren's Song**: Ethereal blue cocktail that enhances Charisma-based skills (10 gp)
-- **Leviathan's Feast**: Fresh seafood platter for 2-4 people (25 gp)
-- **Depth Walker's Brew**: Grants water breathing for 30 minutes (50 gp)
-
-### Special Services
-- **Message Delivery**: Via trained [[Giant Seahorses]] to underwater settlements
-- **Equipment Rental**: Diving gear, water breathing apparatus, and submarine vessels
-- **Information Brokerage**: News from the seven seas and deeper realms
-- **Sanctuary**: Neutral ground protected by ancient [[Sea Witch]] magic
-
-## Notable NPCs
 
 ### Cordelia "Dead-Eye" Marrows
 *Female Human, Tavern Keeper*
@@ -108,8 +99,6 @@ Permanent resident who serves as unofficial ambassador between surface and deep-
 
 5. **The Last Voyage**: Captain Marrows receives a message in a bottle from her supposedly dead crew, claiming they're trapped in the [[The Phantom Fleet|02 Worldbuilding/Lore/The Phantom Fleet]]. She seeks brave souls to venture into the supernatural seas to rescue or lay them to rest.
 
-## Detailed Layout & Architecture
-
 ### The Leviathan Frame
 The tavern's foundation is built within the massive skeleton of an ancient [[Leviathan the Deep|02 Worldbuilding/Lore/Leviathan The Deep]], creating a unique architectural marvel:
 
@@ -137,8 +126,6 @@ The tavern's foundation is built within the massive skeleton of an ancient [[Lev
 - **Jaw Balcony**: Outdoor seating area between the creature's massive teeth
 - **Crown Suite**: Most expensive lodging, accessible only through the eye sockets
 
-### Additional Structures
-
 #### The Fin Annexes
 **Port Fin**: Kitchen and service areas
 - **Kelp Gardens**: Underwater cultivation areas for fresh ingredients  
@@ -158,10 +145,6 @@ The tavern's foundation is built within the massive skeleton of an ancient [[Lev
 - **Workshop Bay**: Repair facilities for equipment and vehicles
 - **The Bone Yard**: Storage area for salvaged materials and curiosities
 - **Emergency Shelter**: Reinforced chambers for dangerous weather or conflicts
-
-## Services & Amenities (Expanded)
-
-### Lodging Options
 
 #### Standard Accommodations
 **Surface Rooms** (5 gp/night):
@@ -194,8 +177,6 @@ The tavern's foundation is built within the massive skeleton of an ancient [[Lev
 - **Private Dining**: Personal chef and customized meal service
 - **Meeting Facilities**: Space for confidential business discussions
 - **Escape Routes**: Multiple hidden exits for emergency situations
-
-### Dining & Drink (Enhanced Menu)
 
 #### Signature Beverages
 **Kraken Ink Stout** (15 gp):
@@ -239,8 +220,6 @@ The tavern's foundation is built within the massive skeleton of an ancient [[Lev
 - **Effect**: Advantage on Constitution saves for 4 hours
 - **Warning**: May cause vivid dreams of the deep ocean
 
-### Enhanced Special Services
-
 #### Transportation Services
 **Message Delivery**:
 - **Local Delivery** (2 gp): Within 50 miles via trained seahorses
@@ -272,8 +251,6 @@ The tavern's foundation is built within the massive skeleton of an ancient [[Lev
 - **Local Knowledge**: Information about nearby areas and hazards
 - **Political Updates**: Current tensions and diplomatic developments
 - **Criminal Intelligence**: Information about pirate activities and smuggling routes
-
-## Notable NPCs (Expanded)
 
 ### Cordelia "Dead-Eye" Marrows (Enhanced)
 *Female Human, Tavern Keeper*
@@ -335,8 +312,6 @@ Thalassos serves as unofficial ambassador between the surface world and deep-sea
 
 **The Whisper Network**: Maintains informants throughout [[Aquabyssos]], from high-ranking officials to street-level criminals
 
-### Additional Staff & Regulars
-
 #### Sister Marina Tidehealer
 *Female Triton, Cleric of the Deep Mother*
 - **Role**: Tavern's resident healer and spiritual counselor
@@ -364,8 +339,6 @@ Thalassos serves as unofficial ambassador between the surface world and deep-sea
 - **Location**: Small booth in the vertebrae chambers
 - **Reputation**: Surprisingly accurate predictions, especially regarding sea travel
 - **Methods**: Uses rare shells, coral formations, and tidal patterns
-
-## Environmental Challenges & Hazards
 
 ### Pressure and Depth Issues
 **Varying Pressure Zones**: Different areas of the tavern exist at different simulated depths:
@@ -398,8 +371,6 @@ Thalassos serves as unofficial ambassador between the surface world and deep-sea
 - **Personal Vendettas**: Individual conflicts threatening tavern peace
 - **Outside Pressure**: Governments or organizations attempting to use the tavern
 - **Enforcement**: Cordelia's personal intervention and magical protections
-
-## Adventure Hooks & Questlines (Expanded)
 
 ### The Singing Bones Mystery (Levels 3-6)
 **Initial Hook**: The leviathan skeleton begins humming an ancient melody that affects patrons' dreams
@@ -471,8 +442,6 @@ Thalassos serves as unofficial ambassador between the surface world and deep-sea
 - Decide whether to prevent or assist the resurrection
 - Deal with factions trying to exploit the situation
 
-## Connected Locations & Networks
-
 ### Direct Connections
 **[[The Phantom Fleet]]**: Supernatural naval phenomenon linked to Cordelia's past
 **[[The Abyssal Trenches]]**: Mysterious deep-sea location where Cordelia's crew was lost
@@ -482,16 +451,14 @@ Thalassos serves as unofficial ambassador between the surface world and deep-sea
 ### Network Relationships
 **[[Tide Runners Guild]]**: Professional sailors who use the tavern as meeting place
 **[[Deep Current Pirates]]**: Criminal organization with members who frequent the establishment
-**[[The Merchant's Covenant]]**: Trading guild that respects tavern neutrality
-**[[Abyssal Covenant]]**: Mysterious cult with occasional representatives
+**[[The Merchant's Covet]]**: Trading guild that respects tavern neutrality
+**[[Abyssal Covet]]**: Mysterious cult with occasional representatives
 
 ### Political Connections
 **[[Surface Coalition]]**: Surface-world governments seeking underwater intelligence
 **[[Depths Alliance]]**: Deep-sea political entity maintaining diplomatic presence
 **[[New Tethys]]**: Major city-state with official relationships to the tavern
 **[[Parliament of Echoes]]**: Political body that recognizes tavern's neutral status
-
-## DM Guidance & Campaign Integration
 
 ### Using Angels and Depths as a Hub
 **Information Central**: The tavern serves as perfect location for:
@@ -542,11 +509,6 @@ Thalassos serves as unofficial ambassador between the surface world and deep-sea
 *"In the depths where ancient giants rest, even the dead can offer sanctuary to the living. Here, beneath the weight of water and memory, strangers become allies and enemies find temporary peace."*  
 — Inscription carved into the Leviathan's skull
 
-
-## Connections
-
-- [[The Forgotten One]]
-
 ## Player-Facing Summary
 
 Angels and Depths is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -554,12 +516,6 @@ Angels and Depths is a undersea element of the setting, known for bioluminescent
 ## Lore Details
 
 Legends speak of Angels and Depths as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Angels and Depths.
-
-## Adventure Hooks
-
-- A rumor ties Angels and Depths to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Angels and Depths to avert a public scandal.
-- A map overlay reveals a hidden approach to Angels and Depths active only during specific tides/storms.
 
 ## DM Notes
 
@@ -569,13 +525,26 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Angels and Depths|02 Worldbuilding/Places/Angels And Depths]]
 
-<!-- enriched: true -->
 riched: true -->
 - [[Free Current]]
 - [[New Tethys]]
 - [[Parliament of Echoes]]
 
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

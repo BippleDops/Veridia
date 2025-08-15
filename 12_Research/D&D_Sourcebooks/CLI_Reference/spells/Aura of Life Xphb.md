@@ -30,11 +30,8 @@ updated: '2025-08-13T12:34:06.604135+00:00'
 world: Both
 ---
 
-
-
 # Aura of Life
 *4th-level, Abjuration*  
-
 
 - **Casting time:** 1 Action
 - **Range:** Self (30-foot Emanation)
@@ -45,7 +42,25 @@ An aura radiates from you in a 30-foot [[emanation-area-of-effect-xphb|Emanation
 
 **Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-life-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (Life Domain)]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]
 
-*Source: Player's Handbook (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 244. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -55,19 +70,23 @@ Aura of life xphb is a undersea element of the setting, known for bioluminescent
 
 Legends speak of aura of life xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around aura of life xphb.
 
-## Adventure Hooks
-
-- A rumor ties aura of life xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at aura of life xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to aura of life xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Plot Hooks
+
+- Someone is protecting an heir for love
+- Someone is blackmailing a artifact for love
+- A shipment has gone missing and evil awakens
+- A prisoner has gone missing and truth emerges

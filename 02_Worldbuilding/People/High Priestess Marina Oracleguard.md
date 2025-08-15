@@ -1,4 +1,5 @@
 ---
+
 title: High Priestess Marina Oracleguard
 type: Npc
 tags:
@@ -18,6 +19,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.642979+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +29,72 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-high-priestess-marina-oracleguard-high-priestess-marina-oracleguard.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more focused
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward avoidance
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward manipulation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
 
 ## Player-Facing Summary
 
@@ -67,14 +103,6 @@ High Priestess Marina Oracleguard is a undersea element of the setting, known fo
 ## Lore Details
 
 Legends speak of High Priestess Marina Oracleguard as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around High Priestess Marina Oracleguard.
-
-## Adventure Hooks
-
-- A rumor ties High Priestess Marina Oracleguard to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at High Priestess Marina Oracleguard to avert a public scandal.
-- A map overlay reveals a hidden approach to High Priestess Marina Oracleguard active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +113,6 @@ High Priestess Marina Oracleguard's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Pursuing knowledge
@@ -124,8 +122,6 @@ High Priestess Marina Oracleguard's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 High Priestess Marina Oracleguard harbors secrets that could change everything:
@@ -133,10 +129,6 @@ High Priestess Marina Oracleguard harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Secret alliance
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +147,6 @@ High Priestess Marina Oracleguard is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: High Priestess Marina Oracleguard needs assistance with a delicate matter
@@ -164,8 +154,6 @@ High Priestess Marina Oracleguard is currently engaged in:
 3. **The Secret**: Information about High Priestess Marina Oracleguard's past surfaces
 4. **The Alliance**: Opportunity to work with or against High Priestess Marina Oracleguard
 5. **The Crisis**: High Priestess Marina Oracleguard is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,21 +167,33 @@ High Priestess Marina Oracleguard is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[High Priestess Marina Oracleguard]]
+## Bloodline
 
-<!-- enriched: true -->
-
+Member of House Dragonblood - Trait: divine blood
 
 
+## Cultural Practices
 
-## Relationship Web
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
 
-- [[04_Resources_Assets_Portraits_portrait-npc-captain-thrace-deeprunner-captain-thrace-deeprunner.svg]]: *childhood friend*
-- [[The Stolen Anvil]]: *secret ally*
-- [[Lord Chancellor Prism Valdrick]]: *secret ally*
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
 
-## Connections
 
-- [[Mad Oracle Thessaly]]
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

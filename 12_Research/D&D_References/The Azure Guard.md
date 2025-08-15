@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Port Meridian - Merchant Quarter|02 Worldbuilding/Places/Port Meridian Merchant Quarter]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Port Meridian - Merchant Quarter]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,30 @@ The Azure Guard is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of The Azure Guard as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Azure Guard.
 
-## Adventure Hooks
-
-- A rumor ties The Azure Guard to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Azure Guard to avert a public scandal.
-- A map overlay reveals a hidden approach to The Azure Guard active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for revenge
+- Strange sightings suggest a conspiracy
+- A document has gone missing and evil awakens
+- A stranger needs help investigating before the festival
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

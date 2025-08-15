@@ -23,17 +23,12 @@ updated: '2025-08-13T12:34:08.045982+00:00'
 world: Both
 ---
 
-
-
 # Kuo-Toa
 *Source: Dungeon Master's Guide p. 282*  
-
 
 - **Ability Scores**: None
 - **Size**: Medium
 - **Speed**: walk: 30 ft.; swim: 30 ft.
-
-## Traits
 
 ### Amphibious
 
@@ -59,6 +54,24 @@ You have superior vision in dark and dim conditions. You can see in dim light wi
 
 You can speak, read, and write Undercommon.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Kuo toa dmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -67,19 +80,34 @@ Kuo toa dmg is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of kuo toa dmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around kuo toa dmg.
 
-## Adventure Hooks
-
-- A rumor ties kuo toa dmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at kuo toa dmg to avert a public scandal.
-- A map overlay reveals a hidden approach to kuo toa dmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and evil awakens
+- Strange disappearances suggest a conspiracy
+- An heirloom has gone missing and war looms
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

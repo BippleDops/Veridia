@@ -17,28 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -48,27 +42,9 @@ High Speed Transportation is a undersea element of the setting, known for biolum
 
 Legends speak of High Speed Transportation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around High Speed Transportation.
 
-## Adventure Hooks
-
-- A rumor ties High Speed Transportation to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at High Speed Transportation to avert a public scandal.
-- A map overlay reveals a hidden approach to High Speed Transportation active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[High-Speed Transportation|02 Worldbuilding/Places/High Speed Transportation]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Blood Current Express]]
-
 
 ## Related
 

@@ -21,14 +21,22 @@ world: Aethermoor
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
 
 ## Player-Facing Summary
 
@@ -38,30 +46,22 @@ Argyros the Silver is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Argyros the Silver as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Argyros the Silver.
 
-## Adventure Hooks
-
-- A rumor ties Argyros the Silver to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Argyros the Silver to avert a public scandal.
-- A map overlay reveals a hidden approach to Argyros the Silver active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Silverscale Consortium]]
-
-
-## Connections
-
-- [[Silverscale Consortium]]
-- [[Lady Jade Clawgrip]]
-- [[The Nameless Auditor]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Plot Hooks
+
+- Someone is protecting a witness for money
+- The authorities needs help delivering before the festival
+- A prisoner has gone missing and chaos spreads

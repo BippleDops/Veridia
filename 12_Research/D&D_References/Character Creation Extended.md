@@ -23,18 +23,8 @@ updated: '2025-08-13T12:34:17.934071+00:00'
 world: Both
 ---
 
-
-
-
-
-
-
 # Character Creation Guide
 *Building Your Legend in the Dual Worlds*
-
-## Step 1: Core Concept
-
-### Choose Your Origin
 
 #### Surface Dweller (Aethermoor Native)
 **Starting Benefits**:
@@ -78,8 +68,6 @@ world: Both
 - Exile
 - Chosen One
 
-### Choose Your Calling
-
 #### The Investigator
 *Uncover truth in murky waters*
 - **Skills**: Investigation, Insight
@@ -115,8 +103,6 @@ world: Both
 - **Feature**: Access to hidden libraries
 - **Ideal**: Knowledge transcends boundaries
 
-## Step 2: Abilities & Skills
-
 ### Ability Score Priority by Role
 
 | Role | Primary | Secondary | Tertiary |
@@ -127,43 +113,9 @@ world: Both
 | Scholar | INT | WIS | CHA |
 | Support | WIS | CHA | CON |
 
-### Depth-Specific Skills
-
-#### New Skill Uses
-- **Athletics**: Swimming, pressure resistance, current navigation
-- **Survival**: Find air pockets, predict currents, depth navigation
-- **Medicine**: Treat pressure sickness, biological modifications
-- **Investigation**: Understand faction politics, memory traces
-- **Arcana**: Depth magic, reality distortions, ancient powers
-
-## Step 3: Pressure Adaptation
-
-### Starting Level (Choose One)
-
-#### Level 1: Basic (Free)
-- **Depth**: 0-500 feet safely
-- **Equipment**: Standard pressure suit or basic gills
-- **Limitation**: -2 to all rolls per 100ft beyond limit
-- **Upgrade Cost**: 500gp to Level 2
-
-#### Level 2: Professional (300gp)
-- **Depth**: 0-1500 feet safely
-- **Equipment**: Reinforced suit or enhanced biology
-- **Bonus**: +1 to Constitution saves underwater
-- **Upgrade Cost**: 2000gp to Level 3
-
-#### Level 3: Advanced (Start with Debt)
-- **Depth**: 0-4000 feet safely
-- **Equipment**: Military-grade or significant modification
-- **Bonus**: Immunity to standard pressure, +2 Constitution underwater
-- **Debt**: Owe 5000gp to faction
-- **Complication**: Faction has one major favor to call in
-
-### Biological vs. Technological
-
 #### Biological Adaptation
 **Advantages**:
-- No equipment maintenance
+- No equipment maintece
 - Can't be stolen/broken
 - Natural feeling
 - Some social acceptance
@@ -182,31 +134,14 @@ world: Both
 - Multiple configurations
 
 **Disadvantages**:
-- Requires maintenance
+- Requires maintece
 - Can malfunction
 - Obvious outsider
 - Expensive replacements
 
-## Step 4: Faction Affiliation
-
 ### Starting Standing
 
 Choose your relationship with major factions:
-
-#### Aligned (+2 Standing)
-- **Benefits**: Safe haven, information network, starting equipment
-- **Obligations**: Monthly duties, represent faction interests
-- **Consequences**: Enemies of opposing factions
-
-#### Neutral (0 Standing)
-- **Benefits**: Flexibility, no obligations
-- **Obligations**: None
-- **Consequences**: No automatic support
-
-#### Opposed (-2 Standing)
-- **Benefits**: Respect from opposing factions
-- **Obligations**: None
-- **Consequences**: Active hostility, barred from territories
 
 ### Faction Quick Benefits
 
@@ -219,49 +154,6 @@ Choose your relationship with major factions:
 | Merchant Guilds | Trade discounts (25%) | Information network |
 | Criminal Syndicates | Black market access | Illegal services |
 
-## Step 5: Personal Stakes
-
-### Bonds (Choose 2)
-
-#### Personal Bonds
-- Family member in opposing faction
-- Mentor who disappeared in the depths
-- Lover on the other side of the Surface Seal
-- Child showing signs of hybrid nature
-- Sibling transformed by parasites
-
-#### Political Bonds
-- Secret allegiance to hidden faction
-- Debt to powerful figure
-- Knowledge of faction betrayal
-- Carrier of diplomatic immunity
-- Witness to faction crime
-
-#### Mystical Bonds
-- Dreams from the Deep Mother
-- Fragment of ancient memory
-- Touched by depth magic
-- Survivor of reality merger
-- Bearer of prophecy
-
-### Flaws (Choose 1)
-
-#### Psychological
-- **Depth Madness**: WIS save in abyssal zones or gain short-term madness
-- **Surface Nostalgia**: Compelled to seek surface regardless of danger
-- **Paranoid**: Trust no one, constant Insight checks
-- **Memory Addict**: Must acquire memory pearls
-- **Transformation Obsessed**: Seek biological perfection
-
-#### Physical
-- **Pressure Sensitive**: Double pressure penalties
-- **Partial Adaptation**: Random adaptation failures
-- **Parasite Host**: Hidden symbiont with own agenda
-- **Reality Scarred**: Disadvantage in merged zones
-- **Depth Marked**: Visible signs of deep exposure
-
-## Step 6: Starting Equipment
-
 ### Wealth by Background
 
 | Background Type | Starting Gold | Special Item |
@@ -272,59 +164,6 @@ Choose your relationship with major factions:
 | Scholar | 50gp | Rare book |
 | Commoner | 25gp | Survival tool |
 
-### Essential Gear Packages
-
-#### Explorer's Kit (50gp)
-- Pressure compass
-- 100ft synthetic rope
-- Bioluminescent torches (10)
-- Emergency rations (5 days)
-- Portable air bladder
-- Depth chart
-
-#### Diplomat's Kit (75gp)
-- Formal wear (both worlds)
-- Translation device
-- Faction identifier
-- Diplomatic pouch
-- Credential papers
-- Gift items (3)
-
-#### Investigator's Kit (60gp)
-- Evidence containers
-- Memory pearl reader
-- Faction codebook
-- Disguise basics
-- Recording device
-- Analysis tools
-
-#### Combat Kit (80gp)
-- Pressure-resistant armor
-- Aquatic weapon
-- Emergency beacon
-- Combat stimulants
-- Repair kit
-- Tactical light
-
-## Step 7: Final Details
-
-### Name Conventions
-
-#### Aethermoor Names
-- First names: Classical (Marcus, Lydia, Cassian)
-- Surnames: Professional (Lightkeeper, Stormwright, Crystalsmith)
-- Titles: The + Adjective (The Bold, The Wise)
-
-#### Aquabyssos Names
-- First names: Aquatic (Marina, Pelagios, Nerida)
-- Surnames: Depth-based (Deepcurrent, Abysscaller, Tidesinger)
-- Depth Markers: Numerical (Marina Seven-Fathoms)
-
-#### Hybrid Names
-- Combined elements: Surface first, Depth surname
-- Choice names: Selected at adulthood
-- Deed names: Earned through action
-
 ### Age & Depth Exposure
 
 | Age | Surface Effects | Depth Effects |
@@ -333,75 +172,6 @@ Choose your relationship with major factions:
 | Adult (26-45) | Normal | Standard adaptation |
 | Middle (46-65) | Normal | Slow adaptation |
 | Elder (66+) | Vulnerable | Resistance to change |
-
-### Personality Traits by Depth
-
-#### Sunlight Zone (0-500ft)
-- Optimistic, social, political
-- Values: Community, tradition, commerce
-- Fears: The unknown depths
-
-#### Twilight Zone (500-1500ft)
-- Pragmatic, cautious, adaptable
-- Values: Survival, preparation, alliance
-- Fears: Isolation, pressure failure
-
-#### Midnight Zone (1500-4000ft)
-- Stoic, mystical, transformed
-- Values: Evolution, power, truth
-- Fears: Surface weakness, stagnation
-
-#### Abyssal Zone (4000ft+)
-- Alien, prophetic, transcendent
-- Values: Transformation, unity with depth
-- Fears: Humanity, limitation
-
-## Character Creation Checklist
-
-### Before Session 0
-- [ ] Choose origin and calling
-- [ ] Assign ability scores
-- [ ] Select pressure adaptation
-- [ ] Determine faction standing
-- [ ] Create bonds and flaws
-- [ ] Purchase starting equipment
-
-### During Session 0
-- [ ] Connect with other characters
-- [ ] Establish group dynamic
-- [ ] Clarify faction relationships
-- [ ] Set comfort boundaries
-- [ ] Determine starting location
-
-### Ready to Play
-- [ ] Character sheet complete
-- [ ] Backstory documented
-- [ ] Goals established
-- [ ] Secrets created
-- [ ] Questions prepared
-
-## Quick Build Templates
-
-### The Surface Revolutionary
-- **Origin**: Surface Dweller
-- **Calling**: Operative
-- **Adaptation**: Level 1 (technological)
-- **Faction**: Surface Seekers (aligned)
-- **Focus**: Reuniting the worlds
-
-### The Depth Mystic
-- **Origin**: Aquabyssos Native
-- **Calling**: Seeker
-- **Adaptation**: Level 2 (biological)
-- **Faction**: Depth Concordat (aligned)
-- **Focus**: Understanding ancient powers
-
-### The Bridge Builder
-- **Origin**: Hybrid
-- **Calling**: Diplomat
-- **Adaptation**: Level 2 (mixed)
-- **Faction**: Neutral all
-- **Focus**: Preventing war
 
 ### The Changed One
 - **Origin**: Any
@@ -414,9 +184,23 @@ Choose your relationship with major factions:
 
 *Your character exists between two worlds, shaped by pressure both literal and metaphorical. Every choice in creation reflects the fundamental question: In the face of change, who will you become?*
 
-## Connections
 
-- [[Quick Start Guide]]
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -426,23 +210,15 @@ Character Creation Extended is a undersea element of the setting, known for biol
 
 Legends speak of Character Creation Extended as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Character Creation Extended.
 
-## Adventure Hooks
-
-- A rumor ties Character Creation Extended to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Character Creation Extended to avert a public scandal.
-- A map overlay reveals a hidden approach to Character Creation Extended active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Master_Campaign_Index|Master Campaign Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

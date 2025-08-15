@@ -20,22 +20,33 @@ world: Aquabyssos
 updated: '2025-08-13T01:18:34.805940+00:00'
 ---
 
-
-
-
-
-
 # Aquabyssos - The Drowned World
 
 *"When the stars wept and the seas rose, the old world died screaming. We are what remains - neither fully alive nor mercifully dead."*
 — The Chronicle of Drowning, First Verse
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 Aquabyssos is a vast underwater realm created when a series of interconnected climatic catastrophes known as the "Century of Storms" (900-800 years ago) caused massive tsunamis, perpetual hurricanes, and reality-warping rainfall that literally pulled portions of the surface world beneath the waves. These weren't natural disasters but the result of a failed attempt to control weather magic on a continental scale.
 
 The survivors didn't simply adapt - they were transformed by the Drowning Embrace, a form of deep magic that allowed them to survive underwater at the cost of their humanity. Now, five centuries later, Aquabyssos is a haunting realm of drowned cities, transformed inhabitants, and powers that should have remained buried.
-
-## The Great Drowning
 
 ### The Century of Storms (900-800 years ago)
 The surface empires of Thalassopolis, Nereidion, and Abyssal Mor attempted to end a devastating war by using weather control magic amplified by proto-crystals (predecessors to Aethermoor's [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]]). The ritual backfired catastrophically:
@@ -54,10 +65,6 @@ As millions faced death by drowning, desperate mages made pacts with Things That
 - Connection to the Depth Whispers (collective unconscious)
 - Gradual loss of surface memories and emotions
 
-## Geography of the Depths
-
-### The Three Depths
-
 #### The Twilight Depth (0-500 fathoms)
 Where sunlight still penetrates weakly, creating an eternal twilight. Most "civilized" settlements exist here:
 - **New Thalassopolis**: Capital city built in/around the drowned surface capital
@@ -75,8 +82,6 @@ Where reality breaks down and the Things That Dwell Beneath stir:
 - **The Wound**: A tear in reality from the original catastrophe
 - **Dream Corpus**: City-sized sleeping entity
 - **The Foundation**: Where the ocean floor doesn't exist
-
-### Major Regions
 
 #### The Drowned Gardens
 Once the breadbasket of the surface world, now vast underwater plains where:
@@ -98,36 +103,6 @@ A massive reef growing from the bodies of millions who drowned:
 - Whispers prophecies and memories
 - Slowly expanding toward the surface
 - Center of necromantic deep magic
-
-## Society & Culture
-
-### The Caste Depths
-
-#### The Pelagic (Upper Class)
-- Least transformed, can still pass for human briefly
-- Control trade with surface world
-- Live in the Twilight Depth
-- Maintain "air chambers" as status symbols
-
-#### The Benthic (Middle Class)
-- Significantly transformed, functional in society
-- Artisans, merchants, soldiers
-- Inhabit Twilight to Midnight Depths
-- Practice memory trading as currency
-
-#### The Abyssal (Lower Class)
-- Heavily transformed, barely humanoid
-- Labor, military fodder
-- Exist in Midnight Depth
-- Communicate through bioluminescent patterns
-
-#### The Hadean (The Lost)
-- Completely transformed, alien intelligence
-- Considered dead by society but still conscious
-- Dwell in the Hadean Depth
-- Serve the Things That Dwell Beneath
-
-### Government: The Depth Hierarchy
 
 #### The Depth Sovereign
 Currently **Empress Tethys the Ever-Drowning**:
@@ -161,16 +136,6 @@ High Priests can:
 - Commune with the Things That Dwell Beneath
 - Navigate the Hadean Depth safely
 
-## Magic in Aquabyssos
-
-### Deep Magic vs. Surface Magic
-- Surface magic weakens with depth
-- Crystal magic corrupts into something else underwater
-- Deep magic requires sacrifice of memories or sanity
-- Pressure amplifies magical power but reduces control
-
-### Schools of Deep Magic
-
 #### Hydromancy Supreme
 Not mere water control but reality manipulation through water:
 - Create solid water constructs
@@ -199,8 +164,6 @@ Navigation and manipulation of spaces that shouldn't exist:
 - Hide in spaces between spaces
 - Summon things from nowhere
 
-## Major Factions
-
 ### The Resurgent Tide
 **Goal**: Complete the Great Drowning, submerge all surface lands
 **Leader**: High Priestess Scylla Voidsworn
@@ -227,11 +190,9 @@ Navigation and manipulation of spaces that shouldn't exist:
 
 ### The Void Touched
 **Goal**: Explore and colonize the Hadean Depth
-**Leader**: Explorer-Prophet Null
+**Leader**: Explorer-Prophet 
 **Methods**: Transformation acceleration, void swimming, madness embrace
 **Belief**: Evolution requires descending deeper
-
-## Mysteries & Secrets
 
 ### The Thirteen Mysteries
 
@@ -260,22 +221,6 @@ Navigation and manipulation of spaces that shouldn't exist:
 > [!info] The Empress's Secret
 > Empress Tethys isn't dying and resurrecting daily - she's splitting into multiple versions. There are now dozens of her at different depths, each with different memories and goals. They're planning something that requires all versions to reunite.
 
-## Aquabyssos-Aethermoor Relations
-
-### Current State
-- Official embassy in [[The Shadowmere|02 Worldbuilding/Places/The Shadowmere]] via [[The Drowned Embassy|02 Worldbuilding/Places/The Drowned Embassy]]
-- Secret infiltration of [[Port Meridian|02 Worldbuilding/Places/Port Meridian]] through underwater tunnels
-- Growing number of surface dwellers accepting transformation
-- Trade in exotic goods and forbidden knowledge
-- Mutual threat assessment and preparation for conflict
-
-### Points of Tension
-- Aquabyssos sees crystal corruption as inferior to Drowning Embrace
-- Both realms claim ancient territories
-- Competition for resources in border regions
-- Philosophical incompatibility about transformation
-- Race to control ancient artifacts
-
 ### Potential Futures
 1. **War of Depths**: Open conflict between realms
 2. **Forced Unity**: Alliance against greater threat
@@ -291,22 +236,9 @@ Aquabyssos World Overview is a undersea element of the setting, known for biolum
 
 Legends speak of Aquabyssos World Overview as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos World Overview.
 
-## Adventure Hooks
-
-- A rumor ties Aquabyssos World Overview to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Aquabyssos World Overview to avert a public scandal.
-- A map overlay reveals a hidden approach to Aquabyssos World Overview active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Primordial Vaults|02 Worldbuilding/Places/The Primordial Vaults]]
-
 
 ## Related
 

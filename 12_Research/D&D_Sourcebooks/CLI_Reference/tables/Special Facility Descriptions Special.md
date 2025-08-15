@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.881091+00:00'
 world: Both
 ---
 
-
-
 # Special Facility Descriptions; Special Facilities
 *Source: Dungeon Master's Guide (2024) p. 336* 
 
@@ -64,6 +62,24 @@ world: Both
 
 *Certain orders that can be issued to these facilities have additional prerequisites.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Special facility descriptions special facilities xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -72,19 +88,33 @@ Special facility descriptions special facilities xdmg is a undersea element of t
 
 Legends speak of special facility descriptions special facilities xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around special facility descriptions special facilities xdmg.
 
-## Adventure Hooks
-
-- A rumor ties special facility descriptions special facilities xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at special facility descriptions special facilities xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to special facility descriptions special facilities xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

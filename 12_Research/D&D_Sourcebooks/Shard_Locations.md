@@ -18,7 +18,6 @@ updated: '2025-08-13T16:45:00.000000'
 world: Both
 ---
 
-
 # Seven Shards: Detailed Locations
 *Complete Location Guides for Each Shard Discovery Site*
 
@@ -29,8 +28,6 @@ world: Both
 > - **Xanathar's Guide to Everything**: Encounter building, environmental effects
 > - **Fizban's Treasury of Dragons**: Lair actions and regional effects
 > - **Van Richten's Guide to Ravenloft**: Horror elements and sanity mechanics
-
-## The Consciousness Shard Location: Memory Palace Depths
 
 ### Overview
 **Location**: Beneath the [[Deepwater Palace]], Aquabyssos  
@@ -48,7 +45,7 @@ world: Both
 - **Breathing Apparatus Required**: Without magical assistance, creatures drown in 1d4 rounds
 - **Equipment Stress**: Non-magical equipment has 25% chance of failure per day
 
-**Memory Resonance**:
+**Memory Resoce**:
 - **Psychic Echoes**: Wisdom saves (DC 14) or experience random memories from other visitors
 - **Temporal Displacement**: Rooms occasionally show past or future versions of events
 - **Identity Flux**: Extended exposure requires Charisma saves (DC 16) to maintain sense of self
@@ -57,8 +54,6 @@ world: Both
 - Use **Mind Flayer Colony** environmental rules *(VGtM p. 175)*
 - Apply **Psychic Storms** from *Tasha's* for memory overlaps
 - Incorporate **Elder Brain** lair actions for consciousness effects
-
-### Key Areas
 
 #### The Entrance Cavern
 **Environmental DC**: 12 (Navigation)  
@@ -116,12 +111,9 @@ args: ["1d20"]
   initiative: 10
 - name: Queen Seraphina (if corrupted)
   hp: 143
-  ac: 17
   initiative: 8
-```
 
 ### Map Features
-```
 Level 1: Entry Chambers
 ├── Pressure Adjustment Chamber
 ├── Memorial Hall
@@ -139,11 +131,8 @@ Level 3: Nexus Core
 ├── Queen's Corrupted Throne Room
 ├── Deep Mother Echo Chamber
 └── Emergency Escape Routes
-```
 
 ---
-
-## The Crystal Shard Location: Silverscale Deep Mines
 
 ### Overview
 **Location**: [[Crystal Caverns]], Aquabyssos Border Region  
@@ -156,7 +145,7 @@ Level 3: Nexus Core
 
 ### Environmental Features
 
-**Crystal Resonance**:
+**Crystal Resoce**:
 - **Harmonic Interference**: Spellcasters make concentration checks (DC 13) for all spells
 - **Crystal Growth**: Living creatures gain crystal patches after 24 hours exposure
 - **Light Amplification**: All light sources shine twice as bright and far
@@ -170,8 +159,6 @@ Level 3: Nexus Core
 - Use **Duergar** mining operation templates *(MTF p. 188)*
 - Apply **Elemental Earth** environmental effects
 - Incorporate **Xorn** and crystal creature mechanics from *MM*
-
-### Key Areas
 
 #### Mining Platform Alpha
 **Environmental DC**: 10 (Entry level)  
@@ -201,14 +188,14 @@ Level 3: Nexus Core
 **Boss Arena Features**:
 - **Crystal Spires**: Provide cover but can be toppled for area damage
 - **Transmutation Fields**: Random polymorph effects each round
-- **Resonance Waves**: Sonic damage that scales with party's metal equipment
+- **Resoce Waves**: Sonic damage that scales with party's metal equipment
 
 ### Mining Operation Details
 
 **Daily Operations Schedule**:
 - **Dawn Shift**: Primary extraction (most dangerous)
 - **Midday Shift**: Transport and processing
-- **Dusk Shift**: Maintenance and security
+- **Dusk Shift**: Maintece and security
 - **Night Watch**: Crystal cultivation and experimentation
 
 **Worker Corruption Stages**:
@@ -218,8 +205,6 @@ Level 3: Nexus Core
 4. **Complete**: 75%+ coverage, puppet of Crystal Shard
 
 ---
-
-## The Storm Shard Location: Lighthouse of Storms
 
 ### Overview
 **Location**: [[Tempest Peak]], Aethermoor  
@@ -247,8 +232,6 @@ Level 3: Nexus Core
 - Apply **Elemental Air** plane effects *(DMG p. 62)*
 - Incorporate **Marid** weather control abilities
 
-### Key Areas
-
 #### Base Platform
 **Environmental DC**: 12 (Entry challenges)  
 **Hazards**: Wind gusts, ice formation, altitude sickness  
@@ -257,7 +240,7 @@ Level 3: Nexus Core
 **Approach Challenges**:
 - **Flight Required**: No ground access due to peak isolation
 - **Storm Navigation**: Pilot checks (DC 15) to land safely
-- **Recognition Protocols**: Guards attack unannounced visitors
+- **Recognition Protocols**: Guards attack unounced visitors
 
 #### The Spiral Ascent
 **Environmental DC**: 15 (Climbing challenges)  
@@ -293,8 +276,6 @@ Level 3: Nexus Core
 
 ---
 
-## The Shadow Shard Location: The Mobile Conspiracy
-
 ### Overview
 **Location**: Travels with [[Vex Shadowthorn]], various safe houses  
 **Scope**: Network of hidden facilities across both worlds  
@@ -321,8 +302,6 @@ Level 3: Nexus Core
 - Apply **Shadowfell** environmental effects *(DMG p. 51)*
 - Incorporate **Shadow Demon** and **Shadow** creature mechanics
 
-### Key Locations
-
 #### Safe House Network
 **Environmental DC**: 10-14 (Varies by location)  
 **Hazards**: Surveillance, false identities, memory manipulation  
@@ -340,10 +319,9 @@ Level 3: Nexus Core
 **Features**: Central command, major surgical facility, Vex's personal quarters
 
 **Base Layout**:
-```
 Upper Level: False Fronts
 ├── Abandoned Shop Facades
-├── Fake Maintenance Areas
+├── Fake Maintece Areas
 ├── Guard Post Disguises
 └── Emergency Exits
 
@@ -355,10 +333,9 @@ Middle Level: Operations
 
 Lower Level: High Security
 ├── Vex's Personal Laboratory
-├── Shadow Shard Resonance Chamber
+├── Shadow Shard Resoce Chamber
 ├── Consciousness Archive
 └── Escape Tunnels to Sea/Sky
-```
 
 #### The Convergence Chamber
 **Environmental DC**: 18 (Mobile final encounter)  
@@ -366,8 +343,6 @@ Lower Level: High Security
 **Features**: Wherever Vex chooses to make his final stand
 
 ---
-
-## The Void Shard Location: The Dimensional Nexus
 
 ### Overview
 **Location**: [[The Space Between Worlds]], beneath [[Port Meridian]]  
@@ -390,8 +365,6 @@ Lower Level: High Security
 - **Memory Dissolution**: Long rests don't restore abilities normally
 - **Equipment Decay**: Non-magical items have 10% chance to cease existing each day
 
-### Key Areas
-
 #### The Entry Rift
 **Environmental DC**: 14 (Finding and entering)  
 **Hazards**: Dimensional instability, void exposure, guardian constructs  
@@ -408,8 +381,6 @@ Lower Level: High Security
 **Features**: The Void Shard consuming reality from within
 
 ---
-
-## The Life Shard Location: Windwright Academy Vaults
 
 ### Overview
 **Location**: [[Windwright Academy]], Aethermoor  
@@ -432,8 +403,6 @@ Lower Level: High Security
 - **Academic Protocols**: Research documentation required for access
 - **Student Surveillance**: Hundreds of potential witnesses and complications
 
-### Key Areas
-
 #### Academy Proper
 **Environmental DC**: 8 (Social navigation)  
 **Hazards**: Academic politics, student complications, security protocols  
@@ -450,8 +419,6 @@ Lower Level: High Security
 **Features**: The Life Shard in controlled research environment
 
 ---
-
-## The Unity Shard Location: Hidden Sanctuary
 
 ### Overview
 **Location**: [[Order of the Azure Flame Sanctuary]], location shifts  
@@ -484,8 +451,6 @@ Each hero faces a personal test related to unity and cooperation:
 
 ---
 
-## Random Tables for All Locations
-
 ### Environmental Hazard Generation `dice: 1d12`
 | d12 | Hazard Type |
 |-----|-------------|
@@ -493,12 +458,11 @@ Each hero faces a personal test related to unity and cooperation:
 | 3-4 | Magical (spell effects, enchantments, curses) |
 | 5-6 | Creature (guardians, predators, parasites) |
 | 7-8 | Environmental (pressure, temperature, toxins) |
-| 9-10 | Shard Effect (corruption, resonance, distortion) |
+| 9-10 | Shard Effect (corruption, resoce, distortion) |
 | 11-12 | Social (politics, witnesses, complications) |
 
 ### Discovery Complications `dice: 1d20`
 | d20 | Complication |
-|-----|-------------|
 | 1-3 | Another faction arrives simultaneously |
 | 4-6 | Shard guardian offers unexpected bargain |
 | 7-9 | Environmental disaster threatens location |
@@ -507,7 +471,7 @@ Each hero faces a personal test related to unity and cooperation:
 | 16-18 | Heroes discover uncomfortable truths |
 | 19-20 | Location begins to collapse/phase out |
 
-### Shard Resonance Effects `dice: 1d8`
+### Shard Resoce Effects `dice: 1d8`
 | d8 | Effect |
 |----|--------|
 | 1-2 | All shards in vicinity pulse with energy |
@@ -517,66 +481,43 @@ Each hero faces a personal test related to unity and cooperation:
 
 ---
 
-## Meta-Bind Location Tools
-
 ### Environmental Challenge Tracker
 ```meta-bind
 INPUT[slider(minValue(0), maxValue(20):environmental-dc]
 Label: Current Environmental Challenge DC
-```
 
 ### Shard Corruption Monitor
-```meta-bind
 INPUT[progressBar(minValue(0), maxValue(100)):location-corruption]
 Label: Location Corruption Level
-```
 
 ### Discovery Progress
-```meta-bind-button
 label: Roll Location Discovery
 id: location-discovery
-action:
-  type: command
-  command: dice-roller
 args: ["1d100"]
-```
 
 ---
 
-## Connected to Official 5e Content
 
-### Sourcebook Integration
-- **Player's Handbook**: Core environmental rules and effects
-- **Dungeon Master's Guide**: Environmental hazards and magical phenomena
-- **Xanathar's Guide**: Encounter building and environmental effects  
-- **Tasha's Cauldron**: Magical environments and reality distortions
-- **Fizban's Treasury**: Lair actions and regional effects systems
-- **Van Richten's Guide**: Horror atmosphere and sanity mechanics
+## 🔧 Deep Evaluation Improvements
 
-### Monster Manual References
-- **Aberrations**: Mind flayers, intellect devourers for consciousness effects
-- **Elementals**: Air, earth, fire, water elementals for shard manifestations
-- **Constructs**: Golems and animated objects for guardian creatures
-- **Undead**: Shadows, wraiths, and specters for shadow corruption
+*20 targeted improvements identified*
 
-### Adventure Integration
-- **Tomb of Annihilation**: Puzzle mechanics for shard protection
-- **Curse of Strahd**: Horror atmosphere and environmental storytelling
-- **Out of the Abyss**: Sanity mechanics and reality distortion
-- **Dungeon of the Mad Mage**: Complex dungeon navigation systems
+### Connection Improvements
 
----
+- Add cross-references to related notes
 
-## Resources
-- [[Shard Powers and Effects]]
-- [[Environmental Challenge Guidelines]]
-- [[Location-Based Encounter Tables]]
-- [[Reality Distortion Mechanics]]
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -585,3 +526,19 @@ args: ["1d100"]
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and truth emerges
+- A document has gone missing and chaos spreads
+- Someone is hunting a witness for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -1,4 +1,5 @@
 ---
+
 title: Memory Farmer Thane
 type: Location
 tags:
@@ -10,6 +11,7 @@ tags:
 - location
 - complete
 - status/in-progress
+- prophecy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -17,6 +19,8 @@ region: Unknown
 population: Unknown
 updated: '2025-08-13T12:34:17.086109+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -25,19 +29,69 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-memory-farmer-thane-memory-farmer-thane.svg]]
 
 
-## Cross-References
+## 🔧 Deep Evaluation Improvements
 
-- [[Abyssos Prime]]
+*20 targeted improvements identified*
 
+### History Improvements
 
-## Connections
+- Add three historical eras with major events
 
-- [[Memory Pearls]]
-- [[Memory Harvester Kythara]]
-- [[Memory Merchant Valeria Siltweave]]
-- [[Abyssos Prime]]
-- [[Memory Farmers]]
-- [[Memory Meadows Black Market]]
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
 
 ## Player-Facing Summary
 
@@ -47,16 +101,6 @@ Memory Farmer Thane is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Memory Farmer Thane as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Farmer Thane.
 
-## Adventure Hooks
-
-- A rumor ties Memory Farmer Thane to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Memory Farmer Thane to avert a public scandal.
-- A map overlay reveals a hidden approach to Memory Farmer Thane active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -64,33 +108,9 @@ Legends speak of Memory Farmer Thane as a nexus where past and present converge.
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
-
-## Notable Residents
-
-- [[04_Resources_Assets_Portraits_portrait-npc-lord-aldric-blackwater-lord-aldric-blackwater.svg]]
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-the-diplomatic-quarter-the-diplomatic-quarter.svg]]
-- [[04_Resources_Assets_Portraits_portrait-npc-quest-the-succession-crisis-quest-the-succession-crisis.svg]]
-- [[04_Resources_Assets_Locations_location-city-surface-expert-grainwise-v1-surface-expert-grainwise.svg]]
-
 
 ## Sensory Details
 
@@ -100,7 +120,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: Incense mingles with the scent of exotic spices
 
-
 ## Description
 
 Memory Farmer Thane is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -108,47 +127,10 @@ Memory Farmer Thane is a notable location characterized by its unique features a
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Memory Farmer Thane
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
-
-## History
+**Goverce**: Local authority structure
 
 ### Founding
 Memory Farmer Thane was established in the distant past, growing from humble beginnings to its current state.
-
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
-
 
 ## Current Events
 
@@ -161,15 +143,62 @@ Ongoing situations affecting Memory Farmer Thane:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Memory Farmer Thane
+## Trade Importance
 
-### Whispered Rumors
-- Stories that may or may not be true
+Key stop on metals trade route
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+
+## Plot Hooks
+
+- Someone is protecting a artifact for power
+- An heirloom has gone missing and truth emerges
+- A merchant needs help delivering before winter
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

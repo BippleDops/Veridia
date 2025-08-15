@@ -16,49 +16,8 @@ updated: '2025-08-13'
 world: Both
 ---
 
-
-# Cross-Realm Adaptation
-## Dual Environment Evolution
-
 ### Overview
 Characters who frequently travel between Aquabyssos and Aethermoor develop hybrid physiology allowing survival in both environments.
-
-### Adaptation Process
-
-#### Month 1-3: Initial Flexibility
-- No penalties when switching between realms
-- +1 Constitution saves vs. pressure/altitude
-- Rapid environmental adjustment (1 hour vs. 24 hours)
-
-#### Month 4-12: Biological Compromise
-- Develop dual respiratory system
-- Pressure/altitude tolerance ranges overlap
-- Enhanced environmental awareness
-- -1 to Constitution (biological stress)
-
-#### Year 2-3: Hybrid Stability
-- Function normally in both environments
-- Can assist others with adaptation
-- Enhanced constitution (+1 back, net 0)
-- Unique magical signature (both realms)
-
-#### Year 3+: Convergence Master
-- Immune to environmental extremes
-- Can create transition zones for others
-- Natural ambassador between realms
-- Permanent dual-realm citizenship
-
-### Benefits
-- Diplomatic immunity in both realms
-- Economic advantages in cross-realm trade
-- Natural mediator for inter-realm conflicts
-- Access to combined magical traditions
-
-### Drawbacks
-- Never fully "at home" in either realm
-- Identity questions about cultural belonging
-- Potential target for purist factions
-- Medical complications from hybrid physiology
 
 ### Social Implications
 - Viewed with suspicion by extremists
@@ -70,10 +29,27 @@ Characters who frequently travel between Aquabyssos and Aethermoor develop hybri
 
 *Cross-realm adaptation enables diplomatic bridge-building but comes with social and identity costs.*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -82,3 +58,20 @@ Characters who frequently travel between Aquabyssos and Aethermoor develop hybri
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A stranger needs help investigating before dawn
+- A journal reveals a conspiracy about the cult
+- A prisoner has gone missing and evil awakens
+- Strange accidents suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

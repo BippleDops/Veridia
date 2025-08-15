@@ -1,4 +1,5 @@
 ---
+
 title: Pressure Engineering Guild
 type: Faction
 tags:
@@ -17,18 +18,79 @@ headquarters: Unknown
 membership: Unknown
 updated: '2025-08-13T12:34:17.457735+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
-## Cross-References
 
-- [[Pressure Adaptation System]]
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Connections
+### History Improvements
 
-- [[Pressure Adaptation System]]
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
 
 ## Player-Facing Summary
 
@@ -38,23 +100,9 @@ Pressure Engineering Guild is a undersea element of the setting, known for biolu
 
 Legends speak of Pressure Engineering Guild as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pressure Engineering Guild.
 
-## Adventure Hooks
-
-- A rumor ties Pressure Engineering Guild to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Pressure Engineering Guild to avert a public scandal.
-- A map overlay reveals a hidden approach to Pressure Engineering Guild active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
-
-## Known Members
-
-- [[04_Resources_Assets_Locations_location-city-the-resonance-cathedral-the-resonance-cathedral.svg]]
-
 
 ## Overview
 
@@ -65,14 +113,6 @@ Pressure Engineering Guild operates as an influential organization with specific
 **Membership**: Dozens to thousands
 **Secrecy**: Public/Semi-secret/Secret
 
-
-## Structure
-
-### Leadership
-- **Supreme Leader**: Ultimate authority
-- **Council/Board**: Decision makers
-- **Department Heads**: Operational leaders
-
 ### Ranks
 1. Initiate level
 2. Member level
@@ -80,96 +120,27 @@ Pressure Engineering Guild operates as an influential organization with specific
 4. Officer level
 5. Leadership level
 
-
-## Members
-
-### Notable Members
-- [[Leader Name]] - Current head
-- [[Key Officer]] - Important figure
-- [[Rising Star]] - Ambitious member
-
-### Membership Requirements
-- Skills or qualities needed
-- Initiation process
-- Ongoing obligations
-
-
-## Goals
-
 ### Public Mission
 What they claim to pursue
-
-### True Objectives
-- Primary goal
-- Secondary objectives
-- Long-term vision
-
-### Current Projects
-- Active operations
-- Research efforts
-- Political maneuvers
-
-
-## Resources
-
-### Financial
-- Funding sources
-- Wealth level
-- Economic influence
-
-### Physical Assets
-- Properties owned
-- Equipment available
-- Special resources
-
-### Human Resources
-- Member skills
-- Allies and contacts
-- Information networks
-
-
-## Operations
-
-### Regular Activities
-- Day-to-day operations
-- Revenue generation
-- Member services
-
-### Special Operations
-- Covert activities
-- Major projects
-- Crisis responses
-
-
-## Relationships
-
-### Allies
-- Aligned organizations
-- Political supporters
-- Business partners
-
-### Enemies
-- Rival organizations
-- Opposed factions
-- Active threats
-
-### Neutral Parties
-- Potential allies or enemies
-- Trade partners
-- Watching parties
-
-
-## Secrets
 
 ### Open Secrets
 Things widely suspected
 
-### Hidden Truths
-- Real leadership
-- True funding sources
-- Secret objectives
 
-### Deep Mysteries
-- Ancient connections
-- Forbidden knowledge
-- Ultimate goals
+## Plot Hooks
+
+- A stranger needs help investigating before the festival
+- A merchant needs help finding before dawn
+- A stranger needs help stealing before winter
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon

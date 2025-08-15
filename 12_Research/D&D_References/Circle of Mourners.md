@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.348372+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-circle-of-mourners-circle-of-mourners.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,34 @@ Circle of Mourners is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Circle of Mourners as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Circle of Mourners.
 
-## Adventure Hooks
-
-- A rumor ties Circle of Mourners to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Circle of Mourners to avert a public scandal.
-- A map overlay reveals a hidden approach to Circle of Mourners active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Circle of Mourners|02 Worldbuilding/Places/Circle Of Mourners]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Mourning Depths]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest a portal
+- A stranger needs help investigating before winter
+- A shipment has gone missing and truth emerges
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

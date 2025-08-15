@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:35.658035+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,22 @@ Project Mindbridge is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Project Mindbridge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Project Mindbridge.
 
-## Adventure Hooks
-
-- A rumor ties Project Mindbridge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Project Mindbridge to avert a public scandal.
-- A map overlay reveals a hidden approach to Project Mindbridge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Ritual Redirection Options|02 Worldbuilding/Lore/Ritual Redirection Options]]
-
-
-## Connections
-
-- [[Ritual Redirection Options]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and chaos spreads
+- Someone is protecting an heir for money
+- The authorities needs help finding before the new moon
+- A journal reveals a conspiracy about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

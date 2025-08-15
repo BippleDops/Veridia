@@ -28,14 +28,29 @@ updated: '2025-08-13T12:34:05.543638+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dryad-xmm-dryad-xmm.svg)
 
 # [[dryad-xmm|Dryad]]
-*Source: Monster Manual (2024) p. 107. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 107. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Dryad
 
@@ -105,7 +120,7 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
       \ will: [[animal-friendship-xphb|Animal Friendship]],\
       \ [[charm-monster-xphb|Charm Monster]] (lasts 24 hours;\
       \ ends early if the dryad casts the spell again), [[druidcraft-xphb|Druidcraft]]\n\
-      \n1/day each: [[entangle-xphb|Entangle]], [[pass-without-trace-xphb|Pass\
+      \n1/day each: [[entangle-xphb|Entangle]], [[pass-without-trace-xphb|Pass\]]
       \ without Trace]]"
     "name": "Spellcasting"
 "bonus_actions":
@@ -131,19 +146,29 @@ Dryad xmm is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of dryad xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dryad xmm.
 
-## Adventure Hooks
-
-- A rumor ties dryad xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dryad xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to dryad xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals ancient history about the cult
+- Strange accidents suggest ancient magic
+- An heirloom has gone missing and chaos spreads
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

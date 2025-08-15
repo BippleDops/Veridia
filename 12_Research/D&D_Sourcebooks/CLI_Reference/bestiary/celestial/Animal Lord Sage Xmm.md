@@ -18,7 +18,7 @@ tags:
 - active
 - status/in-progress
 - ttrpg-cli/monster/cr/20
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-monster
@@ -28,9 +28,6 @@ statblock-link: '#^statblock'
 updated: '2025-08-13T12:34:06.050039+00:00'
 world: Both
 ---
-
-
-
 
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-animal-lord-sage-xmm-animal-lord-sage-xmm.svg)
@@ -62,13 +59,11 @@ world: Both
   - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+13"
   - "name": "[[skills#Athletics|Athletics]]"
-    "desc": "+13"
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+18"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+13"
 "damage_resistances": "cold, fire, necrotic, psychic, radiant"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Stunned|stunned]]"
 "senses": "truesight 120 ft., passive Perception 28"
 "languages": "all"
@@ -107,7 +102,7 @@ world: Both
   - "desc": "The animal lord casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 20):\n\
       \nAt will: [[animal-friendship-xphb|Animal Friendship]],\
-      \ [[animal-messenger-xphb|Animal Messenger]], [[speak-with-animals-xphb|Speak\
+      \ [[animal-messenger-xphb|Animal Messenger]], [[speak-with-animals-xphb|Speak\]]
       \ with Animals]]\n\n2/day\
       \ each: [[awaken-xphb|Awaken]], [[greater-restoration-xphb|Greater Restoration]]\n\
       \n1/day each: [[animal-shapes-xphb|Animal Shapes]],\
@@ -131,6 +126,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 planar, beastlands
@@ -143,19 +156,21 @@ Animal lord sage xmm is a undersea element of the setting, known for bioluminesc
 
 Legends speak of animal lord sage xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around animal lord sage xmm.
 
-## Adventure Hooks
-
-- A rumor ties animal lord sage xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at animal lord sage xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to animal lord sage xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a conspiracy about the cult
+- A shipment has gone missing and war looms
+- Strange dreams suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

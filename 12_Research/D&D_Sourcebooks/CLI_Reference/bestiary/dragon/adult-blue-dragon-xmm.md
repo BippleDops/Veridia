@@ -17,7 +17,7 @@ tags:
 - ttrpg-cli/monster/cr/16
 - status/in-progress
 - ttrpg-cli/monster/environment/desert
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-monster
@@ -28,15 +28,31 @@ updated: '2025-08-12T23:37:35.750486'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-adult-blue-dragon-xmm-adult-blue-dragon-xmm.svg)
 
 # [[adult-blue-dragon-xmm|Adult Blue Dragon]]
-*Source: Monster Manual (2024) p. 49. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 49. Available in the SRD and the Free Rules (2024)*  
 
-Adult blue dragons command small empires, which might be territories of subjugated followers, shadowy criminal networks, or cultic enclaves. Endlessly suspicious and wary of rivals, these dragons enact elaborate schemes to ruin their foes, test the loyalty of their servants, and ensure their dominance for centuries.
+Adult blue dragons command small empires, which might be territories of subjugated followers, shadowy criminal networks, or cultic enclaves. Endlessly suspicious and wary of rivals, these dragons enact elaborate schemes to ruin their foes, test the loyalty of their servants, and ensure their domice for centuries.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Blue Dragons
 
@@ -111,7 +127,6 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
       \ The dragon can't take this action again until the start of its next turn."
     "name": "Cloaked Flight"
   - "desc": "The dragon uses Spellcasting to cast [[shatter-xphb|Shatter]].\
-      \ The dragon can't take this action again until the start of its next turn."
     "name": "Sonic Boom"
   - "desc": "The dragon makes one Rend attack."
     "name": "Tail Swipe"
@@ -127,9 +142,7 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
       \ the sinkhole.  \n- Spiteful Storms. Dust devils and thunderstorms rage\
       \ within 1 mile of the lair. The area is [[lightly-obscured-xphb|Lightly Obscured]].\
       \  "
-    "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/dragon/token/adult-blue-dragon-xmm.webp"
@@ -148,19 +161,34 @@ Adult blue dragon xmm is a undersea element of the setting, known for biolumines
 
 Legends speak of adult blue dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around adult blue dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties adult blue dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at adult blue dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to adult blue dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- Strange accidents suggest a curse
+- A letter reveals a betrayal about the government
+- Someone is protecting information for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

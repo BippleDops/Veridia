@@ -10,13 +10,9 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# 🚀 AI Tool Library Documentation
-
 ## Overview
 
 This is a comprehensive AI tool library that provides unified access to all major AI generation tools, both local and cloud-based. All tools are installed globally on your system and can be used across any project.
-
-## Installation
 
 ### Quick Install (Recommended)
 ```bash
@@ -35,8 +31,6 @@ This installs:
 - **Ollama** - Local LLMs (Llama 2, Code Llama, Mistral)
 - **N8N** - Workflow automation
 - **PM2** - Process management
-
-## Tool Library Usage
 
 ### Import in Any Project
 
@@ -64,11 +58,9 @@ const audio = await tools.generateAudio('epic battle music');
 
 // Generate text
 const text = await tools.generateText('Write a quest description');
-```
 
 ### Quick Functions
 
-```javascript
 const { quickImage, quickVideo, quickAudio, quickText } = require('./tool_library.js');
 
 // One-line generation
@@ -76,11 +68,9 @@ const image = await quickImage('cyberpunk city');
 const video = await quickVideo('magic portal opening');
 const audio = await quickAudio('ambient dungeon sounds');
 const text = await quickText('Generate NPC dialogue');
-```
 
 ### Command Line Usage
 
-```bash
 # Start services
 node tool_library.js start comfyui
 node tool_library.js start n8n
@@ -94,24 +84,20 @@ node tool_library.js image "fantasy landscape"
 node tool_library.js video "lightning strike"
 node tool_library.js audio "tavern ambience"
 node tool_library.js text "describe a magical item"
-```
 
 ## Global Commands
 
 After installation, these commands are available globally:
 
 ### Service Launchers
-```bash
 comfyui          # Start ComfyUI on port 8188
 sdwebui          # Start Stable Diffusion WebUI
 animatediff      # Run AnimateDiff
 audiocraft       # Start AudioCraft
 n8n-start        # Start N8N on port 5678
 ollama serve     # Start Ollama server
-```
 
 ### Process Management
-```bash
 # Start all services at once
 pm2 start ~/AITools/ecosystem.config.js
 
@@ -123,10 +109,8 @@ pm2 logs
 
 # Stop all
 pm2 stop all
-```
 
 ### Model Management
-```bash
 # Download models
 download-models
 
@@ -135,7 +119,6 @@ ollama pull llama2
 ollama pull codellama
 ollama pull mistral
 ollama run llama2  # Run interactively
-```
 
 ## Service URLs
 
@@ -146,11 +129,8 @@ Once running, access services at:
 - **N8N**: http://localhost:5678
 - **Ollama API**: http://localhost:11434
 
-## Advanced Usage
-
 ### Batch Generation
 
-```javascript
 const tools = new ToolLibrary();
 
 const batch = [
@@ -161,12 +141,8 @@ const batch = [
 ];
 
 const results = await tools.generateBatch(batch);
-```
 
 ### Custom Workflows with N8N
-
-```javascript
-const tools = new ToolLibrary();
 
 // Create a workflow
 const workflow = await tools.createWorkflow('Asset Pipeline', [
@@ -178,8 +154,6 @@ const workflow = await tools.createWorkflow('Asset Pipeline', [
 // Trigger it
 const result = await tools.triggerWorkflow(workflow.id, {
   prompt: 'epic battle scene'
-});
-```
 
 ### Fallback Chain
 
@@ -191,14 +165,11 @@ The library automatically falls back through services:
 
 ### Integration with Obsidian Vault
 
-```javascript
 // In your vault scripts
 const { ToolLibrary } = require('../scripts/tool_library.js');
 
-const tools = new ToolLibrary({
   outputDir: '04_Resources/Assets',
   apiKeys: require('./.obsidian/api_config.json')
-});
 
 // Generate assets for your campaign
 async function generateCampaignAssets() {
@@ -208,11 +179,9 @@ async function generateCampaignAssets() {
   
   return { portraits, battleMap, ambience };
 }
-```
 
 ## File Structure
 
-```
 ~/AITools/
 ├── bin/                 # Global command shortcuts
 │   ├── comfyui
@@ -230,11 +199,9 @@ async function generateCampaignAssets() {
 ├── workflows/          # N8N workflows
 ├── ecosystem.config.js # PM2 configuration
 └── TOOL_LIBRARY.md    # This documentation
-```
 
 ## Environment Variables
 
-```bash
 # Add to ~/.zshrc or ~/.bashrc
 export AITOOLS_HOME="$HOME/AITools"
 export PATH="$AITOOLS_HOME/bin:$PATH"
@@ -243,41 +210,28 @@ export PATH="$AITOOLS_HOME/bin:$PATH"
 export OPENAI_API_KEY="your-key"
 export STABILITY_API_KEY="your-key"
 export N8N_WEBHOOK_URL="http://localhost:5678/"
-```
-
-## Troubleshooting
 
 ### Service won't start
-```bash
 # Check if port is in use
 lsof -i :8188  # ComfyUI
 lsof -i :5678  # N8N
 
 # Kill process using port
 kill -9 $(lsof -t -i:8188)
-```
 
 ### Out of memory
-```bash
 # For ComfyUI on Mac
 export PYTORCH_ENABLE_MPS_FALLBACK=1
 export PYTORCH_MPS_HIGH_WATERMARK_RATIO=0.0
-```
 
 ### Models not found
-```bash
 # Download models
-download-models
 
 # Or manually download to:
 ~/AITools/models/stable-diffusion/
-```
-
-## Examples
 
 ### Complete Asset Generation Script
 
-```javascript
 #!/usr/bin/env node
 
 const { ToolLibrary } = require('./tool_library.js');
@@ -312,7 +266,6 @@ async function generateRPGAssets() {
     const filename = char.replace(/\s+/g, '_') + '.png';
     fs.writeFileSync(path.join('./portraits', filename), image);
     console.log(`Generated: ${filename}`);
-  }
   
   // Generate ambient audio
   const audio = await tools.generateAudio('medieval tavern ambience', {
@@ -325,16 +278,12 @@ async function generateRPGAssets() {
   );
   
   console.log('Quest:', quest);
-}
 
 generateRPGAssets().catch(console.error);
-```
 
 ### Automated Workflow
 
-```javascript
 // Create an automated asset pipeline
-const tools = new ToolLibrary();
 
 // Every time a new character is added, generate their portrait
 async function onNewCharacter(characterData) {
@@ -344,22 +293,17 @@ async function onNewCharacter(characterData) {
   const portrait = await tools.generateImage(
     `${description}, fantasy character portrait`,
     { method: 'auto' }
-  );
   
   // Generate backstory
   const backstory = await tools.generateText(
     `Write a backstory for ${name}: ${description}`
-  );
   
   // Generate theme music
   const theme = await tools.generateAudio(
     `character theme music for ${description}`,
     { duration: 30 }
-  );
   
   return { portrait, backstory, theme };
-}
-```
 
 ## Performance Tips
 
@@ -368,19 +312,6 @@ async function onNewCharacter(characterData) {
 3. **Cache results** - Store generated content for reuse
 4. **Use PM2** - Keeps services running reliably
 5. **Monitor resources** - Check GPU/CPU usage with `htop`
-
-## Security
-
-- API keys are stored in `.obsidian/api_config.json`
-- Never commit API keys to version control
-- Use environment variables for sensitive data
-- Run services on localhost only
-
-## Support
-
-- **ComfyUI Issues**: Check `~/AITools/ComfyUI/logs/`
-- **N8N Issues**: View logs with `pm2 logs n8n`
-- **General Issues**: Run `node tool_library.js check`
 
 ## License
 
@@ -395,11 +326,9 @@ This tool library integrates various open-source projects. Please respect their 
 **Created for the TTRPG Vault Project**
 *All tools installed globally for use across any project*
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

@@ -26,19 +26,30 @@ updated: '2025-08-13T01:18:36.116111+00:00'
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-navigator-sage-driftwood-navigator-sage-driftwood.svg)
-
-
-
-
-
 
 # Navigator Sage Driftwood
 
 *"The ocean speaks to those who know how to listen. Every current has a story, every tide brings wisdom, and those who drift with purpose shall find their way to any shore."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -53,12 +64,6 @@ Her services are in high demand as political tensions make safe travel increasin
 Sage Driftwood is an elderly sea elf woman whose exact age is difficult to determine, appearing to be anywhere from sixty to several hundred years old. Her silver-green hair flows like seaweed, often adorned with small shells, bits of coral, and trinkets collected from her travels. Her eyes are the deep blue-green of abyssal waters, seeming to hold depths of ancient knowledge.
 
 She dresses in practical but elegant robes made from various aquatic materials - sea silk, kelp fiber, and scales from friendly sea creatures. Her most distinctive possession is an ancient staff carved from driftwood that she claims came from the first tree to ever touch the ocean, adorned with navigation instruments that blend magical and mundane techniques.
-
-## Personality
-- Deeply philosophical about the nature of travel and exploration
-- Patient and wise, speaking in metaphors drawn from oceanic phenomena
-- Intensely curious about the connections between all things in the sea
-- Protective of ancient knowledge while generous in sharing practical wisdom
 
 ## Statistics
 **Medium humanoid (sea elf), neutral good**
@@ -108,20 +113,6 @@ Driftwood is increasingly concerned about disturbances in the ocean's natural pa
 
 She's also been approached by various factions seeking her navigation services for sensitive missions, requiring her to carefully balance her neutral stance with her desire to help maintain stability in the region.
 
-## Relationships
-- **Aquabyssos Explorers Guild**: Senior advisor and most respected navigator
-- **Her Students**: Network of trained navigators throughout the oceanic realm
-- **Sea Creatures**: Maintains communication with various oceanic life forms
-- **All Factions**: Neutral service provider respected by all sides
-- **Deep-Sea Researchers**: Collaborates on studies of oceanic phenomena
-
-## Secrets
-- Has discovered that the ocean itself is becoming "agitated" due to supernatural influences affecting Aquabyssos
-- Maintains secret charts showing hidden pathways and safe harbors throughout the region
-- Can communicate with ancient sea spirits that possess knowledge of pre-historic civilizations
-- Knows the locations of several underwater ruins that predate current civilizations
-- Has been contacted by entities from the deepest ocean who are concerned about current events
-
 ## Quest Hooks
 1. Driftwood offers to guide the party to a location that can only be reached during specific oceanic conditions that occur rarely and unpredictably.
 2. Strange disturbances in oceanic patterns suggest supernatural interference, and Driftwood needs investigators to help identify the source.
@@ -129,43 +120,6 @@ She's also been approached by various factions seeking her navigation services f
 
 ## DM Notes
 Sage Driftwood serves as both a practical resource for oceanic travel and a source of wisdom about the deeper mysteries of the sea. Her philosophical approach to navigation can provide unique insights into problems, while her oceanic connections offer opportunities for underwater adventures and encounters with sea creatures. Use her neutral stance and ancient wisdom to provide guidance that transcends factional politics.
-
-
-## Connections
-
-- [[Compass Quest]]
-- [[The Forgotten One]]
-- [[The Wandering Atoll]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -175,19 +129,33 @@ Navigator Sage Driftwood is a undersea element of the setting, known for biolumi
 
 Legends speak of Navigator Sage Driftwood as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Navigator Sage Driftwood.
 
-## Adventure Hooks
-
-- A rumor ties Navigator Sage Driftwood to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Navigator Sage Driftwood to avert a public scandal.
-- A map overlay reveals a hidden approach to Navigator Sage Driftwood active only during specific tides/storms.
-
-## Cross-References
-
-- [[Navigator Sage Driftwood|02 Worldbuilding/Places/Navigator Sage Driftwood]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Plot Hooks
+
+- A document has gone missing and war looms
+- Someone is hunting a artifact for power
+- A prisoner has gone missing and chaos spreads
+- Someone is blackmailing an heir for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

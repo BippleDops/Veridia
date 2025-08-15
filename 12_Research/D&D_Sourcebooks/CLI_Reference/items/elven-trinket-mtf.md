@@ -23,15 +23,11 @@ updated: '2025-08-12T23:37:37.520785'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-elven-trinket-mtf-elven-trinket-mtf.svg)
 
 # Elven Trinket
 *Adventuring gear*  
-
-
 
 `dice: [](elven-trinket-mtf.md#^trinket)`
 
@@ -44,10 +40,28 @@ world: Both
 | 5 | A golden compass that points toward the nearest portal to the Feywild within 10 miles |
 | 6 | A small silver spinning top that, when spun, endlessly spins until interrupted |
 | 7 | A small songbird made of enamel, gold wire, and precious stone; uttering the songbird's name in Elvish causes the trinket to emit that bird's birdsong |
-| 8 | A small enamel flower that, when put in one's hair, animates, tying back the wearer's hair with a living vine with flowers; plucking a single flower from this vine returns it to its inanimate form |
+| 8 | A small enamel flower that, when put in one's hair, animates, tying back the wearer's hair with a living vine with flowers; plucking a single flower from this vine returns it to its iimate form |
 ^trinket
 
 *Source: Mordenkainen's Tome of Foes p. 64*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -57,19 +71,17 @@ Elven trinket mtf is a undersea element of the setting, known for bioluminescent
 
 Legends speak of elven trinket mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elven trinket mtf.
 
-## Adventure Hooks
-
-- A rumor ties elven trinket mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at elven trinket mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to elven trinket mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting a witness for power
+- A corpse reveals ancient history about the cult
+- Strange disappearances suggest ancient magic

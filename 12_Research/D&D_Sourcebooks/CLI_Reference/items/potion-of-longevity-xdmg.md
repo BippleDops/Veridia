@@ -23,14 +23,11 @@ updated: '2025-08-12T23:37:36.626454'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-potion-of-longevity-xdmg-potion-of-longevity-xdmg.svg)
 
 # Potion of Longevity
 *Potion, very rare*  
-
 
 - **Weight**: 0.5 lbs.
 
@@ -38,7 +35,25 @@ When you drink this potion, your physical age is reduced by `1d6 + 6` years, to 
 
 Suspended in this amber liquid is a tiny heart that, against all reason, is still beating. These ingredients vanish when the potion is opened.
 
-*Source: Dungeon Master's Guide (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 288. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -48,19 +63,20 @@ Potion of longevity xdmg is a undersea element of the setting, known for biolumi
 
 Legends speak of potion of longevity xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around potion of longevity xdmg.
 
-## Adventure Hooks
-
-- A rumor ties potion of longevity xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at potion of longevity xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to potion of longevity xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

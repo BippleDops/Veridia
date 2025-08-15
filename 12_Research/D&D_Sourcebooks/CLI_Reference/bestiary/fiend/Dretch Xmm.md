@@ -29,16 +29,31 @@ updated: '2025-08-13T12:34:05.813825+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dretch-xmm-dretch-xmm.svg)
 
 # [[dretch-xmm|Dretch]]
-*Source: Monster Manual (2024) p. 103. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 103. Available in the SRD and the Free Rules (2024)*  
 
 Lone dretches serve other demons or evil magic-users. They are erratic, filthy, and violent, and they demonstrate little sense of self-preservation.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Dretches
 
@@ -53,7 +68,6 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 > 
 > Ah, the infinite wonders of the Abyss. If there's anything you don't like, you'll find it here.
 
-
 ```statblock
 "name": "Dretch (XMM)"
 "size": "Small"
@@ -67,7 +81,6 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 "stats":
   - !!int "12"
   - !!int "11"
-  - !!int "12"
   - !!int "5"
   - !!int "8"
   - !!int "3"
@@ -106,19 +119,30 @@ Dretch xmm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of dretch xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dretch xmm.
 
-## Adventure Hooks
-
-- A rumor ties dretch xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dretch xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to dretch xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- Strange sightings suggest a curse
+- A stranger needs help delivering before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

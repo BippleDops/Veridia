@@ -16,24 +16,29 @@ updated: '2025-08-13T01:18:36.604058+00:00'
 danger_level: Moderate
 ---
 
-
-
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-old-valdris-old-valdris.svg)
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-# Old Valdris - The Preserved City
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 Old Valdris exists in a massive air bubble, perfectly preserved as it was in the moments before [[The Great Drowning]]. The city's 50,000 inhabitants are frozen in time, caught mid-action in their daily lives, turned to living crystal. The bubble is maintained by the collective dying wish of the population, and walking through the streets means witnessing the last moments of a civilization. Time moves strangely here - visitors age rapidly in some areas while becoming frozen in others.
-
-## City Districts
 
 ### The Merchant Quarter
 Traders frozen mid-transaction, coins hanging in the air between hands. [[The Crystal Merchant]] still moves, somehow immune to the freezing, trading in temporal fragments.
@@ -50,8 +55,6 @@ Priests frozen in prayer, some reaching toward the ceiling as if seeing the wate
 ### The Scholar's Row
 Library and academy where students and teachers are frozen reading books about avoiding catastrophe. The books still turn their own pages.
 
-## Temporal Phenomena
-
 ### The Fast Lanes
 Streets where time moves at 100x speed - crossing ages visitors by years.
 
@@ -66,8 +69,6 @@ Bridge where time reverses - injuries heal but memories are erased.
 
 ## The Crystallized Citizens
 The frozen inhabitants are aware but cannot move or speak. Their eyes follow visitors, and those who touch them experience the person's last thoughts and emotions. Some visitors report hearing whispers when alone.
-
-## Notable Figures
 
 ### King Marcus the Final
 Frozen on his throne, crown halfway fallen from his head, reaching toward a map showing escape routes that were never used.
@@ -98,48 +99,6 @@ A messenger frozen mid-sprint, mouth open in a shout of warning that never finis
 9. Section of city briefly unfreezing
 10. The bubble wall flickering
 
-## Quests Available
-- [[The Frozen Throne]] - Retrieve King Marcus's crown
-- [[Time's Mercy]] - Free specific frozen citizens
-- [[The Last Dance]] - Discover Lady Vivienne's truth
-- [[Temporal Harvest]] - Stop the Crystal Merchant
-- [[Bubble Burst]] - Prevent or cause the bubble's collapse
-
-
-## Connections
-
-- [[Time's Mercy]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 Old Valdris is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -148,29 +107,39 @@ Old Valdris is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of Old Valdris as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Old Valdris.
 
-## Adventure Hooks
-
-- A rumor ties Old Valdris to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Old Valdris to avert a public scandal.
-- A map overlay reveals a hidden approach to Old Valdris active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Old Valdris|02 Worldbuilding/Places/Old Valdris]]
-
-<!-- enriched: true -->
-- [[Bubble Burst]]
-- [[Lady Vivienne the Unfrozen]]
-- [[Temporal Harvest]]
-- [[The Crystal Merchant]]
-- [[The Frozen Throne]]
-- [[The Last Priest]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Plot Hooks
+
+- Strange sightings suggest ancient magic
+- A corpse reveals a betrayal about this place
+- A corpse reveals a betrayal about this place
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

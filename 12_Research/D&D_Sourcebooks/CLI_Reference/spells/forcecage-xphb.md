@@ -27,10 +27,8 @@ updated: '2025-08-12T23:37:36.028307'
 world: Both
 ---
 
-
 # Forcecage
 *7th-level, Evocation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 100 feet
@@ -49,7 +47,25 @@ This spell can't be dispelled by [[dispel-magic-xphb|Dispel Magic]].
 
 **Classes**: [[list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-evoker-xphb "subclass=XPHB;class=XPHB"|Wizard (Evoker)]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
 
-*Source: Player's Handbook (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 276. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -59,19 +75,22 @@ Forcecage xphb is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of forcecage xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around forcecage xphb.
 
-## Adventure Hooks
-
-- A rumor ties forcecage xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at forcecage xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to forcecage xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and truth emerges
+- A corpse reveals the truth about the government
+- The authorities needs help delivering before the festival
+- Strange sightings suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

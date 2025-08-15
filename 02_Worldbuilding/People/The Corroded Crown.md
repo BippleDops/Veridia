@@ -1,4 +1,5 @@
 ---
+
 title: The Corroded Crown
 type: Npc
 tags:
@@ -34,6 +35,8 @@ char_status: Alive
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.552406+00:00'
 world: Aethermoor
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -42,37 +45,71 @@ world: Aethermoor
 
 ![[04_Resources/Assets/04_Resources/Assets/Art/NPCs/The_Corroded_Crown.png|The Corroded Crown Portrait]]
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+
 ## Role and Motive
 The Corroded Crown moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.
 
 - Ideal: Stability through controlled risk.
 - Bond: A family archive tied to [[The Lighthouse of Storms]].
 - Flaw: Overconfidence in leverage; underestimates zealots and true believers.
-
-## Tactics and Traits
-- Conversational Disarm: First parley each day imposes disadvantage on Insight checks to read their tells.
-- Ledger of Debts: Knows a favor owed by agents linked to [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]].
-- Contingency: Keeps a sealed route toward [[The Whispering Expanse]] if negotiations sour.
-
-## For the Table (Use Now)
-- Opening Line: “Prices rise with fear; calm your breath and we can afford the truth.”
-- Quick Offers: passage papers, rumor bundles, bonded cargo, introductions to a discreet artificer.
-- Failure Still Progresses: Even when rebuffed, The Corroded Crown sends a warning of a raid that creates a time-sensitive window.
-
-## Relationships (score -3..+3)
-- Pearl Guard customs captain: 0 (mutual irritation)
-- Coral Throne Syndicate quartermaster: +2 (profitable ties)
-- Verdant Accord observer: -1 (ideological friction)
-
-## Hooks to the Main Campaign
-- Offers a map shard pointing toward [[The Lighthouse of Storms]].
-- Brokers a ceasefire to enable [[The Whispering Expanse]].
-- Sells a rumor naming [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]] as the true buyer behind a recent theft.
-
-## Cross-References
-- [[The Lighthouse of Storms]]
-- [[The Whispering Expanse]]
-- [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]]
 
 ## Player-Facing Summary
 
@@ -82,14 +119,6 @@ The Corroded Crown is a undersea element of the setting, known for bioluminescen
 
 Legends speak of The Corroded Crown as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Corroded Crown.
 
-## Adventure Hooks
-
-- A rumor ties The Corroded Crown to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Corroded Crown to avert a public scandal.
-- A map overlay reveals a hidden approach to The Corroded Crown active only during specific tides/storms.
-
-
-
 ## Appearance
 
 The Corroded Crown presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
@@ -98,8 +127,6 @@ The Corroded Crown presents a distinctive figure. Their bearing suggests both co
 - **Distinguishing Marks**: [Describe unique features]
 - **Typical Attire**: Professional garments suited to their role
 - **Mannerisms**: [Describe habits and gestures]
-
-
 
 ## Personality
 
@@ -111,8 +138,6 @@ The Corroded Crown presents a distinctive figure. Their bearing suggests both co
 
 **Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
 
-
-
 ## Background
 
 The Corroded Crown's path to their current position involved:
@@ -121,36 +146,6 @@ The Corroded Crown's path to their current position involved:
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
 
 ## Motivations
 
@@ -161,8 +156,6 @@ The Corroded Crown's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 The Corroded Crown harbors secrets that could change everything:
@@ -170,10 +163,6 @@ The Corroded Crown harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Lost memory
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -192,8 +181,6 @@ The Corroded Crown is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: The Corroded Crown needs assistance with a delicate matter
@@ -202,8 +189,6 @@ The Corroded Crown is currently engaged in:
 4. **The Alliance**: Opportunity to work with or against The Corroded Crown
 5. **The Crisis**: The Corroded Crown is caught in a situation requiring intervention
 
-
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -211,8 +196,6 @@ The Corroded Crown is currently engaged in:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
 
 ## Statistics (D&D 5e)
 
@@ -240,18 +223,21 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
 
 
+## Bloodline
+
+Member of House Lionblood - Trait: divine blood
 
 
-## Relationship Web
+## Cultural Practices
 
-- [[Sister Morwyn Veilkeeper]]: *former lover*
-- [[04_Resources_Assets_Locations_location-city-scribe-master-elena-truthkeeper-v1-scribe-master-elena-truthkeeper.svg]]: *sworn enemy*
-- [[04_Resources_Assets_Portraits_portrait-npc-director-of-experimental-procedures-dr-siren-voidtouch-director-of-experimental-procedures-dr-siren-voidtouch.svg]]: *childhood friend*
-- [[The Deepmind Conspiracy]]: *mentor*
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
 
-## Connections
-
-- [[Vex Shadowthorn]]
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon

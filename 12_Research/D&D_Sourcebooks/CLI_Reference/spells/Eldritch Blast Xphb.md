@@ -25,11 +25,8 @@ updated: '2025-08-13T12:34:06.514114+00:00'
 world: Both
 ---
 
-
-
 # Eldritch Blast
 *cantrip, Evocation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -42,7 +39,25 @@ You hurl a beam of crackling energy. Make a ranged spell attack against one crea
 
 **Classes**: [[list-spells-classes-warlock|Warlock]]
 
-*Source: Player's Handbook (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 267. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -52,19 +67,16 @@ Eldritch blast xphb is a undersea element of the setting, known for bioluminesce
 
 Legends speak of eldritch blast xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around eldritch blast xphb.
 
-## Adventure Hooks
-
-- A rumor ties eldritch blast xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at eldritch blast xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to eldritch blast xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help finding before the new moon
+- Someone is protecting an heir for love

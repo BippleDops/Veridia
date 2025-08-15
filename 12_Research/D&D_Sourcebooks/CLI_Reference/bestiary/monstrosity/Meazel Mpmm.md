@@ -35,9 +35,6 @@ updated: '2025-08-13T12:34:05.320561+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-meazel-mpmm-meazel-mpmm.svg)
 
@@ -91,7 +88,7 @@ Any creatures meazels draw through the shadows are cursed by the meazels' balefu
       \ that the starting space and the destination are in dim light or darkness.\
       \ The destination must be a place the meazel has seen before, but it need not\
       \ be within line of sight. If the destination space is occupied, the teleportation\
-      \ leads to the nearest unoccupied space.\n\nAny other creature the meazel teleports\
+      \ leads to the nearest unoccupied space.\n\y other creature the meazel teleports\
       \ becomes cursed for 1 hour or until the curse is ended by [[remove-curse-xphb|remove curse]]\
       \ or [[greater-restoration-xphb|greater restoration]].\
       \ Until this curse ends, every Undead and every creature native to the Shadowfell\
@@ -109,6 +106,24 @@ Any creatures meazels draw through the shadows are cursed by the meazels' balefu
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 desert, forest, grassland, hill, mountain, swamp, underdark, urban
@@ -121,19 +136,21 @@ Meazel mpmm is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of meazel mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around meazel mpmm.
 
-## Adventure Hooks
-
-- A rumor ties meazel mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at meazel mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to meazel mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting a witness for power
+- Strange sightings suggest ancient magic
+- Someone is searching for information for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

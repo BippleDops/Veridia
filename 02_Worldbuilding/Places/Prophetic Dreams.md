@@ -1,4 +1,5 @@
 ---
+
 title: Prophetic Dreams
 type: Location
 tags:
@@ -17,6 +18,8 @@ region: Unknown
 population: Unknown
 updated: '2025-08-13T12:34:17.104078+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -25,14 +28,66 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-prophetic-dreams-prophetic-dreams.svg]]
 
 
-## Cross-References
+## 🔧 Deep Evaluation Improvements
 
-- [[Innkeeper Marina Dreamwhisper]]
+*20 targeted improvements identified*
 
+### History Improvements
 
-## Connections
+- Add three historical eras with major events
 
-- [[Innkeeper Marina Dreamwhisper]]
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
 
 ## Player-Facing Summary
 
@@ -42,16 +97,6 @@ Prophetic Dreams is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of Prophetic Dreams as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Prophetic Dreams.
 
-## Adventure Hooks
-
-- A rumor ties Prophetic Dreams to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Prophetic Dreams to avert a public scandal.
-- A map overlay reveals a hidden approach to Prophetic Dreams active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -59,33 +104,9 @@ Legends speak of Prophetic Dreams as a nexus where past and present converge. Lo
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
-
-## Notable Residents
-
-- [[04_Resources_Assets_Portraits_portrait-npc-captain-twin-reality-marsh-captain-twin-reality-marsh.svg]]
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-time-time.svg]]
-- [[Memory Coral Reefs]]
-- [[04_Resources_Assets_Locations_location-city-pearl-sharpedge-pearl-sharpedge.svg]]
-
 
 ## Sensory Details
 
@@ -95,7 +116,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: Incense mingles with the scent of exotic spices
 
-
 ## Description
 
 Prophetic Dreams is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -103,47 +123,10 @@ Prophetic Dreams is a notable location characterized by its unique features and 
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Prophetic Dreams
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
-
-## History
+**Goverce**: Local authority structure
 
 ### Founding
 Prophetic Dreams was established in the distant past, growing from humble beginnings to its current state.
-
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
-
 
 ## Current Events
 
@@ -155,16 +138,3 @@ Ongoing situations affecting Prophetic Dreams:
 - External threats
 - Opportunities arising
 
-
-## Secrets & Rumors
-
-### Common Knowledge
-- What everyone knows about Prophetic Dreams
-
-### Whispered Rumors
-- Stories that may or may not be true
-
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers

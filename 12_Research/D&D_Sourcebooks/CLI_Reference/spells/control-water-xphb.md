@@ -36,10 +36,8 @@ updated: '2025-08-12T23:37:36.289359'
 world: Both
 ---
 
-
 # Control Water
 *4th-level, Transmutation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 300 feet
@@ -47,6 +45,24 @@ world: Both
 - **Duration:** Concentration, up to 10 minutes
 
 Until the spell ends, you control any water inside an area you choose that is a [[cube-area-of-effect-xphb|Cube]] up to 100 feet on a side, using one of the following effects. As a [[actions#Magic|Magic]] action on your later turns, you can repeat the same effect or choose a different one.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Flood
 
@@ -70,7 +86,7 @@ You cause a whirlpool to form in the center of the area, which must be at least 
 
 **Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-tempest-domain "class=XPHB"|Cleric (Tempest Domain)]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-circle-of-the-sea-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Sea)]]; [[list-spells-classes-wizard|Wizard]]
 
-*Source: Player's Handbook (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 256. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -80,18 +96,9 @@ Control water xphb is a undersea element of the setting, known for bioluminescen
 
 Legends speak of control water xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around control water xphb.
 
-## Adventure Hooks
-
-- A rumor ties control water xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at control water xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to control water xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

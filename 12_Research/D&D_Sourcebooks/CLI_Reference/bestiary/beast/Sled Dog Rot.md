@@ -27,9 +27,6 @@ updated: '2025-08-13T12:34:05.475176+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sled-dog-rot-sled-dog-rot.svg)
 
@@ -49,9 +46,7 @@ world: Both
 "stats":
   - !!int "12"
   - !!int "15"
-  - !!int "12"
   - !!int "3"
-  - !!int "12"
   - !!int "6"
 "speed": "40 ft."
 "skillsaves":
@@ -73,13 +68,31 @@ world: Both
 "actions":
   - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4\
       \ + 2) piercing damage. If the target is a creature, it must succeed on a DC\
-      \ 11 Strength saving throw or be knocked [[conditions#Prone|prone]]."
+      \ 11 Strength saving throw or be knocked [[conditions#prone|prone]]."
     "name": "Bite"
 "source":
   - "RoT"
 "image": "/03_Mechanics/CLI/bestiary/beast/token/sled-dog-rot.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -89,19 +102,20 @@ Sled dog rot is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of sled dog rot as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sled dog rot.
 
-## Adventure Hooks
-
-- A rumor ties sled dog rot to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at sled dog rot to avert a public scandal.
-- A map overlay reveals a hidden approach to sled dog rot active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows

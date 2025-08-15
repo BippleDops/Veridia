@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.404868+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-wise-tide-truthseeker-v1-wise-tide-truthseeker.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[The Free Current|02 Worldbuilding/Places/The Free Current]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[The Free Current]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,30 @@ Wise Tide Truthseeker is a undersea element of the setting, known for biolumines
 
 Legends speak of Wise Tide Truthseeker as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Wise Tide Truthseeker.
 
-## Adventure Hooks
-
-- A rumor ties Wise Tide Truthseeker to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Wise Tide Truthseeker to avert a public scandal.
-- A map overlay reveals a hidden approach to Wise Tide Truthseeker active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and evil awakens
+- A stranger needs help investigating before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

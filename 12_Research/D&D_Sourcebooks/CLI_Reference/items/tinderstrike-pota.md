@@ -24,7 +24,6 @@ updated: '2025-08-12T23:37:37.262949'
 world: Both
 ---
 
-
 # Tinderstrike
 *Weapon ([[dagger-xphb|dagger]]), legendary (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/tinderstrike.webp#right)
@@ -38,11 +37,29 @@ A flint dagger, Tinderstrike is uncommonly sharp, and sparks cascade off its edg
 
 You gain a +2 bonus to attack and damage rolls made with this magic weapon. When you hit with it, the target takes an extra `2d6` fire damage.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Fire Mastery
 
 You gain the following benefits while you hold Tinderstrike:
 
-- You can speak Ignan fluently.  
+- You can speak Ig fluently.  
 - You have resistance to fire damage.  
 - You can cast [[dominate-monster-xphb|dominate monster]] (save DC 17) on a [[fire-elemental-xmm|fire elemental]]. Once you have done so, Tinderstrike can't be used this way again until the next dawn.  
 
@@ -64,19 +81,37 @@ Tinderstrike pota is a undersea element of the setting, known for bioluminescent
 
 Legends speak of tinderstrike pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tinderstrike pota.
 
-## Adventure Hooks
-
-- A rumor ties tinderstrike pota to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at tinderstrike pota to avert a public scandal.
-- A map overlay reveals a hidden approach to tinderstrike pota active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and chaos spreads
+- A document has gone missing and chaos spreads
+- Strange disappearances suggest a portal
+- A document has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

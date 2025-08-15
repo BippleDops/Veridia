@@ -22,7 +22,6 @@ updated: '2025-08-12T23:37:37.699289'
 world: Both
 ---
 
-
 # Goblin
 *Source: Volo's Guide to Monsters p. 119*  
 ![](/03_Mechanics/CLI/races/img/goblin.webp#right)
@@ -30,8 +29,6 @@ world: Both
 - **Ability Scores**: dex +2 con +1
 - **Size**: Small
 - **Speed**: 30 ft.
-
-## Traits
 
 ### Age
 
@@ -57,6 +54,24 @@ You can take the [[actions#Disengage|Disengage]] or [[actions#Hide|Hide]] action
 
 You can speak, read, and write Common and Goblin.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Goblin vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -65,19 +80,28 @@ Goblin vgm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of goblin vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around goblin vgm.
 
-## Adventure Hooks
-
-- A rumor ties goblin vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at goblin vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to goblin vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

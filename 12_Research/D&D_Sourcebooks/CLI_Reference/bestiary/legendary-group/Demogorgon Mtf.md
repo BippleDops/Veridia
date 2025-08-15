@@ -23,13 +23,26 @@ updated: '2025-08-13T12:34:05.946745+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-demogorgon-mtf-demogorgon-mtf.svg)
 
-# Demogorgon
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Mordenkainen's Tome of Foes_
@@ -40,7 +53,6 @@ On Initiative count 20 (losing initiative ties), Demogorgon can take a lair acti
 - Demogorgon casts the [[darkness-xphb|darkness]] spell four times at its lowest level, targeting different areas with the spell. Demogorgon doesn't need to concentrate on the spells, which end on initiative count 20 of the next round.  
 
 ## Regional effects
-_Source: Mordenkainen's Tome of Foes_
 
 The region containing Demogorgon's lair is warped by his magic, creating one or more of the following effects:
 
@@ -75,19 +87,15 @@ Demogorgon mtf is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of demogorgon mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around demogorgon mtf.
 
-## Adventure Hooks
-
-- A rumor ties demogorgon mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at demogorgon mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to demogorgon mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

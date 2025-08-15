@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.596092'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-undead-spirit-ghostly-xphb-undead-spirit-ghostly-xphb.svg)
 
@@ -51,7 +49,7 @@ world: Both
 "speed": "30 ft., fly 40 ft. (hover)"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages you know"
@@ -66,13 +64,31 @@ world: Both
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: Bonus equals your spell attack modifier, reach 5\
       \ ft. Hit: 1d8 + 3 + the spell's level Necrotic damage, and the target has\
-      \ the [[conditions#Frightened|Frightened]] condition until\
+      \ the [[conditions#frightened|Frightened]] condition until\
       \ the end of its next turn."
     "name": "Deathly Touch"
 "source":
   - "XPHB"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -82,19 +98,26 @@ Undead spirit ghostly xphb is a undersea element of the setting, known for biolu
 
 Legends speak of undead spirit ghostly xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around undead spirit ghostly xphb.
 
-## Adventure Hooks
-
-- A rumor ties undead spirit ghostly xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at undead spirit ghostly xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to undead spirit ghostly xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting an heir for revenge
+- Strange dreams suggest a conspiracy
+- Someone is hunting a witness for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

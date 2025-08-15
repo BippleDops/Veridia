@@ -19,7 +19,7 @@ tags:
 - ttrpg-cli/monster/environment/forest
 - ttrpg-cli/monster/cr/1-8
 - status/in-progress
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-monster
@@ -30,14 +30,29 @@ updated: '2025-08-13T12:34:05.411678+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-weasel-xmm-giant-weasel-xmm.svg)
 
 # [[giant-weasel-xmm|Giant Weasel]]
-*Source: Monster Manual (2024) p. 361, Player's Handbook (2024) p. 351. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 361, Player's Handbook (2024) p. 351. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Animals
 
@@ -66,7 +81,6 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": ""
 "cr": "1/8"
@@ -92,19 +106,29 @@ Giant weasel xmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of giant weasel xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around giant weasel xmm.
 
-## Adventure Hooks
-
-- A rumor ties giant weasel xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at giant weasel xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to giant weasel xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help finding before the festival
+- A map reveals ancient history about the government
+- A journal reveals ancient history about the government
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

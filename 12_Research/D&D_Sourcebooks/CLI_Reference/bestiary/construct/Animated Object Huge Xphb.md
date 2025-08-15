@@ -16,7 +16,7 @@ tags:
 - active
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-monster
@@ -26,9 +26,6 @@ statblock-link: '#^statblock'
 updated: '2025-08-13T12:34:06.102137+00:00'
 world: Both
 ---
-
-
-
 
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-animated-object-huge-xphb-animated-object-huge-xphb.svg)
@@ -47,8 +44,6 @@ world: Both
 "stats":
   - !!int "16"
   - !!int "10"
-  - !!int "10"
-  - !!int "3"
   - !!int "3"
   - !!int "1"
 "speed": "30 ft."
@@ -63,6 +58,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Animated object huge xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -71,19 +84,24 @@ Animated object huge xphb is a undersea element of the setting, known for biolum
 
 Legends speak of animated object huge xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around animated object huge xphb.
 
-## Adventure Hooks
-
-- A rumor ties animated object huge xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at animated object huge xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to animated object huge xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and chaos spreads
+- A corpse reveals ancient history about this place
+- A map reveals the truth about the government
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

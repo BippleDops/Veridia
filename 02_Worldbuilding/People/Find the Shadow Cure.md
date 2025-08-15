@@ -1,4 +1,5 @@
 ---
+
 title: Find the Shadow Cure
 type: Npc
 tags:
@@ -27,6 +28,8 @@ created_by: auto-stub
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.603267+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -34,10 +37,74 @@ world: Aquabyssos
 > [!figure] Portrait
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-find-the-shadow-cure-find-the-shadow-cure.svg]]
 
-
 # Find the Shadow Cure
 
 **Level:** 6-9 | **Type:** Quest/Research | **Duration:** 3-4 sessions
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
 
 ## Overview
 A virulent shadow corruption is spreading through Aquabyssos, causing victims to slowly fade into incorporeal darkness. Traditional healing fails against this supernatural affliction. The quest involves researching ancient texts, gathering rare components, and confronting the corruption's source to develop a cure.
@@ -58,38 +125,11 @@ A virulent shadow corruption is spreading through Aquabyssos, causing victims to
 4. **Victim Interviews** - Learning from those still coherent
 5. **Religious Consultation** - Divine insights into darkness/light balance
 
-## Required Components
-- **Sunwell Water** - From the deepest ocean thermal vents
-- **Silver Moonshade** - Rare flower blooming only during eclipses
-- **Purified Shadow Essence** - Extracted from willing shadow creature
-- **Crystal of Binding Light** - Artifact from ancient temple
-- **Tears of the Lost** - Emotional component from corruption victims
-
-## Key Encounters
-- **Shadow Cultists** (Combat CR 7) - Those who worship the corruption
-- **Corrupted Guardian** (Combat CR 8) - Protector of needed component
-- **Willing Shadow** (Social) - Negotiating with shadow creature
-- **Time Pressure** - More victims succumb daily
-
 ## The Source
 Corruption originates from ancient shadow artifact accidentally disturbed during construction. Must be properly sealed or destroyed.
 
 ## Cure Creation
 Completed cure requires master-level alchemy check and ritual casting involving all party members and willing volunteers.
-
-## Success Outcomes
-- All current victims cured
-- Shadow corruption source contained
-- Medical breakthrough prevents future outbreaks
-- Enhanced reputation with healing organizations
-
-## Failure Consequences
-- Corruption spreads city-wide
-- Shadow realm begins merging with material plane
-- Massive loss of life and social structure
-- Party may become corrupted themselves
-
-
 
 ## Background
 
@@ -100,36 +140,6 @@ Find the Shadow Cure's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Discovering truth
@@ -139,8 +149,6 @@ Find the Shadow Cure's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Find the Shadow Cure harbors secrets that could change everything:
@@ -148,10 +156,6 @@ Find the Shadow Cure harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Dark patron
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -170,8 +174,6 @@ Find the Shadow Cure is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Find the Shadow Cure needs assistance with a delicate matter
@@ -180,8 +182,6 @@ Find the Shadow Cure is currently engaged in:
 4. **The Alliance**: Opportunity to work with or against Find the Shadow Cure
 5. **The Crisis**: Find the Shadow Cure is caught in a situation requiring intervention
 
-
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -189,8 +189,6 @@ Find the Shadow Cure is currently engaged in:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
 
 ## Statistics (D&D 5e)
 
@@ -217,61 +215,6 @@ cr: 1/4
 ## DM Notes
 Emphasize research and preparation over combat. The quest rewards careful investigation and creative problem-solving while building tension through the spreading corruption.
 
-
-
-
-## Relationship Web
-
-- [[Quest - The Diplomatic Immunity Case]]: *informant*
-- [[The Tidecaller]]: *sworn enemy*
-- [[Enforcer Chief Mako Ironjaw]]: *debt holder*
-
-## Connections
-
-- [[Senator_Glaucus_Brain|Senator Glaucus Brain]]
-
-
-## Appearance
-
-
-TODO
-
-
-## Personality
-
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward manipulation
-
-
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward confrontation
-
-
-
-TODO
-
-
-## Goals
-
-
-TODO
-
-
-## Relationships
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 Find the Shadow Cure is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -280,14 +223,44 @@ Find the Shadow Cure is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Find the Shadow Cure as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Find the Shadow Cure.
 
-## Adventure Hooks
 
-- A rumor ties Find the Shadow Cure to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Find the Shadow Cure to avert a public scandal.
-- A map overlay reveals a hidden approach to Find the Shadow Cure active only during specific tides/storms.
+## Secret Connections
 
-## Cross-References
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
 
-- [[Find the Shadow Cure]]
 
-<!-- enriched: true -->
+## Bloodline
+
+Member of House Lionblood - Trait: divine blood
+
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

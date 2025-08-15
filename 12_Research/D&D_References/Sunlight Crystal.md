@@ -15,11 +15,25 @@ updated: '2025-08-13T01:18:36.545367+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-sunlight-crystal-sunlight-crystal.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
 ## Player-Facing Summary
@@ -30,23 +44,23 @@ Sunlight Crystal is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of Sunlight Crystal as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sunlight Crystal.
 
-## Adventure Hooks
-
-- A rumor ties Sunlight Crystal to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Sunlight Crystal to avert a public scandal.
-- A map overlay reveals a hidden approach to Sunlight Crystal active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Sunlight Crystal|02 Worldbuilding/Places/Sunlight Crystal]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

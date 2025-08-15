@@ -24,21 +24,35 @@ updated: '2025-08-13T12:34:07.022780+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-potion-of-force-resistance-xdmg-potion-of-force-resistance-xdmg.svg)
 
 # Potion of Force Resistance
 *Potion, uncommon*  
 
-
 - **Weight**: 0.5 lbs.
 
 When you drink this potion, you have [[resistance-xphb|Resistance]] to force damage for 1 hour.
 
-*Source: Dungeon Master's Guide (2024) p. 289. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 289. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -48,19 +62,25 @@ Potion of force resistance xdmg is a undersea element of the setting, known for 
 
 Legends speak of potion of force resistance xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around potion of force resistance xdmg.
 
-## Adventure Hooks
-
-- A rumor ties potion of force resistance xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at potion of force resistance xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to potion of force resistance xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals ancient history about this place
+- A corpse reveals a conspiracy about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -1,4 +1,5 @@
 ---
+
 title: The Shadow Surgeons
 type: Npc
 tags:
@@ -14,6 +15,7 @@ tags:
 - active
 - complete
 - world/aquabyssos
+- bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -26,6 +28,8 @@ created_by: auto-stub
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.570524+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -33,10 +37,80 @@ world: Aquabyssos
 > [!figure] Portrait
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-shadow-surgeons-the-shadow-surgeons.svg]]
 
-
 # The Shadow Surgeons
 
 *"Where light fails to heal, shadow mends what should not be broken." - Chief Surgeon Mortis Voidcut*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
 
 ## Overview
 The Shadow Surgeons operate as an underground medical organization specializing in procedures deemed too dangerous, experimental, or ethically questionable for legitimate practitioners. Working from hidden clinics throughout Aquabyssos's darker districts, they offer services ranging from illegal enhancements to life-saving operations rejected by conventional medicine. Their motto "Any Life, Any Price" reflects their willingness to attempt procedures others won't consider.
@@ -49,13 +123,6 @@ Established by exiled medical professionals and self-taught practitioners, the o
 **Field Surgeons:** Experienced practitioners handling most operations
 **Apprentice Cutters:** Students learning forbidden techniques
 **Procurement Specialists:** Acquire rare materials and test subjects
-
-### Specialization Areas
-- **Life Extension:** Prolonging existence through unnatural means
-- **Enhancement Surgery:** Grafting and modification procedures
-- **Soul Repair:** Spiritual healing using dark magic
-- **Memory Alteration:** Surgical modification of consciousness
-- **Resurrection Attempts:** Experimental revival techniques
 
 ## Facilities and Operations
 **The Deep Ward:** Primary surgical facility in abandoned hospital
@@ -137,8 +204,6 @@ The organization has seen increased demand due to Crystal Plague cases rejected 
 ## Roleplaying Notes
 Shadow Surgeons are typically pragmatic and detached, focused on medical problems rather than moral implications. They speak in clinical terms even about disturbing procedures, viewing their work as necessary service rather than evil practice. Higher-ranking members may show genuine care for patients despite questionable methods.
 
-
-
 ## Background
 
 The Shadow Surgeons's path to their current position involved:
@@ -147,36 +212,6 @@ The Shadow Surgeons's path to their current position involved:
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
 
 ## Motivations
 
@@ -187,8 +222,6 @@ The Shadow Surgeons's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 The Shadow Surgeons harbors secrets that could change everything:
@@ -196,10 +229,6 @@ The Shadow Surgeons harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Double agent
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -218,8 +247,6 @@ The Shadow Surgeons is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: The Shadow Surgeons needs assistance with a delicate matter
@@ -228,8 +255,6 @@ The Shadow Surgeons is currently engaged in:
 4. **The Alliance**: Opportunity to work with or against The Shadow Surgeons
 5. **The Crisis**: The Shadow Surgeons is caught in a situation requiring intervention
 
-
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -237,8 +262,6 @@ The Shadow Surgeons is currently engaged in:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
 
 ## Statistics (D&D 5e)
 
@@ -263,58 +286,7 @@ cr: 1/4
 ```
 
 ## DM Notes
-The Shadow Surgeons provide excellent opportunities for moral dilemmas and desperate solutions. They can offer critical healing when conventional methods fail, but at significant ethical and financial costs. Use them to explore themes of medical ethics, the price of survival, and the gray areas between helping and harming.
-
-
-
-
-## Relationship Web
-
-- [[04_Resources_Assets_Locations_location-city-merchant-lord-silas-copperfield-v1-merchant-lord-silas-copperfield.svg]]: *business partner*
-- [[Refugee Camps]]: *student*
-- [[04_Resources_Assets_Symbols_symbol-heraldry-information-exchange-information-exchange.svg]]: *bitter rival*
-
-## Connections
-
-- [[Fear Farms]]
-- [[The Final Choice]]
-- [[Rescue Senator Glaucus]]
-
-
-## Appearance
-
-
-TODO
-
-
-## Personality
-
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward negotiation
-
-
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward manipulation
-
-
-
-TODO
-
-
-## Goals
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
+The Shadow Surgeons provide excellent opportunities for moral dilemmas and desperate solutions. They can offer critical healing when conventional methods fail, but at significant ethical and ficial costs. Use them to explore themes of medical ethics, the price of survival, and the gray areas between helping and harming.
 
 ## Player-Facing Summary
 
@@ -328,5 +300,40 @@ Legends speak of The Shadow Surgeons as a nexus where past and present converge.
 
 - [[The Shadow Surgeons]]
 
-<!-- enriched: true -->
 nriched: true -->
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
+
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

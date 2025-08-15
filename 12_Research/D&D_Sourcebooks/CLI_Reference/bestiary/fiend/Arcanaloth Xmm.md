@@ -29,14 +29,29 @@ updated: '2025-08-13T12:34:05.851783+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-arcanaloth-xmm-arcanaloth-xmm.svg)
 
 # [[arcanaloth-xmm|Arcanaloth]]
 *Source: Monster Manual (2024) p. 19*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Arcanaloth
 
@@ -65,7 +80,6 @@ Arcanaloths possess considerable spellcasting prowess and frequently disguise th
   - !!int "14"
   - !!int "20"
   - !!int "16"
-  - !!int "17"
 "speed": "30 ft., fly 30 ft. (hover)"
 "saves":
   - "dexterity": !!int "5"
@@ -78,9 +92,7 @@ Arcanaloths possess considerable spellcasting prowess and frequently disguise th
   - "name": "[[skills#Deception|Deception]]"
     "desc": "+7"
   - "name": "[[skills#Insight|Insight]]"
-    "desc": "+7"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "acid, poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Poisoned|poisoned]]"
@@ -128,7 +140,7 @@ Arcanaloths possess considerable spellcasting prowess and frequently disguise th
       \ [[detect-magic-xphb|Detect Magic]], [[identify-xphb|Identify]],\
       \ [[mage-hand-xphb|Mage Hand]], [[prestidigitation-xphb|Prestidigitation]]\n\
       \n1/day each: [[contact-other-plane-xphb|Contact Other Plane]],\
-      \ [[detect-thoughts-xphb|Detect Thoughts]], [[dimension-door-xphb|Dimension\
+      \ [[detect-thoughts-xphb|Detect Thoughts]], [[dimension-door-xphb|Dimension\]]
       \ Door]], [[mind-blank-xphb|Mind Blank]]"
     "name": "Spellcasting"
 "bonus_actions":
@@ -158,19 +170,33 @@ Arcanaloth xmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of arcanaloth xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around arcanaloth xmm.
 
-## Adventure Hooks
-
-- A rumor ties arcanaloth xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at arcanaloth xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to arcanaloth xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

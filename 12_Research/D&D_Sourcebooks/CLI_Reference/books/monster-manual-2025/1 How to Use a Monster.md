@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:05.160153+00:00'
 world: Both
 ---
 
-
-
 # How to Use a Monster
 *Source: Monster Manual (2025), p. 5* 
 
@@ -36,7 +34,6 @@ Official D&D adventures refer to the monsters in this book, and you may use thes
 > [!note] What's New in the 2025 Version?
 > 
 > This is the 2025 version of the fifth edition *Monster Manual*. If you've read the 2014 version, much of this book will feel familiar, since the fundamental rules and variety of monsters are the same. Much of the book contains new or redesigned elements, and the monsters herein replace versions from older books. Here are highlights:
-> 
 > - **More Monsters.** The number of monsters has increased to more than 500 stat blocks.  
 > - **New Monsters.** Dozens of new monsters, including more high-level threats, are ready to challenge characters of all levels.  
 > - **Refined Rules.** Every stat block has been updated for ease of use and game balance.  
@@ -44,9 +41,26 @@ Official D&D adventures refer to the monsters in this book, and you may use thes
 > - **Versatile Groups.** Nonplayer characters now appear alongside other monsters and can represent individuals of any Humanoid species.  
 > - **Improved Organization.** Monsters are now organized alphabetically by their name. Variations on the same monster are grouped together.  
 > - **Expanded Lists.** "Appendix B" collects and expands lists of monster details that appeared in the 2014 "Dungeon Master's Guide".  
-> 
 > Every monster in the 2014 *Monster Manual* appears in this book or has a CR-appropriate replacement detailed in "appendix B".
 ^whats-new-in-the-2025-version
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Stat Block Overview
 
@@ -201,9 +215,7 @@ You may equip monsters with additional gear however you like, using the equipmen
 Beware of giving a monster combat-oriented magic items, since those might alter the monster's [[challenge-rating-xphb|Challenge Rating]]. If you do give a monster a magic item, the monster can have [[attunement-xphb|Attunement]] with magic items as noted in the "Player's Handbook". A monster with a class tag after its creature type is considered a member of that class for [[attunement-xphb|Attunement]] purposes.
 
 > [!note] Running a Monster
-> 
 > To ensure a monster acts in accordance with its [[challenge-rating-xphb|Challenge Rating]], follow these rules during combat:
-> 
 > - **Special Abilities.** If the monster has a special ability that deals a lot of damage but has a limited number of uses, such as a recharging breath weapon or a spell it can cast only once per day, have it use that special ability as quickly and as often as possible.  
 > - **Multiattack.** If the monster has Multiattack, have it use Multiattack on any of its turns in which it's not using one of its more powerful abilities.  
 > - **Bonus Actions, Reactions, Legendary Actions.** If the monster has Bonus Actions, Reactions, or Legendary Actions in its stat block, make sure it uses them as often as it can.  
@@ -321,19 +333,26 @@ Some parts of a stat block have restrictions on the number of times they can be 
 
 Legends speak of 1 how to use a monster as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 1 how to use a monster.
 
-## Adventure Hooks
-
-- A rumor ties 1 how to use a monster to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 1 how to use a monster to avert a public scandal.
-- A map overlay reveals a hidden approach to 1 how to use a monster active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals a betrayal about the government
+- Strange dreams suggest a conspiracy
+- A noble needs help investigating before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

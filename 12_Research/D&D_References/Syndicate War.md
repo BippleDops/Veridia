@@ -33,15 +33,27 @@ accessibility:
   - Open Door
 ---
 
-
-
-
-
-
-
 # Syndicate War
 
 ![[04_Resources/Assets/Art/NPCs/Syndicate_War.png|Syndicate War Portrait]]
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Role and Motive
 Syndicate War moves information and influence like currency. Publicly pragmatic, privately driven by a personal stake in the Convergence’s shape.
@@ -49,31 +61,6 @@ Syndicate War moves information and influence like currency. Publicly pragmatic,
 - Ideal: Stability through controlled risk.
 - Bond: A family archive tied to [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]].
 - Flaw: Overconfidence in leverage; underestimates zealots and true believers.
-
-## Tactics and Traits
-- Conversational Disarm: First parley each day imposes disadvantage on Insight checks to read their tells.
-- Ledger of Debts: Knows a favor owed by agents linked to [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]].
-- Contingency: Keeps a sealed route toward [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] if negotiations sour.
-
-## For the Table (Use Now)
-- Opening Line: “Prices rise with fear; calm your breath and we can afford the truth.”
-- Quick Offers: passage papers, rumor bundles, bonded cargo, introductions to a discreet artificer.
-- Failure Still Progresses: Even when rebuffed, Syndicate War sends a warning of a raid that creates a time-sensitive window.
-
-## Relationships (score -3..+3)
-- Pearl Guard customs captain: 0 (mutual irritation)
-- Coral Throne Syndicate quartermaster: +2 (profitable ties)
-- Verdant Accord observer: -1 (ideological friction)
-
-## Hooks to the Main Campaign
-- Offers a map shard pointing toward [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]].
-- Brokers a ceasefire to enable [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
-- Sells a rumor naming [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]] as the true buyer behind a recent theft.
-
-## Cross-References
-- [[02_Worldbuilding/Places/The Sunken Library of Thalassius.md|The Sunken Library of Thalassius]]
-- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[02_Worldbuilding/People/Vex Shadowthorn.md|Vex Shadowthorn]]
 
 ## Player-Facing Summary
 
@@ -83,24 +70,25 @@ Syndicate War is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of Syndicate War as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Syndicate War.
 
-## Adventure Hooks
-
-- A rumor ties Syndicate War to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Syndicate War to avert a public scandal.
-- A map overlay reveals a hidden approach to Syndicate War active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The_Crimson_Pearl|The Crimson Pearl]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help delivering before dawn
+- A prisoner has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

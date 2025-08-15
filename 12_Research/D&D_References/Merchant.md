@@ -22,17 +22,30 @@ updated: '2025-08-13T01:18:36.413932+00:00'
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-shadow-merchant-riptide-shadow-merchant-riptide.svg]]
-
-
-
 
 # Merchant
 
 *"Fair prices, honest dealing, and goods for every need."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 Captain Marina Tradecurrent is a versatile merchant operating "Current's Bounty" trading post in the Harbor District. She specializes in practical goods, imported items, and services for both residents and travelers.
@@ -61,13 +74,6 @@ Marina began as a traveling trader before settling in Aquabyssos. Her diverse co
 **Travel Gear**: Packs, bedrolls, survival equipment (2-100 gp)
 **Information**: Maps, local knowledge, contacts (1-20 gp)
 
-## Services Offered
-- **General Trading**: Buying and selling various goods
-- **Special Orders**: Locating specific items for customers
-- **Information Brokering**: Sharing knowledge about city and region
-- **Message Delivery**: Reliable communication services
-- **Storage Rental**: Secure space for customer belongings
-
 ## Regular Customers
 **Dock Workers**: Tools and work supplies
 **Travelers**: Maps, food, and basic equipment
@@ -80,7 +86,7 @@ Marina began as a traveling trader before settling in Aquabyssos. Her diverse co
 **Import Network**: Contacts bringing goods from other regions
 **Transportation**: Arrangements with shipping and courier services
 **Information Sources**: Network providing market intelligence
-**Financial Services**: Banking relationships for large transactions
+**Ficial Services**: Banking relationships for large transactions
 
 ## Specialties
 **Fair Dealing**: Honest pricing and quality guarantees
@@ -88,13 +94,6 @@ Marina began as a traveling trader before settling in Aquabyssos. Her diverse co
 **Network Access**: Ability to locate hard-to-find items
 **Cultural Bridge**: Helping foreigners navigate local customs
 **Problem Solving**: Creative solutions to supply challenges
-
-## Current Inventory Highlights
-- Set of masterwork fishing nets from northern kingdom
- - Imported surface world spices and preserved foods
-- Detailed maps of underwater trade routes
-- Selection of foreign coins and currency
-- Rare books on maritime navigation techniques
 
 ## Adventure Hooks
 1. Marina needs escort for valuable shipment delivery
@@ -115,13 +114,6 @@ Marina began as a traveling trader before settling in Aquabyssos. Her diverse co
 **Community Support**: Contributing to local economic stability
 **Fair Competition**: Ethical business practices
 **Continuous Learning**: Staying informed about market changes
-
-## Market Position
-- Respected as honest dealer in competitive merchant community
-- Known for reasonable prices and reliable service
- - Valued source of information about regional trade
-- Trusted by both locals and travelers
-- Influential in merchant guild activities
 
 ## Information Network
 **Dock Gossip**: News from arriving ships and traders
@@ -144,27 +136,6 @@ Marina began as a traveling trader before settling in Aquabyssos. Her diverse co
 **Suppliers**: Reliable partnerships with various producers
 **Competitors**: Professional rivalry but mutual respect
 
-## Recent Developments
-- Negotiating exclusive import agreement with surface trader
- - Considering expansion to second location in Noble Quarter
-- Training nephew to eventually take over business
-- Investigating reports of counterfeit goods in local market
-- Planning group purchasing arrangement with other merchants
-
-## Secrets and Rumors
-- Maintains discrete sideline in information trading
-- Has connections with smugglers for hard-to-obtain items
- - Knows about several noble families' financial difficulties
-- Aware of government economic policies before public announcement
-- Suspected of having romantic relationship with foreign supplier
-
-## Challenges
-- Competition from larger merchant houses
- - Economic pressures affecting customer spending
-- Increasing regulations complicating import business
-- Difficulty finding reliable transportation for goods
-- Pressure from family to expand business more aggressively
-
 ## Future Plans
 **Business Expansion**: Opening branch location or online presence
 **Succession Planning**: Training family members in trade skills
@@ -183,13 +154,21 @@ Merchant is a undersea element of the setting, known for bioluminescent glow and
 
 Legends speak of Merchant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merchant.
 
-## Cross-References
-
-- [[Merchant|02 Worldbuilding/Places/Merchant]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

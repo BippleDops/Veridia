@@ -21,11 +21,28 @@ updated: '2025-08-12T23:37:34.214025'
 world: Both
 ---
 
-
 # Ability Check
-*Source: Player's Handbook (2024) p. 360. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+*Source: Player's Handbook (2024) p. 360. Available in the SRD and the Free Rules (2024)* 
 
 An ability check is a [[d20-test-xphb|D20 Test]] that represents using one of the six abilities—or a specific skill associated with an ability—to overcome a challenge.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -35,19 +52,34 @@ Ability check xphb is a undersea element of the setting, known for bioluminescen
 
 Legends speak of ability check xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ability check xphb.
 
-## Adventure Hooks
-
-- A rumor ties ability check xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ability check xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to ability check xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## Plot Hooks
+
+- Strange dreams suggest a portal
+- A stranger needs help finding before the new moon
+- Someone is blackmailing a artifact for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

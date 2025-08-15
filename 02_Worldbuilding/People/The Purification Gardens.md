@@ -1,4 +1,5 @@
 ---
+
 title: The Purification Gardens
 type: Npc
 tags:
@@ -26,6 +27,8 @@ created_by: auto-stub
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.625516+00:00'
 world: Aethermoor
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -33,10 +36,77 @@ world: Aethermoor
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-purification-gardens-the-purification-gardens.svg)
 
-
 # The Purification Gardens
 
 *"In cleansed soil, pure intentions take root." - Gardener Serenity*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
 
 ## Overview
 The Purification Gardens serve as Aethermoor's sacred healing sanctuary, where magical plants and purified water sources work together to cleanse corruption from body, mind, and spirit. Maintained by an order of dedicated gardener-priests, these grounds offer hope to those afflicted by magical diseases, curses, and spiritual ailments.
@@ -81,26 +151,12 @@ The Purification Gardens serve as Aethermoor's sacred healing sanctuary, where m
 **Recovery Period:** Rest and monitoring in peaceful environment
 **Final Blessing:** Spiritual protection before return to world
 
-## Current Challenges
-- Increased demand due to Crystal Plague affecting nearby regions
-- Limited space forcing difficult decisions about patient priority
-- Corruption sources becoming more resistant to traditional treatments
-- Resource strain from treating complex supernatural afflictions
-- Political pressure to treat wealthy patrons over needy pilgrims
-
 ## Visiting Restrictions
-**Donation Requirements:** Suggested offering based on financial ability
+**Donation Requirements:** Suggested offering based on ficial ability
 **Purity Standards:** Visitors must undergo preliminary cleansing
 **Behavior Codes:** Peaceful conduct and respect for sacred space
 **Time Limits:** Treatment duration depends on condition severity
 **Confidentiality:** All patient information kept strictly private
-
-## Recent Successes
-- Successfully treated victims of aberrant mind control
-- Developed new techniques for shadow corruption removal
-- Restored sight to those blinded by cursed artifacts
-- Healed psychological trauma from supernatural encounters
-- Purified contaminated water sources affecting local communities
 
 ## Adventure Hooks
 1. Party member needs treatment for curse or magical affliction
@@ -124,8 +180,6 @@ The Purification Gardens serve as Aethermoor's sacred healing sanctuary, where m
 **Academic Institutions:** Research partnerships studying purification
 **International Visitors:** Diplomatic connections through medical tourism
 
-
-
 ## Background
 
 The Purification Gardens's path to their current position involved:
@@ -134,36 +188,6 @@ The Purification Gardens's path to their current position involved:
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
 
 ## Motivations
 
@@ -174,8 +198,6 @@ The Purification Gardens's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 The Purification Gardens harbors secrets that could change everything:
@@ -183,10 +205,6 @@ The Purification Gardens harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Double agent
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -205,8 +223,6 @@ The Purification Gardens is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: The Purification Gardens needs assistance with a delicate matter
@@ -215,8 +231,6 @@ The Purification Gardens is currently engaged in:
 4. **The Alliance**: Opportunity to work with or against The Purification Gardens
 5. **The Crisis**: The Purification Gardens is caught in a situation requiring intervention
 
-
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -224,8 +238,6 @@ The Purification Gardens is currently engaged in:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
 
 ## Statistics (D&D 5e)
 
@@ -252,55 +264,6 @@ cr: 1/4
 ## DM Notes
 The Purification Gardens provide excellent opportunities for healing interlude adventures, moral dilemmas about resource allocation, and mysteries involving corruption or sabotage. Use them as safe havens where characters can recover while engaging with deeper spiritual themes.
 
-
-
-
-## Relationship Web
-
-- [[Ice Kingdom Magic]]: *childhood friend*
-- [[Lady Cordelia Windham]]: *business partner*
-
-## Connections
-
-- [[Queen Seraphina Lumengarde]]
-- [[Ancient Tunnels Beneath Palace]]
-
-
-## Appearance
-
-
-TODO
-
-
-## Personality
-
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward negotiation
-
-
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward avoidance
-
-
-
-TODO
-
-
-## Goals
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 The Purification Gardens is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -309,8 +272,30 @@ The Purification Gardens is a undersea element of the setting, known for biolumi
 
 Legends speak of The Purification Gardens as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Purification Gardens.
 
-## Cross-References
 
-- [[The Purification Gardens]]
+## Bloodline
 
-<!-- enriched: true -->
+Member of House Lionblood - Trait: divine blood
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established

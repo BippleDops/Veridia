@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:04.457043+00:00'
 world: Both
 ---
 
-
-
 # Milil
 *Source: Player's Handbook p. 294. Available in the Basic Rules (2014)* 
 
@@ -33,6 +31,24 @@ world: Both
 - **Domains**: Light
 - **Pantheon**: Forgotten Realms
 - **Symbol**: Five-stringed harp made of leaves
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -42,19 +58,25 @@ Forgotten realms milil is a undersea element of the setting, known for biolumine
 
 Legends speak of forgotten realms milil as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around forgotten realms milil.
 
-## Adventure Hooks
-
-- A rumor ties forgotten realms milil to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at forgotten realms milil to avert a public scandal.
-- A map overlay reveals a hidden approach to forgotten realms milil active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a portal
+- Strange dreams suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

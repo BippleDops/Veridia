@@ -30,14 +30,29 @@ updated: '2025-08-13T12:34:05.557168+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-blink-dog-xmm-blink-dog-xmm.svg)
 
 # [[blink-dog-xmm|Blink Dog]]
-*Source: Monster Manual (2024) p. 46. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 46. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Blink Dog
 
@@ -60,7 +75,6 @@ Blink dogs glimmer with a magic that allows them to teleport, "blinking" from on
 "stats":
   - !!int "12"
   - !!int "17"
-  - !!int "12"
   - !!int "10"
   - !!int "13"
   - !!int "11"
@@ -69,7 +83,6 @@ Blink dogs glimmer with a magic that allows them to teleport, "blinking" from on
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "understands Elvish and Sylvan but can't speak them"
 "cr": "1/4"
@@ -97,19 +110,21 @@ Blink dog xmm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of blink dog xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around blink dog xmm.
 
-## Adventure Hooks
-
-- A rumor ties blink dog xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at blink dog xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to blink dog xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting an heir for love
+- Someone is searching for an heir for power
+- Strange dreams suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

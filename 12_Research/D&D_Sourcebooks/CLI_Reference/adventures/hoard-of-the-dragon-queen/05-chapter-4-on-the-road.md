@@ -15,10 +15,7 @@ updated: '2025-08-12T23:37:34.631181'
 world: Both
 ---
 
-
-
 te
-tags:
 - ttrpg-cli/compendium/src/5e/hotdq
 aliases:
 - Chapter 4: On the Road
@@ -37,6 +34,24 @@ The characters should travel from the abandoned cult camp southeast of Greenest 
 
 On horseback, characters can travel the 200 miles from Greenest to Elturel in about six days. They make the journey without incident, unless you throw an encounter or two at them to spice up the trip or to increase their XP totals. Encounters with bandits, humanoid clans, and roving monsters are appropriate in the untamed expanses of the Greenfields.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Elturel
 
 Elturel, a large, orderly city overlooking the River Chionthar, is filled with merchants, river traders, and farmers' markets. Its most distinguishing feature is a brilliant magical light that hovers above it, illuminating it day and night. This light is painful to undead and is visible from almost every corner of Elturgard (of which Elturel is the capital), appearing from afar as a star or distant sun.
@@ -53,8 +68,7 @@ Late in the evening, after a day when Frume has been suitably impressed by the c
 
 > [!readaloud] 
 > 
-> Frume's squire shows you to a private space off the tavern's common room and closes the door when he leaves. Waiting for you in the room are the broad-shouldered human paladin, the monk Leosin, and many pitchers of dark red wine. The paladin's face wears a serious expression, unlike its usual open countenance.
-> 
+> Frume's squire shows you to a private space off the tavern's common room and closes the door when he leaves. Waiting for you in the room are the broad-shouldered human paladin, the monk Leosin, and many pitchers of dark red wine. The paladin's face wears a serious expression, unlike its usual open countece.
 > "My friends, we have important business to discuss. At this point, you know almost as much about it as we do, and thanks to you, we know twice as much today as we did a tenday ago. Something rotten is afoot. We have no formal organization to oppose these rascals—not yet anyway. We're working on that. And we need people like you, who know how and when to fight, and how and when to keep their heads down and observe. We can't promise you anything except long days filled with danger and stress—but what could be better than that, eh?"
 ^0d8
 
@@ -112,7 +126,7 @@ After the characters have identified the cultists' wagons and seen their arrange
 
 #### Hiring Out
 
-| d20 + <span>[Modifier]</span> | Result |
+| d20 + [Modifier] | Result |
 |-------------------------------|--------|
 | 0–5 | No one is interested in hiring the character, but he or she can tag along as a traveler. Guards sometimes quit or die on the road, and a replacement has a chance to find employment. |
 | 6–10 | Hired as a basic guard for 5 gp per tenday, plus food and living expenses on the road. |
@@ -399,8 +413,6 @@ If someone reveals a Harper badge to Gleamsilver, she responds with a curt "put 
 
 On the morning of the day when the caravan is four days' travel from Waterdeep (two days after "Unwanted Attention"), [[/03_Mechanics/CLI/bestiary/npc/jamna-gleamsilver-hotdq|Gleamsilver]] approaches the characters just as they are sitting down to the morning meal. After glancing around to make sure none of the cultists are watching, she puts her fingers to her lips, then takes the bowl of oatmeal that one of them is about to eat.
 
-> [!readaloud] 
-> 
 > After poking through your oatmeal with the blade of her dagger, the gnome lifts it out and shows you an oatmeal-smeared object resembling a tiny bead. She glances over her shoulder toward where cultists sit at their breakfast. "It's a sliver of bone," she whispers, "curled into a circle so you can swallow it in a mouthful of gruel without noticing. Once eaten, it slowly uncurls inside you, exposing needle points that pierce your guts and kill you slowly. I suspect they're in all your breakfasts." As she gets up and walks away, she adds, "Let's talk this evening."
 ^109
 
@@ -408,8 +420,6 @@ No more bone slivers are in the characters' gruel. The one Gleamsilver showed th
 
 That evening, after most of the travelers have bedded down, Gleamsilver comes to the characters. She begins by introducing herself if that hasn't happened previously. Otherwise, she gets right to the point.
 
-> [!readaloud] 
-> 
 > "We don't work for the same people, but we're all on the same side—we share a belief that the Cult of the Dragon must be stopped. I need to know what they're carrying in those wagons and where they're taking it. Will you help me find out? We can do it tonight."
 ^10a
 
@@ -443,19 +453,23 @@ The murderer was, of course, [[/03_Mechanics/CLI/bestiary/npc/jamna-gleamsilver-
 
 Legends speak of 05 chapter 4 on the road as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 05 chapter 4 on the road.
 
-## Adventure Hooks
-
-- A rumor ties 05 chapter 4 on the road to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 05 chapter 4 on the road to avert a public scandal.
-- A map overlay reveals a hidden approach to 05 chapter 4 on the road active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Stars
+
+
+## Plot Hooks
+
+- A merchant needs help finding before dawn
+- Strange disappearances suggest ancient magic
+- Strange sightings suggest a portal
+- An heirloom has gone missing and war looms

@@ -1,4 +1,5 @@
 ---
+
 title: Captain Truth Ironwill
 type: Npc
 tags:
@@ -18,12 +19,75 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.623066+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
 > [!figure] Portrait
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-truth-ironwill-captain-truth-ironwill.svg]]
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
 
 
 ## Player-Facing Summary
@@ -34,14 +98,6 @@ Captain Truth Ironwill is a undersea element of the setting, known for biolumine
 
 Legends speak of Captain Truth Ironwill as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Truth Ironwill.
 
-## Adventure Hooks
-
-- A rumor ties Captain Truth Ironwill to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Captain Truth Ironwill to avert a public scandal.
-- A map overlay reveals a hidden approach to Captain Truth Ironwill active only during specific tides/storms.
-
-
-
 ## Appearance
 
 Captain Truth Ironwill presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
@@ -50,8 +106,6 @@ Captain Truth Ironwill presents a distinctive figure. Their bearing suggests bot
 - **Distinguishing Marks**: [Describe unique features]
 - **Typical Attire**: Professional garments suited to their role
 - **Mannerisms**: [Describe habits and gestures]
-
-
 
 ## Personality
 
@@ -63,8 +117,6 @@ Captain Truth Ironwill presents a distinctive figure. Their bearing suggests bot
 
 **Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
 
-
-
 ## Background
 
 Captain Truth Ironwill's path to their current position involved:
@@ -73,51 +125,6 @@ Captain Truth Ironwill's path to their current position involved:
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-## Relationships
-
-### Allies
-- Professional colleagues and supporters
-- Political or business connections
-
-### Rivals
-- Competitors in their field
-- Ideological opponents
-
-### Neutral Parties
-- Those who could be swayed either way
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
 
 ## Motivations
 
@@ -128,8 +135,6 @@ Captain Truth Ironwill's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Captain Truth Ironwill harbors secrets that could change everything:
@@ -137,10 +142,6 @@ Captain Truth Ironwill harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Dark patron
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -159,8 +160,6 @@ Captain Truth Ironwill is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Captain Truth Ironwill needs assistance with a delicate matter
@@ -169,8 +168,6 @@ Captain Truth Ironwill is currently engaged in:
 4. **The Alliance**: Opportunity to work with or against Captain Truth Ironwill
 5. **The Crisis**: Captain Truth Ironwill is caught in a situation requiring intervention
 
-
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -178,8 +175,6 @@ Captain Truth Ironwill is currently engaged in:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
 
 ## Statistics (D&D 5e)
 
@@ -207,34 +202,12 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Captain Truth Ironwill]]
+## Secret Connections
 
-<!-- enriched: true -->
-
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
 
+## Bloodline
 
-## Relationship Web
-
-- [[04_Resources_Assets_Locations_location-city-dock-master-anchor-holdfast-dock-master-anchor-holdfast.svg]]: *family member*
-- [[Master Smith-Priest Vulcan Depthforge]]: *family member*
-
-## Connections
-
-### Home
-- [[Echo-Theorist Maya]]
-
-### Frequently Visits
-- [[Financial Institutions]]
-- [[04_Resources_Assets_Locations_location-city-clerk-supreme-marcus-filekeeper-v1-clerk-supreme-marcus-filekeeper.svg]]
-- [[04_Resources_Assets_Locations_location-city-crystal-engineer-spark-gemwright-v1-crystal-engineer-spark-gemwright.svg]]
-
-### Affiliations
-- [[The Grand Abandonment - Central Warehouse Comple]]
-
-### Known Associates
-- [[NPC2]] (colleague)
-- [[04_Resources_Assets_Symbols_symbol-heraldry-depth-cardinal-wisdom-voidseeke-depth-cardinal-wisdom-voidseeke.svg]] (rival)
-- [[04_Resources_Assets_Locations_location-city-st-meridian-s-cathedral-st-meridian-s-cathedral.svg]] (colleague)
+Member of House Lionblood - Trait: divine blood

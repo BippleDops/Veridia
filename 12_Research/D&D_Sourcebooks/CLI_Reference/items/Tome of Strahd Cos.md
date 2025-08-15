@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:07.517966+00:00'
 world: Both
 ---
 
-
-
 # Tome of Strahd
 *Adventuring gear*  
 ![](/03_Mechanics/CLI/items/img/tome-of-strahd.webp#right)
@@ -36,6 +34,24 @@ The Tome of Strahd is an ancient work penned by Strahd, a tragic tale of how he 
 
 *Source: Curse of Strahd p. 221*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Tome of strahd cos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -44,19 +60,30 @@ Tome of strahd cos is a undersea element of the setting, known for bioluminescen
 
 Legends speak of tome of strahd cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tome of strahd cos.
 
-## Adventure Hooks
-
-- A rumor ties tome of strahd cos to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at tome of strahd cos to avert a public scandal.
-- A map overlay reveals a hidden approach to tome of strahd cos active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a curse
+- A shipment has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

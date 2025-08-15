@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.011060'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-astral-dreadnought-mpmm-astral-dreadnought-mpmm.svg)
 
@@ -65,14 +63,14 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
     "desc": "+9"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
-  \ [[conditions#Prone|prone]], [[conditions#Stunned|stunned]]"
+  \ [[conditions#prone|prone]], [[conditions#Stunned|stunned]]"
 "senses": "darkvision 120 ft., passive Perception 19"
 "languages": ""
 "cr": "21"
 "traits":
-  - "desc": "The dreadnought's eye creates an area of antimagic, as in the [[antimagic-field-xphb|antimagic\
+  - "desc": "The dreadnought's eye creates an area of antimagic, as in the [[antimagic-field-xphb|antimagic\]]
       \ field]] spell, in a 150-foot\
       \ cone. At the start of each of its turns, it decides which way the cone faces.\
       \ The cone doesn't function while the eye is closed or while the dreadnought\
@@ -84,7 +82,7 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
   - "desc": "Anything the dreadnought swallows is transported to a demiplane that\
       \ can be entered by no other means except a [[wish-xphb|wish]]\
       \ spell or the dreadnought's Bite and Donjon Visit. A creature can leave the\
-      \ demiplane only by using magic that enables planar travel, such as the [[plane-shift-xphb|plane\
+      \ demiplane only by using magic that enables planar travel, such as the [[plane-shift-xphb|plane\]]
       \ shift]] spell. The demiplane resembles\
       \ a stone cave roughly 1,000 feet in diameter with a ceiling 100 feet high.\
       \ Like a stomach, it contains the remains of past meals. The dreadnought can't\
@@ -116,7 +114,6 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
     "name": "Claw"
 "legendary_actions":
   - "desc": "The dreadnought makes one Claw attack."
-    "name": "Claw"
   - "desc": "One Huge or smaller creature that the dreadnought can see within 60 feet\
       \ of it must succeed on a DC 19 Charisma saving throw or be teleported to an\
       \ unoccupied space on the floor of the Demiplanar Donjon. At the end of the\
@@ -134,6 +131,24 @@ Covered from head to tail in layers of thick, spiked plates, a dreadnought has t
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Astral dreadnought mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -142,19 +157,21 @@ Astral dreadnought mpmm is a undersea element of the setting, known for biolumin
 
 Legends speak of astral dreadnought mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around astral dreadnought mpmm.
 
-## Adventure Hooks
-
-- A rumor ties astral dreadnought mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at astral dreadnought mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to astral dreadnought mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for a artifact for love
+- A merchant needs help investigating before winter
+- An heirloom has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

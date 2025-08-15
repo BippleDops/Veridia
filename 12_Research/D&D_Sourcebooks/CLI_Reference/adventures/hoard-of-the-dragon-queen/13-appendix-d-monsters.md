@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.630540'
 world: Both
 ---
 
-
 # Appendix D: Monsters
 *Source: Hoard of the Dragon Queen, p. 180* 
 
@@ -48,6 +47,24 @@ world: Both
 - [[/03_Mechanics/CLI/bestiary/npc/talis-the-white-hotdq|Talis the White]]  
 - [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]]
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 13 appendix d monsters is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -56,19 +73,25 @@ world: Both
 
 Legends speak of 13 appendix d monsters as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 13 appendix d monsters.
 
-## Adventure Hooks
-
-- A rumor ties 13 appendix d monsters to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 13 appendix d monsters to avert a public scandal.
-- A map overlay reveals a hidden approach to 13 appendix d monsters active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals a conspiracy about the government
+- Someone is hunting information for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

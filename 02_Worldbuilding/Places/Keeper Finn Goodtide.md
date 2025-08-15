@@ -1,4 +1,5 @@
 ---
+
 title: Keeper Finn Goodtide
 type: Location
 tags:
@@ -18,6 +19,8 @@ population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.692398+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,24 +29,72 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-keeper-finn-goodtide-keeper-finn-goodtide.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## History
+*20 targeted improvements identified*
 
-TODO
-## Layout
+### History Improvements
 
-TODO
-## Notables
+- Add three historical eras with major events
 
-TODO
-## Threats
+### Culture Improvements
 
-TODO
-## Hooks
+- Define unique cultural practices and taboos
 
-TODO
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
 
 ## Player-Facing Summary
 
@@ -53,16 +104,6 @@ Keeper Finn Goodtide is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Keeper Finn Goodtide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Keeper Finn Goodtide.
 
-## Adventure Hooks
-
-- A rumor ties Keeper Finn Goodtide to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Keeper Finn Goodtide to avert a public scandal.
-- A map overlay reveals a hidden approach to Keeper Finn Goodtide active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -70,37 +111,9 @@ Legends speak of Keeper Finn Goodtide as a nexus where past and present converge
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Keeper Finn Goodtide]]
-
-<!-- enriched: true -->
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[The Void Touched Oracle]]
-- [[04_Resources_Assets_Locations_location-city-the-synthesis-gardens-v1-the-synthesis-gardens.svg]]
-- [[Reflection Pools - Surgical Theater]]
-
 
 ## Sensory Details
 
@@ -110,7 +123,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: Incense mingles with the scent of exotic spices
 
-
 ## Description
 
 Keeper Finn Goodtide is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -118,35 +130,7 @@ Keeper Finn Goodtide is a notable location characterized by its unique features 
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Keeper Finn Goodtide
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -159,22 +143,21 @@ Ongoing situations affecting Keeper Finn Goodtide:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Keeper Finn Goodtide
+## Plot Hooks
 
-### Whispered Rumors
-- Stories that may or may not be true
+- Someone is protecting an heir for money
+- A stranger needs help finding before the festival
+- Someone is hunting a artifact for power
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+## Cultural Practices
 
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
 
-## Connections
-
-- See also: [[Campaign Guide]]
-- Related: [[Historical Context]]
-- Connected to: [[World Events]]
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon

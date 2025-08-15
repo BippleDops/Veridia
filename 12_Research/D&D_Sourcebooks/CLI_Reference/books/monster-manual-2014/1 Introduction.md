@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:05.158182+00:00'
 world: Both
 ---
 
-
-
 # Introduction
 *Source: Monster Manual (2014), p. 4* 
 
@@ -32,6 +30,24 @@ This bestiary is for storytellers and worldbuilders. If you have ever thought ab
 Some of the creatures that inhabit the worlds of D&D have origins rooted in real-world mythology and fantasy literature. Other creatures are D&D originals. The monsters in this book have been culled from all previous editions of the game. Herein you'll discover classic critters such as the beholder and the displacer beast next to more recent creations such as the chuul and the twig blight. Common beasts mingle with the weird, the terrifying, and the ridiculous. In collecting monsters from the past, we've endeavored to reflect the multifaceted nature of the game, warts and all. D&D monsters come in all shapes and sizes, with stories that not only thrill us but also make us smile.
 
 If you're an experienced Dungeon Master (DM), a few of the monster write-ups might surprise you, for we've gone into the *Monster Manuals* of yore and discovered some long-lost factoids. We've also added a few new twists. Naturally, you can do with these monsters what you will. Nothing we say here is intended to curtail your creativity. If the minotaurs in your world are shipbuilders and pirates, who are we to argue with you? It's your world, after all.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## How to Use This Book
 
@@ -124,7 +140,6 @@ Many monsters inhabit dungeons, while others live in deserts, forests, labyrinth
 > [!note] Modifying Creatures
 > 
 > Despite the versatile collection of monsters in this book, you might be at a loss when it comes to finding the perfect creature for part of an adventure. Feel free to tweak an existing creature to make it into something more useful for you, perhaps by borrowing a trait or two from a different monster or by using a variant or template, such as the ones in this book. Keep in mind that modifying a monster, including when you apply a template to it, might change its challenge rating.
-> 
 > For advice on how to customize creatures and calculate their challenge ratings, see the *Dungeon Master's Guide.*
 ^modifying-creatures
 
@@ -232,7 +247,7 @@ Every monster has six ability scores (Strength, Dexterity, Constitution, Intelli
 
 ### Saving Throws
 
-The Saving Throws entry is reserved for creatures that are adept at resisting certain kinds of effects. For example, a creature that isn't easily [[conditions#Charmed|charmed]] or [[conditions#Frightened|frightened]] might gain a bonus on its Wisdom saving throws. Most creatures don't have special saving throw bonuses, in which case this section is absent.
+The Saving Throws entry is reserved for creatures that are adept at resisting certain kinds of effects. For example, a creature that isn't easily [[conditions#Charmed|charmed]] or [[conditions#frightened|frightened]] might gain a bonus on its Wisdom saving throws. Most creatures don't have special saving throw bonuses, in which case this section is absent.
 
 A saving throw bonus is the sum of a monster's relevant ability modifier and its proficiency bonus, which is determined by the monster's challenge rating (as shown in the Proficiency Bonus by Challenge Rating table).
 
@@ -283,11 +298,8 @@ A telepathic monster doesn't need to see a contacted creature and can end the te
 A creature within the area of an antimagic field or in any other location where magic doesn't function can't send or receive telepathic messages.
 
 > [!note] Armor, Weapon, and Tool Proficiencies
-> 
 > Assume that a creature is proficient with its armor, weapons, and tools. If you swap them out, you decide whether the creature is proficient with its new equipment.
-> 
 > For example, a hill giant typically wears hide armor and wields a greatclub. You could equip a hill giant with chain mail and a greataxe instead, and assume the giant is proficient with both, one or the other, or neither.
-> 
 > See the *Player's Handbook* for rules on using armor or weapons without proficiency.
 ^armor-weapon-and-tool-proficiencies
 
@@ -386,9 +398,7 @@ The notation "Recharge X-Y" means a monster can use a special ability once and t
 This notation means that a monster can use a special ability once and then must finish a short or long rest to use it again.
 
 > [!note] Grapple Rules for Monsters
-> 
 > Many monsters have special attacks that allow them to quickly grapple prey. When a monster hits with such an attack, it doesn't need to make an additional ability check to determine whether the grapple succeeds, unless the attack says otherwise.
-> 
 > A creature [[conditions#Grappled|grappled]] by the monster can use its action to try to escape. To do so, it must succeed on a Strength ([[skills#Athletics|Athletics]]) or Dexterity ([[skills#Acrobatics|Acrobatics]]) check against the escape DC in the monster's stat block. If no escape DC is given, assume the DC is 10 + the monster's Strength ([[skills#Athletics|Athletics]]) modifier.
 ^grapple-rules-for-monsters
 
@@ -665,7 +675,7 @@ The mere presence of a legendary creature can have strange and wondrous effects 
 - [[red-dragon-wyrmling-xmm|Red Dragon Wyrmling]]  
 - [[red-slaad-xmm|Red Slaad]]  
 - [[remorhaz-xmm|Remorhaz]]  
-- [[revenant-xmm|Revenant]]  
+- [[revet-xmm|Revet]]  
 - [[roc-xmm|Roc]]  
 - [[roper-xmm|Roper]]  
 - [[animated-rug-of-smothering-xmm|Rug of Smothering]]  
@@ -853,7 +863,7 @@ The servant has [[senses#Blindsight|blindsight]] with a radius of 30 feet, and i
 
 ### Condition Immunities
 
-The servant can't be [[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]], or [[conditions#Paralyzed|paralyzed]].
+The servant can't be [[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]], [[conditions#frightened|frightened]], or [[conditions#Paralyzed|paralyzed]].
 
 ### Languages
 
@@ -871,19 +881,18 @@ If the servant has no other means of dealing damage, it can use its fists or lim
 
 Legends speak of 1 introduction as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 1 introduction.
 
-## Adventure Hooks
-
-- A rumor ties 1 introduction to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 1 introduction to avert a public scandal.
-- A map overlay reveals a hidden approach to 1 introduction active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest a conspiracy
+- Strange sightings suggest ancient magic
+- A map reveals the truth about the government
+- Someone is protecting an heir for money

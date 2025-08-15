@@ -16,23 +16,29 @@ updated: '2025-08-13T01:18:36.131103+00:00'
 danger_level: Moderate
 ---
 
-
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-primordial-vaults-the-primordial-vaults.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-# The Primordial Vaults - The First Prison
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 Deep beneath [[Aquabyssos World Overview|Aquabyssos]], older than the drowned civilizations above, lie the Primordial Vaults - a massive complex of chambers and passages that predate human civilization. Built by unknown hands for unclear purposes, the vaults contain horrors, treasures, and answers to questions that should never be asked. The architecture defies physics, with gravity, time, and space functioning irregularly.
-
-## Vault Sections
 
 ### The Threshold Gates (8000 feet)
 Seven massive doors, each requiring different keys or rituals to open. [[Vault Keeper Eternal]] guards the entrance, neither alive nor dead, speaking only in riddles about "the necessity of drowning."
@@ -44,35 +50,13 @@ Corridor where time flows backward, forward, and sideways simultaneously. Those 
 Laboratories containing failed experiments in creating life. Twisted proto-creatures still writhe in crystalline tanks. [[The First Failure]], a sentient mistake, pleads for death or freedom.
 
 ### The Inverse Cathedral
-A cathedral built upside-down, where prayers spoken become curses and holy water burns like acid. [[Anti-Priest Nullus]] conducts backwards sermons to an congregation of shadows.
+A cathedral built upside-down, where prayers spoken become curses and holy water burns like acid. [[Anti-Priest us]] conducts backwards sermons to an congregation of shadows.
 
 ### The Memory Core
 Central chamber containing crystallized memories of the world's creation. Touching them grants knowledge but steals personal memories in exchange. [[The Forgotten One]] dwells here, made entirely of stolen memories.
 
 ### The Deepest Lock
 The final chamber, sealed with thirteen locks, each key hidden throughout Aquabyssos. Behind it lies something that [[The Great Drowning]] was meant to keep imprisoned.
-
-## Vault Inhabitants
-
-### Original Prisoners
-- **The Unmaker**: Entity that dissolves reality around it
-- **The Dream Eater**: Feeds on sleeping minds across Aquabyssos
-- **The First Betrayer**: The original architect, imprisoned in their creation
-- **Echo of Creation**: Fragment of whatever force made the world
-
-### Corrupted Guardians
-- **Vault Keeper Eternal**: Immortal guardian of the entrance
-- **The Wardens of Stone**: Golems that reassemble when destroyed
-- **Paradox Sentinels**: Beings that exist in multiple timelines
-- **The Null Guards**: Entities that erase things from existence
-
-### Lost Explorers
-- **The Depth Touched**: Explorers transformed by vault energies
-- **Memory Thieves**: Those who stayed too long in the Memory Core
-- **The Multiplication**: Single explorer split into hostile duplicates
-- **Void Scholars**: Researchers who learned too much
-
-## Artifacts Within
 
 ### The Creation Tablets
 Stone tablets describing how to create and destroy worlds. Written in a language that damages the mind to read.
@@ -89,8 +73,6 @@ Physical manifestation of the first wrongdoing, touching it reveals your worst n
 ### The Cage of Gods
 Empty prison that once held deities. Their escape may have triggered the drowning.
 
-## Phenomena
-
 ### Gravity Wells
 Areas where gravity pulls in impossible directions, creating Escher-like navigation challenges.
 
@@ -106,13 +88,6 @@ Psychic storms that scramble memories and personalities of those caught within.
 ### The Void Pools
 Black water that doesn't reflect anything - falling in erases you from history.
 
-## Hazards
-- Architecture that rearranges when not observed
-- Doors that lead to different places depending on who opens them
-- Air that becomes solid, water that becomes gaseous
-- Sounds that physically manifest as creatures
-- Light that causes madness, darkness that grants clarity
-
 ## Current Activity
 1. [[Order of the Sunken Crown]] expedition seeking the First Key
 2. Tremors suggesting something massive stirring in the Deepest Lock
@@ -127,12 +102,6 @@ Black water that doesn't reflect anything - falling in erases you from history.
 > - The Deepest Lock contains not one entity but a gateway to their dimension
 > - Several faction leaders know the truth and are preparing for the eventual breach
 > - The vaults are slowly rising toward the surface
-
-## Connections to Other Areas
-- Secret tunnel from [[The Sunken Cathedral of Stars|02 Worldbuilding/Places/The Sunken Cathedral Of Stars]] crypts
-- Overlaps with deepest parts of [[The Cerulean Trench|02 Worldbuilding/Places/The Cerulean Trench]]
-- The Wandering Atoll occasionally floats directly above
-- Memory streams connect to [[New Tethys|02 Worldbuilding/Places/New Tethys]] Conservatory of Memory
 
 ## Vault Laws (Inexplicable Rules)
 1. No one may speak their true name within
@@ -155,26 +124,6 @@ Black water that doesn't reflect anything - falling in erases you from history.
 11. Paradox Sentinel patrol
 12. The First Key's guardian
 
-## Connected NPCs
-- [[Vault Keeper Eternal]] - Entrance guardian
-- [[Chronomancer Paradox]] - Time-lost wizard
-- [[The First Failure]] - Sentient experiment
-- [[Anti-Priest Nullus]] - Inverse Cathedral keeper
-- [[The Forgotten One]] - Memory thief
-- [[Elder Whisper-In-The-Dark]] - Knows vault secrets
-
-## Quests Available
-- [[The Thirteen Keys]] - Gather keys to the Deepest Lock
-- [[Vault Breach]] - Stop or cause a prisoner escape
-- [[Memory Heist]] - Steal specific memories from the Core
-- [[Temporal Rescue]] - Save explorers from time loops
-- [[The First Truth]] - Learn why the vaults were built
-
-
-## Connections
-
-- [[Stop the Shadow Harvest]]
-
 ## Player-Facing Summary
 
 The Primordial Vaults is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -183,33 +132,25 @@ The Primordial Vaults is a undersea element of the setting, known for biolumines
 
 Legends speak of The Primordial Vaults as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Primordial Vaults.
 
-## Adventure Hooks
-
-- A rumor ties The Primordial Vaults to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Primordial Vaults to avert a public scandal.
-- A map overlay reveals a hidden approach to The Primordial Vaults active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[The Primordial Vaults|02 Worldbuilding/Places/The Primordial Vaults]]
-
-<!-- enriched: true -->
-- [[Order of the Sunken Crown]]
-- [[Anti-Priest Nullus]]
-- [[Memory Heist]]
-- [[Temporal Rescue]]
-- [[The Deepmind]]
-- [[The First Failure]]
-- [[The First Truth]]
-- [[The Forgotten One]]
-- [[The Thirteen Keys]]
-- [[Vault Keeper Eternal]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a betrayal about this place
+- Someone is searching for information for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

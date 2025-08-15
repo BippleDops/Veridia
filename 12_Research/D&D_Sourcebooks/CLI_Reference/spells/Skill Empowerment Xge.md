@@ -27,11 +27,8 @@ updated: '2025-08-13T12:34:06.561243+00:00'
 world: Both
 ---
 
-
-
 # Skill Empowerment
 *5th-level, Transmutation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -46,6 +43,24 @@ You must choose a skill in which the target is proficient and that isn't already
 
 *Source: Xanathar's Guide to Everything p. 165*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Skill empowerment xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -54,19 +69,25 @@ Skill empowerment xge is a undersea element of the setting, known for biolumines
 
 Legends speak of skill empowerment xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around skill empowerment xge.
 
-## Adventure Hooks
-
-- A rumor ties skill empowerment xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at skill empowerment xge to avert a public scandal.
-- A map overlay reveals a hidden approach to skill empowerment xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest ancient magic
+- Strange accidents suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

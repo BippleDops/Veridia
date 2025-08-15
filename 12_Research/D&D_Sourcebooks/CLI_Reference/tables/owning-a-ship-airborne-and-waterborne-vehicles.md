@@ -21,9 +21,8 @@ updated: '2025-08-12T23:37:33.537151'
 world: Both
 ---
 
-
 # Owning a Ship; Airborne and Waterborne Vehicles
-*Source: Dungeon Master's Guide p. 119. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+*Source: Dungeon Master's Guide p. 119. Available in the SRD* 
 
 **Airborne and Waterborne Vehicles**
 
@@ -38,6 +37,24 @@ world: Both
 | Warship | 25,000 gp | 2½ mph | 60 | 60 | 200 | 15 | 500 | 20 |
 ^airborne-and-waterborne-vehicles
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Owning a ship airborne and waterborne vehicles is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -46,19 +63,22 @@ Owning a ship airborne and waterborne vehicles is a undersea element of the sett
 
 Legends speak of owning a ship airborne and waterborne vehicles as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around owning a ship airborne and waterborne vehicles.
 
-## Adventure Hooks
-
-- A rumor ties owning a ship airborne and waterborne vehicles to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at owning a ship airborne and waterborne vehicles to avert a public scandal.
-- A map overlay reveals a hidden approach to owning a ship airborne and waterborne vehicles active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a portal
+- A stranger needs help stealing before winter
+- A document has gone missing and evil awakens
+- A shipment has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

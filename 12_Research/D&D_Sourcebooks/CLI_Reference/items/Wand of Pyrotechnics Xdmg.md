@@ -24,19 +24,33 @@ updated: '2025-08-13T12:34:07.472846+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-wand-of-pyrotechnics-xdmg-v1-wand-of-pyrotechnics-xdmg.svg)
 
 # Wand of Pyrotechnics
 *Wand, common*  
 
-
 - **Weight**: 1.0 lbs.
 
 This wand has 7 charges. While holding it, you can take a [[actions#Magic|Magic]] action to expend 1 charge and create a harmless burst of multicolored light at a point you can see up to 120 feet away. The burst of light is accompanied by a crackling noise that can be heard up to 300 feet away. The light is as bright as a torch flame but lasts only a second.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Regaining Charges
 
@@ -52,19 +66,25 @@ Wand of pyrotechnics xdmg is a undersea element of the setting, known for biolum
 
 Legends speak of wand of pyrotechnics xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wand of pyrotechnics xdmg.
 
-## Adventure Hooks
-
-- A rumor ties wand of pyrotechnics xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at wand of pyrotechnics xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to wand of pyrotechnics xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

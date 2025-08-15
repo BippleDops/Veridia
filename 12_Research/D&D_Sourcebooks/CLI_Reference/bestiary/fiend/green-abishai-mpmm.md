@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.534570'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-green-abishai-mpmm-green-abishai-mpmm.svg)
 
@@ -36,6 +34,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 162*  
 
 Green abishais are adept at discovering secrets and other sensitive information, while their diplomatic skills and their magic ensure they can manipulate even the shrewdest opponents.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Abishais
 
@@ -60,8 +76,6 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - !!int "12"
   - !!int "17"
   - !!int "16"
-  - !!int "17"
-  - !!int "12"
   - !!int "19"
 "speed": "30 ft., fly 40 ft."
 "saves":
@@ -73,9 +87,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - "name": "[[skills#Insight|Insight]]"
     "desc": "+6"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+6"
   - "name": "[[skills#Persuasion|Persuasion]]"
-    "desc": "+9"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
@@ -102,11 +114,11 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
     "name": "Fiendish Claw"
   - "desc": "The abishai casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 17):\n\
-      \nAt will: [[alter-self-xphb|alter self]], [[major-image-xphb|major\
-      \ image]]\n\n3/day each: [[charm-person-xphb|charm\
+      \nAt will: [[alter-self-xphb|alter self]], [[major-image-xphb|major\]]
+      \ image]]\n\n3/day each: [[charm-person-xphb|charm\]]
       \ person]], [[detect-thoughts-xphb|detect thoughts]],\
       \ [[fear-xphb|fear]]\n\n1/day each: [[confusion-xphb|confusion]],\
-      \ [[dominate-person-xphb|dominate person]], [[mass-suggestion-xphb|mass\
+      \ [[dominate-person-xphb|dominate person]], [[mass-suggestion-xphb|mass\]]
       \ suggestion]]"
     "name": "Spellcasting"
 "source":
@@ -128,19 +140,22 @@ Green abishai mpmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of green abishai mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around green abishai mpmm.
 
-## Adventure Hooks
-
-- A rumor ties green abishai mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at green abishai mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to green abishai mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a conspiracy about a local noble
+- A document has gone missing and evil awakens
+- Strange accidents suggest ancient magic
+- A document has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

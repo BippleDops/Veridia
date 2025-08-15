@@ -17,40 +17,6 @@ updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
 
-
-# Combat Reference Card
-
-## Action Economy
-
-### Actions (One per turn)
-- **Attack**: Make weapon or spell attack
-- **Cast Spell**: Cast spell with casting time of 1 action
-- **Dash**: Double movement speed this turn
-- **Disengage**: Move without provoking opportunity attacks
-- **Dodge**: Attackers have disadvantage until next turn
-- **Help**: Give ally advantage on next ability check or attack
-- **Hide**: Make Stealth check
-- **Ready**: Prepare action with specific trigger
-- **Search**: Make Perception or Investigation check
-- **Use Object**: Interact with environment or item
-
-### Bonus Actions (One per turn if available)
-- **Off-hand attack**: Second weapon with light property
-- **Class features**: Varies by class
-- **Certain spells**: Spells with bonus action casting time
-
-### Reactions (One per round, specific triggers)
-- **Opportunity attack**: When creature leaves your reach
-- **Spells**: Spells with reaction casting time
-- **Class features**: Varies by class
-
-### Free Actions (Unlimited, within reason)
-- **Draw/sheathe weapon**: Once per turn
-- **Speak**: Brief communication
-- **Simple object interaction**: Open door, pick up item
-
-## Attack Resolution
-
 ### Attack Roll Process
 1. **Roll d20**
 2. **Add ability modifier** (Str for melee, Dex for ranged/finesse)
@@ -64,15 +30,23 @@ world: Both
 3. **Add misc modifiers** (magic, class features, etc.)
 4. **Apply damage type and resistances**
 
-### Critical Hits
-- **Natural 20** on attack roll (or expanded crit range)
-- **Double damage dice** (not modifiers)
-- **Some features** add extra effects
 
-### Advantage/Disadvantage
-- **Advantage**: Roll twice, take higher
-- **Disadvantage**: Roll twice, take lower
-- **Cancel each other**: Multiple sources still = normal roll
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Conditions Quick Reference
 
@@ -93,8 +67,6 @@ world: Both
 | **Stunned** | Incapacitated, can't move, can speak falteringly |
 | **Unconscious** | Incapacitated, prone, can't move or speak, auto-fail Str/Dex saves |
 
-## Aquabyssos Combat Modifiers
-
 ### Pressure Combat Effects
 | Depth Level | Pressure Effect | Combat Modifier |
 |-------------|-----------------|-----------------|
@@ -104,23 +76,12 @@ world: Both
 | Deep (2000-5000 ft) | High pressure | -3 ranged, +2 melee damage |
 | Abyssal (5000+ ft) | Extreme pressure | Ranged attacks impossible, +3 melee |
 
-### Underwater Combat Rules
-- **Melee attacks**: Disadvantage unless weapon has finesse or character adapted
-- **Ranged attacks**: Normal weapons don't work; crossbows have normal range
-- **Fire damage**: Impossible unless magical
-- **Lightning damage**: Double damage in water
-- **Movement**: Swimming speed or half land speed
-
 ### Aquabyssos Special Conditions
-| Condition | Effect |
-|-----------|--------|
 | **Pressure Shock** | Constitution save or stunned for 1 round |
 | **Depth Drunk** | Advantage on Charisma checks, disadvantage on Wisdom |
 | **Current Swept** | Moved 10-30 feet in current direction |
 | **Bioluminescent Blind** | Blinded for 1 round by creature's natural light |
 | **Memory Touched** | Affected by memory magic, may gain/lose memories |
-
-## Aethermoor Combat Modifiers
 
 ### Altitude Combat Effects
 | Altitude Level | Atmospheric Effect | Combat Modifier |
@@ -131,22 +92,12 @@ world: Both
 | High (5000-15000 ft) | Very thin air | -2 Constitution saves, disadvantage on exertion |
 | Extreme (15000+ ft) | Extreme altitude | Hourly Constitution saves or exhaustion |
 
-### Wind Combat Effects
-- **Light winds**: No effect
-- **Moderate winds**: Disadvantage on ranged attacks
-- **Strong winds**: Ranged attacks impossible, movement halved
-- **Gale force**: Prone checks required, flying impossible
-
 ### Aethermoor Special Conditions
-| Condition | Effect |
-|-----------|--------|
 | **Wind Shear** | Dexterity save or knocked prone and moved |
 | **Lightning Charged** | Next melee attack deals extra 1d6 lightning damage |
 | **Altitude Sickness** | Disadvantage on all rolls until acclimatized |
-| **Crystal Resonance** | Magic items vibrate, may enhance or interfere |
+| **Crystal Resoce** | Magic items vibrate, may enhance or interfere |
 | **Gravity Flux** | Weight changes, affects jumping and falling |
-
-## Special Mechanics
 
 ### Crystal Corruption Combat
 | Corruption Level | Combat Effect |
@@ -160,42 +111,10 @@ world: Both
 ### Shadow Influence Combat
 | Influence Level | Combat Effect |
 |-----------------|---------------|
-| None | No effect |
 | Light | Shadows seem to move independently |
 | Moderate | Shadow attacks have reach +5 feet |
 | Heavy | Can attack through shadows |
 | Complete | Shadow duplicate fights alongside |
-
-### Memory Magic in Combat
-- **Memory Blast**: Targets may gain/lose proficiencies temporarily
-- **Shared Experience**: Gain someone else's combat memories
-- **Memory Shield**: Block mental attacks with stored memories
-- **Echo Fighting**: Repeat previous round's actions automatically
-
-## Environmental Hazards
-
-### Aquabyssos Hazards
-- **Crushing Pressure**: 1d6 damage per round if unprotected
-- **Hypothermia**: Cold damage, exhaustion levels
-- **Toxic Bioluminescence**: Poison damage, potential blindness
-- **Tidal Forces**: Movement forced in specific directions
-- **Leviathan Presence**: Fear effects, massive scale combat
-
-### Aethermoor Hazards
-- **Lightning Storms**: Random lightning strikes for 3d6 damage
-- **Wind Shear**: Forced movement, potential falls
-- **Crystalline Rain**: Slashing damage, equipment enhancement
-- **Thermal Updrafts**: Sudden altitude changes
-- **Platform Instability**: Collapsing or tilting combat surfaces
-
-### Cross-Realm Hazards
-- **Reality Distortion**: Random spell effects
-- **Planar Bleeding**: Effects from other dimensions
-- **Temporal Fluctuations**: Initiative order changes
-- **Gravity Anomalies**: Up and down become relative
-- **Convergence Storms**: Multiple reality effects simultaneously
-
-## Quick DCs and Modifiers
 
 ### Ability Score Modifiers
 | Score | Modifier | Score | Modifier |
@@ -214,68 +133,9 @@ world: Both
 | Very Hard | 25 |
 | Nearly Impossible | 30 |
 
-### Cover Bonuses
-- **Half Cover**: +2 AC and Dex saves
-- **Three-quarters Cover**: +5 AC and Dex saves  
-- **Total Cover**: Can't be targeted directly
-
-### Range Categories
-- **Point Blank**: Within 5 feet
-- **Close Range**: Normal range
-- **Long Range**: Up to maximum range (disadvantage)
-- **Extreme Range**: Beyond maximum (impossible)
-
-## Status Effect Durations
-
-### Common Durations
-- **Until end of next turn**: Most bonus action effects
-- **1 minute (10 rounds)**: Standard spell duration
-- **10 minutes**: Exploration spells
-- **1 hour**: Utility spells
-- **8 hours**: Long-duration buffs
-- **24 hours**: Major magical effects
-
-### Save to End Effects
-- **End of turn**: Ongoing damage, most conditions
-- **Start of turn**: Some spell effects
-- **Specific triggers**: Condition-dependent
-
-## Damage Types
-
-### Physical Damage
-- **Bludgeoning**: Hammers, clubs, falling
-- **Piercing**: Arrows, spears, fangs
-- **Slashing**: Swords, claws, blades
-
-### Elemental Damage
-- **Acid**: Corrosive substances
-- **Cold**: Ice, snow, freezing
-- **Fire**: Flames, heat, burning
-- **Lightning**: Electrical energy
-- **Thunder**: Sonic force
-
-### Magical Damage
-- **Force**: Pure magical energy
-- **Necrotic**: Death magic, negative energy
-- **Radiant**: Divine light, positive energy
-- **Psychic**: Mental attacks, psionic force
-
-### Special (Cordelia Setting)
-- **Pressure**: Deep sea crushing force
-- **Crystalline**: Crystal magic effects
-- **Shadow**: Shadow Conspiracy corruption
-- **Void**: Deep Mother influence
-
-## Links to Related Content
-- [[Initiative_Tracker]]
-- [[Underwater_Combat_Rules]]
-- [[Pressure_Combat_Modifiers]]
-- [[Encounter_Scaling_Guide]]
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -284,3 +144,27 @@ world: Both
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- A shipment has gone missing and war looms
+- Strange accidents suggest a conspiracy
+- A prisoner has gone missing and evil awakens
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

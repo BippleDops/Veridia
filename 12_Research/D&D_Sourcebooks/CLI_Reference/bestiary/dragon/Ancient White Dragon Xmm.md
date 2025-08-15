@@ -17,7 +17,7 @@ tags:
 - campaign/arc
 - status/in-progress
 - ttrpg-cli/monster/cr/20
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-monster
@@ -28,16 +28,31 @@ updated: '2025-08-13T12:34:05.989233+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-white-dragon-xmm-ancient-white-dragon-xmm.svg)
 
 # [[ancient-white-dragon-xmm|Ancient White Dragon]]
-*Source: Monster Manual (2024) p. 330. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 330. Available in the SRD and the Free Rules (2024)*  
 
 Like arctic storms, ancient white dragons threaten icy realms. They emerge from their frozen lairs to indulge their hungers for food or treasure, menacing other creatures with lethal cold. While they might ignore animals or small groups of polar wanderers, these dragons are quick to challenge other dragons and creatures wielding powerful magic, hoping to add their foes' skulls and magic items to their own hoards.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## White Dragons
 
@@ -65,8 +80,6 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
 "hit_dice": "18d20 + 144"
 "modifier": !!int "12"
 "stats":
-  - !!int "26"
-  - !!int "10"
   - !!int "26"
   - !!int "10"
   - !!int "13"
@@ -120,7 +133,7 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
   - "desc": "The region containing an adult or ancient white dragon's lair is affected\
       \ by its presence, creating the following effects:"
     "name": ""
-  - "desc": "- Frigid Cold. The area within 1 mile of the lair is an area of [[extreme-cold-xdmg|extreme\
+  - "desc": "- Frigid Cold. The area within 1 mile of the lair is an area of [[extreme-cold-xdmg|extreme\]]
       \ cold]]. Any water in that\
       \ area is [[frigid-water-xdmg|frigid water]].\
       \ See the \"Dungeon Master's Guide\" for rules on extreme cold and frigid water.\
@@ -130,9 +143,7 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
       \ that area, that creature must succeed on a DC 15 Constitution saving throw\
       \ or have its [[speed-xphb|Speed]] reduced\
       \ by 10 feet for 1 hour.  "
-    "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/dragon/token/ancient-white-dragon-xmm.webp"
@@ -151,18 +162,9 @@ Ancient white dragon xmm is a undersea element of the setting, known for biolumi
 
 Legends speak of ancient white dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ancient white dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties ancient white dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ancient white dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ancient white dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

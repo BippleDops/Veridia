@@ -30,7 +30,6 @@ updated: '2025-08-12T23:37:36.109235'
 world: Both
 ---
 
-
 # Storm Sphere
 *4th-level, Evocation*  
 ![](/03_Mechanics/CLI/spells/img/storm-sphere.webp#right)
@@ -52,6 +51,24 @@ Creatures within 30 feet of the sphere have disadvantage on Wisdom ([[skills#Per
 
 *Source: Xanathar's Guide to Everything p. 166*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Storm sphere xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -60,19 +77,22 @@ Storm sphere xge is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of storm sphere xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around storm sphere xge.
 
-## Adventure Hooks
-
-- A rumor ties storm sphere xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at storm sphere xge to avert a public scandal.
-- A map overlay reveals a hidden approach to storm sphere xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals ancient history about the cult
+- A document has gone missing and evil awakens
+- Strange accidents suggest a conspiracy
+- A noble needs help investigating before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

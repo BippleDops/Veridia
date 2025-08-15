@@ -1,4 +1,5 @@
 ---
+
 title: Memoriam
 type: Location
 tags:
@@ -10,6 +11,7 @@ tags:
 - location
 - complete
 - status/in-progress
+- conspiracy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +20,8 @@ population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:17.203163+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -25,10 +29,74 @@ world: Both
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-memoriam-memoriam.svg)
 
-
 # Memoriam
 
 *A vast underwater necropolis and memorial site that serves as the final resting place for the honored dead of Aquabyssos and a repository of ancient knowledge.*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
 
 ## Physical Description & Atmosphere
 
@@ -50,8 +118,6 @@ Throughout its existence, Memoriam has served multiple roles:
 - Sanctuary for those seeking spiritual guidance from ancestors
 - Research center for necromantic and divination magic
 - Neutral ground where even enemies can commune with the dead
-
-## Current Guardians & Inhabitants
 
 ### High Keeper Solemneth the Eternal
 *Medium undead (lich), lawful neutral*
@@ -97,14 +163,6 @@ Throughout its existence, Memoriam has served multiple roles:
 - **Paralyzing Touch (Costs 2 Actions).** Solemneth makes a paralyzing touch attack.
 - **Frightening Gaze (Costs 2 Actions).** Solemneth fixes her gaze on one creature within 10 feet. The target must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute.
 
-### The Keepers of Memory
-- **[[Seraph Tidewhisper]]** - Keeper of Royal Records and Genealogy
-- **[[Brother Ossian]]** - Tender of the Common Folk Memorial Gardens
-- **[[Sister Mourne]]** - Specialist in communicating with recent spirits
-- **[[The Chronicle Scribes]]** - Undead scholars who maintain historical records
-
-### Resident Spirits
-
 #### Memorial Guardian
 *Large undead, lawful good*
 
@@ -127,8 +185,6 @@ Throughout its existence, Memoriam has served multiple roles:
 
 **Actions**
 - **Life Drain.** *Melee Spell Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 21 (4d8 + 3) necrotic damage. The target must make a DC 14 Constitution saving throw. On failure, its hit point maximum is reduced by the damage taken.
-
-## Notable Features & Sanctuaries
 
 ### The Eternal Spire
 The central monument containing the **Archive of Souls** - crystalline matrices that preserve memories, last words, and final wishes of the departed. Accessing specific memories requires permission from the Keepers and often a substantial donation.
@@ -154,8 +210,6 @@ Underground chambers containing:
 - Magical items too dangerous for the surface world
 - Sealed areas containing cursed or corrupted remains
 
-## Adventure Hooks & Encounters
-
 ### The Stolen Memories (Level 5-8)
 Valuable memories containing the location of a lost treasure vault have been stolen from the Archive of Souls. Investigation reveals the theft was orchestrated by the [[Coral Throne Syndicate]], who plan to sell the information to the highest bidder. The party must navigate memorial politics and undead guardians to recover the stolen memories.
 
@@ -164,21 +218,6 @@ Spirits throughout Memoriam have become agitated and violent, breaking the ancie
 
 ### The Final Testament (Level 10-15)
 The spirit of [[Ancient King Pelagios]] has emerged with warnings about a coming catastrophe that threatens all of Aquabyssos. However, the king will only share his knowledge with those who can prove themselves worthy by completing trials that test courage, wisdom, and respect for the dead. Success grants access to ancient knowledge that could prevent disaster.
-
-## D&D 5e Mechanics & Services
-
-### Memoriam Services
-- **Interment** - 500-5,000 gp based on desired prominence
-- **Spirit Communication** - 100 gp per session in Communion Pools
-- **Memory Access** - 250 gp plus services to the memorial
-- **Historical Research** - 50 gp per day plus scribe fees
-- **Curse Removal** - Services negotiated based on complexity
-
-### Sacred Ground Effects
-- **Hallowed Ground** - Undead cannot be turned while within Memoriam's borders
-- **Memory Enhancement** - Intelligence (History) checks have advantage
-- **Spiritual Clarity** - Advantage on Wisdom (Insight) checks when communicating with spirits
-- **Death Ward** - Natural resistance to instant death effects
 
 ### Memorial Quests
 **Keeper Reputation System:**
@@ -189,18 +228,9 @@ The spirit of [[Ancient King Pelagios]] has emerged with warnings about a coming
 
 **Gaining Reputation:**
 - Proper offerings and respectful behavior (+1 point)
-- Assisting with memorial maintenance (+1-2 points)
+- Assisting with memorial maintece (+1-2 points)
 - Solving problems for the Keepers (+2-5 points)
 - Protecting the memorial from desecration (+3-10 points)
-
-## Environmental Features
-
-### Spectral Phenomena
-- **Memory Echoes** - Spontaneous visions of past events (DC 15 Wisdom save to avoid being stunned for 1 round)
-- **Spiritual Currents** - Movement speed reduced by half unless following designated paths
-- **Ancestral Guidance** - Dead characters' spirits may provide limited assistance to party members
-
-### Hazardous Areas
 
 #### The Cursed Depths
 Sections of Memoriam containing improperly sealed remains or cursed individuals:
@@ -217,15 +247,6 @@ Areas where ancient plague victims are interred:
 ## Connected Mysteries
 Memoriam holds secrets connecting to the [[War of Crushing Depths]], the origins of [[The Depth Plague]], ancient pacts with [[Deep Ones]], and prophecies about Aquabyssos's future. The memorial's vast archives contain information crucial to understanding the threats facing the underwater realm, but accessing this knowledge requires navigating complex relationships with both the living and the dead.
 
-
-## Connections
-
-- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[Nereidios]]
-- [[The Forgotten One]]
-- [[Aquabyssos - Session 05 - Descent into Darkness]]
-- [[Aquabyssos - Session 08 - The Fractal Conspiracy]]
-
 ## Player-Facing Summary
 
 Memoriam is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -234,16 +255,6 @@ Memoriam is a undersea element of the setting, known for bioluminescent glow and
 
 Legends speak of Memoriam as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memoriam.
 
-## Adventure Hooks
-
-- A rumor ties Memoriam to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Memoriam to avert a public scandal.
-- A map overlay reveals a hidden approach to Memoriam active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -251,39 +262,9 @@ Legends speak of Memoriam as a nexus where past and present converge. Locals des
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Memoriam]]
-
-<!-- enriched: true -->
-- [[Coral Throne Syndicate]]
-- [[The Depth Plague]]
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-temple-of-justice-temple-of-justice.svg]]
-- [[Depth Warden Patrol]]
-- [[Screaming Gardens]]
-
 
 ## Sensory Details
 
@@ -293,7 +274,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: The tang of salt air permeates everything
 
-
 ## Description
 
 Memoriam is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -301,21 +281,7 @@ Memoriam is a notable location characterized by its unique features and strategi
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -328,15 +294,25 @@ Ongoing situations affecting Memoriam:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Memoriam
+## Secret Connections
 
-### Whispered Rumors
-- Stories that may or may not be true
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+
+## Trade Importance
+
+Key stop on metals trade route
+
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon

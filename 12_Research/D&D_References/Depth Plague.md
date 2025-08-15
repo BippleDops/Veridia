@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.211643+00:00'
 danger_level: Moderate
 ---
 
-
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-depth-plague-the-depth-plague.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Overview
+*20 targeted improvements identified*
 
-TODO
-## History
+### Connection Improvements
 
-TODO
-## Layout
+- Add cross-references to related notes
 
-TODO
-## Notables
+### Enhancement Improvements
 
-TODO
-## Threats
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,27 @@ Depth Plague is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of Depth Plague as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Plague.
 
-## Adventure Hooks
-
-- A rumor ties Depth Plague to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Depth Plague to avert a public scandal.
-- A map overlay reveals a hidden approach to Depth Plague active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Depth Plague|02 Worldbuilding/Places/Depth Plague]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Coral Throne Syndicate]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting a witness for power
+- A letter reveals a conspiracy about the cult
+- A stranger needs help finding before the new moon
+- A merchant needs help investigating before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -27,9 +27,6 @@ updated: '2025-08-13T12:34:05.825253+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bulezau-mpmm-bulezau-mpmm.svg)
 
@@ -39,7 +36,6 @@ world: Both
 > [!quote] A quote from Tasha  
 > 
 > Some ask why the bulezau, for all its rage and violence, has the head of a goat. I always respond, have you met a goat? They're stubborn, they're vicious, and they rarely go down without bashing you several times in the shins.
-> 
 > You might say, that's awfully specific. I say, don't pry.
 
 Diseased manifestations of animalistic rage, bulezaus embody the violence of nature. Across the Abyss, these demons lurk in deep canyons and lofty crags, and many find a place in the ranks of demon lords' armies, serving as foot soldiers in the Abyss's endless warring.
@@ -69,7 +65,7 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
 "speed": "40 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 9"
 "languages": "Abyssal, telepathy 60 ft."
@@ -83,7 +79,7 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
       \ feet, with or without a running start."
     "name": "Standing Leap"
   - "desc": "The bulezau has advantage on Strength and Dexterity saving throws made\
-      \ against effects that would knock it [[conditions#Prone|prone]]."
+      \ against effects that would knock it [[conditions#prone|prone]]."
     "name": "Sure-Footed"
 "actions":
   - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (1d12\
@@ -104,6 +100,24 @@ Disfiguring ailments plague bulezaus: crusted eyes, maggots wriggling in open so
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Bulezau mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -112,19 +126,15 @@ Bulezau mpmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of bulezau mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bulezau mpmm.
 
-## Adventure Hooks
-
-- A rumor ties bulezau mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at bulezau mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to bulezau mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths

@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.236214'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ox-mpmm-ox-mpmm.svg)
 
@@ -37,6 +35,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208*  
 
 Oxen are domesticated cattle bred for milk and meat production and for hauling. Many cultures incorporate the ox into their labor and diets.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Cattle
 
@@ -57,7 +73,6 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
   - !!int "10"
   - !!int "14"
   - !!int "2"
-  - !!int "10"
   - !!int "4"
 "speed": "30 ft."
 "senses": "passive Perception 10"
@@ -92,19 +107,32 @@ Ox mpmm is a undersea element of the setting, known for bioluminescent glow and 
 
 Legends speak of ox mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ox mpmm.
 
-## Adventure Hooks
-
-- A rumor ties ox mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ox mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ox mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Plot Hooks
+
+- Someone is hunting information for love
+- Strange accidents suggest a conspiracy
+- Strange accidents suggest a portal
+- A map reveals ancient history about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

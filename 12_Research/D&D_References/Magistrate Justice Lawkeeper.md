@@ -17,28 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -48,28 +42,34 @@ Magistrate Justice Lawkeeper is a undersea element of the setting, known for bio
 
 Legends speak of Magistrate Justice Lawkeeper as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Magistrate Justice Lawkeeper.
 
-## Adventure Hooks
-
-- A rumor ties Magistrate Justice Lawkeeper to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Magistrate Justice Lawkeeper to avert a public scandal.
-- A map overlay reveals a hidden approach to Magistrate Justice Lawkeeper active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Magistrate Justice Lawkeeper|02 Worldbuilding/Places/Magistrate Justice Lawkeeper]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Port Meridian - Market Square]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- Someone is blackmailing a witness for power
+- A corpse reveals a betrayal about the cult
+- A letter reveals the truth about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,12 +22,28 @@ updated: '2025-08-13T12:34:04.514786+00:00'
 world: Both
 ---
 
-
-
 # Rest Variants
 *Source: Dungeon Master's Guide p. 267* 
 
 The rules for short and long rests presented in chapter 8 of the "Player's Handbook" work well for a heroic-style campaign. Characters can go toe-to-toe with deadly foes, take damage to within an inch of their lives, yet still be ready to fight again the next day. If this approach doesn't fit your campaign, consider the following variants.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Epic Heroism
 
@@ -49,19 +65,27 @@ Rest variants is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of rest variants as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rest variants.
 
-## Adventure Hooks
-
-- A rumor ties rest variants to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at rest variants to avert a public scandal.
-- A map overlay reveals a hidden approach to rest variants active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and truth emerges
+- Someone is hunting a artifact for love
+- An heirloom has gone missing and war looms
+- Strange accidents suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

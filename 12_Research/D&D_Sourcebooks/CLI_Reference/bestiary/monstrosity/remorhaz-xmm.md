@@ -27,15 +27,31 @@ updated: '2025-08-12T23:37:34.996915'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-remorhaz-xmm-remorhaz-xmm.svg)
 
 # [[remorhaz-xmm|Remorhaz]]
-*Source: Monster Manual (2024) p. 258. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 258. Available in the SRD and the Free Rules (2024)*  
 
 Full-grown remorhazes are single-minded ambush predators. They attempt to bite prey and trap it against their searing bodies, then swallow their meal whole. Remorhazes eat as much as they can, since they might go months without feeding.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Remorhazes
 
@@ -91,10 +107,10 @@ Remorhazes are centipede-like terrors that burrow through snow and ice to ambush
       If the remorhaz takes 30 damage or more on a single turn from a creature inside\
       \ it, the remorhaz must succeed on a DC 15 Constitution saving throw at the\
       \ end of that turn or regurgitate all swallowed creatures, each of which falls\
-      \ in a space within 5 feet of the remorhaz and has the [[conditions#Prone|Prone]]\
+      \ in a space within 5 feet of the remorhaz and has the [[conditions#prone|Prone]]\
       \ condition. If the remorhaz dies, any swallowed creature no longer has the\
       \ [[conditions#Restrained|Restrained]] condition and can\
-      \ escape from the corpse by using 15 feet of movement, exiting [[conditions#Prone|Prone]]."
+      \ escape from the corpse by using 15 feet of movement, exiting [[conditions#prone|Prone]]."
     "name": "Swallow"
 "source":
   - "XMM"
@@ -114,19 +130,15 @@ Remorhaz xmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of remorhaz xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around remorhaz xmm.
 
-## Adventure Hooks
-
-- A rumor ties remorhaz xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at remorhaz xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to remorhaz xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes

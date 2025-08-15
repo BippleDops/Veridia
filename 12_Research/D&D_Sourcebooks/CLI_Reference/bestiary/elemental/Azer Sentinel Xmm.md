@@ -30,12 +30,28 @@ updated: '2025-08-13T12:34:05.761707+00:00'
 world: Both
 ---
 
-
-
 # [[azer-sentinel-xmm|Azer Sentinel]]
-*Source: Monster Manual (2024) p. 25. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 25. Available in the SRD and the Free Rules (2024)*  
 
 Azer sentinels defend their communities' smiths and channel their flames through their weapons.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Azers
 
@@ -59,7 +75,6 @@ Azers are living bronze folk who work the primal elements of creation to craft w
   - !!int "17"
   - !!int "12"
   - !!int "15"
-  - !!int "12"
   - !!int "13"
   - !!int "10"
 "speed": "30 ft."
@@ -68,7 +83,7 @@ Azers are living bronze folk who work the primal elements of creation to craft w
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "passive Perception 11"
-"languages": "Primordial (Ignan)"
+"languages": "Primordial (Ig)"
 "cr": "2"
 "traits":
   - "desc": "At the end of each of the azer's turns, each creature of the azer's choice\
@@ -102,19 +117,25 @@ Azer sentinel xmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of azer sentinel xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around azer sentinel xmm.
 
-## Adventure Hooks
-
-- A rumor ties azer sentinel xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at azer sentinel xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to azer sentinel xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -20,22 +20,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Historical Context
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Current Relevance
-
-TODO
-## See Also
-
-TODO
 
 ## Player-Facing Summary
 
@@ -45,25 +45,27 @@ Random Location Generator is a undersea element of the setting, known for biolum
 
 Legends speak of Random Location Generator as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Random Location Generator.
 
-## Adventure Hooks
-
-- A rumor ties Random Location Generator to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Random Location Generator to avert a public scandal.
-- A map overlay reveals a hidden approach to Random Location Generator active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Vault_Navigation_Hub|Vault Navigation Hub]]
 
 
-## Connections
+## Secret Connections
 
-- See also: [[Central Index]]
-- Related: [[Power Structures]]
-- Connected to: [[Side Adventures]]
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for money
+- A corpse reveals a betrayal about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

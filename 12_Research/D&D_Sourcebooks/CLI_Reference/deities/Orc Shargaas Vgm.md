@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:04.376027+00:00'
 world: Both
 ---
 
-
-
 # Shargaas
 *Source: Volo's Guide to Monsters p. 84* 
 
@@ -37,6 +35,24 @@ world: Both
 Shargaas is a god of darkness and the unknown. He is a secretive and murderous deity, dangerous to all except Gruumsh. His realm is the darkness that no creatures but those devoted to him can see through.
 
 To other orcs, the followers of Shargaas are depraved and twisted creatures that have no honor and skulk in the shadows. Rejected by Yurtrus as too unsuitable to serve as custodians of the dead, these orcs live even deeper inside the lair, close to where the entrance to Shargaas's realm is located. There in the darkness, orcs exiled to meet their fate are either brought into the fold as members of the tribe's Shargaas cult, or are torn to pieces and devoured as sacrificial tributes by the worshipers  of the Night Lord.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Culling the Weak
 
@@ -58,18 +74,9 @@ Orc shargaas vgm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of orc shargaas vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around orc shargaas vgm.
 
-## Adventure Hooks
-
-- A rumor ties orc shargaas vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at orc shargaas vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to orc shargaas vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

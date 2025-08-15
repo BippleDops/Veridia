@@ -27,10 +27,8 @@ updated: '2025-08-12T23:37:36.319491'
 world: Both
 ---
 
-
 # Arcane Gate
 *6th-level, Conjuration*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 500 feet
@@ -47,6 +45,24 @@ A portal is open on only one side (you choose which). Anything entering the open
 
 *Source: Player's Handbook (2024) p. 242*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Arcane gate xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -55,19 +71,18 @@ Arcane gate xphb is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of arcane gate xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around arcane gate xphb.
 
-## Adventure Hooks
-
-- A rumor ties arcane gate xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at arcane gate xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to arcane gate xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

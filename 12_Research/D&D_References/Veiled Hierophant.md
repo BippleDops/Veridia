@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.401930+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-veiled-hierophant-v1-veiled-hierophant.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,28 @@ Veiled Hierophant is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Veiled Hierophant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Veiled Hierophant.
 
-## Adventure Hooks
-
-- A rumor ties Veiled Hierophant to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Veiled Hierophant to avert a public scandal.
-- A map overlay reveals a hidden approach to Veiled Hierophant active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Veiled Hierophant|02 Worldbuilding/Places/Veiled Hierophant]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Temple Ward]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- Someone is blackmailing a artifact for power
+- A prisoner has gone missing and chaos spreads
+- Someone is blackmailing a artifact for money
+- Someone is protecting a witness for money

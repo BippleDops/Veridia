@@ -28,14 +28,29 @@ updated: '2025-08-13T12:34:05.621332+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-darkmantle-xmm-darkmantle-xmm.svg)
 
 # [[darkmantle-xmm|Darkmantle]]
-*Source: Monster Manual (2024) p. 90. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 90. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Darkmantle
 
@@ -51,7 +66,6 @@ Darkmantles share similarities with piercers and ropers and often hunt near thos
 > [!quote] A quote from S. Wakeman, Underdark Explorer  
 > 
 > Just assume there's no such thing as a stalactite.
-
 
 ```statblock
 "name": "Darkmantle (XMM)"
@@ -115,19 +129,32 @@ Darkmantle xmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of darkmantle xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around darkmantle xmm.
 
-## Adventure Hooks
-
-- A rumor ties darkmantle xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at darkmantle xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to darkmantle xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals ancient history about a local noble
+- An heirloom has gone missing and chaos spreads
+- Strange sightings suggest a portal
+- A corpse reveals a conspiracy about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

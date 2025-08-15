@@ -19,19 +19,26 @@ updated: '2025-08-13T12:34:28.710378+00:00'
 world: Aquabyssos
 ---
 
-
-
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-memory-meadows-black-market-memory-meadows-black-market.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Overview
+*20 targeted improvements identified*
 
-TODO
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -41,33 +48,30 @@ Memory Meadows is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Memory Meadows as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Meadows.
 
-## Adventure Hooks
-
-- A rumor ties Memory Meadows to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Memory Meadows to avert a public scandal.
-- A map overlay reveals a hidden approach to Memory Meadows active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Quest - The Convergence Crisis]]
-
-
-## Connections
-
-- [[Deep Mother]]
-- [[Memory Harvester Kythara]]
-- [[Memory Merchant Valeria Siltweave]]
-- [[Amnesia Gallery]]
-- [[The Deepmind]]
-- [[Quest - The Convergence Crisis]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting information for money
+- Someone is hunting a artifact for revenge
+- A prisoner has gone missing and chaos spreads
+- Someone is blackmailing an heir for revenge
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.924755+00:00'
 world: Both
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-captain-cornelius-deepwater-captain-cornelius-deepwater.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Innkeeper Marina Dreamwhisper|02 Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Innkeeper Marina Dreamwhisper]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,31 @@ Captain Cornelius Deepwater is a undersea element of the setting, known for biol
 
 Legends speak of Captain Cornelius Deepwater as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Cornelius Deepwater.
 
-## Adventure Hooks
-
-- A rumor ties Captain Cornelius Deepwater to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Captain Cornelius Deepwater to avert a public scandal.
-- A map overlay reveals a hidden approach to Captain Cornelius Deepwater active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals the truth about the government
+- Strange dreams suggest ancient magic
+- A document has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

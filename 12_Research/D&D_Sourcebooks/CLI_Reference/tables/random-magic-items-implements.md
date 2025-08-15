@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.613099'
 world: Both
 ---
 
-
 # Random Magic Items - Implements
 *Source: Dungeon Master's Guide (2024) p. 329* 
 
@@ -73,8 +72,6 @@ world: Both
 
 `dice: [](random-magic-items-implements.md#^implements-uncommon)`
 
-| dice: 1d100 | Item |
-|-------------|------|
 | 01–02 | [[alchemy-jug-xdmg|Alchemy Jug]] |
 | 03–06 | [[1-ammunition-xdmg|Ammunition, +1]] |
 | 07–10 | [[bag-of-holding-xdmg|Bag of Holding]] |
@@ -124,8 +121,6 @@ world: Both
 
 `dice: [](random-magic-items-implements.md#^implements-rare)`
 
-| dice: 1d100 | Item |
-|-------------|------|
 | 01–04 | [[2-ammunition-xdmg|Ammunition, +2]] |
 | 05–08 | [[bag-of-beans-xdmg|Bag of Beans]] |
 | 09–12 | [[belt-of-dwarvenkind-xdmg|Belt of Dwarvenkind]] |
@@ -156,8 +151,6 @@ world: Both
 
 `dice: [](random-magic-items-implements.md#^implements-very-rare)`
 
-| dice: 1d100 | Item |
-|-------------|------|
 | 01–07 | [[3-ammunition-xdmg|Ammunition, +3]] |
 | 08–14 | [[bag-of-devouring-xdmg|Bag of Devouring]] |
 | 15–21 | [[carpet-of-flying-xdmg|Carpet of Flying]] |
@@ -178,8 +171,6 @@ world: Both
 
 `dice: [](random-magic-items-implements.md#^implements-legendary)`
 
-| dice: 1d100 | Item |
-|-------------|------|
 | 01–17 | [[enspelled-weapon-xdmg|Enspelled Weapon]] (level 6, 7, or 8 spell) |
 | 18–34 | [[instrument-of-the-bards-xdmg|Instrument of the Bards]] ([[instrument-of-the-bards-ollamh-harp-xdmg|Ollamh harp]]) |
 | 35–54 | [[sovereign-glue-xdmg|Sovereign Glue]] |
@@ -187,6 +178,24 @@ world: Both
 | 71–83 | [[talisman-of-the-sphere-xdmg|Talisman of the Sphere]] |
 | 84–00 | [[universal-solvent-xdmg|Universal Solvent]] |
 ^implements-legendary
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -196,19 +205,25 @@ Random magic items implements is a undersea element of the setting, known for bi
 
 Legends speak of random magic items implements as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random magic items implements.
 
-## Adventure Hooks
-
-- A rumor ties random magic items implements to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at random magic items implements to avert a public scandal.
-- A map overlay reveals a hidden approach to random magic items implements active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

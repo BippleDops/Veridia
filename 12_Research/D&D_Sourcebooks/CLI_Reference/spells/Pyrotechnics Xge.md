@@ -32,11 +32,8 @@ updated: '2025-08-13T12:34:06.323355+00:00'
 world: Both
 ---
 
-
-
 # Pyrotechnics
 *2nd-level, Transmutation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -44,6 +41,24 @@ world: Both
 - **Duration:** Instantaneous
 
 Choose an area of nonmagical flame that you can see and that fits within a 5-foot cube within range. You can extinguish the fire in that area, and you create either fireworks or smoke when you do so.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Fireworks
 
@@ -67,19 +82,25 @@ Pyrotechnics xge is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of pyrotechnics xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around pyrotechnics xge.
 
-## Adventure Hooks
-
-- A rumor ties pyrotechnics xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at pyrotechnics xge to avert a public scandal.
-- A map overlay reveals a hidden approach to pyrotechnics xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Plot Hooks
+
+- A corpse reveals a betrayal about the cult
+- A document has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

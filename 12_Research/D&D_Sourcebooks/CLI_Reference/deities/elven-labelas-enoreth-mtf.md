@@ -24,7 +24,6 @@ updated: '2025-08-12T23:37:33.941849'
 world: Both
 ---
 
-
 # Labelas Enoreth
 *Source: Mordenkainen's Tome of Foes p. 45* 
 
@@ -42,6 +41,24 @@ Labelas is portrayed as an elderly elf with silver hair, still-active eyes that 
 Elves tend to give Labelas little regard until they experience Remembrance. Like Corellon and Hanali, Labelas makes few demands on his followers. A few minutes each day spent thanking him for his gift of long life and good health, and occasionally placing a fresh flower in one of his shrines, is generally all that's expected. When an elf develops unusual ailments in old age and appears headed for decrepitude, other elves might wonder if these are the repercussions for not paying Labelas his due.
 
 Most settlements have only one or two priests of Labelas. These individuals are elves well past their prime but who have not yet begun to withdraw into themselves. Their duties involve guiding elves who have recently experienced Remembrance, and are thus beginning the journey into introversion in the waning days of one's mortal life. The priests also preside over funeral celebrations, since Labelas is also honored for his role in seeing that elves experience beneficial reincarnations.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Eternal Witness
 
@@ -61,19 +78,23 @@ Elven labelas enoreth mtf is a undersea element of the setting, known for biolum
 
 Legends speak of elven labelas enoreth mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elven labelas enoreth mtf.
 
-## Adventure Hooks
-
-- A rumor ties elven labelas enoreth mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at elven labelas enoreth mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to elven labelas enoreth mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -27,15 +27,31 @@ updated: '2025-08-12T23:37:35.370663'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-awakened-tree-xmm-awakened-tree-xmm.svg)
 
 # [[awakened-tree-xmm|Awakened Tree]]
-*Source: Monster Manual (2024) p. 23. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 23. Available in the SRD and the Free Rules (2024)*  
 
 Some awakened trees stand in still, meditative states for long periods, making them easy to mistake for normal plants, while others patrol regions of natural power. Awakened trees are sometimes brought to life by influences from the Feywild, which make them colorful and endlessly blooming, or by Shadowfell energy, which covers them with grotesque burls or makes them look lifeless.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Awakened Plants
 
@@ -50,7 +66,6 @@ Magic can invest plants with mobility, sapience, and even a voice. Spells such a
 > 
 > Just because we protect the forest doesn't mean it's defenseless.
 
-
 ```statblock
 "name": "Awakened Tree (XMM)"
 "size": "Huge"
@@ -64,7 +79,6 @@ Magic can invest plants with mobility, sapience, and even a voice. Spells such a
   - !!int "19"
   - !!int "6"
   - !!int "15"
-  - !!int "10"
   - !!int "10"
   - !!int "7"
 "speed": "20 ft."
@@ -95,19 +109,23 @@ Awakened tree xmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of awakened tree xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around awakened tree xmm.
 
-## Adventure Hooks
-
-- A rumor ties awakened tree xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at awakened tree xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to awakened tree xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

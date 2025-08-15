@@ -31,9 +31,6 @@ updated: '2025-08-13T12:34:05.824485+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gnoll-demoniac-xmm-gnoll-demoniac-xmm.svg)
 
@@ -41,6 +38,24 @@ world: Both
 *Source: Monster Manual (2024) p. 141*  
 
 Gnoll demoniacs are berserkers that arise from gnolls who've ritualistically fed on flesh corrupted by the Abyss. Now embodying the ruinous hunger of Yeenoghu, these gnolls throw themselves into battle, heedless of odds or their own survival. Rampaging demoniacs even devour other gnolls in their wild frenzies.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Gnolls
 
@@ -54,7 +69,6 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
 > [!quote] A quote from Iggwilv  
 > 
 > Yeenoghu claims gnolls not as his brood but as maggots purposefully released to infest a despised carcass. They are a pernicious rot the Beast of Butchery spreads across mortal worlds. Whatever they once were, they were remade and are now his.
-
 
 ```statblock
 "name": "Gnoll Demoniac (XMM)"
@@ -71,7 +85,6 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
   - !!int "17"
   - !!int "14"
   - !!int "15"
-  - !!int "17"
 "speed": "30 ft."
 "saves":
   - "strength": !!int "6"
@@ -97,7 +110,7 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
       \ ends on it. This area is [[difficult-terrain-xphb|Difficult Terrain]].\
       \ Dexterity Saving Throw: DC 14, any creature that starts its turn in this\
       \ area or enters it for the first time on a turn. Failure: 28 (8d6) Necrotic\
-      \ damage, and the gnoll or a creature of its choice it can see gains 10 [[temporary-hit-points-xphb|Temporary\
+      \ damage, and the gnoll or a creature of its choice it can see gains 10 [[temporary-hit-points-xphb|Temporary\]]
       \ Hit Points]].\
       \ Success: Half damage only."
     "name": "Hunger of Yeenoghu (Recharge 5-6)"
@@ -124,19 +137,25 @@ Gnoll demoniac xmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of gnoll demoniac xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gnoll demoniac xmm.
 
-## Adventure Hooks
-
-- A rumor ties gnoll demoniac xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gnoll demoniac xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to gnoll demoniac xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

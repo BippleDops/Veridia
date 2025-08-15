@@ -29,16 +29,31 @@ updated: '2025-08-13T12:34:05.762636+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-magma-mephit-xmm-magma-mephit-xmm.svg)
 
 # [[magma-mephit-xmm|Magma Mephit]]
-*Source: Monster Manual (2024) p. 207. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 207. Available in the SRD and the Free Rules (2024)*  
 
 These mephits embody the merging of earth and fire as glowing magma. They love melting things, but they loathe magmins and attack them on sight.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Mephits
 
@@ -55,7 +70,6 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 > 
 > I am Seamusxanthuszenus, Slayer of Fiends, Merchant Most Excellent, Purveyor of Death!
 
-
 ```statblock
 "name": "Magma Mephit (XMM)"
 "size": "Small"
@@ -68,9 +82,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "stats":
   - !!int "8"
   - !!int "12"
-  - !!int "12"
   - !!int "7"
-  - !!int "10"
   - !!int "10"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
@@ -81,7 +93,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
-"languages": "Primordial (Ignan, Terran)"
+"languages": "Primordial (Ig, Terran)"
 "cr": "1/2"
 "traits":
   - "desc": "The mephit explodes when it dies. Dexterity Saving Throw: DC 11, each\
@@ -114,19 +126,30 @@ Magma mephit xmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of magma mephit xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around magma mephit xmm.
 
-## Adventure Hooks
-
-- A rumor ties magma mephit xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at magma mephit xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to magma mephit xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Stars
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

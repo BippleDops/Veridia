@@ -19,7 +19,6 @@ flip4
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*

@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.333729+00:00'
 world: Both
 ---
 
-
-
 # Half-Orc Names – Female
 *Source: Xanathar's Guide to Everything p. 179* 
 
@@ -85,6 +83,24 @@ world: Both
 | 99-00 | Zagga |
 ^half-orc-names-female
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Half orc names female xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -93,19 +109,42 @@ Half orc names female xge is a undersea element of the setting, known for biolum
 
 Legends speak of half orc names female xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around half orc names female xge.
 
-## Adventure Hooks
-
-- A rumor ties half orc names female xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at half orc names female xge to avert a public scandal.
-- A map overlay reveals a hidden approach to half orc names female xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals the truth about this place
+- A journal reveals the truth about this place
+- Strange sightings suggest a curse
+- Someone is searching for an heir for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

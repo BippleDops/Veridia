@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.650358'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-vampire-umbral-lord-xmm-v1-vampire-umbral-lord-xmm.svg)
 
@@ -37,6 +35,24 @@ world: Both
 *Source: Monster Manual (2024) p. 318*  
 
 Vampire umbral lords embrace their ties to the darkness, devoting themselves to sinister powers in exchange for access to forbidden magic.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Vampires
 
@@ -56,7 +72,7 @@ Undead vampires lie dormant during the day, retreating to resting places hidden 
 | dice: 1d6 | The Vampire's Resting Place Is... |
 |-----------|-----------------------------------|
 | 1 | Among the roots of a dead tree. |
-| 2 | At the bottom of a stagnant pool. |
+| 2 | At the bottom of a stagt pool. |
 | 3 | A coffin filled with grave dirt. |
 | 4 | A large pot full of blood or vinegar. |
 | 5 | A space accessible only by shape-shifting. |
@@ -71,7 +87,6 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 > 
 > Darling, you are simply delicious...
 
-
 ```statblock
 "name": "Vampire Umbral Lord (XMM)"
 "size": "Small or Medium"
@@ -83,7 +98,6 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 "modifier": !!int "14"
 "stats":
   - !!int "20"
-  - !!int "18"
   - !!int "18"
   - !!int "19"
   - !!int "16"
@@ -100,7 +114,6 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+13"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+9"
 "damage_immunities": "cold, necrotic"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]]"
 "senses": "blindsight 120 ft., passive Perception 23"
@@ -172,9 +185,7 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
       \ of the lair is [[lightly-obscured-xphb|Lightly Obscured]]\
       \ by a persistent, creeping fog. The vampire and any creatures of its choice\
       \ are unaffected by the fog.  "
-    "name": ""
   - "desc": "If the vampire dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/undead/token/vampire-umbral-lord-xmm.webp"
@@ -193,19 +204,40 @@ Vampire umbral lord xmm is a undersea element of the setting, known for biolumin
 
 Legends speak of vampire umbral lord xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around vampire umbral lord xmm.
 
-## Adventure Hooks
-
-- A rumor ties vampire umbral lord xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at vampire umbral lord xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to vampire umbral lord xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a curse
+- A noble needs help delivering before the festival
+- A merchant needs help finding before winter
+- A map reveals a conspiracy about the government
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.640952+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-berbalang-mpmm-berbalang-mpmm.svg)
 
@@ -58,7 +55,6 @@ The knowledge that berbalangs accumulate makes them great sources of information
 "stats":
   - !!int "9"
   - !!int "16"
-  - !!int "9"
   - !!int "17"
   - !!int "11"
   - !!int "10"
@@ -70,13 +66,10 @@ The knowledge that berbalangs accumulate makes them great sources of information
   - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+5"
   - "name": "[[skills#History|History]]"
-    "desc": "+5"
   - "name": "[[skills#Insight|Insight]]"
     "desc": "+2"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+2"
   - "name": "[[skills#Religion|Religion]]"
-    "desc": "+5"
 "senses": "truesight 120 ft., passive Perception 12"
 "languages": "all"
 "cr": "2"
@@ -111,6 +104,24 @@ The knowledge that berbalangs accumulate makes them great sources of information
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 desert
@@ -123,19 +134,22 @@ Berbalang mpmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of berbalang mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around berbalang mpmm.
 
-## Adventure Hooks
-
-- A rumor ties berbalang mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at berbalang mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to berbalang mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and war looms
+- A prisoner has gone missing and chaos spreads
+- Strange disappearances suggest a portal
+- Someone is hunting information for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

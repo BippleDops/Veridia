@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.825484'
 world: Both
 ---
 
-
 # Relics - Rare
 *Source: Dungeon Master's Guide (2024) p. 330* 
 
@@ -40,7 +39,7 @@ world: Both
 | 17–19 | [[enspelled-staff-xdmg|Enspelled Staff]] (level 2 or 3 spell) |
 | 20–22 | [[horn-of-blasting-xdmg|Horn of Blasting]] |
 | 23–25 | [[horn-of-valhalla-xdmg|Horn of Valhalla]] ([[horn-of-valhalla-brass-xdmg|brass]] or [[horn-of-valhalla-silver-xdmg|silver]]) |
-| 26–28 | [[ioun-stone-xdmg|Ioun Stone]] ([[ioun-stone-reserve-xdmg|reserve]] or [[ioun-stone-sustenance-xdmg|sustenance]]) |
+| 26–28 | [[ioun-stone-xdmg|Ioun Stone]] ([[ioun-stone-reserve-xdmg|reserve]] or [[ioun-stone-sustece-xdmg|sustece]]) |
 | 29–31 | [[mace-of-disruption-xdmg|Mace of Disruption]] |
 | 32–34 | [[mace-of-smiting-xdmg|Mace of Smiting]] |
 | 35–37 | [[mace-of-terror-xdmg|Mace of Terror]] |
@@ -63,6 +62,24 @@ world: Both
 | 97–00 | [[2-wand-of-the-war-mage-xdmg|Wand of the War Mage, +2]] |
 ^relics-rare
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Relics rare xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -71,19 +88,15 @@ Relics rare xdmg is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of relics rare xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around relics rare xdmg.
 
-## Adventure Hooks
-
-- A rumor ties relics rare xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at relics rare xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to relics rare xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

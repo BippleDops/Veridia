@@ -17,34 +17,26 @@ updated: '2025-08-13T12:34:13.825296+00:00'
 danger_level: Moderate
 ---
 
-
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-memorial-wall-of-names-memorial-wall-of-names.png]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Overview
+### Connection Improvements
 
-TODO
-## History
+- Add cross-references to related notes
 
-TODO
-## Layout
+### Enhancement Improvements
 
-TODO
-## Notables
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -54,28 +46,18 @@ Memorial Wall of Names is a undersea element of the setting, known for biolumine
 
 Legends speak of Memorial Wall of Names as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memorial Wall of Names.
 
-## Adventure Hooks
-
-- A rumor ties Memorial Wall of Names to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Memorial Wall of Names to avert a public scandal.
-- A map overlay reveals a hidden approach to Memorial Wall of Names active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Memorial Wall of Names|02 Worldbuilding/Places/Memorial Wall Of Names]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The First Failure]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

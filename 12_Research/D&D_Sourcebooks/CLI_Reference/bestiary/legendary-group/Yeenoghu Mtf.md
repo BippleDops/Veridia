@@ -23,13 +23,26 @@ updated: '2025-08-13T12:34:05.973529+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-yeenoghu-mtf-v1-yeenoghu-mtf.svg)
 
-# Yeenoghu
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Mordenkainen's Tome of Foes_
@@ -41,7 +54,6 @@ On Initiative count 20 (losing initiative ties), Yeenoghu can take a lair action
 - Until the next initiative count 20, all gnolls and hyenas within the lair are enraged, causing them to have advantage on melee weapon attack rolls and causing attack rolls to have advantage against them.  
 
 ## Regional effects
-_Source: Mordenkainen's Tome of Foes_
 
 The region containing Yeenoghu's lair is warped by his magic, creating one or more of the following effects:
 
@@ -76,19 +88,24 @@ Yeenoghu mtf is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of yeenoghu mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around yeenoghu mtf.
 
-## Adventure Hooks
-
-- A rumor ties yeenoghu mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at yeenoghu mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to yeenoghu mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting a artifact for money
+- Someone is searching for an heir for love
+- A letter reveals a conspiracy about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

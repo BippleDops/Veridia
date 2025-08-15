@@ -21,11 +21,10 @@ updated: '2025-08-12T23:37:34.785600'
 world: Both
 ---
 
-
 # Chapter 8: Bastions
 *Source: Dungeon Master's Guide (2024), p. 334* 
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/194-10-001-bastion-by-the-sea.webp#center "A Bastion by the sea is more than just an adventurer's getaway A lot can happen here to fuel stories in the campaign"|A Bastion by the sea is mo...]]
+!]
 
 A Bastion is a location that belongs to a player character: a home, a stronghold, and a place of power that the character develops over the course of a campaign. A Bastion offers a character temporary refuge from the dangerous world of adventuring, and it provides opportunities for a character to craft magic items, conduct research, harvest poisons, build ships, and carry out a range of other activities.
 
@@ -34,6 +33,24 @@ As DM, you decide whether Bastions are available in a campaign. Bastions are bes
 There's no need to choose between going on adventures and commanding a Bastion; a character can do both at once. A Bastion has special facilities that generate benefits, and these facilities can also undertake projects while the character is otherwise occupied.
 
 Most importantly, a Bastion is a creative playground for a player and a shared storytelling space in the campaign. Be as permissive as you can with the stories players tell in their Bastions, but players should know their control might be limited by the campaign's larger story, which you strive to make fun for everyone.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Gaining a Bastion
 
@@ -57,8 +74,6 @@ By default, a Bastion turn occurs every 7 days of in-game time. Here are common 
 - The characters are adventuring near their Bastions and resting in their Bastions at night. You might say, "It's been a week since your last Bastion turn, so you can take one now."  
 
 You can slow the frequency of Bastion turns to better serve the needs of your players and your campaign. For example, if the characters have months between adventures, you can call for a Bastion turn every month instead of every 7 days, so the characters aren't issuing so many orders or reaping too many benefits at once.
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/195-10-002-rogue-bastion.webp#center "A Rogue's Bastion on the outskirts of town contains a Guildhall, a Pub, and more!"|A Rogue's Bastion on the o...]]
 
 ## Bastion Map
 
@@ -308,8 +323,6 @@ One of your Bastion's hirelings has a criminal past that comes to light when off
 
 #### Extraordinary Opportunity
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/202-10-009-spring-festival.webp#center "A hero's Bastion hosts a spring festival to which everyone is invited"|A hero's Bastion hosts a s...]]
-
 Your Bastion is given the opportunity to host an important festival or celebration, fund the research of a powerful spellcaster, or appease a domineering noble. Work with the DM to determine the details.
 
 If you seize the opportunity, you must pay 500 GP to cover costs. In return, your Bastion gains a sudden influx of recognition or attention, prompting the DM to roll again on the "Bastion Events" table (rerolling this result if it comes up again).
@@ -368,20 +381,22 @@ Regardless of how the Bastion falls, the player can work with the DM to establis
 
 Legends speak of 08 chapter 8 bastions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 08 chapter 8 bastions.
 
-## Adventure Hooks
-
-- A rumor ties 08 chapter 8 bastions to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 08 chapter 8 bastions to avert a public scandal.
-- A map overlay reveals a hidden approach to 08 chapter 8 bastions active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

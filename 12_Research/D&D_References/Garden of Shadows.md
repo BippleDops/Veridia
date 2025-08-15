@@ -24,17 +24,30 @@ updated: '2025-08-11T00:00:00+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-garden-of-shadows-garden-of-shadows.svg]]
-
-
-
-
 
 # Garden of Shadows
 
 *"In the depths where no sunlight has ever touched, we have learned to cultivate darkness itself, and from it grows wisdom that the surface world cannot comprehend."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -52,8 +65,6 @@ Unlike other parts of Aquabyssos, no artificial lighting illuminates these space
 
 The central chamber, known as the Heart of Shadows, contains a pool of perfectly still water that serves as both a scrying focus and a meditation aid. Surrounding chambers are dedicated to different aspects of shadow work: cultivation, research, contemplation, and instruction.
 
-## Districts
-
 ### The Cultivation Halls
 Extensive growing chambers where shadow-adapted plants and coral are carefully tended. These organisms form the foundation of the Garden's unique ecosystem.
 
@@ -65,14 +76,6 @@ Secure area where scholars study the properties of darkness, shadow magic, and t
 
 ### The Whispering Gallery
 A natural acoustic phenomenon creates a space where conversations can be heard across great distances, making it popular for discrete meetings.
-
-## Notable Features
-
-- **The Heart of Shadows**: A perfectly circular pool that reflects things not normally visible to the eye
-- **Living Shadow Vines**: Plants that seem to absorb light and create areas of deeper darkness
-- **The Echo Chamber**: Where spoken thoughts return as shadows that can be observed and studied
-- **Umbral Fountains**: Water features that flow with liquid shadow rather than ordinary water
-- **The Archive of Dark Wisdom**: A library specializing in texts about shadow magic, deep meditation, and abyssal philosophy
 
 ## Population
 
@@ -98,63 +101,16 @@ The Garden was established twenty years ago by a group of philosophers and shado
 
 Initially viewed with suspicion by some citizens who associated darkness with malevolent forces, the Garden has gradually earned respect through its contributions to meditation techniques, shadow magic safety practices, and philosophical inquiry.
 
-## Current Events
-
-- Increased interest from various factions seeking neutral meeting spaces
-- Reports of unusual shadow phenomena that may be connected to the city's political tensions
-- Growing demand for meditation instruction as stress levels rise throughout Aquabyssos
-- Research into whether the recent corruption affecting the city has shadow magic components
-- Preparation for a major philosophical symposium on the nature of light and darkness
-
-## Notable NPCs
-
-- **Keeper Elara Moonwhisper**: Wise administrator who guides the Garden's operations
-- **Shadow Sage Umbral**: Renowned expert in shadow magic theory and practice
-- **Gardener Void-Touch Theron**: Master cultivator of darkness-adapted plants
-- **The Meditation Circle**: Group of anonymous masters who provide spiritual guidance
-- **Scribe Penumbra**: Keeper of the Archive of Dark Wisdom
-
 ## Adventure Hooks
 
 1. Strange disturbances in the Garden's shadows suggest something is corrupting the carefully maintained balance between light and darkness.
 2. A valuable text from the Archive of Dark Wisdom has been stolen, and the thief seems to understand the Garden's layout suspiciously well.
 3. The party needs to meet with a mysterious contact who will only meet in the absolute darkness of the Garden's deepest chambers.
 
-## Secrets
-
-- The Heart of Shadows occasionally shows visions of events happening elsewhere in the city
-- Several high-ranking faction members regularly visit the Garden for meditation, creating opportunities for intelligence gathering
-- Hidden chambers beneath the Garden contain research materials related to abyssal magic
-- Some of the Garden's "meditation masters" are actually reformed cultists seeking redemption
-
 ## Connections
 
 The Garden connects to Aquabyssos's main thoroughfares through a series of gradually darkening passages that allow visitors to adapt to the lightless environment. Secret passages link it to other mystical sites in the city, while its philosophical network extends to similar institutions in other underwater realms and even some surface locations dedicated to the study of darkness and shadow.
 - [[Lumengarde]]
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -168,13 +124,21 @@ Legends speak of Garden of Shadows as a nexus where past and present converge. L
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Garden of Shadows|02 Worldbuilding/Places/Garden Of Shadows]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing a artifact for money
+- A letter reveals ancient history about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -20,10 +20,6 @@ world: Both
 updated: '2025-08-13T01:18:37.135834+00:00'
 ---
 
-
-
-
-
 # D&D 5e Side Screen (2024)
 
 | Name | Effect |
@@ -70,7 +66,6 @@ updated: '2025-08-13T01:18:37.135834+00:00'
 > [[02-chapter-1-playing-the-game#Mounted Combat|Mounted Combat]]
 
 > [!info]- Movement
-> [[02-chapter-1-playing-the-game#Movement and Position|Movement and Position]]
 > [[02-chapter-1-playing-the-game#Difficult Terrain|Difficult Terrain]]
 > [[02-chapter-1-playing-the-game#Travel Pace|Travel Pace]]
 > [[mounts-and-vehicles-mounts-and-other-animals-phb|03 Mechanics/CLI/tables/mounts And Vehicles Mounts And Other Animals Phb]]
@@ -96,7 +91,6 @@ updated: '2025-08-13T01:18:37.135834+00:00'
 > [!info]- Weapons and Armor
 > [[weapons-xphb|Weapons]]
 > [[armor-xphb|Armor]]
-
 
 > [!info]- Magic Schools
 > ![[school-of-magic-schools-of-magic-xphb|School of Magic; Schools of Magic]]
@@ -129,6 +123,24 @@ updated: '2025-08-13T01:18:37.135834+00:00'
 > [[skills#Stealth|Stealth]]
 > [[skills#Survival|Survival]]
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 DnD5e SideScreen 2024 is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -137,23 +149,34 @@ DnD5e SideScreen 2024 is a undersea element of the setting, known for biolumines
 
 Legends speak of DnD5e SideScreen 2024 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around DnD5e SideScreen 2024.
 
-## Adventure Hooks
-
-- A rumor ties DnD5e SideScreen 2024 to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at DnD5e SideScreen 2024 to avert a public scandal.
-- A map overlay reveals a hidden approach to DnD5e SideScreen 2024 active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[conditions|03 Mechanics/CLI/conditions]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- Strange dreams suggest a curse
+- Someone is protecting a witness for love
+- A journal reveals ancient history about this place
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

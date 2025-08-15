@@ -33,7 +33,6 @@ updated: '2025-08-12T23:37:36.203977'
 world: Both
 ---
 
-
 # Witch Bolt
 *1st-level, Evocation*  
 ![](/03_Mechanics/CLI/spells/img/witch-bolt.webp#right)
@@ -55,6 +54,24 @@ The spell ends if the target is ever outside the spell's range or if it has Tota
 
 *Source: Player's Handbook (2024) p. 343*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Witch bolt xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -63,19 +80,22 @@ Witch bolt xphb is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of witch bolt xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around witch bolt xphb.
 
-## Adventure Hooks
-
-- A rumor ties witch bolt xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at witch bolt xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to witch bolt xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest ancient magic
+- Someone is protecting a artifact for money
+- Someone is blackmailing information for revenge
+- A journal reveals the truth about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

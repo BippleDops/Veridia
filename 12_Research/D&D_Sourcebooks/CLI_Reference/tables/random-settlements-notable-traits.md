@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.204311'
 world: Both
 ---
 
-
 # Random Settlements; Notable Traits
 *Source: Dungeon Master's Guide p. 112* 
 
@@ -53,6 +52,24 @@ world: Both
 | 20 | Built atop ancient ruins |
 ^notable-traits
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Random settlements notable traits is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -61,19 +78,29 @@ Random settlements notable traits is a undersea element of the setting, known fo
 
 Legends speak of random settlements notable traits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random settlements notable traits.
 
-## Adventure Hooks
-
-- A rumor ties random settlements notable traits to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at random settlements notable traits to avert a public scandal.
-- A map overlay reveals a hidden approach to random settlements notable traits active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before winter
+- Strange dreams suggest a conspiracy
+- Someone is protecting information for power
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

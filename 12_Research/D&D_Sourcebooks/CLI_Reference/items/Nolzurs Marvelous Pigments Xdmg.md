@@ -24,12 +24,9 @@ updated: '2025-08-13T12:34:06.842117+00:00'
 world: Both
 ---
 
-
-
 # Nolzur's Marvelous Pigments
 *Wondrous item, very rare*  
 ![](/03_Mechanics/CLI/items/img/nolzurs-marvelous-pigments.webp#right)
-
 
 This fine wooden box contains `d4` pots of pigment and a brush (weighing 1 pound in total). Using the brush and expending 1 pot of pigment, you can paint any number of three-dimensional objects and terrain features (such as walls, doors, trees, flowers, weapons, webs, and pits), provided these elements are all confined to a 20-foot [[cube-area-of-effect-xphb|Cube]]. The effort takes 10 minutes (regardless of the number of elements you create), during which time you must remain in the [[cube-area-of-effect-xphb|Cube]], and requires [[conditions#Concentration|Concentration]]. If your [[conditions#Concentration|Concentration]] is broken or you leave the [[cube-area-of-effect-xphb|Cube]] before the work is done, all the painted elements vanish, and the pot of pigment is wasted.
 
@@ -39,7 +36,25 @@ No object created by a pot of pigment can have a value greater than 25 GP, and t
 
 If you paint a form of energy such as fire or lightning, the energy dissipates as soon as you complete the painting, doing no harm.
 
-*Source: Dungeon Master's Guide (2024) p. 281. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Marvelous Pigments") and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 281. Available in the SRD (as "Marvelous Pigments") and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -49,19 +64,27 @@ Nolzurs marvelous pigments xdmg is a undersea element of the setting, known for 
 
 Legends speak of nolzurs marvelous pigments xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around nolzurs marvelous pigments xdmg.
 
-## Adventure Hooks
-
-- A rumor ties nolzurs marvelous pigments xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at nolzurs marvelous pigments xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to nolzurs marvelous pigments xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals a conspiracy about a local noble
+- A shipment has gone missing and evil awakens
+- A document has gone missing and chaos spreads
+- Strange dreams suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

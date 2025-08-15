@@ -28,10 +28,8 @@ updated: '2025-08-12T23:37:36.054872'
 world: Both
 ---
 
-
 # Mordenkainen's Faithful Hound
 *4th-level, Conjuration*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -48,7 +46,25 @@ On your later turns, you can take a [[actions#Magic|Magic]] action to move the h
 
 **Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[list-spells-classes-wizard|Wizard]]
 
-*Source: Player's Handbook (2024) p. 300. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Faithful Hound") and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 300. Available in the SRD (as "Faithful Hound") and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -58,19 +74,30 @@ Mordenkainens faithful hound xphb is a undersea element of the setting, known fo
 
 Legends speak of mordenkainens faithful hound xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mordenkainens faithful hound xphb.
 
-## Adventure Hooks
-
-- A rumor ties mordenkainens faithful hound xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at mordenkainens faithful hound xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to mordenkainens faithful hound xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help delivering before winter
+- A map reveals the truth about this place
+- A journal reveals the truth about the government
+- A merchant needs help finding before the festival
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

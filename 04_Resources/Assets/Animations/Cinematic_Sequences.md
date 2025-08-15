@@ -12,7 +12,6 @@ status: draft
 updated: '2024-01-01T00:00:00+00:00'
 ---
 
-
 # Cinematic Sequences (Video Prompts)
 
 ```json
@@ -34,8 +33,6 @@ updated: '2024-01-01T00:00:00+00:00'
 }
 ```
 
-```json
-{
   "id": "cin-sky-whale-sunset",
   "title": "Sky Whale Migration at Sunset",
   "duration_s": 10,
@@ -43,70 +40,41 @@ updated: '2024-01-01T00:00:00+00:00'
   "style": "Aethermoor sky, cloudstone spires, warm rim light",
   "shot": "wide shot; camera pans following a pod of sky whales crossing between brass airships",
   "action": "soft contrails; banners flutter; lens bloom avoided; whales cast shadows over city",
-  "negatives": [
     "text labels",
     "hard sci-fi panels",
     "neon UI",
     "over-glamorized faces"
-  ]
-}
-```
 
-```json
-{
   "id": "cin-drowned-cathedral-candles",
   "title": "Drowned Cathedral Vigil",
   "duration_s": 11,
-  "aspect": "16:9",
   "style": "subsurface caustics, pressure-glass, candle glow",
   "shot": "static medium-wide inside a flooded nave; floating candles drift past broken stained-glass",
   "action": "particles drift; distant whale call; shafts of light oscillate with waves",
-  "negatives": [
     "readable text",
     "CGI oversharpness",
     "modern signage"
-  ]
-}
-```
 
-```json
-{
   "id": "cin-storm-airship-deck",
   "title": "Storm on the Airship Deck",
   "duration_s": 9,
-  "aspect": "16:9",
   "style": "Aethermoor romantic realism, rope and sail detail",
   "shot": "handheld-feel; crew lashing lines as gusts hit; camera sway synced to wind",
   "action": "rain streaks; lightning distant; no text UI; readable silhouettes at all times",
-  "negatives": [
-    "neon UI",
     "futuristic panels",
     "gibberish overlays"
-  ]
-}
-```
 
-```json
-{
   "id": "cin-merged-zone-stairwell",
   "title": "Merged Zone Stairwell Fracture",
-  "duration_s": 10,
   "aspect": "9:16",
   "style": "reality fracture mixed realm, teal/indigo palette",
   "shot": "vertical shot; steps fold Escher-like while lanternfish swim through air",
   "action": "subtle gravity glitches; cloth flutters upward at times",
-  "negatives": [
-    "text labels",
     "sci-fi UI"
-  ]
-}
-```
-
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

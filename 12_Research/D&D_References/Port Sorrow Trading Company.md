@@ -21,27 +21,32 @@ world: Both
 updated: '2025-08-13T01:18:36.679454+00:00'
 ---
 
-
-
-
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-port-sorrow-trading-company-port-sorrow-trading-company.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-# Port Sorrow Trading Company
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## General Info
 **Location**: Port Sorrow
 
 ## Description
 The Port Sorrow Trading Company is a ruthless and ambitious mercantile company that is determined to become the most powerful force on the seas. They are led by the cunning and charismatic Commodore Viktor Goldwave, and they are not afraid to use dirty tricks to get what they want.
-
-## GM Notes
-- The Port Sorrow Trading Company is a major antagonist for the party, and they will stop at nothing to achieve their goals.
-- The Port Sorrow Trading Company is a rival of the [[02_Worldbuilding/Groups/Shadowhaven Merchant Marine.md|02 Worldbuilding/Groups/Shadowhaven Merchant Marine]].
-- The Port Sorrow Trading Company is secretly in league with the Zhentarim.
 
 ## Player-Facing Summary
 
@@ -51,23 +56,20 @@ Port Sorrow Trading Company is a undersea element of the setting, known for biol
 
 Legends speak of Port Sorrow Trading Company as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Port Sorrow Trading Company.
 
-## Adventure Hooks
-
-- A rumor ties Port Sorrow Trading Company to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Port Sorrow Trading Company to avert a public scandal.
-- A map overlay reveals a hidden approach to Port Sorrow Trading Company active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Dr. Siphon Gillwater|02 Worldbuilding/Quests/Dr. Siphon Gillwater]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

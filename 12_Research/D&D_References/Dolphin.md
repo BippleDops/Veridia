@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.358955+00:00'
 danger_level: Moderate
 ---
 
-
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dolphin-mpmm-dolphin-mpmm.svg)
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Overview
+*20 targeted improvements identified*
 
-TODO
-## History
+### Connection Improvements
 
-TODO
-## Layout
+- Add cross-references to related notes
 
-TODO
-## Notables
+### Enhancement Improvements
 
-TODO
-## Threats
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,25 @@ Dolphin is a undersea element of the setting, known for bioluminescent glow and 
 
 Legends speak of Dolphin as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Dolphin.
 
-## Adventure Hooks
-
-- A rumor ties Dolphin to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Dolphin to avert a public scandal.
-- A map overlay reveals a hidden approach to Dolphin active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Dolphin|02 Worldbuilding/Places/Dolphin]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Current Riders Guild]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

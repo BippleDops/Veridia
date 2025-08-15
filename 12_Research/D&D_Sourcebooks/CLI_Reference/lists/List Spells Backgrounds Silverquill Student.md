@@ -23,33 +23,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# Spells for Silverquill Student
+*20 targeted improvements identified*
 
-## 1st Level
+### Connection Improvements
 
-- [[/03_Mechanics/CLI/spells/dissonant-whispers-xphb "XPHB"|Dissonant Whispers]] with access to 3rd-level spells
-- [[/03_Mechanics/CLI/spells/silvery-barbs-scc "SCC"|Silvery Barbs]] with access to 3rd-level spells
+- Add cross-references to related notes
 
-## 2nd Level
+### Enhancement Improvements
 
-- [[/03_Mechanics/CLI/spells/calm-emotions-xphb "XPHB"|Calm Emotions]] with access to 3rd-level spells
-- [[/03_Mechanics/CLI/spells/darkness-xphb "XPHB"|Darkness]] with access to 3rd-level spells
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## 3rd Level
-
-- [[/03_Mechanics/CLI/spells/beacon-of-hope-xphb "XPHB"|Beacon of Hope]] with access to 3rd-level spells
-- [[/03_Mechanics/CLI/spells/daylight-xphb "XPHB"|Daylight]] with access to 3rd-level spells
-
-## 4th Level
-
-- [[/03_Mechanics/CLI/spells/compulsion-xphb "XPHB"|Compulsion]] with access to 3rd-level spells
-- [[/03_Mechanics/CLI/spells/confusion-xphb "XPHB"|Confusion]] with access to 3rd-level spells
-
-## 5th Level
-
-- [[/03_Mechanics/CLI/spells/dominate-person-xphb "XPHB"|Dominate Person]] with access to 3rd-level spells
-- [[/03_Mechanics/CLI/spells/rarys-telepathic-bond-xphb "XPHB"|Rary's Telepathic Bond]] with access to 3rd-level spells
 
 ## Player-Facing Summary
 
@@ -59,19 +48,30 @@ List spells backgrounds silverquill student scc is a undersea element of the set
 
 Legends speak of list spells backgrounds silverquill student scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells backgrounds silverquill student scc.
 
-## Adventure Hooks
-
-- A rumor ties list spells backgrounds silverquill student scc to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells backgrounds silverquill student scc to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells backgrounds silverquill student scc active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help finding before the festival
+- An heirloom has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

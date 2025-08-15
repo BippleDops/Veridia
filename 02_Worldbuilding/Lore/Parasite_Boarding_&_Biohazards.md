@@ -1,20 +1,84 @@
 ---
+
 title: Parasite Boarding & Biohazards
 type: lore
 tags:
 - lore
 - active
+- bloodline
 created: '2025-08-14'
 modified: '2025-08-14'
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
-# Parasite Boarding & Biohazards
+
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
 
 ## Overview
 
 Parasite Boarding & Biohazards represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
-
-## Description
 
 ### Basic Information
 Parasite Boarding & Biohazards can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
@@ -25,8 +89,6 @@ Parasite Boarding & Biohazards can be understood as a multifaceted element that 
 
 ### Detailed Explanation
 The full nature of Parasite Boarding & Biohazards involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
-
-## Context & Connections
 
 ### Historical Context
 The origins and development of Parasite Boarding & Biohazards trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
@@ -45,8 +107,6 @@ Different groups view Parasite Boarding & Biohazards through their own cultural 
 - Regional variations
 - Conflicting perspectives
 
-## Characteristics
-
 ### Defining Features
 What makes Parasite Boarding & Biohazards unique:
 - Specific attributes or qualities
@@ -60,8 +120,6 @@ Different forms or interpretations:
 - Historical evolution
 - Cultural adaptations
 - Individual variations
-
-## Practical Information
 
 ### How It Works
 The functional aspects of Parasite Boarding & Biohazards:
@@ -84,8 +142,6 @@ How one might encounter or utilize Parasite Boarding & Biohazards:
 - Requirements for interaction
 - Restrictions or taboos
 
-## Impact & Influence
-
 ### Direct Effects
 Immediate consequences of Parasite Boarding & Biohazards:
 - On individuals
@@ -107,8 +163,6 @@ Future implications:
 - Possible endpoints
 - Cyclical patterns
 
-## Current Status
-
 ### Present Situation
 The current state of Parasite Boarding & Biohazards:
 - Active developments
@@ -123,11 +177,9 @@ How Parasite Boarding & Biohazards has been involved recently:
 - New discoveries
 - Shifts in control or access
 
-## Mysteries & Questions
-
 ### Unknown Aspects
 What remains unclear about Parasite Boarding & Biohazards:
-- Unanswered questions
+- Uswered questions
 - Conflicting information
 - Hidden dimensions
 - Lost knowledge
@@ -138,8 +190,6 @@ Current efforts to understand:
 - Methods being employed
 - Recent discoveries
 - Obstacles to understanding
-
-## Game Applications
 
 ### Adventure Hooks
 Ways to incorporate Parasite Boarding & Biohazards into gameplay:
@@ -163,8 +213,6 @@ How Parasite Boarding & Biohazards fits into narratives:
 - As character motivation
 - As campaign theme
 
-## Additional Notes
-
 ### Variations by Campaign
 How to adjust for different games:
 - Tone adjustments
@@ -178,8 +226,6 @@ Ways Parasite Boarding & Biohazards might evolve:
 - Via story progression
 - Based on world events
 - Through discovery
-
-## References
 
 ### Sources
 Where information comes from:
@@ -201,8 +247,6 @@ Where to learn more:
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
-
-## DM Notes
 
 ### True Nature
 [Hidden information for DM only]
@@ -227,3 +271,27 @@ Adapt as needed for:
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Plot Hooks
+
+- Someone is protecting a witness for money
+- A noble needs help stealing before winter
+- The authorities needs help stealing before dawn
+- A merchant needs help investigating before winter
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

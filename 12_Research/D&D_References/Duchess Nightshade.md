@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.520124+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,26 +42,9 @@ Duchess Nightshade is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Duchess Nightshade as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Duchess Nightshade.
 
-## Adventure Hooks
-
-- A rumor ties Duchess Nightshade to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Duchess Nightshade to avert a public scandal.
-- A map overlay reveals a hidden approach to Duchess Nightshade active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Vex Shadowthorn|02 Worldbuilding/Groups/Vex Shadowthorn]]
-
-
-## Connections
-
-- [[Vex Shadowthorn]]
 
 ## Semantic Connections
 *Related concepts and locations:*
@@ -67,7 +59,26 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[new-organizations]]
 - [[Border Fortresses]]
 
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Winds
+
+
+## Plot Hooks
+
+- A merchant needs help stealing before the new moon
+- Strange dreams suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

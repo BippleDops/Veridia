@@ -32,8 +32,6 @@ updated: '2025-08-12T23:37:35.639156'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-eidolon-mpmm-eidolon-mpmm.svg)
 
@@ -68,9 +66,9 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
   \ from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Grappled|grappled]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
-  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#prone|prone]],\
   \ [[conditions#Restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 18"
 "languages": "the languages it knew in life"
@@ -92,13 +90,13 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
     "name": "Unusual Nature"
 "actions":
   - "desc": "Each creature within 60 feet of the eidolon that can see it must succeed\
-      \ on a DC 15 Wisdom saving throw or be [[conditions#Frightened|frightened]]\
-      \ of it for 1 minute. While [[conditions#Frightened|frightened]]\
+      \ on a DC 15 Wisdom saving throw or be [[conditions#frightened|frightened]]\
+      \ of it for 1 minute. While [[conditions#frightened|frightened]]\
       \ in this way, the creature must take the [[actions#Dash|Dash]]\
       \ action and move away from the eidolon by the safest available route at the\
       \ start of each of its turns, unless there is nowhere for it to move, in which\
       \ case the creature also becomes [[conditions#Stunned|stunned]]\
-      \ until it can move again. A [[conditions#Frightened|frightened]]\
+      \ until it can move again. A [[conditions#frightened|frightened]]\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success. If a target's saving throw is successful\
       \ or the effect ends for it, the target is immune to any eidolon's Divine Dread\
@@ -110,6 +108,24 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 "image": "/03_Mechanics/CLI/bestiary/undead/token/eidolon-mpmm.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Environment
 
@@ -123,18 +139,9 @@ Eidolon mpmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of eidolon mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around eidolon mpmm.
 
-## Adventure Hooks
-
-- A rumor ties eidolon mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at eidolon mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to eidolon mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

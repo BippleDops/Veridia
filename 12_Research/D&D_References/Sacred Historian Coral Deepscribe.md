@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.237361+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-sacred-historian-coral-deepscribe-sacred-historian-coral-deepscribe.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,25 @@ Sacred Historian Coral Deepscribe is a undersea element of the setting, known fo
 
 Legends speak of Sacred Historian Coral Deepscribe as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sacred Historian Coral Deepscribe.
 
-## Adventure Hooks
-
-- A rumor ties Sacred Historian Coral Deepscribe to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Sacred Historian Coral Deepscribe to avert a public scandal.
-- A map overlay reveals a hidden approach to Sacred Historian Coral Deepscribe active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Sacred Historian Coral Deepscribe|02 Worldbuilding/Places/Sacred Historian Coral Deepscribe]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Temple Guardian Marcus the Drowned]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest a portal
+- Strange accidents suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

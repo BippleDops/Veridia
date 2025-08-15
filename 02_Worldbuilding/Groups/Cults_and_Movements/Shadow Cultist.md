@@ -1,4 +1,5 @@
 ---
+
 title: Shadow Cultist
 type: Faction
 tags:
@@ -17,31 +18,81 @@ headquarters: Unknown
 membership: Unknown
 updated: '2025-08-13T12:34:17.403098+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
+
 
 ![Shadow Cultist](../../../04_Resources/Assets/Generated/Misc/shadow_cultist.png)
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Overview
+### History Improvements
 
-TODO
-## Structure
+- Add three historical eras with major events
 
-TODO
-## Goals
+### Culture Improvements
 
-TODO
-## Assets
+- Define unique cultural practices and taboos
 
-TODO
-## Conflicts
+### Economy Improvements
 
-TODO
-## Hooks
+- Detail currency, trade goods, and wealth distribution
 
-TODO
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
 
 ## Player-Facing Summary
 
@@ -51,104 +102,56 @@ Shadow Cultist is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Shadow Cultist as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Cultist.
 
-## Adventure Hooks
-
-- A rumor ties Shadow Cultist to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Shadow Cultist to avert a public scandal.
-- A map overlay reveals a hidden approach to Shadow Cultist active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
-## Known Members
-
-- [[Create New NPC]]
-
-
-## Members
-
-### Notable Members
-- [[Leader Name]] - Current head
-- [[Key Officer]] - Important figure
-- [[Rising Star]] - Ambitious member
-
-### Membership Requirements
-- Skills or qualities needed
-- Initiation process
-- Ongoing obligations
-
-
-## Resources
-
-### Financial
-- Funding sources
-- Wealth level
-- Economic influence
-
-### Physical Assets
-- Properties owned
-- Equipment available
-- Special resources
-
-### Human Resources
-- Member skills
-- Allies and contacts
-- Information networks
-
-
-## Operations
-
-### Regular Activities
-- Day-to-day operations
-- Revenue generation
-- Member services
-
-### Special Operations
-- Covert activities
-- Major projects
-- Crisis responses
-
-
-## Relationships
-
-### Allies
-- Aligned organizations
-- Political supporters
-- Business partners
-
-### Enemies
-- Rival organizations
-- Opposed factions
-- Active threats
-
-### Neutral Parties
-- Potential allies or enemies
-- Trade partners
-- Watching parties
-
-
-## Secrets
-
 ### Open Secrets
 Things widely suspected
 
-### Hidden Truths
-- Real leadership
-- True funding sources
-- Secret objectives
 
-### Deep Mysteries
-- Ancient connections
-- Forbidden knowledge
-- Ultimate goals
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
 
 
-## Connections
+## Prophecy Connection
 
-- See also: [[Campaign Guide]]
-- Related: [[Regional Politics]]
-- Connected to: [[World Events]]
+Mentioned in The Hidden Prophecy of Winds
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- The authorities needs help stealing before winter
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

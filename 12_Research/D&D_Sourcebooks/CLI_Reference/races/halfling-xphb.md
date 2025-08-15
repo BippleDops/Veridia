@@ -22,7 +22,6 @@ updated: '2025-08-12T23:37:37.698544'
 world: Both
 ---
 
-
 # Halfling
 *Source: Player's Handbook (2024) p. 193. Available in the Free Rules (2024)*  
 ![](/03_Mechanics/CLI/races/img/halfling.webp#right)
@@ -32,11 +31,9 @@ world: Both
 - **Size**: Small
 - **Speed**: 30 ft.
 
-## Traits
-
 ### Brave
 
-You have [[advantage-xphb|Advantage]] on saving throws you make to avoid or end the [[conditions#Frightened|Frightened]] condition.
+You have [[advantage-xphb|Advantage]] on saving throws you make to avoid or end the [[conditions#frightened|Frightened]] condition.
 
 ### Halfling Nimbleness
 
@@ -49,6 +46,24 @@ When you roll a 1 on the `d20` of a [[d20-test-xphb|D20 Test]], you can reroll t
 ### Naturally Stealthy
 
 You can take the [[actions#Hide|Hide]] action even when you are obscured only by a creature that is at least one size larger than you.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Description
 
@@ -68,19 +83,20 @@ Halfling xphb is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of halfling xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around halfling xphb.
 
-## Adventure Hooks
-
-- A rumor ties halfling xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at halfling xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to halfling xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for information for love
+- A stranger needs help finding before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

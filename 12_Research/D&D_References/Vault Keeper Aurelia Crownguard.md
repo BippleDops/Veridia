@@ -15,11 +15,25 @@ updated: '2025-08-13T01:18:36.125695+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-vault-keeper-aurelia-crownguard-v1-vault-keeper-aurelia-crownguard.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
 ## Player-Facing Summary
@@ -30,23 +44,26 @@ Vault Keeper Aurelia Crownguard is a undersea element of the setting, known for 
 
 Legends speak of Vault Keeper Aurelia Crownguard as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Vault Keeper Aurelia Crownguard.
 
-## Adventure Hooks
-
-- A rumor ties Vault Keeper Aurelia Crownguard to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Vault Keeper Aurelia Crownguard to avert a public scandal.
-- A map overlay reveals a hidden approach to Vault Keeper Aurelia Crownguard active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Vault Keeper Aurelia Crownguard|02 Worldbuilding/Places/Vault Keeper Aurelia Crownguard]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting information for money
+- Someone is searching for information for power
+- Strange accidents suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

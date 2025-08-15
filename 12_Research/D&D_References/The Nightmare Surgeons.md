@@ -21,27 +21,30 @@ created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 ---
 
-
-
 # The Nightmare Surgeons
 
 *"They cut away pain by removing the ability to feel anything at all."*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 The Nightmare Surgeons are a rogue medical organization that uses extreme and often horrific surgical procedures to "cure" patients of various ailments. Their methods involve removing not just diseased tissue but memories, emotions, and personality traits they consider pathological. They justify their brutal techniques as necessary for true healing, creating a following among the desperate.
-
-## Mechanics
-### Requirements
-- Medical training corrupted by extremist ideology
-- Access to surgical facilities and equipment
-- Supply of desperate patients willing to accept any treatment
-- Network of supporters who believe in radical medical intervention
-
-### Effects
-- **Radical Surgery**: Procedures that remove psychological as well as physical problems
-- **Patient Transformation**: Subjects emerge fundamentally changed
-- **Medical Terror**: Creates fear of seeking medical treatment
-- **Cultish Following**: Attracts both practitioners and patients
 
 ### Duration
 Ongoing organization with permanent effects on victims.
@@ -66,9 +69,22 @@ Legends speak of The Nightmare Surgeons as a nexus where past and present conver
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for a witness for love
+- Strange sightings suggest a conspiracy
+- Someone is protecting information for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

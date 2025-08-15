@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.065065+00:00'
 world: Both
 ---
 
-
-
 # Urban Encounters (Levels 17—20)
 *Source: Xanathar's Guide to Everything p. 110* 
 
@@ -34,7 +32,7 @@ world: Both
 | dice: d100 | Encounter |
 |------------|-----------|
 | 01-05 | 1d10 [[invisible-stalker-xmm|invisible stalkers]] |
-| 06-10 | 1d10 [[revenant-xmm|revenants]] |
+| 06-10 | 1d10 [[revet-xmm|revets]] |
 | 11-14 | 1d6 + 2 [[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm|gladiators]] |
 | 15-18 | 2d4 [[cambion-xmm|cambions]] |
 | 19-22 | 2d6 [[succubus-xmm|succubi]] or 2d6 [[incubus-xmm|incubi]] |
@@ -60,6 +58,24 @@ world: Both
 | 00 | 1 [[tarrasque-xmm|tarrasque]] |
 ^urban-encounters-levels-1720
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Urban encounters levels 1720 xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -68,19 +84,32 @@ Urban encounters levels 1720 xge is a undersea element of the setting, known for
 
 Legends speak of urban encounters levels 1720 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around urban encounters levels 1720 xge.
 
-## Adventure Hooks
-
-- A rumor ties urban encounters levels 1720 xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at urban encounters levels 1720 xge to avert a public scandal.
-- A map overlay reveals a hidden approach to urban encounters levels 1720 xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- Someone is blackmailing a witness for power
+- Someone is hunting an heir for love
+- A merchant needs help finding before dawn
+- Strange disappearances suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

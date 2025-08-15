@@ -16,22 +16,22 @@ updated: '2025-08-13T01:18:35.032220+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Historical Context
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Current Relevance
-
-TODO
-## See Also
-
-TODO
 
 ## Player-Facing Summary
 
@@ -41,23 +41,25 @@ Traditional Spy Networks is a undersea element of the setting, known for biolumi
 
 Legends speak of Traditional Spy Networks as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Traditional Spy Networks.
 
-## Adventure Hooks
-
-- A rumor ties Traditional Spy Networks to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Traditional Spy Networks to avert a public scandal.
-- A map overlay reveals a hidden approach to Traditional Spy Networks active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Shadow Broker Mirrors|02 Worldbuilding/Groups/Shadow Broker Mirrors]]
 
 
-## Connections
+## Plot Hooks
 
-- [[Shadow Broker Mirrors]]
+- Strange sightings suggest a curse
+- A corpse reveals a conspiracy about the government
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

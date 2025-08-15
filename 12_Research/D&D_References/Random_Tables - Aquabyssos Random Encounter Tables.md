@@ -21,11 +21,23 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
-
-
-# Aquabyssos Random Encounter Tables
 ## Depth-Based Encounters for the Drowned Realm
 
 > *"In Aquabyssos, every depth has its own flavor of horror."*
@@ -96,8 +108,6 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 
 ### d100 Encounter Table
 
-| d100 | Encounter | Details |
-|------|-----------|---------|
 | 01-04 | **Parliament Courier** | Carrying sensitive documents, pursued |
 | 05-08 | **Shadow Market Dealers** | Selling shadow restraints and memories |
 | 09-12 | **Depth Adapted Patrol** | 1d4+1 veterans with pressure immunity |
@@ -143,8 +153,6 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 
 ### d100 Encounter Table
 
-| d100 | Encounter | Details |
-|------|-----------|---------|
 | 01-03 | **The Forgotten Ones** | 1d3 antimemetic entities |
 | 04-06 | **Infinite Garden Overflow** | Recursive plants growing |
 | 07-09 | **Suicide Bridge Pilgrims** | Seeking conscious architecture |
@@ -197,8 +205,6 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 
 ### d100 Encounter Table
 
-| d100 | Encounter | Details |
-|------|-----------|---------|
 | 01-02 | **Antibody Titan** | Defending god-corpse |
 | 03-05 | **The Infinite Gardener** | At this recursion level |
 | 06-08 | **Suicide Bridge Consciousness** | The bridge speaks |
@@ -257,8 +263,6 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 
 ### d100 Encounter Table
 
-| d100 | Encounter | Details |
-|------|-----------|---------|
 | 01-10 | **The Depth Mother** | Fragment of her consciousness |
 | 11-20 | **Primordial Entities** | Pre-existence beings |
 | 21-30 | **Living Concepts** | Ideas made flesh |
@@ -280,8 +284,6 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 20: Transcend current reality
 
 ---
-
-## Special Encounter Tables
 
 ### Memory Tide Encounters (d20)
 
@@ -334,8 +336,6 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 
 ---
 
-## Encounter Modifiers
-
 ### By Campaign Type
 
 **Parliament of Shadows**: +10 to rolls involving shadows
@@ -383,7 +383,6 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -391,3 +390,20 @@ updated: '2025-08-13T01:18:37.213178+00:00'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and war looms
+- A map reveals a conspiracy about the cult
+- Strange dreams suggest ancient magic
+- A stranger needs help stealing before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

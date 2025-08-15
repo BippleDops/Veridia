@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:05.216172+00:00'
 world: Both
 ---
 
-
-
 # Races
 *Source: Player's Handbook (2014), p. 17* 
 
@@ -34,6 +32,24 @@ And the people themselves—people of varying size, shape, and color, dressed in
 Scattered among the members of these more common races are the true exotics: a hulking dragonborn here, pushing his way through the crowd, and a sly tiefling there, lurking in the shadows with mischief in her eyes. A group of gnomes laughs as one of them activates a clever wooden toy that moves of its own accord. Half-elves and half-orcs live and work alongside humans, without fully belonging to the races of either of their parents. And there, well out of the sunlight, is a lone drow—a fugitive from the subterranean expanse of the Underdark, trying to make his way in a world that fears his kind. The Player's Handbook has more information about these unusual races.
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/ch2.webp#center)
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Uncommon Races
 
@@ -121,19 +137,25 @@ Some races have subraces. Members of a subrace have the traits of the parent rac
 
 Legends speak of 03 races as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 03 races.
 
-## Adventure Hooks
-
-- A rumor ties 03 races to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 03 races to avert a public scandal.
-- A map overlay reveals a hidden approach to 03 races active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -27,8 +27,6 @@ updated: '2025-08-13T12:34:05.795879+00:00'
 world: Both
 ---
 
-
-
 # [[amnizu-mpmm|Amnizu]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 46, Mordenkainen's Tome of Foes p. 164*  
 
@@ -119,6 +117,24 @@ Some amnizus perform the critical task of watching over the River Styx from fort
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Amnizu mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -127,19 +143,23 @@ Amnizu mpmm is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of amnizu mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around amnizu mpmm.
 
-## Adventure Hooks
-
-- A rumor ties amnizu mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at amnizu mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to amnizu mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

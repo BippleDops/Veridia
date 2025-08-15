@@ -1,4 +1,5 @@
 ---
+
 title: Merchant Delilah Currentrunner
 type: Location
 tags:
@@ -17,6 +18,7 @@ tags:
 - status/in-progress
 - delilah
 - merchant
+- conspiracy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -29,6 +31,8 @@ danger_level: Moderate
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:16.596010+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -36,10 +40,74 @@ world: Aquabyssos
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-merchant-delilah-currentrunner-merchant-delilah-currentrunner.svg]]
 
-
 # Merchant Delilah Currentrunner
 
 *"The currents of commerce never sleep, my friends, and those who learn to ride them will find profit in any storm."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
 
 ## Overview
 
@@ -54,13 +122,6 @@ As political tensions rise in Aquabyssos, Delilah finds herself in the unique po
 Delilah is a confident triton woman in her early forties, with dark blue-green skin marked by intricate tattoos that map the major ocean currents of the region. Her silver hair is kept in practical braids adorned with small shells and metal tokens from her various business dealings. Her eyes are sharp amber, constantly evaluating opportunities and risks.
 
 She dresses in practical but high-quality clothing designed for both underwater and surface environments, with a distinctive coat made from shark leather that serves as her business trademark. She carries a enchanted conch shell that serves as both a communication device and a symbol of her authority in maritime commerce.
-
-## Personality
-
-- Entrepreneurial spirit with an eye for profitable opportunities
-- Fiercely independent and resistant to control by larger organizations
-- Loyal to clients who treat her fairly but ruthless toward those who betray her trust
-- Adventurous nature that drives her to explore new trade routes and markets
 
 ## Statistics
 
@@ -114,31 +175,11 @@ Delilah is busier than ever as the political situation in Aquabyssos creates dem
 
 She's also investigating reports of interference with shipping lanes and suspicious cargo movements that suggest someone is manipulating trade patterns for political purposes.
 
-## Relationships
-
-- **All Major Factions**: Independent contractor providing services to various clients
-- **Merchant Marine Association**: Complicated relationship due to her independent status
-- **Port Meridian Officials**: Professional relationship managing shipping schedules and customs
-- **Her Crew**: Loyal employees who share in the profits and risks of her ventures
-- **International Contacts**: Network of traders and ship captains throughout the region
-
-## Secrets
-
-- Has been transporting mysterious cargo for unknown clients with connections to the surface world
-- Maintains hidden caches of supplies and emergency funds throughout her trading routes
-- Knows the locations of several shipwrecks containing valuable cargo
-- Has discovered evidence of coordinated attacks on independent merchants
-- Possesses charts showing secret passages and hidden harbors throughout the region
-
 ## Quest Hooks
 
 1. Delilah offers the party high-paying transport work, but the cargo attracts unwanted attention from multiple factions.
 2. The party needs fast, discrete transportation to reach a critical location, requiring negotiation with Delilah for her services.
 3. Attacks on merchant vessels threaten to disrupt Delilah's business, and she needs investigators to identify the perpetrators.
-
-
-
-## Map Notes
 
 ### Key Locations
 1. Main entrance/approach
@@ -147,57 +188,9 @@ She's also investigating reports of interference with shipping lanes and suspici
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Delilah serves as both a transportation resource and a source of information about regional trade and politics. Her independent status and diverse client base make her useful for introducing plot complications and opportunities. Use her merchant network to provide information and her vessels for transportation while creating moral dilemmas about the nature of her various clients.
-
-
-## Connections
-
-- [[Captain Garrett Stormcutter]]
-- [[Lumengarde]]
-- [[New Tethys]]
-- [[The Phosphor Markets]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -207,34 +200,6 @@ Merchant Delilah Currentrunner is a undersea element of the setting, known for b
 
 Legends speak of Merchant Delilah Currentrunner as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merchant Delilah Currentrunner.
 
-## Adventure Hooks
-
-- A rumor ties Merchant Delilah Currentrunner to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Merchant Delilah Currentrunner to avert a public scandal.
-- A map overlay reveals a hidden approach to Merchant Delilah Currentrunner active only during specific tides/storms.
-
-## Cross-References
-
-- [[Merchant Delilah Currentrunner]]
-
-<!-- enriched: true -->
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-archaeological-society-archaeological-society.svg]]
-- [[04_Resources_Assets_Locations_location-city-the-spectral-gallery-v1-the-spectral-gallery.svg]]
-- [[Temple Council]]
-
-
 ## Sensory Details
 
 **Sights**: Sunlight filters through stained glass windows
@@ -243,7 +208,6 @@ Legends speak of Merchant Delilah Currentrunner as a nexus where past and presen
 
 **Smells**: The aroma of fresh bread wafts from bakeries
 
-
 ## Description
 
 Merchant Delilah Currentrunner is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -251,35 +215,7 @@ Merchant Delilah Currentrunner is a notable location characterized by its unique
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Merchant Delilah Currentrunner
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -292,15 +228,47 @@ Ongoing situations affecting Merchant Delilah Currentrunner:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Merchant Delilah Currentrunner
+## Trade Importance
 
-### Whispered Rumors
-- Stories that may or may not be true
+Key stop on textiles trade route
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+
+## Plot Hooks
+
+- The authorities needs help investigating before the festival
+- A merchant needs help delivering before winter
+
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

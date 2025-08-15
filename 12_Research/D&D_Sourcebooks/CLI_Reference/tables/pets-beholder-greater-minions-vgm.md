@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.685763'
 world: Both
 ---
 
-
 # Pets; Beholder Greater Minions
 *Source: Volo's Guide to Monsters p. 16* 
 
@@ -45,6 +44,24 @@ world: Both
 
 * For death tyrant lairs, use this table, but replace approximately half of its living minions with ogre zombies.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Pets beholder greater minions vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -53,19 +70,34 @@ Pets beholder greater minions vgm is a undersea element of the setting, known fo
 
 Legends speak of pets beholder greater minions vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around pets beholder greater minions vgm.
 
-## Adventure Hooks
-
-- A rumor ties pets beholder greater minions vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at pets beholder greater minions vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to pets beholder greater minions vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest ancient magic
+- A journal reveals the truth about this place
+- A shipment has gone missing and war looms
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

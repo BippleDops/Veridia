@@ -37,15 +37,9 @@ Crew tips
 Risks
 - You can’t save everyone; choose and carry it well
 
-## Cross-References
-
-- [[Doctrine Quick Reference]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

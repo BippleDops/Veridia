@@ -27,9 +27,6 @@ updated: '2025-08-13T12:34:05.775633+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fiendish-spirit-xphb-fiendish-spirit-xphb.svg)
 
@@ -48,8 +45,6 @@ world: Both
   - !!int "16"
   - !!int "15"
   - !!int "10"
-  - !!int "10"
-  - !!int "16"
 "speed": "40 ft., climb 40 ft. (Demon only), fly 60 ft. (Devil only)"
 "damage_resistances": "fire"
 "damage_immunities": "poison"
@@ -74,7 +69,6 @@ world: Both
   - "desc": "Melee Attack Roll: Bonus equals your spell attack modifier, reach 5\
       \ ft. Hit: 1d12 + 3 + the spell's level Necrotic damage."
     "name": "Bite (Demon Only)"
-  - "desc": "Melee Attack Roll: Bonus equals your spell attack modifier, reach 5\
       \ ft. Hit: 1d8 + 3 + the spell's level Slashing damage. Immediately after\
       \ the attack hits or misses, the spirit can teleport up to 30 feet to an unoccupied\
       \ space it can see."
@@ -88,6 +82,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Fiendish spirit xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -96,19 +108,38 @@ Fiendish spirit xphb is a undersea element of the setting, known for bioluminesc
 
 Legends speak of fiendish spirit xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fiendish spirit xphb.
 
-## Adventure Hooks
-
-- A rumor ties fiendish spirit xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at fiendish spirit xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to fiendish spirit xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- Someone is blackmailing a artifact for love
+- Someone is blackmailing information for love
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

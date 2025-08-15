@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:35.087091+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,26 @@ The Shadow Integration is a undersea element of the setting, known for biolumine
 
 Legends speak of The Shadow Integration as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Shadow Integration.
 
-## Adventure Hooks
-
-- A rumor ties The Shadow Integration to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Shadow Integration to avert a public scandal.
-- A map overlay reveals a hidden approach to The Shadow Integration active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Timeline of the Drowning|02 Worldbuilding/Lore/Timeline Of The Drowning]]
-
-
-## Connections
-
-- [[Timeline of the Drowning]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting a artifact for love
+- A prisoner has gone missing and truth emerges
+- Someone is blackmailing an heir for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

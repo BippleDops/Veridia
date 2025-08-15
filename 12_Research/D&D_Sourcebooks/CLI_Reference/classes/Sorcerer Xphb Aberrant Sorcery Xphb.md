@@ -23,45 +23,35 @@ updated: '2025-08-13T12:34:04.843898+00:00'
 world: Both
 ---
 
-
-
 # Aberrant Sorcery
 *[[sorcerer-xphb|Sorcerer]]: Sorcerer Subclass*  
 *Source: Player's Handbook (2024) p. 145*  
 
 > [!tldr] Class and Feature Progression
 > 
-> <table class="class-progression">
-> <thead>
-> <tr><th colspan='3'></th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
-> </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Aberrant Sorcery (Level 3)' class='internal-link'>Aberrant Sorcery</a></td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Psionic Sorcery (Level 6)' class='internal-link'>Psionic Sorcery</a>, <a href='#Psychic Defenses (Level 6)' class='internal-link'>Psychic Defenses</a></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Revelation in Flesh (Level 14)' class='internal-link'>Revelation in Flesh</a></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Warping Implosion (Level 18)' class='internal-link'>Warping Implosion</a></td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> </tbody></table>
+> LevelPBFeatures
+> 1st+2
+> 2nd+2
+> 3rd+2Aberrant Sorcery
+> 4th+2
+> 5th+3
+> 6th+3Psionic Sorcery, Psychic Defenses
+> 7th+3
+> 8th+3
+> 9th+4
+> 10th+4
+> 11th+4
+> 12th+4
+> 13th+5
+> 14th+5Revelation in Flesh
+> 15th+5
+> 16th+5
+> 17th+6
+> 18th+6Warping Implosion
+> 19th+6
+> 20th+6
 
 ^class-progression
-
-
-## Class Features
 
 ### Aberrant Sorcery (Level 3)
 
@@ -79,7 +69,7 @@ When you reach a Sorcerer level specified in the Psionic Spells table, you there
 
 | Sorcerer Level | Spells |
 |----------------|--------|
-| 3rd | [[arms-of-hadar-xphb|Arms of Hadar]], [[calm-emotions-xphb|Calm Emotions]], [[detect-thoughts-xphb|Detect Thoughts]], [[dissonant-whispers-xphb|Dissonant Whispers]], [[mind-sliver-xphb|Mind Sliver]] |
+| 3rd | [[arms-of-hadar-xphb|Arms of Hadar]], [[calm-emotions-xphb|Calm Emotions]], [[detect-thoughts-xphb|Detect Thoughts]], [[dissot-whispers-xphb|Dissot Whispers]], [[mind-sliver-xphb|Mind Sliver]] |
 | 5th | [[hunger-of-hadar-xphb|Hunger of Hadar]], [[sending-xphb|Sending]] |
 | 7th | [[evards-black-tentacles-xphb|Evard's Black Tentacles]], [[summon-aberration-xphb|Summon Aberration]] |
 | 9th | [[rarys-telepathic-bond-xphb|Rary's Telepathic Bond]], [[telekinesis-xphb|Telekinesis]] |
@@ -97,7 +87,7 @@ When you cast any level 1+ spell from your Psionic Spells feature, you can cast 
 
 ### Psychic Defenses (Level 6)
 
-You have [[resistance-xphb|Resistance]] to Psychic damage, and you have [[advantage-xphb|Advantage]] on saving throws to avoid or end the [[conditions#Charmed|Charmed]] or [[conditions#Frightened|Frightened]] condition.
+You have [[resistance-xphb|Resistance]] to Psychic damage, and you have [[advantage-xphb|Advantage]] on saving throws to avoid or end the [[conditions#Charmed|Charmed]] or [[conditions#frightened|Frightened]] condition.
 
 ### Revelation in Flesh (Level 14)
 
@@ -125,6 +115,24 @@ You can unleash a space-warping anomaly. As a [[actions#Magic|Magic]] action, yo
 
 Once you use this feature, you can't do so again until you finish a [[long-rest-xphb|Long Rest]] unless you spend 5 Sorcery Points (no action required) to restore your use of it.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Sorcerer xphb aberrant sorcery xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -133,18 +141,9 @@ Sorcerer xphb aberrant sorcery xphb is a undersea element of the setting, known 
 
 Legends speak of sorcerer xphb aberrant sorcery xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sorcerer xphb aberrant sorcery xphb.
 
-## Adventure Hooks
-
-- A rumor ties sorcerer xphb aberrant sorcery xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at sorcerer xphb aberrant sorcery xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to sorcerer xphb aberrant sorcery xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

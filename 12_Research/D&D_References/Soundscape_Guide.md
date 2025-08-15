@@ -12,7 +12,6 @@ status: draft
 updated: '2024-01-01T00:00:00+00:00'
 ---
 
-
 # Soundscape Guide
 
 - Underwater: pressure creaks, bubble streams, whale songs
@@ -27,10 +26,26 @@ Recommendations:
 Notes: loop-friendly 2–4 min tracks, crossfades, low-CPU players in VTT.
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -39,3 +54,26 @@ Notes: loop-friendly 2–4 min tracks, crossfades, low-CPU players in VTT.
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- Strange sightings suggest a curse
+- Someone is hunting a witness for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

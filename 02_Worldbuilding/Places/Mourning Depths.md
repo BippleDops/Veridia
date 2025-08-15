@@ -1,4 +1,5 @@
 ---
+
 title: Mourning Depths
 type: Location
 tags:
@@ -22,13 +23,14 @@ population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.560862+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-mourning-depths-mourning-depths.svg]]
-
 
 # Mourning Depths
 
@@ -37,11 +39,71 @@ world: Both
 > *"In the deepest waters, where pressure crushes all but the strongest truths, we lay our beloved to rest in the eternal embrace of the sea. Here, sorrow becomes sacred, memory becomes monument, and the departed find peace in the endless current that carries all souls home."*
 > — [[Keeper of Sorrows Tidal Memento]], High Mourner of the Depths
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+
 ## Overview
 
 The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, a vast memorial complex built into the walls of a deep oceanic trench where the souls of the departed are honored and remembered. More than a simple cemetery, this hallowed place functions as a spiritual sanctuary where grief is transformed into reverence, where memory is preserved in living stone and flowing water, and where the living come to find comfort in their connection to those who have joined the eternal current. The complex encompasses burial chambers, memorial gardens, meditation pools, and sacred spaces where the rituals of death and remembrance maintain their ancient power.
-
-## History and Foundation
 
 ### The Ancient Calling
 
@@ -91,10 +153,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Challenges**: Adapting ancient traditions to modern needs and changes  
 **Future**: Planning for continued service to growing and changing population
 
-## Sacred Architecture and Layout
-
-### The Memorial Sanctuary
-
 #### The Hall of Eternal Tides
 
 **Purpose**: Central ceremonial space for major memorial services and gatherings  
@@ -119,8 +177,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Privacy**: Private spaces for individual and family contemplation  
 **Healing**: Spaces designed to promote emotional healing and spiritual peace
 
-### The Burial Complexes
-
 #### The Ancient Crypts
 
 **History**: Original burial chambers dating to the site's founding  
@@ -143,7 +199,7 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Cultivation**: Careful cultivation of sea plants and marine life  
 **Art**: Integration of memorial sculptures and artistic elements  
 **Families**: Family burial plots within garden settings  
-**Maintenance**: Ongoing maintenance by skilled gardener-mourners
+**Maintece**: Ongoing maintece by skilled gardener-mourners
 
 #### The Preservation Vaults
 
@@ -152,8 +208,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Purpose**: For those whose families or cultures require intact physical remains  
 **Security**: Secure facilities protecting valuable or important remains  
 **Access**: Controlled access for family visits and ceremonial occasions
-
-### Spiritual and Service Facilities
 
 #### The Temple of Tides
 
@@ -187,10 +241,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Families**: Private areas for families to conduct personal ceremonies  
 **Equipment**: Advanced equipment for various preparation techniques
 
-## Spiritual Practices and Traditions
-
-### The Rituals of Passage
-
 #### The Calling of Tides
 
 **Ceremony**: Initial ceremony acknowledging death and beginning memorial process  
@@ -223,8 +273,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Participation**: Universal participation regardless of personal loss  
 **Renewal**: Renewal of commitment to honoring memory and supporting grieving
 
-### Cultural and Religious Adaptations
-
 #### Multi-Faith Accommodation
 
 **Diversity**: Accommodation of various religious and spiritual traditions  
@@ -248,8 +296,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Innovation**: Innovation in memorial practices based on personal meaning  
 **Flexibility**: Flexible approach allowing creative memorial expression  
 **Dignity**: Ensuring dignity and meaning in all memorial approaches
-
-### The Philosophy of Eternal Tides
 
 #### Continuity of Life
 
@@ -275,10 +321,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Cycle**: Understanding of natural cycles of life, death, and renewal  
 **Harmony**: Harmony between human spiritual needs and environmental health
 
-## The Order of Eternal Tides
-
-### Leadership and Organization
-
 #### Keeper of Sorrows [[Tidal Memento]]
 
 **Position**: High spiritual leader of the Order and chief administrator of Mourning Depths  
@@ -302,8 +344,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Research**: Supporting research and genealogical investigation  
 **Preservation**: Ensuring long-term preservation of records and memories  
 **Access**: Providing access to information while respecting privacy
-
-### Spiritual Specialists
 
 #### Grief Counselors
 
@@ -329,19 +369,17 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Symbolism**: Understanding of symbolic meaning in memorial art  
 **Legacy**: Creating lasting artistic legacies honoring the departed
 
-### Support Services
+#### Maintece Guild
 
-#### Maintenance Guild
-
-**Responsibility**: Physical maintenance of memorial complex and grounds  
+**Responsibility**: Physical maintece of memorial complex and grounds  
 **Expertise**: Specialized expertise in underwater construction and preservation  
 **Dedication**: Dedicated to maintaining beautiful and functional memorial spaces  
-**Innovation**: Continuous innovation in maintenance techniques and materials  
+**Innovation**: Continuous innovation in maintece techniques and materials  
 **Pride**: Professional pride in maintaining sacred spaces
 
 #### Garden Keepers
 
-**Cultivation**: Cultivation and maintenance of memorial gardens and living reefs  
+**Cultivation**: Cultivation and maintece of memorial gardens and living reefs  
 **Knowledge**: Expert knowledge of marine biology and underwater horticulture  
 **Art**: Combining scientific knowledge with artistic vision  
 **Growth**: Nurturing growth and development of living memorial spaces  
@@ -354,10 +392,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Emergency**: Emergency response capabilities for various situations  
 **Respect**: Deep respect for sacred nature of their responsibilities  
 **Community**: Integration with broader security community while maintaining independence
-
-## Daily Life and Operations
-
-### Rhythms of Remembrance
 
 #### Dawn Meditations
 
@@ -391,8 +425,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Emergency**: Emergency response for those in crisis  
 **Dedication**: Dedicated service around the clock
 
-### Visitor Services
-
 #### Pilgrimage Support
 
 **Guidance**: Guidance for pilgrims visiting sacred sites  
@@ -417,8 +449,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Healing**: Education about healing and recovery from grief  
 **Community**: Building community understanding and support networks
 
-### Administrative Operations
-
 #### Record Keeping
 
 **Documentation**: Meticulous documentation of all burials and memorial services  
@@ -429,7 +459,7 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 
 #### Facility Management
 
-**Maintenance**: Ongoing maintenance of complex facility systems  
+**Maintece**: Ongoing maintece of complex facility systems  
 **Expansion**: Planning and managing facility expansion and improvement  
 **Resources**: Resource management ensuring sustainable operations  
 **Technology**: Technology management supporting various memorial functions  
@@ -442,10 +472,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Advocacy**: Advocating for needs of grieving individuals and families  
 **Partnership**: Partnerships supporting comprehensive grief and memorial services  
 **Integration**: Integration with broader community life and culture
-
-## Environmental Features and Marine Life
-
-### The Sacred Ecosystem
 
 #### Memorial Reefs
 
@@ -471,8 +497,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Ritual**: Used in various ritual and ceremonial applications  
 **Mystery**: Mysterious source adding to site's spiritual significance
 
-### Marine Life Communities
-
 #### Memorial Fish
 
 **Species**: Unique species that have adapted to living among memorial reefs  
@@ -496,8 +520,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Monitoring**: Continuous monitoring of environmental conditions  
 **Adaptation**: Adaptation to changing conditions while preserving sacred functions  
 **Stewardship**: Environmental stewardship as spiritual responsibility
-
-### Natural Phenomena
 
 #### The Mourning Currents
 
@@ -523,10 +545,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Therapy**: Therapeutic applications for grief and emotional healing  
 **Training**: Training in using pressure environment for spiritual practice
 
-## D&D 5e Encounters and Mechanics
-
-### Spiritual Encounters
-
 #### Communing with the Departed
 
 **Opportunity**: Opportunity to communicate with spirits of the dead  
@@ -550,8 +568,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Skills**: Learning emotional regulation and coping skills  
 **Support**: Ongoing support for dealing with loss and grief  
 **Community**: Connection to supportive community of fellow sufferers
-
-### Mystery and Investigation
 
 #### The Disturbed Grave
 
@@ -577,8 +593,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Evidence**: Gathering evidence of fraudulent activity  
 **Consequences**: Legal and social consequences for fraudulent spiritual claims
 
-### Supernatural Encounters
-
 #### Restless Spirits
 
 **Situation**: Spirits unable to find peace requiring assistance  
@@ -603,8 +617,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Removal**: Methods for removing curses and restoring spiritual balance  
 **Prevention**: Preventing spiritual consequences through proper behavior
 
-### Memorial and Artistic
-
 #### Creating Memorials
 
 **Commission**: Commissioning memorial art or construction  
@@ -621,8 +633,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Legacy**: Creating lasting legacy for future generations  
 **Education**: Educational value of historical preservation work
 
-### Special Mechanics
-
 #### Spiritual Sensitivity
 
 **Ability**: Enhanced ability to perceive and communicate with spirits  
@@ -637,7 +647,7 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Recovery**: Recovery process requiring time and support  
 **Support**: Benefits from community support and professional help  
 **Growth**: Potential for character growth through successful grief processing  
-**Setbacks**: Potential setbacks and complications in healing process
+**Secks**: Potential secks and complications in healing process
 
 #### Sacred Space Benefits
 
@@ -646,10 +656,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Healing**: Accelerated emotional and spiritual healing  
 **Wisdom**: Gaining wisdom and insight through spiritual practice  
 **Community**: Benefits from connection to spiritual community
-
-## Quest Hooks and Adventures
-
-### Major Campaign Arcs
 
 #### The Epidemic of Grief
 
@@ -678,8 +684,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Consequence**: Dealing with consequences of disrupted spiritual balance  
 **Restoration**: Restoring spiritual harmony and natural death cycles
 
-### Medium Adventures
-
 #### The Haunted Memorial
 
 **Level**: 6-10  
@@ -707,8 +711,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Challenge**: Dealing with particularly difficult or complex grief situations  
 **Growth**: Personal growth through service to others in need
 
-### Short Adventures
-
 #### The Lost Child
 
 **Level**: 3-6  
@@ -735,8 +737,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 **Action**: Taking appropriate action based on spiritual guidance  
 **Consequences**: Dealing with consequences of following or ignoring spiritual guidance  
 **Growth**: Spiritual growth through visionary experience
-
-## Connections to Other Locations
 
 ### [[Abyssos Prime]]
 
@@ -801,13 +801,6 @@ The Mourning Depths serves as [[Aquabyssos]]'s most sacred and solemn location, 
 - [[Grief Counseling]]
 - [[Spiritual Healing]]
 
-
-## Connections
-
-- [[Aethermoor-Aquabyssos-World-Connection-Guide]]
-- [[Ω_System-CLI-spells-school-conjuration|Ω System CLI Spells School Conjuration]]
-- [[Aquabyssos - Session 07 - The Resonance Revelation]]
-
 ## Player-Facing Summary
 
 Mourning Depths is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -816,16 +809,6 @@ Mourning Depths is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Mourning Depths as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Mourning Depths.
 
-## Adventure Hooks
-
-- A rumor ties Mourning Depths to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Mourning Depths to avert a public scandal.
-- A map overlay reveals a hidden approach to Mourning Depths active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -833,43 +816,9 @@ Legends speak of Mourning Depths as a nexus where past and present converge. Loc
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Mourning Depths]]
-
-<!-- enriched: true -->
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
-- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-depth-supremacy-movement-depth-supremacy-movement.svg]]
-- [[04_Resources_Assets_Locations_location-city-law-enforcement-medical-support-law-enforcement-medical-support.svg]]
-- [[04_Resources_Assets_Locations_location-city-royal-chaplain-magnus-goldcurrent-v1-royal-chaplain-magnus-goldcurrent.svg]]
-
 
 ## Sensory Details
 
@@ -879,7 +828,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: The aroma of fresh bread wafts from bakeries
 
-
 ## Description
 
 Mourning Depths is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -887,35 +835,7 @@ Mourning Depths is a notable location characterized by its unique features and s
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Mourning Depths
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -928,15 +848,57 @@ Ongoing situations affecting Mourning Depths:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Mourning Depths
+## Plot Hooks
 
-### Whispered Rumors
-- Stories that may or may not be true
+- A stranger needs help finding before the new moon
+- A corpse reveals a betrayal about the cult
+- A letter reveals a conspiracy about the cult
+- Someone is protecting information for revenge
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
+
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

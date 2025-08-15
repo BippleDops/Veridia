@@ -1,4 +1,5 @@
 ---
+
 title: Depth Merchants
 type: Location
 tags:
@@ -35,6 +36,8 @@ specialties:
 - Deep Current Navigation
 updated: '2025-08-13T12:34:17.227918+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -42,9 +45,73 @@ world: Aquabyssos
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-depth-merchants-depth-merchants.svg]]
 
-
 # Depth Merchants
 *Where the Deep Ocean Yields Its Treasures*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
 
 ## Overview
 
@@ -53,8 +120,6 @@ The Depth Merchants district represents [[Aquabyssos]]'s most ambitious commerci
 More than just a market, the Depth Merchants district is a testament to aquatic ingenuity and adaptation. The entire community has evolved to thrive under extreme pressure conditions that would instantly kill surface dwellers and crush most inhabitants of the shallower regions of [[Aquabyssos]]. The merchants here deal in goods and services that exist nowhere else in the known world - from pressure-forged metals that are stronger than any surface alloy, to bioluminescent organisms that create light without heat, to the mysterious memory crystals that form only in the crushing darkness of the deep trenches.
 
 The district serves as both the primary supplier of deep-ocean resources to the rest of [[Aquabyssos]] and as a crucial waystation for explorers, researchers, and traders seeking to venture into the deepest and most dangerous parts of the underwater realm. Its merchants have developed a reputation for being able to acquire virtually anything from the depths - for the right price and with enough advance notice.
-
-## Environmental Conditions
 
 ### Extreme Pressure Environment
 The defining characteristic of the Depth Merchants district is the incredible water pressure at its operating depths:
@@ -72,8 +137,6 @@ The defining characteristic of the Depth Merchants district is the incredible wa
 **Transportation Challenges**: Specialized vessels required for movement between pressure zones
 **Communication Difficulties**: Pressure affects sound transmission and magical communication methods
 
-### Deep Ocean Ecosystem
-
 #### Unique Marine Life
 **Pressure-Adapted Species**: Creatures that exist nowhere else in the ocean
 **Bioluminescent Organisms**: Sources of light adapted to total darkness
@@ -88,8 +151,6 @@ The defining characteristic of the Depth Merchants district is the incredible wa
 **Abyssal Sediments**: Ancient materials containing valuable trace elements
 **Chemosynthetic Byproducts**: Unique substances produced by deep-ocean organisms
 
-## Physical Layout & Architecture
-
 ### Pressure-Resistant Construction
 The entire district is built using advanced underwater engineering techniques designed to withstand the crushing depths:
 
@@ -100,8 +161,6 @@ The entire district is built using advanced underwater engineering techniques de
 **Flexible Membranes**: Walls that can flex slightly to distribute pressure forces
 **Bio-integrated Architecture**: Buildings that incorporate living organisms for structural support
 
-#### District Zones
-
 ##### The Merchant Core
 **Depth Range**: 3,000-3,500 feet
 **Population**: ~3,000
@@ -111,7 +170,7 @@ The entire district is built using advanced underwater engineering techniques de
 - Merchant guild headquarters and meeting halls
 - Luxury accommodations for visiting traders
 - Communication hubs connecting to shallower depths
-- Banking and financial services adapted to extreme-depth operations
+- Banking and ficial services adapted to extreme-depth operations
 
 ##### The Processing Depths
 **Depth Range**: 3,500-4,000 feet  
@@ -132,7 +191,7 @@ The entire district is built using advanced underwater engineering techniques de
 - Mining operations extracting rare minerals and crystals
 - Harvesting stations for deep-ocean biological resources
 - Research outposts studying the deepest ocean environments
-- Equipment maintenance facilities for extreme-depth operations
+- Equipment maintece facilities for extreme-depth operations
 - Emergency shelter stations for deep-ocean workers
 
 ##### The Frontier Edge
@@ -145,8 +204,6 @@ The entire district is built using advanced underwater engineering techniques de
 - Experimental technology testing sites
 - Emergency rescue stations for failed deep-ocean expeditions
 - Monitoring posts watching for threats from the deepest waters
-
-## Merchant Society & Culture
 
 ### The Pressure Guilds
 The complex environment of extreme depths has created a highly specialized society organized around different aspects of deep-ocean commerce:
@@ -194,8 +251,6 @@ The complex environment of extreme depths has created a highly specialized socie
 - Symbiotic technologies that work with rather than against the environment
 - Emergency life support systems for depth-related crises
 
-### Cultural Adaptations
-
 #### Deep-Ocean Lifestyle
 Living at crushing depths has created unique cultural practices and social adaptations:
 
@@ -218,10 +273,6 @@ Living at crushing depths has created unique cultural practices and social adapt
 **Patience Protocols**: Social customs recognizing that deep-ocean communication often involves significant delays
 **Emergency Signals**: Sophisticated warning systems for the many dangers of deep-ocean life
 **Memory Sharing**: Cultural practices for preserving and passing on critical deep-ocean knowledge
-
-## Major Commercial Operations
-
-### Resource Extraction Enterprises
 
 #### Abyssal Mining Corporation
 **Operations**: Large-scale extraction of rare minerals from ocean floor deposits
@@ -263,8 +314,6 @@ Living at crushing depths has created unique cultural practices and social adapt
 **Risk Management**: Sophisticated monitoring and safety protocols for volcanic activity
 **Emergency Response**: Rapid evacuation and damage control systems for thermal events
 
-### Trade & Transportation Services
-
 #### Deep Current Navigation Guild
 **Purpose**: Professional navigation services for extreme-depth travel and commerce
 **Services**:
@@ -286,11 +335,9 @@ Living at crushing depths has created unique cultural practices and social adapt
 - **Emergency Pods**: Rapid-response vehicles for crisis situations and medical evacuations
 - **Exploration Craft**: Advanced vessels for ventures into unmapped deep-ocean areas
 
-**Safety Standards**: Rigorous inspection and maintenance protocols for pressure-resistant vehicles
+**Safety Standards**: Rigorous inspection and maintece protocols for pressure-resistant vehicles
 **Route Network**: Established transportation corridors connecting major depth zones
 **Scheduling Systems**: Complex logistics coordinating transportation across multiple pressure levels
-
-### Specialized Services
 
 #### Depth Adaptation Services
 **Medical Division**: Healthcare specialized for pressure-related conditions and adaptations
@@ -299,7 +346,7 @@ Living at crushing depths has created unique cultural practices and social adapt
 - Biological modification services for enhanced deep-ocean survival
 - Mental health support for the psychological stresses of deep-ocean living
 
-**Equipment Division**: Rental and maintenance of pressure-survival equipment
+**Equipment Division**: Rental and maintece of pressure-survival equipment
 - Pressure suits for shallow-water dwellers visiting the depths
 - Communication equipment functioning under extreme pressure
 - Emergency life support systems for deep-ocean crises
@@ -310,8 +357,6 @@ Living at crushing depths has created unique cultural practices and social adapt
 - Advanced deep-ocean navigation and survival skills
 - Professional certification programs for various depth-related careers
 - Cultural orientation for those new to deep-ocean society
-
-## Notable Locations
 
 ### The Pressure Palace
 **Description**: Grandest structure in the district, serving as headquarters for the Merchant Council
@@ -373,10 +418,6 @@ Living at crushing depths has created unique cultural practices and social adapt
 **Staffing**: Around-the-clock medical and emergency response personnel
 **Funding**: Supported by district taxes and merchant guild contributions as essential community service
 
-## Threats & Challenges
-
-### Environmental Hazards
-
 #### Pressure-Related Dangers
 **Structural Failure**: Buildings and equipment can catastrophically fail under extreme pressure
 **Decompression Events**: Rapid pressure changes can cause severe injury or death
@@ -390,8 +431,6 @@ Living at crushing depths has created unique cultural practices and social adapt
 **Deep Current Storms**: Powerful underwater weather can disrupt operations and transportation
 **Geological Instability**: Changes in ocean floor can affect mining and construction operations
 **Chemical Contamination**: Toxic substances from deep-ocean sources can threaten community health
-
-### Economic & Political Pressures
 
 #### Market Competition
 **Surface Trade Competition**: Cheaper alternatives to deep-ocean goods reducing demand
@@ -407,8 +446,6 @@ Living at crushing depths has created unique cultural practices and social adapt
 **Government Oversight**: Expanding regulation of deep-ocean commercial operations
 **International Relations**: Deep-ocean trade affecting relationships between different parts of [[Aquabyssos]]
 
-### Security & Safety Concerns
-
 #### Criminal Activity
 **Resource Piracy**: Theft of valuable deep-ocean goods during transportation
 **Equipment Sabotage**: Attacks on critical infrastructure by competitors or enemies
@@ -423,10 +460,6 @@ Living at crushing depths has created unique cultural practices and social adapt
 **Communication Breakdown**: Loss of contact with surface and other parts of [[Aquabyssos]]
 **Resource Conflicts**: Disputes with other deep-ocean communities over resource access
 
-## Game Mechanics (D&D 5e)
-
-### Operating in Extreme Depths
-
 #### Pressure Adaptation Requirements
 **Unprotected Exposure**: Constitution saving throw DC 25 every round or take 6d6 crushing damage
 **Pressure Suits**: Provide protection but reduce Dexterity by 2 and impose disadvantage on stealth
@@ -439,8 +472,6 @@ Living at crushing depths has created unique cultural practices and social adapt
 **Equipment Stress**: Magical items and technology may malfunction under extreme conditions
 **Temperature Effects**: Deep ocean is much colder, potentially requiring cold weather survival measures
 
-### Commercial Opportunities
-
 #### Trading Services
 **Deep-Ocean Resource Broker**: Connect buyers with rare materials available only in the depths
 **Pressure Equipment Rental**: Provide specialized gear for shallow-water dwellers visiting the depths
@@ -449,11 +480,9 @@ Living at crushing depths has created unique cultural practices and social adapt
 
 #### Professional Services
 **Deep-Ocean Consulting**: Expertise in planning and executing deep-ocean operations
-**Technical Support**: Maintenance and repair of pressure-resistant equipment
+**Technical Support**: Maintece and repair of pressure-resistant equipment
 **Emergency Response**: Rescue and medical services for deep-ocean crises
 **Cultural Mediation**: Translation and negotiation services for deep-ocean cultural interactions
-
-### Adventure Opportunities
 
 #### Resource Acquisition Missions
 **Rare Material Collection**: Gather specific deep-ocean resources for important clients
@@ -467,74 +496,12 @@ Living at crushing depths has created unique cultural practices and social adapt
 **Territory Disputes**: Mediate or take sides in conflicts over deep-ocean resource extraction rights
 **Regulatory Compliance**: Help merchants navigate complex regulations governing deep-ocean commerce
 
-## Connected Elements
-
-### Direct Connections
-- **[[Silverscale Consortium]]**: Major commercial partner and competitor
-- **[[Free Current]]**: Important transportation network for moving goods
-- **[[The Memory Meadows]]**: Trading partner for memory-related resources
-- **[[The Deep Mother]]**: Spiritual significance affects some deep-ocean operations
-
-### Secondary Connections
-- **[[Parliament of Echoes]]**: Government body regulating deep-ocean commercial activities
-- **[[Shadow Wells]]**: Source of some deep-ocean phenomena and resources
-- **[[Abyssos Prime]]**: Major market for deep-ocean goods and services
-- **[[Current Riders Guild|02 Worldbuilding/Groups/Current Riders Guild]]**: Transportation services for deep-ocean operations
-
-### Economic Networks
-- Primary supplier of rare materials to rest of [[Aquabyssos]]
-- Key employer for pressure-adapted workers and specialized professionals  
-- Major contributor to regional economy through high-value exports
-- Important technological innovation center for extreme-environment operations
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
-
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
-## DM Notes
-
-### Campaign Integration
-- **Unique Resource Source**: Only location where certain rare materials and services are available
-- **Environmental Challenge**: Tests character adaptability and resource management
-- **Commercial Hub**: Perfect setting for trade-based adventures and economic intrigue
-- **Cultural Diversity**: Showcases adaptation and innovation under extreme conditions
-- **Risk vs Reward**: High-value opportunities balanced by significant dangers
-
-### Running Deep-Ocean Encounters
-- **Emphasize Pressure**: Make the crushing environment a constant presence and concern
-- **Resource Scarcity**: Equipment and supplies are precious in hostile environment
-- **Community Dependence**: Show how survival requires cooperation and mutual support
-- **Innovation Solutions**: Reward creative problem-solving adapted to extreme conditions
-- **Long-Term Consequences**: Decisions have lasting effects in small, isolated community
-
-### Adventure Themes
-- **Adaptation vs Tradition**: Balancing innovation with proven survival methods
-- **Risk vs Reward**: High profits from dangerous deep-ocean operations
-- **Community vs Individual**: Personal success vs collective survival needs
-- **Known vs Unknown**: Exploring unmapped depths with uncertain dangers
-- **Cooperation vs Competition**: Working together vs competing for limited resources
-
-
-## Connections
-
-- [[The Shadow Conspiracy]]
 
 ## Player-Facing Summary
 
@@ -544,31 +511,6 @@ Depth Merchants is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Depth Merchants as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Merchants.
 
-## Adventure Hooks
-
-- A rumor ties Depth Merchants to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Depth Merchants to avert a public scandal.
-- A map overlay reveals a hidden approach to Depth Merchants active only during specific tides/storms.
-
-## Cross-References
-
-- [[Depth Merchants]]
-
-<!-- enriched: true -->
-
-
-## Notable Residents
-
-- [[Guard Captain Morris]]
-- [[Quest - The Admiral's Gambit]]
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-the-last-dance-the-last-dance.svg]]
-- [[The Forgotten Mourner]]
-- [[04_Resources_Assets_Locations_location-city-healer-elena-mindmender-healer-elena-mindmender.svg]]
-
-
 ## Sensory Details
 
 **Sights**: Sunlight filters through stained glass windows
@@ -577,7 +519,6 @@ Legends speak of Depth Merchants as a nexus where past and present converge. Loc
 
 **Smells**: The aroma of fresh bread wafts from bakeries
 
-
 ## Description
 
 Depth Merchants is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -585,47 +526,10 @@ Depth Merchants is a notable location characterized by its unique features and s
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Depth Merchants
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
-
-## History
+**Goverce**: Local authority structure
 
 ### Founding
 Depth Merchants was established in the distant past, growing from humble beginnings to its current state.
-
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
-
 
 ## Current Events
 
@@ -638,15 +542,50 @@ Ongoing situations affecting Depth Merchants:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Depth Merchants
+## Secret Connections
 
-### Whispered Rumors
-- Stories that may or may not be true
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+
+## Trade Importance
+
+Key stop on magic items trade route
+
+
+## Plot Hooks
+
+- A letter reveals a betrayal about a local noble
+- A journal reveals ancient history about the cult
+- A letter reveals a betrayal about this place
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

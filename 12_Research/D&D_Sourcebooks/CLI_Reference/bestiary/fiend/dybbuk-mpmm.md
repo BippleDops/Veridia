@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.521451'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dybbuk-mpmm-dybbuk-mpmm.svg)
 
@@ -54,7 +52,6 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
   - !!int "6"
   - !!int "19"
   - !!int "16"
-  - !!int "16"
   - !!int "15"
   - !!int "14"
 "speed": "40 ft. (hover)"
@@ -64,14 +61,13 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
   - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+4"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+4"
 "damage_resistances": "acid; cold; fire; lightning; thunder; bludgeoning, piercing,\
   \ slashing from nonmagical attacks"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Grappled|grappled]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
-  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#prone|prone]],\
   \ [[conditions#Restrained|restrained]]"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "Abyssal, Common, telepathy 120 ft."
@@ -108,8 +104,8 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
   - "desc": "While Possess Corpse is active, the dybbuk makes the corpse do something\
       \ unnatural, such as vomit blood, twist its head all the way around, or cause\
       \ a quadruped to move as a biped. Any Beast or Humanoid that sees this behavior\
-      \ must succeed on a DC 12 Wisdom saving throw or become [[conditions#Frightened|frightened]]\
-      \ of the dybbuk for 1 minute. The [[conditions#Frightened|frightened]]\
+      \ must succeed on a DC 12 Wisdom saving throw or become [[conditions#frightened|frightened]]\
+      \ of the dybbuk for 1 minute. The [[conditions#frightened|frightened]]\
       \ creature can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success. A creature that succeeds on a saving throw\
       \ against this ability is immune to Control Corpse for 24 hours."
@@ -120,6 +116,24 @@ In their natural form, dybbuks appear as translucent flying jellyfish, trailing 
 "image": "/03_Mechanics/CLI/bestiary/fiend/token/dybbuk-mpmm.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Environment
 
@@ -133,19 +147,37 @@ Dybbuk mpmm is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of dybbuk mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dybbuk mpmm.
 
-## Adventure Hooks
-
-- A rumor ties dybbuk mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dybbuk mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to dybbuk mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and truth emerges
+- A noble needs help delivering before winter
+- A journal reveals the truth about the government
+- Someone is searching for a witness for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

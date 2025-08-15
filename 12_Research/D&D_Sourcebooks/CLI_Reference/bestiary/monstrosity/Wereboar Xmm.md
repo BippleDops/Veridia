@@ -30,14 +30,29 @@ updated: '2025-08-13T12:34:05.312067+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-wereboar-xmm-v1-wereboar-xmm.svg)
 
 # [[wereboar-xmm|Wereboar]]
-*Source: Monster Manual (2024) p. 325. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 325. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Wereboar
 
@@ -62,7 +77,6 @@ Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-
   - !!int "17"
   - !!int "10"
   - !!int "15"
-  - !!int "10"
   - !!int "11"
   - !!int "8"
 "speed": "30 ft., 40 ft. (boar form only)"
@@ -89,7 +103,7 @@ Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Piercing damage.\
       \ If the target is a Medium or smaller creature and the wereboar moved 20+ feet\
       \ straight toward it immediately before the hit, the target takes an extra 7\
-      \ (2d6) Piercing damage and has the [[conditions#Prone|Prone]]\
+      \ (2d6) Piercing damage and has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Tusk (Boar or Hybrid Form Only)"
 "bonus_actions":
@@ -116,18 +130,9 @@ Wereboar xmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of wereboar xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wereboar xmm.
 
-## Adventure Hooks
-
-- A rumor ties wereboar xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at wereboar xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to wereboar xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

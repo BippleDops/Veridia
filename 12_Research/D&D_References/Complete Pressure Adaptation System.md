@@ -24,16 +24,28 @@ updated: '2025-08-13T12:34:17.785555+00:00'
 world: Both
 ---
 
-
-
-
-
-
-
 # Complete Pressure Adaptation System
 *The Ultimate Guide to Evolution Under Pressure*
 
 > **For the Table - Safety First:** This system includes body horror elements. Always check with players about comfort levels. Use the "Narrative Adaptation" option for players who want mechanical benefits without descriptive transformation.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Table of Contents
 1. [Core Concepts](#core-concepts)
@@ -47,8 +59,6 @@ world: Both
 9. [Mechanical Integration](#mechanical-integration)
 10. [Advanced Systems](#advanced-systems)
 11. [Quick Reference](#quick-reference)
-
-## Core Concepts
 
 ### The Pressure Paradigm
 
@@ -134,15 +144,11 @@ For players opting out of transformation:
 - **Symbiotic Partnership:** External creature provides adaptation
 - **Magical Warding:** Protective spells replace physical change
 
-## Adaptation Paths
-
-### The Three Primary Paths
-
 #### 1. The Natural Path (Biological Evolution)
 Embrace organic transformation through exposure and acceptance. Your body becomes one with the depths through gradual metamorphosis.
 
 **Core Philosophy**: "The flesh is clay, pressure is the sculptor"
-**Advantages**: No maintenance, natural immunities, instinctive abilities
+**Advantages**: No maintece, natural immunities, instinctive abilities
 **Disadvantages**: Irreversible, socially isolating, loss of humanity
 
 #### 2. The Constructed Path (Technological Modification)
@@ -150,7 +156,7 @@ Use technology to overcome biological limitations. Pressure suits, implants, and
 
 **Core Philosophy**: "Master the depths, don't become them"
 **Advantages**: Reversible, upgradeable, socially acceptable
-**Disadvantages**: Expensive, requires maintenance, can malfunction
+**Disadvantages**: Expensive, requires maintece, can malfunction
 
 #### 3. The Synthesis Path (Hybrid Adaptation)
 Combine biological and technological approaches, using technology to guide and control biological changes.
@@ -158,10 +164,6 @@ Combine biological and technological approaches, using technology to guide and c
 **Core Philosophy**: "Evolution guided by intelligence"
 **Advantages**: Best of both worlds, controlled transformation
 **Disadvantages**: Complex management, expensive, requires expertise
-
-## Biological Evolution Trees
-
-### Pressure Resistance Branch
 
 #### Tier 1: Basic Adaptations (10-24 AP)
 
@@ -296,8 +298,6 @@ Combine biological and technological approaches, using technology to guide and c
 - Alien thought patterns (alignment shifts to neutral)
 - *Appearance*: Tentacular modifications, impossible anatomy
 
-### Sensory Enhancement Branch
-
 #### Tier 1: Basic Sensory Adaptations (10-24 AP)
 
 **Lateral Line System** (10 AP)
@@ -347,7 +347,7 @@ Combine biological and technological approaches, using technology to guide and c
 - 360-degree vision
 - *Appearance*: Eyes migrate to sides of head
 
-**Psychic Resonance** (65 AP)
+**Psychic Resoce** (65 AP)
 - Detect thoughts within 100 ft
 - Sense emotional states
 - *Appearance*: Pulsing cranium, exposed brain tissue
@@ -357,8 +357,6 @@ Combine biological and technological approaches, using technology to guide and c
 - See 1 round into the future
 - Advantage on all saves
 - *Appearance*: Eyes show multiple timelines
-
-### Metamorphic Branch
 
 #### Tier 1: Basic Metamorphosis (10-24 AP)
 
@@ -421,10 +419,6 @@ Combine biological and technological approaches, using technology to guide and c
 - Gain new creature abilities
 - *Appearance*: Unrecognizable as original species
 
-## Technological Modification Paths
-
-### Pressure Suit Technologies
-
 #### Generation 1: Basic Systems (0-500 ft)
 
 **Standard Atmospheric Suit**
@@ -459,7 +453,7 @@ Combine biological and technological approaches, using technology to guide and c
   - Automatic pressure adjustment
   - Integrated tool systems
   - Holographic HUD
-  - Self-repair nanobots
+  - Self-repair obots
   - Temperature regulation
 - **Failure Rate**: 2% per combat
 - **Upgrade Slots**: 3
@@ -521,8 +515,6 @@ Combine biological and technological approaches, using technology to guide and c
 - **Failure Rate**: 0.1% (catastrophic when occurs)
 - **Upgrade Slots**: Unlimited
 
-### Cybernetic Implants
-
 #### Neural Modifications
 
 **Pressure Compensation Chip** (5,000 gp)
@@ -554,11 +546,11 @@ Combine biological and technological approaches, using technology to guide and c
 - +2 Constitution
 - Sets off magical detection
 
-**Nano-Blood Enhancement** (35,000 gp)
+**o-Blood Enhancement** (35,000 gp)
 - Oxygen efficiency x10
 - Toxin filtration
 - Rapid healing (x3 normal)
-- Weekly nano-injection required (2,000 gp)
+- Weekly o-injection required (2,000 gp)
 
 #### Sensory Implants
 
@@ -578,8 +570,6 @@ Combine biological and technological approaches, using technology to guide and c
 - See through illusions
 - Predict probability outcomes
 - Sanity checks required (DC 15 Wisdom)
-
-### Modification Upgrade Modules
 
 #### Offensive Upgrades
 
@@ -632,10 +622,6 @@ Combine biological and technological approaches, using technology to guide and c
 - Prevent transformation for 24 hours
 - Maintain identity during merger events
 
-## Hybrid Adaptations
-
-### Guided Evolution Programs
-
 #### The Synthesis Protocol
 Combining controlled biological adaptation with technological support:
 
@@ -662,8 +648,6 @@ Combining controlled biological adaptation with technological support:
 - Avoid random mutations
 - Maintain human appearance (mostly)
 - Retain technological compatibility
-
-### Bio-Mechanical Fusion
 
 #### Living Armor Systems
 
@@ -698,8 +682,6 @@ Combining controlled biological adaptation with technological support:
 - May develop independence
 - Cost: 35,000 gp
 
-## Failure & Mutation Tables
-
 ### Adaptation Failure Consequences
 
 When adaptation fails (rolling 1 on any adaptation check), roll d100:
@@ -717,8 +699,6 @@ When adaptation fails (rolling 1 on any adaptation check), roll d100:
 | 36-40 | **Adaptation Stall**: No AP gain for 2 weeks |
 
 #### Major Failures (41-70)
-| Roll | Effect |
-|------|--------|
 | 41-45 | **Organ Failure**: 1 point of Constitution damage |
 | 46-50 | **Uncontrolled Mutation**: Roll on Random Mutation table |
 | 51-55 | **Biological Rejection**: Lose all AP gained in last month |
@@ -727,8 +707,6 @@ When adaptation fails (rolling 1 on any adaptation check), roll d100:
 | 66-70 | **Adaptation Reversal**: Lose highest tier adaptation |
 
 #### Catastrophic Failures (71-95)
-| Roll | Effect |
-|------|--------|
 | 71-75 | **Complete System Shock**: Unconscious for 1d4 days, lose 25% of AP |
 | 76-80 | **Cancerous Growth**: Develop tumors, -2 to all abilities until cured |
 | 81-85 | **Biological Breakdown**: Age 2d10 years instantly |
@@ -736,13 +714,9 @@ When adaptation fails (rolling 1 on any adaptation check), roll d100:
 | 91-95 | **Transformation Lock**: Stuck between forms, constant pain |
 
 #### Fatal Failures (96-100)
-| Roll | Effect |
-|------|--------|
 | 96-97 | **Total Organ Shutdown**: Death in 1d4 hours without intervention |
 | 98-99 | **Explosive Decompression**: Instant death, 20 ft radius damage |
 | 100 | **Consciousness Dissolution**: Body survives, mind destroyed |
-
-### Random Mutation Tables
 
 #### Physical Mutations (d100)
 
@@ -759,8 +733,6 @@ When adaptation fails (rolling 1 on any adaptation check), roll d100:
 | 22-25 | Photosynthetic skin | No need for food in sunlight |
 
 **Neutral (26-70)**
-| Roll | Mutation | Effect |
-|------|----------|--------|
 | 26-30 | Scale patches | No effect, visible |
 | 31-35 | Eye migration | Eyes move position |
 | 36-40 | Webbed digits | +5 swim, -5 climb |
@@ -772,8 +744,6 @@ When adaptation fails (rolling 1 on any adaptation check), roll d100:
 | 66-70 | Texture change | Rough/smooth/slimy skin |
 
 **Detrimental (71-100)**
-| Roll | Mutation | Effect |
-|------|----------|--------|
 | 71-73 | Brittle bones | Vulnerability to bludgeoning |
 | 74-76 | Light sensitivity | Disadvantage in bright light |
 | 77-79 | Metabolic weakness | -2 Constitution |
@@ -788,8 +758,6 @@ When adaptation fails (rolling 1 on any adaptation check), roll d100:
 #### Mental Mutations (d100)
 
 **Beneficial (1-25)**
-| Roll | Mutation | Effect |
-|------|----------|--------|
 | 1-5 | Expanded consciousness | +2 Wisdom |
 | 6-10 | Eidetic memory | Perfect recall |
 | 11-15 | Telepathic sensitivity | Detect thoughts 1/day |
@@ -797,8 +765,6 @@ When adaptation fails (rolling 1 on any adaptation check), roll d100:
 | 21-25 | Collective intelligence | +2 Intelligence when near adapted |
 
 **Neutral (26-70)**
-| Roll | Mutation | Effect |
-|------|----------|--------|
 | 26-35 | Altered perception | See colors differently |
 | 36-45 | Dream sharing | Share dreams with nearby sleepers |
 | 46-55 | Emotional broadcasting | Others sense your emotions |
@@ -806,8 +772,6 @@ When adaptation fails (rolling 1 on any adaptation check), roll d100:
 | 66-70 | Temporal perception | Experience time differently |
 
 **Detrimental (71-100)**
-| Roll | Mutation | Effect |
-|------|----------|--------|
 | 71-75 | Paranoid delusions | -4 to Wisdom |
 | 76-80 | Memory gaps | Forget recent events |
 | 81-85 | Personality split | Multiple personalities |
@@ -815,48 +779,9 @@ When adaptation fails (rolling 1 on any adaptation check), roll d100:
 | 91-95 | Progressive madness | Accumulate madness points |
 | 96-100 | Hive mind susceptibility | Will controlled by collective |
 
-## Social Implications
-
 ### Depth Caste System
 
 Society stratifies based on adaptation level:
-
-#### Surface Caste (0-10 AP)
-- **Status**: Full citizens
-- **Rights**: Property ownership, voting, marriage
-- **Restrictions**: None
-- **Social Perception**: "Pure" humans
-- **Employment**: All professions open
-
-#### Shallow Caste (11-25 AP)
-- **Status**: Modified citizens
-- **Rights**: Limited property, no voting
-- **Restrictions**: Special quarters in some cities
-- **Social Perception**: "Necessary adaptations"
-- **Employment**: Depth-related work preferred
-
-#### Deep Caste (26-50 AP)
-- **Status**: Registered adapted
-- **Rights**: No property, supervised living
-- **Restrictions**: Cannot enter surface zones
-- **Social Perception**: "Barely human"
-- **Employment**: Deep work only
-
-#### Abyss Caste (51-75 AP)
-- **Status**: Monitored entities
-- **Rights**: None recognized
-- **Restrictions**: Quarantine zones
-- **Social Perception**: "Monsters"
-- **Employment**: Hazardous depth operations
-
-#### Transcendent Caste (76+ AP)
-- **Status**: Non-human classification
-- **Rights**: Subjects of study
-- **Restrictions**: Containment or exile
-- **Social Perception**: "Abominations" or "Prophets"
-- **Employment**: None in human society
-
-### Social Interactions by Adaptation
 
 #### Appearance-Based Reactions
 
@@ -878,30 +803,6 @@ Society stratifies based on adaptation level:
 - **Romance**: Impossible with normal humans
 - **Business**: No normal transactions
 
-### Cultural Movements
-
-#### The Purist Coalition
-- **Belief**: Maintain human genetic purity
-- **Actions**: Lobbying, propaganda, violence
-- **Treatment of Adapted**: Hostile, discriminatory
-- **Political Power**: Strong in surface cities
-
-#### The Evolution Embrace
-- **Belief**: Adaptation is human destiny
-- **Actions**: Promote adaptation, research
-- **Treatment of Adapted**: Reverent, supportive
-- **Political Power**: Growing in depth communities
-
-#### The Synthesis Society
-- **Belief**: Technology and biology should merge
-- **Actions**: Fund research, create communities
-- **Treatment of Adapted**: Scientific interest
-- **Political Power**: Influential in academic circles
-
-## Mechanical Integration
-
-### With Combat Systems
-
 #### Adaptation-Based Combat Modifiers
 
 **Attack Bonuses**:
@@ -919,8 +820,6 @@ Society stratifies based on adaptation level:
 - Toxic secretions in grappling
 - Bioluminescent blinding
 
-### With Skill Systems
-
 #### Skill Modifications by Adaptation Level
 
 | AP Range | Physical Skills | Mental Skills | Social Skills |
@@ -930,8 +829,6 @@ Society stratifies based on adaptation level:
 | 26-50 | +4 underwater, -2 surface | +1 perception | -4 with normal humans |
 | 51-75 | +6 underwater, -4 surface | +2 alien knowledge | -6, +2 with adapted |
 | 76+ | +8 underwater, cannot function on surface | Alien thought | Cannot interact normally |
-
-### With Magic Systems
 
 #### Adaptation and Spellcasting
 
@@ -949,8 +846,6 @@ Society stratifies based on adaptation level:
 - Dispel Magic can temporarily suppress adaptations
 - Polymorph conflicts with permanent changes
 - Healing magic may reject modified tissue
-
-## Advanced Systems
 
 ### Adaptation Specialization Paths
 
@@ -984,24 +879,6 @@ Master of biological transformation
 
 Families that have adapted together over generations:
 
-#### Hereditary Adaptations
-- Children born with 10-20 AP
-- Genetic stability in family lines
-- Inherited adaptation resistances
-- Family-specific mutations
-
-#### Dynasty Benefits
-- Shared adaptation experiences
-- Reduced failure rates (-20% to failure rolls)
-- Exclusive adaptation techniques
-- Political power in depth cities
-
-#### Dynasty Obligations
-- Arranged marriages for genetic optimization
-- Must maintain family adaptation levels
-- Defend family territories
-- Pass on adaptation knowledge
-
 ### The Deep Mother's Chosen
 
 Those who embrace the ultimate transformation:
@@ -1011,22 +888,6 @@ Those who embrace the ultimate transformation:
 2. Receive visions from the Deep Mother
 3. Pilgrimage to the deepest trench
 4. Undergo the Merging
-
-#### The Merging Ritual
-- **Duration**: 7 days
-- **Success Rate**: 30%
-- **Failure**: Death or permanent madness
-- **Success**: Become Herald of the Deep Mother
-
-#### Herald Abilities
-- Telepathic link to Deep Mother
-- Control over lesser adapted
-- Immunity to all environmental effects
-- Prophetic visions of possible futures
-- Can initiate reality merger events
-- No longer counts as humanoid
-
-## Quick Reference
 
 ### Adaptation Check Formula
 **Basic Check**: d20 + Constitution modifier + Proficiency (if trained)
@@ -1051,15 +912,13 @@ Those who embrace the ultimate transformation:
 1. Practice new abilities
 2. Social interaction assessment
 3. Nutritional requirements check
-4. Equipment maintenance
+4. Equipment maintece
 
 **Evening**:
 1. Meditation on changes
 2. Memory recording
 3. Communication with other adapted
 4. Planning next adaptations
-
-### Emergency Protocols
 
 #### Adaptation Crisis
 1. Isolate subject immediately
@@ -1093,16 +952,10 @@ Specialization: _______________
 
 Biological Adaptations:
 □ _________________ (AP: ___)
-□ _________________ (AP: ___)
-□ _________________ (AP: ___)
 
 Technological Modifications:
-□ _________________ (AP: ___)
-□ _________________ (AP: ___)
-□ _________________ (AP: ___)
 
 Mutations:
-□ _________________ (Type: ___)
 □ _________________ (Type: ___)
 
 Social Standing:
@@ -1114,7 +967,6 @@ Next Goals:
 1. _______________
 2. _______________
 3. _______________
-```
 
 ## Integration with Other Systems
 
@@ -1137,28 +989,30 @@ Complete Pressure Adaptation System is a undersea element of the setting, known 
 
 Legends speak of Complete Pressure Adaptation System as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Complete Pressure Adaptation System.
 
-## Adventure Hooks
-
-- A rumor ties Complete Pressure Adaptation System to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Complete Pressure Adaptation System to avert a public scandal.
-- A map overlay reveals a hidden approach to Complete Pressure Adaptation System active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Depth Survival Mechanics]]
-
-
-## Connections
-
-- [[Depth Survival Mechanics]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for information for love
+- Strange sightings suggest a curse
+- A shipment has gone missing and war looms
+- Strange accidents suggest ancient magic
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

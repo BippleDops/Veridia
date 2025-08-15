@@ -24,10 +24,8 @@ updated: '2025-08-12T23:37:36.382734'
 world: Both
 ---
 
-
 # Find Steed
 *2nd-level, Conjuration*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -37,6 +35,24 @@ world: Both
 You summon an otherworldly being that appears as a loyal steed in an unoccupied space of your choice within range. This creature uses the [[otherworldly-steed-xphb|Otherworldly Steed]] stat block. If you already have a steed from this spell, the steed is replaced by the new one.
 
 The steed resembles a Large, rideable animal of your choice, such as a horse, a camel, a dire wolf, or an elk. Whenever you cast the spell, choose the steed's creature type—Celestial, Fey, or Fiend—which determines certain traits in the stat block.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Combat
 
@@ -54,7 +70,7 @@ Use the spell slot's level for the spell's level in the stat block.
 
 **Classes**: [[list-spells-classes-paladin|Paladin]]
 
-*Source: Player's Handbook (2024) p. 272. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 272. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -64,19 +80,33 @@ Find steed xphb is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of find steed xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around find steed xphb.
 
-## Adventure Hooks
-
-- A rumor ties find steed xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at find steed xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to find steed xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

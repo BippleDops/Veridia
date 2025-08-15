@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.502064'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-molydeus-mpmm-molydeus-mpmm.svg)
 
@@ -55,7 +53,6 @@ A molydeus' demon lord bestows on it a powerful weapon that dissolves if the mol
   - !!int "25"
   - !!int "21"
   - !!int "24"
-  - !!int "24"
 "speed": "40 ft."
 "saves":
   - "strength": !!int "16"
@@ -69,7 +66,7 @@ A molydeus' demon lord bestows on it a powerful weapon that dissolves if the mol
   \ nonmagical attacks"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
-  \ [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#frightened|frightened]],\
   \ [[conditions#Poisoned|poisoned]], [[conditions#Stunned|stunned]]"
 "senses": "truesight 120 ft., passive Perception 31"
 "languages": "Abyssal, telepathy 120 ft."
@@ -106,7 +103,7 @@ A molydeus' demon lord bestows on it a powerful weapon that dissolves if the mol
       \ components and using Charisma as the spellcasting ability (spell save DC 22):\n\
       \nAt will: [[dispel-magic-xphb|dispel magic]],\
       \ [[polymorph-xphb|polymorph]], [[telekinesis-xphb|telekinesis]],\
-      \ [[teleport-xphb|teleport]]\n\n3/day: [[lightning-bolt-xphb|lightning\
+      \ [[teleport-xphb|teleport]]\n\n3/day: [[lightning-bolt-xphb|lightning\]]
       \ bolt]]"
     "name": "Spellcasting"
 "legendary_actions":
@@ -123,6 +120,24 @@ A molydeus' demon lord bestows on it a powerful weapon that dissolves if the mol
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Molydeus mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -131,19 +146,36 @@ Molydeus mpmm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of molydeus mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around molydeus mpmm.
 
-## Adventure Hooks
-
-- A rumor ties molydeus mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at molydeus mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to molydeus mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- Strange disappearances suggest ancient magic
+- A document has gone missing and evil awakens
+- Strange sightings suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

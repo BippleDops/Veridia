@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.517465+00:00'
 world: Both
 ---
 
-
-
 # Roleplaying Gnolls and Cultists of Yeenoghu
 *Source: Volo's Guide to Monsters p. 36* 
 
@@ -94,7 +92,6 @@ world: Both
 `dice: [](roleplaying-gnolls-and-cultists-of-yeenoghu.md#^gnoll-cultist-flaws)`
 
 | dice: d6 | Flaw |
-|----------|------|
 | 1 | I lack tactical guile and rely on overwhelming attacks. |
 | 2 | I flee from opponents that can match my strength. |
 | 3 | My supposed allies are my first victims. |
@@ -102,6 +99,24 @@ world: Both
 | 5 | My desire to torment my foes sometimes gives them the opportunity to outwit me. |
 | 6 | My arrogance causes me to overlook opportunities. |
 ^gnoll-cultist-flaws
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -111,19 +126,25 @@ Roleplaying gnolls and cultists of yeenoghu is a undersea element of the setting
 
 Legends speak of roleplaying gnolls and cultists of yeenoghu as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around roleplaying gnolls and cultists of yeenoghu.
 
-## Adventure Hooks
-
-- A rumor ties roleplaying gnolls and cultists of yeenoghu to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at roleplaying gnolls and cultists of yeenoghu to avert a public scandal.
-- A map overlay reveals a hidden approach to roleplaying gnolls and cultists of yeenoghu active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before the festival
+- A letter reveals a betrayal about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

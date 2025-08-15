@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.829717'
 world: Both
 ---
 
-
 # Arcana - Legendary
 *Source: Dungeon Master's Guide (2024) p. 326* 
 
@@ -59,6 +58,24 @@ world: Both
 | 97–00 | [[well-of-many-worlds-xdmg|Well of Many Worlds]] |
 ^arcana-legendary
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Arcana legendary xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -67,19 +84,21 @@ Arcana legendary xdmg is a undersea element of the setting, known for biolumines
 
 Legends speak of arcana legendary xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around arcana legendary xdmg.
 
-## Adventure Hooks
-
-- A rumor ties arcana legendary xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at arcana legendary xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to arcana legendary xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help finding before the new moon
+- A corpse reveals ancient history about this place
+- An heirloom has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

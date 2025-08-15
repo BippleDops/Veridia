@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.655174'
 world: Both
 ---
 
-
 # Chapter 5: Neverlight Grove
 *Source: Out of the Abyss, p. 83* 
 
@@ -32,6 +31,24 @@ The relative isolation of Neverlight Grove, its abundance of food and water, and
 However, this particular myconid haven isn't as safe as it might appear. One of their sovereigns has fallen under the sway of Zuggtmoy, the Demon Queen of Fungi, who wasted no time building herself a stronghold in a colossal mushroom called Yggmorgus. There, she works on a malevolent scheme to claim all the Underdark as her domain. More and more myconids are slowly becoming unwitting thralls under her control, and characters who linger in Neverlight Grove might find themselves in great peril.
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/045-ooa05-01.webp#center)
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Going to Neverlight Grove
 
@@ -166,10 +183,8 @@ A more recent development has Basidia even more disturbed when the adventurers a
 
 > [!note] Roleplaying the Myconids
 > 
-> Myconids lead lives completely unlike the experiences of any surface dweller. The only things they have in common with humanoids are the need for sustenance, the desire to live, and the joy of socialization, although they practice each of these things in different ways than humanoids. Truly alien creatures, myconids have difficulty telling flesh-and-blood humanoids apart.
-> 
+> Myconids lead lives completely unlike the experiences of any surface dweller. The only things they have in common with humanoids are the need for sustece, the desire to live, and the joy of socialization, although they practice each of these things in different ways than humanoids. Truly alien creatures, myconids have difficulty telling flesh-and-blood humanoids apart.
 > Myconids are innocent about matters of ethics and morality, their lives centered on living fully each day and worrying little about the future and nothing at all about the past. Despite the communal nature of their existence, they are individuals with their own unique interests and distinct personalities. They gravitate toward simple, shared joys, living by the wisdom and insight their melding provides. Because of their naive and sharing ways, as well as their fungal nature, they are extremely vulnerable to the corrupting influence of Zuggtmoy.
-> 
 > The myconids of Neverlight Grove are beginning to reel from the Lady of Decay's influence, with many blissfully welcoming her madness, while others bravely try to resist it. Myconids affected by Zuggtmoy abandon the growth of life as the core of their being in favor of decay and death. More horrifying is that they do so with childlike innocence, reveling in the corruption of all life with a sense of wonder and joy, unable to grasp the evil they have embraced.
 ^roleplaying-the-myconids
 
@@ -190,9 +205,7 @@ As more and more myconids unwittingly become vessels for Zuggtmoy's spores, Neve
 ## Neverlight Grove
 
 > [!note] 
-> 
 > **Population**: 150 myconids and spore servants
-> 
 > - **Government**: Organized circles ruled by larger specimens called circle leaders; even larger specimens called sovereigns rule the entire colony  
 > - **Defense**: Spore servants and awakened zurkhwoods  
 > - **Commerce: None**  
@@ -204,21 +217,13 @@ Myconids have lived in Neverlight Grove for untold generations, experiencing lit
 Upon her arrival in the Underdark, Zuggtmoy found Neverlight Grove and took up residence there. The myconids welcomed her, sealing their fate. Through telepathically shared dreams, corruption has taken root deep within the colony, warping the myconids' normally placid and peaceful nature into something restive and rapturous. A few realize what is happening and try to resist, but internal strife is alien to the myconids—they will not prevail without outside aid to save them.
 
 > [!note] Neverlight Grove: General Features
-> 
 > Visitors encounter the following features throughout Neverlight Grove.
-> 
 > **Underground Marsh.** Water trickles into the large cavern from many places, forming terraces, pools, and streams. This creates an underground marsh ideal for the growth of fungi and the myconids.
-> 
 > **Abundant Fungi.** Mushrooms, molds, and fungi grow in abundance in Neverlight Grove, creating a bizarre yet beautiful tapestry of color.
-> 
 > **Quiet Cacophony.** Myconids don't speak. They communicate telepathically by emitting their rapport spores. As a result, they live quiet lives. Strange music and singing echoes from the large cavern behind the grove, just loud enough to be noticeable.
-> 
 > **Otherworldly Light.** Luminescent lichen grows across the cavern and spreads to the larger mushrooms, bathing the grove in soft hues of yellow, blue, and violet. Dim light suffuses the entire grove and lends the grove a dreamlike quality.
-> 
 > **Sentinel Mushrooms.** To defend themselves, myconids have cultivated and guided the growth of awakened zurkhwoods (see appendix C) to serve as a kind of palisade around the grove.
-> 
 > **Zuggtmoy's Spores.** This malevolent disease is spread by myconids transformed by Zuggtmoy's demonic influence (see "Myconids" in appendix C).
-> 
 > A transformed myconid can release the spores in a cloud that fills a 10-foot-radius sphere centered on it, and the cloud lingers for 1 minute. Any flesh-and-blood creature in the cloud when it appears, or that enters it later, must make a Constitution saving throw. The save DC is 8 + the myconid's Constitution modifier + the myconid's proficiency bonus. On a successful save, the creature can't be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the spores of Zuggtmoy and also gains a random form of indefinite madness (determined by rolling on the Madness of Zuggtmoy table in appendix D) that lasts until the creature is cured of the disease or dies. While infected in this way, the creature can't be reinfected, and it must repeat the saving throw at the end of every 24 hours, ending the infection on a success. On a failure, the infected creature's body is slowly taken over by fungal growth, and after three such failed saves, the creature dies and is reanimated as a spore servant if it's a type of creature that can be (see the "Myconids" entry in the *Monster Manual*).
 ^neverlight-grove-general-features
 
@@ -231,7 +236,6 @@ Upon her arrival in the Underdark, Zuggtmoy found Neverlight Grove and took up r
 The myconids cultivate this stretch of wilderness as their first line of defense, creating a living palisade. Fungal creatures and wild Underdark beasts form a rich ecosystem here.
 
 > [!readaloud] 
-> 
 > Pale cream and beige stalks grow thick and tall, resembling a surface world forest. Fungi grow in profusion everywhere, and it's hard to find anything resembling a path between them. The giant caps of zurkhwood mushrooms obscure your view of the cavern's ceiling, but luminescent fungi there give off a shimmering aura. With each step taken on the soggy ground, a rank scent of decay rises around you.
 ^22e
 
@@ -249,8 +253,6 @@ Loobamub is happy to enlist the party's aid in dealing with a few unwelcome mons
 
 The terraces lining the northern walls are suffused with *faerzress*, and the myconids reserve these areas for cultivating certain fungi.
 
-> [!readaloud] 
-> 
 > Water trickling from the walls of this vast cavern are channeled into a crude but effective terraced irrigation system. A thick, sweet smell fills the air from the thousands of fungi of all colors and sizes, many glowing with a strange, inviting light.
 ^232
 
@@ -276,8 +278,6 @@ The leader of the growers doesn't care much for Phylo's new ideas. But though it
 
 This depression in the cavern floor is the main part of the myconid colony. The central circle mound was only recently created, and is now a kind of "town square" where all the grove's myconids gather for mass meldings. These have become rare, however, reserved for when Phylo wants to stoke the myconids' enthusiasm for the celebration that only those infected by Zuggtmoy know about. This leaves the uninfected confused but happy that something joyous is about to happen.
 
-> [!readaloud] 
-> 
 > Beyond the mud and mushrooms that spread across the cavern, a large, clear pool sits in the midst of the fungal grove. A central mound seems to be the only dry spot in sight, though a small cliff rises above the cavern floor far across the clearing, with giant mushrooms visible in the distance. Bioluminescent fungi trace strange constellations along the cavern's ceiling and walls, showing the darkness of the ravine and a mist-shrouded smaller cavern beyond.
 ^238
 
@@ -289,8 +289,6 @@ The central mound is the base of the colony's two [[myconid-sovereign-xmm|myconi
 
 The sovereign towers above the other myconids, its multiple caps swaying with the sinuous shifting of its thick stalk as it moves. Once it spreads its rapport spores, Phylo welcomes the characters with honest enthusiasm—doubly so if they have returned [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] and [[/03_Mechanics/CLI/bestiary/npc/rumpadump-oota|Rumpadump]] to their home.
 
-> [!readaloud] 
-> 
 > "You are safe, friendly softers. You arrive at a wondrous time, for Neverlight Grove is on the verge of something great, something marvelous! Celebrate, as the day of joy is nigh!
 ^23b
 
@@ -344,8 +342,6 @@ Behind the myconid breeding grounds is a narrow path leading up to a plateau and
 
 The terraces along the southern rim of the cavern are narrower and not as fertile as the northern ones.
 
-> [!readaloud] 
-> 
 > These terraces are quiet and calm. The only sounds here are soft, "ploopy" splashes as water drips from stalactites above onto the caps of oversized mushrooms sprouting from mushy earth.
 ^244
 
@@ -369,8 +365,6 @@ Among the myconids, Rasharoo and its circle are the adventurers' best hope of fi
 
 Phylo has converted this unused terrace for the exciting new ideas that Zuggtmoy has inspired in it—ideas that are "too incredible" for the rest of the colony to absorb at once. This so-called garden is just a sample of the horrors that Zuggtmoy, the Demon Queen of Fungi, intends to bring to the Underdark.
 
-> [!readaloud] 
-> 
 > This plateau rises higher than the other terraces, screened by a natural fence of soaring zurkhwood stalks. Muffled murmuring can be heard from atop the plateau.
 ^24a
 
@@ -386,10 +380,7 @@ Mutated by Zuggtmoy's spores, the circle leader has become an abomination. No lo
 
 As the characters enter the garden, they make a frightening discovery.
 
-> [!readaloud] 
-> 
 > The low muttering grows louder as you reach the top, turning into a symphony of moans, cries, and hisses. The only light comes from a few glowing mushrooms along the edge, but even in the gloom, you can't miss the source of the sounds. The heads of creatures of a dozen humanoid Underdark races peek from the ground, mold and fungi growing around them.
-> 
 > One voice calls out loudly in Undercommon—a female drow fighting to speak. "Please... for your gods of light... kill me!" She manages to stir within her living grave, raising a spider medallion half-embedded in the bloated growth that was once her hand. Half her face is rotten and pustulate, a bed for the sprouting of scores of tiny mushrooms. "The Great Seeder... trap... she's here... the Lady of Decay... Zuggtmoy..."
 ^24e
 
@@ -399,10 +390,7 @@ Upon her arrival, Xinaya made the mistake of accepting Phylo's invitation to vis
 
 After the characters speak with Xinaya, [[/03_Mechanics/CLI/bestiary/npc/yestabrod-oota|Yestabrod]] appears (see appendix C). The master of the foul garden takes delight in toying with trespassers.
 
-> [!readaloud] 
-> 
 > The moans of the garden's victims suddenly take on a new tone of fear as something moves across the foul ground. A disgusting larval creature rises up before you, showing only vestigial fungal growths that hint that it might once have been a myconid.
-> 
 > "Welcome, travelers." The aberrant myconid's voice gurgles and spits as it speaks both aloud and in your minds at once. "Are you here for the wedding rehearsal? Friends of the bride or her intended? No matter! Let the love of the Great Seeder embrace you as you become one with her chosen, the Great Body!"
 ^24f
 
@@ -424,32 +412,18 @@ In addition to the normal creature XP for this encounter, the characters earn a 
 
 After the confrontation with [[/03_Mechanics/CLI/bestiary/npc/yestabrod-oota|Yestabrod]], the characters can hear sound and movement from the cavern to the northeast. Read the following boxed text if the characters investigate.
 
-> [!readaloud] 
-> 
 > Echoes spill from the misty cavern beyond, a cacophony of wheezing voices that wrap together like some kind of discordant music. The remaining heads planted in the Garden of Welcome begin to croak and groan, joining the horrible song.
-> 
 > Through the mist that shrouds the smaller cavern, you see the parade of creatures responsible for the melody. Their bodies are only vaguely humanoid, with clusters of luminescent lichen and tumescent growths forming chaotic patterns on their decaying flesh, their voices stabbing into your minds, both insane and gleeful in equal parts:
-> 
 > *From rocky bed the toadstool rose,*
-> 
 > *From chaos dark, her love She shows.*
-> 
 > *Wish! Yearn! Laugh*!
-> 
 > *The Lady will be wed!*
-> 
 > *Crave! Hunger! Dance*!
-> 
 > *Her joyous spores will spread!*
-> 
 > *Youth is gone, beauty rots,*
-> 
 > *Araumycos and Zuggtmoy*!
-> 
 > *Joined together, heart to heart,*
-> 
 > *Becoming one 'til death do part!*
-> 
 > *Hail! Hail! Hail*!
 ^253
 
@@ -463,8 +437,6 @@ Any character reduced to 0 hit points in this encounter is knocked [[conditions#
 
 If left alone, the thralls enact a mock wedding, with a chamberlain and a bridesmaid standing in for Araumycos and Zuggtmoy. [[/03_Mechanics/CLI/bestiary/npc/yestabrod-oota|Yestabrod]], if alive, assumes the role of priest to preside over the vows. If [[/03_Mechanics/CLI/bestiary/npc/yestabrod-oota|Yestabrod]] is dead, three spore servants rise from the garden and carry its corpse, moving it like a puppet to play out the part of priest. At this point of the ceremony, any onlookers experience a vision.
 
-> [!readaloud] 
-> 
 > The tableau of the mock wedding is replaced by a vision of the inside of a great tower. Spiraling stairs and balconies are carved into its walls, with the interior lit by phosphorescent patches of mold growing in whorls. In the center of the open space floats a humanoid figure, womanlike in form, but made entirely of fungi and mold. She is easily three times the height of the fungal bridesmaids that move up and down the spiraling stairs, tending to their giant mistress. They croon a strange, soothing song as they weave the substance of the giant figure into delicate lichen veils and a long, mycelium train like a bridal gown.
 ^255
 
@@ -488,8 +460,6 @@ Though Yggmorgus can't be seen clearly from the main cavern of Neverlight Grove,
 
 The cavern around Yggmorgus is huge, and the giant mushroom nearly fills it from floor to ceiling.
 
-> [!readaloud] 
-> 
 > You have no clear reference to judge the towering mushroom's size at this distance. Thousands of smaller fungi cling to the main stalk, which itself splits into several lesser stalks, each long enough with a cap big enough to be the top of a great tower. The cavern floor surrounding the stalk is covered by a carpet of fungi. An eerie luminescence pours through slitted windows carved into the trunk, with the same cacophony of atonal music heard earlier echoing within. A stench of rot and decay wraps around you, seemingly threatening to penetrate your flesh and pervade your soul.
 ^259
 
@@ -547,20 +517,25 @@ If the adventurers learned nothing about the presence of Zuggtmoy or her plans, 
 
 Legends speak of 05 chapter 5 neverlight grove as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 05 chapter 5 neverlight grove.
 
-## Adventure Hooks
-
-- A rumor ties 05 chapter 5 neverlight grove to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 05 chapter 5 neverlight grove to avert a public scandal.
-- A map overlay reveals a hidden approach to 05 chapter 5 neverlight grove active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

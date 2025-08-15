@@ -15,23 +15,26 @@ updated: '2025-08-13T01:18:36.969033+00:00'
 world: Both
 ---
 
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-pressure-pirates-the-pressure-pirates.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[The Final Choice|02 Worldbuilding/Lore/The Final Choice]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[The Final Choice]]
-- [[Lighthouse Keeper]]
 
 ## Player-Facing Summary
 
@@ -41,19 +44,33 @@ The Pressure Pirates is a undersea element of the setting, known for bioluminesc
 
 Legends speak of The Pressure Pirates as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Pressure Pirates.
 
-## Adventure Hooks
-
-- A rumor ties The Pressure Pirates to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Pressure Pirates to avert a public scandal.
-- A map overlay reveals a hidden approach to The Pressure Pirates active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

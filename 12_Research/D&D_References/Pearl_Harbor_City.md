@@ -16,26 +16,33 @@ updated: '2025-08-13T01:18:36.090540+00:00'
 danger_level: Moderate
 ---
 
-
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-pearl-harbor-city-pearl-harbor-city.svg]]
-
-
-
 
 # Pearl Harbor City
 *Gateway Between Worlds*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 
 Pearl Harbor City stands as Aquathys's primary connection to the surface world, a bustling metropolis built within a massive underwater dome that maintains variable pressure zones. The city exists in a constant state of controlled chaos as traders, smugglers, diplomats, and adventurers from both above and below the waves converge here.
-
-## Geography
-
-### Districts
 
 #### **The Locks District**
 A marvel of magical engineering, this area contains massive pressure-adjustment chambers that allow surface dwellers to safely descend and deep dwellers to ascend. Each lock takes 4 hours to fully cycle.
@@ -61,15 +68,6 @@ Diplomatic quarters for various factions and surface nations. Heavily warded and
 - **Deep Ambassador:** [[Aboleth Adjunct Yzz|Aboleth Adjunct Yzz]]
 - Neutral Ground: [[The Neutral Current Tavern]]
 
-## Demographics
-- **Tritons:** 30%
-- **Sea Elves:** 25%
-- **Merfolk:** 20%
-- **Surface Races:** 15% (in suits/bubbles)
-- **Other Aquatic:** 10%
-
-## Current Events
-
 ### The Pressure Pirates
 A group of raiders has been attacking ships in the transition zone between surface and city. [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] has posted bounties.
 
@@ -81,22 +79,6 @@ A crucial delivery of [[Pressure Crystals]] from [[Luminous Hollow]] never arriv
 
 ### Political Tensions
 [[High Tidecaller Nerissa]] is visiting next week for trade negotiations. Security is tight, and assassins are rumored to be in the city.
-
-## Notable NPCs
-
-### Permanent Residents
-- [[The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]] - Syndicate leader
-- [[Captain Marlowe Tidecrest]] - Runs portal transits
-- [[Taverner Bubbles McGill]] - Information broker
-- [[Master Smith Coral-Hammer]] - Pressure-forge specialist
-- [[Illyana Glowstream]] - Bioluminescent enchantments
-
-### Frequent Visitors
-- [[Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] - Monthly metal trades
-- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Seeks underwater spell components
-- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Security inspections
-
-## Available Services
 
 ### Transportation
 | Service | Provider | Cost | Destination |
@@ -132,29 +114,12 @@ A crucial delivery of [[Pressure Crystals]] from [[Luminous Hollow]] never arriv
 18-19: [[Black Market Deal]] going wrong
 20: [[The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]] personally appears
 
-## Secrets
-
-- The Syndicate has a secret tunnel to [[Market_District|02 Worldbuilding/Places/Market District]]
-- [[The Barnacle]] is actually three gnomes in a diving suit
-- The city was built on a sleeping titan
-- Portal Alpha can reach other planes, not just the surface
-- [[Dr. Siphon Gillwater|02 Worldbuilding/Places/Dr. Siphon Gillwater]] experiments on pressure adaptation
-
 ## Historical Significance
 
 Pearl Harbor City was the first successful surface-depth hybrid settlement, established 500 years after the Great Submersion. It proved peaceful coexistence was possible and became the model for cultural exchange.
 
-## GM Notes
-
 ### Power Level
 Suitable for levels 1-5. Higher-level threats exist but avoid direct confrontation.
-
-### Themes
-- Cultural clash and adaptation
-- Trade and economics
-- Law vs. crime
-- Prejudice and acceptance
-- Pressure (literal and figurative)
 
 ### Connections
 - Links to surface campaign through [[Market_District|02 Worldbuilding/Places/Market District]]
@@ -175,49 +140,23 @@ Pearl Harbor City is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Pearl Harbor City as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pearl Harbor City.
 
-## Adventure Hooks
-
-- A rumor ties Pearl Harbor City to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Pearl Harbor City to avert a public scandal.
-- A map overlay reveals a hidden approach to Pearl Harbor City active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Pearl_Harbor_City|02 Worldbuilding/Places/Pearl Harbor City]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The Barnacle]]
-- [[The Depth Wardens]]
-- [[Azure Citadel]]
-- [[Black Market Deal]]
-- [[Captain Marlowe Tidecrest]]
-- [[Chef Gastropod]]
-- [[Coral Throne Syndicate]]
-- [[Current Riders Guild]]
-- [[Depth Warden Patrol]]
-- [[Engineer Prisma Depthwright]]
-- [[Illyana Glowstream]]
-- [[Lord Reginald Seaworthy]]
-- [[Luminous Hollow]]
-- [[Pressure Suit Malfunction]]
-- [[Street Urchin Gang]]
-- [[Surface Tensions]]
-- [[Surface Traders]]
-- [[The Banker Fish]]
-- [[The Deep Fugitive]]
-- [[High Tidecaller Nerissa]]
-- [[The Lock Saboteur]]
-- [[The Maw of Darkness]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- A noble needs help stealing before the new moon
+- Someone is protecting information for revenge
+- Someone is blackmailing information for love
+- Someone is searching for a artifact for money

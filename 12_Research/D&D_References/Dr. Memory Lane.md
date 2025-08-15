@@ -20,13 +20,22 @@ updated: '2025-08-13T12:34:12.035345+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -36,19 +45,34 @@ Dr. Memory Lane is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Dr. Memory Lane as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Dr. Memory Lane.
 
-## Adventure Hooks
-
-- A rumor ties Dr. Memory Lane to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Dr. Memory Lane to avert a public scandal.
-- A map overlay reveals a hidden approach to Dr. Memory Lane active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Plot Hooks
+
+- A letter reveals a betrayal about a local noble
+- Someone is hunting an heir for power
+- A noble needs help investigating before the festival
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

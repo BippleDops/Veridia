@@ -1,5 +1,6 @@
 ---
-title: Resonant Crystals
+
+title: Resot Crystals
 type: item
 tags:
 - placeholder
@@ -12,12 +13,80 @@ status: placeholder
 rarity: Unknown
 value: Unknown
 updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
-# 02_Worldbuilding/Items/Resonant_Crystals
+
+# 02_Worldbuilding/Items/Resot_Crystals
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
 
 ## Description
 
@@ -26,14 +95,6 @@ updated: 2025-08-14
 ## Details
 
 *[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[Transformations - Crystal - Crystal Resonance]]
-- [[Crystal - Crystal_Resonanc]]
-- [[Crystal - Crystal_Resonance]]
-- [[Transformations - Crystal - Crystal Resonanc]]
 
 ## Notes
 
@@ -52,22 +113,6 @@ updated: 2025-08-14
 **Attunement**: Required/Not Required
 **Value**: 100-10,000 gp
 
-
-## Mechanics
-
-### Base Properties
-- Standard item statistics
-
-### Magical Effects
-- Primary power
-- Secondary benefits
-- Activation requirements
-
-### Limitations
-- Usage restrictions
-- Recharge requirements
-
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -75,3 +120,9 @@ updated: 2025-08-14
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A stranger needs help investigating before dawn
+- A document has gone missing and truth emerges

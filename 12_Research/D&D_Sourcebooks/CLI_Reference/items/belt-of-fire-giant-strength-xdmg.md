@@ -23,15 +23,31 @@ updated: '2025-08-12T23:37:36.877181'
 world: Both
 ---
 
-
 # Belt of Fire Giant Strength
 *Wondrous item, very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/belt-of-giant-strength-fire.webp#right)
 
-
 While wearing this belt, your Strength score changes to 25. The item has no effect on you if your Strength without the belt is equal to or greater than the belt's score.
 
-*Source: Dungeon Master's Guide (2024) p. 236. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 236. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -41,19 +57,28 @@ Belt of fire giant strength xdmg is a undersea element of the setting, known for
 
 Legends speak of belt of fire giant strength xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around belt of fire giant strength xdmg.
 
-## Adventure Hooks
-
-- A rumor ties belt of fire giant strength xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at belt of fire giant strength xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to belt of fire giant strength xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

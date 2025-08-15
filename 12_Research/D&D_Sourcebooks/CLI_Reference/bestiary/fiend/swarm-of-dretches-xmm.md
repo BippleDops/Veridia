@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.537635'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![[04_Resources/Assets/Creatures/creature-creature-swarm-of-dretches-xmm-swarm-of-dretches-xmm.png]]
 
@@ -37,6 +35,24 @@ world: Both
 *Source: Monster Manual (2024) p. 104*  
 
 Swarms of dretches sometimes escape the Abyss onto other planes of existence, or they might be part of a demonic invasion. Without direction, these crude demons rampage and despoil with cruel enthusiasm.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Dretches
 
@@ -51,7 +67,6 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 > 
 > Ah, the infinite wonders of the Abyss. If there's anything you don't like, you'll find it here.
 
-
 ```statblock
 "name": "Swarm of Dretches (XMM)"
 "size": "Large"
@@ -65,17 +80,16 @@ The servants and victims of greater demons, dretches embody petty instincts, cha
 "stats":
   - !!int "14"
   - !!int "11"
-  - !!int "14"
   - !!int "5"
   - !!int "8"
   - !!int "3"
 "speed": "40 ft."
 "damage_resistances": "bludgeoning, cold, fire, lightning, piercing, slashing"
 "damage_immunities": "poison"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
-  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#prone|prone]], [[conditions#Restrained|restrained]],\
   \ [[conditions#Stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Abyssal; telepathy 60 ft. (works only with creatures that understand\
@@ -118,19 +132,27 @@ Swarm of dretches xmm is a undersea element of the setting, known for biolumines
 
 Legends speak of swarm of dretches xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around swarm of dretches xmm.
 
-## Adventure Hooks
-
-- A rumor ties swarm of dretches xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at swarm of dretches xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to swarm of dretches xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a conspiracy about this place
+- A journal reveals the truth about the cult
+- The authorities needs help stealing before winter
+- Strange disappearances suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

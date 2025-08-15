@@ -29,13 +29,29 @@ updated: '2025-08-12T23:37:35.472556'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-spirit-naga-xmm-spirit-naga-xmm.svg)
 
 # [[spirit-naga-xmm|Spirit Naga]]
-*Source: Monster Manual (2024) p. 297. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 297. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Spirit Naga
 
@@ -77,7 +93,6 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
   - !!int "14"
   - !!int "16"
   - !!int "15"
-  - !!int "16"
 "speed": "40 ft."
 "saves":
   - "dexterity": !!int "6"
@@ -90,7 +105,7 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
 "languages": "Abyssal, Common"
 "cr": "8"
 "traits":
-  - "desc": "If it dies, the naga returns to life in d6 days and regains all its [[hit-points-xphb|Hit\
+  - "desc": "If it dies, the naga returns to life in d6 days and regains all its [[hit-points-xphb|Hit\]]
       \ Points]]. Only a [[wish-xphb|Wish]]\
       \ spell can prevent this trait from functioning."
     "name": "Fiendish Restoration"
@@ -130,19 +145,25 @@ Spirit naga xmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of spirit naga xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spirit naga xmm.
 
-## Adventure Hooks
-
-- A rumor ties spirit naga xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at spirit naga xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to spirit naga xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

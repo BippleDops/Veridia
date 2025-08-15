@@ -1,4 +1,5 @@
 ---
+
 title: Establish the New Order
 type: Faction
 tags:
@@ -10,6 +11,7 @@ tags:
 - active
 - complete
 - aethermoor
+- conspiracy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,7 +20,7 @@ membership: Unknown
 MyCategory: Revolutionary Political Movement
 MyContainer: '[[Lumengarde]]'
 benefits:
-- reward: Access to crystal stabilization techniques and unified governance training
+- reward: Access to crystal stabilization techniques and unified goverce training
   standing: 1
 - reward: Advanced reality anchor technology and regional leadership opportunities
   standing: 2
@@ -43,6 +45,8 @@ officers:
 primary_contact: Commander Thrace Ironwood
 updated: '2025-08-13T12:34:17.448631+00:00'
 world: Aethermoor
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -50,23 +54,87 @@ world: Aethermoor
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-establish-the-new-order-establish-the-new-order.svg)
 
-
 # Establish the New Order
 
-*Revolutionary movement seeking to replace Aethermoor's fractured sky island politics with unified crystalline governance*
+*Revolutionary movement seeking to replace Aethermoor's fractured sky island politics with unified crystalline goverce*
 
 The **Establish the New Order** movement represents the most ambitious political transformation attempt in Aethermoor's post-[[The Great Drowning]] history. Founded on the principle that the realm's traditional sky island independence has become a fatal weakness in the face of dimensional instabilities and external threats, the organization seeks to create a completely new form of government based on crystal-enhanced collective consciousness and unified command structure.
 
 Unlike reform movements that work within existing systems, the New Order advocates for total political restructuring. They believe Aethermoor's survival depends on abandoning the autonomous sky island model in favor of a crystalline network that can coordinate responses to reality storms, void incursions, and interdimensional conflicts with unprecedented efficiency and unity.
 
-The movement emerged from the confluence of three crisis-driven realizations: first, that individual sky islands cannot effectively defend against realm-wide threats; second, that traditional democratic processes are too slow for emergency dimensional stabilization; and third, that crystal technology offers unprecedented opportunities for creating truly unified governance systems.
+The movement emerged from the confluence of three crisis-driven realizations: first, that individual sky islands cannot effectively defend against realm-wide threats; second, that traditional democratic processes are too slow for emergency dimensional stabilization; and third, that crystal technology offers unprecedented opportunities for creating truly unified goverce systems.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
 
 ## Organizational Structure
 
 The New Order operates through a hierarchical structure designed to demonstrate their proposed governmental model. Rather than democratic councils, they use crystal-enhanced command chains that allow for instantaneous communication and coordinated action across vast distances.
 
 ### The Architect of Order
-The movement's enigmatic leader, known only as "The Architect," claims to be a survivor from pre-Drowning Aethermoor who has spent decades developing the theoretical framework for crystalline governance. They communicate exclusively through crystal relay networks and are believed to exist simultaneously across multiple sky islands through advanced crystal-consciousness technology.
+The movement's enigmatic leader, known only as "The Architect," claims to be a survivor from pre-Drowning Aethermoor who has spent decades developing the theoretical framework for crystalline goverce. They communicate exclusively through crystal relay networks and are believed to exist simultaneously across multiple sky islands through advanced crystal-consciousness technology.
 
 **The Architect's Vision**: A unified Aethermoor where all major decisions flow through crystal networks connecting every citizen, enabling perfect information sharing and collective decision-making while maintaining individual autonomy through crystal-mediated consciousness preservation.
 
@@ -107,41 +175,16 @@ The movement's quasi-religious philosophy, developed by [[Brother Marcus Steelba
 
 **Collective Responsibility**: Every citizen's wellbeing directly connected to realm-wide stability, making personal and political unity a moral imperative.
 
-**Dimensional Harmony**: Proper governance aligns political structures with natural dimensional forces, reducing reality storms and void incursions.
+**Dimensional Harmony**: Proper goverce aligns political structures with natural dimensional forces, reducing reality storms and void incursions.
 
-**Evolutionary Governance**: Traditional political systems represent primitive forms that must evolve to match Aethermoor's transformed post-Drowning reality.
-
-## Goals and Objectives
-
-### Public Goals
-- Establishing unified communication networks connecting all sky islands
-- Creating coordinated defense systems against interdimensional threats
-- Developing efficient resource distribution and emergency response protocols
-- Promoting crystal technology advancement for peaceful applications
-- Building consensus for voluntary adoption of New Order governance
-
-### Strategic Objectives
-- Converting key political leaders and institutions to New Order principles
-- Establishing crystal infrastructure throughout Aethermoor's sky islands
-- Demonstrating superior crisis response capabilities during emergencies
-- Training cadres of crystal-enhanced administrators and military officers
-- Developing economic incentives that encourage voluntary political integration
-
-### Revolutionary Goals
-- Replacing existing sky island governments with crystal-coordinated administration
-- Installing reality anchor networks under centralized New Order control
-- Creating crystal-enhanced education systems promoting Unity Doctrine
-- Establishing Aethermoor as model for other realms facing dimensional instability
-- Developing interdimensional diplomatic relations under unified representation
+**Evolutionary Goverce**: Traditional political systems represent primitive forms that must evolve to match Aethermoor's transformed post-Drowning reality.
 
 ### The Ultimate Vision: The Crystal Commonwealth
-The final goal involves transforming Aethermoor into a single political entity where traditional boundaries dissolve in favor of functional networks. Sky islands would become specialized nodes in a realm-wide crystal matrix, with governance flowing through crystalline consciousness rather than geographic representation.
-
-## Recruitment and Membership
+The final goal involves transforming Aethermoor into a single political entity where traditional boundaries dissolve in favor of functional networks. Sky islands would become specialized nodes in a realm-wide crystal matrix, with goverce flowing through crystalline consciousness rather than geographic representation.
 
 ### Target Demographics
 
-**Crisis Survivors**: Individuals who have experienced failures of traditional governance during emergencies - reality storms, void incursions, sky island isolation during disasters.
+**Crisis Survivors**: Individuals who have experienced failures of traditional goverce during emergencies - reality storms, void incursions, sky island isolation during disasters.
 
 **Crystal Workers**: Mining, research, and technical personnel who understand crystal technology's potential for large-scale organization and communication.
 
@@ -157,20 +200,13 @@ The final goal involves transforming Aethermoor into a single political entity w
 New Order personnel appear during emergencies to provide highly coordinated assistance that showcases their organizational superiority.
 
 **Stage 2: Educational Outreach**
-Potential recruits invited to attend seminars on crystal technology, dimensional theory, and governance philosophy.
+Potential recruits invited to attend seminars on crystal technology, dimensional theory, and goverce philosophy.
 
 **Stage 3: Trial Integration**
 Candidates undergo temporary crystal consciousness networking to experience collective decision-making and expanded awareness.
 
 **Stage 4: Commitment Ceremony**
 Formal oath-taking involving permanent crystal implantation that enables ongoing participation in the collective network.
-
-### Member Benefits
-- **Rank 1**: Crystal communication access, emergency coordination support, basic reality anchor training
-- **Rank 2**: Advanced crystal technology access, regional coordination authority, leadership training programs
-- **Rank 3**: Direct consciousness link with the Architect, realm-shaping project participation, high command authority
-
-## Operations and Methods
 
 ### Political Infiltration
 Systematic placement of members within existing sky island governments:
@@ -180,14 +216,14 @@ Systematic placement of members within existing sky island governments:
 - Diplomatic posts facilitating inter-island coordination under New Order guidance
 
 ### Infrastructure Development
-Building the physical foundation for crystal-based governance:
+Building the physical foundation for crystal-based goverce:
 - **Reality Anchor Networks**: Strategically placed stabilization points under New Order control
 - **Crystal Communication Hubs**: Central nodes enabling realm-wide instant communication
 - **Integration Centers**: Facilities for crystal implantation and consciousness networking
 - **Training Compounds**: Educational facilities promoting Unity Doctrine and New Order principles
 
 ### Crisis Exploitation
-Using emergencies to demonstrate traditional governance failures:
+Using emergencies to demonstrate traditional goverce failures:
 - Rapid response teams showcasing superior coordination during disasters
 - Resource distribution networks proving efficiency during supply crises
 - Defense coordination demonstrating military advantages during external threats
@@ -200,40 +236,10 @@ Gradual modification of Aethermoor social values:
 - Religious services integrating Unity Doctrine with traditional spiritual practices
 - Economic incentives favoring cooperation and integration over competition
 
-## Allies and Opposition
-
-### Allied Organizations
-- **[[Crystal Wardens]] (Reformed)**: Former members converted to New Order principles
-- **[[The Restoration Movement]]**: Shares goals of fundamental Aethermoor transformation
-- **[[Master Artificers Guild]]**: Benefits from coordinated crystal technology development
-- **[[The Convergence Seekers]]**: Philosophical alignment on dimensional harmony principles
-- **[[The Void Watchers]]**: Practical cooperation on interdimensional threat response
-
-### Sympathetic but Cautious
-- **[[Temple of Divine Order]]**: Appreciates stability goals but questions consciousness modification
-- **[[The Artisans' Collective]]**: Interested in coordinated resource access but values independence
-- **[[Merchant Princes]]**: Sees economic opportunities but fears loss of trading autonomy
-- **[[The Seekers' Guild]]**: Shares interest in reality research but opposes authoritarian methods
-
-### Opposed Organizations
-- **[[Purist Coalition]]**: Views crystal consciousness modification as fundamental corruption
-- **[[The Crown Authority]]**: Represents traditional power structures being dismantled
-- **[[Independent Smugglers]]**: Opposes unified governance that would eliminate operational freedom
-- **[[Ancient Mer-Folk Empire]]**: Suspicious of any unified human government in their territory
-- **[[The Parliament of Nobody]]**: Philosophically opposes all organized governmental authority
-
-### Complex Relationships
-- **[[The Crystal Throne]]**: Competing visions of crystal-based governance create tension
-- **[[The Order of the Azure Flame]]**: Shares mystical approaches but disagrees on implementation
-- **[[The Deepwatch Guard]]**: Military cooperation potential but fears loss of organizational independence
-- **[[The Crimson Fleet]]**: Some pirates attracted to promises of coordinated operations
-
-## Territory and Infrastructure
-
 ### Primary Headquarters: The Unity Spire, [[Lumengarde]]
 A massive crystal construct existing partially outside normal space-time, serving as:
 - Command center for realm-wide operations
-- Demonstration facility showcasing crystal governance potential
+- Demonstration facility showcasing crystal goverce potential
 - Training center for crystal consciousness integration
 - Research facility developing advanced reality anchor technology
 
@@ -271,10 +277,8 @@ A massive crystal construct existing partially outside normal space-time, servin
 - Enabling controlled interdimensional travel and trade relationships
 - Serving as backup power sources for crystal network operations
 
-## Internal Politics and Factions
-
 ### The Voluntary Integrationists
-Led by [[Aria Lumengarde]], believe New Order principles should be adopted through persuasion and demonstration rather than force. They emphasize showing the benefits of crystal consciousness and unified governance while respecting individual choice.
+Led by [[Aria Lumengarde]], believe New Order principles should be adopted through persuasion and demonstration rather than force. They emphasize showing the benefits of crystal consciousness and unified goverce while respecting individual choice.
 
 ### The Revolutionary Command
 Following [[Commander Thrace Ironwood]], argue that traditional institutions are too corrupt and inefficient for gradual reform. They advocate for rapid political transformation through coordinated action when crises create opportunities.
@@ -283,12 +287,10 @@ Following [[Commander Thrace Ironwood]], argue that traditional institutions are
 [[Brother Marcus Steelbane]]'s followers view the movement in spiritual terms, believing crystal consciousness represents evolutionary advancement toward divine enlightenment. They promote conversion through religious rather than political appeals.
 
 ### The Technological Supremacists
-A growing faction believing crystal technology itself, rather than political philosophy, should drive transformation. They focus on developing increasingly advanced crystal systems that make traditional governance obsolete through superior functionality.
+A growing faction believing crystal technology itself, rather than political philosophy, should drive transformation. They focus on developing increasingly advanced crystal systems that make traditional goverce obsolete through superior functionality.
 
 ### The Interdimensional Expansionists
-Members who believe the New Order model should spread to other realms facing similar crises. They work to establish diplomatic relationships and export crystal governance technology to allied dimensions.
-
-## Economic Model and Resources
+Members who believe the New Order model should spread to other realms facing similar crises. They work to establish diplomatic relationships and export crystal goverce technology to allied dimensions.
 
 ### Crystal-Based Economy
 The New Order promotes an economic system built around coordinated crystal technology:
@@ -300,13 +302,6 @@ The New Order promotes an economic system built around coordinated crystal techn
 **Coordinated Innovation**: Research and development coordinated realm-wide to prevent duplication and maximize technological advancement.
 
 **Crisis Response Economics**: Economic systems designed to automatically adjust during emergencies without requiring complex political negotiations.
-
-### Funding Sources
-- Crystal mining operations coordinated through member communities
-- Voluntary contributions from converted sky island governments
-- Service fees for crisis response and emergency coordination
-- Technology licensing for crystal consciousness and reality anchor systems
-- Trade relationships with other dimensions seeking stability technology
 
 ### Resource Network
 **Material Resources**:
@@ -320,8 +315,6 @@ The New Order promotes an economic system built around coordinated crystal techn
 - Military personnel with experience in unified command structures
 - Technical experts capable of maintaining and expanding crystal networks
 - Educational staff promoting Unity Doctrine and New Order principles
-
-## Adventure Hooks
 
 ### Political Transformation Scenarios
 1. **The Conversion Campaign**: Helping or hindering New Order efforts to convert a key sky island
@@ -337,7 +330,7 @@ The New Order promotes an economic system built around coordinated crystal techn
 
 ### Crisis Response Missions
 9. **Emergency Coordination**: Working with New Order during major dimensional crisis
-10. **The Reality Storm**: Using unified governance to prevent realm-wide catastrophe
+10. **The Reality Storm**: Using unified goverce to prevent realm-wide catastrophe
 11. **Interdimensional Invasion**: Coordinating defense against external dimensional threats
 12. **Resource Crisis Management**: Managing distribution during realm-wide shortages
 
@@ -346,8 +339,6 @@ The New Order promotes an economic system built around coordinated crystal techn
 14. **Crystal Technology Theft**: Preventing or investigating theft of consciousness networking technology
 15. **Infiltration Mission**: Operating undercover within New Order command structure
 16. **The Memory Theft**: Investigating stolen memories from crystal-consciousness networks
-
-## Services and Capabilities
 
 ### Public Services
 | Service | Cost | Availability |
@@ -370,25 +361,13 @@ The New Order promotes an economic system built around coordinated crystal techn
 
 The Establish the New Order movement has fundamentally changed Aethermoor political discourse, even among those who oppose their methods:
 
-### Political Innovation
-- Demonstrating possibilities of crystal-enhanced governance systems
-- Pioneering collective consciousness democracy as alternative to traditional voting
-- Developing crisis response protocols that have been adopted by conventional governments
-- Creating educational frameworks for understanding dimensional politics
-
-### Technological Advancement
-- Advancing crystal consciousness technology beyond previous theoretical limits
-- Developing practical applications for reality anchor networks
-- Creating communication systems enabling realm-wide instant coordination
-- Establishing standards for dimensional stability measurement and maintenance
-
 ### Social Transformation
 - Challenging traditional assumptions about individual versus collective decision-making
  - Promoting discussion of consciousness, identity, and political participation
 - Creating new forms of community organization based on shared consciousness
-- Establishing precedents for voluntary adoption of experimental governance systems
+- Establishing precedents for voluntary adoption of experimental goverce systems
 
-The Establish the New Order represents both the most promising and most threatening political movement in post-Drowning Aethermoor. Their crystal-enhanced governance model offers genuine solutions to the realm's coordination and crisis response challenges while raising fundamental questions about individual autonomy, democratic participation, and the nature of consciousness itself. They provide excellent opportunities for campaigns exploring themes of political transformation, collective identity, and the balance between security and freedom in societies facing existential threats.
+The Establish the New Order represents both the most promising and most threatening political movement in post-Drowning Aethermoor. Their crystal-enhanced goverce model offers genuine solutions to the realm's coordination and crisis response challenges while raising fundamental questions about individual autonomy, democratic participation, and the nature of consciousness itself. They provide excellent opportunities for campaigns exploring themes of political transformation, collective identity, and the balance between security and freedom in societies facing existential threats.
 
 ## Player-Facing Summary
 
@@ -402,35 +381,6 @@ Legends speak of Establish the New Order as a nexus where past and present conve
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Restoration Movement]]
-
-
-## Connections
-
-- [[Ancient Mer-Folk Empire]]
-- [[Crystal Wardens]]
-- [[Independent Smugglers]]
-- [[Master Artificers Guild]]
-- [[Merchant Princes]]
-- [[Purist Coalition]]
-- [[Temple of Divine Order]]
-- [[The Crown Authority]]
-- [[The Deepwatch Guard]]
-- [[The Order of the Azure Flame]]
-- [[The Parliament of Nobody]]
-- [[The Seekers' Guild]]
-- [[The Void Watchers]]
-- [[The Restoration Movement]]
-- [[Brother Marcus Steelbane]]
-- [[Commander Thrace Ironwood]]
-- [[Lumengarde]]
-- [[The Sundered Peaks]]
-
-
 ## Overview
 
 Establish the New Order operates as an influential organization with specific goals and methods. Their reach extends throughout their sphere of influence.
@@ -440,14 +390,6 @@ Establish the New Order operates as an influential organization with specific go
 **Membership**: Dozens to thousands
 **Secrecy**: Public/Semi-secret/Secret
 
-
-## Structure
-
-### Leadership
-- **Supreme Leader**: Ultimate authority
-- **Council/Board**: Decision makers
-- **Department Heads**: Operational leaders
-
 ### Ranks
 1. Initiate level
 2. Member level
@@ -455,67 +397,47 @@ Establish the New Order operates as an influential organization with specific go
 4. Officer level
 5. Leadership level
 
-
-## Members
-
-### Notable Members
-- [[Leader Name]] - Current head
-- [[Key Officer]] - Important figure
-- [[Rising Star]] - Ambitious member
-
-### Membership Requirements
-- Skills or qualities needed
-- Initiation process
-- Ongoing obligations
-
-
-## Resources
-
-### Financial
-- Funding sources
-- Wealth level
-- Economic influence
-
-### Physical Assets
-- Properties owned
-- Equipment available
-- Special resources
-
-### Human Resources
-- Member skills
-- Allies and contacts
-- Information networks
-
-
-## Relationships
-
-### Allies
-- Aligned organizations
-- Political supporters
-- Business partners
-
-### Enemies
-- Rival organizations
-- Opposed factions
-- Active threats
-
-### Neutral Parties
-- Potential allies or enemies
-- Trade partners
-- Watching parties
-
-
-## Secrets
-
 ### Open Secrets
 Things widely suspected
 
-### Hidden Truths
-- Real leadership
-- True funding sources
-- Secret objectives
 
-### Deep Mysteries
-- Ancient connections
-- Forbidden knowledge
-- Ultimate goals
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- A map reveals ancient history about the cult
+- Someone is blackmailing information for revenge
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

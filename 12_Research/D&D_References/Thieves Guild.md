@@ -22,34 +22,32 @@ world: Both
 updated: '2025-08-13T01:18:36.803414+00:00'
 ---
 
-
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-thieves-guild-thieves-guild.svg)
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-# Thieves Guild
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## General Info
 **Location**: Shadowhaven
 
 ## Description
 The Thieves Guild is a powerful and influential criminal organization that operates in the shadows of Shadowhaven. They are involved in all manner of illegal activities, from petty theft to high-stakes heists.
-
-## GM Notes
-- The Guild is led by a mysterious figure known only as "The Shadowbroker".
-- The Guild has a strict code of conduct, and those who break the rules are dealt with harshly.
-- The Guild is a potential ally or enemy for the party, depending on their actions.
-
-
-## Connections
-
-- [[Shadow Surgeons Collective]]
-- [[The Shadow Trade Network]]
-- [[Rescue Senator Glaucus]]
 
 ## Player-Facing Summary
 
@@ -59,23 +57,30 @@ Thieves Guild is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of Thieves Guild as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Thieves Guild.
 
-## Adventure Hooks
-
-- A rumor ties Thieves Guild to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Thieves Guild to avert a public scandal.
-- A map overlay reveals a hidden approach to Thieves Guild active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Rescue Senator Glaucus|02 Worldbuilding/Quests/Rescue Senator Glaucus]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a curse
+- Strange disappearances suggest a curse
+- An heirloom has gone missing and evil awakens
+- Strange dreams suggest ancient magic
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

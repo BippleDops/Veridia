@@ -41,11 +41,9 @@ Possible outcomes
 - The song wavers
 - Something tries to break the harmony
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

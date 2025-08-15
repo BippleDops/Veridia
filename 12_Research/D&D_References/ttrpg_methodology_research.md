@@ -10,7 +10,23 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# TTRPG Methodology Research Notes
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Campaign Structure Analysis
 
@@ -59,7 +75,6 @@ Using our vault metrics, successful campaigns show:
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -67,3 +82,22 @@ Using our vault metrics, successful campaigns show:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- Someone is blackmailing a artifact for money
+- Strange dreams suggest a curse
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

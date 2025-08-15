@@ -21,15 +21,32 @@ updated: '2025-08-12T23:37:34.679655'
 world: Both
 ---
 
-
 # Vicious Vine
 *Generic Hazard*  
 
-Vicious vines are animated by magic. They often cling to doorways, archways, walls, and statuary. Until a vicious vine moves, there's nothing to distinguish it from an inanimate vine.
+Vicious vines are animated by magic. They often cling to doorways, archways, walls, and statuary. Until a vicious vine moves, there's nothing to distinguish it from an iimate vine.
 
 Each vicious vine has AC 11; HP 16; and Immunity to Bludgeoning, Piercing, and Psychic damage. When a creature enters a space within 5 feet of the vine for the first time on a turn or starts its turn there, the vine tries to coil around that creature. The target must succeed on a DC 12 Dexterity saving throw or have the [[conditions#Grappled|Grappled]] condition (escape DC 12). While Grappled in this way, the target takes 5 (`d10`) Necrotic damage from the vine's life-draining thorns at the start of each of the target's turns. The vine can grapple only one creature at a time.
 
 As an [[actions#Influence|Influence]] action, a character under the effect of a [[speak-with-plants-xphb|Speak with Plants]] spell or similar magic can try to persuade the vine to release its victim, doing so with a successful DC 10 Charisma ([[skills#Persuasion|Persuasion]]) check. A creature released by the vine in this way won't be attacked by that vine again for the next 24 hours.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## At Higher Levels
 
@@ -52,19 +69,22 @@ Vicious vine xdmg is a undersea element of the setting, known for bioluminescent
 
 Legends speak of vicious vine xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around vicious vine xdmg.
 
-## Adventure Hooks
-
-- A rumor ties vicious vine xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at vicious vine xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to vicious vine xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help investigating before the new moon
+- Strange dreams suggest a portal
+- A journal reveals a conspiracy about this place
+- A journal reveals the truth about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

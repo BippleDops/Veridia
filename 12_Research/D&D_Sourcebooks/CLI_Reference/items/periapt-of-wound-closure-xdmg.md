@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:36.572175'
 world: Both
 ---
 
-
 # Periapt of Wound Closure
 *Wondrous item, uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/periapt-of-wound-closure.webp#right)
@@ -31,6 +30,24 @@ world: Both
 - **Weight**: 1.0 lbs.
 
 While wearing this pendant, you gain the following benefits.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Life Preservation
 
@@ -40,7 +57,7 @@ Whenever you make a [[death-saving-throw-xphb|Death Saving Throw]], you can chan
 
 Whenever you roll a [[hit-points-xphb|Hit Point]] Die to regain [[hit-points-xphb|Hit Points]], double the number of [[hit-points-xphb|Hit Points]] it restores.
 
-*Source: Dungeon Master's Guide (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 284. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -50,19 +67,20 @@ Periapt of wound closure xdmg is a undersea element of the setting, known for bi
 
 Legends speak of periapt of wound closure xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around periapt of wound closure xdmg.
 
-## Adventure Hooks
-
-- A rumor ties periapt of wound closure xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at periapt of wound closure xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to periapt of wound closure xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

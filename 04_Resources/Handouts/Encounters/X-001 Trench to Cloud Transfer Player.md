@@ -42,11 +42,9 @@ Possible outcomes
 - A rough jolt and a wide turn
 - A spin that needs quick hands
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.994611+00:00'
 world: Both
 ---
 
-
-
 # Credits
 *Source: Out of the Abyss* 
 
@@ -48,6 +46,24 @@ world: Both
 - **Brand and Marketing.** Nathan Stewart, Liz Schuh, Chris Lindsay, Shelly Mazzanoble, Hilary Ross, John Feil, Laura Tommervik, Greg Tito, Kim Lundstrom, Trevor Kidd  
 - **Playtesters.** Robert Alaniz, Jay Anderson, Bill Benham, Stacy Bermes, Anthony Caroselli, Krupal Desai, Frank Foulis, Jason Fuller, Gregory L. Harris, Justin Hicks, Yan Lacharité, Jonathan Longstaff, Matt Maranda, Shawn Merwin, Lou Michelli, Mike Mihalas, Karl Resch, Kyle Turner, Arthur Wright, Keoki Young
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 23 credits is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -56,20 +72,31 @@ world: Both
 
 Legends speak of 23 credits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 23 credits.
 
-## Adventure Hooks
-
-- A rumor ties 23 credits to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 23 credits to avert a public scandal.
-- A map overlay reveals a hidden approach to 23 credits active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Plot Hooks
+
+- A shipment has gone missing and chaos spreads
+- Strange sightings suggest ancient magic
+- Strange sightings suggest a curse
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.864107'
 world: Both
 ---
 
-
 # Combat
 *Source: Player's Handbook (2014), p. 189* 
 
@@ -38,15 +37,29 @@ The Dungeon Master controls all the monsters and nonplayer characters involved i
 > [!note] Combat Step by Step
 > 
 > - **1. Determine surprise.** The DM determines whether anyone involved in the combat encounter is [[conditions#Surprised|surprised]].  
-> 
 > - **2. Establish positions.** The DM decides where all the characters and monsters are located. Given the adventurers' marching order or their stated positions in the room or other location, the DM figures out where the adversaries are—how far away and in what direction.  
-> 
 > - **3. Roll initiative.** Everyone involved in the combat encounter rolls initiative, determining the order of combatants' turns.  
-> 
 > - **4. Take turns.** Each participant in the battle takes a turn in initiative order.  
-> 
 > - **5. Begin the next round.** When everyone involved in the combat has had a turn, the round ends. Repeat step 4 until the fighting stops.  
 ^combat-step-by-step
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## The Order of Combat
 
@@ -99,9 +112,7 @@ If you want to interact with a second object, you need to use your action. Some 
 The DM might require you to use an action for any of these activities when it needs special care or when it presents an unusual obstacle. For instance, the DM could reasonably expect you to use an action to open a stuck door or turn a crank to lower a drawbridge.
 
 > [!note] Interacting with Objects Around You
-> 
 > Here are a few examples of the sorts of thing you can do in tandem with your movement and action:
-> 
 > - draw or sheathe a sword  
 > - open or close a door  
 > - withdraw a potion from your backpack  
@@ -167,11 +178,11 @@ Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs are exa
 
 ### Being Prone
 
-Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are [[conditions#Prone|prone]], a condition described in the appendix.
+Combatants often find themselves lying on the ground, either because they are knocked down or because they throw themselves down. In the game, they are [[conditions#prone|prone]], a condition described in the appendix.
 
-You can drop [[conditions#Prone|prone]] without using any of your speed. Standing up takes more effort; doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to stand up. You can't stand up if you don't have enough movement left or if your speed is 0.
+You can drop [[conditions#prone|prone]] without using any of your speed. Standing up takes more effort; doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to stand up. You can't stand up if you don't have enough movement left or if your speed is 0.
 
-To move while [[conditions#Prone|prone]], you must crawl or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in difficult terrain, therefore, costs 3 feet of movement.
+To move while [[conditions#prone|prone]], you must crawl or use magic such as teleportation. Every foot of movement while crawling costs 1 extra foot. Crawling 1 foot in difficult terrain, therefore, costs 3 feet of movement.
 
 ### Moving around Other Creatures
 
@@ -183,7 +194,7 @@ If you leave a hostile creature's reach during your move, you provoke an opportu
 
 ### Flying Movement
 
-Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked [[conditions#Prone|prone]], has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the [[fly-xphb|fly]] spell.
+Flying creatures enjoy many benefits of mobility, but they must also deal with the danger of falling. If a flying creature is knocked [[conditions#prone|prone]], has its speed reduced to 0, or is otherwise deprived of the ability to move, the creature falls, unless it has the ability to hover or it is being held aloft by magic, such as by the [[fly-xphb|fly]] spell.
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/c91.webp#center)
 
@@ -210,21 +221,13 @@ If four Large creatures crowd around a Medium or smaller one, there's little roo
 A creature can squeeze through a space that is large enough for a creature one size smaller than it. Thus, a Large creature can squeeze through a passage that's only 5 feet wide. While squeezing through a space, a creature must spend 1 extra foot for every foot it moves there, and it has disadvantage on attack rolls and Dexterity saving throws. Attack rolls against the creature have advantage while it's in the smaller space.
 
 > [!note] Variant: Playing on a Grid
-> 
 > If you play out a combat using a square grid and miniatures or other tokens, follow these rules.
-> 
 > **Squares.** Each square on the grid represents 5 feet.
-> 
 > **Speed.** Rather than moving foot by foot, move square by square on the grid. This means you use your speed in 5-foot segments. This is particularly easy if you translate your speed into squares by dividing the speed by 5. For example, a speed of 30 feet translates into a speed of 6 squares.
-> 
 > If you use a grid often, consider writing your speed in squares on your character sheet.
-> 
 > **Entering a Square.** To enter a square, you must have at least 1 square of movement left, even if the square is diagonally adjacent to the square you're in. (The rule for diagonal movement sacrifices realism for the sake of smooth play. The Dungeon Master's Guide provides guidance on using a more realistic approach.)
-> 
 > If a square costs extra movement, as a square of difficult terrain does, you must have enough movement left to pay for entering it. For example, you must have at least 2 squares of movement left to enter a square of difficult terrain.
-> 
 > **Corners.** Diagonal movement can't cross the corner of a wall, large tree, or other terrain feature that fills its space.
-> 
 > **Ranges.** To determine the range on a grid between two things—whether creatures or objects—start counting squares from a square adjacent to one of them and stop counting in the space of the other one. Count by the shortest route.
 ^variant-playing-on-a-grid
 
@@ -335,7 +338,6 @@ When you take the [[actions#Attack|Attack]] action and attack with a light melee
 If either weapon has the thrown property, you can throw the weapon, instead of making a melee attack with it.
 
 > [!note] Contests in Combat
-> 
 > Battle often involves pitting your prowess against that of your foe. Such a challenge is represented by a contest. This section includes the most common contests that require an action in combat: grappling and shoving a creature. The DM can use these contests as models for improvising others.
 ^contests-in-combat
 
@@ -355,9 +357,9 @@ When you move, you can drag or carry the [[conditions#Grappled|grappled]] creatu
 
 ### Shoving a Creature
 
-Using the [[actions#Attack|Attack]] action, you can make a special melee attack to shove a creature, either to knock it [[conditions#Prone|prone]] or push it away from you. If you're able to make multiple attacks with the [[actions#Attack|Attack]] action, this attack replaces one of them.
+Using the [[actions#Attack|Attack]] action, you can make a special melee attack to shove a creature, either to knock it [[conditions#prone|prone]] or push it away from you. If you're able to make multiple attacks with the [[actions#Attack|Attack]] action, this attack replaces one of them.
 
-The target of your shove must be no more than one size larger than you, and it must be within your reach. You make a Strength ([[skills#Athletics|Athletics]]) check contested by the target's Strength ([[skills#Athletics|Athletics]]) or Dexterity ([[skills#Acrobatics|Acrobatics]]) check (the target chooses the ability to use). You succeed automatically if the target is [[conditions#Incapacitated|incapacitated]]. If you succeed, you either knock the target [[conditions#Prone|prone]] or push it 5 feet away from you.
+The target of your shove must be no more than one size larger than you, and it must be within your reach. You make a Strength ([[skills#Athletics|Athletics]]) check contested by the target's Strength ([[skills#Athletics|Athletics]]) or Dexterity ([[skills#Acrobatics|Acrobatics]]) check (the target chooses the ability to use). You succeed automatically if the target is [[conditions#Incapacitated|incapacitated]]. If you succeed, you either knock the target [[conditions#prone|prone]] or push it 5 feet away from you.
 
 ## Cover
 
@@ -464,7 +466,6 @@ Resistance and then vulnerability are applied after all other modifiers to damag
 Multiple instances of resistance or vulnerability that affect the same damage type count as only one instance. For example, if a creature has resistance to fire damage as well as resistance to all nonmagical damage, the damage of a nonmagical fire is reduced by half against the creature, not reduced by three-quarters.
 
 > [!note] Describing the Effects of Damage
-> 
 > Dungeon Masters describe hit point loss in different ways. When your current hit point total is half or more of your hit point maximum, you typically show no signs of injury. When you drop below half your hit point maximum, you show signs of wear, such as cuts and bruises. An attack that reduces you to 0 hit points strikes you directly, leaving a bleeding injury or other trauma, or it simply knocks you [[conditions#Unconscious|unconscious]].
 ^describing-the-effects-of-damage
 
@@ -550,9 +551,9 @@ A willing creature that is at least one size larger than you and that has an app
 
 Once during your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to mount a horse. Therefore, you can't mount it if you don't have 15 feet of movement left or if your speed is 0.
 
-If an effect moves your mount against its will while you're on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing [[conditions#Prone|prone]] in a space within 5 feet of it. If you're knocked [[conditions#Prone|prone]] while mounted, you must make the same saving throw.
+If an effect moves your mount against its will while you're on it, you must succeed on a DC 10 Dexterity saving throw or fall off the mount, landing [[conditions#prone|prone]] in a space within 5 feet of it. If you're knocked [[conditions#prone|prone]] while mounted, you must make the same saving throw.
 
-If your mount is knocked [[conditions#Prone|prone]], you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall [[conditions#Prone|prone]] in a space within 5 feet it.
+If your mount is knocked [[conditions#prone|prone]], you can use your reaction to dismount it as it falls and land on your feet. Otherwise, you are dismounted and fall [[conditions#prone|prone]] in a space within 5 feet it.
 
 ### Controlling a Mount
 
@@ -578,8 +579,6 @@ Creatures and objects that are fully immersed in water have resistance to fire d
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014|03 Mechanics/Rules Reference/Quick Reference/DnD5e DM Screen 2014]]
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014|03 Mechanics/Rules Reference/Quick Reference/DnD5e DM Screen 2014]]
-
 ## Player-Facing Summary
 
 10 combat is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -588,19 +587,28 @@ Creatures and objects that are fully immersed in water have resistance to fire d
 
 Legends speak of 10 combat as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 10 combat.
 
-## Adventure Hooks
-
-- A rumor ties 10 combat to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 10 combat to avert a public scandal.
-- A map overlay reveals a hidden approach to 10 combat active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

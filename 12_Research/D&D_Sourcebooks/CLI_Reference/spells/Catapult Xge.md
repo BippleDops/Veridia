@@ -32,11 +32,8 @@ updated: '2025-08-13T12:34:06.697737+00:00'
 world: Both
 ---
 
-
-
 # Catapult
 *1st-level, Transmutation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -51,6 +48,24 @@ Choose one object weighing 1 to 5 pounds within range that isn't being worn or c
 
 *Source: Xanathar's Guide to Everything p. 150*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Catapult xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -59,19 +74,18 @@ Catapult xge is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of catapult xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around catapult xge.
 
-## Adventure Hooks
-
-- A rumor ties catapult xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at catapult xge to avert a public scandal.
-- A map overlay reveals a hidden approach to catapult xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

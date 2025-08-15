@@ -22,12 +22,28 @@ updated: '2025-08-13T12:34:05.178431+00:00'
 world: Both
 ---
 
-
-
 # Running the Game
 *Source: Dungeon Master's Guide (2014), p. 235* 
 
 Rules enable you and your players to have fun at the table. The rules serve you, not vice versa. There are the rules of the game, and there are table rules for how the game is played. For instance, players need to know what happens when one of them misses a session. They need to know whether to bring miniatures, any special rules you've decided to use, and how to treat a cocked die (a die that lands so that its face can't be clearly read). These topics and more are covered in this chapter.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Table Rules
 
@@ -152,11 +168,8 @@ When you call for a contest, you pick the ability that each side must use, decid
 > [!note] Intelligence Check vs. Wisdom Check
 > 
 > If you have trouble deciding whether to call for an Intelligence or a Wisdom check to determine whether a character notices something, think of it in terms of what a very high or low score in those two abilities might mean.
-> 
 > A character with a high Wisdom but low Intelligence is aware of the surroundings but is bad at interpreting what things mean. The character might spot that one section of a wall is clean and dusty compared to the others, but he or she wouldn't necessarily make the deduction that a secret door is there.
-> 
 > In contrast, a character with high Intelligence and low Wisdom is probably oblivious but clever. The character might not spot the clean section of wall but, if asked about it, could immediately deduce why it's clean.
-> 
 > Wisdom checks allow characters to perceive what is around them (the wall is clean here), while Intelligence checks answer why things are that way (there's probably a secret door).
 ^intelligence-check-vs-wisdom-check
 
@@ -336,7 +349,7 @@ Failure can be tough, but the agony is compounded when a character fails by the 
 - A character fails to intimidate a kobold prisoner, but the kobold reveals its secrets anyway while shrieking at the top of its lungs, alerting other nearby monsters.  
 - A character manages to finish an arduous climb to the top of a cliff despite slipping, only to realize that the rope on which his companions dangle below him is close to breaking.  
 
-When you introduce costs such as these, try to make them obstacles and setbacks that change the nature of the adventuring situation. In exchange for success, players must consider new ways of facing the challenge.
+When you introduce costs such as these, try to make them obstacles and secks that change the nature of the adventuring situation. In exchange for success, players must consider new ways of facing the challenge.
 
 You can also use this technique when a character succeeds on a roll by hitting the DC exactly, complicating marginal success in interesting ways.
 
@@ -539,7 +552,7 @@ If a couple of players are dominating the conversation, take a moment now and th
 
 When characters need to saw through ropes, shatter a window, or smash a vampire's coffin, the only hard and fast rule is this: given enough time and the right tools, characters can destroy any destructible object. Use common sense when determining a character's success at damaging an object. Can a fighter cut through a section of a stone wall with a sword? No, the sword is likely to break before the wall does.
 
-For the purpose of these rules, an object is a discrete, inanimate item like a window, door, sword, book, table, chair, or stone, not a building or a vehicle that is composed of many other objects.
+For the purpose of these rules, an object is a discrete, iimate item like a window, door, sword, book, table, chair, or stone, not a building or a vehicle that is composed of many other objects.
 
 ### Statistics for Objects
 
@@ -627,11 +640,11 @@ You can describe a monster taken to half its hit points as bloodied, giving the 
 
 ### Using and Tracking Conditions
 
-Various rules and features in the game are clear about when they apply a condition to a creature. You can also apply conditions on the fly. They're meant to be intuitive for you to do so. For example, if a character is in a state, such as sleep, that lacks consciousness, you can say the character is [[conditions#Unconscious|unconscious]]. Or did a character just stumble onto the ground? He or she is now [[conditions#Prone|prone]].
+Various rules and features in the game are clear about when they apply a condition to a creature. You can also apply conditions on the fly. They're meant to be intuitive for you to do so. For example, if a character is in a state, such as sleep, that lacks consciousness, you can say the character is [[conditions#Unconscious|unconscious]]. Or did a character just stumble onto the ground? He or she is now [[conditions#prone|prone]].
 
 Keeping track of conditions can become tricky. For monsters, it's often easiest to track conditions on combat cards or wherever you track initiative. Players should remember any conditions affecting their characters. Because players have incentive to forget or overlook hampering conditions, character conditions can also be marked on combat cards or a whiteboard.
 
-You might also try keeping a supply of index cards on hand, marked with conditions and their effects. Then hand the cards to players as the conditions come up. Having a bright pink index card on top of a character sheet can help even the most absentminded player remember the effects of being [[conditions#Charmed|charmed]] or [[conditions#Frightened|frightened]].
+You might also try keeping a supply of index cards on hand, marked with conditions and their effects. Then hand the cards to players as the conditions come up. Having a bright pink index card on top of a character sheet can help even the most absentminded player remember the effects of being [[conditions#Charmed|charmed]] or [[conditions#frightened|frightened]].
 
 ### Monsters and Critical Hits
 
@@ -647,7 +660,7 @@ The Damage Severity and Level table is a guide to how deadly these damage number
 
 ![[improvising-damage-damage-severity-and-level|Improvising Damage; Damage Severity and Level]]
 
-Damage sufficient to cause a **setback** rarely poses a risk of death to characters of the level shown, but a severely weakened character might be laid low by this damage.
+Damage sufficient to cause a **seck** rarely poses a risk of death to characters of the level shown, but a severely weakened character might be laid low by this damage.
 
 In contrast, **dangerous** damage values pose a significant threat to weaker characters and could potentially kill a character of the level shown if that character is missing many hit points.
 
@@ -1024,20 +1037,23 @@ When you let the story of the campaign drive advancement, you award levels when 
 
 Legends speak of 09 running the game as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 09 running the game.
 
-## Adventure Hooks
-
-- A rumor ties 09 running the game to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 09 running the game to avert a public scandal.
-- A map overlay reveals a hidden approach to 09 running the game active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting a witness for power
+- A letter reveals ancient history about the cult
+- Someone is blackmailing a artifact for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

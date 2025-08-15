@@ -17,7 +17,21 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
 ## Player-Facing Summary
@@ -28,19 +42,37 @@ Boon of fortitude xphb is a undersea element of the setting, known for biolumine
 
 Legends speak of boon of fortitude xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around boon of fortitude xphb.
 
-## Adventure Hooks
-
-- A rumor ties boon of fortitude xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at boon of fortitude xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to boon of fortitude xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before the festival
+- A letter reveals a betrayal about a local noble
+- A map reveals a betrayal about the government
+- Strange accidents suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

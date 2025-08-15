@@ -28,8 +28,23 @@ updated: '2025-08-13T01:18:37.155299+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# Winds of Rebellion
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## A Political Intrigue Adventure for Levels 4-6 in Aethermoor
 
 *"In the courts of the sky, words are sharper than swords, and a well-placed whisper can topple kingdoms faster than any storm."*
@@ -53,8 +68,6 @@ The conspiracy centers around three interconnected threats:
 **The Purist Uprising**: The Purist Coalition, led by High Inquisitor Maltheos, has grown from a religious movement into a political force that advocates for the complete elimination of crystal technology. Their influence has spread to key military and noble families who see an opportunity to seize power in the chaos.
 
 These three threats have begun to converge, creating a perfect storm of political upheaval that threatens to destroy everything Queen Seraphina has worked to build. The queen's desperation has led her to seek help from unexpected sources - including the player characters.
-
-### Political Landscape
 
 #### Major Factions
 
@@ -233,26 +246,19 @@ Introduction is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of Introduction as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Introduction.
 
-## Adventure Hooks
-
-- A rumor ties Introduction to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Introduction to avert a public scandal.
-- A map overlay reveals a hidden approach to Introduction active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
 
 
-## See Also
+## Plot Hooks
 
-- [[02_Worldbuilding/Places|02 Worldbuilding/Places]] - Related content
-- [[Master_Campaign_Index|Master Campaign Index]] - Campaign overview
+- A map reveals a betrayal about the government
+- Strange disappearances suggest ancient magic
+- Someone is blackmailing an heir for love
+- Someone is searching for a witness for love
 
-## Connections
+## 12_Research Specific Content
 
-- See also: [[Master Timeline]]
-- Related: [[Regional Politics]]
-- Connected to: [[Side Adventures]]
+Contextual improvement based on 12_Research

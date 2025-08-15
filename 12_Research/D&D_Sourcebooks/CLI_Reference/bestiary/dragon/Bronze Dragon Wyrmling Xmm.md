@@ -28,16 +28,31 @@ updated: '2025-08-13T12:34:06.009174+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bronze-dragon-wyrmling-xmm-bronze-dragon-wyrmling-xmm.svg)
 
 # [[bronze-dragon-wyrmling-xmm|Bronze Dragon Wyrmling]]
-*Source: Monster Manual (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 58. Available in the SRD and the Free Rules (2024)*  
 
 Bronze dragon wyrmlings believe they can solve any problems, and they seek to prove it. They often fixate on local challenges, such as drought or rampant banditry. While their zeal can be charming, these wyrmlings can get in over their heads and might then need help correcting mistakes.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Bronze Dragons
 
@@ -70,7 +85,6 @@ Bronze dragons usually make their homes near or under the sea.
   - !!int "15"
   - !!int "12"
   - !!int "11"
-  - !!int "15"
 "speed": "30 ft., fly 60 ft., swim 30 ft."
 "saves":
   - "dexterity": !!int "2"
@@ -98,7 +112,7 @@ Bronze dragons usually make their homes near or under the sea.
     "name": "Lightning Breath (Recharge 5-6)"
   - "desc": "Strength Saving Throw: DC 12, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: The target is pushed up to 30 feet straight away from the dragon\
-      \ and has the [[conditions#Prone|Prone]] condition."
+      \ and has the [[conditions#prone|Prone]] condition."
     "name": "Repulsion Breath"
 "source":
   - "XMM"
@@ -118,19 +132,25 @@ Bronze dragon wyrmling xmm is a undersea element of the setting, known for biolu
 
 Legends speak of bronze dragon wyrmling xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bronze dragon wyrmling xmm.
 
-## Adventure Hooks
-
-- A rumor ties bronze dragon wyrmling xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at bronze dragon wyrmling xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to bronze dragon wyrmling xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

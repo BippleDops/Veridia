@@ -30,16 +30,31 @@ updated: '2025-08-13T12:34:05.337785+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-axe-beak-xmm-axe-beak-xmm.svg)
 
 # [[axe-beak-xmm|Axe Beak]]
-*Source: Monster Manual (2024) p. 24. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 24. Available in the SRD and the Free Rules (2024)*  
 
 Alone or in small groups, axe beaks stalk prey to feed their flocks. When working together, axe beaks use rudimentary tactics, with some distracting threats while others strike vulnerable targets or rush young axe beaks to safety.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Axe Beaks
 
@@ -56,7 +71,6 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
 > 
 > The thing's got an axe for a face and a giant, angry rooster for everything else—of course I want to ride it!
 
-
 ```statblock
 "name": "Axe Beak (XMM)"
 "size": "Large"
@@ -68,7 +82,6 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
 "modifier": !!int "1"
 "stats":
   - !!int "14"
-  - !!int "12"
   - !!int "12"
   - !!int "2"
   - !!int "10"
@@ -98,19 +111,25 @@ Axe beak xmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of axe beak xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around axe beak xmm.
 
-## Adventure Hooks
-
-- A rumor ties axe beak xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at axe beak xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to axe beak xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

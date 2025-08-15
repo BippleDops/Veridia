@@ -1,4 +1,5 @@
 ---
+
 title: Captain Rescue
 type: Npc
 tags:
@@ -10,6 +11,7 @@ tags:
 - active
 - complete
 - status/in-progress
+- conspiracy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +20,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.486479+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +30,69 @@ world: Aquabyssos
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-rescue-captain-rescue.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward avoidance
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward avoidance
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
 
 ## Player-Facing Summary
 
@@ -67,14 +101,6 @@ Captain Rescue is a undersea element of the setting, known for bioluminescent gl
 ## Lore Details
 
 Legends speak of Captain Rescue as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Rescue.
-
-## Adventure Hooks
-
-- A rumor ties Captain Rescue to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Captain Rescue to avert a public scandal.
-- A map overlay reveals a hidden approach to Captain Rescue active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +111,6 @@ Captain Rescue's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Finding purpose
@@ -124,8 +120,6 @@ Captain Rescue's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Captain Rescue harbors secrets that could change everything:
@@ -134,13 +128,9 @@ Captain Rescue harbors secrets that could change everything:
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Secret alliance
 
-
-
-
-
 ## Voice & Mannerisms
 
-**Voice**: Deep and resonant
+**Voice**: Deep and resot
 
 **Speech Pattern**: Carefully chosen words
 
@@ -155,8 +145,6 @@ Captain Rescue is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Captain Rescue needs assistance with a delicate matter
@@ -164,8 +152,6 @@ Captain Rescue is currently engaged in:
 3. **The Secret**: Information about Captain Rescue's past surfaces
 4. **The Alliance**: Opportunity to work with or against Captain Rescue
 5. **The Crisis**: Captain Rescue is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,20 +165,65 @@ Captain Rescue is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Captain Rescue]]
+## Bloodline
 
-<!-- enriched: true -->
-
+Member of House Dragonblood - Trait: divine blood
 
 
+## Relationships
 
-## Relationship Web
+- **Enemy**: [[Portrait NPC the Smuggler S Den V2 the Smuggler S Den.svg]]
+- **Lover**: [[Assets Locations Location City Harbor Master Nereid Deepcurrent V1 Harbor Master Nereid Deepcurrent.svg]]
+- **Blackmailer**: [[Portrait NPC Captain Rhea Blackwater V2 Captain Rhea Blackwater.svg]]
+- **Mentor**: [[Portrait NPC the Crystal Queen Mother V2 the Crystal Queen Mother.svg]]
+- **Rival**: [[portrait-npc-tenebrarum-v1-tenebrarum.svg]]
 
-- [[Captain Torrent Freewater]]: *childhood friend*
-- [[Armor of the First Deep King]]: *former lover*
 
-## Connections
+## Economic Structure
 
-- [[Shadow Marina]]
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
+
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

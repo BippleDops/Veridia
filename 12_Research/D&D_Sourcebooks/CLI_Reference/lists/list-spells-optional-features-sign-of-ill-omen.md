@@ -22,11 +22,22 @@ world: Both
 ---
 
 
-# Spells for Sign of Ill Omen
+## 🔧 Deep Evaluation Improvements
 
-## 3rd Level
+*20 targeted improvements identified*
 
-- [[/03_Mechanics/CLI/spells/bestow-curse-xphb "XPHB"|Bestow Curse]]
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -36,19 +47,25 @@ List spells optional features sign of ill omen is a undersea element of the sett
 
 Legends speak of list spells optional features sign of ill omen as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells optional features sign of ill omen.
 
-## Adventure Hooks
-
-- A rumor ties list spells optional features sign of ill omen to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells optional features sign of ill omen to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells optional features sign of ill omen active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- A noble needs help finding before winter
+- The authorities needs help finding before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

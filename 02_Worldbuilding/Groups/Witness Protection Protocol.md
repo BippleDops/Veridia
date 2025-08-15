@@ -1,4 +1,5 @@
 ---
+
 title: Witness Protection Protocol
 type: Faction
 tags:
@@ -17,12 +18,81 @@ headquarters: Unknown
 membership: Unknown
 updated: '2025-08-13T12:34:17.331084+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
 > [!figure] Heraldry
 ![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-witness-protection-protocol-v1-witness-protection-protocol.svg]]
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
 
 
 ## Player-Facing Summary
@@ -33,18 +103,9 @@ Witness Protection Protocol is a undersea element of the setting, known for biol
 
 Legends speak of Witness Protection Protocol as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Witness Protection Protocol.
 
-## Adventure Hooks
-
-- A rumor ties Witness Protection Protocol to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Witness Protection Protocol to avert a public scandal.
-- A map overlay reveals a hidden approach to Witness Protection Protocol active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Overview
 
@@ -55,14 +116,6 @@ Witness Protection Protocol operates as an influential organization with specifi
 **Membership**: Dozens to thousands
 **Secrecy**: Public/Semi-secret/Secret
 
-
-## Structure
-
-### Leadership
-- **Supreme Leader**: Ultimate authority
-- **Council/Board**: Decision makers
-- **Department Heads**: Operational leaders
-
 ### Ranks
 1. Initiate level
 2. Member level
@@ -70,103 +123,51 @@ Witness Protection Protocol operates as an influential organization with specifi
 4. Officer level
 5. Leadership level
 
-
-## Members
-
-### Notable Members
-- [[Leader Name]] - Current head
-- [[Key Officer]] - Important figure
-- [[Rising Star]] - Ambitious member
-
-### Membership Requirements
-- Skills or qualities needed
-- Initiation process
-- Ongoing obligations
-
-
-## Goals
-
 ### Public Mission
 What they claim to pursue
-
-### True Objectives
-- Primary goal
-- Secondary objectives
-- Long-term vision
-
-### Current Projects
-- Active operations
-- Research efforts
-- Political maneuvers
-
-
-## Resources
-
-### Financial
-- Funding sources
-- Wealth level
-- Economic influence
-
-### Physical Assets
-- Properties owned
-- Equipment available
-- Special resources
-
-### Human Resources
-- Member skills
-- Allies and contacts
-- Information networks
-
-
-## Operations
-
-### Regular Activities
-- Day-to-day operations
-- Revenue generation
-- Member services
-
-### Special Operations
-- Covert activities
-- Major projects
-- Crisis responses
-
-
-## Relationships
-
-### Allies
-- Aligned organizations
-- Political supporters
-- Business partners
-
-### Enemies
-- Rival organizations
-- Opposed factions
-- Active threats
-
-### Neutral Parties
-- Potential allies or enemies
-- Trade partners
-- Watching parties
-
-
-## Secrets
 
 ### Open Secrets
 Things widely suspected
 
-### Hidden Truths
-- Real leadership
-- True funding sources
-- Secret objectives
 
-### Deep Mysteries
-- Ancient connections
-- Forbidden knowledge
-- Ultimate goals
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
 
-## Connections
+## Plot Hooks
 
-- See also: [[Master Timeline]]
-- Related: [[Recent Events]]
-- Connected to: [[Character Backstories]]
+- Someone is protecting an heir for money
+- A journal reveals the truth about this place
+- A prisoner has gone missing and chaos spreads
+- Someone is blackmailing a witness for money
+
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
+
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon

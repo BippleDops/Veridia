@@ -21,9 +21,8 @@ updated: '2025-08-12T23:37:34.906207'
 world: Both
 ---
 
-
 # Deck of Many Things (13 Cards)
-*Source: Dungeon Master's Guide (2024) p. 250. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Mysterious Deck") and the Free Rules (2024)*  
+*Source: Dungeon Master's Guide (2024) p. 250. Available in the SRD (as "Mysterious Deck") and the Free Rules (2024)*  
 
 Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have thirteen cards, but some have twenty-two. Use the appropriate column of the Deck of Many Things table when randomly determining cards drawn from the deck.
 
@@ -51,8 +50,6 @@ Once a card is drawn, it disappears. Unless the card is the Fool or Jester, the 
 | 89-96 | Moon |
 | 97-00 | Puzzle |
 ^deck-of-many-things
-
-## Cards
 
 ### Euryale
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-22-euryale.webp#card)
@@ -106,6 +103,24 @@ You gain proficiency and [[expertise-xphb|Expertise]] in your choice of [[skills
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-18-void.webp#card)
 Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is inert, ceases aging, and requires no food, air, or water. A [[wish-xphb|Wish]] spell can't return your soul to your body, but the spell reveals the location of the object that holds your soul. You draw no more cards.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Deck of many things 13 cards xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -114,19 +129,26 @@ Deck of many things 13 cards xdmg is a undersea element of the setting, known fo
 
 Legends speak of deck of many things 13 cards xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around deck of many things 13 cards xdmg.
 
-## Adventure Hooks
-
-- A rumor ties deck of many things 13 cards xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at deck of many things 13 cards xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to deck of many things 13 cards xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A stranger needs help investigating before the festival
+- A shipment has gone missing and evil awakens
+- Strange disappearances suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

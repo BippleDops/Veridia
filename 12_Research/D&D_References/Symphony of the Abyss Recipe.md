@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:35.991814+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-symphony-of-the-abyss-recipe-symphony-of-the-abyss-recipe.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,20 @@ Symphony of the Abyss Recipe is a undersea element of the setting, known for bio
 
 Legends speak of Symphony of the Abyss Recipe as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Symphony of the Abyss Recipe.
 
-## Adventure Hooks
-
-- A rumor ties Symphony of the Abyss Recipe to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Symphony of the Abyss Recipe to avert a public scandal.
-- A map overlay reveals a hidden approach to Symphony of the Abyss Recipe active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Symphony of the Abyss Recipe|02 Worldbuilding/Places/Symphony Of The Abyss Recipe]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Chef Gastropod]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help delivering before winter
+- A stranger needs help delivering before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

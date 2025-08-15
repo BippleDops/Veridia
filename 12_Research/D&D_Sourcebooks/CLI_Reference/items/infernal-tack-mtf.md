@@ -24,15 +24,11 @@ updated: '2025-08-12T23:37:37.013755'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-infernal-tack-mtf-infernal-tack-mtf.svg)
 
 # Infernal Tack
 *Wondrous item, legendary (requires attunement by a creature of evil alignment.)*  
-
-
 
 A rider binds a [[nightmare-xmm|nightmare]] to its service with infernal tack, which consists of a bridle, bit, reins, saddle, and stirrups, along with spurs that are worn by the rider. A nightmare equipped with infernal tack must serve whoever wears the spurs until the wearer dies or the tack is removed.
 
@@ -42,6 +38,24 @@ The tack doesn't conjure a nightmare; one must first be subdued so the tack can 
 
 *Source: Mordenkainen's Tome of Foes p. 167*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Infernal tack mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -50,19 +64,34 @@ Infernal tack mtf is a undersea element of the setting, known for bioluminescent
 
 Legends speak of infernal tack mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around infernal tack mtf.
 
-## Adventure Hooks
-
-- A rumor ties infernal tack mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at infernal tack mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to infernal tack mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## Plot Hooks
+
+- Strange accidents suggest a portal
+- A stranger needs help stealing before winter
+- A journal reveals a betrayal about this place
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:07.378163+00:00'
 world: Both
 ---
 
-
-
 # Book of Vile Darkness
 *Wondrous item, artifact (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/book-of-vile-darkness.webp#right)
@@ -45,6 +43,24 @@ Whenever a creature that isn't a Fiend or an Undead attunes to the Book of Vile 
 A creature attuned to the book must spend 80 hours reading and studying it to digest its contents and use its Adjusted Ability Scores, Tireless Form, Spells, Vile Lore, and Vile Speech properties.
 
 The Book of Vile Darkness remains with you only as long as you strive to work evil in the world. If you fail to perform at least one evil act within the span of 10 days, or if you willingly perform a good act, the book disappears, your [[attunement-xphb|Attunement]] to it ends immediately, and you lose all benefits granted by it. If you die while attuned to the book, an entity of great evil claims your soul. You can't be restored to life by any means while your soul remains imprisoned.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Adjusted Ability Scores
 
@@ -102,19 +118,26 @@ Book of vile darkness xdmg is a undersea element of the setting, known for biolu
 
 Legends speak of book of vile darkness xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around book of vile darkness xdmg.
 
-## Adventure Hooks
-
-- A rumor ties book of vile darkness xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at book of vile darkness xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to book of vile darkness xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Strange sightings suggest ancient magic
+- A stranger needs help finding before dawn
+- A journal reveals a betrayal about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

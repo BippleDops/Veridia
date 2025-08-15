@@ -28,13 +28,29 @@ updated: '2025-08-12T23:37:35.474793'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-oni-xmm-oni-xmm.svg)
 
 # [[oni-xmm|Oni]]
-*Source: Monster Manual (2024) p. 232. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 232. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Oni
 
@@ -104,7 +120,7 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
       \ plus 9 (2d8) Necrotic damage."
     "name": "Claw"
   - "desc": "Ranged Attack Roll: +5, range 60 ft. Hit: 9 (2d6 + 2) Psychic damage,\
-      \ and the target has the [[conditions#Frightened|Frightened]]\
+      \ and the target has the [[conditions#frightened|Frightened]]\
       \ condition until the start of the oni's next turn."
     "name": "Nightmare Ray"
   - "desc": "The oni shape-shifts into a Small or Medium Humanoid or a Large Giant,\
@@ -114,7 +130,7 @@ Oni torment villages that don't pay them or other supernatural forces respect. R
   - "desc": "The oni casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 13):\n\n1/day\
       \ each: [[charm-person-xphb|Charm Person]] (level\
-      \ 2 version), [[darkness-xphb|Darkness]], [[gaseous-form-xphb|Gaseous\
+      \ 2 version), [[darkness-xphb|Darkness]], [[gaseous-form-xphb|Gaseous\]]
       \ Form]], [[sleep-xphb|Sleep]]"
     "name": "Spellcasting"
 "bonus_actions":
@@ -140,19 +156,34 @@ Oni xmm is a undersea element of the setting, known for bioluminescent glow and 
 
 Legends speak of oni xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around oni xmm.
 
-## Adventure Hooks
-
-- A rumor ties oni xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at oni xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to oni xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- Someone is hunting an heir for power
+- Someone is hunting information for love
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

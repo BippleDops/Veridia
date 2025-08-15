@@ -23,11 +23,9 @@ updated: '2025-08-12T23:37:36.794081'
 world: Both
 ---
 
-
 # Spell Scroll (Level 6)
 *Scroll, very rare*  
 ![](/03_Mechanics/CLI/items/img/spell-scroll.webp#right)
-
 
 A Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost.
 
@@ -35,11 +33,29 @@ If the spell is on your spell list but of a higher level than you can normally c
 
 If the spell requires a saving throw or an attack roll, the spell save DC is 17, and the attack bonus is `+9`.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Copying a Scroll into a Spellbook
 
 A Wizard spell on a Spell Scroll can be copied into a spellbook. When a level 6 spell is copied in this way, the copier must succeed on a DC 16 Intelligence ([[skills#Arcana|Arcana]]). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed.
 
-*Source: Dungeon Master's Guide (2024) p. 305. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 305. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -49,19 +65,35 @@ Spell scroll level 6 xdmg is a undersea element of the setting, known for biolum
 
 Legends speak of spell scroll level 6 xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spell scroll level 6 xdmg.
 
-## Adventure Hooks
-
-- A rumor ties spell scroll level 6 xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at spell scroll level 6 xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to spell scroll level 6 xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Stars
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

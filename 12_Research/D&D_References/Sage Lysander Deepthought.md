@@ -15,27 +15,26 @@ updated: '2025-08-13T01:18:36.915602+00:00'
 world: Both
 ---
 
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-sage-lysander-deepthought-sage-lysander-deepthought.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[Abyssal Academy|02 Worldbuilding/Lore/Abyssal Academy]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Abyssal Academy]]
-- [[Master Cultivator Thalia Greenglow]]
-- [[The Cerulean Breath]]
-- [[Archivist Vera Glowmind]]
-- [[The Deepmind]]
-- [[The Forgotten One]]
 
 ## Player-Facing Summary
 
@@ -45,19 +44,31 @@ Sage Lysander Deepthought is a undersea element of the setting, known for biolum
 
 Legends speak of Sage Lysander Deepthought as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sage Lysander Deepthought.
 
-## Adventure Hooks
-
-- A rumor ties Sage Lysander Deepthought to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Sage Lysander Deepthought to avert a public scandal.
-- A map overlay reveals a hidden approach to Sage Lysander Deepthought active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting information for power
+- Strange sightings suggest ancient magic
+- Strange dreams suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

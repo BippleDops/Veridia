@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.327516+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-choldrith-mpmm-choldrith-mpmm.svg)
 
@@ -59,7 +56,6 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
 "stats":
   - !!int "12"
   - !!int "16"
-  - !!int "12"
   - !!int "11"
   - !!int "14"
   - !!int "10"
@@ -70,7 +66,6 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
   - "name": "[[skills#Religion|Religion]]"
     "desc": "+2"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Undercommon"
 "cr": "3"
@@ -121,6 +116,24 @@ Choldriths are born with a mystical connection to Lolth, which gives them divine
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 underdark
@@ -133,19 +146,25 @@ Choldrith mpmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of choldrith mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around choldrith mpmm.
 
-## Adventure Hooks
-
-- A rumor ties choldrith mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at choldrith mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to choldrith mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

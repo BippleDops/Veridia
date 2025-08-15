@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:06.075287+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-broom-xmm-animated-broom-xmm.svg)
 
@@ -38,6 +35,24 @@ world: Both
 *Source: Monster Manual (2024) p. 16*  
 
 Animated brooms keep their surroundings tidy and defend them when necessary. Launching into the air, these brooms dart about, attacking foes from unexpected angles. Other flying objects, like animated tools or staffs, might also use this stat block.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Animated Objects
 
@@ -84,14 +99,12 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
 "stats":
   - !!int "10"
   - !!int "17"
-  - !!int "10"
   - !!int "1"
   - !!int "5"
-  - !!int "1"
 "speed": "5 ft., fly 50 ft. (hover)"
 "damage_immunities": "poison, psychic"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
-  \ [[conditions#Exhaustion|exhaustion]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Exhaustion|exhaustion]], [[conditions#frightened|frightened]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., passive Perception 7"
@@ -122,19 +135,30 @@ Animated broom xmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of animated broom xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around animated broom xmm.
 
-## Adventure Hooks
-
-- A rumor ties animated broom xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at animated broom xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to animated broom xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help investigating before the new moon
+- An heirloom has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

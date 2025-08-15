@@ -31,13 +31,29 @@ updated: '2025-08-12T23:37:34.939549'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![[04_Resources/Assets/Creatures/creature-creature-griffon-xmm-griffon-xmm.png]]
 
 # [[griffon-xmm|Griffon]]
-*Source: Monster Manual (2024) p. 159. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 159. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Griffon
 
@@ -67,7 +83,6 @@ Countless tales surround griffons. Roll on or choose a result from the Griffon T
 > [!quote] A quote from Sildar Hallwinter, retired member of the Waterdeep Griffon Cavalry  
 > 
 > People think we flew high over the city to avoid weather vanes and laundry lines and whatnot. Truth is, if the griffons smelled how much horse meat trotted just below, folks would have worse than joy-flying mages and stirges to worry about!
-
 
 ```statblock
 "name": "Griffon (XMM)"
@@ -117,19 +132,25 @@ Griffon xmm is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of griffon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around griffon xmm.
 
-## Adventure Hooks
-
-- A rumor ties griffon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at griffon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to griffon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

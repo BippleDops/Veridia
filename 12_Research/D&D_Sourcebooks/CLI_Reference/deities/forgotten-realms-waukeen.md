@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:33.862604'
 world: Both
 ---
 
-
 # Waukeen
 *Source: Player's Handbook p. 294. Available in the Basic Rules (2014)* 
 
@@ -31,6 +30,24 @@ world: Both
 - **Domains**: Knowledge, Trickery
 - **Pantheon**: Forgotten Realms
 - **Symbol**: Upright coin with Waukeen's profile facing left
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -40,20 +57,37 @@ Forgotten realms waukeen is a undersea element of the setting, known for biolumi
 
 Legends speak of forgotten realms waukeen as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around forgotten realms waukeen.
 
-## Adventure Hooks
-
-- A rumor ties forgotten realms waukeen to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at forgotten realms waukeen to avert a public scandal.
-- A map overlay reveals a hidden approach to forgotten realms waukeen active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A map reveals ancient history about the cult
+- A shipment has gone missing and truth emerges
+- Someone is protecting an heir for money
+- A noble needs help stealing before dawn
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

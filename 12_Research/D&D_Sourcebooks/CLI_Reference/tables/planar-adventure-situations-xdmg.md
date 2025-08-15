@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.447812'
 world: Both
 ---
 
-
 # Planar Adventure Situations
 *Source: Dungeon Master's Guide (2024) p. 178* 
 
@@ -43,6 +42,24 @@ world: Both
 | 10 | An item of legend is being sold at auction in Sigil, the City of Brass, or some other planar metropolis. |
 ^planar-adventure-situations
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Planar adventure situations xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -51,19 +68,33 @@ Planar adventure situations xdmg is a undersea element of the setting, known for
 
 Legends speak of planar adventure situations xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around planar adventure situations xdmg.
 
-## Adventure Hooks
-
-- A rumor ties planar adventure situations xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at planar adventure situations xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to planar adventure situations xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

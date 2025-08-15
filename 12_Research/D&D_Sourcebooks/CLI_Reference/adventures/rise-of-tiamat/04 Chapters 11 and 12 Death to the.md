@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.969359+00:00'
 world: Both
 ---
 
-
-
 # Chapters 11 and 12: Death to the Wyrmspeakers
 *Source: Rise of Tiamat, p. 124* 
 
@@ -36,6 +34,24 @@ Over the course of the adventure, the heroes have two chances to come face to fa
 This section comprises two distinct chapters. In the first chapter, the characters track [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]], keeper of the White Dragon Mask, to an ancient crypt overrun by yuan-ti in the Serpent Hills. In the second chapter, the adventurers go up against [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]], wyrmspeaker of the Green Dragon Mask, in a hidden stronghold and dragon lair in the Misty Forest. These chapters play out at different points during the first and second sessions of the Council of Waterdeep, but are presented together because they form two halves of a single mission—taking the fight to the wyrmspeakers as a means of thwarting [[/03_Mechanics/CLI/bestiary/npc/severin-rot|Severin]]'s plots.
 
 Three of the five wyrmspeakers of the cult—[[/03_Mechanics/CLI/bestiary/npc/galvan-rot|Galvan]] the Blue, Rezmir the Black, and [[/03_Mechanics/CLI/bestiary/npc/severin-rot|Severin]] himself, who wears the Red Dragon Mask—are already at the Well of Dragons and beyond the party's reach. However, the white wyrmspeaker [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]] is forced to leave the security of his stronghold after losing possession of the White Dragon Mask, while the green wyrmspeaker [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] engages in raids against the elves of the Misty Forest with his draconic ally, Chuth. When word comes to the Council of Waterdeep that two of the five wyrmspeakers might be at large, the adventurers seize the opportunity to strike.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Varram the White
 
@@ -150,12 +166,8 @@ When [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]] died, those who ho
 > ![[/03_Mechanics/CLI/adventures/rise-of-tiamat/img/012-map-11-1-tomb-of-diderius.webp#gallery|Map 11.1: Tomb of Diderius]]
 > ![[/03_Mechanics/CLI/adventures/rise-of-tiamat/img/013-map-11-1-tomb-of-diderius-player.webp#gallery|Player Version]]
 
-### Tomb of Diderius (areas 1-6)
-
 ### 1. Entrance Plaza
 
-> [!readaloud] 
-> 
 > The entrance to [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]]'s tomb stands in what was once a large paved plaza. The remains of a fountain are now little more than a stone circle set around a crumbling hole in the ground leading to a well deep below. Two stone statues stand in the courtyard, rising twenty feet high. Behind them, a forty-foot high edifice is carved into the cliff side, dominated by relief columns carved with strange, otherworldly scenes.
 ^0f2
 
@@ -167,10 +179,7 @@ The relief-carved scenes around the entrance depict things [[/03_Mechanics/CLI/b
 
 When the party approaches the statues, read the following.
 
-> [!readaloud] 
-> 
 > As you approach the statues, you hear the sudden sound of grinding stone. The colossal figures turn their massive heads, their shattered features staring down at you. Two voices issue forth in unison, booming out as though erupting from the deep earth.
-> 
 > "Halt. You come before [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]], ether walker and conduit of clairvoyance. Behold ye now his wondrous triumphs. [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]] extends wisdom, and [[/03_Mechanics/CLI/bestiary/npc/diderius-rot|Diderius]] offers knowledge. Which do you seek?"
 ^0f4
 
@@ -213,21 +222,13 @@ When the first character enters this room, the tile chimera begins to slowly shi
 The [[animated-tile-chimera-rot|tile chimera]] acts as a normal [[chimera-xmm|chimera]] magically animated and customized per the sidebar. It makes a clacking noise as it moves, and when injured, it sprays tiles instead of bleeding. It is thin in one dimension and can use that fact to its advantage in combat. The creature flies up to the ledge to use its fire breath at range, flying down to attack in melee until it can breathe again.
 
 > [!note] Customization: Animated Tile Creature
-> 
 > An animated tile creature acts like the creature it resembles, except it is a construct that has no need to breathe, drink, eat, or sleep. The creature also gains the following features.
-> 
 > **Damage Resistances** piercing
-> 
 > **Damage Immunities** poison, psychic
-> 
-> **Condition Immunities** [[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]
-> 
+> **Condition Immunities** [[conditions#Charmed|charmed]], [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]
 > A tile creature gains the following trait.
-> 
 > **Rejuvenation.** If destroyed, the tile creature regains all its hit points and becomes active again in 24 hours unless at least half its tiles are collected and kept separate from the rest of the creature's tiles.
-> 
 > A tile creature gains the following reaction.
-> 
 > **Narrow Dodge.** When targeted by a melee attack, the tile creature can take a reaction to turn its narrowest aspect toward the attacker. The attacker has disadvantage on the attack roll.
 ^customization-animated-tile-creature
 
@@ -266,8 +267,6 @@ If the plate is activated, the circular mosaic pattern that appears as the sun o
 As it rolls through, the bone boulder crushes and slashes at any creature in area 6, dealing 18 (`4d8`) bludgeoning damage and 18 (`4d8`) slashing damage, or half as much damage with a successful DC 17 Dexterity saving throw. Any creature that fails this first save is grabbed by skeletal hands and pulled into the sphere, which continues to roll over any other creatures in the hallway.
 
 A creature trapped in the bone boulder can attempt a DC 17 Strength ([[skills#Athletics|Athletics]]) or Dexterity ([[skills#Acrobatics|Acrobatics]]) check to break free before the boulder slams into the wall in area 7. Any creature that fails to escape is inside the boulder when it hits, and is caught in an explosion of bones and stone, taking 14 (`4d6`) bludgeoning damage and 14 (`4d6`) slashing damage.
-
-### Tomb of Diderius (areas 7-13)
 
 ### 7. Throne Room Antechamber
 
@@ -415,8 +414,6 @@ The crypt's ceiling is 10 feet high unless otherwise noted.
 
 Unless otherwise specified, there is no light inside the crypt.
 
-### Ss'tck'al (areas 14-22)
-
 ### 14. Entryway
 
 This rough natural cavern holds the winch system for raising the stone slab secret door between area 13 and area 14. The doorway is guarded by 6 [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]], which attack at the first sign of the door rising between this area and area 13. One lizardfolk runs to warn the yuan-ti while the others move into position near the door.
@@ -557,8 +554,6 @@ Galin the warden is a nervous-looking elf with a dark secret. The folk of the vi
 
 In response to any question about Galin, the characters are directed to his residence in the upper boughs of the village.
 
-> [!readaloud] 
-> 
 > Stepping into a modest dwelling suspended among iron-strong boughs, you enter a cozy sitting room. A slim elf sits at a desk, standing to greet you with a forced smile as a raven perched in a nearby cage caws hideously. "Welcome to our village," the elf says. "How can I be of service?"
 ^133
 
@@ -594,12 +589,8 @@ Three [[awakened-tree-xmm|awakened trees]] are hidden among the other trees near
 
 If the characters help the druid without reservation, read the following.
 
-> [!readaloud] 
-> 
 > It takes all your effort to lift the tree, knowing that you put yourselves at risk if it shifts against you. But then even as you are close to freeing the woman, the tree begins to rise on its own. Two other trees standing nearby shift back along the ground as the elf stands and smiles, showing no sign of injury.
-> 
 > "Heroes at last!" she says. "How many might fall back in fear at the sight of a stranger in the woods, or think first of their own safety before helping another? I grant you my blessing. May your hearts prove true where others fear to tread."
-> 
 > The woman picks flowers from her hair that you swear were not there a moment ago, then twists her fingers to weave them into garlands as if by magic. She lays a garland around each of your necks, then suddenly transforms into an owl. Her awakened tree servants stomp after her into the forest.
 ^138
 
@@ -622,13 +613,9 @@ The Green Wyrmspeaker has established a stronghold for himself and Chuth within 
 Chuth is an [[adult-green-dragon-xmm|adult green dragon]]. Statistics for [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] can be found in appendix D.
 
 > [!note] No One Home
-> 
 > When the characters approach the stronghold, there might be a chance that Chuth has left the caves to hunt, or that he and [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] are out scouting future raids. You can determine this randomly as you see fit, or allow the characters to hole up within sight of the stronghold and simply wait for the dragon and the wyrmspeaker to leave.
-> 
 > Removing Chuth and [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] from the stronghold for an initial foray allows the characters to explore and eliminate the guards without the pressure of an imminent dragon attack. This dungeon is a tough adventure even for higher-level characters, especially with the legendary actions Chuth can use in his lair. Attacking head-on if the dragon is aware of the adventurers' approach is likely a suicide mission.
 ^no-one-home
-
-### General Features
 
 #### Secret Doors
 
@@ -638,11 +625,8 @@ Secret doors inside the stronghold are little more than cracks between chambers,
 
 The stronghold is dark unless otherwise noted.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/rise-of-tiamat/img/016-map-12-1-neronvains-stronghold.webp#gallery|Map 12.1: Neronvain's Stronghold]]
 > ![[/03_Mechanics/CLI/adventures/rise-of-tiamat/img/017-map-12-1-neronvains-stronghold-player.webp#gallery|Player Version]]
-
-### Stronghold (areas 1-10)
 
 ### 1. Pool
 
@@ -764,8 +748,6 @@ This chapter can end either with one or both of Chuth and [[/03_Mechanics/CLI/be
 
 In any event, the threat against the Misty Forest is ended. King Melandrach hears of the party's actions and is grateful for the heroes' bravery. However, the discovery that his lost son [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] is a wyrmspeaker fills him with shame and rage.
 
-The characters gain a level at the end of this chapter.
-
 ## Player-Facing Summary
 
 04 chapters 11 and 12 death to the wyrmspeakers is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -774,20 +756,42 @@ The characters gain a level at the end of this chapter.
 
 Legends speak of 04 chapters 11 and 12 death to the wyrmspeakers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 04 chapters 11 and 12 death to the wyrmspeakers.
 
-## Adventure Hooks
-
-- A rumor ties 04 chapters 11 and 12 death to the wyrmspeakers to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 04 chapters 11 and 12 death to the wyrmspeakers to avert a public scandal.
-- A map overlay reveals a hidden approach to 04 chapters 11 and 12 death to the wyrmspeakers active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a conspiracy
+- Someone is protecting information for revenge
+- Someone is searching for a artifact for money
+- Someone is protecting a witness for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

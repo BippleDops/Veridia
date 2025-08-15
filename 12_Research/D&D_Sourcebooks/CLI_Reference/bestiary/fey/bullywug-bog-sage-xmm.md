@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.252458'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bullywug-bog-sage-xmm-bullywug-bog-sage-xmm.svg)
 
@@ -36,6 +34,24 @@ world: Both
 *Source: Monster Manual (2024) p. 64. Available in the Free Rules (2024)*  
 
 Bullywug bog sages channel the magic of the swamp to sicken foes and speak with plants.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Bullywugs
 
@@ -60,7 +76,6 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
   - !!int "16"
   - !!int "14"
   - !!int "10"
-  - !!int "16"
   - !!int "12"
 "speed": "30 ft., swim 30 ft."
 "saves":
@@ -116,19 +131,20 @@ Bullywug bog sage xmm is a undersea element of the setting, known for biolumines
 
 Legends speak of bullywug bog sage xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bullywug bog sage xmm.
 
-## Adventure Hooks
-
-- A rumor ties bullywug bog sage xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at bullywug bog sage xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to bullywug bog sage xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:36.954074'
 world: Both
 ---
 
-
 # Periapt of Health
 *Wondrous item, uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/periapt-of-health.webp#right)
@@ -34,7 +33,25 @@ While wearing this pendant, you can take a [[actions#Magic|Magic]] action to reg
 
 In addition, you have [[advantage-xphb|Advantage]] on saving throws to avoid or end the [[conditions#Poisoned|Poisoned]] condition while you wear this pendant.
 
-*Source: Dungeon Master's Guide (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 284. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -44,19 +61,32 @@ Periapt of health xdmg is a undersea element of the setting, known for biolumine
 
 Legends speak of periapt of health xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around periapt of health xdmg.
 
-## Adventure Hooks
-
-- A rumor ties periapt of health xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at periapt of health xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to periapt of health xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A letter reveals a betrayal about the cult
+- A noble needs help investigating before the new moon
+- A journal reveals the truth about this place
+- A merchant needs help stealing before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

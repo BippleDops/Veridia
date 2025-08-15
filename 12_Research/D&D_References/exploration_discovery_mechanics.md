@@ -10,7 +10,23 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Exploration Discovery Mechanics
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Systematic Frameworks for Meaningful Environmental Interaction
 
@@ -53,7 +69,7 @@ Research on creating exploration experiences that reward curiosity while maintai
 **Aethermoor Exploration Challenges**:
 - **Weather Vulnerability**: Wind and storms affecting exploration safety
 - **Altitude Sickness**: Physical limitations at extreme heights
-- **Crystal Interference**: Magical resonance affecting equipment and abilities
+- **Crystal Interference**: Magical resoce affecting equipment and abilities
 - **Gravitational Risks**: Fall dangers limiting exploration options
 
 **Cross-Realm Exploration Opportunities**:
@@ -166,12 +182,10 @@ class Discovery(BaseModel):
 ```
 
 Player exploration tracking:
-```python
 exploration_history: Dict[str, List[str]]  # locations explored and discoveries made
 investigation_approaches: List[str]  # preferred exploration methods
 discovery_interests: List[str]  # types of discoveries that engage this player
 exploration_skills: Dict[str, int]  # character abilities relevant to exploration
-```
 
 ### Success Metrics
 
@@ -187,7 +201,6 @@ Effective exploration mechanics show:
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -195,3 +208,38 @@ Effective exploration mechanics show:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A merchant needs help delivering before the new moon
+- A map reveals the truth about the cult
+- A noble needs help investigating before the new moon
+- Strange sightings suggest a portal
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

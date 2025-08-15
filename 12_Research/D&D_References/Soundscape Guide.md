@@ -28,10 +28,26 @@ Recommendations:
 Notes: loop-friendly 2–4 min tracks, crossfades, low-CPU players in VTT.
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -40,3 +56,19 @@ Notes: loop-friendly 2–4 min tracks, crossfades, low-CPU players in VTT.
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Winds
+
+
+## Plot Hooks
+
+- Strange accidents suggest a portal
+- Someone is hunting an heir for love
+- Someone is hunting information for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

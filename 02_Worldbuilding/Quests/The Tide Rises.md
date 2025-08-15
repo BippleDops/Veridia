@@ -31,11 +31,71 @@ world: Both
 updated: '2025-08-13T01:18:34.501163+00:00'
 ---
 
-
-
 # The Tide Rises
 
 *Missing nobles, diplomatic immunity, and a conspiracy that threatens to drown Aethermoor*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
 
 ## Quest Overview
 
@@ -49,62 +109,12 @@ Several lesser nobles from [[Crystalhaven]] have vanished after attending "cultu
 
 Three nobles - Lord Aldric Wavecrest, Lady Marea Shelworth, and Sir Donnel Clearwater - attended Embassy events over the past two months and haven't been seen since. [[Ambassador Korvin Blacktide]] claims they left safely, but their families report strange dreams of drowning and whispered words in unknown languages.
 
-## Objectives
-
 ### Primary Objectives
 
 1. Investigate the disappearances without violating diplomatic immunity
 2. Discover the fate of the missing nobles
 3. Uncover the true purpose of [[12_Research/D&D_Statblocks/The Drowned Embassy]]
 4. Decide whether to expose, stop, or ally with the conspiracy
-
-### Optional Objectives
-
-- Rescue any surviving nobles before transformation
-- Obtain evidence of [[Aquabyssos]] invasion plans
-- Turn [[Ambassador Korvin Blacktide]] into a double agent
-- Prevent the opening of the Deep Gate
-
-## Key NPCs Involved
-
-- **[[Ambassador Korvin Blacktide]]** - Primary antagonist, but can be negotiated with
-- **[[Captain Lyanna Brightshield]]** - Quest giver, provides intelligence and resources
-- **[[Sir Marcus Dawnforge]]** - Can provide Order authority if convinced
-- **[[Zephyr Goldwhisper]]** - Knows about the Embassy's activities, will trade information
-- **[[Vex Shadowthorn]]** - The [[12_Research/D&D_Statblocks/The Whisper Syndicate]] smuggles for the Embassy
-- **[[Queen Seraphina Lumengarde]]** - Secretly knows about the kidnappings but is being blackmailed
-
-## Investigation Paths
-
-### The Diplomatic Route
-
-- Attend Embassy function undercover
-- Gain Korvin's trust through mutual interests
-- Access restricted areas during events
-- Risk: Possible corruption or transformation
-
-### The Criminal Route  
-
-- Work with [[Vex Shadowthorn]] to access smuggling tunnels
-- Infiltrate through underwater passages from [[Port Meridian]]
-- Bribe or threaten Embassy staff
-- Risk: Starting a gang war
-
-### The Military Route
-
-- Convince [[Sir Marcus Dawnforge]] to use Order authority
-- Claim the Embassy harbors crystal corruption
-- Force entry with legal justification
-- Risk: International incident, war with [[Aquabyssos]]
-
-### The Economic Route
-
-- Use [[Zephyr Goldwhisper]]'s connections to create pressure
-- Threaten trade sanctions from [[Goldspire Port]]
-- Buy information from Embassy staff
-- Risk: Economic retaliation, Confederate involvement
-
-## Revelations & Twists
 
 ### The Noble's Fate
 
@@ -120,7 +130,7 @@ The missing nobles are part of a ritual to open the Deep Gate. Their bloodlines 
 
 ### The Goldspire Connection
 
-[[Zephyr Goldwhisper]] and the Confederacy know about the threat and are prepared to use their Null Bombs to destroy the entire Embassy district if necessary, casualties included.
+[[Zephyr Goldwhisper]] and the Confederacy know about the threat and are prepared to use their  Bombs to destroy the entire Embassy district if necessary, casualties included.
 
 ## DM Secrets
 
@@ -136,59 +146,6 @@ The missing nobles are part of a ritual to open the Deep Gate. Their bloodlines 
 > [!info] Hidden Ally
 > Tidecaller Nerissa, Korvin's attaché, is having doubts about the plan. She was once from Aethermoor and still has family in [[Port Meridian]]. She can be turned with the right approach.
 
-## Encounters
-
-### Embassy Infiltration
-
-- **Drowned Chorus** (12 cultists, CR 2 each)
-- **Water Weird** guardians in flooded sections
-- **Tidecaller Nerissa** (CR 8) if hostile
-- **Deep One** guards (CR 5 each)
-
-### Rescue Mission
-
-- **Transformed Noble** (CR 6) - partially corrupted, attacks rescuers
-- **Aboleth Servitor** (CR 10) - oversees transformation
-- **Corruption Pools** - Environmental hazard
-
-## Rewards
-
-### Success (Full)
-
-- 5,000 gp from grateful families
-- Political favor with [[Crystalhaven]] nobility
-- Magical item: Amulet of the Depths (breathe water, resist corruption)
-- Intelligence about [[Aquabyssos]] invasion plans
-- Alliance with turned Embassy staff
-
-### Success (Partial)
-
-- 2,500 gp reward
-- Information about other Aquabyssos operations
-- Warning about future threats
-- Strained diplomatic relations
-
-### Failure
-
-- International incident leading to restricted movement
-- Noble families become enemies
-- Aquabyssos gains foothold in Aethermoor
-- Possible war between nations
-
-## Consequences & Follow-ups
-
-- Saved nobles become valuable allies but require constant monitoring
-- Exposed conspiracy leads to Embassy expulsion or war declaration
-- Alliance with Korvin opens dark paths to power
-- Goldspire Confederacy increases involvement in Aethermoor
-- The [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] become targets for Aquabyssos agents
-
-## Connected Quests
-
-- Leads to: "The Deep Gate Ritual" (stopping invasion)
-- Connects with: "Economic Warfare" (Goldspire involvement)
-- References: "The Green Death" (potential alliance against greater threat)
-
 ## Player-Facing Summary
 
 The Tide Rises is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -197,20 +154,73 @@ The Tide Rises is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of The Tide Rises as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Tide Rises.
 
-## Adventure Hooks
-
-- A rumor ties The Tide Rises to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Tide Rises to avert a public scandal.
-- A map overlay reveals a hidden approach to The Tide Rises active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
 
 
-## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
-- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
+## Plot Hooks
+
+- An heirloom has gone missing and truth emerges
+- Someone is hunting a artifact for power
+
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
+
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

@@ -1,4 +1,5 @@
 ---
+
 title: The Question Council
 type: Faction
 tags:
@@ -10,6 +11,8 @@ tags:
 - active
 - complete
 - status/in-progress
+- bloodline
+- prophecy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -17,6 +20,8 @@ headquarters: Unknown
 membership: Unknown
 updated: '2025-08-13T12:34:17.361284+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -25,24 +30,66 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-question-council-the-question-council.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Structure
+*20 targeted improvements identified*
 
-TODO
-## Goals
+### History Improvements
 
-TODO
-## Assets
+- Add three historical eras with major events
 
-TODO
-## Conflicts
+### Culture Improvements
 
-TODO
-## Hooks
+- Define unique cultural practices and taboos
 
-TODO
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
 
 ## Player-Facing Summary
 
@@ -52,108 +99,65 @@ The Question Council is a undersea element of the setting, known for bioluminesc
 
 Legends speak of The Question Council as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Question Council.
 
-## Adventure Hooks
-
-- A rumor ties The Question Council to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Question Council to avert a public scandal.
-- A map overlay reveals a hidden approach to The Question Council active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
-## Known Members
-
-- [[Quest - The Shadow Fleet]]
-- [[Madame Nightwhisper]]
-- [[10-combat#Dropping_to_0_Hit_Points#Death_Saving_Throws]]
-- [[Random NPC Generator]]
-- [[04_Resources_Assets_Locations_location-city-the-harbormaster-s-office-v1-the-harbormaster-s-office.svg]]
-
-
-## Members
-
-### Notable Members
-- [[Leader Name]] - Current head
-- [[Key Officer]] - Important figure
-- [[Rising Star]] - Ambitious member
-
-### Membership Requirements
-- Skills or qualities needed
-- Initiation process
-- Ongoing obligations
-
-
-## Resources
-
-### Financial
-- Funding sources
-- Wealth level
-- Economic influence
-
-### Physical Assets
-- Properties owned
-- Equipment available
-- Special resources
-
-### Human Resources
-- Member skills
-- Allies and contacts
-- Information networks
-
-
-## Operations
-
-### Regular Activities
-- Day-to-day operations
-- Revenue generation
-- Member services
-
-### Special Operations
-- Covert activities
-- Major projects
-- Crisis responses
-
-
-## Relationships
-
-### Allies
-- Aligned organizations
-- Political supporters
-- Business partners
-
-### Enemies
-- Rival organizations
-- Opposed factions
-- Active threats
-
-### Neutral Parties
-- Potential allies or enemies
-- Trade partners
-- Watching parties
-
-
-## Secrets
-
 ### Open Secrets
 Things widely suspected
 
-### Hidden Truths
-- Real leadership
-- True funding sources
-- Secret objectives
 
-### Deep Mysteries
-- Ancient connections
-- Forbidden knowledge
-- Ultimate goals
+## Plot Hooks
+
+- A shipment has gone missing and evil awakens
+- A corpse reveals the truth about the cult
+- A noble needs help finding before the festival
+
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
 
 
-## Connections
+## Economic Structure
 
-- See also: [[Campaign Guide]]
-- Related: [[Historical Context]]
-- Connected to: [[Side Adventures]]
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
+
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

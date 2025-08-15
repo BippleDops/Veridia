@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.305755'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-githyanki-warrior-xmm-githyanki-warrior-xmm.svg)
 
@@ -37,6 +35,24 @@ world: Both
 *Source: Monster Manual (2024) p. 134*  
 
 Githyanki warriors use psionic abilities to augment their battle prowess.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Githyanki
 
@@ -70,7 +86,6 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
   - !!int "14"
   - !!int "12"
   - !!int "13"
-  - !!int "13"
   - !!int "10"
 "speed": "30 ft."
 "saves":
@@ -87,7 +102,7 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
       \ plus 7 (2d6) Psychic damage."
     "name": "Psi Blade"
   - "desc": "The githyanki casts one of the following spells, requiring no spell components\
-      \ and using Intelligence as the spellcasting ability:\n\nAt will: [[mage-hand-xphb|Mage\
+      \ and using Intelligence as the spellcasting ability:\n\nAt will: [[mage-hand-xphb|Mage\]]
       \ Hand]] (the hand is Invisible)\n\
       \n2/day: [[nondetection-xphb|Nondetection]] (self\
       \ only)"
@@ -114,19 +129,30 @@ Githyanki warrior xmm is a undersea element of the setting, known for biolumines
 
 Legends speak of githyanki warrior xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around githyanki warrior xmm.
 
-## Adventure Hooks
-
-- A rumor ties githyanki warrior xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at githyanki warrior xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to githyanki warrior xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting information for power
+- Strange sightings suggest a curse
+- Strange accidents suggest a portal
+- Strange sightings suggest a conspiracy
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

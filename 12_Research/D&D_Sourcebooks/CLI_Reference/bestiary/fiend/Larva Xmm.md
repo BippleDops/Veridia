@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.788669+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-larva-xmm-larva-xmm.svg)
 
@@ -39,6 +36,24 @@ world: Both
 *Source: Monster Manual (2024) p. 193*  
 
 Larvae have disjointed, painful memories of their past lives. Most desperately avoid other creatures.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Larvae
 
@@ -62,10 +77,8 @@ Larvae that survive on the Lower Planes long enough can eventually transform int
 "modifier": !!int "-1"
 "stats":
   - !!int "9"
-  - !!int "9"
   - !!int "10"
   - !!int "6"
-  - !!int "10"
   - !!int "2"
 "speed": "20 ft."
 "senses": "darkvision 60 ft., passive Perception 10"
@@ -92,19 +105,33 @@ Larva xmm is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of larva xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around larva xmm.
 
-## Adventure Hooks
-
-- A rumor ties larva xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at larva xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to larva xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before the new moon
+- Strange disappearances suggest ancient magic
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

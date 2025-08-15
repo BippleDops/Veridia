@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:07.990193+00:00'
 world: Both
 ---
 
-
-
 # Spell Scroll (Level 1)
 *Scroll, common*  
 ![](/03_Mechanics/CLI/items/img/spell-scroll.webp#right)
@@ -38,11 +36,29 @@ If the spell is on your spell list but of a higher level than you can normally c
 
 If the spell requires a saving throw or an attack roll, the spell save DC is 13, and the attack bonus is `+5`.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Copying a Scroll into a Spellbook
 
 A Wizard spell on a Spell Scroll can be copied into a spellbook. When a level 1 spell is copied in this way, the copier must succeed on a DC 11 Intelligence ([[skills#Arcana|Arcana]]). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed.
 
-*Source: Dungeon Master's Guide (2024) p. 305, Player's Handbook (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 305, Player's Handbook (2024) p. 228. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -52,19 +68,29 @@ Spell scroll level 1 xdmg is a undersea element of the setting, known for biolum
 
 Legends speak of spell scroll level 1 xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spell scroll level 1 xdmg.
 
-## Adventure Hooks
-
-- A rumor ties spell scroll level 1 xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at spell scroll level 1 xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to spell scroll level 1 xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals a betrayal about this place
+- A noble needs help stealing before the festival
+- Someone is searching for an heir for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

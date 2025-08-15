@@ -22,7 +22,6 @@ updated: '2025-08-12T23:37:37.701752'
 world: Both
 ---
 
-
 # Lizardfolk
 *Source: Volo's Guide to Monsters p. 111*  
 ![](/03_Mechanics/CLI/races/img/lizardfolk.webp#right)
@@ -30,8 +29,6 @@ world: Both
 - **Ability Scores**: con +2 wis +1
 - **Size**: Medium
 - **Speed**: walk: 30 ft.; swim: 30 ft.
-
-## Traits
 
 ### Age
 
@@ -72,6 +69,24 @@ In battle, you can throw yourself into a vicious feeding frenzy. As a bonus acti
 ### Languages
 
 You can speak, read, and write Common and Draconic.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Description
 
@@ -136,11 +151,8 @@ You can use the Lizardfolk Quirks table to determine a personality quirk for a l
 > [!note] Lizardfolk Speech
 > 
 > Lizardfolk can master Common, but their mindset results in a speech pattern distinct from other humanoids.
-> 
 > Lizardfolk rarely use metaphors. Their speech is almost always literal. They might pick up idioms, but only with some difficulty.
-> 
 > Names confuse them, unless they are descriptive. They tend to apply their own naming conventions to other creatures using Common words.
-> 
 > Lizardfolk use active verbs to describe the world. A lizardfolk in cold weather might say, "This wind brings cold" rather than "I feel cold." Lizardfolk tend to define things in terms of actions, rather than effects.
 ^lizardfolk-speech
 
@@ -160,19 +172,30 @@ Lizardfolk vgm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of lizardfolk vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around lizardfolk vgm.
 
-## Adventure Hooks
-
-- A rumor ties lizardfolk vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at lizardfolk vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to lizardfolk vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

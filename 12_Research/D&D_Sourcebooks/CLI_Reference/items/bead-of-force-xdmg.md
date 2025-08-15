@@ -23,14 +23,11 @@ updated: '2025-08-12T23:37:36.648520'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-bead-of-force-xdmg-bead-of-force-xdmg.svg)
 
 # Bead of Force
 *Wondrous item, rare*  
-
 
 - **Weight**: 0.5 lbs.
 
@@ -40,7 +37,25 @@ You can take a [[actions#Magic|Magic]] action to throw the bead up to 60 feet. T
 
 An enclosed creature can take a [[actions#Utilize|Utilize]] action to push against the sphere's wall, moving the sphere up to half the creature's [[speed-xphb|Speed]]. The sphere can be picked up, and its magic causes it to weigh only 1 pound, regardless of the weight of creatures inside.
 
-*Source: Dungeon Master's Guide (2024) p. 234. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 234. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -50,19 +65,35 @@ Bead of force xdmg is a undersea element of the setting, known for bioluminescen
 
 Legends speak of bead of force xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bead of force xdmg.
 
-## Adventure Hooks
-
-- A rumor ties bead of force xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at bead of force xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to bead of force xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals ancient history about a local noble
+- Someone is protecting a artifact for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

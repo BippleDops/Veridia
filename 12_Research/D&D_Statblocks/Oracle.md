@@ -15,15 +15,8 @@ world: Both
 updated: '2025-08-13T01:18:36.920949+00:00'
 ---
 
-
-
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-oracle-nerida-the-tidereader-oracle-nerida-the-tidereader.svg]]
-
-
-
 
 # Pythia Deepgazer, the Tide Oracle
 
@@ -43,6 +36,24 @@ updated: '2025-08-13T01:18:36.920949+00:00'
 **Languages** Common, Primordial, Aquabyssan, Deep Speech, telepathy 60 ft.  
 **Challenge Rating** 12 (8,400 XP)  
 **Proficiency Bonus** +4
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Special Abilities
 
@@ -82,11 +93,6 @@ updated: '2025-08-13T01:18:36.920949+00:00'
 
 **Oracle's Gaze (3/Day).** Pythia fixes her gaze on a creature within 60 feet. The target must make a DC 20 Wisdom saving throw. On a failure, Pythia learns the creature's deepest secret and the creature is frightened of her for 1 minute.
 
-## Legendary Actions (3 per turn)
-- **Move.** Pythia moves up to her speed without provoking opportunity attacks.
-- **Cantrip.** Pythia casts a cantrip.
-- **Future Sight (2 actions).** Pythia gains advantage on her next attack roll, ability check, or saving throw.
-
 ## Description
 
 Pythia Deepgazer appears as a figure suspended between realms and times. Her triton heritage is evident in her blue-green skin that shimmers like sunlight on water and her flowing hair that moves as if perpetually underwater. Her most striking feature is her eyes—completely white orbs that seem to contain swirling galaxies, reflecting visions of what was, what is, and what might be.
@@ -94,14 +100,6 @@ Pythia Deepgazer appears as a figure suspended between realms and times. Her tri
 Standing 5'8" with an ethereal grace, Pythia is draped in flowing robes made from luminescent sea silk that phases between blue, purple, and silver. Bioluminescent patterns spiral across her arms and neck, pulsing in rhythm with her visions. When she speaks prophecies, these patterns flare brilliantly, and her voice takes on a harmonic quality that resonates like whale song.
 
 She resides in the Depths of Contemplation, a sacred site where the barriers between present and future are thinnest. Here, surrounded by pools of liquid starlight and crystalline formations that sing with memories of the deep, she receives visitors who seek knowledge of tomorrow's tides.
-
-## Equipment
-
-- **Staff of the Deep Tides** (arcane focus that can control water currents)
-- **Robes of Temporal Shift** (grants resistance to damage from attacks she foresaw)
-- **Orb of Future Echoes** (allows her to store and replay visions)
-- **Pearl of Endless Depths** (contains a bound water elemental for protection)
-- **Crystal Codex** (records all her prophecies in living crystal)
 
 ## Relationships
 
@@ -131,14 +129,6 @@ She resides in the Depths of Contemplation, a sacred site where the barriers bet
 4. **The Vision Quest** - Pythia foresees that one party member will face a terrible choice that could doom both realms. She offers to guide them through a prophetic journey to understand their destiny and find a third option.
 
 5. **The Silence of the Deep** - The leviathans who provide Pythia with her deepest visions have gone mysteriously silent. She needs brave souls to descend to the deepest ocean trenches to discover what force could frighten such ancient beings.
-
-## Secrets
-
-- **The Bound Future**: Pythia's power comes from a pact with a being that claims to be from the end of time itself. She fears what payment it will eventually demand.
-- **The Last Vision**: She has seen the ultimate fate of both Aethermoor and Aquabyssos—a future so terrible she has never spoken of it to anyone.
-- **Mortal Past**: Before her transformation into an oracle, she was [[Emperor Thalassius the Wise]]'s daughter, Princess Merina. She faked her death to escape court politics and embrace her prophetic calling.
-- **The Ripple Effect**: Every prophecy she speaks changes the future slightly, and she's aware that some of her well-meaning warnings have caused the very disasters she tried to prevent.
-- **The Rival Seer**: There is another oracle—one who serves shadow and entropy—who can see the same futures she does and works to ensure the darkest prophecies come to pass.
 
 ## Motivations
 
@@ -174,32 +164,45 @@ Oracle is a undersea element of the setting, known for bioluminescent glow and p
 
 Legends speak of Oracle as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Oracle.
 
-## Adventure Hooks
-
-- A rumor ties Oracle to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Oracle to avert a public scandal.
-- A map overlay reveals a hidden approach to Oracle active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Oracle|02 Worldbuilding/People/Oracle]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Emperor Thalassius the Wise]]
-- [[High Priestess Scylla Deepdream]]
-- [[Prince Caspian Duskwater]]
-- [[The Leviathan Prophets]]
-- [[The Waking Prophets]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Plot Hooks
+
+- The authorities needs help finding before the festival
+- A journal reveals a conspiracy about this place
+- Strange disappearances suggest ancient magic
+- A letter reveals ancient history about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

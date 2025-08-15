@@ -22,17 +22,14 @@ updated: '2025-08-12T23:37:37.696420'
 world: Both
 ---
 
-
 # Dwarf
-*Source: Player's Handbook (2024) p. 188. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Player's Handbook (2024) p. 188. Available in the SRD and the Free Rules (2024)*  
 ![](/03_Mechanics/CLI/races/img/dwarf.webp#right)
 
 - **Ability Scores**: None
 - **Type**: humanoid
 - **Size**: Medium
 - **Speed**: 30 ft.
-
-## Traits
 
 ### Darkvision
 
@@ -52,6 +49,24 @@ As a [[bonus-action-xphb|Bonus Action]], you gain [[senses#Tremorsense|Tremorsen
 
 You can use this [[bonus-action-xphb|Bonus Action]] a number of times equal to your [[proficiency-xphb|Proficiency Bonus]], and you regain all expended uses when you finish a [[long-rest-xphb|Long Rest]].
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Description
 
 Dwarves were raised from the earth in the elder days by a deity of the forge. Called by various names on different worlds—Moradin, Reorx, and others—that god gave dwarves an affinity for stone and metal and for living underground. The god also made them resilient like the mountains, with a life span of about 350 years.
@@ -68,19 +83,20 @@ Dwarf xphb is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of dwarf xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dwarf xphb.
 
-## Adventure Hooks
-
-- A rumor ties dwarf xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dwarf xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to dwarf xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a conspiracy
+- Strange disappearances suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

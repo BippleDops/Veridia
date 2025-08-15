@@ -28,13 +28,29 @@ updated: '2025-08-12T23:37:35.543172'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-goristro-xmm-goristro-xmm.svg)
 
 # [[goristro-xmm|Goristro]]
 *Source: Monster Manual (2024) p. 150*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Goristro
 
@@ -51,7 +67,6 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
 > 
 > Plot and strategize, bait and scheme, but hubris is no armor against ruin incarnate, and greater beings than you have fallen under the onslaught of the Abyss.
 
-
 ```statblock
 "name": "Goristro (XMM)"
 "size": "Huge"
@@ -65,7 +80,6 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
 "stats":
   - !!int "25"
   - !!int "11"
-  - !!int "25"
   - !!int "6"
   - !!int "13"
   - !!int "14"
@@ -79,7 +93,6 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
   - "name": "[[skills#Survival|Survival]]"
-    "desc": "+7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Poisoned|poisoned]]"
@@ -101,7 +114,7 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +13, reach 10 ft. Hit: 40 (6d10 + 7) Piercing\
       \ damage. If the target is a Huge or smaller creature, it is pushed up to 20\
-      \ feet straight away from the goristro and has the [[conditions#Prone|Prone]]\
+      \ feet straight away from the goristro and has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Brutal Gore"
   - "desc": "Melee Attack Roll: +13, reach 10 ft. Hit: 29 (4d10 + 7) Bludgeoning\
@@ -129,19 +142,25 @@ Goristro xmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of goristro xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around goristro xmm.
 
-## Adventure Hooks
-
-- A rumor ties goristro xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at goristro xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to goristro xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

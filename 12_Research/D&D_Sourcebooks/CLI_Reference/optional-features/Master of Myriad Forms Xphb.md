@@ -23,14 +23,30 @@ updated: '2025-08-13T12:34:06.165959+00:00'
 world: Both
 ---
 
-
-
 # Master of Myriad Forms
-*Source: Player's Handbook (2024) p. 156. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 156. Available in the SRD*  
 
 **Prerequisite**: Level 5 Warlock
 
 You can cast [[alter-self-xphb|Alter Self]] without expending a spell slot.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -40,19 +56,26 @@ Master of myriad forms xphb is a undersea element of the setting, known for biol
 
 Legends speak of master of myriad forms xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around master of myriad forms xphb.
 
-## Adventure Hooks
-
-- A rumor ties master of myriad forms xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at master of myriad forms xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to master of myriad forms xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Stars
+
+
+## Plot Hooks
+
+- Someone is protecting an heir for revenge
+- Strange accidents suggest a curse

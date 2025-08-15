@@ -24,45 +24,35 @@ updated: '2025-08-13T12:34:04.799929+00:00'
 world: Both
 ---
 
-
-
 # War Domain
 *[[cleric-xphb|Cleric]]: Cleric Subclass*  
 *Source: Player's Handbook (2024) p. 76*  
 
 > [!tldr] Class and Feature Progression
 > 
-> <table class="class-progression">
-> <thead>
-> <tr><th colspan='3'></th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
-> </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#War Domain (Level 3)' class='internal-link'>War Domain</a></td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#War God's Blessing (Level 6)' class='internal-link'>War God's Blessing</a></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Avatar of Battle (Level 17)' class='internal-link'>Avatar of Battle</a></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> </tbody></table>
+> LevelPBFeatures
+> 1st+2
+> 2nd+2
+> 3rd+2War Domain
+> 4th+2
+> 5th+3
+> 6th+3War God's Blessing
+> 7th+3
+> 8th+3
+> 9th+4
+> 10th+4
+> 11th+4
+> 12th+4
+> 13th+5
+> 14th+5
+> 15th+5
+> 16th+5
+> 17th+6Avatar of Battle
+> 18th+6
+> 19th+6
+> 20th+6
 
 ^class-progression
-
-
-## Class Features
 
 ### War Domain (Level 3)
 
@@ -102,6 +92,24 @@ You can expend a use of your Channel Divinity to cast [[shield-of-faith-xphb|Shi
 
 You gain [[resistance-xphb|Resistance]] to Bludgeoning, Piercing, and Slashing damage.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Cleric xphb war domain xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -110,19 +118,32 @@ Cleric xphb war domain xphb is a undersea element of the setting, known for biol
 
 Legends speak of cleric xphb war domain xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cleric xphb war domain xphb.
 
-## Adventure Hooks
-
-- A rumor ties cleric xphb war domain xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at cleric xphb war domain xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to cleric xphb war domain xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A shipment has gone missing and evil awakens
+- Strange accidents suggest a curse
+- A prisoner has gone missing and evil awakens
+- A merchant needs help stealing before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

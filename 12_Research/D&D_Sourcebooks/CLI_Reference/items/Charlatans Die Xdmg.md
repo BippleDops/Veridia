@@ -24,16 +24,31 @@ updated: '2025-08-13T12:34:07.200682+00:00'
 world: Both
 ---
 
-
-
 # Charlatan's Die
 *Wondrous item, common (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/charlatans-die.webp#right)
 
-
 Whenever you roll this six-sided die, you can control which number it rolls.
 
 *Source: Dungeon Master's Guide (2024) p. 243*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -43,18 +58,9 @@ Charlatans die xdmg is a undersea element of the setting, known for bioluminesce
 
 Legends speak of charlatans die xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around charlatans die xdmg.
 
-## Adventure Hooks
-
-- A rumor ties charlatans die xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at charlatans die xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to charlatans die xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

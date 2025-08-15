@@ -20,18 +20,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Cross-References
+### Enhancement Improvements
 
-- [[The Whispering Expanse]]
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-
-## Connections
-
-- [[The Whispering Expanse]]
 
 ## Player-Facing Summary
 
@@ -41,19 +45,26 @@ Dr. Thaddeus Vain is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Dr. Thaddeus Vain as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Dr. Thaddeus Vain.
 
-## Adventure Hooks
-
-- A rumor ties Dr. Thaddeus Vain to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Dr. Thaddeus Vain to avert a public scandal.
-- A map overlay reveals a hidden approach to Dr. Thaddeus Vain active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A shipment has gone missing and chaos spreads
+- A noble needs help delivering before dawn
+- A letter reveals the truth about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

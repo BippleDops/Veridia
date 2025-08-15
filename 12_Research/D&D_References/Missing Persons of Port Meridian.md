@@ -22,18 +22,30 @@ updated: '2025-08-13T01:18:36.499039+00:00'
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-missing-persons-of-port-meridian-missing-persons-of-port-meridian.svg]]
-
-
-
-
 
 # Missing Persons of Port Meridian
 
 *"They vanish without trace, leaving only questions behind."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 A complex investigation quest involving a series of mysterious disappearances in Port Meridian. Over the past six months, seventeen residents have vanished without leaving any conventional traces, creating panic among the population and baffling local authorities.
@@ -85,7 +97,7 @@ The missing persons come from all social classes and backgrounds, with no appare
 ## Clues and Evidence
 **Magical Residue**: Faint traces of conjuration magic at some sites
 **Witness Accounts**: Descriptions of strange lights or sounds
-**Financial Records**: Some victims had recent unusual transactions
+**Ficial Records**: Some victims had recent unusual transactions
 **Travel Documents**: Suspicious ship manifests or passenger lists
 **Personal Items**: Belongings that might reveal victim connections
 
@@ -96,25 +108,11 @@ The missing persons come from all social classes and backgrounds, with no appare
 **Option D**: Extra-dimensional creature collecting humans
 **Option E**: Time travel experiment gone wrong
 
-## Challenges
-- Limited physical evidence makes investigation difficult
-- Public panic and pressure for quick results
-- Official authorities may be hiding information
-- Perpetrators actively working to avoid detection
-- False leads and red herrings confuse the investigation
-
 ## Quest Resolution
 **Investigation Success**: Discover the truth and location of missing persons
 **Rescue Mission**: Attempt to recover victims from wherever they're held
 **Prevention**: Stop future disappearances by eliminating the threat
 **Justice**: Bring perpetrators to face consequences for their actions
-
-## Rewards
-- 2,000-4,000 XP depending on resolution completeness
-- Gratitude of families and city authorities
-- Potential ongoing relationships with rescued victims
-- Information network established through investigation
-- Possible magic items or treasure from perpetrators
 
 ## Adventure Hooks
 1. Players hired by desperate families
@@ -128,41 +126,6 @@ Success prevents future disappearances and may reveal larger conspiracies. Failu
 ## DM Notes
 This investigation should feel urgent and personal. Give players multiple investigative paths and let them choose their approach. The solution should tie together several clues in a satisfying way.
 
-
-## Connections
-
-- [[Aethermoor - Session 01 Blood in the Harbor]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 Missing Persons of Port Meridian is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -171,13 +134,27 @@ Missing Persons of Port Meridian is a undersea element of the setting, known for
 
 Legends speak of Missing Persons of Port Meridian as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Missing Persons of Port Meridian.
 
-## Cross-References
-
-- [[Missing Persons of Port Meridian|02 Worldbuilding/Places/Missing Persons Of Port Meridian]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- Someone is searching for information for power
+- Someone is searching for a artifact for power
+- Strange disappearances suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

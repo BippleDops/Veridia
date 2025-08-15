@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.381672'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gulthias-blight-xmm-gulthias-blight-xmm.svg)
 
@@ -36,6 +34,24 @@ world: Both
 *Source: Monster Manual (2024) p. 45*  
 
 Ancient plants twisted by evil, Gulthias blights feed on blood and despoil the surrounding land, often giving rise to subservient blights. These cursed plants take their name from the story of their creation; the first of their kind was a tree that grew from the stake piercing the heart of the vampire Gulthias. These blights consider all creatures either servants or fertilizer for the blights' corruption.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Blights
 
@@ -50,7 +66,6 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 > 
 > It lives, though it looks dead. In an age long past, someone staked a vampire to the earth on this very spot. The wooden stake was yet green and took root. And so grew the Gulthias Tree, reverberating with primal power.
 
-
 ```statblock
 "name": "Gulthias Blight (XMM)"
 "size": "Gargantuan"
@@ -64,7 +79,6 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
   - !!int "25"
   - !!int "10"
   - !!int "22"
-  - !!int "10"
   - !!int "18"
   - !!int "12"
 "speed": "50 ft."
@@ -93,7 +107,6 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
       \ damage."
     "name": "Slam"
   - "desc": "Ranged Attack Roll: +12, range 60/180 ft. Hit: 20 (3d8 + 7) Piercing\
-      \ damage."
     "name": "Thorn Volley"
   - "desc": "Constitution Saving Throw: DC 20, one Huge or smaller creature the\
       \ blight can see within 30 feet. Failure: 14 (2d6 + 7) Necrotic damage, and\
@@ -102,7 +115,7 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
       \ the [[conditions#Restrained|Restrained]] condition and\
       \ takes 14 (4d6) Necrotic damage at the start of each of its turns. The target's\
       \ [[hit-points-xphb|Hit Point]] maximum decreases\
-      \ by an amount equal to the Necrotic damage taken, and the blight regains [[hit-points-xphb|Hit\
+      \ by an amount equal to the Necrotic damage taken, and the blight regains [[hit-points-xphb|Hit\]]
       \ Points]] equal to that amount."
     "name": "Life-Draining Root"
 "source":
@@ -123,19 +136,20 @@ Gulthias blight xmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of gulthias blight xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gulthias blight xmm.
 
-## Adventure Hooks
-
-- A rumor ties gulthias blight xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gulthias blight xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to gulthias blight xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Stars
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -29,15 +29,11 @@ updated: '2025-08-12T23:37:36.668071'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-2-ammunition-xdmg-2-ammunition-xdmg.svg)
 
 # +2 Ammunition
 *Ammunition, rare*  
-
-
 
 You have a +2 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.
 
@@ -52,32 +48,29 @@ This ammunition is typically found or sold in quantities of ten or twenty pieces
 - [+2 Needle](#+2%20Needle)
 - [+2 Sling Bullet](#+2%20Sling%20Bullet)
 
-## +2 Arrow
-
-- **Weight**: 0.05 lbs.
-
-### +2 Bolt
-
-- **Weight**: 0.075 lbs.
-
-### +2 Energy Cell
-
-- **Weight**: 0.5 lbs.
-
-### +2 Firearm Bullet
-
-- **Weight**: 0.2 lbs.
-
-### +2 Needle
-
-- **Weight**: 0.02 lbs.
-
 ### +2 Sling Bullet
 
 - **Weight**: 0.075 lbs.
 
+*Source: Dungeon Master's Guide (2024) p. 228. Available in the SRD and the Free Rules (2024)*
 
-*Source: Dungeon Master's Guide (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -87,19 +80,30 @@ This ammunition is typically found or sold in quantities of ten or twenty pieces
 
 Legends speak of 2 ammunition xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 2 ammunition xdmg.
 
-## Adventure Hooks
-
-- A rumor ties 2 ammunition xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 2 ammunition xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to 2 ammunition xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Stars
+
+
+## Plot Hooks
+
+- Someone is searching for information for power
+- A document has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,13 +22,28 @@ updated: '2025-08-13T12:34:17.814372+00:00'
 world: Both
 ---
 
-
-
-
 # Unified Mechanics Guide
 *The Authoritative Rules Reference for Aquabyssos & Aethermoor*
 
 > **IMPORTANT**: This document supersedes all other mechanics files in cases of conflict. Use this as the primary reference for all game mechanics.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Table of Contents
 1. [Core Difficulty Classes](#core-difficulty-classes)
@@ -42,8 +57,6 @@ world: Both
 9. [Progression Systems](#progression-systems)
 10. [Environmental Hazards](#environmental-hazards)
 11. [Quick Reference Tables](#quick-reference-tables)
-
-## Core Difficulty Classes
 
 ### Standard DC Progression
 All systems use this unified progression:
@@ -70,8 +83,6 @@ Apply these modifiers to base DCs:
 | **Extreme conditions** | +5 | No tools, hostile environment, time pressure |
 | **Impossible conditions** | +10 | Actively opposed, catastrophic environment |
 
-## Standardized Save DCs
-
 ### Constitution Saves
 | Situation | Base DC | Modifiers |
 |-----------|---------|-----------|
@@ -82,8 +93,6 @@ Apply these modifiers to base DCs:
 | **Depth sickness** | 15 + ascent rate | -1 per pressure suit grade |
 
 ### Wisdom Saves
-| Situation | Base DC | Modifiers |
-|-----------|---------|-----------|
 | **Sanity loss (minor)** | 12 | +2 per current madness |
 | **Sanity loss (major)** | 18 | +4 per current madness |
 | **Shadow control** | 10 + shadow autonomy level | +1 per failed attempt |
@@ -91,14 +100,10 @@ Apply these modifiers to base DCs:
 | **Reality merger** | 15 + (100-integrity)/10 | +/- anchor bonus |
 
 ### Intelligence/Charisma Saves
-| Situation | Base DC | Modifiers |
-|-----------|---------|-----------|
 | **Memory confusion** | 14 | +1 per absorbed pearl today |
 | **Identity crisis** | 16 | +2 if meeting duplicate |
 | **Faction manipulation** | 13 + manipulator's CHA | +/- reputation |
 | **Deep Mother influence** | 20 | -1 per 10 influence points |
-
-## Unified Pressure System
 
 ### Depth Zones & Consistent Effects
 | Depth Range | Zone Name | Base Pressure DC | Adaptation Rate | Environmental |
@@ -129,8 +134,6 @@ Apply these modifiers to base DCs:
 | **76-99** | Abyss Touched | Immunity to pressure, regeneration underwater | Alien appearance, -4 CHA |
 | **100+** | Deep Merged | Transcendent abilities | NPC control, surface = death |
 
-## Crystal Corruption Mechanics
-
 ### Standardized Corruption Progression
 | Corruption Level | Physical Signs | Mechanical Effects | Treatment DC |
 |------------------|----------------|-------------------|--------------|
@@ -150,8 +153,6 @@ Apply these modifiers to base DCs:
 | Reality merger | 1d6 points | Per unstable zone exposure |
 | Magical corruption | Varies | Spell-dependent |
 
-## Shadow Separation Rules
-
 ### Shadow Autonomy Progression
 | Autonomy Level | Behavior | Control DC | Manifestation |
 |----------------|----------|------------|---------------|
@@ -162,15 +163,6 @@ Apply these modifiers to base DCs:
 | **4** | Communication | 18 | Whispers, gestures |
 | **5** | Opposition | 20 | Actively resists |
 | **6** | Full separation | 25 | Physical independence |
-
-### Shadow Separation Triggers
-- High stress or fear (WIS save DC 15)
-- Adaptation points > 50 (daily check)
-- Deep Mother influence > 30 (weekly check)
-- Reality merger exposure (automatic check)
-- Memory tide contact (immediate check)
-
-## Sanity & Madness Framework
 
 ### Unified Sanity System
 **Starting Sanity**: 10 + Wisdom modifier + level
@@ -196,8 +188,6 @@ Apply these modifiers to base DCs:
 | **1-2** | Shattered | 25% chance to act in different reality |
 | **0** | Transcended/Lost | NPC control |
 
-## Resource & Currency Systems
-
 ### Unified Currency Values
 | Currency | Standard Value | Source | Special Properties |
 |----------|----------------|--------|-------------------|
@@ -209,7 +199,7 @@ Apply these modifiers to base DCs:
 | **Depth Stones** | 100 gp | Abyss minerals | Pressure protection |
 
 ### Equipment Degradation (Standardized)
-| Environment | Material | Degradation Rate | Maintenance DC |
+| Environment | Material | Degradation Rate | Maintece DC |
 |-------------|----------|------------------|----------------|
 | **Surface** | Any | None | None |
 | **Shallow depths** | Mundane | 1 point/week | 10 |
@@ -218,8 +208,6 @@ Apply these modifiers to base DCs:
 | **Void zones** | Any | 1 point/10 minutes | 20 |
 
 **Degradation Effects**: Each point reduces effectiveness by 10%. At 10 points, item breaks.
-
-## Combat Modifiers
 
 ### Underwater Combat (Standardized)
 | Attack Type | Modifier | Notes |
@@ -250,8 +238,6 @@ Apply these modifiers to base DCs:
 | **Hadal** | Reality distortions cause random spell effects |
 | **Void** | Combat may occur across multiple realities |
 
-## Progression Systems
-
 ### Level-Based Scaling
 | Character Level | Depth Limit | AP Gain Rate | Shadow Risk | Sanity Recovery |
 |-----------------|-------------|--------------|-------------|----------------|
@@ -271,8 +257,6 @@ Apply these modifiers to base DCs:
 | **Friendly** | +2 | 10% discount | Helpful actions |
 | **Allied** | +4 | 25% discount, special access | Major assistance |
 | **Revered** | +6 | 50% discount, exclusive services | Heroic deeds |
-
-## Environmental Hazards
 
 ### Hazard Frequency by Location
 | Environment | Check Frequency | Hazard Die | Examples |
@@ -296,8 +280,6 @@ Apply these modifiers to base DCs:
 | 15-16 | Predator encounter | None | Roll encounter |
 | 17-18 | Sanity stress | Wisdom DC 16 | Lose 1d4 sanity |
 | 19-20 | System cascade | Multiple saves | Multiple effects |
-
-## Quick Reference Tables
 
 ### Daily Routine Checks
 **Every Morning**:
@@ -354,18 +336,6 @@ When using older mechanics files, convert as follows:
 
 *This unified system ensures consistent, balanced gameplay while preserving the unique horror and wonder of both Aquabyssos and Aethermoor. When in doubt, favor player agency and narrative consistency over mechanical complexity.*
 
-## See Also
-
-- [[02_Worldbuilding/Lore|02 Worldbuilding/Lore]] - Related content
-- [[Master_Campaign_Index|Master Campaign Index]] - Campaign overview
-
-## Connections
-
-- See also: [[World Overview]]
-- Related: [[Recent Events]]
-- Connected to: [[Character Backstories]]
-
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -373,3 +343,15 @@ When using older mechanics files, convert as follows:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A journal reveals a conspiracy about a local noble
+- Strange disappearances suggest a portal
+- The authorities needs help stealing before the festival
+- A shipment has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

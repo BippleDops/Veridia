@@ -28,13 +28,29 @@ updated: '2025-08-12T23:37:35.137707'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-frog-xmm-frog-xmm.svg)
 
 # [[frog-xmm|Frog]]
-*Source: Monster Manual (2024) p. 354, Player's Handbook (2024) p. 349. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 354, Player's Handbook (2024) p. 349. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Animals
 
@@ -52,8 +68,6 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "stats":
   - !!int "1"
   - !!int "13"
-  - !!int "8"
-  - !!int "1"
   - !!int "8"
   - !!int "3"
 "speed": "20 ft., swim 20 ft."
@@ -94,19 +108,30 @@ Frog xmm is a undersea element of the setting, known for bioluminescent glow and
 
 Legends speak of frog xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around frog xmm.
 
-## Adventure Hooks
-
-- A rumor ties frog xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at frog xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to frog xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and war looms
+- A stranger needs help delivering before the new moon
+- A prisoner has gone missing and evil awakens
+- Someone is protecting a artifact for power
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

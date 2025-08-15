@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.566923+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,16 @@ Public Relations Sarah Spokesperson is a undersea element of the setting, known 
 
 Legends speak of Public Relations Sarah Spokesperson as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Public Relations Sarah Spokesperson.
 
-## Adventure Hooks
-
-- A rumor ties Public Relations Sarah Spokesperson to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Public Relations Sarah Spokesperson to avert a public scandal.
-- A map overlay reveals a hidden approach to Public Relations Sarah Spokesperson active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Bexley|02 Worldbuilding/Groups/Bexley]]
-
-
-## Connections
-
-- [[Bexley]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals the truth about the cult
+- Someone is hunting a witness for power

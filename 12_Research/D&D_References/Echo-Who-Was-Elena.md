@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.899361+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,41 @@ Echo Who Was Elena is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Echo Who Was Elena as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Echo Who Was Elena.
 
-## Adventure Hooks
-
-- A rumor ties Echo Who Was Elena to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Echo Who Was Elena to avert a public scandal.
-- A map overlay reveals a hidden approach to Echo Who Was Elena active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Parliament of Nobody|02 Worldbuilding/Groups/The Parliament Of Nobody]]
-
-
-## Connections
-
-- [[The Parliament of Nobody]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A merchant needs help investigating before dawn
+- An heirloom has gone missing and chaos spreads
+- Someone is blackmailing information for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

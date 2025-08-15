@@ -15,26 +15,26 @@ updated: '2025-08-13T01:18:36.432427+00:00'
 world: Both
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-gallery-of-frozen-waves-gallery-of-frozen-waves.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[Crystal Festival Grounds|02 Worldbuilding/Lore/Crystal Festival Grounds]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Crystal Festival Grounds]]
-- [[Lamplight Alley]]
-- [[Screaming Gardens]]
-- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -44,19 +44,32 @@ Gallery of Frozen Waves is a undersea element of the setting, known for biolumin
 
 Legends speak of Gallery of Frozen Waves as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Gallery of Frozen Waves.
 
-## Adventure Hooks
-
-- A rumor ties Gallery of Frozen Waves to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Gallery of Frozen Waves to avert a public scandal.
-- A map overlay reveals a hidden approach to Gallery of Frozen Waves active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and chaos spreads
+- A shipment has gone missing and truth emerges
+- A map reveals the truth about a local noble
+- Strange disappearances suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

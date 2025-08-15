@@ -23,48 +23,38 @@ updated: '2025-08-13T12:34:04.850025+00:00'
 world: Both
 ---
 
-
-
 # Cavalier
 *[[fighter-xphb|Fighter]]: Fighter Subclass*  
 *Source: Xanathar's Guide to Everything p. 30*  
 
 > [!tldr] Class and Feature Progression
 > 
-> <table class="class-progression">
-> <thead>
-> <tr><th colspan='3'></th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
-> </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Cavalier (Level 3)' class='internal-link'>Cavalier</a></td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Warding Maneuver (Level 7)' class='internal-link'>Warding Maneuver</a></td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Hold the Line (Level 10)' class='internal-link'>Hold the Line</a></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Ferocious Charger (Level 15)' class='internal-link'>Ferocious Charger</a></td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Vigilant Defender (Level 18)' class='internal-link'>Vigilant Defender</a></td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> </tbody></table>
+> LevelPBFeatures
+> 1st+2
+> 2nd+2
+> 3rd+2Cavalier
+> 4th+2
+> 5th+3
+> 6th+3
+> 7th+3Warding Maneuver
+> 8th+3
+> 9th+4
+> 10th+4Hold the Line
+> 11th+4
+> 12th+4
+> 13th+5
+> 14th+5
+> 15th+5Ferocious Charger
+> 16th+5
+> 17th+6
+> 18th+6Vigilant Defender
+> 19th+6
+> 20th+6
 
 ^class-progression
 
-
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
-
-## Class Features
 
 ### Cavalier (Level 3)
 
@@ -102,11 +92,29 @@ At 10th level, you become a master of locking down your enemies. Creatures provo
 
 ### Ferocious Charger (Level 15)
 
-Starting at 15th level, you can run down your foes, whether you're mounted or not. If you move at least 10 feet in a straight line right before attacking a creature and you hit it with the attack, that target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked [[conditions#Prone|prone]]. You can use this feature only once on each of your turns.
+Starting at 15th level, you can run down your foes, whether you're mounted or not. If you move at least 10 feet in a straight line right before attacking a creature and you hit it with the attack, that target must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Strength modifier) or be knocked [[conditions#prone|prone]]. You can use this feature only once on each of your turns.
 
 ### Vigilant Defender (Level 18)
 
 Starting at 18th level, you respond to danger with extraordinary vigilance. In combat, you get a special reaction that you can take once on every creature's turn, except your turn. You can use this special reaction only to make an opportunity attack, and you can't use it on the same turn that you take your normal reaction.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -116,19 +124,22 @@ Fighter xphb cavalier xge is a undersea element of the setting, known for biolum
 
 Legends speak of fighter xphb cavalier xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fighter xphb cavalier xge.
 
-## Adventure Hooks
-
-- A rumor ties fighter xphb cavalier xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at fighter xphb cavalier xge to avert a public scandal.
-- A map overlay reveals a hidden approach to fighter xphb cavalier xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals a betrayal about this place
+- A letter reveals ancient history about the cult
+- Someone is protecting a witness for power
+- The authorities needs help investigating before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

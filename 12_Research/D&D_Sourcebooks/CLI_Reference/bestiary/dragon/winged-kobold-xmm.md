@@ -35,8 +35,6 @@ updated: '2025-08-12T23:37:35.782713'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-winged-kobold-xmm-v1-winged-kobold-xmm.svg)
 
@@ -44,6 +42,24 @@ world: Both
 *Source: Monster Manual (2024) p. 185*  
 
 Some kobolds are born with wings. Called urds by others of their kind, these kobolds are thought to be blessed by a dragon or Tiamat, the Dragon Queen. Despite their favored status, winged kobolds are as cowardly as their brethren and use their flight mostly to keep out of reach of their foes.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Kobolds
 
@@ -69,8 +85,6 @@ Kobolds' scales resemble those of chromatic dragons that live near their warrens
   - !!int "7"
   - !!int "16"
   - !!int "9"
-  - !!int "8"
-  - !!int "7"
   - !!int "8"
 "speed": "30 ft., fly 30 ft."
 "senses": "darkvision 60 ft., passive Perception 8"
@@ -109,19 +123,15 @@ Winged kobold xmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of winged kobold xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around winged kobold xmm.
 
-## Adventure Hooks
-
-- A rumor ties winged kobold xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at winged kobold xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to winged kobold xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

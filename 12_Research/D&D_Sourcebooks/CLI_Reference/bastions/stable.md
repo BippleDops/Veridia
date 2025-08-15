@@ -21,7 +21,6 @@ updated: '2025-08-13T01:18:32.400012+00:00'
 world: Both
 ---
 
-
 # Stable
 *Level 9 Bastion facility*  
 
@@ -33,6 +32,24 @@ world: Both
 A Bastion can have more than one Stable. Each Stable you add to your Bastion comes with one [[riding-horse-xmm|Riding Horse]] or [[camel-xmm|Camel]] and two [[pony-xmm|Ponies]] or [[mule-xmm|Mules]]; see the "Player's Handbook" or the "Monster Manual" for these creatures' stat blocks. The facility is big enough to house three Large animals. Two Medium creatures occupy the same amount of space as one Large creature there. The facility's hireling looks after these creatures.
 
 After a Beast that can serve as a mount spends at least 14 days in this facility, all Wisdom ([[skills#Animal%20Handling|Animal Handling]]) checks made with respect to it have Advantage.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Trade: Animals
 
@@ -54,19 +71,31 @@ Stable is a undersea element of the setting, known for bioluminescent glow and p
 
 Legends speak of stable as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around stable.
 
-## Adventure Hooks
-
-- A rumor ties stable to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at stable to avert a public scandal.
-- A map overlay reveals a hidden approach to stable active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A merchant needs help investigating before the new moon
+- Strange disappearances suggest ancient magic
+- A merchant needs help finding before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

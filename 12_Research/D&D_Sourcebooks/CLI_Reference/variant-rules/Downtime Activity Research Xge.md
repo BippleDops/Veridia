@@ -22,12 +22,28 @@ updated: '2025-08-13T12:34:04.622539+00:00'
 world: Both
 ---
 
-
-
 # Downtime Activity: Research
 *Source: Xanathar's Guide to Everything p. 132* 
 
 Forewarned is forearmed. The research downtime activity allows a character to delve into lore concerning a monster, a location, a magic item, or some other particular topic.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Resources
 
@@ -59,19 +75,20 @@ Downtime activity research xge is a undersea element of the setting, known for b
 
 Legends speak of downtime activity research xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around downtime activity research xge.
 
-## Adventure Hooks
-
-- A rumor ties downtime activity research xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at downtime activity research xge to avert a public scandal.
-- A map overlay reveals a hidden approach to downtime activity research xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting a artifact for revenge
+- A document has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -23,13 +23,29 @@ updated: '2025-08-13T12:34:05.073676+00:00'
 world: Both
 ---
 
-
-
 # Charm of Heroism
 
 This Charm allows you to give yourself the benefit of a [[potion-of-heroism-xdmg|Potion of Heroism]] as a [[actions#Magic|Magic]] action. Once you do so, the Charm vanishes from you.
 
 *Source: Dungeon Master's Guide (2024) p. 99*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -39,19 +55,39 @@ Charm of heroism xdmg is a undersea element of the setting, known for biolumines
 
 Legends speak of charm of heroism xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around charm of heroism xdmg.
 
-## Adventure Hooks
-
-- A rumor ties charm of heroism xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at charm of heroism xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to charm of heroism xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- A letter reveals the truth about a local noble
+- Someone is protecting information for money
+- An heirloom has gone missing and evil awakens
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

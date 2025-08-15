@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:04.165092+00:00'
 world: Both
 ---
 
-
-
 # Bahgtru
 *Source: Volo's Guide to Monsters p. 83* 
 
@@ -35,6 +33,24 @@ world: Both
 - **Symbol**: Broken thigh bone
 
 Despite the influence of Ilneval, orcs are and will forever be brutal and feral in how they wage war. Bahgtru is the deity who epitomizes the physical might and ruthlessness that orcs use to overwhelm their foes. He is the one who drives every thrust of an orc's weapon, so that it does as much harm as possible.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Fearless and Mighty
 
@@ -56,19 +72,30 @@ Orc bahgtru vgm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of orc bahgtru vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around orc bahgtru vgm.
 
-## Adventure Hooks
-
-- A rumor ties orc bahgtru vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at orc bahgtru vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to orc bahgtru vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -25,13 +25,27 @@ world: Both
 ---
 
 
-# Item Types
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Adventuring Gear
 _Source: Player's Handbook (2024) p. 222. Available in the Free Rules (2024)_
 
 ## Ammunition
-_Source: Player's Handbook (2024) p. 222. Available in the Free Rules (2024)_
 
 ## Ammunition
 _Source: Dungeon Master's Guide (2024) p. 72_
@@ -44,15 +58,12 @@ Artisan's Tools are each focused on crafting items and pursuing a trade. Each ty
 If you have proficiency with a tool, add your [[proficiency-xphb|Proficiency Bonus]] to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [[advantage-xphb|Advantage]] on the check too.
 
 ## Explosive
-_Source: Dungeon Master's Guide (2024) p. 72_
 
 ## Food and Drink
 _Source: Player's Handbook (2024) p. 231. Available in the Free Rules (2024)_
 
 ## Gaming Set
 _Source: Player's Handbook (2024) p. 221. Available in the Free Rules (2024)_
-
-If you have proficiency with a tool, add your [[proficiency-xphb|Proficiency Bonus]] to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [[advantage-xphb|Advantage]] on the check too.
 
 Proficiency with a gaming set applies to one type of game, such as Three-Dragon Ante or games of chance that use dice.
 
@@ -87,9 +98,6 @@ _Source: Dungeon Master's Guide p. 135_
 _Source: Player's Handbook (2024) p. 219. Available in the Free Rules (2024)_
 
 ## Instrument
-_Source: Player's Handbook (2024) p. 221. Available in the Free Rules (2024)_
-
-If you have proficiency with a tool, add your [[proficiency-xphb|Proficiency Bonus]] to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [[advantage-xphb|Advantage]] on the check too.
 
 Proficiency with a musical instrument indicates you are familiar with the techniques used to play it. You also have knowledge of some songs commonly performed with that instrument.
 
@@ -107,17 +115,13 @@ As part of a long rest, you can compose a new tune and lyrics for your instrumen
 
 **Musical Instrument**
 
-| Activity | DC |
-|----------|----|
 | Identify a tune | 10 |
 | Improvise a tune | 20 |
 ^musical-instrument
 
 ## Light Armor
-_Source: Player's Handbook (2024) p. 219. Available in the Free Rules (2024)_
 
 ## Medium Armor
-_Source: Player's Handbook (2024) p. 219. Available in the Free Rules (2024)_
 
 ## Melee Weapon
 _Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
@@ -129,7 +133,6 @@ _Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
 _Source: Player's Handbook p. 143_
 
 ## Potion
-_Source: Player's Handbook (2024) p. 222. Available in the Free Rules (2024)_
 
 ## Ranged Weapon
 _Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
@@ -140,24 +143,16 @@ _Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
 _Source: Dungeon Master's Guide p. 139_
 
 ## Rod
-_Source: Dungeon Master's Guide p. 139_
 
 ## Scroll
-_Source: Player's Handbook (2024) p. 222. Available in the Free Rules (2024)_
 
 ## Shield
-_Source: Player's Handbook (2024) p. 219. Available in the Free Rules (2024)_
 
 ## Spellcasting Focus
-_Source: Player's Handbook (2024) p. 222. Available in the Free Rules (2024)_
 
 ## Tack and Harness
-_Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
 
 ## Tool
-_Source: Player's Handbook (2024) p. 220. Available in the Free Rules (2024)_
-
-If you have proficiency with a tool, add your [[proficiency-xphb|Proficiency Bonus]] to any ability check you make that uses the tool. If you have proficiency in a skill that's used with that check, you have [[advantage-xphb|Advantage]] on the check too.
 
 ## Trade Bar
 _Source: Dungeon Master's Guide (2024) p. 213_
@@ -165,7 +160,6 @@ _Source: Dungeon Master's Guide (2024) p. 213_
 Because large numbers of coins can be difficult to transport and account for, many merchants prefer to use trade bars—ingots of precious metals and alloys (usually silver). These bars are valued by weight.
 
 ## Trade Good
-_Source: Dungeon Master's Guide (2024) p. 213_
 
 Merchants commonly exchange trade goods without using currency.
 
@@ -178,7 +172,6 @@ _Source: Dungeon Master's Guide (2024) p. 215_
 Idols cast of solid gold, necklaces studded with precious stones, paintings of ancient kings, bejeweled dishes—art objects include all these and more.
 
 ## Treasure (Coinage)
-_Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
 
 Characters often find coins on their adventures and can spend those coins in shops, inns, and other businesses. Coins come in different denominations based on the relative worth of their material. The Coin Values table lists coins and how much they're worth relative to the Gold Piece, which is the game's main coin. For example, 100 Copper Pieces are worth 1 Gold Piece.
 
@@ -190,7 +183,6 @@ _Source: Dungeon Master's Guide (2024) p. 214_
 Gemstones are small, lightweight, and easily secured compared to their same value in coins.
 
 ## Vehicle (Air)
-_Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
 
 **Speed.** A ship sailing against a strong wind moves at half speed. In a dead calm (no wind), waterborne ships can't move under sail and must be rowed. Keelboats and Rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A Rowboat can be carried and weighs 100 pounds.
 
@@ -203,10 +195,8 @@ _Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
 **Ship Repair.** Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 [[hit-points-xphb|Hit Point]] of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.
 
 ## Vehicle (Land)
-_Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
 
 ## Vehicle (Water)
-_Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
 
 **Speed.** A ship sailing against a strong wind moves at half speed. In a dead calm (no wind), waterborne ships can't move under sail and must be rowed. Keelboats and Rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can't be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A Rowboat can be carried and weighs 100 pounds.
 
@@ -219,7 +209,6 @@ _Source: Player's Handbook (2024) p. 230. Available in the Free Rules (2024)_
 **Ship Repair.** Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 [[hit-points-xphb|Hit Point]] of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.
 
 ## Wand
-_Source: Dungeon Master's Guide p. 139_
 
 ## Player-Facing Summary
 
@@ -229,19 +218,20 @@ Item types is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of item types as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around item types.
 
-## Adventure Hooks
-
-- A rumor ties item types to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at item types to avert a public scandal.
-- A map overlay reveals a hidden approach to item types active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

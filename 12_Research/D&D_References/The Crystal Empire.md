@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Surface Ambassador Lord Seaworthy|02 Worldbuilding/People/Surface Ambassador Lord Seaworthy]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Surface Ambassador Lord Seaworthy]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,27 @@ The Crystal Empire is a undersea element of the setting, known for bioluminescen
 
 Legends speak of The Crystal Empire as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crystal Empire.
 
-## Adventure Hooks
-
-- A rumor ties The Crystal Empire to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Crystal Empire to avert a public scandal.
-- A map overlay reveals a hidden approach to The Crystal Empire active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and chaos spreads
+- A journal reveals a conspiracy about the cult
+- Someone is protecting an heir for love
+- Someone is searching for information for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

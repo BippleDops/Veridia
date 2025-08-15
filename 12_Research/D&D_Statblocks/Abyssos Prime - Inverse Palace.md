@@ -24,25 +24,36 @@ obsidianUIMode: preview
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-abyssos-prime-inverse-palace-abyssos-prime-inverse-palace.svg]]
-
-
-
-
 
 # Abyssos Prime - Inverse Palace
 
 *Where reality bends inward and the depths dream of ascension*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
 The [[Inverse Palace]] stands as the most paradoxical structure in all of [[Aquabyssos]], defying both architectural logic and the fundamental laws of physics. Built not upon the ocean floor but suspended in the crushing darkness between tectonic plates, this impossible fortress serves as the seat of power for the [[The Abyssal Court|02 Worldbuilding/Lore/The Abyssal Court]] and the primary residence of [[The Deep Sovereign]].
 
 What makes the palace "inverse" is its fundamental rejection of directional reality - corridors flow upward into deeper waters, stairs descend toward surface pressures, and gravity itself seems negotiable within its coral-wrought halls. The structure exists in a state of perpetual architectural rebellion, where the concept of "up" and "down" become matters of political allegiance rather than physical law.
-
-## Architectural Impossibilities
 
 ### The Inverted Spires
 
@@ -63,8 +74,6 @@ Throughout the palace, **localized gravity wells** create pockets where the norm
 - **The Inverted Gardens**: Coral forests that grow in all directions simultaneously
 - **The Paradox Pools**: Bodies of water that flow in impossible loops
 - **The Weightless Archives**: Where knowledge itself has mass and must be contained by gravitational fields
-
-## The Abyssal Court
 
 ### The Deep Sovereign
 
@@ -101,8 +110,6 @@ Below The Deep Sovereign are the [[Pressure Lords]], twelve powerful entities wh
 - [[Count Benthic]]: Keeper of the sea floor territories
 - [[Earl Demersal]]: Master of the palace's living architecture
 
-## Environmental Hazards
-
 ### Pressure Flux Storms
 
 The palace exists in a constant state of **pressure flux**, creating dangerous environmental conditions:
@@ -129,8 +136,6 @@ The palace exists in a constant state of **pressure flux**, creating dangerous e
 - After 24 hours: DC 15 Wisdom save or gain one level of madness
 - Each additional day: DC increases by 2
 - [[Eldritch Knowledge]] skill checks can help navigate safely
-
-## Notable Locations Within the Palace
 
 ### The Ascending Throne Room
 
@@ -160,8 +165,6 @@ Many of the palace's passages are actually enormous, dormant creatures from the 
 - **Muscular Passages**: Can contract to trap or redirect movement
 - **Sensory Networks**: Constantly monitor all activity within the palace
 
-## Political Intrigue
-
 ### The Ascension Plot
 
 A growing faction within the [[The Abyssal Court|02 Worldbuilding/Lore/The Abyssal Court]] believes the time has come to abandon the depths and conquer the surface oceans. Led by [[Lord Bathysmal]], this group seeks to use the palace's reality-warping capabilities to:
@@ -188,8 +191,6 @@ A secretive faction has discovered that the palace's [[02_Worldbuilding/Lore/Tem
 - Retrieve lost knowledge from destroyed realities
 - Potentially replace the current reality with a more favorable one
 - Use temporal manipulation to eliminate their political rivals
-
-## Adventure Hooks
 
 ### The Diplomatic Mission
 
@@ -266,8 +267,6 @@ The [[Inverse Palace]] serves as a nexus point connecting to numerous other sign
 - **[[Temporal Anchor Points]]**: Locations where time flows differently
 - **[[The Whispering Chambers]]**: Communication centers throughout [[Aquabyssos]]
 
-## Treasures and Artifacts
-
 ### The Pressure Crown
 
 *Artifact (requires attunement by a creature with the ability to survive in the deep ocean)*
@@ -300,13 +299,6 @@ Forged from the pressure-compressed remains of surface metals, this armor provid
 
 The [[Inverse Palace]] stands as both a marvel of impossible architecture and a center of cosmic political power, where the laws of reality bend to the will of entities whose motivations remain as dark and mysterious as the depths they call home.
 
-
-## Connections
-
-- [[Emperor Thalassius the Wise]]
-- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[Find the Grief Bomb]]
-
 ## Player-Facing Summary
 
 Abyssos Prime   Inverse Palace is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -319,13 +311,22 @@ Legends speak of Abyssos Prime   Inverse Palace as a nexus where past and presen
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Abyssos Prime - Inverse Palace|02 Worldbuilding/Places/Abyssos Prime Inverse Palace]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest a conspiracy
+- A document has gone missing and evil awakens
+- Someone is blackmailing a witness for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

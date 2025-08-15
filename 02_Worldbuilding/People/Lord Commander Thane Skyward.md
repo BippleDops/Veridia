@@ -1,4 +1,5 @@
 ---
+
 title: Lord Commander Thane Skyward
 type: Npc
 tags:
@@ -11,6 +12,7 @@ tags:
 - complete
 - status/in-progress
 - aethermoor
+- bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -19,6 +21,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.681429+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -27,39 +31,69 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-commander-thane-skyward-lord-commander-thane-skyward.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward avoidance
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward avoidance
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
 
 ## Player-Facing Summary
 
@@ -68,14 +102,6 @@ Lord Commander Thane Skyward is a sky-borne element of the setting, known for br
 ## Lore Details
 
 Legends speak of Lord Commander Thane Skyward as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lord Commander Thane Skyward.
-
-## Adventure Hooks
-
-- A rumor ties Lord Commander Thane Skyward to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Lord Commander Thane Skyward to avert a public scandal.
-- A map overlay reveals a hidden approach to Lord Commander Thane Skyward active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -86,36 +112,6 @@ Lord Commander Thane Skyward's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Finding purpose
@@ -125,8 +121,6 @@ Lord Commander Thane Skyward's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Lord Commander Thane Skyward harbors secrets that could change everything:
@@ -134,10 +128,6 @@ Lord Commander Thane Skyward harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Prophetic visions
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -156,8 +146,6 @@ Lord Commander Thane Skyward is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Lord Commander Thane Skyward needs assistance with a delicate matter
@@ -165,8 +153,6 @@ Lord Commander Thane Skyward is currently engaged in:
 3. **The Secret**: Information about Lord Commander Thane Skyward's past surfaces
 4. **The Alliance**: Opportunity to work with or against Lord Commander Thane Skyward
 5. **The Crisis**: Lord Commander Thane Skyward is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -180,22 +166,43 @@ Lord Commander Thane Skyward is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Lord Commander Thane Skyward]]
+## Secret Connections
 
-<!-- enriched: true -->
-
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
 
 
+## Prophecy Connection
 
-## Relationship Web
+Mentioned in The Second Prophecy of Winds
 
-- [[Shadow Guard Units]]: *student*
-- [[Otherworldly Pacts]]: *secret ally*
-- [[04_Resources_Assets_Locations_location-city-quartermaster-sterling-suppystone-quartermaster-sterling-suppystone.svg]]: *sworn enemy*
-- [[Lady Willow Greenbough]]: *childhood friend*
 
-## Connections
+## Historical Timeline
 
-- [[Quest - The Lost Expedition]]
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
+
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon

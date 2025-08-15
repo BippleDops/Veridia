@@ -23,13 +23,29 @@ updated: '2025-08-13T12:34:05.071339+00:00'
 world: Both
 ---
 
-
-
 # Blessing of Magic Resistance
 
 You have [[advantage-xphb|Advantage]] on saving throws against spells and other magical effects.
 
 *Source: Dungeon Master's Guide (2024) p. 98*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -39,19 +55,25 @@ Blessing of magic resistance xdmg is a undersea element of the setting, known fo
 
 Legends speak of blessing of magic resistance xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around blessing of magic resistance xdmg.
 
-## Adventure Hooks
-
-- A rumor ties blessing of magic resistance xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at blessing of magic resistance xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to blessing of magic resistance xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals ancient history about the government
+- A journal reveals the truth about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

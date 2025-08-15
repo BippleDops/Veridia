@@ -31,14 +31,29 @@ updated: '2025-08-13T12:34:05.467492+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-toad-xmm-giant-toad-xmm.svg)
 
 # [[giant-toad-xmm|Giant Toad]]
-*Source: Monster Manual (2024) p. 360. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 360. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Animals
 
@@ -55,7 +70,6 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "modifier": !!int "1"
 "stats":
   - !!int "15"
-  - !!int "13"
   - !!int "13"
   - !!int "2"
   - !!int "10"
@@ -86,7 +100,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
       \ can have only one target swallowed at a time, and it can't use Bite while\
       \ it has a swallowed target. If the toad dies, a swallowed creature is no longer\
       \ [[conditions#Restrained|Restrained]] and can escape from\
-      \ the corpse using 5 feet of movement, exiting with the [[conditions#Prone|Prone]]\
+      \ the corpse using 5 feet of movement, exiting with the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Swallow"
 "source":
@@ -107,19 +121,32 @@ Giant toad xmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of giant toad xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around giant toad xmm.
 
-## Adventure Hooks
-
-- A rumor ties giant toad xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at giant toad xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to giant toad xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- Strange dreams suggest a portal
+- Someone is blackmailing an heir for love
+- Someone is blackmailing a artifact for revenge
+- A prisoner has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.393268+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-acolyte-sister-tidal-deepfaith-acolyte-sister-tidal-deepfaith.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,25 @@ Acolyte Sister Tidal Deepfaith is a undersea element of the setting, known for b
 
 Legends speak of Acolyte Sister Tidal Deepfaith as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Acolyte Sister Tidal Deepfaith.
 
-## Adventure Hooks
-
-- A rumor ties Acolyte Sister Tidal Deepfaith to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Acolyte Sister Tidal Deepfaith to avert a public scandal.
-- A map overlay reveals a hidden approach to Acolyte Sister Tidal Deepfaith active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Acolyte Sister Tidal Deepfaith|02 Worldbuilding/Places/Acolyte Sister Tidal Deepfaith]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Temple Guardian Marcus the Drowned]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

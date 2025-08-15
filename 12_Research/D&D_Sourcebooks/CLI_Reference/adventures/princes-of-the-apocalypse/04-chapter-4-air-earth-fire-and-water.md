@@ -21,13 +21,30 @@ updated: '2025-08-12T23:37:34.581992'
 world: Both
 ---
 
-
 # Chapter 4: Air, Earth, Fire, and Water
 *Source: Princes of the Apocalypse, p. 74* 
 
 ![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/039-poa04-01.webp#center)
 
-In chapter 3, the characters succeeded in exposing some or all of the elemental cults' surface outposts as nests of villainy. However, the Haunted Keeps represent only the tip of the iceberg. Each cult's base of operations lies hidden deep beneath the Sumber Hills in the ancient dwarven redoubt of Tyar-Besil. Clearing the cultists out of the Haunted Keeps deals a sharp setback to the affected cults, but unless the characters follow up on their initial successes by infiltrating the temple complex, the cults recover quickly from their early defeats and return in greater force.
+In chapter 3, the characters succeeded in exposing some or all of the elemental cults' surface outposts as nests of villainy. However, the Haunted Keeps represent only the tip of the iceberg. Each cult's base of operations lies hidden deep beneath the Sumber Hills in the ancient dwarven redoubt of Tyar-Besil. Clearing the cultists out of the Haunted Keeps deals a sharp seck to the affected cults, but unless the characters follow up on their initial successes by infiltrating the temple complex, the cults recover quickly from their early defeats and return in greater force.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Rooting Out Evil
 
@@ -129,14 +146,11 @@ When the characters defeat a second elemental temple, the offended cult strikes 
 If the characters make camp outside of town, this encounter occurs when the characters spot the cultist group traveling to a settlement they intend to attack. The cultists' path brings them close to wherever the characters happen to be staying. For example, if the characters are camped out near one of the Haunted Keeps, they spot the group as it exits the passage connecting the keep to the dungeon levels.
 
 > [!readaloud] 
-> 
 > Shortly after sunrise the day after you arrive in town, you hear a commotion outside. Someone shouts, "Hey, stop that!" A moment later voices break into a low, strange chanting.
 ^2a3
 
 When the characters investigate, add the following information.
 
-> [!readaloud] 
-> 
 > Several strangely dressed people stand in the street. One who looks like a priest chants as the others open a large box engraved with a recurring elemental symbol. Inside, a magical orb resembling a crystal ball pulses and thrums with power. The priest holds the orb aloft and continues to chant while the others kneel before it.
 ^2a4
 
@@ -155,10 +169,7 @@ After the characters despoil the third shrine in the Temple of Elemental Evil, t
 
 While the characters rest, the cultists use a [[dream-xphb|dream]] spell to contact the most prominent or recognizable character in the party.
 
-> [!readaloud] 
-> 
 > Your sleep is troubled this night. Half-remembered figments and warnings seem to hover in your mind. Then a shadowy figure strides into your mind's eye and brushes aside your wandering thoughts. "Hear me well, fool," it sneers. "You have offended the Elder Elemental Eye. For your sacrilege, others shall be punished. At sunset the day after tomorrow, we will destroy the town of Beliard. You can try to stop us, but you will fail; none shall survive. This is the price of your defiance."
-> 
 > A new vista forms in your dream. You are standing on a hillside above a small town. A circle of shadowy cultists stands nearby, gazing at a glowing orb in the center of the circle. The orb pulses, and you awaken with a start.
 ^2a8
 
@@ -175,8 +186,6 @@ These cultists are willing to annihilate themselves in the process of carrying o
 
 When the characters follow the tunnel from Knifepoint Gully (see chapter 3), read the following text:
 
-> [!readaloud] 
-> 
 > An enormous chasm splits the earth as far as the eye can see in the pervasive subterranean darkness. A crude, narrow stairway hugs the rock alongside the chasm, twisting madly in hairpin turns around sharp outcroppings. Jagged and uneven, the stair threatens to spill travelers into the chasm's mouth. After several treacherous miles, the stairway terminates on a broad, flat landing that juts out over the immense black chasm. In the gloom, a lost dwarven city lays in ruins beneath the glittering cavern vault. Broken statues stand in the midst of empty plazas, staring sightlessly into the darkness. A huge step pyramid rises at the edge of the precipice, and from the moat that surrounds it a misty waterfall whispers over the chasm's ledge.
 ^2aa
 
@@ -212,12 +221,8 @@ Although air cultists rarely do, many denizens of the air temple carry small amo
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/041-04-01.webp#gallery|Map 4.1: Temple of Howling Hatred]]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/042-pam12_templeofhowlinghatred_dm-zf-0998-75774-1-004.webp#gallery|Player Version]]
 
-### Areas of the Air Temple
-
 ### A1. Palace Quarter Entrance
 
-> [!readaloud] 
-> 
 > The carved reliefs of two dwarves face one another in profile to complete an arch beyond the ledge. Through the arch, the blocky contours of a lost dwarven city sprawl in the subterranean night. From somewhere within comes an agonized wail, followed by a breathless ramble of whimpering pleas. Then the whole city seems to join the chorus with the screams of creatures mad from torment.
 ^2b4
 
@@ -225,8 +230,6 @@ The tormented screams actually come from four [[kenku-xmm|kenku]] lurking inside
 
 ### A2. Gatehouse
 
-> [!readaloud] 
-> 
 > A squat stone gatehouse stands at the entrance to the dwarven city. Beyond the open gates, an arched corridor zigzags past sturdy stone walls where arrow slits squint from every angle. At the far end of this murderous hallway stands the entrance to this lost dwarven city.
 ^2b6
 
@@ -238,16 +241,13 @@ The gatehouse was designed in a zigzag pattern to provide cover for dwarf defend
 
 ### A3. Machine Chamber
 
-> [!readaloud] 
-> 
 > Two massive stone pillars thread holes in the floor and ceiling of this vast chamber. Stone crossbeams pierce the pillars to form spokes, creating giant wheels.
-> 
 > Two robed figures whip five sorry-looking humans into pushing against the crossbeams of the westernmost wheel with all their might. As the wheel turns slowly counterclockwise, you hear the grinding of enormous gears hidden deep below the stone floor.
 ^2ba
 
 Two [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-priest-pota|Howling Hatred priests]] (see chapter 7) supervise as five [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]] slowly turn the westernmost wheel (see "Stone Wheels" below). After completing one revolution, they stop and await further instructions.
 
-The commoners are cultists on the brink of becoming initiates. The priests lash these cultists to break their will before final initiation into the cult. If the characters attack, the priests order the commoners to fight to the death. A commoner can be [[conditions#Frightened|frightened]] into surrendering with a successful DC 15 Charisma ([[skills#Intimidation|Intimidation]]) check.
+The commoners are cultists on the brink of becoming initiates. The priests lash these cultists to break their will before final initiation into the cult. If the characters attack, the priests order the commoners to fight to the death. A commoner can be [[conditions#frightened|frightened]] into surrendering with a successful DC 15 Charisma ([[skills#Intimidation|Intimidation]]) check.
 
 #### Stone Wheels
 
@@ -255,8 +255,6 @@ The stone wheels operate an elaborate mechanism beneath the floor in this dungeo
 
 ### A4. Plaza of the Muses
 
-> [!readaloud] 
-> 
 > A stone fountain stands in the middle of a grand plaza, its sides sculpted into the shapes of dwarves bearing drums and horns. Near the fountain, several figures in feathered attire play a shrill, discordant tune on flutes made of bone.
 ^2be
 
@@ -278,8 +276,6 @@ If caught in a fight he knows he's going to lose, [[/03_Mechanics/CLI/bestiary/n
 
 ### A5. Tyar-Besil Shops
 
-> [!readaloud] 
-> 
 > The proprietors of these shops are long gone, but carvings above the doors indicate the owners' former professions: tailor, jeweler, smith, baker. All that remains of these places now are small, rubble-strewn rooms.
 ^2c3
 
@@ -291,8 +287,6 @@ The cloaker has collected all the valuables left in the area, as well as the wea
 
 ### A6. Plaza of Vergadain
 
-> [!readaloud] 
-> 
 > The worn image of a smiling dwarf on the face of a coin is stamped into the flagstones that pave this plaza. An old sign bearing this same image hangs above the door of a large hall in the center of the plaza.
 ^2c6
 
@@ -300,8 +294,6 @@ Seven [[kenku-xmm|kenku]] wander the lane behind the hall, searching through the
 
 ### A7. Plaza of Moradin
 
-> [!readaloud] 
-> 
 > Several streets converge on a plaza, in the center of which stands a thirty-foot-tall granite statue of Moradin grasping a great stone lantern in an outstretched fist. A bright light emanates from the lantern, revealing ruined shops around the plaza, their inner chambers extending into the rock.
 ^2c8
 
@@ -317,8 +309,6 @@ The statue of Moradin is made of solid granite except for its eyes and the panel
 
 ### A8. Ruined Villa
 
-> [!readaloud] 
-> 
 > The freestanding buildings in this part of the city are little more than crumbling shells and heaps of rubble. Deep holes split the cobblestone streets and buildings gape wide open, walls turned to rubble. Motes of dust float in the air, and in the silent gloom something scratches at the stones.
 ^2cd
 
@@ -330,8 +320,6 @@ Searching through the ruined villa uncovers 92 gp, a miniature electrum anvil wi
 
 ### A9. Tombs
 
-> [!readaloud] 
-> 
 > Gigantic stone doors covered in twin reliefs of dwarven gods in profile loom fifteen feet high. The dwarven gods bear somber expressions and formal regalia. The doors are spiked shut from the outside.
 ^2d0
 
@@ -341,8 +329,6 @@ The air cultists started exploring the tombs, but they suspended their explorati
 
 Opening the doors requires removing the wedged spikes, which takes a few minutes with the right tools. A successful DC 25 Strength check allows a character to force the doors without removing the spikes. If the characters open the doors, read the following text:
 
-> [!readaloud] 
-> 
 > Beyond the doors, the floor declines toward a great chasm. The tombs and crypts of dwarves sprawl like a city in miniature before the chasm's edge. Emaciated figures appear from behind these tombs and fix their hungry eyes upon you.
 ^2d1
 
@@ -354,8 +340,6 @@ If the characters loot the tombs of the Tyar-Besil, they find `3d10` figurines, 
 
 ### A10. Palace Plaza
 
-> [!readaloud] 
-> 
 > A deep moat surrounds a plaza consisting of a step pyramid encircled by a stone walkway. Stone colonnades to the north and east span the moat and connect the plaza to other parts of the ruined dwarven enclave. A short bridge spans the moat to the south. Holding up the bridge and colonnades are enormous statues of dwarves submerged up to their necks. Perched atop the pyramid and watching over the vault is a humanoid figure in a feathered cloak mounted on a large, draconic creature. The water in the moat flows west before plunging over a waterfall into a dark abyss. The sound of rushing water echoes like thunder within this vault, the ceiling of which glitters with mineral deposits like a perpetual starry night.
 ^2d4
 
@@ -383,9 +367,7 @@ Over the ages, many unfortunate creatures have met their deaths in the moat, lea
 
 ### A12. Moradin's Shrine
 
-> [!readaloud] 
-> 
-> Frescoes cover two walls of this chamber, one depicting the creation of the dwarves by Moradin, the other a massive battle between orcs and dwarves. The far wall is pocked and pitted with holes in the masonry where gemstones once surrounded an altar in the shape of an anvil. Now only the chipped remnants of garnets and agates remain. In the middle of the room, three bird-headed creatures torment a group of shackled prisoners.
+> Frescoes cover two walls of this chamber, one depicting the creation of the dwarves by Moradin, the other a massive battle between orcs and dwarves. The far wall is pocked and pitted with holes in the masonry where gemstones once surrounded an altar in the shape of an anvil. Now only the chipped remts of garnets and agates remain. In the middle of the room, three bird-headed creatures torment a group of shackled prisoners.
 ^2da
 
 This room contains three [[kenku-xmm|kenku]] and five bound and shackled human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]]. One kenku tortures the prisoners while the other two mimic the prisoners' cries of agony.
@@ -400,15 +382,12 @@ If the prisoners are returned to their homes, their families offer a reward of 5
 
 ### A13. Vergadain's Hall
 
-> [!readaloud] 
-> 
 > This building was once a dwarven hall for feasting. Old wooden tables lay scattered and broken throughout the long main room, and three gigantic casks line the wall behind what was once a beautiful oak bar. Behind the casks are doors for loading and unloading the casks.
 ^2df
 
 The air cult uses the hall as a meditation area. At any time, five [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota|Howling Hatred initiates]], one [[/03_Mechanics/CLI/bestiary/humanoid/hurricane-pota|hurricane]], and one [[/03_Mechanics/CLI/bestiary/humanoid/skyweaver-pota|skyweaver]] can be found here, levitating above the ground and chanting. See chapter 7 for the cultists' statistics. The hurricane carries a [[storm-boomerang-pota|storm boomerang]] (see chapter 7) and gains the following action option:
 
 > [!note] 
-> 
 > **Storm Boomerang.** *Ranged Weapon Attack:* +5 to hit; range 60/120 ft., one target. *Hit*: 4 (`1d4 + 2`) bludgeoning damage plus 7 (`3d4`) thunder damage, and the target must succeed on a DC 10 Constitution saving throw or be [[conditions#Stunned|stunned]] until the end of its next turn. *Miss*: The boomerang returns to the hurricane's hand.
 ^2e0
 
@@ -418,8 +397,6 @@ The gigantic casks once held fine dwarven ale, but they have been dry for centur
 
 ### A14. Living Quarters
 
-> [!readaloud] 
-> 
 > These buildings are more or less intact, although the furnishings and decorations have long since been removed. Shards of rubble, broken pottery, and bits of bone litter the floor.
 ^2e5
 
@@ -447,12 +424,10 @@ This tunnel leads east to area C20 of the Temple of the Crushing Wave.
 
 ### A15. Plaza of Fallen Spires
 
-> [!readaloud] 
-> 
 > Cracked flagstones of ultramarine marble pave this plaza. An avenue to the east ends at a wall of fallen masonry and stone. To the west, a pillared colonnade stretches across a moat to a step pyramid.
 ^2ea
 
-Ahtayir, a [[djinni-xmm|djinni]] in a torn vest and ragged pantaloons, labors here. His noble countenance bears a stoic expression as he carves a boulder with stone carving tools.
+Ahtayir, a [[djinni-xmm|djinni]] in a torn vest and ragged pantaloons, labors here. His noble countece bears a stoic expression as he carves a boulder with stone carving tools.
 
 Torhild Flametongue, king of the Besilmer dwarves, possessed a horn that could summon Ahtayir once every one hundred and one years. By the power of the horn, the summoned djinni was obligated to complete a single service or task. Torhild tasked the djinni with the daunting task of keeping the palace quarter in good repair–a task he has been performing now for centuries.
 
@@ -466,8 +441,6 @@ If the characters befriend Ahtayir and sunder the horn that summons him, the dji
 
 ### A16. Obelisk Row
 
-> [!readaloud] 
-> 
 > Three tapered obelisks, their sides inscribed with ancient pictographs, stand in a row, their peaks scraping the fifteen-foot-high ceiling. Each obelisk has a gaunt human tied to its base. Around the obelisks, a colored cobblestone mosaic depicts Moradin, a huge warhammer slung over his shoulder.
 ^2ed
 
@@ -477,15 +450,11 @@ The initiates wear cult garb and are being tested. If the characters try to free
 
 ### A17. The Palace Way
 
-> [!readaloud] 
-> 
 > This stone colonnade spans the moat surrounding the step pyramid. Stone pillars line the way like enormous trees, engraved with the names and likenesses of notable dwarves of the past. Broken pieces of wood and stone litter the floor.
 ^2ef
 
 If the characters haven't already dealt with Kaz Hanar (see area A10), add the following:
 
-> [!readaloud] 
-> 
 > The colonnade ends at a walkway enclosing a step pyramid to the west. Perched atop the pyramid is a large draconic creature with a humanoid rider. The rider wears a feathered cloak.
 ^2f0
 
@@ -493,15 +462,11 @@ The creatures atop the step pyramid are Kaz Hanar and his wyvern mount (see area
 
 ### A18. Grand Hall
 
-> [!readaloud] 
-> 
 > Two rows of pillars support the twenty-foot-high ceiling of this marble hall. The pillars are sculpted to resemble dwarves locked in solemn stares. Each one clutches a stone axe. East of the pillars are two ascending marble staircases without handrails. In the middle of the room, several cultists in gray feathered robes levitate a few feet above the floor while chanting a hymn. Howling air rises from a pit in the middle of the floor.
 ^2f2
 
 One [[/03_Mechanics/CLI/bestiary/humanoid/hurricane-pota|hurricane]], one [[/03_Mechanics/CLI/bestiary/humanoid/skyweaver-pota|skyweaver]], and five [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota|Howling Hatred initiates]] (see chapter 7 for statistics) guard this room, levitating three feet above the floor as they chant a hymn to [[yan-c-bin-pota|Yan-C-Bin]]. The levitation effect ends on a cultist if he or she moves or takes damage. Each initiate carries two [[seeker-dart-pota|seeker darts]] (see chapter 7) and gains the following attack option:
 
-> [!note] 
-> 
 > **Seeker Dart.** *Ranged Weapon Attack:* +4 to hit, and the hurricane gains advantage on the attack roll; range 120 ft., one target. *Hit*: 4 (`1d4 + 2`) piercing damage plus 7 (`3d4`) lightning damage.
 ^2f3
 
@@ -513,10 +478,7 @@ The pit is actually a 10-foot-square vertical shaft of smooth stone that descend
 
 ### A19. Temple of Elemental Air
 
-> [!readaloud] 
-> 
 > The stairs rise twenty feet to a spacious, twenty-foot-high chamber containing a map of an ancient dwarven realm meticulously etched into the flagstone floor. At the far end of the chamber, a high throne atop a marble dais overlooks all. Peaked arcades hung with gossamer sky-blue curtains run the length of the chamber on either side. From behind these a heady incense wafts, its sweet smoke moving like a creature of air.
-> 
 > Behind the high throne, a great spiraling horn rests in an alcove.
 ^2f8
 
@@ -550,8 +512,6 @@ The first time [[aerisi-kalinoth-pota|Aerisi Kalinoth]] drops to 0 hit points, s
 
 ### A20. Worm's Tunnel
 
-> [!readaloud] 
-> 
 > This large, unlit room is empty save for one feature. Sticking up out of a large hole in the floor is the skeletal head of a great worm, its mouth agape.
 ^2ff
 
@@ -575,18 +535,12 @@ An underground stream connects the Temple of the Crushing Wave to the surface. T
 
 Each time the characters travel the Dark Stream to or from the Temple of the Crushing Wave, roll a `d20` for a random encounter at some point during the underground voyage.
 
-`dice: [](04-chapter-4-air-earth-fire-and-water.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1 | `d6` [[darkmantle-xmm|darkmantles]] |
 | 2 | `1d4 + 1` [[piercer-xmm|piercers]] |
 | 3 | `1d4 + 4` [[troglodyte-xmm|troglodytes]] |
 | 4 | `1d4 + 1` [[shadow-xmm|shadows]] |
 | 5 | 1 [[water-weird-xmm|water weird]] |
 | 6 | 1 [[chuul-xmm|chuul]] |
-| 7–20 | None |
-^encounter
 
 Darkmantles and piercers drop from the tunnel ceiling into the boat. Troglodytes hurl javelins from the shore where the Dark Stream passes through an open cavern. Water weirds and chuuls lurk in the stream and attack from the water.
 
@@ -601,8 +555,6 @@ Ceilings are 15 feet high.
 #### Doors
 
 Doors consist of stone slabs balanced on central pivots—opening a door creates two gaps about 3 feet wide. No locks remain operable, but the cultists secure some doors with a hasp-and-pin closure. Characters can force open such doors with a successful DC 15 Strength check.
-
-Double doors have iron hinges and swing open in one direction or the other, like normal doors.
 
 #### Canals
 
@@ -622,25 +574,18 @@ Some areas adjacent to canals are quays, with several steps leading from the flo
 
 Many denizens of the temple carry small amounts of treasure. Creatures that own individual treasure have `4d10` gp worth of mixed coins and other minor valuables.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/044-04-02.webp#gallery|Map 4.2: Temple of the Crushing Wave]]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/045-pam13_templeofthecrushingwave_dm-zf-0998-75774-1.webp#gallery|Player Version]]
-
-### Areas of the Water Temple
 
 ### C1. Lake Landing
 
 If the characters arrive by boat from the stream, read the following text:
 
-> [!readaloud] 
-> 
 > Firelight shines from a large cavern ahead. The stream opens into a large underground lake. To the right, a crumbling stone quay leads to a tunnel heading northeast. A ten-foot skiff is moored to the quay, and a torch burns in a bronze sconce by the tunnel mouth. Beside the quay, a twenty-foot wide canal leads north from the large lake. The lake stretches westward into darkness.
 ^30f
 
 If the characters find their way here from other parts of the dungeon, read the following text instead:
 
-> [!readaloud] 
-> 
 > The passage opens into a large, dark cavern filled by a subterranean lake. At the east end of the lake, a torch illuminates a stone quay with a ten-foot skiff tied up alongside it. The west end of the lake disappears into darkness.
 ^310
 
@@ -664,8 +609,6 @@ If the characters defeat these cultists and then leave this part of the dungeon,
 
 ### C2. Canals
 
-> [!readaloud] 
-> 
 > A twenty-foot wide canal leads between ancient masonry walls into darkness. The water moves sluggishly, indicating a weak current. Torchlight flickers in the distance.
 ^316
 
@@ -677,24 +620,16 @@ The dwarves of Besilmer built the canal to channel the spring in area C26 away f
 
 Aquatic creatures wander the canals. Check for a random encounter once every per hour while the party is swimming or moving by boat anywhere on a canal. Roll a `d20` and consult the following table:
 
-`dice: [](04-chapter-4-air-earth-fire-and-water.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1 | `1d4 + 1` [[ghoul-xmm|ghouls]] (see area C4) |
 | 2–3 | `1d4 + 4` [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] (see area C13) |
 | 4 | `d2` [[troll-xmm|trolls]] (see area C12) |
 | 5 | 1 [[giant-octopus-xmm|giant octopus]] (see area C3) |
 | 6 | 1 [[dragon-turtle-xmm|dragon turtle]] (see area C21) |
-| 7–20 | None |
-^encounter
 
 The giant octopus attacks any small group it encounters. Other monsters attack parties they identify as intruders.
 
 ### C3. Whisper Lake
 
-> [!readaloud] 
-> 
 > This underground lake is dark, still, and cold. To the west, the lake ends at a gravel shore, and a faint glimmer of torchlight hints at a channel or canal to the north. To the south, a crumbling stone quay leads to a dark passageway. At the east end of the lake, another torch burns above a larger quay, with another passageway leading east. A second canal leads north from the eastern portion of the lake, and the glimmer of light comes from that direction, as well.
 ^31a
 
@@ -704,8 +639,6 @@ The lake is home to small blind cave fish. A [[giant-octopus-xmm|giant octopus]]
 
 ### C4. Drowning Chambers
 
-> [!readaloud] 
-> 
 > A dank, rotten smell pervades this chamber. The floor is perforated by eight small pools, each about 3 feet wide and filled to the brim with black, stinking water. Several large stones lie on the floor near the pools, each wrapped several times around by lengths of old rope. A symbol is painted on the southern wall—a shape like an X with the bottom limbs linked by a horizontal line.
 ^31c
 
@@ -719,8 +652,6 @@ If the ghouls succeed in paralyzing a character, the nearest one uses an action 
 
 An iron hasp-and-pin arrangement secures the door to this room. The lock can't be reached from inside but is easy to undo from the corridor.
 
-> [!readaloud] 
-> 
 > This room evidently serves as a prison. A half-dozen straw pallets covered by threadbare blankets are spread out on the floor, and a cask of water leans against one wall. A dark, slit-like window looks out to the west.
 ^31e
 
@@ -730,8 +661,6 @@ The cultists currently hold no prisoners in this makeshift jail. If the characte
 
 The stairs on each side of the canal climb 10 feet from the quays, so the bridge is 15 feet above the water level.
 
-> [!readaloud] 
-> 
 > A stone bridge spans the canal in a single elegant arch. Steps on each side climb up to the bridge. The bridge has a low stone balustrade, and its weathered sides are carved with images of dwarven battles. A single torch burns at the apex of the bridge.
 ^320
 
@@ -739,8 +668,6 @@ The bridge was elevated well above the water so that the dwarves who built this 
 
 ### C7. Reaver Barracks
 
-> [!readaloud] 
-> 
 > This old chamber has been furnished with six plain wooden bunks and sacks of provisions. Stone doors exit to the south and the west.
 ^322
 
@@ -752,8 +679,6 @@ Cultists in this room are usually off-duty and might be asleep; roll `d6` to see
 
 There are two of these rooms, both identical.
 
-> [!readaloud] 
-> 
 > This large room is strewn with crumbling masonry. A dry pit lies in the middle of the floor, ringed by a five-foot-wide walkway.
 ^324
 
@@ -763,8 +688,6 @@ These two rooms were once granaries for the dwarven citadel, but any food stored
 
 The doors leading into this room are secured by hasps and pins from inside. Read the following text when the characters approach a door:
 
-> [!readaloud] 
-> 
 > This stone door has an iron plate about one foot square set in its middle.
 ^326
 
@@ -772,8 +695,6 @@ Each door has a small square hole covered with a sliding iron plate. The cultist
 
 Read the following if the characters enter or peer into the room:
 
-> [!readaloud] 
-> 
 > This room is bunk room and guard post. Sturdy bronze hasps are fitted to the two stone doors, and each door features a loophole covered by a small iron plate at chest level on a human. A round table and four rickety wooden chairs stand in the middle of the room. There are ten bunks here, although half of them don't appear to be in use.
 ^327
 
@@ -789,8 +710,6 @@ If the characters defeat these cultists and then leave this level of the dungeon
 
 ### C10. Gargoyle Fountain
 
-> [!readaloud] 
-> 
 > This chamber has been badly damaged. Several collapsed columns and buckling walls speak to the passage of many long years, but one feature remains curiously intact: a stone fountain in the middle of the west wall. It consists of a ten-foot-wide semicircular stone basin of water, with a grinning gargoyle perched on a pedestal jutting out from the wall. Stone doors exit to the north and the south.
 ^32b
 
@@ -806,10 +725,7 @@ This tunnel leads north to area B11 of the Temple of Black Earth.
 
 ### C11. Court of the Merfolk
 
-> [!readaloud] 
-> 
 > An ancient fountain shaped like three dancing merfolk stands in the middle of this court. The fountain is dry, and the sculpture has been badly damaged—two of the merfolk are missing their arms, and the third is missing her head. Hallways lead north, south, and east from this chamber. A glimmer of torchlight comes from the north, and another glimmer to the east.
-> 
 > A door to the northwest is covered with painted glyphs and images with aquatic motifs, marred by long scratches that obscure their meaning.
 ^330
 
@@ -817,8 +733,6 @@ The ceiling in this chamber is 30 feet high. Vandalism to the decorations on the
 
 ### C12. Troll Hole
 
-> [!readaloud] 
-> 
 > This room is filthy. The walls are crumbling and crooked, and the heaps of uncured pelts and hides strewn across the floor form a crude, foul-smelling carpet. Gnawed bones and broken crockery are scattered about, along with a few odd pieces of armor, most bent, twisted, or badly scored by claw marks. Doors lead to the north and the west.
 ^332
 
@@ -830,8 +744,6 @@ The trolls—named Gorgebelly, Marrowsucker, and Ninetooth—ignore goings-on in
 
 A musty odor pervades the hall outside this room. The doors are marked with crudely drawn pictures of monstrous eyes and fanged maws.
 
-> [!readaloud] 
-> 
 > This room is filled with a rank reptilian smell and cluttered with tattered animal hides and dank straw. A battered iron brazier brimming with hot embers glows in the middle of the room. Half-gnawed carcasses heaped beside the brazier attest to an indifferent effort to cook them over the coals. There are two doors: one north and one south.
 ^334
 
@@ -843,8 +755,6 @@ If the lizardfolk lose at least two of their number in a fight here, [[/03_Mecha
 
 ### C14. Hag Lair
 
-> [!readaloud] 
-> 
 > Fine wooden furniture, tapestries of green and gold, and a bearskin carpet decorate this richly appointed room—but the furniture has been scratched up, the tapestries badly torn, and the carpet rent with foot-long holes. To the northwest, a tattered green curtain screens off a large alcove. Two large heaps of dank pelts lie in the southern part of the chamber. A wet reek like rotten seaweed hangs in the air, and small crabs scuttle around the room.
 ^336
 
@@ -864,8 +774,6 @@ Four chairs are worth 80 gp each but weigh 30 pounds apiece. A wooden chest in t
 
 ### C15. Dragon Bridge
 
-> [!readaloud] 
-> 
 > Stairs on each side of the canal climb up to a stone bridge, which spans the canal fifteen feet above the water level. The sides of the bridge are carved in the image of dragons standing guard over treasure hoards. A single torch illuminates the bridge.
 ^33b
 
@@ -875,8 +783,6 @@ One aquatic [[troll-xmm|troll]] from area C12 lurks in the canal underneath the 
 
 ### C16. Thunderhammer Brewery
 
-> [!readaloud] 
-> 
 > Sealed copper vats stand in two rows in the middle of this large room. The vats are old and completely covered in verdigris. Most of the paint on the walls peeled away long ago, but a few hints of murals remain, showing dwarves working in fields and tending hop vines. Three new, backpack-sized glass tanks with carrying harnesses are stacked neatly at the end of the row of vats. Doors exit to the west, east, and south.
 ^33d
 
@@ -888,8 +794,6 @@ Any commotion in here (for example, characters banging on copper vats or fightin
 
 The northernmost door leading into this area is secured from inside by a bronze hasp and pin.
 
-> [!readaloud] 
-> 
 > Parts of this chamber are buried in piles of crumbling masonry, but enough remains intact to serve as an arcane workshop. A long wooden table in the middle of the room is littered with pieces of a complicated apparatus involving a large glass tank, copper fittings and piping, and a leather carrying harness, while shelves full of alchemical reagents stand against the south wall. The air is quite cold in here, and a chill mist clings to the floor. A large adjoining room to the north looks like someone's bedchamber.
 ^33f
 
@@ -917,8 +821,6 @@ Sounds of battle here alert the bugbears in area C18, who investigate soon after
 
 The monsters in this room post a sentry by the arrow slit looking out into the hallway. If intruders approach, the room's denizens prepare an ambush and attempt to surprise the characters when they enter this room.
 
-> [!readaloud] 
-> 
 > The ceiling in this chamber is twenty feet high, and a ten-foot-high loft covers the west half of the room. Piles of crumbling brick in the middle of the floor mark spots where ovens once stood. Filthy, flea-infested straw pallets are arranged on the floor, alongside a water barrel and casks of provisions. An arrow slit looks out over the hallway to the east, and doors exit to the east and the north.
 ^345
 
@@ -934,8 +836,6 @@ If the bugbears are defeated, they are replaced within a day by the trolls from 
 
 ### C19. Cavern Lakeshore
 
-> [!readaloud] 
-> 
 > This natural cavern widens and descends toward a pebble-covered lakeshore. Several rotted wooden skiffs are drawn up on the shore. To the east, a large subterranean lake stretches into the darkness. To the west, passages lead west and north.
 ^349
 
@@ -943,8 +843,6 @@ Three old boats wait by the shore. They are far newer than the rest of the dunge
 
 ### C20. Gated Passage
 
-> [!readaloud] 
-> 
 > A crudely built iron gate that looks like it is a new addition to this ancient dungeon blocks the passage. A heavy chain and a padlock secure the gate.
 ^34b
 
@@ -956,8 +854,6 @@ This passage continues west to area A14 in the Temple of Howling Hatred.
 
 ### C21. Starry Lake
 
-> [!readaloud] 
-> 
 > A pale glimmer plays over the waters of this subterranean lake. The cavern ceiling is naturally formed and speckled with hundreds of tiny points of blue light, mimicking a starry night. The canal that runs through this lake continues north and south. To the east, a wide quay at the end of the lake leads to a large hall with red pillars.
 ^34f
 
@@ -975,8 +871,6 @@ A large wooden chest lies open on the bottom in the western end of the lake. It 
 
 ### C22. Market Hall
 
-> [!readaloud] 
-> 
 > Six tall columns of cracked and chipped red marble loom over this hall, which lies east of an underground lake. Provisions and trade goods are stacked against the walls: bundles of valuable furs and pelts, sacks of flour and meal, barrels of salted meat and ale, casks of oil, and more. Three long tables with benches are set up in the middle of the room, and a large bronze gong stands on the stone quay at the lake edge. A single torch burns in a sconce on one of the room's middle pillars.
 ^352
 
@@ -990,17 +884,11 @@ If faced with a dangerous band of attackers, the cultists attempt to reach the g
 
 Each time the characters pass through this area, roll a `d20` on the following table to see what additional creatures, if any, are here.
 
-`dice: [](04-chapter-4-air-earth-fire-and-water.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1 | `1d4 + 4` [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] (see area C13) |
 | 2–3 | `1d4 + 1` [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota|Crushing Wave reavers]] (see area C7) |
 | 4 | `1d3 + 1` [[bugbear-warrior-xmm|bugbears]] (see area C18) |
 | 5 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-priest-pota|Crushing Wave priest]] and `d4` [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]] (see area C27) |
 | 6 | [[sea-hag-xmm|Thuluna Maah]] and 2 [[ogre-xmm|ogres]] (see area C14) |
-| 7–20 | None |
-^encounter
 
 #### Treasure
 
@@ -1008,8 +896,6 @@ The loot amounts to three tons of trade goods, with a total value of about 500 g
 
 ### C23. Galley
 
-> [!readaloud] 
-> 
 > Two iron stoves, barrels full of provisions, kettles and crockery stacked by a washbasin, and a pile of firewood against the wall of this room indicate that someone does a lot of cooking here. Five plain double bunks are tucked into the eastern end of the room. Two doors exit to the south, and two arrow slits look out over the black waters of a canal to the north and the east.
 ^357
 
@@ -1019,10 +905,7 @@ Any loud fighting in this room alerts the cultists in area C22, who investigate 
 
 ### C24. Bridge of Heroes
 
-> [!readaloud] 
-> 
 > A stone bridge crosses over the canal fifteen feet above the water level here. Steps on the south side of the canal climb up to the bridge, which leads to a set a stone double doors. Painted on the doors is a large symbol.
-> 
 > West and east of the bridge, and level with it, culverts carved in the shape of huge, yawning dwarven faces discharge streams of water into the canal. The small waterfalls make a lot of noise in the vicinity of the bridge. A hallway leads south from the quay on the south side of the canal.
 ^359
 
@@ -1036,8 +919,6 @@ It's possible to enter area C25 through the culverts. Reaching a culvert require
 
 A [[glyph-of-warding-xphb|glyph of warding]] (see area C24) protects the double doors at the south end of the room.
 
-> [!readaloud] 
-> 
 > A twenty-foot-wide moat divides this shrine into northern and southern halves. In the north half, two large stone pillars flank an altar in the form of a plain stone block. A few coins lie on the altar. Above and behind the altar looms a huge symbol made from beams of driftwood, fixed in an X-like shape on the wall. A single stone door leads westward from this part of the room.
 ^35d
 
@@ -1063,8 +944,6 @@ Gar carries [[drown-pota|Drown]] (see chapter 7). The water cultists bring treas
 
 To reach this area, a character must swim through the submerged tunnel leading from area C25.
 
-> [!readaloud] 
-> 
 > A clear, deep spring fills most of this natural cavern. A dry ledge makes up part of the south side of the chamber.
 ^362
 
@@ -1076,8 +955,6 @@ Several rusty iron coffers lie on the dry ledge at the south edge of the chamber
 
 ### C27. Priests' Quarters
 
-> [!readaloud] 
-> 
 > This well-appointed room contains eight neatly made bunks, a round table with several chairs, tapestries of green and blue, and a copper brazier full of glowing coals. An arrow slit looks out over a dark canal to the south.
 ^365
 
@@ -1089,8 +966,6 @@ The priests and cultists know the answers to the mezzoloth's riddles in area C28
 
 ### C28. Caravan Stairs
 
-> [!readaloud] 
-> 
 > The walls of this chamber are carved with stone friezes. They depict dwarven merchants leading trains of mules or giant lizards burdened with heavy packs through immense caverns. In the center of the chamber, a wide stairway leads down into darkness. At the top of the stairs stands a hunched, insectoid creature with a two-tined pitchfork.
 ^367
 
@@ -1128,13 +1003,7 @@ This complex has the following features. Any exceptions are noted in areas to wh
 
 #### Ceilings
 
-Ceilings are 15 feet high.
-
 #### Doors
-
-Doors consist of stone slabs balanced on central pivots—opening a door creates two gaps about 3 feet wide. No locks remain operable, but the cultists secure some doors with a hasp-and-pin closure. Characters can force open such doors with a successful DC 15 Strength check.
-
-Double doors have iron hinges and swing open in one direction or the other, like normal doors.
 
 #### Chasms
 
@@ -1142,22 +1011,13 @@ Large chasms or rifts zigzag through this part of ancient Tyar-Besil. Chasms ave
 
 #### Light
 
-Cultists illuminate areas they use frequently with [[continual-flame-xphb|continual flame]] spells cast on torches in bronze wall sconces. The rest of the level is dark.
-
 #### Treasure
 
-Many denizens of the temple carry small amounts of treasure. Creatures that own individual treasure have `4d10` gp worth of mixed coins and other minor valuables.
-
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/047-04-03.webp#gallery|Map 4.3: Temple of Black Earth]]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/048-pam15_templeofblackearth_dm-zf-0998-75774-1-006-0.webp#gallery|Player Version]]
 
-### Areas of the Earth Temple
-
 ### B1. Gargoyle Chasm
 
-> [!readaloud] 
-> 
 > The passage leads to a subterranean chasm spanned by a zigzagging, ten-foot-wide stone bridge without railings. The bridge links tunnels leading north and south. The chasm floor is fifty feet below the bridge and consists of a jumbled mass of boulders. To the west, the chasm narrows and continues for some distance.
 ^374
 
@@ -1173,15 +1033,11 @@ Several skeletons lie broken or half-buried on the chasm floor. Most are dwarves
 
 This cavernous area is 100 feet high from floor to ceiling. If the characters enter from the east (via area B1), read the following text:
 
-> [!readaloud] 
-> 
 > The floor of this large cavern is a broken jumble of stone, with steep walls slanting up to a ceiling of hanging stalactites perhaps a hundred feet above. Fifty feet up the jagged walls are two openings: a wider opening to the southwest and a narrow tunnel leading southeast.
 ^378
 
 If the characters are standing on the ledge at area B6 or B21, use the following text instead:
 
-> [!readaloud] 
-> 
 > Beyond the ledge lies a cavern with a ceiling of hanging stalactites fifty feet overhead and a rubble-strewn floor fifty feet below. Five feet below you, a narrow ledge hugs the wall, wrapping nearly halfway around the cavern.
 ^379
 
@@ -1189,8 +1045,6 @@ If the characters are standing on the ledge at area B6 or B21, use the following
 
 ### B3. Ruined Gates
 
-> [!readaloud] 
-> 
 > A massive pair of stone doors lies broken just south of this small plaza, flanking by iron torches that brightly illuminate the area. One door lists unevenly on its bottom hinge, and the other lies shattered on the ground. The standing door is carved with a pastoral scene of grain fields and rolling hills, worn and pitted by the centuries. A large, dimly lit hall waits beyond the broken gates. Arrow slits are carved into the west and east walls.
 ^37b
 
@@ -1206,8 +1060,6 @@ If the characters attack the Temple of Black Earth and retreat, the cultists rei
 
 ### B4. Hall of the Gate
 
-> [!readaloud] 
-> 
 > This was once a magnificent hall with a soaring ceiling, marble floors, and intricate carvings of prosperous farmlands decorating the walls. It has since fallen to ruin. Deep cracks mar the walls, sections of the masonry have collapsed, and the huge stone doors at the north end of the hall are broken. Passages lead west and south, and there is a stone door to the east. A small cooking fire and several bedrolls are in the southeast corner of the room.
 ^380
 
@@ -1227,8 +1079,6 @@ If the characters defeat the guards here and depart the temple, [[marlos-urnrayl
 
 ### B5. East Guardroom
 
-> [!readaloud] 
-> 
 > The crumbling masonry in this old guardroom illustrates the great age of this dungeon. To the north, a long gallery leads to an arrow slit in the western wall. To the south, piles of rubble choke a small inner chamber. Half a dozen plain bedrolls and an iron stove furnish the room. A pile of firewood nearby keeps the stove well stoked.
 ^385
 
@@ -1238,8 +1088,6 @@ If alerted by serious fighting or unusual activity outside, two duergar take lig
 
 ### B6. Yarsha's Burrow
 
-> [!readaloud] 
-> 
 > A large pile of rubble from a partially collapsed wall fills the southeast corner of this guardroom, while a narrow fissure mars the wall to the north. Despite these failings, the room serves as a barracks and guardroom. Four plain wooden bunks are arrayed around the room, each with a small footlocker. At the back of an alcove in the northeast wall is an arrow slit.
 ^387
 
@@ -1255,14 +1103,12 @@ An iron coffer under Yarsha's bunk contains 210 sp, 140 ep, a pouch with six obs
 
 ### B7. Gatewarden's Quarters
 
-> [!readaloud] 
-> 
 > This large suite consists of several small rooms linked by low archways. Brown curtains offer some amount of privacy for the different rooms, and martial displays cover the walls—shields and crossed swords, tattered banners, and a few mounted monster heads, including those of a peryton and a manticore.
 ^38a
 
 The Black Earth cultists use these rooms as a barracks. A [[/03_Mechanics/CLI/bestiary/humanoid/burrowshark-pota|burrowshark]] named Dynath, a [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota|Black Earth guard]], and four [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]] occupy the room. (Statistics for the Black Earth guard and burrowshark appear in chapter 7.) Dynath's bulette is stabled in area B9. In addition, the cultists currently on duty in area B20 have bunks in this room.
 
-The cultists keep odd hours, and at any given time `d4` are sacked out in their bunks. At least two of the residents are awake even in the middle of the night. They assume that random strangers that blunder in unannounced are enemies and attack. If circumstances permit, the occupants of the room spread the alarm by alerting the cultists in area B4 to the attack.
+The cultists keep odd hours, and at any given time `d4` are sacked out in their bunks. At least two of the residents are awake even in the middle of the night. They assume that random strangers that blunder in unounced are enemies and attack. If circumstances permit, the occupants of the room spread the alarm by alerting the cultists in area B4 to the attack.
 
 #### Treasure
 
@@ -1270,15 +1116,11 @@ Dynath wears a hidden purse underneath his armor containing 15 gp, 5 pp, and fiv
 
 ### B8. Mud Sorcerer's Lab
 
-> [!readaloud] 
-> 
 > Carved into this door is a frowning dwarf warrior in plate armor with spiky maces where his fists should be.
 ^38d
 
 The interior of the chamber can be described as follows:
 
-> [!readaloud] 
-> 
 > Large stone statues carved to look like scowling dwarf warriors line the walls of this large chamber. Each statue has spiky maces in place of hands. However, several of the statues are melted or deformed. The flagstones in the middle of the room have been removed to reveal a surface of natural rock. Several worktables and shelves full of alchemical reagents are tucked up against the walls between the statues.
 ^38e
 
@@ -1300,8 +1142,6 @@ A wooden chest stowed under one of the worktables holds a small hoard of 220 gp,
 
 ### B9. Broken Hall
 
-> [!readaloud] 
-> 
 > Some long-ago, a seismic event devastated this great hall. A deep chasm splits the chamber in two, leaving a wide gap between the room's northern and southern halves. Freestanding pillars of rock to the east create natural "stepping stones" across the chasm. The chasm continues beyond the west wall, and a narrow ledge hugs the south wall of the expanse. Six huge stone pillars still stand in this chamber, and the ceiling here is almost fifty feet high. Each of the pillars anchors heavy iron chains with links as big as a warrior's hand.
 ^393
 
@@ -1317,8 +1157,6 @@ The chasm that bisects the room is 100 feet deep and ranges in width from 15 fee
 
 If the smiths still work in area B15, hammering and clattering chains can be heard coming from there. Characters close to that end of the chasm also see a ruddy red glow playing on the walls nearby. Explorers that carry bright lights in this area might be noticed by the creatures in B15.
 
-> [!readaloud] 
-> 
 > This long chasm stretches northwest to southeast. A five-foot-wide ledge clings to one wall, then forms a narrow stone bridge that spans the chasm and connects to a similar ledge that runs along the opposite wall.
 ^397
 
@@ -1326,7 +1164,7 @@ The ledges and stone bridge are 100 feet above the chasm floor and 100 feet belo
 
 Creatures that make a lot of noise in the vicinity of the natural bridge disturb a [[swarm-of-bats-xmm|swarm of bats]] roosting on the bridge's underside.
 
-The bridge is narrow and uneven. Any creature that takes damage while standing on the bridge must make a DC 10 Dexterity saving throw. If the save fails by 5 or more, the creature falls into the chasm. On any other failed result, the creature slips and falls [[conditions#Prone|prone]] on edge of the bridge.
+The bridge is narrow and uneven. Any creature that takes damage while standing on the bridge must make a DC 10 Dexterity saving throw. If the save fails by 5 or more, the creature falls into the chasm. On any other failed result, the creature slips and falls [[conditions#prone|prone]] on edge of the bridge.
 
 ### B11. South Passage
 
@@ -1336,15 +1174,11 @@ This hallway leads south to area C10 of the Temple of the Crushing Wave.
 
 If the characters approach this room from the east, read the following text:
 
-> [!readaloud] 
-> 
 > You come to a tunnel that runs north and south. Both ends of the tunnel have collapsed, but the west wall has a set of double doors with crude messages painted on them in Common. The message on the south door reads, "NORBS RUM. KEEP OWT BROOG." The north door says, "BROOGS RUM. NORB IZ STOOPID."
 ^39a
 
 Use the following text to describe the room's interior:
 
-> [!readaloud] 
-> 
 > Crumbling masonry, huge uncured pelts, and heaps of picked-over bones and refuse fill this large room. It looks like it used to be a kitchen or bakery: huge ancient brick ovens stand in the middle of the chamber, although most are crumbling heaps of red rubble now.
 ^39b
 
@@ -1358,8 +1192,6 @@ The ettin's treasure lies in an untidy heap covered with a filthy pelt. The pile
 
 ### B13. Hunting Hall
 
-> [!readaloud] 
-> 
 > Water fills a rectangular marble basin in the middle of this hall, and the walls display an ancient frieze that circles the room. The frieze depicts woodland images of deer, bears, and game fowl, along with parties of dwarven hunters. The southeast corner of the room is badly damaged, and the walls there are little more than rubble.
 ^39e
 
@@ -1369,8 +1201,6 @@ Piping buried under the floor connects to the spring in the northern part of the
 
 ### B14. Torture Chamber
 
-> [!readaloud] 
-> 
 > A wooden torture rack stands in the middle of this room. Manacles hang from the walls and fiendish hooks, blades, and clamps hang on the back wall. Four cramped iron cages stand in the room's western alcove, occupied by gaunt, dirty humans with blank gazes. In the room's eastern alcove stand two double bunks and an iron stove.
 ^3a0
 
@@ -1399,8 +1229,6 @@ Hedorm keeps the best pickings from the prisoners in a locked wooden chest (the 
 
 Characters approaching this area hear the ringing of hammers on anvils before they enter. This room looks out directly over area B10.
 
-> [!readaloud] 
-> 
 > A forge stands in the middle of this room, surrounded by piles of firewood. Two big anvils stand close by, and hammers, tongs, and other smithing tools are scattered around several workbenches along the chamber's walls. There are doorways to the west and the south, but the eastern end of the room opens up onto a dark chasm.
 ^3a6
 
@@ -1410,7 +1238,7 @@ Black Earth cultists have turned this former barracks into a forge where they cr
 
 Xharva Deem has no interest in fighting, because her bargain with [[marlos-urnrayle-pota|Marlos Urnrayle]] requires her to make implements of elemental power for the cult. That is the extent of her promise. If the characters ask why she is standing aside, she answers, "Urnrayle has not paid me to fight puny mortals. He can look after his own slaves."
 
-She doesn't defend her duergar assistants, although she fights back with indignant fury if any mortal dares to attack her. Xharva Deem also intervenes if characters attempt to vandalize her forge, take her tools, or remove objects she is working on, although she issues a sharply worded warning first.
+She doesn't defend her duergar assistants, although she fights back with indigt fury if any mortal dares to attack her. Xharva Deem also intervenes if characters attempt to vandalize her forge, take her tools, or remove objects she is working on, although she issues a sharply worded warning first.
 
 #### Treasure
 
@@ -1418,9 +1246,7 @@ Xharva Deem is well paid indeed. Two iron coffers by her forge contain a total o
 
 ### B16. Armory
 
-> [!readaloud] 
-> 
-> A single thick pillar supports the low, barrel-vaulted ceiling of this unlit chamber. Rusted scraps of metal—the remnants of breastplates, shields, axes, and swords—hang from the walls on old pegs, or lie on the floor where they fell long ago. More recent clutter in the form of filthy furs and splintered wooden furniture also lies scattered about the room. A pile of broken chairs and table legs lies next to a smoky fire pit on the north side of the room.
+> A single thick pillar supports the low, barrel-vaulted ceiling of this unlit chamber. Rusted scraps of metal—the remts of breastplates, shields, axes, and swords—hang from the walls on old pegs, or lie on the floor where they fell long ago. More recent clutter in the form of filthy furs and splintered wooden furniture also lies scattered about the room. A pile of broken chairs and table legs lies next to a smoky fire pit on the north side of the room.
 ^3ab
 
 Doors lead to the east and the southwest.
@@ -1439,15 +1265,11 @@ If the ogres are defeated, [[marlos-urnrayle-pota|Marlos Urnrayle]] replaces the
 
 If the characters approach this area from the east, read the following text:
 
-> [!readaloud] 
-> 
 > A great chasm opens before you, its ceiling thirty feet overhead. In the middle of the chasm is a square pillar of black rock. A stone bridge leads to a staircase that wraps around this pillar. The chasm, the staircase, and the pillar descend into darkness.
 ^3b0
 
 An [[alarm-xphb|alarm]] spell has been cast on the middle of the bridge. If the characters trigger the alarm, read:
 
-> [!readaloud] 
-> 
 > When you reach the middle of the bridge, you feel a slight tremor underfoot. Then a loud, low-pitched tone like the groaning of a giant fills the air, reverberating within the chasm.
 ^3b1
 
@@ -1457,8 +1279,6 @@ The staircase descends to area F11 in the Fane of the Eye (see chapter 5).
 
 ### B18. Barracks
 
-> [!readaloud] 
-> 
 > This room appears to be a clean, neatly organized bunkroom. The sparse furnishings include six double-bunks arranged against the south and east walls, and a wooden table with several chairs in the north half of the room. An iron stove with a tidy pile of firewood stands near the middle of the room. In the southwest corner, an arrow-slit looks out at a dark passageway. Doors lead to the east and west.
 ^3b3
 
@@ -1468,8 +1288,6 @@ Two light crossbows are positioned near the arrow slit, so the guards can fire o
 
 ### B19. Statue of Ogrémoch
 
-> [!readaloud] 
-> 
 > Three hallways meet at this room. An alcove in the middle of the west wall holds a ten-foot-tall statue depicting a crude humanoid form composed of earth, boulders, and sharp crystals. One massive, rocky fist is raised above its blunt head. Shattered rubble from an older statue lies heaped around the pedestal on which this figure stands.
 ^3b5
 
@@ -1477,8 +1295,6 @@ The statue depicts [[ogremoch-pota|Ogrémoch]], the Prince of Evil Earth. [[marl
 
 ### B20. Mess Hall
 
-> [!readaloud] 
-> 
 > Three trestle tables are arranged in the middle of this room, and crates of provisions are stacked neatly against the walls. To the southeast, an open doorway leads to a small kitchen containing more provisions and a large cooking-hearth. A tattered gray cloak with feathers is nailed to the middle of the north wall. Doors lead to the east and west.
 ^3b7
 
@@ -1490,10 +1306,6 @@ The feathered cloak is a trophy taken from a Howling Hatred cultist (Droth, impr
 
 The mess hall sees a good deal of traffic, and characters who linger here are likely to run into more members of the Black Earth cult. Each time after the first the characters pass through this area, roll a `d20` on the following table:
 
-`dice: [](04-chapter-4-air-earth-fire-and-water.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1–2 | `1d3 + 1` [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] (see area B5) |
 | 3 | `d4` [[ogre-xmm|ogres]] (see area B16) |
 | 4 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/stonemelder-pota|stonemelder]] and 2 [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota|Black Earth guards]] (see area B6) |
@@ -1501,12 +1313,9 @@ The mess hall sees a good deal of traffic, and characters who linger here are li
 | 6 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota|Black Earth priest]] and `d4` [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota|Black Earth guards]] (see area B18) |
 | 7 | [[/03_Mechanics/CLI/bestiary/npc/miraj-vizann-pota|Miraj Vizann]] (see area B8) |
 | 8–20 | None |
-^encounter
 
 ### B21. Screaming Statues
 
-> [!readaloud] 
-> 
 > This cavern has formations of flowstone, stalagmites, and stalactites everywhere. A stone building is anchored in the north wall, and a stone door stands in a masonry wall to the south. A natural gap in the cavern wall to the east reveals a chasm beyond. Numerous lifelike statues have been arranged among the rock formations. The statues depict creatures in poses suggesting shock, fear, or agony.
 ^3bb
 
@@ -1530,8 +1339,6 @@ Marlos carries [[ironfang-pota|Ironfang]] (see chapter 7).
 
 ### B22. Earth Prophet's Sanctum
 
-> [!readaloud] 
-> 
 > This sumptuously appointed chamber features tapestries of gold and brown, a huge bed covered in pillows, fine mahogany furniture with crimson cushions, and lovely art objects including sculptures, busts, and urns. An arrow slit faces toward a chasm to the east.
 ^3c1
 
@@ -1543,8 +1350,6 @@ In the urns, Marlos has stored 1,100 sp and 130 pp. Within the room are a beauti
 
 ### B23. Shrine of Bleeding Stone
 
-> [!readaloud] 
-> 
 > An irregular pit fills the center of this large hall. In the middle of the pit stands an obelisk of glistening black stone. Bleached bones lie scattered near the foot of the obelisk. A smaller stone post in front of the obelisk holds a pair of manacles, which now confine a strange gnome with gray skin and a bald head.
 ^3c4
 
@@ -1564,8 +1369,6 @@ Rukh is an explorer who was captured as she tried to sneak into the Fane of the 
 
 ### B24. Sentinel's Hall
 
-> [!readaloud] 
-> 
 > Four massive, square columns support the ceiling of this ancient hall. Passages lead out to the northwest and southeast. In the middle of the hall stands the ten-foot statue of a stern dwarf warrior with spiked balls instead of hands.
 ^3c6
 
@@ -1593,31 +1396,16 @@ Area E1 in the Temple of Eternal Flame connects to the surface through a series 
 
 ### Temple Features
 
-This complex has the following features. Any exceptions are noted in areas to which they apply.
-
 #### Ceilings
-
-Ceilings are 15 feet high.
 
 #### Doors
 
-Doors consist of stone slabs balanced on central pivots—opening a door creates two gaps about 3 feet wide. No locks remain operable, but the cultists secure some doors with a hasp-and-pin closure. Characters can force open such doors with a successful DC 15 Strength check.
-
-Double doors have iron hinges and swing open in one direction or the other, like normal doors.
-
 #### Light
-
-Cultists illuminate areas they use frequently with [[continual-flame-xphb|continual flame]] spells cast on torches in bronze wall sconces. The rest of the level is dark.
 
 #### Treasure
 
-Many denizens of the temple carry small amounts of treasure. Creatures that own individual treasure have `4d10` gp worth of mixed coins and other minor valuables.
-
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/050-04-04.webp#gallery|Map 4.4: Temple of Eternal Flame]]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/051-pam16_templeofeternalflame_dm-zf-0998-75774-1-007.webp#gallery|Player Version]]
-
-### Areas of the Fire Temple
 
 ### E1. Entrance
 
@@ -1625,8 +1413,6 @@ An arrow slit is carved into the south wall of the lava tube leading to this are
 
 Read the following text when the characters reach the chamber at the top of the stairs:
 
-> [!readaloud] 
-> 
 > The passage widens at this point, with two large alcoves flanking the hallway. Loose piles of stone form barricades at the front of each alcove, angled to defend against intrusion from the west. A path between the barricades leads to a wide, descending staircase to the east.
 ^3d4
 
@@ -1650,8 +1436,6 @@ If the characters defeat these hobgoblins and then leave this part of the dungeo
 
 If the characters come here without raising an alarm, read the following text:
 
-> [!readaloud] 
-> 
 > The hall widens to form a domed chamber supported by four obsidian columns with fiery cracks in them. The air is oppressively warm.
 ^3da
 
@@ -1659,8 +1443,6 @@ Two [[/03_Mechanics/CLI/bestiary/humanoid/razerblast-pota|razerblasts]] (see cha
 
 If a fight breaks out, one of the razerblasts shouts, "[[imix-pota|Imix]] defend us!" When this happens, read the following text aloud:
 
-> [!readaloud] 
-> 
 > The obsidian columns transform into pillars of magma that radiate intense heat and light, making the air shimmer.
 ^3db
 
@@ -1672,8 +1454,6 @@ If the characters defeat these guards and leave the area, a replacement watch co
 
 ### E3. Niche Hall
 
-> [!readaloud] 
-> 
 > Niches line both sides of this dark hall. A shadowy form stands within each niche.
 ^3de
 
@@ -1689,8 +1469,6 @@ A secret door is hidden behind the south-easternmost statue. It can be found wit
 
 ### E4. Hidden Vault
 
-> [!readaloud] 
-> 
 > This vault contains two stone sarcophagi elaborately carved with Dwarvish runes and bas-relief images of sleeping dwarves. An unlit brazier sits in each corner, and a brass censer hangs from a chain connected to the ceiling in the chamber's center.
 ^3e3
 
@@ -1710,8 +1488,6 @@ Once the dwarves learn about an entrance to Tyar-Besil, they begin mounting expe
 
 ### E5. Crumbling Barricades
 
-> [!readaloud] 
-> 
 > This partially collapsed chamber is L-shaped. The floor is covered in shards of rock and bone. A rough five-foot wall separates the two halves of the room.
 ^3e7
 
@@ -1733,8 +1509,6 @@ If the characters slay the ogres and then head into another area, some of the og
 
 The door to this chamber is locked from within unless Bastian is elsewhere.
 
-> [!readaloud] 
-> 
 > The interior of this stifling chamber is filled with the odor of wood smoke, and a smoky haze fills the air. Four oversized braziers in the corners put off considerable light. A divan sits along one wall, while a writing table with a basalt top rests against another wall. Numerous rugs, many of them singed at the edges, lie scattered on the floor. Wall hangings woven in various shades of scarlet, blood, and rose red and bearing fire-stitched patterns decorate the chamber.
 ^3ed
 
@@ -1756,8 +1530,6 @@ A secret door in the north wall can be found with a successful a DC 15 Wisdom ([
 
 ### E7. Barracks
 
-> [!readaloud] 
-> 
 > This chamber is a barracks. Rows of bunks line the walls, and several tables fill the central portion. Braziers and torches are spaced at regular intervals throughout the place. Barrels, crates, and trunks have been stacked against the wall at the southern end. A wide opening in the southeast wall leads to a stone bridge spanning a firelit chasm.
 ^3f3
 
@@ -1771,8 +1543,6 @@ If trouble takes the soldiers in this room unaware, sounds of battle attract att
 
 ### E8. Priests' Room
 
-> [!readaloud] 
-> 
 > Three beds, each with a footlocker, take up most of this room. Sets of shelves and a writing desk are to the south. A small table is set against the middle the northern wall. There, sheets of parchment and an inkwell sit haphazardly next to two flagons and a stack of platters.
 ^3f7
 
@@ -1784,8 +1554,6 @@ One of the priests carries a [[potion-of-fire-breath-xdmg|potion of fire breath]
 
 ### E9. Ogre Den
 
-> [!readaloud] 
-> 
 > Two smelly piles of fur have been shoved into the two northern corners of this room. A small bag with knuckle bones spilling out lies between the two nests, and a half-eaten haunch of meat sits next to it.
 ^3fa
 
@@ -1801,8 +1569,6 @@ One ogre has hidden a small pouch in a pocket of a fur-lined cloak piled amid it
 
 The characters can smell the meat cooking here from the stairway to the east and the room to the west.
 
-> [!readaloud] 
-> 
 > This unusually shaped chamber smells of cooking meat. A number of sleeping pallets lie along the walls, and an open fire ring sits in the center. Meat sizzles on a spit there.
 ^3fd
 
@@ -1824,8 +1590,6 @@ The hobgoblin captain has a small, polished oak box containing three [[potion-of
 
 ### E11. Cellblock
 
-> [!readaloud] 
-> 
 > This long passage is broken at regular intervals by doors spaced fifteen feet apart along the north and south walls. Many of the doors are secured from this side with hasp-and-pin mechanisms.
 ^403
 
@@ -1833,8 +1597,6 @@ The four westernmost cells (furnished on the map) serve as barracks for the slav
 
 The first time the adventurers open a door leading to a furnished chamber, read the following:
 
-> [!readaloud] 
-> 
 > A bed is set against one wall, with a desk pushed against the wall across from it. A red tapestry hangs above the desk. Stitched into the tapestry with black thread is a bowl-shaped symbol.
 ^404
 
@@ -1854,8 +1616,6 @@ Each unfurnished cell south of the hall (not counting the easternmost cell, whic
 
 ### E12. Lava Chasm
 
-> [!readaloud] 
-> 
 > A stone bridge stretches across a hot, hazy chasm lit by a river of lava forty feet below. The roof of the chasm hangs fifty feet above the bridge.
 ^409
 
@@ -1865,8 +1625,6 @@ The stone bridge is safe to cross. A creature takes `6d10` fire damage when it e
 
 Once the characters move to a point near the center of the chamber, read the following aloud:
 
-> [!readaloud] 
-> 
 > A large mechanism hangs in the air to the east. It is a set of steel pulleys and thick iron chains connected to a hanging barricade of black stone. The wall appears to be some sort of a canal lock.
 ^40c
 
@@ -1876,8 +1634,6 @@ This mechanism controls the flow of lava into area E13. It is operated from area
 
 The temperature rises noticeably as one approaches this room, and characters can hear sounds of metal striking metal long before they see what's inside.
 
-> [!readaloud] 
-> 
 > Noise, light, and heat issue from this massive chamber. Runnels of lava flow from holes in the west wall into bronze troughs. Heat shimmers, smoke, and steam rise toward the domed ceiling, escaping through vents. Staircases rise at opposite ends of the room, and a smaller passage exits to the east. An efreeti drives azers and salamanders to make armaments here while fire cultists strand guard.
 ^40e
 
@@ -1897,8 +1653,6 @@ Once the characters kill or drive off the slavers here, the rest of the fire tem
 
 ### E14. Shaft to the Fire Node
 
-> [!readaloud] 
-> 
 > At the end of this passage, a wooden platform similar to a drawbridge extends into a large, irregularly shaped vertical shaft perhaps fifty feet across. A large stone disk, twelve feet in diameter, hovers next to the wooden extension. The shaft rises into inky blackness overhead, but a flickering, ruddy light is visible far below.
 ^411
 
@@ -1910,8 +1664,6 @@ The disk is made to rise or descend by uttering the proper command word into the
 
 When characters first discover either secret door into this unlit place, read the following text aloud:
 
-> [!readaloud] 
-> 
 > Dust and cobwebs fill this corridor. About halfway along the passage, it widens into a small room where racks of rusted weapons and armor still stand. A gleaming shield hangs on the east wall.
 ^413
 
@@ -1925,8 +1677,6 @@ The hanging shield is a [[1-shield-xdmg|+1 shield]] with a sprocket on its front
 
 This chamber is unlit.
 
-> [!readaloud] 
-> 
 > At the end of the hall is a circular room that is cooler than the rest of the complex. A pool of water fills the room's center. The water's surface, as smooth as glass, comes to a foot below the surrounding floor.
 ^416
 
@@ -1934,8 +1684,6 @@ The depth of the well is about 12 feet. The water seeps up from below through cr
 
 ### E17. Mechanical Room
 
-> [!readaloud] 
-> 
 > A complex assortment of gears, flywheels, drive shafts, and levers fills most of the northern half of this chamber. It is clear that someone has done repair work on it recently, for numerous parts look brand new and the entirety gleams from having been recently polished and lubricated.
 ^418
 
@@ -1943,8 +1691,6 @@ This mechanism operates the canal and lock system that runs between areas E12 an
 
 ### E18. Library
 
-> [!readaloud] 
-> 
 > A faint odor emanates from this dark place, which holds the chill of the grave. Strange mounds run the length of the room and look like furrows for planting.
 ^41a
 
@@ -1954,8 +1700,6 @@ The mounds are the decayed remains of bookshelves and tomes that used to run in 
 
 The door is locked with a hasp-and-pin mechanism.
 
-> [!readaloud] 
-> 
 > This hot chamber smells of sulfur and meat.
 ^41c
 
@@ -1963,8 +1707,6 @@ Four [[hell-hound-xmm|hell hounds]] lair here. They attack if whoever opened the
 
 ### E20 and E21. Storage Rooms
 
-> [!readaloud] 
-> 
 > The smell of old iron and dust fills this room. Great heaps of junk are stacked everywhere. In some places, the collection is neat and orderly, while in others, it's a tumbled mess.
 ^41e
 
@@ -1976,8 +1718,6 @@ A thorough search of each room requires 6 hours. Whether the characters find any
 
 Two [[/03_Mechanics/CLI/bestiary/humanoid/eternal-flame-guardian-pota|Eternal Flame guardians]] (see chapter 7) stand guard here.
 
-> [!readaloud] 
-> 
 > This oddly shaped room features two rounded corners that make the chamber flow in a pleasing way. A stairwell disappears downward from the south wall, and a door is set into the east wall. A large stone brazier, its base shaped like a pair of back-to-back sitting dwarves, rests in the center of the room, giving off heat and light.
 ^420
 
@@ -1989,8 +1729,6 @@ Should a fight break out here, the occupants of area E23 notify Ignatia (area E2
 
 ### E23. Barracks
 
-> [!readaloud] 
-> 
 > A short passage beyond the door opens into a rectangular chamber containing two sets of bunk beds and a trestle table with benches on either side. A large cask sits at one end of the table, and there are several pewter mugs near the cask.
 ^424
 
@@ -2004,8 +1742,6 @@ Any fighting here draws the attention of Ignatia in area E24.
 
 ### E24. Ignatia's Abode
 
-> [!readaloud] 
-> 
 > Two bookshelves stand in opposite corner of this room. Between them stands a bed. A pair of chairs flank a brazier in another corner. Lying in the middle of the floor is an individual with a warrior's physique, his wrists and ankles bound with rope. He has been beaten.
 ^428
 
@@ -2021,8 +1757,6 @@ The shelves contain many books, several of which are valuable and collectively w
 
 ### E25. Supplicants' Room
 
-> [!readaloud] 
-> 
 > This large chamber is shaped like an elongated hexagon, with a door set into the points at east and west. The door to the east has been painted red with a black, stylized cauldron symbol upon it. Additional exits lead north and south. Several ancient forges and anvils stand in the room, and many sleeping pallets lie scattered in their midst.
 ^42d
 
@@ -2034,8 +1768,6 @@ Lyzzie and her magmins (area E29) investigate any commotion here. If appropriate
 
 ### E26. Fire Temple
 
-> [!readaloud] 
-> 
 > This room has a wide alcove in the east wall. A raised dais with an altar fills the alcove. Flanking the dais are two smoking braziers and two flickering torches in sconces. Rich tapestries decorate the walls. The tapestry behind the dais is adorned with a stylized cauldron symbol.
 ^431
 
@@ -2053,8 +1785,6 @@ A secret door is hidden behind one of the tapestries on the east end of the sout
 
 ### E27. Barricades
 
-> [!readaloud] 
-> 
 > The passage emerges into an oddly shaped room. A loose pile of stone forms a barricade across the route, angled to defend intrusion from the south.
 ^436
 
@@ -2074,8 +1804,6 @@ If the characters defeat these hobgoblins, the guards are replaced by the hobgob
 
 ### E28. Barracks
 
-> [!readaloud] 
-> 
 > This foul smelling, oddly shaped room contains a number of sleeping pallets.
 ^43c
 
@@ -2087,8 +1815,6 @@ The hobgoblin captain carries a [[potion-of-healing-xdmg|potion of healing]] and
 
 ### E29. Lyzzie's Quarters
 
-> [!readaloud] 
-> 
 > Scorch marks and charred furnishings litter this chamber, and a burned tapestry spans the east wall. Dancing about the room are four small humanoids made of magma.
 ^43f
 
@@ -2100,8 +1826,6 @@ The hobgoblins in area E28 are drawn to sounds of combat here.
 
 ### E30. Chimera Lair
 
-> [!readaloud] 
-> 
 > This room has a vaulted ceiling thirty feet high. Wide alcoves dominate the east and west walls, and treasure glitters in the western one. An unpleasant musky scent mixes with the odor of sulfur here. The floor is marred with broken spots, scorch marks, bits of debris, and dark stains.
 ^443
 
@@ -2119,8 +1843,6 @@ Scattered in the western alcove—among broken bones and scraps of clothing—is
 
 ### E31. Vanifer's Chamber
 
-> [!readaloud] 
-> 
 > Throw rugs, privacy screens, a couch, and a quartet of comfortable chairs have created a cozy space here. Gossamer fabrics are draped across a four poster bed, and a desk sits in the southeastern corner.
 ^448
 
@@ -2142,19 +1864,38 @@ Three key leaders keep the Cult of the Eternal Flame organized: [[vanifer-pota|V
 
 Legends speak of 04 chapter 4 air earth fire and water as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 04 chapter 4 air earth fire and water.
 
-## Adventure Hooks
-
-- A rumor ties 04 chapter 4 air earth fire and water to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 04 chapter 4 air earth fire and water to avert a public scandal.
-- A map overlay reveals a hidden approach to 04 chapter 4 air earth fire and water active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- A document has gone missing and evil awakens
+- Strange disappearances suggest a portal
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

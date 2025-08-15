@@ -41,11 +41,9 @@ Possible outcomes
 - Something breaks loose
 - The world tilts the wrong way
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

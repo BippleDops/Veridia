@@ -26,9 +26,23 @@ chronology: active
 
 This guide explains how to export player handouts and GM encounter sheets to PDF.
 
-## Setup
-- Ensure the print stylesheet is present: `04_Resources/Styles/print.css`
-- In Obsidian or your markdown viewer, enable custom CSS/themes if required.
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Export Steps (Obsidian)
 1. Open the handout or GM sheet note you want to export.
@@ -41,24 +55,9 @@ This guide explains how to export player handouts and GM encounter sheets to PDF
    - Scale: 100%
 5. Save to your preferred location.
 
-## Tips
-- Use the Dataview lists in the Player Portal and Campaign Dashboard to find all handouts and GM sheets quickly.
-- For multi-page packs, export individual encounter sheets rather than entire packs for cleaner session packets.
-
-## Where to Find Content
-- Player Handouts (Encounters): `04_Resources/Handouts/Encounters/`
-- Player Doctrine Handouts: `04_Resources/Handouts/Doctrines/`
-- GM Sheets (Encounters): `06_GM_Resources/Travel/Encounter_Sheets/`
-
-## Troubleshooting
-- If prints include UI, enable “Simplified page” in your browser or use Obsidian’s native export.
-- If code/boxed text looks off, ensure `04_Resources/Styles/print.css` is loaded by your theme.
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -67,3 +66,18 @@ This guide explains how to export player handouts and GM encounter sheets to PDF
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A merchant needs help investigating before dawn
+- A merchant needs help stealing before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

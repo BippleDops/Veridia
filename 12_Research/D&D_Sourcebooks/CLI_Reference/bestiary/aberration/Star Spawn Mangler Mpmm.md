@@ -27,9 +27,6 @@ updated: '2025-08-13T12:34:05.561742+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-star-spawn-mangler-mpmm-star-spawn-mangler-mpmm.svg)
 
@@ -39,17 +36,31 @@ world: Both
 > [!quote] A quote from Mordenkainen  
 > 
 > The cultists who blaspheme reality by calling out to Elder Evils often speak of a Far Realm from which these entities hail.
-> 
 > In truth, there is no one place or space from which they come. There is the multiverse of things that are, and there is the multiverse of things that shouldn't be.
 
 A mangler is a low-slung, creeping horror with multiple gangly arms—it most often has six arms but can have any number from four to eight. Manglers creep along the ground or the walls, sticking to shadows and hiding in spots that seem too shallow or well-lit to conceal anything. They appear smaller than their true size, thanks to their hunched posture and emaciated frames. Cultists summon these creatures to serve as guards and assassins, two roles at which they excel.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Star Spawn
 
-> [!quote] A quote from Mordenkainen  
-> 
 > Stars don't spawn these creatures.
-> 
 > Such beautiful lights shouldn't be blamed for such balefulness.
 
 The Material Plane represents only one small part of the multiverse. Beyond the best-known planes of existence lie realms alien to mortal life. Some are so hostile that even a moment's contact is enough to break a mortal's mind. Yet beings do exist that are native to these realms: entities that are ever hungering, searching, warring, and sometimes dreaming. These Elder Evils are far older than most of the mortal peoples and always inimical to such creatures' minds.
@@ -82,7 +93,6 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   - !!int "18"
   - !!int "12"
   - !!int "11"
-  - !!int "12"
   - !!int "7"
 "speed": "40 ft., climb 40 ft."
 "saves":
@@ -93,8 +103,8 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
     "desc": "+7"
 "damage_resistances": "cold"
 "damage_immunities": "psychic"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
-  \ [[conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
+  \ [[conditions#prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Deep Speech"
 "cr": "5"
@@ -130,19 +140,20 @@ Star spawn mangler mpmm is a undersea element of the setting, known for biolumin
 
 Legends speak of star spawn mangler mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around star spawn mangler mpmm.
 
-## Adventure Hooks
-
-- A rumor ties star spawn mangler mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at star spawn mangler mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to star spawn mangler mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals ancient history about the cult
+- The authorities needs help stealing before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

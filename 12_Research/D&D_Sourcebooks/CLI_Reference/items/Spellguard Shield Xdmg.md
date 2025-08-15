@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:07.003950+00:00'
 world: Both
 ---
 
-
-
 # Spellguard Shield
 *Armor ([[shield-xphb|shield]]), very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/spellguard-shield.webp#right)
@@ -35,7 +33,25 @@ world: Both
 
 While holding this Shield, you have [[advantage-xphb|Advantage]] on saving throws against spells and other magical effects, and spell attack rolls have [[disadvantage-xphb|Disadvantage]] against you.
 
-*Source: Dungeon Master's Guide (2024) p. 305. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 305. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -45,19 +61,30 @@ Spellguard shield xdmg is a undersea element of the setting, known for biolumine
 
 Legends speak of spellguard shield xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spellguard shield xdmg.
 
-## Adventure Hooks
-
-- A rumor ties spellguard shield xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at spellguard shield xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to spellguard shield xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

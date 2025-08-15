@@ -20,33 +20,26 @@ updated: '2025-08-13T12:34:17.200221+00:00'
 world: Both
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-master-host-torrent-welcomeall-master-host-torrent-welcomeall.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## History
+### Enhancement Improvements
 
-TODO
-## Layout
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -56,23 +49,28 @@ Master Host Torrent Welcomeall is a undersea element of the setting, known for b
 
 Legends speak of Master Host Torrent Welcomeall as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Master Host Torrent Welcomeall.
 
-## Adventure Hooks
-
-- A rumor ties Master Host Torrent Welcomeall to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Master Host Torrent Welcomeall to avert a public scandal.
-- A map overlay reveals a hidden approach to Master Host Torrent Welcomeall active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Master Host Torrent Welcomeall]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

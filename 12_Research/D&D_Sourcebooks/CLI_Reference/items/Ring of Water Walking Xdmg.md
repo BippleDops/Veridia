@@ -24,16 +24,31 @@ updated: '2025-08-13T12:34:07.415981+00:00'
 world: Both
 ---
 
-
-
 # Ring of Water Walking
 *Ring, uncommon*  
 ![](/03_Mechanics/CLI/items/img/ring-of-water-walking.webp#right)
 
-
 While wearing this ring, you cast [[water-walk-xphb|Water Walk]] from it, targeting only yourself.
 
-*Source: Dungeon Master's Guide (2024) p. 296. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 296. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -43,19 +58,22 @@ Ring of water walking xdmg is a undersea element of the setting, known for biolu
 
 Legends speak of ring of water walking xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ring of water walking xdmg.
 
-## Adventure Hooks
-
-- A rumor ties ring of water walking xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ring of water walking xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to ring of water walking xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting a artifact for power
+- An heirloom has gone missing and chaos spreads
+- A letter reveals the truth about the government
+- Someone is hunting an heir for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

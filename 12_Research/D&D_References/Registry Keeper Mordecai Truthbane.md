@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.575533+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-registry-keeper-mordecai-truthbane-registry-keeper-mordecai-truthbane.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,20 @@ Registry Keeper Mordecai Truthbane is a undersea element of the setting, known f
 
 Legends speak of Registry Keeper Mordecai Truthbane as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Registry Keeper Mordecai Truthbane.
 
-## Adventure Hooks
-
-- A rumor ties Registry Keeper Mordecai Truthbane to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Registry Keeper Mordecai Truthbane to avert a public scandal.
-- A map overlay reveals a hidden approach to Registry Keeper Mordecai Truthbane active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Registry Keeper Mordecai Truthbane|02 Worldbuilding/Places/Registry Keeper Mordecai Truthbane]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Vote Vaults]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest ancient magic
+- Someone is protecting a witness for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

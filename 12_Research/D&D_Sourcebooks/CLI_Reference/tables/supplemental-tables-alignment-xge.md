@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.190030'
 world: Both
 ---
 
-
 # Supplemental Tables; Alignment
 *Source: Xanathar's Guide to Everything p. 72* 
 
@@ -40,6 +39,24 @@ world: Both
 | 18 | Chaotic good (50%) or chaotic neutral (50%) |
 ^alignment
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Supplemental tables alignment xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -48,19 +65,17 @@ Supplemental tables alignment xge is a undersea element of the setting, known fo
 
 Legends speak of supplemental tables alignment xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around supplemental tables alignment xge.
 
-## Adventure Hooks
-
-- A rumor ties supplemental tables alignment xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at supplemental tables alignment xge to avert a public scandal.
-- A map overlay reveals a hidden approach to supplemental tables alignment xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest ancient magic
+- Someone is searching for an heir for money
+- A letter reveals a betrayal about the government

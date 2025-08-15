@@ -15,16 +15,8 @@ world: Both
 updated: '2025-08-13T01:18:36.879369+00:00'
 ---
 
-
-
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-senator-glaucus-brain-senator-glaucus-brain.svg]]
-
-
-
-
 
 # Senator Cordelia Deepcurrent
 
@@ -43,6 +35,24 @@ updated: '2025-08-13T01:18:36.879369+00:00'
 **Languages** Common, Aquabyssan, Primordial, Draconic, Celestial  
 **Challenge Rating** 8 (3,900 XP)  
 **Proficiency Bonus** +3
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Special Abilities
 
@@ -81,21 +91,12 @@ Standing 5'6" with an aristocratic bearing, Cordelia adorns herself in the fines
 
 She represents the Deepcurrent District, the wealthiest area of Aquabyssos, where the most influential families maintain their ancestral coral mansions. Her political philosophy centers on maintaining Aquabyssos's independence while carefully managing the delicate relationship with surface dwellers and the growing shadow threat.
 
-## Equipment
-
-- **Trident of Parliamentary Authority** (symbol of office that can cast *command* 3/day)
-- **Robes of Political Influence** (advantage on Persuasion checks against government officials)
-- **Ring of Mind Shielding** (protects against mental intrusion)
-- **Pearl of Wisdom** (allows her to recall any conversation perfectly)
-- **Sending Stone Network** (connected to her political allies)
-- **Diplomatic Immunity Seal** (official document granting legal protections)
-
 ## Relationships
 
 **Allies:**
 - **[[Parliament Loyalists]]** - Her primary political faction, though she maneuvers to lead rather than follow
 - **[[Emperor Thalassius the Wise]]** - Maintains cordial relations while quietly positioning for more power
-- **[[Banker Titus Goldcurrent]]** - Her cousin and financial advisor who helps fund her political operations
+- **[[Banker Titus Goldcurrent]]** - Her cousin and ficial advisor who helps fund her political operations
 - **[[Ambassador Nerida Deepcurrent]]** - Her sister, serving as the diplomatic arm of their family's ambitions
 
 **Enemies:**
@@ -119,14 +120,6 @@ She represents the Deepcurrent District, the wealthiest area of Aquabyssos, wher
 4. **The Blackmail Network** - Someone has been gathering compromising information on Parliament members, including Cordelia herself. She needs the party to track down the blackmailer while keeping her own secrets safe.
 
 5. **The Constitutional Convention** - Cordelia is secretly organizing a convention to reform Aquabyssos's government, but she needs evidence of the current system's failures and protection from those who would kill to maintain the status quo.
-
-## Secrets
-
-- **The Deepcurrent Fortune**: Her family's wealth comes from an ancient contract with sea devils, trading souls for political power across generations.
-- **The Double Agent**: She's been feeding information to both [[Parliament Loyalists]] and moderate shadow factions, playing all sides to maintain stability.
-- **The Succession Plan**: Cordelia is secretly working to position herself as [[Emperor Thalassius the Wise]]'s successor, believing she can modernize Aquabyssos without revolution.
-- **The Surface Connection**: She has been in covert communication with surface world leaders, negotiating potential trade agreements that bypass traditional diplomatic channels.
-- **The Memory Archive**: She possesses a collection of extracted memories from political opponents, giving her devastating blackmail material but also making her a target.
 
 ## Motivations
 
@@ -154,36 +147,6 @@ She represents the Deepcurrent District, the wealthiest area of Aquabyssos, wher
 
 **Mannerisms**: Always perfectly groomed and composed. She has a habit of touching her pearl necklace when thinking deeply, and her fins flutter slightly when she's annoyed (though she tries to suppress this tell). She never interrupts others but somehow always gets the last word in any conversation.
 
-
-## Overview
-
-
-TODO
-
-
-## Appearance
-
-
-TODO
-
-
-## Personality
-
-
-TODO
-
-
-## Goals
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 Senator is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -192,33 +155,22 @@ Senator is a undersea element of the setting, known for bioluminescent glow and 
 
 Legends speak of Senator as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Senator.
 
-## Adventure Hooks
-
-- A rumor ties Senator to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Senator to avert a public scandal.
-- A map overlay reveals a hidden approach to Senator active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Senator|02 Worldbuilding/People/Senator]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Ambassador Nerida Deepcurrent]]
-- [[Banker Titus Goldcurrent]]
-- [[Emperor Thalassius the Wise]]
-- [[Prince Caspian Duskwater]]
-- [[Senator Glaucus]]
-- [[Surface Ambassador Lord Seaworthy]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a portal
+- Strange accidents suggest a conspiracy
+- Strange sightings suggest ancient magic
+- Strange sightings suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

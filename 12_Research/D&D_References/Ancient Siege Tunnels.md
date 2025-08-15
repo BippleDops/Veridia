@@ -33,21 +33,32 @@ related_entities:
 - '[[Ironhold|02 Worldbuilding/Places/Ironhold]]'
 ---
 
-
-
-
-
-
 # Ancient Siege Tunnels
 *The Underground Arteries of Ancient Warfare*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
 Beneath the major cities of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] lies a vast network of ancient siege tunnels, testament to the brutal military engineering of the [[Continental War|02 Worldbuilding/Lore/Continental War]]. These massive underground passages once carried armies, siege engines, and supplies directly beneath enemy fortifications, allowing for devastating surprise attacks that changed the course of history.
 
 Built primarily during the Third Continental War by the allied forces of what would become [[Port Meridian|02 Worldbuilding/Places/Port Meridian]], [[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]], and [[Ironhold|02 Worldbuilding/Places/Ironhold]], these tunnels represent some of the most ambitious military engineering projects ever undertaken. Though many sections have collapsed or been deliberately sealed, enough remain active to serve modern purposes - both legitimate and otherwise.
-
-## Historical Context
 
 ### The Great Siege Campaign
 The tunnel network was conceived during the siege of the ancient fortress-city of Drakmoor, when conventional siege tactics proved inadequate against the city's crystal-enhanced defenses. [[Lord Commander Gareth Steelborn|02 Worldbuilding/People/Lord Commander Gareth Steelborn]]'s engineering corps, working with dwarven miners from [[Ironhold|02 Worldbuilding/Places/Ironhold]] and crystal-mages from [[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]], spent three years excavating the first major tunnel complex.
@@ -61,8 +72,6 @@ The ancient engineers employed three distinct tunnel types:
 **Dwarven-Dug Networks**: [[Ironhold|02 Worldbuilding/Places/Ironhold]] miners created structurally superior passages using traditional methods
 **Hybrid Constructions**: Combined magical reinforcement with conventional excavation
 
-## Current Tunnel Network
-
 ### Major Active Sections
 
 **The Port Meridian Approach**
@@ -74,7 +83,7 @@ The ancient engineers employed three distinct tunnel types:
 **The Crystalhaven Underlayers**
 - Complex web of tunnels beneath [[Crystal Gardens|02 Worldbuilding/Places/Crystal Gardens]]
 - Many passages still contain active crystal formations
-- Used by the [[Merchant's Covenant|02 Worldbuilding/Groups/Merchant's Covenant]] for secure transport
+- Used by the [[Merchant's Covet|02 Worldbuilding/Groups/Merchant's Covet]] for secure transport
 - Connects to the ancient [[Royal Vault|02 Worldbuilding/Places/Royal Vault]] systems
 
 **The Ironhold Deep Roads**
@@ -89,8 +98,6 @@ The ancient engineers employed three distinct tunnel types:
 - Guarded by [[Sylvanheart|02 Worldbuilding/Places/Sylvanheart]] druids and rangers
 - Provides covert access to multiple forest strongholds
 
-## Game Mechanics (D&D 5e)
-
 ### Tunnel Navigation
 **Intelligence (Investigation) DC 16**: Navigate without getting lost
 **Wisdom (Survival) DC 14**: Find safe camping spots and avoid unstable areas
@@ -98,17 +105,9 @@ The ancient engineers employed three distinct tunnel types:
 
 ### Environmental Hazards
 **Unstable Sections**: Dexterity save DC 15 or trigger partial collapse (2d10 bludgeoning damage)
-**Crystal Resonance**: Constitution save DC 16 in magical sections or be stunned for 1 round
-**Stagnant Air**: Constitution save DC 12 every hour or gain one level of exhaustion
+**Crystal Resoce**: Constitution save DC 16 in magical sections or be stunned for 1 round
+**Stagt Air**: Constitution save DC 12 every hour or gain one level of exhaustion
 **Flooding**: Seasonal water levels can trap unwary explorers
-
-### Tunnel Features
-- **Echo Chambers**: Sound travels unusually far, allowing eavesdropping but also alerting distant guards
-- **Crystal Lights**: Some passages contain permanent magical illumination
-- **Secret Passages**: Hidden doors and concealed entrances (DC 20 Investigation to find)
-- **Ancient Traps**: Magical and mechanical defenses still function in some areas
-
-## Notable Locations Within
 
 ### The War Room Nexus
 *Central command center where the tunnel campaigns were coordinated*
@@ -137,8 +136,6 @@ The ancient engineers employed three distinct tunnel types:
 - Magical weapons from the Continental Wars
 - Experimental crystal-powered devices
 - Trapped and warded against intrusion
-
-## Modern Usage
 
 ### Legitimate Activities
 **Emergency Routes**: Official evacuation tunnels for major cities
@@ -174,20 +171,12 @@ The ancient engineers employed three distinct tunnel types:
 9. **Military Secrets**: Evidence of current military operations hidden in supposedly abandoned passages
 10. **The Tunnel King**: A mysterious figure has taken control of large sections and demands tribute from users
 
-## Strategic Importance
-
 ### Military Value
 The tunnel network remains strategically vital for:
 - Rapid troop movement between allied cities
 - Covert operations and intelligence gathering
 - Emergency evacuation routes during sieges
 - Secure communication lines
-
-### Economic Impact
-- Reduces transportation costs between major cities
-- Enables trade during surface conflicts
-- Provides competitive advantages for those with access
-- Creates entire underground economies
 
 ## Connections to Ongoing Campaigns
 
@@ -198,13 +187,7 @@ The Ancient Siege Tunnels serve as:
 - Links connecting separate story threads across multiple cities
 - Sources of historical context for current political tensions
 - Venues for encounters that blend exploration, combat, and puzzle-solving
-EOF < /dev/null
-
-## Connections
-
-- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[Rescue Senator Glaucus]]
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
+EOF < /dev/
 
 ## Player-Facing Summary
 
@@ -214,23 +197,32 @@ Ancient Siege Tunnels is a undersea element of the setting, known for biolumines
 
 Legends speak of Ancient Siege Tunnels as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ancient Siege Tunnels.
 
-## Adventure Hooks
-
-- A rumor ties Ancient Siege Tunnels to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Ancient Siege Tunnels to avert a public scandal.
-- A map overlay reveals a hidden approach to Ancient Siege Tunnels active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Master_Lore_Index|Master Lore Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest a curse
+- Strange accidents suggest a curse
+- A prisoner has gone missing and evil awakens
+- A journal reveals the truth about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

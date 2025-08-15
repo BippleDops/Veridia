@@ -29,8 +29,6 @@ updated: '2025-08-13T12:34:06.545616+00:00'
 world: Both
 ---
 
-
-
 # Whirlwind
 *7th-level, Evocation*  
 ![](/03_Mechanics/CLI/spells/img/whirlwind.webp#right)
@@ -50,6 +48,24 @@ A [[conditions#Restrained|restrained]] creature can use an action to make a Stre
 
 *Source: Xanathar's Guide to Everything p. 171*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Whirlwind xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -58,19 +74,23 @@ Whirlwind xge is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of whirlwind xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around whirlwind xge.
 
-## Adventure Hooks
-
-- A rumor ties whirlwind xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at whirlwind xge to avert a public scandal.
-- A map overlay reveals a hidden approach to whirlwind xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

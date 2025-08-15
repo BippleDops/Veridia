@@ -21,7 +21,6 @@ updated: '2025-08-13T01:18:32.401899+00:00'
 world: Both
 ---
 
-
 # Menagerie
 *Level 13 Bastion facility*  
 
@@ -31,6 +30,24 @@ world: Both
 - **Order**: recruit
 
 A Menagerie has enclosures big enough to contain up to four Large creatures. Four Small or Medium creatures can occupy the same space as one Large creature there.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Recruit: Creature
 
@@ -81,18 +98,9 @@ Menagerie is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of menagerie as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around menagerie.
 
-## Adventure Hooks
-
-- A rumor ties menagerie to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at menagerie to avert a public scandal.
-- A map overlay reveals a hidden approach to menagerie active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

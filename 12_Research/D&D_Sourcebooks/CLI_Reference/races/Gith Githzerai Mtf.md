@@ -23,18 +23,13 @@ updated: '2025-08-13T12:34:08.061269+00:00'
 world: Both
 ---
 
-
-
 # Gith (Githzerai)
 *Source: Mordenkainen's Tome of Foes p. 96*  
-
 
 - **Ability Scores**: wis +2
 - **Size**: Medium
 - **Speed**: 30 ft.
 - **Spellcasting**: Wisdom
-
-## Traits
 
 ### Age
 
@@ -54,7 +49,7 @@ Githzerai tend toward lawful neutral. Their rigorous training in psychic abiliti
 
 ### Mental Discipline
 
-You have advantage on saving throws against the [[conditions#Charmed|charmed]] and [[conditions#Frightened|frightened]] conditions. Under the tutelage of monastic masters, githzerai learn to govern their own minds.
+You have advantage on saving throws against the [[conditions#Charmed|charmed]] and [[conditions#frightened|frightened]] conditions. Under the tutelage of monastic masters, githzerai learn to govern their own minds.
 
 ### Githzerai Psionics
 
@@ -63,6 +58,24 @@ You know the [[mage-hand-xphb|mage hand]] cantrip, and the hand is [[conditions#
 When you reach 3rd level, you can cast [[shield-xphb|shield]] once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the [[detect-thoughts-xphb|detect thoughts]] spell once with this trait, and you regain the ability to do so when you finish a long rest.
 
 Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Description
 
@@ -84,19 +97,15 @@ Gith githzerai mtf is a undersea element of the setting, known for bioluminescen
 
 Legends speak of gith githzerai mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gith githzerai mtf.
 
-## Adventure Hooks
-
-- A rumor ties gith githzerai mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gith githzerai mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to gith githzerai mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

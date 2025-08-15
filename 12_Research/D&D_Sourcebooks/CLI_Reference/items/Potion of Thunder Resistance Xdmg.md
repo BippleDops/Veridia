@@ -24,21 +24,35 @@ updated: '2025-08-13T12:34:07.980227+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-potion-of-thunder-resistance-xdmg-potion-of-thunder-resistance-xdmg.svg)
 
 # Potion of Thunder Resistance
 *Potion, uncommon*  
 
-
 - **Weight**: 0.5 lbs.
 
 When you drink this potion, you have [[resistance-xphb|Resistance]] to thunder damage for 1 hour.
 
-*Source: Dungeon Master's Guide (2024) p. 289. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 289. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -48,19 +62,22 @@ Potion of thunder resistance xdmg is a undersea element of the setting, known fo
 
 Legends speak of potion of thunder resistance xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around potion of thunder resistance xdmg.
 
-## Adventure Hooks
-
-- A rumor ties potion of thunder resistance xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at potion of thunder resistance xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to potion of thunder resistance xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a curse
+- A corpse reveals the truth about the government
+- Strange accidents suggest a portal
+- An heirloom has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

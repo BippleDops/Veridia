@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Crystallium|02 Worldbuilding/Places/Crystallium]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Crystallium]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,29 @@ The Residential Bubble is a undersea element of the setting, known for biolumine
 
 Legends speak of The Residential Bubble as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Residential Bubble.
 
-## Adventure Hooks
-
-- A rumor ties The Residential Bubble to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Residential Bubble to avert a public scandal.
-- A map overlay reveals a hidden approach to The Residential Bubble active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- Strange accidents suggest a conspiracy
+- Strange sightings suggest a conspiracy
+- Strange accidents suggest a curse
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

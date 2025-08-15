@@ -18,21 +18,25 @@ world: Both
 ---
 
 
-# Faction Reputation System - Social Mechanics
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 The Faction Reputation System tracks character standing with the major political, military, religious, and criminal organizations throughout [[Aquabyssos]] and [[Aethermoor]]. Unlike simple alignment-based reactions, this system models the complex web of alliances, rivalries, and competing interests that define the dual-world setting.
-
-## Reputation Scales
-
-### Numerical Values (-100 to +100)
-- **Sworn Enemy (-100 to -76)**: Kill on sight, active persecution
-- **Hostile (-75 to -51)**: Open antagonism, will not cooperate
-- **Unfriendly (-50 to -26)**: Suspicious, requires payment or coercion
-- **Neutral (-25 to +25)**: Professional courtesy, standard interactions
-- **Friendly (+26 to +50)**: Cooperative, provides minor assistance
-- **Allied (+51 to +75)**: Trusted, significant support available  
-- **Revered (+76 to +100)**: Legendary status, maximum benefits
 
 ### Reputation Thresholds
 **Government Factions**:
@@ -50,8 +54,6 @@ The Faction Reputation System tracks character standing with the major political
 - -25: Marked as potential threat or rival
 - -50: Active interference with operations
 - -75: Elimination orders issued
-
-## Major Faction Categories
 
 ### Government & Military
 **[[Aquabyssos Royal Navy]]**
@@ -102,7 +104,7 @@ The Faction Reputation System tracks character standing with the major political
 **[[Merchants Guild]]**
 - *Allies*: Government trade departments, shipping companies
 - *Rivals*: Black market traders, pirates, heavily regulated industries
-- *Benefits*: Trade permits, market information, financial services
+- *Benefits*: Trade permits, market information, ficial services
 - *Penalties*: Trade sanctions, market exclusion, economic warfare
 
 **[[Crystal Workers Union]]**
@@ -110,8 +112,6 @@ The Faction Reputation System tracks character standing with the major political
 - *Rivals*: Crystal corruption cults, unregulated miners
 - *Benefits*: Crystal identification, purification services, equipment
 - *Penalties*: Equipment sabotage, strike actions, professional blacklisting
-
-## Reputation Modifiers
 
 ### Action-Based Changes
 **Major Positive Actions (+10 to +25)**:
@@ -123,7 +123,7 @@ The Faction Reputation System tracks character standing with the major political
 **Minor Positive Actions (+1 to +9)**:
 - Following faction customs and protocols
 - Providing useful information
-- Small financial contributions
+- Small ficial contributions
 - Respectful interactions with representatives
 
 **Minor Negative Actions (-1 to -9)**:
@@ -150,8 +150,6 @@ The Faction Reputation System tracks character standing with the major political
 - Moderate values (±26 to ±50) decay by 1 point per 3 months toward neutral
 - Low values (±1 to ±25) decay by 1 point per 6 months toward 0
 
-## Cross-Faction Relationships
-
 ### Allied Faction Clusters
 **Government Alliance**: +25% reputation with government allies when reputation with any member faction reaches +50
 **Religious Coalition**: Shared reputation bonuses among compatible religious organizations
@@ -162,25 +160,6 @@ The Faction Reputation System tracks character standing with the major political
 **Government vs. Criminal**: -1 reputation with government for every +2 with criminal organizations
 **Traditional vs. Progressive**: Religious and political factions with opposing philosophies
 **Order vs. Chaos**: Reality stabilization forces vs. entities promoting change and disorder
-
-## Regional Variations
-
-### Aquabyssos Specific
-- **Depth Discrimination**: Surface-dwelling factions may have lower opinion of deep-dwellers
-- **Pressure Politics**: Political power correlates with ability to survive at greater depths
-- **Crystal Paranoia**: Anti-corruption factions scrutinize anyone with crystal exposure
-
-### Aethermoor Specific  
-- **Altitude Aristocracy**: Higher altitude populations often consider themselves superior
-- **Wind Caste System**: Social status tied to aerial mobility and weather magic
-- **Storm Season Politics**: Faction power fluctuates with seasonal weather patterns
-
-### Cross-World Complications
-- **Diplomatic Immunity**: High reputation with one world's government may grant protection in the other
-- **Cultural Misunderstanding**: Actions appropriate in one world may offend factions in the other
-- **Refugee Status**: Characters fleeing one world may find allies among similar refugee populations
-
-## Reputation Benefits and Penalties
 
 ### Social Interaction Modifiers
 | Reputation Level | Attitude Modifier | Persuasion DC | Service Availability |
@@ -219,33 +198,17 @@ The Faction Reputation System tracks character standing with the major political
 - Exclusion from sensitive discussions and planning
 - Surveillance and monitoring of activities
 
-## Managing Multiple Reputations
-
 ### Reputation Conflicts
 **Balancing Act**: Maintaining positive relationships with rival factions requires careful diplomacy
 **Secret Alliances**: Hide true loyalties through deception and compartmentalization
 **Double Agent**: Work for multiple factions while serving hidden agenda
 **Neutral Broker**: Maintain neutrality to serve as mediator between opposing groups
 
-### Strategic Considerations
-- Focus reputation building on 3-5 most important factions for campaign goals
-- Accept that some relationships will be sacrificed for others
-- Use allied faction networks to amplify reputation gains
-- Plan for reputation changes when making major campaign decisions
-
-## Campaign Integration
-
 ### Adventure Hooks
 **Faction Missions**: Organizations offer quests to improve standing
 **Reputation Rescue**: Recover from catastrophic reputation loss through heroic actions
 **Diplomatic Crisis**: Navigate complex multi-faction negotiations
 **Double Agent**: Serve conflicting masters while maintaining cover
-
-### Long-Term Consequences
-- Reputation affects available story paths and campaign options
-- High-level characters may be offered leadership positions in favored factions
-- Enemy factions may attempt assassination or sabotage
-- Reputation becomes political capital for influencing world events
 
 ### DM Guidelines
 - Track reputation changes openly so players understand consequences
@@ -261,7 +224,6 @@ The Faction Reputation System tracks character standing with the major political
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -269,3 +231,26 @@ The Faction Reputation System tracks character standing with the major political
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

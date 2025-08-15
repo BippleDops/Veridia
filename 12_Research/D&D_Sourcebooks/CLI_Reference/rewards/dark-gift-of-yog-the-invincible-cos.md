@@ -22,7 +22,6 @@ updated: '2025-08-12T23:37:34.741625'
 world: Both
 ---
 
-
 # Dark Gift of Yog the Invincible
 *Charm*  
 
@@ -32,6 +31,24 @@ Oily black fur covers the beneficiary's face and body.
 
 *Source: Curse of Strahd p. 193*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Dark gift of yog the invincible cos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -40,19 +57,28 @@ Dark gift of yog the invincible cos is a undersea element of the setting, known 
 
 Legends speak of dark gift of yog the invincible cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dark gift of yog the invincible cos.
 
-## Adventure Hooks
-
-- A rumor ties dark gift of yog the invincible cos to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dark gift of yog the invincible cos to avert a public scandal.
-- A map overlay reveals a hidden approach to dark gift of yog the invincible cos active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Stars
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

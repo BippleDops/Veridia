@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.326651'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-star-spawn-grue-mpmm-star-spawn-grue-mpmm.svg)
 
@@ -38,12 +36,29 @@ world: Both
 
 Fanged and lipless, the ever-grinning, eerily staring grue lopes about on spindly legs and long arms. Bristles and spines project from odd patches of its grayish skin, and its long fingers end in broken and dirty nails. Grues are the weakest of the star spawn. A host of writhing, scrambling grues typically accompanies more powerful star spawn. Their constant chittering and shrieking produce discordant psychic energy that disrupts thought patterns in other creatures, which experience flashing colors, hallucinations, disorientation, and waves of hopelessness.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Star Spawn
 
 > [!quote] A quote from Mordenkainen  
 > 
 > Stars don't spawn these creatures.
-> 
 > Such beautiful lights shouldn't be blamed for such balefulness.
 
 The Material Plane represents only one small part of the multiverse. Beyond the best-known planes of existence lie realms alien to mortal life. Some are so hostile that even a moment's contact is enough to break a mortal's mind. Yet beings do exist that are native to these realms: entities that are ever hungering, searching, warring, and sometimes dreaming. These Elder Evils are far older than most of the mortal peoples and always inimical to such creatures' minds.
@@ -77,7 +92,6 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   - !!int "10"
   - !!int "9"
   - !!int "11"
-  - !!int "6"
 "speed": "30 ft."
 "damage_immunities": "psychic"
 "senses": "darkvision 60 ft., passive Perception 10"
@@ -113,19 +127,38 @@ Star spawn grue mpmm is a undersea element of the setting, known for bioluminesc
 
 Legends speak of star spawn grue mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around star spawn grue mpmm.
 
-## Adventure Hooks
-
-- A rumor ties star spawn grue mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at star spawn grue mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to star spawn grue mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

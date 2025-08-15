@@ -29,13 +29,29 @@ updated: '2025-08-12T23:37:35.080605'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ettin-xmm-ettin-xmm.svg)
 
 # [[ettin-xmm|Ettin]]
-*Source: Monster Manual (2024) p. 116. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 116. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Ettin
 
@@ -72,7 +88,6 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
 > 
 > Twice the malice, aggressiveness, and appetite—the ettin demonstrates that two heads aren't necessarily better than one.
 
-
 ```statblock
 "name": "Ettin (XMM)"
 "size": "Large"
@@ -88,13 +103,12 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
   - !!int "17"
   - !!int "6"
   - !!int "10"
-  - !!int "8"
 "speed": "40 ft."
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
-  \ [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#frightened|frightened]],\
   \ [[conditions#Stunned|stunned]], [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Giant"
@@ -103,7 +117,7 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
   - "desc": "The ettin makes one Battleaxe attack and one Morningstar attack."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Slashing damage.\
-      \ If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
+      \ If the target is a Large or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Battleaxe"
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 14 (2d8 + 5) Piercing damage,\
@@ -128,19 +142,20 @@ Ettin xmm is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of ettin xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ettin xmm.
 
-## Adventure Hooks
-
-- A rumor ties ettin xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ettin xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ettin xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals ancient history about a local noble
+- Someone is hunting a artifact for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

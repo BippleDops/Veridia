@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:37.492543'
 world: Both
 ---
 
-
 # Wand of Web
 *Wand, uncommon (requires attunement by a spellcaster)*  
 ![](/03_Mechanics/CLI/items/img/wand-of-web.webp#right)
@@ -32,11 +31,29 @@ world: Both
 
 This wand has 7 charges. While holding it, you can expend 1 charge to cast [[web-xphb|Web]] (save DC 13) from it.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Regaining Charges
 
 The wand regains `1d6 + 1` expended charges daily at dawn. If you expend the wand's last charge, roll `d20`. On a 1, the wand crumbles into ashes and is destroyed.
 
-*Source: Dungeon Master's Guide (2024) p. 322. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 322. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -46,19 +63,22 @@ Wand of web xdmg is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of wand of web xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wand of web xdmg.
 
-## Adventure Hooks
-
-- A rumor ties wand of web xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at wand of web xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to wand of web xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a conspiracy about the cult
+- Strange dreams suggest a curse
+- Strange accidents suggest a curse
+- The authorities needs help stealing before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

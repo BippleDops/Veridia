@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.831250'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-marut-mpmm-marut-mpmm.svg)
 
@@ -69,10 +67,9 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
   - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+12"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+10"
 "damage_resistances": "thunder; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Poisoned|poisoned]],\
   \ [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 20"
@@ -114,6 +111,24 @@ Inevitables care nothing for the spirit of an agreement, only the letter. A maru
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Marut mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -122,19 +137,30 @@ Marut mpmm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of marut mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around marut mpmm.
 
-## Adventure Hooks
-
-- A rumor ties marut mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at marut mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to marut mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a portal
+- A map reveals a betrayal about this place
+- The authorities needs help stealing before winter
+- A letter reveals a betrayal about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

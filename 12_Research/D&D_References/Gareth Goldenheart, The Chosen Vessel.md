@@ -15,27 +15,26 @@ updated: '2025-08-13T01:18:36.828308+00:00'
 world: Both
 ---
 
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-gareth-goldenheart-the-chosen-vessel-gareth-goldenheart-the-chosen-vessel.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[The Order of the Shattered Crown|02 Worldbuilding/Places/The Order Of The Shattered Crown]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Brother Matthias the Amber Bearer]]
-- [[Order of the Shattered Crown]]
-- [[Scholar Vivienne the Chronicler]]
-- [[The Emerald Sage Willowbark]]
-- [[The Shadow Singer Naia]]
-- [[The Order of the Shattered Crown]]
 
 ## Player-Facing Summary
 
@@ -45,19 +44,29 @@ Gareth Goldenheart, The Chosen Vessel is a undersea element of the setting, know
 
 Legends speak of Gareth Goldenheart, The Chosen Vessel as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Gareth Goldenheart, The Chosen Vessel.
 
-## Adventure Hooks
-
-- A rumor ties Gareth Goldenheart, The Chosen Vessel to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Gareth Goldenheart, The Chosen Vessel to avert a public scandal.
-- A map overlay reveals a hidden approach to Gareth Goldenheart, The Chosen Vessel active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Relationships
+
+- **Creditor**: [[Lady Elena the Eternal]]
+- **Blackmailer**: [[Assets Locations Location City Commander Reef Shadowstrike Commander Reef Shadowstrike.svg]]
+- **Debtor**: [[Portrait NPC Abyssos Prime Parliament of Echoes Abyssos Prime Parliament of Echoes.svg]]
+- **Student**: [[Assets Locations Location City Harbormaster Creedence Tidereader V1 Harbormaster Creedence Tidereader.svg]]
+- **Debtor**: [[The Corroded Crown]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

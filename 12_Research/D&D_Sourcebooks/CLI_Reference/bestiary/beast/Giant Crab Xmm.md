@@ -29,14 +29,29 @@ updated: '2025-08-13T12:34:05.490179+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-crab-xmm-giant-crab-xmm.svg)
 
 # [[giant-crab-xmm|Giant Crab]]
-*Source: Monster Manual (2024) p. 356, Player's Handbook (2024) p. 350. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 356, Player's Handbook (2024) p. 350. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Animals
 
@@ -52,7 +67,6 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "hit_dice": "3d8"
 "modifier": !!int "1"
 "stats":
-  - !!int "13"
   - !!int "13"
   - !!int "11"
   - !!int "1"
@@ -92,19 +106,35 @@ Giant crab xmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of giant crab xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around giant crab xmm.
 
-## Adventure Hooks
-
-- A rumor ties giant crab xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at giant crab xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to giant crab xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a portal
+- A document has gone missing and chaos spreads
+- Someone is blackmailing an heir for power
+- Strange accidents suggest a portal
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

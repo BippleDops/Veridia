@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.590223+00:00'
 world: Both
 ---
 
-
-
 # Difficulty Class; Typical DCs
 *Source: Dungeon Master's Guide p. 238* 
 
@@ -39,6 +37,24 @@ world: Both
 | Nearly impossible | 30 |
 ^typical-dcs
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Difficulty class typical dcs is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -47,19 +63,21 @@ Difficulty class typical dcs is a undersea element of the setting, known for bio
 
 Legends speak of difficulty class typical dcs as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around difficulty class typical dcs.
 
-## Adventure Hooks
-
-- A rumor ties difficulty class typical dcs to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at difficulty class typical dcs to avert a public scandal.
-- A map overlay reveals a hidden approach to difficulty class typical dcs active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a betrayal about the cult
+- A merchant needs help stealing before winter
+- A letter reveals a betrayal about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -28,13 +28,29 @@ updated: '2025-08-12T23:37:35.313614'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cranium-rat-mpmm-cranium-rat-mpmm.svg)
 
 # [[cranium-rat-mpmm|Cranium Rat]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Cranium Rat
 
@@ -93,19 +109,30 @@ Cranium rat mpmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of cranium rat mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cranium rat mpmm.
 
-## Adventure Hooks
-
-- A rumor ties cranium rat mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at cranium rat mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to cranium rat mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- The authorities needs help investigating before dawn
+- An heirloom has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

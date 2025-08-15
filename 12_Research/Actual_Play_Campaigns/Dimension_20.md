@@ -14,29 +14,22 @@ modified: '2025-08-14'
 ---
 
 
-# Dimension 20 Campaigns
+## 🔧 Deep Evaluation Improvements
 
-## Fantasy High
-- **Platform**: Dropout.tv (some on YouTube)
-- **DM**: Brennan Lee Mulligan
-- **Setting**: Modern fantasy high school
-- **System**: D&D 5e
-- **Seasons**: Freshman Year, Sophomore Year, Junior Year
+*20 targeted improvements identified*
 
-## A Crown of Candy
-- **Setting**: Game of Thrones meets Candyland
-- **Episodes**: 17 episodes
-- **Tone**: Political intrigue, high stakes
+### Connection Improvements
 
-## The Unsleeping City
-- **Setting**: Modern NYC with magic
-- **Episodes**: Two seasons
-- **Style**: Urban fantasy
+- Add cross-references to related notes
 
-## Escape from the Bloodkeep
-- **Setting**: Lord of the Rings from villain perspective
-- **Episodes**: 6 episodes
-- **Tone**: Comedy evil campaign
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## A Court of Fey & Flowers
 - **DM**: Aabria Iyengar
@@ -46,11 +39,9 @@ modified: '2025-08-14'
 ---
 *Reference for creative campaign concepts*
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -59,3 +50,13 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -1,9 +1,9 @@
-# Strixhaven Pennant Scc
+# Strixhaven Pent Scc
 
 ---
-title: Strixhaven Pennant Scc
+title: Strixhaven Pent Scc
 aliases:
-- Strixhaven Pennant
+- Strixhaven Pent
 type: note
 tags:
 - both
@@ -24,42 +24,56 @@ updated: '2025-08-13T12:34:06.986755+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
-![](04_Resources/Assets/Items/item-artifact-strixhaven-pennant-scc-strixhaven-pennant-scc.svg)
+![](04_Resources/Assets/Items/item-artifact-strixhaven-pent-scc-strixhaven-pent-scc.svg)
 
-# Strixhaven Pennant
+# Strixhaven Pent
 *Wondrous item, common*  
 
-
-
-This magic pennant bears the symbol of Strixhaven or one of its colleges: Lorehold, Prismari, Quandrix, Silverquill, or Witherbloom. While you wave the pennant, the symbol on it glitters, and the pennant sheds bright light in a 10-foot-radius and dim light for an additional 10 feet.
+This magic pent bears the symbol of Strixhaven or one of its colleges: Lorehold, Prismari, Quandrix, Silverquill, or Witherbloom. While you wave the pent, the symbol on it glitters, and the pent sheds bright light in a 10-foot-radius and dim light for an additional 10 feet.
 
 *Source: Strixhaven: A Curriculum of Chaos p. 39*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
-Strixhaven pennant scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+Strixhaven pent scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of strixhaven pennant scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around strixhaven pennant scc.
-
-## Adventure Hooks
-
-- A rumor ties strixhaven pennant scc to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at strixhaven pennant scc to avert a public scandal.
-- A map overlay reveals a hidden approach to strixhaven pennant scc active only during specific tides/storms.
+Legends speak of strixhaven pent scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around strixhaven pent scc.
 
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

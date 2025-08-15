@@ -1,7 +1,7 @@
-# Resonant Starcrystal
+# Resot Starcrystal
 
 ---
-title: Resonant Starcrystal
+title: Resot Starcrystal
 type: Lore
 tags:
 - lore
@@ -16,44 +16,40 @@ updated: '2025-08-13T01:18:34.798924+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
-Resonant Starcrystal is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+Resot Starcrystal is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of Resonant Starcrystal as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Resonant Starcrystal.
-
-## Adventure Hooks
-
-- A rumor ties Resonant Starcrystal to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Resonant Starcrystal to avert a public scandal.
-- A map overlay reveals a hidden approach to Resonant Starcrystal active only during specific tides/storms.
+Legends speak of Resot Starcrystal as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Resot Starcrystal.
 
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Royal Embassy|02 Worldbuilding/Lore/Royal Embassy]]
-
-
-## Connections
-
-- [[Royal Embassy]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

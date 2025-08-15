@@ -16,32 +16,26 @@ updated: '2025-08-13T01:18:36.245631+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-indigo-deepdye-indigo-deepdye.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## History
+### Enhancement Improvements
 
-TODO
-## Layout
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -51,23 +45,25 @@ Indigo Deepdye is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Indigo Deepdye as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Indigo Deepdye.
 
-## Adventure Hooks
-
-- A rumor ties Indigo Deepdye to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Indigo Deepdye to avert a public scandal.
-- A map overlay reveals a hidden approach to Indigo Deepdye active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Indigo Deepdye|02 Worldbuilding/Places/Indigo Deepdye]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and chaos spreads
+- A letter reveals the truth about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

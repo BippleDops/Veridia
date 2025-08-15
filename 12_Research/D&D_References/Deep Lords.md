@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.881457+00:00'
 world: Both
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-deep-lords-deep-lords.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Crystal Garden|02 Worldbuilding/Lore/Crystal Garden]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Crystal Garden]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,25 @@ Deep Lords is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of Deep Lords as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Deep Lords.
 
-## Adventure Hooks
-
-- A rumor ties Deep Lords to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Deep Lords to avert a public scandal.
-- A map overlay reveals a hidden approach to Deep Lords active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

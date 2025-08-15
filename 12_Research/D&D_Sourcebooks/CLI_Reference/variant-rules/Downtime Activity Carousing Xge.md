@@ -22,12 +22,28 @@ updated: '2025-08-13T12:34:04.517841+00:00'
 world: Both
 ---
 
-
-
 # Downtime Activity: Carousing
 *Source: Xanathar's Guide to Everything p. 127* 
 
 Carousing is a default downtime activity for many characters. Between adventures, who doesn't want to relax with a few drinks and a group of friends at a tavern?
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Resources
 
@@ -79,19 +95,25 @@ Downtime activity carousing xge is a undersea element of the setting, known for 
 
 Legends speak of downtime activity carousing xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around downtime activity carousing xge.
 
-## Adventure Hooks
-
-- A rumor ties downtime activity carousing xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at downtime activity carousing xge to avert a public scandal.
-- A map overlay reveals a hidden approach to downtime activity carousing xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

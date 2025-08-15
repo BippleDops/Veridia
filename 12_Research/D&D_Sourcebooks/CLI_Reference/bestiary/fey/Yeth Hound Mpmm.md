@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:05.534901+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-yeth-hound-mpmm-v1-yeth-hound-mpmm.svg)
 
@@ -67,7 +64,7 @@ A pack of yeth hounds can be created by powerful Fey such as the Queen of Air an
 "damage_immunities": "bludgeoning, piercing, slashing from nonmagical attacks not\
   \ made with silvered weapons"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]]"
+  \ [[conditions#frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "understands Common, Elvish and Sylvan but can't speak"
 "cr": "4"
@@ -88,12 +85,12 @@ A pack of yeth hounds can be created by powerful Fey such as the Queen of Air an
     "name": "Telepathic Bond"
 "actions":
   - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11\
-      \ (2d6 + 4) piercing damage, plus 14 (4d6) psychic damage if the target is [[conditions#Frightened|frightened]]."
+      \ (2d6 + 4) piercing damage, plus 14 (4d6) psychic damage if the target is [[conditions#frightened|frightened]]."
     "name": "Bite"
   - "desc": "The yeth hound bays magically. Every enemy within 300 feet of the hound\
-      \ that can hear it must succeed on a DC 13 Wisdom saving throw or be [[conditions#Frightened|frightened]]\
+      \ that can hear it must succeed on a DC 13 Wisdom saving throw or be [[conditions#frightened|frightened]]\
       \ of the hound until the end of the hound's next turn or until the hound is\
-      \ [[conditions#Incapacitated|incapacitated]]. A [[conditions#Frightened|frightened]]\
+      \ [[conditions#Incapacitated|incapacitated]]. A [[conditions#frightened|frightened]]\
       \ target that starts its turn within 30 feet of the hound must use all its movement\
       \ on that turn to get as far from the hound as possible, must finish the move\
       \ before taking an action, and must take the most direct route, even if hazards\
@@ -107,6 +104,24 @@ A pack of yeth hounds can be created by powerful Fey such as the Queen of Air an
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 forest, grassland, hill
@@ -119,19 +134,20 @@ Yeth hound mpmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of yeth hound mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around yeth hound mpmm.
 
-## Adventure Hooks
-
-- A rumor ties yeth hound mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at yeth hound mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to yeth hound mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

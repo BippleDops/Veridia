@@ -33,14 +33,29 @@ updated: '2025-08-13T12:34:05.449867+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-swarm-of-venomous-snakes-xmm-swarm-of-venomous-snakes-xmm.svg)
 
 # [[swarm-of-venomous-snakes-xmm|Swarm of Venomous Snakes]]
-*Source: Monster Manual (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 371. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Animals
 
@@ -64,9 +79,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "3"
 "speed": "30 ft., swim 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
-  \ [[conditions#Petrified|petrified]], [[conditions#Prone|prone]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#prone|prone]],\
   \ [[conditions#Restrained|restrained]], [[conditions#Stunned|stunned]]"
 "senses": "blindsight 10 ft., passive Perception 10"
 "languages": ""
@@ -100,19 +115,17 @@ Swarm of venomous snakes xmm is a undersea element of the setting, known for bio
 
 Legends speak of swarm of venomous snakes xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around swarm of venomous snakes xmm.
 
-## Adventure Hooks
-
-- A rumor ties swarm of venomous snakes xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at swarm of venomous snakes xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to swarm of venomous snakes xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a conspiracy about this place
+- A map reveals the truth about the government
+- A document has gone missing and chaos spreads

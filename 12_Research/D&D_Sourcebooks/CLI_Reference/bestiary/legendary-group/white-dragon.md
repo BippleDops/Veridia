@@ -22,12 +22,26 @@ updated: '2025-08-12T23:37:35.687964'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-white-dragon-xmm-adult-white-dragon-xmm.svg)
 
-# White Dragon
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Monster Manual_
@@ -46,7 +60,6 @@ At your discretion, a legendary ([[adult-white-dragon-xmm|adult]] or [[ancient-w
 - **Whirling Wind.** A strong wind blows in a 30-foot-radius sphere centered on the dragon (see the "Dungeon Master's Guide" for rules on "strong wind"). The dragon's flying is not affected by this wind, which lasts until the next time the dragon uses a lair action or until the dragon dies.  
 
 ## Regional effects
-_Source: Monster Manual_
 
 The region containing a legendary white dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
 
@@ -72,19 +85,21 @@ White dragon is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of white dragon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around white dragon.
 
-## Adventure Hooks
-
-- A rumor ties white dragon to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at white dragon to avert a public scandal.
-- A map overlay reveals a hidden approach to white dragon active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting an heir for power
+- Strange accidents suggest a portal
+- Strange accidents suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

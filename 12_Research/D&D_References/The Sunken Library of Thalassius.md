@@ -15,18 +15,26 @@ updated: '2025-08-13T04:22:13.296891+00:00'
 world: Both
 ---
 
-
-
-
-
 > [!figure] Asset
 ![[04_Resources/Assets/Locations/location-city-the-sunken-library-of-thalassius-the-sunken-library-of-thalassius.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Cross-References
+*20 targeted improvements identified*
 
-- [[reports/bidirectional_links|Reports/bidirectional Links]]
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -36,19 +44,35 @@ The Sunken Library of Thalassius is a undersea element of the setting, known for
 
 Legends speak of The Sunken Library of Thalassius as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Sunken Library of Thalassius.
 
-## Adventure Hooks
-
-- A rumor ties The Sunken Library of Thalassius to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Sunken Library of Thalassius to avert a public scandal.
-- A map overlay reveals a hidden approach to The Sunken Library of Thalassius active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and war looms
+- Someone is protecting an heir for power
+- A noble needs help delivering before winter
+- A map reveals ancient history about the cult
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

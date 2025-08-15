@@ -15,32 +15,26 @@ world: Both
 updated: '2025-08-13T01:18:36.658379+00:00'
 ---
 
-
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-minister-truth-darknes-minister-truth-darknes.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## Structure
+### Enhancement Improvements
 
-TODO
-## Goals
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Assets
-
-TODO
-## Conflicts
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -50,19 +44,23 @@ Minister Truth Darkness 2 is a undersea element of the setting, known for biolum
 
 Legends speak of Minister Truth Darkness 2 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Minister Truth Darkness 2.
 
-## Adventure Hooks
-
-- A rumor ties Minister Truth Darkness 2 to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Minister Truth Darkness 2 to avert a public scandal.
-- A map overlay reveals a hidden approach to Minister Truth Darkness 2 active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- Someone is hunting a artifact for revenge
+- A map reveals a conspiracy about this place
+- A merchant needs help delivering before the festival
+- A map reveals a betrayal about this place

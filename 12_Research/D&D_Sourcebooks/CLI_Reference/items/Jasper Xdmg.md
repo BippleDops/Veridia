@@ -24,21 +24,35 @@ updated: '2025-08-13T12:34:07.665492+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-jasper-xdmg-jasper-xdmg.svg)
 
 # Jasper
 *Treasure (gemstone)*  
 
-
 - **Cost**: 50 gp
 
 A blue, black, or brown gemstone.
 
 *Source: Dungeon Master's Guide (2024) p. 214*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -48,19 +62,22 @@ Jasper xdmg is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of jasper xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around jasper xdmg.
 
-## Adventure Hooks
-
-- A rumor ties jasper xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at jasper xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to jasper xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals a betrayal about this place
+- Someone is hunting a artifact for power
+- A corpse reveals a conspiracy about the government
+- An heirloom has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

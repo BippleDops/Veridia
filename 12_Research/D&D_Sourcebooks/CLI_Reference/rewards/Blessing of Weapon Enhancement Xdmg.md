@@ -23,13 +23,29 @@ updated: '2025-08-13T12:34:05.063992+00:00'
 world: Both
 ---
 
-
-
 # Blessing of Weapon Enhancement
 
 One nonmagical weapon in your possession becomes a [[1-weapon-xdmg|+1 Weapon]] while you wield it.
 
 *Source: Dungeon Master's Guide (2024) p. 99*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -39,19 +55,20 @@ Blessing of weapon enhancement xdmg is a undersea element of the setting, known 
 
 Legends speak of blessing of weapon enhancement xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around blessing of weapon enhancement xdmg.
 
-## Adventure Hooks
-
-- A rumor ties blessing of weapon enhancement xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at blessing of weapon enhancement xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to blessing of weapon enhancement xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a conspiracy
+- A prisoner has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

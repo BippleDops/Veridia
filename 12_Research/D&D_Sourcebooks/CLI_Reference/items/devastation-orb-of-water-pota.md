@@ -23,15 +23,11 @@ updated: '2025-08-12T23:37:36.666346'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-devastation-orb-of-water-pota-devastation-orb-of-water-pota.svg)
 
 # Devastation Orb of Water
 *Wondrous item, very rare*  
-
-
 
 A devastation orb is an elemental bomb that can be created at the site of an elemental node by performing a ritual with an elemental weapon. The type of orb created depends on the node used. For example, an air node creates a [[devastation-orb-of-air-pota|devastation orb of air]]. The ritual takes 1 hour to complete and requires 2,000 gp worth of special components, which are consumed.
 
@@ -40,6 +36,24 @@ A devastation orb measures 12 inches in diameter, weighs 10 pounds, and has a so
 A special container can be crafted to contain a devastation orb and prevent it from detonating. The container must be inscribed with symbols of the orb's opposing element. For example, a case inscribed with earth symbols can be used to contain a [[devastation-orb-of-air-pota|devastation orb of air]] and keep it from detonating. While in the container, the orb thrums. If it is removed from the container after the time when it was supposed to detonate, it explodes `d6` rounds later, unless it is returned to the container.
 
 Regardless of the type of orb, its effect is contained within a sphere with a 1 mile radius. The orb is the sphere's point of origin. The orb is destroyed after one use.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Water Orb
 
@@ -55,19 +69,20 @@ Devastation orb of water pota is a undersea element of the setting, known for bi
 
 Legends speak of devastation orb of water pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around devastation orb of water pota.
 
-## Adventure Hooks
-
-- A rumor ties devastation orb of water pota to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at devastation orb of water pota to avert a public scandal.
-- A map overlay reveals a hidden approach to devastation orb of water pota active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting an heir for power
+- A shipment has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

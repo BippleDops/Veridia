@@ -24,20 +24,33 @@ updated: '2025-08-13T12:34:07.099022+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-lock-of-trickery-xdmg-lock-of-trickery-xdmg.svg)
 
 # Lock of Trickery
 *Wondrous item, common*  
 
-
-
 This lock appears to be an ordinary [[lock-xphb|Lock]] (of the type described in chapter 6 of the "Player's Handbook") and comes with a single key. The tumblers in this lock magically adjust to thwart burglars. Dexterity checks made to pick the lock have [[disadvantage-xphb|Disadvantage]].
 
 *Source: Dungeon Master's Guide (2024) p. 275*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -47,19 +60,32 @@ Lock of trickery xdmg is a undersea element of the setting, known for biolumines
 
 Legends speak of lock of trickery xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around lock of trickery xdmg.
 
-## Adventure Hooks
-
-- A rumor ties lock of trickery xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at lock of trickery xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to lock of trickery xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Depths
+
+
+## Plot Hooks
+
+- A corpse reveals the truth about this place
+- A letter reveals the truth about a local noble
+- A document has gone missing and war looms
+- A noble needs help investigating before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -17,7 +17,23 @@ world: Both
 ---
 
 
-# Faction Relationship Web
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+
+
 ## Political Alliance & Conflict Map
 
 ```
@@ -40,22 +56,14 @@ world: Both
     └───────────────┘             └───────────────┘
             │                               │
             │ INFILTRATED                   │ INFLUENCED
-            │                               │
-    ┌───────────────┐             ┌───────────────┐
     │ Shadow         │             │ Purist        │
     │ Conspiracy     │───CONFLICT───│ Coalition     │
     │ (Hidden)       │             │ (Extremist)   │
-    └───────────────┘             └───────────────┘
-            │                               │
             │ SEEKS TO                      │ OPPOSES
             │ CONTROL                       │
-            │                               │
-    ┌───────────────┐             ┌───────────────┐
     │ Deep Mother    │             │ Crystal       │
     │ Cultists       │────SERVES────│ Wardens       │
     │ (Corrupted)    │             │ (Defenders)   │
-    └───────────────┘             └───────────────┘
-```
 
 ### Relationship Legend
 
@@ -68,7 +76,6 @@ world: Both
 
 ### Faction Power Levels
 
-```
 HIGH POWER     MEDIUM POWER    LOW POWER       UNKNOWN POWER
 ██████████     █████░░░░░     ██░░░░░░░░     ░░░░░░░░░░
 
@@ -80,13 +87,11 @@ of Winds       Guilds
 
 Shadow         
 Conspiracy     
-```
 
 ### Trust & Hostility Meter
 
 **Player Character Relationships:**
 
-```
                 TRUST LEVEL                 HOSTILITY LEVEL
                                           
 Parliament:     █████░░░░░ (50%)         ░░░░░░░░░░ (0%)
@@ -96,7 +101,6 @@ Crystal Ward:   ██████░░░░ (60%)         ░░░░░░�
 Shadow Cons:    ░░░░░░░░░░ (0%)          ██████████ (100%)
 Purist Coal:    ██░░░░░░░░ (20%)         ██████░░░░ (60%)
 Deep Cultists:  ░░░░░░░░░░ (0%)          ██████████ (100%)
-```
 
 ### Recent Developments
 
@@ -118,7 +122,7 @@ Deep Cultists:  ░░░░░░░░░░ (0%)          ██████�
 ### Faction Goals & Methods
 
 **Parliament of Echoes:**
-- Goal: Maintain democratic governance
+- Goal: Maintain democratic goverce
 - Method: Legal proceedings, public transparency
 - Challenge: Shadow infiltration
 
@@ -169,7 +173,6 @@ Deep Cultists:  ░░░░░░░░░░ (0%)          ██████�
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -177,3 +180,13 @@ Deep Cultists:  ░░░░░░░░░░ (0%)          ██████�
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## 07_Player_Resources Specific Content
+
+Contextual improvement based on 07_Player_Resources
+
+
+## 07_Player_Resources Specific Content
+
+Contextual improvement based on 07_Player_Resources

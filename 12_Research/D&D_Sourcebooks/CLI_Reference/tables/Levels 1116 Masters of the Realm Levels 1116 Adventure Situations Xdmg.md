@@ -1,0 +1,94 @@
+# levels-1116-masters-of-the-realm-levels-1116-adventure-situations-xdmg
+
+---
+title: levels 1116 masters of the realm levels 1116 adventure situations xdmg
+aliases:
+- "Levels 11\u201316": "Masters of the Realm; Levels 11\u201316 Adventure Situations"
+type: note
+tags:
+- research
+- world/both
+- active
+- note
+- status/in-progress
+- ttrpg-cli/compendium/src/5e/xdmg
+created: 2025-07-23
+modified: '2025-08-14'
+status: active
+cssclasses: json5e-note
+obsidianUIMode: preview
+updated: '2025-08-12T23:37:33.620523'
+world: Both
+---
+
+# Levels 11–16: Masters of the Realm; Levels 11–16 Adventure Situations
+*Source: Dungeon Master's Guide (2024) p. 106* 
+
+**Levels 11–16 Adventure Situations**
+
+`dice: [](levels-1116-masters-of-the-realm-levels-1116-adventure-situations-xdmg.md#^levels-1116-adventure-situations)`
+
+| dice: 1d12 | Situation |
+|------------|-----------|
+| 1 | A portal to the Abyss opens in a cursed location and spews demons into the world. |
+| 2 | A band of hunting giants has driven its prey—enormous beasts—into pastureland. |
+| 3 | An adult dragon's lair is transforming an expanse into an environment inhospitable to the other creatures living there. |
+| 4 | A long-lost journal describes an incredible journey to a hidden subterranean realm full of magical wonders. |
+| 5 | Cultists hope to persuade a dragon to undergo the rite that will transform it into a dracolich. |
+| 6 | The ruler of the realm is sending an emissary to a hostile neighbor to negotiate a truce, and the emissary needs protection. |
+| 7 | A castle or city has been drawn into another plane of existence. |
+| 8 | A storm tears across the land, with a mysterious flying citadel in the eye of the storm. |
+| 9 | Two parts of a magic item are in the hands of bitter enemies; the third piece is lost. |
+| 10 | Evil cultists gather from around the world to summon a monstrous god or alien entity. |
+| 11 | A tyrannical ruler outlaws the use of magic without official sanction. A secret society of spellcasters seeks to oust the tyrant. |
+| 12 | During a drought, low water levels in a lake reveal previously unknown ancient ruins that contain a powerful evil. |
+^levels-1116-adventure-situations
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
+## Player-Facing Summary
+
+Levels 1116 masters of the realm levels 1116 adventure situations xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+
+## Lore Details
+
+Legends speak of levels 1116 masters of the realm levels 1116 adventure situations xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around levels 1116 masters of the realm levels 1116 adventure situations xdmg.
+
+## DM Notes
+
+Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
+
+## Related
+
+*Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

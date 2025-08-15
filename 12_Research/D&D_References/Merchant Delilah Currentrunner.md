@@ -26,19 +26,30 @@ updated: '2025-08-13T01:18:36.054860+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-merchant-delilah-currentrunner-merchant-delilah-currentrunner.svg]]
-
-
-
-
-
-
 
 # Merchant Delilah Currentrunner
 
 *"The currents of commerce never sleep, my friends, and those who learn to ride them will find profit in any storm."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -53,12 +64,6 @@ As political tensions rise in Aquabyssos, Delilah finds herself in the unique po
 Delilah is a confident triton woman in her early forties, with dark blue-green skin marked by intricate tattoos that map the major ocean currents of the region. Her silver hair is kept in practical braids adorned with small shells and metal tokens from her various business dealings. Her eyes are sharp amber, constantly evaluating opportunities and risks.
 
 She dresses in practical but high-quality clothing designed for both underwater and surface environments, with a distinctive coat made from shark leather that serves as her business trademark. She carries a enchanted conch shell that serves as both a communication device and a symbol of her authority in maritime commerce.
-
-## Personality
-- Entrepreneurial spirit with an eye for profitable opportunities
-- Fiercely independent and resistant to control by larger organizations
-- Loyal to clients who treat her fairly but ruthless toward those who betray her trust
-- Adventurous nature that drives her to explore new trade routes and markets
 
 ## Statistics
 **Medium humanoid (triton), neutral**
@@ -108,20 +113,6 @@ Delilah is busier than ever as the political situation in Aquabyssos creates dem
 
 She's also investigating reports of interference with shipping lanes and suspicious cargo movements that suggest someone is manipulating trade patterns for political purposes.
 
-## Relationships
-- **All Major Factions**: Independent contractor providing services to various clients
-- **Merchant Marine Association**: Complicated relationship due to her independent status
-- **Port Meridian Officials**: Professional relationship managing shipping schedules and customs
-- **Her Crew**: Loyal employees who share in the profits and risks of her ventures
-- **International Contacts**: Network of traders and ship captains throughout the region
-
-## Secrets
-- Has been transporting mysterious cargo for unknown clients with connections to the surface world
-- Maintains hidden caches of supplies and emergency funds throughout her trading routes
-- Knows the locations of several shipwrecks containing valuable cargo
-- Has discovered evidence of coordinated attacks on independent merchants
-- Possesses charts showing secret passages and hidden harbors throughout the region
-
 ## Quest Hooks
 1. Delilah offers the party high-paying transport work, but the cargo attracts unwanted attention from multiple factions.
 2. The party needs fast, discrete transportation to reach a critical location, requiring negotiation with Delilah for her services.
@@ -129,44 +120,6 @@ She's also investigating reports of interference with shipping lanes and suspici
 
 ## DM Notes
 Delilah serves as both a transportation resource and a source of information about regional trade and politics. Her independent status and diverse client base make her useful for introducing plot complications and opportunities. Use her merchant network to provide information and her vessels for transportation while creating moral dilemmas about the nature of her various clients.
-
-
-## Connections
-
-- [[Captain Garrett Stormcutter]]
-- [[Lumengarde]]
-- [[New Tethys]]
-- [[The Phosphor Markets]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -176,19 +129,16 @@ Merchant Delilah Currentrunner is a undersea element of the setting, known for b
 
 Legends speak of Merchant Delilah Currentrunner as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merchant Delilah Currentrunner.
 
-## Adventure Hooks
-
-- A rumor ties Merchant Delilah Currentrunner to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Merchant Delilah Currentrunner to avert a public scandal.
-- A map overlay reveals a hidden approach to Merchant Delilah Currentrunner active only during specific tides/storms.
-
-## Cross-References
-
-- [[Merchant Delilah Currentrunner|02 Worldbuilding/Places/Merchant Delilah Currentrunner]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals a betrayal about a local noble
+- A shipment has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

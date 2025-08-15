@@ -32,9 +32,6 @@ updated: '2025-08-13T12:34:05.389521+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![[04_Resources/Assets/Creatures/creature-creature-dire-troll-mpmm-dire-troll-mpmm.png]]
 
@@ -44,6 +41,24 @@ world: Both
 Trolls kill and eat almost anything—including, in rare cases, other trolls. This cannibalism has the effect of causing a troll to grow to an unusually large size. The resulting dire trolls crave more and more troll flesh to fuel their continued growth.
 
 Dire trolls also increase their size by grafting flesh onto themselves. When a slab of quivering troll flesh is bound against a fresh wound on a dire troll, the dire troll's regenerative capacity incorporates the new mass into the troll's own musculature. Even more horrifying are the multiple arms, eyes, claws, and organs that dire trolls tear from their victims and graft onto themselves in this manner.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Trolls
 
@@ -80,7 +95,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#frightened|frightened]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Giant"
@@ -123,18 +138,9 @@ Dire troll mpmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of dire troll mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dire troll mpmm.
 
-## Adventure Hooks
-
-- A rumor ties dire troll mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dire troll mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to dire troll mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

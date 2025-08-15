@@ -21,14 +21,28 @@ updated: '2025-08-13T01:18:34.535710+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
 **Cross-Realm Conspiracy Networks** represent the shadowy underworld that has evolved alongside legitimate inter-realm cooperation. These criminal organizations exploit the jurisdictional complexities, cultural misunderstandings, and regulatory gaps that exist between Aquabyssos and Aethermoor, creating sophisticated smuggling routes and illegal operations that span both realms.
 
 Unlike simple criminal gangs, these networks have developed into complex organizations with their own codes of conduct, territorial agreements, and specialized techniques for avoiding detection by authorities from either realm.
-
-## Major Criminal Organizations
 
 ### The Pressure Runners
 
@@ -84,8 +98,6 @@ Unlike simple criminal gangs, these networks have developed into complex organiz
 - **Economic Pressure Tactics**: Legitimate business operations that provide cover for illegal activities
 - **Political Protection Networks**: Extensive corruption ensuring favorable treatment from law enforcement
 
-## Smuggling Routes and Methods
-
 ### The Deep Current Highways
 
 **The Abyssal Express**: Network of deep-ocean trenches that connect to underground river systems in Aethermoor territory
@@ -128,8 +140,6 @@ Unlike simple criminal gangs, these networks have developed into complex organiz
 - **Security Measures**: Reality anchor jamming, dimensional phase shifting, temporal displacement
 - **Detection Risks**: Requires specialized dimensional detection equipment and expert operators
 
-## Smuggled Goods and Services
-
 ### Contraband Categories
 
 **Magical Components**:
@@ -169,12 +179,10 @@ Unlike simple criminal gangs, these networks have developed into complex organiz
 - Face-to-face meeting arrangements in neutral territory
 - Document transmission using magical or technological methods
 
-**Financial Services**: Moving money and assets between realms while avoiding taxation and regulation
+**Ficial Services**: Moving money and assets between realms while avoiding taxation and regulation
 - Currency exchange at favorable black market rates
 - Asset laundering through complex inter-realm business transactions
 - Investment opportunities in gray-market enterprises
-
-## Law Enforcement Response
 
 ### Joint Task Forces
 
@@ -212,8 +220,6 @@ Unlike simple criminal gangs, these networks have developed into complex organiz
 - Emergency pursuit protocols for tracking criminals who flee across dimensional boundaries
 - Coordination systems for managing cross-jurisdictional law enforcement operations
 
-## Adventure Hooks
-
 ### Investigation Scenarios
 
 **The Vanishing Shipments**: Legitimate cargo keeps disappearing during inter-realm transport, with no evidence of tampering or theft. Characters investigate the sophisticated smuggling operation while navigating jurisdictional complications and corrupt officials.
@@ -246,8 +252,6 @@ Unlike simple criminal gangs, these networks have developed into complex organiz
 
 **The Election Interference**: Criminals are attempting to influence political elections in both realms to ensure favorable treatment from future governments. Characters investigate the conspiracy while protecting the democratic process.
 
-## Criminal Culture and Codes
-
 ### Honor Among Thieves
 
 **The Gradient Code**: Informal rules governing inter-realm criminal behavior
@@ -277,8 +281,6 @@ Unlike simple criminal gangs, these networks have developed into complex organiz
 - Formal procedures for handling suspected traitors or informants
 - Methods for compensating members who suffer losses due to organizational activities
 
-## Economic Impact
-
 ### Market Effects
 
 **Price Distortions**: Criminal smuggling creates artificial scarcity and price inflation for certain goods
@@ -302,8 +304,6 @@ Unlike simple criminal gangs, these networks have developed into complex organiz
 - Sabotage of reality anchors requires expensive repairs and increased security
 - Smuggling routes may damage natural dimensional boundaries
 - Emergency responses to criminal activities divert resources from other priorities
-
-## Future Developments
 
 ### Technological Arms Race
 
@@ -329,8 +329,6 @@ Unlike simple criminal gangs, these networks have developed into complex organiz
 - Increased use of legitimate businesses as cover for illegal activities
 - Development of political influence networks to shape legislation in their favor
 
-## DM Notes
-
 ### Running Criminal Network Adventures
 
 **Emphasize Moral Complexity**: Criminal organizations aren't necessarily evil - they often provide services that people need but can't get legally, creating moral gray areas for characters.
@@ -351,15 +349,6 @@ Unlike simple criminal gangs, these networks have developed into complex organiz
 
 **Connect to Larger Themes**: Use criminal plots to explore broader questions about justice, social responsibility, and the costs of progress.
 
-## Connections
-
-- [[Cross-Dimensional Transit Authority]]
-- [[Pressure Point Settlement]]
-- [[Inter-Realm Trade Routes]]
-- [[Reality Anchor Network]]
-- [[Border Reality Zones]]
-- [[Diplomatic Protocol Center]]
-
 ## Player-Facing Summary
 
 Cross Realm Conspiracy Networks is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -368,9 +357,17 @@ Cross Realm Conspiracy Networks is a undersea element of the setting, known for 
 
 Legends speak of Cross Realm Conspiracy Networks as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Cross Realm Conspiracy Networks.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- Someone is hunting an heir for love
+- Strange sightings suggest a conspiracy

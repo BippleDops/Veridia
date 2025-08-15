@@ -22,14 +22,30 @@ updated: '2025-08-13T12:34:05.019641+00:00'
 world: Both
 ---
 
-
-
 # Introduction
 *Source: Lost Mine of Phandelver, p. 2* 
 
 This book is written for the Dungeon Master. It contains a complete Dungeons & Dragons adventure, as well as descriptions for every creature and magic item that appears in the adventure. It also introduces the world of the Forgotten Realms, one of the game's most enduring settings, and it teaches you how to run a D&D game.
 
 The smaller book that accompanies this one (hereafter called "the rulebook") contains the rules you need to adjudicate situations that arise during the adventure.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Running the Adventure
 
@@ -60,7 +76,6 @@ Many players of Dungeons & Dragons find that being the DM is the best part of th
 > [!note] Rules to Game By
 > 
 > As the Dungeon Master, you are the final authority when it comes to rules questions or disputes. Here are some guidelines to help you arbitrate issues as they come up.
-> 
 > - **When in doubt, make it up!.** It's better to keep the game moving than to get bogged down in the rules.  
 > - **It's not a competition.** The DM isn't competing against the player characters. You're there to run the monsters, referee the rules, and keep the story moving.  
 > - **It's a shared story.** It's the group's story, so let the players contribute to the outcome through the actions of their characters. Dungeons & Dragons is about imagination and coming together to tell a story as a group. Let the players participate in the storytelling.  
@@ -153,13 +168,9 @@ You can let players invent their own reasons for visiting Phandalin, or you can 
 The characters are in the city of Neverwinter when their dwarf patron and friend, [[/03_Mechanics/CLI/bestiary/npc/gundren-rockseeker-lmop|Gundren Rockseeker]], hires them to escort a wagon to Phandalin. Gundren has gone ahead with a warrior, [[/03_Mechanics/CLI/bestiary/npc/sildar-hallwinter-lmop|Sildar Hallwinter]], to attend to business in the town while the characters follow with the supplies. The characters will be paid 10 gp each by the owner of Barthen's Provisions in Phandalin when they deliver the wagon safely to that trading post.
 
 > [!note] Roleplaying and Inspiration
-> 
 > One of the things that you can do as the DM is reward players for roleplaying their characters well.
-> 
 > Each of the characters included in this set has two personality traits (one positive and one negative), an ideal, a bond, and a flaw. These elements can make the character easier and more fun to roleplay. Personality traits provide a glimpse into the character's likes, dislikes, accomplishments, fears, attitude, or mannerisms. An ideal is something that the character believes in or strives for above all else. A character's bond represents a connection to a person, place, or event in the world—someone the character cares about, a place the holds a special connection, or a treasured possession. A flaw is a characteristic that someone else can exploit to bring the character to ruin or cause the character to act against his or her best interests.
-> 
 > When a player roleplays a negative personality trait or gives in to the drawbacks presented by a bond or flaw, you can give that player one inspiration as a reward. A player with inspiration can use it in a situation where his or her character's personality traits, ideal, or bond relate to what's happening. Spending inspiration gives the character advantage on one ability check, attack roll, or saving throw.
-> 
 > A character can have only one inspiration at a time.
 ^roleplaying-and-inspiration
 
@@ -187,19 +198,18 @@ The regional map shows just a tiny part of this vast world, in a region called t
 
 Legends speak of 1 introduction as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 1 introduction.
 
-## Adventure Hooks
-
-- A rumor ties 1 introduction to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 1 introduction to avert a public scandal.
-- A map overlay reveals a hidden approach to 1 introduction active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and chaos spreads
+- A journal reveals the truth about a local noble
+- A merchant needs help stealing before the festival
+- A document has gone missing and truth emerges

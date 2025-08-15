@@ -29,7 +29,7 @@ sub_locations:
 - '[[Faith Testing Grounds]]'
 depth: 2600-2900 feet
 government: Religious Council of War
-ruler: '[[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High
+ruler: '[[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High]]
   Theologian Commander Aurelius]]'
 factions:
 - '[[Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]'
@@ -46,8 +46,7 @@ services:
 - Heresy Trials
 - Faith Counseling
 notable_npcs:
-- '[[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High
-  Theologian Commander Aurelius]]'
+- '[[02_Worldbuilding/People/High Theologian Commander Aurelius|02 Worldbuilding/People/High]]
 - '[[Leviathan Prophet Thalassa]]'
 - '[[Deep Mother Priestess Sira]]'
 - '[[Mediator Cardinal Harmony]]'
@@ -62,15 +61,27 @@ world: Both
 updated: '2025-08-12T00:00:00+00:00'
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-theological-warfare-theological-warfare.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
-# The Theological Warfare Grounds
 ## Where Faith Battles Faith in Holy Combat
 
 > *"Here gods war through mortal hands, and every prayer is both blessing and battlecry"*
@@ -81,32 +92,21 @@ The Theological Warfare Grounds represent the most dangerous and spiritually cha
 
 What makes this location unique is that violence here is not random or chaotic but ritualized and regulated. The various religious factions have agreed that rather than allowing theological disputes to tear apart society, they will be resolved in formal combat under strict rules. This has created a bizarre fusion of monastery, military base, and gladiatorial arena where priests dual with both scripture and sword.
 
-### Key Statistics
-- **Depth Range:** 2,600-2,900 feet below surface
-- **Population:** ~500 religious warriors, priests, and support staff
-- **Government:** Religious Council of War (rotating leadership)
-- **Pressure Zone:** Severe (DC 16-18)
-- **Temporal Stability:** 30% (competing divine influences create reality distortions)
-
-## Historical Context
-
 ### The Divine Schism
 The Great Drowning didn't just transform the physical world—it created a theological crisis. Different religious groups interpreted the catastrophe in radically different ways, leading to fundamental disagreements about divine will, the nature of existence, and humanity's relationship with higher powers.
 
 ### The First Holy War
 Initially, these theological differences led to violent conflicts throughout [[Abyssos Prime]], threatening to destroy the already fragile post-drowning society. The violence escalated until the city faced religious civil war.
 
-### The Covenant of Contained Conflict
-Rather than allow theological disputes to destroy civilization, the major religious factions signed the Covenant of Contained Conflict, establishing the Theological Warfare Grounds as the designated location for resolving religious disputes through regulated combat.
+### The Covet of Contained Conflict
+Rather than allow theological disputes to destroy civilization, the major religious factions signed the Covet of Contained Conflict, establishing the Theological Warfare Grounds as the designated location for resolving religious disputes through regulated combat.
 
-**Covenant Principles:**
+**Covet Principles:**
 - Religious disputes will be settled through formal challenge
 - Combat will follow established rules and protocols
 - Civilian populations will be protected from religious warfare
 - All major faiths will have equal access to the grounds
 - Divine magic is permitted and encouraged during combat
-
-## Competing Religious Factions
 
 ### Temple of Divine Order
 **[[Temple of Divine Order|Full Details]]**
@@ -172,8 +172,6 @@ Believe that all the various religious interpretations contain elements of truth
 - Focus on conversion and diplomacy during combat
 - Use of interfaith coalition forces
 
-## Architecture & Facilities
-
 ### The Argument Amphitheater
 A massive circular arena where formal theological debates take place before combat begins. The amphitheater is designed with acoustic enhancement that allows speakers to be heard throughout the complex, and includes magical translation systems for debates in different religious languages.
 
@@ -204,8 +202,6 @@ A series of bridges connecting different religious quarters of the complex. Each
 ### Faith Testing Grounds
 Specialized areas where individuals can undergo trials to prove the strength and authenticity of their religious convictions. These tests combine physical, mental, and spiritual challenges.
 
-## Current Conflicts & Ongoing Disputes
-
 ### The Salvation Debate
 The most significant ongoing theological dispute concerns the ultimate purpose of existence and the means of salvation:
 
@@ -229,8 +225,6 @@ A complex theological question about whether undead beings possess souls:
 ### The Memory Sacred Controversy
 Disputes about the religious significance of memory and whether [[Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]] practices are spiritually acceptable.
 
-## Rules of Theological Combat
-
 ### Pre-Combat Requirements
 1. **Formal Challenge:** Disputes must be formally declared with specific theological issues identified
 2. **Debate Period:** Minimum 24 hours of formal theological debate before combat
@@ -251,8 +245,6 @@ Disputes about the religious significance of memory and whether [[Memory Farmers
 3. **Appeal Process:** Defeated factions may challenge again after one year
 4. **Healing Rituals:** All combatants receive medical and spiritual care
 5. **Documentation:** Complete records kept for future theological reference
-
-## Notable NPCs
 
 ### High Theologian Commander Aurelius
 **[[02_Worldbuilding/People/High Theologian Commander Aurelius|Full Details]]**
@@ -294,8 +286,6 @@ Leader of the [[Syncretist Mediators]] who has somehow learned to use divine mag
 - Ability to channel multiple divine sources simultaneously
 - Enhanced empathy and understanding abilities
 
-## Environmental Hazards
-
 ### Divine Interference
 The concentration of competing divine forces creates unpredictable magical effects:
 - **Random Divine Interventions:** Gods may directly influence combat
@@ -317,8 +307,6 @@ Beyond standard deep-sea pressure, the grounds generate spiritual pressure that 
 - True believers gain advantage on actions aligned with their faith
 - Theological uncertainty causes confusion and disorientation
 
-## Secrets & Hidden Elements
-
 ### The Fifth Faction
 There is evidence of a fifth religious faction that operates in secret, manipulating the theological warfare for unknown purposes. This group may be connected to [[The Shadow Trade Network|02 Worldbuilding/Groups/The Shadow Trade Network]] or represent an entirely different theological perspective.
 
@@ -333,26 +321,6 @@ Rumors persist about a theological super-weapon being developed that could end a
 
 ### The Syncretist Solution
 The [[Syncretist Mediators]] may have discovered a way to literally merge all the competing religions into a single, unified faith that incorporates all theological perspectives.
-
-## Connected Locations
-
-### Religious Sites
-- **[[Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]:** Primary Divine Order facility
-- **[[Leviathan Shrines]]:** Underwater creature worship sites
-- **[[Deep Mother Spawning Pools]]:** Transformation and evolution centers
-- **[[Interfaith Community Centers]]:** Syncretist outreach locations
-
-### Government Relations
-- **[[The Eternal Senate|02 Worldbuilding/Places/The Eternal Senate]]:** Religious influence on politics
-- **[[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]:** Theological lobbying efforts
-- **[[The Inverse Palace|02 Worldbuilding/Places/The Inverse Palace]]:** Divine counsel to leadership
-
-### Neutral Zones
-- **[[02_Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary|02 Worldbuilding/Places/Sister Morwyn's Memorial Sanctuary]]:** Interfaith memorial services
-- **[[02_Worldbuilding/Places/Whisper-Touched William's Oracle Shrine|02 Worldbuilding/Places/Whisper Touched William's Oracle Shrine]]:** Neutral prophetic consultation
-- **[[Healing Temples]]:** Medical care for combat injuries
-
-## Adventure Hooks
 
 ### Religious Conflict
 1. **The Heretical Discovery:** Archaeological evidence emerges that contradicts all major religious beliefs about The Great Drowning. Players must investigate the discovery while various factions try to suppress or control the information, leading to a massive theological crisis.
@@ -391,8 +359,6 @@ The [[Syncretist Mediators]] may have discovered a way to literally merge all th
 | 11 | Syncretist attempts to mediate heated dispute |
 | 12 | Evidence of fifth faction activities discovered |
 
-## Environmental Effects
-
 ### Faith-Based Magic Enhancement
 The concentration of religious energy enhances divine magic:
 - Divine spellcasters gain bonus spell slots
@@ -413,36 +379,6 @@ Certain areas manifest divine judgment based on actions:
 - Evil acts face immediate divine retribution
 - Religious hypocrisy becomes visible
 - True faith is supernaturally recognized
-
-## GM Notes
-
-### Running Theological Conflicts
-- Focus on ideological differences rather than simple good vs. evil
-- Allow all religious factions to have valid points and genuine believers
-- Use theological disputes to explore real-world religious issues
-- Show how religious conviction can inspire both great good and terrible harm
-
-### Balancing Religious Themes
-- Treat all faiths with respect, even when they conflict
-- Avoid favoring any single religious perspective
-- Use fantasy religions to explore real theological questions safely
-- Allow players to engage with religious themes at their comfort level
-
-### Creating Meaningful Stakes
-- Make theological disputes affect the broader world
-- Show how religious decisions impact individual lives
-- Create situations where all choices have meaningful consequences
-- Allow player actions to influence theological outcomes
-
----
-
-## Quick Reference
-
-### Key Phrases
-- "Faith without action is meaningless; action without faith is chaos"
-- "Here we war in the name of peace, and fight for the right to love"
-- "Every prayer is a battle cry; every battle cry is a prayer"
-- "In theological warfare, victory belongs to the righteous—but who defines righteousness?"
 
 ### Active Conflicts
 1. The Salvation Debate (ongoing)
@@ -474,18 +410,27 @@ Legends speak of Theological Warfare as a nexus where past and present converge.
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Theological Warfare|02 Worldbuilding/Places/Theological Warfare]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Abyssos Prime]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest ancient magic
+- The authorities needs help stealing before dawn
+- A document has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

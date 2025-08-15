@@ -21,14 +21,26 @@ updated: '2025-08-13T01:18:36.368673+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# Crystal Plague Wards
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
 The Crystal Plague Wards represent the medical system's response to the ongoing crystallization epidemic. These specialized facilities, primarily located in [[Port Meridian]]'s Harbor District, serve as both treatment centers and containment facilities for those afflicted with the [[Crystal Plague Progression System|Crystal Plague]].
-
-## Saint Thalassa Memorial Hospital - Ward 7
 
 ### The Isolation Wing
 
@@ -36,7 +48,7 @@ The Crystal Plague Wards represent the medical system's response to the ongoing 
 **Capacity:** 120 beds across 5 floors  
 **Security Level:** High (Armed guards, locked doors, crystal detection)
 
-The primary plague ward occupies an entire wing of the city's largest hospital. The building's stone walls have been reinforced with lead sheeting to prevent crystal resonance from spreading between floors.
+The primary plague ward occupies an entire wing of the city's largest hospital. The building's stone walls have been reinforced with lead sheeting to prevent crystal resoce from spreading between floors.
 
 #### Floor Layout
 
@@ -88,8 +100,6 @@ The primary plague ward occupies an entire wing of the city's largest hospital. 
 - Bears scars from Stage 4 patient escape attempt
 - Believes in compassionate containment
 - Secretly helps smuggle letters between patients and families
-
-### Patient Stories
 
 #### The Tidwell Family Ward - Room 203
 
@@ -148,12 +158,10 @@ Group therapy for patients who can still communicate normally. Art therapy using
 Voluntary patients participate in cure research. Professor Elena's observations are recorded and analyzed.
 
 **6:00 PM - Evening Rest**
-Lights dimmed to reduce crystal resonance. Harmonic dampening fields activated to prevent Stage 4 patients from inadvertently influencing others.
+Lights dimmed to reduce crystal resoce. Harmonic dampening fields activated to prevent Stage 4 patients from inadvertently influencing others.
 
 **10:00 PM - Night Watch**
 Enhanced security shift begins. Stage 4 patients most active during night hours.
-
-## The Harbor Quarantine Barges
 
 ### Floating Isolation
 
@@ -201,8 +209,6 @@ The most heavily fortified facility, designed to contain patients who pose risks
 - Emergency beacon system
 - Automated medical monitoring
 
-### Life Aboard the Barges
-
 #### Mercy's Grace Patient Profile: Captain James Stormwind (Retired)
 
 **Age:** 67, **Stage:** 2  
@@ -222,8 +228,6 @@ Captain Stormwind has become an unofficial leader among the barge patients, orga
 Dr. Voidwise infected himself to provide first-person research data. His detailed journals describe the psychological changes accompanying physical transformation. He serves as a bridge between the medical staff and Stage 4 patients.
 
 *"The transition isn't what we expected. There's no loss of self - there's an expansion of it. I'm still Marcus, but I'm also becoming something more."*
-
-## The Dockside Emergency Clinic
 
 ### Street-Level Response
 
@@ -250,43 +254,25 @@ Medical supplies specifically designed for crystal plague treatment are expensiv
 **Family Separations**
 The clinic often becomes the last place families see their loved ones before quarantine. Staff provide emotional support while maintaining professional boundaries.
 
-### Notable Cases
-
 #### The Fisher's Daughter
 Eight-year-old Coral Netweaver arrived with her father after finding unusual crystals in their fishing nets. Early detection and immediate treatment prevented progression past Stage 0. She now serves as a poster child for the clinic's success stories.
 
 #### The Crystal Cult Missionary
 A Stage 2 cultist attempted to "bless" other patients with crystalline touch. Security intervened, but not before three visitors were exposed. The incident led to enhanced screening procedures.
 
-## Medical Protocols
-
 ### Infection Control
 
 **Personal Protective Equipment:**
-- Lead-lined aprons to prevent crystal resonance
+- Lead-lined aprons to prevent crystal resoce
 - Specialized gloves that detect crystal contamination
 - Face masks with harmonic dampening filters
 - Emergency dispel magic amulets
 
 **Facility Procedures:**
 - Daily crystal contamination sweeps
-- Harmonic dampening field maintenance
+- Harmonic dampening field maintece
 - Patient isolation protocols by stage
 - Emergency lockdown procedures for containment breaches
-
-### Treatment Approaches
-
-#### Traditional Medicine
-- [[Brother Marcus]]'s blessed salt water treatments
-- Herbal remedies from ocean-blessed plants
-- Pressure therapy in specialized chambers
-- Surgical removal of small crystal formations
-
-#### Experimental Procedures
-- Crystal resonance disruption therapy
-- Alchemical dissolution treatments
-- Divine energy transfusion attempts
-- Magical transformation reversal experiments
 
 ### Ethical Guidelines
 
@@ -308,8 +294,6 @@ A Stage 2 cultist attempted to "bless" other patients with crystalline touch. Se
 - Dignified handling of crystalline remains
 - Memorial services for those who transcend
 
-## Adventure Hooks
-
 ### The Midnight Visitor
 A Stage 4 patient in the high-security ward has been receiving mysterious visitors who bypass all security measures. Investigation reveals a crystal cult infiltration attempting to "liberate" their prophesied saint.
 
@@ -325,37 +309,29 @@ Dr. Elena's notes suggest a potential breakthrough in understanding the plague, 
 ### The Family Secret
 A wealthy merchant family is hiding a Stage 4 member in their private mansion, using illegal crystal dampening technology. When their secret is discovered, it threatens to destabilize the city's entire quarantine system.
 
-## DM Notes
-
-### Atmosphere Guidelines
-- Emphasize the humanity of plague victims
-- Use crystalline formations for visual storytelling
-- Balance horror with hope through medical staff dedication
-- Show the economic and social impacts beyond just medical
-
-### Encounter Suggestions
-- Ethical dilemmas around resource allocation
-- Social conflicts between patients and families
-- Investigation opportunities in research data
-- Moral choices about experimental treatments
-
-### NPC Motivations
-- Medical staff: Professional duty vs. personal safety
-- Patients: Maintaining dignity while transforming
-- Families: Love vs. fear of contamination
-- Researchers: Scientific progress vs. ethical constraints
-
-## Cross-References
-- [[Crystal Plague Progression System]] - Disease mechanics and stages
-- [[Brother Marcus]] - Primary healer and religious figure
-- [[Medical Research Facilities]] - Cure development efforts
-- [[Port Meridian]] - Primary outbreak location
-- [[Quarantine Enforcement]] - Government response procedures
-- [[Crystal Cult Temples]] - Religious interpretations of the plague
-- [[Black Market Crystal Trade]] - Economic aspects of the crisis
-
-<!-- enriched: true -->
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

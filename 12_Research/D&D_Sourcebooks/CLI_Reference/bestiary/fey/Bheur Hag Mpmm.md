@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.520441+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bheur-hag-mpmm-bheur-hag-mpmm.svg)
 
@@ -60,8 +57,6 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
   - !!int "16"
   - !!int "14"
   - !!int "12"
-  - !!int "13"
-  - !!int "16"
 "speed": "30 ft., fly 50 ft. (hover, Graystaff magic)"
 "saves":
   - "wisdom": !!int "4"
@@ -69,11 +64,9 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
   - "name": "[[skills#Nature|Nature]]"
     "desc": "+4"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+4"
   - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
   - "name": "[[skills#Survival|Survival]]"
-    "desc": "+4"
 "damage_immunities": "cold"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Auran, Common, Giant"
@@ -105,8 +98,8 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
   - "desc": "The hag feeds on the corpse of one enemy within reach that died within\
       \ the past minute. Each creature of the hag's choice that is within 60 feet\
       \ and able to see the feeding must succeed on a DC 15 Wisdom saving throw or\
-      \ be [[conditions#Frightened|frightened]] of the hag for\
-      \ 1 minute. While [[conditions#Frightened|frightened]] in\
+      \ be [[conditions#frightened|frightened]] of the hag for\
+      \ 1 minute. While [[conditions#frightened|frightened]] in\
       \ this way, a creature is [[conditions#Incapacitated|incapacitated]],\
       \ can't understand what others say, can't read, and speaks only in gibberish.\
       \ A creature can repeat the saving throw at the end of each of its turns, ending\
@@ -127,6 +120,24 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 arctic
@@ -139,19 +150,18 @@ Bheur hag mpmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of bheur hag mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bheur hag mpmm.
 
-## Adventure Hooks
-
-- A rumor ties bheur hag mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at bheur hag mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to bheur hag mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

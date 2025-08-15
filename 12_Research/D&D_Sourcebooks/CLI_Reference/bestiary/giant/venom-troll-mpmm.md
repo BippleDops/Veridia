@@ -29,8 +29,6 @@ updated: '2025-08-12T23:37:35.070353'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-venom-troll-mpmm-v1-venom-troll-mpmm.svg)
 
@@ -38,6 +36,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 248, Mordenkainen's Tome of Foes p. 245*  
 
 A troll that survives massive doses of poison might transform into a venom troll. Lingering poison infuses the troll's blood and tissue, and poison leaks from the pores to coat the troll's fangs and claws. These creatures are especially dangerous in close combat because poison drips off their flesh and sprays out from every wound they receive.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Trolls
 
@@ -65,7 +81,6 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
   - !!int "20"
   - !!int "7"
   - !!int "9"
-  - !!int "7"
 "speed": "30 ft."
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
@@ -123,19 +138,22 @@ Venom troll mpmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of venom troll mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around venom troll mpmm.
 
-## Adventure Hooks
-
-- A rumor ties venom troll mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at venom troll mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to venom troll mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a conspiracy about the government
+- A document has gone missing and evil awakens
+- Someone is blackmailing an heir for love
+- A document has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

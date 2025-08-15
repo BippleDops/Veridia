@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:35.709470+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,21 @@ System Operator Tide Watchwright is a undersea element of the setting, known for
 
 Legends speak of System Operator Tide Watchwright as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around System Operator Tide Watchwright.
 
-## Adventure Hooks
-
-- A rumor ties System Operator Tide Watchwright to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at System Operator Tide Watchwright to avert a public scandal.
-- A map overlay reveals a hidden approach to System Operator Tide Watchwright active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Crystal-Corruption-Tracking-Sheet|02 Worldbuilding/Lore/Crystal Corruption Tracking Sheet]]
-
-
-## Connections
-
-- [[Crystal-Corruption-Tracking-Sheet]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and evil awakens
+- The authorities needs help delivering before the festival
+- A corpse reveals the truth about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

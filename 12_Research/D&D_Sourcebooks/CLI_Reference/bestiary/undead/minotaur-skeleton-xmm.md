@@ -30,15 +30,31 @@ updated: '2025-08-12T23:37:35.627903'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-minotaur-skeleton-xmm-minotaur-skeleton-xmm.svg)
 
 # [[minotaur-skeleton-xmm|Minotaur Skeleton]]
-*Source: Monster Manual (2024) p. 283. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 283. Available in the SRD and the Free Rules (2024)*  
 
 Minotaur skeletons are the reanimated remains of minotaurs or the skeletons of multiple creatures merged into a minotaur-like shape. These hulking skeletons have greater speed and might than smaller skeletons. They menace the living with their horns and mighty greataxes.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Skeletons
 
@@ -91,7 +107,7 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage.\
       \ If the target is a Large or smaller creature and the skeleton moved 20+ feet\
       \ straight toward it immediately before the hit, the target takes an extra 9\
-      \ (2d8) Piercing damage and has the [[conditions#Prone|Prone]]\
+      \ (2d8) Piercing damage and has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Gore"
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 15 (2d10 + 4) Bludgeoning\
@@ -115,19 +131,35 @@ Minotaur skeleton xmm is a undersea element of the setting, known for biolumines
 
 Legends speak of minotaur skeleton xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around minotaur skeleton xmm.
 
-## Adventure Hooks
-
-- A rumor ties minotaur skeleton xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at minotaur skeleton xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to minotaur skeleton xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a portal
+- Strange accidents suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

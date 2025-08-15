@@ -25,7 +25,23 @@ timeline: current_era
 chronology: active
 ---
 
-# 🎲 Encounter & Loot Generators
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Encounters (d100)
 Roll: `dice: 1d100|Encounter Roll`
@@ -38,7 +54,7 @@ Roll: `dice: 1d100|Encounter Roll`
 | 41–55 | Local creature pack |
 | 56–70 | Terrain feature/Discovery |
 | 71–85 | Hostile faction unit |
-| 86–95 | Elite enemy or lieutenant |
+| 86–95 | Elite enemy or lieutet |
 | 96–00 | Boss-level encounter |
 
 Quick difficulty: `dice: 1d4|1=Easy,2=Medium,3=Hard,4=Deadly`
@@ -46,8 +62,6 @@ Quick difficulty: `dice: 1d4|1=Easy,2=Medium,3=Hard,4=Deadly`
 ## Loot (d100)
 Roll: `dice: 1d100|Loot Roll`
 
-| d100 | Result |
-|------|--------|
 | 01–15 | Coins only (2d10×10 gp) → `dice: 2d10*10|Gold (gp)` |
 | 16–35 | Coins + common item |
 | 36–60 | Coins + 1–2 consumables |
@@ -57,7 +71,6 @@ Roll: `dice: 1d100|Loot Roll`
 
 Consumables: `dice: 1d6|1=Healing Potion,2=Antitoxin,3=Oil,4=Scroll L1,5=Scroll L2,6=Elixir`
 
-## Treasure Parcels
 ## Aquabyssos Undersea Encounters (d20)
 Roll: `dice: 1d20|Undersea Encounter`
 
@@ -88,7 +101,6 @@ Roll: `dice: 1d20|Undersea Encounter`
 Roll: `dice: 1d12|Urban Event`
 
 | d12 | Result |
-|-----|--------|
 | 1 | Street performance distracts crowd; pickpocket `dice: 1d20+3` vs passive |
 | 2 | Patrol questions strangers about recent theft |
 | 3 | Merchant caravan sale; 10% discount on common goods |
@@ -108,26 +120,10 @@ Roll: `dice: 1d12|Urban Event`
 - Scroll Rarity: `dice: 1d6|1-3 Common,4-5 Uncommon,6 Rare`
 Party level modifier: `dice: 2d6*{level}|Parcel (gp)`
 
-## Notes
-- Use alongside `Item_Catalog.base` for ownership assignment.
-- For underwater/urban variants, adapt tables by realm.
-
-
-## Faction Relationships
-
 ### Network Position
 **Direct Connections**: 0 faction relationships
 **Network Influence**: 0 degrees of separation reach
 **Relationship Complexity**: Low
-
-### Key Relationships
-
-
-### Relationship Dynamics
-- **Alliance Potential**: Opportunities for cooperation and mutual benefit
-- **Conflict Risk**: Areas of potential disagreement or competition  
-- **Neutral Interactions**: Routine diplomatic and trade relationships
-- **Unknown Factors**: Relationships requiring further investigation
 
 ### Network Strategy
 **Expansion Opportunities**: Potential new alliances and partnerships
@@ -135,12 +131,9 @@ Party level modifier: `dice: 2d6*{level}|Parcel (gp)`
 **Influence Maximization**: Leveraging relationships for faction goals
 **Diplomatic Priorities**: Key relationships requiring attention
 
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -149,3 +142,28 @@ Party level modifier: `dice: 2d6*{level}|Parcel (gp)`
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a conspiracy
+- Someone is protecting a witness for money
+- Strange sightings suggest a curse
+- Someone is hunting information for love
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

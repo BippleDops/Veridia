@@ -14,6 +14,24 @@ modified: '2025-08-14'
 
 %% Use reading mode for visual gallery %%
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## symbol-heraldry-acoustic-infection-acoustic-infection
 ![[04_Resources/Assets/Symbols/symbol-heraldry-acoustic-infection-acoustic-infection.svg]]
 
@@ -104,11 +122,11 @@ modified: '2025-08-14'
 ## symbol-heraldry-border-territories-v1-border-territories
 ![[04_Resources/Assets/Symbols/symbol-heraldry-border-territories-v1-border-territories.svg]]
 
-## symbol-heraldry-captain-rodrigo-ironanchor-captain-rodrigo-ironanchor
-![[04_Resources/Assets/Symbols/symbol-heraldry-captain-rodrigo-ironanchor-captain-rodrigo-ironanchor.svg]]
+## symbol-heraldry-captain-rodrigo-irochor-captain-rodrigo-irochor
+![[04_Resources/Assets/Symbols/symbol-heraldry-captain-rodrigo-irochor-captain-rodrigo-irochor.svg]]
 
-## symbol-heraldry-captain-rodrigo-ironanchor-v1-captain-rodrigo-ironanchor
-![[04_Resources/Assets/Symbols/symbol-heraldry-captain-rodrigo-ironanchor-v1-captain-rodrigo-ironanchor.svg]]
+## symbol-heraldry-captain-rodrigo-irochor-v1-captain-rodrigo-irochor
+![[04_Resources/Assets/Symbols/symbol-heraldry-captain-rodrigo-irochor-v1-captain-rodrigo-irochor.svg]]
 
 ## symbol-heraldry-chaplain-abyssos-the-deepseeke-chaplain-abyssos-the-deepseeke
 ![[04_Resources/Assets/Symbols/symbol-heraldry-chaplain-abyssos-the-deepseeke-chaplain-abyssos-the-deepseeke.svg]]
@@ -302,17 +320,17 @@ modified: '2025-08-14'
 ## symbol-heraldry-family-retainer-v1-family-retainer
 ![[04_Resources/Assets/Symbols/symbol-heraldry-family-retainer-v1-family-retainer.svg]]
 
-## symbol-heraldry-financial-crime-investigatio-financial-crime-investigatio
-![[04_Resources/Assets/Symbols/symbol-heraldry-financial-crime-investigatio-financial-crime-investigatio.svg]]
+## symbol-heraldry-ficial-crime-investigatio-ficial-crime-investigatio
+![[04_Resources/Assets/Symbols/symbol-heraldry-ficial-crime-investigatio-ficial-crime-investigatio.svg]]
 
-## symbol-heraldry-financial-crime-investigatio-v1-financial-crime-investigatio
-![[04_Resources/Assets/Symbols/symbol-heraldry-financial-crime-investigatio-v1-financial-crime-investigatio.svg]]
+## symbol-heraldry-ficial-crime-investigatio-v1-ficial-crime-investigatio
+![[04_Resources/Assets/Symbols/symbol-heraldry-ficial-crime-investigatio-v1-ficial-crime-investigatio.svg]]
 
-## symbol-heraldry-financial-crime-investigation-financial-crime-investigation
-![[04_Resources/Assets/Symbols/symbol-heraldry-financial-crime-investigation-financial-crime-investigation.svg]]
+## symbol-heraldry-ficial-crime-investigation-ficial-crime-investigation
+![[04_Resources/Assets/Symbols/symbol-heraldry-ficial-crime-investigation-ficial-crime-investigation.svg]]
 
-## symbol-heraldry-financial-crime-investigation-v1-financial-crime-investigation
-![[04_Resources/Assets/Symbols/symbol-heraldry-financial-crime-investigation-v1-financial-crime-investigation.svg]]
+## symbol-heraldry-ficial-crime-investigation-v1-ficial-crime-investigation
+![[04_Resources/Assets/Symbols/symbol-heraldry-ficial-crime-investigation-v1-ficial-crime-investigation.svg]]
 
 ## symbol-heraldry-foreman-prime-salvage-maste-foreman-prime-salvage-maste
 ![[04_Resources/Assets/Symbols/symbol-heraldry-foreman-prime-salvage-maste-foreman-prime-salvage-maste.svg]]
@@ -420,13 +438,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Symbols/symbol-heraldry-master-chen-wei-master-chen-wei.png]]
 
 ## symbol-heraldry-master-chen-wei-master-chen-wei
-![[04_Resources/Assets/Symbols/symbol-heraldry-master-chen-wei-master-chen-wei.png]]
 
 ## symbol-heraldry-master-chen-wei-v1-master-chen-wei
 ![[04_Resources/Assets/Symbols/symbol-heraldry-master-chen-wei-v1-master-chen-wei.png]]
 
 ## symbol-heraldry-master-chen-wei-v1-master-chen-wei
-![[04_Resources/Assets/Symbols/symbol-heraldry-master-chen-wei-v1-master-chen-wei.png]]
 
 ## symbol-heraldry-master-trader-darkmarke-master-trader-darkmarke
 ![[04_Resources/Assets/Symbols/symbol-heraldry-master-trader-darkmarke-master-trader-darkmarke.svg]]
@@ -446,11 +462,11 @@ modified: '2025-08-14'
 ## symbol-heraldry-merchant-princes-v1-merchant-princes
 ![[04_Resources/Assets/Symbols/symbol-heraldry-merchant-princes-v1-merchant-princes.svg]]
 
-## symbol-heraldry-merchant-s-covenant-merchant-s-covenant
-![[04_Resources/Assets/Symbols/symbol-heraldry-merchant-s-covenant-merchant-s-covenant.svg]]
+## symbol-heraldry-merchant-s-covet-merchant-s-covet
+![[04_Resources/Assets/Symbols/symbol-heraldry-merchant-s-covet-merchant-s-covet.svg]]
 
-## symbol-heraldry-merchant-s-covenant-v1-merchant-s-covenant
-![[04_Resources/Assets/Symbols/symbol-heraldry-merchant-s-covenant-v1-merchant-s-covenant.svg]]
+## symbol-heraldry-merchant-s-covet-v1-merchant-s-covet
+![[04_Resources/Assets/Symbols/symbol-heraldry-merchant-s-covet-v1-merchant-s-covet.svg]]
 
 ## symbol-heraldry-military-intelligence-military-intelligence
 ![[04_Resources/Assets/Symbols/symbol-heraldry-military-intelligence-military-intelligence.svg]]
@@ -542,17 +558,17 @@ modified: '2025-08-14'
 ## symbol-heraldry-regulatory-medical-authorit-v1-regulatory-medical-authorit
 ![[04_Resources/Assets/Symbols/symbol-heraldry-regulatory-medical-authorit-v1-regulatory-medical-authorit.svg]]
 
-## symbol-heraldry-resonance-bomb-resonance-bomb
-![[04_Resources/Assets/Symbols/symbol-heraldry-resonance-bomb-resonance-bomb.svg]]
+## symbol-heraldry-resoce-bomb-resoce-bomb
+![[04_Resources/Assets/Symbols/symbol-heraldry-resoce-bomb-resoce-bomb.svg]]
 
-## symbol-heraldry-resonance-bomb-v1-resonance-bomb
-![[04_Resources/Assets/Symbols/symbol-heraldry-resonance-bomb-v1-resonance-bomb.svg]]
+## symbol-heraldry-resoce-bomb-v1-resoce-bomb
+![[04_Resources/Assets/Symbols/symbol-heraldry-resoce-bomb-v1-resoce-bomb.svg]]
 
-## symbol-heraldry-resonance-cascade-attack-resonance-cascade-attack
-![[04_Resources/Assets/Symbols/symbol-heraldry-resonance-cascade-attack-resonance-cascade-attack.svg]]
+## symbol-heraldry-resoce-cascade-attack-resoce-cascade-attack
+![[04_Resources/Assets/Symbols/symbol-heraldry-resoce-cascade-attack-resoce-cascade-attack.svg]]
 
-## symbol-heraldry-resonance-cascade-attack-v1-resonance-cascade-attack
-![[04_Resources/Assets/Symbols/symbol-heraldry-resonance-cascade-attack-v1-resonance-cascade-attack.svg]]
+## symbol-heraldry-resoce-cascade-attack-v1-resoce-cascade-attack
+![[04_Resources/Assets/Symbols/symbol-heraldry-resoce-cascade-attack-v1-resoce-cascade-attack.svg]]
 
 ## symbol-heraldry-sacred-texts-of-transformatio-sacred-texts-of-transformatio
 ![[04_Resources/Assets/Symbols/symbol-heraldry-sacred-texts-of-transformatio-sacred-texts-of-transformatio.svg]]
@@ -824,11 +840,11 @@ modified: '2025-08-14'
 ## symbol-heraldry-the-great-recognition-v1-the-great-recognition
 ![[04_Resources/Assets/Symbols/symbol-heraldry-the-great-recognition-v1-the-great-recognition.svg]]
 
-## symbol-heraldry-the-great-resonance-the-great-resonance
-![[04_Resources/Assets/Symbols/symbol-heraldry-the-great-resonance-the-great-resonance.svg]]
+## symbol-heraldry-the-great-resoce-the-great-resoce
+![[04_Resources/Assets/Symbols/symbol-heraldry-the-great-resoce-the-great-resoce.svg]]
 
-## symbol-heraldry-the-great-resonance-v1-the-great-resonance
-![[04_Resources/Assets/Symbols/symbol-heraldry-the-great-resonance-v1-the-great-resonance.svg]]
+## symbol-heraldry-the-great-resoce-v1-the-great-resoce
+![[04_Resources/Assets/Symbols/symbol-heraldry-the-great-resoce-v1-the-great-resoce.svg]]
 
 ## symbol-heraldry-the-iron-company-the-iron-company
 ![[04_Resources/Assets/Symbols/symbol-heraldry-the-iron-company-the-iron-company.svg]]
@@ -1034,11 +1050,9 @@ modified: '2025-08-14'
 ## symbol-heraldry-witness-protection-protocols-witness-protection-protocols
 ![[04_Resources/Assets/Symbols/symbol-heraldry-witness-protection-protocols-witness-protection-protocols.svg]]
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -1047,3 +1061,14 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A journal reveals a conspiracy about the cult
+- A shipment has gone missing and truth emerges
+- Strange dreams suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

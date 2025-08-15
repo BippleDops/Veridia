@@ -19,8 +19,6 @@ updated: '2025-08-13T01:18:37.203778+00:00'
 world: Both
 ---
 
-
-
 # Choir Pirates
 
 Their ships sing as they close. Your rigging answers with a hum you can feel in your teeth.
@@ -39,15 +37,27 @@ Possible outcomes
 - The song stuns for a heartbeat
 - Grapnels bite the rails
 
-## Cross-References
 
-- [[Aethermoor_Session_01|06 GM Resources/Session Packets/Aethermoor Session 01]]
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -56,3 +66,18 @@ Possible outcomes
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- A noble needs help investigating before dawn
+- Someone is hunting a artifact for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

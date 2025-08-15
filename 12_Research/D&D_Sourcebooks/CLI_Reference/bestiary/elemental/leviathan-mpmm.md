@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.451432'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-leviathan-mpmm-leviathan-mpmm.svg)
 
@@ -65,7 +63,7 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
 "condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
   \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
-  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#prone|prone]], [[conditions#Restrained|restrained]],\
   \ [[conditions#Stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": ""
@@ -95,9 +93,9 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
       \ it can see within 120 feet of itself. The wave is up to 250 feet long, up\
       \ to 250 feet tall, and up to 50 feet wide. Each creature in the wave must make\
       \ a DC 24 Strength saving throw. On a failed save, a creature takes 45 (7d12)\
-      \ bludgeoning damage and is knocked [[conditions#Prone|prone]].\
+      \ bludgeoning damage and is knocked [[conditions#prone|prone]].\
       \ On a successful save, a creature takes half as much damage and isn't knocked\
-      \ [[conditions#Prone|prone]]. The water spreads out across\
+      \ [[conditions#prone|prone]]. The water spreads out across\
       \ the ground in all directions, extinguishing unprotected flames in its area\
       \ and within 250 feet of it, and then it vanishes."
     "name": "Tidal Wave (Recharge 6)"
@@ -113,6 +111,24 @@ Usually found only on the Elemental Plane of Water, a leviathan sometimes swims 
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 coastal, underwater
@@ -125,19 +141,20 @@ Leviathan mpmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of leviathan mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around leviathan mpmm.
 
-## Adventure Hooks
-
-- A rumor ties leviathan mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at leviathan mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to leviathan mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

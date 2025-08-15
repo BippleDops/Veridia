@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.711943+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-lizardfolk-sovereign-xmm-lizardfolk-sovereign-xmm.svg)
 
@@ -39,6 +36,24 @@ world: Both
 *Source: Monster Manual (2024) p. 197*  
 
 Lizardfolk sovereigns undergo magical rites that imbue them with fantastic strength and magic from the Elemental Plane of Earth. In some, though, it also unlocks a primal viciousness.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lizardfolk
 
@@ -63,8 +78,6 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
   - !!int "12"
   - !!int "15"
   - !!int "11"
-  - !!int "11"
-  - !!int "15"
 "speed": "30 ft., burrow 20 ft., swim 30 ft."
 "saves":
   - "constitution": !!int "4"
@@ -74,7 +87,7 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
     "desc": "+4"
   - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
-"condition_immunities": "[[conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Draconic, Primordial (Terran)"
 "cr": "4"
@@ -87,7 +100,7 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
       \ equal to the damage dealt."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 10 (2d6 + 3) Bludgeoning\
-      \ damage. If the target is a Medium or smaller creature, it has the [[conditions#Prone|Prone]]\
+      \ damage. If the target is a Medium or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Earthen Maul"
 "bonus_actions":
@@ -113,19 +126,16 @@ Lizardfolk sovereign xmm is a undersea element of the setting, known for biolumi
 
 Legends speak of lizardfolk sovereign xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around lizardfolk sovereign xmm.
 
-## Adventure Hooks
-
-- A rumor ties lizardfolk sovereign xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at lizardfolk sovereign xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to lizardfolk sovereign xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a conspiracy
+- A prisoner has gone missing and truth emerges

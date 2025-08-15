@@ -1,4 +1,5 @@
 ---
+
 title: Uniting the Factions.png
 aliases:
 - Uniting the Factionspng
@@ -16,12 +17,83 @@ race: Unknown
 class: Unknown
 location: Unknown
 updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
 
 
 # 04_Resources/Assets/Art/NPCs/Uniting_the_Factions.png
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
 
 ## Description
 
@@ -30,11 +102,6 @@ updated: 2025-08-14
 ## Details
 
 *[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[Uniting the Factions]]
 
 ## Notes
 
@@ -55,7 +122,6 @@ Uniting_the_Factions.png presents a distinctive figure. Their bearing suggests b
 - **Typical Attire**: Professional garments suited to their role
 - **Mannerisms**: [Describe habits and gestures]
 
-
 ## Personality
 
 **Traits**: Cautious, empathetic, cautious
@@ -66,7 +132,6 @@ Uniting_the_Factions.png presents a distinctive figure. Their bearing suggests b
 
 **Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
 
-
 ## Background
 
 Uniting_the_Factions.png's path to their current position involved:
@@ -75,48 +140,6 @@ Uniting_the_Factions.png's path to their current position involved:
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-## Relationships
-
-### Allies
-- Professional colleagues and supporters
-- Political or business connections
-
-### Rivals
-- Competitors in their field
-- Ideological opponents
-
-### Neutral Parties
-- Those who could be swayed either way
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
 
 ## Motivations
 
@@ -127,7 +150,6 @@ Uniting_the_Factions.png's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
 ## Secrets
 
 Uniting_the_Factions.png harbors secrets that could change everything:
@@ -135,9 +157,6 @@ Uniting_the_Factions.png harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Cursed bloodline
-
-
-
 
 ## Voice & Mannerisms
 
@@ -156,7 +175,6 @@ Uniting_the_Factions.png is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
 ## Plot Hooks
 
 1. **The Request**: Uniting_the_Factions.png needs assistance with a delicate matter
@@ -165,7 +183,6 @@ Uniting_the_Factions.png is currently engaged in:
 4. **The Alliance**: Opportunity to work with or against Uniting_the_Factions.png
 5. **The Crisis**: Uniting_the_Factions.png is caught in a situation requiring intervention
 
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -173,9 +190,6 @@ Uniting_the_Factions.png is currently engaged in:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
-
 
 ## Statistics (D&D 5e)
 
@@ -199,14 +213,21 @@ languages: Common
 cr: 1/4
 ```
 
-## DM Notes
 
-### Usage Tips
-- Uniting_the_Factions.png works best as a recurring NPC
-- Can serve as quest giver, information source, or obstacle
-- Personality should be consistent but can evolve
+## Economic Structure
 
-### Scaling
-- Adjust capabilities to party level
-- Influence can grow or wane with story
-- Secrets can be revealed gradually
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

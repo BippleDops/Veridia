@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.946477+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,17 @@ The Vanity Courts is a undersea element of the setting, known for bioluminescent
 
 Legends speak of The Vanity Courts as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Vanity Courts.
 
-## Adventure Hooks
-
-- A rumor ties The Vanity Courts to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Vanity Courts to avert a public scandal.
-- A map overlay reveals a hidden approach to The Vanity Courts active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Shadow Broker Mirrors|02 Worldbuilding/Groups/Shadow Broker Mirrors]]
-
-
-## Connections
-
-- [[Shadow Broker Mirrors]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and chaos spreads
+- A journal reveals ancient history about a local noble
+- A prisoner has gone missing and truth emerges

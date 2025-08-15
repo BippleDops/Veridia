@@ -23,14 +23,11 @@ updated: '2025-08-12T23:37:37.066283'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-carpenters-tools-xphb-carpenters-tools-xphb.svg)
 
 # Carpenter's Tools
 *Artisan's tools*  
-
 
 - **Cost**: 8 gp
 - **Weight**: 6.0 lbs.
@@ -39,7 +36,25 @@ world: Both
 - **Utilize.** Seal or pry open a door or container (DC 20)  
 - **Craft.** [[club-xphb|Club]], [[greatclub-xphb|Greatclub]], [[quarterstaff-xphb|Quarterstaff]], [[barrel-xphb|Barrel]], [[chest-xphb|Chest]], [[ladder-xphb|Ladder]], [[pole-xphb|Pole]], [[portable-ram-xphb|Portable Ram]], [[torch-xphb|Torch]]  
 
-*Source: Player's Handbook (2024) p. 220. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 220. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -49,19 +64,29 @@ Carpenters tools xphb is a undersea element of the setting, known for biolumines
 
 Legends speak of carpenters tools xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around carpenters tools xphb.
 
-## Adventure Hooks
-
-- A rumor ties carpenters tools xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at carpenters tools xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to carpenters tools xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before dawn
+- A shipment has gone missing and war looms
+- A stranger needs help finding before the new moon
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

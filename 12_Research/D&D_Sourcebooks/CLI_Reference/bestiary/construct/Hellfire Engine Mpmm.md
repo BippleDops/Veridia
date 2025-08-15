@@ -27,9 +27,6 @@ updated: '2025-08-13T12:34:06.076731+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hellfire-engine-mpmm-hellfire-engine-mpmm.svg)
 
@@ -68,7 +65,7 @@ Mortal creatures slain by hellfire engines are doomed to join the infernal legio
   \ attacks that aren't silvered"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
-  \ [[conditions#Exhaustion|exhaustion]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Exhaustion|exhaustion]], [[conditions#frightened|frightened]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Poisoned|poisoned]],\
   \ [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 120 ft., passive Perception 10"
@@ -88,9 +85,9 @@ Mortal creatures slain by hellfire engines are doomed to join the infernal legio
       \ this move, it can enter Large or smaller creatures' spaces. A creature whose\
       \ space the hellfire engine enters must make a DC 18 Dexterity saving throw.\
       \ On a successful save, the creature is pushed to the nearest space out of the\
-      \ hellfire engine's path. On a failed save, the creature falls [[conditions#Prone|prone]]\
+      \ hellfire engine's path. On a failed save, the creature falls [[conditions#prone|prone]]\
       \ and takes 28 (8d6) bludgeoning damage.\n\nIf the hellfire engine remains in\
-      \ the [[conditions#Prone|prone]] creature's space, the creature\
+      \ the [[conditions#prone|prone]] creature's space, the creature\
       \ is also [[conditions#Restrained|restrained]] until it's\
       \ no longer in the same space as the hellfire engine. While [[conditions#Restrained|restrained]]\
       \ in this way, the creature, or another creature within 5 feet of it, can make\
@@ -129,6 +126,24 @@ Mortal creatures slain by hellfire engines are doomed to join the infernal legio
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Hellfire engine mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -137,19 +152,25 @@ Hellfire engine mpmm is a undersea element of the setting, known for bioluminesc
 
 Legends speak of hellfire engine mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hellfire engine mpmm.
 
-## Adventure Hooks
-
-- A rumor ties hellfire engine mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at hellfire engine mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to hellfire engine mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

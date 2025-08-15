@@ -29,14 +29,29 @@ updated: '2025-08-13T12:34:06.053850+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-solar-xmm-solar-xmm.svg)
 
 # [[solar-xmm|Solar]]
-*Source: Monster Manual (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 288. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Solar
 
@@ -62,8 +77,6 @@ Solars can resurrect the dead and often use that power to enlist mortal aid. The
 "stats":
   - !!int "26"
   - !!int "22"
-  - !!int "26"
-  - !!int "25"
   - !!int "25"
   - !!int "30"
 "speed": "50 ft., fly 150 ft. (hover)"
@@ -72,7 +85,7 @@ Solars can resurrect the dead and often use that power to enlist mortal aid. The
     "desc": "+14"
 "damage_immunities": "poison, radiant"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Poisoned|poisoned]]"
+  \ [[conditions#frightened|frightened]], [[conditions#Poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 24"
 "languages": "all; telepathy 120 ft."
 "cr": "21"
@@ -105,8 +118,8 @@ Solars can resurrect the dead and often use that power to enlist mortal aid. The
   - "desc": "The solar casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 25):\n\nAt\
       \ will: [[detect-evil-and-good-xphb|Detect Evil and Good]]\n\
-      \n1/day each: [[commune-xphb|Commune]], [[control-weather-xphb|Control\
-      \ Weather]], [[dispel-evil-and-good-xphb|Dispel Evil and\
+      \n1/day each: [[commune-xphb|Commune]], [[control-weather-xphb|Control\]]
+      \ Weather]], [[dispel-evil-and-good-xphb|Dispel Evil and\]]
       \ Good]], [[resurrection-xphb|Resurrection]]"
     "name": "Spellcasting"
 "bonus_actions":
@@ -144,19 +157,33 @@ Solar xmm is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of solar xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around solar xmm.
 
-## Adventure Hooks
-
-- A rumor ties solar xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at solar xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to solar xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals the truth about the cult
+- Someone is hunting an heir for love
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

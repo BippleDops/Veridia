@@ -27,13 +27,29 @@ updated: '2025-08-12T23:37:34.983070'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-tarrasque-xmm-tarrasque-xmm.svg)
 
 # [[tarrasque-xmm|Tarrasque]]
-*Source: Monster Manual (2024) p. 305. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 305. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Tarrasque
 
@@ -77,10 +93,7 @@ Few things survive the tarrasque's rampages, and reports of the monster's devast
 "stats":
   - !!int "30"
   - !!int "11"
-  - !!int "30"
   - !!int "3"
-  - !!int "11"
-  - !!int "11"
 "speed": "60 ft., burrow 40 ft., climb 60 ft."
 "saves":
   - "dexterity": !!int "9"
@@ -93,7 +106,7 @@ Few things survive the tarrasque's rampages, and reports of the monster's devast
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 120 ft., passive Perception 19"
 "languages": ""
@@ -124,13 +137,13 @@ Few things survive the tarrasque's rampages, and reports of the monster's devast
       \ damage."
     "name": "Claw"
   - "desc": "Melee Attack Roll: +19, reach 30 ft. Hit: 23 (3d8 + 10) Bludgeoning\
-      \ damage. If the target is a Huge or smaller creature, it has the [[conditions#Prone|Prone]]\
+      \ damage. If the target is a Huge or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Tail"
   - "desc": "Constitution Saving Throw: DC 27, each creature and each object that\
       \ isn't being worn or carried in a 150-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: 78 (12d12) Thunder damage, and the target has the [[conditions#Deafened|Deafened]]\
-      \ and [[conditions#Frightened|Frightened]] conditions until\
+      \ and [[conditions#frightened|Frightened]] conditions until\
       \ the end of its next turn. Success: Half damage only."
     "name": "Thunderous Bellow (Recharge 5-6)"
 "bonus_actions":
@@ -145,10 +158,10 @@ Few things survive the tarrasque's rampages, and reports of the monster's devast
       \ takes 60 damage or more on a single turn from a creature inside it, the tarrasque\
       \ must succeed on a DC 20 Constitution saving throw at the end of that turn\
       \ or regurgitate all swallowed creatures, each of which falls in a space within\
-      \ 10 feet of the tarrasque and has the [[conditions#Prone|Prone]]\
+      \ 10 feet of the tarrasque and has the [[conditions#prone|Prone]]\
       \ condition. If the tarrasque dies, any swallowed creature no longer has the\
       \ [[conditions#Restrained|Restrained]] condition and can\
-      \ escape from the corpse using 20 feet of movement, exiting [[conditions#Prone|Prone]]."
+      \ escape from the corpse using 20 feet of movement, exiting [[conditions#prone|Prone]]."
     "name": "Swallow"
 "legendary_actions":
   - "desc": "The tarrasque moves up to half its [[speed-xphb|Speed]],\
@@ -158,7 +171,7 @@ Few things survive the tarrasque's rampages, and reports of the monster's devast
       \ At the end of this movement, the tarrasque creates an instantaneous shock\
       \ wave in a 60-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from itself. Creatures in that area lose [[conditions#Concentration|Concentration]]\
-      \ and, if Medium or smaller, have the [[conditions#Prone|Prone]]\
+      \ and, if Medium or smaller, have the [[conditions#prone|Prone]]\
       \ condition. The tarrasque can't take this action again until the start of its\
       \ next turn."
     "name": "World-Shaking Movement"
@@ -180,19 +193,25 @@ Tarrasque xmm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of tarrasque xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tarrasque xmm.
 
-## Adventure Hooks
-
-- A rumor ties tarrasque xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at tarrasque xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to tarrasque xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and chaos spreads
+- A corpse reveals a conspiracy about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

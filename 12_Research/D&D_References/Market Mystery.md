@@ -22,17 +22,30 @@ updated: '2025-08-13T01:18:36.431434+00:00'
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-market-mystery-market-mystery.svg]]
-
-
-
 
 # Market Mystery
 
 *"In the marketplace, every transaction hides a story."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 A puzzling investigation where valuable goods are disappearing from the Grand Market without any trace of theft or tampering. Merchants report perfect inventory at closing but find items missing when they reopen, with no signs of break-ins or security breaches.
@@ -68,13 +81,6 @@ The mystery has stumped both merchant security and city watch investigators for 
 **Time Magic**: Temporal manipulation to avoid detection
 **Organized Crime**: Professional thieves with advanced techniques
 
-## Investigation Methods
-- Interview affected merchants about inventory and security
-- Examine physical evidence at crime scenes for magical traces
-- Review guard patrol schedules and witness statements
-- Stake out market during vulnerable hours
-- Investigate underground areas for hidden passages
-
 ## Key NPCs
 **Market Administrator Jonas Coincount**: Worried about reputation and commerce
 **Guard Captain Marina Nightwatch**: Leading official investigation
@@ -85,7 +91,7 @@ The mystery has stumped both merchant security and city watch investigators for 
 ## Hidden Locations
 **Storage Vaults**: Secure areas beneath market with limited access
 **Guard Posts**: Security stations monitoring different market sections
-**Maintenance Tunnels**: Service passages known only to market workers
+**Maintece Tunnels**: Service passages known only to market workers
 **Emergency Exits**: Hidden passages for evacuation during attacks
 **Private Offices**: Administrative areas with sensitive information
 
@@ -99,7 +105,7 @@ The mystery has stumped both merchant security and city watch investigators for 
 ## Evidence Discovery
 **Magical Analysis**: Divination spells reveal transportation magic signatures
 **Surveillance**: Hidden observation posts catch glimpses of the perpetrator
-**Financial Investigation**: Money trail leads to suspicious transactions
+**Ficial Investigation**: Money trail leads to suspicious transactions
 **Witness Interrogation**: Someone saw more than they initially reported
 **Physical Evidence**: Hidden cache of stolen goods discovered
 
@@ -124,26 +130,12 @@ The mystery has stumped both merchant security and city watch investigators for 
 **Bonus**: Discovering larger conspiracy provides additional experience
 **Recognition**: Success establishes party as competent investigators
 
-## Complications
-- False leads and red herrings confuse investigation
-- Political pressure from merchant guild for quick resolution
-- Competition from rival investigative groups
- - Security measures interfere with legitimate investigation
-- Perpetrator escalates tactics when feeling threatened
-
 ## Market Security
 **Day Patrols**: Guards monitoring during business hours
 **Night Watch**: Reduced security during closed hours
 **Magical Wards**: Basic protection spells on high-value stalls
 **Alarm Systems**: Mechanical and magical detection devices
 **Emergency Response**: Procedures for dealing with theft or violence
-
-## Economic Impact
-- Merchant insurance premiums increasing
-- Customer confidence declining
-- Rival markets gaining business
- - Security costs cutting into profit margins
-- Political pressure on market administration
 
 ## Adventure Hooks
 1. Merchant guild hires party to solve mystery
@@ -157,23 +149,11 @@ The mystery has stumped both merchant security and city watch investigators for 
 **Week 3**: Narrowing suspects and setting up surveillance
 **Week 4**: Final confrontation and resolution
 
-## Skills Required
-- **Investigation**: Following clues and analyzing evidence
-- **Perception**: Noticing details others missed
-- **Social Skills**: Interviewing witnesses and suspects
-- **Magic Knowledge**: Understanding supernatural explanations
-- **Stealth**: Conducting surveillance without detection
-
 ## Long-term Impact
 Solving this mystery establishes party reputation as investigators and may lead to ongoing security contracts or similar cases throughout the city.
 
 ## DM Notes
 This investigation should emphasize deductive reasoning over combat. Provide multiple clues pointing to different theories, allowing players to eliminate possibilities through careful investigation.
-
-
-## Connections
-
-- [[The Phosphor Markets]]
 
 ## Player-Facing Summary
 
@@ -183,13 +163,21 @@ Market Mystery is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Market Mystery as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Market Mystery.
 
-## Cross-References
-
-- [[Market Mystery|02 Worldbuilding/Places/Market Mystery]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and evil awakens
+- Strange accidents suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

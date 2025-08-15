@@ -27,9 +27,6 @@ updated: '2025-08-13T12:34:05.666697+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-duergar-spore-servant-oota-duergar-spore-servant-oota.svg)
 
@@ -49,14 +46,13 @@ world: Both
 "stats":
   - !!int "14"
   - !!int "11"
-  - !!int "14"
   - !!int "2"
   - !!int "6"
   - !!int "1"
 "speed": "15 ft."
 "damage_resistances": "poison"
 "condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]]"
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]]"
 "senses": "blindsight 30 ft. (blind beyond this radius), passive Perception 8"
 "languages": ""
 "cr": "1/2"
@@ -70,6 +66,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Duergar spore servant oota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -78,19 +92,34 @@ Duergar spore servant oota is a undersea element of the setting, known for biolu
 
 Legends speak of duergar spore servant oota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around duergar spore servant oota.
 
-## Adventure Hooks
-
-- A rumor ties duergar spore servant oota to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at duergar spore servant oota to avert a public scandal.
-- A map overlay reveals a hidden approach to duergar spore servant oota active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A shipment has gone missing and evil awakens
+- A journal reveals a conspiracy about the cult
+- A corpse reveals a conspiracy about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

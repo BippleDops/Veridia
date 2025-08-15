@@ -1,4 +1,5 @@
 ---
+
 title: The Leviathan Prophets
 type: Npc
 tags:
@@ -26,6 +27,8 @@ created_by: auto-stub
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.508905+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -33,15 +36,82 @@ world: Aquabyssos
 > [!figure] Portrait
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-leviathan-prophets-the-leviathan-prophets.svg]]
 
-
 # The Leviathan Prophets
 
 *"When the Great Deep stirs, only those who listen to its whispers shall survive." - First Prophet Thalassa*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+
 ## Overview
 The Leviathan Prophets are a mysterious cult devoted to ancient sea creatures of immense power, believing these beings hold the keys to Aquabyssos's ultimate destiny. They interpret the movements of deep-sea leviathans as divine messages, predicting everything from political upheavals to natural disasters. Operating from hidden shrines throughout the city's deepest districts, they maintain that only through communion with these ancient entities can the city achieve true greatness.
 
-Founded after the Great Stirring, when massive creatures were spotted in the deepest trenches, the Prophets claim direct spiritual connection to beings older than civilization itself. They view themselves as interpreters of an ancient covenant between the leviathans and the underwater realm.
+Founded after the Great Stirring, when massive creatures were spotted in the deepest trenches, the Prophets claim direct spiritual connection to beings older than civilization itself. They view themselves as interpreters of an ancient covet between the leviathans and the underwater realm.
 
 ## Structure and Beliefs
 **The First Prophet:** Supreme leader claiming direct leviathan communication
@@ -49,13 +119,6 @@ Founded after the Great Stirring, when massive creatures were spotted in the dee
 **Tide Readers:** Mid-level prophets specializing in specific types of divination
 **Current Touched:** Initiates undergoing spiritual transformation
 **The Awakened:** Former members who achieved "true sight"
-
-### Core Doctrines
-- Leviathans are divine guardians of the deep realms
-- Their movements predict future events with absolute accuracy
-- Only through sacrifice and devotion can one gain prophetic sight
-- The coming "Great Awakening" will transform all ocean life
-- Surface dwellers are spiritually inferior due to separation from the depths
 
 ## Prophetic Practices
 **Deep Meditation:** Extended trances in the deepest accessible waters
@@ -94,7 +157,7 @@ Members come from all social classes, united by fascination with prophecy and de
 **Prophetic Archives:** Detailed records of predictions and outcomes
 **Ritual Implements:** Blessed artifacts for ceremonial use
 **Intelligence Network:** Informants throughout Aquabyssos and beyond
-**Financial Assets:** Donations from wealthy believers and prediction services
+**Ficial Assets:** Donations from wealthy believers and prediction services
 
 ## Secrets
 1. Some prophecies are deliberately vague to ensure multiple interpretations
@@ -110,8 +173,6 @@ Members come from all social classes, united by fascination with prophecy and de
 4. Prophetic warning of imminent disaster requires immediate action
 5. Missing persons investigation leads to cult recruitment practices
 
-
-
 ## Background
 
 The Leviathan Prophets's path to their current position involved:
@@ -121,36 +182,6 @@ The Leviathan Prophets's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Pursuing knowledge
@@ -159,10 +190,6 @@ The Leviathan Prophets's path to their current position involved:
 - Maintain their position and influence
 - Advance their organization's interests
 - Personal advancement or satisfaction
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -181,8 +208,6 @@ The Leviathan Prophets is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: The Leviathan Prophets needs assistance with a delicate matter
@@ -191,8 +216,6 @@ The Leviathan Prophets is currently engaged in:
 4. **The Alliance**: Opportunity to work with or against The Leviathan Prophets
 5. **The Crisis**: The Leviathan Prophets is caught in a situation requiring intervention
 
-
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -200,8 +223,6 @@ The Leviathan Prophets is currently engaged in:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
 
 ## Statistics (D&D 5e)
 
@@ -228,60 +249,6 @@ cr: 1/4
 ## DM Notes
 The Leviathan Prophets work well as mysterious quest givers whose cryptic guidance leads to adventure. Their prophecies can foreshadow campaign events or provide plot hooks. Use them to add mystical elements to political intrigue, while their potential accuracy makes them valuable but potentially dangerous allies.
 
-
-
-
-## Relationship Web
-
-- [[Captain Rex Ironhaul]]: *business partner*
-- [[04_Resources_Assets_Locations_location-city-the-dreamwhisper-inn-v1-the-dreamwhisper-inn.svg]]: *student*
-
-## Connections
-
-- [[Oracle]]
-
-
-## Appearance
-
-
-TODO
-
-
-## Personality
-
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward confrontation
-
-
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward negotiation
-
-
-
-TODO
-
-
-## Goals
-
-
-TODO
-
-
-## Relationships
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 The Leviathan Prophets is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -290,8 +257,7 @@ The Leviathan Prophets is a undersea element of the setting, known for biolumine
 
 Legends speak of The Leviathan Prophets as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Leviathan Prophets.
 
-## Cross-References
 
-- [[The Leviathan Prophets]]
+## Bloodline
 
-<!-- enriched: true -->
+Member of House Eagleblood - Trait: prophecy

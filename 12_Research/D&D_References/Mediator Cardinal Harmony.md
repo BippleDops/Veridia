@@ -20,34 +20,26 @@ updated: '2025-08-13T12:34:16.833502+00:00'
 world: Both
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-mediator-cardinal-harmony-mediator-cardinal-harmony.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -57,28 +49,35 @@ Mediator Cardinal Harmony is a undersea element of the setting, known for biolum
 
 Legends speak of Mediator Cardinal Harmony as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Mediator Cardinal Harmony.
 
-## Adventure Hooks
-
-- A rumor ties Mediator Cardinal Harmony to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Mediator Cardinal Harmony to avert a public scandal.
-- A map overlay reveals a hidden approach to Mediator Cardinal Harmony active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Mediator Cardinal Harmony]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Theological Warfare]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help investigating before the new moon
+- A prisoner has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

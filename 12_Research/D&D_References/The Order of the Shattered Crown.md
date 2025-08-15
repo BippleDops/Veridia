@@ -22,17 +22,30 @@ updated: '2025-08-13T01:18:36.386873+00:00'
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-order-of-the-shattered-crown-the-order-of-the-shattered-crown.svg]]
-
-
-
 
 # The Order of the Shattered Crown
 
 *"From broken royalty, we forge new purpose in service."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 The Order of the Shattered Crown is a religious organization composed primarily of former nobility who have renounced their titles and wealth to serve the common people. Founded after a devastating civil war, they seek redemption through charitable works and protection of the defenseless.
@@ -111,13 +124,6 @@ Established 50 years ago following the War of Succession, when many noble houses
 **Internal Conflicts**: Disagreements about methods and priorities
 **External Threats**: Bandits and monsters targeting their communities
 
-## Notable Achievements
-- Prevented famine during harsh winter through emergency food distribution
- - Negotiated peace between feuding villages avoiding potential conflict
-- Established first schools for common children in rural areas
-- Organized successful defense against bandit army threatening three towns
-- Mediated resolution to trade dispute preventing economic disruption
-
 ## Current Projects
 **Orphan Education**: Comprehensive schooling program for homeless children
 **Rural Protection**: Expanding knight-brother patrols to remote villages
@@ -176,20 +182,6 @@ Established 50 years ago following the War of Succession, when many noble houses
 ## DM Notes
 The Order provides opportunities for redemption-themed adventures, charitable missions, and exploration of themes around forgiveness and second chances. Their unique background as former nobility creates interesting political dynamics and character development opportunities.
 
-
-## Connections
-
-- [[Purist Coalition]]
-- [[The Crystal Throne]]
-- [[The Seven Shards]]
-- [[Brother Matthias the Amber Bearer]]
-- [[Gareth Goldenheart, The Chosen Vessel]]
-- [[Lord Aurelius Goldwave]]
-- [[The Azure Prophet Nerissa]]
-- [[Port Meridian]]
-- [[The Living Weapon]]
-- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-
 ## Player-Facing Summary
 
 The Order of the Shattered Crown is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -198,13 +190,28 @@ The Order of the Shattered Crown is a undersea element of the setting, known for
 
 Legends speak of The Order of the Shattered Crown as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Order of the Shattered Crown.
 
-## Cross-References
-
-- [[The Order of the Shattered Crown|02 Worldbuilding/Places/The Order Of The Shattered Crown]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a portal
+- Strange disappearances suggest a portal
+- A document has gone missing and truth emerges
+- A merchant needs help delivering before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

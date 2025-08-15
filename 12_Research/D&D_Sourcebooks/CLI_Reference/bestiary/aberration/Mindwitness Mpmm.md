@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.599634+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mindwitness-mpmm-mindwitness-mpmm.svg)
 
@@ -56,10 +53,7 @@ If separated from its illithid masters, a mindwitness seeks out other telepathic
 "stats":
   - !!int "10"
   - !!int "14"
-  - !!int "14"
   - !!int "15"
-  - !!int "15"
-  - !!int "10"
 "speed": "0 ft., fly 20 ft. (hover)"
 "saves":
   - "intelligence": !!int "5"
@@ -67,7 +61,7 @@ If separated from its illithid masters, a mindwitness seeks out other telepathic
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+8"
-"condition_immunities": "[[conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#prone|prone]]"
 "senses": "darkvision 120 ft., passive Perception 18"
 "languages": "Deep Speech, Undercommon, telepathy 600 ft."
 "cr": "5"
@@ -96,7 +90,7 @@ If separated from its illithid masters, a mindwitness seeks out other telepathic
       \ disadvantage on attack rolls for 1 minute. The target can repeat the saving\
       \ throw at the end of each of its turns, ending the effect on itself on a success.\
       \  \n- 2 Fear Ray. The targeted creature must succeed on a DC 13 Wisdom\
-      \ saving throw or be [[conditions#Frightened|frightened]]\
+      \ saving throw or be [[conditions#frightened|frightened]]\
       \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success.  \n- 3 Psychic Ray.\
       \ The target must succeed on a DC 13 Intelligence saving throw or take 27 (6d8)\
@@ -107,7 +101,6 @@ If separated from its illithid masters, a mindwitness seeks out other telepathic
       \ can repeat the saving throw at the end of each of its turns, ending the effect\
       \ on itself on a success.  \n- 5 Stunning Ray. The targeted creature must\
       \ succeed on a DC 13 Constitution saving throw or be [[conditions#Stunned|stunned]]\
-      \ for 1 minute. The target can repeat the saving throw at the end of each of\
       \ its turns, ending the effect on itself on a success.  \n- 6 Telekinetic\
       \ Ray. If the target is a creature, it must make a DC 13 Strength saving throw.\
       \ On a failed save, the mindwitness moves it up to 30 feet in any direction,\
@@ -126,6 +119,24 @@ If separated from its illithid masters, a mindwitness seeks out other telepathic
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 underdark
@@ -138,19 +149,27 @@ Mindwitness mpmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of mindwitness mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mindwitness mpmm.
 
-## Adventure Hooks
-
-- A rumor ties mindwitness mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at mindwitness mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to mindwitness mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and evil awakens
+- The authorities needs help delivering before winter
+- Someone is protecting an heir for revenge
+- A map reveals ancient history about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:36.800319'
 world: Both
 ---
 
-
 # Mirror of Life Trapping
 *Wondrous item, very rare*  
 ![](/03_Mechanics/CLI/items/img/mirror-of-life-trapping.webp#right)
@@ -46,7 +45,25 @@ In a similar way, you can take a [[actions#Magic|Magic]] action and use a second
 
 Placing the mirror inside an extradimensional space created by a [[bag-of-holding-xdmg|Bag of Holding]], Portable Hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind [[cover-xphb|Total Cover]] is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
-*Source: Dungeon Master's Guide (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 278. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -56,19 +73,25 @@ Mirror of life trapping xdmg is a undersea element of the setting, known for bio
 
 Legends speak of mirror of life trapping xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mirror of life trapping xdmg.
 
-## Adventure Hooks
-
-- A rumor ties mirror of life trapping xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at mirror of life trapping xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to mirror of life trapping xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Winds
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

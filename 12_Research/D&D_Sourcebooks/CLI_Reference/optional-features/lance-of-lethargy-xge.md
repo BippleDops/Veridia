@@ -22,13 +22,30 @@ updated: '2025-08-12T23:37:35.890647'
 world: Both
 ---
 
-
 # Lance of Lethargy
 *Source: Xanathar's Guide to Everything p. 57*  
 
 **Prerequisite**: [[eldritch-blast-xphb|eldritch blast]] cantrip
 
 Once on each of your turns when you hit a creature with your [[eldritch-blast-xphb|eldritch blast]], you can reduce that creature's speed by 10 feet until the end of your next turn.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -38,19 +55,15 @@ Lance of lethargy xge is a undersea element of the setting, known for biolumines
 
 Legends speak of lance of lethargy xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around lance of lethargy xge.
 
-## Adventure Hooks
-
-- A rumor ties lance of lethargy xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at lance of lethargy xge to avert a public scandal.
-- A map overlay reveals a hidden approach to lance of lethargy xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

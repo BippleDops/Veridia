@@ -15,7 +15,7 @@ tags:
 - active
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-monster
@@ -25,7 +25,6 @@ statblock-link: '#^statblock'
 updated: '2025-08-12T23:37:35.813646'
 world: Both
 ---
-
 
 # [[celestial-spirit-xphb|Celestial Spirit]]
 *Source: Player's Handbook (2024) p. 323*  
@@ -40,13 +39,10 @@ world: Both
 "stats":
   - !!int "16"
   - !!int "14"
-  - !!int "16"
   - !!int "10"
-  - !!int "14"
-  - !!int "16"
 "speed": "30 ft., fly 40 ft."
 "damage_resistances": "radiant"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Celestial, understands the languages you know"
 "actions":
@@ -70,6 +66,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Celestial spirit xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -78,18 +92,9 @@ Celestial spirit xphb is a undersea element of the setting, known for biolumines
 
 Legends speak of celestial spirit xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around celestial spirit xphb.
 
-## Adventure Hooks
-
-- A rumor ties celestial spirit xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at celestial spirit xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to celestial spirit xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

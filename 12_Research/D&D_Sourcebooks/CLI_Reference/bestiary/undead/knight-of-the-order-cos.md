@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.646955'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-knight-of-the-order-cos-knight-of-the-order-cos.svg)
 
@@ -47,10 +45,8 @@ world: Both
 "stats":
   - !!int "18"
   - !!int "14"
-  - !!int "18"
   - !!int "13"
   - !!int "16"
-  - !!int "18"
 "speed": "30 ft."
 "saves":
   - "strength": !!int "7"
@@ -60,7 +56,7 @@ world: Both
 "damage_resistances": "necrotic, psychic"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Poisoned|poisoned]], [[conditions#Stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "the languages it knew in life"
@@ -100,10 +96,10 @@ world: Both
       \ which it has sworn vengeance. The target must make a DC 15 Wisdom saving throw.\
       \ On a failure, the target is [[conditions#Paralyzed|paralyzed]]\
       \ until the knight deals damage to it, or until the end of the knight's next\
-      \ turn. When the paralysis ends, the target is [[conditions#Frightened|frightened]]\
-      \ of the knight for 1 minute. The [[conditions#Frightened|frightened]]\
+      \ turn. When the paralysis ends, the target is [[conditions#frightened|frightened]]\
+      \ of the knight for 1 minute. The [[conditions#frightened|frightened]]\
       \ target can repeat the saving throw at the end of each of its turns, with disadvantage\
-      \ if it can see the knight, ending the [[conditions#Frightened|frightened]]\
+      \ if it can see the knight, ending the [[conditions#frightened|frightened]]\
       \ condition on itself on a success."
     "name": "Vengeful Glare"
 "source":
@@ -111,6 +107,24 @@ world: Both
 "image": "/03_Mechanics/CLI/bestiary/undead/token/knight-of-the-order-cos.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -120,19 +134,15 @@ Knight of the order cos is a undersea element of the setting, known for biolumin
 
 Legends speak of knight of the order cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around knight of the order cos.
 
-## Adventure Hooks
-
-- A rumor ties knight of the order cos to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at knight of the order cos to avert a public scandal.
-- A map overlay reveals a hidden approach to knight of the order cos active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil

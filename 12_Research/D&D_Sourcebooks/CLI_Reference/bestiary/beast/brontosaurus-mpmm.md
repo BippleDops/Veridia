@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.169682'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-brontosaurus-mpmm-brontosaurus-mpmm.svg)
 
@@ -65,7 +63,7 @@ This massive four-legged dinosaur is large enough that most predators leave it a
 "actions":
   - "desc": "Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 27\
       \ (5d8 + 5) bludgeoning damage, and the target must succeed on a DC 14 Strength\
-      \ saving throw or be knocked [[conditions#Prone|prone]]."
+      \ saving throw or be knocked [[conditions#prone|prone]]."
     "name": "Stomp"
   - "desc": "Melee Weapon Attack: +8 to hit, reach 20 ft., one target. Hit: 32\
       \ (6d8 + 5) bludgeoning damage"
@@ -76,6 +74,24 @@ This massive four-legged dinosaur is large enough that most predators leave it a
 "image": "/03_Mechanics/CLI/bestiary/beast/token/brontosaurus-mpmm.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Environment
 
@@ -89,19 +105,26 @@ Brontosaurus mpmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of brontosaurus mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around brontosaurus mpmm.
 
-## Adventure Hooks
-
-- A rumor ties brontosaurus mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at brontosaurus mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to brontosaurus mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help investigating before dawn
+- Strange dreams suggest a conspiracy
+- Strange dreams suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

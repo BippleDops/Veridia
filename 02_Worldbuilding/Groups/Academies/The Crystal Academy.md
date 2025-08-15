@@ -1,4 +1,5 @@
 ---
+
 title: The Crystal Academy
 type: Faction
 tags:
@@ -17,31 +18,78 @@ headquarters: Unknown
 membership: Unknown
 updated: '2025-08-13T12:34:17.423783+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
+
 
 ![The Crystal Academy](../../../04_Resources/Assets/Generated/Misc/the_crystal_academy.png)
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Overview
+### History Improvements
 
-TODO
-## Structure
+- Add three historical eras with major events
 
-TODO
-## Goals
+### Culture Improvements
 
-TODO
-## Assets
+- Define unique cultural practices and taboos
 
-TODO
-## Conflicts
+### Economy Improvements
 
-TODO
-## Hooks
+- Detail currency, trade goods, and wealth distribution
 
-TODO
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
 
 ## Player-Facing Summary
 
@@ -51,109 +99,74 @@ The Crystal Academy is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Crystal Academy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crystal Academy.
 
-## Adventure Hooks
-
-- A rumor ties The Crystal Academy to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Crystal Academy to avert a public scandal.
-- A map overlay reveals a hidden approach to The Crystal Academy active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Crystal Garden]]
-
-
-## Connections
-
-- [[Crystal Garden]]
-- [[Ancient Tunnels Beneath Palace]]
-- [[Crystalhaven]]
-- [[Harbor District Customs House]]
-
-
-## Known Members
-
-- [[04_Resources_Assets_Locations_location-city-the-resonance-cathedral-v1-the-resonance-cathedral.svg]]
-
-
-## Members
-
-### Notable Members
-- [[Leader Name]] - Current head
-- [[Key Officer]] - Important figure
-- [[Rising Star]] - Ambitious member
-
-### Membership Requirements
-- Skills or qualities needed
-- Initiation process
-- Ongoing obligations
-
-
-## Resources
-
-### Financial
-- Funding sources
-- Wealth level
-- Economic influence
-
-### Physical Assets
-- Properties owned
-- Equipment available
-- Special resources
-
-### Human Resources
-- Member skills
-- Allies and contacts
-- Information networks
-
-
-## Operations
-
-### Regular Activities
-- Day-to-day operations
-- Revenue generation
-- Member services
-
-### Special Operations
-- Covert activities
-- Major projects
-- Crisis responses
-
-
-## Relationships
-
-### Allies
-- Aligned organizations
-- Political supporters
-- Business partners
-
-### Enemies
-- Rival organizations
-- Opposed factions
-- Active threats
-
-### Neutral Parties
-- Potential allies or enemies
-- Trade partners
-- Watching parties
-
-
-## Secrets
-
 ### Open Secrets
 Things widely suspected
 
-### Hidden Truths
-- Real leadership
-- True funding sources
-- Secret objectives
 
-### Deep Mysteries
-- Ancient connections
-- Forbidden knowledge
-- Ultimate goals
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Stars
+
+
+## Plot Hooks
+
+- Someone is hunting information for love
+- A prisoner has gone missing and truth emerges
+- Someone is blackmailing an heir for love
+
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

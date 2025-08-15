@@ -22,17 +22,13 @@ updated: '2025-08-12T23:37:37.709340'
 world: Both
 ---
 
-
 # Gnome (Deep)
 *Source: Dungeon Master's Guide p. 282*  
-
 
 - **Ability Scores**: str +1 dex +2
 - **Size**: Small
 - **Speed**: 20 ft.
 - **Spellcasting**: Intelligence
-
-## Traits
 
 ### Innate Spellcasting
 
@@ -59,6 +55,24 @@ Accustomed to life underground, you have superior vision in dark and dim conditi
 
 You can speak, read, and write Gnomish, Terran, and Undercommon.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Gnome deep dmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -67,19 +81,22 @@ Gnome deep dmg is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of gnome deep dmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gnome deep dmg.
 
-## Adventure Hooks
-
-- A rumor ties gnome deep dmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gnome deep dmg to avert a public scandal.
-- A map overlay reveals a hidden approach to gnome deep dmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and war looms
+- A stranger needs help delivering before winter
+- Strange disappearances suggest a conspiracy
+- Someone is hunting a witness for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

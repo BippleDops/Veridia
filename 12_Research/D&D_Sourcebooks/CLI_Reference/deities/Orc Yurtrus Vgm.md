@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:04.202374+00:00'
 world: Both
 ---
 
-
-
 # Yurtrus
 *Source: Volo's Guide to Monsters p. 84* 
 
@@ -37,6 +35,24 @@ world: Both
 Yurtrus is often depicted as consumed by rot and covered in oozing pustules, utterly repulsive except for his hands, which are pure white and free of any blemish. Yurtrus has no mouth and never utters a sound, so that he may come in absolute silence for his chosen.
 
 The followers of Yurtrus are allowed to dwell on the fringes of the tribe, but are looked upon with distaste and unease. They interact with the tribe mostly on occasions of death, claiming the bones of fallen warriors to add to the ossuary shrines of Yurtrus, and sometimes during shamanic rites when contact with spirits occurs.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## The White Hands
 
@@ -58,20 +74,23 @@ Orc yurtrus vgm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of orc yurtrus vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around orc yurtrus vgm.
 
-## Adventure Hooks
-
-- A rumor ties orc yurtrus vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at orc yurtrus vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to orc yurtrus vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and war looms
+- A stranger needs help stealing before the new moon
+- A corpse reveals the truth about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

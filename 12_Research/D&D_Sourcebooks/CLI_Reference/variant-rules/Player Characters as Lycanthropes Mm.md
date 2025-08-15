@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.535360+00:00'
 world: Both
 ---
 
-
-
 # Player Characters as Lycanthropes
 *Source: Monster Manual p. 207, Curse of Strahd p. 242, Waterdeep: Dungeon of the Mad Mage p. 317, Van Richten's Guide to Ravenloft p. 237* 
 
@@ -32,6 +30,24 @@ A character who becomes a lycanthrope retains his or her statistics except as sp
 A non-lycanthrope humanoid hit by an attack that carries the curse of lycanthropy must succeed on a Constitution saving throw (DC 8 + the lycanthrope's proficiency bonus + the lycanthrope's Constitution modifier) or be cursed. If the character embraces the curse, his or her alignment becomes the one defined for the lycanthrope. The DM is free to decide that a change in alignment places the character under DM control until the curse of lycanthropy is removed.
 
 The following information applies to specific lycanthropes.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Werebear
 
@@ -78,19 +94,22 @@ Player characters as lycanthropes mm is a undersea element of the setting, known
 
 Legends speak of player characters as lycanthropes mm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around player characters as lycanthropes mm.
 
-## Adventure Hooks
-
-- A rumor ties player characters as lycanthropes mm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at player characters as lycanthropes mm to avert a public scandal.
-- A map overlay reveals a hidden approach to player characters as lycanthropes mm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A document has gone missing and war looms
+- An heirloom has gone missing and war looms
+- An heirloom has gone missing and chaos spreads

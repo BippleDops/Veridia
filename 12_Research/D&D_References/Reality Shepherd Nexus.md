@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:35.422459+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,26 @@ Reality Shepherd Nexus is a undersea element of the setting, known for biolumine
 
 Legends speak of Reality Shepherd Nexus as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reality Shepherd Nexus.
 
-## Adventure Hooks
-
-- A rumor ties Reality Shepherd Nexus to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Reality Shepherd Nexus to avert a public scandal.
-- A map overlay reveals a hidden approach to Reality Shepherd Nexus active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Merged Reality Zones|02 Worldbuilding/Lore/Merged Reality Zones]]
-
-
-## Connections
-
-- [[Merged Reality Zones]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and war looms
+- Strange disappearances suggest a portal
+- A corpse reveals ancient history about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

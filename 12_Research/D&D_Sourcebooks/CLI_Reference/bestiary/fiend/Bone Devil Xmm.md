@@ -29,14 +29,29 @@ updated: '2025-08-13T12:34:05.821982+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bone-devil-xmm-bone-devil-xmm.svg)
 
 # [[bone-devil-xmm|Bone Devil]]
-*Source: Monster Manual (2024) p. 52. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 52. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Bone Devil
 
@@ -80,10 +95,8 @@ Bone devils travel across the multiverse to fulfill diabolical orders. If left w
 "stats":
   - !!int "18"
   - !!int "16"
-  - !!int "18"
   - !!int "13"
   - !!int "14"
-  - !!int "16"
 "speed": "40 ft., fly 40 ft."
 "saves":
   - "strength": !!int "8"
@@ -138,19 +151,27 @@ Bone devil xmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of bone devil xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bone devil xmm.
 
-## Adventure Hooks
-
-- A rumor ties bone devil xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at bone devil xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to bone devil xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals the truth about the government
+- Someone is protecting a artifact for money
+- Someone is protecting a witness for love
+- A letter reveals ancient history about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

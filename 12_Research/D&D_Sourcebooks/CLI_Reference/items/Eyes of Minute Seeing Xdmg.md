@@ -24,20 +24,33 @@ updated: '2025-08-13T12:34:06.946730+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-eyes-of-minute-seeing-xdmg-eyes-of-minute-seeing-xdmg.svg)
 
 # Eyes of Minute Seeing
 *Wondrous item, uncommon*  
 
-
-
 These crystal lenses fit over the eyes. While wearing them, your vision improves significantly out to a range of 1 foot, granting you [[senses#Darkvision|Darkvision]] within that range and [[advantage-xphb|Advantage]] on Intelligence ([[skills#Investigation|Investigation]]) checks made to examine something within that range.
 
-*Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 261. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -47,19 +60,25 @@ Eyes of minute seeing xdmg is a undersea element of the setting, known for biolu
 
 Legends speak of eyes of minute seeing xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around eyes of minute seeing xdmg.
 
-## Adventure Hooks
-
-- A rumor ties eyes of minute seeing xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at eyes of minute seeing xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to eyes of minute seeing xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

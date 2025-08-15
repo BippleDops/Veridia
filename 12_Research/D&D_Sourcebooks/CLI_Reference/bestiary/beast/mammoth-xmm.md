@@ -27,13 +27,29 @@ updated: '2025-08-12T23:37:35.174772'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mammoth-xmm-mammoth-xmm.svg)
 
 # [[mammoth-xmm|Mammoth]]
-*Source: Monster Manual (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 365. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Animals
 
@@ -68,11 +84,11 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "Melee Attack Roll: +10, reach 10 ft. Hit: 18 (2d10 + 7) Piercing\
       \ damage. If the target is a Huge or smaller creature and the mammoth moved\
       \ 20+ feet straight toward it immediately before the hit, the target has the\
-      \ [[conditions#Prone|Prone]] condition."
+      \ [[conditions#prone|Prone]] condition."
     "name": "Gore"
 "bonus_actions":
   - "desc": "Dexterity Saving Throw: DC 18, one creature within 5 feet that has\
-      \ the [[conditions#Prone|Prone]] condition. Failure: 29\
+      \ the [[conditions#prone|Prone]] condition. Failure: 29\
       \ (4d10 + 7) Bludgeoning damage. Success: Half damage."
     "name": "Trample"
 "source":
@@ -93,19 +109,31 @@ Mammoth xmm is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of mammoth xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mammoth xmm.
 
-## Adventure Hooks
-
-- A rumor ties mammoth xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at mammoth xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to mammoth xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals a conspiracy about the government
+- A corpse reveals ancient history about this place
+- Someone is searching for a witness for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

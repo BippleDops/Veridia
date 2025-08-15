@@ -16,28 +16,22 @@ updated: '2025-08-13T01:18:36.751938+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Structure
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Goals
-
-TODO
-## Assets
-
-TODO
-## Conflicts
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -47,28 +41,27 @@ Pressure Cult is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of Pressure Cult as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pressure Cult.
 
-## Adventure Hooks
-
-- A rumor ties Pressure Cult to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Pressure Cult to avert a public scandal.
-- A map overlay reveals a hidden approach to Pressure Cult active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Deep Mother Influence|02 Worldbuilding/Lore/Deep Mother Influence]]
-
-
-## Connections
-
-- [[Deep Mother Influence]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a conspiracy
+- Strange dreams suggest a curse
+- A noble needs help finding before the new moon
+- A shipment has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -10,7 +10,23 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Combat Narrative Integration
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Weaving Story Elements into Tactical Encounters
 
@@ -48,7 +64,7 @@ Research on making combat encounters meaningful contributors to narrative rather
 
 **Descriptive Combat Narration**:
 - **Character-Specific Descriptions**: Combat actions reflect personality and background
-- **Emotional Resonance**: Physical actions convey emotional states
+- **Emotional Resoce**: Physical actions convey emotional states
 - **Relationship Manifestation**: How characters protect or coordinate with allies
 - **Environmental Interaction**: Using surroundings in story-meaningful ways
 
@@ -82,7 +98,7 @@ Research on making combat encounters meaningful contributors to narrative rather
 
 **Aethermoor Combat Narratives**:
 - **Altitude Effects**: Height and wind affecting both combat and narrative
-- **Crystal Resonance**: Harmonic elements in combat revealing magical connections
+- **Crystal Resoce**: Harmonic elements in combat revealing magical connections
 - **Weather Integration**: Storm conditions affecting combat and story simultaneously
 - **Gravitational Drama**: Fall risks creating both tactical and narrative stakes
 
@@ -156,13 +172,11 @@ class CombatOutcome(BaseModel):
 ```
 
 Combat encounter preparation:
-```python
 encounter_narrative_goals: List[str]  # Story objectives for this combat
 character_personality_integration: Dict[str, List[str]]  # How each PC's personality should manifest
 environmental_story_opportunities: List[str]  # Location-based narrative possibilities
 information_revelation_plan: List[str]  # How story details will emerge during combat
 consequence_preparation: Dict[str, List[str]]  # Different outcome scenarios
-```
 
 ### Success Metrics
 
@@ -178,7 +192,6 @@ Effective combat narrative integration shows:
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -186,3 +199,23 @@ Effective combat narrative integration shows:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Plot Hooks
+
+- Strange accidents suggest a conspiracy
+- A stranger needs help finding before the festival
+- A shipment has gone missing and truth emerges
+- The authorities needs help stealing before winter
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

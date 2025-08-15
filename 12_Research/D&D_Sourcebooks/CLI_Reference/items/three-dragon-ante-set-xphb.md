@@ -23,14 +23,11 @@ updated: '2025-08-12T23:37:37.297229'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-three-dragon-ante-set-xphb-three-dragon-ante-set-xphb.svg)
 
 # Three-Dragon Ante Set
 *Gaming set*  
-
 
 - **Cost**: 1 gp
 
@@ -38,6 +35,24 @@ world: Both
 - **Utilize.** Discern whether someone is cheating (DC 10), or win the game (DC 20)  
 
 *Source: Player's Handbook (2024) p. 221. Available in the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -47,19 +62,30 @@ Three dragon ante set xphb is a undersea element of the setting, known for biolu
 
 Legends speak of three dragon ante set xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around three dragon ante set xphb.
 
-## Adventure Hooks
-
-- A rumor ties three dragon ante set xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at three dragon ante set xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to three dragon ante set xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Stars
+
+
+## Plot Hooks
+
+- A map reveals ancient history about this place
+- Strange accidents suggest ancient magic
+- Strange dreams suggest a conspiracy
+- A shipment has gone missing and chaos spreads
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

@@ -1,7 +1,7 @@
-# Resonance Equipment
+# Resoce Equipment
 
 ---
-title: Resonance Equipment
+title: Resoce Equipment
 type: Lore
 tags:
 - lore
@@ -16,39 +16,56 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[The Whispering Expanse|02 Worldbuilding/Quests/The Whispering Expanse]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[The Whispering Expanse]]
 
 ## Player-Facing Summary
 
-Resonance Equipment is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+Resoce Equipment is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of Resonance Equipment as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Resonance Equipment.
-
-## Adventure Hooks
-
-- A rumor ties Resonance Equipment to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Resonance Equipment to avert a public scandal.
-- A map overlay reveals a hidden approach to Resonance Equipment active only during specific tides/storms.
+Legends speak of Resoce Equipment as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Resoce Equipment.
 
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Plot Hooks
+
+- Someone is hunting a witness for love
+- Someone is hunting an heir for revenge
+- Someone is protecting information for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

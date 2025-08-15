@@ -28,15 +28,31 @@ updated: '2025-08-12T23:37:35.629986'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-vampire-spawn-xmm-vampire-spawn-xmm.svg)
 
 # [[vampire-spawn-xmm|Vampire Spawn]]
-*Source: Monster Manual (2024) p. 315. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 315. Available in the SRD and the Free Rules (2024)*  
 
 Vampire spawn are newly created vampires. They have yet to fully master their abilities, and many are consumed by their thirst for blood. Vampire spawn might serve more powerful vampires or pursue their own depraved agendas.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Vampires
 
@@ -56,7 +72,7 @@ Undead vampires lie dormant during the day, retreating to resting places hidden 
 | dice: 1d6 | The Vampire's Resting Place Is... |
 |-----------|-----------------------------------|
 | 1 | Among the roots of a dead tree. |
-| 2 | At the bottom of a stagnant pool. |
+| 2 | At the bottom of a stagt pool. |
 | 3 | A coffin filled with grave dirt. |
 | 4 | A large pot full of blood or vinegar. |
 | 5 | A space accessible only by shape-shifting. |
@@ -71,7 +87,6 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 > 
 > Darling, you are simply delicious...
 
-
 ```statblock
 "name": "Vampire Spawn (XMM)"
 "size": "Small or Medium"
@@ -82,8 +97,6 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 "hit_dice": "12d8 + 36"
 "modifier": !!int "3"
 "stats":
-  - !!int "16"
-  - !!int "16"
   - !!int "16"
   - !!int "11"
   - !!int "10"
@@ -151,18 +164,9 @@ Vampire spawn xmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of vampire spawn xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around vampire spawn xmm.
 
-## Adventure Hooks
-
-- A rumor ties vampire spawn xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at vampire spawn xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to vampire spawn xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

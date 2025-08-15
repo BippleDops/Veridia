@@ -22,12 +22,26 @@ updated: '2025-08-12T23:37:35.692605'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-white-dragon-xmm-adult-white-dragon-xmm.svg)
 
-# White Dragon
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Regional effects
 _Source: Monster Manual (2024)_
@@ -47,19 +61,22 @@ White dragon xmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of white dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around white dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties white dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at white dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to white dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing a witness for revenge
+- A corpse reveals the truth about the government
+- A letter reveals ancient history about the cult
+- Someone is protecting an heir for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

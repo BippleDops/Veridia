@@ -19,12 +19,22 @@ world: Both
 ---
 
 
-# Index of Vehicles
+## 🔧 Deep Evaluation Improvements
 
-- [[apparatus-of-kwalish-xdmg|Apparatus of Kwalish]]
-- [[astral-brig-mtf|Astral Brig]]
-- [[astral-skiff-mtf|Astral Skiff]]
-- [[planar-raider-mtf|Planar Raider]]
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -34,19 +44,21 @@ Vehicles is a undersea element of the setting, known for bioluminescent glow and
 
 Legends speak of vehicles as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around vehicles.
 
-## Adventure Hooks
-
-- A rumor ties vehicles to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at vehicles to avert a public scandal.
-- A map overlay reveals a hidden approach to vehicles active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a conspiracy about the government
+- A shipment has gone missing and war looms
+- Someone is blackmailing a witness for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

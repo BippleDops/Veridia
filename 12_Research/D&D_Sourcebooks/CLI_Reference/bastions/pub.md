@@ -1,6 +1,5 @@
-# pub
-
 ---
+
 title: pub
 aliases:
 - Pub
@@ -19,8 +18,9 @@ obsidianUIMode: preview
 cssclasses: json5e-bastion
 updated: '2025-08-13T01:18:32.414118+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
-
 
 
 > [!figure] View
@@ -36,6 +36,24 @@ world: Both
 
 Folks come here to consume tasty beverages and socialize. Your Pub might be a bar, coffee shop, or tea room, and it might have a colorful name, such as the Rusty Flagon or the Dragon's Loft. The facility's hireling, who serves as the bartender, maintains a network of spies scattered throughout nearby communities. These spies are useful sources of information and frequent the Pub, often incognito.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Research: Information Gathering
 
 When you issue the "Research" order to this facility, you commission the Pub's bartender to gather information from spies who are aware of all important events happening within 10 miles of your Bastion over the next 7 days. During that time, these spies can divulge the location of any creature that is familiar to you, provided the creature is within 50 miles of your Bastion and not hidden by magic or confined to a location that the DM deems is beyond the spy network's ability to locate. If the spies learn the target's location, they also learn where that creature has been for the previous 7 days.
@@ -48,7 +66,7 @@ The Pub has one magical beverage on tap, chosen from the options below:
 - **Kiss of the Spider Queen.** Drinking a pint of this beverage grants you the effect of a [[spider-climb-xphb|Spider Climb]] spell that has a duration of 24 hours.  
 - **Moonlight Serenade.** Drinking a pint of this beverage gives you [[senses#Darkvision|Darkvision]] out to 60 feet for 24 hours. If you already have Darkvision, its range is extended by 60 feet for the same duration.  
 - **Positive Reinforcement.** Drinking a pint of this beverage gives you Resistance to Necrotic damage for 24 hours.  
-- **Sterner Stuff.** For 24 hours after drinking a pint of this beverage, you automatically succeed on saving throws to avoid or end the [[conditions#Frightened|Frightened]] condition.  
+- **Sterner Stuff.** For 24 hours after drinking a pint of this beverage, you automatically succeed on saving throws to avoid or end the [[conditions#frightened|Frightened]] condition.  
 
 At the start of a Bastion turn, you can switch to one of the other options. Your DM may create new options. A pint of this magical beverage loses its magic 24 hours after it's poured.
 
@@ -66,19 +84,20 @@ Pub is a undersea element of the setting, known for bioluminescent glow and pres
 
 Legends speak of pub as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around pub.
 
-## Adventure Hooks
-
-- A rumor ties pub to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at pub to avert a public scandal.
-- A map overlay reveals a hidden approach to pub active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

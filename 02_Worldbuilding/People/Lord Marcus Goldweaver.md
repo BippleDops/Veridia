@@ -1,4 +1,5 @@
 ---
+
 title: Lord Marcus Goldweaver
 type: Npc
 tags:
@@ -10,6 +11,7 @@ tags:
 - complete
 - status/in-progress
 - aethermoor
+- bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +20,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.478597+00:00'
 world: Aethermoor
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +30,69 @@ world: Aethermoor
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-marcus-goldweaver-lord-marcus-goldweaver.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward avoidance
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more focused
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward confrontation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
 
 ## Player-Facing Summary
 
@@ -67,14 +101,6 @@ Lord Marcus Goldweaver is a undersea element of the setting, known for biolumine
 ## Lore Details
 
 Legends speak of Lord Marcus Goldweaver as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lord Marcus Goldweaver.
-
-## Adventure Hooks
-
-- A rumor ties Lord Marcus Goldweaver to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Lord Marcus Goldweaver to avert a public scandal.
-- A map overlay reveals a hidden approach to Lord Marcus Goldweaver active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +111,6 @@ Lord Marcus Goldweaver's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Seeking redemption
@@ -124,8 +120,6 @@ Lord Marcus Goldweaver's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Lord Marcus Goldweaver harbors secrets that could change everything:
@@ -133,10 +127,6 @@ Lord Marcus Goldweaver harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Divine mission
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +145,6 @@ Lord Marcus Goldweaver is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Lord Marcus Goldweaver needs assistance with a delicate matter
@@ -164,8 +152,6 @@ Lord Marcus Goldweaver is currently engaged in:
 3. **The Secret**: Information about Lord Marcus Goldweaver's past surfaces
 4. **The Alliance**: Opportunity to work with or against Lord Marcus Goldweaver
 5. **The Crisis**: Lord Marcus Goldweaver is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,50 +165,21 @@ Lord Marcus Goldweaver is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Lord Marcus Goldweaver]]
-
-<!-- enriched: true -->
-
-
-
-
-## Relationship Web
-
-- [[04_Resources_Assets_Locations_location-city-master-smith-vulcan-deepforge-v1-master-smith-vulcan-deepforge.svg]]: *debt holder*
-- [[King Consort Meridian]]: *bitter rival*
-- [[Quest - The Traitor Within]]: *patron*
-- [[02_Worldbuilding_People_Admiral_Marina_Stormcrest]]: *informant*
-
-## Connections
-
-### Home
-- [[The Iron Pits of Malachar]]
-
-### Affiliations
-- [[The Shadow Merchant Prim]]
-
-### Known Associates
-- [[Senator_Glaucus_Brain]] (enemy)
-- [[04_Resources_Assets_Locations_location-city-master-smith-vulcan-deepforge-master-smith-vulcan-deepforge.svg]] (enemy)
-- [[Deep Mother's Domain]] (enemy)
-
-
-## Character Arc
-
-### Starting Point
-- **Current State**: Troubled
-- **Core Desire**: Power
-- **Major Flaw**: Greed
-
 ### Development Triggers
 1. **Catalyst Event**: Betrayal
 2. **Challenge**: Must overcome internal demons
 3. **Growth Moment**: Learns humility
 
-### Potential Endings
-- **Redemption**: Overcomes flaw and finds peace
-- **Tragedy**: Succumbs to flaw with consequences  
-- **Transformation**: Becomes someone entirely new
-- **Stasis**: Refuses to change despite opportunities
+
+## Bloodline
+
+Member of House Eagleblood - Trait: curse
+
+
+## Relationships
+
+- **Ally**: [[Portrait NPC Archbishop Matthias Lightbringer Archbishop Matthias Lightbringer.svg]]
+- **Blackmailer**: [[Master of Currents Poseidon]]
+- **Friend**: [[Portrait NPC Deepwater Banking Consortium Deepwater Banking Consortium.svg]]
+- **Enemy**: [[Assets Symbols Symbol Heraldry Temporal Engineering Guil Temporal Engineering Guil.svg]]
+- **Student**: [[Captain Steelhart]]

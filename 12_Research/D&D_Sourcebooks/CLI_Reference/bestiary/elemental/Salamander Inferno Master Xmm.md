@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:05.726527+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-salamander-inferno-master-xmm-salamander-inferno-master-xmm.svg)
 
@@ -40,6 +37,24 @@ world: Both
 *Source: Monster Manual (2024) p. 267*  
 
 Salamander inferno masters are ancient connoisseurs of flames and often inhabit places with unique scorching properties. They gather communes of apprentices who learn fiery techniques while helping their mentors accomplish great works. Inferno masters have ambitious goals, such as causing massive volcanic eruptions, opening portals to burning planes, destroying Artifacts, or burning all instances of something from the multiverse.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Salamanders
 
@@ -55,7 +70,6 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 > [!quote] A quote from Filiag Highthumbs  
 > 
 > The salamanders of the Elemental Plane of Fire delight in meeting visitors from other realms. For them, every stranger is a potential addition to their fiery artistry. Don't fall for their flattery, no matter how beautifully they say you'll burn.
-
 
 ```statblock
 "name": "Salamander Inferno Master (XMM)"
@@ -80,7 +94,7 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 "damage_vulnerabilities": "cold"
 "damage_immunities": "fire"
 "senses": "darkvision 120 ft., passive Perception 10"
-"languages": "Primordial (Ignan)"
+"languages": "Primordial (Ig)"
 "cr": "15"
 "traits":
   - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
@@ -133,19 +147,25 @@ Salamander inferno master xmm is a undersea element of the setting, known for bi
 
 Legends speak of salamander inferno master xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around salamander inferno master xmm.
 
-## Adventure Hooks
-
-- A rumor ties salamander inferno master xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at salamander inferno master xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to salamander inferno master xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

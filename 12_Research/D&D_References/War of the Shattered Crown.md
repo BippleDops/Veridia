@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:35.511790+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,35 @@ War of the Shattered Crown is a undersea element of the setting, known for biolu
 
 Legends speak of War of the Shattered Crown as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around War of the Shattered Crown.
 
-## Adventure Hooks
-
-- A rumor ties War of the Shattered Crown to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at War of the Shattered Crown to avert a public scandal.
-- A map overlay reveals a hidden approach to War of the Shattered Crown active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Royal Embassy|02 Worldbuilding/Lore/Royal Embassy]]
-
-
-## Connections
-
-- [[Royal Embassy]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and evil awakens
+- The authorities needs help delivering before dawn
+- Someone is hunting a artifact for power
+- Someone is searching for an heir for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

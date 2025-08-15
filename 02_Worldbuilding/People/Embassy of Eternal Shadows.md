@@ -1,4 +1,5 @@
 ---
+
 title: Embassy of Eternal Shadows
 type: Npc
 tags:
@@ -18,6 +19,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.708824+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +29,62 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-embassy-of-eternal-shadows-embassy-of-eternal-shadows.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward negotiation
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward manipulation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
 
 ## Player-Facing Summary
 
@@ -67,14 +93,6 @@ Embassy of Eternal Shadows is a undersea element of the setting, known for biolu
 ## Lore Details
 
 Legends speak of Embassy of Eternal Shadows as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Embassy of Eternal Shadows.
-
-## Adventure Hooks
-
-- A rumor ties Embassy of Eternal Shadows to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Embassy of Eternal Shadows to avert a public scandal.
-- A map overlay reveals a hidden approach to Embassy of Eternal Shadows active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +103,6 @@ Embassy of Eternal Shadows's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Protecting loved ones
@@ -124,8 +112,6 @@ Embassy of Eternal Shadows's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Embassy of Eternal Shadows harbors secrets that could change everything:
@@ -133,10 +119,6 @@ Embassy of Eternal Shadows harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Stolen identity
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +137,6 @@ Embassy of Eternal Shadows is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Embassy of Eternal Shadows needs assistance with a delicate matter
@@ -164,8 +144,6 @@ Embassy of Eternal Shadows is currently engaged in:
 3. **The Secret**: Information about Embassy of Eternal Shadows's past surfaces
 4. **The Alliance**: Opportunity to work with or against Embassy of Eternal Shadows
 5. **The Crisis**: Embassy of Eternal Shadows is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,22 +157,24 @@ Embassy of Eternal Shadows is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Embassy of Eternal Shadows]]
+## Bloodline
 
-<!-- enriched: true -->
-
+Member of House Lionblood - Trait: prophecy
 
 
+## A Day in the Life
 
-## Relationship Web
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
 
-- [[04_Resources_Assets_Symbols_symbol-heraldry-the-artisans-collective-of-master-crafters-the-artisans-collective-of-master-crafters.svg]]: *debt holder*
-- [[Senator Glaucus Brain]]: *former lover*
-- [[04_Resources_Assets_Symbols_symbol-heraldry-border-fortresses-border-fortresses.svg]]: *informant*
-- [[The Wake]]: *mentor*
-
-## Connections
-
-- [[Tenebrarum Ambassadors]]
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

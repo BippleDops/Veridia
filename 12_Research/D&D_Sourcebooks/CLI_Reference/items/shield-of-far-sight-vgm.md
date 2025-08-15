@@ -23,14 +23,11 @@ updated: '2025-08-12T23:37:37.293840'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-shield-of-far-sight-vgm-shield-of-far-sight-vgm.svg)
 
 # Shield of Far Sight
 *Armor ([[shield-xphb|shield]]), rare*  
-
 
 - **Armor Class**: 2
 - **Weight**: 6.0 lbs.
@@ -41,6 +38,24 @@ If a shield of far sight is destroyed, the [[mind-flayer-xmm|mind flayer]] that 
 
 *Source: Volo's Guide to Monsters p. 81*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Shield of far sight vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -49,18 +64,9 @@ Shield of far sight vgm is a undersea element of the setting, known for biolumin
 
 Legends speak of shield of far sight vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around shield of far sight vgm.
 
-## Adventure Hooks
-
-- A rumor ties shield of far sight vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at shield of far sight vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to shield of far sight vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

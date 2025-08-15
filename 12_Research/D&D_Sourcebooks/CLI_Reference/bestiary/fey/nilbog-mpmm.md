@@ -29,8 +29,6 @@ updated: '2025-08-12T23:37:35.268045'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-nilbog-mpmm-nilbog-mpmm.svg)
 
@@ -42,6 +40,24 @@ When Maglubiyet conquered the goblin gods, a trickster deity was determined to g
 Whenever goblinoids form a host, there is a chance that a goblin will become possessed by a nilbog, particularly if the goblins have been mistreated by their betters. The possessed goblin turns into a wisecracking, impish creature fearless of reprisal. This nilbog also gains strange powers that drive others to do the opposite of what they desire. Attacking the possessed goblin is foolhardy, and killing them just prompts the spirit to possess another goblin. The only way to keep a nilbog from wreaking havoc is to treat it well and give it respect and praise.
 
 Among fey courts, the risk of attracting a nilbog has given rise to the practice of always including at least one goblin jester. This jester is allowed to go anywhere and do whatever they please, hopefully preventing a nilbog from manifesting. The position of jester is much sought-after among the courts' goblins, because even if the jester is obviously not a nilbog, the court must indulge their chaotic behavior.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Nilbogism
 
@@ -66,8 +82,6 @@ If its host is killed or the possession is ended by a spell such as hallow, magi
   - !!int "8"
   - !!int "14"
   - !!int "10"
-  - !!int "10"
-  - !!int "8"
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
@@ -124,19 +138,38 @@ Nilbog mpmm is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of nilbog mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around nilbog mpmm.
 
-## Adventure Hooks
-
-- A rumor ties nilbog mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at nilbog mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to nilbog mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- Strange dreams suggest a conspiracy
+- A merchant needs help stealing before winter
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

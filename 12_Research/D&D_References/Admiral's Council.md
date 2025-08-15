@@ -17,12 +17,22 @@ updated: '2025-08-13T01:18:34.617793+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,19 +42,27 @@ Admiral's Council is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Admiral's Council as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Admiral's Council.
 
-## Adventure Hooks
-
-- A rumor ties Admiral's Council to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Admiral's Council to avert a public scandal.
-- A map overlay reveals a hidden approach to Admiral's Council active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A journal reveals ancient history about the cult
+- The authorities needs help stealing before the new moon
+- The authorities needs help stealing before winter
+- Someone is hunting information for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

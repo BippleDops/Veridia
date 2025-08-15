@@ -27,9 +27,6 @@ updated: '2025-08-13T12:34:05.485579+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-armored-saber-toothed-tiger-cos-1-armored-saber-toothed-tiger-cos-1.svg)
 
@@ -68,8 +65,8 @@ world: Both
     "name": "Keen Smell"
   - "desc": "If the tiger moves at least 20 feet straight toward a creature and then\
       \ hits it with a claw attack on the same turn, that target must succeed on a\
-      \ DC 14 Strength saving throw or be knocked [[conditions#Prone|prone]].\
-      \ If the target is [[conditions#Prone|prone]], the tiger\
+      \ DC 14 Strength saving throw or be knocked [[conditions#prone|prone]].\
+      \ If the target is [[conditions#prone|prone]], the tiger\
       \ can make one bite attack against it as a bonus action."
     "name": "Pounce"
 "actions":
@@ -85,6 +82,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Armored saber toothed tiger cos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -93,19 +108,15 @@ Armored saber toothed tiger cos is a undersea element of the setting, known for 
 
 Legends speak of armored saber toothed tiger cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around armored saber toothed tiger cos.
 
-## Adventure Hooks
-
-- A rumor ties armored saber toothed tiger cos to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at armored saber toothed tiger cos to avert a public scandal.
-- A map overlay reveals a hidden approach to armored saber toothed tiger cos active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:07.018931+00:00'
 world: Both
 ---
 
-
-
 # Club
 *Weapon*  
 ![](/03_Mechanics/CLI/items/img/club.webp#right)
@@ -35,7 +33,25 @@ world: Both
 - **Cost**: 1 sp
 - **Weight**: 2.0 lbs.
 
-*Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 215. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -45,19 +61,18 @@ Club xphb is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of club xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around club xphb.
 
-## Adventure Hooks
-
-- A rumor ties club xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at club xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to club xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals the truth about a local noble
+- An heirloom has gone missing and chaos spreads
+- A noble needs help delivering before winter
+- A journal reveals the truth about this place

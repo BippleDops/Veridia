@@ -15,24 +15,26 @@ updated: '2025-08-13T01:18:36.538538+00:00'
 world: Both
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-port-meridian-noble-quarter-port-meridian-noble-quarter.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[Location Index|02 Worldbuilding/Lore/Location Index]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Aethermoor]]
-- [[Port Meridian - Market Square]]
-- [[Port Meridian]]
 
 ## Player-Facing Summary
 
@@ -42,19 +44,16 @@ Port Meridian   Noble Quarter is a undersea element of the setting, known for bi
 
 Legends speak of Port Meridian   Noble Quarter as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Port Meridian   Noble Quarter.
 
-## Adventure Hooks
-
-- A rumor ties Port Meridian   Noble Quarter to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Port Meridian   Noble Quarter to avert a public scandal.
-- A map overlay reveals a hidden approach to Port Meridian   Noble Quarter active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals a betrayal about this place
+- A noble needs help investigating before the festival

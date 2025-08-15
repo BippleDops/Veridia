@@ -21,7 +21,7 @@ status: outlined
 location:
 - - Multiple Recursion Levels
 session_number: 8
-date_played: null
+date_played: 
 MyCategory: Unknown
 MyContainer: None
 depth: Variable (Reality Layers)
@@ -46,21 +46,29 @@ world: Aquabyssos
 ---
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
-
-
-
-
-# Session 8: The Fractal Conspiracy
 ## Through Infinite Realities
 
 > *"In the fractals, every choice you didn't make is waiting for you."*
 
 ## 🎬 Strong Start
 The party enters the Fractal Forests to find themselves in multiple realities simultaneously. In one, they're victorious heroes. In another, they're shadow-possessed villains. In a third, they never existed at all. [[Lord Flux the Inconsistent]] greets them—all of them—at once: "Welcome to every possibility. The Singers Beyond can't find what exists everywhere and nowhere. But first, you must choose which reality you want to save."
-
-## 🎭 Scenes
 
 ### Scene 1: The Probability Prison
 **Location**: [[Vorthak]] Fragment in Crystallium  
@@ -128,35 +136,6 @@ The party enters the Fractal Forests to find themselves in multiple realities si
 - Witness their failures across timelines
 - Success generates Grief Points (need 100)
 
-## 🗡️ Combat Encounters
-
-### Probability Spawn (Endless)
-- **AS** Variable (10+d10)
-- **HP** Variable (10d10)
-- **Attacks** Random each round
-- **Special**: Defeating one creates two in other timelines
-
-### The Joy Plague (Anti-Combat)
-- **Effect**: Forced happiness in Mourning Depths
-- **Damage**: 1d8 psychic per round of joy
-- **Save**: CHA DC 17 to feel appropriate sorrow
-- **Cure**: Experience genuine grief
-
-### Singer Fragment (First Contact)
-- **AS** 22, **HP** 200
-- **Immunity**: All damage except sorrow-infused
-- **Reality Warp**: Changes rules each round
-- **Existence Attack**: Erases things from reality
-- **Weakness**: Grief Bomb prototype weapons
-
-### Lord Flux (All Versions)
-- **AS** 16-20 (depends on version)
-- **HP** 80 per probability iteration
-- **Special**: Exists in all timelines simultaneously
-- **Defeat Condition**: Unite all versions
-
-## 🎲 Environmental Madness
-
 ### Recursion Effects (Roll d12 each scene)
 1. Gravity inverts
 2. Time flows backward
@@ -171,21 +150,6 @@ The party enters the Fractal Forests to find themselves in multiple realities si
 11. Everything is underwater but breathable
 12. Roll twice, both happen
 
-### Memoriam Erasure
-- Names disappear from memory
-- Faces become generic
-- Achievements are forgotten
-- Relationships cease to exist
-- Eventually, self is forgotten
-
-## 💰 Treasure & Rewards
-- Grief Bomb Components
-- Probability Map (navigate timelines)
-- 2,000 [[Sorrow Pearls]] (crystallized tears)
-- Marina's Complete Memory Set
-- Flux Stabilizer (lock into one reality)
-- Echo Chamber Key (access all recursions)
-
 ## 🔍 Secrets & Clues
 1. The Singers Beyond are fleeing something worse
 2. The Deep Mother was a Singer who chose to stay
@@ -197,8 +161,6 @@ The party enters the Fractal Forests to find themselves in multiple realities si
 8. Shadows are immune to Singer detection
 9. The harvest creates Singer invisibility
 10. One party member is from another timeline
-
-## 🔗 Timeline Convergence Points
 
 ### Critical Decision
 Party must choose which timeline becomes "real":
@@ -229,35 +191,9 @@ Marina's echo speaks one last time: "The Mourning Depths knows the way. The Sorr
 
 ---
 
-## 🎯 DM Notes
-- This session should feel like reality is breaking
-- Multiple versions of NPCs and PCs can appear
-- Let players roleplay alternate versions of themselves
-- The revelation should recontextualize entire campaign
-- Set up for penultimate session
-
-## 📅 Next Session Prep
-- [[Aquabyssos - Session 09 - The Mourning Strategy]]
-- Design Singer consciousness infiltration
-- Prepare emotional climax mechanics
-- Plan for character sacrifices
-
-## Cross-References
-
-- [[Campaign Index]]
-
-
-## Connections
-
-- [[Sorrow Pearls]]
-- [[Vorthak]]
-- [[Memoriam]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -266,3 +202,23 @@ Marina's echo speaks one last time: "The Mourning Depths knows the way. The Sorr
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

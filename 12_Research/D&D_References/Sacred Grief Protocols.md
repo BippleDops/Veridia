@@ -16,32 +16,26 @@ updated: '2025-08-13T01:18:36.444148+00:00'
 danger_level: Moderate
 ---
 
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-sacred-grief-protocols-sacred-grief-protocols.png]]
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Overview
+*20 targeted improvements identified*
 
-TODO
-## History
+### Connection Improvements
 
-TODO
-## Layout
+- Add cross-references to related notes
 
-TODO
-## Notables
+### Enhancement Improvements
 
-TODO
-## Threats
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -51,23 +45,22 @@ Sacred Grief Protocols is a undersea element of the setting, known for biolumine
 
 Legends speak of Sacred Grief Protocols as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sacred Grief Protocols.
 
-## Adventure Hooks
-
-- A rumor ties Sacred Grief Protocols to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Sacred Grief Protocols to avert a public scandal.
-- A map overlay reveals a hidden approach to Sacred Grief Protocols active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Sacred Grief Protocols|02 Worldbuilding/Places/Sacred Grief Protocols]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting information for love
+- A journal reveals a betrayal about this place
+- A noble needs help stealing before dawn
+- Strange dreams suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

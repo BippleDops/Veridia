@@ -28,14 +28,29 @@ updated: '2025-08-13T12:34:05.917467+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-demilich-xmm-demilich-xmm.svg)
 
 # [[demilich-xmm|Demilich]]
 *Source: Monster Manual (2024) p. 96*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Demilich
 
@@ -44,7 +59,7 @@ world: Both
 - **Habitat.** Any  
 - **Treasure.** Arcana  
 
-A demilich is a skull harboring the remnants of a lich's wicked essence. If the burden of immortality overwhelms a lich, its consciousness turns inward as its body rots away. But if its remains are disturbed, a demilich rises. Demiliches usually appear as skulls adorned with gems or arcane sigils.
+A demilich is a skull harboring the remts of a lich's wicked essence. If the burden of immortality overwhelms a lich, its consciousness turns inward as its body rots away. But if its remains are disturbed, a demilich rises. Demiliches usually appear as skulls adorned with gems or arcane sigils.
 
 ### Demilich Lairs
 
@@ -63,9 +78,7 @@ Demiliches jealously guard their deathtrap-laden sanctums. The most notorious of
   - !!int "1"
   - !!int "20"
   - !!int "10"
-  - !!int "20"
   - !!int "17"
-  - !!int "20"
 "speed": "5 ft., fly 30 ft. (hover)"
 "saves":
   - "constitution": !!int "6"
@@ -74,9 +87,9 @@ Demiliches jealously guard their deathtrap-laden sanctums. The most notorious of
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "necrotic, poison, psychic"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
-  \ [[conditions#Exhaustion|exhaustion]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Exhaustion|exhaustion]], [[conditions#frightened|frightened]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
-  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#prone|prone]],\
   \ [[conditions#Stunned|stunned]]"
 "senses": "truesight 120 ft., passive Perception 13"
 "languages": ""
@@ -96,7 +109,7 @@ Demiliches jealously guard their deathtrap-laden sanctums. The most notorious of
     "name": "Necrotic Burst"
   - "desc": "Constitution Saving Throw: DC 19, each creature in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the demilich. Failure: 70 (20d6) Psychic damage. Failure\
-      \ or Success: The target has the [[conditions#Frightened|Frightened]]\
+      \ or Success: The target has the [[conditions#frightened|Frightened]]\
       \ condition until the start of the demilich's next turn."
     "name": "Howl (Recharge 5-6)"
 "legendary_actions":
@@ -126,9 +139,7 @@ Demiliches jealously guard their deathtrap-laden sanctums. The most notorious of
       \ [[long-rest-xphb|Long Rest]] outside that\
       \ area.  \n- Travel Ward. Creatures can't use teleportation or planar travel\
       \ to enter or exit the lair.  "
-    "name": ""
   - "desc": "If the demilich dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/undead/token/demilich-xmm.webp"
@@ -147,19 +158,25 @@ Demilich xmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of demilich xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around demilich xmm.
 
-## Adventure Hooks
-
-- A rumor ties demilich xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at demilich xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to demilich xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

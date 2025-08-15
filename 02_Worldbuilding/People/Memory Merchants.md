@@ -1,4 +1,5 @@
 ---
+
 title: Memory Merchants
 type: Npc
 tags:
@@ -10,6 +11,7 @@ tags:
 - active
 - complete
 - status/in-progress
+- conspiracy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +20,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.540943+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +30,72 @@ world: Aquabyssos
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-memory-merchants-memory-merchants.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more focused
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward manipulation
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward negotiation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
 
 ## Player-Facing Summary
 
@@ -67,14 +104,6 @@ Memory Merchants is a undersea element of the setting, known for bioluminescent 
 ## Lore Details
 
 Legends speak of Memory Merchants as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Merchants.
-
-## Adventure Hooks
-
-- A rumor ties Memory Merchants to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Memory Merchants to avert a public scandal.
-- A map overlay reveals a hidden approach to Memory Merchants active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +114,6 @@ Memory Merchants's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Achieving fame
@@ -124,8 +123,6 @@ Memory Merchants's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Memory Merchants harbors secrets that could change everything:
@@ -134,13 +131,9 @@ Memory Merchants harbors secrets that could change everything:
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Double agent
 
-
-
-
-
 ## Voice & Mannerisms
 
-**Voice**: Deep and resonant
+**Voice**: Deep and resot
 
 **Speech Pattern**: Direct and concise
 
@@ -155,8 +148,6 @@ Memory Merchants is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Memory Merchants needs assistance with a delicate matter
@@ -164,8 +155,6 @@ Memory Merchants is currently engaged in:
 3. **The Secret**: Information about Memory Merchants's past surfaces
 4. **The Alliance**: Opportunity to work with or against Memory Merchants
 5. **The Crisis**: Memory Merchants is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,21 +168,15 @@ Memory Merchants is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Memory Merchants]]
+## Religious Observances
 
-<!-- enriched: true -->
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
 
-
-
-
-## Relationship Web
-
-- [[The Silhouette Surgeon Prime]]: *former lover*
-- [[#Royal & Noble Characters]]: *former lover*
-
-## Connections
-
-- [[Aurelius Goldwave]]
-- [[Find the Grief Bomb]]
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

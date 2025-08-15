@@ -1,4 +1,5 @@
 ---
+
 title: Umbral Crystal Miners
 type: Npc
 tags:
@@ -10,6 +11,7 @@ tags:
 - active
 - complete
 - status/in-progress
+- bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +20,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.708362+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +30,69 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-umbral-crystal-miners-umbral-crystal-miners.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward confrontation
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward negotiation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
 
 ## Player-Facing Summary
 
@@ -67,14 +101,6 @@ Umbral Crystal Miners is a undersea element of the setting, known for biolumines
 ## Lore Details
 
 Legends speak of Umbral Crystal Miners as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Umbral Crystal Miners.
-
-## Adventure Hooks
-
-- A rumor ties Umbral Crystal Miners to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Umbral Crystal Miners to avert a public scandal.
-- A map overlay reveals a hidden approach to Umbral Crystal Miners active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +111,6 @@ Umbral Crystal Miners's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Finding purpose
@@ -124,8 +120,6 @@ Umbral Crystal Miners's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Umbral Crystal Miners harbors secrets that could change everything:
@@ -134,13 +128,9 @@ Umbral Crystal Miners harbors secrets that could change everything:
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Double agent
 
-
-
-
-
 ## Voice & Mannerisms
 
-**Voice**: Deep and resonant
+**Voice**: Deep and resot
 
 **Speech Pattern**: Direct and concise
 
@@ -155,8 +145,6 @@ Umbral Crystal Miners is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Umbral Crystal Miners needs assistance with a delicate matter
@@ -164,8 +152,6 @@ Umbral Crystal Miners is currently engaged in:
 3. **The Secret**: Information about Umbral Crystal Miners's past surfaces
 4. **The Alliance**: Opportunity to work with or against Umbral Crystal Miners
 5. **The Crisis**: Umbral Crystal Miners is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,21 +165,7 @@ Umbral Crystal Miners is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Umbral Crystal Miners]]
+## Bloodline
 
-<!-- enriched: true -->
-
-
-
-
-## Relationship Web
-
-- [[04_Resources_Assets_Symbols_symbol-heraldry-information-exchange-information-exchange.svg]]: *childhood friend*
-- [[The Emergence]]: *competitor*
-- [[House Guard Captains]]: *business partner*
-
-## Connections
-
-- [[Tenebrarum Ambassadors]]
+Member of House Lionblood - Trait: divine blood

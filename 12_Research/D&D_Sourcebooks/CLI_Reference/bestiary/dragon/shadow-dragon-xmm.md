@@ -29,13 +29,29 @@ updated: '2025-08-12T23:37:35.774064'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-juvenile-shadow-dragon-xmm-juvenile-shadow-dragon-xmm.svg)
 
 # [[shadow-dragon-xmm|Shadow Dragon]]
 *Source: Monster Manual (2024) p. 275*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Shadow Dragons
 
@@ -58,7 +74,6 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
 > 
 > If ye truly be adventurers of lore, seek the great shadowy wyrm who lairs beneath the Peaks of Thunder and return in triumph bearing aloft her fabled Eye of Shadow.
 
-
 ```statblock
 "name": "Shadow Dragon (XMM)"
 "size": "Huge"
@@ -74,7 +89,6 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
   - !!int "18"
   - !!int "14"
   - !!int "12"
-  - !!int "18"
 "speed": "40 ft., climb 40 ft., fly 80 ft."
 "saves":
   - "dexterity": !!int "9"
@@ -115,8 +129,6 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
       \ count but acts immediately after the dragon."
     "name": "Shadow Breath (Recharge 5-6)"
 "bonus_actions":
-  - "desc": "While in [[dim-light-xphb|Dim Light]]\
-      \ or [[darkness-xphb|Darkness]], the dragon\
       \ takes the Hide action."
     "name": "Shadow Stealth"
 "legendary_actions":
@@ -139,9 +151,7 @@ Shadow dragons lair in places of darkness and despair, such as accursed ruins, t
       \ instead create [[dim-light-xphb|Dim Light]],\
       \ and creatures there have [[advantage-xphb|Advantage]]\
       \ on Dexterity ([[skills#Stealth|Stealth]]) checks.  "
-    "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/dragon/token/shadow-dragon-xmm.webp"
@@ -160,19 +170,23 @@ Shadow dragon xmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of shadow dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around shadow dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties shadow dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at shadow dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to shadow dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest ancient magic
+- An heirloom has gone missing and truth emerges
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

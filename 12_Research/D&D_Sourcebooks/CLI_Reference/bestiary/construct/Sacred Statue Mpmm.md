@@ -27,9 +27,6 @@ updated: '2025-08-13T12:34:06.093868+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sacred-statue-mpmm-sacred-statue-mpmm.svg)
 
@@ -51,9 +48,7 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 "stats":
   - !!int "19"
   - !!int "8"
-  - !!int "19"
   - !!int "14"
-  - !!int "19"
   - !!int "16"
 "speed": "25 ft."
 "saves":
@@ -62,7 +57,7 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
   \ nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "the languages the [[eidolon-mpmm|eidolon]]\
@@ -101,6 +96,24 @@ To protect sites they deem holy, gods often rely on eidolons, ghostly spirits bo
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Sacred statue mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -109,19 +122,16 @@ Sacred statue mpmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of sacred statue mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sacred statue mpmm.
 
-## Adventure Hooks
-
-- A rumor ties sacred statue mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at sacred statue mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to sacred statue mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting information for love
+- Someone is blackmailing information for love

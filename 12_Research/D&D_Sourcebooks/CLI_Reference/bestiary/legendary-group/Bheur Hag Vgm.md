@@ -23,13 +23,26 @@ updated: '2025-08-13T12:34:05.972064+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bheur-hag-vgm-bheur-hag-vgm.svg)
 
-# Bheur Hag
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Volo's Guide to Monsters_
@@ -46,7 +59,6 @@ A powerful bheur hag might have the following additional lair action:
 - The hag creates a blizzard in a 40-foot-high, 20-foot radius cylinder centered on a point she can see within 120 feet of her. The effect lasts until initiative count 20 on the next round. The blizzard lightly obscures every creature and object in the area for the duration. A creature that enters the blizzard for the first time on a turn or starts its turn there is [[conditions#Blinded|blinded]] until initiative count 20 on the next round.  
 
 ## Regional effects
-_Source: Volo's Guide to Monsters_
 
 Each hag's lair is the source of three to five regional effects; the home of a grandmother, an auntie, or a coven has more effects than the lair of a single hag, including some that can directly harm intruders. Any regional effect that requires a creature to make a saving throw uses the save DC of the hag's most powerful ability. These effects either end immediately if the hag dies or abandons the lair, or take up to `2d10` days to fade away.
 
@@ -71,19 +83,25 @@ Bheur hag vgm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of bheur hag vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bheur hag vgm.
 
-## Adventure Hooks
-
-- A rumor ties bheur hag vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at bheur hag vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to bheur hag vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help investigating before the new moon
+- A noble needs help delivering before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

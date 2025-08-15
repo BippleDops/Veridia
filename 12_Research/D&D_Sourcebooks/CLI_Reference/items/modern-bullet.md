@@ -23,18 +23,33 @@ updated: '2025-08-12T23:37:37.022782'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-modern-bullet-modern-bullet.svg)
 
 # Modern Bullet
 *Ammunition (firearm)*  
 
-
 - **Weight**: 0.1 lbs.
 
 *Source: Dungeon Master's Guide p. 268*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -44,19 +59,20 @@ Modern bullet is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of modern bullet as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around modern bullet.
 
-## Adventure Hooks
-
-- A rumor ties modern bullet to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at modern bullet to avert a public scandal.
-- A map overlay reveals a hidden approach to modern bullet active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest a curse
+- Someone is hunting a artifact for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

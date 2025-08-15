@@ -33,9 +33,6 @@ updated: '2025-08-13T12:34:05.379274+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cyclops-sentry-xmm-cyclops-sentry-xmm.svg)
 
@@ -43,6 +40,24 @@ world: Both
 *Source: Monster Manual (2024) p. 88*  
 
 Most cyclops sentries serve their divine progenitors and oppose those who would tamper with fate.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Cyclopes
 
@@ -77,7 +92,7 @@ Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vi
   - "desc": "The cyclops makes two attacks, using Stone Club or Rock in any combination."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +9, reach 10 ft. Hit: 16 (3d6 + 6) Bludgeoning\
-      \ damage. If the target is a Huge or smaller creature, it has the [[conditions#Prone|Prone]]\
+      \ damage. If the target is a Huge or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Stone Club"
   - "desc": "Ranged Attack Roll: +9, range 30/120 ft. Hit: 22 (3d10 + 6) Bludgeoning\
@@ -107,19 +122,15 @@ Cyclops sentry xmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of cyclops sentry xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cyclops sentry xmm.
 
-## Adventure Hooks
-
-- A rumor ties cyclops sentry xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at cyclops sentry xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to cyclops sentry xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

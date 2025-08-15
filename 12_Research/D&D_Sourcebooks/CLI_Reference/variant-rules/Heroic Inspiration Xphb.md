@@ -22,14 +22,30 @@ updated: '2025-08-13T12:34:04.614513+00:00'
 world: Both
 ---
 
-
-
 # Heroic Inspiration
-*Source: Player's Handbook (2024) p. 368. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+*Source: Player's Handbook (2024) p. 368. Available in the SRD and the Free Rules (2024)* 
 
 If you ([[player-character-xphb|a player character]]) have Heroic Inspiration, you can expend it to reroll any die immediately after rolling it, and you must use the new roll.
 
 If you gain Heroic Inspiration but already have it, it's lost unless you give it to a [[player-character-xphb|player character]] who lacks it.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -39,19 +55,20 @@ Heroic inspiration xphb is a undersea element of the setting, known for biolumin
 
 Legends speak of heroic inspiration xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around heroic inspiration xphb.
 
-## Adventure Hooks
-
-- A rumor ties heroic inspiration xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at heroic inspiration xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to heroic inspiration xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

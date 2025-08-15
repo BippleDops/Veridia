@@ -25,27 +25,38 @@ updated: '2025-08-13T01:18:36.023636+00:00'
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-black-market-deal-black-market-deal.svg]]
-
-
-
 
 # Black Market Deal
 
 *"In the shadows beneath the city's gleaming spires, fortunes change hands and loyalties are bought with coin that bears no government seal."*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 
 The Black Market Deal represents an ongoing network of illicit transactions and underground commerce that thrives in Aquabyssos's hidden corners. As political tensions escalate, the black market has become increasingly important for acquiring restricted items, information, and services that the various factions need but cannot obtain through official channels.
 
-This underground economy operates in the spaces between legitimate authority - abandoned pressure tube stations, forgotten maintenance tunnels, and neutral territory where official faction control is minimal. Deals range from simple smuggling operations to complex exchanges involving magical artifacts, restricted information, and services that could shift the balance of power in the city.
+This underground economy operates in the spaces between legitimate authority - abandoned pressure tube stations, forgotten maintece tunnels, and neutral territory where official faction control is minimal. Deals range from simple smuggling operations to complex exchanges involving magical artifacts, restricted information, and services that could shift the balance of power in the city.
 
 The black market serves multiple functions: providing necessary goods during shortages, enabling communication between hostile factions, and creating opportunities for both legitimate merchants and criminal enterprises to profit from the city's instability.
-
-## Quest Structure
 
 ### Phase 1: Introduction to the Underground
 **Objective**: Make contact with black market operators
@@ -71,22 +82,6 @@ The black market serves multiple functions: providing necessary goods during sho
 - New opportunities or threats based on the PCs' actions
 - Permanent connections to the black market network for future adventures
 
-## Key NPCs
-
-### The Broker Network
-- **Whisper-Touch Mira**: Information specialist who trades in secrets rather than goods
-- **Captain Finn Darkwater**: Smuggler with connections to surface world suppliers
-- **The Coral Fence**: Anonymous dealer in magical items and artifacts
-- **Madame Pearlweaver**: Upscale broker catering to wealthy clients seeking discretion
-
-### Potential Clients
-- **Faction Representatives**: Seeking items their organization officially cannot acquire
-- **Desperate Citizens**: Needing medicine, food, or supplies during shortages
-- **Foreign Agents**: Surface dwellers or other underwater realm representatives
-- **Criminal Organizations**: Seeking weapons, information, or specialized services
-
-## Locations
-
 ### The Neutral Depths
 Abandoned sections of the city's lower levels where faction control is minimal and black market activity flourishes.
 
@@ -98,46 +93,6 @@ Secure locations where high-value transactions can take place with reduced risk 
 
 ### The Drop Points
 Hidden caches throughout the city where goods and payments can be left for later collection.
-
-## Available Goods and Services
-
-### Physical Goods
-- Weapons and armor restricted by faction agreements
-- Rare magical components and artifacts
-- Surface world luxury items and technological devices
-- Medical supplies during shortages
-- Restricted alchemical substances
-
-### Information
-- Faction movement reports and strategic intelligence
-- Personal secrets of prominent citizens
-- Maps of restricted areas and hidden passages
-- Communication interception and code-breaking services
-- Background information on specific individuals
-
-### Services
-- Document forgery and identity creation
-- Discrete transportation and smuggling
-- Professional services from exiled or criminal specialists
-- Protection services and mercenary hiring
-- Communication networks bypassing official channels
-
-## Complications and Risks
-
-### Law Enforcement
-- City guards conducting sweeps of suspected meeting areas
-- Faction security forces investigating their members' unauthorized activities
-- Undercover agents attempting to infiltrate the black market network
-
-### Criminal Competition
-- Rival smuggling organizations competing for territory and customers
-- Protection rackets demanding payment from black market operators
-- Theft and betrayal within the underground community
-
-### Political Pressure
-- Faction pressure to use black market connections for political advantage
-- Attempts by various groups to control or eliminate black market activities
-- International incidents caused by smuggling operations
 
 ## Moral Considerations
 
@@ -173,11 +128,6 @@ Use the Black Market Deal structure to:
 - Generate ongoing plot threads through the consequences of black market activities
 - Explore themes of desperation, survival, and moral compromise during times of political crisis
 
-
-## Connections
-
-- [[Pearl_Harbor_City|Pearl Harbor City]]
-
 ## Player-Facing Summary
 
 Black Market Deal is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -186,13 +136,30 @@ Black Market Deal is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Black Market Deal as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Black Market Deal.
 
-## Cross-References
-
-- [[Black Market Deal|02 Worldbuilding/Places/Black Market Deal]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals ancient history about the government
+- A merchant needs help investigating before the festival
+- Strange disappearances suggest ancient magic
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

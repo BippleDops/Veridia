@@ -31,15 +31,31 @@ updated: '2025-08-12T23:37:35.249349'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bugbear-stalker-xmm-bugbear-stalker-xmm.svg)
 
 # [[bugbear-stalker-xmm|Bugbear Stalker]]
-*Source: Monster Manual (2024) p. 62. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 62. Available in the SRD and the Free Rules (2024)*  
 
 Bugbear stalkers frequently take their victims hostage, relishing opportunities to imprison and terrorize other creatures.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Bugbears
 
@@ -63,10 +79,8 @@ Bugbears embody fear of the wilds and the menace of natural places. They're noto
 "stats":
   - !!int "17"
   - !!int "14"
-  - !!int "14"
   - !!int "11"
   - !!int "12"
-  - !!int "11"
 "speed": "30 ft."
 "saves":
   - "constitution": !!int "4"
@@ -115,19 +129,24 @@ Bugbear stalker xmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of bugbear stalker xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bugbear stalker xmm.
 
-## Adventure Hooks
-
-- A rumor ties bugbear stalker xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at bugbear stalker xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to bugbear stalker xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals a conspiracy about a local noble
+- Someone is protecting a witness for love
+- A journal reveals a conspiracy about the cult
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

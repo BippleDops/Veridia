@@ -22,11 +22,22 @@ world: Both
 ---
 
 
-# Spells for Tiefling
+## 🔧 Deep Evaluation Improvements
 
-## Cantrip
+*20 targeted improvements identified*
 
-- [[/03_Mechanics/CLI/spells/thaumaturgy-xphb "XPHB"|Thaumaturgy]] as cantrip
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -36,19 +47,27 @@ List spells races tiefling xphb is a undersea element of the setting, known for 
 
 Legends speak of list spells races tiefling xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells races tiefling xphb.
 
-## Adventure Hooks
-
-- A rumor ties list spells races tiefling xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells races tiefling xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells races tiefling xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and chaos spreads
+- A stranger needs help delivering before winter
+- A document has gone missing and war looms
+- A prisoner has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

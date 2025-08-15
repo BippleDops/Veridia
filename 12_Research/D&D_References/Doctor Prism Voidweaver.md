@@ -21,15 +21,22 @@ world: Both Aethermoor & Aquabyssos
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Overview
-
-TODO
 
 ## Player-Facing Summary
 
@@ -39,29 +46,21 @@ Doctor Prism Voidweaver is a void-touched element of the setting, known for impo
 
 Legends speak of Doctor Prism Voidweaver as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Doctor Prism Voidweaver.
 
-## Adventure Hooks
-
-- A rumor ties Doctor Prism Voidweaver to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Doctor Prism Voidweaver to avert a public scandal.
-- A map overlay reveals a hidden approach to Doctor Prism Voidweaver active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Quest - The Convergence Crisis]]
-
-
-## Connections
-
-- [[The Shadow-Crystal Synthesis]]
-- [[Quest - The Convergence Crisis]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing a witness for love
+- A journal reveals ancient history about a local noble
+- Strange sightings suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

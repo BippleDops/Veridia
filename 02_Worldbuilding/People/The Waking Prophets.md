@@ -1,4 +1,5 @@
 ---
+
 title: The Waking Prophets
 type: Npc
 tags:
@@ -14,6 +15,7 @@ tags:
 - complete
 - world/aquabyssos
 - awakening
+- bloodline
 created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
@@ -26,6 +28,8 @@ created_by: auto-stub
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.567808+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -33,20 +37,77 @@ world: Aquabyssos
 > [!figure] Portrait
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-waking-prophets-the-waking-prophets.svg]]
 
-
 # The Waking Prophets
 
 *"Sleep is death's rehearsal - we practice eternal vigilance." - Prophet Insomnia*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+
 ## Overview
 The Waking Prophets believe that sleep is a curse that separates consciousness from divine truth. This ascetic order practices extreme sleep deprivation, claiming that exhaustion-induced visions reveal authentic prophecy. Members undergo rigorous training to function without sleep while maintaining prophetic clarity.
-
-## Core Beliefs
-- Sleep clouds the mind and blocks divine communication
-- True prophecy comes through sustained wakefulness
-- Dreams are lies told by malevolent entities
-- The "Great Awakening" will free all minds from sleep's tyranny
-- Consciousness is humanity's highest achievement
 
 ## Practices and Rituals
 **The Vigil:** New members stay awake for 72 consecutive hours
@@ -72,8 +133,6 @@ The group has achieved notable success in predicting events, though critics argu
 **Psychic Sensitivity:** Increased magical and supernatural awareness
 **Social Isolation:** Difficulty relating to "sleepers"
 
-
-
 ## Voice & Mannerisms
 
 **Voice**: Warm and friendly
@@ -81,13 +140,6 @@ The group has achieved notable success in predicting events, though critics argu
 **Speech Pattern**: Carefully chosen words
 
 **Physical Habits**: Maintains intense eye contact
-
-## Current Activities
-- Operating 24-hour meditation centers
-- Providing prophecy services for desperate clients
-- Recruiting insomniacs and night workers
-- Studying magical methods of permanent wakefulness
-- Preparing for prophesied "Night of No Dawn"
 
 ## Opposition
 **Medical Professionals:** Condemn dangerous health practices
@@ -100,7 +152,7 @@ The group has achieved notable success in predicting events, though critics argu
 **Sacred Stimulants:** Magical substances preventing sleep
 **Prophecy Archives:** Records of visions and interpretations
 **Training Facilities:** Centers for sleep denial education
-**Financial Support:** Donations from believers and clients
+**Ficial Support:** Donations from believers and clients
 **Underground Network:** Safe houses for avoiding authorities
 
 ## Recent Prophecies
@@ -129,36 +181,6 @@ The Waking Prophets's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Maintaining balance
@@ -168,8 +190,6 @@ The Waking Prophets's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 The Waking Prophets harbors secrets that could change everything:
@@ -177,8 +197,6 @@ The Waking Prophets harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Hidden past
-
-
 
 ## Plot Hooks
 
@@ -188,8 +206,6 @@ The Waking Prophets harbors secrets that could change everything:
 4. **The Alliance**: Opportunity to work with or against The Waking Prophets
 5. **The Crisis**: The Waking Prophets is caught in a situation requiring intervention
 
-
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -197,8 +213,6 @@ The Waking Prophets harbors secrets that could change everything:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
 
 ## Statistics (D&D 5e)
 
@@ -225,62 +239,6 @@ cr: 1/4
 ## DM Notes
 The Waking Prophets offer opportunities to explore themes of fanaticism, the price of knowledge, and the boundary between revelation and madness. Their sleep deprivation creates genuine prophetic abilities but at severe personal cost, making them complex antagonists or troubled allies.
 
-
-
-
-## Relationship Web
-
-- [[Kingdom of Luminal Peaks]]: *mentor*
-- [[04_Resources_Assets_Locations_location-city-deputy-harbor-master-marina-stormwright-deputy-harbor-master-marina-stormwright.svg]]: *secret ally*
-
-## Connections
-
-- [[His Own Shadow]]
-- [[Oracle]]
-- [[The Sorrowmaster]]
-
-
-## Appearance
-
-
-TODO
-
-
-## Personality
-
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward avoidance
-
-
-### Behavioral Patterns
-- **Under Stress**: Becomes more focused
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward negotiation
-
-
-
-TODO
-
-
-## Goals
-
-
-TODO
-
-
-## Relationships
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 The Waking Prophets is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -289,46 +247,12 @@ The Waking Prophets is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Waking Prophets as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Waking Prophets.
 
-
-
 ## Background
-
-The Waking Prophets's path to their current position involved:
 
 - **Early Life**: Formative experiences that shaped their worldview
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
 
 ## Motivations
 
@@ -339,66 +263,18 @@ The Waking Prophets's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
-
-The Waking Prophets harbors secrets that could change everything:
 
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Hidden past
 
-
-
 ## Plot Hooks
-
-1. **The Request**: The Waking Prophets needs assistance with a delicate matter
-2. **The Opposition**: Someone wants The Waking Prophets stopped or removed
-3. **The Secret**: Information about The Waking Prophets's past surfaces
-4. **The Alliance**: Opportunity to work with or against The Waking Prophets
-5. **The Crisis**: The Waking Prophets is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
-> "Every challenge is an opportunity in disguise."
-
-> "Trust is earned through action, not words."
-
-> "The path forward is rarely the easiest one."
-
-
-
 ## Statistics (D&D 5e)
-
-```statblock
-name: ---
-size: Medium
-type: Humanoid
-alignment: Neutral
-ac: 12
-hp: 22 (4d8 + 4)
-speed: 30 ft.
-str: 10
-dex: 14
-con: 12
-int: 14
-wis: 13
-cha: 15
-skills: Relevant +4
-senses: Passive Perception 11
-languages: Common
-cr: 1/4
-```
 
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[The Waking Prophets]]
-
-<!-- enriched: true -->

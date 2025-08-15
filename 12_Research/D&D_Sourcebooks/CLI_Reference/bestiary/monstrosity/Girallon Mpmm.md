@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.358195+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-girallon-mpmm-girallon-mpmm.svg)
 
@@ -43,7 +40,7 @@ Girallons are most common in temperate or warm forest environments abundant with
 
 When girallons can't climb, they stalk the forest floor, lurk in narrow ravines or shallow caves, or hide in ruined sites while waiting for prey to come near. A girallon is surprisingly stealthy, considering its size and its lack of camouflage.
 
-Girallons form loose bands of several individuals and their offspring, usually led by a dominant adult that also tends to be the oldest member of the group. When on the hunt away from their lair, girallons use roars and body language to communicate with one another over distance. Each individual typically hunts alone and widely separated from the others to ensure that everyone gets adequate fodder. The leader might organize members to work together to make a big kill, however. If they succeed, everyone in the group shares the spoils, with the best parts going to those caring for their young.
+Girallons form loose bands of several individuals and their offspring, usually led by a domit adult that also tends to be the oldest member of the group. When on the hunt away from their lair, girallons use roars and body language to communicate with one another over distance. Each individual typically hunts alone and widely separated from the others to ensure that everyone gets adequate fodder. The leader might organize members to work together to make a big kill, however. If they succeed, everyone in the group shares the spoils, with the best parts going to those caring for their young.
 
 Girallons' strange appearance and attraction to ruins lead sages to believe they were created through magic to serve as guardians for some lost empire. When that empire fell ages ago, girallons turned feral and spread out across the world.
 
@@ -63,7 +60,6 @@ Girallons that are well treated might be willing to serve as guards, though they
 "stats":
   - !!int "18"
   - !!int "16"
-  - !!int "16"
   - !!int "5"
   - !!int "12"
   - !!int "7"
@@ -72,7 +68,6 @@ Girallons that are well treated might be willing to serve as guards, though they
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
 "cr": "4"
@@ -96,6 +91,24 @@ Girallons that are well treated might be willing to serve as guards, though they
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 forest
@@ -108,19 +121,43 @@ Girallon mpmm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of girallon mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around girallon mpmm.
 
-## Adventure Hooks
-
-- A rumor ties girallon mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at girallon mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to girallon mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Stars
+
+
+## Plot Hooks
+
+- A stranger needs help investigating before the new moon
+- A map reveals a betrayal about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

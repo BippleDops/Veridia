@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.277955+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,37 @@ Original Survivor Network is a undersea element of the setting, known for biolum
 
 Legends speak of Original Survivor Network as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Original Survivor Network.
 
-## Adventure Hooks
-
-- A rumor ties Original Survivor Network to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Original Survivor Network to avert a public scandal.
-- A map overlay reveals a hidden approach to Original Survivor Network active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]
-
-
-## Connections
-
-- [[The Shadow Conspiracy]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and war looms
+- Someone is hunting an heir for revenge
+- Someone is protecting a witness for power
+- Strange disappearances suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

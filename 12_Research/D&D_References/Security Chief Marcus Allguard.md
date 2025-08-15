@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.507475+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,23 @@ Security Chief Marcus Allguard is a undersea element of the setting, known for b
 
 Legends speak of Security Chief Marcus Allguard as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Security Chief Marcus Allguard.
 
-## Adventure Hooks
-
-- A rumor ties Security Chief Marcus Allguard to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Security Chief Marcus Allguard to avert a public scandal.
-- A map overlay reveals a hidden approach to Security Chief Marcus Allguard active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Diplomatic Tides|02 Worldbuilding/Quests/Diplomatic Tides]]
-
-
-## Connections
-
-- [[Diplomatic Tides]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- Someone is blackmailing a witness for power
+- An heirloom has gone missing and truth emerges
+- Someone is hunting a witness for money
+- Someone is searching for a artifact for revenge

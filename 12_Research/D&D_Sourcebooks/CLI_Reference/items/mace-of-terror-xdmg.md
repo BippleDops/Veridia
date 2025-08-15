@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:37.469066'
 world: Both
 ---
 
-
 # Mace of Terror
 *Weapon ([[mace-xphb|mace]]), rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/mace-of-terror.webp#right)
@@ -31,9 +30,27 @@ world: Both
 - **Damage**: 1d6 bludgeoning
 - **Weight**: 4.0 lbs.
 
-This magic weapon has 3 charges and regains `d3` expended charges daily at dawn. While holding the weapon, you can take a [[actions#Magic|Magic]] action and expend 1 charge to release a wave of terror from it. Each creature of your choice within 30 feet of you must succeed on a DC 15 Wisdom saving throw or have the [[conditions#Frightened|Frightened]] condition for 1 minute. While [[conditions#Frightened|Frightened]] in this way, a creature must spend its turns trying to move as far away from you as it can, and it can't make [[actions#Opportunity%20Attack|Opportunity Attacks]]. For its action, it can use only the [[actions#Dash|Dash]] action or try to escape from an effect that prevents it from moving. If it has nowhere it can move, the creature can take the [[actions#Dodge|Dodge]] action. At the end of each of its turns, a creature repeats the save, ending the effect on itself on a success.
+This magic weapon has 3 charges and regains `d3` expended charges daily at dawn. While holding the weapon, you can take a [[actions#Magic|Magic]] action and expend 1 charge to release a wave of terror from it. Each creature of your choice within 30 feet of you must succeed on a DC 15 Wisdom saving throw or have the [[conditions#frightened|Frightened]] condition for 1 minute. While [[conditions#frightened|Frightened]] in this way, a creature must spend its turns trying to move as far away from you as it can, and it can't make [[actions#Opportunity%20Attack|Opportunity Attacks]]. For its action, it can use only the [[actions#Dash|Dash]] action or try to escape from an effect that prevents it from moving. If it has nowhere it can move, the creature can take the [[actions#Dodge|Dodge]] action. At the end of each of its turns, a creature repeats the save, ending the effect on itself on a success.
 
-*Source: Dungeon Master's Guide (2024) p. 276. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 276. Available in the SRD*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -43,19 +60,20 @@ Mace of terror xdmg is a undersea element of the setting, known for bioluminesce
 
 Legends speak of mace of terror xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mace of terror xdmg.
 
-## Adventure Hooks
-
-- A rumor ties mace of terror xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at mace of terror xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to mace of terror xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

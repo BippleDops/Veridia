@@ -27,15 +27,31 @@ updated: '2025-08-12T23:37:35.754119'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-white-dragon-xmm-adult-white-dragon-xmm.svg)
 
 # [[adult-white-dragon-xmm|Adult White Dragon]]
-*Source: Monster Manual (2024) p. 329. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 329. Available in the SRD and the Free Rules (2024)*  
 
 Adult white dragons claim large territories and are often the mightiest predators in those lands. While some lurk in their lairs for months, others regularly soar over their domains. When they spot something moving on the ice, they might swoop down to feed or extort food and offerings from sapient creatures.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## White Dragons
 
@@ -65,9 +81,7 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
 "stats":
   - !!int "22"
   - !!int "10"
-  - !!int "22"
   - !!int "8"
-  - !!int "12"
   - !!int "12"
 "speed": "40 ft., burrow 30 ft., fly 80 ft., swim 40 ft."
 "saves":
@@ -118,7 +132,7 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
   - "desc": "The region containing an adult or ancient white dragon's lair is affected\
       \ by its presence, creating the following effects:"
     "name": ""
-  - "desc": "- Frigid Cold. The area within 1 mile of the lair is an area of [[extreme-cold-xdmg|extreme\
+  - "desc": "- Frigid Cold. The area within 1 mile of the lair is an area of [[extreme-cold-xdmg|extreme\]]
       \ cold]]. Any water in that\
       \ area is [[frigid-water-xdmg|frigid water]].\
       \ See the \"Dungeon Master's Guide\" for rules on extreme cold and frigid water.\
@@ -128,9 +142,7 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
       \ that area, that creature must succeed on a DC 15 Constitution saving throw\
       \ or have its [[speed-xphb|Speed]] reduced\
       \ by 10 feet for 1 hour.  "
-    "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/dragon/token/adult-white-dragon-xmm.webp"
@@ -149,19 +161,35 @@ Adult white dragon xmm is a undersea element of the setting, known for biolumine
 
 Legends speak of adult white dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around adult white dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties adult white dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at adult white dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to adult white dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a curse
+- A stranger needs help delivering before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

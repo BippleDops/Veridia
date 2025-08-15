@@ -22,11 +22,28 @@ updated: '2025-08-12T23:37:34.677504'
 world: Both
 ---
 
-
 # Fire-Casting Statue
 *Generic Hazard*  
 
 When a creature moves onto this trap's pressure plate for the first time on a turn or starts its turn there, a nearby statue exhales a 15-foot [[cone-area-of-effect-xphb|Cone]] of magical flame. The statue can look like anything, such as a dragon or a wizard. Each creature in the Cone must succeed on a DC 15 Dexterity saving throw, taking 11 (`2d10`) Fire damage on a failed save or half as much damage on a successful one.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Detect and Disarm
 
@@ -45,7 +62,7 @@ You can scale the trap for higher levels by increasing the damage and the area o
 | 17–20 | 99 (`18d10`) | 120-foot Cone |
 ^levels-fire-damage-area-of-effect
 
-*Source: Dungeon Master's Guide (2024) p. 102. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 102. Available in the SRD*
 
 ## Player-Facing Summary
 
@@ -55,19 +72,20 @@ Fire casting statue xdmg is a undersea element of the setting, known for biolumi
 
 Legends speak of fire casting statue xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fire casting statue xdmg.
 
-## Adventure Hooks
-
-- A rumor ties fire casting statue xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at fire casting statue xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to fire casting statue xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

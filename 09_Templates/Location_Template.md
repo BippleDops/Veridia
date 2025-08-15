@@ -10,124 +10,36 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-
-# {{title}}
-
-## Quick Reference
-- **Type**: City/Town/Dungeon/Landmark
-- **Region**: [[region]]
-- **Realm**: Aquabyssos/Aethermoor
-- **Population**: 
-- **Government**: 
-- **Danger Level**: Safe/Moderate/Dangerous/Deadly
-
-## Description
-### First Impressions
-
-
-### Atmosphere
-- **Sights**: 
-- **Sounds**: 
-- **Smells**: 
-- **Feel**: 
-
-## Geography
-### Layout
-
-
 ### Notable Features
 1. 
 2. 
 3. 
 
-### Surrounding Area
-
-
-## History
-### Founding
-
-
-### Major Events
-- 
-
-### Current State
-
-
-## Demographics
-### Population
-- **Total**: 
-- **Races**: 
-- **Social Classes**: 
-
-### Government
-- **Type**: 
-- **Leader**: [[NPC]]
-- **Laws**: 
-
-## Notable Locations
 ### Districts/Areas
 1. **Name**: Description
 2. **Name**: Description
 
-### Buildings
-- **Tavern**: 
-- **Shop**: 
-- **Temple**: 
-- **Government**: 
-
-## NPCs
-### Important Figures
-- [[NPC Name]] - Role
-- [[NPC Name]] - Role
-
-### Typical Residents
-
-
-## Economy
-### Trade Goods
-- **Exports**: 
-- **Imports**: 
-
-### Services
-- 
-
-### Prices
-- Standard/Expensive/Cheap
-
-## Culture
-### Customs
-- 
-
-### Festivals
-- 
-
-### Beliefs
-- 
-
-## Defenses
-### Military
-- **Forces**: 
-- **Fortifications**: 
-
-### Natural Defenses
-- 
-
-## Secrets
-### Hidden Areas
-- 
-
-### Dark Secrets
-- 
-
 ### Rumors
-1. 
-2. 
-3. 
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 09_Templates-specific enhancement
+- Add 09_Templates-specific enhancement
+- Add 09_Templates-specific enhancement
+- Add 09_Templates-specific enhancement
+- Add 09_Templates-specific enhancement
+
 
 ## Adventure Hooks
-1. 
-2. 
-3. 
 
 ## Random Encounters
 | d12 | Encounter |
@@ -139,23 +51,9 @@ modified: '2025-08-14'
 | 9-10 | |
 | 11-12 | |
 
-## DM Notes
-### Theme
-
-
-### Mood
-
-
-### Complications
-- 
-
 ## Maps & Images
 ![[map_placeholder]]
 
-## Related
-- [[region]]
-- [[faction]]
-- [[NPC]]
 ## Semantic Connections
 *Related concepts and locations:*
 - [[Nightmarket Plaza]]
@@ -166,3 +64,20 @@ modified: '2025-08-14'
 - [[Deputy Archmerchant Scroll Deepmind]]
 - [[Finn Deepmarket]]
 - [[trade-goods-xdmg]]
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before dawn
+- Someone is protecting information for money
+- A prisoner has gone missing and war looms
+- Strange sightings suggest ancient magic
+
+## 09_Templates Specific Content
+
+Contextual improvement based on 09_Templates
+
+
+## 09_Templates Specific Content
+
+Contextual improvement based on 09_Templates

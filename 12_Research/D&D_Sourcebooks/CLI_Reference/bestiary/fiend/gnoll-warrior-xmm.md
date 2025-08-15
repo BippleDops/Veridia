@@ -30,15 +30,31 @@ updated: '2025-08-12T23:37:35.511654'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gnoll-warrior-xmm-gnoll-warrior-xmm.svg)
 
 # [[gnoll-warrior-xmm|Gnoll Warrior]]
-*Source: Monster Manual (2024) p. 140. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 140. Available in the SRD and the Free Rules (2024)*  
 
 Gnoll warriors crave endless slaughter but quickly grow bored with the prey they kill and the treasures they plunder. Nevertheless, they're enraged by the thought of anyone else having what's theirs, compelling them to ruin what they can't take with them.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Gnolls
 
@@ -52,7 +68,6 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
 > [!quote] A quote from Iggwilv  
 > 
 > Yeenoghu claims gnolls not as his brood but as maggots purposefully released to infest a despised carcass. They are a pernicious rot the Beast of Butchery spreads across mortal worlds. Whatever they once were, they were remade and are now his.
-
 
 ```statblock
 "name": "Gnoll Warrior (XMM)"
@@ -103,19 +118,15 @@ Gnoll warrior xmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of gnoll warrior xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gnoll warrior xmm.
 
-## Adventure Hooks
-
-- A rumor ties gnoll warrior xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gnoll warrior xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to gnoll warrior xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

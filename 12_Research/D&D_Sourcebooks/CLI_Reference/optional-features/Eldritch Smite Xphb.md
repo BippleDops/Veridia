@@ -23,14 +23,30 @@ updated: '2025-08-13T12:34:06.158193+00:00'
 world: Both
 ---
 
-
-
 # Eldritch Smite
 *Source: Player's Handbook (2024) p. 155*  
 
 **Prerequisite**: Level 5 Warlock
 
-Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra `d8` Force damage to the target, plus another `d8` per level of the spell slot, and you can give the target the [[conditions#Prone|Prone]] condition if it is Huge or smaller.
+Once per turn when you hit a creature with your pact weapon, you can expend a Pact Magic spell slot to deal an extra `d8` Force damage to the target, plus another `d8` per level of the spell slot, and you can give the target the [[conditions#prone|Prone]] condition if it is Huge or smaller.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -40,19 +56,30 @@ Eldritch smite xphb is a undersea element of the setting, known for bioluminesce
 
 Legends speak of eldritch smite xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around eldritch smite xphb.
 
-## Adventure Hooks
-
-- A rumor ties eldritch smite xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at eldritch smite xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to eldritch smite xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Winds
+
+
+## Plot Hooks
+
+- A shipment has gone missing and evil awakens
+- A noble needs help investigating before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

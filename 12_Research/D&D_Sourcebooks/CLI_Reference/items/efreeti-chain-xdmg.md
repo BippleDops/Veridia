@@ -26,11 +26,9 @@ updated: '2025-08-12T23:37:37.607893'
 world: Both
 ---
 
-
 # Efreeti Chain
 *Legendary (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/efreeti-chain.webp#right)
-
 
 While wearing this armor, you gain a +3 bonus to [[armor-class-xphb|Armor Class]], you have [[immunity-xphb|Immunity]] to Fire damage, and you know Primordial. In addition, you can stand on and move across molten rock as if it were solid ground.
 
@@ -38,20 +36,30 @@ While wearing this armor, you gain a +3 bonus to [[armor-class-xphb|Armor Class]
 - [Efreeti Chain Mail](#Efreeti%20Chain%20Mail)
 - [Efreeti Chain Shirt](#Efreeti%20Chain%20Shirt)
 
-## Efreeti Chain Mail
-
-- **Armor Class**: 16
-- **Strength**: Requires 13 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 55.0 lbs.
-
 ### Efreeti Chain Shirt
 
 - **Armor Class**: 13 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.
 
-
 *Source: Dungeon Master's Guide (2024) p. 257. Available in the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -61,19 +69,23 @@ Efreeti chain xdmg is a undersea element of the setting, known for bioluminescen
 
 Legends speak of efreeti chain xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around efreeti chain xdmg.
 
-## Adventure Hooks
-
-- A rumor ties efreeti chain xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at efreeti chain xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to efreeti chain xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

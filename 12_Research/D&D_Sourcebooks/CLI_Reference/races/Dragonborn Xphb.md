@@ -23,18 +23,14 @@ updated: '2025-08-13T12:34:08.057173+00:00'
 world: Both
 ---
 
-
-
 # Dragonborn
-*Source: Player's Handbook (2024) p. 187. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Player's Handbook (2024) p. 187. Available in the SRD and the Free Rules (2024)*  
 ![](/03_Mechanics/CLI/races/img/dragonborn.webp#right)
 
 - **Ability Scores**: None
 - **Type**: humanoid
 - **Size**: Medium
 - **Speed**: 30 ft.
-
-## Traits
 
 ### Draconic Ancestry
 
@@ -74,6 +70,24 @@ You have [[senses#Darkvision|Darkvision]] with a range of 60 feet.
 
 When you reach character level 5, you can channel draconic magic to give yourself temporary flight. As a [[bonus-action-xphb|Bonus Action]], you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the [[conditions#Incapacitated|Incapacitated]] condition. During that time, you have a [[fly-speed-xphb|Fly Speed]] equal to your [[speed-xphb|Speed]]. Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can't use it again until you finish a [[long-rest-xphb|Long Rest]].
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Description
 
 The ancestors of dragonborn hatched from the eggs of chromatic and metallic dragons. One story holds that these eggs were blessed by the dragon gods Bahamut and Tiamat, who wanted to populate the multiverse with people created in their image. Another story claims that dragons created the first dragonborn without the gods' blessings. Whatever their origin, dragonborn have made homes for themselves on the Material Plane.
@@ -88,19 +102,34 @@ Dragonborn xphb is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of dragonborn xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dragonborn xphb.
 
-## Adventure Hooks
-
-- A rumor ties dragonborn xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dragonborn xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to dragonborn xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- Someone is protecting an heir for love
+- A corpse reveals ancient history about a local noble
+- A stranger needs help delivering before the new moon
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

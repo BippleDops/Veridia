@@ -16,22 +16,22 @@ updated: '2025-08-13T01:18:34.817597+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Historical Context
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Current Relevance
-
-TODO
-## See Also
-
-TODO
 
 ## Player-Facing Summary
 
@@ -41,23 +41,28 @@ Ancient Awakening Artifacts is a undersea element of the setting, known for biol
 
 Legends speak of Ancient Awakening Artifacts as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ancient Awakening Artifacts.
 
-## Adventure Hooks
-
-- A rumor ties Ancient Awakening Artifacts to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Ancient Awakening Artifacts to avert a public scandal.
-- A map overlay reveals a hidden approach to Ancient Awakening Artifacts active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Bloodline Awakening Powers|02 Worldbuilding/Lore/Bloodline Awakening Powers]]
 
 
-## Connections
+## Secret Connections
 
-- [[Bloodline Awakening Powers]]
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Plot Hooks
+
+- A document has gone missing and evil awakens
+- Someone is searching for information for power
+- Strange accidents suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,33 +22,22 @@ world: Both
 ---
 
 
-# Spells for Archfey Patron
+## 🔧 Deep Evaluation Improvements
 
-## 1st Level
+*20 targeted improvements identified*
 
-- [[/03_Mechanics/CLI/spells/faerie-fire-xphb "XPHB"|Faerie Fire]] at class level 5
-- [[/03_Mechanics/CLI/spells/sleep-xphb "XPHB"|Sleep]] at class level 5
+### Connection Improvements
 
-## 2nd Level
+- Add cross-references to related notes
 
-- [[/03_Mechanics/CLI/spells/calm-emotions-xphb "XPHB"|Calm Emotions]] at class level 5
-- [[/03_Mechanics/CLI/spells/misty-step-xphb "XPHB"|Misty Step]] at class level 5
-- [[/03_Mechanics/CLI/spells/phantasmal-force-xphb "XPHB"|Phantasmal Force]] at class level 5
+### Enhancement Improvements
 
-## 3rd Level
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[/03_Mechanics/CLI/spells/blink-xphb "XPHB"|Blink]] at class level 5
-- [[/03_Mechanics/CLI/spells/plant-growth-xphb "XPHB"|Plant Growth]] at class level 5
-
-## 4th Level
-
-- [[/03_Mechanics/CLI/spells/dominate-beast-xphb "XPHB"|Dominate Beast]] at class level 5
-- [[/03_Mechanics/CLI/spells/greater-invisibility-xphb "XPHB"|Greater Invisibility]] at class level 5
-
-## 5th Level
-
-- [[/03_Mechanics/CLI/spells/dominate-person-xphb "XPHB"|Dominate Person]] at class level 5
-- [[/03_Mechanics/CLI/spells/seeming-xphb "XPHB"|Seeming]] at class level 5
 
 ## Player-Facing Summary
 
@@ -58,19 +47,39 @@ List spells classes archfey patron xphb is a undersea element of the setting, kn
 
 Legends speak of list spells classes archfey patron xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells classes archfey patron xphb.
 
-## Adventure Hooks
-
-- A rumor ties list spells classes archfey patron xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells classes archfey patron xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells classes archfey patron xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before dawn
+- A document has gone missing and truth emerges
+- Someone is searching for information for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

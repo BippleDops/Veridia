@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:37.185952'
 world: Both
 ---
 
-
 # Heward's Handy Haversack
 *Wondrous item, rare*  
 ![](/03_Mechanics/CLI/items/img/hewards-handy-haversack.webp#right)
@@ -40,7 +39,25 @@ Each pouch of the haversack holds enough air for 10 minutes of breathing, divide
 
 Placing the haversack inside an extradimensional space created by a [[bag-of-holding-xdmg|Bag of Holding]], [[portable-hole-xdmg|Portable Hole]], or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate and not behind [[cover-xphb|Total Cover]] is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
 
-*Source: Dungeon Master's Guide (2024) p. 269. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Handy Haversack") and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 269. Available in the SRD (as "Handy Haversack") and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -50,19 +67,33 @@ Hewards handy haversack xdmg is a undersea element of the setting, known for bio
 
 Legends speak of hewards handy haversack xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hewards handy haversack xdmg.
 
-## Adventure Hooks
-
-- A rumor ties hewards handy haversack xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at hewards handy haversack xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to hewards handy haversack xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

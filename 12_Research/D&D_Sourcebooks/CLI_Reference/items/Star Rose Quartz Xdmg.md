@@ -24,21 +24,35 @@ updated: '2025-08-13T12:34:08.008847+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-star-rose-quartz-xdmg-star-rose-quartz-xdmg.svg)
 
 # Star rose quartz
 *Treasure (gemstone)*  
 
-
 - **Cost**: 50 gp
 
 A rosy stone with white star-shaped center gemstone.
 
 *Source: Dungeon Master's Guide (2024) p. 214*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -48,19 +62,22 @@ Star rose quartz xdmg is a undersea element of the setting, known for biolumines
 
 Legends speak of star rose quartz xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around star rose quartz xdmg.
 
-## Adventure Hooks
-
-- A rumor ties star rose quartz xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at star rose quartz xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to star rose quartz xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for money
+- A map reveals a betrayal about the cult
+- A stranger needs help stealing before the new moon

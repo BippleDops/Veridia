@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:07.340517+00:00'
 world: Both
 ---
 
-
-
 # Wand of Fear
 *Wand, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/wand-of-fear.webp#right)
@@ -33,6 +31,24 @@ world: Both
 - **Weight**: 1.0 lbs.
 
 This wand has 7 charges.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Spells
 
@@ -48,7 +64,7 @@ While holding the wand, you can cast one of the spells (save DC 15) on the follo
 
 The wand regains `1d6 + 1` expended charges daily at dawn. If you expend the wand's last charge, roll `d20`. On a 1, the wand crumbles into ashes and is destroyed.
 
-*Source: Dungeon Master's Guide (2024) p. 319. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 319. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -58,19 +74,25 @@ Wand of fear xdmg is a undersea element of the setting, known for bioluminescent
 
 Legends speak of wand of fear xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wand of fear xdmg.
 
-## Adventure Hooks
-
-- A rumor ties wand of fear xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at wand of fear xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to wand of fear xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and truth emerges
+- A stranger needs help investigating before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

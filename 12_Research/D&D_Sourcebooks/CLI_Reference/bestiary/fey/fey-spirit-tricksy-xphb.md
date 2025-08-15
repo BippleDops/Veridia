@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.272557'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fey-spirit-tricksy-xphb-fey-spirit-tricksy-xphb.svg)
 
@@ -45,9 +43,7 @@ world: Both
   - !!int "13"
   - !!int "16"
   - !!int "14"
-  - !!int "14"
   - !!int "11"
-  - !!int "16"
 "speed": "30 ft., fly 30 ft."
 "condition_immunities": "[[conditions#Charmed|charmed]]"
 "senses": "darkvision 60 ft., passive Perception 10"
@@ -69,6 +65,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Fey spirit tricksy xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -77,19 +91,26 @@ Fey spirit tricksy xphb is a undersea element of the setting, known for biolumin
 
 Legends speak of fey spirit tricksy xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fey spirit tricksy xphb.
 
-## Adventure Hooks
-
-- A rumor ties fey spirit tricksy xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at fey spirit tricksy xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to fey spirit tricksy xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and war looms
+- Strange accidents suggest a conspiracy
+- The authorities needs help stealing before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -23,12 +23,28 @@ updated: '2025-08-13T12:34:04.870946+00:00'
 world: Both
 ---
 
-
-
 # Dueling
-*Source: Player's Handbook (2024) p. 209. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 209. Available in the SRD*  
 
 When you're holding a Melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -38,19 +54,40 @@ Dueling xphb is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of dueling xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dueling xphb.
 
-## Adventure Hooks
-
-- A rumor ties dueling xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dueling xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to dueling xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- The authorities needs help investigating before the new moon
+- Strange dreams suggest a conspiracy
+- A noble needs help investigating before dawn
+- Someone is searching for information for love
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

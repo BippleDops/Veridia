@@ -34,15 +34,13 @@ updated: '2025-08-12T23:37:35.658021'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-vampiric-mist-mpmm-v1-vampiric-mist-mpmm.svg)
 
 # [[vampiric-mist-mpmm|Vampiric Mist]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 250, Mordenkainen's Tome of Foes p. 246*  
 
-In billowing clouds of fog lurk vampiric mists, the wretched remnants of [[vampire-xmm|vampires]] that were prevented from finding rest. Indistinguishable from the mists they lurk within, they strike unseen and undetected to bleed their victims dry.
+In billowing clouds of fog lurk vampiric mists, the wretched remts of [[vampire-xmm|vampires]] that were prevented from finding rest. Indistinguishable from the mists they lurk within, they strike unseen and undetected to bleed their victims dry.
 
 Vampiric mists, sometimes called crimson mists, are all that remain of [[vampire-xmm|vampires]] who couldn't return to their burial places after being defeated or suffering some mishap. Denied the restorative power of these places, the [[vampire-xmm|vampires']] bodies dissolve into mist. The transformation strips the intelligence and personality from them until only an unholy, insatiable thirst for blood remains.
 
@@ -62,8 +60,6 @@ Like sharks in water, vampiric mists can scent blood from up to a mile away. Any
 "stats":
   - !!int "6"
   - !!int "16"
-  - !!int "16"
-  - !!int "6"
   - !!int "12"
   - !!int "7"
 "speed": "0 ft., fly 30 ft. (hover)"
@@ -75,7 +71,7 @@ Like sharks in water, vampiric mists can scent blood from up to a mile away. Any
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
   \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
-  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]]"
+  \ [[conditions#prone|prone]], [[conditions#Restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": ""
 "cr": "3"
@@ -112,6 +108,24 @@ Like sharks in water, vampiric mists can scent blood from up to a mile away. Any
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 arctic, coastal, forest, grassland, mountain, swamp, underdark, urban
@@ -124,19 +138,31 @@ Vampiric mist mpmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of vampiric mist mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around vampiric mist mpmm.
 
-## Adventure Hooks
-
-- A rumor ties vampiric mist mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at vampiric mist mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to vampiric mist mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- A document has gone missing and war looms
+- Strange sightings suggest a conspiracy
+- Strange accidents suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

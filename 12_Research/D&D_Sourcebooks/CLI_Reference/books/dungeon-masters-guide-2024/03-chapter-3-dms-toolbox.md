@@ -21,13 +21,30 @@ updated: '2025-08-12T23:37:34.787563'
 world: Both
 ---
 
-
 # Chapter 3: DM's Toolbox
 *Source: Dungeon Master's Guide (2024), p. 51* 
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/021-02-001-blob-attack.webp#center "A Blob of Annihilation attacks Sharn, the City of Towers, in the world of Eberron"|A Blob of Annihilation att...]]
+!]
 
 Whereas "chapters 1" and "2" teach the essentials of being a Dungeon Master, this chapter provides advice on topics that can surface as you prepare or run a D&D game session, as well as rules for adventure elements ranging from chases and doors to traps. It also includes guidance on creating new "backgrounds", "creatures", "magic items", and "spells" to amuse your players.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Alignment
 
@@ -135,8 +152,6 @@ Complications can be barriers to progress or opportunities for mayhem. Character
 
 A map of a chase can be linear or have many branches, depending on the nature of the chase. For example, a mine cart chase might have few (if any) branches, while a sewer chase might have several.
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/023-02-003-sylgar-theft.webp#center "An ill-advised attempt to steal Xanathar's pet goldfish, Sylgar, leads to a heated chase"|An ill-advised attempt to ...]]
-
 ### Chase Complications
 
 Unexpected complications make a chase more exciting. The accompanying Urban Chase Complications table and Wilderness Chase Complications table provide several examples. Each participant in the chase rolls `d12` at the end of its turn. Consult the appropriate table to determine whether a complication occurs. If it does, it affects the next chase participant in the Initiative order, not the participant who rolled the die.
@@ -150,8 +165,6 @@ Characters can create their own complications to shake off pursuers or slow thei
 ## Creating a Background
 
 A character's background represents what the character did prior to becoming an adventurer. Creating a unique background or customizing an existing one from the "Player's Handbook" can reflect the particular theme of your campaign or elements of your world. You can also create a background to help a player craft the story they have in mind for their character.
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/024-02-004-seas-of-greyhawk.webp#center "You might alter the Sailor background to reflect a character's youth on the seas of Greyhawk"|You might alter the Sailor...]]
 
 This section describes, step by step, how you can create backgrounds like the ones in the "Player's Handbook", tailored for your world and the heroes in it.
 
@@ -181,8 +194,6 @@ Choose one tool used in the practice of the background or often associated with 
 Assemble a package of equipment worth 50 GP (including unspent gold). Don't include Martial weapons or armor, as characters get them from their class choices.
 
 ## Creating a Creature
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/025-02-005-baba-yaga.webp#center "Baba Yaga invents a new creature—a fire-breathing Giant Toad!"|Baba Yaga invents a new cr...]]
 
 Use the approaches and examples in the following sections to build custom creatures for your game.
 
@@ -229,32 +240,6 @@ If a creature doesn't have [[resistance-xphb|Resistance]] or [[immunity-xphb|Imm
 You can add traits to a creature's stat block to communicate aspects of the creature's nature. See the Creature Traits list for sample traits.
 
 You can also use traits from other stat blocks in the "Monster Manual", provided you don't add traits that alter a creature's Hit Points, confer [[temporary-hit-points-xphb|Temporary Hit Points]], or change the amount of damage the creature deals to other creatures.
-
-#### Creature Traits
-
-- **Aversion to Fire.** If the creature takes Fire damage, it has [[disadvantage-xphb|Disadvantage]] on attack rolls and ability checks until the end of its next turn.  
-- **Battle Ready.** The creature has [[advantage-xphb|Advantage]] on [[initiative-xphb|Initiative]] rolls.  
-- **Beast Whisperer.** The creature can communicate with Beasts as if they shared a common language.  
-- **Death Jinx.** When the creature dies, one random creature within 10 feet of the dead creature is targeted by a [[bane-xphb|Bane]] spell (save DC 13), which lasts for its full duration.  
-- **Dimensional Disruption.** Disruptive energy extends from the creature in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]. Other creatures can't teleport to or from a space in that area. Any attempt to do so is wasted.  
-- **Disciple of the Nine Hells.** When the creature dies, its body disgorges a [[hostile-attitude-xphb|Hostile]] [[imp-xmm|Imp]] in the same space.  
-- **Disintegration.** When the creature dies, its body and nonmagical possessions turn to dust. Any magic items it possessed are left behind in its space.  
-- **Emissary of Juiblex.** When the creature dies, its body disgorges a [[hostile-attitude-xphb|Hostile]] [[ochre-jelly-xmm|Ochre Jelly]] in the same space.  
-- **Fey Ancestry.** The creature has Advantage on saving throws it makes to avoid or end the [[conditions#Charmed|Charmed]] condition, and magic can't put it to sleep.  
-- **Forbiddance.** The creature can't enter a residence without an invitation from one of its occupants.  
-- **Gloom Shroud.** Imperceptible energy channeled from the "Shadowfell" extends from the creature in a 20-foot [[emanation-area-of-effect-xphb|Emanation]]. Other creatures in that area have [[disadvantage-xphb|Disadvantage]] on Charisma checks and Charisma saving throws.  
-- **Light.** The creature sheds [[bright-light-xphb|Bright Light]] in a 10-foot radius and [[dim-light-xphb|Dim Light]] for an additional 10 feet. As a [[bonus-action-xphb|Bonus Action]], the creature can suppress this light or cause it to return. The light winks out if the creature dies.  
-- **Mimicry.** The creature can mimic Beast sounds and Humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom ([[skills#Insight|Insight]]) check.  
-- **Poison Tolerant.** The creature has Advantage on saving throws it makes to avoid or end the [[conditions#Poisoned|Poisoned]] condition.  
-- **Resonant Connection.** The creature has a supernatural connection to another creature or an object and knows the most direct route to it, provided the two are within 1 mile of each other.  
-- **Siege Monster.** The creature deals double damage to objects and structures.  
-- **Slaad Host.** When the creature dies, a [[hostile-attitude-xphb|Hostile]] [[slaad-tadpole-xmm|Slaad Tadpole]] bursts from its innards in the same space.  
-- **Steadfast.** The creature has [[immunity-xphb|Immunity]] to the [[conditions#Frightened|Frightened]] condition while it can see an ally within 30 feet of itself.  
-- **Telepathic Bond.** The creature is linked psychically to another creature. While both are on the same plane of existence, they can communicate telepathically with each other.  
-- **Telepathic Shroud.** The creature is immune to any effect that would sense its emotions or read its thoughts, as well as to spells from the school of Divination. As a Bonus Action, the creature can suppress this trait or reactivate it.  
-- **Ventriloquism.** Whenever the creature speaks, it can choose a point within 30 feet of itself; its voice emanates from that point.  
-- **Warrior's Wrath.** The creature has Advantage on melee attack rolls against any [[bloodied-xphb|Bloodied]] creature.  
-- **Wild Talent.** Choose one cantrip; the creature can cast that cantrip without spell components, using Intelligence, Wisdom, or Charisma as the spellcasting ability.  
 
 ## Creating a Magic Item
 
@@ -324,8 +309,6 @@ If the item grants a bonus that other items also grant, it's a good idea to requ
 
 ## Creating a Spell
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/026-02-006-ringlerun-researching.webp#center "Ringlerun's spell research leads in unexpected directions as he unintentionally creates a flying gelatinous cubelet"|Ringlerun's spell research...]]
-
 When creating a new spell, use existing ones as examples. Here are some things to consider:
 
 - **Name.** The spell must have a unique name.  
@@ -353,8 +336,6 @@ A curse is a magical burden that lasts for a specified time or until it is ended
 The following sections discuss curses and magical contagions in detail.
 
 ### Curses
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/027-02-007-demonic-possession.webp#center "The curse of demonic possession has devastating effects"|The curse of demonic posse...]]
 
 Every curse has rules that govern it. A curse typically takes one of the forms detailed below.
 
@@ -420,8 +401,6 @@ The best way to avoid hard feelings connected to the death of a beloved characte
 - **Don't Make It Personal.** Don't punish a character for a player's behavior or some personal grudge. That's probably the quickest way to undermine your players' trust in you as DM and as a fair arbiter of the rules.  
 - **Provide Fair Warning.** Let characters face the consequences of their foolish actions, but make sure you give enough cues for the players to recognize self-destructive actions. You might want to ask a player, "Are you sure?" before committing a character to a potentially fatal course of action.  
 - **Fair Encounters.** Your players have to know that you're fair in designing encounters. It's fine to throw tough encounters at them and sometimes to let them face monsters they can't beat. But it's not fair if the players have no way to know they can't win the fight or have no way to escape.  
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/028-02-008-death-passage.webp#center "Sometimes death—even the death of an entire party—is just a passage to new adventures"|Sometimes death—even the d...]]
 
 ### Scaling Lethality
 
@@ -540,8 +519,6 @@ You can use the Dungeon Quirks table to add distinctive character to a dungeon y
 
 ### Mapping a Dungeon
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/029-02-009-giants-dungeon.webp#center "A dungeon built by giants offers enormous adventures"|A dungeon built by giants ...]]
-
 A dungeon can range in size from a few chambers to a huge complex of rooms and passages extending hundreds of feet. The adventurers' goal often lies as far from the dungeon entrance as possible, forcing characters to delve deeper underground or push farther into the heart of the complex.
 
 A dungeon is usually mapped on a grid like graph paper, with each square on the paper representing an area of 5 feet by 5 feet. "Appendix B" shows several examples. If you play with miniatures on a grid, this scale makes it easy to transfer your map to a battle grid.
@@ -624,8 +601,6 @@ The States of Ruin table can help you determine the general conditions of a dung
 
 ## Environmental Effects
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/030-02-010-bronze-dragon-v-ship.webp#center "A friendly bronze dragon keeps a watchful eye on a storm-tossed ship"|A friendly bronze dragon k...]]
-
 Characters crossing a frigid tundra might suffer the effects of extreme cold, while a visit to a cloud giant's castle might subject characters to the effects of high altitude. The following sections provide rules for handling these and other environmental effects.
 
 - [[dead-magic-zone-xdmg|Dead Magic Zone]]  
@@ -649,11 +624,11 @@ If you plan to use any of these rules, discuss them with your players at the sta
 
 ### Fear Effects
 
-Whenever the characters encounter something that is supernaturally frightful, use the [[conditions#Frightened|Frightened]] condition as the baseline effect. Fear effects typically require a Wisdom saving throw, with a save DC set based on how terrifying the situation is. The Sample Fear DCs table provides some examples.
+Whenever the characters encounter something that is supernaturally frightful, use the [[conditions#frightened|Frightened]] condition as the baseline effect. Fear effects typically require a Wisdom saving throw, with a save DC set based on how terrifying the situation is. The Sample Fear DCs table provides some examples.
 
 ![[fear-effects-sample-fear-dcs-xdmg|Fear Effects; Sample Fear DCs]]
 
-Typically, a [[conditions#Frightened|Frightened]] creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.
+Typically, a [[conditions#frightened|Frightened]] creature repeats the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 At your discretion, a Frightened creature might be subject to other effects as long as the Frightened condition lasts. Consider these examples:
 
@@ -675,7 +650,7 @@ Exposure to mental stress can cause prolonged effects. Consider the following po
 
 ##### Short-Term Effects
 
-The character has the [[conditions#Frightened|Frightened]], [[conditions#Incapacitated|Incapacitated]], or [[conditions#Stunned|Stunned]] condition for `d10` minutes. This condition might be accompanied by alarming behavior or hallucinations. These effects can be suppressed with the [[calm-emotions-xphb|Calm Emotions]] spell or removed by the [[lesser-restoration-xphb|Lesser Restoration]] spell.
+The character has the [[conditions#frightened|Frightened]], [[conditions#Incapacitated|Incapacitated]], or [[conditions#Stunned|Stunned]] condition for `d10` minutes. This condition might be accompanied by alarming behavior or hallucinations. These effects can be suppressed with the [[calm-emotions-xphb|Calm Emotions]] spell or removed by the [[lesser-restoration-xphb|Lesser Restoration]] spell.
 
 ##### Long-Term Effects
 
@@ -690,8 +665,6 @@ An indefinite effect is a long-term effect (see above) that lasts until removed 
 ## Firearms and Explosives
 
 Renaissance-era pistols and muskets appear in the "Player's Handbook". In a campaign involving a crashed spaceship or elements of modern-day Earth, characters might find the items described here.
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/032-02-012-troll-v-firearms.webp#center "When faced with a troll, there's no time to figure out the right way to hold a shotgun"|When faced with a troll, t...]]
 
 ### Firearms
 
@@ -712,8 +685,6 @@ You can make a limited number of shots with a Reload weapon. You must then reloa
 #### Ammunition
 
 Firearm Bullets are destroyed upon use in a modern firearm. Futuristic firearms use Energy Cells that become depleted but could possibly be recharged with the proper equipment, at your discretion. An [[energy-cell-xdmg|Energy Cell]] weighs 1/2 lb.
-
-![[firearms-xdmg|Firearms]]
 
 ![[firearms-xdmg|Firearms]]
 
@@ -823,9 +794,7 @@ Cities and large towns can host numerous temples dedicated to individual gods im
 > [!note] Build Your Own Pantheon
 > 
 > Most of the published D&D settings described in "chapter 5" have their own pantheons of gods. If you're creating your own setting, you can use the list of Greyhawk gods in "chapter 5" or build your own pantheon.
-> 
 > A simple way to build a basic pantheon is to create one god for each of the "Outer Planes" described in "chapter 6", except for the "Nine Hells" (ruled by the archdevil "Asmodeus") and the "Abyss" (the domain of demons). So "Arborea" might be the domain of a god who is patron of the arts, celebrated at great feasts, while "Gehenna's" deity might be a greedy, vengeful god worshiped by people of the same bent. If you prefer, you can also put multiple deities on the same plane, so "Arcadia" might be home to twin gods who are patrons of merchants and smiths.
-> 
 > Alternatively, you might decide that your world has only one god (who might be viewed differently by various sects or religions), or one good god and one evil god. Or your world might be alive with spirits great and small, from lesser river spirits to the godlike spirits who inhabit great mountains. Impersonal forces and philosophies can also fill the role of gods in a campaign.
 ^build-your-own-pantheon
 
@@ -868,9 +837,9 @@ The best rewards in an adventure are directly related to the circumstances of th
 
 A fortification is a reward usually given to seasoned adventurers who demonstrate unwavering fealty to a powerful political figure or ruling body, such as a monarch, a knighthood, or a council of wizards. A fortification can be anything from a fortress in the heart of a city to a provincial keep on the borderlands. While the fortification is for the characters to govern as they see fit, the land on which it sits remains the property of the crown or local ruler. Should the characters prove disloyal or unworthy of the gift, they can be asked or forced to relinquish custody of the fortification. In that respect, the fortification is different from the characters' Bastions (described in "chapter 8"). However, you can also use the gift of a fortification as a pretext for the characters acquiring their Bastions.
 
-The individual bequeathing the fortification might offer to pay its maintenance costs for one or more months, after which the characters inherit that responsibility. The type of fortification determines its maintenance costs, as shown in the Maintenance Costs table.
+The individual bequeathing the fortification might offer to pay its maintece costs for one or more months, after which the characters inherit that responsibility. The type of fortification determines its maintece costs, as shown in the Maintece Costs table.
 
-![[fortifications-maintenance-costs-xdmg|Fortifications; Maintenance Costs]]
+![[fortifications-maintece-costs-xdmg|Fortifications; Maintece Costs]]
 
 ### Letters of Recommendation
 
@@ -879,8 +848,6 @@ A benefactor might provide adventurers with a letter of recommendation rather th
 A letter of recommendation from a person of impeccable reputation can grant adventurers access to NPCs whom they would otherwise have trouble meeting, such as a duke, duchess, viceroy, or monarch. Moreover, carrying such a recommendation on one's person establish a baseline of trust with local authorities.
 
 A letter of recommendation is worth only as much as the reputation of the person who wrote it and offers no benefit where its writer holds no sway.
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/036-02-016-queen-yolande.webp#center "Queen Yolande of Celene is grateful for adventurers' aid"|Queen Yolande of Celene is...]]
 
 ### Medals
 
@@ -1034,7 +1001,6 @@ NPCs who keep showing up over the course of a campaign build the sense that the 
 You can use different stat blocks in the "Monster Manual", perhaps with some tweaks, to reflect the same NPC at different times as they grow over the course of a campaign. For example, characters on their very first adventure might face a villain who uses the stat block of a [[/03_Mechanics/CLI/bestiary/humanoid/mage-apprentice-xmm|Mage Apprentice]], only to have that villain escape and return many adventures later to haunt them as a [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|Mage]]. Still later, the same villain might reappear as an [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|Archmage]]. Of course, the trick here is making sure that the villain survives from one adventure to the next, or at least coming up with a plausible way for the villain to return from death. After all, death is rarely the final word for adventurers, so it needn't be for their opponents.
 
 > [!note] Don't Go Overboard
-> 
 > Developing nonplayer characters can be fun. That said, use your time wisely. Don't write three pages of backstory for an NPC whose interactions with the adventurers will be over in three minutes. The advice in this section is meant to help you create an interesting character quickly while providing just enough detail.
 ^dont-go-overboard
 
@@ -1054,8 +1020,6 @@ Here are some NPC archetypes that work well as supporting characters in an adven
 - **Wallflower Warrior.** A wallflower warrior NPC is good at fading into the background, doesn't usually chat or engage unless approached, and eagerly avoids the spotlight. Their primary purpose is to give monsters another target to attack.  
 
 Even useful NPCs can slow down the game or overstay their welcome. Consider having NPC party members stick around for no more than a few game sessions or a single adventure before making their exit. NPCs can benefit from time away from the characters now and then.
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/040-02-020-npc-healer.webp#center "As a member of another group of heroes, Niko first joined Sheila, Diana, Eric, and Presto as an NPC healer"|As a member of another gro...]]
 
 #### Loyalty
 
@@ -1175,9 +1139,7 @@ The Settlements by Size table provides population ranges for villages, towns, an
 ![[settlements-by-size-xdmg|Settlements by Size]]
 
 > [!note] Do I Need a Settlement Map?
-> 
 > A settlement doesn't always require a map. Simply describing the settlement to your players is usually sufficient. But if it's important for the players to know where certain buildings or other locations are in the settlement, having a map is helpful.
-> 
 > For an example of a settlement map, see the Crossroads Village map in "appendix B".
 ^do-i-need-a-settlement-map
 
@@ -1216,8 +1178,6 @@ Siege equipment includes objects designed to assail castles and other walled for
 - [[trebuchet-xdmg|Trebuchet]]  
 
 ## Supernatural Gifts
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/047-02-027-unicorn.webp#center "A magical creature like a unicorn might bestow a supernatural gift"|A magical creature like a ...]]
 
 A supernatural gift is a special reward granted by a being or force of great magical power. Supernatural gifts come in two forms:
 
@@ -1315,19 +1275,26 @@ If the trap requires an attack roll or allows a saving throw, use the appropriat
 
 Legends speak of 03 chapter 3 dms toolbox as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 03 chapter 3 dms toolbox.
 
-## Adventure Hooks
-
-- A rumor ties 03 chapter 3 dms toolbox to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 03 chapter 3 dms toolbox to avert a public scandal.
-- A map overlay reveals a hidden approach to 03 chapter 3 dms toolbox active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A stranger needs help delivering before dawn
+- A noble needs help investigating before the festival
+- Someone is protecting an heir for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

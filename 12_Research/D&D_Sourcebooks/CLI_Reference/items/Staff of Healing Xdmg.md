@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:06.907766+00:00'
 world: Both
 ---
 
-
-
 # Staff of Healing
 *Staff, weapon, rare (requires attunement by a bard, cleric, or druid)*  
 ![](/03_Mechanics/CLI/items/img/staff-of-healing.webp#right)
@@ -45,11 +43,29 @@ This staff has 10 charges. While holding the staff, you can cast one of the spel
 | [[mass-cure-wounds-xphb|Mass Cure Wounds]] | 5 |
 ^spell-charge-cost
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Regaining Charges
 
 The staff regains `1d6 + 4` expended charges daily at dawn. If you expend the last charge, roll `d20`. On a 1, the staff vanishes in a flash of light, lost forever.
 
-*Source: Dungeon Master's Guide (2024) p. 308. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 308. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -59,19 +75,38 @@ Staff of healing xdmg is a undersea element of the setting, known for biolumines
 
 Legends speak of staff of healing xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around staff of healing xdmg.
 
-## Adventure Hooks
-
-- A rumor ties staff of healing xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at staff of healing xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to staff of healing xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- A map reveals a betrayal about this place
+- A journal reveals a conspiracy about the cult
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

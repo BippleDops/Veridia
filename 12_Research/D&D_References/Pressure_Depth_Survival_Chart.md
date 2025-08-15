@@ -17,7 +17,23 @@ world: Aquabyssos
 ---
 
 
-# Pressure Depth Survival Chart
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Essential Guide for Surface Dwellers
 
 ```
@@ -36,38 +52,25 @@ DEPTH       PRESSURE    RISK LEVEL     REQUIRED EQUIPMENT
     |         |         ░░░░░ YELLOW  Breathing apparatus
     |         |                    Emergency ascent training
   Twilight Zone - Residential/Commercial
-  ┌─────────────────────────────────┐
   │ Markets, Guilds, Family Districts    │
-  └─────────────────────────────────┘
-    |
 200-500    7-15 atm    ███░░ DANGER  Advanced pressure suit
     |         |         ░░░░░ ORANGE  Certified guide required
     |         |                    Medical clearance
   Deep Zone - Government/Religious
-  ┌─────────────────────────────────┐
   │ Parliament, Palace, Temples         │
-  └─────────────────────────────────┘
-    |
 500-1000   15-30 atm   ████░ EXTREME Military-grade equipment
     |         |         ░░░░░ RED     Special authorization
     |         |                    Emergency backup required
   Abyss Zone - Restricted/Industrial
-  ┌─────────────────────────────────┐
   │ Prisons, Mines, Research Labs       │
-  └─────────────────────────────────┘
-    |
 1000+      30+ atm     █████ LETHAL  Specialized vessels only
     |         |         ░░░░░ BLACK   Professional crews
     |         |                    Extreme risk waivers
   Deep Abyss - Forbidden/Ancient
-  ┌─────────────────────────────────┐
   │ Ancient Ruins, Deep Mother Domain   │
-  └─────────────────────────────────┘
-```
 
 ### Depth Sickness Progression
 
-```
 TIME AT DEPTH vs. SYMPTOMS
 
 0-15 min:  Normal operation
@@ -83,11 +86,9 @@ TIME AT DEPTH vs. SYMPTOMS
 
 1-2 hours: Severe symptoms, medical attention needed
 2+ hours:  Critical condition, emergency ascent required
-```
 
 ### Emergency Ascent Rates
 
-```
 DEPTH RANGE      SAFE ASCENT RATE    EMERGENCY RATE
 
 0-200 fathoms    50 fathoms/minute   100 fathoms/minute
@@ -108,31 +109,25 @@ From 200-500 fathoms:
 
 From 50-200 fathoms:
 • Stop at 25 fathoms (5 minutes)
-```
 
 ### Equipment by Depth
 
 **0-50 Fathoms (Basic):**
-```
 • Swimming gear
 • Basic breathing apparatus
 • Pressure gauge
 • Emergency whistle
 • Identification papers
-```
 
 **50-200 Fathoms (Intermediate):**
-```
 • Pressure suit (rated to 200 fathoms)
 • Enhanced breathing system
 • Communication device
 • Emergency ascent balloon
 • First aid kit
 • Guide certification required
-```
 
 **200-500 Fathoms (Advanced):**
-```
 • Military-grade pressure suit
 • Closed-circuit breathing system
 • Multi-channel communication
@@ -140,10 +135,8 @@ From 50-200 fathoms:
 • Medical monitoring equipment
 • Certified deep guide mandatory
 • Medical clearance certificate
-```
 
 **500+ Fathoms (Expert Only):**
-```
 • Custom pressure vessel
 • Life support systems
 • Redundant safety equipment
@@ -151,11 +144,9 @@ From 50-200 fathoms:
 • Military authorization
 • Insurance and waivers
 • Emergency rescue capability
-```
 
 ### Warning Signs - Immediate Ascent Required
 
-```
 ⚠️ PHYSICAL SYMPTOMS:
 • Severe headache
 • Nosebleeds
@@ -178,7 +169,6 @@ From 50-200 fathoms:
 • Predator encounters
 • Magical anomalies
 • Corruption signatures
-```
 
 ### Emergency Contacts by Depth
 
@@ -202,7 +192,6 @@ From 50-200 fathoms:
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -210,3 +199,8 @@ From 50-200 fathoms:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil

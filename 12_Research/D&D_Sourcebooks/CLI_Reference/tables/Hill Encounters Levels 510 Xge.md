@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.653377+00:00'
 world: Both
 ---
 
-
-
 # Hill Encounters (Levels 5—10)
 *Source: Xanathar's Guide to Everything p. 101* 
 
@@ -71,7 +69,7 @@ world: Both
 | 78-80 | `2d6 + 10` [[goat-xmm|goats]] with 1 herder ([[/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|tribal warrior]]) |
 | 81-82 | `d3` [[hill-giant-xmm|hill giants]] |
 | 83-84 | `2d4` [[wereboar-xmm|wereboars]] |
-| 85-86 | `d4` [[revenant-xmm|revenants]] |
+| 85-86 | `d4` [[revet-xmm|revets]] |
 | 87-88 | `d2` [[gorgon-xmm|gorgons]] |
 | 89-90 | `1d8 + 1` [[gnoll-fang-of-yeenoghu-xmm|gnoll fangs of Yeenoghu]] |
 | 91-93 | `d4` [[cyclops-sentry-xmm|cyclopes]] |
@@ -81,6 +79,24 @@ world: Both
 | 00 | 1 [[roc-xmm|roc]] |
 ^hill-encounters-levels-510
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Hill encounters levels 510 xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -89,19 +105,20 @@ Hill encounters levels 510 xge is a undersea element of the setting, known for b
 
 Legends speak of hill encounters levels 510 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hill encounters levels 510 xge.
 
-## Adventure Hooks
-
-- A rumor ties hill encounters levels 510 xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at hill encounters levels 510 xge to avert a public scandal.
-- A map overlay reveals a hidden approach to hill encounters levels 510 xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

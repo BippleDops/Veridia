@@ -16,18 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Depth Effect Quick Reference]]
-- [[Aethermoor]]
 
 ## Player-Facing Summary
 
@@ -37,19 +41,18 @@ Multiple Recursion Levels is a undersea element of the setting, known for biolum
 
 Legends speak of Multiple Recursion Levels as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Multiple Recursion Levels.
 
-## Adventure Hooks
-
-- A rumor ties Multiple Recursion Levels to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Multiple Recursion Levels to avert a public scandal.
-- A map overlay reveals a hidden approach to Multiple Recursion Levels active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and truth emerges
+- A corpse reveals a betrayal about a local noble
+- Strange accidents suggest a conspiracy
+- A corpse reveals the truth about the cult

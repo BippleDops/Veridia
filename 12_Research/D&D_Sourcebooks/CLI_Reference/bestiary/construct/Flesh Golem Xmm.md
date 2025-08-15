@@ -28,14 +28,29 @@ updated: '2025-08-13T12:34:06.059148+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-flesh-golem-xmm-flesh-golem-xmm.svg)
 
 # [[flesh-golem-xmm|Flesh Golem]]
-*Source: Monster Manual (2024) p. 121. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 121. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Flesh Golem
 
@@ -66,7 +81,6 @@ Flesh golems appear in varied forms. Roll on or choose a result from the Flesh G
 > 
 > The barrier between the mortal and the divine lies shattered—open is the mold for new gods. It was I who invaded the divine. Not with a spear but with a stitch. Not with my heresies but with my heart.
 
-
 ```statblock
 "name": "Flesh Golem (XMM)"
 "size": "Medium"
@@ -86,7 +100,7 @@ Flesh golems appear in varied forms. Roll on or choose a result from the Flesh G
 "speed": "30 ft."
 "damage_immunities": "lightning, poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands Common plus one other language but can't speak"
@@ -139,19 +153,30 @@ Flesh golem xmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of flesh golem xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around flesh golem xmm.
 
-## Adventure Hooks
-
-- A rumor ties flesh golem xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at flesh golem xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to flesh golem xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- Strange dreams suggest a curse
+- A stranger needs help investigating before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.011149+00:00'
 world: Both
 ---
 
-
-
 # Elf Tables; Drow House Specialty
 *Source: Mordenkainen's Tome of Foes p. 64* 
 
@@ -45,6 +43,24 @@ world: Both
 | 10 | Reptilian beasts of burden |
 ^drow-house-specialty
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Elf tables drow house specialty mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -53,19 +69,38 @@ Elf tables drow house specialty mtf is a undersea element of the setting, known 
 
 Legends speak of elf tables drow house specialty mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elf tables drow house specialty mtf.
 
-## Adventure Hooks
-
-- A rumor ties elf tables drow house specialty mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at elf tables drow house specialty mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to elf tables drow house specialty mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and truth emerges
+- A corpse reveals ancient history about the cult
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

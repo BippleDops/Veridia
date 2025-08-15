@@ -28,11 +28,8 @@ updated: '2025-08-13T12:34:06.430531+00:00'
 world: Both
 ---
 
-
-
 # Imprisonment
 *9th-level, Abjuration*  
-
 
 - **Casting time:** 1 minute
 - **Range:** 30 feet
@@ -49,6 +46,24 @@ Until the spell ends, the target is also affected by one of the following effect
 - **Minimus Containment.** The target becomes 1 inch tall and is trapped inside an indestructible gemstone or a similar object. Light can pass through the gemstone (allowing the target to see out and other creatures to see in), but nothing else can pass through by any means.  
 - **Slumber.** The target has the [[conditions#Unconscious|Unconscious]] condition and can't be awoken.  
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Ending the Spell
 
 When you cast the spell, specify a trigger that will end it. The trigger can be as simple or as elaborate as you choose, but the DM must agree that it has a high likelihood of happening within the next decade. The trigger must be an observable action, such as someone making a particular offering at the temple of your god, saving your true love, or defeating a specific monster.
@@ -59,7 +74,7 @@ A [[dispel-magic-xphb|Dispel Magic]] spell can end the spell only if it is cast 
 
 **Classes**: [[list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-abjurer-xphb "subclass=XPHB;class=XPHB"|Wizard (Abjurer)]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
 
-*Source: Player's Handbook (2024) p. 288. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 288. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -69,19 +84,21 @@ Imprisonment xphb is a undersea element of the setting, known for bioluminescent
 
 Legends speak of imprisonment xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around imprisonment xphb.
 
-## Adventure Hooks
-
-- A rumor ties imprisonment xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at imprisonment xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to imprisonment xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting a artifact for money
+- A letter reveals a conspiracy about the government
+- Strange accidents suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -37,11 +37,8 @@ updated: '2025-08-13T12:34:06.311179+00:00'
 world: Both
 ---
 
-
-
 # Magic Circle
 *3rd-level, Abjuration*  
-
 
 - **Casting time:** 1 minute
 - **Range:** 10 feet
@@ -54,7 +51,7 @@ Choose one or more of the following types of creatures: Celestials, Elementals, 
 
 - The creature can't willingly enter the [[cylinder-area-of-effect-xphb|Cylinder]] by nonmagical means. If the creature tries to use teleportation or interplanar travel to do so, it must first succeed on a Charisma saving throw.  
 - The creature has [[disadvantage-xphb|Disadvantage]] on attack rolls against targets within the [[cylinder-area-of-effect-xphb|Cylinder]].  
-- Targets within the [[cylinder-area-of-effect-xphb|Cylinder]] can't be possessed by or gain the [[conditions#Charmed|Charmed]] or [[conditions#Frightened|Frightened]] condition from the creature.  
+- Targets within the [[cylinder-area-of-effect-xphb|Cylinder]] can't be possessed by or gain the [[conditions#Charmed|Charmed]] or [[conditions#frightened|Frightened]] condition from the creature.  
 
 Each time you cast this spell, you can cause its magic to operate in the reverse direction, preventing a creature of the specified type from leaving the [[cylinder-area-of-effect-xphb|Cylinder]] and protecting targets outside it.
 
@@ -62,7 +59,25 @@ Each time you cast this spell, you can cause its magic to operate in the reverse
 
 **Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-monster-slayer-xge "subclass=XGE;class=XPHB"|Ranger (Monster Slayer)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-paladin|Paladin]]; [[/03_Mechanics/CLI/lists/list-spells-classes-abjurer-xphb "subclass=XPHB;class=XPHB"|Wizard (Abjurer)]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[list-spells-classes-wizard|Wizard]]
 
-*Source: Player's Handbook (2024) p. 293. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 293. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -72,19 +87,35 @@ Magic circle xphb is a undersea element of the setting, known for bioluminescent
 
 Legends speak of magic circle xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around magic circle xphb.
 
-## Adventure Hooks
-
-- A rumor ties magic circle xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at magic circle xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to magic circle xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- A journal reveals the truth about a local noble
+- Strange sightings suggest ancient magic
+- A noble needs help investigating before the new moon
+- Someone is protecting a artifact for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

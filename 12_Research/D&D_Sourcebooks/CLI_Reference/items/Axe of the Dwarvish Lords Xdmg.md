@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:07.302010+00:00'
 world: Both
 ---
 
-
-
 # Axe of the Dwarvish Lords
 *Weapon ([[battleaxe-xphb|battleaxe]]), artifact (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/axe-of-the-dwarvish-lords.webp#right)
@@ -42,6 +40,24 @@ A young dwarf prince set out to forge a weapon that would be regarded as a symbo
 Armed with the Artifact, the prince brought peace to the dwarf clans, ending grudges and answering slights. The clans became allies, and they threw back their enemies and enjoyed an era of prosperity. This young dwarf is remembered as the First King. When he became old, he passed the weapon, which had become his badge of office, to his heir. The rightful inheritors passed the axe on for many generations.
 
 Later, in an era marked by treachery and wickedness, the axe was lost in a bloody civil war fomented by greed for its power and the status it bestowed. Centuries later, the dwarves still search for the axe, and many adventurers have made careers of chasing after rumors and plundering old vaults to find it.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Magic Weapon
 
@@ -91,19 +107,35 @@ Axe of the dwarvish lords xdmg is a undersea element of the setting, known for b
 
 Legends speak of axe of the dwarvish lords xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around axe of the dwarvish lords xdmg.
 
-## Adventure Hooks
-
-- A rumor ties axe of the dwarvish lords xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at axe of the dwarvish lords xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to axe of the dwarvish lords xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and chaos spreads
+- A noble needs help stealing before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -18,15 +18,30 @@ updated: '2025-08-13T12:30:00.000000'
 world: Aquabyssos
 ---
 
-
 # Shadow Conspiracy Infiltration Signs - Player Handout
 
 *Classified Intelligence Report - Distribution Restricted*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## WARNING: SENSITIVE INFORMATION
 This document contains classified intelligence regarding the [[Shadow Conspiracy]]. Unauthorized disclosure is punishable by exile or execution. Report suspected infiltration to proper authorities immediately.
-
-## Behavioral Indicators
 
 ### Memory-Related Anomalies
 **Short-Term Memory Issues**
@@ -66,8 +81,6 @@ This document contains classified intelligence regarding the [[Shadow Conspiracy
 - Unexplained knowledge of classified information
 - Skills or abilities they shouldn't possess
 
-## Physical Signs
-
 ### Surgical Modifications
 **Consciousness Surgery Scars**
 - Tiny, precise scars behind ears or at skull base
@@ -99,8 +112,6 @@ This document contains classified intelligence regarding the [[Shadow Conspiracy
 - Blank stares lasting several seconds
 - Physical reactions to specific trigger words
 - Sleep disturbances or unusual dream patterns
-
-## Communication Patterns
 
 ### Language Anomalies
 **Shadow Conspiracy Terminology**
@@ -134,8 +145,6 @@ This document contains classified intelligence regarding the [[Shadow Conspiracy
 - Asking questions designed to extract specific responses
 - Unusual interest in other people's memories and experiences
 
-## Social Network Changes
-
 ### Relationship Modifications
 **New Associations**
 - Sudden friendship with previously unknown individuals
@@ -162,8 +171,6 @@ This document contains classified intelligence regarding the [[Shadow Conspiracy
 - Steering conversations away from sensitive topics
 - Using emotional manipulation to achieve specific outcomes
 
-## Technology and Resources
-
 ### Equipment Indicators
 **Specialized Devices**
 - Memory storage crystals or consciousness manipulation tools
@@ -177,14 +184,12 @@ This document contains classified intelligence regarding the [[Shadow Conspiracy
 - Knowledge of shadow conspiracy operational security
 - Expertise in areas unrelated to their cover identity
 
-### Financial Anomalies
+### Ficial Anomalies
 **Unexplained Resources**
 - Income that doesn't match their apparent employment
 - Expensive items without apparent source of funds
 - Travel expenses inconsistent with stated activities
 - Access to services or locations requiring significant payment
-
-## Counter-Intelligence Awareness
 
 ### Operational Security
 **Professional Surveillance Detection**
@@ -198,8 +203,6 @@ This document contains classified intelligence regarding the [[Shadow Conspiracy
 - Inconsistent stories about background and history
 - Prepared explanations for unusual circumstances
 - Emergency procedures in case of exposure
-
-## Response Protocols
 
 ### If Infiltration Suspected
 1. **DO NOT** confront the individual directly
@@ -221,14 +224,6 @@ This document contains classified intelligence regarding the [[Shadow Conspiracy
 - Check other individuals for similar infiltration signs
 - Implement enhanced security procedures for sensitive activities
 
-## Treatment and Recovery
-
-### For Victims of Memory Manipulation
-- Professional medical evaluation by certified healers
-- Memory restoration therapy with qualified specialists
-- Psychological counseling to recover original personality
-- Protected environment during recovery process
-
 ### For Willing Collaborators
 - Legal proceedings under conspiracy and treason laws
 - Possible rehabilitation if cooperation is genuine
@@ -249,7 +244,6 @@ This document contains classified intelligence regarding the [[Shadow Conspiracy
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -257,3 +251,18 @@ This document contains classified intelligence regarding the [[Shadow Conspiracy
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

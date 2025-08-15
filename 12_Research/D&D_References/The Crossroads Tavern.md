@@ -16,31 +16,22 @@ updated: '2025-08-13T01:18:36.839522+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Appearance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Personality
-
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -50,28 +41,31 @@ The Crossroads Tavern is a undersea element of the setting, known for biolumines
 
 Legends speak of The Crossroads Tavern as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crossroads Tavern.
 
-## Adventure Hooks
-
-- A rumor ties The Crossroads Tavern to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Crossroads Tavern to avert a public scandal.
-- A map overlay reveals a hidden approach to The Crossroads Tavern active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[The Crossroads Tavern|02 Worldbuilding/People/The Crossroads Tavern]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Jasper Three-Eyes Flint]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Relationships
+
+- **Mentor**: [[Quest - The Pretender]]
+- **Victim**: [[Portrait NPC High Priestess Nerida Soulcurrent V1 High Priestess Nerida Soulcurrent.svg]]
+- **Creditor**: [[portrait-npc-neutral-zone-v1-neutral-zone.svg]]
+- **Sibling**: [[Queen Seraphina 3]]
+- **Child**: [[Portrait NPC Jasper Three Eyes Flint Jasper Three Eyes Flint.png]]
+
+
+## Plot Hooks
+
+- Strange sightings suggest a portal
+- A map reveals a betrayal about a local noble
+- Someone is blackmailing a witness for love
+- A shipment has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

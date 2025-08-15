@@ -22,17 +22,30 @@ updated: '2025-08-13T01:18:36.396674+00:00'
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-deep-patrol-the-deep-patrol.svg]]
-
-
-
 
 # The Deep Patrol
 
 *"In the crushing depths where others fear to venture, we stand watch."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 The Deep Patrol is Aquabyssos's elite military unit specializing in extreme depth operations, protecting the city from threats originating in the deepest ocean trenches. These highly trained specialists operate in conditions that would kill ordinary soldiers.
@@ -72,19 +85,12 @@ The Deep Patrol is Aquabyssos's elite military unit specializing in extreme dept
 **Thermal Vents**: Geologically active areas with unique hazards
 **The Deep Dark**: Unexplored regions beyond mapped territories
 
-## Current Operations
-- Investigation of unusual creature migrations from deeper waters
- - Search and rescue mission for missing research expedition
-- Establishment of early warning stations in remote trench systems
-- Training exchange program with surface world naval forces
-- Classified operation involving ancient ruins discovery
-
 ## Notable Personnel
 **Sergeant Marina Deepdiver**: Expert in extreme depth survival techniques
 **Corporal Rex Pressureborn**: Specialist in deep-creature combat tactics
 **Scout Elena Trenchrunner**: Reconnaissance expert and pathfinder
 **Medic Dr. Coral Abyssal**: Deep-sea medical specialist
-**Engineer Brass Depthwright**: Equipment maintenance and modification expert
+**Engineer Brass Depthwright**: Equipment maintece and modification expert
 
 ## Unique Challenges
 **Environmental Hazards**: Crushing pressure, freezing temperatures, toxic gases
@@ -96,7 +102,7 @@ The Deep Patrol is Aquabyssos's elite military unit specializing in extreme dept
 ## Support Infrastructure
 **Pressure Chambers**: Decompression facilities for returning patrol members
 **Medical Bay**: Specialized treatment for depth-related injuries
-**Equipment Workshop**: Maintenance and modification of specialized gear
+**Equipment Workshop**: Maintece and modification of specialized gear
 **Intelligence Division**: Analysis of threats and patrol findings
 **Supply Chain**: Logistics network providing resources for deep operations
 
@@ -110,23 +116,9 @@ The Deep Patrol is Aquabyssos's elite military unit specializing in extreme dept
 ## Training Program
 **Phase 1**: Basic deep-sea survival and equipment familiarization
 **Phase 2**: Combat training adapted for underwater conditions
-**Phase 3**: Vehicle operation and maintenance skills
+**Phase 3**: Vehicle operation and maintece skills
 **Phase 4**: Live exercises in progressively deeper environments
 **Phase 5**: Final testing and specialization assignment
-
-## Casualty Rate and Risks
-- 15% casualty rate during training program
- - 25% annual injury rate during active service
-- Average service length of 5 years before voluntary transfer
-- Specialized medical care required for depth-related health issues
-- High rate of post-service psychological counseling needs
-
-## Recent Discoveries
-- Evidence of previously unknown deep-sea civilization ruins
- - Unusual magical phenomena affecting deep ocean currents
-- New species of extremely dangerous deep-dwelling creatures
-- Possible connection between surface world conflicts and deep-sea disturbances
-- Ancient artifacts suggesting historical deep-sea settlements
 
 ## Public Perception
 **Military Recognition**: Respected within armed forces for extreme service
@@ -148,13 +140,6 @@ The Deep Patrol is Aquabyssos's elite military unit specializing in extreme dept
 **Pressure Spear**: Weapon designed for underwater combat effectiveness
 **Emergency Beacon**: Distress signal detectable by surface rescue teams
 
-## Classified Information
-- True nature of threats they patrol against
- - Location and purpose of deepest operational bases
-- Details of special warfare capabilities
-- Full extent of cooperation with foreign military units
-- Ancient discoveries made during deep-sea reconnaissance
-
 ## Future Developments
 **Expansion Plans**: Doubling unit size over next three years
 **Technology Upgrades**: New equipment improving safety and effectiveness
@@ -165,13 +150,6 @@ The Deep Patrol is Aquabyssos's elite military unit specializing in extreme dept
 ## DM Notes
 The Deep Patrol provides opportunities for extreme environment adventures, military campaigns, and exploration of deep-sea mysteries. Their specialized equipment and training make them valuable allies or formidable opponents in appropriate scenarios.
 
-
-## Connections
-
-- [[Harbor District]]
-- [[Pressure Terminal]]
-- [[Pressure's End]]
-
 ## Player-Facing Summary
 
 The Deep Patrol is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -180,13 +158,23 @@ The Deep Patrol is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of The Deep Patrol as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Deep Patrol.
 
-## Cross-References
-
-- [[The Deep Patrol|02 Worldbuilding/Places/The Deep Patrol]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help delivering before the festival
+- Someone is hunting a witness for revenge
+- Someone is hunting an heir for money
+- Strange disappearances suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

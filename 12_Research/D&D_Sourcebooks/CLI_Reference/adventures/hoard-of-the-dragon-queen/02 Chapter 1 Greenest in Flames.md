@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.990499+00:00'
 world: Both
 ---
 
-
-
 # Chapter 1: Greenest in Flames
 *Source: Hoard of the Dragon Queen, p. 22* 
 
@@ -34,6 +32,24 @@ The town of Greenest was founded by the halfling Dharva Scatterheart, a rogue wh
 The adventurers might be on the road from one town to another or returning to their homes after a trip away. Alternatively, they could be accompanying a merchant or wealthy traveler as bodyguards. Many restless young people of Faerûn have had their first taste of travel and adventure as caravan guards.
 
 You can adapt *Tyranny of Dragons* to different regions of the Realms or to a different setting with a bit more preparation on your part. Change the names and locations to suit your campaign.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Character Hooks
 
@@ -71,8 +87,6 @@ The stream that flows past Greenest is shallow (seldom more than 3 feet deep) wi
 > [!gallery]
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/007-map-1-1-greenest.webp#gallery|Map 1.1: Greenest]]
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/008-map-1-1-greenest-player.webp#gallery|Player Version]]
-
-### Important Characters
 
 #### Governor Nighthill
 
@@ -115,7 +129,6 @@ If characters don't use cover and stealth to avoid encounters, roll a `d8` for e
 Most of the cultists, guards, and acolytes are human. You can include a few dwarves, half-elves, half-orcs, or halflings without altering any game statistics.
 
 > [!note] Stolen Treasure
-> 
 > The cultists and their kobold lackeys are in the midst of looting Greenest and collecting the spoils for transport back to their camp (see chapter 2). Any marauding group that the party encounters has a 50 percent chance of having stolen treasure in its possession. Roll a `d6` and multiply the result by 10 to determine the total value of the stolen items, in gold pieces (gp).
 ^stolen-treasure
 
@@ -123,14 +136,12 @@ Most of the cultists, guards, and acolytes are human. You can include a few dwar
 
 Characters have random encounters with raiders when they enter Greenest, but this one should be their first mission of the chapter. It begins when a terrified human family (father, mother, and three young children) dash across their path, hounded by seven [[kobold-warrior-xmm|kobolds]].
 
-> [!readaloud] 
-> 
 > Without warning, five humans dash out from between two buildings on your left. A limping man and three young children race across the street into more shadows, and a woman carrying a round shield and a broken spear turns and faces back in the direction from which they came. Seven kobolds stream out of the alley on the family's heels and fan out around the woman, who looks determined to delay the creatures for as long as possible.
 ^071
 
-The woman is [[/03_Mechanics/CLI/bestiary/npc/linan-swift-hotdq|Linan Swift]], and her husband is Cuth. Linan is a [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]] but with 8 hit points. Her attack with the spear is `+2` to hit for `d6` piercing damage. Her husband is down to 2 hit points from an earlier fight. The children move at speed 20. They can be carried, but a character carrying a child has disadvantage on attack rolls and cannot wield a two-handed weapon.
+The woman is [[/03_Mechanics/CLI/bestiary/npc/li-swift-hotdq|Li Swift]], and her husband is Cuth. Li is a [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]] but with 8 hit points. Her attack with the spear is `+2` to hit for `d6` piercing damage. Her husband is down to 2 hit points from an earlier fight. The children move at speed 20. They can be carried, but a character carrying a child has disadvantage on attack rolls and cannot wield a two-handed weapon.
 
-Unless characters interfere, the kobolds assume the characters are cultists and ignore them. Assuming characters intervene and save the family, Linan explains that they must make their way to the keep (at area 1); it's the only safe place in Greenest. The raiders haven't set up an effective cordon around the keep, so it's still possible to move through the front gate—but not for long.
+Unless characters interfere, the kobolds assume the characters are cultists and ignore them. Assuming characters intervene and save the family, Li explains that they must make their way to the keep (at area 1); it's the only safe place in Greenest. The raiders haven't set up an effective cordon around the keep, so it's still possible to move through the front gate—but not for long.
 
 To reach the keep, the characters must make it past three groups of raiders. A group consists of `d6` [[kobold-warrior-xmm|kobolds]] and `d4` [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]]. If the group contains six kobolds, one is a [[winged-kobold-xmm|winged kobold (urd)]].
 
@@ -204,8 +215,6 @@ Characters earn 50 XP each for driving away Lennithon, but reduce that award to 
 
 Governor Nighthill would like to interrogate some of the raiders.
 
-> [!readaloud] 
-> 
 > "I'd give anything to know what we're up against, and why. For that, we need prisoners. A commander, even a low-ranking one, is best."
 ^07d
 
@@ -229,8 +238,6 @@ If characters capture a prisoner, award each of them 25 XP. To collect that awar
 
 From the parapet of the keep, someone spots a group of raiders trying to set fire to the town mill (area 4). Governor Nighthill quickly approaches the adventurers.
 
-> [!readaloud] 
-> 
 > "The guards have spotted a new threat. Raiders are trying to set fire to the town's mill. If it burns, we'll lose our stockpile of flour and we won't be able to grind more for months. I'm trying to assemble enough defenders from here in the keep to defend it through the rest of the night, but that will take time. You'd do us a great service if you could get to the mill quickly and drive away the raiders before they can set it aflame. You'll need to defend it until our force arrives to take over, but it shouldn't be more than fifteen minutes behind you."
 ^080
 
@@ -284,10 +291,7 @@ Rescuing people from the temple earns each character 100 XP in addition to the p
 
 Before all the raiders depart, their champion challenges the town's best warrior.
 
-> [!readaloud] 
-> 
 > From the darkness, a creature strides into the dim light of the dying fires around the keep. Although it is shaped roughly like a human, it is at least seven feet tall, its skin is covered in blue scales, its fingers bear wicked claws, and its face has the muzzle and reptilian eyes of a dragon. The creature stops about eighty yards from the main gate of the keep and scans the walls. A line of kobolds fans out behind it. With their spears, they prod four human prisoners into the dim light. You can make out a woman, a teenage boy in a blood-soaked tunic, and two children. Then the half-dragon creature hails the keep.
-> 
 > "Defenders of Greenest! This has been a successful night, and I am feeling generous. Do you see these four pitiful, useless prisoners? We have no need for them, so I will trade them back to you. Send out your best warrior to fight me, and you can have these four in exchange."
 ^087
 
@@ -295,8 +299,6 @@ The speaker is [[/03_Mechanics/CLI/bestiary/npc/langdedrosa-cyanwrath-hotdq|Lang
 
 One of the defenders in the keep, Sergeant Markguth, recognizes the prisoners as his sister and her children, and he is ready to rush out into battle with the half-dragon. Escobert the Red and a few other defenders restrain him while Nighthill approaches the characters.
 
-> [!readaloud] 
-> 
 > "My friends, you've demonstrated your prowess all through this frightful night. I realize this is an awful burden to ask you to bear, but any of you has a better chance to defeat that horror than my militia have."
 ^088
 
@@ -304,7 +306,7 @@ If no one steps forward, Nighthill is disappointed but says he understands, and 
 
 Cyanwrath is pleased to see a champion step forward. He agrees to these terms for the combat: The three children will be set loose immediately, but his kobolds will continue to stand guard over the woman, and they will kill her if anyone interferes in the fight—for example, if archers in the keep let fly at him. Regardless of who wins, the woman will be released when the fight is over; and the victor will be the last one standing.
 
-Governor Nighthill holds his troops in the keep during the combat. Adventurers can go out if they want, but the half-dragon insists that they keep their distance and stay between him and the fortress. If characters try to surround him or to edge into position for an ambush, he warns them that his kobolds won't hesitate to kill the hostages if they see signs of treachery. The half-dragon is evil, but he has a deep sense of honor about one-on-one combat. He doesn't intend any shenanigans, and he won't allow any from his kobolds.
+Governor Nighthill holds his troops in the keep during the combat. Adventurers can go out if they want, but the half-dragon insists that they keep their distance and stay between him and the fortress. If characters try to surround him or to edge into position for an ambush, he warns them that his kobolds won't hesitate to kill the hostages if they see signs of treachery. The half-dragon is evil, but he has a deep sense of honor about one-on-one combat. He doesn't intend any sheigans, and he won't allow any from his kobolds.
 
 Cyanwrath is the likely winner of this match, whether he's fighting Sergeant Markguth or a character. When his foe drops, he strikes one more time; the last blow kills Markguth or inflicts one death roll failure on a character. If Cyanwrath loses the fight, the kobolds immediately jump in to protect his body and carry it away. (Cyanwrath will recover from his wounds and be encountered again later.) If by some mischance Cyanwrath is killed or captured, his place in the dragon hatchery (chapter 3) is taken by another half-dragon.
 
@@ -326,19 +328,20 @@ It's assumed that when characters first see the fighting in Greenest, they will 
 
 Legends speak of 02 chapter 1 greenest in flames as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 02 chapter 1 greenest in flames.
 
-## Adventure Hooks
-
-- A rumor ties 02 chapter 1 greenest in flames to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 02 chapter 1 greenest in flames to avert a public scandal.
-- A map overlay reveals a hidden approach to 02 chapter 1 greenest in flames active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

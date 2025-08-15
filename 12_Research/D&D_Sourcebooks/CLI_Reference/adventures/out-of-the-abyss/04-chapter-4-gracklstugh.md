@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.648780'
 world: Both
 ---
 
-
 # Chapter 4: Gracklstugh
 *Source: Out of the Abyss, p. 50* 
 
@@ -32,6 +31,24 @@ As merciless as it can be, Gracklstugh is a major bastion of civilization in the
 Built within the walls of a deep cavern southwest of the Darklake, Gracklstugh is the commercial, political, and spiritual center of the duergar, all of whom look to the Deepking with respect. The city has an open shore along the Darklake, while several caverns and passages connect Gracklstugh to other parts of the Underdark to facilitate travel and trade.
 
 The characters have a chance to witness and shape events in the city that point toward the danger Gracklstugh faces—and how unprepared the city is for it. But with each moment the characters spend in the City of Blades, they run the risk of having escaped the drow only to be enslaved by the duergar.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Going to Gracklstugh
 
@@ -62,11 +79,8 @@ Arriving by way of the Darklake Docks is easier and more discreet. If the charac
 > [!note] Gracklstugh: General Features
 > 
 > Sweltering heat and cloying smoke cling to every corner of the duergar city, spewing from smelters housed inside massive stalagmites and stalactites. These protrude from the cavern's floor and ceiling like the teeth of some great maw.
-> 
 > **Light.** Gracklstugh's glowing forges and smithies operate continuously. Most of the city is dimly lit by a hellish red glow, with patches of darkness here and there.
-> 
 > **Noise.** The clanging and clacking of hammers and machinery echoes constantly throughout the city. Wisdom ([[skills#Perception|Perception]]) checks made to listen in Gracklstugh have disadvantage.
-> 
 > **Smoke and Haze.** Despite vents dug into the walls and ceiling of the city's great cavern, fumes from smelters and forges linger at ground level (as does the gas tapped in Laduguer's Furrow). Visitors might contract the illness known as grackle-lung (see the Grackle-lung sidebar).
 ^gracklstugh-general-features
 
@@ -130,13 +144,9 @@ House Faen Tlabbar and House Mizzrym are bitter rivals. If the drow emissary bel
 House Baenre and House Xorlarrin are current allies of House Mizzrym. A drow emissary allied with House Mizzrym who knows that the characters are escaped prisoners from Velkynvelve seeks out Xalith and warns her that the characters are in Gracklstugh.
 
 > [!note] Roleplaying the Duergar and Derro
-> 
 > The gray dwarves are dour, joyless, and all business. They live by a simple but exacting code of law, honor, hard work, and seeing all non-duergar as lesser creatures. Duergar are ruthless but not unnecessarily cruel, and pragmatism drives their every decision. Though they treat the adventurers with contempt, their first thought is to enslave them or use them rather than kill them.
-> 
 > The duergar of Gracklstugh are beginning to suffer the effects of the arrival of the demon lords—and specifically the influence of Demogorgon. Many are developing tics, habits, and behaviors that fly against their core beliefs, including guards flaunting their corrupt behavior, the use of adornment for adornment's sake, and disloyalty to their clans. Of late, the folk of Gracklstugh have become increasingly more violent, abandoning their characteristic cunning and stoic pragmatism for wanton malice and petty displays of self-entitlement.
-> 
 > Unlike the disciplined duergar, the derro are sloppy, erratic, and utterly insane. Their temperament is fickle, and their speech hard to follow. The one guaranteed emotion they have when interacting with others is seething hatred, and they make no effort to hide it. Their eyes are shifty, their teeth grind, and they look as though they would rather be somewhere else. They hate everyone and everything, but surface-dwellers are particular targets of their loathing.
-> 
 > Their inherent insanity means that the derro suffer no ill effect from the demon lords' presence, their minds already too volatile and mercurial.
 ^roleplaying-the-duergar-and-derro
 
@@ -204,7 +214,7 @@ The characters might encounter one or more of the following NPCs during their st
 | **Gartokkar Xundorn** | Male duergar Keeper of the Flame with a side quest for the party |
 | **Ylsa Henstak** | Female duergar merchant with a side quest for the party |
 | [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] | Male derro courier in the employ of both the Gray Ghosts and the Council of Savants, and the subject of different possible side quests |
-| **Werz Saltbaron** | Male duergar merchant with a mission for the party |
+| **Werz Salron** | Male duergar merchant with a mission for the party |
 | **Stonespeaker Hgraam** | Male stone giant leader with a side quest for the party |
 | [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]] | Male [[derro-savant-mpmm|derro savant]], junior member of the Council of Savants and leader of a cult dedicated to Demogorgon |
 
@@ -222,11 +232,9 @@ This advisory body represents the interests of the different clans that have ple
 
 #### Duergar Clans
 
-|    |    |
-|----|----|
 | **Smithing** | Clan Steelshadow (weaponsmiths), Clan Ironhead (weaponsmiths), Clan Thrazgad (armorsmiths), Clan Firehand (smelters), Clan Anvilthew (toolmakers) |
 | **Mercantile** | Clan Thuldark (metalworks and jewels), Clan Henstak (food), Clan Muzgardt (brewers) |
-| **Mining** | Clan Coalhewer (coal miners), Clan Xardelvar (gas miners), Clan Saltbaron (salt miners) |
+| **Mining** | Clan Coalhewer (coal miners), Clan Xardelvar (gas miners), Clan Salron (salt miners) |
 | **Other** | Clan Parlynsurk (clothing manufacturers), Clan Hammercane (construction engineers), Clan Xundom (steeder breeders), Clan Burakrinwurn (dock operators), Clan Xornbane (scouts and prospectors), Clan Blackskull (stonemasons), Clan Bukbukken (farming), Clan Thordensonn (jewelers) |
 
 #### Council of Savants
@@ -234,13 +242,9 @@ This advisory body represents the interests of the different clans that have ple
 The Council of Savants is a circle of derro savants who enjoy all the privileges and trappings of a governing body while the rest of their people live in squalor. Only the best thirty-six savants are admitted into the council, and succession almost always includes an incumbent member's demise. The savants control members of some duergar clans through magic and guile, and are always looking for ways to expand their influence.
 
 > [!note] Secrets of Gracklstugh
-> 
 > Wary outsiders visiting Gracklstugh quickly learn the most important details of life in the city.
-> 
 > **Unseen Sentries.** The duergar power of invisibility plays a significant role in their society. The potential presence of unseen spies everywhere enforces honesty among duergar. Slaves rarely, if ever, talk or act against their masters, never knowing who might be watching.
-> 
 > **A City Divided.** Not only is the layout of Gracklstugh divided, so are its people. Nearly five hundred years ago, the derro launched a Uniting War against the Deepkingdom, but were swiftly crushed, and the survivors brought back to Gracklstugh in chains. Though their status as slaves was eventually set aside, the derro have always been second-class citizens, living in squalor and scrounging food and resources, even as their leaders on the Council of Savants live in secret opulence.
-> 
 > **Frugal and Monolithic.** The gray dwarves value efficiency, stoicism, and hard work, and these values are exemplified in their capital. Everything the duergar make or build has a purpose and function; the only aesthetic they value in architecture is imposing vastness, and even that is secondary to a building's structural function. The only ornamentations found in Gracklstugh are iconic representations of rank and function within duergar society, and the only music is the ceaseless rhythmic hammering in the forges. The duergar consider art a frivolous pursuit, and only rarely appreciate or create it.
 ^secrets-of-gracklstugh
 
@@ -273,11 +277,8 @@ These specialists train with deadly flame lances forged in Gracklstugh. Most xar
 Despite reports that the darkhafts and the Stone Guards have received about the growing crisis outside the city's walls, hubris and the onset of madness prevents them from mounting any sort of response or campaign, blind to the corruption that festers around them.
 
 > [!note] Grackle-Lung
-> 
 > The constant smog in Gracklstugh causes grackle-lung in living, breathing creatures, resulting in persistent, wracking coughs and the spewing of thick, black phlegm. Whenever a living, breathing creature finishes a long rest in Gracklstugh, it must make a DC 11 Constitution saving throw. On each failed save, the creature gains one level of [[conditions#Exhaustion|exhaustion]] as its airways become increasingly clogged. A creature that reaches level 6 [[conditions#Exhaustion|exhaustion]] dies, as normal.
-> 
 > A creature with one or more levels of [[conditions#Exhaustion|exhaustion]] brought on by grackle-lung must succeed on a Constitution check to take the [[actions#Dash|Dash]] action. If the check fails, the action cannot be attempted. If the creature attempts to cast a spell with a verbal component, it must succeed on a Constitution check or be unable to complete the spell, causing the spell to fail with no effect. The DC for each check is 10 + the creature's current [[conditions#Exhaustion|exhaustion]] level.
-> 
 > If a creature's [[conditions#Exhaustion|exhaustion]] level drops below 1, it no longer suffers the effects of grackle-lung and becomes immune to it for the next week. Duergar and derro are inured to grackle-lung, making Constitution checks against it with advantage. Any spell or effect that cures disease also cures grackle-lung, effectively removing all levels of [[conditions#Exhaustion|exhaustion]] brought on by the affliction.
 ^grackle-lung
 
@@ -336,11 +337,8 @@ The bottom rung in Gracklstugh society is mostly occupied by the underclass of t
 Another kind of outcasts are those duergar who dishonor their clans so grievously they are stripped of all but their lives: the *calassabrak*, meaning "the flawed who aren't to be trusted" in Dwarvish. They are shunned by other duergar, many eventually taking their lives rather than face an existence apart from family and clan. Those who live on become bitter and tough, with many leaving Gracklstugh as hermits or adventurers, or turning to crime and a life in the shadows. Members of both the Gray Ghosts and the Empty-Scabbard Killers include a significant number of calassabrak, no longer bound by oath, honor, and duty.
 
 > [!note] The Downward Spiral
-> 
 > The madness of the demon lords has not reached Gracklstugh in full, but it already has a foothold through the work of the derro and their savants.
-> 
 > A splinter group of the Council of Savants began worshiping Demogorgon even before the current crisis, and their foul rituals accelerated the spread of madness in the city. To make things worse, the divided nature of the city, both geographically and socially, resonates strongly with the dual aspect of Demogorgon. The derro cultists plan to offer the entire city to their newly arrived master.
-> 
 > Many duergar NPCs the characters interact with are showing the first signs of infection. Though their madness has not yet overwhelmed them, it manifests in behavior such as Errde Blackskull's conspiracy theories, Gorglak's corruption, and Gartokkar Xundorn's paranoia.
 ^the-downward-spiral
 
@@ -354,7 +352,7 @@ The patron of the duergar is a god of self-reliance, defense, and survival. His 
 
 ##### Deep Duerra
 
-Laduguer's mortal daughter who then ascended, Deep Duerra is the goddess of cooperation and dominance. War is her domain as well.
+Laduguer's mortal daughter who then ascended, Deep Duerra is the goddess of cooperation and domice. War is her domain as well.
 
 ##### Diirinka
 
@@ -371,7 +369,6 @@ Minor crime is relatively rare in Gracklstugh. The duergar live by a strict code
 ## Gracklstugh
 
 > [!note] 
-> 
 > - **Population**: 10,000 duergar, 2,000 derro, 50 stone giants, and an unknown number of slaves (quaggoths, grimlocks, orcs, shield dwarves, svirfneblin, and a few kobolds and goblinoids)  
 > - **Government**: Absolute monarchy  
 > - **Defense**: Large standing army with specialized corps; every duergar is trained for battle, and the citizens of the city create a formidable militia  
@@ -391,14 +388,11 @@ Entering the city is the first major hurdle the characters must surmount in Grac
 
 ### City Gates
 
-The pragmatic nature of the duergar means that all Gracklstugh's entrance gates are similar in design, for ease of maintenance and the training of guards.
+The pragmatic nature of the duergar means that all Gracklstugh's entrance gates are similar in design, for ease of maintece and the training of guards.
 
 > [!readaloud] 
-> 
 > The ground at your feet has been getting smoother and flatter, a welcome respite from the uneven passages to which you have grown wearily accustomed. Eventually, stone tiles become more noticeable, turning the path into a proper road. You can see spots of light in the distance, blue-white and too regularly placed to be phosphorescent mushrooms.
-> 
 > The lights are proper lamps flanking two massive stone gates blocking the tunnel. Before you get a chance to examine the intricate carvings on the gates' surface, a harsh voice hisses from a slit on the cavern wall that was not there before.
-> 
 > "State your names and business!" the voice orders in Dwarvish. Other similar slits open, revealing the tips of a dozen crossbow bolts. Behind you, a metallic din announces a group of six heavily armored dwarves appearing out of thin air, their swords leveled at you from behind sturdy metal shields.
 ^171
 
@@ -410,10 +404,7 @@ The guard grudgingly lets the characters pass if the check succeeds, and refuses
 
 The first time the characters are allowed inside the city or turned away from a gate, a secret door on the wall opens, revealing Gorglak, a [[/03_Mechanics/CLI/bestiary/humanoid/duergar-stone-guard-mpmm|duergar Stone Guard]] (see appendix C).
 
-> [!readaloud] 
-> 
 > "Well." The duergar removes his helmet, revealing the gray skin of his kind. He musses his white beard as he walks closer, switching to Common as he lowers his voice. There is a discomfiting glint in his eyes and his smile. "You are clearly lying. I ought to just send you to the slave pens, but... you amuse me. What do you have that is worth your freedom?"
-> 
 > The duergar waits for your answer, his gaze touching on each of you in turn as he smiles in anticipation.
 ^172
 
@@ -421,12 +412,11 @@ If they are with the party, [[/03_Mechanics/CLI/bestiary/npc/topsy-oota|Topsy]] 
 
 Offering Gorglak a worthy weapon for his collection gets the characters through the gate. Any other bribe requires one of the characters to succeed on a DC 13 Charisma ([[skills#Persuasion|Persuasion]]) check, or Gorglak is insulted and has the party arrested. If the characters are too open about the negotiation, Gorglak has them arrested and pretends he didn't say anything.
 
-If Gorglak finds the characters' bribe appealing, he refuses to accept it then and there, instead directing them to find one Werz Saltbaron in the Darklake Docks and hand the bribe to him. Gorglak tells the characters that he will check with Werz at the end of his shift, and will find the characters and arrest them if they have not paid by then.
+If Gorglak finds the characters' bribe appealing, he refuses to accept it then and there, instead directing them to find one Werz Salron in the Darklake Docks and hand the bribe to him. Gorglak tells the characters that he will check with Werz at the end of his shift, and will find the characters and arrest them if they have not paid by then.
 
 Characters allowed through the gate are escorted to the Darklake District by four [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] guards, two of whom are [[conditions#Invisible|invisible]]. Once the party reaches the edge of the district, the guards leave and return to the posts.
 
 > [!note] Buppido's Escape
-> 
 > [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] has a secret agenda in Gracklstugh. If he is still with the party, the derro looks for the first opportunity to slip away and return to his hidden lair and "shrine" in the Whorlstone Tunnels (see "Whorlstone Tunnels").
 ^buppidos-escape
 
@@ -434,10 +424,7 @@ Characters allowed through the gate are escorted to the Darklake District by fou
 
 Arriving at the Darklake Docks requires a combination of skill, ingenuity, and luck. Vigilance is a little more relaxed here because the guards at Overlake Hold can spot any obvious threat coming from the waters.
 
-> [!readaloud] 
-> 
 > After hours of tense navigation, you glimpse an orange glow in the distance. Soon you hear faint metallic echoes, growing louder as you come closer.
-> 
 > Firelight illuminates massive columns with structures built around their bases. The cold air of the Underdark is becoming warmer even at this distance, and you can now see a variety of piers made from zurkhwood, stone, and plain rock jutting out along the edge of a huge cavern.
 ^175
 
@@ -459,10 +446,7 @@ Possible offers of employment in the Blade Bazaar can also be turned into timely
 
 The Darklake District gives an illusion of openness. The streets are relatively wide to allow for merchant carts and wagons to pass, and the buildings aren't as crowded around stalagmites as in the southern districts. Openness doesn't mean welcoming, however. The duergar who ply their trades here are wary of all the foreigners confined by law to this part of the city.
 
-> [!readaloud] 
-> 
 > A wave of heat slams against you as an acrid smog rises to choke the air out of your lungs. The Darklake spreads out beyond a jumble of buildings and streets, reflecting the lights of countless fires burning across the city within hollowed-out columns and stalagmites.
-> 
 > Though the streets are crowded, you move easily within the surging throng of buyers, merchants, and slaves. You aren't the only outsiders here, as you spy drow, svirfneblin, derro, orcs, and other races in the crowds. The shouting of people blends with the sound of distant hammering to create a constant, distracting din.
 ^178
 
@@ -476,14 +460,12 @@ At any point during which the characters move from point to point in the Darklak
 
 This encounter triggers possible side quests through which the characters can learn about the influence of Demogorgon in Gracklstugh. You can use this event any time during the party's stay in the city. Holding it for later use gives characters a chance to notice the little things wrong among the duergar, while using it right away can help characters avoid being enslaved if they are arrested at any point during their visit.
 
-> [!readaloud] 
-> 
 > The rhythmic hammering of the city's forges is drowned for a second by a thundering roar and the sound of crumbling rock. Duergar and visitors alike turn to look as a two-headed, gray-skinned giant bursts through a gate, howling madly and lashing out left and right, littering the plaza with rock and stone debris. As he bellows, one of his swings connects with a duergar soldier, whose broken body flies through the air and crashes near you with a sickening crunch.
 ^17a
 
 A [[stone-giant-xmm|stone giant]] from Cairngorm Cavern has succumbed to a demonic curse that has caused him to grow a disfigured second head. A successful DC 12 Wisdom ([[skills#Insight|Insight]]) check reveals that the giant is crazed and terrified. Use the stone giant stat block with the following modifications:
 
-- The giant has advantage on Wisdom ([[skills#Perception|Perception]]) checks and on saving throws against being [[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]], [[conditions#Stunned|stunned]], or knocked [[conditions#Unconscious|unconscious]].  
+- The giant has advantage on Wisdom ([[skills#Perception|Perception]]) checks and on saving throws against being [[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]], [[conditions#frightened|frightened]], [[conditions#Stunned|stunned]], or knocked [[conditions#Unconscious|unconscious]].  
 - The giant is unarmed. As an action, it can make two unarmed strikes (+9 to hit, reach 10 ft., one target). On a hit, the giant deals 13 (`2d6 + 6`) bludgeoning damage.  
 
 The rampage happens in a broad plaza, so there is plenty of space for the different combatants to maneuver.
@@ -505,7 +487,6 @@ If the party was not previously arrested and didn't participate in the fight, th
 If the characters knocked Rihuud [[conditions#Unconscious|unconscious]] instead of dealing a lethal blow, a grateful Dorhun asks them to visit Cairngorm Cavern before they leave the city, informing the Stone Guards of this. The importance of the Stonespeaker means that the Stone Guards will escort the party across the city to meet with him, though they don't hide their displeasure at doing so.
 
 > [!note] Flashing Badges
-> 
 > Working for either the Stone Guard or the Keepers of the Flame grants characters a degree of freedom in Gracklstugh, as they can show the insignia given to them by each faction if they are detained. At least one character in the party must succeed on a DC 14 Charisma ([[skills#Persuasion|Persuasion]]) check to convince duergar not to detain the party any longer, but characters who show the insignia have advantage on the check.
 ^flashing-badges
 
@@ -558,9 +539,7 @@ Duergar merchants glare scornfully at this derro, and none will discuss him with
 Catching [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] (see appendix C) is the objective of quests from Errde Blackskull (see "Overlake Hold") and Gartokkar Xundorn (see "[[/03_Mechanics/CLI/bestiary/npc/themberchaud-oota|Themberchaud]]'s Lair"), but if the characters pursue the courier openly, he flees for the West Cleft District. Pursuing characters quickly lose sight of the derro as he vanishes into the crowd. See "Finding [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]]" in the "Whorlstone Tunnels" section for more information on what [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] is carrying if the characters catch him.
 
 > [!note] Chasing Droki
-> 
 > If the characters decide to wait for [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] to enter the West Cleft or somehow follow him here, use the chase rules in "chapter 8" of the "Dungeon Master's Guide", adapting the results for urban complications to a cave full of hateful derro. If [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] loses them, the characters must resort to less convenient means of finding the Whorlstone Tunnels.
-> 
 > If the characters do manage to catch [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] in the West Cleft, he drops limp and babbles, but is suspiciously amenable and shows the characters the entrance to the tunnels. See the "Whorlstone Tunnels" section for how to roleplay [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]].
 ^chasing-droki
 
@@ -582,13 +561,13 @@ This huge, ramshackle brewery is built of stone blocks stacked to make walls bet
 
 These busy docks are used primarily by flat-bottomed rafts made of zurkhwood and lacquered puffball floats. Some of these ramshackle barges come with oars or paddle wheels. The rafts look ungainly, but each can carry tons of trade goods.
 
-The characters land at the easternmost inlet if they arrive at Gracklstugh by way of the Darklake, near the Ghohlbrorn's Lair inn. If they instead arrived through a gate and successfully bribed Gorglak, they might come here looking for his contact, Werz Saltbaron.
+The characters land at the easternmost inlet if they arrive at Gracklstugh by way of the Darklake, near the Ghohlbrorn's Lair inn. If they instead arrived through a gate and successfully bribed Gorglak, they might come here looking for his contact, Werz Salron.
 
 #### Assassins Interrupted
 
 The characters spot a male duergar merchant at the end of a pier. Suddenly, two [[conditions#Invisible|invisible]] duergar appear next to him and stab him viciously with glowing swords. The assassins' faces are masked and hooded. The characters have 2 rounds to distract the two [[/03_Mechanics/CLI/bestiary/humanoid/duergar-soulblade-mpmm|duergar soulblades]] (see appendix C) before they finish off the merchant.
 
-The merchant is Werz Saltbaron. If the characters save him, he is grudgingly grateful and says he has no idea why the assassins targeted him. A successful DC 12 Wisdom ([[skills#Insight|Insight]]) check suggests he's lying. He flees the scene, but not before telling the characters to meet him at the Shattered Spire the following day so he can reward them properly.
+The merchant is Werz Salron. If the characters save him, he is grudgingly grateful and says he has no idea why the assassins targeted him. A successful DC 12 Wisdom ([[skills#Insight|Insight]]) check suggests he's lying. He flees the scene, but not before telling the characters to meet him at the Shattered Spire the following day so he can reward them properly.
 
 The characters have 1 minute to search the assassins before a patrol of four [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] arrives. The glowing weapons wielded by the assassins are nowhere to be found, but one of the assassins has a piece of fish-skin parchment bearing Werz's likeness drawn in charcoal.
 
@@ -606,10 +585,7 @@ Dunglorrin Torune, which translates as Overlake Hold, is a fortress and temple d
 
 If the characters are arrested, they are taken to the hold's dungeons, where they receive a chance to earn their freedom by serving the Stone Guard.
 
-> [!readaloud] 
-> 
 > After waiting a long while in a dungeon cell carved out of impressively thick stone, you are taken to a dark office and met by an imposing female gray dwarf. She is fully armored and bears an insignia you have not seen on any other duergar. She is flanked by two Stone Guards who remain by the door.
-> 
 > "I am Captain Errde Blackskull, commander of the Stone Guard," she says, giving each of you a calculating look. "Let me start by saying you are worth nothing here in Gracklstugh. Most of those in my command would sell you off in a heartbeat as the cheapest manual labor. However, I've learned to make much better use of adventurers like you."
 ^18b
 
@@ -637,7 +613,7 @@ A broken stalagmite juts out from the Darklake about forty feet from the shore, 
 
 #### Meeting Werz
 
-If the characters rescued Werz Saltbaron from the assassins (see "Darklake Docks"), he meets them at the Shattered Spire at the designated date and time. As modest thanks for saving him, he gives each character an obsidian gemstone worth 10 gp. He then offers them a job, delivering a sack full of raw gemstones (worth 100 gp total) to a svirfneblin named Kazook Pickshine in Blingdenstone, no questions asked.
+If the characters rescued Werz Salron from the assassins (see "Darklake Docks"), he meets them at the Shattered Spire at the designated date and time. As modest thanks for saving him, he gives each character an obsidian gemstone worth 10 gp. He then offers them a job, delivering a sack full of raw gemstones (worth 100 gp total) to a svirfneblin named Kazook Pickshine in Blingdenstone, no questions asked.
 
 [[/03_Mechanics/CLI/bestiary/npc/jimjar-oota|Jimjar]], [[/03_Mechanics/CLI/bestiary/npc/topsy-oota|Topsy]], and [[/03_Mechanics/CLI/bestiary/npc/turvy-oota|Turvy]] know of Kazook Pickshine and can provide basic information about the gnome alchemist (see chapter 6). The deep gnomes also recognize that Werz's gems resemble empty *spell gems*, similar to those used in the defense of Blingdenstone. The gems, mundane in their current form, are actually raw stones used in the crafting of *spell gems*. Werz met Kazook in Mantol-Derith (see chapter 9), and the two have been trading recently behind their superiors' backs. He declines to mention this, though, deflecting any questions by mentioning that Blingdenstone is a good place to find a way out of the Underdark.
 
@@ -679,9 +655,7 @@ The homes of the derro are mostly burrows carved into the walls and simple struc
 
 The derro are automatically hostile toward anyone entering their warrens, especially surfacers.
 
-> [!readaloud] 
-> 
-> As you pass through the gates, the stench in the air changes from acrid and metallic to fetid and repugnant, the fires of industry replaced by squalor. The homes in this part of Gracklstugh are crudely carved from the rock or are just holes in the walls, arranged in no apparent order. The chatter in the air is unnerving, with hundreds of derro muttering, screaming at each other, and otherwise reveling in their insanity. Those who spot you look at you with a burning hatred.
+> As you pass through the gates, the stench in the air changes from acrid and metallic to fetid and repugt, the fires of industry replaced by squalor. The homes in this part of Gracklstugh are crudely carved from the rock or are just holes in the walls, arranged in no apparent order. The chatter in the air is unnerving, with hundreds of derro muttering, screaming at each other, and otherwise reveling in their insanity. Those who spot you look at you with a burning hatred.
 ^199
 
 At the end of each hour the adventurers stay inside either derro area, there is a 25 percent chance that `2d4` [[derro-mpmm|derro]] (see appendix C) attack without warning. If the characters kill any derro, the chance of another attack becomes 50 percent every half hour.
@@ -714,8 +688,6 @@ If the adventurers helped stop the rampaging giant in the Darklake District (and
 
 Additionally, Hgraam gives the characters a warning:
 
-> [!readaloud] 
-> 
 > "Something evil stirs in the Underdark. The rock itself cries in pain and horror, and a madness creeps from the blackest depths. Pay heed to the signs surrounding you. A cave with two faces. Rock devoured, and the land overgrown. The pebble believes itself flesh. The earth rejects its wards, and the tunnels shake in fury. By these portents, you shall know of evil's presence and of evil's face. This is what the stones tell me."
 ^19e
 
@@ -735,14 +707,9 @@ For some time now, the Keepers have been actively seeking capable mercenaries in
 
 The dragon speaks Dwarvish to its servants as the characters approach. Read the following:
 
-> [!readaloud] 
-> 
 > As the duergar priests lead you to a building carved from the stone just outside a huge cave entrance, the ground trembles slightly, and a thunderous voice echoes against every wall.
-> 
 > "Gartokkar," the voice calls as a reptilian behemoth comes into view, it scales the color of lava, its bright yellow eyes glowing in the shadows of the cave before coming into the light. "You didn't say I was having surfacers for dinner today."
-> 
 > The dragon chuckles at his own wit. His massive body gives the distinct impression that he is overweight, indicating eating habits that don't bode well.
-> 
 > "Foreigners," the duergar priest says with great reverence, "meet the Father of Flame, the Everburning, and the Foundry's Heart—[[/03_Mechanics/CLI/bestiary/npc/themberchaud-oota|Themberchaud]], the Wyrmsmith of Gracklstugh."
 ^1a1
 
@@ -785,17 +752,11 @@ The long, gently curving tunnels have relatively regular dimensions. They are kn
 There are currently two factions using the tunnels for their own ends. The Gray Ghosts have an alchemical laboratory and a fungal garden supplying them with poisons, and the leaders of the guild conceal a secret in the form of a mysterious black obelisk in the farthest cave (see area 16). The other group is a budding cult of derro demon worshipers led by a renegade member of the Council of Savants. Sensing that the demon lords are somehow using *faerzress* to spread chaos and madness, the demon worshipers have begun conducting rituals to infect Gracklstugh. Intent on weakening the city and breaking the power of King Horgar Steelshadow V, the cultists plan to inflict a curse on the stone giants of Clan Cairngorm that causes them to grow second heads, driving them insane.
 
 > [!note] Whorlstone Tunnels: General Features
-> 
 > The following features are prevalent throughout the Whorlstone Tunnels.
-> 
 > **Ceilings and Floors.** The average ceiling height is 50 feet, dropping to 25 feet in narrow tunnels.
-> 
 > **Narrow Tunnels.** The narrowest tunnels are barely 2 feet wide at their widest points. A Tiny creature can move through these tunnels unimpeded, while a Small creature must squeeze to pass through them. Medium and larger creatures can't fit through these narrow passageways.
-> 
 > **Faerzress.** The Whorlstone Tunnels are suffused with *faerzress* (see "Faerzress" in chapter 2 for effects). *Faerzress* has also altered the physical appearance of the complex, creating spiral patterns on the walls and ceilings. These spirals are what give the complex its name. Because of these weird spiraling patterns, saving throws to resist *faerzress*-induced madness are made with disadvantage.
-> 
 > **Foul Water.** Water from the Darklake drips from stalactites and trickles through cracks in the walls, forming narrow streams and shallow pools throughout the Whorlstone Tunnels. Any creature that drinks the foul water must succeed on a DC 12 Constitution saving throw or become [[conditions#Poisoned|poisoned]]. The [[conditions#Poisoned|poisoned]] creature can repeat the saving throw at the end of each hour to end the effect.
-> 
 > **Edible Fungi.** Edible fungi (including pygmywort and bigwig) are abundant in the Whorlstone Tunnels. Characters can attempt DC 10 Wisdom ([[skills#Survival|Survival]]) checks to forage here.
 ^whorlstone-tunnels-general-features
 
@@ -817,10 +778,6 @@ As the characters explore the Whorlstone Tunnels, they can run into various crea
 
 #### Whorlstone Tunnels Encounters
 
-`dice: [](04-chapter-4-gracklstugh.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1–10 | No encounter |
 | 11–12 | 1 [[carrion-crawler-xmm|carrion crawler]] |
 | 13 | Demon pack |
@@ -831,7 +788,6 @@ As the characters explore the Whorlstone Tunnels, they can run into various crea
 | 18 | 1 [[swarm-of-insects-xmm|swarm of insects (centipedes)]] |
 | 19 | 1 [[xorn-xmm|xorn]] |
 | 20 | Yellow mold |
-^encounter
 
 #### Carrion Crawler
 
@@ -867,22 +823,17 @@ The characters notice a patch of yellow mold (see ""Dungeon Hazards"" in chapter
 
 #### Beneath the Yellow Mold
 
-`dice: [](04-chapter-4-gracklstugh.md#^encounter)`
-
 | dice: d4 | Encounter |
 |----------|-----------|
 | 1 | A humanoid skeleton wearing a [[ring-of-water-walking-xdmg|ring of water walking]] on one bony finger (no ring is found on subsequent occurrences of this encounter) |
 | 2 | A closed zurkhwood chest containing `1d6 × 100` gp and `d6` 50 gp gems |
 | 3 | A humanoid skeleton in tattered leather armor carrying a rusted shortsword and one of the following: a rotted quiver holding `d20` *+1 arrows*, a leather pouch containing `d10` *+2 sling stones*, or a zurkhwood case containing `d4` *+3 crossbow bolts* |
 | 4 | A [[1-shield-xdmg|+1 shield]] (on subsequent occurrences of this encounter, the shield is rusted and nonmagical) |
-^encounter
 
 ### Finding Droki
 
 If the characters are on a quest to find [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]], read the following boxed text when his path crosses with theirs.
 
-> [!readaloud] 
-> 
 > The dirty derro is easy to recognize: a pale face under a floppy hat fitted with two tentacle-like things that bob up and down in time with his brisk pace. He keeps muttering a repetitive series of phrases to himself at different volumes, failing to notice you. "[[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] is late! They will be so angry! Stupid, stupid, stupid! Delays, blocks, procrastination, obstructions, pfah! No time, no rhyme, not mine! No! Time!"
 ^1bb
 
@@ -928,18 +879,13 @@ The derro might have other items depending on whether he is allowed to make his 
 
 Capturing the derro and taking him to Errde Blackskull earns the characters 150 XP each.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/035-04-03.webp#gallery|Map 4.2: Gracklstugh—The Whorlstone Tunnels]]
 > ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/036-gracklstugh-tunnels-player-version.webp#gallery|Player Version]]
-
-### Areas of the Tunnels
 
 ### 1. Entrance
 
 The narrow corridor from the West Cleft opens into a long cavern lined with stalactites and stalagmites. Water drips from the stalactites, forming small pools on the floor.
 
-> [!readaloud] 
-> 
 > The glow of *faerzress* casts an eerie soft light across this cavern, swirling into spiral patterns and casting dancing shadows from the jagged pillars lining the walls. The air smells and tastes slightly metallic, and the sound around you is strangely muted. The dripping of water makes no echo, as if you stood in open air.
 ^1c3
 
@@ -957,8 +903,6 @@ If [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] is with the party, he
 
 A relatively small cave branches off the main tunnel. If the characters are shadowing [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]], read the following boxed text aloud to the players.
 
-> [!readaloud] 
-> 
 > [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] stands before a tall yet narrow crack in the wall. He stares at the crack for a moment, then leans down and rummages among the fungi, cackling with glee as he plucks a short mushroom and eats it whole. As he finishes the last bite, you see him shrink down to a doll's size, then run into the crack.
 ^1c6
 
@@ -970,10 +914,7 @@ The derro [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] discovered the
 
 If [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] returns to Gracklstugh, he abandons the characters at the first opportunity and makes his way to this place. If he is here when the characters arrive, read the following boxed text aloud to the players. Modify the text as appropriate if [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]] isn't present.
 
-> [!readaloud] 
-> 
 > As you venture into the cavern, a stench of rotting meat rises. The floor is carpeted with humanoid remains in varying stages of decomposition, arranged in a spiral pattern around the cave's center. An off-key humming comes from a hunched figure working busily at something on the floor.
-> 
 > "Oh, there you are!" The figure is [[/03_Mechanics/CLI/bestiary/npc/buppido-oota|Buppido]]. He wipes his hands on his vest and smiles viciously. "I didn't expect you to find me here, with my shrine nearly finished! And power! My faithful are finally honoring me! Are you...? Yes. Yes, I sense that you are ready to receive my truth into your hearts!"
 ^1c8
 
@@ -999,8 +940,6 @@ Scattered around the floor are 10 gp, 11 sp, and a damp piece of lizard-skin par
 
 This pool is fed by a river that flows from the Darklake. The river carries many things from the subterranean lake, including the carcasses of countless creatures, fouling the pool (see the "Whorlstone Tunnels: General Features" sidebar).
 
-> [!readaloud] 
-> 
 > The tunnel slopes down to the edge of a large pool that fills the cavern ahead. The opposite shore is nearly one hundred feet away, but nothing can be seen beneath the surface of the black water.
 ^1cc
 
@@ -1012,8 +951,6 @@ The characters can try to get around the pool without swimming it, by using magi
 
 Myconids journeying through the Underdark were attracted to the enriched fungal life in the Whorlstone Tunnels and made a stop here. They are friendly, but there is something seriously wrong with them.
 
-> [!readaloud] 
-> 
 > The tunnel opens into a natural cave, wherein you see several fungal creatures dancing to a silent tune. Three of them stand five feet tall, while the others are half as tall. One of the small ones stands apart from the rest, its movements not nearly as frantic. Hunched nearby are two larger creatures that resemble apes covered with mushroom growths and yellow mold.
 ^1ce
 
@@ -1045,8 +982,6 @@ Award 50 XP to each character if the party parlayed with the myconids.
 
 This tunnel juncture is blocked by a thicket of fungi. The thicket is an ecosystem unto itself, with its own challenges for those who wish to cross it.
 
-> [!readaloud] 
-> 
 > A dense fungi forest blocks your way, its tallest specimens growing some five feet high. Even as you assess the best way to pass through it, a hissing sound starts to rise—like uncounted tiny voices whispering in tongues you don't understand.
 ^1d3
 
@@ -1078,11 +1013,8 @@ The abundance of fungi in the thicket makes it easy to forage here. Among the co
 - `2d6` pygmyworts (see "*Faerzress*-Suffused Fungi")  
 
 > [!note] Zuggtmoy's Gift
-> 
 > A myconid with Zuggtmoy's gift can, as an action once per day, release a 20-foot-radius cloud of demon-tainted spores. Any other creature within the area that isn't already "blessed" with Zuggtmoy's gift must make a Constitution saving throw, with a save DC of 8 + the myconid's Constitution modifier + the myconid's proficiency bonus. A creature that forgoes or fails the saving throw becomes infected. While infected with Zuggtmoy's gift, the creature gains the ability to cast a special version of the [[tree-stride-xphb|tree stride]] spell that has no components. This spell allows the infected creature to move through patches of mold and fungi instead of trees. Once it casts this spell, the infected creature can't cast the spell again until it finishes a long rest.
-> 
 > Any creature infected with Zuggtmoy's gift has disadvantage on attack rolls against plant creatures. In addition, whenever an infected creature finishes a short or long rest, it must make a DC 15 Wisdom saving throw. On a failed save, the creature lapses into a state of euphoric bliss. While in this state, the creature can't take actions, bonus actions, or reactions, and must use all of its movement to dance and twirl about. At the end of its turn, the creature can repeat the saving throw, ending the euphoric bliss effect on a success.
-> 
 > A [[remove-curse-xphb|remove curse]] or [[greater-restoration-xphb|greater restoration]] spell rids a creature of Zuggtmoy's gift.
 ^zuggtmoys-gift
 
@@ -1090,8 +1022,6 @@ The abundance of fungi in the thicket makes it easy to forage here. Among the co
 
 This chamber was sculpted by *faerzress* with the side effect of trapping sound.
 
-> [!readaloud] 
-> 
 > The glow of *faerzress* shifts across this chamber as if pushed by an unseen wind. It flows toward and around a large mesa and continues to spiral upward, but the ceiling of the cavern is too dark and high to see. You hear murmurs and whispers coming from atop the mesa, which grow louder as you approach. Its stacked levels resemble steps in a staircase, but a ramp running from top to bottom provides an easy way up.
 ^1d7
 
@@ -1111,8 +1041,6 @@ A character can focus on the sound in the chamber a number of times equal to his
 
 This small network of tiny grottos leads into one of the dens of the Gray Ghosts, but it is the current residence of a warped creature called the [[/03_Mechanics/CLI/bestiary/npc/spider-king-oota|Spider King]]. The characters must travel through narrow tunnels to reach this area (see the "Whorlstone Tunnels: General Features" sidebar).
 
-> [!readaloud] 
-> 
 > The glow of *faerzress* in these tunnels reveals sticky white strands clinging to the walls. The strands become more dense as you move farther in.
 ^1d9
 
@@ -1121,7 +1049,7 @@ This small network of tiny grottos leads into one of the dens of the Gray Ghosts
 The northeastern cave is the lair of the [[/03_Mechanics/CLI/bestiary/npc/spider-king-oota|Spider King]]—a two-headed giant spider warped by demonic influences into a vaguely humanoid shape. This horrific creature uses the [[giant-spider-xmm|giant spider]] stat block with the following modifications:
 
 - The [[/03_Mechanics/CLI/bestiary/npc/spider-king-oota|Spider King]] has 44 hit points, a passive Wisdom ([[skills#Perception|Perception]]) score of 14, a Wisdom ([[skills#Perception|Perception]]) modifier of +4, and the following saving throw bonuses: Constitution +3, Wisdom +2.  
-- Because of its two heads, the [[/03_Mechanics/CLI/bestiary/npc/spider-king-oota|Spider King]] has advantage on Wisdom ([[skills#Perception|Perception]]) checks and on saving throws against being [[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]], [[conditions#Stunned|stunned]], and knocked [[conditions#Unconscious|unconscious]].  
+- Because of its two heads, the [[/03_Mechanics/CLI/bestiary/npc/spider-king-oota|Spider King]] has advantage on Wisdom ([[skills#Perception|Perception]]) checks and on saving throws against being [[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]], [[conditions#frightened|frightened]], [[conditions#Stunned|stunned]], and knocked [[conditions#Unconscious|unconscious]].  
 
 The [[/03_Mechanics/CLI/bestiary/npc/spider-king-oota|Spider King]] senses when intruders enter its domain and can't be [[conditions#Surprised|surprised]] by them. Along with two normal [[giant-spider-xmm|giant spiders]] (its attendants), the [[/03_Mechanics/CLI/bestiary/npc/spider-king-oota|Spider King]] waits in ambush. It moves to the entrance of its chamber in an attempt to keep the characters bottled up, while the two giant spiders approach along the walls and ceiling, getting into position above creatures on the floor. The [[/03_Mechanics/CLI/bestiary/npc/spider-king-oota|Spider King]] and the giant spiders fight to the death, but they don't follow prey that flees.
 
@@ -1135,8 +1063,6 @@ The Gray Ghosts use this chamber to grow a variety of fungi for use in alchemica
 
 Double doors blocks the western tunnel. The doors are made of thick zurkhwood and reinforced with crudely forged steel. The sturdy lock can be opened with a successful DC 15 Dexterity check using thieves' tools. A successful DC 20 Strength check will break the doors down.
 
-> [!readaloud] 
-> 
 > The smell of rot is strong in this room, coming from a large depression at the center, where dozens of fungi of many species grow. A barrel-shaped copper tank sits at the edge of the pit. Attached to the tank is a tall copper pipe that arcs over the pit. Crates line one wall.
 ^1dc
 
@@ -1151,8 +1077,6 @@ At the start of combat, two duergar use their Enlarge action while the third ope
 The pit is 5 feet deep and filled with various kinds of fungi. It is difficult terrain for Small and Medium creatures, and Tiny creatures have half cover while amid the fungi.
 
 A crack in the east wall forms the mouth of a narrow tunnel that leads from the floor of the pit to area 6; see the "Whorlstone Tunnels: General Features" sidebar for more information on narrow tunnels.
-
-The abundance of fungi in the thicket makes it easy to forage here. Among the common, inedible fungi are the following edible and exotic fungi, most of which are described in chapter 2:
 
 - `d6` barrelstalks  
 - `3d6` bluecaps  
@@ -1188,8 +1112,6 @@ The duergar stationed here are tasked with protecting the fungi garden and helpi
 
 The Gray Ghosts have claimed this cave as both a safe house and a laboratory, where their alchemists can work in relative peace and isolation.
 
-> [!readaloud] 
-> 
 > This area is surprisingly clean and orderly, split into two levels connected by a ramp made from zurkhwood planks. The upper level contains a fully furnished laboratory, while the lower level has two bunk beds. The wall of the lower level is set with a closed door.
 ^1e2
 
@@ -1200,11 +1122,8 @@ The lower level is 10 feet below the laboratory and contains two bunk beds and t
 The room east of the door is empty except for an iron ladder that climbs 60 feet to a stone trapdoor embedded in the ceiling. The trapdoor is unlocked, and above it a narrow, spiraling tunnel leads to the Darklake Docks.
 
 > [!note] Duergar Alchemist
-> 
 > A [[/03_Mechanics/CLI/bestiary/humanoid/duergar-alchemist-oota|duergar alchemist]] carries two vials of acid and two flasks of alchemist's fire. It uses the normal [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] stat block but replaces the Javelin attack option with the following attack options:
-> 
 > **Acid Vial.** *Ranged Weapon Attack*: +4 to hit, range 20 ft., one target. *Hit*: 7 (`2d6`) acid damage.
-> 
 > **Alchemist's Fire.** *Ranged Weapon Attack*: +4 to hit, range 20 ft., one target. *Hit*: 2 (`d4`) fire damage at the start of each of the target's turns. A creature can end this damage by using its action to make a successful DC 10 Dexterity check to extinguish the flames.
 ^duergar-alchemist
 
@@ -1220,10 +1139,7 @@ Depending on whether or not [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] 
 
 A character who searches the desk and succeeds on a DC 12 Intelligence ([[skills#Investigation|Investigation]]) check also finds a letter hidden in a secret compartment. The letter is written in Dwarvish on a patch of lizard hide:
 
-> [!note] 
-> 
-> I don't need your poison anymore. I'll deal with Werz Saltbaron myself. Bring me an elf blade, one with the swirlies carved on the steel, and I'll forget you failed me. And I don't want to see any of your goons near my post. The captain is poking around, and I could use a scapegoat.
-> 
+> I don't need your poison anymore. I'll deal with Werz Salron myself. Bring me an elf blade, one with the swirlies carved on the steel, and I'll forget you failed me. And I don't want to see any of your goons near my post. The captain is poking around, and I could use a scapegoat.
 > –Gorglak
 ^1e8
 
@@ -1241,8 +1157,6 @@ Presenting Gorglak's letter to Captain Errde Blackskull earns each character 50 
 
 Foul water from the Darklake spills into this cave, forming a pool. See the "Whorlstone Tunnels: General Features" sidebar for the effects of drinking foul water. The ceiling in this cave is 80 feet high.
 
-> [!readaloud] 
-> 
 > The chamber splits into two paths surrounding a large pool, filled by water trickling from stalactites along the ceiling. The western path forms a ramp above the pool's surface, while the eastern path runs level with the water and continues into a tunnel opening. The water turns darker toward the center of the pool, where it transforms from a gentle swirl into a churning vortex.
 ^1eb
 
@@ -1258,10 +1172,7 @@ The insane derro cultists have been buying cave bears from Underdark hunters and
 
 A large gate made of iron bars blocks the northwest entrance and is usually locked. One of the derro cultists carries the key. The lock can be opened with a successful DC 15 Dexterity check using thieves' tools. A creature with a Strength of 20 or higher can force the gate open with a successful DC 25 Strength check.
 
-> [!readaloud] 
-> 
 > The first thing you notice as you enter the room is a heavy, unpleasant musk in the air, coming from cages assembled from scrap iron on both sides of the chamber. A spiral path circles into the center of the room, marked off by small stone pylons.
-> 
 > Two derro stand by a large cauldron in front of a tent near the cave's center. Both are talking while apparently ignoring each other. In the cages, three hulking brown bears appear to be resting.
 ^1ed
 
@@ -1285,8 +1196,6 @@ Inside the tent are two flea-ridden bedrolls, a zurkhwood bucket containing edib
 
 Some of the cult's more powerful derro savants keep quasits as familiars, and the wee demons discovered this tunnel network. They use the tunnels as shortcuts to deliver messages across the areas of the Whorlstone Tunnels controlled by the cultists, or simply to hide from their duties. Shrinking down allows the characters to more easily navigate this area.
 
-> [!readaloud] 
-> 
 > The narrow tunnel is lit by the same dim, ambient light found throughout this complex. Ahead, you hear the high-pitched cackling of several creatures.
 ^1f1
 
@@ -1308,10 +1217,7 @@ Each character earns a special award of 50 XP if the party learns of [[/03_Mecha
 
 West of the cavern is a shrieker that serves as an alarm system (see "Fungi Patches") and a pit trap (see "Trap").
 
-> [!readaloud] 
-> 
 > The smell of brimstone and foul chemicals emanates from this large chamber. The light of campfires shows a natural platform where five derro are droning a cacophonous chant. A two-headed dog stirs inside a cage, while another derro nearby plays with a crossbow and watches the dog nervously.
-> 
 > A green glow rises suddenly from a magic circle at the center of the platform, where a small humanoid statue is the focus of the chanting ritual. As you watch, a lump sprouts from the statue's neck, enlarging and reshaping itself with each unholy verse to take the form of a second head.
 ^1f5
 
@@ -1355,10 +1261,7 @@ The books have pages made from trillimac caps (see "Fungi of the Underdark" in c
 
 Tucked in one book are two scrolls: one that bears a list of six stone giant names (including Rihuud's and Dorhun's) and another that is actually a letter written in broken Dwarvish:
 
-> [!note] 
-> 
 > [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]]—Need more scrolls! Stonespeaker Hgraam has traps traps traps. But [[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]] is wily too and very small! I can hear talk, and in talk they say names, and I hear names and write names and give you names so you give me time. But you have to give me more scrolls. Magicky spelly scrolls!
-> 
 > —[[/03_Mechanics/CLI/bestiary/npc/droki-oota|Droki]]
 ^1fa
 
@@ -1372,8 +1275,6 @@ The characters can complete a quest by turning over the books, scrolls, and lett
 
 Victims of [[/03_Mechanics/CLI/bestiary/npc/narrak-oota|Narrak]]'s experiments are dumped here. Exposure to the *faerzress* has begun to animate the corpses.
 
-> [!readaloud] 
-> 
 > This cavern is one enormous pit that reeks of death and decomposed flesh. The glow of *faerzress* is everywhere, seeming to flow like fog around dark shapes shambling across the pit floor. A single derro watches from atop a 15-foot-high ledge. A crack in the southeast wall of the pit leads to a narrow tunnel and is flanked by mounds of fungi and offal.
 ^1fd
 
@@ -1399,10 +1300,7 @@ Killing the crawling claw and burying its remains in Blingdenstone lays Pelek's 
 
 The Gray Ghosts believe that the mysterious obelisk in this cavern is an important source of magical power, and they are intent on rebuilding it. The obelisk was broken long ago. However, shards of the obelisk that appear throughout the Underdark are magically absorbed into it as soon as they touch its metal surface. The leaders of the Gray Ghosts are obsessed with finding missing shards and completing this monolith, but not even they know what will happen when the obelisk is made whole again.
 
-> [!readaloud] 
-> 
 > After a steady upward climb, the tunnel opens into a huge, well-lit chamber. The glow of *faerzress* and bioluminescent fungi compete with shafts of white light that fall upon naturally formed shelves along the walls as well as a rocky mesa at the center of the cavern. Crudely formed ramps connect the different levels of the mesa up to the height of its two topmost tiers, which are linked by a sturdy bridge. Atop one of those tiers sits a large red egg. Atop the other stands a 50-foot-tall obelisk made of smooth black metal with a few noticeable imperfections, as though small parts of it were somehow chipped away.
-> 
 > A female derro stands close to the obelisk, gently patting and stroking its surface. The obelisk flashes once, the glow of *faerzress* around the cavern flaring in response. The derro squeals with glee as she snatches an object up from the ground, then writes something down in a small notebook.
 ^201
 
@@ -1462,8 +1360,6 @@ Some of the quests the characters complete have the potential to change the powe
 
 The Hold of the Deepking stands south of Laduguer's Furrow and north of [[/03_Mechanics/CLI/bestiary/npc/themberchaud-oota|Themberchaud]]'s lair. When the characters first lay eyes on it, read the following boxed text aloud to the players.
 
-> [!readaloud] 
-> 
 > The Hold of the Deepking is a dark and foreboding edifice lodged between two great columns that rise up into thick clouds of smoke that conceal the cavern ceiling. Giant basalt braziers filled with molten lava bathe the palace facade in a hellish glow, and the thick stone walls bristle with iron turrets and battlements.
 ^20a
 
@@ -1475,8 +1371,6 @@ Two hundred [[conditions#Invisible|invisible]] [[/03_Mechanics/CLI/bestiary/huma
 
 Characters who befriend Stonespeaker Hgraam or complete quests for Errde Blackskull or Gartokkar Xundorn can use their newfound influence to gain an audience with the Deepking. Characters escorted to the palace by Hgraam, Errde, or Gartokkar are admitted inside and led past rows of [[conditions#Invisible|invisible]] duergar guards to the Deepking's throne room.
 
-> [!readaloud] 
-> 
 > Lava pours down troughs cut into the black basalt walls of this vast hall. The heat is oppressive, and the air reeks of sulfur. Thick black columns support the heavy ceiling, and at the far end of the hall stands an iron throne atop a polished obsidian dais. A crowned duergar encased in armor sits on the throne. Next to him stands a royal consort wearing a gown made of gold coins.
 ^20c
 
@@ -1509,19 +1403,20 @@ If the characters expose the succubus as a fiendish spy and help restore Horgar'
 
 Legends speak of 04 chapter 4 gracklstugh as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 04 chapter 4 gracklstugh.
 
-## Adventure Hooks
-
-- A rumor ties 04 chapter 4 gracklstugh to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 04 chapter 4 gracklstugh to avert a public scandal.
-- A map overlay reveals a hidden approach to 04 chapter 4 gracklstugh active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

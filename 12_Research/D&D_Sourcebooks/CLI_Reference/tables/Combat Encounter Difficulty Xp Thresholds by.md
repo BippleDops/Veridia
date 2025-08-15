@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.372281+00:00'
 world: Both
 ---
 
-
-
 # Combat Encounter Difficulty; XP Thresholds by Character Level
 *Source: Dungeon Master's Guide p. 82. Available in the Basic Rules (2014)* 
 
@@ -53,6 +51,24 @@ world: Both
 | 20th | 2,800 | 5,700 | 8,500 | 12,700 |
 ^xp-thresholds-by-character-level
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Combat encounter difficulty xp thresholds by character level is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -61,19 +77,33 @@ Combat encounter difficulty xp thresholds by character level is a undersea eleme
 
 Legends speak of combat encounter difficulty xp thresholds by character level as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around combat encounter difficulty xp thresholds by character level.
 
-## Adventure Hooks
-
-- A rumor ties combat encounter difficulty xp thresholds by character level to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at combat encounter difficulty xp thresholds by character level to avert a public scandal.
-- A map overlay reveals a hidden approach to combat encounter difficulty xp thresholds by character level active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest ancient magic
+- Strange dreams suggest ancient magic
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

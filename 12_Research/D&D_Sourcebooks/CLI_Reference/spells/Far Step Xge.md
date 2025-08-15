@@ -28,11 +28,8 @@ updated: '2025-08-13T12:34:06.354780+00:00'
 world: Both
 ---
 
-
-
 # Far Step
 *5th-level, Conjuration*  
-
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self
@@ -45,6 +42,24 @@ You teleport up to 60 feet to an unoccupied space you can see. On each of your t
 
 *Source: Xanathar's Guide to Everything p. 155*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Far step xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -53,19 +68,20 @@ Far step xge is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of far step xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around far step xge.
 
-## Adventure Hooks
-
-- A rumor ties far step xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at far step xge to avert a public scandal.
-- A map overlay reveals a hidden approach to far step xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

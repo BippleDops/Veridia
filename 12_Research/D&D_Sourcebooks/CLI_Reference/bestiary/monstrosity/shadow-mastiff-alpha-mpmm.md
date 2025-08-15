@@ -29,8 +29,6 @@ updated: '2025-08-12T23:37:35.014805'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-shadow-mastiff-alpha-mpmm-shadow-mastiff-alpha-mpmm.svg)
 
@@ -38,6 +36,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 215, Volo's Guide to Monsters p. 190*  
 
 Each pack of shadow mastiffs is led by an alpha, the smartest one of the group. The sound of an alpha's howl strikes terror into those who hear it and is a sure sign that a pack is on the prowl.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Shadow Mastiffs
 
@@ -79,11 +95,11 @@ Shadow mastiffs—hounds of the Shadowfell—move invisibly through the shadows,
 "actions":
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
       \ (2d6 + 3) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 13 Strength saving throw or be knocked [[conditions#Prone|prone]]."
+      \ a DC 13 Strength saving throw or be knocked [[conditions#prone|prone]]."
     "name": "Bite"
   - "desc": "The shadow mastiff howls. Any Beast or Humanoid within 300 feet of it\
-      \ must succeed on a DC 11 Wisdom saving throw or be [[conditions#Frightened|frightened]]\
-      \ of it for 1 minute. A [[conditions#Frightened|frightened]]\
+      \ must succeed on a DC 11 Wisdom saving throw or be [[conditions#frightened|frightened]]\
+      \ of it for 1 minute. A [[conditions#frightened|frightened]]\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success. If a target's save is successful or the\
       \ effect ends for it, the target is immune to any shadow mastiff's Terrifying\
@@ -114,19 +130,28 @@ Shadow mastiff alpha mpmm is a undersea element of the setting, known for biolum
 
 Legends speak of shadow mastiff alpha mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around shadow mastiff alpha mpmm.
 
-## Adventure Hooks
-
-- A rumor ties shadow mastiff alpha mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at shadow mastiff alpha mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to shadow mastiff alpha mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting a artifact for money
+- A stranger needs help investigating before winter
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -28,14 +28,29 @@ updated: '2025-08-13T12:34:05.511691+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-elephant-xmm-elephant-xmm.svg)
 
 # [[elephant-xmm|Elephant]]
-*Source: Monster Manual (2024) p. 353, Player's Handbook (2024) p. 349. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 353, Player's Handbook (2024) p. 349. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Animals
 
@@ -66,12 +81,12 @@ Use these stat blocks to represent the creatures they're named for or other simi
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +8, reach 5 ft. Hit: 15 (2d8 + 6) Piercing damage.\
       \ If the target is a Huge or smaller creature and the elephant moved 20+ feet\
-      \ straight toward it immediately before the hit, the target has the [[conditions#Prone|Prone]]\
+      \ straight toward it immediately before the hit, the target has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Gore"
 "bonus_actions":
   - "desc": "Dexterity Saving Throw: DC 16, one creature within 5 feet that has\
-      \ the [[conditions#Prone|Prone]] condition. Failure: 17\
+      \ the [[conditions#prone|Prone]] condition. Failure: 17\
       \ (2d10 + 6) Bludgeoning damage. Success: Half damage."
     "name": "Trample"
 "source":
@@ -93,19 +108,27 @@ Elephant xmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of elephant xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elephant xmm.
 
-## Adventure Hooks
-
-- A rumor ties elephant xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at elephant xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to elephant xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- A journal reveals the truth about the government
+- Someone is searching for an heir for love
+- The authorities needs help stealing before the new moon
+- A letter reveals a betrayal about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

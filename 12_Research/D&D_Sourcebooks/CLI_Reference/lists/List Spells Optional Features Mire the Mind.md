@@ -23,12 +23,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# Spells for Mire the Mind
+*20 targeted improvements identified*
 
-## 3rd Level
+### Connection Improvements
 
-- [[/03_Mechanics/CLI/spells/slow-xphb "XPHB"|Slow]]
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -38,18 +48,9 @@ List spells optional features mire the mind is a undersea element of the setting
 
 Legends speak of list spells optional features mire the mind as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells optional features mire the mind.
 
-## Adventure Hooks
-
-- A rumor ties list spells optional features mire the mind to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells optional features mire the mind to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells optional features mire the mind active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

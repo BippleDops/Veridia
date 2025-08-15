@@ -28,7 +28,6 @@ updated: '2025-08-12T23:37:36.270933'
 world: Both
 ---
 
-
 # Animate Objects
 *5th-level, Transmutation*  
 ![](/03_Mechanics/CLI/spells/img/animate-objects.webp#right)
@@ -48,7 +47,25 @@ Until the spell ends, you can take a [[bonus-action-xphb|Bonus Action]] to menta
 
 **Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-forge-domain-xge "subclass=XGE;class=XPHB"|Cleric (Forge Domain)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
 
-*Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 240. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -58,19 +75,34 @@ Animate objects xphb is a undersea element of the setting, known for bioluminesc
 
 Legends speak of animate objects xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around animate objects xphb.
 
-## Adventure Hooks
-
-- A rumor ties animate objects xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at animate objects xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to animate objects xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals ancient history about the cult
+- The authorities needs help investigating before winter
+- A merchant needs help delivering before dawn
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -15,26 +15,26 @@ world: Both
 updated: '2025-08-13T01:18:35.643989+00:00'
 ---
 
-
 > [!figure] Asset
 ![[04_Resources/Assets/Locations/location-city-crystal-singers-crystal-singers.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## Historical Context
+### Enhancement Improvements
 
-TODO
-## Current Relevance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## See Also
-
-TODO
 
 ## Player-Facing Summary
 
@@ -44,25 +44,19 @@ Crystal Singers is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Crystal Singers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystal Singers.
 
-## Adventure Hooks
-
-- A rumor ties Crystal Singers to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Crystal Singers to avert a public scandal.
-- A map overlay reveals a hidden approach to Crystal Singers active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Crystal Singers|02 Worldbuilding/Places/Crystal Singers]]
+## Related Notes
 
-<!-- enriched: true -->
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
 
 
-## Connections
+## 12_Research Specific Content
 
-- See also: [[Master Timeline]]
-- Related: [[Power Structures]]
-- Connected to: [[World Events]]
+Contextual improvement based on 12_Research

@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.035402+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-secular-community-practices-secular-community-practices.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,18 @@ Secular Community Practices is a undersea element of the setting, known for biol
 
 Legends speak of Secular Community Practices as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Secular Community Practices.
 
-## Adventure Hooks
-
-- A rumor ties Secular Community Practices to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Secular Community Practices to avert a public scandal.
-- A map overlay reveals a hidden approach to Secular Community Practices active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Secular Community Practices|02 Worldbuilding/Places/Secular Community Practices]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Anti-Priest Nullus]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a conspiracy about this place
+- Someone is protecting a artifact for power
+- A noble needs help investigating before winter
+- A document has gone missing and truth emerges

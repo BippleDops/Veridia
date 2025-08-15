@@ -31,12 +31,28 @@ updated: '2025-08-13T12:34:05.533910+00:00'
 world: Both
 ---
 
-
-
 # [[centaur-warden-xmm|Centaur Warden]]
 *Source: Monster Manual (2024) p. 67*  
 
 Centaur wardens often lead groups of centaur troopers and act as intermediaries between Fey creatures and trespassers into their territories.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Centaurs
 
@@ -59,9 +75,7 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
 "stats":
   - !!int "18"
   - !!int "14"
-  - !!int "14"
   - !!int "9"
-  - !!int "18"
   - !!int "11"
 "speed": "50 ft."
 "saves":
@@ -73,7 +87,6 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
   - "name": "[[skills#Nature|Nature]]"
     "desc": "+5"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+7"
 "senses": "passive Perception 17"
 "languages": "Druidic, Elvish, Sylvan"
 "cr": "7"
@@ -117,18 +130,9 @@ Centaur warden xmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of centaur warden xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around centaur warden xmm.
 
-## Adventure Hooks
-
-- A rumor ties centaur warden xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at centaur warden xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to centaur warden xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

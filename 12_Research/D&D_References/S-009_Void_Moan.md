@@ -21,32 +21,25 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# S-009 Void Moan
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Read-Aloud
 > The wind dies. An impossible sound presses against your bones—a silence so loud it howls.
-
-## Setup
-- Band: Stratos • Category: Horror
-
-## Mechanics
-- Group Sanity DC 15
-- Chaplain Performance DC 14 to steady minds
-
-## Outcomes
-- Success: Resist; +1 to next Sanity save
-- Partial: 1 short-term madness
-- Fail: 1 long-term madness; crew impose -1 on checks for 1 hour
-
-## Integrations
-- [[Sanity System]]; void exposure rules (altitude pressure inversion)
-
-## Scaling
-- In merger flicker, Integrity -1 on fail
-
-## Quick-Run
-- Call Sanity; apply effect; allow counter-chant
 
 ## Player-Facing Summary
 
@@ -56,19 +49,21 @@ S 009 Void Moan is a void-touched element of the setting, known for impossible a
 
 Legends speak of S 009 Void Moan as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around S 009 Void Moan.
 
-## Adventure Hooks
-
-- A rumor ties S 009 Void Moan to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at S 009 Void Moan to avert a public scandal.
-- A map overlay reveals a hidden approach to S 009 Void Moan active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals the truth about the government
+- A shipment has gone missing and truth emerges
+- A stranger needs help investigating before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

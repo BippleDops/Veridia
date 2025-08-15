@@ -22,19 +22,22 @@ world: Both
 ---
 
 
-# Spells for Tiefling (Dispater)
+## 🔧 Deep Evaluation Improvements
 
-## Cantrip
+*20 targeted improvements identified*
 
-- [[/03_Mechanics/CLI/spells/thaumaturgy-xphb "XPHB"|Thaumaturgy]] at class level 5
+### Connection Improvements
 
-## 1st Level
+- Add cross-references to related notes
 
-- [[/03_Mechanics/CLI/spells/disguise-self-xphb "XPHB"|Disguise Self]] at class level 5
+### Enhancement Improvements
 
-## 2nd Level
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[/03_Mechanics/CLI/spells/detect-thoughts-xphb "XPHB"|Detect Thoughts]] at class level 5
 
 ## Player-Facing Summary
 
@@ -44,19 +47,17 @@ List spells races tiefling dispater mtf is a undersea element of the setting, kn
 
 Legends speak of list spells races tiefling dispater mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells races tiefling dispater mtf.
 
-## Adventure Hooks
-
-- A rumor ties list spells races tiefling dispater mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells races tiefling dispater mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells races tiefling dispater mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help delivering before dawn
+- A corpse reveals a conspiracy about the government
+- A journal reveals the truth about a local noble

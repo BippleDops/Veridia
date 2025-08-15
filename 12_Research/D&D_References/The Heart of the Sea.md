@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.630727+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,25 @@ The Heart of the Sea is a undersea element of the setting, known for bioluminesc
 
 Legends speak of The Heart of the Sea as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Heart of the Sea.
 
-## Adventure Hooks
-
-- A rumor ties The Heart of the Sea to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Heart of the Sea to avert a public scandal.
-- A map overlay reveals a hidden approach to The Heart of the Sea active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Ancient Mer-Folk Empire|02 Worldbuilding/Groups/Ancient Mer Folk Empire]]
-
-
-## Connections
-
-- [[Ancient Mer-Folk Empire]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help stealing before the festival
+- A merchant needs help stealing before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

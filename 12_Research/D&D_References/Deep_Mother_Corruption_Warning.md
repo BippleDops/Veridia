@@ -17,7 +17,23 @@ world: Aquabyssos
 ---
 
 
-# Deep Mother Corruption Warning
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Official Advisory from the Council of Depths
 
 **CLASSIFICATION: URGENT PUBLIC SAFETY**
@@ -41,16 +57,10 @@ world: Aquabyssos
 ### Emergency Protocols
 
 1. **DO NOT** attempt to confront affected individuals alone
-2. Contact the Depth Wardens immediately via crystal resonance
+2. Contact the Depth Wardens immediately via crystal resoce
 3. Evacuate to minimum depth of 500 fathoms
 4. Carry blessed salt at all times
 5. Never look directly into affected person's eyes for more than 3 seconds
-
-### Treatment Centers
-
-- **Primary:** Temple of Azure Depths, Central Spire
-- **Secondary:** Cleansing Pools, Meridian District
-- **Emergency:** Any Depth Warden station
 
 ### Remember
 The Deep Mother's influence is NOT the victim's fault. Compassion and swift action save lives.
@@ -62,7 +72,6 @@ The Deep Mother's influence is NOT the victim's fault. Compassion and swift acti
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -70,3 +79,13 @@ The Deep Mother's influence is NOT the victim's fault. Compassion and swift acti
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

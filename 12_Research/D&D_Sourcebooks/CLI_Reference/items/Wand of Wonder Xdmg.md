@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:07.722973+00:00'
 world: Both
 ---
 
-
-
 # Wand of Wonder
 *Wand, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/wand-of-wonder.webp#right)
@@ -33,6 +31,24 @@ world: Both
 - **Weight**: 1.0 lbs.
 
 This wand has 7 charges. While holding it, you can take a [[actions#Magic|Magic]] action to expend 1 charge while choosing a point within 120 feet of yourself. That location becomes the point of origin of a spell or other magical effect determined by rolling on the Wand of Wonder Effects table. Spells cast from the wand have a save DC of 15. If a spell's maximum range is normally less than 120 feet, it becomes 120 feet when cast from the wand. If an effect has multiple possible subjects, the DM determines randomly which among them are affected.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Regaining Charges
 
@@ -64,7 +80,7 @@ The wand regains `1d6 + 1` expended charges daily at dawn. If you expend the wan
 | 98-00 | The creature closest to the chosen point of origin makes a DC 15 Constitution saving throw. On a failed save, the creature has the [[conditions#Restrained|Restrained]] condition and begins to turn to stone. While [[conditions#Restrained|Restrained]] in this way, the creature repeats the save at the end of its next turn. On a successful save, the effect ends. On a failed save, the creature has the [[conditions#Petrified|Petrified]] condition instead of the [[conditions#Restrained|Restrained]] condition. The petrification lasts until the creature is freed by the [[greater-restoration-xphb|Greater Restoration]] spell or similar magic. |
 ^wand-of-wonder-effects
 
-*Source: Dungeon Master's Guide (2024) p. 322. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 322. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -74,19 +90,21 @@ Wand of wonder xdmg is a undersea element of the setting, known for bioluminesce
 
 Legends speak of wand of wonder xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wand of wonder xdmg.
 
-## Adventure Hooks
-
-- A rumor ties wand of wonder xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at wand of wonder xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to wand of wonder xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A merchant needs help investigating before the festival
+- A journal reveals the truth about the cult

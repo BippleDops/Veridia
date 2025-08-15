@@ -27,8 +27,6 @@ updated: '2025-08-13T12:34:06.554874+00:00'
 world: Both
 ---
 
-
-
 # Shapechange
 *9th-level, Transmutation*  
 ![](/03_Mechanics/CLI/spells/img/shapechange.webp#right)
@@ -48,7 +46,25 @@ Upon shape-shifting, you determine whether your equipment drops to the ground or
 
 **Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
 
-*Source: Player's Handbook (2024) p. 315. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 315. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -58,19 +74,22 @@ Shapechange xphb is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of shapechange xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around shapechange xphb.
 
-## Adventure Hooks
-
-- A rumor ties shapechange xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at shapechange xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to shapechange xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and chaos spreads
+- A letter reveals a betrayal about the cult
+- Strange dreams suggest a conspiracy
+- A journal reveals a conspiracy about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

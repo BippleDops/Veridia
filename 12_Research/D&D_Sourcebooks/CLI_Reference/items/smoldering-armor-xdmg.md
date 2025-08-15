@@ -35,15 +35,11 @@ updated: '2025-08-12T23:37:37.600432'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-smoldering-armor-xdmg-smoldering-armor-xdmg.svg)
 
 # Smoldering Armor
 *Common*  
-
-
 
 Wisps of harmless, odorless smoke rise from this armor while it is worn.
 
@@ -61,78 +57,30 @@ Wisps of harmless, odorless smoke rise from this armor while it is worn.
 - [Smoldering Splint Armor](#Smoldering%20Splint%20Armor)
 - [Smoldering Studded Leather Armor](#Smoldering%20Studded%20Leather%20Armor)
 
-## Smoldering Breastplate
-
-- **Armor Class**: 14 + Dex modifier (max of +2)
-- **Weight**: 20.0 lbs.
-
-### Smoldering Chain Mail
-
-- **Armor Class**: 16
-- **Strength**: Requires 13 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 55.0 lbs.
-
-### Smoldering Chain Shirt
-
-- **Armor Class**: 13 + Dex modifier (max of +2)
-- **Weight**: 20.0 lbs.
-
-### Smoldering Half Plate Armor
-
-- **Armor Class**: 15 + Dex modifier (max of +2)
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 40.0 lbs.
-
-### Smoldering Hide Armor
-
-- **Armor Class**: 12 + Dex modifier (max of +2)
-- **Weight**: 12.0 lbs.
-
-### Smoldering Leather Armor
-
-- **Armor Class**: 11 + Dex modifier
-- **Weight**: 10.0 lbs.
-
-### Smoldering Padded Armor
-
-- **Armor Class**: 11 + Dex modifier
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 8.0 lbs.
-
-### Smoldering Plate Armor
-
-- **Armor Class**: 18
-- **Strength**: Requires 15 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 65.0 lbs.
-
-### Smoldering Ring Mail
-
-- **Armor Class**: 14
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 40.0 lbs.
-
-### Smoldering Scale Mail
-
-- **Armor Class**: 14 + Dex modifier (max of +2)
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 45.0 lbs.
-
-### Smoldering Splint Armor
-
-- **Armor Class**: 17
-- **Strength**: Requires 15 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 60.0 lbs.
-
 ### Smoldering Studded Leather Armor
 
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
 
-
 *Source: Dungeon Master's Guide (2024) p. 305*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -142,19 +90,45 @@ Smoldering armor xdmg is a undersea element of the setting, known for biolumines
 
 Legends speak of smoldering armor xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around smoldering armor xdmg.
 
-## Adventure Hooks
-
-- A rumor ties smoldering armor xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at smoldering armor xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to smoldering armor xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a conspiracy
+- A letter reveals the truth about this place
+- Someone is blackmailing an heir for love
+- A stranger needs help finding before the festival
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

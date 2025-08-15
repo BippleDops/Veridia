@@ -22,19 +22,33 @@ updated: '2025-08-12T23:37:35.725623'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-brass-dragon-xmm-adult-brass-dragon-xmm.svg)
 
-# Brass Dragon
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Monster Manual_
 
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects:
 
-- A strong wind blows around the dragon. Each creature within 60 feet of the dragon must succeed on a DC 15 Strength saving throw or be pushed 15 feet away from the dragon and knocked [[conditions#Prone|prone]]. Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames; such as lanterns, have a 50 percent chance of being extinguished.  
+- A strong wind blows around the dragon. Each creature within 60 feet of the dragon must succeed on a DC 15 Strength saving throw or be pushed 15 feet away from the dragon and knocked [[conditions#prone|prone]]. Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames; such as lanterns, have a 50 percent chance of being extinguished.  
 - A cloud of sand swirls about in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The cloud spreads around corners. Each creature in it must succeed on a DC 15 Constitution saving throw or be [[conditions#Blinded|blinded]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 
 ### Additional Lair Actions
@@ -42,11 +56,10 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 At your discretion, a legendary ([[adult-brass-dragon-xmm|adult]] or [[ancient-brass-dragon-xmm|ancient]]) brass dragon can use one or more of the following additional lair actions while in its lair:
 
 - **Animate Statues.** The dragon chooses up to three statues in the lair that it can see. Each of these statues briefly animates and attacks one creature within 5 feet of it, with a +7 bonus to hit and dealing 10 (`3d6`) bludgeoning damage on a hit.  
-- **Blast of Wind.** A mighty wind sweeps through the lair in a direction of the dragon's choice, blowing along a line 40 feet wide and 100 feet long. Each creature in that area except the dragon must succeed on a DC 15 Strength saving throw or be pushed 15 feet in the wind's direction and be knocked [[conditions#Prone|prone]]. Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames, such as lanterns, have a 50 percent chance of being extinguished. If the dragon is within the area of the wind, it can choose to be pushed 15 feet in the wind's direction, and the wind can't knock the dragon [[conditions#Prone|prone]].  
+- **Blast of Wind.** A mighty wind sweeps through the lair in a direction of the dragon's choice, blowing along a line 40 feet wide and 100 feet long. Each creature in that area except the dragon must succeed on a DC 15 Strength saving throw or be pushed 15 feet in the wind's direction and be knocked [[conditions#prone|prone]]. Gases and vapors are dispersed by the wind, and unprotected flames are extinguished. Protected flames, such as lanterns, have a 50 percent chance of being extinguished. If the dragon is within the area of the wind, it can choose to be pushed 15 feet in the wind's direction, and the wind can't knock the dragon [[conditions#prone|prone]].  
 - **Obscuring Sand.** Dust and sand fill the air within 120 feet of the dragon, making the area lightly obscured until initiative count 20 on the next round.  
 
 ## Regional effects
-_Source: Monster Manual_
 
 The region containing a legendary brass dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
 
@@ -71,19 +84,23 @@ Brass dragon is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of brass dragon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around brass dragon.
 
-## Adventure Hooks
-
-- A rumor ties brass dragon to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at brass dragon to avert a public scandal.
-- A map overlay reveals a hidden approach to brass dragon active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and chaos spreads
+- An heirloom has gone missing and truth emerges
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

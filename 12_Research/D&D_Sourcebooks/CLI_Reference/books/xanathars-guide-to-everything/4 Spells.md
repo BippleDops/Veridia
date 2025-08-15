@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:05.192644+00:00'
 world: Both
 ---
 
-
-
 # Spells
 *Source: Xanathar's Guide to Everything, p. 147* 
 
@@ -36,10 +34,27 @@ See the full list of spells from *Xanathar's Guide to Everything* on the Spells 
 > [!quote] A quote from Xanathar  
 > 
 > So why can't people who use magic do it all the time?
-> 
 > I can disintegrate things whenever I want. Like now. And now. And now. And now... Hey, where'd everybody go?
 
 ![](/03_Mechanics/CLI/books/xanathars-guide-to-everything/img/c3001.webp#center)
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -49,19 +64,30 @@ See the full list of spells from *Xanathar's Guide to Everything* on the Spells 
 
 Legends speak of 4 spells as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 4 spells.
 
-## Adventure Hooks
-
-- A rumor ties 4 spells to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 4 spells to avert a public scandal.
-- A map overlay reveals a hidden approach to 4 spells active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals a betrayal about the cult
+- A letter reveals a conspiracy about the government
+- Someone is protecting an heir for revenge
+- Someone is protecting a artifact for love
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

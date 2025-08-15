@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.846164'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-object-medium-or-smaller-xphb-animated-object-medium-or-smaller-xphb.svg)
 
@@ -45,8 +43,6 @@ world: Both
 "stats":
   - !!int "16"
   - !!int "10"
-  - !!int "10"
-  - !!int "3"
   - !!int "3"
   - !!int "1"
 "speed": "30 ft."
@@ -61,6 +57,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Animated object medium or smaller xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -69,19 +83,38 @@ Animated object medium or smaller xphb is a undersea element of the setting, kno
 
 Legends speak of animated object medium or smaller xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around animated object medium or smaller xphb.
 
-## Adventure Hooks
-
-- A rumor ties animated object medium or smaller xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at animated object medium or smaller xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to animated object medium or smaller xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

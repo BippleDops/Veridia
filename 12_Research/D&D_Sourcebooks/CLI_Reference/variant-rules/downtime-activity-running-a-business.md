@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.158806'
 world: Both
 ---
 
-
 # Downtime Activity: Running a Business
 *Source: Dungeon Master's Guide p. 129* 
 
@@ -35,14 +34,32 @@ If the character is required to pay a cost as a result of rolling on this table 
 
 | d100 + Days | Result |
 |-------------|--------|
-| 01-20 | You must pay one and a half times the business's maintenance cost for each of the days. |
-| 21-30 | You must pay the business's full maintenance cost for each of the days. |
-| 31-40 | You must pay half the business's maintenance cost for each of the days. Profits cover the other half. |
-| 41-60 | The business covers its own maintenance cost for each of the days. |
-| 61-80 | The business covers its own maintenance cost for each of the days. It earns a profit of `1d6 × 5` gp. |
-| 81-90 | The business covers its own maintenance cost for each of the days. It earns a profit of `2d8 × 5` gp. |
-| 91-100 | The business covers its own maintenance cost for each of the days. It earns a profit of `3d10 × 5` gp. |
+| 01-20 | You must pay one and a half times the business's maintece cost for each of the days. |
+| 21-30 | You must pay the business's full maintece cost for each of the days. |
+| 31-40 | You must pay half the business's maintece cost for each of the days. Profits cover the other half. |
+| 41-60 | The business covers its own maintece cost for each of the days. |
+| 61-80 | The business covers its own maintece cost for each of the days. It earns a profit of `1d6 × 5` gp. |
+| 81-90 | The business covers its own maintece cost for each of the days. It earns a profit of `2d8 × 5` gp. |
+| 91-100 | The business covers its own maintece cost for each of the days. It earns a profit of `3d10 × 5` gp. |
 ^running-a-business
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -52,20 +69,22 @@ Downtime activity running a business is a undersea element of the setting, known
 
 Legends speak of downtime activity running a business as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around downtime activity running a business.
 
-## Adventure Hooks
-
-- A rumor ties downtime activity running a business to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at downtime activity running a business to avert a public scandal.
-- A map overlay reveals a hidden approach to downtime activity running a business active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

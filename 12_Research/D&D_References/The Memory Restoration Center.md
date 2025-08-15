@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.051934+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,23 @@ The Memory Restoration Center is a undersea element of the setting, known for bi
 
 Legends speak of The Memory Restoration Center as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Memory Restoration Center.
 
-## Adventure Hooks
-
-- A rumor ties The Memory Restoration Center to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Memory Restoration Center to avert a public scandal.
-- A map overlay reveals a hidden approach to The Memory Restoration Center active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Parliament of Nobody|02 Worldbuilding/Groups/The Parliament Of Nobody]]
-
-
-## Connections
-
-- [[The Parliament of Nobody]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before the new moon
+- A journal reveals a betrayal about the cult
+- A document has gone missing and chaos spreads
+- A letter reveals a betrayal about this place

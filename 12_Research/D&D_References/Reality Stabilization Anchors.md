@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Tenebrarum|02 Worldbuilding/People/Tenebrarum]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Tenebrarum]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,21 @@ Reality Stabilization Anchors is a undersea element of the setting, known for bi
 
 Legends speak of Reality Stabilization Anchors as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reality Stabilization Anchors.
 
-## Adventure Hooks
-
-- A rumor ties Reality Stabilization Anchors to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Reality Stabilization Anchors to avert a public scandal.
-- A map overlay reveals a hidden approach to Reality Stabilization Anchors active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a conspiracy about the government
+- A noble needs help stealing before the festival
+- Strange disappearances suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

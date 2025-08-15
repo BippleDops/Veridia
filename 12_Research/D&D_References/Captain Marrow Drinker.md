@@ -15,16 +15,26 @@ updated: '2025-08-13T01:18:36.827967+00:00'
 world: Both
 ---
 
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-marrow-drinker-captain-marrow-drinker.svg)
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Cross-References
+*20 targeted improvements identified*
 
-- [[The Kraken's Harbor|02 Worldbuilding/Places/The Kraken's Harbor]]
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -34,19 +44,28 @@ Captain Marrow Drinker is a undersea element of the setting, known for biolumine
 
 Legends speak of Captain Marrow Drinker as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Marrow Drinker.
 
-## Adventure Hooks
-
-- A rumor ties Captain Marrow Drinker to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Captain Marrow Drinker to avert a public scandal.
-- A map overlay reveals a hidden approach to Captain Marrow Drinker active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Relationships
+
+- **Lover**: [[Portrait NPC Quest Into the Wastes V1 Quest Into the Wastes.svg]]
+- **Friend**: [[Reflection Captain Vantage]]
+- **Blackmailer**: [[Assets Locations Location City Commander Drake Pressureborn Commander Drake Pressureborn.svg]]
+- **Lover**: [[Portrait NPC the Bloodline Awakens V2 the Bloodline Awakens.svg]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.616982+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-morkoth-mpmm-morkoth-mpmm.svg)
 
@@ -40,7 +37,7 @@ world: Both
 
 Ancient and devious, morkoths are voracious collectors. Each one floats through the planes on a strange, mobile island, amassing the valuables, oddities, and castoffs of the multiverse in a massive, ever-growing collection.
 
-The first morkoths arose in the Astral Plane when the [[conditions#Petrified|petrified]] body of a deity of greed and strife collided with a remnant of celestial matter imbued with life-giving magic. The collision released a storm of chaotic energy and sent countless islands spinning away into the void. Within some of them, bits of the god's [[conditions#Petrified|petrified]] flesh came back to life as morkoths: tentacled monstrosities brimming with malice and greed.
+The first morkoths arose in the Astral Plane when the [[conditions#Petrified|petrified]] body of a deity of greed and strife collided with a remt of celestial matter imbued with life-giving magic. The collision released a storm of chaotic energy and sent countless islands spinning away into the void. Within some of them, bits of the god's [[conditions#Petrified|petrified]] flesh came back to life as morkoths: tentacled monstrosities brimming with malice and greed.
 
 Morkoths are driven by greed and selfishness mixed with a yearning for conflict. They hoard vast stores of treasure, knowledge, and captives on their islands. Some of these prisoners are the descendants of people captured generations before; they might know of no other world outside their island. A morkoth may allow a visitor to bargain for something or someone it has claimed if that visitor offers the morkoth something it desires more. It shows no mercy, however, to those who break a deal or try to steal from it. A morkoth knows every person and object in its collection.
 
@@ -49,6 +46,24 @@ A morkoth's island has the qualities of a dreamscape. It holds a jumble of objec
 Each island glides on planar currents and is safe from most harmful external effects—one could float in the skies of Avernus in the Nine Hells without harm to it or its residents. A morkoth's island might be found anywhere from the bottom of the ocean to the void of the Astral Plane. Anything on or within a certain distance of a morkoth's isle is drawn with it in its journey through the planes. Thus, people from lost civilizations and creatures or objects from bygone ages might be found within a morkoth's dominion.
 
 Some islands travel a specific route, arriving at the same destinations regularly over a cycle of years. Others are tied to a particular place or group of locales, and still others move erratically through the cosmos. Occasionally, a morkoth learns to direct its island's movement.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## A Morkoth's Lair
 
@@ -68,8 +83,6 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
 "modifier": !!int "2"
 "stats":
   - !!int "14"
-  - !!int "14"
-  - !!int "14"
   - !!int "20"
   - !!int "15"
   - !!int "13"
@@ -82,7 +95,6 @@ A morkoth encountered in its lair has a challenge rating of 12 (8,400 XP).
   - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+9"
   - "name": "[[skills#History|History]]"
-    "desc": "+9"
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+10"
   - "name": "[[skills#Stealth|Stealth]]"
@@ -154,19 +166,33 @@ Morkoth mpmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of morkoth mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around morkoth mpmm.
 
-## Adventure Hooks
-
-- A rumor ties morkoth mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at morkoth mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to morkoth mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

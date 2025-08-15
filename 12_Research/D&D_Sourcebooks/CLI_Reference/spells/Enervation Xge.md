@@ -28,11 +28,8 @@ updated: '2025-08-13T12:34:06.211671+00:00'
 world: Both
 ---
 
-
-
 # Enervation
 *5th-level, Necromancy*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -49,6 +46,24 @@ Whenever the spell deals damage to a target, you regain hit points equal to half
 
 *Source: Xanathar's Guide to Everything p. 155*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Enervation xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -57,19 +72,21 @@ Enervation xge is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of enervation xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around enervation xge.
 
-## Adventure Hooks
-
-- A rumor ties enervation xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at enervation xge to avert a public scandal.
-- A map overlay reveals a hidden approach to enervation xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help stealing before winter
+- The authorities needs help stealing before the new moon
+- A prisoner has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

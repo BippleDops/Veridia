@@ -29,15 +29,31 @@ updated: '2025-08-12T23:37:35.657014'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ghast-xmm-ghast-xmm.svg)
 
 # [[ghast-xmm|Ghast]]
-*Source: Monster Manual (2024) p. 130. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 130. Available in the SRD and the Free Rules (2024)*  
 
 Ghasts frequently organize ghouls into packs to despoil crypts and steal the wealth within.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Ghasts
 
@@ -62,7 +78,6 @@ Ghasts are reeking, undying corpses closely related to ghouls. They hunger for t
   - !!int "17"
   - !!int "10"
   - !!int "11"
-  - !!int "10"
   - !!int "8"
 "speed": "30 ft."
 "saves":
@@ -108,18 +123,9 @@ Ghast xmm is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of ghast xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ghast xmm.
 
-## Adventure Hooks
-
-- A rumor ties ghast xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ghast xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ghast xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

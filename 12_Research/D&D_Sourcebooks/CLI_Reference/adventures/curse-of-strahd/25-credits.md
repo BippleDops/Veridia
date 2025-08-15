@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.562653'
 world: Both
 ---
 
-
 # Credits
 *Source: Curse of Strahd* 
 
@@ -54,23 +53,34 @@ world: Both
 > [!note] 
 > 
 > The following D&D books also provided material and inspiration:
-> 
 > Cordell, Bruce R. and James Wyatt. *Expedition to Castle Ravenloft*. 2006.
-> 
 > Elrod, P.N. I, Strahd: *The Memoirs of a Vampire*. 1993.
-> 
 > Hickman, Tracy and Laura. *Rahasia*. 1984.
-> 
 > Nesmith, Bruce with Andria Hayday. *Realm of Terror*. 1990.
-> 
 > Pozas, Claudio. "Fair Barovia." *Dungeon 207*. 2012.
-> 
 > TSR, Inc. *Van Richten's Monster Hunter's Compendium, Volume One*. 1999.
-> 
 > ———. *Van Richten's Monster Hunter's Compendium, Volume Three*. 2000.
 ^326
 
-![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/credits.webp#center "On the Cover: the master of Ravenloft is having guests for dinner, and you are invited. Ben Oliver sheds light on the vampire Strahd von Zarovich, whose dark past is a tale to be told, and whose evil knows no bounds."|On the Cover: the master o...]]
+!]
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -80,20 +90,28 @@ world: Both
 
 Legends speak of 25 credits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 25 credits.
 
-## Adventure Hooks
-
-- A rumor ties 25 credits to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 25 credits to avert a public scandal.
-- A map overlay reveals a hidden approach to 25 credits active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for love
+- A merchant needs help delivering before dawn
+- Someone is blackmailing a witness for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

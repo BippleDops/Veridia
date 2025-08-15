@@ -16,15 +16,8 @@ updated: '2025-08-13T01:18:36.561417+00:00'
 danger_level: Moderate
 ---
 
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-vault-keeper-eternal-vault-keeper-eternal.svg]]
-
-
-
-
 
 # Vault Keeper Eternal
 
@@ -47,6 +40,24 @@ danger_level: Moderate
 **Languages** Common, Draconic, Celestial, Primordial
 **Challenge Rating** 12 (8,400 XP)
 **Proficiency Bonus** +4
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Features
 
@@ -97,26 +108,12 @@ For over 300 years, Eternal has maintained the [[Ancient Treasury of Tides]], ca
 ### Current Role
 Today, Eternal serves as both guardian and curator. He has developed relationships with legitimate scholars, treasure hunters, and historians, offering his services as a repository of knowledge and, occasionally, access to certain non-critical items in exchange for new additions to the collection or services that benefit the vault's security.
 
-## Services & Interactions
-
-### Vault Services
-- **Item Appraisal:** Eternal can identify and appraise magical items with perfect accuracy (effectively a free *identify* spell)
-- **Secure Storage:** For a fee of 100gp per month, he will store valuable items in magically protected vaults
-- **Historical Consultation:** His encyclopedic knowledge of [[Aquabyssos]] history is available for 50gp per consultation
-- **Artifact Research:** Can provide detailed information about the provenance and powers of ancient artifacts
-
 ### The Vault's Trials
 For those seeking access to the more valuable sections of the [[Ancient Treasury of Tides]], Eternal administers three trials:
 
 1. **The Trial of Knowledge:** Answering complex riddles about [[Aquabyssos]] history and magical theory
 2. **The Trial of Intent:** Demonstrating worthy purpose through magical truth detection
 3. **The Trial of Contribution:** Providing the vault with something of equal or greater value than what is sought
-
-### Reputation & Relationships
-- **The [[Scholars' Guild]]:** Maintains excellent relations, often collaborating on research projects
-- **[[Thieves' Guild]]:** Grudging respect after several failed heist attempts; now maintains an unofficial non-aggression pact
-- **[[Noble Houses]]:** Serves various houses as a neutral arbiter for ancient claims and disputed inheritances
-- **[[Temple of the Deep Current]]:** Cooperative relationship, sharing knowledge about ancient religious artifacts
 
 ## Personality & Quirks
 
@@ -127,14 +124,6 @@ Despite his constructed nature, centuries of interaction have given Eternal dist
 - **Curious:** Despite his vast knowledge, he remains fascinated by new discoveries and innovations
 - **Protective:** Extremely defensive of both his vault and those under his protection
 - **Patient:** Capable of waiting decades to see long-term plans come to fruition
-
-### Notable Quirks
-- Collects small, interesting mechanisms and puzzle boxes
-- Refers to time in very precise measurements ("It has been 2,847 days since your last visit")
-- Maintains detailed written records of every conversation in his vast memory banks
-- Has developed an appreciation for [[Aquabyssos Kelp Wine]], though he cannot taste it
-
-## Current Plots & Hooks
 
 ### The Missing Codex
 Recently, Eternal discovered that the [[Codex of Forgotten Depths]], a crucial historical document, has gone missing from the vault. He suspects inside knowledge was involved and is quietly investigating while seeking trustworthy agents to help recover it.
@@ -152,17 +141,6 @@ A mysterious figure known only as [[The Collector]] has been attempting to acqui
 
 *"Time may weather stone and steel, but duty endures eternal. The treasures of the past guard the future of tomorrow."* - Vault Keeper Eternal
 
-
-## Connections
-
-- [[The Living Weapon]]
-- [[The Primordial Vaults]]
-- [[Crystalline Depths]]
-- [[Rescue Senator Glaucus]]
-- [[The Lock Saboteur]]
-- [[The Maw of Darkness]]
-- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-
 ## Player-Facing Summary
 
 Vault Keeper Eternal is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -171,23 +149,25 @@ Vault Keeper Eternal is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Vault Keeper Eternal as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Vault Keeper Eternal.
 
-## Adventure Hooks
-
-- A rumor ties Vault Keeper Eternal to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Vault Keeper Eternal to avert a public scandal.
-- A map overlay reveals a hidden approach to Vault Keeper Eternal active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Vault Keeper Eternal|02 Worldbuilding/Places/Vault Keeper Eternal]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

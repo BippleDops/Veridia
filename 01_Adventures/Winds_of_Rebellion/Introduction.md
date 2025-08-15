@@ -1,4 +1,5 @@
 ---
+
 title: Introduction
 type: Adventure
 tags:
@@ -31,11 +32,73 @@ themes:
 - wind-rider-traditions
 updated: '2025-08-13T12:34:17.823216+00:00'
 world: Aethermoor
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
-# Winds of Rebellion
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Combat Improvements
+
+- Add encounter scaling table for parties of 3-6 players, levels 1-20
+
+### Rewards Improvements
+
+- Create treasure parcels for each major encounter
+
+### Structure Improvements
+
+- Add three-act structure with rising action
+
+### Choices Improvements
+
+- Add meaningful decision points with consequences
+
+### Roleplay Improvements
+
+- Include ethical challenges without clear answers
+
+### Props Improvements
+
+- List physical props and handouts needed
+- List physical props and handouts needed
+- List physical props and handouts needed
+
+### Session_Zero Improvements
+
+- Add session zero integration questions
+
+### Art Improvements
+
+- Add AI art prompts for key scenes
+- Add AI art prompts for key scenes
+
+### Level_Range Improvements
+
+- Provide scaling for different level ranges
+
+### Backup Improvements
+
+- Add 'What if players skip this?' contingency
+- Add 'What if players skip this?' contingency
+- Add 'What if players skip this?' contingency
+
+### Worldbuilding Improvements
+
+- Connect to three other adventures in the vault
+- Connect to three other adventures in the vault
+
+### Spotlight Improvements
+
+- Include spotlight moment for each character class
+- Include spotlight moment for each character class
+- Include spotlight moment for each character class
+
 
 ## A Political Intrigue Adventure for Levels 4-6 in Aethermoor
 
@@ -60,8 +123,6 @@ The conspiracy centers around three interconnected threats:
 **The Purist Uprising**: The Purist Coalition, led by High Inquisitor Maltheos, has grown from a religious movement into a political force that advocates for the complete elimination of crystal technology. Their influence has spread to key military and noble families who see an opportunity to seize power in the chaos.
 
 These three threats have begun to converge, creating a perfect storm of political upheaval that threatens to destroy everything Queen Seraphina has worked to build. The queen's desperation has led her to seek help from unexpected sources - including the player characters.
-
-### Political Landscape
 
 #### Major Factions
 
@@ -240,45 +301,9 @@ Introduction is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of Introduction as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Introduction.
 
-## Adventure Hooks
-
-- A rumor ties Introduction to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Introduction to avert a public scandal.
-- A map overlay reveals a hidden approach to Introduction active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
-
-## See Also
-
-- [[02_Worldbuilding/Places|02 Worldbuilding/Places]] - Related content
-- [[Master_Campaign_Index|Master Campaign Index]] - Campaign overview
-
-## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
-- [[02_Worldbuilding/Groups/Crystal Wardens]]
-
-
-## Key NPCs
-
-- [[Captain Thornback]]
-- [[Dr._Void_Mindwright]]
-- [[04_Resources_Assets_Locations_location-city-the-null-cathedral-the-null-cathedral.svg]]
-- [[04_Resources_Assets_Locations_location-city-harbor-pilot-captain-storm-skyreacher-harbor-pilot-captain-storm-skyreacher.svg]]
-- [[Quest - The Traitor Within]]
-
-
-## Important Locations
-
-- [[04_Resources_Assets_Locations_location-city-mediator-cardinal-harmony-mediator-cardinal-harmony.svg]]
-- [[Freedrift Network]]
-- [[04_Resources_Assets_Locations_location-city-treaty-of-the-depths-v1-treaty-of-the-depths.svg]]
-
 
 ## Synopsis
 
@@ -288,7 +313,6 @@ This adventure involves the party in a series of challenges and discoveries. The
 **Expected Duration**: 2-4 sessions
 **Themes**: Mystery, Combat, Exploration
 
-
 ## Locations
 
 1. **Starting Point**: Where the adventure begins
@@ -296,60 +320,24 @@ This adventure involves the party in a series of challenges and discoveries. The
 3. **Challenge Areas**: Combat or puzzle locations
 4. **Climax Location**: Where everything comes together
 
-
-## Encounters
-
-### Combat Encounters
-- Easy: CR appropriate to party -2
-- Medium: CR appropriate to party
-- Hard: CR appropriate to party +2
-
-### Social Encounters
-- Information gathering
-- Negotiation opportunities
-- Deception challenges
-
-### Exploration Challenges
-- Environmental hazards
-- Puzzles and riddles
-- Skill challenges
-
-
-## Treasures
-
-### Monetary Rewards
-- Gold and valuables appropriate to level
-
-### Magic Items
-- Minor items (consumables)
-- Permanent items (if appropriate)
-
-### Story Rewards
-- Information gained
-- Allies made
-- Reputation changes
+### Primary Hook
+The main reason parties get involved
 
 
 ## Plot Hooks
 
-### Primary Hook
-The main reason parties get involved
+- Someone is hunting a witness for revenge
+- A prisoner has gone missing and evil awakens
+- A document has gone missing and war looms
 
-### Alternative Hooks
-- Personal connection
-- Professional interest
-- Coincidental involvement
+## Treasure Parcels
 
+### Parcel A (Combat Victory)
+- 2d6 × 10 gp
+- Potion of Healing
+- Clue to next location
 
-## Scaling Notes
-
-### For Lower Level Parties
-- Reduce enemy numbers
-- Lower DCs by 2-3
-- Provide more healing opportunities
-
-### For Higher Level Parties
-- Add minions to encounters
-- Increase DCs by 2-3
-- Add time pressure
-- Include legendary actions
+### Parcel B (Exploration)
+- Magic item (roll on Table F)
+- Ancient map fragment
+- 1d4 gems (50 gp each)

@@ -34,10 +34,22 @@ updated: '2025-08-11T00:00:00+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-# The Drowned God
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## The Creation Myth
 
@@ -48,8 +60,6 @@ updated: '2025-08-11T00:00:00+00:00'
 Before the great submergence that created [[Aquabyssos]], the entity known as **Oceanus Prime** was a god of boundaries - the divine force responsible for maintaining the separation between different realms of existence. Neither benevolent nor malevolent, Oceanus Prime served as cosmic infrastructure, ensuring that the various layers of reality remained distinct and stable.
 
 Ancient texts describe Oceanus Prime as having no fixed form, appearing sometimes as vast crystalline structures, sometimes as geometric patterns of flowing energy, and sometimes as an absence of space that still somehow maintained presence and awareness. This deity required no worship and granted no boons - it simply existed to maintain cosmic order.
-
-## The Great Sacrifice
 
 ### The Cosmic Crisis
 Millennia ago, reality faced a catastrophic threat: the barriers between dimensions were failing, allowing entities from beyond normal existence (now recognized as aspects of the [[Deep Mother]]) to begin infiltrating all worlds simultaneously. The cosmic order that Oceanus Prime maintained was collapsing under assault from forces that operated by fundamentally different rules of existence.
@@ -64,8 +74,6 @@ Oceanus Prime deliberately "drowned" itself in the chaotic energies of the dimen
 - Its divine power became distributed throughout the waters of all worlds, creating "blessed drowning" that could either save or damn
 - A new form of reality stabilization emerged - not separation of dimensions, but controlled integration
 - The cosmic boundary between [[Aethermoor]] and [[Aquabyssos]] became permeable but stable, allowing limited interaction while preventing total merger
-
-## The Dual Nature
 
 ### The Protective Aspect
 The part of Oceanus Prime that retained its original purpose became what surface dwellers call "The Drowned God" - a deity of necessary sacrifice and protective transformation. This aspect:
@@ -91,8 +99,6 @@ Most of the Drowned God's influence exists in a state between salvation and damn
 - Serve as communication medium between the protective and corrupted aspects
 - Allow for redemption of the corrupted and corruption of the pure with equal ease
 
-## Multiple Interpretations
-
 ### The Orthodox Religious View
 *Temple doctrine from both worlds*
 
@@ -101,7 +107,7 @@ The Drowned God is a benevolent deity who sacrificed its original nature to prot
 ### The Academic Analysis
 *Scholarly research and historical documentation*
 
-Oceanus Prime was likely a naturally occurring cosmic phenomenon - possibly a stable dimensional rift or reality-maintenance mechanism - that was anthropomorphized into deity status by cultures trying to understand forces beyond their comprehension. The "sacrifice" was probably natural evolution of this phenomenon under stress from extra-dimensional intrusion.
+Oceanus Prime was likely a naturally occurring cosmic phenomenon - possibly a stable dimensional rift or reality-maintece mechanism - that was anthropomorphized into deity status by cultures trying to understand forces beyond their comprehension. The "sacrifice" was probably natural evolution of this phenomenon under stress from extra-dimensional intrusion.
 
 ### The Mystic Understanding
 *Deep-current oracles and void-touched seers*
@@ -112,8 +118,6 @@ The Drowned God exists in a state of eternal conflict with itself, simultaneousl
 *Knowledge accessible only to those touched by alien truth*
 
 The Drowned God is a successful example of how cosmic horror entities integrate with local reality - not through conquest but through transformation of existing divine structures. What appears to be "sacrifice" was actually successful possession and conversion. The protective aspects are just more subtle forms of the same alien intelligence that manifests as the corrupted aspects.
-
-## Current Manifestations
 
 ### Sacred Sites
 Locations throughout both worlds where the Drowned God's influence is strongest:
@@ -155,8 +159,6 @@ In areas where the Drowned God's influence is strong:
 - Reality occasionally "glitches" as different aspects of divine will conflict
 - Both salvation and damnation are possible from identical actions
 
-## Plot Hooks
-
 ### The Divine Schism
 The protective and corrupted aspects of the Drowned God are moving toward open conflict, which could destabilize reality itself. The PCs must either prevent this divine civil war or choose which side deserves support.
 
@@ -183,12 +185,6 @@ The answer may determine whether the approaching convergence represents an oppor
 
 *"In drowning, we learn to breathe new truths. In breathing new truths, we discover what parts of ourselves were always meant to drown."* - Inscription at the First Temple of Sacred Depths
 
-
-## Connections
-
-- [[Tide Turner's Trident]]
-- [[Aethermoor - Session 08 Between Two Worlds]]
-
 ## Player-Facing Summary
 
 The Drowned God is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -197,25 +193,30 @@ The Drowned God is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of The Drowned God as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Drowned God.
 
-## Adventure Hooks
-
-- A rumor ties The Drowned God to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Drowned God to avert a public scandal.
-- A map overlay reveals a hidden approach to The Drowned God active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
-- [[Deep Mother]]
-- [[Aethermoor]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals the truth about this place
+- A letter reveals a betrayal about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

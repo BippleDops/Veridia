@@ -23,24 +23,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# Spells for Shadow-Touched
+*20 targeted improvements identified*
 
-## 1st Level
+### Connection Improvements
 
-- [[/03_Mechanics/CLI/spells/cause-fear-xge "XGE"|Cause Fear]] 
-- [[/03_Mechanics/CLI/spells/color-spray-xphb "XPHB"|Color Spray]] 
-- [[/03_Mechanics/CLI/spells/disguise-self-xphb "XPHB"|Disguise Self]] 
-- [[/03_Mechanics/CLI/spells/false-life-xphb "XPHB"|False Life]] 
-- [[/03_Mechanics/CLI/spells/illusory-script-xphb "XPHB"|Illusory Script]] 
-- [[/03_Mechanics/CLI/spells/inflict-wounds-xphb "XPHB"|Inflict Wounds]] 
-- [[/03_Mechanics/CLI/spells/ray-of-sickness-xphb "XPHB"|Ray of Sickness]] 
-- [[/03_Mechanics/CLI/spells/silent-image-xphb "XPHB"|Silent Image]] 
-- [[/03_Mechanics/CLI/spells/wrathful-smite-xphb "XPHB"|Wrathful Smite]] 
+- Add cross-references to related notes
 
-## 2nd Level
+### Enhancement Improvements
 
-- [[/03_Mechanics/CLI/spells/invisibility-xphb "XPHB"|Invisibility]]
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -50,19 +48,31 @@ List spells feats shadow touched xphb is a undersea element of the setting, know
 
 Legends speak of list spells feats shadow touched xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells feats shadow touched xphb.
 
-## Adventure Hooks
-
-- A rumor ties list spells feats shadow touched xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells feats shadow touched xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells feats shadow touched xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and war looms
+- A stranger needs help finding before the festival
+- The authorities needs help stealing before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

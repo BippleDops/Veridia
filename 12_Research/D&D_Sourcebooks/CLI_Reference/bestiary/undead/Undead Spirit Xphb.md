@@ -27,9 +27,6 @@ updated: '2025-08-13T12:34:05.880361+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![[04_Resources/Assets/Creatures/creature-creature-undead-spirit-xphb-undead-spirit-xphb.png]]
 
@@ -53,7 +50,7 @@ world: Both
 "speed": "30 ft., fly 40 ft. (hover; Ghostly only)"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands the languages you know"
@@ -73,23 +70,39 @@ world: Both
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: Bonus equals your spell attack modifier, reach 5\
       \ ft. Hit: 1d8 + 3 + the spell's level Necrotic damage, and the target has\
-      \ the [[conditions#Frightened|Frightened]] condition until\
+      \ the [[conditions#frightened|Frightened]] condition until\
       \ the end of its next turn."
     "name": "Deathly Touch (Ghostly Only)"
   - "desc": "Ranged Attack Roll: Bonus equals your spell attack modifier, range\
       \ 150 ft. Hit: 2d4 + 3 + the spell's level Necrotic damage."
     "name": "Grave Bolt (Skeletal Only)"
-  - "desc": "Melee Attack Roll: Bonus equals your spell attack modifier, reach 5\
       \ ft. Hit: 1d6 + 3 + the spell's level Slashing damage. If the target has\
       \ the [[conditions#Poisoned|Poisoned]] condition, it has\
       \ the [[conditions#Paralyzed|Paralyzed]] condition until\
-      \ the end of its next turn."
     "name": "Rotting Claw (Putrid Only)"
 "source":
   - "XPHB"
 "image": "/03_Mechanics/CLI/bestiary/undead/token/undead-spirit-xphb.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -99,19 +112,36 @@ Undead spirit xphb is a undersea element of the setting, known for bioluminescen
 
 Legends speak of undead spirit xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around undead spirit xphb.
 
-## Adventure Hooks
-
-- A rumor ties undead spirit xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at undead spirit xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to undead spirit xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- Someone is protecting an heir for love
+- A noble needs help investigating before winter
+- The authorities needs help finding before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

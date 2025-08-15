@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:35.418219+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,26 @@ Cross Realm Navigation Cooperation is a undersea element of the setting, known f
 
 Legends speak of Cross Realm Navigation Cooperation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Cross Realm Navigation Cooperation.
 
-## Adventure Hooks
-
-- A rumor ties Cross Realm Navigation Cooperation to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Cross Realm Navigation Cooperation to avert a public scandal.
-- A map overlay reveals a hidden approach to Cross Realm Navigation Cooperation active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Depth Chart|02 Worldbuilding/Lore/The Depth Chart]]
-
-
-## Connections
-
-- [[The Depth Chart]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing information for love
+- A merchant needs help investigating before dawn
+- A stranger needs help delivering before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

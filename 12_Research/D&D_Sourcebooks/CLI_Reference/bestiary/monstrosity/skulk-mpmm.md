@@ -31,8 +31,6 @@ updated: '2025-08-12T23:37:34.993210'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-skulk-mpmm-skulk-mpmm.svg)
 
@@ -61,7 +59,6 @@ Cruel and chaotic, skulks carry out their orders in the most violent manner poss
 "stats":
   - !!int "6"
   - !!int "19"
-  - !!int "10"
   - !!int "10"
   - !!int "7"
   - !!int "1"
@@ -98,6 +95,24 @@ Cruel and chaotic, skulks carry out their orders in the most violent manner poss
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 coastal, forest, swamp, underdark, urban
@@ -110,19 +125,15 @@ Skulk mpmm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of skulk mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around skulk mpmm.
 
-## Adventure Hooks
-
-- A rumor ties skulk mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at skulk mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to skulk mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

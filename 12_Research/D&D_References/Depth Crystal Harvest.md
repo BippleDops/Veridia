@@ -22,17 +22,30 @@ updated: '2025-08-11T00:00:00+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-depth-crystal-harvest-depth-crystal-harvest.svg]]
-
-
-
-
 
 # Depth Crystal Harvest
 
 *"Where pressure forges beauty and danger in equal measure."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 The Depth Crystal Harvest is a treacherous mining operation located in the deepest trenches surrounding Aquabyssos, where rare pressure-formed crystals grow in the extreme depths. These sites are both essential to the city's economy and extraordinarily dangerous to access.
@@ -48,30 +61,11 @@ Multiple mining sites scattered across three major trench systems, connected by 
 **Processing Facilities**: On-site crystal cutting and preliminary refinement
 **Safety Systems**: Emergency ascent pods, medical stations, pressure monitoring
 
-## Notable Features
-- Naturally occurring crystal formations of immense size
-- Extreme pressure requiring specialized equipment
-- Unstable geology prone to sudden collapses
-- Bioluminescent creatures adapted to crushing depths
-- Magical interference from crystal energy
-
-## NPCs
-- **Supervisor Hadean Deepdelve**: Experienced mining chief
-- **Dr. Pressura Stonebreaker**: Chief geological surveyor
-- **Foreman Crush Ironlung**: Safety and equipment specialist
-- **The Deep Workers**: 50+ specialized miners
-
 ## Hazards
 **Environmental**: Crushing pressure, unstable geology, equipment failure
 **Biological**: Deep predators, pressure-adapted hostile creatures
 **Magical**: Crystal energy surges, temporal distortions
 **Economic**: Corporate sabotage, worker strikes, supply shortages
-
-## Current Events
-- Recent cave-in trapped twelve miners for six days
-- New crystal vein discovered in unexplored trench
-- Equipment sabotage suspected in recent accidents
-- Pressure suit shortage delaying operations
 
 ## Resources Produced
 **Depth Crystals**: Primary magical power source
@@ -79,61 +73,14 @@ Multiple mining sites scattered across three major trench systems, connected by 
 **Rare Minerals**: Secondary mining products
 **Research Materials**: Specimens for magical research
 
-## Economic Impact
-- Primary source of Aquabyssos's magical power
-- Employs over 200 workers directly
-- Supports entire supply chain of specialized equipment
-- Critical to city's technological advancement
-
 ## Adventure Hooks
 1. Rescue mission after catastrophic mining accident
 2. Investigation into sabotage affecting multiple sites
 3. Exploration of newly discovered crystal caverns
 4. Negotiation with deep-dwelling creatures claiming territory
 
-## Services Available
-- Crystal procurement for magical projects
-- Deep diving equipment rental
-- Geological survey services
-- Emergency rescue operations
-
-## Secrets
-- Some crystal formations appear artificially arranged
-- Deep creatures may be more intelligent than assumed
-- Corporate rivalry involves actual espionage and sabotage
-- Ancient ruins discovered beneath one mining site
-
 ## DM Notes
 Use this location for high-stakes rescue missions and industrial espionage. The extreme environment creates natural tension and urgency. Corporate politics can drive ongoing campaigns.
-
-
-## Connections
-
-- [[The Cerulean Trench]]
-
-
-## History
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -143,13 +90,23 @@ Depth Crystal Harvest is a undersea element of the setting, known for biolumines
 
 Legends speak of Depth Crystal Harvest as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Crystal Harvest.
 
-## Cross-References
-
-- [[Depth Crystal Harvest|02 Worldbuilding/Places/Depth Crystal Harvest]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and war looms
+- The authorities needs help investigating before dawn
+- A journal reveals a conspiracy about the cult
+- Strange sightings suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

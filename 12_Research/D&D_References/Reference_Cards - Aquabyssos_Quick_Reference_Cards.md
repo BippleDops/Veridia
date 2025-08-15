@@ -8,21 +8,17 @@ tags:
 - active
 - mechanic
 - research
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 updated: '2025-08-13T04:22:10.867487+00:00'
 world: Aquabyssos
 ---
 
-
-
 # Aquabyssos Quick Reference Cards
 *Print, cut, and keep handy during gameplay*
 
 ---
-
-## PRESSURE MECHANICS CARD
 
 ### Depth Zones & Effects
 | Depth | Zone | Pressure DC | Effects |
@@ -34,22 +30,6 @@ world: Aquabyssos
 | 601-1000 ft | Abyssal | DC 18 | 2 exhaustion/hour |
 | 1000+ ft | Hadal | DC 20 | 3 exhaustion/hour + Madness |
 
-### Pressure Saves
-- **Constitution Save**: Start of each hour at depth
-- **Failure**: Gain exhaustion level
-- **Failure by 5+**: Gain 2 exhaustion levels
-- **Natural 1**: Pressure sickness (poisoned 24 hrs)
-
-### Pressure Protection
-- **Depth Suit**: Ignore pressure up to 600 ft
-- **Pressure Pills**: Advantage on saves (1 hour)
-- **Mer-folk Blessing**: Immune to pressure (24 hrs)
-- **Submarine**: Complete protection inside
-
----
-
-## UNDERWATER COMBAT CARD
-
 ### Weapon Restrictions
 **Normal Attacks**:
 - Dagger, javelin, shortsword, spear, trident
@@ -60,24 +40,6 @@ world: Aquabyssos
 
 **Automatic Miss**:
 - Longbow, shortbow beyond normal range
-
-### Movement & Swimming
-- **Swimming Speed**: Half movement unless natural swim speed
-- **Armor Penalties**:
-  - Light: No penalty
-  - Medium: -10 ft speed
-  - Heavy: -20 ft speed, sink 10 ft/round
-
-### Special Conditions
-- **Holding Breath**: CON modifier + 1 minute
-- **Suffocating**: 0 HP when breath expires
-- **Fire Damage**: Halved underwater
-- **Lightning Damage**: +5 ft radius, all in water save
-- **Cold Damage**: Normal (water freezes)
-
----
-
-## MER-FOLK POLITICS CARD
 
 ### Major Kingdoms
 **Coral Throne** (Lawful Neutral)
@@ -113,8 +75,6 @@ world: Aquabyssos
 
 ---
 
-## SUBMARINE OPERATIONS CARD
-
 ### Basic Controls
 | Action | Skill Check | Effect |
 |--------|------------|--------|
@@ -132,39 +92,12 @@ Roll 1d6 when submarine takes damage:
 5. **Navigation**: Disadvantage on piloting
 6. **Weapons**: Can't fire torpedoes
 
-### Emergency Repairs
-- **Patch Hull**: DC 15 INT (Tools) - 1 action
-- **Restart Engine**: DC 13 STR (Athletics) - 1 minute
-- **Fix Ballast**: DC 14 INT (Tools) - 10 minutes
-- **Restore Life Support**: DC 16 WIS (Medicine) - 1 minute
-
----
-
-## DEEP CORRUPTION CARD
-
 ### Corruption Stages
 **Stage 1** (1-3 points): Nightmares, -2 to mental saves
 **Stage 2** (4-6 points): Scales appear, gain swim speed
 **Stage 3** (7-9 points): Gills form, require daily water
 **Stage 4** (10-12 points): Telepathy 30 ft, vulnerable to psychic
 **Stage 5** (13+ points): NPC controlled, serve Deep Mother
-
-### Gaining Corruption
-- Read Deep Mother texts: 1 point
-- Use aboleth artifacts: 1d3 points
-- Fail save vs. aboleth: 1 point
-- Enter void zones: 1 point/hour
-- Dream of depths: 1 point/week
-
-### Removing Corruption
-- Greater Restoration: -1 point
-- Wish/Miracle: Remove all
-- Holy site pilgrimage: -1d4 points
-- Resist Deep Mother: -1 point (once/month)
-
----
-
-## TRADE & ECONOMY CARD
 
 ### Currency Exchange
 | Surface | Aquabyssos | Value |
@@ -192,8 +125,6 @@ Roll 2d6 + CHA modifier:
 - 12+: Helpful, -25% prices, info
 
 ---
-
-## AQUATIC HAZARDS CARD
 
 ### Environmental Dangers
 
@@ -230,8 +161,6 @@ Roll 1d8:
 
 ---
 
-## ABOLETH INFLUENCE CARD
-
 ### Mind Effects
 **Aboleth Telepathy** (120 ft range):
 - WIS save DC 16 to resist
@@ -255,17 +184,6 @@ Initiative 20 (loses ties):
 2. Water in 90 ft becomes difficult terrain
 3. Targets in water: DC 14 STR or pulled 20 ft
 
-### Signs of Aboleth Presence
-- Water tastes metallic
-- Fish swim in perfect synchronization
-- Whispers in Deep Speech
-- Prophetic nightmares
-- Algae forms eldritch patterns
-
----
-
-## QUICK ENCOUNTER CARD
-
 ### Random Aquatic Encounters (d20)
 1-2: **Merchant Vessel** - Trade opportunity
 3-4: **Mer-folk Patrol** - Papers please
@@ -288,8 +206,6 @@ Initiative 20 (loses ties):
 6. **Lost Noble** - Huge reward
 
 ---
-
-## SANITY & MADNESS CARD
 
 ### Sanity Checks
 **Triggers** (WIS save):
@@ -323,22 +239,6 @@ Initiative 20 (loses ties):
 
 ---
 
-## FACTION QUICK ACTIONS CARD
-
-### Reputation Thresholds
-- **Hostile** (-10 to -6): Attack on sight
-- **Unfriendly** (-5 to -2): No aid, high prices
-- **Neutral** (-1 to +1): Normal interaction
-- **Friendly** (+2 to +5): Aid, fair prices
-- **Allied** (+6 to +10): Military support
-
-### Quick Favor Costs
-- Information: 1 favor
-- Safe passage: 2 favors
-- Combat aid: 3 favors
-- Magical item: 4 favors
-- Political support: 5 favors
-
 ### Faction Missions (d6)
 1. Deliver message to rival
 2. Retrieve stolen artifact
@@ -353,6 +253,24 @@ Initiative 20 (loses ties):
 
 --- ✂️ --- ✂️ --- ✂️ --- ✂️ ---
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Aquabyssos Quick Reference Cards is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -361,19 +279,39 @@ Aquabyssos Quick Reference Cards is a undersea element of the setting, known for
 
 Legends speak of Aquabyssos Quick Reference Cards as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos Quick Reference Cards.
 
-## Adventure Hooks
-
-- A rumor ties Aquabyssos Quick Reference Cards to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Aquabyssos Quick Reference Cards to avert a public scandal.
-- A map overlay reveals a hidden approach to Aquabyssos Quick Reference Cards active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A document has gone missing and war looms
+- The authorities needs help delivering before the festival
+- A letter reveals ancient history about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

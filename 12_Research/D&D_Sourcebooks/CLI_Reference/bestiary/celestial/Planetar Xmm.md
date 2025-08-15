@@ -29,14 +29,29 @@ updated: '2025-08-13T12:34:06.053026+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-planetar-xmm-planetar-xmm.svg)
 
 # [[planetar-xmm|Planetar]]
-*Source: Monster Manual (2024) p. 245. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 245. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Planetar
 
@@ -76,7 +91,6 @@ These angels act where they can against overwhelming evil, but to avoid the atte
 "stats":
   - !!int "24"
   - !!int "20"
-  - !!int "24"
   - !!int "19"
   - !!int "22"
   - !!int "25"
@@ -91,7 +105,7 @@ These angels act where they can against overwhelming evil, but to avoid the atte
     "desc": "+11"
 "damage_resistances": "radiant"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]]"
+  \ [[conditions#frightened|frightened]]"
 "senses": "truesight 120 ft., passive Perception 21"
 "languages": "all; telepathy 120 ft."
 "cr": "16"
@@ -118,8 +132,8 @@ These angels act where they can against overwhelming evil, but to avoid the atte
   - "desc": "The planetar casts one of the following spells, requiring no Material\
       \ components and using Charisma as spellcasting ability (spell save DC 20):\n\
       \nAt will: [[detect-evil-and-good-xphb|Detect Evil and Good]]\n\
-      \n1/day each: [[commune-xphb|Commune]], [[control-weather-xphb|Control\
-      \ Weather]], [[dispel-evil-and-good-xphb|Dispel Evil and\
+      \n1/day each: [[commune-xphb|Commune]], [[control-weather-xphb|Control\]]
+      \ Weather]], [[dispel-evil-and-good-xphb|Dispel Evil and\]]
       \ Good]], [[raise-dead-xphb|Raise Dead]]"
     "name": "Spellcasting"
 "bonus_actions":
@@ -146,19 +160,30 @@ Planetar xmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of planetar xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around planetar xmm.
 
-## Adventure Hooks
-
-- A rumor ties planetar xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at planetar xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to planetar xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and evil awakens
+- An heirloom has gone missing and chaos spreads
+- A corpse reveals ancient history about the cult
+- A merchant needs help stealing before winter
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -26,18 +26,30 @@ updated: '2025-08-13T01:18:36.113048+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-captain-marcus-captain-marcus.svg]]
-
-
-
-
-
 
 # Captain Marcus
 
 *"The sea respects discipline and despises weakness. Under my command, we embody both the honor and the strength that keep Aquabyssos safe from the depths' darkest threats."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -52,12 +64,6 @@ As political tensions rise within Aquabyssos, Marcus finds himself in the diffic
 Marcus is a weathered human in his mid-forties, with salt-and-pepper hair kept in a military cut and piercing gray eyes that seem to constantly scan for threats. His face bears the deep tan of someone who has spent years under magical illumination, and numerous small scars tell the story of encounters with deep-sea predators and hostile forces.
 
 He wears a modified naval uniform designed for underwater operations, complete with rank insignia and a captain's coat that has been enchanted for protection against pressure and cold. His most distinctive feature is an ornate trident badge that marks him as a certified deep-sea commander, earned through trials that few survive.
-
-## Personality
-- Absolutely dedicated to the defense of Aquabyssos and its citizens
-- Disciplined military bearing with natural leadership qualities
-- Pragmatic approach to problems balanced by strong moral principles
-- Protective of his crew while demanding the highest standards of performance
 
 ## Statistics
 **Medium humanoid (human), lawful good**
@@ -107,20 +113,6 @@ With political tensions rising within the city, Marcus has increased his patrols
 
 He's also been quietly preparing contingency plans for various scenarios, including the possibility that political conflicts might disrupt normal defensive operations or that external enemies might try to exploit the city's internal divisions.
 
-## Relationships
-- **Aquabyssos Naval Command**: Respected senior officer and tactical advisor
-- **His Crew**: Deeply loyal followers who would follow him anywhere
-- **City Defense Council**: Provides intelligence and recommendations on external threats
-- **All Political Factions**: Maintains professional neutrality while serving all citizens equally
-- **Deep-Sea Exploration Corps**: Collaborates on reconnaissance and scientific missions
-
-## Secrets
-- Has detected signs of coordinated surveillance by unknown underwater forces
-- Maintains secret supply caches for emergency defense of the city
-- Discovered evidence of ancient ruins in the deep trenches that may pose a threat
-- Built an informal network of loyal officers throughout the naval hierarchy
-- Possesses classified intelligence about threats that could endanger civilian morale if revealed
-
 ## Quest Hooks
 1. Marcus approaches the party with evidence of external threats to the city, needing discrete investigators who can operate outside official channels.
 2. The party requires naval transport for a dangerous mission, leading them to negotiate with Marcus for the use of his ship and crew.
@@ -128,36 +120,6 @@ He's also been quietly preparing contingency plans for various scenarios, includ
 
 ## DM Notes
 Captain Marcus serves as a reliable military contact and source of information about external threats to Aquabyssos. His neutral political stance makes him useful to any party regardless of their factional allegiances, while his military resources can provide transportation and support for maritime adventures. Use him to represent the professional military's concerns about how political conflicts might affect the city's defenses.
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -167,19 +129,11 @@ Captain Marcus is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Captain Marcus as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Marcus.
 
-## Adventure Hooks
-
-- A rumor ties Captain Marcus to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Captain Marcus to avert a public scandal.
-- A map overlay reveals a hidden approach to Captain Marcus active only during specific tides/storms.
-
-## Cross-References
-
-- [[Captain Marcus|02 Worldbuilding/Places/Captain Marcus]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

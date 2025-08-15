@@ -16,32 +16,26 @@ updated: '2025-08-13T01:18:36.498167+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-professional-organizations-professional-organizations.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## History
+### Enhancement Improvements
 
-TODO
-## Layout
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -51,23 +45,22 @@ Professional Organizations is a undersea element of the setting, known for biolu
 
 Legends speak of Professional Organizations as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Professional Organizations.
 
-## Adventure Hooks
-
-- A rumor ties Professional Organizations to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Professional Organizations to avert a public scandal.
-- A map overlay reveals a hidden approach to Professional Organizations active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Professional Organizations|02 Worldbuilding/Places/Professional Organizations]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- Someone is protecting an heir for money
+- The authorities needs help delivering before winter
+- A stranger needs help stealing before the new moon

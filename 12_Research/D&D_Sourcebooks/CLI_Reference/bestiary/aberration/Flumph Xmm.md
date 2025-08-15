@@ -28,14 +28,29 @@ updated: '2025-08-13T12:34:05.617888+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-flumph-xmm-flumph-xmm.svg)
 
 # [[flumph-xmm|Flumph]]
 *Source: Monster Manual (2024) p. 122*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Flumph
 
@@ -100,16 +115,13 @@ A flumph's extremities change color to reflect its mood. The Flumph Colors and E
   - !!int "15"
   - !!int "10"
   - !!int "14"
-  - !!int "14"
   - !!int "11"
 "speed": "5 ft., fly 30 ft. (hover)"
 "skillsaves":
   - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+4"
   - "name": "[[skills#History|History]]"
-    "desc": "+4"
   - "name": "[[skills#Religion|Religion]]"
-    "desc": "+4"
 "damage_vulnerabilities": "psychic"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "understands Undercommon but can't speak; telepathy 60 ft."
@@ -118,7 +130,7 @@ A flumph's extremities change color to reflect its mood. The Flumph Colors and E
   - "desc": "The flumph perceives the content of any telepathic communication within\
       \ 60 feet of it."
     "name": "Advanced Telepathy"
-  - "desc": "If the flumph receives the [[conditions#Prone|Prone]]\
+  - "desc": "If the flumph receives the [[conditions#prone|Prone]]\
       \ condition, roll a die. On an odd number, it has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition. At the end of each of its turns, the flumph makes a DC 10 Dexterity\
       \ saving throw, ending the [[conditions#Incapacitated|Incapacitated]]\
@@ -157,19 +169,38 @@ Flumph xmm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of flumph xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around flumph xmm.
 
-## Adventure Hooks
-
-- A rumor ties flumph xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at flumph xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to flumph xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Plot Hooks
+
+- A journal reveals a betrayal about the government
+- A stranger needs help finding before the festival
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

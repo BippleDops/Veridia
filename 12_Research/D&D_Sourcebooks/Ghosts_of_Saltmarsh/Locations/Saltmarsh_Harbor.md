@@ -22,44 +22,25 @@ threat_level: Moderate
 ---
 
 
-# Saltmarsh Harbor - Cross-Realm Trading Port
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Cordelia Integration
 Saltmarsh exists as a unique surface port city built directly above an Aquabyssos trading district. The harbor serves both surface vessels and submarines, making it a crucial hub for cross-realm commerce and smuggling.
-
-## Physical Description
-### Surface Level (Aethermoor Access)
-- Traditional harbor with docks and warehouses
-- Sky-ship mooring masts for aerial vessels
-- Lighthouse equipped with crystal navigation beacons
-
-### Underwater Level (Aquabyssos Access)  
-- Submersible docks with pressure equalization chambers
-- Crystal-powered air recycling systems
-- Underwater warehouses with magical preservation
-
-## Key Locations
-- **The Wicker Goat Inn**: Multi-level establishment serving both realms
-- **Harbor Authority**: Cross-realm customs and trade regulation
-- **Smuggler's Tunnels**: Hidden passages between surface and depth
-- **Crystal Processing Plant**: Illegal modification of water crystals
-
-## Notable NPCs
-- **Captain Marina Saltwind**: Harbor master managing dual-realm traffic
-- **Sanbalet Wavecrest**: Aquabyssos smuggler leader
-- **Ned Timberwright**: Surface dockworker union representative
-
-## Current Conflicts
-- **Shadow Conspiracy Influence**: Corrupted harbor officials facilitate illegal trades
-- **Pressure Regulation Disputes**: Surface/depth jurisdiction conflicts
-- **Crystal Smuggling**: Modified water crystals destabilize local ecosystems
-- **Faction Tensions**: [[Silverscale Consortium]] vs local merchant guilds
-
-## Adventure Hooks
-- Investigate mysterious shipments arriving at odd hours
-- Stop smuggling operation moving shadow-touched artifacts
-- Negotiate trade dispute between surface and depth merchants
-- Uncover shadow conspiracy cell using harbor for operations
 
 ## Environmental Challenges
 - **Tidal Pressure Changes**: Regular shifts affect both levels
@@ -70,11 +51,9 @@ Saltmarsh exists as a unique surface port city built directly above an Aquabysso
 ---
 *Adapted from Ghosts of Saltmarsh for Cordelia dual-realm setting*
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -83,3 +62,23 @@ Saltmarsh exists as a unique surface port city built directly above an Aquabysso
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

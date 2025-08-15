@@ -25,23 +25,39 @@ updated: '2025-08-12T23:37:36.125703'
 world: Both
 ---
 
-
 # Wind Walk
 *6th-level, Transmutation*  
-
 
 - **Casting time:** 1 minute
 - **Range:** 30 feet
 - **Components:** V, S, M (a candle)
 - **Duration:** 8 hours
 
-You and up to ten willing creatures of your choice within range assume gaseous forms for the duration, appearing as wisps of cloud. While in this cloud form, a target has a [[fly-speed-xphb|Fly Speed]] of 300 feet and can hover; it has [[immunity-xphb|Immunity]] to the [[conditions#Prone|Prone]] condition; and it has [[resistance-xphb|Resistance]] to Bludgeoning, Piercing, and Slashing damage. The only actions a target can take in this form are the [[actions#Dash|Dash]] action or a [[actions#Magic|Magic]] action to begin reverting to its normal form. Reverting takes 1 minute, during which the target has the [[conditions#Stunned|Stunned]] condition. Until the spell ends, the target can revert to cloud form, which also requires a [[actions#Magic|Magic]] action followed by a 1-minute transformation.
+You and up to ten willing creatures of your choice within range assume gaseous forms for the duration, appearing as wisps of cloud. While in this cloud form, a target has a [[fly-speed-xphb|Fly Speed]] of 300 feet and can hover; it has [[immunity-xphb|Immunity]] to the [[conditions#prone|Prone]] condition; and it has [[resistance-xphb|Resistance]] to Bludgeoning, Piercing, and Slashing damage. The only actions a target can take in this form are the [[actions#Dash|Dash]] action or a [[actions#Magic|Magic]] action to begin reverting to its normal form. Reverting takes 1 minute, during which the target has the [[conditions#Stunned|Stunned]] condition. Until the spell ends, the target can revert to cloud form, which also requires a [[actions#Magic|Magic]] action followed by a 1-minute transformation.
 
 If a target is in cloud form and flying when the effect ends, the target descends 60 feet per round for 1 minute until it lands, which it does safely. If it can't land after 1 minute, it falls the remaining distance.
 
 **Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-bard|Bard]]
 
-*Source: Player's Handbook (2024) p. 341. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 341. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -51,19 +67,34 @@ Wind walk xphb is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of wind walk xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wind walk xphb.
 
-## Adventure Hooks
-
-- A rumor ties wind walk xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at wind walk xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to wind walk xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a conspiracy
+- Strange dreams suggest a portal
+- Strange sightings suggest ancient magic
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

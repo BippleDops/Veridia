@@ -1,4 +1,5 @@
 ---
+
 title: Withered Court
 type: Location
 tags:
@@ -27,6 +28,8 @@ danger_level: Moderate
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.214054+00:00'
 world: Aethermoor
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -34,10 +37,74 @@ world: Aethermoor
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-withered-court-withered-court.svg]]
 
-
 # Withered Court
 
 *Where ancient nobility clings to power beyond death's embrace*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
 
 ## Overview
 
@@ -58,8 +125,6 @@ The Court's seat of power is an architectural marvel of macabre beauty. Construc
 The Withered Court maintains many of the customs and ceremonies of living nobility, but twisted through the lens of undeath. They host elaborate **Death Masques** where both living and dead dance until dawn, conduct **Séance Salons** for diplomatic discourse with spirits, and practice **Blood Sports** where the entertainment often proves literally fatal for participants.
 
 The air throughout their domain carries the perpetual scent of funeral flowers and embalming spices, while [[Phantom Orchestras]] provide haunting melodies that can be heard echoing across the moors. The Court values tradition, bloodline purity, and the accumulation of both temporal power and spiritual essence.
-
-## Notable NPCs
 
 ### Countess Morwyn Ashborne, The Bone Sovereign
 *Female Human Lich, Supreme Ruler of the Withered Court*
@@ -117,20 +182,6 @@ Once a renowned diplomat in life, Lady Hollowmere's tragic death transformed her
 - Speak in unison with voices like rustling parchment
 - Absolutely incorruptible but rigidly literal in interpretation
 
-## Services & Amenities
-
-### For the Living
-- **Temporary Death Services**: Experience undeath safely for up to 24 hours (500 gp)
-- **Necromantic Consultation**: Expert advice on undead-related matters (100-1000 gp)
-- **Death Contracts**: Binding agreements that persist beyond death (negotiable)
-- **Ghost Hunting**: Professional elimination of problematic spirits (market rates)
-
-### For the Undead
-- **Essence Refinement**: Purification and strengthening of undead nature (varies)
-- **Phylactery Security**: Safe storage for lich souls and vampire coffins (10,000 gp/year)
-- **Eternal Maintenance**: Preservation services for deteriorating undead (ongoing fees)
-- **Undead Diplomacy**: Mediation between different types of undead (500 gp/session)
-
 ## Plot Hooks
 
 1. **The Inheritance War**: A living heir has appeared claiming rights to one of the Court's territories, backed by legal documents the [[Bone Scribes]] cannot deny. The Court must navigate ancient laws while maintaining their power structure.
@@ -157,36 +208,6 @@ The Withered Court serves as a unique political entity within [[Aethermoor]], of
 - [[The Synthesis Gardens]]
 - [[Stop the Crystal Festival Ritual]]
 
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 Withered Court is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -195,16 +216,6 @@ Withered Court is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Withered Court as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Withered Court.
 
-## Adventure Hooks
-
-- A rumor ties Withered Court to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Withered Court to avert a public scandal.
-- A map overlay reveals a hidden approach to Withered Court active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -212,38 +223,9 @@ Legends speak of Withered Court as a nexus where past and present converge. Loca
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Withered Court]]
-
-<!-- enriched: true -->
-- [[Aethermoor]]
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[Engineer Prisma Depthwright]]
-- [[Anti-Religious Philosophical Arguments]]
-- [[04_Resources_Assets_Locations_location-city-the-gilded-shard-the-gilded-shard.svg]]
-
 
 ## Sensory Details
 
@@ -253,7 +235,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: Incense mingles with the scent of exotic spices
 
-
 ## Description
 
 Withered Court is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -261,35 +242,7 @@ Withered Court is a notable location characterized by its unique features and st
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Withered Court
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -301,16 +254,3 @@ Ongoing situations affecting Withered Court:
 - External threats
 - Opportunities arising
 
-
-## Secrets & Rumors
-
-### Common Knowledge
-- What everyone knows about Withered Court
-
-### Whispered Rumors
-- Stories that may or may not be true
-
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers

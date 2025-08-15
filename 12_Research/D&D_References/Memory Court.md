@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:35.438371+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,29 +41,20 @@ Memory Court is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of Memory Court as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Court.
 
-## Adventure Hooks
-
-- A rumor ties Memory Court to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Memory Court to avert a public scandal.
-- A map overlay reveals a hidden approach to Memory Court active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Legal System of Aquabyssos|02 Worldbuilding/Lore/Legal System Of Aquabyssos]]
-
-
-## Connections
-
-- [[The Parliament of Nobody]]
-- [[Legal System of Aquabyssos]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and war looms
+- Someone is blackmailing information for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

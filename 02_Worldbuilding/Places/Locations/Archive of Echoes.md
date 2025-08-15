@@ -15,34 +15,23 @@ population: Unknown
 updated: 2025-08-14
 ---
 
-
 # 02_Worldbuilding/Locations/Archive of Echoes
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
-
-## Description
 
 ### Atmosphere
 
 The atmosphere of this location shifts throughout the day. Dawn brings sacred groves, while dusk transforms the area with mysterious shadows.
 
-
 ### Atmosphere
 
 The atmosphere of this location shifts throughout the day. Dawn brings ancient ruins, while dusk transforms the area with quiet contemplation.
-
 
 *[To be filled in]*
 
 ## Details
 
 *[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[System Cli Spells School Enchantment]]
-- [[System Cli Items Weapons]]
 
 ## Notes
 
@@ -54,44 +43,8 @@ The atmosphere of this location shifts throughout the day. Dawn brings ancient r
 ---
 *Placeholder generated: 2025-08-14*
 
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Archive of Echoes
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
-
-## History
-
 ### Founding
 Archive of Echoes was established in the distant past, growing from humble beginnings to its current state.
-
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
-
 
 ## Current Events
 
@@ -103,21 +56,6 @@ Ongoing situations affecting Archive of Echoes:
 - External threats
 - Opportunities arising
 
-
-## Secrets & Rumors
-
-### Common Knowledge
-- What everyone knows about Archive of Echoes
-
-### Whispered Rumors
-- Stories that may or may not be true
-
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
-
-
 ## Adventure Hooks
 
 1. **The Missing Person**: Someone important has disappeared in Archive of Echoes
@@ -125,7 +63,6 @@ Ongoing situations affecting Archive of Echoes:
 3. **The Growing Threat**: A danger that threatens Archive of Echoes
 4. **The Political Intrigue**: Power struggles affecting the location
 5. **The Ancient Mystery**: Old secrets beginning to surface
-
 
 ## Sensory Details
 
@@ -137,26 +74,12 @@ Ongoing situations affecting Archive of Echoes:
 
 **Atmosphere**: The overall feeling is one of comfortable routine.
 
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
-
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 
 ## DM Notes
 

@@ -27,13 +27,29 @@ updated: '2025-08-12T23:37:35.835834'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-colossus-xmm-colossus-xmm.svg)
 
 # [[colossus-xmm|Colossus]]
 *Source: Monster Manual (2024) p. 76*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Colossus
 
@@ -61,9 +77,7 @@ Most colossi were created in ages past and now lie dormant in secluded wildernes
 "stats":
   - !!int "30"
   - !!int "11"
-  - !!int "30"
   - !!int "3"
-  - !!int "11"
   - !!int "8"
 "speed": "60 ft."
 "saves":
@@ -72,7 +86,7 @@ Most colossi were created in ages past and now lie dormant in secluded wildernes
 "damage_resistances": "necrotic, radiant"
 "damage_immunities": "poison, psychic"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
   \ [[conditions#Stunned|stunned]], [[conditions#Unconscious|unconscious]]"
 "senses": "truesight 300 ft., passive Perception 10"
@@ -96,7 +110,7 @@ Most colossi were created in ages past and now lie dormant in secluded wildernes
       \ itself."
     "name": "Slam"
   - "desc": "Ranged Attack Roll: +18, range 300 ft. Hit: 22 (4d10) Radiant damage.\
-      \ If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
+      \ If the target is a Large or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Radiant Ray"
   - "desc": "Dexterity Saving Throw: DC 26, each creature in a 300-foot-long, 10-foot-wide\
@@ -131,19 +145,20 @@ Colossus xmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of colossus xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around colossus xmm.
 
-## Adventure Hooks
-
-- A rumor ties colossus xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at colossus xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to colossus xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals the truth about this place
+- An heirloom has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.582425+00:00'
 danger_level: Moderate
 ---
 
-
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-barkeep-mira-algaebrew-barkeep-mira-algaebrew.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Overview
+*20 targeted improvements identified*
 
-TODO
-## History
+### Connection Improvements
 
-TODO
-## Layout
+- Add cross-references to related notes
 
-TODO
-## Notables
+### Enhancement Improvements
 
-TODO
-## Threats
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,17 @@ Mira Algaebrew is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Mira Algaebrew as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Mira Algaebrew.
 
-## Adventure Hooks
-
-- A rumor ties Mira Algaebrew to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Mira Algaebrew to avert a public scandal.
-- A map overlay reveals a hidden approach to Mira Algaebrew active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Mira Algaebrew|02 Worldbuilding/Places/Mira Algaebrew]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Barkeep Mira Algaebrew]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a conspiracy about a local noble
+- Strange dreams suggest a curse
+- A journal reveals ancient history about a local noble

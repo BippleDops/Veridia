@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:35.278688+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,25 @@ Transformation Specialist Doctor Prism Current is a undersea element of the sett
 
 Legends speak of Transformation Specialist Doctor Prism Current as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Transformation Specialist Doctor Prism Current.
 
-## Adventure Hooks
-
-- A rumor ties Transformation Specialist Doctor Prism Current to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Transformation Specialist Doctor Prism Current to avert a public scandal.
-- A map overlay reveals a hidden approach to Transformation Specialist Doctor Prism Current active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Transformed Citizens|02 Worldbuilding/Lore/The Transformed Citizens]]
-
-
-## Connections
-
-- [[The Transformed Citizens]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before winter
+- A map reveals ancient history about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

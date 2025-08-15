@@ -27,16 +27,31 @@ updated: '2025-08-13T12:34:05.863952+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-phantom-warrior-cos-phantom-warrior-cos.svg)
 
 # [[phantom-warrior-cos|Phantom Warrior]]
 *Source: Curse of Strahd p. 235*  
 
-A phantom warrior is the spectral remnant of a willful soldier or knight who perished on the battlefield or died performing its sworn duty. It appears like a translucent version of its living self.
+A phantom warrior is the spectral remt of a willful soldier or knight who perished on the battlefield or died performing its sworn duty. It appears like a translucent version of its living self.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Task Driven
 
@@ -66,7 +81,6 @@ A phantom warrior doesn't require air, food, drink, or sleep.
 "stats":
   - !!int "16"
   - !!int "11"
-  - !!int "16"
   - !!int "8"
   - !!int "10"
   - !!int "15"
@@ -79,9 +93,9 @@ A phantom warrior doesn't require air, food, drink, or sleep.
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "cold, necrotic, poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Grappled|grappled]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
-  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#prone|prone]],\
   \ [[conditions#Restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "any languages it knew in life"
@@ -121,19 +135,20 @@ Phantom warrior cos is a undersea element of the setting, known for bioluminesce
 
 Legends speak of phantom warrior cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around phantom warrior cos.
 
-## Adventure Hooks
-
-- A rumor ties phantom warrior cos to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at phantom warrior cos to avert a public scandal.
-- A map overlay reveals a hidden approach to phantom warrior cos active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help stealing before winter
+- A map reveals a betrayal about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

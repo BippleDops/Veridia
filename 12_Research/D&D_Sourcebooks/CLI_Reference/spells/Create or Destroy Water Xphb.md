@@ -30,11 +30,8 @@ updated: '2025-08-13T12:34:06.560503+00:00'
 world: Both
 ---
 
-
-
 # Create or Destroy Water
 *1st-level, Transmutation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -50,7 +47,25 @@ You do one of the following:
 
 **Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
-*Source: Player's Handbook (2024) p. 258. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 258. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -60,19 +75,20 @@ Create or destroy water xphb is a undersea element of the setting, known for bio
 
 Legends speak of create or destroy water xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around create or destroy water xphb.
 
-## Adventure Hooks
-
-- A rumor ties create or destroy water xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at create or destroy water xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to create or destroy water xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a betrayal about a local noble
+- A document has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

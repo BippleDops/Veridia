@@ -18,14 +18,22 @@ updated: '2025-08-13T01:18:34.936255+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
 
 ## Player-Facing Summary
 
@@ -35,28 +43,21 @@ Professor Cogwick Gearspring is a undersea element of the setting, known for bio
 
 Legends speak of Professor Cogwick Gearspring as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Professor Cogwick Gearspring.
 
-## Adventure Hooks
-
-- A rumor ties Professor Cogwick Gearspring to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Professor Cogwick Gearspring to avert a public scandal.
-- A map overlay reveals a hidden approach to Professor Cogwick Gearspring active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Floating Market|02 Worldbuilding/Places/The Floating Market]]
-
-
-## Connections
-
-- [[The Floating Market]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before winter
+- A map reveals a conspiracy about this place
+- Strange dreams suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

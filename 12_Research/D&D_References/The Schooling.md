@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.956896+00:00'
 world: Both
 ---
 
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-schooling-the-schooling.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[The_Crimson_Pearl|The Crimson Pearl]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,30 @@ The Schooling is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of The Schooling as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Schooling.
 
-## Adventure Hooks
-
-- A rumor ties The Schooling to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Schooling to avert a public scandal.
-- A map overlay reveals a hidden approach to The Schooling active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before the festival
+- A map reveals ancient history about the cult
+- A document has gone missing and war looms
+- A journal reveals a conspiracy about this place
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

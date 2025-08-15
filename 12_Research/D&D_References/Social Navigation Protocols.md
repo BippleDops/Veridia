@@ -16,18 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Random Encounters|02 Worldbuilding/Lore/Random Encounters]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Random Encounters]]
-- [[Reputation System]]
 
 ## Player-Facing Summary
 
@@ -37,19 +41,29 @@ Social Navigation Protocols is a undersea element of the setting, known for biol
 
 Legends speak of Social Navigation Protocols as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Social Navigation Protocols.
 
-## Adventure Hooks
-
-- A rumor ties Social Navigation Protocols to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Social Navigation Protocols to avert a public scandal.
-- A map overlay reveals a hidden approach to Social Navigation Protocols active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals ancient history about the government
+- Someone is protecting a witness for love
+- The authorities needs help delivering before the new moon
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

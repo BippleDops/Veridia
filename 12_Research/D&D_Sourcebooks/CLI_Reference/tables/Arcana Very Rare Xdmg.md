@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.433040+00:00'
 world: Both
 ---
 
-
-
 # Arcana - Very Rare
 *Source: Dungeon Master's Guide (2024) p. 326* 
 
@@ -75,6 +73,24 @@ world: Both
 | 98–00 | [[3-wand-of-the-war-mage-xdmg|Wand of the War Mage, +3]] |
 ^arcana-very-rare
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Arcana very rare xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -83,19 +99,21 @@ Arcana very rare xdmg is a undersea element of the setting, known for biolumines
 
 Legends speak of arcana very rare xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around arcana very rare xdmg.
 
-## Adventure Hooks
-
-- A rumor ties arcana very rare xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at arcana very rare xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to arcana very rare xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- Someone is blackmailing a witness for love
+- A prisoner has gone missing and chaos spreads

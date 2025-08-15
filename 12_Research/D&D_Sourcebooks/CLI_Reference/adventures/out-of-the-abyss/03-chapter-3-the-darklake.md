@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.647422'
 world: Both
 ---
 
-
 # Chapter 3: The Darklake
 *Source: Out of the Abyss, p. 39* 
 
@@ -32,6 +31,24 @@ Long ago, duergar engineers extended and widened many of the interconnecting pas
 The adventurers can use the Darklake to reach many destinations in the Underdark. More importantly, water travel makes it difficult for their drow pursuers to track them. The kuo-toa town of Sloobludop is located on the eastern edge of the Darklake, and is a potential source of watercraft and navigational aid. But as they seek out these resources, the characters learn of terrible powers loose in the Underdark—worse than the drow, the kuo-toa, or any other threat of this dark realm.
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/022-ooa03-01.webp#center)
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Traversing the Darklake
 
@@ -68,13 +85,9 @@ Travelers can mix and match modes of travel, and a sizable party might need mult
 > [!note] The Darklake: General Features
 > 
 > The following features commonly apply to the Darklake region.
-> 
 > **Darkness.** True to its name, most of the Darklake exists in pitch blackness. The only light available is whatever the characters are able to provide.
-> 
 > **Caves and Tunnels.** The Darklake is a giant labyrinth of lakes, waterways, and canals that connect myriad caverns and chambers. Some of these caverns are massive, with immeasurably deep water and vaulted ceilings far outside the range of any light. Others are narrow, with only a few feet of space between the ceiling and the surface of the water. Some are completely submerged, navigable only by those able to breathe underwater.
-> 
 > **Navigation.** Without the sky or the stars to navigate by, any successful passage of the Darklake relies on one's familiarity with its intricate network of caverns, passages, and currents. Experienced navigators know how to find and read ancient duergar runes carved along the Darklake's tunnels, though most of these "road signs" are nearly worn away by the passage of time. Such knowledge is something that takes years, if not decades, of wandering the Darklake to acquire.Those without the skill to navigate the Darklake (including the adventurers) must employ maps or guides. If the characters manage to acquire a map, they can make Wisdom ([[skills#Survival|Survival]]) checks normally to avoid becoming lost.
-> 
 > **Foraging.** The characters can forage for food while traversing the Darklake, primarily by fishing and gathering edible fungi (see "Fungi of the Underdark" in chapter 2). Much of the water of the Darklake is unsafe to drink, making it important to seek out springs and other clean sources of water feeding into it.
 ^the-darklake-general-features
 
@@ -206,7 +219,7 @@ Roll a `d20` and consult the Duergar Keelboat Cargo table to determine what, if 
 
 #### Green Hag
 
-Nanny Plunk is a [[green-hag-xmm|green hag]] who likes to taunt and lead travelers astray. She might instead bargain with the characters with her knowledge of the Darklake, especially if her life or freedom is at stake. If this encounter occurs again, it might be with Nanny or one of her sisters, Maven Delve or Dame Spiderwort.
+ny Plunk is a [[green-hag-xmm|green hag]] who likes to taunt and lead travelers astray. She might instead bargain with the characters with her knowledge of the Darklake, especially if her life or freedom is at stake. If this encounter occurs again, it might be with ny or one of her sisters, Maven Delve or Dame Spiderwort.
 
 #### Grell
 
@@ -224,15 +237,10 @@ Roll a `d20` and consult the Kuo-toa Keelboat Cargo table to determine what, if 
 
 #### Kuo-toa Keelboat Cargo
 
-`dice: [](03-chapter-3-the-darklake.md#^cargo)`
-
-| dice: d20 | Cargo |
-|-----------|-------|
 | 1–15 | None |
 | 16–17 | `d4` nets; each net has a 50 percent chance of containing `3d6` dead, edible quippers |
 | 18–19 | `d4` nets; each net has a 50 percent chance of containing `d4` living stirges |
 | 20 | `d4` pieces of broken, barnacle-encrusted statuary, each worth 50 gp; each weighing `1d4 × 5` pounds; and each depicting a weird alien creature, a long-forgotten god, or fragment thereof. |
-^cargo
 
 #### Merrow
 
@@ -268,7 +276,6 @@ Roll a `d6` and consult the Weird Discoveries table to determine what the [[wate
 ## Sloobludop
 
 > [!note] 
-> 
 > - **Population**: 500 kuo-toa  
 > - **Government**: The archpriest Ploopploopeen once ruled in the name of the Sea Mother, the goddess Blibdoolpoolp. He was recently challenged and displaced by his daughter Bloppblippodd, archpriest of Leemooggoogoon the Deep Father.  
 > - **Defense**: All kuo-toa rally to the village's defense, including whips and monitors serving the priesthood.  
@@ -281,13 +288,9 @@ Sloobludop is a kuo-toa village on the eastern edge of the Darklake. From a dist
 Sloobludop simmers with religious fervor and sectarian tension. While many of the kuo-toa still worship the goddess Blibdoolpoolp, a faction has shifted its worship to Leemooggoogoon the Deep Father, a vision influenced by the manifestation of the demon prince Demogorgon from the depths of the Darklake. Initially, the archpriest of Blibdoolpoolp tolerated this—but then his own daughter declared herself an archpriest of Leemooggoogoon, and the cult began to grow.
 
 > [!note] Sloobludop: General Features
-> 
 > Sloobludop spreads out along the rocky shore of the waters of a broad cavern lake, with high fences of woven netting to the north and south of the village boundaries.
-> 
 > **Light.** Sloobludop's cavern is almost entirely dark except for a few spots of dim light from phosphorescent fungus and coral, or from glowing cave-fish glands. The kuo-toa recoil from areas of bright illumination, becoming hostile if bright light is brought among them.
-> 
 > **Bridges and Platforms.** Bridges and platforms are haphazardly strung throughout the city, connecting various levels of structures with each other as well as crisscrossing open spaces. Characters can move at a normal pace across the platforms and bridges, but this puts strain on their poor construction. Whenever one or more characters move at normal speed across a bridge or platform, roll a `d6`. On a roll of 1, a bridge flips or breaks to drop characters to the platform below, or a platform tilts to tip the characters into the water. These areas can be navigated safely by treating them as difficult terrain.
-> 
 > **Language.** None of the inhabitants of Sloobludop speak Common or any surface-world language, which might present a challenge for the characters. The fish-folk speak Undercommon, and [[/03_Mechanics/CLI/bestiary/npc/stool-oota|Stool]] the myconid sprout can establish communication using its rapport spores if it is present. Shuushar the kuo-toa monk can also translate if he accompanies the party.
 ^sloobludop-general-features
 
@@ -315,13 +318,9 @@ A number of important kuo-toa have the ability to influence the adventurers' fat
 | **Klibdoloogut ("Klib"**) | Kuo-toa whip and keeper of the altar of the Deep Father |
 
 > [!note] Roleplaying the Kuo-Toa
-> 
 > Though the kuo-toa are mad, at least some of that madness comes from an utterly alien mind-set. Although amphibious air dwellers, the kuo-toa still largely behave as aquatic creatures. Thus, much of what they do on land is a bizarre approximation of life under the water.
-> 
 > Kuo-toa names are a long series of gargling syllables, and their voices have a bubbly, gargling quality. However, the kuo-toa communicate as much through gesture as speech. They have difficulty standing still, and are prone to quick, darting movements. They pace constantly, walking in circles around creatures talking to them. A kuo-toa priest speaking to a group of followers doesn't stand at a podium but wanders aimlessly while the crowd follows like a school of fish.
-> 
 > Kuo-toa prefer their leaders to be physically above their subordinates. (If no dais or platform is available for leaders, they have been known to literally stand on top of prostrate underlings.) However, leaders tend to dwell on the lowest levels of buildings because these are considered the safest areas in a settlement, due to their proximity to the water.
-> 
 > Since the kuo-toa are fishlike, they lack eyelids. This isn't only unnerving in conversation (a kuo-toa never blinks), but it also means that kuo-toa all look the same sleeping as awake—and virtually all kuo-toa sleepwalk, making things even more confusing. There is a 25 percent chance that any individual kuo-toa the party encounters in Sloobludop is sleepwalking, ignoring everyone around it and moving in a shuffling gait from place to place.
 ^roleplaying-the-kuo-toa
 
@@ -338,7 +337,6 @@ When the adventurers come within an hour's travel of Sloobludop, they encounter 
 On the way to Sloobludop after the previous encounter, the characters run into another kuo-toa patrol, this one made up of six [[kuo-toa-xmm|kuo-toa]] and two [[kuo-toa-monitor-xmm|kuo-toa monitors]], led by the [[kuo-toa-archpriest-xmm|kuo-toa archpriest]] Ploopploopeen. If the characters are prisoners of the first kuo-toa patrol, the newcomers ambush them and fight to free the characters. Otherwise (or after the fight), Ploopploopeen attempts to communicate in Undercommon, then casts [[tongues-xphb|tongues]] if none of the characters speak it. Read the following:
 
 > [!readaloud] 
-> 
 > "I am Ploopploopeen, archpriest of the Sea Mother Blibdoolpoolp. She answers my prayers by delivering you. Help us, and you will be rewarded for your service."
 ^11f
 
@@ -357,11 +355,8 @@ If the characters refuse, Ploopploopeen tries to turn them over anyway, still us
 No matter whether the characters approach the final encounter as willing participants or prisoners, the kuo-toa make no effort to bind them or take their weapons, believing in the power of their superior numbers and the divine might of their competing gods.
 
 > [!note] A Kuo-Toan Koan
-> 
 > The kuo-toa are aquatic creatures. As such, they have no real need for the boats they use to ply the Darklake, even as boating remains a significant part of their culture.
-> 
 > It might well be that the kuo-toa's former masters—the mind flayers—used them as ferry pilots and navigators in the Underdark, and the fish-folk continue to do so out of habit or some deep-seated need. Certainly, their relative usefulness to the other races of the Underdark has served the kuo-toa well. Only the duergar have shown any interest in navigating the waters of the Darklake on their own, and not even they do it as well as the kuo-toa.
-> 
 > There is a persistent myth among the inhabitants of Sloobludop that the maze of tunnels, passages, and pools of the Darklake is a kind of meditation—a spiritual journey. Kuo-toa who navigate that maze long enough will awaken to a great revelation for their people. As with many of the strange beliefs of the kuo-toa, this one might only need time to become a reality.
 ^a-kuo-toan-koan
 
@@ -389,8 +384,6 @@ If the characters met or spoke with the archpriest of the Deep Father before com
 
 When the characters arrive here, on their own or escorted, read the following to the players:
 
-> [!readaloud] 
-> 
 > A nine-foot-tall statue stands here. Its body is roughly carved from some kind of wood in the shape of a humanoid female, its head and forearms formed from the severed head and claws of a giant albino crayfish. These parts are lashed on with strands of gut, and emit an overpowering stench of rotting shellfish. Shells, brightly colored stones, mushrooms, and rotting fish are piled at the statue's feet and strung in garlands around its neck. Four stern kuo-toa slowly circle the statue, alert and on guard, while a few others mill about, gazing up at the statue and bowing repeatedly while chanting.
 ^125
 
@@ -408,8 +401,6 @@ The home of the archpriest contains a closet full of "offerings" taken from less
 
 When the characters visit the altar of the Deep Father, read the following to the players:
 
-> [!readaloud] 
-> 
 > The idol to Leemooggoogoon the Deep Father consists of a large hide cut roughly in the shape of a manta ray and stretched out on cords between two support poles. A dead, splayed-out manta ray is pinned to the center of the hide. Two dead octopuses are draped across the top, their tentacles pinned and artfully arrayed, their heads tied together and painted with red and blue pigments. The idol reeks of decay, and the broad stone altar below the idol is stained dark with blood.
 ^128
 
@@ -429,8 +420,6 @@ If allowed to do so, Ploopploopeen brings the characters to his quarters near th
 
 Within the hour, twelve [[kuo-toa-xmm|kuo-toa]] led by a [[kuo-toa-monitor-xmm|kuo-toa monitor]] arrive at Ploopploopeen's quarters. The archpriest of the Sea Mother admits the monitor and informs him that he, his whip, and the prisoners will accompany them to see the archpriest of the Deep Father. They are escorted to the altar of the Deep Father near the docks, where Bloppblippodd awaits them. Describe the scene to the players as given in that area, then read the following boxed text; if none of the characters speak Undercommon, the exchange is gibberish to them, though Shuushar can translate.
 
-> [!readaloud] 
-> 
 > The archpriest of the Sea Mother steps forward across the span of the altar toward the kuo-toa waiting for him there. "The time has come," he says, "for us to acknowledge your divine vision and welcome it. I have brought these as offerings." He gestures toward all of you, standing within a circle of guards behind him. "Will you not accept them?" "You are wise, father," the younger archpriest replies. "I accept your offering in the name of the Deep Father. May their blood nourish and strengthen him!" A burbling cheer goes up from the surrounding kuo-toa, their fists raised in the air.
 ^12b
 
@@ -454,8 +443,6 @@ Dozens of [[ixitxachitl-oota|ixitxachitl]] (see appendix C) are responsible for 
 
 Although Bloppblippodd falls, the ritual still achieves a terrible success. Read the following:
 
-> [!readaloud] 
-> 
 > Another sound rises above the burbling cries of the kuo-toa. The dark surface of the water farther out bubbles and begins to foam. A thick, oily tentacle bursts forth, followed by another. Then two monstrous heads break the surface, both resembling hideous, angry baboons with wickedly curved tusks. Both heads are attached to a single torso, and the monster's red eyes burn with bloodlust and madness. The creature rising from the Darklake must stand thirty feet tall or more, with water cascading down its back and shoulders. Upon reaching its full height, the great demon throws back both its heads and roars!
 ^12e
 
@@ -493,19 +480,25 @@ In addition to the XP awards earned for the creatures the party overcomes in thi
 
 Legends speak of 03 chapter 3 the darklake as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 03 chapter 3 the darklake.
 
-## Adventure Hooks
-
-- A rumor ties 03 chapter 3 the darklake to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 03 chapter 3 the darklake to avert a public scandal.
-- A map overlay reveals a hidden approach to 03 chapter 3 the darklake active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals the truth about the cult
+- Strange dreams suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

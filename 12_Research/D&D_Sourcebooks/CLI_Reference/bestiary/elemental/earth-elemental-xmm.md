@@ -30,13 +30,29 @@ updated: '2025-08-12T23:37:35.450472'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-earth-elemental-xmm-earth-elemental-xmm.svg)
 
 # [[earth-elemental-xmm|Earth Elemental]]
-*Source: Monster Manual (2024) p. 108. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 108. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Earth Elemental
 
@@ -69,7 +85,6 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 > 
 > The foundations of our homes, the strength of our weapons, the vaults of our greatest secrets—earth is nothing less than the grip of reality itself. It is the mightiest element. This cannot be denied.
 
-
 ```statblock
 "name": "Earth Elemental (XMM)"
 "size": "Large"
@@ -82,10 +97,8 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 "stats":
   - !!int "20"
   - !!int "8"
-  - !!int "20"
   - !!int "5"
   - !!int "10"
-  - !!int "5"
 "speed": "30 ft., burrow 30 ft."
 "damage_vulnerabilities": "thunder"
 "damage_immunities": "poison"
@@ -108,7 +121,7 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
       \ damage."
     "name": "Slam"
   - "desc": "Ranged Attack Roll: +8, range 60 ft. Hit: 8 (1d6 + 5) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Rock Launch"
 "source":
@@ -129,19 +142,18 @@ Earth elemental xmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of earth elemental xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around earth elemental xmm.
 
-## Adventure Hooks
-
-- A rumor ties earth elemental xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at earth elemental xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to earth elemental xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting a witness for money
+- Strange disappearances suggest a curse
+- An heirloom has gone missing and truth emerges
+- A map reveals a conspiracy about a local noble

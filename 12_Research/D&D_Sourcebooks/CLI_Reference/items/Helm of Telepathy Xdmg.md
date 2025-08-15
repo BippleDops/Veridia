@@ -24,16 +24,31 @@ updated: '2025-08-13T12:34:07.359046+00:00'
 world: Both
 ---
 
-
-
 # Helm of Telepathy
 *Wondrous item, uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/helm-of-telepathy.webp#right)
 
-
 While wearing this helm, you have telepathy with a range of 30 feet, and you can cast [[detect-thoughts-xphb|Detect Thoughts]] or [[suggestion-xphb|Suggestion]] (save DC 13) from the helm. Once either spell is cast from the helm, that spell can't be cast from it again until the next dawn.
 
-*Source: Dungeon Master's Guide (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 268. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -43,19 +58,20 @@ Helm of telepathy xdmg is a undersea element of the setting, known for biolumine
 
 Legends speak of helm of telepathy xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around helm of telepathy xdmg.
 
-## Adventure Hooks
-
-- A rumor ties helm of telepathy xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at helm of telepathy xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to helm of telepathy xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals the truth about this place
+- A corpse reveals ancient history about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

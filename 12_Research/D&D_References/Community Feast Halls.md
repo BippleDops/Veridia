@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:35.631718+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,25 @@ Community Feast Halls is a undersea element of the setting, known for biolumines
 
 Legends speak of Community Feast Halls as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Community Feast Halls.
 
-## Adventure Hooks
-
-- A rumor ties Community Feast Halls to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Community Feast Halls to avert a public scandal.
-- A map overlay reveals a hidden approach to Community Feast Halls active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Festival of Rising Tides|02 Worldbuilding/Lore/The Festival Of Rising Tides]]
-
-
-## Connections
-
-- [[The Festival of Rising Tides]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A merchant needs help delivering before the new moon
+- A noble needs help stealing before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

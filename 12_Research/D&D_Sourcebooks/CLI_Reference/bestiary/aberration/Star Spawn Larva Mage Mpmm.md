@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.600412+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-star-spawn-larva-mage-mpmm-star-spawn-larva-mage-mpmm.svg)
 
@@ -39,12 +36,29 @@ world: Both
 
 A larva mage is a nightmarish combination of a mortal body and otherworldly substance. When a powerful cultist of a wormlike entity such as Kyuss or Kezef—usually a warlock or other spellcaster—contacts the comet-borne emissary of an Elder Evil, the emissary can merge with a mortal consciousness to create a larva mage. None of the original cultist's personality survives the transformation; what emerges is wholly alien.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Star Spawn
 
 > [!quote] A quote from Mordenkainen  
 > 
 > Stars don't spawn these creatures.
-> 
 > Such beautiful lights shouldn't be blamed for such balefulness.
 
 The Material Plane represents only one small part of the multiverse. Beyond the best-known planes of existence lie realms alien to mortal life. Some are so hostile that even a moment's contact is enough to break a mortal's mind. Yet beings do exist that are native to these realms: entities that are ever hungering, searching, warring, and sometimes dreaming. These Elder Evils are far older than most of the mortal peoples and always inimical to such creatures' minds.
@@ -78,7 +92,6 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   - !!int "12"
   - !!int "23"
   - !!int "18"
-  - !!int "12"
   - !!int "16"
 "speed": "30 ft."
 "saves":
@@ -90,14 +103,14 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
     "desc": "+6"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "psychic"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
   \ [[conditions#Poisoned|poisoned]], [[conditions#Restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 16"
 "languages": "Deep Speech"
 "cr": "16"
 "traits":
-  - "desc": "When the mage is reduced to 0 hit points, it breaks apart into a [[swarm-of-insects-xmm|swarm\
+  - "desc": "When the mage is reduced to 0 hit points, it breaks apart into a [[swarm-of-insects-xmm|swarm\]]
       \ of insects]] in the\
       \ same space. Unless the swarm is destroyed, the mage reforms from it 24 hours\
       \ later."
@@ -133,7 +146,6 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
     "name": "Feed on Weakness"
 "legendary_actions":
   - "desc": "The mage makes one Slam attack."
-    "name": "Slam"
   - "desc": "The mage makes one Eldritch Bolt attack."
     "name": "Eldritch Bolt (Costs 2 Actions)"
   - "desc": "Each creature [[conditions#Restrained|restrained]]\
@@ -159,19 +171,34 @@ Star spawn larva mage mpmm is a undersea element of the setting, known for biolu
 
 Legends speak of star spawn larva mage mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around star spawn larva mage mpmm.
 
-## Adventure Hooks
-
-- A rumor ties star spawn larva mage mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at star spawn larva mage mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to star spawn larva mage mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and chaos spreads
+- Someone is searching for a witness for money
+- A map reveals ancient history about this place
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

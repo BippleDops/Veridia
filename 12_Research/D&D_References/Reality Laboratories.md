@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:35.084997+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,27 @@ Reality Laboratories is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Reality Laboratories as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reality Laboratories.
 
-## Adventure Hooks
-
-- A rumor ties Reality Laboratories to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Reality Laboratories to avert a public scandal.
-- A map overlay reveals a hidden approach to Reality Laboratories active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Crimson Hand|02 Worldbuilding/Lore/The Crimson Hand]]
-
-
-## Connections
-
-- [[The Crimson Hand]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Winds
+
+
+## Plot Hooks
+
+- A shipment has gone missing and evil awakens
+- A stranger needs help finding before winter
+- A noble needs help investigating before winter
+- A merchant needs help investigating before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

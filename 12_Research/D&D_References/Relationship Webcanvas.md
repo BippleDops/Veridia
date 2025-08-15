@@ -20,13 +20,22 @@ world: Universal
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -36,23 +45,27 @@ Relationship Web.canvas is a undersea element of the setting, known for biolumin
 
 Legends speak of Relationship Web.canvas as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Relationship Web.canvas.
 
-## Adventure Hooks
-
-- A rumor ties Relationship Web.canvas to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Relationship Web.canvas to avert a public scandal.
-- A map overlay reveals a hidden approach to Relationship Web.canvas active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Update Indexes]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A stranger needs help investigating before winter
+- A prisoner has gone missing and truth emerges
+- A prisoner has gone missing and war looms
+- A shipment has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

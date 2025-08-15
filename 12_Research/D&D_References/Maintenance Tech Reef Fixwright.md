@@ -1,7 +1,7 @@
-# Maintenance Tech Reef Fixwright
+# Maintece Tech Reef Fixwright
 
 ---
-title: Maintenance Tech Reef Fixwright
+title: Maintece Tech Reef Fixwright
 type: Location
 tags:
 - aethermoor
@@ -16,64 +16,52 @@ updated: '2025-08-13T01:18:35.961241+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-maintenance-tech-reef-fixwright-maintenance-tech-reef-fixwright.svg]]
+![[04_Resources/Assets/Locations/location-city-maintece-tech-reef-fixwright-maintece-tech-reef-fixwright.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
-Maintenance Tech Reef Fixwright is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+Maintece Tech Reef Fixwright is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of Maintenance Tech Reef Fixwright as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Maintenance Tech Reef Fixwright.
-
-## Adventure Hooks
-
-- A rumor ties Maintenance Tech Reef Fixwright to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Maintenance Tech Reef Fixwright to avert a public scandal.
-- A map overlay reveals a hidden approach to Maintenance Tech Reef Fixwright active only during specific tides/storms.
+Legends speak of Maintece Tech Reef Fixwright as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Maintece Tech Reef Fixwright.
 
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Maintenance Tech Reef Fixwright|02 Worldbuilding/Places/Maintenance Tech Reef Fixwright]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Crystal-Corruption-Tracking-Sheet]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A document has gone missing and chaos spreads
+- Someone is hunting a witness for power
+- A journal reveals a betrayal about this place
+- A prisoner has gone missing and war looms

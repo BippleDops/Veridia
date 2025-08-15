@@ -15,10 +15,7 @@ updated: '2025-08-12T23:37:34.873365'
 world: Both
 ---
 
-
-
 te
-tags:
 - ttrpg-cli/compendium/src/5e/phb
 aliases:
 - Introduction
@@ -34,28 +31,18 @@ The Dungeons & Dragons roleplaying game is about storytelling in worlds of sword
 > [!readaloud] 
 > 
 > **Dungeon Master (DM):** After passing through the craggy peaks, the road takes a sudden turn to the east and Castle Ravenloft towers before you. Crumbling towers of stone keep a silent watch over the approach. They look like abandoned guardhouses. Beyond these, a wide chasm gapes, disappearing into the deep fog below. A lowered drawbridge spans the chasm, leading to an arched entrance to the castle courtyard. The chains of the drawbridge creak in the wind, their rust-eaten iron straining with the weight. From atop the high strong walls, stone gargoyles stare at you from hollow sockets and grin hideously. A rotting wooden portcullis, green with growth, hangs in the entry tunnel. Beyond this, the main doors of Castle Ravenloft stand open, a rich warm light spilling into the courtyard.
-> 
 > **Phillip (playing Gareth):** I want to look at the gargoyles. I have a feeling they're not just statues.
-> 
 > **Amy (playing Riva):** The drawbridge looks precarious? I want to see how sturdy it is. Do I think we can cross it, or is it going to collapse under our weight?
 ^001
 
 Unlike a game of make-believe, D&D gives structure to the stories, a way of determining the consequences of the adventurers' action. Players roll dice to resolve whether their attacks hit or miss or whether their adventurers can scale a cliff, roll away from the strike of a magical lightning bolt, or pull off some other dangerous task. Anything is possible, but the dice make some outcomes more probable than others.
 
-> [!readaloud] 
-> 
 > **Dungeon Master (DM):** OK, one at a time. Phillip, you're looking at the gargoyles?
-> 
 > **Phillip:** Yeah. Is there any hint they might be creatures and not decorations?
-> 
 > **DM:** Make an Intelligence check.
-> 
 > **Phillip:** Does my Investigation skill apply?
-> 
 > **DM:** Sure!
-> 
 > **Phillip (rolling a d20):** Ugh. Seven.
-> 
 > **DM:** They look like decorations to you. And Amy, Riva is checking out the drawbridge?
 ^002
 
@@ -70,6 +57,24 @@ The DM creates adventures for the characters, who navigate its hazards and decid
 The game has no real end; when one story or quest wraps up, another one can begin, creating an ongoing story called a campaign. Many people who play the game keep their campaigns going for months or years, meeting with their friends every week or so to pick up the story where they left off. The adventurers grow in might as the campaign continues. Each monster defeated, each adventure completed, and each treasure recovered not only adds to the continuing story, but also earns the adventurers new capabilities. This increase in power is reflected by an adventurer's level.
 
 There's no winning and losing in the Dungeons & Dragons game—at least, not the way those terms are usually understood. Together, the DM and the players create an exciting story of bold adventurers who confront deadly perils. Sometimes an adventurer might come to a grisly end, torn apart by ferocious monsters or done in by a nefarious villain. Even so, the other adventurers can search for powerful magic to revive their fallen comrade, or the player might choose to create a new character to carry on. The group might fail to complete an adventure successfully, but if everyone had a good time and created a memorable story, they all win.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Worlds of Adventure
 
@@ -205,19 +210,18 @@ Magic is also a favored tool of villains. Many adventures are driven by the mach
 
 Legends speak of 01 introduction as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 01 introduction.
 
-## Adventure Hooks
-
-- A rumor ties 01 introduction to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 01 introduction to avert a public scandal.
-- A map overlay reveals a hidden approach to 01 introduction active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting a witness for power
+- The authorities needs help investigating before dawn
+- An heirloom has gone missing and war looms
+- The authorities needs help investigating before dawn

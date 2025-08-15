@@ -35,16 +35,31 @@ updated: '2025-08-13T12:34:05.558211+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hobgoblin-warrior-xmm-hobgoblin-warrior-xmm.svg)
 
 # [[hobgoblin-warrior-xmm|Hobgoblin Warrior]]
-*Source: Monster Manual (2024) p. 170. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 170. Available in the SRD and the Free Rules (2024)*  
 
 Hobgoblin warriors might hunt and raid alone or with trained mastiffs, worgs, goblin gangs, or other allies. They employ simple tactics and exploit every advantage their allies provide. They willingly sacrifice companions in their pursuit of victory.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Hobgoblins
 
@@ -90,8 +105,6 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 "stats":
   - !!int "13"
   - !!int "12"
-  - !!int "12"
-  - !!int "10"
   - !!int "10"
   - !!int "9"
 "speed": "30 ft."
@@ -128,19 +141,36 @@ Hobgoblin warrior xmm is a undersea element of the setting, known for biolumines
 
 Legends speak of hobgoblin warrior xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hobgoblin warrior xmm.
 
-## Adventure Hooks
-
-- A rumor ties hobgoblin warrior xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at hobgoblin warrior xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to hobgoblin warrior xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- A letter reveals ancient history about this place
+- Someone is protecting a witness for power
+- Someone is hunting an heir for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

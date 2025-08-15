@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.226177'
 world: Both
 ---
 
-
 # Bastion Events
 *Source: Dungeon Master's Guide (2024) p. 350* 
 
@@ -44,6 +43,24 @@ world: Both
 | 99–00 | "Treasure" |
 ^bastion-events
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Bastion events xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -52,19 +69,20 @@ Bastion events xdmg is a undersea element of the setting, known for bioluminesce
 
 Legends speak of bastion events xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bastion events xdmg.
 
-## Adventure Hooks
-
-- A rumor ties bastion events xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at bastion events xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to bastion events xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

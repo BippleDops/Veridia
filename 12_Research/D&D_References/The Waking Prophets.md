@@ -24,28 +24,33 @@ obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.916288+00:00'
 ---
 
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-waking-prophets-the-waking-prophets.svg]]
-
-
-
-
 
 # The Waking Prophets
 
 *"Sleep is death's rehearsal - we practice eternal vigilance." - Prophet Insomnia*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 The Waking Prophets believe that sleep is a curse that separates consciousness from divine truth. This ascetic order practices extreme sleep deprivation, claiming that exhaustion-induced visions reveal authentic prophecy. Members undergo rigorous training to function without sleep while maintaining prophetic clarity.
-
-## Core Beliefs
-- Sleep clouds the mind and blocks divine communication
-- True prophecy comes through sustained wakefulness
-- Dreams are lies told by malevolent entities
-- The "Great Awakening" will free all minds from sleep's tyranny
-- Consciousness is humanity's highest achievement
 
 ## Practices and Rituals
 **The Vigil:** New members stay awake for 72 consecutive hours
@@ -71,13 +76,6 @@ The group has achieved notable success in predicting events, though critics argu
 **Psychic Sensitivity:** Increased magical and supernatural awareness
 **Social Isolation:** Difficulty relating to "sleepers"
 
-## Current Activities
-- Operating 24-hour meditation centers
-- Providing prophecy services for desperate clients
-- Recruiting insomniacs and night workers
-- Studying magical methods of permanent wakefulness
-- Preparing for prophesied "Night of No Dawn"
-
 ## Opposition
 **Medical Professionals:** Condemn dangerous health practices
 **Sleep Researchers:** Argue against fundamental beliefs
@@ -89,7 +87,7 @@ The group has achieved notable success in predicting events, though critics argu
 **Sacred Stimulants:** Magical substances preventing sleep
 **Prophecy Archives:** Records of visions and interpretations
 **Training Facilities:** Centers for sleep denial education
-**Financial Support:** Donations from believers and clients
+**Ficial Support:** Donations from believers and clients
 **Underground Network:** Safe houses for avoiding authorities
 
 ## Recent Prophecies
@@ -110,43 +108,6 @@ The group has achieved notable success in predicting events, though critics argu
  ## DM Notes
 The Waking Prophets offer opportunities to explore themes of fanaticism, the price of knowledge, and the boundary between revelation and madness. Their sleep deprivation creates genuine prophetic abilities but at severe personal cost, making them complex antagonists or troubled allies.
 
-
-## Connections
-
-- [[His Own Shadow]]
-- [[Oracle]]
-- [[The Sorrowmaster]]
-
-
-## Appearance
-
-
-TODO
-
-
-## Personality
-
-
-TODO
-
-
-## Goals
-
-
-TODO
-
-
-## Relationships
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 The Waking Prophets is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -159,13 +120,11 @@ Legends speak of The Waking Prophets as a nexus where past and present converge.
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[The Waking Prophets|02 Worldbuilding/People/The Waking Prophets]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

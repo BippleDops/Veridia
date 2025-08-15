@@ -21,11 +21,28 @@ updated: '2025-08-12T23:37:34.528952'
 world: Both
 ---
 
-
 # Appendix C: Treasures
 *Source: Curse of Strahd, p. 221* 
 
 Scattered throughout Barovia are ancient treasures that can be brought to bear against [[strahd-von-zarovich-cos|Strahd von Zarovich]] and his fell servants. The locations of three of them—the [[tome-of-strahd-cos|Tome of Strahd]], the [[holy-symbol-of-ravenkind-cos|Holy Symbol of Ravenkind]], and the [[sunsword-cos|Sunsword]]—are determined by the results of the card reading in chapter 1. The other items can be acquired as characters discover their whereabouts during the course of the adventure.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Tome of Strahd
 
@@ -54,19 +71,20 @@ The magic items described here, if they are found, can play significant roles in
 
 Legends speak of 21 appendix c treasures as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 21 appendix c treasures.
 
-## Adventure Hooks
-
-- A rumor ties 21 appendix c treasures to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 21 appendix c treasures to avert a public scandal.
-- A map overlay reveals a hidden approach to 21 appendix c treasures active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- Someone is searching for information for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

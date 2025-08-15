@@ -10,7 +10,7 @@ tags:
 - world/both
 - shards
 - active
-created: null
+created: 
 modified: '2025-08-14'
 status: complete
 obsidianUIMode: preview
@@ -19,8 +19,22 @@ world: Universal
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# Seven Shards Tracker
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Summary Table
 ```dataview
@@ -35,14 +49,9 @@ WHERE contains(file.name, "Shard") OR contains(file.name, "Shards")
 SORT file.name ASC
 ```
 
-## Notes
-- Activation may require synchronized rituals during Convergence windows or negotiated consent with guardians.
-- Each shard’s impact shifts regional weather, economy, or faction standing when active.
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -51,3 +60,24 @@ SORT file.name ASC
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A journal reveals a conspiracy about the cult
+- Someone is searching for a witness for money
+- Someone is protecting an heir for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

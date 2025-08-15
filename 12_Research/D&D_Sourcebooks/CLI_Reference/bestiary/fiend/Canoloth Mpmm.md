@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:05.826101+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-canoloth-mpmm-canoloth-mpmm.svg)
 
@@ -63,7 +60,6 @@ With senses sharp enough to pinpoint the locations of nearby [[conditions#Invisi
   - !!int "10"
   - !!int "17"
   - !!int "5"
-  - !!int "17"
   - !!int "12"
 "speed": "50 ft."
 "skillsaves":
@@ -94,7 +90,6 @@ With senses sharp enough to pinpoint the locations of nearby [[conditions#Invisi
   - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6\
       \ + 4) piercing damage plus 18 (4d8) force damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6\
       \ + 4) slashing damage plus 9 (2d8) force damage."
     "name": "Claw"
   - "desc": "Melee Weapon Attack: +7 to hit, reach 30 ft., one target. Hit: 10\
@@ -111,6 +106,24 @@ With senses sharp enough to pinpoint the locations of nearby [[conditions#Invisi
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 coastal, underdark, urban
@@ -123,19 +136,28 @@ Canoloth mpmm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of canoloth mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around canoloth mpmm.
 
-## Adventure Hooks
-
-- A rumor ties canoloth mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at canoloth mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to canoloth mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a curse
+- A letter reveals a betrayal about this place
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

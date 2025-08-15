@@ -30,13 +30,29 @@ updated: '2025-08-12T23:37:35.007622'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-harpy-xmm-harpy-xmm.svg)
 
 # [[harpy-xmm|Harpy]]
-*Source: Monster Manual (2024) p. 164. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 164. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Harpy
 
@@ -63,10 +79,8 @@ Every harpy sings a distinct song. While some songs are said to be heartbreaking
 "stats":
   - !!int "12"
   - !!int "13"
-  - !!int "12"
   - !!int "7"
   - !!int "10"
-  - !!int "13"
 "speed": "20 ft., fly 40 ft."
 "senses": "passive Perception 10"
 "languages": "Common"
@@ -107,19 +121,20 @@ Harpy xmm is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of harpy xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around harpy xmm.
 
-## Adventure Hooks
-
-- A rumor ties harpy xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at harpy xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to harpy xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

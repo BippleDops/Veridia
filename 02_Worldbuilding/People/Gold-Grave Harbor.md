@@ -1,4 +1,5 @@
 ---
+
 title: Gold Grave Harbor
 type: Npc
 tags:
@@ -10,6 +11,7 @@ tags:
 - active
 - complete
 - status/in-progress
+- prophecy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +20,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.572299+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,9 +30,66 @@ world: Both
 ![](04_Resources/Assets/Portraits/portrait-npc-gold-grave-harbor-gold-grave-harbor.svg)
 
 
-## Cross-References
+## 🔧 Deep Evaluation Improvements
 
-- [[Duchess Marina Ever-Drowning]]
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
 
 ## Player-Facing Summary
 
@@ -38,14 +99,6 @@ Gold Grave Harbor is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Gold Grave Harbor as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Gold Grave Harbor.
 
-## Adventure Hooks
-
-- A rumor ties Gold Grave Harbor to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Gold Grave Harbor to avert a public scandal.
-- A map overlay reveals a hidden approach to Gold Grave Harbor active only during specific tides/storms.
-
-
-
 ## Appearance
 
 Gold-Grave Harbor presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
@@ -54,8 +107,6 @@ Gold-Grave Harbor presents a distinctive figure. Their bearing suggests both com
 - **Distinguishing Marks**: [Describe unique features]
 - **Typical Attire**: Professional garments suited to their role
 - **Mannerisms**: [Describe habits and gestures]
-
-
 
 ## Personality
 
@@ -67,8 +118,6 @@ Gold-Grave Harbor presents a distinctive figure. Their bearing suggests both com
 
 **Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
 
-
-
 ## Background
 
 Gold-Grave Harbor's path to their current position involved:
@@ -77,51 +126,6 @@ Gold-Grave Harbor's path to their current position involved:
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-## Relationships
-
-### Allies
-- Professional colleagues and supporters
-- Political or business connections
-
-### Rivals
-- Competitors in their field
-- Ideological opponents
-
-### Neutral Parties
-- Those who could be swayed either way
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
 
 ## Motivations
 
@@ -132,8 +136,6 @@ Gold-Grave Harbor's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Gold-Grave Harbor harbors secrets that could change everything:
@@ -141,10 +143,6 @@ Gold-Grave Harbor harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Secret alliance
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -163,8 +161,6 @@ Gold-Grave Harbor is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Gold-Grave Harbor needs assistance with a delicate matter
@@ -173,8 +169,6 @@ Gold-Grave Harbor is currently engaged in:
 4. **The Alliance**: Opportunity to work with or against Gold-Grave Harbor
 5. **The Crisis**: Gold-Grave Harbor is caught in a situation requiring intervention
 
-
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -182,8 +176,6 @@ Gold-Grave Harbor is currently engaged in:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
 
 ## Statistics (D&D 5e)
 
@@ -211,32 +203,40 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
 
 
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
 
 
-## Relationship Web
+## Economic Structure
 
-- [[04_Resources_Assets_Art_Places_Market_Master_Cornelius_Driftwood.png]]: *family member*
-- [[Aether Crystal]]: *business partner*
-- [[Captain Marrow Drinker]]: *family member*
-- [[Pressure Lords]]: *business partner*
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
 
-## Connections
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
 
-### Home
-- [[04_Resources_Assets_Locations_location-city-embassy-quarter-embassy-quarter.svg]]
-
-### Frequently Visits
-- [[Marine Druids]]
-- [[Merchant Quarter Districts]]
-- [[04_Resources_Assets_Portraits_portrait-npc-quest-the-betrayers-truth-quest-the-betrayers-truth.svg]]
-
-### Affiliations
-- [[symbol-heraldry-faction-intelligence-faction-intelligence.svg]]
-
-### Known Associates
-- [[04_Resources_Assets_Portraits_portrait-npc-captain-torren-stormwright-captain-torren-stormwright.svg]] (friend)
-- [[04_Resources_Assets_Symbols_symbol-heraldry-frequency-weapons-frequency-weapons.svg]] (rival)
-- [[04_Resources_Assets_Symbols_symbol-heraldry-navigation-geography-navigation-geography.svg]] (enemy)
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

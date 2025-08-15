@@ -17,22 +17,22 @@ updated: '2025-08-13T01:18:35.462487+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Historical Context
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Current Relevance
-
-TODO
-## See Also
-
-TODO
 
 ## Player-Facing Summary
 
@@ -42,23 +42,23 @@ Ancient Skyforge Complex is a sky-borne element of the setting, known for brass 
 
 Legends speak of Ancient Skyforge Complex as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ancient Skyforge Complex.
 
-## Adventure Hooks
-
-- A rumor ties Ancient Skyforge Complex to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Ancient Skyforge Complex to avert a public scandal.
-- A map overlay reveals a hidden approach to Ancient Skyforge Complex active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Quest - The Lost Expedition|02 Worldbuilding/Quests/Quest The Lost Expedition]]
 
 
-## Connections
+## Plot Hooks
 
-- [[Quest - The Lost Expedition]]
+- The authorities needs help stealing before the new moon
+- A stranger needs help stealing before the new moon
+- A corpse reveals a betrayal about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

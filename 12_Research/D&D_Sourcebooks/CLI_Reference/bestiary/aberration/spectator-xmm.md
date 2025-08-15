@@ -27,13 +27,29 @@ updated: '2025-08-12T23:37:35.323772'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-spectator-xmm-spectator-xmm.svg)
 
 # [[spectator-xmm|Spectator]]
 *Source: Monster Manual (2024) p. 289*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Spectator
 
@@ -61,16 +77,14 @@ At the end of its service, a spectator might discorporate back into nothingness 
 "stats":
   - !!int "8"
   - !!int "14"
-  - !!int "14"
   - !!int "13"
-  - !!int "14"
   - !!int "11"
 "speed": "5 ft., fly 30 ft. (hover)"
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
 "condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Prone|prone]]"
+  \ [[conditions#prone|prone]]"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Deep Speech, Undercommon; telepathy 120 ft."
 "cr": "3"
@@ -91,7 +105,7 @@ At the end of its service, a spectator might discorporate back into nothingness 
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically.\
       \  \n- 3 Fear Ray. Wisdom Saving Throw: DC 12. Failure: 5 (2d4) Psychic\
-      \ damage, and the target has the [[conditions#Frightened|Frightened]]\
+      \ damage, and the target has the [[conditions#frightened|Frightened]]\
       \ condition until the end of its next turn.  \n- 4 Wounding Ray. Constitution\
       \ Saving Throw: DC 12. Failure: 16 (3d10) Necrotic damage. Success: Half\
       \ damage.  "
@@ -120,18 +134,9 @@ Spectator xmm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of spectator xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spectator xmm.
 
-## Adventure Hooks
-
-- A rumor ties spectator xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at spectator xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to spectator xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

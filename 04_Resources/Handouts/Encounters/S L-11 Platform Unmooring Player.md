@@ -41,11 +41,9 @@ Possible outcomes
 - It drifts for a time
 - It’s lost
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

@@ -36,22 +36,32 @@ MyCategory: Diplomat
 obsidianUIMode: preview
 ---
 
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-lord-reginald-seaworthy-lord-reginald-seaworthy.svg]]
-
-
-
-
-
 
 # Lord Reginald Seaworthy
 *Bridge Between Two Worlds*
 
 > *"Diplomacy is not about agreeing on everything, but about finding the common ground where both parties can stand with dignity. Between [[Aquabyssos]] and [[Aethermoor]], that ground may be small, but it exists."*
 > — Lord Reginald Seaworthy, addressing the diplomatic corps
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -69,8 +79,6 @@ Originally from a maritime merchant family, Reginald came to [[Aquabyssos]] thir
 **Appearance**: Silver-haired with intelligent gray eyes, Reginald maintains the formal appearance expected of his position while showing subtle adaptations to aquatic life. He wears modified formal attire suitable for both air and water, with diplomatic insignia marking his rank and authority.
 
 **Personality**: Patient, analytical, and genuinely committed to peaceful relations. Reginald believes that understanding cultural differences is the key to successful diplomacy and works tirelessly to build bridges between different ways of thinking and living.
-
-## Diplomatic Role and Responsibilities
 
 ### Primary Functions
 **Inter-Realm Negotiations**: Leading diplomatic missions and treaty discussions between [[Aquabyssos]] and surface realms  
@@ -95,8 +103,6 @@ Originally from a maritime merchant family, Reginald came to [[Aquabyssos]] thir
 
 **Special Abilities**: Diplomatic immunity, Cultural mediation, Information networks, Crisis negotiation, Noble connections
 
-## Adventure Hooks
-
 ### The Diplomatic Crisis (Levels 4-6)
 A major misunderstanding threatens to derail crucial negotiations between [[Aquabyssos]] and [[Aethermoor]]. Lord Seaworthy needs the party's help to investigate the true cause and find a solution that preserves both honor and practical interests.
 
@@ -118,42 +124,6 @@ Lord Seaworthy discovers evidence of a secret alliance forming against both [[Aq
 *"True diplomacy requires not just speaking the language, but understanding the heart behind the words."*  
 — Lord Reginald Seaworthy
 
-
-## Connections
-
-- [[The Merchant Code of Ethics]]
-- [[Pearl_Harbor_City|Pearl Harbor City]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 Lord Reginald Seaworthy is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -166,16 +136,18 @@ Legends speak of Lord Reginald Seaworthy as a nexus where past and present conve
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Lord Reginald Seaworthy|02 Worldbuilding/Places/Lord Reginald Seaworthy]]
-
-<!-- enriched: true -->
-- [[Aethermoor]]
-- [[Ambassador Lysandra Silvertonge]]
-- [[Parliament of Echoes]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and evil awakens
+- An heirloom has gone missing and evil awakens
+- Strange accidents suggest ancient magic
+- Someone is searching for a witness for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

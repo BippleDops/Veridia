@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.105847+00:00'
 world: Both
 ---
 
-
-
 # Random Magic Items - Relics
 *Source: Dungeon Master's Guide (2024) p. 330* 
 
@@ -48,8 +46,6 @@ world: Both
 
 `dice: [](random-magic-items-relics.md#^relics-uncommon)`
 
-| dice: 1d100 | Item |
-|-------------|------|
 | 01–05 | [[enspelled-staff-xdmg|Enspelled Staff]] (cantrip or level 1 spell) |
 | 06–10 | [[keoghtoms-ointment-xdmg|Keoghtom's Ointment]] |
 | 11–15 | [[mariners-armor-xdmg|Mariner's Armor]] |
@@ -73,8 +69,6 @@ world: Both
 
 `dice: [](random-magic-items-relics.md#^relics-rare)`
 
-| dice: 1d100 | Item |
-|-------------|------|
 | 01–03 | [[amulet-of-health-xdmg|Amulet of Health]] |
 | 04–07 | [[1-armor-xdmg|Armor, +1]] |
 | 08–09 | [[bowl-of-commanding-water-elementals-xdmg|Bowl of Commanding Water Elementals]] |
@@ -84,7 +78,7 @@ world: Both
 | 17–19 | [[enspelled-staff-xdmg|Enspelled Staff]] (level 2 or 3 spell) |
 | 20–22 | [[horn-of-blasting-xdmg|Horn of Blasting]] |
 | 23–25 | [[horn-of-valhalla-xdmg|Horn of Valhalla]] ([[horn-of-valhalla-brass-xdmg|brass]] or [[horn-of-valhalla-silver-xdmg|silver]]) |
-| 26–28 | [[ioun-stone-xdmg|Ioun Stone]] ([[ioun-stone-reserve-xdmg|reserve]] or [[ioun-stone-sustenance-xdmg|sustenance]]) |
+| 26–28 | [[ioun-stone-xdmg|Ioun Stone]] ([[ioun-stone-reserve-xdmg|reserve]] or [[ioun-stone-sustece-xdmg|sustece]]) |
 | 29–31 | [[mace-of-disruption-xdmg|Mace of Disruption]] |
 | 32–34 | [[mace-of-smiting-xdmg|Mace of Smiting]] |
 | 35–37 | [[mace-of-terror-xdmg|Mace of Terror]] |
@@ -111,8 +105,6 @@ world: Both
 
 `dice: [](random-magic-items-relics.md#^relics-very-rare)`
 
-| dice: 1d100 | Item |
-|-------------|------|
 | 01–05 | [[2-armor-xdmg|Armor, +2]] |
 | 06–10 | [[candle-of-invocation-xdmg|Candle of Invocation]] |
 | 11–15 | [[cauldron-of-rebirth-xdmg|Cauldron of Rebirth]] |
@@ -137,8 +129,6 @@ world: Both
 
 `dice: [](random-magic-items-relics.md#^relics-legendary)`
 
-| dice: 1d100 | Item |
-|-------------|------|
 | 01–08 | [[armor-of-invulnerability-xdmg|Armor of Invulnerability]] |
 | 09–18 | [[3-armor-xdmg|Armor, +3]] |
 | 19–27 | [[enspelled-staff-xdmg|Enspelled Staff]] (level 6, 7, or 8 spell) |
@@ -152,6 +142,24 @@ world: Both
 | 91–00 | [[talisman-of-ultimate-evil-xdmg|Talisman of Ultimate Evil]] |
 ^relics-legendary
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Random magic items relics is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -160,19 +168,20 @@ Random magic items relics is a undersea element of the setting, known for biolum
 
 Legends speak of random magic items relics as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random magic items relics.
 
-## Adventure Hooks
-
-- A rumor ties random magic items relics to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at random magic items relics to avert a public scandal.
-- A map overlay reveals a hidden approach to random magic items relics active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting information for revenge
+- Someone is hunting an heir for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

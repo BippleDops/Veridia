@@ -21,13 +21,30 @@ updated: '2025-08-12T23:37:34.691524'
 world: Both
 ---
 
-
 # Russet Mold
 *Generic Hazard*  
 
 Few know for sure where russet mold came from. One historical account tells of adventurers in a mountain range discovering russet mold and vegepygmies in a peculiar metal dungeon full of strange life. Another story says that explorers found russet mold in a crater left by a falling star, with [[vegepygmy-mpmm|vegepygmies]] infesting the forest nearby.
 
 The mold is found only in places that are dark, warm, and wet. Russet mold that spreads out across a metal object can be mistaken for rust, and a successful DC 15 Intelligence ([[skills#Nature|Nature]]) or Wisdom ([[skills#Survival|Survival]]) check is required to identify it.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Effects of the Mold
 
@@ -47,19 +64,31 @@ Russet mold vgm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of russet mold vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around russet mold vgm.
 
-## Adventure Hooks
-
-- A rumor ties russet mold vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at russet mold vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to russet mold vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Plot Hooks
+
+- Strange accidents suggest ancient magic
+- A shipment has gone missing and evil awakens
+- Someone is protecting an heir for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

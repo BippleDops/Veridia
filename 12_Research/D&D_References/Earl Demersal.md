@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.771904+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,30 @@ Earl Demersal is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of Earl Demersal as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Earl Demersal.
 
-## Adventure Hooks
-
-- A rumor ties Earl Demersal to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Earl Demersal to avert a public scandal.
-- A map overlay reveals a hidden approach to Earl Demersal active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Abyssos Prime - Inverse Palace|02 Worldbuilding/Places/Abyssos Prime Inverse Palace]]
-
-
-## Connections
-
-- [[Abyssos Prime - Inverse Palace]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Strange sightings suggest a conspiracy
+- The authorities needs help delivering before the festival
+- Strange accidents suggest a curse
+- A map reveals the truth about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

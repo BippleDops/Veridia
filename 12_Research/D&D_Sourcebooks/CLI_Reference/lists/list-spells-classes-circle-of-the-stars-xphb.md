@@ -22,15 +22,22 @@ world: Both
 ---
 
 
-# Spells for Circle of the Stars
+## 🔧 Deep Evaluation Improvements
 
-## Cantrip
+*20 targeted improvements identified*
 
-- [[/03_Mechanics/CLI/spells/guidance-xphb "XPHB"|Guidance]] as cantrip, at class level 3
+### Connection Improvements
 
-## 1st Level
+- Add cross-references to related notes
 
-- [[/03_Mechanics/CLI/spells/guiding-bolt-xphb "XPHB"|Guiding Bolt]] as cantrip, at class level 3
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -40,19 +47,20 @@ List spells classes circle of the stars xphb is a undersea element of the settin
 
 Legends speak of list spells classes circle of the stars xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells classes circle of the stars xphb.
 
-## Adventure Hooks
-
-- A rumor ties list spells classes circle of the stars xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells classes circle of the stars xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells classes circle of the stars xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

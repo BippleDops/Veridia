@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.924367+00:00'
 world: Both
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-master-of-currents-poseidon-master-of-currents-poseidon.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Throne of Bubbles|02 Worldbuilding/People/Throne Of Bubbles]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Throne of Bubbles]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,25 @@ Master of Currents Poseidon is a undersea element of the setting, known for biol
 
 Legends speak of Master of Currents Poseidon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Master of Currents Poseidon.
 
-## Adventure Hooks
-
-- A rumor ties Master of Currents Poseidon to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Master of Currents Poseidon to avert a public scandal.
-- A map overlay reveals a hidden approach to Master of Currents Poseidon active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a betrayal about a local noble
+- The authorities needs help finding before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

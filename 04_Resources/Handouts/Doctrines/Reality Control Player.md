@@ -37,15 +37,9 @@ Crew tips
 Risks
 - If your song falters, the backlash is sharp
 
-## Cross-References
-
-- [[Doctrine Quick Reference]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

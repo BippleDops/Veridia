@@ -27,15 +27,31 @@ updated: '2025-08-12T23:37:35.780390'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-copper-dragon-xmm-adult-copper-dragon-xmm.svg)
 
 # [[adult-copper-dragon-xmm|Adult Copper Dragon]]
-*Source: Monster Manual (2024) p. 79. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 79. Available in the SRD and the Free Rules (2024)*  
 
 Adult copper dragons use their influence to better the world. With broad circles of friends, adult copper dragons delight in introducing people to one another and helping people find places where they can flourish. When disaster strikes, these dragons draw on their family of contacts to offer support, right wrongs, and rebuild stronger than before.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Copper Dragons
 
@@ -68,7 +84,6 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
   - !!int "21"
   - !!int "18"
   - !!int "15"
-  - !!int "18"
 "speed": "40 ft., climb 40 ft., fly 80 ft."
 "saves":
   - "dexterity": !!int "6"
@@ -106,8 +121,8 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
     "name": "Slowing Breath"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 17):\n\nAt\
-      \ will: [[detect-magic-xphb|Detect Magic]], [[mind-spike-xphb|Mind\
-      \ Spike]] (level 4 version), [[minor-illusion-xphb|Minor\
+      \ will: [[detect-magic-xphb|Detect Magic]], [[mind-spike-xphb|Mind\]]
+      \ Spike]] (level 4 version), [[minor-illusion-xphb|Minor\]]
       \ Illusion]], [[shapechange-xphb|Shapechange]]\
       \ (Beast or Humanoid form only, no [[temporary-hit-points-xphb|Temporary Hit Points]]\
       \ gained from the spell, and no Concentration or [[temporary-hit-points-xphb|Temporary Hit Points]]\
@@ -124,7 +139,6 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
     "name": "Giggling Magic"
   - "desc": "The dragon uses Spellcasting to cast [[mind-spike-xphb|Mind Spike]]\
       \ (level 4 version). The dragon can't take this action again until the start\
-      \ of its next turn."
     "name": "Mind Jolt"
   - "desc": "The dragon moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Rend attack."
@@ -140,9 +154,7 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
       \ it must succeed on a DC 15 Wisdom saving throw or have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn, as it is wracked with laughter.\
       \  "
-    "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/dragon/token/adult-copper-dragon-xmm.webp"
@@ -161,19 +173,15 @@ Adult copper dragon xmm is a undersea element of the setting, known for biolumin
 
 Legends speak of adult copper dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around adult copper dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties adult copper dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at adult copper dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to adult copper dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

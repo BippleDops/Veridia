@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:05.306215+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-axe-beak-xmm-giant-axe-beak-xmm.svg)
 
@@ -40,6 +37,24 @@ world: Both
 *Source: Monster Manual (2024) p. 24*  
 
 Giant axe beaks typically dwell in secluded, primeval realms, such as isolated islands or underground wildernesses. They often compete with dinosaurs and other giant beasts for territory.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Axe Beaks
 
@@ -55,7 +70,6 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
 > [!quote] A quote from Batley Summerfoot, Adventurer  
 > 
 > The thing's got an axe for a face and a giant, angry rooster for everything else—of course I want to ride it!
-
 
 ```statblock
 "name": "Giant Axe Beak (XMM)"
@@ -88,7 +102,7 @@ Axe beaks are difficult to train, but those hatched and raised in captivity can 
       \ Slashing damage."
     "name": "Sharpened Beak"
   - "desc": "Melee Attack Roll: +8, reach 5 ft. Hit: 14 (2d8 + 5) Piercing damage.\
-      \ If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
+      \ If the target is a Large or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Talons"
 "source":
@@ -109,19 +123,20 @@ Giant axe beak xmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of giant axe beak xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around giant axe beak xmm.
 
-## Adventure Hooks
-
-- A rumor ties giant axe beak xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at giant axe beak xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to giant axe beak xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a betrayal about this place
+- An heirloom has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

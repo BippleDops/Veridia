@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:05.392042+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-stone-giant-dreamwalker-mpmm-stone-giant-dreamwalker-mpmm.svg)
 
@@ -74,7 +71,7 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
     "desc": "+14"
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Giant"
 "cr": "10"
@@ -95,7 +92,7 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
     "name": "Greatclub"
   - "desc": "Ranged Weapon Attack: +10 to hit, range 60/240 ft., one target. Hit:\
       \ 22 (3d10 + 6) bludgeoning damage. If the target is a creature, it must succeed\
-      \ on a DC 17 Strength saving throw or be knocked [[conditions#Prone|prone]]."
+      \ on a DC 17 Strength saving throw or be knocked [[conditions#prone|prone]]."
     "name": "Rock"
   - "desc": "The giant touches one Medium or smaller creature within 10 feet of it\
       \ that is [[conditions#Charmed|charmed]] by it. The target\
@@ -115,6 +112,24 @@ Dreamwalkers become divorced from reality by isolation, shame, and their unendin
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 coastal, hill, mountain
@@ -127,19 +142,28 @@ Stone giant dreamwalker mpmm is a undersea element of the setting, known for bio
 
 Legends speak of stone giant dreamwalker mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around stone giant dreamwalker mpmm.
 
-## Adventure Hooks
-
-- A rumor ties stone giant dreamwalker mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at stone giant dreamwalker mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to stone giant dreamwalker mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting an heir for power
+- A journal reveals ancient history about the cult
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

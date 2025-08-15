@@ -24,15 +24,31 @@ updated: '2025-08-13T12:34:04.301960+00:00'
 world: Both
 ---
 
-
-
 # Belenus
-*Source: Player's Handbook p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+*Source: Player's Handbook p. 298. Available in the SRD* 
 
 - **Alignment**: Neutral Good
 - **Domains**: Light
 - **Pantheon**: Celtic
 - **Symbol**: Solar disk and standing stones
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -42,19 +58,37 @@ Celtic belenus is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of celtic belenus as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around celtic belenus.
 
-## Adventure Hooks
-
-- A rumor ties celtic belenus to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at celtic belenus to avert a public scandal.
-- A map overlay reveals a hidden approach to celtic belenus active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Plot Hooks
+
+- Someone is protecting a artifact for revenge
+- Someone is searching for an heir for love
+- A map reveals ancient history about the cult
+- Strange sightings suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

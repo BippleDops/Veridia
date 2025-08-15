@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.878634+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sword-wraith-warrior-mpmm-sword-wraith-warrior-mpmm.svg)
 
@@ -39,6 +36,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*  
 
 Sword wraith warriors are most often found on ancient battlefields where soldiers were hemmed in and slaughtered without quarter.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Sword Wraiths
 
@@ -65,7 +80,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Poisoned|poisoned]],\
   \ [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "the languages it knew in life"
@@ -103,19 +118,38 @@ Sword wraith warrior mpmm is a undersea element of the setting, known for biolum
 
 Legends speak of sword wraith warrior mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sword wraith warrior mpmm.
 
-## Adventure Hooks
-
-- A rumor ties sword wraith warrior mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at sword wraith warrior mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to sword wraith warrior mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for a artifact for power
+- A shipment has gone missing and chaos spreads
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

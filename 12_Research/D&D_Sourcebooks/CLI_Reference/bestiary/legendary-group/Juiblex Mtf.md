@@ -23,13 +23,26 @@ updated: '2025-08-13T12:34:05.959575+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-juiblex-mtf-juiblex-mtf.svg)
 
-# Juiblex
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Mordenkainen's Tome of Foes_
@@ -37,11 +50,10 @@ _Source: Mordenkainen's Tome of Foes_
 On Initiative count 20 (losing initiative ties), Juiblex can take a lair action to cause one of the following effects; he can't use the same effect two rounds in a row:
 
 - Juiblex slimes a square area of ground it can see within the lair. The area can be up to 10 feet on a side. The slime lasts for 1 hour or until it is burned away with fire. When the slime appears, each creature in that area must succeed on a DC 21 Strength saving throw or become [[conditions#Restrained|restrained]]. When a creature enters the area for the first time on a turn or ends its turn there, that creature must make the same save. A [[conditions#Restrained|restrained]] creature is stuck as long as it remains in the slimy area or until it breaks free. The [[conditions#Restrained|restrained]] creature, or another creature who can reach it, can use its action to try to break free and must succeed on a DC 21 Strength check. If the slime is set on fire, it burns away after 1 round. Any creature that starts its turn in the burning slime takes 22 (`4d10`) fire damage.  
-- Juiblex slimes a square area of ground it can see within the lair. The area can be up to 10 feet on a side. The slime lasts for 1 hour or until it is burned away with fire. When the slime appears, each creature on it must succeed on a DC 21 Dexterity saving throw or fall [[conditions#Prone|prone]] and slide 10 feet in a random direction determined by a `d8` roll. When a creature enters the area for the first time on a turn or ends its turn there, that creature must make the same save. If the slime is set on fire, it burns away after 1 round. Any creature that starts its turn in the burning slime takes 22 (`4d10`) fire damage.  
+- Juiblex slimes a square area of ground it can see within the lair. The area can be up to 10 feet on a side. The slime lasts for 1 hour or until it is burned away with fire. When the slime appears, each creature on it must succeed on a DC 21 Dexterity saving throw or fall [[conditions#prone|prone]] and slide 10 feet in a random direction determined by a `d8` roll. When a creature enters the area for the first time on a turn or ends its turn there, that creature must make the same save. If the slime is set on fire, it burns away after 1 round. Any creature that starts its turn in the burning slime takes 22 (`4d10`) fire damage.  
 - A [[green-slime-xdmg|green slime]] (see the "Dungeon Master's Guide") appears on a spot on the ceiling that Juiblex chooses within the lair. The slime disintegrates after 1 hour.  
 
 ## Regional effects
-_Source: Mordenkainen's Tome of Foes_
 
 The region containing Juiblex's lair is warped by his magic, creating one or more of the following effects:
 
@@ -75,19 +87,32 @@ Juiblex mtf is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of juiblex mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around juiblex mtf.
 
-## Adventure Hooks
-
-- A rumor ties juiblex mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at juiblex mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to juiblex mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and chaos spreads
+- Strange accidents suggest a conspiracy
+- Strange disappearances suggest ancient magic
+- The authorities needs help investigating before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -1,4 +1,5 @@
 ---
+
 title: Temporal Harvest
 type: Location
 tags:
@@ -29,6 +30,8 @@ danger_level: Moderate
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:16.572517+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -36,10 +39,74 @@ world: Aquabyssos
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-temporal-harvest-temporal-harvest.svg]]
 
-
 # Temporal Harvest
 
 *"Time is not a river flowing in one direction, but an ocean with currents and tides. Those who learn to harvest its bounty can reap possibilities that never were, or ensure that what must be, will be."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
 
 ## Overview
 
@@ -48,8 +115,6 @@ The Temporal Harvest refers to both a mysterious phenomenon and a theoretical ma
 This phenomenon has been observed sporadically throughout Aquabyssos's history, typically manifesting as areas where time flows differently, objects that age rapidly or slowly, and individuals who experience temporal displacement. Recent increases in these occurrences have caught the attention of scholars, mages, and city officials who are concerned about the implications for the stability of local space-time.
 
 The concept has evolved from isolated incidents into a subject of serious academic study, with researchers attempting to understand whether the Temporal Harvest represents a natural phenomenon, magical practice, or something far more dangerous.
-
-## Historical Manifestations
 
 ### The Chrono Gardens Incident (15 years ago)
 
@@ -62,8 +127,6 @@ A series of temporal disturbances swept through the merchant quarter, causing ra
 ### The Echo Market (3 years ago)
 
 A portion of the main marketplace became temporally unstable, creating "time echoes" where the same events repeated multiple times simultaneously. Shoppers could observe the same transaction occurring at different temporal rates in overlapping timestreams.
-
-## Theoretical Framework
 
 ### Academic Theories
 
@@ -88,31 +151,6 @@ If the Temporal Harvest can be controlled or predicted, potential applications i
 - **Healing**: Reversing injuries and diseases by manipulating personal timelines
 - **Communication**: Sending messages across different temporal rates
 - **Defense**: Creating temporal barriers that slow enemy actions
-
-## Observable Effects
-
-### Environmental Changes
-
-- Areas where vegetation grows at accelerated or decelerated rates
-- Water that flows at different speeds in seemingly identical conditions
-- Crystals that pulse with temporal energy, becoming brighter or dimmer based on time flow
-- Architecture that shows signs of rapid aging or temporal preservation
-
-### Biological Effects
-
-- Creatures experiencing altered aging rates within affected zones
-- Memory disorders where individuals remember events that haven't happened yet or forget recent experiences
-- Temporal vertigo - disorientation caused by exposure to multiple time rates simultaneously
-- Chronic temporal displacement syndrome in individuals repeatedly exposed to harvest effects
-
-### Magical Phenomena
-
-- Spells that last longer or shorter than expected
-- Magic items that recharge at unusual rates
-- Divination magic producing visions of multiple possible timelines simultaneously
-- Temporal magic becoming more powerful but less predictable in harvest zones
-
-## Current Research
 
 ### The Temporal Studies Consortium
 
@@ -141,29 +179,6 @@ Directed by **Archivist Vera Remembrance**, this initiative collects testimonies
 **The Paradox Prevention Initiative**
 Managed by **Logic-Keeper Marcus Causality**, this group works to prevent temporal paradoxes that could result from uncontrolled harvest activities.
 
-## Dangers and Risks
-
-### Individual Risks
-
-- **Temporal Displacement**: Being moved forward or backward in time
-- **Aging Acceleration**: Rapid aging that cannot be reversed
-- **Memory Fragmentation**: Losing coherent sense of personal timeline
-- **Causal Feedback**: Being caught in loops of cause and effect
-
-### Societal Risks
-
-- **Economic Disruption**: Trade and commerce affected by unpredictable time zones
-- **Legal Complications**: Determining responsibility for actions taken under temporal influence
-- **Social Fragmentation**: Communities divided by different temporal experiences
-- **Infrastructure Damage**: Buildings and systems failing due to temporal stress
-
-### Existential Risks
-
-- **Timeline Collapse**: Possibility that excessive harvesting could damage the fundamental structure of time
-- **Paradox Cascades**: Chain reactions of temporal contradictions that could unravel reality
-- **External Attention**: Temporal disturbances might attract hostile entities from other dimensions
-- **Irreversible Changes**: Modifications to the past that permanently alter the present
-
 ## Connection to Current Events
 
 Several factors suggest the Temporal Harvest may be connected to Aquabyssos's current political crisis:
@@ -172,44 +187,6 @@ Several factors suggest the Temporal Harvest may be connected to Aquabyssos's cu
 - Some faction leaders appear to age or remain youthful at unusual rates
 - Intelligence reports suggest research into temporal magic by unknown parties
 - Prophecies and divination magic have become increasingly unreliable, possibly due to temporal interference
-
-## Key Figures
-
-### Researchers and Experts
-
-- **Chronarch Vera Timeweaver**: Leading theorist on temporal cultivation
-- **The Temporal Council**: Anonymous group of practitioners who may actually be conducting harvest operations
-- **Oracle Flowing-Future**: Claims to receive visions from multiple possible timelines
-- **Engineer-Mage Tesla Clockwork**: Develops technological approaches to temporal study
-
-### Affected Individuals
-
-- **The Time-Lost Citizens**: Individuals permanently displaced from their original timelines
-- **Harvest Survivors**: Those who lived through major temporal events and retain unusual abilities
-- **The Chronic Displaced**: People who regularly experience temporal anomalies
-
-## Adventure Opportunities
-
-### Investigation Scenarios
-
-- Researching the cause of increasing temporal disturbances
-- Tracking down individuals who may be conducting illegal temporal experiments
-- Exploring areas where major harvest events occurred to gather evidence
-- Interviewing affected individuals to understand the phenomenon
-
-### Action Scenarios
-
-- Rescuing individuals trapped in temporal anomalies
-- Preventing temporal catastrophes that could affect the entire city
-- Confronting entities that may be causing or exploiting harvest events
-- Racing against time (literally) to prevent paradoxes or timeline collapses
-
-### Ethical Dilemmas
-
-- Deciding whether to use temporal powers that might have negative consequences
-- Balancing the benefits of temporal research against the risks to society
-- Determining responsibility for actions taken under temporal influence
-- Choosing between preserving the timeline or changing history to prevent disasters
 
 ## Adventure Hooks
 
@@ -221,26 +198,12 @@ Several factors suggest the Temporal Harvest may be connected to Aquabyssos's cu
 
 4. **The Chronicle Crisis**: The party discovers that their own actions in a previous adventure created a temporal disturbance, and they must decide whether to fix the timeline or accept the changes.
 
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
-
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
 
 ## DM Notes
 
@@ -251,11 +214,6 @@ Use the Temporal Harvest to:
 - Generate ongoing plot threads involving the consequences of temporal manipulation
 - Explore themes of causality, responsibility, and the nature of time itself
 
-
-## Connections
-
-- [[Old Valdris]]
-
 ## Player-Facing Summary
 
 Temporal Harvest is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -263,28 +221,6 @@ Temporal Harvest is a undersea element of the setting, known for bioluminescent 
 ## Lore Details
 
 Legends speak of Temporal Harvest as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Temporal Harvest.
-
-## Cross-References
-
-- [[Temporal Harvest]]
-
-<!-- enriched: true -->
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-pearl-sharpedge-v1-pearl-sharpedge.svg]]
-- [[Royal Advisor Wise Counselor]]
-- [[04_Resources_Assets_Locations_location-city-deep-pearls-v1-deep-pearls.svg]]
-
 
 ## Sensory Details
 
@@ -294,7 +230,6 @@ Legends speak of Temporal Harvest as a nexus where past and present converge. Lo
 
 **Smells**: The tang of salt air permeates everything
 
-
 ## Description
 
 Temporal Harvest is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -302,47 +237,10 @@ Temporal Harvest is a notable location characterized by its unique features and 
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Temporal Harvest
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
-
-## History
+**Goverce**: Local authority structure
 
 ### Founding
 Temporal Harvest was established in the distant past, growing from humble beginnings to its current state.
-
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
-
 
 ## Current Events
 
@@ -355,15 +253,51 @@ Ongoing situations affecting Temporal Harvest:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Temporal Harvest
+## Secret Connections
 
-### Whispered Rumors
-- Stories that may or may not be true
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+
+## Trade Importance
+
+Key stop on spices trade route
+
+
+## Plot Hooks
+
+- A map reveals a conspiracy about the cult
+- An heirloom has gone missing and evil awakens
+- A shipment has gone missing and chaos spreads
+- A corpse reveals a conspiracy about a local noble
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
+
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

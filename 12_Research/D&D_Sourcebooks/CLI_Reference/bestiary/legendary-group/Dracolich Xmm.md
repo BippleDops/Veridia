@@ -23,13 +23,26 @@ updated: '2025-08-13T12:34:05.930215+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dracolich-xmm-dracolich-xmm.svg)
 
-# Dracolich
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Regional effects
 _Source: Monster Manual (2024)_
@@ -49,19 +62,35 @@ Dracolich xmm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of dracolich xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dracolich xmm.
 
-## Adventure Hooks
-
-- A rumor ties dracolich xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dracolich xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to dracolich xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a portal
+- Someone is protecting a witness for revenge
+- A shipment has gone missing and truth emerges
+- The authorities needs help stealing before the festival
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

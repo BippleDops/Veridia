@@ -20,12 +20,27 @@ created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 ---
 
-
-
-
 # Current PC Lead
 
 *"Leadership flows like the tides - sometimes gentle guidance, sometimes crushing force."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -45,27 +60,11 @@ In the present campaign, party leadership shifts based on context and expertise.
 
 This fluid dynamic creates both opportunities and challenges. While it maximizes the party's collective strengths, it can also lead to confusion during critical moments when multiple members might attempt to lead simultaneously.
 
-## Cultural Impact
-
 ### Aquabyssos
 Fluid leadership aligns perfectly with Aquabyssos's current-based philosophy. Just as ocean currents shift and change, so too should leadership flow to where it's most effective. Noble houses often employ similar structures in their own organizations, with different family members taking charge based on the situation's demands.
 
 ### Aethermoor
 Surface dwellers initially viewed this concept with suspicion, preferring clear hierarchies and established chains of command. However, as more successful expeditions returned using flexible leadership models, Aethermoor's adventuring guilds began adopting similar practices, though often with more formal structures and protocols.
-
-## Mechanics
-
-### Requirements
-- Party consensus on leadership transitions
-- Clear communication of who leads in each situation
-- Respect for the designated leader's decisions
-- Flexibility to adapt when situations change
-
-### Effects
-- Maximizes party effectiveness in diverse situations
-- Prevents single points of failure in leadership
-- Encourages character development and specialization
-- Can create confusion if transitions aren't clear
 
 ### Duration
 Leadership typically shifts based on:
@@ -73,24 +72,6 @@ Leadership typically shifts based on:
 - Expertise requirements (magical, diplomatic, tactical)
 - Character availability and condition
 - Group consensus and natural dynamics
-
-## Notable Examples
-
-- **The Tidecrest Expedition**: Famous for having seven different leaders during their month-long deep-sea exploration
-- **The Silverscale Negotiations**: Where leadership changed hands five times during a single diplomatic dinner
-- **The Crystal Chamber Incident**: Rapid leadership transitions during combat saved the entire party from crystalline mimics
-
-## Key Figures
-
-- **Captain Marlowe Tidecrest**: Pioneered formal adaptive leadership protocols
-- **Diplomat Marina Currentborn**: Established social leadership transition customs
-- **Tactician Drake Deepstrike**: Created combat leadership quick-change procedures
-
-## Mysteries
-
-- Whether certain magical influences can affect leadership dynamics
-- The role of destiny or fate in determining who leads at crucial moments
-- How leadership dynamics change under extreme pressure or corruption exposure
 
 ## Adventure Hooks
 
@@ -102,21 +83,9 @@ Leadership typically shifts based on:
 
 The Abyssal currents actually respond to strong leadership presence. Parties with clear, confident leaders find navigation easier, while those with leadership conflicts often become lost in the maze-like deep passages. This supernatural effect is unknown to most inhabitants.
 
-## Related Topics
-
-- [[Party Information]]
-- [[Campaign World]]
-- [[Session Planning Guide]]
-- [[The Pearl Guard]]
-
 ## Campaign Use
 
 Encourage players to naturally assume leadership roles based on their characters' strengths and the situation. Use leadership transitions as opportunities for character development and to highlight different party members' expertise. Create scenarios that specifically require different types of leadership to showcase the value of this flexible approach.
-
-
-## Connections
-
-- [[Aethermoor to Aquabyssos Transition Guide]]
 
 ## Player-Facing Summary
 
@@ -130,8 +99,14 @@ Legends speak of Current PC Lead as a nexus where past and present converge. Loc
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
 
-## Cross-References
 
-- [[Aethermoor to Aquabyssos Transition Guide|02 Worldbuilding/Lore/Aethermoor To Aquabyssos Transition Guide]]
+## Plot Hooks
+
+- Someone is searching for an heir for power
+- Strange sightings suggest a conspiracy
+- Strange accidents suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

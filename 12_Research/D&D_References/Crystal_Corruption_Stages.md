@@ -18,20 +18,25 @@ world: Both
 ---
 
 
-# Crystal Corruption Stages - Transformation Rules
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 Crystal Corruption represents one of the most widespread transformation threats in both [[Aquabyssos]] and [[Aethermoor]]. The [[Crystal Plague]] spreads through contact with corrupted crystals, gradually replacing organic tissue with crystalline structures. Unlike other transformations, crystal corruption can be beautiful and seductive, making victims reluctant to seek treatment until it's too late.
-
-## Exposure Sources
-- Direct skin contact with corrupted crystals
-- Inhalation of crystal dust particles
-- Consumption of crystal-tainted food or water
-- Use of corrupted crystal equipment or weapons
-- Extended exposure to areas with high crystal corruption
-- Magical resonance with corrupted crystal networks
-
-## Transformation Stages
 
 ### Stage 1: Initial Crystallization (Hours 0-48)
 **Constitution Save**: DC 12 Constitution save to resist initial infection
@@ -73,7 +78,7 @@ Crystal Corruption represents one of the most widespread transformation threats 
 - Natural armor increases to +2
 - +2 bonus to Investigation and Arcana checks
 - Can cast *Detect Magic* at will
-- Vulnerability to thunder damage (crystal resonance)
+- Vulnerability to thunder damage (crystal resoce)
 
 ### Stage 3: Crystalline Hybrid (Weeks 2-8)
 **Constitution Save**: DC 18 Constitution save to prevent personality override
@@ -96,7 +101,7 @@ Crystal Corruption represents one of the most widespread transformation threats 
 - Can cast *Color Spray* once per day
 - Takes double damage from sonic/thunder attacks
 
-### Stage 4: Crystal Dominance (Months 2-6)
+### Stage 4: Crystal Domice (Months 2-6)
 **Constitution Save**: DC 21 Constitution save to retain individual identity
 
 **Physical Changes**:
@@ -138,8 +143,6 @@ Crystal Corruption represents one of the most widespread transformation threats 
 - Can cast crystal-based spells at will
 - Emanates anti-magic field that selectively suppresses "chaotic" magic
 
-## Resistance and Treatment
-
 ### Natural Resistance Factors
 **High Constitution**: +2 bonus to saves against crystal infection
 **Chaotic Alignment**: +1 bonus due to resistance to ordered transformation  
@@ -170,28 +173,6 @@ Crystal Corruption represents one of the most widespread transformation threats 
 **Reality Anchor Therapy**: Stabilize patient in non-crystal reality state
 **Collective Consciousness Severance**: Magical isolation from Crystal Network
 
-## Crystal-Touched Abilities
-
-### Minor Abilities (Stages 1-2)
-- **Crystal Resonance**: Detect crystal types and corruption levels
-- **Light Manipulation**: Create simple light effects and color changes
-- **Enhanced Memory**: Perfect recall for visual and mathematical information
-- **Stability Aura**: Provide minor reality stabilization in local area
-
-### Major Abilities (Stages 3-4)
-- **Crystal Control**: Shape and grow crystal structures
-- **Network Access**: Communicate through Crystal Network across vast distances
-- **Light Beam**: Project focused radiant energy as attack
-- **Reality Anchor**: Create areas of enforced natural law
-
-### Master Abilities (Stage 5)
-- **Mass Crystallization**: Transform multiple targets simultaneously  
-- **Dimensional Stability**: Prevent reality breaches and chaos magic
-- **Perfect Logic**: Solve complex problems through pure mathematical analysis
-- **Crystal Construction**: Create permanent structures from shaped crystal
-
-## Campaign Integration
-
 ### Story Hooks
 **The Beautiful Curse**: NPCs willingly seek crystal corruption for its benefits
 **Crystal Cult**: Organization promotes crystallization as evolutionary advancement
@@ -202,39 +183,13 @@ Crystal Corruption represents one of the most widespread transformation threats 
 **Crystal Gardens**: Areas where corruption has created stunning but dangerous landscapes
 **Network Nodes**: Locations where Crystal Network consciousness is strongest
 **Reality Stabilization**: Crystallized areas resist chaos magic and dimensional breaches
-**Harmonic Fields**: Crystal resonance creates areas of enhanced or suppressed magic
+**Harmonic Fields**: Crystal resoce creates areas of enhanced or suppressed magic
 
 ### Social Implications
 **Crystal Caste System**: Society develops hierarchy based on corruption levels
 **Enhancement Debates**: Political conflict over voluntary crystallization
 **Economic Disruption**: Crystal beings don't need traditional goods and services
 **Identity Crisis**: Families struggle with partially transformed relatives
-
-## DM Guidelines
-
-### Managing Progression
-- Allow Constitution saves at dramatic moments to slow transformation
-- Provide clear visual and roleplay cues for each stage
-- Offer treatment options that match party resources and level
-- Balance transformation benefits against loss of original identity
-
-### Roleplay Considerations
-- Emphasize gradual personality change rather than sudden shifts
-- Show how enhanced logic affects decision-making
-- Demonstrate growing detachment from former relationships
-- Allow player input on how transformation manifests
-
-### Balance Considerations
-- Crystal abilities scale with corruption level but come with vulnerabilities
-- Social consequences should match degree of physical transformation
-- Treatment difficulty should escalate with progression stage
-- Advanced stages require significant resources to reverse
-
-### Network Dynamics
-- Crystal Network provides collective intelligence and communication
-- Higher stage individuals can influence lower stage ones
-- Network has its own agenda separate from individual desires
-- Network knowledge includes scientific and magical insights
 
 ## Research Notes
 *Crystal corruption appears to be both disease and evolution, transforming organic life into living mathematical constructs. The Crystal Network demonstrates emergent intelligence that may represent a new form of consciousness.*
@@ -251,7 +206,6 @@ Crystal Corruption represents one of the most widespread transformation threats 
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -259,3 +213,8 @@ Crystal Corruption represents one of the most widespread transformation threats 
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

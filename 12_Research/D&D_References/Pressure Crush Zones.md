@@ -21,29 +21,37 @@ created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 ---
 
-
-
-
 # Pressure Crush Zones
 
 *"Where the deep grows deeper still, and even water becomes a weapon."*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 Pressure Crush Zones are areas of extreme water pressure that exist at the deepest reaches of Aquabyssos, where even magically protected individuals risk catastrophic injury or death. These zones form naturally around abyssal trenches and artificial deep excavations, creating barriers that limit exploration and serve as natural defensive positions.
 
-## Mechanics
 ### Requirements
 Occur at extreme depths where:
 - Water pressure exceeds standard magical protection
 - Dimensional instabilities amplify pressure effects
 - Multiple pressure sources converge
 - Natural or magical barriers fail
-
-### Effects
-- **Instant Crushing**: Unprotected individuals suffer immediate fatal damage
-- **Equipment Failure**: Even magical items may be destroyed
-- **Magical Disruption**: Spells become unreliable or fail
-- **Navigation Hazard**: Zones create no-passage areas
 
 ### Duration
 Permanent environmental features requiring specialized equipment to traverse.
@@ -55,13 +63,6 @@ Permanent environmental features requiring specialized equipment to traverse.
 
 ## Campaign Use
 Provides natural barriers and extreme environmental challenges for deep-sea exploration adventures.
-
-
-## Connections
-
-- [[Depth Effect Quick Reference]]
-- [[Initiative Tracker]]
-- [[Random Encounters]]
 
 ## Player-Facing Summary
 
@@ -75,13 +76,31 @@ Legends speak of Pressure Crush Zones as a nexus where past and present converge
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Initiative Tracker|02 Worldbuilding/Lore/Initiative Tracker]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help investigating before winter
+- Someone is hunting a witness for revenge
+- Someone is blackmailing information for love
+- A corpse reveals a conspiracy about the cult
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

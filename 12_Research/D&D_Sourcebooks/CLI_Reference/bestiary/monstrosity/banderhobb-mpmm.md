@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:34.955154'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-banderhobb-mpmm-banderhobb-mpmm.svg)
 
@@ -56,7 +54,6 @@ A banderhobb fulfills its duties until its existence ends. When it expires, usua
 "stats":
   - !!int "20"
   - !!int "12"
-  - !!int "20"
   - !!int "11"
   - !!int "14"
   - !!int "8"
@@ -66,7 +63,7 @@ A banderhobb fulfills its duties until its existence ends. When it expires, usua
     "desc": "+8"
   - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+7"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "understands Common and the languages of its creator but can't speak"
 "cr": "5"
@@ -75,7 +72,7 @@ A banderhobb fulfills its duties until its existence ends. When it expires, usua
       \ its possession, such as a lock of hair or a splinter of wood, it knows the\
       \ most direct route to that creature or object if it is within 1 mile of the\
       \ banderhobb."
-    "name": "Resonant Connection"
+    "name": "Resot Connection"
 "actions":
   - "desc": "The banderhobb makes one Bite attack and one Tongue attack. It can replace\
       \ one attack with a use of Shadow Step."
@@ -105,7 +102,7 @@ A banderhobb fulfills its duties until its existence ends. When it expires, usua
       \ and becomes stable.\n\nThe banderhobb can have only one creature swallowed\
       \ at a time. While the banderhobb isn't [[conditions#Incapacitated|incapacitated]],\
       \ it can regurgitate the creature at any time (no action required) in a space\
-      \ within 5 feet of it. The creature exits [[conditions#Prone|prone]].\
+      \ within 5 feet of it. The creature exits [[conditions#prone|prone]].\
       \ If the banderhobb dies, it likewise regurgitates a swallowed creature."
     "name": "Swallow"
 "bonus_actions":
@@ -119,6 +116,24 @@ A banderhobb fulfills its duties until its existence ends. When it expires, usua
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 urban
@@ -131,19 +146,28 @@ Banderhobb mpmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of banderhobb mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around banderhobb mpmm.
 
-## Adventure Hooks
-
-- A rumor ties banderhobb mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at banderhobb mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to banderhobb mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

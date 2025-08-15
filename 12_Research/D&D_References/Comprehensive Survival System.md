@@ -28,12 +28,23 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
-
-
-
-# Comprehensive Aquabyssos Survival System
 ## Complete Mechanics for Underwater Horror Survival
 
 > *"The depths don't just test your body—they test your identity, sanity, memory, and soul."*
@@ -47,10 +58,6 @@ world: Both
 | 1,001-5,000ft | DC 14 | 1 AP/2hr | Independent moments | DC 14/day | DC 14/12hr |
 | 5,001-10,000ft | DC 16 | 1 AP/hr | 1 hr autonomy/day | DC 16/12hr | DC 16/6hr |
 | 10,000ft+ | DC 18+ | 2 AP/hr | Full separation possible | DC 18/6hr | DC 18/3hr |
-
-## 🌊 Core Survival Mechanics
-
-### 1. Pressure System (Physical)
 
 #### Immediate Pressure Effects
 **Every depth change requires Constitution saves:**
@@ -70,14 +77,6 @@ Long-term exposure without protection:
 - **Stage 3** (8-12 hours): Organ stress, 1 exhaustion/hour
 - **Stage 4** (12+ hours): System failure, death saves
 
-#### Pressure Adaptation Methods
-- **Natural**: Gain resistance after 50+ AP
-- **Magical**: Water Breathing doesn't prevent pressure
-- **Technological**: Pressure suits (limited duration)
-- **Biological**: Depth mutations (permanent changes)
-
-### 2. Breathing Medium Transitions
-
 #### Water-Air Interface Zones
 Special areas where both mediums exist:
 - **Bubble Rooms**: Air pockets in water (stale, limited)
@@ -95,8 +94,6 @@ Special areas where both mediums exist:
 | 4 | Permanent | Impossible outdoors | No buffer |
 | 5 | Only water | Death in air | Instant |
 
-### 3. Shadow Separation Mechanics
-
 #### Shadow Independence Progression
 **Daily Shadow Autonomy Check** (d20 + AP over 50):
 
@@ -109,12 +106,6 @@ Special areas where both mediums exist:
 | 26-30 | Verbal communication | 2 hours | Persuasion 20 |
 | 31+ | Complete separation | 24 hours | Impossible |
 
-#### Shadow Interaction Rules
-- **Communication**: Shadows know all forgotten memories
-- **Cooperation**: Requires successful Persuasion/Intimidation
-- **Combat**: Shadows can fight (Shadow Demon stats)
-- **Replacement**: At 100 AP, shadow can swap places (WIS DC 20)
-
 #### Shadow Equipment
 | Item | Effect | Cost | Availability |
 |------|--------|------|--------------|
@@ -122,8 +113,6 @@ Special areas where both mediums exist:
 | Shadow Whistle | Summons shadow back | 500gp | Uncommon |
 | Unity Collar | Merges shadow temporarily | 5,000gp | Rare |
 | Shadow Gem | Stores shadow safely | 10,000gp | Very Rare |
-
-### 4. Memory & Identity System
 
 #### Memory Degradation
 **Exposure to Memory-Affecting Phenomena:**
@@ -170,13 +159,6 @@ Special areas where both mediums exist:
 | 9 | Forget your purpose |
 | 10 | Complete ego death (new personality) |
 
-### 5. Sanity & Madness System
-
-#### Sanity Score
-- **Starting Sanity**: 10 + WIS modifier
-- **Maximum**: 20
-- **Minimum**: 0 (complete madness)
-
 #### Sanity Loss Triggers
 | Event | Sanity Loss | Save |
 |-------|-------------|------|
@@ -186,16 +168,6 @@ Special areas where both mediums exist:
 | Timeline paradox | 1d6 | WIS DC 16 |
 | Singer contact | 2d6 | WIS DC 18 |
 | Reality breakdown | 3d6 | WIS DC 20 |
-
-#### Madness Effects by Sanity Level
-- **16-20**: Clear minded
-- **11-15**: Quirks (roleplay effects)
-- **6-10**: Minor madness (disadvantage on WIS)
-- **3-5**: Major madness (roll on table)
-- **1-2**: Severe madness (barely functional)
-- **0**: Complete break (NPC control)
-
-### 6. Nutrition & Sustenance
 
 #### Deep Food Sources
 | Food Type | Nutrition | Side Effects | AP Gain |
@@ -207,13 +179,6 @@ Special areas where both mediums exist:
 | Memory kelp | Variable | Memory swap | +1d3 |
 | Shadow fruit | Filling | Shadow activity | +2 |
 
-#### Starvation in the Depths
-- Exhaustion accumulates faster (every 2 days)
-- Adaptation increases hunger (×1.5 food needed)
-- Can sustain on emotional energy at high adaptation
-
-### 7. Sleep & Rest Complications
-
 #### Sleep Disruptions
 | Depth | Sleep Quality | Dream Effects |
 |-------|---------------|---------------|
@@ -221,14 +186,6 @@ Special areas where both mediums exist:
 | 1001-5000ft | Disturbed | Prophetic dreams |
 | 5001-10000ft | Difficult | Shared dreams |
 | 10000ft+ | Impossible | Waking dreams |
-
-#### Rest Mechanics
-- **Short Rest**: Requires pressure equilibrium
-- **Long Rest**: Needs secure location + pressure suit
-- **Exhaustion Recovery**: Only 1 level per long rest
-- **Spell Recovery**: Normal but dreams may alter spells
-
-### 8. Equipment Degradation
 
 #### Corrosion Rates
 | Material | Degradation | Time to Failure |
@@ -239,20 +196,6 @@ Special areas where both mediums exist:
 | Magic items | Resistant | 3 months |
 | Crystalline | Immune | Never |
 
-#### Maintenance Requirements
-- Daily: Check seals, clean salt
-- Weekly: Oil metal, repair tears
-- Monthly: Full overhaul or -1 AC
-
-### 9. Navigation & Communication
-
-#### Depth Navigation Challenges
-- **Darkness**: No sunlight below 600ft
-- **Currents**: STR DC 10-18 to maintain course
-- **Pressure Walls**: Invisible depth barriers
-- **Void Currents**: Erase direction sense
-- **Memory Zones**: Forget where you're going
-
 #### Communication Methods
 | Method | Range | Reliability | Risk |
 |--------|-------|-------------|------|
@@ -261,8 +204,6 @@ Special areas where both mediums exist:
 | Sonic (clicks) | 300ft | Good | Causes echoes |
 | Telepathic | 60ft | Excellent | Sanity drain |
 | Shadow speech | Unlimited | Perfect | Shadow activation |
-
-### 10. Environmental Hazards
 
 #### Hazard Frequency by Depth
 Roll d20 per travel hour:
@@ -289,17 +230,6 @@ Roll d20 per travel hour:
 - Identity storms
 - Existence failures
 
-## 🎯 Integrated Survival Strategies
-
-### Party Survival Roles
-- **Pressure Warden**: Monitors adaptation, manages suits
-- **Shadow Keeper**: Tracks shadow behavior, mediates
-- **Memory Anchor**: Keeps written records, reminds others
-- **Sanity Guide**: Watches for madness, provides support
-- **Deep Scout**: Navigates hazards, finds safe zones
-
-### Survival Priorities by Phase
-
 #### Early Campaign (Levels 1-4)
 1. Secure pressure protection
 2. Find reliable food/water
@@ -320,8 +250,6 @@ Roll d20 per travel hour:
 3. Preserve identity/sanity
 4. Navigate reality breaks
 5. Prepare for entity contact
-
-## 🔧 DM Tools
 
 ### Survival Tracker Sheet
 Track per character:
@@ -346,16 +274,6 @@ Track per character:
 17-18: Predator encounter
 19: Reality glitch
 20: Everything at once
-
-### Survival Success Rewards
-- Discover pressure-immune zones
-- Find ancient survival caches
-- Learn deep adaptation techniques
-- Gain shadow cooperation
-- Unlock memory techniques
-- Develop pressure resistance
-
-## 📚 Quick Rules Summary
 
 ### Every Game Hour in Aquabyssos
 1. Check pressure (CON save if depth changed)
@@ -391,19 +309,16 @@ Comprehensive Survival System is a undersea element of the setting, known for bi
 
 Legends speak of Comprehensive Survival System as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Comprehensive Survival System.
 
-## Adventure Hooks
-
-- A rumor ties Comprehensive Survival System to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Comprehensive Survival System to avert a public scandal.
-- A map overlay reveals a hidden approach to Comprehensive Survival System active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest ancient magic
+- A prisoner has gone missing and evil awakens

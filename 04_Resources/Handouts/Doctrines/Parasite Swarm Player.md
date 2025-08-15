@@ -38,15 +38,9 @@ Crew tips
 Risks
 - The ship may want what the swarm wants
 
-## Cross-References
-
-- [[Doctrine Quick Reference]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

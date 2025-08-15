@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.045141+00:00'
 world: Both
 ---
 
-
-
 # Monsters by Habitat; Coastal Monsters
 *Source: Monster Manual (2024) p. 375* 
 
@@ -53,6 +51,24 @@ world: Both
 | 23 | [[ancient-blue-dragon-xmm|Ancient Blue Dragon]] |
 ^coastal-monsters
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Monsters by habitat coastal monsters xmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -61,19 +77,35 @@ Monsters by habitat coastal monsters xmm is a undersea element of the setting, k
 
 Legends speak of monsters by habitat coastal monsters xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monsters by habitat coastal monsters xmm.
 
-## Adventure Hooks
-
-- A rumor ties monsters by habitat coastal monsters xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at monsters by habitat coastal monsters xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to monsters by habitat coastal monsters xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and war looms
+- A stranger needs help finding before winter
+- Someone is protecting a artifact for power
+- Strange dreams suggest a curse
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

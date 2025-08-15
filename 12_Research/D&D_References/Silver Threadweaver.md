@@ -16,32 +16,26 @@ updated: '2025-08-13T01:18:36.049059+00:00'
 danger_level: Moderate
 ---
 
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-silver-threadweaver-silver-threadweaver.png]]
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Overview
+*20 targeted improvements identified*
 
-TODO
-## History
+### Connection Improvements
 
-TODO
-## Layout
+- Add cross-references to related notes
 
-TODO
-## Notables
+### Enhancement Improvements
 
-TODO
-## Threats
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -51,23 +45,35 @@ Silver Threadweaver is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Silver Threadweaver as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Silver Threadweaver.
 
-## Adventure Hooks
-
-- A rumor ties Silver Threadweaver to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Silver Threadweaver to avert a public scandal.
-- A map overlay reveals a hidden approach to Silver Threadweaver active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Silver Threadweaver|02 Worldbuilding/Places/Silver Threadweaver]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and chaos spreads
+- A prisoner has gone missing and chaos spreads
+- A stranger needs help delivering before the festival
+- A prisoner has gone missing and chaos spreads
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

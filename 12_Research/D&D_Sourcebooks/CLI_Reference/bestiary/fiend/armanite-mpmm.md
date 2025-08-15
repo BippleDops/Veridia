@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.471500'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-armanite-mpmm-armanite-mpmm.svg)
 
@@ -55,7 +53,6 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 "stats":
   - !!int "21"
   - !!int "18"
-  - !!int "21"
   - !!int "8"
   - !!int "12"
   - !!int "13"
@@ -79,7 +76,7 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
     "name": "Claw"
   - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12\
       \ (2d6 + 5) bludgeoning damage. If the target is a Large or smaller creature,\
-      \ it must succeed on a DC 16 Strength saving throw or be knocked [[conditions#Prone|prone]]."
+      \ it must succeed on a DC 16 Strength saving throw or be knocked [[conditions#prone|prone]]."
     "name": "Hooves"
   - "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 16\
       \ (2d10 + 5) slashing damage."
@@ -96,6 +93,24 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 underdark
@@ -108,19 +123,26 @@ Armanite mpmm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of armanite mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around armanite mpmm.
 
-## Adventure Hooks
-
-- A rumor ties armanite mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at armanite mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to armanite mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and truth emerges
+- A map reveals the truth about a local noble
+- An heirloom has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

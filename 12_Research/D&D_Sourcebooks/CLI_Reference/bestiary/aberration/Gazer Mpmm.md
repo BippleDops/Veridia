@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.597158+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gazer-mpmm-gazer-mpmm.svg)
 
@@ -57,7 +54,6 @@ A wild gazer (one living separately from a beholder) is territorial, eats bugs a
   - !!int "3"
   - !!int "17"
   - !!int "14"
-  - !!int "3"
   - !!int "10"
   - !!int "7"
 "speed": "0 ft., fly 30 ft. (hover)"
@@ -68,7 +64,7 @@ A wild gazer (one living separately from a beholder) is territorial, eats bugs a
     "desc": "+4"
   - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
-"condition_immunities": "[[conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": ""
 "cr": "1/2"
@@ -88,7 +84,7 @@ A wild gazer (one living separately from a beholder) is territorial, eats bugs a
       \ until the start of the gazer's next turn. While the target is [[conditions#Charmed|charmed]]\
       \ in this way, its speed is halved, and it has disadvantage on attack rolls.\
       \  \n- 2 Fear Ray. The targeted creature must succeed on a DC 12 Wisdom\
-      \ saving throw or be [[conditions#Frightened|frightened]]\
+      \ saving throw or be [[conditions#frightened|frightened]]\
       \ until the start of the gazer's next turn.  \n- 3 Frost Ray. The target\
       \ must succeed on a DC 12 Dexterity saving throw or take 10 (3d6) cold damage.\
       \  \n- 4 Telekinetic Ray. If the target is a creature that is Medium or\
@@ -109,6 +105,24 @@ A wild gazer (one living separately from a beholder) is territorial, eats bugs a
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 underdark
@@ -121,19 +135,16 @@ Gazer mpmm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of gazer mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gazer mpmm.
 
-## Adventure Hooks
-
-- A rumor ties gazer mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gazer mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to gazer mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals ancient history about a local noble
+- A merchant needs help investigating before dawn

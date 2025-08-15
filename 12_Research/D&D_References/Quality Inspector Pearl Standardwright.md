@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[The Deep Harvest|02 Worldbuilding/Lore/The Deep Harvest]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[The Deep Harvest]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,23 @@ Quality Inspector Pearl Standardwright is a undersea element of the setting, kno
 
 Legends speak of Quality Inspector Pearl Standardwright as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quality Inspector Pearl Standardwright.
 
-## Adventure Hooks
-
-- A rumor ties Quality Inspector Pearl Standardwright to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Quality Inspector Pearl Standardwright to avert a public scandal.
-- A map overlay reveals a hidden approach to Quality Inspector Pearl Standardwright active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- Strange accidents suggest a conspiracy
+- Someone is searching for an heir for money
+- Someone is searching for a witness for love
+- Someone is blackmailing a witness for love

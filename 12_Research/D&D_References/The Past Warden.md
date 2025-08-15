@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.423213+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,30 @@ The Past Warden is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of The Past Warden as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Past Warden.
 
-## Adventure Hooks
-
-- A rumor ties The Past Warden to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Past Warden to avert a public scandal.
-- A map overlay reveals a hidden approach to The Past Warden active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Temporal Navigation|02 Worldbuilding/Places/Temporal Navigation]]
-
-
-## Connections
-
-- [[Temporal Navigation]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

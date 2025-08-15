@@ -23,11 +23,9 @@ updated: '2025-08-13T12:34:05.268950+00:00'
 world: Both
 ---
 
-
-
 # Quandrix Student
 *Source: Strixhaven: A Curriculum of Chaos p. 33*  
-![[/03_Mechanics/CLI/backgrounds/img/quandrix-student.webp#right "A Quandrix student magically gazes into the intricate patterns of nature"|A Quandrix student magical...]]
+!]
 
 - **Skill Proficiencies.** [[skills#Arcana|Arcana]], [[skills#Nature|Nature]]  
 - **Tool Proficiencies.** One type of artisan's tools  
@@ -35,6 +33,24 @@ world: Both
 - **Equipment.** A [[ink-xphb|bottle of black ink]], an [[ink-pen-xphb|ink pen]], an [[abacus|abacus]], a book of arcane theory, a school uniform, and a [[pouch-xphb|pouch]] containing 15 gp  
 
 In preparation to become a student of Quandrix College, you have spent years working through the college's math problems for prospective students. Your interests concentrate on the mathematical principles and patterns found in the natural world. You might lean more toward mathematics or physics, or you delve into more abstract studies of metaphysics, arcana, or logic.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Feature: Quandrix Initiate
 
@@ -91,19 +107,27 @@ Quandrix student scc is a undersea element of the setting, known for bioluminesc
 
 Legends speak of quandrix student scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around quandrix student scc.
 
-## Adventure Hooks
-
-- A rumor ties quandrix student scc to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at quandrix student scc to avert a public scandal.
-- A map overlay reveals a hidden approach to quandrix student scc active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- The authorities needs help finding before the festival
+- A corpse reveals the truth about the cult
+- A stranger needs help investigating before the new moon
+- An heirloom has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

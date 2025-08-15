@@ -30,7 +30,6 @@ updated: '2025-08-12T23:37:35.814721'
 world: Both
 ---
 
-
 # [[ki-rin-mpmm|Ki-rin]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 162, Volo's Guide to Monsters p. 163*  
 
@@ -43,6 +42,24 @@ Beyond their coloration, ki-rins vary in appearance based on the deity each one 
 In many lands, common folk view ki-rins as heralds of good fortune. They consider seeing a ki-rin fly overhead a blessing and events that happen on such a day especially auspicious. If a ki-rin alights during a ceremony such as a birth announcement or a coronation, everyone present understands that the creature is telling them the person so honored could become a great force for good. Ki-rins have also been known to appear at the sites of great battles to inspire and strengthen the side of good or to rescue heroes from certain death.
 
 Ki-rins are attracted to the worship of deities of courage, loyalty, selflessness, and truth, as well as to the advancement of just societies. For instance, in the Forgotten Realms, ki-rins rally mostly to Torm, although they also serve his allies Tyr and Ilmater. Ki-rins that serve good deities go wherever they are commanded; a ki-rin from an Upper Plane might venture to the Material Plane on a mission, usually as a scout, a messenger, or a spy. A ki-rin living on the Material Plane claims a territory to watch over, and one ki-rin might safeguard an area that encompasses several nations.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair of Luxury
 
@@ -63,16 +80,13 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
 "stats":
   - !!int "21"
   - !!int "16"
-  - !!int "16"
   - !!int "19"
-  - !!int "20"
   - !!int "20"
 "speed": "60 ft., fly 120 ft. (hover)"
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+9"
   - "name": "[[skills#Insight|Insight]]"
-    "desc": "+9"
   - "name": "[[skills#Religion|Religion]]"
     "desc": "+8"
 "damage_immunities": "poison"
@@ -106,15 +120,15 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
       \n3/day each: [[cure-wounds-xphb|cure wounds]],\
       \ [[dispel-magic-xphb|dispel magic]], [[lesser-restoration-xphb|lesser restoration]],\
       \ [[sending-xphb|sending]]\n\n1/day each: [[banishment-xphb|banishment]],\
-      \ [[calm-emotions-xphb|calm emotions]], [[create-food-and-water-xphb|create food\
-      \ and water]], [[greater-restoration-xphb|greater\
-      \ restoration]], [[plane-shift-xphb|plane\
-      \ shift]], [[protection-from-evil-and-good-xphb|protection from evil\
+      \ [[calm-emotions-xphb|calm emotions]], [[create-food-and-water-xphb|create food\]]
+      \ and water]], [[greater-restoration-xphb|greater\]]
+      \ restoration]], [[plane-shift-xphb|plane\]]
+      \ shift]], [[protection-from-evil-and-good-xphb|protection from evil\]]
       \ and good]],\
       \ [[revivify-xphb|revivify]], [[wind-walk-xphb|wind walk]]"
     "name": "Spellcasting"
 "legendary_actions":
-  - "desc": "The ki-rin moves up to half its speed without provoking [[actions#Opportunity%20Attack|opportunity\
+  - "desc": "The ki-rin moves up to half its speed without provoking [[actions#Opportunity%20Attack|opportunity\]]
       \ attacks]]."
     "name": "Move"
   - "desc": "The ki-rin makes one Hoof, Horn, or Sacred Fire attack."
@@ -138,19 +152,25 @@ Ki rin mpmm is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of ki rin mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ki rin mpmm.
 
-## Adventure Hooks
-
-- A rumor ties ki rin mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ki rin mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ki rin mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

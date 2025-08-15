@@ -30,11 +30,8 @@ updated: '2025-08-13T12:34:06.330511+00:00'
 world: Both
 ---
 
-
-
 # Conjure Animals
 *3rd-level, Conjuration*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -51,7 +48,25 @@ Whenever the pack moves within 10 feet of a creature you can see and whenever a 
 
 **Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-ranger|Ranger]]; [[/03_Mechanics/CLI/lists/list-spells-classes-circle-of-the-moon-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Moon)]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
-*Source: Player's Handbook (2024) p. 254. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 254. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -61,19 +76,15 @@ Conjure animals xphb is a undersea element of the setting, known for bioluminesc
 
 Legends speak of conjure animals xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around conjure animals xphb.
 
-## Adventure Hooks
-
-- A rumor ties conjure animals xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at conjure animals xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to conjure animals xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes

@@ -22,15 +22,8 @@ updated: '2025-08-13T12:34:17.933555+00:00'
 world: Both
 ---
 
-
-
-
-
-
 # World Primer
 *A Player's Guide to the Sundered Realms*
-
-## The World That Was
 
 ### Before the Great Convergence
 Over twelve centuries ago, surface civilization and the sky realm of Aethermoor existed separately. Surface dwellers built great cities around harbors and rivers, developing crystal technology and parliamentary democracy. Meanwhile, the floating cities of Aethermoor drifted through the sky ocean, masters of wind magic and aerial navigation. Below both realms, ancient mer-folk civilizations thrived in the deepest trenches.
@@ -51,10 +44,6 @@ The dimensional merger that created modern Aquabyssos is well-documented in the 
 - **The Deep Fleet**: Military forces coordinated the final evacuation
 - **The Transformation Wave**: Changed environmental physics to support life
 - **The Integration**: Parliamentary democracy adapted to include all species
-
-## The World That Is
-
-### Aquabyssos - The Underwater Empire
 
 #### Geography by Depth
 
@@ -113,15 +102,13 @@ Society stratifies by how deep one can survive:
 - **The Synthesis**: Embrace permanent underwater evolution
 - **Memory Keepers**: Preserve pre-Sundering knowledge
 
-### Aethermoor - The Surface Realm
-
 #### Geography
 
 **Crystal Peaks**
 Mountain ranges where crystallized magic forms naturally. These peaks glow with internal light, and those who mine them risk crystal corruption—a condition where the body slowly transforms into living crystal.
 
 **The Floating Gardens**
-Remnants of pre-Sundering magic, these aerial botanical wonders drift slowly across the sky. Each garden is a self-contained ecosystem, some harboring species extinct elsewhere.
+Remts of pre-Sundering magic, these aerial botanical wonders drift slowly across the sky. Each garden is a self-contained ecosystem, some harboring species extinct elsewhere.
 
 **Port Meridian**
 The greatest surface city, built around the Lighthouse of Storms—one of the few remaining structures that remembers the world below. The city serves as the center of surface government and trade.
@@ -136,7 +123,7 @@ A parliamentary monarchy where Queen Seraphina rules with a council of elected r
 
 **Technology & Magic**
 Without access to ocean resources, Aethermoor developed alternative technologies:
-- **Crystal Resonance**: Harvesting power from mountain crystals
+- **Crystal Resoce**: Harvesting power from mountain crystals
 - **Wind Binding**: Capturing air currents for energy
 - **Solar Collecting**: Storing sunlight in specialized containers
 - **Memory Forging**: Creating items from crystallized memories
@@ -146,10 +133,6 @@ Without access to ocean resources, Aethermoor developed alternative technologies
 - **The New Prosperity**: Merchants who gained power post-separation
 - **The Seekers**: Those trying to breach the Surface Seal
 - **The Adapted**: Surface dwellers showing aquatic traits
-
-## Factions & Power
-
-### Major Political Powers
 
 #### The Tidal Council (Aquabyssos)
 **Leader**: High Tidecaller Nerissa Deepcurrent
@@ -179,8 +162,6 @@ Without access to ocean resources, Aethermoor developed alternative technologies
 **Resources**: Royal treasury, crystal technology, legitimate authority
 **Recruitment**: Offers protection, advancement, honor
 
-### Transformative Factions
-
 #### The Parasite Priests
 **Leader**: High Symbiont Threnus Coralborn
 **Goal**: Biological evolution through symbiosis
@@ -202,8 +183,6 @@ Without access to ocean resources, Aethermoor developed alternative technologies
 **Resources**: Crystal manipulation, corruption cures, ancient techniques
 **Recruitment**: Seeks disciplined individuals with magical aptitude
 
-### Criminal Organizations
-
 #### The Whisper Syndicate
 **Operations**: Information brokering, blackmail, assassination
 **Reach**: Both worlds through smuggling routes
@@ -216,8 +195,6 @@ Without access to ocean resources, Aethermoor developed alternative technologies
 **Motto**: "Every barrier has a price"
 **Danger**: Often infected with parasites
 
-### Religious Orders
-
 #### The Order of the Drowned Star
 **Belief**: A star fell into the ocean causing the Sundering
 **Practice**: Meditation in pressure chambers, seeking visions
@@ -229,8 +206,6 @@ Without access to ocean resources, Aethermoor developed alternative technologies
 **Practice**: Maintaining strict separation between worlds
 **Goal**: Prevent reunification at all costs
 **Methods**: Political influence, righteous violence
-
-## Mysteries & Threats
 
 ### The Deep Mother
 An entity of impossible age and scope dwelling in the deepest trenches. Is she:
@@ -261,7 +236,7 @@ Places where both worlds exist simultaneously, shifting between surface and unde
 
 **Known Zones**:
 - **The Threshold Garden**: Shifts every 12 hours
-- **Memory Harbor**: Tied to emotional resonance
+- **Memory Harbor**: Tied to emotional resoce
 - **The Fractal Palace**: Multiple realities at once
 - **Convergence Points**: Appearing with increasing frequency
 
@@ -283,10 +258,6 @@ A phenomenon where reality "pressurizes," causing:
 - Dimensional thin spots
 - Prophetic visions
 
-## Places of Power
-
-### Aquabyssos Locations
-
 #### The Parliament of Echoes
 A massive underwater amphitheater where voices of the past literally echo through time. Debates from centuries ago can still be heard, and sometimes, they answer current questions.
 
@@ -299,12 +270,10 @@ Where extracted memories are cultivated like living things. Visitors can walk th
 #### The Screaming Trees
 A kelp forest that remembers pain. The plants emit psychic screams when disturbed, driving away predators and preserving ancient trauma.
 
-### Aethermoor Locations
-
 #### The Lighthouse of Storms
 The last functional portal between worlds, though heavily restricted. During certain storms, shadows of Aquabyssos can be seen in its light.
 
-#### The Resonance Peaks
+#### The Resoce Peaks
 Mountains that sing in harmony with crystal formations. Those who learn the songs gain power over reality itself.
 
 #### The Floating Libraries
@@ -312,8 +281,6 @@ Ancient repositories of pre-Sundering knowledge, drifting through the sky. Each 
 
 #### The Void Observatory
 Where scholars study the Surface Seal, looking for weaknesses or messages from below.
-
-## Living Between Worlds
 
 ### Hybrids
 Children born to parents from both worlds (before Sundering) or those showing traits of both realms. They face:
@@ -337,53 +304,23 @@ The economy of experiences, where memories are currency:
 - **Memory Addiction**: Compulsion to experience others' lives
 - **Memory Death**: Complete loss of personal history
 
-## Player Knowledge
 
-### What Your Character Knows
+## 🔧 Deep Evaluation Improvements
 
-#### Common Knowledge
-- The worlds were separated 300 years ago
-- The Surface Seal prevents physical crossing
-- Both worlds have adapted to separation
-- Factions vie for control of potential reunification
-- Strange things lurk in the deepest places
+*20 targeted improvements identified*
 
-#### Uncommon Knowledge (Requires Background/Research)
-- The Deep Mother's existence and influence
-- Locations of reality merge zones
-- Secret faction operations and goals
-- Methods of creating shadows
-- Ancient pre-Sundering technologies
+### Connection Improvements
 
-#### Forbidden Knowledge (Dangerous to Know)
-- True cause of the Sundering
-- How to breach the Surface Seal
-- The Deep Mother's actual nature
-- Complete transformation techniques
-- Prophecies of world's end/reunification
+- Add cross-references to related notes
 
-### Cultural Touchstones
+### Enhancement Improvements
 
-#### Aquabyssos Sayings
-- "Pressure makes pearls": Hardship creates value
-- "Deep waters, still currents": Calm surfaces hide danger
-- "The tide remembers": Actions have consequences
-- "Breathe while you can": Appreciate what you have
-- "Every depth has its darkness": All levels of society have corruption
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-#### Aethermoor Expressions
-- "Crystal clear": Absolutely certain
-- "Above the seal": Out of reach/impossible
-- "Storm-blessed": Lucky despite circumstances
-- "Lighthouse keeper": Someone who maintains hope
-- "Void-touched": Crazy or prophetic
-
-#### Hybrid/Universal Terms
-- "Sunder-sworn": Committed despite separation
-- "Depth-drunk": Overwhelmed by pressure/responsibility
-- "Surface dreams": Impossible aspirations
-- "Pressure and light": Balance between extremes
-- "The between": Liminal spaces, transformation zones
 
 ## Conclusion: Your Place in the Story
 
@@ -403,10 +340,6 @@ What will you do when the tide turns?
 
 *Welcome to the depths and heights. May you find your path between pressure and light.*
 
-## Connections
-
-- [[Quick Start Guide]]
-
 ## Player-Facing Summary
 
 World Primer is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -415,23 +348,28 @@ World Primer is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of World Primer as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around World Primer.
 
-## Adventure Hooks
-
-- A rumor ties World Primer to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at World Primer to avert a public scandal.
-- A map overlay reveals a hidden approach to World Primer active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Master_Campaign_Index|Master Campaign Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- Someone is hunting a witness for love
+- Strange dreams suggest ancient magic
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

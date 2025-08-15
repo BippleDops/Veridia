@@ -1,4 +1,5 @@
 ---
+
 title: Shadow Citizenship Act
 type: Npc
 tags:
@@ -27,6 +28,8 @@ created_by: auto-stub
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.606281+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -34,10 +37,80 @@ world: Aquabyssos
 > [!figure] Portrait
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-shadow-citizenship-act-shadow-citizenship-act.svg]]
 
-
 # Shadow Citizenship Act
 
 *"Even those who walk in darkness deserve the light of citizenship." - Councillor Elena Voidwhisper*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
 
 ## Overview
 The Shadow Citizenship Act is controversial legislation proposing to grant full citizenship rights to shadow-touched beings, reformed criminals, and other marginalized groups currently existing on society's periphery. The act has created deep divisions within Aquabyssos politics.
@@ -49,14 +122,6 @@ The Shadow Citizenship Act is controversial legislation proposing to grant full 
 **Legal Protection:** Access to courts and justice system
 **Public Services:** Healthcare, education, and emergency services
 **Employment Rights:** Protection from workplace discrimination
-
-## Affected Groups
-- Shadow-touched individuals with supernatural alterations
-- Former criminals seeking rehabilitation
-- Refugees from other realms or dimensions
-- Magical beings traditionally excluded from citizenship
-- Underground community members living in legal gray areas
-- Children of mixed heritage between citizens and non-citizens
 
 ## Support Coalition
 **Progressive Politicians:** Councillors pushing for inclusive policies
@@ -86,13 +151,6 @@ The Shadow Citizenship Act is controversial legislation proposing to grant full 
 **Legal Precedent:** What other groups might seek similar recognition?
 **Implementation Costs:** Funding for expanded services and oversight
 
-## Recent Developments
-- Shadow-touched community organizes peaceful demonstration
-- Opposition group files legal challenge to act's constitutionality
-- Public opinion polls show narrow majority support
-- International observers express interest in Aquabyssos's approach
-- Underground networks emerge to help potential beneficiaries
-
 ## Political Maneuvering
 **Vote Trading:** Legislators exchanging support on different issues
 **Lobbying Efforts:** Interest groups pressuring decision-makers
@@ -114,8 +172,6 @@ The Shadow Citizenship Act is controversial legislation proposing to grant full 
 5. Political intrigue surrounding key legislators' votes
 6. Social unrest requires peacekeeping intervention
 
-
-
 ## Background
 
 Shadow Citizenship Act's path to their current position involved:
@@ -124,36 +180,6 @@ Shadow Citizenship Act's path to their current position involved:
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
 
 ## Motivations
 
@@ -164,8 +190,6 @@ Shadow Citizenship Act's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Shadow Citizenship Act harbors secrets that could change everything:
@@ -173,10 +197,6 @@ Shadow Citizenship Act harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Cursed bloodline
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -195,8 +215,6 @@ Shadow Citizenship Act is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Shadow Citizenship Act needs assistance with a delicate matter
@@ -205,8 +223,6 @@ Shadow Citizenship Act is currently engaged in:
 4. **The Alliance**: Opportunity to work with or against Shadow Citizenship Act
 5. **The Crisis**: Shadow Citizenship Act is caught in a situation requiring intervention
 
-
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -214,8 +230,6 @@ Shadow Citizenship Act is currently engaged in:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
 
 ## Statistics (D&D 5e)
 
@@ -242,61 +256,6 @@ cr: 1/4
 ## DM Notes
 The Shadow Citizenship Act provides excellent framework for exploring themes of prejudice, citizenship, and social change. Use it to create moral dilemmas and political adventures while examining real-world issues through fantasy lens.
 
-
-
-
-## Relationship Web
-
-- [[04_Resources_Assets_Locations_location-city-quartermaster-david-simpleton-v1-quartermaster-david-simpleton.svg]]: *former lover*
-- [[Salvage Queen Nerissa Deepfinder]]: *childhood friend*
-- [[Sir Theron Crystalward]]: *family member*
-
-## Connections
-
-- [[Senator Glaucus]]
-
-
-## Appearance
-
-
-TODO
-
-
-## Personality
-
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward negotiation
-
-
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward confrontation
-
-
-
-TODO
-
-
-## Goals
-
-
-TODO
-
-
-## Relationships
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 Shadow Citizenship Act is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -309,5 +268,22 @@ Legends speak of Shadow Citizenship Act as a nexus where past and present conver
 
 - [[Shadow Citizenship Act]]
 
-<!-- enriched: true -->
 iched: true -->
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon

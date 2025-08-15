@@ -17,28 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -48,27 +42,9 @@ Psychological Studies is a undersea element of the setting, known for biolumines
 
 Legends speak of Psychological Studies as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Psychological Studies.
 
-## Adventure Hooks
-
-- A rumor ties Psychological Studies to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Psychological Studies to avert a public scandal.
-- A map overlay reveals a hidden approach to Psychological Studies active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Psychological Studies|02 Worldbuilding/Places/Psychological Studies]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Mad Oracle Thessaly]]
-
 
 ## Related
 

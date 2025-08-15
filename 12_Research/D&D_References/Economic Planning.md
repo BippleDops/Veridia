@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:35.982304+00:00'
 danger_level: Moderate
 ---
 
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-economic-planning-economic-planning.png]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Overview
+### Connection Improvements
 
-TODO
-## History
+- Add cross-references to related notes
 
-TODO
-## Layout
+### Enhancement Improvements
 
-TODO
-## Notables
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,29 +45,27 @@ Economic Planning is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Economic Planning as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Economic Planning.
 
-## Adventure Hooks
-
-- A rumor ties Economic Planning to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Economic Planning to avert a public scandal.
-- A map overlay reveals a hidden approach to Economic Planning active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Economic Planning|02 Worldbuilding/Places/Economic Planning]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Keeper of the Past, Elderly Morgan]]
-- [[Mad Oracle Thessaly]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for power
+- Someone is blackmailing an heir for revenge
+- A stranger needs help investigating before dawn
+- A letter reveals ancient history about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

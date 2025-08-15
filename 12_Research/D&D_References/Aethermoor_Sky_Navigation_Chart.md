@@ -18,12 +18,9 @@ updated: '2025-08-13T12:30:00.000000'
 world: Aethermoor
 ---
 
-
 # Aethermoor Sky Navigation Chart - Player Handout
 
 *Essential guide for aerial travel and weather navigation in Aethermoor*
-
-## Wind Current Map
 
 ### Major Air Highways
 **The Great Spiral** (Altitude: 8,000-12,000 feet)
@@ -69,8 +66,6 @@ world: Aethermoor
 - Close monitoring of weather reports essential
 - Avoid travel above 12,000 feet
 
-## Altitude Reference Guide
-
 ### Breathing and Pressure Zones
 **Surface Level (0-2,000 feet)**
 - Normal breathing, no special equipment needed
@@ -91,15 +86,6 @@ world: Aethermoor
 - Oxygen apparatus mandatory
 - Severe pressure effects, specialized gear required
 - Risk level: High (Experienced pilots only)
-
-### Temperature Guidelines
-- **Surface**: 60-75°F typical
-- **5,000 feet**: 45-60°F, light jacket needed  
-- **10,000 feet**: 30-45°F, warm clothing essential
-- **15,000 feet**: 15-30°F, cold weather gear required
-- **20,000+ feet**: Below 15°F, extreme cold protection mandatory
-
-## Navigation Landmarks
 
 ### Natural Features
 **The Crystal Peaks** (Northern Region)
@@ -139,25 +125,23 @@ world: Aethermoor
 - Radio communication frequencies listed below
 - Emergency frequencies always monitored
 
-## Weather Warning System
-
 ### Signal Classifications
-**Green Pennant**: Ideal flying conditions
+**Green Pent**: Ideal flying conditions
 - Clear skies, gentle winds, good visibility
 - All aircraft types approved for flight
 - No special precautions necessary
 
-**Yellow Pennant**: Caution advised
+**Yellow Pent**: Caution advised
 - Moderate winds or limited visibility
 - Small aircraft should consider postponing travel
 - Monitor weather updates frequently
 
-**Red Pennant**: Dangerous conditions  
+**Red Pent**: Dangerous conditions  
 - High winds, storms, or severe weather
 - Only emergency flights authorized
 - Master pilot certification required
 
-**Black Pennant**: No-fly emergency
+**Black Pent**: No-fly emergency
 - Extreme weather phenomena
 - All aircraft grounded immediately
 - Seek immediate shelter
@@ -181,14 +165,6 @@ world: Aethermoor
 - Warning signs: Impossible cloud shapes, gravity fluctuations
 - Response: Evacuate area, report to Reality Corps
 
-## Communication Protocols
-
-### Standard Radio Frequencies
-- **Emergency Channel**: 121.5 MHz (monitored 24/7)
-- **Weather Updates**: 122.1 MHz (hourly reports)
-- **Traffic Control**: 123.3 MHz (major ports only)
-- **Navigation Aid**: 124.7 MHz (beacon information)
-
 ### Emergency Signals
 **Mayday Call**: Immediate life-threatening emergency
 - Repeat "Mayday" three times
@@ -200,43 +176,6 @@ world: Aethermoor
 - State "Pan-Pan" three times
 - Provide aircraft details and situation
 - Request assistance or priority handling
-
-### Visual Emergency Signals
-- **Red flare**: Medical emergency
-- **Green flare**: Mechanical problem
-- **White flare**: Request assistance
-- **Orange smoke**: Mark landing site for rescue
-
-## Landing Site Classifications
-
-### Class A Ports (Major Cities)
-- Full service facilities available
-- Professional ground crews and mechanics
-- Medical facilities on-site
-- Customs and immigration services
-- Landing fees: 5-15 gold depending on aircraft size
-
-### Class B Ports (Towns and Outposts)  
-- Basic services available
-- Limited repair facilities
-- First aid stations
-- Local constabulary
-- Landing fees: 1-5 gold
-
-### Class C Ports (Emergency Only)
-- Minimal facilities
-- Emergency supplies cached
-- Communication equipment
-- Shelter from weather
-- No fees, donation box available
-
-### Natural Landing Sites
-- Use only in emergency
-- Check for obstacles and ground stability
-- Mark aircraft location for rescue
-- Carry emergency supplies when using
-
-## Emergency Procedures
 
 ### Forced Landing Checklist
 1. **Maintain Control**: Keep aircraft stable
@@ -264,10 +203,27 @@ world: Aethermoor
 
 *Issued by the Royal Aethermoor Navigation Authority in cooperation with the Sky Pilots Guild. Chart valid through Storm Season 848.*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -276,3 +232,19 @@ world: Aethermoor
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- A stranger needs help finding before the new moon
+- The authorities needs help stealing before the festival
+- A document has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

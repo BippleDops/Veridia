@@ -30,16 +30,31 @@ updated: '2025-08-13T12:34:06.058123+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sphinx-of-lore-xmm-sphinx-of-lore-xmm.svg)
 
 # [[sphinx-of-lore-xmm|Sphinx of Lore]]
-*Source: Monster Manual (2024) p. 293. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 293. Available in the SRD and the Free Rules (2024)*  
 
 Sphinxes of lore each know a great secret and protect it all costs. This truth might take the form of an ancient text, a magical puzzle, or a path to another world. These sphinxes might gain reputations as sages or oracles, but they typically dwell far from civilization.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Sphinxes
 
@@ -57,11 +72,8 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 > [!quote]  
 > 
 > Round she is, yet flat as a board
-> 
 > Altar of the Lupine Lords
-> 
 > Jewel on black velvet, pearl in the sea
-> 
 > Unchanged but e'erchanging eternally
 
 > [!note]
@@ -80,22 +92,17 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
   - !!int "18"
   - !!int "15"
   - !!int "16"
-  - !!int "18"
-  - !!int "18"
-  - !!int "18"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
   - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+12"
   - "name": "[[skills#History|History]]"
-    "desc": "+12"
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+8"
   - "name": "[[skills#Religion|Religion]]"
-    "desc": "+12"
 "damage_resistances": "necrotic, radiant"
 "damage_immunities": "psychic"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]]"
 "senses": "truesight 120 ft., passive Perception 18"
 "languages": "Celestial, Common"
 "cr": "11"
@@ -121,7 +128,7 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
       At will: [[detect-magic-xphb|Detect Magic]], [[identify-xphb|Identify]],\
       \ [[mage-hand-xphb|Mage Hand]], [[minor-illusion-xphb|Minor Illusion]],\
       \ [[prestidigitation-xphb|Prestidigitation]]\n\n1/day\
-      \ each: [[dispel-magic-xphb|Dispel Magic]], [[legend-lore-xphb|Legend\
+      \ each: [[dispel-magic-xphb|Dispel Magic]], [[legend-lore-xphb|Legend\]]
       \ Lore]], [[locate-object-xphb|Locate Object]],\
       \ [[plane-shift-xphb|Plane Shift]], [[remove-curse-xphb|Remove Curse]],\
       \ [[tongues-xphb|Tongues]]"
@@ -146,9 +153,7 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
       - Infusion of Knowledge. Whenever the sphinx or one of its allies takes\
       \ a [[actions#Study|Study]] action while within 1 mile of\
       \ the lair, it adds d6 to any ability check it makes for that action.  "
-    "name": ""
   - "desc": "If the sphinx dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/celestial/token/sphinx-of-lore-xmm.webp"
@@ -167,19 +172,25 @@ Sphinx of lore xmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of sphinx of lore xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sphinx of lore xmm.
 
-## Adventure Hooks
-
-- A rumor ties sphinx of lore xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at sphinx of lore xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to sphinx of lore xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals a conspiracy about a local noble
+- Strange dreams suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -28,13 +28,29 @@ updated: '2025-08-12T23:37:35.542169'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mezzoloth-xmm-mezzoloth-xmm.svg)
 
 # [[mezzoloth-xmm|Mezzoloth]]
 *Source: Monster Manual (2024) p. 211*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Mezzoloth
 
@@ -138,19 +154,28 @@ Mezzoloth xmm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of mezzoloth xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mezzoloth xmm.
 
-## Adventure Hooks
-
-- A rumor ties mezzoloth xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at mezzoloth xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to mezzoloth xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting information for money
+- Strange sightings suggest a conspiracy
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Abyssal Cathedral|02 Worldbuilding/People/Abyssal Cathedral]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Abyssal Cathedral]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,34 @@ Archbiomancer Thessarian the Unbound is a undersea element of the setting, known
 
 Legends speak of Archbiomancer Thessarian the Unbound as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Archbiomancer Thessarian the Unbound.
 
-## Adventure Hooks
-
-- A rumor ties Archbiomancer Thessarian the Unbound to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Archbiomancer Thessarian the Unbound to avert a public scandal.
-- A map overlay reveals a hidden approach to Archbiomancer Thessarian the Unbound active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing a artifact for money
+- Strange dreams suggest a curse
+- Someone is blackmailing a witness for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

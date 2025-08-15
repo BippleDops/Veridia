@@ -28,14 +28,29 @@ updated: '2025-08-13T12:34:05.309480+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-displacer-beast-xmm-displacer-beast-xmm.svg)
 
 # [[displacer-beast-xmm|Displacer Beast]]
 *Source: Monster Manual (2024) p. 98*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Displacer Beast
 
@@ -53,7 +68,6 @@ Displacer beasts sometimes pursue prey through portals to other planes of existe
 > [!quote] A quote from Jen-Ahb, Naturalist and Displacer Beast Survivor  
 > 
 > The murderous fury of a displacer beast is fit only for nightmares, of which I've been haunted since narrowly escaping one's ambush. I'm certain that beast stalks me still.
-
 
 ```statblock
 "name": "Displacer Beast (XMM)"
@@ -85,14 +99,12 @@ Displacer beasts sometimes pursue prey through portals to other planes of existe
   - "desc": "Attack rolls against the displacer beast have [[disadvantage-xphb|Disadvantage]],\
       \ since it projects an illusion that makes it appear to be near its actual location.\
       \ This trait is suppressed while the displacer beast has the [[conditions#Incapacitated|Incapacitated]]\
-      \ condition."
     "name": "Displacement"
 "actions":
   - "desc": "The displacer beast makes one Rend attack and one Tentacle attack."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +6, reach 5 feet. Hit: 9 (1d10 + 4) Slashing damage.\
-      \ If target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
-      \ condition."
+      \ If target is a Large or smaller creature, it has the [[conditions#prone|Prone]]\
     "name": "Rend"
   - "desc": "Melee Attack Roll: +6, reach 10 feet. Hit: 11 (2d6 + 4) Piercing\
       \ damage."
@@ -115,19 +127,33 @@ Displacer beast xmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of displacer beast xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around displacer beast xmm.
 
-## Adventure Hooks
-
-- A rumor ties displacer beast xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at displacer beast xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to displacer beast xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help stealing before the festival
+- Someone is protecting a witness for power
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

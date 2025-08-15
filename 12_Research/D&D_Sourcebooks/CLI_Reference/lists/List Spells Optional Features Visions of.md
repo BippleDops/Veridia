@@ -23,12 +23,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# Spells for Visions of Distant Realms
+*20 targeted improvements identified*
 
-## 4th Level
+### Connection Improvements
 
-- [[/03_Mechanics/CLI/spells/arcane-eye-xphb "XPHB"|Arcane Eye]]
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -38,19 +48,36 @@ List spells optional features visions of distant realms xphb is a undersea eleme
 
 Legends speak of list spells optional features visions of distant realms xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells optional features visions of distant realms xphb.
 
-## Adventure Hooks
-
-- A rumor ties list spells optional features visions of distant realms xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells optional features visions of distant realms xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells optional features visions of distant realms xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- A merchant needs help investigating before dawn
+- Strange disappearances suggest a portal
+- Strange accidents suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

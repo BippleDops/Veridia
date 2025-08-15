@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.598845+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-song-merrytide-song-merrytide.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Barkeep Mira Algaebrew|02 Worldbuilding/Places/Barkeep Mira Algaebrew]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Barkeep Mira Algaebrew]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,16 @@ Song Merrytide is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Song Merrytide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Song Merrytide.
 
-## Adventure Hooks
-
-- A rumor ties Song Merrytide to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Song Merrytide to avert a public scandal.
-- A map overlay reveals a hidden approach to Song Merrytide active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a conspiracy
+- A document has gone missing and evil awakens

@@ -1,4 +1,5 @@
 ---
+
 title: Archivist Mnemonic the Forgotten
 type: Npc
 tags:
@@ -27,6 +28,8 @@ created_by: auto-stub
 role: Keeper of Lost Memories
 updated: '2025-08-13T12:34:17.492986+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -34,143 +37,73 @@ world: Aquabyssos
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-archivist-mnemonic-the-forgotten-archivist-mnemonic-the-forgotten.svg)
 
-
 # Archivist Mnemonic the Forgotten
 *Keeper of What Was Lost, Guardian of Unremembered Truth*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+
 ## Overview
 Archivist Mnemonic exists in a paradoxical state—he remembers everything that others have forgotten, but cannot remember his own past or identity. Chosen by the [[The Deep Mother]] to preserve memories that would otherwise be lost forever, he maintains the [[The Archive of Unremembered Things]] where discarded, stolen, or destroyed memories find sanctuary. His existence sustains the balance between remembering and forgetting that keeps the Deep Mother's dreams stable.
-
-## Description
-- **Appearance**: Middle-aged man whose features shift slightly when not being directly observed
-- **Memory Marks**: Constantly changing tattoos that represent different stored memories
-- **Eyes**: Reflect different colors and expressions as various memories surface
-- **Clothing**: Robes covered in written fragments that appear and disappear
-- **Presence**: Others often forget his name or face minutes after meeting him
-
-## Background
-### The Great Forgetting
-- Identity lost during catastrophic memory event decades ago
-- Found himself in the Archive with no memory of how he arrived
-- Gradually realized he was collecting memories that belonged to others
-- Discovered ability to preserve memories that were being lost or destroyed
-- Accepted role as guardian of the forgotten and discarded
-
-### The Sacred Archive
-- Maintains vast repository of memories rejected, stolen, or lost
-- Preserves cultural memories of extinct communities
-- Collects final thoughts of the dying
-- Stores suppressed historical truths
-- Archives memories too painful for their original owners to keep
-
-## Memory-Touched Abilities
-### Memory Preservation
-- **Perfect Recall**: Can remember everything except his own past
-- **Memory Absorption**: Can take unwanted memories from others
-- **Archive Access**: Can retrieve any memory stored in the Archive
-- **Forgetting Touch**: Can help others let go of painful memories
-- **Memory Restoration**: Can return lost memories to their rightful owners
-
-### Deep Mother Connection
-- **Dream Interface**: Accesses the Deep Mother's memory through dreams
-- **Divine Purpose**: Understands his role as keeper of cosmic balance
-- **Sacred Protection**: Cannot be killed while memories remain unguarded
-- **Eternal Service**: Will exist as long as there are memories to preserve
-- **Mother's Trust**: The Deep Mother shares her own forgotten memories with him
-
-## The Archive of Unremembered Things
-### Impossible Structure
-- Exists partially in physical reality, partially in memory-space
-- Contains infinite storage for forgotten experiences
-- Organized by emotional resonance rather than chronology
-- Accessible only to those who have lost something important
-- Protected by layers of forgetting that hide it from casual seekers
-
-### Collections
-- **The Discarded**: Memories people chose to abandon
-- **The Stolen**: Memories taken by force or trickery
-- **The Destroyed**: Memories from deleted histories and erased cultures
-- **The Suppressed**: Truths hidden by those in power
-- **The Unbearable**: Experiences too traumatic for conscious mind
-
-## Current Situation
-### The Memory Crisis
-- More memories being lost as shadow corruption spreads
-- Commercial Memory Farmers destroying memories through careless harvesting
-- Political forces trying to erase inconvenient histories
-- Deep Mother's stirring causing memory instabilities
-- Archive approaching capacity for first time in centuries
-
-## Relationships & Memory Network
-
-### Those Who Seek the Archive
-- **[[Emperor Thalassius the Wise]]** - Ancient ruler seeking lost imperial memories
-- **[[Marina Red Tide Coralheart - Aquabyssos]]** - Interested in memories of surface-depth adaptation
-- **[[Admiral Thorne Blackwater]]** - Consults him about military history and deep threats
-- **[[The Crimson Sage]]** - May seek memories from before the Shattering
-- **Grief-stricken Individuals** - Those seeking to recover lost memories of deceased loved ones
-
-### Professional Connections
-- **[[Memory Farmers|02 Worldbuilding/Groups/Memory Farmers]]** - Commercial memory harvesters he often opposes
-- **[[Memory Merchant Valeria Siltweave]]** - Complex relationship with legitimate memory trader
-- **Deep Priests** - Clerics serving the [[Deep Mother]] who understand his purpose
-- **[[Elder Whisper-In-The-Dark]]** - Fellow servant of cosmic forces beyond mortal understanding
-
-### The Memory Underground
-- **Memory Refugees** - Those fleeing forced memory alteration
-- **Shadow Resistance** - Individuals fighting [[The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]'s memory manipulation
-- **Historians** - Scholars seeking suppressed or lost historical records
-- **[[Free Current|02 Worldbuilding/Groups/Free Current]]** - Resistance members needing secure memory storage
-
-### Connection to Greater Powers
-- **[[The Deep Mother]]** - Divine patron who chose him for this role
-- **[[The Archive of Unremembered Things]]** - Living structure he serves and maintains
-- **Memory Spirits** - Ethereal beings formed from powerful forgotten experiences
-- **The Collective Unconscious** - Deeper layer of shared memory he helps maintain
-
-### The Paradox Problem
-- His existence prevents others from forgetting completely
-- But forgetting is sometimes necessary for mental health
-- Struggles with when to preserve vs. when to allow forgetting
-- Questions whether all memories deserve preservation
-- Worries about the weight of carrying everyone's discarded pain
-
-## Relationships
-### Fellow Memory Workers
-- **[[Memory Harvester Kythara]]**: Collaborates on sacred memory preservation
-- **[[Memory Trader Kellian]]**: Ethical merchant who respects memory sanctity
-- **[[The Scattered Emperor]]**: Keeps many of his lost memories safe
-- **The Remembrancers**: Secret society dedicated to preserving truth
-- **Archive Spirits**: Manifestations of particularly powerful memories
-
-### Those Who Seek Him
-- **Trauma Victims**: Those who want to forget unbearable experiences
-- **The Bereaved**: People who fear losing memories of deceased loved ones
-- **Historians**: Scholars seeking suppressed or lost historical truth
-- **The Guilty**: Those who want to discard memories of their crimes
-- **Identity Seekers**: People trying to recover their forgotten pasts
-
-### Complex Relations
-- **[[The Forgetting Cult]]**: Philosophical enemies who want universal amnesia
-- **Government Censors**: Try to prevent access to suppressed memories
-- **Memory Addicts**: Desperate people who consume archived memories compulsively
-- **[[Sister Thalassa the Depth-Touched]]**: Debates about memories vs. divine dreams
-- **Commercial Interests**: Those who want to monetize the Archive's contents
-
-## Services & Knowledge
-### What He Offers
-- Safe storage for unwanted or dangerous memories
-- Recovery of lost personal or cultural memories
-- Historical truth from suppressed records
-- Emotional healing through selective forgetting
-- Protection of memories from theft or destruction
-
-### What He Requires
-- Respect for the sanctity of stored memories
-- Payment in new memories or forgotten knowledge
-- Promise not to abuse recovered information
-- Understanding that some memories may be too dangerous to access
-- Acceptance that forgetting can be as valuable as remembering
 
 ## Adventure Hooks
 1. **The Lost History**: Recover suppressed memories of historical atrocity
@@ -178,36 +111,6 @@ Archivist Mnemonic exists in a paradoxical state—he remembers everything that 
 3. **The Unbearable Truth**: Help someone decide whether to forget traumatic experience
 4. **The Archive Invasion**: Defend the Archive from those who want to destroy it
 5. **The Restored Identity**: Help him recover his own forgotten past
-
-## Moral Complexity
-### The Preservation Dilemma
-- Should all memories be preserved regardless of pain they cause?
-- Does he have right to decide which memories deserve protection?
-- Is forgetting sometimes more merciful than remembering?
-- Should suppressed truths always be revealed?
-- Can preserving everyone's discarded pain damage the preserver?
-
-### The Service Question
-- Serves cosmic entity who might not have humanity's best interests
-- His work prevents natural psychological healing through forgetting
-- Struggles between individual needs and cosmic purpose
-- Questions whether his existence is blessing or curse
-- Wonders if some memories are too dangerous to preserve
-
-## Abilities in Action
-- Can overwhelm enemies with their own suppressed traumatic memories
-- Summons archived memories as semi-physical manifestations
-- Erases short-term memories to confuse attackers
-- Protected by collective weight of all stored memories
-- Can make others forget his presence after encounters
-
-## Connected Elements
-- Central to memory-related storylines in [[The Deep Mother]] mythology
-- Links individual psychology to cosmic purposes
-- Represents themes of trauma, healing, and the value of both memory and forgetting
-- Bridge between personal identity and collective history
-
-
 
 ## Appearance
 
@@ -217,8 +120,6 @@ Archivist Mnemonic the Forgotten presents a distinctive figure. Their bearing su
 - **Distinguishing Marks**: [Describe unique features]
 - **Typical Attire**: Professional garments suited to their role
 - **Mannerisms**: [Describe habits and gestures]
-
-
 
 ## Personality
 
@@ -230,22 +131,6 @@ Archivist Mnemonic the Forgotten presents a distinctive figure. Their bearing su
 
 **Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
 
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Seeking redemption
@@ -255,8 +140,6 @@ Archivist Mnemonic the Forgotten presents a distinctive figure. Their bearing su
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Archivist Mnemonic the Forgotten harbors secrets that could change everything:
@@ -265,13 +148,9 @@ Archivist Mnemonic the Forgotten harbors secrets that could change everything:
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Stolen identity
 
-
-
-
-
 ## Voice & Mannerisms
 
-**Voice**: Deep and resonant
+**Voice**: Deep and resot
 
 **Speech Pattern**: Casual and relaxed
 
@@ -286,8 +165,6 @@ Archivist Mnemonic the Forgotten is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Archivist Mnemonic the Forgotten needs assistance with a delicate matter
@@ -296,8 +173,6 @@ Archivist Mnemonic the Forgotten is currently engaged in:
 4. **The Alliance**: Opportunity to work with or against Archivist Mnemonic the Forgotten
 5. **The Crisis**: Archivist Mnemonic the Forgotten is caught in a situation requiring intervention
 
-
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -305,8 +180,6 @@ Archivist Mnemonic the Forgotten is currently engaged in:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
 
 ## Statistics (D&D 5e)
 
@@ -329,17 +202,6 @@ senses: Passive Perception 11
 languages: Common
 cr: 1/4
 ```
-
-## DM Notes
-- Perfect source for revealing suppressed plot information
-- Can provide memory-based services to party members
-- His dilemmas create interesting ethical choices
-- Represents the weight of carrying others' pain
-- Can serve as repository for campaign's lost or forgotten lore
-
----
-
-## D&D 5e Stat Block
 
 ### Archivist Mnemonic the Forgotten
 *Medium humanoid (human), true neutral*
@@ -418,11 +280,9 @@ When encountered in [[The Archive of Unremembered Things]], Mnemonic can take la
 
 **Forgetting Field.** All creatures in the Archive except Mnemonic must succeed on a DC 20 Wisdom saving throw or forget why they came to the Archive for 1 minute.
 
-**Memory Maze.** The Archive's layout shifts based on the emotional resonance of stored memories, creating difficult terrain and potentially separating intruders.
+**Memory Maze.** The Archive's layout shifts based on the emotional resoce of stored memories, creating difficult terrain and potentially separating intruders.
 
 ---
-
-## Enhanced Background & The Great Forgetting
 
 ### The Lost Identity
 **Pre-Forgetting Life**: Evidence suggests Mnemonic was once a prominent scholar, possibly a court wizard or university researcher
@@ -435,7 +295,7 @@ When encountered in [[The Archive of Unremembered Things]], Mnemonic can take la
 **Dimensional Nexus**: The Archive exists partially in memory-space, making it larger inside than outside
 **Self-Sustaining**: Fed by the collective unconscious desire to preserve important experiences
 **Growing Collection**: Constantly expanding as more memories are lost, abandoned, or suppressed worldwide
-**Emotional Resonance**: Organized by feeling and significance rather than chronology or topic
+**Emotional Resoce**: Organized by feeling and significance rather than chronology or topic
 **Divine Protection**: [[The Deep Mother]]'s influence protects the Archive from outside interference
 
 ### The Paradox Condition
@@ -446,8 +306,6 @@ When encountered in [[The Archive of Unremembered Things]], Mnemonic can take la
 **The Ultimate Question**: Whether recovering his identity would destroy his ability to serve the Archive
 
 ---
-
-## The Archive of Unremembered Things - Complete Structure
 
 ### Physical Layout
 **The Entrance Hall**: Where visitors first encounter the Archive's impossible geometry
@@ -474,8 +332,6 @@ When encountered in [[The Archive of Unremembered Things]], Mnemonic can take la
 **Guardian Constructs**: Magical protections that prevent theft or corruption of stored memories
 
 ---
-
-## Extended Relationships & Memory Networks
 
 ### Fellow Memory Professionals
 **[[Memory Merchant Valeria Siltweave]]**: Collaborative partnership in ethical memory preservation
@@ -536,8 +392,6 @@ When encountered in [[The Archive of Unremembered Things]], Mnemonic can take la
 
 ---
 
-## Services & Memory Operations
-
 ### For Memory Donors
 **Trauma Relief Services**: Free for genuine need
 - Safe extraction of memories too painful to consciously carry
@@ -585,8 +439,6 @@ When encountered in [[The Archive of Unremembered Things]], Mnemonic can take la
 
 ---
 
-## Adventure Hooks & Campaign Integration
-
 ### 1. The Identity Crisis (Level 9-15)
 Mnemonic discovers a memory that may be his own past, but accessing it could destroy his ability to maintain the Archive. The party must help him decide whether to recover his identity.
 - **Rewards**: 10,000gp, Access to Archive's complete resources, Potentially powerful ally or enemy
@@ -614,73 +466,12 @@ Multiple factions want to control or destroy the Archive. Mnemonic must choose b
 
 ---
 
-## Connected Campaign Elements
-
-### Military & Intelligence Networks
-- **[[Commander Typhoon Blackheart]]**: Provides archived military intelligence and historical battle records
-- **[[The Depth Wardens|02 Worldbuilding/Groups/The Depth Wardens]]**: Repository for classified mission reports and strategic intelligence
-- **[[Admiral Thorne Blackwater]]**: Preserves naval historical records and tactical knowledge
-- **Military Veterans**: Archive contains memories from soldiers across multiple conflicts and campaigns
-- **Intelligence Services**: Stores suppressed operational records and classified information
-
-### Trade & Economic Connections
-- **[[Memory Merchant Valeria Siltweave]]**: Professional collaboration on ethical memory preservation standards
-- **[[Merchant Princes]]**: Archive maintains commercial records and trade agreement histories
-- **[[Harbor Master Luna Freedrift]]**: Preserves maritime trade documentation and port authority records
-- **Economic Historians**: Repository for financial records and trade pattern analysis
-- **Commercial Guild Archives**: Maintains backup records for destroyed or compromised business documentation
-
-### Links to [[The Deep Mother]] Divine Network
-- Archive serves as repository for memories connected to divine experiences
-- Preserves cultural memories of Deep Mother worship from extinct civilizations
-- Maintains record of prophetic visions and divine communications
-- Provides evidence of divine influence on historical events
-- Connected to Deep Mother's own vast memory spanning cosmic time
-
-### Integration with Memory Commerce Storylines
-- Central neutral ground where different memory factions can safely interact
-- Repository for evidence of memory-related crimes and abuses
-- Source of historical context for current memory trade disputes
-- Preservation of cultural memories threatened by commercial exploitation
-- Ethical alternative to profit-driven memory operations
-
-### Connection to [[Aquabyssos]] Political History
-- Contains suppressed memories of government wrongdoing and corruption
-- Preserves accurate historical records despite official revisionism
-- Maintains cultural memories of oppressed or extinct communities
-- Provides evidence for legal cases involving historical injustices
-- Repository for memories of political prisoners and dissidents
-
-### Cosmic Memory Implications
-- Potential repository for fragments of cosmic consciousness and divine memory
-- Connection point between individual human memory and universal memory
-- Preservation site for memories that transcend normal human experience
-- Research center for understanding relationship between memory and reality
-- Possible key to understanding how consciousness relates to cosmic forces
-
----
-
-## The Paradox of Self
-- Remembers everyone else's forgotten experiences
-- Cannot access his own lost memories despite storing them
-- Exists as servant to cosmic entity he may not remember choosing to serve
-- His identity defined entirely by his function
-- The ultimate question: if he recovered his past, would he still be the same person?
-
----
-
-
-
 ## Appearance
-
-Archivist Mnemonic the Forgotten presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
 
 - **Build**: Average height, athletic build
 - **Distinguishing Marks**: [Describe unique features]
 - **Typical Attire**: Professional garments suited to their role
 - **Mannerisms**: [Describe habits and gestures]
-
-
 
 ## Personality
 
@@ -692,22 +483,6 @@ Archivist Mnemonic the Forgotten presents a distinctive figure. Their bearing su
 
 **Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
 
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Seeking redemption
@@ -717,23 +492,15 @@ Archivist Mnemonic the Forgotten presents a distinctive figure. Their bearing su
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
-
-Archivist Mnemonic the Forgotten harbors secrets that could change everything:
 
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Stolen identity
 
-
-
-
-
 ## Voice & Mannerisms
 
-**Voice**: Deep and resonant
+**Voice**: Deep and resot
 
 **Speech Pattern**: Casual and relaxed
 
@@ -741,84 +508,16 @@ Archivist Mnemonic the Forgotten harbors secrets that could change everything:
 
 ## Current Activities
 
-Archivist Mnemonic the Forgotten is currently engaged in:
-
 - Managing their regular responsibilities
 - Pursuing a specific objective
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
-
-1. **The Request**: Archivist Mnemonic the Forgotten needs assistance with a delicate matter
-2. **The Opposition**: Someone wants Archivist Mnemonic the Forgotten stopped or removed
-3. **The Secret**: Information about Archivist Mnemonic the Forgotten's past surfaces
-4. **The Alliance**: Opportunity to work with or against Archivist Mnemonic the Forgotten
-5. **The Crisis**: Archivist Mnemonic the Forgotten is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
-> "Every challenge is an opportunity in disguise."
-
-> "Trust is earned through action, not words."
-
-> "The path forward is rarely the easiest one."
-
-
-
 ## Statistics (D&D 5e)
-
-```statblock
-name: ---
-size: Medium
-type: Humanoid
-alignment: Neutral
-ac: 12
-hp: 22 (4d8 + 4)
-speed: 30 ft.
-str: 10
-dex: 14
-con: 12
-int: 14
-wis: 13
-cha: 15
-skills: Relevant +4
-senses: Passive Perception 11
-languages: Common
-cr: 1/4
-```
-
-## DM Notes
-- Perfect source for revealing suppressed plot information
-- Can provide memory-based services to party members
-- His dilemmas create interesting ethical choices
-- Represents the weight of carrying others' pain
-- Can serve as repository for campaign's lost or forgotten lore
-- **Combat Role**: Controller and support, uses memories as weapons and tools rather than direct damage
-- **Social Encounters**: Speaks with collective wisdom of archived experiences, struggles with personal identity
-- **Character Development**: His search for identity can parallel party members' character growth
-- **Campaign Integration**: Archive serves as neutral ground and information source for multiple faction storylines
-- **Philosophical Themes**: Explores questions of identity, memory, and the value of both remembering and forgetting
-
-
-
-## Relationship Web
-
-- [[04_Resources_Assets_Locations_location-city-harbor-master-s-tower-harbor-master-s-tower.png]]: *secret ally*
-- [[Captain Prism-Shield Valeria]]: *business partner*
-- [[The Verdant Accord]]: *debt holder*
-- [[04_Resources_Assets_Portraits_portrait-npc-captain-sterling-lightshield-captain-sterling-lightshield.svg]]: *debt holder*
-
-## Connections
-
-- [[Memory Merchant Valeria Siltweave]]
-- [[Pressure Angel Benthia]]
-- [[The Cerulean Breath]]
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -828,11 +527,20 @@ Archivist Mnemonic the Forgotten is a undersea element of the setting, known for
 
 Legends speak of Archivist Mnemonic the Forgotten as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Archivist Mnemonic the Forgotten.
 
-## Cross-References
 
-- [[Archivist Mnemonic the Forgotten]]
+## Historical Timeline
 
-<!-- enriched: true -->
-- [[Memory Harvester Kythara]]
-- [[The Scattered Emperor]]
-- [[The Archive of Unremembered Things]]
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established

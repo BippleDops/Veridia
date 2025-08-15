@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:34.654347+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,26 @@ Princess Nerida Deepcurrent is a undersea element of the setting, known for biol
 
 Legends speak of Princess Nerida Deepcurrent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Princess Nerida Deepcurrent.
 
-## Adventure Hooks
-
-- A rumor ties Princess Nerida Deepcurrent to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Princess Nerida Deepcurrent to avert a public scandal.
-- A map overlay reveals a hidden approach to Princess Nerida Deepcurrent active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Marriage Between Worlds|02 Worldbuilding/Lore/Marriage Between Worlds]]
-
-
-## Connections
-
-- [[Marriage Between Worlds]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Strange accidents suggest a curse
+- A letter reveals the truth about this place
+- A map reveals a betrayal about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

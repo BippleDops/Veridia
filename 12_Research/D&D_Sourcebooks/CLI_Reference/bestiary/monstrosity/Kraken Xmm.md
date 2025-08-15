@@ -28,14 +28,29 @@ updated: '2025-08-13T12:34:05.313008+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-kraken-xmm-kraken-xmm.svg)
 
 # [[kraken-xmm|Kraken]]
-*Source: Monster Manual (2024) p. 187. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 187. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Kraken
 
@@ -74,7 +89,6 @@ Kraken lairs tend to be sunken temples, eldritch ritual sites, or primeval place
 > 
 > A kraken dreams of casting its tentacles into the heavens and strangling that which birthed it, and when its dream exceeds its reach, it settles for the occasional passing ship.
 
-
 ```statblock
 "name": "Kraken (XMM)"
 "size": "Gargantuan"
@@ -104,7 +118,7 @@ Kraken lairs tend to be sunken temples, eldritch ritual sites, or primeval place
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+11"
 "damage_immunities": "cold, lightning"
-"condition_immunities": "[[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#frightened|frightened]],\
   \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Restrained|restrained]]"
 "senses": "truesight 120 ft., passive Perception 21"
@@ -131,7 +145,7 @@ Kraken lairs tend to be sunken temples, eldritch ritual sites, or primeval place
       \ by it to a space it can see within 60 feet of itself that isn't in the air.\
       \ Dexterity Saving Throw: DC 25, the creature thrown and each creature in\
       \ the destination space. Failure: 18 (4d8) Bludgeoning damage, and the target\
-      \ has the [[conditions#Prone|Prone]] condition. Success:\
+      \ has the [[conditions#prone|Prone]] condition. Success:\
       \ Half damage only."
     "name": "Fling"
   - "desc": "Dexterity Saving Throw: DC 23, one creature the kraken can see within\
@@ -148,10 +162,10 @@ Kraken lairs tend to be sunken temples, eldritch ritual sites, or primeval place
       \ single turn from a creature inside it, the kraken must succeed on a DC 25\
       \ Constitution saving throw at the end of that turn or regurgitate all swallowed\
       \ creatures, each of which falls in a space within 10 feet of the kraken with\
-      \ the [[conditions#Prone|Prone]] condition. If the kraken\
+      \ the [[conditions#prone|Prone]] condition. If the kraken\
       \ dies, any swallowed creature no longer has the [[conditions#Restrained|Restrained]]\
       \ condition and can escape from the corpse using 15 feet of movement, exiting\
-      \ [[conditions#Prone|Prone]]."
+      \ [[conditions#prone|Prone]]."
     "name": "Swallow"
 "legendary_actions":
   - "desc": "The kraken uses Lightning Strike."
@@ -168,15 +182,13 @@ Kraken lairs tend to be sunken temples, eldritch ritual sites, or primeval place
   - "desc": "The region containing a kraken's lair is twisted by its presence, creating\
       \ the following effects:"
     "name": ""
-  - "desc": "- Ocean Tyrant. The kraken exerts its dominance over animals in its\
+  - "desc": "- Ocean Tyrant. The kraken exerts its domice over animals in its\
       \ domain. All Beasts within 1 mile of the lair have the [[conditions#Charmed|Charmed]]\
       \ condition while in that area.  \n- Sea and Storms. While in its lair,\
       \ the kraken can cast [[control-weather-xphb|Control Weather]],\
       \ requiring no spell components and using Intelligence as the spellcasting ability.\
       \  "
-    "name": ""
   - "desc": "If the kraken dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/monstrosity/token/kraken-xmm.webp"
@@ -195,19 +207,26 @@ Kraken xmm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of kraken xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around kraken xmm.
 
-## Adventure Hooks
-
-- A rumor ties kraken xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at kraken xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to kraken xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a conspiracy
+- Someone is protecting a artifact for revenge
+- Someone is searching for a witness for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

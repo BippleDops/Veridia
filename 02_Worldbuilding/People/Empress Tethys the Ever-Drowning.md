@@ -1,4 +1,5 @@
 ---
+
 title: Empress Tethys the Ever Drowning
 type: Npc
 tags:
@@ -10,6 +11,7 @@ tags:
 - active
 - complete
 - status/in-progress
+- prophecy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +20,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.519787+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -25,46 +29,80 @@ world: Both
 > [!figure] Portrait
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-empress-tethys-the-ever-drowning-empress-tethys-the-ever-drowning.svg]]
 
-
 # Empress Tethys the Ever-Drowning
 
 *"I have died ten thousand times, and each death teaches me the same lesson: the surface world is a beautiful lie we tell ourselves while drowning."*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+
 ## Overview
 Empress Tethys rules [[Aquabyssos]] through a unique curse/blessing - she drowns to death every dawn and resurrects every dusk, losing and regaining memories in fragments. She is simultaneously the most and least powerful being in the underwater realm, experiencing existence from infinite perspectives.
-
-## Appearance (Varies by Time of Day)
-### Dawn (Dying)
-- Pale, waterlogged flesh pulling away from bones
-- Eyes clouding over with death
-- Speaks in gurgling whispers
-- Water constantly pours from her mouth
-
-### Noon (Dead)
-- Corpse seated on the Obsidian Throne
-- Perfectly preserved but clearly deceased
-- Court continues around her body
-- Strange prophecies written in condensation on her skin
-
-### Dusk (Resurrecting)
-- Flesh reconstituting, color returning
-- Memories flooding back in waves
-- Most lucid and dangerous time
-- Eyes burn with accumulated knowledge
-
-### Midnight (Full Power)
-- Appears as she did at first transformation
-- Beautiful in an alien, unsettling way
-- Bioluminescent veins pulse with power
-- Voice carries impossible authority
-
-## Personality (Fragments)
-- **The Innocent**: Remembers her surface childhood, kind but naive
-- **The Warrior**: Recalls leading armies, brutal and strategic
-- **The Scholar**: Focused on understanding the Drowning, analytical
-- **The Mad Prophet**: Sees all timelines simultaneously, incomprehensible
-- **The Loving Mother**: Remembers her drowned children, desperately protective
-- **The Void Touched**: Has seen too deep, nihilistic and cruel
 
 ## The Multiple Tethys Theory
 Unknown to most, each death creates a "temporal echo" of Tethys that descends to different depths:
@@ -72,33 +110,6 @@ Unknown to most, each death creates a "temporal echo" of Tethys that descends to
 - **Midnight Tethys**: The true ruler, makes hard decisions
 - **Hadean Tethys**: The thing she's becoming, alien and powerful
 - **Surface Tethys**: A version that never drowned, exists in dreams
-
-## Relationships
-- **[[Ambassador Korvin Blacktide]]**: Her voice on the surface, carries fragments of her memories
-- **The Tidal Council**: Fear and worship her in equal measure
-- **[[Queen Seraphina Lumengarde]]**: Sees her as a sister in transformation
-- **[[The Crimson Sage]]**: Knows his true identity, considers him responsible for the Drowning
-- **The Things That Dwell Beneath**: Her true masters, or perhaps her children
-
-## Powers & Abilities
-
-### The Drowning Cycle
-- Cannot be permanently killed
-- Each death grants visions of possible futures
-- Resurrection pulls knowledge from the depths
-- Can voluntarily drown others to share her experience
-
-### Deep Magic Mastery
-- Controls all water within her realm
-- Can transform others with a touch
-- Speaks all languages that have been drowned
-- Commands the drowned dead
-
-### Memory Manipulation
-- Can extract, implant, or erase memories
-- Experiences all her deaths simultaneously
-- Can grant others temporary access to her memories
-- Knows secrets that were drowned with their owners
 
 ## Current Schemes
 1. **The Great Convergence**: Reuniting all versions of herself
@@ -117,7 +128,6 @@ Unknown to most, each death creates a "temporal echo" of Tethys that descends to
 > [!info] The Love That Remains
 > Deep in her fractured memories, Tethys retains true love for someone on the surface - possibly an ancestor of someone in Aethermoor. This love is the only thing preventing her from fully embracing the void. If that person's descendant dies or is corrupted, she will lose her last anchor to humanity.
 
-## Stats (Varies by Time)
 ### Midnight Form (Full Power)
 **AC:** 20 (Natural armor + deep magic)
 **HP:** 450 (Regenerates unless killed by surface magic)
@@ -131,50 +141,6 @@ Unknown to most, each death creates a "temporal echo" of Tethys that descends to
 
 **Spells:** All water/death/mind related spells up to 9th level
 
-## Notable Possessions
-- **The Coral Crown**: Controls all transformed beings
-- **The Depth Scrolls**: Chronicles of every drowning death
-- **The Last Breath**: Contained air from the surface world
-- **Memory Pearls**: Crystallized memories of her past lives
-
-## Court Protocols
-- Never look directly at her during transformation
-- Address her by the personality currently dominant
-- Bring memories as tribute
-- Accept her contradictory commands
-- Never mention the surface during dawn
-
-## Plot Hooks
-- Seeks party to retrieve memories from the surface
-- Offers transformation to save dying party member
-- Needs help preventing/causing the Second Drowning
-- Requests assassination of one of her other selves
-- Wants to send message to her lost love's descendant
-
-
-## Appearance
-
-
-TODO
-
-
-## Personality
-
-
-TODO
-
-
-## Goals
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 Empress Tethys the Ever Drowning is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -182,14 +148,6 @@ Empress Tethys the Ever Drowning is a undersea element of the setting, known for
 ## Lore Details
 
 Legends speak of Empress Tethys the Ever Drowning as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Empress Tethys the Ever Drowning.
-
-## Adventure Hooks
-
-- A rumor ties Empress Tethys the Ever Drowning to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Empress Tethys the Ever Drowning to avert a public scandal.
-- A map overlay reveals a hidden approach to Empress Tethys the Ever Drowning active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -200,22 +158,6 @@ Empress Tethys the Ever-Drowning's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
 ## Motivations
 
 **Primary Goal**: Serving justice
@@ -225,8 +167,6 @@ Empress Tethys the Ever-Drowning's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Empress Tethys the Ever-Drowning harbors secrets that could change everything:
@@ -234,10 +174,6 @@ Empress Tethys the Ever-Drowning harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Hidden past
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -256,8 +192,6 @@ Empress Tethys the Ever-Drowning is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -265,8 +199,6 @@ Empress Tethys the Ever-Drowning is currently engaged in:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
 
 ## Statistics (D&D 5e)
 
@@ -294,31 +226,20 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Empress Tethys the Ever-Drowning]]
+## Plot Hooks
 
-<!-- enriched: true -->
+- Strange accidents suggest a conspiracy
+- A journal reveals a betrayal about the cult
 
+## Religious Observances
 
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
 
-
-## Relationship Web
-
-- [[Quest - The Deep Cartographer]]: *former lover*
-- [[04_Resources_Assets_Symbols_symbol-heraldry-sister-astara-the-ever-watching-sister-astara-the-ever-watching.svg]]: *sworn enemy*
-
-## Connections
-
-### Home
-- [[Sage Rememberall]]
-
-### Frequently Visits
-- [[04_Resources_Assets_Locations_location-city-navigator-abyssal-truthseeker-v1-navigator-abyssal-truthseeker.svg]]
-- [[Quartermaster David Simpleton]]
-- [[Pressure Guard Steelwall]]
-
-### Known Associates
-- [[Sorrow-Root Nightbloom]] (enemy)
-- [[Captain Storm Tideguard]] (enemy)
-- [[04_Resources_Assets_Locations_location-city-harbormaster-creedence-tidereader-harbormaster-creedence-tidereader.svg]] (rival)
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

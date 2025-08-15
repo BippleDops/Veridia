@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.259678+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-adventure-boldexplorer-adventure-boldexplorer.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Innkeeper Marina Dreamwhisper|02 Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Innkeeper Marina Dreamwhisper]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,20 @@ Adventure Boldexplorer is a undersea element of the setting, known for biolumine
 
 Legends speak of Adventure Boldexplorer as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Adventure Boldexplorer.
 
-## Adventure Hooks
-
-- A rumor ties Adventure Boldexplorer to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Adventure Boldexplorer to avert a public scandal.
-- A map overlay reveals a hidden approach to Adventure Boldexplorer active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

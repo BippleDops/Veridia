@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.308825'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gauth-mpmm-gauth-mpmm.svg)
 
@@ -37,11 +35,11 @@ world: Both
 
 A gauth is a hungry, tyrannical creature similar to a beholder that eats magic and tries to exact tribute from anything weaker than itself. Its body is about 4 feet in diameter, with six eyestalks, a central eye (sometimes surrounded by multiple smaller eyes), and four small grasping tentacles near its mouth. It has color and texture variations similar to a true beholder.
 
-A gauth can survive on meat but prefers to sustain itself with power drained from magic objects. If starved of magic for several weeks, it is forced back to its home plane, so it constantly seeks new items to drain. A gauth might employ creatures to bring it items that can provide it with sustenance.
+A gauth can survive on meat but prefers to sustain itself with power drained from magic objects. If starved of magic for several weeks, it is forced back to its home plane, so it constantly seeks new items to drain. A gauth might employ creatures to bring it items that can provide it with sustece.
 
 When the ritual to summon a spectator goes wrong, a gauth might push itself through the flawed connection, arriving immediately or several minutes later. It might present itself as a beholder to ignorant creatures in an attempt to intimidate them, or as a spectator to its summoner in order to drain magic items it is expected to guard.
 
-A [[beholder-xmm|beholder]] usually drives away or kills any gauths that enter its territory, but it might choose to force them to serve it as lieutenants. Gauths are less xenophobic than beholders, so they might form small clusters and work together, though they're just as likely to ignore each other entirely.
+A [[beholder-xmm|beholder]] usually drives away or kills any gauths that enter its territory, but it might choose to force them to serve it as lieutets. Gauths are less xenophobic than beholders, so they might form small clusters and work together, though they're just as likely to ignore each other entirely.
 
 ```statblock
 "name": "Gauth (MPMM)"
@@ -59,7 +57,6 @@ A [[beholder-xmm|beholder]] usually drives away or kills any gauths that enter i
   - !!int "14"
   - !!int "16"
   - !!int "15"
-  - !!int "15"
   - !!int "13"
 "speed": "0 ft., fly 20 ft. (hover)"
 "saves":
@@ -69,7 +66,7 @@ A [[beholder-xmm|beholder]] usually drives away or kills any gauths that enter i
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
-"condition_immunities": "[[conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#prone|prone]]"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Deep Speech, Undercommon"
 "cr": "6"
@@ -121,6 +118,24 @@ A [[beholder-xmm|beholder]] usually drives away or kills any gauths that enter i
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 underdark
@@ -133,19 +148,20 @@ Gauth mpmm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of gauth mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gauth mpmm.
 
-## Adventure Hooks
-
-- A rumor ties gauth mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gauth mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to gauth mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

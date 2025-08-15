@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.827035+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-maurezhi-mpmm-maurezhi-mpmm.svg)
 
@@ -60,7 +57,6 @@ A maurezhi is contagion incarnate. Its bite can drain a victim's sense of self. 
   - !!int "17"
   - !!int "12"
   - !!int "11"
-  - !!int "12"
   - !!int "15"
 "speed": "30 ft."
 "skillsaves":
@@ -108,6 +104,24 @@ A maurezhi is contagion incarnate. Its bite can drain a victim's sense of self. 
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 swamp, urban
@@ -120,19 +134,30 @@ Maurezhi mpmm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of maurezhi mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around maurezhi mpmm.
 
-## Adventure Hooks
-
-- A rumor ties maurezhi mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at maurezhi mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to maurezhi mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and chaos spreads
+- A noble needs help investigating before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

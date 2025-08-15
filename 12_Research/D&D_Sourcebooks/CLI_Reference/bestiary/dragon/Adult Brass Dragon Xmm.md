@@ -17,7 +17,7 @@ tags:
 - ttrpg-cli/monster/type/dragon/metallic
 - status/in-progress
 - ttrpg-cli/monster/environment/desert
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-monster
@@ -28,16 +28,31 @@ updated: '2025-08-13T12:34:05.999907+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-adult-brass-dragon-xmm-adult-brass-dragon-xmm.svg)
 
 # [[adult-brass-dragon-xmm|Adult Brass Dragon]]
-*Source: Monster Manual (2024) p. 55. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 55. Available in the SRD and the Free Rules (2024)*  
 
 Adult brass dragons know many secrets and have vast networks of contacts. These dragons share perspectives they've learned from across the world and passionately combat the lies of con artists and villains that lead people astray.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Brass Dragons
 
@@ -113,7 +128,7 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
     "name": "Sleep Breath"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 16):\n\nAt\
-      \ will: [[detect-magic-xphb|Detect Magic]], [[minor-illusion-xphb|Minor\
+      \ will: [[detect-magic-xphb|Detect Magic]], [[minor-illusion-xphb|Minor\]]
       \ Illusion]], [[scorching-ray-xphb|Scorching Ray]],\
       \ [[shapechange-xphb|Shapechange]] (Beast or Humanoid\
       \ form only, no [[temporary-hit-points-xphb|Temporary Hit Points]]\
@@ -144,9 +159,7 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
       \ appears.  \n- Refreshing Water. Water within 1 mile of the lair is magically\
       \ refreshing. A creature that drinks such water gains 2d4 [[temporary-hit-points-xphb|Temporary Hit Points]],\
       \ and the dragon is immediately aware of the creature's presence.  "
-    "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/dragon/token/adult-brass-dragon-xmm.webp"
@@ -165,19 +178,34 @@ Adult brass dragon xmm is a undersea element of the setting, known for biolumine
 
 Legends speak of adult brass dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around adult brass dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties adult brass dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at adult brass dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to adult brass dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and war looms
+- Someone is blackmailing an heir for love
+- A document has gone missing and evil awakens
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

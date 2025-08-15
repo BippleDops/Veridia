@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:05.371596+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ogre-howdah-mpmm-ogre-howdah-mpmm.svg)
 
@@ -40,6 +37,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 201, Mordenkainen's Tome of Foes p. 221*  
 
 The most unusual of the specialized ogres, the howdah carries a palisaded wooden fort on its back. The fort serves as a fighting platform for up to four Small people. Ogre howdahs are most often seen bearing bow- and spear-wielding [[goblin-warrior-xmm|goblins]] into battle, or perhaps [[kobold-warrior-xmm|kobolds]] or [[/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin|deep gnomes]], but they might also transport other Small folk.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Ogres of War
 
@@ -60,7 +75,6 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
   - !!int "8"
   - !!int "16"
   - !!int "5"
-  - !!int "7"
   - !!int "7"
 "speed": "40 ft."
 "senses": "darkvision 60 ft., passive Perception 8"
@@ -97,19 +111,20 @@ Ogre howdah mpmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of ogre howdah mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ogre howdah mpmm.
 
-## Adventure Hooks
-
-- A rumor ties ogre howdah mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ogre howdah mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ogre howdah mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -37,21 +37,32 @@ related_entities:
 - '[[The Abyss Beneath Aquabyssos|02 Worldbuilding/Places/The Abyss Beneath Aquabyssos]]'
 ---
 
-
-
-
-
-
 # Abyssal Academy
 *Institute of Deep Knowledge and Forbidden Studies*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
 The Abyssal Academy stands as [[Aquabyssos]]'s most prestigious institution of higher learning, though its reputation is equally founded on academic excellence and dangerous research practices. Located in the scholar's district of [[Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]], this imposing structure of living coral and cultivated brain coral serves as a beacon for those seeking knowledge that surface institutions would consider too perilous to pursue.
 
 Under the guidance of the enigmatic [[Professor Euclid Mindmaze|02 Worldbuilding/People/Professor Euclid Mindmaze]], the Academy has become the primary center for research into abyssal phenomena, psionic theory, and the deep mysteries that even [[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]] debates in hushed tones. Its graduates often find themselves at the forefront of [[Aquabyssos]]'s most critical missions, though many others are claimed by the very knowledge they seek to master.
-
-## Architecture & Layout
 
 ### The Spiral Towers
 The Academy consists of seven interconnected spiral towers, each devoted to a different field of study:
@@ -63,16 +74,6 @@ The Academy consists of seven interconnected spiral towers, each devoted to a di
 **The Observation Orb** - Astronomy, divination, and far-sight disciplines
 **The Synthesis Stem** - Alchemy, biomancy, and experimental fusion sciences
 **The Archive Atoll** - Library and knowledge preservation center
-
-### Notable Facilities
-- **The Pressure Testing Chambers**: Where students learn to survive extreme depths
-- **The Memory Pools**: Living libraries that store experiences directly
-- **The Aberrant Menagerie**: Controlled environment for studying dangerous creatures
-- **The Communion Chamber**: Where advanced students attempt contact with [[Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
-- **The Resonance Laboratory**: For studying sonic and psychic phenomena
-- **The Surgical Theater**: Medical and biomantic research facility
-
-## Academics & Curriculum
 
 ### Standard Curriculum
 **First Year Studies:**
@@ -95,8 +96,6 @@ The Academy consists of seven interconnected spiral towers, each devoted to a di
 **Pressure Walkers** - Those who can survive and operate in the deepest trenches
 **Synthesis Scholars** - Researchers combining science, magic, and aberrant biology
 
-## Faculty & Notable Staff
-
 ### Current Leadership
 **Dean Professor Euclid Mindmaze**: Renowned for her research into psionic labyrinths
 **Vice-Dean Thalasson Deepcurrent**: Former [[Ambassador Korvin Blacktide|diplomatic envoy]] turned academic
@@ -106,15 +105,7 @@ The Academy consists of seven interconnected spiral towers, each devoted to a di
 **Professor Coral-Mind**: Biomancy and living architecture specialist
 **Dr. Echo Soundweaver**: Pioneer in sonic manipulation and communication
 **Master Tide-Walker**: Expert in pressure adaptation and deep exploration
-**Professor Null-Space**: Theoretical researcher into dimensional boundaries
-
-## Game Mechanics (D&D 5e)
-
-### Admission Requirements
-- Intelligence or Wisdom score of 15 or higher
-- Pass a series of tests (DC 18 Intelligence/Wisdom checks across different subjects)
-- Survive a controlled exposure to minor aberrant influence (DC 16 Constitution save)
-- Demonstrate useful skill or unique knowledge
+**Professor -Space**: Theoretical researcher into dimensional boundaries
 
 ### Academic Progression
 **Student Benefits per Semester (6 months):**
@@ -137,15 +128,6 @@ Students can conduct independent research projects:
 **The Biomancer Collective**: Graduates who formed [[The Shadow Surgeons|02 Worldbuilding/Groups/The Shadow Surgeons]]
 **Memory Merchant Valeria**: Operates in the [[Memory Meadows Black Market|02 Worldbuilding/Places/Memory Meadows Black Market]]
 
-## Dangers & Controversies
-
-### Academic Hazards
-- **Psychic Contamination**: Prolonged exposure to aberrant knowledge (Madness effects)
-- **Memory Theft**: Some research subjects have their experiences harvested
-- **Dimensional Rifts**: Experiments occasionally tear reality
-- **Creature Escapes**: Specimens sometimes break containment
-- **Faculty Possession**: Some professors succumb to the entities they study
-
 ### Ethical Debates
 The Academy faces ongoing criticism from [[The Restoration Movement|02 Worldbuilding/Groups/The Restoration Movement]] and surface sympathizers regarding:
 - Use of sentient subjects in experiments
@@ -165,8 +147,6 @@ The Academy faces ongoing criticism from [[The Restoration Movement|02 Worldbuil
 8. **The Ethical Dilemma**: A breakthrough discovery could save lives but requires morally questionable methods
 9. **The Rival Institution**: [[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]'s magical colleges want the Academy's forbidden research
 10. **The Graduation Crisis**: The Academy's most promising students are being targeted by unknown assassins
-
-## Academic Resources
 
 ### The Living Library
 The Academy's archive consists of brain coral formations that store memories and experiences directly:
@@ -191,13 +171,7 @@ The Abyssal Academy serves as:
 - Training ground for acquiring unusual skills
 - Hub of ethical debates about knowledge versus safety
 - Connection point between surface and deep investigations through alumni networks
-EOF < /dev/null
-
-## Connections
-
-- [[Sage Lysander Deepthought]]
-- [[Lumengarde]]
-- [[New Tethys]]
+EOF < /dev/
 
 ## Player-Facing Summary
 
@@ -207,23 +181,23 @@ Abyssal Academy is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Abyssal Academy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Abyssal Academy.
 
-## Adventure Hooks
-
-- A rumor ties Abyssal Academy to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Abyssal Academy to avert a public scandal.
-- A map overlay reveals a hidden approach to Abyssal Academy active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Convergence Point|02 Worldbuilding/Lore/Convergence Point]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

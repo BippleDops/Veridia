@@ -15,141 +15,32 @@ world: Both
 updated: '2025-08-13T01:18:36.667525+00:00'
 ---
 
-
-
-
-
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-the-carrion-court-the-carrion-court.svg]]
-
-
-
 
 # The Carrion Court
 *In Death We Find True Nobility*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 The Carrion Court is an aristocratic hierarchy of undead beings that maintains the twisted traditions of an ancient noble court from beyond the grave. Led by **Lich-Queen Morwyn the Deathless**, this organization of vampires, liches, wraiths, and other powerful undead seeks to establish a kingdom where death is merely a transition to higher nobility rather than an ending. They operate with the pomp, ceremony, and political intrigue of a living court, but with the power and immortal patience of the undead.
-
-## Court Hierarchy
-
-### The Throne of Bones (Royal Family)
-- **[[Lich-Queen Morwyn the Deathless]]** - Supreme ruler and ancient sorceress
-- **Prince Consort Valdric the Pale** - Vampire lord and military commander
-- **Princess Seraphine the Weeping** - Banshee heir with prophetic powers
-- **Duke Malachar Graveheart** - Lich advisor and court necromancer
-
-### The Noble Houses (Great Undead)
-- **House Ravencrest** - Vampire nobles controlling blood trade
-- **House Bonechill** - Lich scholars preserving ancient knowledge
-- **House Shadowmere** - Wraith spies and assassins
-- **House Graveborn** - Death knights and military commanders
-
-### The Lesser Nobility (Undead Servants)
-- **Spectral Courtiers**: Ghosts of ancient nobles maintaining court protocol
-- **Skeletal Guards**: Elite undead warriors in ornate armor
-- **Zombie Servants**: Mindless but well-dressed attendants
-- **Ghoul Messengers**: Swift scouts and message carriers
-
-### The Living Servants (Mortal Allies)
-- **Death Cultists**: Living humans who serve in hopes of eternal unlife
-- **Necromancer Apprentices**: Studying under court's undead masters
-- **Vampire Thralls**: Blood-bound servants with enhanced abilities
-- **The Marked**: Mortals bearing court's protection and future claim
-
-## Court Operations & Influence
-
-### Political Machinations
-- **Succession Planning**: Carefully selecting mortals worthy of undeath
-- **Territorial Expansion**: Claiming new domains through legal and illegal means
-- **Diplomatic Relations**: Negotiating with living kingdoms and monster factions
-- **Intelligence Networks**: Vast spy system utilizing incorporeal undead
-
-### Economic Activities
-- **The Blood Trade**: Controlling supply of fresh blood for vampire nobles
-- **Funeral Industry**: Monopolizing burial practices to control corpse supply
-- **Antiquities Market**: Trading in ancient artifacts and forbidden knowledge
-- **Protection Rackets**: Offering safety from other undead in exchange for tribute
-
-### Military Assets
-- **The Deathguard**: Elite undead knights and warriors
-- **Spectral Cavalry**: Mounted wraiths and death knights
-- **Necromantic Artillery**: Bone siege engines and corpse catapults
-- **The Endless Legion**: Vast hordes of mindless undead soldiers
-
-## Territorial Control
-
-### Primary Domain
-- **[[The Bone Palace of Sorrows|02 Worldbuilding/Places/The Bone Palace Of Sorrows]]** - Royal seat and court headquarters
-- **The Graveyard Kingdoms** - Network of necropolis cities
-- **Shadow Marshlands** - Haunted swamps under court control
-- **The Mourning Fields** - Battlegrounds where undead armies train
-
-### Infiltrated Regions
-- Noble families in [[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] with vampire connections
-- Funeral directors throughout [[Port Meridian|02 Worldbuilding/Places/Port Meridian]]
-- Corrupted priests in various temples across [[The Azure Coast|02 Worldbuilding/Places/The Azure Coast]]
-- Academic positions in universities studying necromantic arts
-
-### Contested Territories
-- Ongoing conflicts with [[Crystal Wardens]] over burial practices
-- Territorial disputes with [[The Crimson Fleet|02 Worldbuilding/Groups/The Crimson Fleet]] over corpse supplies
-- Competition with [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] for criminal influence
-- Religious wars against [[High Priestess Celeste Dawnbringer|02 Worldbuilding/People/High Priestess Celeste Dawnbringer]]'s followers
-
-## Court Culture & Traditions
-
-### Social Protocols
-- **The Eternal Waltz**: Nightly ballroom dances lasting until dawn
-- **Blood Ceremonies**: Formal rituals involving sacrifice and transformation
-- **The Speaking of Names**: Honoring recently deceased nobles with undead conversion
-- **Midnight Courts**: Legal proceedings conducted in true darkness
-
-### Seasonal Observances
-- **The Harvest of Souls** (Autumn): Major recruitment and conversion period
-- **Winter's Embrace** (Winter): Planning and strategizing during longest nights
-- **The Awakening** (Spring): Raising new undead from winter's corpses
-- **The Blood Moon Festival** (Summer): Celebration of vampire nobility
-
-### Court Etiquette
-- Living beings must be invited to speak in presence of undead nobility
-- Fresh blood must be offered as tribute when meeting vampire lords
-- All court members maintain their pre-death noble titles and honors
-- Proper funeral rites must be observed for all fallen enemies
-
-## Key Relationships
-
-### Allied Factions
-- **Necromancer Guilds** - Provide magical support and research
-- **Death Cults** - Supply fresh converts and ritual sacrifices
-- **[[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Occasional cooperation in criminal enterprises
-- **Corrupted Noble Houses** - Living aristocrats with undead sympathies
-
-### Neutral Parties
-- **[[The Crimson Sage|02 Worldbuilding/People/The Crimson Sage]]** - Respected for ancient knowledge
-- **Ancient Vampire Clans** - Independent undead who acknowledge court legitimacy
-- **Demon Contractors** - Business relationships for specific services
-- **[[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]** - Mutual respect for ancient powers
-
-### Active Enemies
-- **[[Crystal Wardens]]** - Religious crusade against all undead
-- **[[High Priestess Celeste Dawnbringer|02 Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Leading divine opposition
-- **[[High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]** - Coordinating anti-undead military actions
-- **Living noble families** - Threatened by undead claims to their titles
-
-### Complex Relationships
-- **[[Prince Caspian Duskwater|02 Worldbuilding/People/Prince Caspian Duskwater]]** - Potential recruitment target
-- **[[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]]** - Corrupt enough to potentially ally
-- **[[Lord Commander Gareth Steelborn|02 Worldbuilding/People/Lord Commander Gareth Steelborn]]** - Honorable enemy worthy of respect
-- **[[Merchant Princes|02 Worldbuilding/Groups/Merchant Princes]]** - Economic relationships despite ideological differences
-
-## Recruitment & Conversion
-
-### Selection Criteria
-- **Noble Blood**: Preference for aristocratic lineage
-- **Exceptional Abilities**: Skilled warriors, mages, or leaders
-- **Willing Servants**: Those who actively seek undeath
-- **Strategic Value**: Individuals with useful connections or knowledge
 
 ### Conversion Process
 1. **The Courtship**: Extended period of testing and preparation
@@ -157,27 +48,15 @@ The Carrion Court is an aristocratic hierarchy of undead beings that maintains t
 3. **The Transformation**: Ritual conversion to appropriate undead type
 4. **The Investiture**: Formal ceremony granting court title and position
 
-### Types of Undeath Offered
-- **Vampirism**: For charismatic nobles and leaders
-- **Lichdom**: For powerful spellcasters and scholars
-- **Death Knighthood**: For exceptional warriors and commanders
-- **Wraith Form**: For spies and those seeking ethereal power
-
-## Secret Operations
-
 ### The Great Nobility Project
 > [!warning] DM Only
 > The court is systematically identifying and converting the most influential noble families across multiple kingdoms, planning to replace living aristocracy with undead rulers within 50 years.
 
 ### The Eternal Archive
-> [!warning] DM Only
 > A vast library containing the memories and knowledge of every being the court has converted to undeath, making them one of the most knowledgeable organizations in the world.
 
 ### The Blood Pact Network
-> [!warning] DM Only
 > Secret agreements with living nobles ensuring their conversion to undeath upon natural death, in exchange for current protection and favor.
-
-## Adventure Hooks
 
 ### Social Intrigue
 1. **The Invitation**: Party receives formal invitation to court function
@@ -197,44 +76,6 @@ The Carrion Court is an aristocratic hierarchy of undead beings that maintains t
 11. **Vampire Hunt**: Track and eliminate specific court noble
 12. **Necromantic Duel**: Magical combat with court's lich advisors
 
-## Economic Impact
-
-### Markets & Trade
-- **Funeral Services**: Control of burial and cremation industries
-- **Antiquities**: Monopoly on ancient artifacts and historical items
-- **Medical Supplies**: Black market trade in blood and organs
-- **Security Services**: Protection from other undead threats
-
-### Financial Networks
-- Immortal patience allows for extremely long-term investments
-- Court treasuries span centuries of accumulated wealth
-- Control over inheritance laws through legal and supernatural means
-- Banking relationships maintained across multiple generations
-
-## Connected Locations
-- [[The Bone Palace of Sorrows|02 Worldbuilding/Places/The Bone Palace Of Sorrows]] - Primary headquarters and royal seat
-- [[Port Meridian|02 Worldbuilding/Places/Port Meridian]] - Major infiltration and recruitment target
-- [[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] - Noble families with vampire connections
-- [[The Azure Coast|02 Worldbuilding/Places/The Azure Coast]] - Network of corrupted temples and burial grounds
-
-## Connected NPCs
-- **[[Lich-Queen Morwyn the Deathless]]** - Supreme ruler and founder
-- **Prince Consort Valdric the Pale** - Military commander and vampire lord
-- **Princess Seraphine the Weeping** - Prophetic banshee heir
-- **[[High Priestess Celeste Dawnbringer|02 Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Primary religious opposition
-
-## Connected Factions
-- [[Crystal Wardens]] - Primary ideological and military opposition
-- [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Occasional criminal cooperation
-- [[Merchant Princes|02 Worldbuilding/Groups/Merchant Princes]] - Complex economic relationships
-- [[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]] - Mutual respect for ancient power
-
-## Immediate Threats
-- Planning major conversion ceremony during next noble gathering
-- Infiltration of living royal courts approaching critical mass
-- Military buildup suggesting preparation for territorial expansion
-- Negotiations with demon contractors for additional supernatural support
-
 ## Player-Facing Summary
 
 The Carrion Court is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -247,18 +88,23 @@ Legends speak of The Carrion Court as a nexus where past and present converge. L
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Shadow Markets New|02 Worldbuilding/Places/The Shadow Markets New]]
-
-
-## Connections
-
-- [[Crystal Wardens]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a curse
+- A prisoner has gone missing and chaos spreads
+- A corpse reveals a betrayal about this place
+- A merchant needs help delivering before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

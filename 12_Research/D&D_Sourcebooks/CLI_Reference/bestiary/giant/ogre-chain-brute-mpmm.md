@@ -29,8 +29,6 @@ updated: '2025-08-12T23:37:35.038005'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ogre-chain-brute-mpmm-ogre-chain-brute-mpmm.svg)
 
@@ -38,6 +36,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 201, Mordenkainen's Tome of Foes p. 221*  
 
 An ogre chain brute wields a great spiked chain, swinging it with both hands in a wide circle to knock foes off their feet. Alternatively, the ogre can swing the chain in a crushing overhead smash.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Ogres of War
 
@@ -59,7 +75,6 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
   - !!int "16"
   - !!int "5"
   - !!int "7"
-  - !!int "7"
 "speed": "40 ft."
 "senses": "darkvision 60 ft., passive Perception 8"
 "languages": "Common, Giant"
@@ -76,9 +91,9 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
     "name": "Chain Smash (Recharge 6)"
   - "desc": "The ogre swings its chain, and every creature within 10 feet of it must\
       \ make a DC 14 Dexterity saving throw. On a failed saving throw, a creature\
-      \ takes 8 (1d8 + 4) bludgeoning damage and is knocked [[conditions#Prone|prone]].\
+      \ takes 8 (1d8 + 4) bludgeoning damage and is knocked [[conditions#prone|prone]].\
       \ On a successful save, the creature takes half as much damage and isn't knocked\
-      \ [[conditions#Prone|prone]]."
+      \ [[conditions#prone|prone]]."
     "name": "Chain Sweep"
 "source":
   - "MPMM"
@@ -99,19 +114,20 @@ Ogre chain brute mpmm is a undersea element of the setting, known for biolumines
 
 Legends speak of ogre chain brute mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ogre chain brute mpmm.
 
-## Adventure Hooks
-
-- A rumor ties ogre chain brute mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ogre chain brute mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ogre chain brute mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

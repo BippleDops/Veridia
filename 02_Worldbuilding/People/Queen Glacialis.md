@@ -1,4 +1,5 @@
 ---
+
 title: Queen Glacialis
 type: Npc
 tags:
@@ -18,6 +19,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.655509+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +29,66 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-queen-glacialis-queen-glacialis.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward avoidance
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward manipulation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
 
 ## Player-Facing Summary
 
@@ -67,14 +97,6 @@ Queen Glacialis is a undersea element of the setting, known for bioluminescent g
 ## Lore Details
 
 Legends speak of Queen Glacialis as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Queen Glacialis.
-
-## Adventure Hooks
-
-- A rumor ties Queen Glacialis to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Queen Glacialis to avert a public scandal.
-- A map overlay reveals a hidden approach to Queen Glacialis active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +107,6 @@ Queen Glacialis's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Achieving fame
@@ -124,8 +116,6 @@ Queen Glacialis's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Queen Glacialis harbors secrets that could change everything:
@@ -133,10 +123,6 @@ Queen Glacialis harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Cursed bloodline
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +141,6 @@ Queen Glacialis is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Queen Glacialis needs assistance with a delicate matter
@@ -164,8 +148,6 @@ Queen Glacialis is currently engaged in:
 3. **The Secret**: Information about Queen Glacialis's past surfaces
 4. **The Alliance**: Opportunity to work with or against Queen Glacialis
 5. **The Crisis**: Queen Glacialis is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,21 +161,19 @@ Queen Glacialis is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Queen Glacialis]]
+## A Day in the Life
 
-<!-- enriched: true -->
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
 
-
-
-
-## Relationship Web
-
-- [[Merchant Captain Tobias Stormwind]]: *patron*
-- [[10-combat#Dropping_to_0_Hit_Points#Monsters_and_Death]]: *sworn enemy*
-- [[Mayor's Manor]]: *sworn enemy*
-
-## Connections
-
-- [[The Frozen Throne]]
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

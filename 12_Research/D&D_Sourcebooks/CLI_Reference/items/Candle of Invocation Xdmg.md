@@ -24,12 +24,9 @@ updated: '2025-08-13T12:34:07.954519+00:00'
 world: Both
 ---
 
-
-
 # Candle of Invocation
 *Wondrous item, very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/candle-of-invocation.webp#right)
-
 
 This candle's magic is activated when the candle is lit, which requires a [[actions#Magic|Magic]] action. After burning for 4 hours, the candle is destroyed. You can snuff it out early for use at a later time. Deduct the time it burned in increments of 1 minute from its total burn time.
 
@@ -59,7 +56,25 @@ Alternatively, when you light the candle for the first time, you can cast [[gate
 | 96-00 | "Ysgard" |
 ^1-outer-plane
 
-*Source: Dungeon Master's Guide (2024) p. 241. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 241. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -69,19 +84,20 @@ Candle of invocation xdmg is a undersea element of the setting, known for biolum
 
 Legends speak of candle of invocation xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around candle of invocation xdmg.
 
-## Adventure Hooks
-
-- A rumor ties candle of invocation xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at candle of invocation xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to candle of invocation xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

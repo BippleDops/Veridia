@@ -1,4 +1,5 @@
 ---
+
 title: Quest2
 type: quest
 tags:
@@ -12,12 +13,77 @@ modified: '2025-08-14'
 status: placeholder
 level: 1-5
 updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
 
 
 # Quest2
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Combat Improvements
+
+- Add encounter scaling table for parties of 3-6 players, levels 1-20
+
+### Rewards Improvements
+
+- Create treasure parcels for each major encounter
+
+### Structure Improvements
+
+- Add three-act structure with rising action
+
+### Choices Improvements
+
+- Add meaningful decision points with consequences
+
+### Roleplay Improvements
+
+- Include ethical challenges without clear answers
+
+### Worldbuilding Improvements
+
+- Connect to three other adventures in the vault
+
+### Art Improvements
+
+- Add AI art prompts for key scenes
+- Add AI art prompts for key scenes
+- Add AI art prompts for key scenes
+- Add AI art prompts for key scenes
+
+### Props Improvements
+
+- List physical props and handouts needed
+- List physical props and handouts needed
+- List physical props and handouts needed
+
+### Soundtrack Improvements
+
+- Suggest music/ambiance for each scene
+- Suggest music/ambiance for each scene
+
+### Spotlight Improvements
+
+- Include spotlight moment for each character class
+- Include spotlight moment for each character class
+
+### Level_Range Improvements
+
+- Provide scaling for different level ranges
+
+### Variants Improvements
+
+- Add horror, intrigue, and comedy tone variants
+- Add horror, intrigue, and comedy tone variants
+
 
 ## Description
 
@@ -26,12 +92,6 @@ updated: 2025-08-14
 ## Details
 
 *[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[Location_Template]]
-- [[12_Research/D&D_Statblocks/NPC_Template]]
 
 ## Notes
 
@@ -43,22 +103,6 @@ updated: 2025-08-14
 ---
 *Placeholder generated: 2025-08-14*
 
-## Key NPCs
-
-- [[04_Resources_Assets_Symbols_symbol-heraldry-elara-crystalline-elara-crystalline.svg]]
-- [[Captain Marrow Drinker]]
-- [[Siren]]
-- [[04_Resources_Assets_Symbols_symbol-heraldry-information-broker-whisper-goldtongu-information-broker-whisper-goldtongu.svg]]
-- [[King Marcus Lumengarde]]
-
-
-## Important Locations
-
-- [[04_Resources_Assets_Locations_location-city-plague-crisis-plague-crisis.png]]
-- [[04_Resources_Assets_Locations_location-city-comparative-religion-experts-v1-comparative-religion-experts.svg]]
-- [[04_Resources_Assets_Locations_location-city-the-shadowmire-tavern-v1-the-shadowmire-tavern.svg]]
-
-
 ## Synopsis
 
 This adventure involves the party in a series of challenges and discoveries. The stakes are significant, and the outcomes will shape future events.
@@ -67,11 +111,9 @@ This adventure involves the party in a series of challenges and discoveries. The
 **Expected Duration**: 2-4 sessions
 **Themes**: Mystery, Combat, Exploration
 
-
 ## Background
 
 The events leading to this adventure have been building for some time. Forces are in motion that the party must confront or redirect.
-
 
 ## Locations
 
@@ -80,64 +122,8 @@ The events leading to this adventure have been building for some time. Forces ar
 3. **Challenge Areas**: Combat or puzzle locations
 4. **Climax Location**: Where everything comes together
 
-
-## Encounters
-
-### Combat Encounters
-- Easy: CR appropriate to party -2
-- Medium: CR appropriate to party
-- Hard: CR appropriate to party +2
-
-### Social Encounters
-- Information gathering
-- Negotiation opportunities
-- Deception challenges
-
-### Exploration Challenges
-- Environmental hazards
-- Puzzles and riddles
-- Skill challenges
-
-
-## Treasures
-
-### Monetary Rewards
-- Gold and valuables appropriate to level
-
-### Magic Items
-- Minor items (consumables)
-- Permanent items (if appropriate)
-
-### Story Rewards
-- Information gained
-- Allies made
-- Reputation changes
-
-
-## Plot Hooks
-
 ### Primary Hook
 The main reason parties get involved
-
-### Alternative Hooks
-- Personal connection
-- Professional interest
-- Coincidental involvement
-
-
-## Scaling Notes
-
-### For Lower Level Parties
-- Reduce enemy numbers
-- Lower DCs by 2-3
-- Provide more healing opportunities
-
-### For Higher Level Parties
-- Add minions to encounters
-- Increase DCs by 2-3
-- Add time pressure
-- Include legendary actions
-
 
 ## DM Notes
 
@@ -146,3 +132,33 @@ The main reason parties get involved
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Plot Hooks
+
+- Someone is hunting information for revenge
+- A journal reveals the truth about the government
+- Someone is blackmailing a artifact for revenge
+- A prisoner has gone missing and truth emerges
+
+## Adventure Pacing
+
+### Act 1: Setup (Sessions 1-2)
+- Hook presentation
+- Initial investigation
+- First combat
+
+### Act 2: Confrontation (Sessions 3-4)
+- Main challenges
+- Plot complications
+- Resource depletion
+
+### Act 3: Resolution (Session 5)
+- Final confrontation
+- Consequences
+- Epilogue hooks

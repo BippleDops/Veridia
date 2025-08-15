@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.421050'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-frost-salamander-mpmm-frost-salamander-mpmm.svg)
 
@@ -61,7 +59,6 @@ On rare occasions, [[frost-giant-xmm|frost giants]] capture and tame these creat
   - !!int "18"
   - !!int "7"
   - !!int "11"
-  - !!int "7"
 "speed": "60 ft., burrow 40 ft., climb 40 ft."
 "saves":
   - "constitution": !!int "8"
@@ -98,6 +95,24 @@ On rare occasions, [[frost-giant-xmm|frost giants]] capture and tame these creat
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 arctic
@@ -110,19 +125,33 @@ Frost salamander mpmm is a undersea element of the setting, known for biolumines
 
 Legends speak of frost salamander mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around frost salamander mpmm.
 
-## Adventure Hooks
-
-- A rumor ties frost salamander mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at frost salamander mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to frost salamander mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

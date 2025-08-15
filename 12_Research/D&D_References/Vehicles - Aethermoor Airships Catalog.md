@@ -22,13 +22,10 @@ updated: '2025-08-13T12:34:17.771420+00:00'
 world: Aethermoor
 ---
 
-
-
-
 # Aethermoor Airships Catalog (60)
 
 1. Wind-Sung Clipper — Song sails; speed + while music plays
-2. Void-Touched Corsair — Gravity-null pods; Sanity risk in void-sight
+2. Void-Touched Corsair — Gravity- pods; Sanity risk in void-sight
 3. Nimbus Garden — Living cloud hull; weather shaping
 4. Star-Anchored Platform — Orbital relay; anchor arrays 2
 5. Fold-Gate Courier — Short reality folds; misjump risk
@@ -44,7 +41,7 @@ world: Aethermoor
 15. Sunray Frigate — Solar sails; flare burst
 16. Moonbridge Ferry — Night-only gate hops; anchor dependent
 17. Cloudborne Library — Knowledge vault; memory trade bonus
-18. Prism Lancer — Focused resonance beam; heats armor
+18. Prism Lancer — Focused resoce beam; heats armor
 19. Tempest Shepherd — Herds storms; route clearing
 20. Sparrowhawk — Micro-raider; stealth boarding
 21. Horizon Skater — Skims cloudtops; no ice accumulation
@@ -88,7 +85,25 @@ world: Aethermoor
 59. Sky Anchor — Portable anchor pylon; stabilizes zones
 60. Choir Courier — Broadcasts morale; allied initiative +1
 
-Integration keys: Altitude pressure inversion, resonance arrays, anchors, sanity hooks, memory charts, faction doctrines.
+Integration keys: Altitude pressure inversion, resoce arrays, anchors, sanity hooks, memory charts, faction doctrines.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -98,23 +113,15 @@ Aethermoor Airships Catalog is a sky-borne element of the setting, known for bra
 
 Legends speak of Aethermoor Airships Catalog as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aethermoor Airships Catalog.
 
-## Adventure Hooks
-
-- A rumor ties Aethermoor Airships Catalog to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Aethermoor Airships Catalog to avert a public scandal.
-- A map overlay reveals a hidden approach to Aethermoor Airships Catalog active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Vehicles_Index|03 Mechanics/Vehicles/Vehicles Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

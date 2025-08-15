@@ -22,9 +22,6 @@ updated: '2025-08-13T12:34:32.394810+00:00'
 world: Both
 ---
 
-
-
-
 # Abyss Mirror Lake
 
 The water ahead lies too still. In it, you see a sky that isn’t yours.
@@ -42,15 +39,9 @@ Possible outcomes
 - The mirror ripples wrong
 - Something in the reflection looks back
 
-## Cross-References
-
-- [[06_GM_Resources/Session_Packets/Aquabyssos Session 01]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

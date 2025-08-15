@@ -1,6 +1,6 @@
 {
   "title": "02_Worldbuilding/Groups/Crystal Preservation Society",
-  "prompt": "02 worldbuilding/groups/crystal preservation society, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting, crystal",
+  "prompt": "02 worldbuilding/groups/crystal preservation society, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
   "negative": "low quality, amateur, blurry",
   "settings": {
     "width": 512,
@@ -8,6 +8,6 @@
     "steps": 20,
     "cfg": 7
   },
-  "generated": "2025-08-14T23:05:11.461Z",
-  "sourceFile": "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Crystal Preservation Society.md"
+  "generated": "2025-08-15T00:16:10.873Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Groups/Crystal Preservation Society.md"
 }

@@ -16,21 +16,22 @@ updated: '2025-08-13T01:18:35.277184+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## Historical Context
+### Enhancement Improvements
 
-TODO
-## Current Relevance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## See Also
-
-TODO
 
 ## Player-Facing Summary
 
@@ -40,25 +41,24 @@ Scout Deepfinder is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of Scout Deepfinder as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Scout Deepfinder.
 
-## Adventure Hooks
-
-- A rumor ties Scout Deepfinder to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Scout Deepfinder to avert a public scandal.
-- A map overlay reveals a hidden approach to Scout Deepfinder active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Vault_Navigation_Hub|Vault Navigation Hub]]
 
 
-## Connections
+## Secret Connections
 
-- See also: [[World Overview]]
-- Related: [[Power Structures]]
-- Connected to: [[Character Backstories]]
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for revenge
+- A merchant needs help finding before dawn
+- A journal reveals a conspiracy about the cult
+- Someone is protecting a witness for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

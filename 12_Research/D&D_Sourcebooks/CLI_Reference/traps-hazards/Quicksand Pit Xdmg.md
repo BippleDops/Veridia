@@ -22,14 +22,30 @@ updated: '2025-08-13T12:34:05.040350+00:00'
 world: Both
 ---
 
-
-
 # Quicksand Pit
 *Generic Hazard*  
 
 A quicksand pit is 10 feet deep and covers the ground in a 10-foot square. A creature that enters the area sinks `1d4 + 1` feet into the quicksand and has the [[conditions#Restrained|Restrained]] condition. At the start of each of the creature's turns, it sinks another `d4` feet. As long as the creature isn't completely submerged in quicksand, it can take an action to try to escape, doing so with a successful Strength ([[skills#Athletics|Athletics]]) check (DC 10 plus the number of feet the creature has sunk into the quicksand). A creature that is completely submerged in quicksand has [[cover-xphb|Total Cover]] and the [[conditions#Blinded|Blinded]] condition and risks suffocation.
 
 A creature can pull another creature within its reach out of a quicksand pit by taking an action and succeeding on a Strength ([[skills#Athletics|Athletics]]) check (DC 5 plus the number of feet the creature has sunk into the quicksand).
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## At Higher Levels
 
@@ -52,19 +68,20 @@ Quicksand pit xdmg is a undersea element of the setting, known for bioluminescen
 
 Legends speak of quicksand pit xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around quicksand pit xdmg.
 
-## Adventure Hooks
-
-- A rumor ties quicksand pit xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at quicksand pit xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to quicksand pit xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals ancient history about the government
+- A stranger needs help investigating before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

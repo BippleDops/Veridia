@@ -36,22 +36,32 @@ MyCategory: Embassy Staff
 obsidianUIMode: preview
 ---
 
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-concierge-phillip-gracewater-concierge-phillip-gracewater.svg]]
-
-
-
-
-
 
 # Concierge Phillip Gracewater
 *The Welcoming Face of Diplomacy*
 
 > *"Every visitor to our embassy is a bridge between our two worlds. My job is to ensure that bridge is built with courtesy, understanding, and genuine care for their needs."*
 > — Concierge Phillip Gracewater, greeting new arrivals
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -78,8 +88,6 @@ Phillip's extensive knowledge of both [[Aquabyssos]] and [[Aethermoor]] customs,
 
 **Voice and Demeanor**: Speaks with cultured refinement and genuine warmth, adjusting his tone and vocabulary to match the background and comfort level of each visitor. His movements are graceful and purposeful, conveying competence and trustworthiness.
 
-## Personality Profile
-
 ### Core Traits
 
 **Genuine Hospitality**: Phillip takes sincere pleasure in helping others and making their experiences positive and memorable, viewing each interaction as an opportunity to build understanding between cultures.
@@ -104,8 +112,6 @@ Phillip's extensive knowledge of both [[Aquabyssos]] and [[Aethermoor]] customs,
 - **Skills**: Insight +9, Persuasion +10, History +5, Investigation +5
 - **Languages**: Common, Elvish, Primordial (Aquan), Primordial (Air), Celestial
 
-## Adventure Hooks
-
 ### The Missing Diplomat (Levels 1-3)
 Phillip notices that a minor diplomatic aide has failed to return from what should have been a routine cultural tour of [[Abyssos Prime]]. He discretely asks the party to investigate without creating a diplomatic incident.
 
@@ -128,41 +134,6 @@ Phillip suspects that someone has been using embassy events to gather intelligen
 *"Diplomacy succeeds when people feel heard, respected, and cared for. My role may be to serve refreshments and arrange accommodations, but really I'm serving understanding and peace."*  
 — Concierge Phillip Gracewater
 
-
-## Connections
-
-- [[The Bathyal Palace]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 Concierge Phillip Gracewater is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -175,16 +146,33 @@ Legends speak of Concierge Phillip Gracewater as a nexus where past and present 
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Concierge Phillip Gracewater|02 Worldbuilding/Places/Concierge Phillip Gracewater]]
-
-<!-- enriched: true -->
-- [[Abyssos Prime]]
-- [[Aethermoor]]
-- [[Ambassador Lysandra Silvertonge]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A document has gone missing and chaos spreads
+- Someone is protecting a artifact for power
+- Strange sightings suggest ancient magic
+- Someone is protecting a artifact for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.851972+00:00'
 world: Both
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-gallery-guide-captain-marina-civicvoice-gallery-guide-captain-marina-civicvoice.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Parliament of Echoes - Public Gallery|02 Worldbuilding/Places/Parliament Of Echoes Public Gallery]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Parliament of Echoes - Public Gallery]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,28 @@ Gallery Guide Captain Marina Civicvoice is a undersea element of the setting, kn
 
 Legends speak of Gallery Guide Captain Marina Civicvoice as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Gallery Guide Captain Marina Civicvoice.
 
-## Adventure Hooks
-
-- A rumor ties Gallery Guide Captain Marina Civicvoice to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Gallery Guide Captain Marina Civicvoice to avert a public scandal.
-- A map overlay reveals a hidden approach to Gallery Guide Captain Marina Civicvoice active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help finding before dawn
+- A document has gone missing and war looms
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

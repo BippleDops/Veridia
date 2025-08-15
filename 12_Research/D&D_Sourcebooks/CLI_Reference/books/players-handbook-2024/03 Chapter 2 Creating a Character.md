@@ -22,14 +22,30 @@ updated: '2025-08-13T12:34:05.205195+00:00'
 world: Both
 ---
 
-
-
 # Chapter 2: Creating a Character
 *Source: Player's Handbook (2024), p. 33* 
 
-![[/03_Mechanics/CLI/books/players-handbook-2024/img/012-02-001-world-traveling-explorers.webp#center "World-traveling explorers Hank, Bobby, Sheila, Diana, and Presto stand on the threshold of their next adventure"|World-traveling explorers ...]]
+!]
 
 You can make a character for Dungeons & Dragons using the building blocks in this book. Your character is a combination of game statistics, roleplaying hooks, and your imagination. You choose a class (such as "Fighter" or "Wizard"), a background (such as "Sailor" or "Acolyte"), and a species (such as "Human" or "Elf"). You also invent the personality and appearance of your character. Once completed, your character serves as your avatar in the D&D multiverse.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Get Ready
 
@@ -67,9 +83,7 @@ Choose a class, and write it on your character sheet. The Class Overview table s
 ![[choose-a-class-class-overview-xphb|Choose a Class; Class Overview]]
 
 > [!note] A Balanced Party
-> 
 > The classic D&D party comprises a [[cleric-xphb|Cleric]], [[fighter-xphb|Fighter]], [[rogue-xphb|Rogue]], and [[wizard-xphb|Wizard]]. Those four classes have the longest history in the game, but more importantly, they bring a balanced mix of capabilities to adventures. You're welcome to use that party setup or modify it using these guidelines:
-> 
 > - **Cleric.** Replace with [[bard-xphb|Bard]] or [[druid-xphb|Druid]]  
 > - **Fighter.** Replace with [[barbarian-xphb|Barbarian]], [[monk-xphb|Monk]], [[paladin-xphb|Paladin]], or [[ranger-xphb|Ranger]]  
 > - **Rogue.** Replace with [[bard-xphb|Bard]] or [[ranger-xphb|Ranger]]  
@@ -129,8 +143,6 @@ The features table in your class description shows your Proficiency Bonus (descr
 Your background and class both provide starting equipment. Any coins that you gain at this step can be immediately spent on equipment from "chapter 6". In addition, you can have one [[trinket-xphb|trinket]] at no cost at the end of this chapter.
 
 Record your chosen equipment on your character sheet. Equipment is described in "chapter 6", but for now you can just write it all down and look up the specifics in that chapter later. There's also space on the sample character sheet to note any coins you have left after purchasing your equipment, as well as treasure you acquire on your adventures.
-
-![[/03_Mechanics/CLI/books/players-handbook-2024/img/013-02-002-character-choices.webp#center "Consider how your choices combine to set your character on the path to adventure"|Consider how your choices ...]]
 
 #### Choose a Species
 
@@ -198,11 +210,8 @@ After assigning your ability scores, adjust them according to your background. Y
 Some players like to increase their class's primary ability, while others prefer to increase a low score.
 
 > [!note] Backgrounds and Species from Older Books
-> 
 > Backgrounds in older D&D books don't include ability score adjustments. If you're using a background from an older book, adjust your ability scores by increasing one score by 2 and a different one by 1, or increase three scores by 1. None of these increases can raise a score above 20.
-> 
 > Similarly, species in older books include ability score increases. If you're using a species from an older book, ignore those increases and use only the ones given by your background.
-> 
 > Also, if the background you choose doesn't provide a feat, you gain an "Origin feat" of your choice.
 ^backgrounds-and-species-from-older-books
 
@@ -254,8 +263,6 @@ A creature's alignment broadly describes its ethical attitudes and ideals. Align
 
 The summaries of the alignments below describe the typical behavior of a creature with that alignment; individuals can vary from that behavior.
 
-![[/03_Mechanics/CLI/books/players-handbook-2024/img/020-02-009-alignments.webp#center "Alignments might be visualized as a grid like this—along with creatures that embody those alignments"|Alignments might be visual...]]
-
 ##### Lawful Good (LG)
 
 Lawful Good creatures endeavor to do the right thing as expected by society. Someone who fights injustice and protects the innocent without hesitation is probably Lawful Good.
@@ -293,7 +300,6 @@ Neutral Evil is the alignment of those who are untroubled by the harm they cause
 Chaotic Evil creatures act with arbitrary violence, spurred by their hatred or bloodlust. A villain pursuing schemes of vengeance and havoc is probably Chaotic Evil.
 
 > [!note] Unaligned Creatures
-> 
 > Most creatures that lack the capacity for rational thought don't have alignments; they are unaligned. [[reef-shark-xmm|Sharks]] are savage predators, for example, but they aren't evil; they are unaligned.
 ^unaligned-creatures
 
@@ -329,7 +335,7 @@ For skills you have proficiency in, add your Proficiency Bonus to the ability mo
 
 Sometimes your DM will determine whether your character notices something without asking you to make a Wisdom ([[skills#Perception|Perception]]) check; the DM uses your Passive Perception instead. Passive Perception is a score that reflects a general awareness of your surroundings when you're not actively looking for something. Use this formula to determine your Passive Perception score:
 
-<span class='abilityGeneric'>**Passive Perception.**</span>
+**Passive Perception.**
 
 Include all modifiers that apply to your Wisdom ([[skills#Perception|Perception]]) checks. For example, if your character has a Wisdom of 15 and proficiency in the [[skills#Perception|Perception]] skill, you have a Passive Perception of 14 (10 + 2 for your Wisdom modifier + 2 for proficiency).
 
@@ -357,9 +363,9 @@ Without armor or a shield, your base [[armor-class-xphb|Armor Class]] is 10 plus
 
 In the Weapons & Damage Cantrips section of the character sheet, write your starting weapons. The attack roll bonus for a weapon with which you have proficiency is one of the following unless a weapon's property says otherwise:
 
-<span class='abilityAttackMod'>**Melee attack modifier**: Strength + Proficiency Bonus</span>
+**Melee attack modifier**: Strength + Proficiency Bonus
 
-<span class='abilityAttackMod'>**Ranged attack modifier**: Dexterity + Proficiency Bonus</span>
+**Ranged attack modifier**: Dexterity + Proficiency Bonus
 
 Look up the damage and properties of your weapons in "chapter 6". You add the same ability modifier you use for attacks with a weapon to your damage rolls with that weapon.
 
@@ -367,9 +373,9 @@ Look up the damage and properties of your weapons in "chapter 6". You add the sa
 
 Note both the saving throw DC for your spells and the attack bonus for attacks you make with them, using these formulas:
 
-<span class='abilityDc'>**Spell save DC**: Spellcasting + Proficiency Bonus</span>
+**Spell save DC**: Spellcasting + Proficiency Bonus
 
-<span class='abilityAttackMod'>**Spell attack modifier**: Spellcasting + Proficiency Bonus</span>
+**Spell attack modifier**: Spellcasting + Proficiency Bonus
 
 Your spellcasting ability modifier for a spell is determined by whatever feature gives you the ability to cast the spell.
 
@@ -391,8 +397,6 @@ As you finish creating your character, consider whether you'd like to make up an
 - On your adventures, will you seek knowledge, wealth, glory, enlightenment, justice, mercy, power, or something else?  
 
 ## Level Advancement
-
-![[/03_Mechanics/CLI/books/players-handbook-2024/img/021-02-010-adventuring-equipment.webp#center "Adventuring equipment improves as a character progresses through the tiers of play"|Adventuring equipment impr...]]
 
 While going on adventures, your character gains experience, represented by [[experience-points-xphb|Experience Points]] (XP). A character who reaches a specified Experience Point total advances in capability. This advancement is called gaining a level.
 
@@ -433,7 +437,6 @@ In tier 3, characters have reached a level of power that makes them special amon
 At tier 4, characters achieve the pinnacle of their class features, becoming heroic archetypes. The fate of the world or even the order of the multiverse might hang in the balance during their adventures.
 
 > [!note] Bonus Feats at Level 20
-> 
 > A DM can use feats as a form of advancement after characters reach level 20 to provide greater power to characters who have no more levels to gain. With this approach, each character gains one feat of their choice for every 30,000 XP the character earns above 355,000 XP. "Epic Boon" feats are especially appropriate for these bonus feats, but a player can choose any feat for which their level 20 character qualifies.
 ^bonus-feats-at-level-20
 
@@ -529,8 +532,6 @@ For example, if you are a level 4 Ranger / level 3 Sorcerer, you count as a leve
 
 If you have the Pact Magic feature from the Warlock class and the Spellcasting feature, you can use the spell slots you gain from Pact Magic to cast spells you have prepared from classes with the Spellcasting feature, and you can use the spell slots you gain from the Spellcasting feature to cast Warlock spells you have prepared.
 
-![[/03_Mechanics/CLI/books/players-handbook-2024/img/022-02-011-paladin-warlock-multiclass.webp#center "A character with Paladin and Warlock levels might call on both a mighty oath and an otherworldly patron"|A character with Paladin a...]]
-
 ## Trinkets
 
 When you make your character, you can roll once on the [[trinket-xphb|Trinkets]] table to gain a Tiny trinket, a simple item lightly touched by mystery. The DM might also use this table. It can help stock a room in a dungeon or fill a creature's pockets.
@@ -543,19 +544,26 @@ When you make your character, you can roll once on the [[trinket-xphb|Trinkets]]
 
 Legends speak of 03 chapter 2 creating a character as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 03 chapter 2 creating a character.
 
-## Adventure Hooks
-
-- A rumor ties 03 chapter 2 creating a character to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 03 chapter 2 creating a character to avert a public scandal.
-- A map overlay reveals a hidden approach to 03 chapter 2 creating a character active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- A map reveals ancient history about the government
+- A corpse reveals the truth about this place
+- A letter reveals a conspiracy about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

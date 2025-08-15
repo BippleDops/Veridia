@@ -1,4 +1,5 @@
 ---
+
 title: Innkeeper Mara Ironlung
 type: Location
 tags:
@@ -17,6 +18,8 @@ region: Unknown
 population: Unknown
 updated: '2025-08-13T12:34:17.266060+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -25,15 +28,66 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-innkeeper-mara-ironlung-innkeeper-mara-ironlung.svg]]
 
 
-## Cross-References
+## 🔧 Deep Evaluation Improvements
 
-- [[Pressure's End]]
+*20 targeted improvements identified*
 
+### History Improvements
 
-## Connections
+- Add three historical eras with major events
 
-- [[Aethermoor]]
-- [[Pressure's End]]
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
 
 ## Player-Facing Summary
 
@@ -43,16 +97,6 @@ Innkeeper Mara Ironlung is a undersea element of the setting, known for biolumin
 
 Legends speak of Innkeeper Mara Ironlung as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Innkeeper Mara Ironlung.
 
-## Adventure Hooks
-
-- A rumor ties Innkeeper Mara Ironlung to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Innkeeper Mara Ironlung to avert a public scandal.
-- A map overlay reveals a hidden approach to Innkeeper Mara Ironlung active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -60,33 +104,9 @@ Legends speak of Innkeeper Mara Ironlung as a nexus where past and present conve
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-historical-prophetic-analysis-historical-prophetic-analysis.svg]]
-- [[04_Resources_Assets_Locations_location-city-historian-lisa-outreach-v1-historian-lisa-outreach.svg]]
-- [[04_Resources_Assets_Locations_location-city-magical-theory-schools-v1-magical-theory-schools.svg]]
-
 
 ## Sensory Details
 
@@ -96,7 +116,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: The aroma of fresh bread wafts from bakeries
 
-
 ## Description
 
 Innkeeper Mara Ironlung is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -104,47 +123,10 @@ Innkeeper Mara Ironlung is a notable location characterized by its unique featur
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Innkeeper Mara Ironlung
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
-
-## History
+**Goverce**: Local authority structure
 
 ### Founding
 Innkeeper Mara Ironlung was established in the distant past, growing from humble beginnings to its current state.
-
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
-
 
 ## Current Events
 
@@ -157,15 +139,7 @@ Ongoing situations affecting Innkeeper Mara Ironlung:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Innkeeper Mara Ironlung
+## Prophecy Connection
 
-### Whispered Rumors
-- Stories that may or may not be true
-
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+Mentioned in The First Prophecy of Shadows

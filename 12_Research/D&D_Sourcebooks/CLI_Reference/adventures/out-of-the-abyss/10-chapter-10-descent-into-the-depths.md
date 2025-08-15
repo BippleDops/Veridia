@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.643027'
 world: Both
 ---
 
-
 # Chapter 10: Descent into the Depths
 *Source: Out of the Abyss, p. 143* 
 
@@ -32,6 +31,24 @@ Much of this middle section of the adventure is free-form, dictated largely by t
 The events described in chapters 13 through 16 can be interspersed among the material in this part of the adventure, as the characters work to fully understand the new menaces that have appeared in the Underdark, seek new allies and information, and ultimately attempt to create a plan to end the demon lord threat.
 
 Character advancement through this section of the adventure is important. The journey from Mantol-Derith to Gravenhollow should involve sufficient encounters and challenges for the characters to reach 10th level by the time they visit the stone giant library. As the characters travel from place to place, check for random encounters as normal (see chapter 2), but swap out the creature encounters with ones presented in this chapter. Ideally, the characters should be 14th level by the time they crash Zuggtmoy's wedding (chapter 16, "The Fetid Wedding"), and 15th level for the final showdown against the demon lords (see chapter 17, "Against the Demon Lords").
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Fellow Travelers
 
@@ -106,12 +123,11 @@ The adventurers are in command of their NPC followers, and that means they are r
 
 #### Chain of Command
 
-In addition to deciding how the expeditionary force is organized and distributed (see "Marching Orders"), the players must also institute a clear chain of command. One or more of the adventurers might be the field commanders of the expanded party, while others serve as lieutenants. Likewise, the adventurers might appoint some of the NPCs to command positions. Without a clear chain of command, information might not go to the right people, and decisions might not get made quickly enough—or at all. Adding to the challenge of maintaining discipline is the ever-present threat of demonic madness growing among the ranks, creating problems even for seasoned and professional troops (see "Heart of Darkness").
+In addition to deciding how the expeditionary force is organized and distributed (see "Marching Orders"), the players must also institute a clear chain of command. One or more of the adventurers might be the field commanders of the expanded party, while others serve as lieutets. Likewise, the adventurers might appoint some of the NPCs to command positions. Without a clear chain of command, information might not go to the right people, and decisions might not get made quickly enough—or at all. Adding to the challenge of maintaining discipline is the ever-present threat of demonic madness growing among the ranks, creating problems even for seasoned and professional troops (see "Heart of Darkness").
 
 If the expeditionary force is made up of diverse factions, the players also need to decide how much latitude to give those factions. For example, Zhentarim mercenaries might be eager to torture prisoners for information unless the characters put a stop to it, and members of the Emerald Enclave might place a higher priority on maintaining the balance of nature in the Underdark than on political struggles.
 
 > [!note] Splitting the Party
-> 
 > You can change up the feel of these later chapters of *Out of the Abyss* by allowing the players to take on the roles of their faction allies as well as their regular characters. This can range from letting each player control the overall actions of the NPCs in a single faction, to creating multiple subgroups so that characters can split off and have their own adventures. While this involves a good deal more coordination among the game group, it can add a lot of detail, intrigue, and interaction to the campaign.
 ^splitting-the-party
 
@@ -214,7 +230,6 @@ One or more NPC party members contract a disease. Roll a `d4` to determine how m
 `dice: [](10-chapter-10-descent-into-the-depths.md#^disease)`
 
 | dice: d6 | Disease |
-|----------|---------|
 | 1–2 | Cackle fever |
 | 3–4 | Sewer plague |
 | 5 | Sight rot |
@@ -228,7 +243,6 @@ One NPC party member goes mad. To determine the kind of madness, roll a `d6` and
 `dice: [](10-chapter-10-descent-into-the-depths.md#^madness)`
 
 | dice: d6 | Madness |
-|----------|---------|
 | 1–3 | Short-term madness |
 | 4–5 | Long-term madness |
 | 6 | Indefinite madness |
@@ -364,20 +378,18 @@ If the adventurers return to the drow outpost where they were imprisoned, they f
 
 Legends speak of 10 chapter 10 descent into the depths as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 10 chapter 10 descent into the depths.
 
-## Adventure Hooks
-
-- A rumor ties 10 chapter 10 descent into the depths to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 10 chapter 10 descent into the depths to avert a public scandal.
-- A map overlay reveals a hidden approach to 10 chapter 10 descent into the depths active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals a betrayal about the cult
+- An heirloom has gone missing and chaos spreads

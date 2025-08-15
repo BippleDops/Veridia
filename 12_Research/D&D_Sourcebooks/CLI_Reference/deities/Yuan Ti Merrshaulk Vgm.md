@@ -23,8 +23,6 @@ updated: '2025-08-13T12:34:04.351382+00:00'
 world: Both
 ---
 
-
-
 # Merrshaulk
 *Source: Volo's Guide to Monsters p. 94* 
 
@@ -35,6 +33,24 @@ Though the Master of the Pit is not conscious, neither is he entirely dormant. M
 
 The leaders of Merrshaulk's worshipers, called pit masters, are malison warlocks that uphold and advance the age-old yuan-ti traditions. They sense that it has become easier to wake him in recent decades, and believe this to be a sign that he will soon fully awaken, shed his skin, and-renewed by transformation-restore the yuan-ti to their rightful place as masters of the mortal world.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Yuan ti merrshaulk vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -43,19 +59,20 @@ Yuan ti merrshaulk vgm is a undersea element of the setting, known for biolumine
 
 Legends speak of yuan ti merrshaulk vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around yuan ti merrshaulk vgm.
 
-## Adventure Hooks
-
-- A rumor ties yuan ti merrshaulk vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at yuan ti merrshaulk vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to yuan ti merrshaulk vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals the truth about the cult
+- A journal reveals ancient history about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

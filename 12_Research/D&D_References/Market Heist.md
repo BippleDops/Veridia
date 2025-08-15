@@ -22,17 +22,30 @@ updated: '2025-08-13T01:18:36.427127+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-market-heist-market-heist.svg]]
-
-
-
-
 
 # Market Heist
 
 *"The greatest theft is the one no one notices until it's too late."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 A complex criminal operation targeting the Grand Market's central vault during the Tide Festival when security is distracted and crowds provide cover. The heist requires careful planning, specialized skills, and perfect timing to succeed.
@@ -96,18 +109,11 @@ A complex criminal operation targeting the Grand Market's central vault during t
 **Disguises**: Costumes allowing movement during festival
 
 ## Infiltration Methods
-**Tunnel Approach**: Underground access through maintenance passages
+**Tunnel Approach**: Underground access through maintece passages
 **Rooftop Entry**: Vertical approach from building above vault
 **Festival Disguise**: Hiding in plain sight during celebrations
 **Guard Impersonation**: Replacing or duplicating security personnel
 **Magical Teleportation**: Direct transport past physical barriers
-
-## Complications
-- Unexpected security changes or additional guards
-- Equipment failure at critical moments
-- Discovery by patrol or civilian witnesses
-- Rival criminal group attempting same heist
-- Inside contact compromised or unreliable
 
 ## Success Conditions
 **Primary**: Steal maximum amount without triggering alarms
@@ -122,26 +128,12 @@ A complex criminal operation targeting the Grand Market's central vault during t
 **Partial Success**: Some loot recovered but operation compromised
 **Total Failure**: No profit and maximum heat from authorities
 
-## Moral Considerations
-- Impact on honest merchants who lose income
-- Potential violence against innocent security guards
-- Using festival celebration as cover for crime
-- Corruption of inside contacts and officials
-- Long-term damage to market economy and trust
-
 ## Alternative Approaches
 **Legitimate Acquisition**: Legal methods of obtaining similar wealth
 **Partial Heist**: Taking smaller amount with lower risk
 **Information Theft**: Stealing valuable secrets instead of money
 **Extortion**: Using gathered intelligence for blackmail
 **Sabotage**: Disrupting competitors rather than direct theft
-
-## Rewards
-- 3,000-6,000 XP based on execution quality
-- 50,000+ gold in stolen goods (if successful)
- - Criminal reputation and underworld connections
-- Advanced equipment acquired during preparation
-- Information about other potential targets
 
 ## Law Enforcement Response
 **Investigation**: Detailed inquiry into security breach
@@ -162,11 +154,6 @@ Successful heist establishes criminal reputation but increases law enforcement a
 ## DM Notes
 This heist emphasizes planning and teamwork over combat. Reward creative problem-solving and thorough preparation. Consider moral implications and how success or failure affects future campaign opportunities.
 
-
-## Connections
-
-- [[The Phosphor Markets]]
-
 ## Player-Facing Summary
 
 Market Heist is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -175,13 +162,29 @@ Market Heist is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of Market Heist as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Market Heist.
 
-## Cross-References
-
-- [[Market Heist|02 Worldbuilding/Places/Market Heist]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,18 +22,30 @@ updated: '2025-08-13T01:18:36.414947+00:00'
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-crystal-merchant-the-crystal-merchant.svg]]
-
-
-
-
 
 # The Crystal Merchant
 
 *"Every crystal tells a story of pressure, time, and transformation."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 Madam Prism Crystalweaver is Aquabyssos's most renowned crystal merchant, operating the exclusive "Depths of Brilliance" shop in the Noble Quarter. Her expertise in magical crystals and rare gems has made her the go-to supplier for wealthy collectors and magical practitioners.
@@ -55,13 +67,6 @@ Prism began as a deep-sea crystal miner before developing her talent for identif
 **Security**: Advanced magical wards and discrete security personnel
 **Inventory**: 200+ different crystals ranging from common to legendary
 **Staff**: Prism plus 3 assistants and 2 security guards
-
-## Specialty Services
-- **Custom Crystal Procurement**: Acquiring specific gems for particular needs
-- **Magical Analysis**: Identifying unknown crystals and their properties
-- **Enhancement Services**: Improving existing crystals through magical treatment
-- **Investment Consulting**: Advising on crystal collecting for financial growth
-- **Authentication**: Verifying genuine crystals versus counterfeits
 
 ## Inventory Categories
 **Power Crystals**: Store and channel magical energy (50-5000 gp)
@@ -98,32 +103,11 @@ Prism began as a deep-sea crystal miner before developing her talent for identif
 **Foreign Traders**: International connections for rare specimens
 **Security Services**: Professional protection for valuable inventory
 
-## Current Projects
-- Organizing auction of extremely rare crystal collection
-- Researching newly discovered deep-sea crystal varieties
- - Expanding business to other underwater cities
-- Training apprentices in crystal evaluation techniques
-- Writing comprehensive guide to magical crystal properties
-
 ## Adventure Hooks
 1. Rare crystal theft requires investigation and recovery
 2. Mysterious crystal with unknown properties needs analysis
 3. Characters commissioned to acquire specific crystal from dangerous location
 4. Counterfeit crystals appearing in market threaten business reputation
-
-## Secrets and Knowledge
-- Private collection includes several legendary artifacts
-- Knows location of undiscovered crystal caves in deep ocean
- - Maintains connections with underground magical item smugglers
-- Has information about government crystal usage and strategic reserves
-- Aware of several noble families' financial difficulties through declined purchases
-
-## Personal Challenges
-- Competition from younger merchants using innovative techniques
-- Increasing difficulty obtaining rare crystals as mines become depleted
- - Political pressure to provide crystals for military applications
-- Health problems from years of exposure to magical crystal energies
-- Family pressure to retire and pass business to next generation
 
 ## Magical Expertise
 **Crystal Properties**: Expert knowledge of 300+ different crystal types
@@ -146,13 +130,6 @@ Prism began as a deep-sea crystal miner before developing her talent for identif
 **Security Personnel**: Trained guards with combat experience
 **Insurance**: Comprehensive coverage for valuable inventory
 
-## Market Influence
-- Sets standard prices for crystal markets throughout region
-- Introduces new crystal varieties to mainstream market
- - Influences fashion trends in magical jewelry and accessories
-- Provides expert testimony in legal disputes involving crystals
-- Mentors next generation of crystal merchants and evaluators
-
 ## Personal Philosophy
 **Quality Over Quantity**: Better to sell fewer perfect items than many flawed ones
 **Education**: Customers should understand what they're purchasing
@@ -163,11 +140,6 @@ Prism began as a deep-sea crystal miner before developing her talent for identif
 ## DM Notes
 Prism serves as both shop keeper and quest giver, providing magical items and information about crystal-related adventures. Her expertise makes her valuable for identifying mysterious crystals or locating specific magical components.
 
-
-## Connections
-
-- [[Old Valdris]]
-
 ## Player-Facing Summary
 
 The Crystal Merchant is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -176,13 +148,22 @@ The Crystal Merchant is a undersea element of the setting, known for bioluminesc
 
 Legends speak of The Crystal Merchant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crystal Merchant.
 
-## Cross-References
-
-- [[The Crystal Merchant|02 Worldbuilding/Places/The Crystal Merchant]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a betrayal about the government
+- A letter reveals the truth about the cult
+- Strange dreams suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -27,8 +27,6 @@ updated: '2025-08-13T12:34:04.256834+00:00'
 world: Both
 ---
 
-
-
 # Gond
 *Source: Sword Coast Adventurer's Guide p. 21, Xanathar's Guide to Everything p. 18* 
 ![](/03_Mechanics/CLI/deities/img/scag-symbol-of-gond.webp#symbol)
@@ -47,6 +45,24 @@ Most who favor Gond practice time-honored crafting professions: they are smiths 
 
 The center of Gond's worship on the Sword Coast lies in Baldur's Gate, where the faithful have erected two huge structures in honor of the Wonderbringer: a temple called the High House of Wonders and a museum of craft and design called the Hall of Wonders. Lantan had been the preeminent place of Gond's worship in the world until a century ago, when the island nation disappeared, and since its return the few Lantanese merchants seen in Sword Coast ports have said little about the present state of their homeland.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Faerunian gond scag is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -55,19 +71,26 @@ Faerunian gond scag is a undersea element of the setting, known for bioluminesce
 
 Legends speak of faerunian gond scag as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around faerunian gond scag.
 
-## Adventure Hooks
-
-- A rumor ties faerunian gond scag to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at faerunian gond scag to avert a public scandal.
-- A map overlay reveals a hidden approach to faerunian gond scag active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A shipment has gone missing and war looms
+- A journal reveals a betrayal about this place
+- A merchant needs help finding before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

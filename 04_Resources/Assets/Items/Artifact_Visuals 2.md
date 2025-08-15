@@ -12,13 +12,9 @@ rarity: Unknown
 value: Unknown
 ---
 
-# Magical Artifact Visualization Prompts
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

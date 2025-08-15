@@ -22,9 +22,6 @@ updated: '2025-08-13T12:34:32.394199+00:00'
 world: Both
 ---
 
-
-
-
 # Void Moan
 
 The wind stops. A pressure like silence pushes against your thoughts.
@@ -42,15 +39,9 @@ Possible outcomes
 - Someone freezes up
 - The quiet gets inside
 
-## Cross-References
-
-- [[06_GM_Resources/Session_Packets/Aethermoor Session 01]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

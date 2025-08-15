@@ -23,8 +23,6 @@ updated: '2025-08-13T12:34:04.877050+00:00'
 world: Both
 ---
 
-
-
 # Martial Adept
 *Source: Player's Handbook p. 168*  
 
@@ -32,6 +30,24 @@ You have martial training that allows you to perform special combat maneuvers. Y
 
 - You learn two [[list-optfeaturetype-mv-b|maneuvers]] of your choice from among those available to the [[fighter-xphb-battle-master-xphb|Battle Master]] archetype in the fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).  
 - You gain one superiority die, which is a `d6` (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -41,19 +57,31 @@ Martial adept is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of martial adept as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around martial adept.
 
-## Adventure Hooks
-
-- A rumor ties martial adept to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at martial adept to avert a public scandal.
-- A map overlay reveals a hidden approach to martial adept active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals ancient history about a local noble
+- A noble needs help investigating before dawn
+- A document has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

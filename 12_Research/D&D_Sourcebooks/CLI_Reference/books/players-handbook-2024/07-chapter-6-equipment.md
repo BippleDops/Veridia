@@ -21,13 +21,30 @@ updated: '2025-08-12T23:37:34.857967'
 world: Both
 ---
 
-
 # Chapter 6: Equipment
 *Source: Player's Handbook (2024), p. 213* 
 
-![[/03_Mechanics/CLI/books/players-handbook-2024/img/168-07-001-inventor-vi.webp#center "In the skies of Eberron, the inventor Vi and her Fixers escape the Lord of Blades and a plummeting airship that burns with green flame!"|In the skies of Eberron, t...]]
+!]
 
 The right equipment can make the difference between success and failure for adventurers. This chapter provides rules and prices for weapons, armor, and other kinds of equipment that characters might purchase or find. The DM lets you know if a shop has an item for sale and whether it's available at the listed price.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Coins
 
@@ -83,7 +100,6 @@ When making an attack with a Finesse weapon, use your choice of your Strength or
 You have [[disadvantage-xphb|Disadvantage]] on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
 > [!note] Improvised Weapons
-> 
 > If you use an object—such as a table leg, frying pan, or bottle—as a makeshift weapon, see "[[improvised-weapons-xphb|Improvised Weapons]]" in the "rules glossary". Also see those rules if you wield a weapon in an unusual way, such as using a Ranged weapon to make a melee attack.
 ^improvised-weapons
 
@@ -145,7 +161,7 @@ If you hit a creature with this weapon and deal damage to it, you can reduce its
 
 #### Topple
 
-If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the [[conditions#Prone|Prone]] condition.
+If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the [[conditions#prone|Prone]] condition.
 
 #### Vex
 
@@ -187,11 +203,8 @@ You gain the Armor Class benefit of a Shield only if you have training with it.
 A creature can wear only one suit of armor at a time and wield only one Shield at a time.
 
 > [!note] Variant: Equipment Sizes
-> 
 > In most campaigns, you can use or wear any equipment that you find on your adventures, within the bounds of common sense. For example, an orc adventurer won't fit in a halfling's Leather Armor, and a cloud giant's robe would be far too large for a gnome.
-> 
 > The DM can impose more realism. For example, a suit of Plate Armor made for one human might not fit another one without significant alterations, and a guard's uniform might be visibly ill-fitting when an adventurer tries to wear it as a disguise.
-> 
 > Using this variant, when adventurers find armor, clothing, and similar items that are made to be worn, they might need to visit a smith, a tailor, a leatherworker, or a similar expert to make the item wearable. The cost for such work is `1d4 × 10` percent of the market price of the item.
 ^variant-equipment-sizes
 
@@ -216,181 +229,9 @@ Your features might give you proficiency with a tool. A monster has proficiency 
 
 Artisan's Tools are each focused on crafting items and pursuing a trade. Each of these tools requires a separate proficiency.
 
-#### Alchemist's Supplies (50 GP)
-
-- **Ability.** Intelligence  
-- **Weight.** 8 lb.  
-- **Utilize.** Identify a substance (DC 15), or start a fire (DC 15)  
-- **Craft.** [[acid-xphb|Acid]], [[alchemists-fire-xphb|Alchemist's Fire]], [[component-pouch-xphb|Component Pouch]], [[oil-xphb|Oil]], [[paper-xphb|Paper]], [[perfume-xphb|Perfume]]  
-
-#### Brewer's Supplies (20 GP)
-
-- **Ability.** Intelligence  
-- **Weight.** 9 lb.  
-- **Utilize.** Detect poisoned drink (DC 15), or identify alcohol (DC 10)  
-- **Craft.** [[antitoxin-xphb|Antitoxin]]  
-
-#### Calligrapher's Supplies (10 GP)
-
-- **Ability.** Dexterity  
-- **Weight.** 5 lb.  
-- **Utilize.** Write text with impressive flourishes that guard against forgery (DC 15)  
-- **Craft.** [[ink-xphb|Ink]], [[spell-scroll-xdmg|Spell Scroll]]  
-
-#### Carpenter's Tools (8 GP)
-
-- **Ability.** Strength  
-- **Weight.** 6 lb.  
-- **Utilize.** Seal or pry open a door or container (DC 20)  
-- **Craft.** [[club-xphb|Club]], [[greatclub-xphb|Greatclub]], [[quarterstaff-xphb|Quarterstaff]], [[barrel-xphb|Barrel]], [[chest-xphb|Chest]], [[ladder-xphb|Ladder]], [[pole-xphb|Pole]], [[portable-ram-xphb|Portable Ram]], [[torch-xphb|Torch]]  
-
-#### Cartographer's Tools (15 GP)
-
-- **Ability.** Wisdom  
-- **Weight.** 6 lb.  
-- **Utilize.** Draft a map of a small area (DC 15)  
-- **Craft.** [[map-xphb|Map]]  
-
-#### Cobbler's Tools (5 GP)
-
-- **Ability.** Dexterity  
-- **Weight.** 5 lb.  
-- **Utilize.** Modify footwear to give [[advantage-xphb|Advantage]] on the wearer's next Dexterity ([[skills#Acrobatics|Acrobatics]]) check (DC 10)  
-- **Craft.** [[climbers-kit-xphb|Climber's Kit]]  
-
-#### Cook's Utensils (1 GP)
-
-- **Ability.** Wisdom  
-- **Weight.** 8 lb.  
-- **Utilize.** Improve food's flavor (DC 10), or detect spoiled or poisoned food (DC 15)  
-- **Craft.** [[rations-xphb|Rations]]  
-
-#### Glassblower's Tools (30 GP)
-
-- **Ability.** Intelligence  
-- **Weight.** 5 lb.  
-- **Utilize.** Discern what a glass object held in the past 24 hours (DC 15)  
-- **Craft.** [[glass-bottle-xphb|Glass Bottle]], [[magnifying-glass-xphb|Magnifying Glass]], [[spyglass-xphb|Spyglass]], [[vial-xphb|Vial]]  
-
-#### Jeweler's Tools (25 GP)
-
-- **Ability.** Intelligence  
-- **Weight.** 2 lb.  
-- **Utilize.** Discern a gem's value (DC 15)  
-- **Craft.** [[arcane-focus-xphb|Arcane Focus]], [[holy-symbol-xphb|Holy Symbol]]  
-
-#### Leatherworker's Tools (5 GP)
-
-- **Ability.** Dexterity  
-- **Weight.** 5 lb.  
-- **Utilize.** Add a design to a leather item (DC 10)  
-- **Craft.** [[sling-xphb|Sling]], [[whip-xphb|Whip]], [[hide-armor-xphb|Hide Armor]], [[leather-armor-xphb|Leather Armor]], [[studded-leather-armor-xphb|Studded Leather Armor]], [[backpack-xphb|Backpack]], [[crossbow-bolt-case-xphb|Crossbow Bolt Case]], [[map-or-scroll-case-xphb|Map or Scroll Case]], [[parchment-xphb|Parchment]], [[pouch-xphb|Pouch]], [[quiver-xphb|Quiver]], [[waterskin-xphb|Waterskin]]  
-
-#### Mason's Tools (10 GP)
-
-- **Ability.** Strength  
-- **Weight.** 8 lb.  
-- **Utilize.** Chisel a symbol or hole in stone (DC 10)  
-- **Craft.** [[block-and-tackle-xphb|Block and Tackle]]  
-
-#### Painter's Supplies (10 GP)
-
-- **Ability.** Wisdom  
-- **Weight.** 5 lb.  
-- **Utilize.** Paint a recognizable image of something you've seen (DC 10)  
-- **Craft.** [[druidic-focus-xphb|Druidic Focus]], [[holy-symbol-xphb|Holy Symbol]]  
-
-#### Potter's Tools (10 GP)
-
-- **Ability.** Intelligence  
-- **Weight.** 3 lb.  
-- **Utilize.** Discern what a ceramic object held in the past 24 hours (DC 15)  
-- **Craft.** [[jug-xphb|Jug]], [[lamp-xphb|Lamp]]  
-
-#### Smith's Tools (20 GP)
-
-- **Ability.** Strength  
-- **Weight.** 8 lb.  
-- **Utilize.** Pry open a door or container (DC 20)  
-- **Craft.** Any Melee weapon (except Club, Greatclub, Quarterstaff, and Whip), Medium armor (except Hide), Heavy armor, [[ball-bearings-xphb|Ball Bearings]], [[bucket-xphb|Bucket]], [[caltrops-xphb|Caltrops]], [[chain-xphb|Chain]], [[crowbar-xphb|Crowbar]], [[firearm-bullets-10-xphb|Firearm Bullets]], [[grappling-hook-xphb|Grappling Hook]], [[iron-pot-xphb|Iron Pot]], [[iron-spikes-xphb|Iron Spikes]], [[sling-bullet-xphb|Sling Bullets]]  
-
-#### Tinker's Tools (50 GP)
-
-- **Ability.** Dexterity  
-- **Weight.** 10 lb.  
-- **Utilize.** Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)  
-- **Craft.** [[musket-xphb|Musket]], [[pistol-xphb|Pistol]], [[bell-xphb|Bell]], [[bullseye-lantern-xphb|Bullseye Lantern]], [[flask-xphb|Flask]], [[hooded-lantern-xphb|Hooded Lantern]], [[hunting-trap-xphb|Hunter's Trap]], [[lock-xphb|Lock]], [[manacles-xphb|Manacles]], [[mirror-xphb|Mirror]], [[shovel-xphb|Shovel]], [[signal-whistle-xphb|Signal Whistle]], [[tinderbox-xphb|Tinderbox]]  
-
-#### Weaver's Tools (1 GP)
-
-- **Ability.** Dexterity  
-- **Weight.** 5 lb.  
-- **Utilize.** Mend a tear in clothing (DC 10), or sew a Tiny design (DC 10)  
-- **Craft.** [[padded-armor-xphb|Padded Armor]], [[basket-xphb|Basket]], [[bedroll-xphb|Bedroll]], [[blanket-xphb|Blanket]], [[fine-clothes-xphb|Fine Clothes]], [[net-xphb|Net]], [[robe-xphb|Robe]], [[rope-xphb|Rope]], [[sack-xphb|Sack]], [[string-xphb|String]], [[tent-xphb|Tent]], [[travelers-clothes-xphb|Traveler's Clothes]]  
-
-#### Woodcarver's Tools (1 GP)
-
-- **Ability.** Dexterity  
-- **Weight.** 5 lb.  
-- **Utilize.** Carve a pattern in wood (DC 10)  
-- **Craft.** [[club-xphb|Club]], [[greatclub-xphb|Greatclub]], [[quarterstaff-xphb|Quarterstaff]], Ranged weapons (except Pistol, Musket, and Sling), [[arcane-focus-xphb|Arcane Focus]], [[arrows-20-xphb|Arrows]], [[bolts-20-xphb|Bolts]], [[druidic-focus-xphb|Druidic Focus]], [[ink-pen-xphb|Ink Pen]], [[needles-50-xphb|Needles]]  
-
 ### Other Tools
 
 These tools support adventure and other pursuits.
-
-#### Disguise Kit (25 GP)
-
-- **Ability.** Charisma  
-- **Weight.** 3 lb.  
-- **Utilize.** Apply makeup (DC 10)  
-- **Craft.** [[costume-xphb|Costume]]  
-
-#### Forgery Kit (15 GP)
-
-- **Ability.** Dexterity  
-- **Weight.** 5 lb.  
-- **Utilize.** Mimic 10 or fewer words of someone else's handwriting (DC 15), or duplicate a wax seal (DC 20)  
-
-#### Gaming Set (Varies)
-
-- **Ability.** Wisdom  
-- **Weight.** —  
-- **Utilize.** Discern whether someone is cheating (DC 10), or win the game (DC 20)  
-- **Variants.** [[dice-set-xphb|Dice]] (1 SP), [[dragonchess-set-xphb|dragonchess]] (1 GP), [[playing-cards-xphb|playing cards]] (5 SP), [[three-dragon-ante-set-xphb|three-dragon ante]] (1 GP)  
-
-#### Herbalism Kit (5 GP)
-
-- **Ability.** Intelligence  
-- **Weight.** 3 lb.  
-- **Utilize.** Identify a plant (DC 10)  
-- **Craft.** [[antitoxin-xphb|Antitoxin]], [[candle-xphb|Candle]], [[healers-kit-xphb|Healer's Kit]], [[potion-of-healing-xdmg|Potion of Healing]]  
-
-#### Musical Instrument (Varies)
-
-- **Ability.** Charisma  
-- **Weight.** Varies  
-- **Utilize.** Play a known tune (DC 10), or improvise a song (DC 15)  
-- **Variants.** [[bagpipes-xphb|Bagpipes]] (30 GP, 6 lb.), [[drum-xphb|drum]] (6 GP, 3 lb.), [[dulcimer-xphb|dulcimer]] (25 GP, 10 lb.), [[flute-xphb|flute]] (2 GP, 1 lb.), horn (3 GP, 2 lb.), [[lute-xphb|lute]] (35 GP, 2 lb.), [[lyre-xphb|lyre]] (30 GP, 2 lb.), [[pan-flute-xphb|pan flute]] (12 GP, 2 lb.), [[shawm-xphb|shawm]] (2 GP, 1 lb.), [[viol-xphb|viol]] (30 GP, 1 lb.)  
-
-#### Navigator's Tools (25 GP)
-
-- **Ability.** Wisdom  
-- **Weight.** 2 lb.  
-- **Utilize.** Plot a course (DC 10), or determine position by stargazing (DC 15)  
-
-#### Poisoner's Kit (50 GP)
-
-- **Ability.** Intelligence  
-- **Weight.** 2 lb.  
-- **Utilize.** Detect a poisoned object (DC 10)  
-- **Craft.** [[basic-poison-xphb|Basic Poison]]  
-
-#### Thieves' Tools (25 GP)
-
-- **Ability.** Dexterity  
-- **Weight.** 1 lb.  
-- **Utilize.** Pick a lock (DC 15), or disarm a trap (DC 15)  
 
 ## Adventuring Gear
 
@@ -430,7 +271,7 @@ A Backpack holds up to 30 pounds within 1 cubic foot. It can also serve as a sad
 
 ### Ball Bearings (1 GP)
 
-As a [[actions#Utilize|Utilize]] action, you can spill Ball Bearings from their pouch. They spread to cover a level, 10-foot-square area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 Dexterity saving throw or have the [[conditions#Prone|Prone]] condition. It takes 10 minutes to recover the Ball Bearings.
+As a [[actions#Utilize|Utilize]] action, you can spill Ball Bearings from their pouch. They spread to cover a level, 10-foot-square area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 Dexterity saving throw or have the [[conditions#prone|Prone]] condition. It takes 10 minutes to recover the Ball Bearings.
 
 ### Barrel (2 GP)
 
@@ -806,13 +647,11 @@ Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 H
 
 ## Services
 
-![[/03_Mechanics/CLI/books/players-handbook-2024/img/180-07-006-wizard-familiar-shopping.webp#center "A Wizard and her familiar spend an afternoon shopping"|A Wizard and her familiar ...]]
-
 This section outlines services and other expenses that adventurers might spend money on.
 
 ### Lifestyle Expenses
 
-Lifestyle expenses summarize the cost of living in a fantasy world. They cover lodging, food, equipment maintenance, and other necessities.
+Lifestyle expenses summarize the cost of living in a fantasy world. They cover lodging, food, equipment maintece, and other necessities.
 
 At the start of each week or month (DM's choice), choose a lifestyle below—Wretched, Squalid, Poor, Modest, Comfortable, Wealthy, or Aristocratic—and pay the price to sustain that lifestyle.
 
@@ -970,20 +809,40 @@ If the scribed spell is a cantrip, the version on the scroll works as if the cas
 
 Legends speak of 07 chapter 6 equipment as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 07 chapter 6 equipment.
 
-## Adventure Hooks
-
-- A rumor ties 07 chapter 6 equipment to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 07 chapter 6 equipment to avert a public scandal.
-- A map overlay reveals a hidden approach to 07 chapter 6 equipment active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

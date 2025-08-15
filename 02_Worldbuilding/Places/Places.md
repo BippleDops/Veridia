@@ -1,4 +1,5 @@
 ---
+
 title: Places
 type: location
 tags:
@@ -7,50 +8,98 @@ tags:
 - place
 - active
 - location
+- conspiracy
 created: 2025-08-14
 modified: '2025-08-14'
 status: placeholder
 region: Unknown
 population: Unknown
 updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
 
 
 # 02_Worldbuilding/Places
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
 
-## Description
-
 ### Atmosphere
 
 The atmosphere of this location shifts throughout the day. Mornings see shadowy alleys, while dusk transforms the area with warm lamplight.
-
 
 ### Atmosphere
 
 The atmosphere of this location shifts throughout the day. Midday shows shadowy alleys, while nightfall transforms the area with mysterious shadows.
 
-
 *[To be filled in]*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
 
 ## Details
 
 *[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[00_Indexes/Master_Campaign_Index]]
-- [[00_Indexes/Master_Campaign_Index]]
-- [[12_Research/D&D_Sourcebooks/Session 2 Court of Whispers]]
-- [[12_Research/D&D_Sourcebooks/Session_2_Court_of_Whispers]]
-- [[12_Research/D&D_Sourcebooks/Session_4_Battle_Above_Clouds]]
-- [[12_Research/D&D_Sourcebooks/Session 4 Battle Above Clouds]]
-- [[12_Research/D&D_Sourcebooks/Session 3 the Skyship Heist]]
-- [[12_Research/D&D_Sourcebooks/Session 1 the Queens Summons]]
-- [[12_Research/D&D_Sourcebooks/Session_5_The_Wind_Singer]]
-- [[12_Research/D&D_Sourcebooks/Session_4_Smuggler_Base]]
 
 ## Notes
 
@@ -62,44 +111,8 @@ The atmosphere of this location shifts throughout the day. Midday shows shadowy 
 ---
 *Placeholder generated: 2025-08-14*
 
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Places
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
-
-## History
-
 ### Founding
 Places was established in the distant past, growing from humble beginnings to its current state.
-
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
-
 
 ## Current Events
 
@@ -111,21 +124,6 @@ Ongoing situations affecting Places:
 - External threats
 - Opportunities arising
 
-
-## Secrets & Rumors
-
-### Common Knowledge
-- What everyone knows about Places
-
-### Whispered Rumors
-- Stories that may or may not be true
-
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
-
-
 ## Adventure Hooks
 
 1. **The Missing Person**: Someone important has disappeared in Places
@@ -133,7 +131,6 @@ Ongoing situations affecting Places:
 3. **The Growing Threat**: A danger that threatens Places
 4. **The Political Intrigue**: Power struggles affecting the location
 5. **The Ancient Mystery**: Old secrets beginning to surface
-
 
 ## Sensory Details
 
@@ -145,26 +142,12 @@ Ongoing situations affecting Places:
 
 **Atmosphere**: The overall feeling is one of comfortable routine.
 
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
-
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 
 ## DM Notes
 
@@ -173,3 +156,60 @@ Ongoing situations affecting Places:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A map reveals the truth about this place
+- A shipment has gone missing and war looms
+- Someone is protecting information for money
+- Someone is protecting a artifact for power
+
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
+
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

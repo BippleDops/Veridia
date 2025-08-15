@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.055457+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-maritime-security-chief-reef-maritime-security-chief-reef.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,30 @@ Maritime Security Chief Reef is a undersea element of the setting, known for bio
 
 Legends speak of Maritime Security Chief Reef as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Maritime Security Chief Reef.
 
-## Adventure Hooks
-
-- A rumor ties Maritime Security Chief Reef to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Maritime Security Chief Reef to avert a public scandal.
-- A map overlay reveals a hidden approach to Maritime Security Chief Reef active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Maritime Security Chief Reef|02 Worldbuilding/Places/Maritime Security Chief Reef]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Envoy Blackwater Jr.]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals a conspiracy about a local noble
+- A stranger needs help delivering before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

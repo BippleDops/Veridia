@@ -1,4 +1,5 @@
 ---
+
 title: Shard-Touched Artifacts
 type: item
 tags:
@@ -9,28 +10,88 @@ created: '2025-08-14'
 modified: '2025-08-14'
 item_type: Armor
 rarity: Legendary
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
+
 
 # Shard-Touched Artifacts
 
 *Legendary Armor*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+
 ## Description
 
 Shard-Touched Artifacts is a ancient armor that radiates powerful magic.
 
-[Item content continues with similar detail...]
-
 ---
 
 *Last Updated: 2025-08-14 19:03*
-
-## Connections
-
-- See also: [[World Overview]]
-- Related: [[Regional Politics]]
-- Connected to: [[Main Quest Line]]
-
 
 ## DM Notes
 
@@ -39,3 +100,40 @@ Shard-Touched Artifacts is a ancient armor that radiates powerful magic.
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- Someone is hunting a witness for revenge
+- A map reveals a conspiracy about the cult
+- A stranger needs help stealing before the festival
+- An heirloom has gone missing and truth emerges
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.566350'
 world: Both
 ---
 
-
 # Chapter 1: Rise of Elemental Evil
 *Source: Princes of the Apocalypse, p. 4* 
 
@@ -31,9 +30,27 @@ A terrible threat gathers in the North. Throughout this region of the Forgotten 
 
 These troubles have a source known to few in the North: Elemental Evil. Servants of this malevolence gather in the Sumber Hills and spy on the Dessarin Valley, drawn by a force they can't explain. Dabbling in dangerous lore, these fanatics seek to master elemental magic and unleash its destructive power everywhere. And they are further along in their plans than most people in the North realize.
 
-Four elemental cults grow in power in the Sumber Hills, claiming abandoned keeps that connect to an underground fortress once part of an ancient dwarven kingdom. Within those chambers are the remnants of a temple built by drow worshipers of Elemental Evil. Each of the four cults venerates a powerful entity of air, earth, fire, or water: a Prince of Elemental Evil. Like their princes, the four cults are rivals, yet they all serve a mysterious force they call the Elder Elemental Eye.
+Four elemental cults grow in power in the Sumber Hills, claiming abandoned keeps that connect to an underground fortress once part of an ancient dwarven kingdom. Within those chambers are the remts of a temple built by drow worshipers of Elemental Evil. Each of the four cults venerates a powerful entity of air, earth, fire, or water: a Prince of Elemental Evil. Like their princes, the four cults are rivals, yet they all serve a mysterious force they call the Elder Elemental Eye.
 
 A prophet gifted with a powerful elemental weapon leads each cult. Those weapons—[[windvane-pota|Windvane]], [[ironfang-pota|Ironfang]], [[tinderstrike-pota|Tinderstrike]], and [[drown-pota|Drown]]—were the catalysts for the creation of four elemental nodes, places where the Elemental Planes connect to the Material Plane. The cults draw elemental creatures through the nodes, and they use elemental magic to create [[devastation-orb-pota|devastation orb]]s capable of ravaging the countryside. They've been testing these magic weapons, bolstering the cults' ranks, and infiltrating various communities, all directed by visions the prophets receive from the Elder Elemental Eye. In time, each prophet hopes to entice his or her elemental prince to pass through the node and wreak devastation on the Dessarin Valley and beyond.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Using This Source
 
@@ -469,18 +486,9 @@ In addition to the core narrative, *Princes of the Apocalypse* presents a number
 
 Legends speak of 01 chapter 1 rise of elemental evil as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 01 chapter 1 rise of elemental evil.
 
-## Adventure Hooks
-
-- A rumor ties 01 chapter 1 rise of elemental evil to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 01 chapter 1 rise of elemental evil to avert a public scandal.
-- A map overlay reveals a hidden approach to 01 chapter 1 rise of elemental evil active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

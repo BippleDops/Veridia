@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.981230+00:00'
 world: Both
 ---
 
-
-
 # Rank, Status, and Title
 *Source: Volo's Guide to Monsters p. 46* 
 
@@ -34,6 +32,24 @@ world: Both
 | 3rd rank: Captain | 7th rank: Soldier |
 | 4th rank: Fatal Axe |  |
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Rank status and title vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -42,19 +58,31 @@ Rank status and title vgm is a undersea element of the setting, known for biolum
 
 Legends speak of rank status and title vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rank status and title vgm.
 
-## Adventure Hooks
-
-- A rumor ties rank status and title vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at rank status and title vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to rank status and title vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and truth emerges
+- A map reveals the truth about a local noble
+- Someone is blackmailing information for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

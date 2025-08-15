@@ -29,8 +29,6 @@ updated: '2025-08-12T23:37:35.599095'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ghast-gravecaller-xmm-ghast-gravecaller-xmm.svg)
 
@@ -38,6 +36,24 @@ world: Both
 *Source: Monster Manual (2024) p. 130*  
 
 Ghast gravecallers wield fell magic and converse with corpses. They might pose as liches or vampires.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Ghasts
 
@@ -62,7 +78,6 @@ Ghasts are reeking, undying corpses closely related to ghouls. They hunger for t
   - !!int "17"
   - !!int "14"
   - !!int "18"
-  - !!int "14"
   - !!int "8"
 "speed": "30 ft."
 "saves":
@@ -90,11 +105,10 @@ Ghasts are reeking, undying corpses closely related to ghouls. They hunger for t
       \ condition until the end of its next turn."
     "name": "Claw"
   - "desc": "Melee  or Ranged Attack Roll: +7, reach 5 ft. or range 120 ft. Hit:\
-      \ 15 (2d10 + 4) Necrotic damage, and the target has the [[conditions#Frightened|Frightened]]\
-      \ condition until the end of its next turn."
+      \ 15 (2d10 + 4) Necrotic damage, and the target has the [[conditions#frightened|Frightened]]\
     "name": "Horrific Necrosis"
   - "desc": "The ghast casts one of the following spells, requiring no Material components\
-      \ and using Intelligence as the spellcasting ability:\n\nAt will: [[speak-with-dead-xphb|Speak\
+      \ and using Intelligence as the spellcasting ability:\n\nAt will: [[speak-with-dead-xphb|Speak\]]
       \ with Dead]], [[thaumaturgy-xphb|Thaumaturgy]]"
     "name": "Spellcasting"
 "source":
@@ -115,19 +129,23 @@ Ghast gravecaller xmm is a undersea element of the setting, known for biolumines
 
 Legends speak of ghast gravecaller xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ghast gravecaller xmm.
 
-## Adventure Hooks
-
-- A rumor ties ghast gravecaller xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ghast gravecaller xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ghast gravecaller xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting information for revenge
+- A map reveals the truth about this place
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

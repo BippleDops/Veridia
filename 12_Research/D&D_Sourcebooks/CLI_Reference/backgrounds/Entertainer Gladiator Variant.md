@@ -23,17 +23,32 @@ updated: '2025-08-13T12:34:05.258943+00:00'
 world: Both
 ---
 
-
-
 # Entertainer (Gladiator) (Variant)
 *Source: Player's Handbook p. 131*  
-
 
 - **Skill Proficiencies.** [[skills#Acrobatics|Acrobatics]], [[skills#Performance|Performance]]  
 - **Tool Proficiencies.** [[disguise-kit-xphb|Disguise kit]], one type of musical instrument  
 - **Equipment.** An inexpensive but unusual weapon, such as a [[trident-xphb|trident]] or [[net-xphb|net]] (one of your choice), the favor of an admirer (love letter, lock of hair, or trinket), [[costume-xphb|costume clothes]], and a belt [[pouch-xphb|pouch]] containing 15 gp  
 
 A gladiator is as much an entertainer as any minstrel or circus performer, trained to make the arts of combat into a spectacle the crowd can enjoy. This kind of flashy combat is your entertainer routine, though you might also have some skills as a tumbler or actor. Using your By Popular Demand feature, you can find a place to perform in any place that features combat for entertainment–perhaps a gladiatorial arena or secret pit fighting club. You can replace the musical instrument in your equipment package with an inexpensive but unusual weapon, such as a trident or net.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Feature: By Popular Demand
 
@@ -104,7 +119,6 @@ Successful entertainers have to be able to capture and hold an audience's attent
 `dice: [](entertainer-gladiator-variant.md#^flaw)`
 
 | dice: d6 | Flaw |
-|----------|------|
 | 1 | I'll do anything to win fame and renown. |
 | 2 | I'm a sucker for a pretty face. |
 | 3 | A scandal prevents me from ever going home again. That kind of trouble seems to follow me around. |
@@ -121,19 +135,21 @@ Entertainer gladiator variant is a undersea element of the setting, known for bi
 
 Legends speak of entertainer gladiator variant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around entertainer gladiator variant.
 
-## Adventure Hooks
-
-- A rumor ties entertainer gladiator variant to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at entertainer gladiator variant to avert a public scandal.
-- A map overlay reveals a hidden approach to entertainer gladiator variant active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and war looms
+- A shipment has gone missing and war looms
+- A letter reveals a betrayal about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

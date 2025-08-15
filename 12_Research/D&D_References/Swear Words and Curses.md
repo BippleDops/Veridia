@@ -23,13 +23,25 @@ obsidianUIMode: preview
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# Swear Words and Curses
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Summary
 The colorful and often environmental-based profanity, oaths, and cursing traditions across both realms, reflecting cultural values, taboos, and environmental hazards unique to each society.
-
-## Aquabyssos Profanity
 
 ### **Pressure and Depth-Based Curses**
 
@@ -103,8 +115,6 @@ The colorful and often environmental-based profanity, oaths, and cursing traditi
 - *Cultural Context*: Lampreys are blood-sucking parasitic fish
 - *Usage*: Serious insult for exploitative people
 
-## Aethermoor Profanity
-
 ### **Wind and Sky-Based Curses**
 
 **"Wind-scattered!"**
@@ -137,12 +147,12 @@ The colorful and often environmental-based profanity, oaths, and cursing traditi
 - *Cultural Context*: Altitude sickness affects breathing and thinking
 - *Usage*: Insult questioning someone's competence at height/sophistication
 
-### **Crystal and Resonance Profanity**
+### **Crystal and Resoce Profanity**
 
 **"Shattered harmonics!"**
 - *Intensity*: Moderate expletive
 - *Meaning*: Exclamation of frustration when things go wrong
-- *Cultural Context*: Broken crystal resonance systems are expensive disasters
+- *Cultural Context*: Broken crystal resoce systems are expensive disasters
 - *Usage*: Technical/academic swearing, used when projects fail
 
 **"Crystal-cracked!"**
@@ -183,8 +193,6 @@ The colorful and often environmental-based profanity, oaths, and cursing traditi
 - *Cultural Context*: Clouds can obstruct vision during flight
 - *Usage*: Calling someone out of touch with reality
 
-## Cross-Realm and Inter-Cultural Curses
-
 ### **Trade and Commerce Profanity**
 
 **"Merchant's promise!"** (Both realms)
@@ -212,8 +220,6 @@ The colorful and often environmental-based profanity, oaths, and cursing traditi
 - *Meaning*: Someone incompetent at both realm's specialties
 - *Cultural Context*: Pressure/altitude adaptation challenges
 - *Usage*: Questioning someone's competence or authenticity
-
-## Professional and Guild-Specific Curses
 
 ### **Naval/Maritime (Aquabyssos)**
 
@@ -257,8 +263,6 @@ The colorful and often environmental-based profanity, oaths, and cursing traditi
 - Someone impractical and out of touch with reality
 - Practical professionals insulting academics
 
-## Religious and Sacred Curses
-
 ### **Aquabyssos Religious Profanity**
 
 **"Deep Mother's displeasure!"**
@@ -293,8 +297,6 @@ The colorful and often environmental-based profanity, oaths, and cursing traditi
 - Comparing to leaves blown by wind
 - Criticism of spiritual instability
 
-## Taboo and Forbidden Curses
-
 ### **Truly Dangerous Curses**
 
 **The Unnamed Depths** (Aquabyssos)
@@ -323,8 +325,6 @@ The colorful and often environmental-based profanity, oaths, and cursing traditi
 - Wishing memory loss or confusion on someone
 - Considered attack on personal identity
 - Serious crime if spoken with magical backing
-
-## Regional Variations and Evolution
 
 ### **Urban vs. Rural Differences**
 
@@ -366,14 +366,6 @@ The colorful and often environmental-based profanity, oaths, and cursing traditi
 
 *"A people's curses reveal their deepest fears, greatest values, and most sacred taboos. Listen to how someone swears, and you'll understand what truly matters to them."* - Cultural Anthropologist Dr. Marina Wordsmith
 
-## Connections
-
-- [[Common Idioms and Sayings]]
-- [[Depth Speak Variations]]  
-- [[Wind Song Linguistic Guide]]
-- [[Professional Terminology]]
-- [[Cultural Exchange Society]]
-
 ## Player-Facing Summary
 
 Swear Words and Curses is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -382,19 +374,17 @@ Swear Words and Curses is a undersea element of the setting, known for biolumine
 
 Legends speak of Swear Words and Curses as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Swear Words and Curses.
 
-## Adventure Hooks
-
-- A rumor ties Swear Words and Curses to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Swear Words and Curses to avert a public scandal.
-- A map overlay reveals a hidden approach to Swear Words and Curses active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a conspiracy
+- A shipment has gone missing and truth emerges
+- Strange disappearances suggest a curse

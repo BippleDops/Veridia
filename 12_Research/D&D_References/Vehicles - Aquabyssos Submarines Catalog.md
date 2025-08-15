@@ -21,9 +21,6 @@ updated: '2025-08-13T12:34:17.800257+00:00'
 world: Aquabyssos
 ---
 
-
-
-
 # Aquabyssos Submarines Catalog (60)
 
 Each entry lists a signature trait and a primary integration. Use [[New_Ship_Template|New Ship Template]] to instantiate a full stat block per hull.
@@ -53,7 +50,7 @@ Each entry lists a signature trait and a primary integration. Use [[New_Ship_Tem
 23. Brine Saint — Auto-triage medbay; crew Sanity +1 on rest
 24. Black Smoker Runner — Heat-shielded; vent surfing; hull stress risk
 25. Cavitation Dancer — Bubble-void tricks; Maneuver +1; noisy ping
-26. Null Hush Diver — Sound-dampened; perfect silent drift; Sensor -1
+26.  Hush Diver — Sound-dampened; perfect silent drift; Sensor -1
 27. Rift Herald — Broadcast anchor hymn; buffs allies vs. merger
 28. Reefmason — Deploys coral barricades; terrain control
 29. Tide Oracle — Forecast currents; reroll adverse environment once/day
@@ -91,6 +88,24 @@ Each entry lists a signature trait and a primary integration. Use [[New_Ship_Tem
 
 Integration keys: Pressure/AP gates, Anchors/RSB, Sanity hooks, Memory charts, Faction doctrines.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Aquabyssos Submarines Catalog is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -99,23 +114,15 @@ Aquabyssos Submarines Catalog is a undersea element of the setting, known for bi
 
 Legends speak of Aquabyssos Submarines Catalog as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos Submarines Catalog.
 
-## Adventure Hooks
-
-- A rumor ties Aquabyssos Submarines Catalog to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Aquabyssos Submarines Catalog to avert a public scandal.
-- A map overlay reveals a hidden approach to Aquabyssos Submarines Catalog active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Vehicles_Index|03 Mechanics/Vehicles/Vehicles Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

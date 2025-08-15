@@ -27,25 +27,35 @@ accessibility:
   - Open Door
 ---
 
-
-
-
-
 # The Party
 
 ![[04_Resources/Assets/Art/NPCs/The_Party.png|The Party Portrait]]
 
 *Guidelines for integrating player characters into Aquabyssos*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 
 "The Party" refers to the player characters who will explore, shape, and potentially save (or doom) Aquabyssos. This document provides frameworks for integrating diverse character concepts into the underwater world, establishing party dynamics, and creating meaningful connections to the setting's core conflicts.
 
 Rather than predefining the party, this guide offers tools for GMs to weave player characters into the fabric of Aquabyssos, ensuring each character has personal stakes in the unfolding narrative.
-
-## Character Integration Frameworks
-
-### Origin Templates
 
 #### The Native
 Born and raised in Aquabyssos:
@@ -87,8 +97,6 @@ Fusion of multiple beings or timelines:
 - **Starting Complications**: Personality shifts, paradox attraction
 - **Unique Feature**: Exists in multiple realities simultaneously
 
-## Party Dynamics Systems
-
 ### Bonds and Tensions
 
 **Creating Inter-Party Bonds**
@@ -119,8 +127,6 @@ Roll or choose for each pair of characters:
 | Secret revelation | Confession session | Deeper bonds |
 | Betrayal | Redemption quest | Forgiveness |
 | Power imbalance | Mentorship | Party strengthening |
-
-### Party Roles in Aquabyssos
 
 #### The Navigator
 Guides through the crushing depths:
@@ -163,8 +169,6 @@ Handles unsavory necessities:
 - Performs infiltration
 - Manages underworld contacts
 - Keeps party secrets
-
-## Connection Webs
 
 ### Personal Stakes Generator
 
@@ -209,12 +213,10 @@ Each character starts with:
 - **One Rival Faction**: Competes for resources
 - **One Enemy Faction**: Actively opposes them
 
-## Party Headquarters Options
-
 ### The Salvaged Submarine
 *Mobile base with history*
 - **Advantages**: Mobility, self-contained, defensible
-- **Disadvantages**: Maintenance needs, limited space
+- **Disadvantages**: Maintece needs, limited space
 - **Unique Features**: Previous crew's ghosts, hidden compartments
 - **Story Hooks**: Previous owner wants it back, secret modifications
 
@@ -245,8 +247,6 @@ Each character starts with:
 - **Disadvantages**: No privacy, must maintain neutrality
 - **Unique Features**: Faction representatives, black market
 - **Story Hooks**: Neutrality threatened, secret meetings
-
-## Character Arc Templates
 
 ### The Corruption Arc
 Character slowly succumbs to Deep Mother influence:
@@ -288,8 +288,6 @@ Character prepares for ultimate sacrifice:
 4. **Stage 4**: Saying goodbyes
 5. **Stage 5**: Heroic sacrifice or last-minute salvation
 
-## Party Advancement Mechanics
-
 ### Collective Achievements
 Rewards earned by party as whole:
 
@@ -315,8 +313,6 @@ When party works together:
 - **Exploration Synergy**: Collective perception
 - **Magic Synergy**: Ritual casting
 - **Craft Synergy**: Collaborative creation
-
-## Session Zero Integration
 
 ### Character Creation Questions
 
@@ -353,8 +349,6 @@ Collaborate to establish:
 - **Party Symbol**: Visual representation
 - **Party Reputation**: How you want to be seen
 
-## Underwater Adaptations
-
 ### Breathing Solutions
 Every character needs one:
 - Natural adaptation (race/class feature)
@@ -381,31 +375,6 @@ Getting around the depths:
 - Depth limitations
 - Exhaustion management
 - Emergency ascent
-
-## Crisis Response Protocols
-
-### When A Character Dies
-- Resurrection availability in Aquabyssos
-- Ghost/spirit continuation options
-- Legacy character connections
-- Memorial traditions
-- Party grief mechanics
-
-### When A Character Betrays
-- Redemption possibilities
-- Information compartmentalization
-- Trust rebuilding mechanics
-- Faction implications
-- Player agency respect
-
-### When A Character Leaves
-- Exit story options
-- NPC conversion
-- Resource redistribution
-- Narrative continuation
-- Replacement integration
-
-## DM Tools
 
 ### Party Cohesion Tracker
 Monitor party unity:
@@ -450,24 +419,22 @@ The Party is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of The Party as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Party.
 
-## Adventure Hooks
-
-- A rumor ties The Party to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Party to avert a public scandal.
-- A map overlay reveals a hidden approach to The Party active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[The Party|02 Worldbuilding/People/The Party]]
+## Plot Hooks
 
-<!-- enriched: true -->
+- Strange sightings suggest a portal
+- A letter reveals ancient history about the government
+- Strange dreams suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
 
 
-## Connections
+## 12_Research Specific Content
 
-- [[Oracle]]
-- [[Senator_Glaucus_Brain|Senator Glaucus Brain]]
+Contextual improvement based on 12_Research

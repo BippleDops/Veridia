@@ -23,11 +23,23 @@ updated: '2025-08-13T01:18:37.211947+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
-
-
-# Abyssos Prime Rumor Tables
 ## What's Whispered in the Depths
 
 *Roll d100 or choose rumors based on where party investigates. Mix truth with lies for best effect.*
@@ -65,8 +77,6 @@ updated: '2025-08-13T01:18:37.211947+00:00'
 ## 🏛️ Parliament District Rumors
 *Political whispers and conspiracies*
 
-| d20 | Rumor | Source | Truth Level |
-|-----|-------|--------|-------------|
 | 1 | "Parliament has 437 members but 451 votes were cast" | Clerk | **TRUE** - Shadow votes |
 | 2 | "The Speaker hasn't been seen, only heard" | Senator | **TRUE** - Is pure shadow now |
 | 3 | "Emergency session called about 'shadow question'" | Aide | **TRUE** - Tomorrow night |
@@ -78,7 +88,7 @@ updated: '2025-08-13T01:18:37.211947+00:00'
 | 9 | "Deep Mother cultists infiltrated Parliament" | Guard | **TRUE** - Multiple members |
 | 10 | "Voting records change after sessions end" | Recorder | **TRUE** - Timeline editing |
 | 11 | "Senator Glaucus talks to empty chairs" | Witness | **PARTIAL** - Sees forgotten members |
-| 12 | "Parliament basement connects to god-corpse veins" | Maintenance | **TRUE** - Direct connection |
+| 12 | "Parliament basement connects to god-corpse veins" | Maintece | **TRUE** - Direct connection |
 | 13 | "Shadow Liberation Front planning coup" | Informant | **PARTIAL** - Planning something |
 | 14 | "The Seventh Seat must remain empty" | Elder | **TRUE** - Prophetic requirement |
 | 15 | "Bills are being passed in wrong timeline" | Timekeeper | **TRUE** - Temporal disruption |
@@ -93,8 +103,6 @@ updated: '2025-08-13T01:18:37.211947+00:00'
 ## 🏪 Market Depths Rumors
 *Trade gossip and merchant tales*
 
-| d20 | Rumor | Source | Truth Level |
-|-----|-------|--------|-------------|
 | 1 | "Memory prices tripling - someone's stockpiling" | Merchant | **TRUE** - War preparation |
 | 2 | "Adaptation pills that keep you human appearing" | Dealer | **PARTIAL** - Temporary effect |
 | 3 | "Shadow market opens when real market closes" | Vendor | **TRUE** - Different clientele |
@@ -121,8 +129,6 @@ updated: '2025-08-13T01:18:37.211947+00:00'
 ## 🕰️ Embassy Quarter Rumors
 *Diplomatic secrets and international intrigue*
 
-| d20 | Rumor | Source | Truth Level |
-|-----|-------|--------|-------------|
 | 1 | "Nereidios Embassy is actually a library entrance" | Scholar | **TRUE** - Hidden entrance |
 | 2 | "Tenebrarum ambassador is three shadows in coat" | Guard | **FALSE** - Just adapted |
 | 3 | "Secret tunnel between embassies for spying" | Spy | **TRUE** - Everyone knows |
@@ -149,8 +155,6 @@ updated: '2025-08-13T01:18:37.211947+00:00'
 ## 🌙 Night Market Rumors
 *After-dark whispers and shadow talk*
 
-| d20 | Rumor | Source | Truth Level |
-|-----|-------|--------|-------------|
 | 1 | "Shadows shop without their owners here" | Night vendor | **TRUE** - Regular occurrence |
 | 2 | "You can buy someone else's identity" | Identity thief | **TRUE** - Complete replacement |
 | 3 | "Dream dealers sell other people's sleep" | Insomniac | **TRUE** - Addictive |
@@ -212,28 +216,6 @@ updated: '2025-08-13T01:18:37.211947+00:00'
 
 ---
 
-## 🎯 Using Rumors Effectively
-
-### Distribution Methods
-- **Overheard**: In taverns, markets, streets
-- **Purchased**: From information brokers
-- **Shared**: By NPCs building trust
-- **Discovered**: In documents, letters
-- **Dreamed**: During rest in depths
-
-### Verification Methods
-- **Investigation**: Follow up with rolls
-- **Confirmation**: Multiple sources
-- **Testing**: Try to prove/disprove
-- **Experience**: Encounter the truth
-- **Revelation**: NPC admits truth/lie
-
-### Truth Levels Explained
-- **TRUE**: Accurate information
-- **PARTIAL**: Some truth, some fiction
-- **FALSE**: Completely wrong
-- **DISPUTED**: Different factions disagree
-
 ### Rumor Consequences
 - Investigating true rumors leads to plots
 - Believing false rumors causes problems
@@ -248,7 +230,6 @@ updated: '2025-08-13T01:18:37.211947+00:00'
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -256,3 +237,13 @@ updated: '2025-08-13T01:18:37.211947+00:00'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

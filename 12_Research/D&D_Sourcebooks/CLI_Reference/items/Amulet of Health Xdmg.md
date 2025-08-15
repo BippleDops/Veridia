@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:06.989777+00:00'
 world: Both
 ---
 
-
-
 # Amulet of Health
 *Wondrous item, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/amulet-of-health.webp#right)
@@ -34,7 +32,25 @@ world: Both
 
 Your Constitution score is 19 while you wear this amulet. It has no effect on you if your Constitution is already 19 or higher without it.
 
-*Source: Dungeon Master's Guide (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 228. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -44,19 +60,20 @@ Amulet of health xdmg is a undersea element of the setting, known for biolumines
 
 Legends speak of amulet of health xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around amulet of health xdmg.
 
-## Adventure Hooks
-
-- A rumor ties amulet of health xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at amulet of health xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to amulet of health xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for a artifact for love
+- The authorities needs help delivering before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

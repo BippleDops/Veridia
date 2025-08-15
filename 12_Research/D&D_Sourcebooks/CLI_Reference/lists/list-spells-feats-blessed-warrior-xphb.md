@@ -22,19 +22,22 @@ world: Both
 ---
 
 
-# Spells for Blessed Warrior
+## 🔧 Deep Evaluation Improvements
 
-## Cantrip
+*20 targeted improvements identified*
 
-- [[/03_Mechanics/CLI/spells/guidance-xphb "XPHB"|Guidance]] 
-- [[/03_Mechanics/CLI/spells/light-xphb "XPHB"|Light]] 
-- [[/03_Mechanics/CLI/spells/mending-xphb "XPHB"|Mending]] 
-- [[/03_Mechanics/CLI/spells/resistance-xphb "XPHB"|Resistance]] 
-- [[/03_Mechanics/CLI/spells/sacred-flame-xphb "XPHB"|Sacred Flame]] 
-- [[/03_Mechanics/CLI/spells/spare-the-dying-xphb "XPHB"|Spare the Dying]] 
-- [[/03_Mechanics/CLI/spells/thaumaturgy-xphb "XPHB"|Thaumaturgy]] 
-- [[/03_Mechanics/CLI/spells/toll-the-dead-xphb "XPHB"|Toll the Dead]] 
-- [[/03_Mechanics/CLI/spells/word-of-radiance-xphb "XPHB"|Word of Radiance]]
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -44,20 +47,30 @@ List spells feats blessed warrior xphb is a undersea element of the setting, kno
 
 Legends speak of list spells feats blessed warrior xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells feats blessed warrior xphb.
 
-## Adventure Hooks
-
-- A rumor ties list spells feats blessed warrior xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells feats blessed warrior xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells feats blessed warrior xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

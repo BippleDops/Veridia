@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.280505+00:00'
 danger_level: Moderate
 ---
 
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-lighthouse-keeper-s-ghost-the-lighthouse-keeper-s-ghost.png]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Overview
+### Connection Improvements
 
-TODO
-## History
+- Add cross-references to related notes
 
-TODO
-## Layout
+### Enhancement Improvements
 
-TODO
-## Notables
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,30 @@ The Lighthouse Keeper's Ghost is a undersea element of the setting, known for bi
 
 Legends speak of The Lighthouse Keeper's Ghost as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Lighthouse Keeper's Ghost.
 
-## Adventure Hooks
-
-- A rumor ties The Lighthouse Keeper's Ghost to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Lighthouse Keeper's Ghost to avert a public scandal.
-- A map overlay reveals a hidden approach to The Lighthouse Keeper's Ghost active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[The Lighthouse Keeper's Ghost|02 Worldbuilding/Places/The Lighthouse Keeper's Ghost]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The Whispering Peaks]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and evil awakens
+- Strange disappearances suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

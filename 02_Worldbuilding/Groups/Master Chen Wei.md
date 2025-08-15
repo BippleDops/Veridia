@@ -1,4 +1,5 @@
 ---
+
 title: Master Chen Wei
 type: Faction
 tags:
@@ -31,6 +32,8 @@ obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.285290+00:00'
 wealth: Modest (Donations and training fees)
 world: Aethermoor
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -38,9 +41,73 @@ world: Aethermoor
 > [!figure] Heraldry
 ![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-master-chen-wei-master-chen-wei.png]]
 
-
 # The Order of the Flowing Current
 *Masters of Inner Harmony, Guardians of Ancient Wisdom, The Peaceful Warriors*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
 
 ## Organization Overview and Purpose
 The Order of the Flowing Current represents the most prestigious martial arts organization in [[Aethermoor]], combining rigorous physical training with deep spiritual discipline to create warriors who embody the perfect balance between strength and serenity. Under the wise leadership of Master Chen Wei, the Order has evolved from a small mountain monastery into a respected institution that influences martial arts practice, philosophical development, and conflict resolution throughout the realm.
@@ -75,7 +142,7 @@ The Order also faced their greatest challenges during this period as political c
 Under recent masters, the Order has continued adapting to changing social conditions while maintaining their core principles and training excellence. They have modernized their facilities, integrated new techniques with traditional methods, and expanded their community service programs to address contemporary challenges including urban poverty, educational needs, and social conflicts that require skilled mediation.
 
 **Master Chen Wei's Leadership (20 Years Ago-Present)**
-Master Chen Wei's ascension to leadership marked the beginning of the Order's most ambitious expansion and modernization phase. Under his direction, the Order has opened new training centers, launched innovative programs that combine martial arts with academic education, and established diplomatic initiatives that have resolved major conflicts and prevented wars. His innovations include development of specialized training programs for different professions, integration of martial arts principles with modern governance and business practices, and creation of international exchange programs that spread the Order's influence while learning from other traditions.
+Master Chen Wei's ascension to leadership marked the beginning of the Order's most ambitious expansion and modernization phase. Under his direction, the Order has opened new training centers, launched innovative programs that combine martial arts with academic education, and established diplomatic initiatives that have resolved major conflicts and prevented wars. His innovations include development of specialized training programs for different professions, integration of martial arts principles with modern goverce and business practices, and creation of international exchange programs that spread the Order's influence while learning from other traditions.
 
 Recent years have seen the Order gain unprecedented recognition and respect, with graduates serving in important positions throughout Aethermoor's government, military, and civil society. Master Chen Wei has also initiated new research into the connections between martial arts practice and magical abilities, leading to developments that enhance both combat effectiveness and spiritual development while maintaining the Order's commitment to using power responsibly and in service of others.
 
@@ -86,7 +153,7 @@ The Order of the Flowing Current operates through a traditional hierarchical sys
 Master Chen Wei holds supreme authority as Grand Master, a position that combines leadership of all Order activities with responsibility for maintaining traditions, setting strategic direction, and serving as the ultimate teacher and guide for all members. The Grand Master achieves this position through exceptional martial arts mastery, profound spiritual development, demonstrated wisdom in leadership, and recognition by the Council of Masters. Succession involves extensive evaluation of candidates' capabilities and character, ensuring that leadership remains with individuals who embody the Order's highest ideals.
 
 **The Council of Masters**
-Seven senior masters form the Order's governing council, each responsible for specific aspects of organization operations while contributing to major decisions and policy development. Master Li Flowing Stone oversees the Training Academy and educational programs, Master Zhang Calm Waters manages the Scholarly Circle and preservation of knowledge, Master Wang Swift Current leads the Guardian Corps and security operations, Master Liu Peaceful Resolution directs the Diplomatic Mission and conflict mediation services, Master Chen Gentle Rain handles Community Outreach and social service programs, Master Wu Mountain Wind manages external relationships and recruitment, and Master Zhao Clear Stream oversees financial operations and resource management.
+Seven senior masters form the Order's governing council, each responsible for specific aspects of organization operations while contributing to major decisions and policy development. Master Li Flowing Stone oversees the Training Academy and educational programs, Master Zhang Calm Waters manages the Scholarly Circle and preservation of knowledge, Master Wang Swift Current leads the Guardian Corps and security operations, Master Liu Peaceful Resolution directs the Diplomatic Mission and conflict mediation services, Master Chen Gentle Rain handles Community Outreach and social service programs, Master Wu Mountain Wind manages external relationships and recruitment, and Master Zhao Clear Stream oversees ficial operations and resource management.
 
 **Senior Instructors**
 Approximately twenty senior instructors lead specific training programs, manage regional centers, and serve as advanced teachers for specialized techniques and disciplines. Senior instructors have demonstrated mastery of the Order's complete curriculum, proven teaching capabilities, and shown leadership potential through service in Guardian Corps operations, diplomatic missions, or community service programs. They participate in policy development, mentor junior instructors, and represent the Order in external relationships.
@@ -175,7 +242,7 @@ The majority of Order membership consists of students at various stages of train
 *Wise diplomat and mediator specializing in peaceful conflict resolution and healing.*
 
 ## Resources and Holdings
-The Order of the Flowing Current commands modest but sufficient resources accumulated through donations, training fees, and careful financial management that emphasizes sustainability and service rather than wealth accumulation.
+The Order of the Flowing Current commands modest but sufficient resources accumulated through donations, training fees, and careful ficial management that emphasizes sustainability and service rather than wealth accumulation.
 
 **Training Facilities**
 The Temple of Flowing Waters serves as the Order's primary headquarters, featuring comprehensive training areas, meditation gardens, scholarly libraries, dormitory facilities, and administrative offices built around natural springs that provide both practical benefits and spiritual symbolism. Additional facilities include regional training centers in major cities, specialized retreat locations for advanced students, practice areas designed for different types of martial arts training, and guest accommodations for visitors and diplomatic meetings.
@@ -183,8 +250,8 @@ The Temple of Flowing Waters serves as the Order's primary headquarters, featuri
 **Educational Resources**
 The Order maintains extensive libraries containing martial arts manuals, philosophical texts, historical records, and scholarly works that preserve ancient knowledge while advancing understanding of combat techniques and spiritual development. Their educational resources include training equipment, meditation aids, scholarly instruments, and specialized materials for different types of instruction and practice that enable comprehensive education in both physical and intellectual disciplines.
 
-**Financial Assets**
-The Order generates revenue through training fees, donations from grateful communities and former students, consulting services for diplomatic and security matters, and modest investments that provide steady income while avoiding excessive entanglement in commercial activities. Their financial management emphasizes sustainability, self-sufficiency, and the ability to provide services regardless of students' ability to pay, maintaining accessibility while ensuring organizational stability.
+**Ficial Assets**
+The Order generates revenue through training fees, donations from grateful communities and former students, consulting services for diplomatic and security matters, and modest investments that provide steady income while avoiding excessive entanglement in commercial activities. Their ficial management emphasizes sustainability, self-sufficiency, and the ability to provide services regardless of students' ability to pay, maintaining accessibility while ensuring organizational stability.
 
 **Community Relationships**
 The Order's most valuable assets include their relationships with communities throughout Aethermoor who appreciate their service and provide support, connections with government officials and noble families who respect their integrity and seek their advice, and networks of former students who serve in various positions while maintaining loyalty to Order principles. These relationships provide resources, opportunities for service, and protection during difficult periods.
@@ -251,14 +318,6 @@ A community the Order has served for generations faces a crisis that threatens t
 **The Spiritual Journey**
 Master Chen Wei undertakes a dangerous spiritual journey to seek ancient wisdom that could benefit the Order, but the quest attracts attention from entities and organizations that seek to exploit or corrupt the knowledge he hopes to gain. The party must protect the Grand Master while accompanying him through physical and spiritual challenges that test their own character and capabilities as much as their martial arts skills.
 
-
-## Connections
-
-- [[Merchant Princes]]
-- [[Port Meridian]]
-- [[The Grand Bazaar of Echoing Coins]]
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
-
 ## Player-Facing Summary
 
 Master Chen Wei is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -267,22 +326,9 @@ Master Chen Wei is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Master Chen Wei as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Master Chen Wei.
 
-## Adventure Hooks
-
-- A rumor ties Master Chen Wei to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Master Chen Wei to avert a public scandal.
-- A map overlay reveals a hidden approach to Master Chen Wei active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Master_People_Index|Master People Index]]
-
 
 ## Overview
 
@@ -293,60 +339,31 @@ Master Chen Wei operates as an influential organization with specific goals and 
 **Membership**: Dozens to thousands
 **Secrecy**: Public/Semi-secret/Secret
 
-
-## Members
-
-### Notable Members
-- [[Leader Name]] - Current head
-- [[Key Officer]] - Important figure
-- [[Rising Star]] - Ambitious member
-
-### Membership Requirements
-- Skills or qualities needed
-- Initiation process
-- Ongoing obligations
-
-
-## Goals
-
 ### Public Mission
 What they claim to pursue
-
-### True Objectives
-- Primary goal
-- Secondary objectives
-- Long-term vision
-
-### Current Projects
-- Active operations
-- Research efforts
-- Political maneuvers
-
-
-## Operations
-
-### Regular Activities
-- Day-to-day operations
-- Revenue generation
-- Member services
-
-### Special Operations
-- Covert activities
-- Major projects
-- Crisis responses
-
-
-## Secrets
 
 ### Open Secrets
 Things widely suspected
 
-### Hidden Truths
-- Real leadership
-- True funding sources
-- Secret objectives
 
-### Deep Mysteries
-- Ancient connections
-- Forbidden knowledge
-- Ultimate goals
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a portal
+- Someone is blackmailing information for love
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

@@ -27,24 +27,39 @@ updated: '2025-08-13T12:34:06.580370+00:00'
 world: Both
 ---
 
-
-
 # Heroism
 *1st-level, Enchantment*  
-
 
 - **Casting time:** 1 Action
 - **Range:** Touch
 - **Components:** V, S
 - **Duration:** Concentration, up to 1 minute
 
-A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the [[conditions#Frightened|Frightened]] condition and gains [[temporary-hit-points-xphb|Temporary Hit Points]] equal to your spellcasting ability modifier at the start of each of its turns.
+A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to the [[conditions#frightened|Frightened]] condition and gains [[temporary-hit-points-xphb|Temporary Hit Points]] equal to your spellcasting ability modifier at the start of each of its turns.
 
 **Using a Higher-Level Spell Slot.** You can target one additional creature for each spell slot level above 1.
 
 **Classes**: [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-oath-of-glory-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Glory)]]
 
-*Source: Player's Handbook (2024) p. 285. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 285. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -54,19 +69,33 @@ Heroism xphb is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of heroism xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around heroism xphb.
 
-## Adventure Hooks
-
-- A rumor ties heroism xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at heroism xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to heroism xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and truth emerges
+- Strange dreams suggest ancient magic
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

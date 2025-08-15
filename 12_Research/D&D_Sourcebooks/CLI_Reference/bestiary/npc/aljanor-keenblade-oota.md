@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.797133'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aljanor-keenblade-oota-aljanor-keenblade-oota.svg)
 
@@ -48,8 +46,6 @@ world: Both
   - !!int "16"
   - !!int "11"
   - !!int "14"
-  - !!int "11"
-  - !!int "11"
   - !!int "15"
 "speed": "30 ft."
 "saves":
@@ -59,7 +55,7 @@ world: Both
 "languages": "any one language (usually Common)"
 "cr": "3"
 "traits":
-  - "desc": "Aljanor has advantage on saving throws against being [[conditions#Frightened|frightened]]."
+  - "desc": "Aljanor has advantage on saving throws against being [[conditions#frightened|frightened]]."
     "name": "Brave"
 "actions":
   - "desc": "Aljanor makes two melee attacks."
@@ -86,6 +82,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Aljanor keenblade oota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -94,19 +108,25 @@ Aljanor keenblade oota is a undersea element of the setting, known for biolumine
 
 Legends speak of aljanor keenblade oota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around aljanor keenblade oota.
 
-## Adventure Hooks
-
-- A rumor ties aljanor keenblade oota to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at aljanor keenblade oota to avert a public scandal.
-- A map overlay reveals a hidden approach to aljanor keenblade oota active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

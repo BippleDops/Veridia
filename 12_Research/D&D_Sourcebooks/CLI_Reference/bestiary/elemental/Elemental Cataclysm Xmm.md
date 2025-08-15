@@ -29,14 +29,29 @@ updated: '2025-08-13T12:34:05.757288+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-elemental-cataclysm-xmm-elemental-cataclysm-xmm.svg)
 
 # [[elemental-cataclysm-xmm|Elemental Cataclysm]]
 *Source: Monster Manual (2024) p. 111*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Elemental Cataclysm
 
@@ -45,7 +60,7 @@ world: Both
 - **Habitat.** Planar (Elemental Chaos)  
 - **Treasure.** None  
 
-Beyond the fringes of the Elemental Planes, primordial forces endlessly clash amid the Elemental Chaos. Within the vastness and violence of this realm rage elemental cataclysms, entities spawned from the raw forces of the multiverse and awash in dissonant elemental powers. These beings of primal conflict annihilate nearly all they encounter and seed the ruins left in their wake with the potential for new creations.
+Beyond the fringes of the Elemental Planes, primordial forces endlessly clash amid the Elemental Chaos. Within the vastness and violence of this realm rage elemental cataclysms, entities spawned from the raw forces of the multiverse and awash in dissot elemental powers. These beings of primal conflict annihilate nearly all they encounter and seed the ruins left in their wake with the potential for new creations.
 
 Elemental cataclysms rarely escape the Elemental Chaos. When they do, it is typically due to some planar disruption or the summons of nihilistic cultists. When they emerge on Material Plane worlds, elemental cataclysms create realm-altering trails of destruction, carelessly destroying cities and throwing whole nations into chaos. The rampages aren't random. Elemental cataclysms abhor anything that visibly mars nature, be it mines or monuments, fortresses or cities, but they vent their most intense rage on works of metal and clockwork. As they sow destruction, they howl condemnation and chant words of unmaking in the languages of the Inner Planes.
 
@@ -83,7 +98,6 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
   - !!int "27"
   - !!int "9"
   - !!int "14"
-  - !!int "9"
 "speed": "60 ft., burrow 60 ft., fly 80 ft. (hover), swim 80 ft."
 "saves":
   - "dexterity": !!int "11"
@@ -93,9 +107,9 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
 "damage_immunities": "acid, cold, fire, lightning, poison, thunder"
 "condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
   \ [[conditions#Deafened|deafened]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Grappled|grappled]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
-  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#prone|prone]],\
   \ [[conditions#Restrained|restrained]], [[conditions#Stunned|stunned]],\
   \ [[conditions#Unconscious|unconscious]]"
 "senses": "truesight 150 ft., passive Perception 12"
@@ -124,7 +138,7 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
       \ [[burning-xphb|burning]].  \n- 2 Freezing\
       \ Waves. Strength Saving Throw: DC 23, each creature in a 90-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: 22 (5d8) Bludgeoning damage plus 22 (5d8) Cold damage, and the\
-      \ target has the [[conditions#Prone|Prone]] condition. Success:\
+      \ target has the [[conditions#prone|Prone]] condition. Success:\
       \ Half damage only. Failure or Success: The target's [[speed-xphb|Speed]]\
       \ is reduced to 0 until the end of its next turn.  \n- 3 Raging Storm. A\
       \ storm cloud fills a 60-foot-radius [[sphere-area-of-effect-xphb|Sphere]]\
@@ -138,7 +152,7 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
       \ Success: Half damage.  \n- 4 Swallowing Earth. Strength Saving Throw:\
       \ DC 23, each creature in a 90-foot [[cube-area-of-effect-xphb|Cube]]\
       \ originating from a point on the ground within 150 feet. Failure: 18 (4d8)\
-      \ Bludgeoning damage plus 18 (4d8) Acid damage, and the target has the [[conditions#Prone|Prone]]\
+      \ Bludgeoning damage plus 18 (4d8) Acid damage, and the target has the [[conditions#prone|Prone]]\
       \ condition and is buried under rubble. A buried target has the [[conditions#Restrained|Restrained]]\
       \ condition, has [[cover-xphb|Total Cover]],\
       \ and is suffocating. As an action, a buried creature or another creature within\
@@ -158,7 +172,7 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
       \ without provoking [[actions#Opportunity%20Attack|Opportunity Attacks]].\
       \ Each creature within 5 feet of the cataclysm as it moves is targeted once\
       \ by the following effect. Constitution Saving Throw: DC 23. Failure: The\
-      \ target has the [[conditions#Prone|Prone]] condition. Failure\
+      \ target has the [[conditions#prone|Prone]] condition. Failure\
       \ or Success: The cataclysm can't take this action again until the start of\
       \ its next turn."
     "name": "Rumbling Movement"
@@ -180,19 +194,28 @@ Elemental cataclysm xmm is a undersea element of the setting, known for biolumin
 
 Legends speak of elemental cataclysm xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elemental cataclysm xmm.
 
-## Adventure Hooks
-
-- A rumor ties elemental cataclysm xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at elemental cataclysm xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to elemental cataclysm xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a conspiracy
+- Someone is protecting a witness for revenge
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

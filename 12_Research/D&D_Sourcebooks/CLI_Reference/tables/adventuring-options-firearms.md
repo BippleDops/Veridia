@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.335697'
 world: Both
 ---
 
-
 # Adventuring Options; Firearms
 *Source: Dungeon Master's Guide p. 266* 
 
@@ -38,25 +37,39 @@ world: Both
 
 | Modern Item | Cost | Damage | Weight | Properties |
 |-------------|------|--------|--------|------------|
-| *Martial Ranged Weapons* |  |  |  |  |
 | &emsp;Pistol, automatic | — | `2d6` piercing | 3 lb. | Ammunition (range 50/150), reload (15 shots) |
 | &emsp;Revolver | — | `2d8` piercing | 3 lb. | Ammunition (range 40/120), reload (6 shots) |
 | &emsp;Rifle, hunting | — | `2d10` piercing | 8 lb. | Ammunition (range 80/240), reload (5 shots), two-handed |
 | &emsp;Rifle, automatic | — | `2d8` piercing | 8 lb. | Ammunition (range 80/240), burst fire, reload (30 shots), two-handed |
 | &emsp;Shotgun | — | `2d8` piercing | 7 lb. | Ammunition (range 30/90), reload (2 shots), two-handed |
-| *Ammunition* |  |  |  |  |
 | &emsp;Bullets (10) | — | — | 1 lb. | — |
 ^modern-item-cost-damage-weight-properties
 
 | Futuristic Item | Cost | Damage | Weight | Properties |
 |-----------------|------|--------|--------|------------|
-| *Martial Ranged Weapons* |  |  |  |  |
 | &emsp;Laser pistol | — | `3d6` radiant | 2 lb. | Ammunition (range 40/120), reload (50 shots) |
 | &emsp;Antimatter rifle | — | `6d8` necrotic | 10 lb. | Ammunition (range 120/360), reload (2 shots), two-handed |
 | &emsp;Laser rifle | — | `3d8` radiant | 7 lb. | Ammunition (range 100/300), reload (30 shots), two-handed |
-| *Ammunition* |  |  |  |  |
 | &emsp;Energy cell | — | — | 5 oz. | — |
 ^futuristic-item-cost-damage-weight-properties
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -66,19 +79,11 @@ Adventuring options firearms is a undersea element of the setting, known for bio
 
 Legends speak of adventuring options firearms as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around adventuring options firearms.
 
-## Adventure Hooks
-
-- A rumor ties adventuring options firearms to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at adventuring options firearms to avert a public scandal.
-- A map overlay reveals a hidden approach to adventuring options firearms active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 

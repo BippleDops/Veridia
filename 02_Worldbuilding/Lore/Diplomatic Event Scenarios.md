@@ -1,4 +1,5 @@
 ---
+
 title: Diplomatic Event Scenarios
 type: Lore
 tags:
@@ -23,6 +24,8 @@ modified: '2025-08-14'
 status: complete
 updated: '2025-08-13T12:34:16.035286+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -34,41 +37,78 @@ world: Aquabyssos
 > *"Diplomacy is the art of saying 'nice doggy' until you can find a rock. In Aquabyssos, we say 'nice kraken' until we can find a harpoon."*
 > — Ambassador Marina Deepcurrent, "Principles of Underwater Diplomacy"
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+
 ## Overview
 
 Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow infiltration, temporal anomalies, and the ongoing succession crisis. These scenarios and generators provide frameworks for creating complex international situations that drive political intrigue and adventure opportunities.
 
-## Event Classification System
-
-### Event Scales
-
-- **Bilateral:** Two parties (nations, factions, organizations)
-- **Multilateral:** 3-5 parties with complex relationships
-- **Conference:** 6+ parties requiring extensive coordination
-- **Crisis:** Emergency diplomatic situation requiring immediate resolution
-- **Ceremonial:** Protocol-heavy events with hidden agendas
-
-### Event Types
-
-- **Negotiation:** Formal discussions to reach agreements
-- **Celebration:** Cultural or political celebrations with diplomatic significance
-- **Crisis Response:** Emergency situations requiring international cooperation
-- **Treaty Formation:** Legal agreement creation and signing
-- **Intelligence Exchange:** Information sharing between allied nations
-
-## Standard Diplomatic Event Templates
-
 ### Template A: The Trade Negotiation Masquerade
 
 *Economic discussions hiding political maneuvering*
-
-#### Basic Structure
-
-- **Official Purpose:** Commercial trade agreement negotiation
-- **Hidden Agenda:** Political intelligence gathering, influence operations
-- **Participants:** 2-4 nations plus merchant representatives
-- **Duration:** 3-7 days of formal sessions plus social events
-- **Location:** Neutral embassy or commercial facility
 
 #### Key Elements
 
@@ -94,26 +134,9 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
   3. Personal relationships between negotiators complicate professional duties
   4. Time pressure from external crisis forces rushed decisions
 
-#### Potential Outcomes
-
-- **Success:** Trade agreement beneficial to all parties
-- **Partial Success:** Limited agreement with ongoing tensions
-- **Failure:** Breakdown leading to economic warfare
-- **Crisis Escalation:** Diplomatic incident triggers broader conflict
-
----
-
 ### Template B: The Cultural Festival Convergence
 
 *International celebration masking political maneuvering*
-
-#### Basic Structure
-
-- **Official Purpose:** Multicultural celebration and artistic exchange
-- **Hidden Agenda:** Soft power projection, social intelligence gathering
-- **Participants:** 4-8 nations plus cultural organizations
-- **Duration:** 5-10 days of performances, exhibitions, and competitions
-- **Location:** Major cultural center with international access
 
 #### Key Elements
 
@@ -143,27 +166,9 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
   5. Test security systems through festival logistics
   6. Demonstrate national strength through cultural superiority
 
-#### Political Undercurrents
-
-- **Alliance Building:** Nations use cultural similarity to build political relationships
-- **Soft Power Competition:** Demonstrating cultural sophistication and influence
-- **Intelligence Operations:** Gathering information through social interaction
-- **Economic Networking:** Business relationships formed during cultural events
-- **Ideological Influence:** Spreading political ideas through cultural exchange
-
----
-
 ### Template C: The Emergency Crisis Summit
 
 *International response to unexpected catastrophe*
-
-#### Basic Structure
-
-- **Official Purpose:** Coordinate response to major crisis or disaster
-- **Hidden Agenda:** Exploit crisis for political advantage
-- **Participants:** All affected nations plus international organizations
-- **Duration:** 2-5 days of intensive negotiation and planning
-- **Location:** Emergency venue with high security and communication capabilities
 
 #### Key Elements
 
@@ -178,7 +183,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 1. **Environmental Disaster:** Tsunami, earthquake, volcanic eruption
 2. **Plague Outbreak:** Disease threatening multiple nations
 3. **Military Invasion:** Foreign power attacking multiple targets
-4. **Economic Collapse:** Financial crisis requiring international intervention
+4. **Economic Collapse:** Ficial crisis requiring international intervention
 5. **Technological Failure:** Infrastructure breakdown affecting region
 6. **Supernatural Threat:** Eldritch entity or magical catastrophe
 7. **Refugee Crisis:** Mass population displacement from disaster
@@ -186,41 +191,14 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 9. **Communication Breakdown:** Loss of international communication systems
 10. **Political Assassination:** Murder of key international leader
 
-#### Diplomatic Complications (Roll 2d6)
-
-- **2-3:** One nation refuses to participate in response
-- **4-5:** Resource allocation disputes paralyze planning
-- **6-7:** Intelligence sharing reveals embarrassing secrets
-- **8-9:** Personal rivalries between leaders hamper cooperation
-- **10-11:** Response efforts accidentally make crisis worse
-- **12:** Discovery that crisis was artificially created by participant nation
-
-#### Hidden Exploitation Opportunities
-
-- **Military Access:** Use crisis response to position forces strategically
-- **Economic Advantage:** Profit from resource scarcity or reconstruction contracts
-- **Political Leverage:** Use aid provision to gain influence over recipient nations
-- **Intelligence Gathering:** Access restricted areas during crisis response
-- **Alliance Restructuring:** Use crisis to justify new political arrangements
-
----
-
 ### Template D: The Marriage Alliance Spectacle
 
 *Political union disguised as romantic celebration*
 
-#### Basic Structure
-
-- **Official Purpose:** Royal or noble marriage between allied families/nations
-- **Hidden Agenda:** Formalize political alliance, exchange strategic assets
-- **Participants:** 2 primary nations plus allied houses and international observers
-- **Duration:** 7-14 days of pre-wedding events, ceremony, and celebrations
-- **Location:** Major palace or religious center with international significance
-
 #### Key Elements
 
 1. **Engagement Announcement:** Public declaration with political implications
-2. **Dowry Negotiation:** Financial and political terms of alliance
+2. **Dowry Negotiation:** Ficial and political terms of alliance
 3. **Pre-Wedding Events:** Multiple social occasions for diplomatic interaction
 4. **Wedding Ceremony:** Public ritual with international witnesses
 5. **Post-Wedding Politics:** Integration of new alliance into international relations
@@ -231,7 +209,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 2. **Competing Suitors:** Other nations attempt to disrupt marriage through rival proposals
 3. **Family Opposition:** Internal family politics threaten to cancel wedding
 4. **Religious Conflict:** Ceremony requirements create diplomatic tension
-5. **Economic Disputes:** Dowry negotiations reveal hidden financial problems
+5. **Economic Disputes:** Dowry negotiations reveal hidden ficial problems
 6. **Military Threat:** Foreign power attempts to prevent alliance through force
 7. **Personal Drama:** Genuine romantic complications interfere with political arrangement
 8. **Legal Challenge:** Legitimacy of marriage questioned on legal or technical grounds
@@ -239,34 +217,15 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 #### Alliance Implications (Roll 1d6)
 
 1. **Military Cooperation:** Joint defense agreements and troop sharing
-2. **Economic Integration:** Trade preferences and financial cooperation
+2. **Economic Integration:** Trade preferences and ficial cooperation
 3. **Intelligence Sharing:** Coordinated espionage and information exchange
 4. **Territorial Exchange:** Land transfers or boundary adjustments
 5. **Cultural Exchange:** Educational and social integration programs
 6. **Succession Rights:** Future inheritance and political continuity agreements
 
-#### Disruption Scenarios
-
-- **Assassination Attempt:** Killing bride/groom prevents alliance
-- **Scandal Revelation:** Compromising information about family/nation
-- **External Intervention:** Foreign power sabotages proceedings
-- **Internal Betrayal:** Family member opposes alliance through sabotage
-- **Natural Disaster:** Environmental crisis interrupts or prevents ceremony
-- **Legal Intervention:** Court ruling questions marriage legitimacy
-
----
-
 ### Template E: The Technology Transfer Symposium
 
 *Scientific cooperation concealing espionage operations*
-
-#### Basic Structure
-
-- **Official Purpose:** International scientific collaboration and technology sharing
-- **Hidden Agenda:** Industrial espionage, military intelligence gathering
-- **Participants:** 3-6 nations plus academic and corporate representatives
-- **Duration:** 4-8 days of presentations, demonstrations, and workshops
-- **Location:** Academic institution or research facility with advanced security
 
 #### Key Elements
 
@@ -296,16 +255,6 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 7. **Corporate Espionage:** Private companies stealing government research
 8. **Academic Infiltration:** Foreign agents posing as scholars and researchers
 
-#### Scientific Diplomacy Benefits
-
-- **Research Acceleration:** Collaborative projects advance faster than solo efforts
-- **Cost Sharing:** Expensive research distributed among multiple nations
-- **Knowledge Exchange:** Scientific breakthroughs shared for mutual benefit
-- **Standard Setting:** International agreements on research ethics and safety
-- **Crisis Response:** Coordinated scientific response to global challenges
-
-## Dynamic Event Generators
-
 ### Participant Generator
 
 **Roll 1d6 for each potential participant:**
@@ -320,7 +269,7 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 
 **Roll 1d12 when events become complicated:**
 1. **Personal Vendetta:** Historical grievance affects professional relationship
-2. **Economic Pressure:** Financial crisis forces desperate decisions
+2. **Economic Pressure:** Ficial crisis forces desperate decisions
 3. **Security Threat:** Assassination attempt or terrorist action
 4. **Environmental Crisis:** Natural disaster interferes with proceedings
 5. **Communication Breakdown:** Misunderstanding escalates into major conflict
@@ -341,34 +290,6 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 - **9-10:** Mostly Successful - Goals achieved with minor problems
 - **11-12:** Complete Success - All objectives met, relationships improved
 
-## Aquabyssos-Specific Diplomatic Challenges
-
-### Environmental Factors
-
-- **Pressure Requirements:** Participants need different atmospheric conditions
-- **Temporal Anomalies:** Time distortion effects complicate scheduling
-- **Shadow Interference:** Shadow beings disrupt or infiltrate proceedings
-- **Memory Tides:** Natural phenomena affect memory and decision-making
-- **Crystal Resonance:** Technology interference from crystal formations
-
-### Cultural Complications
-
-- **Adaptation Prejudice:** Discrimination based on surface/depth adaptation
-- **Memory Trading Ethics:** Moral questions about memory sharing and storage
-- **Shadow Rights Issues:** Legal status of shadow beings in international law
-- **Religious Conflicts:** Competing underwater spiritual beliefs
-- **Temporal Philosophy:** Disagreements about time manipulation ethics
-
-### Political Unique Factors
-
-- **Succession Crisis:** Ongoing governmental instability affects all negotiations
-- **Parliament Infiltration:** Shadow replacements complicate democratic representation
-- **Noble House Interference:** Aristocratic families pursue independent agendas
-- **Foreign Intelligence:** Multiple spy networks operating simultaneously
-- **Identity Questions:** Uncertainty about participants' true identities
-
-## Adventure Integration
-
 ### Player Character Roles
 
 1. **Diplomatic Security:** Protect participants from assassination or sabotage
@@ -376,24 +297,6 @@ Diplomatic events in Aquabyssos are complicated by underwater logistics, shadow 
 3. **Intelligence Operatives:** Gather information or conduct counter-espionage
 4. **Problem Solvers:** Resolve crises and complications that threaten event success
 5. **Neutral Mediators:** Help competing parties find common ground and agreement
-
-### Escalation Scenarios
-
-- **Diplomatic Crisis:** Event failure threatens international stability
-- **Military Confrontation:** Political tensions escalate to armed conflict threat
-- **Economic Warfare:** Trade disputes evolve into economic attacks
-- **Intelligence War:** Espionage operations expose broader spy networks
-- **Cultural Conflict:** Misunderstandings threaten long-term international relationships
-
-### Long-term Consequences
-
-- **Alliance Formation:** Successful events create lasting political partnerships
-- **Trade Relationships:** Economic agreements affect regional prosperity
-- **Military Cooperation:** Defense pacts alter balance of power
-- **Cultural Exchange:** Social relationships influence future diplomatic possibilities
-- **Intelligence Networks:** Spy operations create ongoing espionage storylines
-
-## Quick Reference Tables
 
 ### Event Type Quick Selection
 
@@ -439,41 +342,28 @@ Diplomatic Event Scenarios is a undersea element of the setting, known for biolu
 
 Legends speak of Diplomatic Event Scenarios as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Diplomatic Event Scenarios.
 
-## Adventure Hooks
-
-- A rumor ties Diplomatic Event Scenarios to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Diplomatic Event Scenarios to avert a public scandal.
-- A map overlay reveals a hidden approach to Diplomatic Event Scenarios active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-
-
 ## Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
-
 
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
 
-## Game Applications
 
-### Adventure Hooks
-- Discovery of related artifacts or texts
-- Conflicts arising from different interpretations
-- Prophecies beginning to manifest
+## Cultural Practices
 
-### Character Connections
-- Scholarly interest
-- Personal involvement in events
-- Hereditary knowledge or curse
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon

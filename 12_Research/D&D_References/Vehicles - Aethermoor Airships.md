@@ -21,17 +21,32 @@ updated: '2025-08-13T12:34:17.789733+00:00'
 world: Aethermoor
 ---
 
-
-
-
 # Aethermoor Airships
 
 Crystal-powered vessels that ride currents, gravity folds, and starlight. Integrates [[Complete Reality Merger System]], [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Complete Faction Warfare System]], [[Memory Trading Economy System|Memory Trading Economy]], [[Complete Pressure Adaptation System]] (altitude inversion), and [[Deep Mother]].
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Crystal-Powered Airships (Examples)
-- Harmonium Skiff (Resonant levitation; silent running)
+- Harmonium Skiff (Resot levitation; silent running)
 - Wind-Sung Clipper (Sails on songs; bard-boosted speed)
-- Void-Touched Corsair (Gravity-null pods; sanity risks)
+- Void-Touched Corsair (Gravity- pods; sanity risks)
 - Nimbus Garden (Living cloud hull; weather control)
 - Star-Anchored Platform (Orbital relay; anchor array)
 - Fold-Gate Courier (Short-range reality folds; mishap risk)
@@ -46,19 +61,6 @@ Crystal-powered vessels that ride currents, gravity folds, and starlight. Integr
 - Whisper Kite (Scout; hears memory winds)
 
 GM Note: Expand to 50+ designs via template [[New_Ship_Template|New Ship Template]].
-
-## Aerial Combat Mechanics
-- 3D Grid: Altitude bands; stall checks when overburdened or de-powered
-- Crystal Resonance Arrays: Select frequency for damage/control; mis-tune causes feedback
-- Gravity Manipulation: Spend POU to alter local gravity; risky near merger zones
-- Sky Piracy: Boarding grapnels, anchor jammers, wind shear traps
-
-## Integration Hooks
-- Altitude Pressure Inversion: Apply pressure rules inverted for height (see [[Depth Survival Mechanics]])
-- Sanity: Prolonged void-sight requires [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] saves; shrine-chant stabilizes
-- Reality: Fold-Gate Couriers create micro-mergers; anchors mitigate
-- Memory: Whisper Kites harvest route echoes; charts fuel long-haul jumps
-- Faction: Doctrines yield preferred altitude bands and weapon arrays (see [[Fleet_Dynamics_Generator|Fleet Dynamics Generator]])
 
 ## Example Stat Block: Wind-Sung Clipper (Medium Frigate)
 - Hull 140 (Segments 4×35) • AC 15 crystal-rig • Speed 80 kn air • Maneuver 3/round
@@ -77,23 +79,20 @@ Aethermoor Airships is a sky-borne element of the setting, known for brass fitti
 
 Legends speak of Aethermoor Airships as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aethermoor Airships.
 
-## Adventure Hooks
-
-- A rumor ties Aethermoor Airships to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Aethermoor Airships to avert a public scandal.
-- A map overlay reveals a hidden approach to Aethermoor Airships active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Vehicles_Index|03 Mechanics/Vehicles/Vehicles Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

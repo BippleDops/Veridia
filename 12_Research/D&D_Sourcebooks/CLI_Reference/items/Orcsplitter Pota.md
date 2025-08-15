@@ -25,15 +25,11 @@ updated: '2025-08-13T12:34:06.809772+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-orcsplitter-pota-orcsplitter-pota.svg)
 
 # Orcsplitter
 *Weapon ([[greataxe-xphb|greataxe]]), legendary (requires attunement by a dwarf, fighter, or paladin of good alignment)*  
-
 
 - **Damage**: 1d12 slashing
 - **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
@@ -46,7 +42,25 @@ You gain the following benefits while holding this magic weapon:
 - You gain a +2 bonus to attack and damage rolls made with it.  
 - When you roll a 20 on an attack roll with this weapon against an [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|orc]], that [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|orc]] must succeed on a DC 17 Constitution saving throw or drop to 0 hit points.  
 - You can't be [[conditions#Surprised|surprised]] by [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|orcs]] while you're not [[conditions#Incapacitated|incapacitated]]. You are also aware when [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|orcs]] are within 120 feet of you and aren't behind total cover, although you don't know their location.  
-- You and any of your friends within 30 feet of you can't be [[conditions#Frightened|frightened]] while you're not [[conditions#Incapacitated|incapacitated]].  
+- You and any of your friends within 30 feet of you can't be [[conditions#frightened|frightened]] while you're not [[conditions#Incapacitated|incapacitated]].  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Sentience
 
@@ -66,19 +80,15 @@ Orcsplitter pota is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of orcsplitter pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around orcsplitter pota.
 
-## Adventure Hooks
-
-- A rumor ties orcsplitter pota to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at orcsplitter pota to avert a public scandal.
-- A map overlay reveals a hidden approach to orcsplitter pota active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

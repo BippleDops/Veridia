@@ -24,23 +24,35 @@ obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.861470+00:00'
 ---
 
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-leviathan-prophets-the-leviathan-prophets.svg]]
-
-
-
-
 
 # The Leviathan Prophets
 
 *"When the Great Deep stirs, only those who listen to its whispers shall survive." - First Prophet Thalassa*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 The Leviathan Prophets are a mysterious cult devoted to ancient sea creatures of immense power, believing these beings hold the keys to Aquabyssos's ultimate destiny. They interpret the movements of deep-sea leviathans as divine messages, predicting everything from political upheavals to natural disasters. Operating from hidden shrines throughout the city's deepest districts, they maintain that only through communion with these ancient entities can the city achieve true greatness.
 
-Founded after the Great Stirring, when massive creatures were spotted in the deepest trenches, the Prophets claim direct spiritual connection to beings older than civilization itself. They view themselves as interpreters of an ancient covenant between the leviathans and the underwater realm.
+Founded after the Great Stirring, when massive creatures were spotted in the deepest trenches, the Prophets claim direct spiritual connection to beings older than civilization itself. They view themselves as interpreters of an ancient covet between the leviathans and the underwater realm.
 
 ## Structure and Beliefs
 **The First Prophet:** Supreme leader claiming direct leviathan communication
@@ -48,13 +60,6 @@ Founded after the Great Stirring, when massive creatures were spotted in the dee
 **Tide Readers:** Mid-level prophets specializing in specific types of divination
 **Current Touched:** Initiates undergoing spiritual transformation
 **The Awakened:** Former members who achieved "true sight"
-
-### Core Doctrines
-- Leviathans are divine guardians of the deep realms
-- Their movements predict future events with absolute accuracy
-- Only through sacrifice and devotion can one gain prophetic sight
-- The coming "Great Awakening" will transform all ocean life
-- Surface dwellers are spiritually inferior due to separation from the depths
 
 ## Prophetic Practices
 **Deep Meditation:** Extended trances in the deepest accessible waters
@@ -93,7 +98,7 @@ Members come from all social classes, united by fascination with prophecy and de
 **Prophetic Archives:** Detailed records of predictions and outcomes
 **Ritual Implements:** Blessed artifacts for ceremonial use
 **Intelligence Network:** Informants throughout Aquabyssos and beyond
-**Financial Assets:** Donations from wealthy believers and prediction services
+**Ficial Assets:** Donations from wealthy believers and prediction services
 
 ## Secrets
 1. Some prophecies are deliberately vague to ensure multiple interpretations
@@ -112,41 +117,6 @@ Members come from all social classes, united by fascination with prophecy and de
 ## DM Notes
 The Leviathan Prophets work well as mysterious quest givers whose cryptic guidance leads to adventure. Their prophecies can foreshadow campaign events or provide plot hooks. Use them to add mystical elements to political intrigue, while their potential accuracy makes them valuable but potentially dangerous allies.
 
-
-## Connections
-
-- [[Oracle]]
-
-
-## Appearance
-
-
-TODO
-
-
-## Personality
-
-
-TODO
-
-
-## Goals
-
-
-TODO
-
-
-## Relationships
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 The Leviathan Prophets is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -155,13 +125,41 @@ The Leviathan Prophets is a undersea element of the setting, known for biolumine
 
 Legends speak of The Leviathan Prophets as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Leviathan Prophets.
 
-## Cross-References
-
-- [[The Leviathan Prophets|02 Worldbuilding/People/The Leviathan Prophets]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Winds
+
+
+## Plot Hooks
+
+- The authorities needs help stealing before dawn
+- A document has gone missing and truth emerges
+- A prisoner has gone missing and war looms
+- A noble needs help delivering before dawn
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

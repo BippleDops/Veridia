@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.290828+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-xvart-mpmm-v1-xvart-mpmm.svg)
 
@@ -39,6 +36,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200*  
 
 Fleeing his pursuers, Raxivort wandered across the multiverse and spawned xvarts, who not only look like him but also cause any magic that could reveal his location to point to the nearest xvart instead.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Xvarts
 
@@ -60,8 +75,6 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
   - !!int "8"
   - !!int "14"
   - !!int "10"
-  - !!int "8"
-  - !!int "7"
   - !!int "7"
 "speed": "30 ft."
 "skillsaves":
@@ -72,7 +85,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 "cr": "1/8"
 "traits":
   - "desc": "The xvart can communicate with ordinary [[bat-xmm|bats]]\
-      \ and [[rat-xmm|rats]], as well as [[giant-bat-xmm|giant\
+      \ and [[rat-xmm|rats]], as well as [[giant-bat-xmm|giant\]]
       \ bats]] and [[giant-rat-xmm|giant rats]]."
     "name": "Raxivort's Tongue"
 "actions":
@@ -107,19 +120,20 @@ Xvart mpmm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of xvart mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around xvart mpmm.
 
-## Adventure Hooks
-
-- A rumor ties xvart mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at xvart mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to xvart mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

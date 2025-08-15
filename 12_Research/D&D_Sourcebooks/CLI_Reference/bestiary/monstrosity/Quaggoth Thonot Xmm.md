@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.287184+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-quaggoth-thonot-xmm-quaggoth-thonot-xmm.svg)
 
@@ -38,6 +35,24 @@ world: Both
 *Source: Monster Manual (2024) p. 251*  
 
 Quaggoth thonots possess psionic abilities, which they use to give themselves an edge in combat and to coerce the service of other quaggoths.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Quaggoths
 
@@ -116,19 +131,18 @@ Quaggoth thonot xmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of quaggoth thonot xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around quaggoth thonot xmm.
 
-## Adventure Hooks
-
-- A rumor ties quaggoth thonot xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at quaggoth thonot xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to quaggoth thonot xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

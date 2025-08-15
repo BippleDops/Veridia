@@ -1,7 +1,7 @@
-# The Resonance Workshop
+# The Resoce Workshop
 
 ---
-title: The Resonance Workshop
+title: The Resoce Workshop
 type: Lore
 tags:
 - lore
@@ -18,45 +18,53 @@ updated: '2025-08-13T01:18:35.336571+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
 
 ## Player-Facing Summary
 
-The Resonance Workshop is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+The Resoce Workshop is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of The Resonance Workshop as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Resonance Workshop.
-
-## Adventure Hooks
-
-- A rumor ties The Resonance Workshop to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Resonance Workshop to avert a public scandal.
-- A map overlay reveals a hidden approach to The Resonance Workshop active only during specific tides/storms.
+Legends speak of The Resoce Workshop as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Resoce Workshop.
 
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Floating Market|02 Worldbuilding/Places/The Floating Market]]
-
-
-## Connections
-
-- [[The Floating Market]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

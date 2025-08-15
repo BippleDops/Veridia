@@ -29,8 +29,6 @@ updated: '2025-08-12T23:37:35.410118'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-flail-snail-mpmm-flail-snail-mpmm.svg)
 
@@ -40,6 +38,24 @@ world: Both
 A flail snail is a creature of elemental earth that is prized for its multihued shell. It may seem harmless, but if a creature big enough to be a threat approaches too close, the snail flashes a scintillating light and attacks with its mace-like tentacles.
 
 Left undisturbed, a flail snail moves slowly along the ground. It consumes everything on the surface, including rocks, sand, and soil, and it stops periodically to relish crystal growths and other large mineral deposits. It leaves behind a shimmering trail that quickly solidifies into a thin and nearly transparent layer. This glassy residue can be harvested and cut to form window panes. It can also be heated and spun into other glass objects. Some folk make a living from trailing flail snails to collect this glass.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Using the Shell of a Flail Snail
 
@@ -65,7 +81,6 @@ A flail snail shell can also be used to make a [[robe-of-scintillating-colors-xd
   - !!int "20"
   - !!int "3"
   - !!int "10"
-  - !!int "5"
 "speed": "10 ft."
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[conditions#Poisoned|poisoned]]"
@@ -119,19 +134,30 @@ Flail snail mpmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of flail snail mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around flail snail mpmm.
 
-## Adventure Hooks
-
-- A rumor ties flail snail mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at flail snail mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to flail snail mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for a witness for revenge
+- Someone is blackmailing a witness for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

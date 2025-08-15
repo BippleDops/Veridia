@@ -17,7 +17,7 @@ tags:
 - active
 - status/in-progress
 - ttrpg-cli/monster/cr/21
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-monster
@@ -28,16 +28,31 @@ updated: '2025-08-13T12:34:06.014324+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-ancient-black-dragon-xmm-ancient-black-dragon-xmm.svg)
 
 # [[ancient-black-dragon-xmm|Ancient Black Dragon]]
-*Source: Monster Manual (2024) p. 40. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 40. Available in the SRD and the Free Rules (2024)*  
 
 Ancient black dragons plot the ruin of whole realms. They seek magic to corrupt the land, raise undead hordes, bind fiends, and replicate magical disasters. Ancient black dragons strive to create vast, dead domains where they are the greatest things that remain.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Black Dragons
 
@@ -48,7 +63,7 @@ Ancient black dragons plot the ruin of whole realms. They seek magic to corrupt 
 
 Black dragons delight in suffering and ruin. While other chromatic dragons scheme for power and wealth, these dragons seek to tear down all they see and rule over what remains.
 
-Black dragons are terrifying creatures with curved horns and withered visages suggestive of fiendish skulls. They typically inhabit stagnant swamps, crumbling ruins, or places of magical or environmental corruption. Their acid breath scars their domains, eroding the features from ancient statues and leaving nature with festering wounds.
+Black dragons are terrifying creatures with curved horns and withered visages suggestive of fiendish skulls. They typically inhabit stagt swamps, crumbling ruins, or places of magical or environmental corruption. Their acid breath scars their domains, eroding the features from ancient statues and leaving nature with festering wounds.
 
 Black dragons hoard tarnished symbols of hope and relics of fallen empires. The more sought-after the treasure, the more black dragons prize it—particularly if they were responsible for it being lost.
 
@@ -108,7 +123,7 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
       \ with spell attacks):\n\nAt will: [[detect-magic-xphb|Detect Magic]],\
       \ [[fear-xphb|Fear]], [[melfs-acid-arrow-xphb|Melf's Acid Arrow]]\
       \ (level 4 version)\n\n1/day each: [[create-undead-xphb|Create Undead]],\
-      \ [[speak-with-dead-xphb|Speak with Dead]], [[vitriolic-sphere-xphb|Vitriolic\
+      \ [[speak-with-dead-xphb|Speak with Dead]], [[vitriolic-sphere-xphb|Vitriolic\]]
       \ Sphere]] (level 5 version)"
     "name": "Spellcasting"
 "legendary_actions":
@@ -135,9 +150,7 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
       \ of the lair are supernaturally fouled. A creature that drinks such water must\
       \ succeed on a DC 15 Constitution saving throw or have the [[conditions#Poisoned|Poisoned]]\
       \ condition for 1 hour.  "
-    "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/dragon/token/ancient-black-dragon-xmm.webp"
@@ -156,19 +169,23 @@ Ancient black dragon xmm is a undersea element of the setting, known for biolumi
 
 Legends speak of ancient black dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ancient black dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties ancient black dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ancient black dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ancient black dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

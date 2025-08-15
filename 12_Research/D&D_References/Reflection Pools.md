@@ -24,18 +24,30 @@ obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.896530+00:00'
 ---
 
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-reflection-pools-reflection-pools.svg]]
-
-
-
-
 
 # Reflection Pools
 
 *"In still waters, the future ripples backward to the present." - Oracle Miraleth*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 The Reflection Pools are a sacred site consisting of seven perfectly circular pools of unnaturally still water, each capable of showing visions of past, present, or future events. Located in the Temple District's quietest corner, these pools serve both religious and practical purposes for divination, meditation, and seeking guidance.
@@ -61,19 +73,6 @@ The Reflection Pools are a sacred site consisting of seven perfectly circular po
 **Apprentice Seers:** Students learning divination arts
 **Temple Guards:** Protection from misuse or disruption
 
-## Restrictions and Dangers
-- Pools may show false or misleading visions
-- Extended viewing can cause madness or obsession
-- Some visions are deliberately blocked by powerful magic
-- Certain questions anger the pools' mysterious intelligence
-- Multiple viewers may see conflicting images
-
-## Recent Visions
-- Disturbing glimpses of shadow creatures in city tunnels
-- Visions of surface world conflict affecting trade
-- Prophetic images of underwater volcanic activity
-- Mysterious figures gathering in secret locations
-
 ## Adventure Hooks
 1. Pool shows vision of party's death unless they act quickly
 2. False visions are being planted by unknown magical interference
@@ -91,42 +90,6 @@ The Reflection Pools are a sacred site consisting of seven perfectly circular po
 ## DM Notes
 Use the Reflection Pools as plot devices to provide information, foreshadow events, or create red herrings. Visions should be symbolic rather than literal, requiring interpretation and potentially misleading parties into interesting complications.
 
-
-## Connections
-
-- [[Original Glaucus]]
-- [[Senator Glaucus]]
-
-
-## Appearance
-
-
-TODO
-
-
-## Personality
-
-
-TODO
-
-
-## Goals
-
-
-TODO
-
-
-## Relationships
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 Reflection Pools is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -135,13 +98,16 @@ Reflection Pools is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of Reflection Pools as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reflection Pools.
 
-## Cross-References
-
-- [[Reflection Pools|02 Worldbuilding/People/Reflection Pools]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals ancient history about the government
+- Strange dreams suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

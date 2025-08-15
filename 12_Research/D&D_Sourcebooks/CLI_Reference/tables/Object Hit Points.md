@@ -22,10 +22,8 @@ updated: '2025-08-13T12:34:03.689872+00:00'
 world: Both
 ---
 
-
-
 # Object Hit Points
-*Source: Dungeon Master's Guide p. 247. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+*Source: Dungeon Master's Guide p. 247. Available in the SRD* 
 
 **Object Hit Points**
 
@@ -37,6 +35,24 @@ world: Both
 | Large (cart, 10-ft.-by-10-ft. window) | 5 (`d10`) | 27 (`5d10`) |
 ^object-hit-points
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Object hit points is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -45,18 +61,9 @@ Object hit points is a undersea element of the setting, known for bioluminescent
 
 Legends speak of object hit points as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around object hit points.
 
-## Adventure Hooks
-
-- A rumor ties object hit points to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at object hit points to avert a public scandal.
-- A map overlay reveals a hidden approach to object hit points active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

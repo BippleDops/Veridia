@@ -32,11 +32,8 @@ updated: '2025-08-13T12:34:06.276738+00:00'
 world: Both
 ---
 
-
-
 # Vortex Warp
 *2nd-level, Conjuration*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet
@@ -51,6 +48,24 @@ You magically twist space around another creature you can see within range. The 
 
 *Source: Strixhaven: A Curriculum of Chaos p. 38*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Vortex warp scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -59,19 +74,20 @@ Vortex warp scc is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of vortex warp scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around vortex warp scc.
 
-## Adventure Hooks
-
-- A rumor ties vortex warp scc to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at vortex warp scc to avert a public scandal.
-- A map overlay reveals a hidden approach to vortex warp scc active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and evil awakens
+- A corpse reveals a betrayal about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

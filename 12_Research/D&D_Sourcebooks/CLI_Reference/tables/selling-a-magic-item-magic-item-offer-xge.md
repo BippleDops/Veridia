@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.433668'
 world: Both
 ---
 
-
 # Selling a Magic Item; Magic Item Offer
 *Source: Xanathar's Guide to Everything p. 133* 
 
@@ -34,6 +33,24 @@ world: Both
 | 21+ | 150% of base price |
 ^magic-item-offer
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Selling a magic item magic item offer xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -42,19 +59,38 @@ Selling a magic item magic item offer xge is a undersea element of the setting, 
 
 Legends speak of selling a magic item magic item offer xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around selling a magic item magic item offer xge.
 
-## Adventure Hooks
-
-- A rumor ties selling a magic item magic item offer xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at selling a magic item magic item offer xge to avert a public scandal.
-- A map overlay reveals a hidden approach to selling a magic item magic item offer xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

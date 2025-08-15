@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.049522+00:00'
 world: Both
 ---
 
-
-
 # Swamp Encounters (Levels 5—10)
 *Source: Xanathar's Guide to Everything p. 105* 
 
@@ -67,10 +65,28 @@ world: Both
 | 87-88 | `1d4 + 1` [[wight-xmm|wights]] |
 | 89-90 | `1d6 + 1` yuan-ti malisons: [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|type 1]], [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-2-xmm|type 2]], [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-3-xmm|type 3]] |
 | 91-93 | `1d4 + 1` [[troll-xmm|trolls]] |
-| 94-96 | `d10` [[revenant-xmm|revenants]] |
+| 94-96 | `d10` [[revet-xmm|revets]] |
 | 97-99 | `1d8 + 1` [[water-elemental-xmm|water elementals]] |
 | 00 | `d3` [[hydra-xmm|hydras]] |
 ^swamp-encounters-levels-510
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -80,19 +96,32 @@ Swamp encounters levels 510 xge is a undersea element of the setting, known for 
 
 Legends speak of swamp encounters levels 510 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around swamp encounters levels 510 xge.
 
-## Adventure Hooks
-
-- A rumor ties swamp encounters levels 510 xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at swamp encounters levels 510 xge to avert a public scandal.
-- A map overlay reveals a hidden approach to swamp encounters levels 510 xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Plot Hooks
+
+- A journal reveals a conspiracy about the government
+- A stranger needs help stealing before winter
+- The authorities needs help finding before winter
+- An heirloom has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

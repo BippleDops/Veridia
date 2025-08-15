@@ -4,28 +4,19 @@ type: lore
 tags:
 - lore
 - worldbuilding
+- prophecy
 created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# scripts
 
 ## Overview
 
 scripts represents a crucial aspect of the world's history, cosmology, or fundamental nature.
 
-[Lore content continues with similar detail...]
-
 ---
 
 *Last Updated: 2025-08-14 19:03*
-
-## Connections
-
-- See also: [[Central Index]]
-- Related: [[Historical Context]]
-- Connected to: [[Main Quest Line]]
-
 
 ## DM Notes
 

@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:06.099140+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-brazen-gorgon-xmm-brazen-gorgon-xmm.svg)
 
@@ -40,6 +37,24 @@ world: Both
 *Source: Monster Manual (2024) p. 149*  
 
 Followers of the exiled archdevil Moloch altered the process of creating gorgons to craft their own diabolical guardians called brazen gorgons. These gorgons are hollow, bull-like automatons whose metal bodies glow with intense heat. When they charge their foes, the ribs of their frames open like cages to ensnare enemies and roast them within. Brazen gorgons are often found in blasphemous sites dedicated to Moloch, other archdevils, or bloodthirsty gods.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Gorgons
 
@@ -74,7 +89,6 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
 > 
 > Notable among my eccentric ancestor's scattered designs was a schematic of a swamp-dwelling bovine monster and an ominous note: "Do better."
 
-
 ```statblock
 "name": "Brazen Gorgon (XMM)"
 "size": "Large"
@@ -89,7 +103,6 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
   - !!int "14"
   - !!int "19"
   - !!int "2"
-  - !!int "14"
   - !!int "7"
 "speed": "40 ft."
 "skillsaves":
@@ -123,7 +136,7 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
       \ DC 16. Failure: 13 (2d8 + 4) Piercing damage plus 13 (3d8) Fire damage,\
       \ and the target is pulled into the gorgon's space and has the [[conditions#Grappled|Grappled]]\
       \ condition (escape DC 14); if the gorgon already has a creature [[conditions#Grappled|Grappled]],\
-      \ the target has the [[conditions#Prone|Prone]] condition\
+      \ the target has the [[conditions#prone|Prone]] condition\
       \ instead. Until the grapple ends, the target has the [[conditions#Restrained|Restrained]]\
       \ condition. When the gorgon moves, the [[conditions#Grappled|Grappled]]\
       \ target moves with it, costing no extra movement."
@@ -146,19 +159,32 @@ Brazen gorgon xmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of brazen gorgon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around brazen gorgon xmm.
 
-## Adventure Hooks
-
-- A rumor ties brazen gorgon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at brazen gorgon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to brazen gorgon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A map reveals ancient history about the cult
+- A shipment has gone missing and war looms
+- A journal reveals the truth about a local noble
+- A merchant needs help stealing before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

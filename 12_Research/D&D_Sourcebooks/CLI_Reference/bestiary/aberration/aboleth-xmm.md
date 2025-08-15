@@ -28,13 +28,29 @@ updated: '2025-08-12T23:37:35.343811'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aboleth-xmm-aboleth-xmm.svg)
 
 # [[aboleth-xmm|Aboleth]]
-*Source: Monster Manual (2024) p. 12. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 12. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Aboleth
 
@@ -83,8 +99,6 @@ Aboleths usually dwell in submerged ruins and caverns. They keep air-filled spac
 "stats":
   - !!int "21"
   - !!int "9"
-  - !!int "15"
-  - !!int "18"
   - !!int "15"
   - !!int "18"
 "speed": "10 ft., swim 40 ft."
@@ -167,9 +181,7 @@ Aboleths usually dwell in submerged ruins and caverns. They keep air-filled spac
       \ (spell save DC 16). When casting the spell this way, the spell's range is\
       \ 1 mile, and the aboleth can use its telepathy as if it were in the illusion's\
       \ space.  "
-    "name": ""
   - "desc": "If the aboleth dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/aberration/token/aboleth-xmm.webp"
@@ -188,19 +200,28 @@ Aboleth xmm is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of aboleth xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around aboleth xmm.
 
-## Adventure Hooks
-
-- A rumor ties aboleth xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at aboleth xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to aboleth xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

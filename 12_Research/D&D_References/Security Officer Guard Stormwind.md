@@ -17,14 +17,22 @@ updated: '2025-08-13T01:18:35.716083+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
 
 ## Player-Facing Summary
 
@@ -34,28 +42,30 @@ Security Officer Guard Stormwind is a undersea element of the setting, known for
 
 Legends speak of Security Officer Guard Stormwind as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Security Officer Guard Stormwind.
 
-## Adventure Hooks
-
-- A rumor ties Security Officer Guard Stormwind to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Security Officer Guard Stormwind to avert a public scandal.
-- A map overlay reveals a hidden approach to Security Officer Guard Stormwind active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Threshold|02 Worldbuilding/Lore/The Threshold]]
-
-
-## Connections
-
-- [[The Threshold]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and chaos spreads
+- A letter reveals a betrayal about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

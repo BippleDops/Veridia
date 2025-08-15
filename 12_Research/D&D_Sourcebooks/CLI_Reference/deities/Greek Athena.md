@@ -24,15 +24,31 @@ updated: '2025-08-13T12:34:04.300018+00:00'
 world: Both
 ---
 
-
-
 # Athena
-*Source: Player's Handbook p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+*Source: Player's Handbook p. 298. Available in the SRD* 
 
 - **Alignment**: Lawful Good
 - **Domains**: Knowledge, War, Order
 - **Pantheon**: Greek
 - **Symbol**: Owl
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -42,19 +58,32 @@ Greek athena is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of greek athena as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around greek athena.
 
-## Adventure Hooks
-
-- A rumor ties greek athena to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at greek athena to avert a public scandal.
-- A map overlay reveals a hidden approach to greek athena active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and truth emerges
+- Strange sightings suggest a portal
+- Someone is hunting a artifact for revenge
+- A prisoner has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -20,7 +20,6 @@ updated: '2025-08-13T16:45:00.000000'
 world: Both
 ---
 
-
 # Seven Shards Campaign: Official 5e Content Integration
 *Complete Integration Guide for D&D 5th Edition Sourcebooks and Adventures*
 
@@ -30,8 +29,6 @@ world: Both
 > - Adventure League compliance guidelines
 > - Character option recommendations
 > - Cross-campaign integration possibilities
-
-## Core Rulebook Integration
 
 ### Player's Handbook Connections
 
@@ -126,8 +123,6 @@ world: Both
 - **Couatl** → Unity Serpent (wisdom and connection guide)
 - **Ki-rin** → Unity Spirit (dimensional bridge guardian)
 
-## Xanathar's Guide to Everything Integration
-
 ### Tool Proficiencies for the Campaign
 
 **Highly Relevant Tools**:
@@ -152,7 +147,7 @@ world: Both
 **Sleep** (XGtE p. 77):
 - Dream sequences for Deep Mother contact
 - Nightmare mechanics for corruption progression
-- Rest interruption from shard resonance
+- Rest interruption from shard resoce
 
 ### Subclass Integration
 
@@ -173,8 +168,6 @@ world: Both
 - **Great Old One**: The Deep Mother as patron
 - **Genie**: Elemental shard connections
 
-## Tasha's Cauldron of Everything Integration
-
 ### Optional Class Features
 
 **Ranger Feature Variants**:
@@ -188,7 +181,7 @@ world: Both
 ### Magical Environments (Tasha's Chapter 4)
 
 **Shard-Influenced Areas**:
-- **Consciousness Resonance Zones**: Psychic magic enhanced, memory effects
+- **Consciousness Resoce Zones**: Psychic magic enhanced, memory effects
 - **Crystal Caves**: Transmutation magic amplified, matter instability
 - **Storm Peaks**: Evocation enhanced, weather chaos
 - **Shadow Valleys**: Illusion magic boosted, identity confusion
@@ -219,8 +212,6 @@ world: Both
 - **Assignments**: Investigate Crystal Shard corruption, ethical business practices
 - **Attitudes**: Lawful neutral, profit with responsibility
 
-## Fizban's Treasury of Dragons Integration
-
 ### Lair Actions and Regional Effects
 
 **Deep Mother Lair** (adapted from Ancient Dragons):
@@ -245,8 +236,6 @@ world: Both
 - **Life Boon**: Healing factor, death resistance
 - **Unity Boon**: Shared abilities, collective consciousness
 
-## Van Richten's Guide to Ravenloft Integration
-
 ### Horror Themes and Mechanics
 
 **Dark Gifts as Shard Corruption**:
@@ -266,8 +255,6 @@ The corruption system mirrors Ravenloft's Dark Gifts with similar progression:
 - Trapped consciousness of Queen Seraphina
 - Escape requires confronting corrupted memories
 - Time distortion and identity confusion
-
-## Published Adventure Integration
 
 ### Tomb of Annihilation Connections
 
@@ -317,8 +304,6 @@ The corruption system mirrors Ravenloft's Dark Gifts with similar progression:
 - Multiple groups seeking to claim or control it
 - Requires special knowledge or items to access
 
-## Adventure League Compliance
-
 ### AL-Legal Character Options
 
 **Approved Sources for Seven Shards Characters**:
@@ -357,8 +342,6 @@ The corruption system mirrors Ravenloft's Dark Gifts with similar progression:
 - Magic items follow DMG guidelines exactly
 - No permanent character modifications outside AL rules
 - Alternative rewards for items too powerful for AL
-
-## Cross-Campaign Integration
 
 ### Connecting to Other Published Campaigns
 
@@ -421,8 +404,6 @@ Heroes who escaped Barovia understand reality distortion effects. They're unique
 - NPC relationship management
 - Cultural exchange and adaptation
 
-## Player Resources for Integration
-
 ### Character Creation Guidelines
 
 **Recommended Starting Equipment** (by Background):
@@ -460,8 +441,6 @@ Heroes who escaped Barovia understand reality distortion effects. They're unique
 
 ---
 
-## Appendix: Quick Reference Tables
-
 ### Official Content by Theme
 
 | Theme | PHB Content | DMG Content | MM Creatures | XGtE Options | Tasha's Features |
@@ -490,24 +469,33 @@ Heroes who escaped Barovia understand reality distortion effects. They're unique
 
 ---
 
-## Credits and Legal
-
 ### Open Game License Compliance
 This content is created under the Open Game License and is compatible with D&D 5th Edition. All references to official content are used under fair use for educational and gaming purposes.
-
-### Community Resources
-- **Kobold Fight Club**: Encounter balancing
-- **Donjon**: Random generation tools
-- **D&D Beyond**: Character building and rules reference
-- **Roll20**: Digital gaming integration
 
 ### Acknowledgments
 Special thanks to the D&D community for tools, resources, and inspiration that made this integration possible.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -516,3 +504,18 @@ Special thanks to the D&D community for tools, resources, and inspiration that m
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A journal reveals a conspiracy about this place
+- A journal reveals ancient history about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

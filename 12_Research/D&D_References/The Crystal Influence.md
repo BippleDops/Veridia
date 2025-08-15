@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:34.887986+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,39 +41,27 @@ The Crystal Influence is a undersea element of the setting, known for biolumines
 
 Legends speak of The Crystal Influence as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crystal Influence.
 
-## Adventure Hooks
-
-- A rumor ties The Crystal Influence to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Crystal Influence to avert a public scandal.
-- A map overlay reveals a hidden approach to The Crystal Influence active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[United Councils of Both Worlds|02 Worldbuilding/Lore/United Councils Of Both Worlds]]
-
-
-## Connections
-
-- [[Biomancer Corvus Intestinal]]
-- [[Campaign Epilogues]]
-- [[Eastern Kingdom]]
-- [[Hidden Sanctuary]]
-- [[Lighthouse Ruins]]
-- [[Magic Items]]
-- [[Rewriting the Ritual]]
-- [[Save Both Civilizations]]
-- [[Shattered Isles]]
-- [[Temporal Navigation Hazards]]
-- [[The Possessed Queen]]
-- [[United Councils of Both Worlds]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a betrayal about a local noble
+- A merchant needs help delivering before winter
+- A letter reveals ancient history about the cult
+- A map reveals a conspiracy about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

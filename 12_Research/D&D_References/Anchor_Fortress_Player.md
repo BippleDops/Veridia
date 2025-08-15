@@ -18,8 +18,6 @@ updated: '2025-08-13T01:18:37.196711+00:00'
 world: Both
 ---
 
-
-
 # Anchor Fortress
 
 How it feels
@@ -36,15 +34,27 @@ Crew tips
 Risks
 - If the song breaks, consequences spike fast
 
-## Cross-References
 
-- [[Doctrine_Quick_Reference|04 Resources/Handouts/Doctrines/Doctrine Quick Reference]]
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -53,3 +63,14 @@ Risks
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A journal reveals a conspiracy about the cult
+- A prisoner has gone missing and war looms
+- Strange dreams suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

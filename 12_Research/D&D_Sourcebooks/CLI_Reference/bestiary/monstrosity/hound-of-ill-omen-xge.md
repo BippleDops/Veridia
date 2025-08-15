@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:34.985866'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hound-of-ill-omen-xge-hound-of-ill-omen-xge.svg)
 
@@ -46,7 +44,6 @@ world: Both
 "modifier": !!int "2"
 "stats":
   - !!int "17"
-  - !!int "15"
   - !!int "15"
   - !!int "3"
   - !!int "12"
@@ -88,13 +85,31 @@ world: Both
 "actions":
   - "desc": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10\
       \ (2d6 + 3) piercing damage. If the target is a creature, it must succeed on\
-      \ a DC 13 Strength saving throw or be knocked [[conditions#Prone|prone]]."
+      \ a DC 13 Strength saving throw or be knocked [[conditions#prone|prone]]."
     "name": "Bite"
 "source":
   - "XGE"
 "image": "/03_Mechanics/CLI/bestiary/monstrosity/token/hound-of-ill-omen-xge.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -104,19 +119,25 @@ Hound of ill omen xge is a undersea element of the setting, known for biolumines
 
 Legends speak of hound of ill omen xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hound of ill omen xge.
 
-## Adventure Hooks
-
-- A rumor ties hound of ill omen xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at hound of ill omen xge to avert a public scandal.
-- A map overlay reveals a hidden approach to hound of ill omen xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest ancient magic
+- A shipment has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

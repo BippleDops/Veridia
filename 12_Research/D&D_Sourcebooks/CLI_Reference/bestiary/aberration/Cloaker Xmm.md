@@ -28,14 +28,29 @@ updated: '2025-08-13T12:34:05.578734+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cloaker-xmm-cloaker-xmm.svg)
 
 # [[cloaker-xmm|Cloaker]]
-*Source: Monster Manual (2024) p. 73. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 73. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Cloaker
 
@@ -70,7 +85,7 @@ Cloakers delight in frightening foes. In addition to their methods of ambush, cl
 "skillsaves":
   - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
-"condition_immunities": "[[conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Deep Speech, Undercommon"
 "cr": "8"
@@ -96,13 +111,13 @@ Cloakers delight in frightening foes. In addition to their methods of ambush, cl
     "name": "Tail"
 "bonus_actions":
   - "desc": "Wisdom Saving Throw: DC 13, each creature in a 60-foot [[emanation-area-of-effect-xphb|Emanation]]\
-      \ originating from the cloaker. Failure: The target has the [[conditions#Frightened|Frightened]]\
+      \ originating from the cloaker. Failure: The target has the [[conditions#frightened|Frightened]]\
       \ condition until the end of the cloaker's next turn. Success: The target\
       \ is immune to this cloaker's Moan for the next 24 hours."
     "name": "Moan"
   - "desc": "The cloaker casts the [[mirror-image-xphb|Mirror Image]]\
       \ spell, requiring no spell components and using Wisdom as the spellcasting\
-      \ ability. The spell ends early if the cloaker starts or ends its turn in [[bright-light-xphb|Bright\
+      \ ability. The spell ends early if the cloaker starts or ends its turn in [[bright-light-xphb|Bright\]]
       \ Light]].\n"
     "name": "Phantasms (Recharge after a Short or Long Rest)"
 "source":
@@ -123,19 +138,26 @@ Cloaker xmm is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of cloaker xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cloaker xmm.
 
-## Adventure Hooks
-
-- A rumor ties cloaker xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at cloaker xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to cloaker xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a conspiracy about the cult
+- Strange sightings suggest a conspiracy
+- A corpse reveals ancient history about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

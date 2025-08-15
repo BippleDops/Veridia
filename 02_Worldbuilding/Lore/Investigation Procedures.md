@@ -1,4 +1,5 @@
 ---
+
 title: Investigation Procedures
 type: Lore
 tags:
@@ -16,6 +17,9 @@ tags:
 - complete
 - shadow-touched
 - crystal-enhanced
+- conspiracy
+- bloodline
+- prophecy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -23,6 +27,8 @@ date_created: '2025-08-11'
 date_modified: '2025-08-11'
 world: Both
 updated: '2025-08-11T00:00:00+00:00'
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -31,13 +37,73 @@ updated: '2025-08-11T00:00:00+00:00'
 
 *"Truth flows like the deep currents - follow the proper channels, and even the darkest secrets surface." - Spymaster Crow*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+
 ## Overview
 
 Investigation procedures in Aquabyssos follow a complex web of formal protocols, shadow networks, and ancient traditions adapted to underwater society. The multi-layered nature of the city creates unique challenges for gathering information, requiring specialized techniques for different depth levels and social strata. These procedures have evolved to account for the three-dimensional nature of underwater cities, the presence of multiple intelligent species, and the constant threat of pressure-related complications.
 
 The formal investigation system operates through the Pearl Guard's Detective Division, while informal networks span from the Shadow Warren's intelligence operations to merchant guild information brokers. Each system has developed its own methods for handling evidence preservation in aquatic environments, witness protection across vast vertical territories, and the unique challenges of pursuing leads through both inhabited districts and the dangerous depths beyond city limits.
-
-## Historical Context
 
 ### Origins
 
@@ -57,8 +123,6 @@ Modern investigation procedures in Aquabyssos represent a sophisticated blend of
 
 The introduction of crystal corruption as a investigative complication has led to specialized protocols for handling contaminated evidence and witnesses. Investigation teams now require regular screening for corruption exposure, and specialized containment procedures for corruption-related crimes.
 
-## Cultural Significance
-
 ### In Aquabyssos
 
 Investigation procedures reflect the city's values of community protection and collective responsibility. The concept of "current-truth" - information that flows naturally through social networks - is considered as valuable as formal evidence. Citizens are expected to cooperate with investigations as part of their civic duty, though the multi-layered society creates complex loyalties that investigators must navigate carefully.
@@ -71,31 +135,6 @@ Surface dwellers initially found Aquabyssos investigation procedures overly comp
 
 The exchange of investigation techniques has been one of the most successful areas of inter-world cooperation, with joint training programs producing investigators capable of working in both environments.
 
-## Mechanical Implementation
-
-### Core Mechanics
-
-- Investigation checks gain advantage when following proper procedures
-- Pressure-adapted evidence preservation prevents degradation across depth zones
-- Truth detection protocols provide insight bonuses when culturally appropriate
-- Network investigation allows information gathering across multiple social layers
-
-### Requirements
-
-- Formal investigations require Pearl Guard authorization or equivalent jurisdiction
-- Pressure adaptation equipment for multi-depth investigations
-- Cultural liaison for investigations involving multiple species
-- Magical detection prevention for corruption-related cases
-
-### Effects
-
-- Proper procedure following grants +2 bonus to Investigation checks
-- Evidence preserved correctly maintains integrity for magical analysis
-- Network investigations can reveal information unavailable through formal channels
-- Corruption screening prevents investigator contamination
-
-## Notable Events
-
 ### The Tidecrest Incident
 
 A breakthrough case where proper procedure allowed investigators to solve a murder that occurred across three different depth zones, establishing precedent for complex multi-environment crimes.
@@ -104,31 +143,11 @@ A breakthrough case where proper procedure allowed investigators to solve a murd
 
 The discovery that investigation procedures had been compromised by Shadow Warren operatives led to a complete overhaul of security protocols and the development of counter-intelligence measures.
 
-## Key Figures
-
-- **Detective Captain Marlowe Tidecrest**: Pioneer of multi-depth investigation techniques
-- **Spymaster Crow**: Developer of shadow investigation networks
-- **Archivist Vera Glowmind**: Creator of magical evidence preservation systems
-- **Commander Drake Pressureborn**: Oversight of corruption-related investigation protocols
-
 ## Current Developments
 
 The recent increase in crystal corruption cases has prompted development of specialized investigation teams with enhanced protective equipment. New procedures are being developed for investigating reality-altering crimes where traditional evidence may be unreliable or dangerous to examine.
 
 The growing cooperation with Surface authorities has led to joint investigation protocols for crimes that span both worlds, requiring new diplomatic and procedural frameworks.
-
-## Mysteries and Secrets
-
-### Known Mysteries
-
-- Why some investigation sites become "truth-dead zones" where detection magic fails
-- The connection between certain investigation procedures and ancient Merfolk prophecies
-
-### Hidden Truths
-
-- The Shadow Warren maintains complete files on all Pearl Guard investigators
-- Certain investigation procedures were designed to identify specific individuals connected to the Deep Mother
-- The crystal corruption detection protocols can be used to track individuals across the city
 
 ## Adventure Hooks
 
@@ -136,8 +155,6 @@ The growing cooperation with Surface authorities has led to joint investigation 
 2. An ancient investigation technique reveals that a current case is connected to crimes from centuries ago
 3. The party must investigate a crime scene that phases between realities, requiring new procedures
 4. Evidence from a formal investigation contradicts information from shadow networks, suggesting conspiracy
-
-## Campaign Integration
 
 ### Early Campaign
 
@@ -150,16 +167,6 @@ Procedural knowledge becomes crucial for uncovering larger conspiracies and navi
 ### Late Campaign
 
 Mastery of investigation procedures allows the party to uncover the deepest secrets of Aquabyssos and solve mysteries that have persisted for generations.
-
-## Related Lore
-
-- [[The Pearl Guard]]
-- [[12_Research/D&D_Statblocks/The Shadow Warren]]
-- [[Corruption Exposure Tracking]]
-- [[Spymaster Crow]]
-- [[Crystal corruption mechanics]]
-
-## DM Guidance
 
 ### Running This Element
 
@@ -177,25 +184,6 @@ Use investigation procedures to create realistic consequences for player actions
 
 Adapt procedures to reflect your campaign's tone - more bureaucratic for political intrigue, more action-oriented for adventure-focused games, or more mysterious for investigation-heavy scenarios.
 
-
-## Connections
-
-- [[Citizens of Meridian]]
-- [[Crimson Hand Strike Team]]
-- [[Evidence Chain Analysis]]
-- [[Evidence Types Guide]]
-- [[Fear Farms]]
-- [[Pressure Tube Operator Krill]]
-- [[12_Research/D&D_Statblocks/Random Encounters]]
-- [[Reputation System]]
-- [[Session 0 - Aquabyssos]]
-- [[Silver Mask]]
-- [[Spell Components]]
-- [[Thalassius the Wise]]
-- [[The Deep Mother]]
-- [[The Restoration Movement]]
-- [[The Silverscale Conspiracy]]
-
 ## Player-Facing Summary
 
 Investigation Procedures is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -208,26 +196,56 @@ Legends speak of Investigation Procedures as a nexus where past and present conv
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Master_Lore_Index|Master Lore Index]]
-
-
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
 
-## Game Applications
 
-### Adventure Hooks
-- Discovery of related artifacts or texts
-- Conflicts arising from different interpretations
-- Prophecies beginning to manifest
+## Plot Hooks
 
-### Character Connections
-- Scholarly interest
-- Personal involvement in events
-- Hereditary knowledge or curse
+- A noble needs help stealing before the new moon
+- Strange sightings suggest a curse
+- Someone is searching for an heir for power
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

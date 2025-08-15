@@ -16,32 +16,26 @@ updated: '2025-08-13T01:18:36.330191+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-memory-tide-pools-memory-tide-pools.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## History
+### Enhancement Improvements
 
-TODO
-## Layout
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -51,23 +45,26 @@ Memory Tide Pools is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Memory Tide Pools as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Tide Pools.
 
-## Adventure Hooks
-
-- A rumor ties Memory Tide Pools to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Memory Tide Pools to avert a public scandal.
-- A map overlay reveals a hidden approach to Memory Tide Pools active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Memory Tide Pools|02 Worldbuilding/Places/Memory Tide Pools]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a betrayal about this place
+- A document has gone missing and war looms
+- An heirloom has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

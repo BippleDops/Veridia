@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.604995'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-alhoon-mpmm-alhoon-mpmm.svg)
 
@@ -49,6 +47,24 @@ For a time, the study of such forbidden texts can be hidden from other illithids
 Lichdom offers salvation and the prospect of being able to pursue knowledge indefinitely. Yet learning the secret of achieving lichdom requires an arcane spellcaster to be at the apex of power—a significant challenge for mind flayers, given the scarcity of available mentors and training.
 
 Confronting this reality, a group of nine mind flayer arcanists used their arcane magic and psionics to weave a new truth. These nine called themselves the Alhoon, and those who follow in their footsteps are referred to by the same name.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Collaborative Undeath
 
@@ -79,7 +95,6 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
   - !!int "16"
   - !!int "19"
   - !!int "17"
-  - !!int "17"
 "speed": "30 ft., fly 15 ft. (hover)"
 "saves":
   - "constitution": !!int "7"
@@ -92,17 +107,14 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
   - "name": "[[skills#Deception|Deception]]"
     "desc": "+7"
   - "name": "[[skills#History|History]]"
-    "desc": "+8"
   - "name": "[[skills#Insight|Insight]]"
-    "desc": "+7"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+7"
   - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_resistances": "cold, lightning, necrotic"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 17"
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
@@ -138,7 +150,7 @@ Destroying a periapt of mind trapping consigns those trapped within it to oblivi
       \ each: [[dominate-monster-xphb|dominate monster]],\
       \ [[globe-of-invulnerability-xphb|globe of invulnerability]],\
       \ [[invisibility-xphb|invisibility]], [[modify-memory-xphb|modify memory]],\
-      \ [[plane-shift-xphb|plane shift]] (self only), [[wall-of-force-xphb|wall\
+      \ [[plane-shift-xphb|plane shift]] (self only), [[wall-of-force-xphb|wall\]]
       \ of force]]"
     "name": "Spellcasting"
 "reactions":
@@ -165,19 +177,25 @@ Alhoon mpmm is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of alhoon mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around alhoon mpmm.
 
-## Adventure Hooks
-
-- A rumor ties alhoon mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at alhoon mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to alhoon mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

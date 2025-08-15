@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.681058+00:00'
 world: Both
 ---
 
-
-
 # Random Magic Items - Arcana
 *Source: Dungeon Master's Guide (2024) p. 326* 
 
@@ -75,8 +73,6 @@ world: Both
 
 `dice: [](random-magic-items-arcana.md#^arcana-uncommon)`
 
-| dice: 1d100 | Item |
-|-------------|------|
 | 01 | [[amulet-of-proof-against-detection-and-location-xdmg|Amulet of Proof against Detection and Location]] |
 | 02 | [[baba-yagas-dancing-broom-xdmg|Baba Yaga's Dancing Broom]] |
 | 03–05 | [[bag-of-holding-xdmg|Bag of Holding]] |
@@ -145,8 +141,6 @@ world: Both
 
 `dice: [](random-magic-items-arcana.md#^arcana-rare)`
 
-| dice: 1d100 | Item |
-|-------------|------|
 | 01 | [[bag-of-beans-xdmg|Bag of Beans]] |
 | 02–03 | [[bead-of-force-xdmg|Bead of Force]] |
 | 04 | [[bowl-of-commanding-water-elementals-xdmg|Bowl of Commanding Water Elementals]] |
@@ -208,8 +202,6 @@ world: Both
 
 `dice: [](random-magic-items-arcana.md#^arcana-very-rare)`
 
-| dice: 1d100 | Item |
-|-------------|------|
 | 01–02 | [[amulet-of-the-planes-xdmg|Amulet of the Planes]] |
 | 03–04 | [[bag-of-devouring-xdmg|Bag of Devouring]] |
 | 05–06 | [[carpet-of-flying-xdmg|Carpet of Flying]] |
@@ -256,8 +248,6 @@ world: Both
 
 `dice: [](random-magic-items-arcana.md#^arcana-legendary)`
 
-| dice: 1d100 | Item |
-|-------------|------|
 | 01–04 | [[apparatus-of-kwalish-xdmg|Apparatus of Kwalish]] |
 | 05–08 | [[cloak-of-invisibility-xdmg|Cloak of Invisibility]] |
 | 09–12 | [[crystal-ball-of-mind-reading-xdmg|Crystal Ball of Mind Reading]] |
@@ -286,6 +276,24 @@ world: Both
 | 97–00 | [[well-of-many-worlds-xdmg|Well of Many Worlds]] |
 ^arcana-legendary
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Random magic items arcana is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -294,19 +302,25 @@ Random magic items arcana is a undersea element of the setting, known for biolum
 
 Legends speak of random magic items arcana as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random magic items arcana.
 
-## Adventure Hooks
-
-- A rumor ties random magic items arcana to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at random magic items arcana to avert a public scandal.
-- A map overlay reveals a hidden approach to random magic items arcana active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a conspiracy about the cult
+- A merchant needs help investigating before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

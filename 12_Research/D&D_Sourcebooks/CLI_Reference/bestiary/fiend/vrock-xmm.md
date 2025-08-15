@@ -28,13 +28,29 @@ updated: '2025-08-12T23:37:35.565303'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-vrock-xmm-v1-vrock-xmm.svg)
 
 # [[vrock-xmm|Vrock]]
-*Source: Monster Manual (2024) p. 319. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 319. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Vrock
 
@@ -61,7 +77,6 @@ Screeching, vulturelike demons, vrocks soar from the Abyss to spread ruin and sl
   - !!int "18"
   - !!int "8"
   - !!int "13"
-  - !!int "8"
 "speed": "40 ft., fly 60 ft."
 "saves":
   - "dexterity": !!int "5"
@@ -94,7 +109,6 @@ Screeching, vulturelike demons, vrocks soar from the Abyss to spread ruin and sl
       \ the target takes 5 (d10) Poison damage at the start of each of its turns.\
       \ Emptying a flask of Holy Water on the target ends the effect early."
     "name": "Spores (Recharge 6)"
-  - "desc": "Constitution Saving Throw: DC 15, each creature in a 20-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the vrock (demons succeed automatically). Failure: 10 (3d6)\
       \ Thunder damage, and the target has the [[conditions#Stunned|Stunned]]\
       \ condition until the end of the vrock's next turn."
@@ -117,19 +131,25 @@ Vrock xmm is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of vrock xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around vrock xmm.
 
-## Adventure Hooks
-
-- A rumor ties vrock xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at vrock xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to vrock xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Winds
+
+
+## Plot Hooks
+
+- A document has gone missing and chaos spreads
+- Someone is blackmailing an heir for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

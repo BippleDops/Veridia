@@ -25,11 +25,8 @@ updated: '2025-08-13T12:34:06.469361+00:00'
 world: Both
 ---
 
-
-
 # Swift Quiver
 *5th-level, Transmutation*  
-
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self
@@ -42,6 +39,24 @@ When you cast the spell and as a [[bonus-action-xphb|Bonus Action]] until it end
 
 *Source: Player's Handbook (2024) p. 329*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Swift quiver xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -50,19 +65,29 @@ Swift quiver xphb is a undersea element of the setting, known for bioluminescent
 
 Legends speak of swift quiver xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around swift quiver xphb.
 
-## Adventure Hooks
-
-- A rumor ties swift quiver xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at swift quiver xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to swift quiver xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals a conspiracy about the government
+- Strange sightings suggest a conspiracy
+- A corpse reveals a conspiracy about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

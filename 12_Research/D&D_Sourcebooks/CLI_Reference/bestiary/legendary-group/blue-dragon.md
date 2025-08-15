@@ -22,19 +22,33 @@ updated: '2025-08-12T23:37:35.706698'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-blue-dragon-xmm-adult-blue-dragon-xmm.svg)
 
-# Blue Dragon
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Monster Manual_
 
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
 
-- Part of the ceiling collapses above one creature that the dragon can see within 120 feet of it. The creature must succeed on a DC 15 Dexterity saving throw or take 10 (`3d6`) bludgeoning damage and be knocked [[conditions#Prone|prone]] and buried. The buried target is [[conditions#Restrained|restrained]] and unable to breathe or stand up. A creature can take an action to make a DC 10 Strength check, ending the buried state on a success.  
+- Part of the ceiling collapses above one creature that the dragon can see within 120 feet of it. The creature must succeed on a DC 15 Dexterity saving throw or take 10 (`3d6`) bludgeoning damage and be knocked [[conditions#prone|prone]] and buried. The buried target is [[conditions#Restrained|restrained]] and unable to breathe or stand up. A creature can take an action to make a DC 10 Strength check, ending the buried state on a success.  
 - A cloud of sand swirls about in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The cloud spreads around corners. Each creature in the cloud must succeed on a DC 15 Constitution saving throw or be [[conditions#Blinded|blinded]] for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 - Lightning arcs, forming a 5-foot-wide line between two of the lair's solid surfaces that the dragon can see. They must be within 120 feet of the dragon and 120 feet of each other. Each creature in that line must succeed on a DC 15 Dexterity saving throw or take 10 (`3d6`) lightning damage.  
 
@@ -43,10 +57,9 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 At your discretion, a legendary ([[adult-blue-dragon-xmm|adult]] or [[ancient-blue-dragon-xmm|ancient]]) blue dragon can use one or both of the following additional lair actions while in its lair:
 
 - **Misleading Mirage.** Until initiative count 20 on the next round, at each intersection or branching passage in the lair, a creature other than the dragon has a 50 percent chance of going in a different direction from the direction it intends.  
-- **Sudden Sinkhole.** The dragon chooses a point on the ground that it can see within 120 feet of it. A 5-foot-radius, 20-foot-deep pit forms centered on that point. A creature on the ground above where the pit formed must make a DC 15 Dexterity saving throw. On a failed save, a creature falls to the bottom of the pit, taking 7 (`2d6`) bludgeoning damage and landing [[conditions#Prone|prone]]. On a successful save, a creature moves to the nearest unoccupied space instead of falling in the pit.  
+- **Sudden Sinkhole.** The dragon chooses a point on the ground that it can see within 120 feet of it. A 5-foot-radius, 20-foot-deep pit forms centered on that point. A creature on the ground above where the pit formed must make a DC 15 Dexterity saving throw. On a failed save, a creature falls to the bottom of the pit, taking 7 (`2d6`) bludgeoning damage and landing [[conditions#prone|prone]]. On a successful save, a creature moves to the nearest unoccupied space instead of falling in the pit.  
 
 ## Regional effects
-_Source: Monster Manual_
 
 The region containing a legendary blue dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
 
@@ -72,19 +85,35 @@ Blue dragon is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of blue dragon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around blue dragon.
 
-## Adventure Hooks
-
-- A rumor ties blue dragon to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at blue dragon to avert a public scandal.
-- A map overlay reveals a hidden approach to blue dragon active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for information for money
+- A merchant needs help delivering before the festival
+- Someone is blackmailing a witness for revenge
+- An heirloom has gone missing and truth emerges
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

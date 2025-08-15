@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.613452+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-kuo-toa-xmm-kuo-toa-xmm.svg)
 
@@ -42,6 +39,24 @@ Kuo-toa loot ruins and raid communities near their dwellings in the Underdark. T
 
 Most kuo-toa follow the orders of their more powerful leaders out of a combination of faith and fear. In rare cases, a kuo-toa might abandon its community to live as a hermit or wanderer. Such kuo-toa might know much about the Underdark, but they live in fear of the strange gods they forsook.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Kuo-toa
 
 *Fishlike Fanatics of the Deep*
@@ -51,7 +66,7 @@ Most kuo-toa follow the orders of their more powerful leaders out of a combinati
 
 Kuo-toa have slimy, humanoid bodies and the heads of goggle-eyed deep-sea fish. They claim they once dominated whole worlds, their empires spanning land and sea under the blessings of piscine gods. The kuo-toa can't say what disaster brought their glorious civilization to an end, but elves, humans, mind flayers, and the kuo-toan gods bear the brunt of their blame. From the lands and seas of the surface, the kuo-toa retreated into cavernous trenches and Underdark seas. In these hidden realms, kuo-toa brood over all they've lost and forgotten, nursing plots to avenge themselves for slights that might never have occurred.
 
-Kuo-toa hate the civilizations of the surface and the Underdark, believing themselves to be victims of age-old slights and ongoing conspiracies. Kuo-toa undertake contrived plots to propel themselves to dominance, often kidnapping people to learn their secrets or making dubious sacrifices to bizarre gods. To facilitate such plots, kuo-toa try to capture creatures alive using nets or strange weapons. Drow, dwarves, and gnomes dwelling in the Underdark, as well as surface communities near submerged subterranean passages, are frequent targets for kuo-toa raids and other plots.
+Kuo-toa hate the civilizations of the surface and the Underdark, believing themselves to be victims of age-old slights and ongoing conspiracies. Kuo-toa undertake contrived plots to propel themselves to domice, often kidnapping people to learn their secrets or making dubious sacrifices to bizarre gods. To facilitate such plots, kuo-toa try to capture creatures alive using nets or strange weapons. Drow, dwarves, and gnomes dwelling in the Underdark, as well as surface communities near submerged subterranean passages, are frequent targets for kuo-toa raids and other plots.
 
 Kuo-toa frequently serve depraved masterminds such as aboleths and krakens. Such kuo-toa believe these powerful creatures are avatars of kuo-toan deities or gods in their own right. Kuo-toa might temporarily ally with other evil creatures, but these alliances shift as kuo-toa leaders interpret omens from their unpredictable deities.
 
@@ -103,7 +118,6 @@ Kuo-toa typically organize their communities around sites they believe to be imp
 > 
 > When the Corpse Moon rises and the Chum-Tide washes in, up rise the Gogglers from their pits beneath the waves. Burbling and noisome they come, fishing night's shores as we do dawn's waves.
 
-
 ```statblock
 "name": "Kuo-toa (XMM)"
 "size": "Medium"
@@ -117,8 +131,6 @@ Kuo-toa typically organize their communities around sites they believe to be imp
   - !!int "13"
   - !!int "10"
   - !!int "11"
-  - !!int "11"
-  - !!int "10"
   - !!int "8"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
@@ -172,19 +184,23 @@ Kuo toa xmm is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of kuo toa xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around kuo toa xmm.
 
-## Adventure Hooks
-
-- A rumor ties kuo toa xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at kuo toa xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to kuo toa xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

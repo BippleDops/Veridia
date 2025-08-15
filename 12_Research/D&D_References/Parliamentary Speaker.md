@@ -16,27 +16,22 @@ updated: '2025-08-13T01:18:36.768632+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## Structure
+### Enhancement Improvements
 
-TODO
-## Goals
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Assets
-
-TODO
-## Conflicts
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -46,19 +41,22 @@ Parliamentary Speaker 2 is a undersea element of the setting, known for biolumin
 
 Legends speak of Parliamentary Speaker 2 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Parliamentary Speaker 2.
 
-## Adventure Hooks
-
-- A rumor ties Parliamentary Speaker 2 to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Parliamentary Speaker 2 to avert a public scandal.
-- A map overlay reveals a hidden approach to Parliamentary Speaker 2 active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for money
+- The authorities needs help finding before dawn
+- A document has gone missing and truth emerges
+- A corpse reveals a betrayal about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

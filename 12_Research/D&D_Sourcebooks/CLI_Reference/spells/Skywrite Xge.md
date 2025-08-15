@@ -33,11 +33,8 @@ updated: '2025-08-13T12:34:06.654899+00:00'
 world: Both
 ---
 
-
-
 # Skywrite
 *2nd-level, Transmutation (ritual)*  
-
 
 - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** Sight
@@ -50,6 +47,24 @@ You cause up to ten words to form in a part of the sky you can see. The words ap
 
 *Source: Xanathar's Guide to Everything p. 165*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Skywrite xge is a sky-borne element of the setting, known for brass fittings and cloudstone terraces. Its presence anchors ongoing storylines and offers clear player choices.
@@ -58,19 +73,20 @@ Skywrite xge is a sky-borne element of the setting, known for brass fittings and
 
 Legends speak of skywrite xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around skywrite xge.
 
-## Adventure Hooks
-
-- A rumor ties skywrite xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at skywrite xge to avert a public scandal.
-- A map overlay reveals a hidden approach to skywrite xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

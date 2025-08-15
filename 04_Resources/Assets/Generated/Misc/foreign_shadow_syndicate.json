@@ -1,6 +1,6 @@
 {
   "title": "Foreign Shadow Syndicate",
-  "prompt": "Foreign shadow syndicate, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "prompt": "Foreign shadow syndicate, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting, shadow",
   "negative": "low quality, amateur, blurry",
   "settings": {
     "width": 512,
@@ -8,6 +8,6 @@
     "steps": 20,
     "cfg": 7
   },
-  "generated": "2025-08-14T23:34:43.235Z",
+  "generated": "2025-08-15T00:44:09.023Z",
   "sourceFile": "/02_Worldbuilding/Groups/Criminal_Organizations/Foreign Shadow Syndicate.md"
 }

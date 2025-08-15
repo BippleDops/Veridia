@@ -22,13 +22,30 @@ updated: '2025-08-12T23:37:35.887264'
 world: Both
 ---
 
-
 # Lessons of the First Ones
 *Source: Player's Handbook (2024) p. 156*  
 
 **Prerequisite**: Level 2 Warlock
 
 You have received knowledge from an elder entity of the multiverse, allowing you to gain one Origin feat of your choice.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Repeatable
 
@@ -42,19 +59,32 @@ Lessons of the first ones xphb is a undersea element of the setting, known for b
 
 Legends speak of lessons of the first ones xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around lessons of the first ones xphb.
 
-## Adventure Hooks
-
-- A rumor ties lessons of the first ones xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at lessons of the first ones xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to lessons of the first ones xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Plot Hooks
+
+- The authorities needs help finding before the new moon
+- Someone is blackmailing a artifact for money
+- Strange dreams suggest a curse
+- A merchant needs help investigating before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

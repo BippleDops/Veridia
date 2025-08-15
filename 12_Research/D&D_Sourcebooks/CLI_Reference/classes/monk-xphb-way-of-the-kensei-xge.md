@@ -22,47 +22,38 @@ updated: '2025-08-12T23:37:34.442686'
 world: Both
 ---
 
-
 # Way of the Kensei
 *[[monk-xphb|Monk]]: Monk Subclass*  
 *Source: Xanathar's Guide to Everything p. 34*  
 
 > [!tldr] Class and Feature Progression
 > 
-> <table class="class-progression">
-> <thead>
-> <tr><th colspan='3'></th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
-> </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Way of the Kensei (Level 3)' class='internal-link'>Way of the Kensei</a></td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#One with the Blade (Level 6)' class='internal-link'>One with the Blade</a></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Sharpen the Blade (Level 11)' class='internal-link'>Sharpen the Blade</a></td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Unerring Accuracy (Level 17)' class='internal-link'>Unerring Accuracy</a></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> </tbody></table>
+> LevelPBFeatures
+> 1st+2
+> 2nd+2
+> 3rd+2Way of the Kensei
+> 4th+2
+> 5th+3
+> 6th+3One with the Blade
+> 7th+3
+> 8th+3
+> 9th+4
+> 10th+4
+> 11th+4Sharpen the Blade
+> 12th+4
+> 13th+5
+> 14th+5
+> 15th+5
+> 16th+5
+> 17th+6Unerring Accuracy
+> 18th+6
+> 19th+6
+> 20th+6
 
 ^class-progression
 
-
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
-
-## Class Features
 
 ### Way of the Kensei (Level 3)
 
@@ -88,7 +79,6 @@ Choose two types of weapons to be your kensei weapons: one melee weapon and one 
     You can use a bonus action on your turn to make your ranged attacks with a kensei weapon more deadly. When you do so, any target you hit with a ranged attack using a kensei weapon takes an extra `d4` damage of the weapon's type. You retain this benefit until the end of the current turn.  
 
 #### Way of the Brush
-_Source: Xanathar's Guide to Everything_
 
 You gain proficiency with your choice of [[calligraphers-supplies-xphb|calligrapher's supplies]] or [[painters-supplies-xphb|painter's supplies]].
 
@@ -97,12 +87,10 @@ You gain proficiency with your choice of [[calligraphers-supplies-xphb|calligrap
 At 6th level, you extend your ki into your kensei weapons, granting you the following benefits.
 
 #### Magic Kensei Weapons
-_Source: Xanathar's Guide to Everything_
 
 Your attacks with your kensei weapons count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
 
 #### Deft Strike
-_Source: Xanathar's Guide to Everything_
 
 When you hit a target with a kensei weapon, you can spend 1 ki point to cause the weapon to deal extra damage to the target equal to your Martial Arts die. You can use this feature only once on each of your turns.
 
@@ -114,6 +102,24 @@ At 11th level, you gain the ability to augment your weapons further with your ki
 
 At 17th level, your mastery of weapons grants you extraordinary accuracy. If you miss with an attack roll using a monk weapon on your turn, you can reroll it. You can use this feature only once on each of your turns.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Monk xphb way of the kensei xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -122,19 +128,21 @@ Monk xphb way of the kensei xge is a undersea element of the setting, known for 
 
 Legends speak of monk xphb way of the kensei xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monk xphb way of the kensei xge.
 
-## Adventure Hooks
-
-- A rumor ties monk xphb way of the kensei xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at monk xphb way of the kensei xge to avert a public scandal.
-- A map overlay reveals a hidden approach to monk xphb way of the kensei xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and chaos spreads
+- The authorities needs help stealing before winter
+- A stranger needs help delivering before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

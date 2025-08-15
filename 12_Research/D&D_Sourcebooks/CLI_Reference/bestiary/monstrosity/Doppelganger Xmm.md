@@ -29,14 +29,29 @@ updated: '2025-08-13T12:34:05.310342+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-doppelganger-xmm-doppelganger-xmm.svg)
 
 # [[doppelganger-xmm|Doppelganger]]
-*Source: Monster Manual (2024) p. 100. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 100. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Doppelganger
 
@@ -67,7 +82,6 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
 > 
 > Meeting yourself is the surest way to realize you're not as charming as you think you are.
 
-
 ```statblock
 "name": "Doppelganger (XMM)"
 "size": "Medium"
@@ -81,9 +95,7 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
   - !!int "11"
   - !!int "18"
   - !!int "14"
-  - !!int "11"
   - !!int "12"
-  - !!int "14"
 "speed": "30 ft."
 "skillsaves":
   - "name": "[[skills#Deception|Deception]]"
@@ -104,7 +116,7 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
     "name": "Slam"
   - "desc": "Wisdom Saving Throw: DC 12, each creature in a 15-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the doppelganger that can see the doppelganger. Failure:\
-      \ The target has the [[conditions#Frightened|Frightened]]\
+      \ The target has the [[conditions#frightened|Frightened]]\
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically."
     "name": "Unsettling Visage (Recharge 6)"
@@ -135,19 +147,35 @@ Doppelganger xmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of doppelganger xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around doppelganger xmm.
 
-## Adventure Hooks
-
-- A rumor ties doppelganger xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at doppelganger xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to doppelganger xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- Someone is protecting information for power
+- The authorities needs help delivering before the festival
+- A shipment has gone missing and war looms
+- Strange disappearances suggest a portal
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

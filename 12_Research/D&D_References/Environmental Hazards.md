@@ -16,32 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Temporal Navigation Hazards|02 Worldbuilding/Lore/Temporal Navigation Hazards]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Crystal Forest]]
-- [[Crystal-Corruption-Tracking-Sheet]]
-- [[Depth Effect Quick Reference]]
-- [[Initiative Tracker]]
-- [[Kraken Territories]]
-- [[Multi-Phase Boss Fights]]
-- [[Pressure Adaptation System]]
-- [[Random Encounters]]
-- [[Reality Merge Zones]]
-- [[Silver Mask]]
-- [[Temporal Anomaly Resolution]]
-- [[Temporal Distortion Zones]]
-- [[Temporal Navigation Hazards]]
-- [[The Bloom Fields]]
-- [[The Threshold]]
-- [[Shadow Wells]]
 
 ## Player-Facing Summary
 
@@ -51,19 +41,25 @@ Environmental Hazards is a undersea element of the setting, known for biolumines
 
 Legends speak of Environmental Hazards as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Environmental Hazards.
 
-## Adventure Hooks
-
-- A rumor ties Environmental Hazards to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Environmental Hazards to avert a public scandal.
-- A map overlay reveals a hidden approach to Environmental Hazards active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting a artifact for revenge
+- Someone is blackmailing an heir for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

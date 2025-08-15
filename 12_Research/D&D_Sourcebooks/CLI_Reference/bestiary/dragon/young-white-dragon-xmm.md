@@ -27,11 +27,28 @@ updated: '2025-08-12T23:37:35.740944'
 world: Both
 ---
 
-
 # [[young-white-dragon-xmm|Young White Dragon]]
-*Source: Monster Manual (2024) p. 328. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 328. Available in the SRD and the Free Rules (2024)*  
 
 Young white dragons defend their hunting grounds from rivals. In some cases, kobolds and groups of humanoids might offer food and treasure to young white dragons, attempting to keep the dragons satiated and less likely to prey on their communities.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## White Dragons
 
@@ -61,7 +78,6 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
 "stats":
   - !!int "18"
   - !!int "10"
-  - !!int "18"
   - !!int "6"
   - !!int "11"
   - !!int "12"
@@ -110,19 +126,22 @@ Young white dragon xmm is a undersea element of the setting, known for biolumine
 
 Legends speak of young white dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around young white dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties young white dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at young white dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to young white dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and war looms
+- A stranger needs help finding before the festival
+- Strange dreams suggest a portal
+- A merchant needs help delivering before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

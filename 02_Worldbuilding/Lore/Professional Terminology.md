@@ -1,4 +1,5 @@
 ---
+
 title: Professional Terminology
 type: Lore
 tags:
@@ -19,23 +20,79 @@ tags:
 - terminology
 - shadow-touched
 - crystal-enhanced
+- bloodline
+- prophecy
 created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:15.715984+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
-# Professional Terminology
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
 
 ## Summary
 
 Specialized vocabulary, jargon, and code words used by various professional guilds, organizations, and trades across both Aquabyssos and Aethermoor, including their secretive and protective linguistic practices.
-
-## Aquabyssos Professional Languages
 
 ### **Deep Mining Guild**
 
@@ -136,36 +193,34 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 - **"Void-cleansing"** - Purification methods for otherworldly contamination
 - **"Deep-oath"** - Loyalty vows enforced through surgical modification
 
-## Aethermoor Professional Languages
-
 ### **Crystal Engineering Guild**
 
 **Technical Terminology:**
-- **"Resonance-mapping"** - Analysis of crystal harmonic properties
+- **"Resoce-mapping"** - Analysis of crystal harmonic properties
 - **"Frequency-tuning"** - Adjustment of crystal vibrational characteristics
 - **"Harmonic-amplification"** - Systems for enhancing crystal power output
 - **"Crystal-networking"** - Connecting multiple crystals for complex operations
-- **"Resonance-feedback"** - Dangerous crystal system overload conditions
+- **"Resoce-feedback"** - Dangerous crystal system overload conditions
 
 **Quality Classifications:**
-- **"Perfect-pitch crystals"** - Highest quality gems with ideal resonance properties
+- **"Perfect-pitch crystals"** - Highest quality gems with ideal resoce properties
 - **"Harmony-grade"** - Good quality crystals suitable for most applications
 - **"Discord-flawed"** - Crystals with harmonic imperfections limiting their use
-- **"Silence-dead"** - Crystals that have lost all resonance capability
+- **"Silence-dead"** - Crystals that have lost all resoce capability
 - **"Chaos-touched"** - Dangerously unstable crystals requiring careful handling
 
 **Manufacturing Processes:**
 - **"Frequency-forging"** - Creating crystals with specific harmonic properties
-- **"Resonance-cutting"** - Shaping crystals using harmonic vibration techniques
+- **"Resoce-cutting"** - Shaping crystals using harmonic vibration techniques
 - **"Harmony-bonding"** - Joining multiple crystals into single functional units
-- **"Pitch-polishing"** - Final finishing for optimal resonance characteristics
+- **"Pitch-polishing"** - Final finishing for optimal resoce characteristics
 - **"Discord-dampening"** - Techniques for reducing crystal instability
 
 **Guild Secrets:**
 - **"Master-frequency"** - Secret harmonic signatures identifying guild members
 - **"Crystal-song inheritance"** - Traditional knowledge passed through family lines
-- **"Resonance-rights"** - Proprietary access to specific crystal deposits
-- **"Harmony-oath"** - Guild loyalty vows enforced through crystal resonance
+- **"Resoce-rights"** - Proprietary access to specific crystal deposits
+- **"Harmony-oath"** - Guild loyalty vows enforced through crystal resoce
 - **"Silence-punishment"** - Disciplinary measures involving crystal deactivation
 
 ### **Wind Song Academy**
@@ -175,7 +230,7 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 - **"Wind-composition"** - Musical arrangements designed for outdoor performance
 - **"Altitude-adaptation"** - Adjusting performances for different heights
 - **"Storm-singing"** - Advanced techniques for performing during bad weather
-- **"Resonance-projection"** - Methods for making voice carry over long distances
+- **"Resoce-projection"** - Methods for making voice carry over long distances
 
 **Performance Categories:**
 - **"Ground-song"** - Music performed at surface level for general audiences
@@ -232,12 +287,10 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 
 **Command Structure:**
 - **"Wind-captain"** - Field commander for aerial operations
-- **"Storm-lieutenant"** - Specialist officer for severe weather operations
+- **"Storm-lieutet"** - Specialist officer for severe weather operations
 - **"Sky-sergeant"** - Non-commissioned officer for routine flight operations
 - **"Altitude-specialist"** - Expert in high-elevation combat techniques
 - **"Weather-master"** - Officer specializing in meteorological warfare
-
-## Cross-Realm Professional Languages
 
 ### **Inter-Realm Trading Companies**
 
@@ -294,8 +347,6 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 - **"Integration-success"** - Positive outcomes from cross-realm community building
 - **"Unity-celebration"** - Events that honor both cultural traditions
 
-## Guild Secrecy and Code Languages
-
 ### **Protection Methods**
 
 **Aquabyssos Guilds:**
@@ -307,7 +358,7 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 
 **Aethermoor Guilds:**
 - **"Wind-whispers"** - Messages transmitted through controlled air currents
-- **"Crystal-encryption"** - Information encoded in resonance patterns
+- **"Crystal-encryption"** - Information encoded in resoce patterns
 - **"Altitude-exclusivity"** - Knowledge available only at specific heights
 - **"Storm-secrecy"** - Information shared only during severe weather
 - **"Harmony-binding"** - Loyalty enforcement through shared musical traditions
@@ -318,7 +369,7 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 - **"Guild-first loyalty"** - Professional obligations supersede personal interests
 - **"Trade-secret protection"** - Proprietary knowledge must be preserved
 - **"Cross-realm respect"** - Professional courtesy regardless of cultural background
-- **"Quality-maintenance"** - Standards must be upheld regardless of external pressure
+- **"Quality-maintece"** - Standards must be upheld regardless of external pressure
 - **"Emergency-cooperation"** - Professional rivalries suspended during crises
 
 **Enforcement Mechanisms:**
@@ -332,16 +383,6 @@ Specialized vocabulary, jargon, and code words used by various professional guil
 
 *"Every profession develops its own language not just for efficiency, but for identity. The words we use in our work define not just what we do, but who we are."* - Guild Master Artificer Nerissa Stormwright
 
-## Connections
-
-- [[Common Idioms and Sayings]]
-- [[Depth Speak Variations]]
-- [[Wind Song Linguistic Guide]]  
-- [[Swear Words and Curses]]
-- [[The Traders Guild]]
-- [[Crystal Engineering Guild]]
-- [[Deep Mining Guild]]
-
 ## Player-Facing Summary
 
 Professional Terminology is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -350,47 +391,47 @@ Professional Terminology is a undersea element of the setting, known for biolumi
 
 Legends speak of Professional Terminology as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Professional Terminology.
 
-## Adventure Hooks
-
-- A rumor ties Professional Terminology to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Professional Terminology to avert a public scandal.
-- A map overlay reveals a hidden approach to Professional Terminology active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
-
 
 ## Overview
 
 Professional Terminology represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-
 ## Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
-
 
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
 
-## Game Applications
 
-### Adventure Hooks
-- Discovery of related artifacts or texts
-- Conflicts arising from different interpretations
-- Prophecies beginning to manifest
+## Secret Connections
 
-### Character Connections
-- Scholarly interest
-- Personal involvement in events
-- Hereditary knowledge or curse
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- Strange sightings suggest a conspiracy
+- An heirloom has gone missing and evil awakens
+- Strange accidents suggest a portal
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

@@ -19,9 +19,6 @@ world: Both
 updated: '2025-08-13T01:18:31.202862+00:00'
 ---
 
-
-
-
 <%*
 const locName = await tp.system.prompt("Location Name:");
 const locType = await tp.system.prompt("Location Type (e.g., City, Dungeon, Tavern):");
@@ -29,23 +26,32 @@ await tp.file.rename(locName);
 -%>
 ---
 type: location
-tags: [location, <% locType.toLowerCase() %>]
-aliases: [<% locName %>]
-created: <% tp.file.creation_date() %>
-modified: <% tp.file.last_modified_date() %>
-location_type: <% locType %>
+tags: [location, ]
+created: 
+modified: 
+location_type: 
 ---
-# <% locName %>
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## General Info
-**Type**: <% locType %>
+**Type**: 
 **Parent Location**: [[Location]]
-
-## Description
-
-## Points of Interest
-
-## GM Notes
 
 ## Player-Facing Summary
 
@@ -55,23 +61,21 @@ New Location is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of New Location as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around New Location.
 
-## Adventure Hooks
-
-- A rumor ties New Location to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at New Location to avert a public scandal.
-- A map overlay reveals a hidden approach to New Location active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Location|02 Worldbuilding/Lore/Location]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before winter
+- An heirloom has gone missing and war looms
+- Someone is blackmailing an heir for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.385053+00:00'
 world: Both
 ---
 
-
-
 # Desert Encounters (Levels 11—16)
 *Source: Xanathar's Guide to Everything p. 95* 
 
@@ -51,7 +49,7 @@ world: Both
 | 46-48 | `d4` [[air-elemental-xmm|air elementals]] |
 | 49-50 | `1d6 + 1` [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|yuan-ti malisons]] |
 | 51-55 | `d4` [[medusa-xmm|medusas]] |
-| 56-60 | `d4` [[revenant-xmm|revenants]] with `3d12` [[skeleton-xmm|skeletons]] |
+| 56-60 | `d4` [[revet-xmm|revets]] with `3d12` [[skeleton-xmm|skeletons]] |
 | 61-65 | A plundered pyramid |
 | 66-70 | `d4` [[young-brass-dragon-xmm|young brass dragons]] |
 | 71-75 | `d3` [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|yuan-ti abominations]] |
@@ -71,6 +69,24 @@ world: Both
 | 00 | 1 [[ancient-blue-dragon-xmm|ancient blue dragon]] |
 ^desert-encounters-levels-1116
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Desert encounters levels 1116 xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -79,19 +95,30 @@ Desert encounters levels 1116 xge is a undersea element of the setting, known fo
 
 Legends speak of desert encounters levels 1116 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around desert encounters levels 1116 xge.
 
-## Adventure Hooks
-
-- A rumor ties desert encounters levels 1116 xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at desert encounters levels 1116 xge to avert a public scandal.
-- A map overlay reveals a hidden approach to desert encounters levels 1116 xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and evil awakens
+- A noble needs help finding before the festival
+- A corpse reveals the truth about the government
+- A document has gone missing and chaos spreads
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

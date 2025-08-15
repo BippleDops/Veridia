@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.249468'
 world: Both
 ---
 
-
 # Artifact Properties; Minor Detrimental Properties
 *Source: Dungeon Master's Guide p. 219* 
 
@@ -51,6 +50,24 @@ world: Both
 | 96-00 | While you are attuned to the artifact, your flaw is amplified in a way determined by the DM. |
 ^minor-detrimental-properties
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Artifact properties minor detrimental properties is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -59,19 +76,33 @@ Artifact properties minor detrimental properties is a undersea element of the se
 
 Legends speak of artifact properties minor detrimental properties as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around artifact properties minor detrimental properties.
 
-## Adventure Hooks
-
-- A rumor ties artifact properties minor detrimental properties to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at artifact properties minor detrimental properties to avert a public scandal.
-- A map overlay reveals a hidden approach to artifact properties minor detrimental properties active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

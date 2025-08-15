@@ -21,13 +21,30 @@ updated: '2025-08-12T23:37:34.567229'
 world: Both
 ---
 
-
 # Chapter 3: Secret of the Sumber Hills
 *Source: Princes of the Apocalypse, p. 40* 
 
 ![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/023-poa03-01.webp#center)
 
 The adventure starts in Red Larch, with the characters investigating the disappearance of a delegation from Mirabar. Characters are free to go wherever their information, as provided by you, takes them. Clues lead them to Haunted Keeps in the Sumber Hills. These old fortresses have become secret outposts for the cults of Elemental Evil.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## The Missing Delegation
 
@@ -48,7 +65,6 @@ If you began this campaign with the introductory adventures in chapter 6, remind
 > [!readaloud] 
 > 
 > Red Larch is a little town on the Long Road, a few days' travel north of Waterdeep and south of Yartar. It's a way station for caravans coming to or from the cities of the North, with only one inn, the Swinging Sword.
-> 
 > An important delegation from the city of Mirabar disappeared in the nearby Sumber Hills. The whole town is also abuzz with news and rumors of fierce raiders, roaming monsters, suspicious strangers, and unseasonable weather.
 ^106
 
@@ -79,7 +95,6 @@ The Zhentarim aren't particularly concerned about the delegation for its own sak
 Characters who aren't attached to the five factions can search for the missing delegation on their own initiative or might be motivated by their personal calls to action. The mystery of a missing delegation might not seem to be directly connected to whatever personal goal the character brings to the adventure, but then again, it just could be the lead.
 
 > [!note] Character Advancement
-> 
 > This adventure assumes that the characters begin this chapter at 3rd level. Some of the Haunted Keeps are tougher than others. Feathergale Spire is designed for a 3rd-level party, Rivergard Keep works best for a 4th-level party, Sacred Stone is designed for a 5th-level party, and Scarlet Moon Hall should challenge a 6th-level party. Each outpost the characters overcome should advance them at least one level.
 ^character-advancement
 
@@ -120,8 +135,6 @@ Anyone in Red Larch can provide good directions to Feathergale Spire if the char
 
 Check for random encounters during the journey to Beliard (see chapter 2).
 
-> [!readaloud] 
-> 
 > Orchards and large cattle ranches surround the little town of Beliard. Large stockyards lie on the east side of town, and stone warehouses along the Dessarin Road indicate the regular caravan traffic that passes through.
 ^117
 
@@ -141,15 +154,11 @@ Nothing more comes to light about the strange monk in Beliard. The characters ha
 
 If the party follows the trail south from Beliard toward Summit Hall and Womford, they come across the spot where the delegation from Mirabar was attacked. No one else found it because it's off the road. Only in the last day or two have natural scavengers returned to the area, since the lingering aura of elemental magic kept them away until now.
 
-> [!readaloud] 
-> 
 > The Dessarin Road leads south through the barren Sumber Hills. You don't meet any other travelers this day, but you find evidence that the trail supports traffic—wagon ruts and mule droppings prove that people come this way on a regular basis. You find nothing else until you are about fifteen miles south of Beliard, when you spot a cloud of ravens and vultures circling a mile or so west of the trail.
 ^119
 
 If the characters investigate, they find the remains of a pitched battle between the earth cult and the delegation from Mirabar.
 
-> [!readaloud] 
-> 
 > In a small dell a mile off the road, you find the remains of a battle. A dozen dead soldiers lie on the ground, dressed in black surcoats bearing the emblem of a red axe. Most appear to have died from battle injuries, although some lie in small craters or jumbles of broken rock. Abandoned and looted wagons lie nearby. A couple of broken trunks sit on the ground by the wagons. Two rock cairns—one large and one small—stand atop a hillside nearby.
 ^11a
 
@@ -165,8 +174,6 @@ A character studying the tracks in the area who makes a successful DC 10 Wisdom 
 
 The shepherd Larmon Greenboot in Red Larch leads the characters to this site if they ask. The characters might also stumble across the site while traveling in the Sumber Hills near Red Larch.
 
-> [!readaloud] 
-> 
 > On a barren hilltop a few miles from Red Larch, you find four freshly dug shallow graves. The earth scraped out for the holes is piled nearby, although hastily gathered stones cover the graves. The faint smell of death hangs in the air, and several vultures circle overhead.
 ^11e
 
@@ -180,8 +187,6 @@ If the characters excavate the graves, they find one male dwarf dressed in artis
 
 If any of the characters make a serious effort to study the surrounding area, they find a confused collection of tracks, a few broken arrows, a discarded javelin, and a tattered gray cloak.
 
-> [!readaloud] 
-> 
 > You have a good view of the surrounding hills from this vantage point. Several miles to the west you can make out the tiny outline of Red Larch, and the thin dark line marking the Long Road. Several miles to the north, you see a slender old tower circled by large birds. Nothing else is around here.
 ^122
 
@@ -191,8 +196,6 @@ If asked, Larmon identifies the tower in the distance as Feathergale Spire. All 
 
 The party might discover that the delegation for Mirabar was headed for Summit Hall and travel there directly, without following the Dessarin Road from Beliard. (This is most likely if a character belonging to the Order of the Gauntlet insists on going directly to Summit Hall.)
 
-> [!readaloud] 
-> 
 > This small stronghold stands on a hilltop in the southern region of the Sumber Hills. It consists of a stone hall surrounded by a fifteen-foot wall with a sturdy wooden gate. Stables, a tower, barracks, and storage buildings are enclosed within the protective wall. A banner flying an emblem of a crossed torch and sword flutters overhead.
 ^124
 
@@ -206,8 +209,6 @@ If any of the characters mention monks in golden masks or show Lady Ushien the m
 
 ### Womford Rats
 
-> [!readaloud] 
-> 
 > Womford is a tiny settlement on the banks of the Dessarin River, south of the Ironford Bridge. A dilapidated dock juts out into the river, and three keelboats are tied there. A large mill sits on the riverbank, with several big granaries nearby and a handful of small, run-down cottages.
 ^128
 
@@ -248,8 +249,6 @@ The insect-like monsters are two [[ankheg-xmm|ankhegs]], hungry for flesh. The c
 
 Nosy heroes asking awkward questions in the towns nearby gain the attention of the Howling Hatred cult. The air cultists send a group of aerial raiders to eliminate the characters, or at least to give them a good scare. This encounter can occur any time the characters are away from a settlement.
 
-> [!readaloud] 
-> 
 > A strange, croaking cry from somewhere above catches your attention. You spot a trio of huge, winged shapes gliding toward you—giant vultures! Each bird carries on its back a warrior in dull blue armor with a dirty white cloak.
 ^12e
 
@@ -263,8 +262,6 @@ None of the riders carry treasure, but one of them has a map tucked into his boo
 
 If the characters learned about this attack from the Dangerous Background adventure hook, they know that a band of raiders intends to ambush a caravan on the trail between Red Larch and the Ironford Bridge, a few miles from Bargewright Inn. They can find the villains camped just out of sight from the trail. Otherwise, the characters can encounter this camp any time they travel along one of the roads or trails in the area.
 
-> [!readaloud] 
-> 
 > A small, carefully banked cooking fire smolders in the middle of this haphazard encampment. Half a dozen battered old tents and crates of provisions are scattered around, along with racks on which pieces of smoked fish are curing. Several fierce-looking human warriors are hunkered down in front of their tents, tending to their gear or quietly conversing.
 ^131
 
@@ -276,7 +273,7 @@ Captured Crushing Wave cultists refuse to talk, but captured bandits aren't as f
 
 ### Fiery Fangs
 
-The fire cult is less concerned with maintaining appearances than the other elemental cults. When [[vanifer-pota|Vanifer]] or her lieutenants receive word that a band of adventurers is trying to ferret out the cult, they send a pack of three [[hell-hound-xmm|hell hounds]] after the party. The hounds need only get the scent of the characters through spilled blood or discarded items. This encounter can take place wherever the characters are at the time, whether traveling between sites or ostensibly safe at an inn.
+The fire cult is less concerned with maintaining appearances than the other elemental cults. When [[vanifer-pota|Vanifer]] or her lieutets receive word that a band of adventurers is trying to ferret out the cult, they send a pack of three [[hell-hound-xmm|hell hounds]] after the party. The hounds need only get the scent of the characters through spilled blood or discarded items. This encounter can take place wherever the characters are at the time, whether traveling between sites or ostensibly safe at an inn.
 
 If the characters encounter the hell hounds in the wilderness, the hounds appear a short distance behind the characters, following their tracks and baying with eagerness. If the characters are resting at an inn, they're interrupted by screaming and barking coming from the inn's common room, where the pack breaks through windows and terrifies the staff. (It's all the better if the characters are eating a meal there themselves).
 
@@ -294,8 +291,6 @@ When the characters visit the area, use the unique environment and its weather t
 
 You can initially describe the keep as follows:
 
-> [!readaloud] 
-> 
 > Feathergale Spire rises from a pillar of rock high into the air, the tallest point for miles. Built from white limestone and embellished in marble, the spire resembles a gleaming sword that pierces the sky.
 ^136
 
@@ -353,19 +348,13 @@ Oversized windows on the ground level allow light and air to pass easily into th
 
 ### Feathergale Moat
 
-> [!readaloud] 
-> 
 > A gap of twenty feet separates the ledge where the path ends from the closed drawbridge on Feathergale Spire. The space between the cliff's edge and the gatehouse drops several hundred feet to the bottom of the canyon. Near the ledge, a brass bell hangs from a wooden post.
 ^144
 
 At the bell's ring, a female human [[/03_Mechanics/CLI/bestiary/humanoid/feathergale-knight-pota|Feathergale knight]] (see chapter 7) named Savra Belabranta opens a small window near the gate, welcomes the characters, and courteously asks what brings them here. Savra lowers the drawbridge to allow friendly visitors entry. If the characters accompany her, go to the "Knights' Quest" section.
 
-### Areas of the Spire
-
 ### S1. Stable Level
 
-> [!readaloud] 
-> 
 > A circular landing surrounds the central shaft of a spiral staircase. The landing is piled with supplies and bales of straw. Radiating from the landing are twelve stalls with straw-covered floors. A harness, riding crop, and saddle hang in each stall. Swinging wooden doors cap either end of each stall, one leading from the tower to the stall and the other from the stall to the open air.
 ^147
 
@@ -377,10 +366,7 @@ The latches on the stall doors are fastened at multiple points on each door, so 
 
 ### S2. Front Hall
 
-> [!readaloud] 
-> 
 > The entrance is a thirty-foot-long hall of white stone. At the opposite end of the hall are two twelve-foot-tall doors like those of the entry gate.
-> 
 > An eagle carved from a massive timber hangs from the far side of the ceiling, suspended on strong chains. Slender wings of steel sweep close to its sides. Its head is also fashioned of steel.
 ^149
 
@@ -394,7 +380,7 @@ If Savra has allowed the characters in, she tells the characters that they have 
 
 The eagle is a battering ram. If released using a lever near the doors to area S4, the ram attacks an area that starts at the doors to area S4, extending 30 feet along a 5-foot-wide path in the center of the hall.
 
-Each creature in this area must succeed on a DC 10 Dexterity saving throw or take `3d6` bludgeoning damage. Those who fail the save by 5 or more are swept along with the ram, pushed out of the hall onto the drawbridge, and knocked [[conditions#Prone|prone]]. The eagle resets when it swings back, locking back into place and resetting its activation lever.
+Each creature in this area must succeed on a DC 10 Dexterity saving throw or take `3d6` bludgeoning damage. Those who fail the save by 5 or more are swept along with the ram, pushed out of the hall onto the drawbridge, and knocked [[conditions#prone|prone]]. The eagle resets when it swings back, locking back into place and resetting its activation lever.
 
 ### S3. Weapons Locker
 
@@ -410,8 +396,6 @@ Howling Hatred initiates, priests, hurricanes, and skyweavers sleep in this room
 
 ### S6. Kitchen
 
-> [!readaloud] 
-> 
 > In this kitchen, sacks are heaped along the walls, and a small pile of vegetables is spread on a table. A huge, steaming cauldron stands at the center. Two wooden paddles and two knives hang on a rack next to a brick oven. Four wall shelves hold a dozen loaves of bread.
 ^151
 
@@ -419,8 +403,6 @@ Four [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-initiate-pota|Howling 
 
 ### S7. Solarium
 
-> [!readaloud] 
-> 
 > A bright room occupies the east quarter of this floor. Flowers and shrubs of many varieties grow in a labyrinth of planters. Spidery red and purple plants grow suspended in baskets in mid-air. Robed humans water the plants.
 ^153
 
@@ -430,8 +412,6 @@ Several barrels of fresh water are located around the perimeter of the room.
 
 ### S8. Great Hall
 
-> [!readaloud] 
-> 
 > This great hall spans half the diameter of the tower. Between the overlarge windows, tapestries depict scenes of gallant knights on flying hippogriffs, fighting dragons and jousting with one another among the clouds. High on the walls are the mounted heads of griffons, wyverns, owlbears, and manticores. A long, curved table set for a feast stretches between the hall's twin hearths.
 ^155
 
@@ -439,8 +419,6 @@ When the characters first arrive, two [[/03_Mechanics/CLI/bestiary/humanoid/feat
 
 ### S9. Knights' Cells
 
-> [!readaloud] 
-> 
 > This chamber contains two beds, a fireplace, a closet, two chests, and a small tapestry on the wall.
 ^157
 
@@ -448,21 +426,15 @@ Each knight's chest contains valuables worth `d100` gp, and a feathered cloak.
 
 ### S10. Merosska's Apartment
 
-> [!readaloud] 
-> 
 > This chamber contains a bed, a fireplace, a closet, a writing desk, a chest, and a small tapestry on the wall.
 ^159
 
 On the desk, in a cylindrical leather case, is a letter to [[/03_Mechanics/CLI/bestiary/npc/thurl-merosska-pota|Thurl Merosska]] from [[aerisi-kalinoth-pota|Aerisi Kalinoth]], written by her minstrel [[/03_Mechanics/CLI/bestiary/npc/windharrow-pota|Windharrow]]. It reads as follows:
 
 > [!note] 
-> 
 > *Merosska*,
-> 
 > *We are pleased to hear about the outcome of your altercation with the Black Earth cult, and we praise you for the capture of one of their prisoners. This noblewoman from Waterdeep has an interesting tale to tell, and we shall enjoy interrogating her further. Keep a close watch on the Sacred Stone Monastery. I want to know what our enemy is planning next*.
-> 
 > *Your beloved queen*,
-> 
 > *Aerisi Kalinoth*
 ^15a
 
@@ -472,10 +444,7 @@ In addition to clothing and personal effects, the chest contains 320 gp in a sac
 
 ### S11. Pinnacle
 
-> [!readaloud] 
-> 
 > At the apex of the tower, the stairs terminate at a round stone gazebo that continues upward in a needle-like minaret. Beyond this enclosure, a small lawn grows upon the top of the tower. Four paths paved with white stones point the directions of the compass, each path ending in a pointed stone crenellation. At the pinnacle's edge is a spyglass on a tripod, pointed downward.
-> 
 > From this vantage point, the Feathergale Knights possess a supreme view of all that transpires in the nearby canyon and the Sumber Hills beyond.
 ^15d
 
@@ -493,8 +462,6 @@ Those who gaze through the spyglass without moving it first see a hooded figure 
 
 Savra Belabranta escorts the characters through the spire and up to the pinnacle where [[/03_Mechanics/CLI/bestiary/npc/thurl-merosska-pota|Thurl Merosska]] surveys the territory. Briefly describe any other rooms or inhabitants of the tower the characters observe on their ascent. When the characters reach the pinnacle, read the following text:
 
-> [!readaloud] 
-> 
 > The commander of the Feathergale Knights is a well-built male human in his early fifties. Embossed feather patterns ornament the plates of his armor, and his kingly cloak boasts a feathered mantle. He smooths his white-blond hair into place, then bows low before you as if he were only a lowly courtier.
 ^162
 
@@ -512,28 +479,19 @@ If the characters wish to interview Merosska now, they can do so. He might answe
 
 If the characters mention elemental cults, read the following text:
 
-> [!readaloud] 
-> 
 > Thurl's face darkens. "Great evil lurks among these hills," he says. "Depraved cultists led by wretched monsters. But let us speak of such matters after the feast has warmed our blood."
 ^163
 
 Thurl allows the characters to rest in the tower until it is time to begin the feast. If the characters join the feast, read the following text:
 
-> [!readaloud] 
-> 
 > Clad in the finest garments of velvet brocade, the knights feast at a curved table in the great hall, where twin hearths blaze. [[/03_Mechanics/CLI/bestiary/npc/thurl-merosska-pota|Thurl Merosska]] sits at the head of the table.
-> 
 > "Honored guests," he says. "Tell us of your adventures in the Sumber Hills. Let us aid you in any way we can."
 ^164
 
 The knights use the feast to learn about the characters and how much they know about the elemental cults. Applauding bravery and offering toasts, the knights listen to the characters' stories and share anecdotes. When you decide it's time, read the following:
 
-> [!readaloud] 
-> 
 > The doors to the great hall fly open and a sentry from the pinnacle shouts, "Manticore! It's on the move!"
-> 
 > At this announcement the Feathergale Knights rise as one, the feast before them unfinished.
-> 
 > "We should take this opportunity to slay the monster," Thurl says. From his finger he removes a feather-patterned golden ring set with a garnet and holds it aloft, saying, "A prize for the one who brings me the beast's head!"
 ^165
 
@@ -547,8 +505,6 @@ Thurl's ring is worth 250 gp. Thurl also carries `3d10` gp and `2d6` pp in a pou
 
 Four Feathergale Knights join the characters on the hunt. To start, read the following text:
 
-> [!readaloud] 
-> 
 > Four Feathergale Knights assemble at the pinnacle, each mounted upon a giant vulture. The moon illuminates the misty canyon below Feathergale Spire. In the far distance, a single shard of darkness moves, flitting in and out of the mist. Then the shadow sinks beneath the bank of clouds, lost again from sight.
 ^16b
 
@@ -600,8 +556,6 @@ Indoctrinated by the air cult, Savra's heart and mind belong to [[yan-c-bin-pota
 
 Sighing Valley is actually a wide canyon consisting of a deep gorge through which a small river flows. Rock spires rise from the canyon floor, and when the wind blows past these natural structures it makes a sighing—and sometimes a howling—sound.
 
-### Features
-
 #### Fauna
 
 Wild [[goat-xmm|goats]] are common in the canyon.
@@ -618,7 +572,6 @@ The canyon is brightly lit during the day, and light varies at night from dim to
 
 The canyon walls are 200 to 400 feet high.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/028-03-02.webp#gallery|Map 3.2: Sighing Valley]]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/029-poa12.webp#gallery|Player Version]]
 
@@ -634,8 +587,6 @@ Among the dry, days-old gore lie shattered bones. A successful DC 15 Intelligenc
 
 ### V3. Knifepoint Gully
 
-> [!readaloud] 
-> 
 > A narrow fissure in the canyon wall leads through a gully choked with pale brush and shrubs. A swift breeze passes through the fissure. At the end, a dark, jagged crevice awaits.
 ^17f
 
@@ -643,8 +594,6 @@ Carved into the crevice at the end of the gully is a stairway that leads down to
 
 ### V4. The Lost River
 
-> [!readaloud] 
-> 
 > A river courses through the canyon, winding around tall spires and through the base of a plateau. Coarse green shrubs huddle along its banks.
 ^181
 
@@ -656,8 +605,6 @@ The gnoll pack lord carries a severed human finger with a gold ring (worth 25 gp
 
 ### V5. Howling Plateau
 
-> [!readaloud] 
-> 
 > This high rocky plateau rises from the center of the canyon. A river cuts through the canyon bottom, passing through it to the other side. The wind on the plateau keens and moans, alternating its pitch with the force and direction of the wind.
 ^184
 
@@ -665,8 +612,6 @@ A creature standing atop Howling Plateau can see the whole canyon, but not the s
 
 ### V6. The Lost River
 
-> [!readaloud] 
-> 
 > The river that runs through the canyon sweeps close to the canyon's eastern wall. To the west, the ground is covered with rocky spires and wild brush.
 ^186
 
@@ -676,8 +621,6 @@ Four [[gnoll-warrior-xmm|gnolls]] and four [[hyena-xmm|hyenas]] forage here. Dur
 
 A mated pair of [[griffon-xmm|griffons]] occupies a cliff cave about 150 feet from the canyon floor. The griffons attack any horse or hippogriff that nears the lair. They slay the mount and escape with the carcass.
 
-> [!readaloud] 
-> 
 > This cave stinks of animal musk and damp straw. A nest of straw and twigs follows the curvature of the cave walls.
 ^188
 
@@ -689,8 +632,6 @@ In a depression on a ridge near the canyon floor, five [[aarakocra-skirmisher-xm
 
 ### V9. Manticore Lair
 
-> [!readaloud] 
-> 
 > A pool fills the center of this deep cave, born from a natural spring beneath the rock and flowing outward into the river. Long stalactites hang above the pool, surrounding a natural central pillar. Water drips from the stalactites into the pool, echoing throughout the cave. Some of the debris here looks like leftovers from an old camp, including four old crates.
 ^18b
 
@@ -710,12 +651,8 @@ Grimjaw and his gang work with smugglers to move stolen goods on the river. They
 
 When the characters arrive at Rivergard, read the following text:
 
-> [!readaloud] 
-> 
 > A small castle overlooks the mighty Dessarin River, which is a good half-mile wide at this point. A gatehouse and keep stand atop a low bluff, but the walls are built to the water's edge. On the river bank, another low tower guards a boat basin where keelboats are moored.
-> 
 > The keep seems old and worn, but new timbers and shingles suggest that repairs are underway. A white banner with a blue gauntlet flies over the keep.
-> 
 > The front gate is closed.
 ^18f
 
@@ -776,16 +713,11 @@ If the characters are caught doing something suspicious, cultists nearby attempt
 - The Crushing Wave reavers in area K8 head straight for the source of the trouble, arriving 1 minute after the alarm is raised.  
 - After 10 minutes, Grimjaw and the reavers from area K20 leave the keep and search for intruders in the castle.  
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/030-03-03.webp#gallery|Map 3.3: Rivergard Keep]]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/031-poa9.webp#gallery|Player Version]]
 
-### Areas of the Keep
-
 ### K1. Front Gate
 
-> [!readaloud] 
-> 
 > The keep's main entrance features a two-story gatehouse attached to a round tower. Arrow slits look out onto the ground outside the gate. The gate itself is a double door of thick timbers reinforced by iron bands.
 ^1a0
 
@@ -793,8 +725,6 @@ The gate is barred from the inside. It can't be forced open by any means short o
 
 One [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandit]] stands watch on the wall section just north of the gatehouse. If he spots the party approaching, he warns the cultists in areas K2 and K3. If the characters openly approach the gate and call out, read the following text:
 
-> [!readaloud] 
-> 
 > Clattering sounds and muffled voices come from inside the gatehouse. Then a human warrior appears at the second-story arrow slit directly over the gate. You can't see much of him, but he wears a leather jerkin and has a black beard. "Who are you? What do you want?"
 ^1a1
 
@@ -808,8 +738,6 @@ If the characters kill some or all the gatehouse guards (areas K2 and K3) and th
 
 ### K2. Gatehouse
 
-> [!readaloud] 
-> 
 > The gates open to a thirty-foot passage leading east. A portcullis blocks the far end of the passage, but you can see the castle yard on the other side. An arrow slit in the southern wall of the passage provides defenders a way to fire on intruders who get this far.
 ^1a4
 
@@ -819,8 +747,6 @@ Characters who specifically examine the ceiling notice the murder holes (see are
 
 If the characters find a way into the round tower south of the gatehouse passage, read the following text:
 
-> [!readaloud] 
-> 
 > This is the ground floor of the gatehouse tower. A door leads to the east, and stairs climb to the floor above. Arrow slits in this room offer a view of the ground outside the castle and the gate passage to the north. Two double-bunks stand against the walls.
 ^1a6
 
@@ -830,8 +756,6 @@ The stairs lead to area K3.
 
 ### K3. Gatehouse Upper Floor
 
-> [!readaloud] 
-> 
 > This room above the castle gatehouse features doors that lead out to the tops of the walls to the north and to the east. Stairs lead down to the floor below. A chain mechanism in the northern half of the room positioned over the main gate raises or lowers the gate bars. Another controls the portcullis. Three holes in the floor, each about a foot square, look down on the passage below.
 ^1a8
 
@@ -847,8 +771,6 @@ Holger has accumulated a tidy little hoard, mostly through "fining" the warriors
 
 ### K4. Castle Yard
 
-> [!readaloud] 
-> 
 > The area just inside the castle gatehouse consists of a small courtyard of bare dirt and tufts of wiry grass. A stable stands to the east, the gatehouse to the west, and the main yard of the castle lies to the north. The keep occupies the northern corner of the castle yard. Stone stairs near the keep lead up to the top of the wall.
 ^1ab
 
@@ -878,8 +800,6 @@ The commoners are helpful, especially if they realize the characters plan to tak
 
 ### K5. Ruined Stable
 
-> [!readaloud] 
-> 
 > This old stable is in bad shape. Most of the roof has caved in, and rotting debris fills the interior. Six horse stalls line the back wall.
 ^1b0
 
@@ -887,8 +807,6 @@ The cultists haven't bothered to repair the stables yet, since they have little 
 
 ### K6. Armory
 
-> [!readaloud] 
-> 
 > Weapon racks along the walls of this armory hold spears. Barrels full of crossbow bolts and arrows stand near the doors. Open chests in the middle of the room contain suits of leather armor. The most unusual items in this armory are the shields—they are made of beaten copper and fashioned into the shape of horseshoe crab shells.
 ^1b2
 
@@ -896,15 +814,11 @@ The room contains twenty spears, ten shortswords, five scimitars, five light cro
 
 ### K7. Bathhouse
 
-> [!readaloud] 
-> 
 > Two big wooden washtubs occupy the middle of this room, and a row of curtains along the west wall provides privacy for several privies.
 ^1b4
 
 ### K8. Barracks
 
-> [!readaloud] 
-> 
 > Nine double bunks fill this barracks, each with a pair of footlockers tucked underneath. Doors exit to the north, west, and east.
 ^1b6
 
@@ -918,8 +832,6 @@ If the characters convince Grimjaw that they are here to join up, they are assig
 
 ### K9. Water Tower
 
-> [!readaloud] 
-> 
 > The upper floor of this tower looks deserted, but the ground floor is still in use. Curtains hanging across the eastern half of the room wall off someone's private quarters, and several straw pallets lie on the floor near the door. A capstan stands against the north wall, with a heavy chain disappearing through a pipe to the northeast. The river laps just beneath the arrow slits of the tower.
 ^1b9
 
@@ -937,8 +849,6 @@ Reash carries a key to the grate in area K13. His leather saddlebag holds 70 gp,
 
 ### K10. Landing
 
-> [!readaloud] 
-> 
 > The keep's eastern wall juts out into the river, forming a good-sized basin in which a couple of keelboats float. A wide gap in the southeast wall provides access to the river, although it is blocked by a heavy chain. A twenty-foot tall bluff of rock and earth separates the landing and a nearby tower from the rest of the castle grounds. To the north, a wide stream flows out of a cave mouth into the boat basin. An iron grate blocks access to the stream.
 ^1be
 
@@ -946,8 +856,6 @@ Keelboats full of loot and stolen goods off-load their cargo here. The boat tied
 
 ### K11. Water Gate
 
-> [!readaloud] 
-> 
 > The keep's eastern wall is built into the river, forming a long pier that encloses a boat basin. A heavy chain that emerges from the tower to the south stretches across the entrance.
 ^1c0
 
@@ -955,8 +863,6 @@ The heavy chain raised and lowered by the winch in area K9 provides Rivergard's 
 
 The sentry—a bandit posted on the wall section jutting out into the river—hails characters approaching by boat. He then shouts for Reash in area K9, who moves to the arrow slit in his tower to see what's happening.
 
-> [!readaloud] 
-> 
 > A male human with lank black hair looks out of the arrow slit in the tower by the river. He has a drooping mustache and a sour expression. "What do you want?" he asks.
 ^1c1
 
@@ -964,8 +870,6 @@ Reash decides whether to admit the party. If he does, he has the reavers in area
 
 ### K12. Moored Keelboat
 
-> [!readaloud] 
-> 
 > A large keelboat is moored to the inner side of the keep's east wall, floating in the boat basin. A rope ladder leads from the top of the wall to the deck of the boat, about six feet below. Hatchways lead into the boat's cabin from the bow and the stern.
 ^1c3
 
@@ -991,8 +895,6 @@ A locked chest in the deckhouse holds 190 sp and 95 gp. Shoalar wears a leather 
 
 ### K13. Dark Stream
 
-> [!readaloud] 
-> 
 > The north side of the boat basin laps against a steep, rocky bluff. From the base of the bluff, a subterranean river empties into the boat basin. The river is close to thirty feet wide, and the cave ceiling is about six feet above the water level in the middle. An iron grate blocks the stream mouth.
 ^1c8
 
@@ -1002,8 +904,6 @@ The iron grate has a swinging gate section secured by a simple lock. Reash (area
 
 This tower stands on top of the bluff, overlooking the Dessarin River and the castle harbor below.
 
-> [!readaloud] 
-> 
 > Filthy furs and discarded bones litter the interior of this tower. A rank animal stench hangs in the air.
 ^1ca
 
@@ -1013,8 +913,6 @@ Most nonhumans recruited by the cult are sent down to the Temple of the Crushing
 
 ### K15. Chapel
 
-> [!readaloud] 
-> 
 > The keep's chapel contains plain wooden pews facing a large altar at the west end of the room. No idol hints at what deity is venerated here. A crude symbol is painted on the wall above the altar, resembling an X with a horizontal bar linking the bottom limbs. Several straw pallets lie near the chapel door.
 ^1cc
 
@@ -1028,10 +926,7 @@ If a fight breaks out here, Drosnin defends the chapel to the death. Once she fa
 
 The great hall becomes a banquet hall, a practice hall, or a throne room as the occasion requires.
 
-> [!readaloud] 
-> 
 > This room is the great hall of the keep. It is two stories high, with stone stairs on both sides of the room leading up to a stone balcony at the west end of the chamber. Heavy double doors lead east to the castle yard, while two interior doors open to the west. Arrow slits look out to the north and the south.
-> 
 > At the west end of the room, below the balcony, a large wooden chair sits behind a wide table littered with papers and discarded plates. A second table, this one long and furnished with benches, runs down the middle of the hall. The walls are painted in green and blue, decorated with tattered banners showing nautical designs.
 ^1ce
 
@@ -1068,8 +963,6 @@ Grimjaw carries a key to the iron grate in area K13.
 
 ### K17. Servants' Quarters
 
-> [!readaloud] 
-> 
 > This plain dormitory features six bunk beds and a small wooden table and chairs, as well as two large laundry tubs and several baskets full of dirty clothes and linens.
 ^1d5
 
@@ -1079,8 +972,6 @@ The servants know about the secret door in area K16, but they don't know where i
 
 ### K18. Kitchens
 
-> [!readaloud] 
-> 
 > Two large hearths on the north wall of this room hold kettles full of simmering stew. Washbasins and worktables with old, battered crockery stand in the middle of the room. Sacks, casks, and barrels are piled along the southern wall, and cheeses and smoked fish hang from the ceiling.
 ^1d7
 
@@ -1092,8 +983,6 @@ The sacks contain flour, the dozen casks hold ale (worth 10 gp per cask), and th
 
 ### K19. Old Library
 
-> [!readaloud] 
-> 
 > Old bookshelves line the walls of this room, but most are empty. One old shelf has been cleared and restocked with a selection of tomes. A single bunk sits under the narrow window at the far end of the room, near a small desk, a wooden chair, and a chest. The floor looks wet.
 ^1da
 
@@ -1111,8 +1000,6 @@ The books—a dozen in all—are worth 25 gp each. Most cover nautical topics an
 
 ### K20. Keep Guardroom
 
-> [!readaloud] 
-> 
 > Four bunk beds line the walls of this guardroom. To the south, an arrow slit looks out over the castle yard, and a door exits to the castle parapet. Another door exits to the north.
 ^1df
 
@@ -1122,8 +1009,6 @@ If the reavers in this room hear fighting in areas K19 or K21, they quickly move
 
 ### K21. Lord's Chambers
 
-> [!readaloud] 
-> 
 > A large semicircular room occupies the western half of this floor of the keep. Three narrow windows look out over the countryside outside the castle walls. The room's furnishings are very plain, including a hard-looking bunk, a small wooden table, and a couple of simple chairs. Several large chests occupy the room's southern corner.
 ^1e1
 
@@ -1143,8 +1028,6 @@ Grimjaw's loot consists of 600 sp, 450 ep, and a pouch containing fifteen blue a
 
 The secret stairway in area K16 descends 20 feet to this landing, which abuts an underground stream that flows east to area K13.
 
-> [!readaloud] 
-> 
 > At the bottom of the stairs, you find a torchlit chamber where two boats bob in an underground stream. The stream flows toward daylight to the east and leads upstream into darkness toward the west.
 ^1e6
 
@@ -1208,8 +1091,6 @@ During the day, the windows provide bright light for most interior spaces. At ni
 
 #### Locks
 
-A lock requires thieves' tools and a successful DC 15 Dexterity check to open.
-
 #### Treasure
 
 Sacred Stone monks are ascetics and don't collect individual treasure. Their gilded tin masks are worthless. For the more worldly denizens of the monastery (such as the duergar), each carries `2d10` gp in mixed coinage and minor valuables.
@@ -1222,27 +1103,19 @@ The roof of the monastery is about 25 feet above the ground, but the walls have 
 
 The monastery windows are narrow and tall, almost like arrow slits. The sill of each window is about 10 feet above the ground outside.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/033-03-04.webp#gallery|Map 3.4: Sacred Stone Monastery]]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/034-poa10.webp#gallery|Player Version]]
-
-### Areas of the Monastery
 
 ### M1. Passage of Stone
 
 When the characters arrive at the Sacred Stone Monastery, read the following text:
 
-> [!readaloud] 
-> 
 > A trail leads into an ever-narrowing defile between bluffs of wind-sculpted sandstone. Eventually the walls draw in so closely that you can reach out and touch either side, but then the narrow space opens into a hidden canyon in the heart of the hills. A sprawling monastery with dark, narrow windows and red tile rooftops stands in the middle of this natural amphitheater, ringed by sandstone cliffs all around.
-> 
 > Ahead, a weathered flight of stone steps leads up to the closed monastery doors. The plain doors are made of heavy timber with iron studs. A dusty footpath circles the building.
 ^1fa
 
 If the characters scout around the other sides of the building, add the following:
 
-> [!readaloud] 
-> 
 > A small door, perhaps a servants' entrance, is on the northwest side of the monastery. On the northeast side, a low wall encloses a good-sized garden with a locked gate. The eastern portion of the monastery is in very poor repair—the walls there are crumbling, and the windows have been bricked up with old masonry. A small side door is near that section, in the southeast portion of the building.
 ^1fb
 
@@ -1254,8 +1127,6 @@ All outside doors are locked after nightfall.
 
 At night, no one is here, but during the day, two [[/03_Mechanics/CLI/bestiary/humanoid/sacred-stone-monk-pota|Sacred Stone monks]] (see chapter 7) are stationed here. If the monks are present and the party knocks, tries the door, or converses loudly, read the following:
 
-> [!readaloud] 
-> 
 > A small panel in the monastery's front door slides open, and someone wearing a golden mask peers out. The mask is fashioned in the shape of a scowling gargoyle, but the hand that opened the panel seems human enough. From beneath the mask comes a female voice: "Yes? What do you want?"
 ^1fd
 
@@ -1263,8 +1134,6 @@ The monks listen to their visitors' story, then turn the party away unless the c
 
 Once the characters pass the front door, read:
 
-> [!readaloud] 
-> 
 > This austere hall is finished in irregular blocks of dark basalt that form natural columns along the walls. The doors of the monastery's front entrance face south, while interior doors lead east and west. An interior courtyard lies just to the north of this room, visible through a pair of narrow windows.
 ^1fe
 
@@ -1276,8 +1145,6 @@ If the characters attack the monastery and then leave, when they return the guar
 
 ### M3. South Dormitory
 
-> [!readaloud] 
-> 
 > This room is arranged as a very uncomfortable-looking barracks. Ten thin pallets are rolled up along the walls, beside neatly folded piles of clothing—plain, dun-colored robes and sandals. Two of the clothing piles also include golden masks in the shape of scowling gargoyle faces. There are no other furnishings. A single window looks toward the canyon wall to the south.
 ^201
 
@@ -1289,8 +1156,6 @@ By day, four monks (the ones who drew night shift) sleep here.
 
 The door to this room is usually locked. Qarbo carries the key. He is either in area M9 during the day or sleeping here at night.
 
-> [!readaloud] 
-> 
 > Eight simple bunks line the walls of this room, each with a small trunk at the foot of the bed. A small table and several wooden chairs stand in the middle of the room near an iron stove. Five of the bunks are bare, but three are comfortably made up with sheets, pillows, and blankets.
 ^203
 
@@ -1304,8 +1169,6 @@ A locked iron coffer beneath Qarbo's bunk contains 120 gp, 90 ep, cloth-of-gold 
 
 ### M5. West Dormitory
 
-> [!readaloud] 
-> 
 > A heavy wooden shutter covers the window of this room, making it quite dark inside. It is also very warm due to a large iron stove with a well-stoked fire. Ten uncomfortable-looking pallets lie on the floor amid tidy piles of iron arms and armor.
 ^206
 
@@ -1315,8 +1178,6 @@ These duergar mercenaries see the Cult of Black Earth as a good bet. They tolera
 
 ### M6. Refectory
 
-> [!readaloud] 
-> 
 > Four old wooden tables with bench seats stand in the middle of this room, and shelves full of plain clay crockery and wooden platters line the walls. To the west, two windows look out into the canyon beyond the monastery walls. Two doors lead from this room to the north, and one to the south.
 ^208
 
@@ -1328,8 +1189,6 @@ At dawn and dusk, the Sacred Stone cultists (except the two door wardens in area
 
 The door leading outside is locked after nightfall. During the day, monks working in the kitchen frequently go in and out, gathering herbs or dumping refuse.
 
-> [!readaloud] 
-> 
 > Hot coals smolder in two big brick hearths in the middle of this room, and the smell of baking bread fills the air. Sacks of flour, casks of salted fish, crates of dried vegetables, and wheels of cheese clutter the walls, along with well-worn work tables and a collection of mismatched cutlery. A doorway to the west leads to a washroom where three large wooden tubs stand. A door to the north leads to the monastery exterior, while another door leads south.
 ^20a
 
@@ -1341,8 +1200,6 @@ The room immediately to the west is a bathhouse and laundry area with three larg
 
 This area is open to the sky. Characters on the monastery roof can enter the building here.
 
-> [!readaloud] 
-> 
 > This long, narrow court is paved in red sandstone. To the north stands the main temple or shrine of the monastery, its copper-sheathed doors emblazoned with a triangular symbol. Doors also exit the court at its east and west ends, and several narrow windows pierce the south wall. Gargoyle statues guard the door, each facing the court with a ferocious leer.
 ^20c
 
@@ -1354,8 +1211,6 @@ The symbol on the north door is the symbol of elemental earth.
 
 The stairway in the middle of this room descends to area M21 in the mines below the monastery.
 
-> [!readaloud] 
-> 
 > Four large columns of natural rock dominate this shrine. A wide set of steps descends into darkness in the center of the room, in front of a slab-like stone altar. Large, copper-sheathed doors stand in the middle of the south wall, and smaller doors exit to the east and west. Two narrow windows in the north wall admit thin fingers of light from outside. Above the altar, a triangular symbol has been chiseled into the heavy stone blocks of the wall.
 ^20e
 
@@ -1389,8 +1244,6 @@ The austere shrine offers no treasure, but Qarbo carries the keys to the chest i
 
 ### M10. Scriptorium
 
-> [!readaloud] 
-> 
 > Writing desks stand beneath the windows of this large workroom. Dusty tomes, stacks of parchment, and pots of ink clutter each desk.
 ^214
 
@@ -1415,8 +1268,6 @@ Characters who take the time to sort through the books find that twenty have val
 
 ### M11. Stairs
 
-> [!readaloud] 
-> 
 > Stone stairs descend ten feet to a landing, turn, and continue to descend beyond your sight. Several large buckets are stacked unevenly on the landing. To the north, a staircase descends ten feet to a door.
 ^219
 
@@ -1430,8 +1281,6 @@ The buckets are for fetching water from the well in area M18, a daily chore for 
 
 The door to this room is locked at night. [[/03_Mechanics/CLI/bestiary/npc/hellenrae-pota|Hellenrae]] doesn't wish to be disturbed.
 
-> [!readaloud] 
-> 
 > This large room contains a wooden table with four chairs, a small working desk, several macramé wall hangings, and a single pallet on a low stone shelf set against the west wall. To the north, a barred window looks out over a walled garden.
 ^21b
 
@@ -1453,8 +1302,6 @@ The key to area M13 hangs from a hook on the wall by the room's door. [[/03_Mech
 
 The door to this room is locked at night.
 
-> [!readaloud] 
-> 
 > Piles of firewood are stacked neatly against one wall of this room, and four large copper kettles stand in iron frames above iron fireboxes. Copper tubing in long coils leads from one kettle to the next. Several large wooden casks stand at the south end of the room, and shelves on the eastern wall hold scores of brown bottles sealed with red wax.
 ^220
 
@@ -1468,8 +1315,6 @@ There are sixty-five bottles of recently bottled brandy on the shelves. It is st
 
 The garden gate leading to the monastery exterior is normally locked. [[/03_Mechanics/CLI/bestiary/npc/hellenrae-pota|Hellenrae]] and Qarbo carry keys to the gate.
 
-> [!readaloud] 
-> 
 > A walled garden shelters beneath the northern wall of the monastery. The garden is poorly kept, although some effort has been made to clear footpaths through the overgrowth. A garden gate to the northeast leads outside. Three doors open into the monastery at the southeast, south, and western side of the garden. The statues in the garden are particularly lifelike.
 ^224
 
@@ -1479,8 +1324,6 @@ Two of the statues in this garden are actually [[gargoyle-xmm|gargoyles]]. The m
 
 ### M15. Dojo
 
-> [!readaloud] 
-> 
 > Straw mats cover the floor of this large exercise room, and wooden racks along the walls hold quarterstaffs, polearms, and various weapons commonly associated with martial arts. Doors exit to the north and the east. A triangular symbol is carved into the center of the room's western wall.
 ^226
 
@@ -1496,12 +1339,10 @@ Ordinary clubs and staffs fill the wooden weapons racks. The sign on the wall is
 
 The door from area M14 to M16 is protected by an [[arcane-lock-xphb|arcane lock]] spell (cast by the lich [[/03_Mechanics/CLI/bestiary/npc/renwick-pota|Renwick]]), as is the door leading to the passage to the southwest. Stairs to the north lead down to area M20.
 
-> [!readaloud] 
-> 
 > This older part of the monastery has been fitted out as a laboratory, with work tables covered in alchemical apparatuses and shelves full of strange curios and dusty clay jars. The windows have been bricked up, and cobwebs hang thick in the ceiling corners. An ancient figure peruses a heavy tome that lies open on a small desk, making notes on sheets of parchment covered in arcane writing.
 ^228
 
-This portion of the monastery serves as the demesne of a long-term tenant of the Sacred Stone Monastery, a [[lich-xmm|lich]] named [[/03_Mechanics/CLI/bestiary/npc/renwick-pota|Renwick]] Caradoon. The lich isn't a member of the Black Earth cult, and he doesn't care about the other residents of the monastery as long as they don't interrupt his studies.
+This portion of the monastery serves as the demesne of a long-term tet of the Sacred Stone Monastery, a [[lich-xmm|lich]] named [[/03_Mechanics/CLI/bestiary/npc/renwick-pota|Renwick]] Caradoon. The lich isn't a member of the Black Earth cult, and he doesn't care about the other residents of the monastery as long as they don't interrupt his studies.
 
 Hundreds of years ago, [[/03_Mechanics/CLI/bestiary/npc/renwick-pota|Renwick]] was a hero of some renown and the brother of Samular Caradoon, the founder of the Knights of Samular. The two of them fought bravely in the second Troll War. [[/03_Mechanics/CLI/bestiary/npc/renwick-pota|Renwick]]'s hunger for arcane knowledge eventually led him to prepare for lichdom, but he became a lich only because his brother fed him a lichdom potion on the battlefield rather than let him die. The Black Earth cult naturally tried to make an ally of [[/03_Mechanics/CLI/bestiary/npc/renwick-pota|Renwick]], but he ignored them. [[/03_Mechanics/CLI/bestiary/npc/hellenrae-pota|Hellenrae]] and her monks make a point of leaving him to his own devices.
 
@@ -1517,8 +1358,6 @@ If the characters recognize [[/03_Mechanics/CLI/bestiary/npc/renwick-pota|Renwic
 
 ### M17. Lich's Quarters
 
-> [!readaloud] 
-> 
 > A magnificent canopy bed covered in dusty tattered sheets and several moth-eaten couches suggest that this room was once the bedchamber of someone important.
 ^22c
 
@@ -1532,8 +1371,6 @@ When [[/03_Mechanics/CLI/bestiary/npc/renwick-pota|Renwick]] first established h
 
 The stairs near this room lead up to area M11 on the monastery's ground floor.
 
-> [!readaloud] 
-> 
 > A large well sits in one corner of this room, equipped with a winch-and-bucket mechanism for fetching water. Doors enter from the north, west, and south. Several dirty straw pallets lie tucked into the corners of the room—including one very large and stinking pallet.
 ^230
 
@@ -1551,8 +1388,6 @@ If the characters kill this group of monsters and leave the dungeon without defe
 
 ### M19. Slave Pens
 
-> [!readaloud] 
-> 
 > At the end of this tunnel, three cell-like rooms have been excavated from the rock. Iron bars wall off each one, with a chain and padlock securing a swinging gate. Inside, a number of prisoners huddle on miserable straw pallets.
 ^234
 
@@ -1570,8 +1405,6 @@ Bruldenthar confirms that earth cultists ambushed the Mirabar delegation south o
 
 The doors leading into this area are made of old bronze plate. They aren't locked, but they are stuck (DC 10 Strength check to force open). The stairs to the southeast lead up to area M16, and the door here is locked with an [[arcane-lock-xphb|arcane lock]].
 
-> [!readaloud] 
-> 
 > This barrel-vaulted chamber is obviously an ancient crypt. Niches along the walls hold dozens of old skeletons, some with scraps of burial cloth still clinging to their bones.
 ^238
 
@@ -1595,15 +1428,11 @@ If the characters listen at the western door, they hear something large moving a
 
 The wide stairway at the south end leads up to the Shrine of Stone (area M9) in the upper monastery.
 
-> [!readaloud] 
-> 
 > The floor of this large chamber consists of loose red earth. A column of natural stone stands near the middle of the room, and a row of sturdy iron bars with a sliding cage door (currently shut) walls off the western portion of the room. A door of iron plate stands in the western wall behind the iron bars, while a similar door exits to the east. To the south, a wide set of stairs leads up.
 ^23d
 
 If the characters enter the room from the stairs or the eastern door, add the following:
 
-> [!readaloud] 
-> 
 > Behind the iron bars stands a monstrous creature that resembles a cross between a huge ape and a beetle. It has wicked mandibles, powerful claws, and four eye sockets—but two of its eyes have been put out, and its claws are bronze blades. The creature bellows and thrashes in rage, constantly testing the bars and clawing at the walls.
 ^23e
 
@@ -1619,7 +1448,7 @@ The lever in area M9 opens the cage door. It can also be opened by unlocking it 
 
 The lever in area M9 also causes the stairs leading into this room to collapse, creating a steep slide. A character actively searching the stairs for traps notices the collapsing mechanism with a successful DC 15 Wisdom ([[skills#Perception|Perception]]) check.
 
-Anyone on the stairs when the lever is activated slides to the foot of the stairs and must succeed on a DC 15 Dexterity saving throw or fall [[conditions#Prone|prone]]. While the stairs are collapsed, climbing back up requires a successful DC 15 Dexterity ([[skills#Acrobatics|Acrobatics]]) check.
+Anyone on the stairs when the lever is activated slides to the foot of the stairs and must succeed on a DC 15 Dexterity saving throw or fall [[conditions#prone|prone]]. While the stairs are collapsed, climbing back up requires a successful DC 15 Dexterity ([[skills#Acrobatics|Acrobatics]]) check.
 
 Typically, the Black Earth cultists shove victims down the stairs and pull the lever, simultaneously releasing the caged umber hulk and making sure the victims (and the monster) can't escape back up the stairs.
 
@@ -1627,8 +1456,6 @@ Typically, the Black Earth cultists shove victims down the stairs and pull the l
 
 Most of this level consists of mine tunnels. Any location that isn't a keyed room is part of the mines.
 
-> [!readaloud] 
-> 
 > Several rough-hewn mine tunnels converge near this spot, shored up by old timbers. Patches of weird fungus or lichen cling to the walls in places. A soft breeze moans through the passageways.
 ^243
 
@@ -1647,14 +1474,11 @@ The mines aren't heavily trafficked, but the cultists send their captives to wor
 | 5 | 1 [[grick-xmm|grick]] |
 | 6 | Jurth and `d2` [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|orogs]] (see area M18) |
 | 7–8 | `1d3 + 1` [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] (see area M5) |
-^encounter
 
 The commoners labor at new excavations, digging with picks and shovels. They are desperate to escape but are thoroughly intimidated. If they mistake the characters for Black Earth cultists, they cringe and work harder. If they realize that the characters are here to fight the cultists, they eagerly relate everything they know about the layout of the mines and the guards in area M18. The commoners also know where the crypt (area M20) and the Hall of Thirsting Stone (area M21) are located, but they haven't been in those rooms. They beg the characters to free the rest of the captives in area M19 and help them all escape.
 
 ### M23. Hidden Tunnel
 
-> [!readaloud] 
-> 
 > A localized cave-in partially obstructs this disused mine tunnel. A heap of rubble stands six feet high and blocks a ten-foot long section of the passage, but the tunnel definitely continues past the collapsed section.
 ^247
 
@@ -1664,8 +1488,6 @@ This tunnel continues for a quarter-mile, opening into a well-hidden spot in the
 
 This stairway leads to the ruins of Tyar-Besil, exiting the Sacred Stone mines.
 
-> [!readaloud] 
-> 
 > The passage leads to a gate made of iron bars that blocks the way north, secured with a chain and padlock. Just beyond the gate, worn stone steps descend and turn left. This is no mine tunnel—the stonework is near-perfect despite its evident age. To the right, a short passage leads to a big door of iron plate, dented in from the other side.
 ^249
 
@@ -1711,8 +1533,6 @@ Most of the visitors here carry `2d10` gp in mixed coinage and minor valuables.
 
 ### Ascending the Slope
 
-> [!readaloud] 
-> 
 > Visible through the haze that covers the hill is a square tower ringed by ruined walls. In front of the tower burns a bonfire shaped like a fiery giant. Scattered on the slope below the tower are seven bonfires with tents clustered around them. Humanoid figures huddle near these closer fires. A trail leads up to these hillside encampments.
 ^255
 
@@ -1724,16 +1544,11 @@ Once a battle starts, reinforcements arrive in waves. It's conceivable that, onc
 
 Characters can avoid the camps entirely by circling the hill and climbing its north side. The north side of the hill is steep but navigable, and can be climbed without having to make ability checks.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/036-03-05.webp#gallery|Map 3.5: Scarlet Moon Hall]]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/037-poa11.webp#gallery|Player Version]]
 
-### Areas of the Hall
-
 ### Hc1. Druid Camp
 
-> [!readaloud] 
-> 
 > Four robed humans—two male, two female—chant as they stand around a bonfire. On the periphery of the firelight are two massive elk, placidly chewing.
 ^258
 
@@ -1753,8 +1568,6 @@ The druids have a scroll of [[elemental-bane-xge|elemental bane]] and a scroll o
 
 ### Hc2. Cult Camp
 
-> [!readaloud] 
-> 
 > Two human men in robes stand before the bonfire. On the other side of it, leashed to a peg pounded into the ground, is a brown bear.
 ^25d
 
@@ -1768,8 +1581,6 @@ Camp Hc1 arrives first, though the druids of that camp try to talk it out rather
 
 ### Hc3. Werewolf Camp
 
-> [!readaloud] 
-> 
 > Two rugged humans sit near a large bonfire. They are sparsely dressed and very hairy.
 ^261
 
@@ -1785,8 +1596,6 @@ Camp Hc4 arrives first, then camp Hc6 if the disturbance persists. These reinfor
 
 ### Hc4. Cult Camp
 
-> [!readaloud] 
-> 
 > A half-elf woman here is dressed in robes, while her three companions—a human woman and two human men—are dressed in rugged clothing and breastplates. The three in armor cook food on kebabs at their bonfire.
 ^265
 
@@ -1798,8 +1607,6 @@ Camp Hc3 arrives first, but camp Hc5 might respond to prolonged disturbances.
 
 ### Hc5. Fiddler's Camp
 
-> [!readaloud] 
-> 
 > This bonfire is a little smaller than the others. An elf woman in robes plays a fiddle as two sprites dance around the smoke above the fire.
 ^269
 
@@ -1817,8 +1624,6 @@ Gariena has a coinpurse with 40 sp and 18 gp in it, plus she wears a silver ring
 
 ### Hc6. Druid Camp
 
-> [!readaloud] 
-> 
 > Three people doze near the bonfire as a fourth leans on a staff, clearly bored out of his mind.
 ^26e
 
@@ -1834,8 +1639,6 @@ Camp Hc7 arrives. Camp Hc3 arrives if the disturbance persists.
 
 ### Hc7. Bugbear Camp
 
-> [!readaloud] 
-> 
 > This fringe camp has three bulky figures standing near the fire, their robes' hoods pulled up. Two worgs rest at edge of the firelight.
 ^272
 
@@ -1851,8 +1654,6 @@ The bugbears carry a total of 68 cp, 42 sp, and 55 gp.
 
 ### H1. Courtyard
 
-> [!readaloud] 
-> 
 > Beyond the ruins of walls ringing the keep's central tower is a courtyard cluttered with tents. A humanoid-shaped wicker giant, two stories tall, burns brightly here. Two figures in robes stand near the wicker giant, their heads lowered in prayer.
 ^277
 
@@ -1866,8 +1667,6 @@ The defenders in the kennel (area H3) join the battle. The guards on the scaffol
 
 ### H2. Wicker Giant
 
-> [!readaloud] 
-> 
 > Waves of heat come from the burning wicker giant, but the wooden structure contains the flames without being consumed by them.
 ^27b
 
@@ -1877,8 +1676,6 @@ Once it emerges, the elemental attacks any creature that couldn't reasonably be 
 
 ### H3. Kennel
 
-> [!readaloud] 
-> 
 > Ruined walls surround this shallow pit, which was probably a basement once.
 ^27d
 
@@ -1894,8 +1691,6 @@ At your option, perhaps due to a falling lantern or stray fire spell, a portion 
 
 The door to this chamber is reachable only from the top of the scaffolding. The tower wall is rough fieldstone, so it can be climbed with successful DC 10 Strength ([[skills#Athletics|Athletics]]) checks.
 
-> [!readaloud] 
-> 
 > This warmly lit room has a large in the wooden floor and stone stairs leading up the northern wall.
 ^280
 
@@ -1909,8 +1704,6 @@ If a battle here lasts more than 3 rounds, the cultists in area H7 awaken. They 
 
 ### H6. The Downward Path
 
-> [!readaloud] 
-> 
 > A massive pile of rubble—the furniture and flooring from the level above—sits in the middle of this chamber. A cluster of small fire-creatures burns the wooden beams along the north wall, where a tunnel leads downward.
 ^284
 
@@ -1922,8 +1715,6 @@ The tunnel winds downward and eventually connects to area E1 of the Temple of Et
 
 ### H7. Cultist Barracks
 
-> [!readaloud] 
-> 
 > This room has a dozen bedrolls scattered across the floor. Stone stairs continue upward along the inside of the tower's north wall.
 ^288
 
@@ -1941,8 +1732,6 @@ The area marked with lines creaks loudly whenever someone steps on it. At the st
 
 ![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/038-poa03-10.webp#center)
 
-> [!readaloud] 
-> 
 > The room contains a bedroll, a desk, and a bookcase. On the northern wall, a tall ladder leads up to a trapdoor in the ceiling.
 ^28d
 
@@ -1954,8 +1743,6 @@ In Elizar's desk are 250 gp, two fire opals (worth 50 gp each), and a scroll of 
 
 ### H9. Bats in the Attic
 
-> [!readaloud] 
-> 
 > This chamber is under the tower's angled upper roof. Holes in the ceiling lead to the open air. A short ladder to the west leads through one such opening. The room smells strongly of the droppings that cover the floor.
 ^290
 
@@ -1983,19 +1770,26 @@ The tunnel in area H6 leads to area E1 in the Temple of Eternal Flame. If you ar
 
 Legends speak of 03 chapter 3 secret of the sumber hills as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 03 chapter 3 secret of the sumber hills.
 
-## Adventure Hooks
-
-- A rumor ties 03 chapter 3 secret of the sumber hills to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 03 chapter 3 secret of the sumber hills to avert a public scandal.
-- A map overlay reveals a hidden approach to 03 chapter 3 secret of the sumber hills active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a conspiracy about the government
+- A prisoner has gone missing and truth emerges
+- Someone is searching for a artifact for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

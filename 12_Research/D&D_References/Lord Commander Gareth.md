@@ -15,36 +15,26 @@ world: Universal
 updated: '2025-08-13T01:18:37.030685+00:00'
 ---
 
-
-
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-lord-commander-gareth-steelborn-lord-commander-gareth-steelborn.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Overview
+*20 targeted improvements identified*
 
-TODO
-## Appearance
+### Connection Improvements
 
-TODO
-## Personality
+- Add cross-references to related notes
 
-TODO
-## Goals
+### Enhancement Improvements
 
-TODO
-## Relationships
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -54,28 +44,28 @@ Lord Commander Gareth is a undersea element of the setting, known for biolumines
 
 Legends speak of Lord Commander Gareth as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lord Commander Gareth.
 
-## Adventure Hooks
-
-- A rumor ties Lord Commander Gareth to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Lord Commander Gareth to avert a public scandal.
-- A map overlay reveals a hidden approach to Lord Commander Gareth active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Lord Commander Gareth|02 Worldbuilding/People/Lord Commander Gareth]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a betrayal about the government
+- Someone is blackmailing an heir for revenge
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

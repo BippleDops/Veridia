@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.708188+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-phoenix-mpmm-phoenix-mpmm.svg)
 
@@ -69,7 +66,7 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
 "condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
   \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
-  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#prone|prone]], [[conditions#Restrained|restrained]],\
   \ [[conditions#Stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
@@ -85,7 +82,7 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
       \ The cinder is immune to all damage, and after d6 days, it hatches a new phoenix."
     "name": "Fiery Death and Rebirth"
   - "desc": "The phoenix can move through a space as narrow as 1 inch wide without\
-      \ squeezing.\n\nAny creature that touches the phoenix or hits it with a melee\
+      \ squeezing.\n\y creature that touches the phoenix or hits it with a melee\
       \ attack while within 5 feet of it takes 5 (d10) fire damage. In addition, the\
       \ phoenix can enter a hostile creature's space and stop there. The first time\
       \ it enters a creature's space on a turn, that creature takes 5 (d10) fire damage.\n\
@@ -125,6 +122,24 @@ Releasing a phoenix from the Inner Planes creates an explosion of fire that spre
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 desert, mountain
@@ -137,19 +152,20 @@ Phoenix mpmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of phoenix mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around phoenix mpmm.
 
-## Adventure Hooks
-
-- A rumor ties phoenix mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at phoenix mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to phoenix mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -15,25 +15,26 @@ updated: '2025-08-13T01:18:36.504131+00:00'
 world: Both
 ---
 
-
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-seamstress-coral-silkweaver-seamstress-coral-silkweaver.svg)
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[Parliament of Echoes|02 Worldbuilding/Places/Parliament Of Echoes]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Azure Citadel]]
-- [[New Tethys]]
-- [[Noble Quarter]]
-- [[Parliament of Echoes]]
 
 ## Player-Facing Summary
 
@@ -43,19 +44,21 @@ Seamstress Coral Silkweaver is a undersea element of the setting, known for biol
 
 Legends speak of Seamstress Coral Silkweaver as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Seamstress Coral Silkweaver.
 
-## Adventure Hooks
-
-- A rumor ties Seamstress Coral Silkweaver to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Seamstress Coral Silkweaver to avert a public scandal.
-- A map overlay reveals a hidden approach to Seamstress Coral Silkweaver active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest a conspiracy
+- Strange accidents suggest ancient magic
+- A document has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

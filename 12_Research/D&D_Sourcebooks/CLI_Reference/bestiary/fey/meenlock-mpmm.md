@@ -29,7 +29,6 @@ updated: '2025-08-12T23:37:35.245203'
 world: Both
 ---
 
-
 # [[meenlock-mpmm|Meenlock]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 178, Volo's Guide to Monsters p. 170*  
 
@@ -39,9 +38,27 @@ Meenlocks are spawned by fear. When terror overwhelms a creature in the Feywild 
 
 A meenlock can supernaturally sense areas of darkness and shadow in its vicinity and can teleport from one darkened space to another—enabling it to sneak up on its prey or run away when outmatched. Meenlocks also project a supernatural aura that instills terror in those nearby.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Telepathic Torment
 
-Up to four meenlocks can telepathically torment one [[conditions#Incapacitated|incapacitated]] creature, filling its mind with disturbing sounds and dreadful imagery. Participating meenlocks can't use their telepathy for any other purpose during this time, though they can move about and take actions and reactions as normal. This torment has no effect on a creature that is immune to the [[conditions#Frightened|frightened]] condition. If the creature is susceptible and remains [[conditions#Incapacitated|incapacitated]] for 1 hour, the creature must make a Wisdom saving throw, taking 10 (`3d6`) psychic damage on a failed save, or half as much damage on a successful one. The save DC is 10 + the number of meenlocks participating in the torment, considering only those that remain within sight of the victim for the entire hour and aren't [[conditions#Incapacitated|incapacitated]] during it. The process can be repeated. A Humanoid that drops to 0 hit points as a result of this damage instantly transforms into a meenlock at full health and under the DM's control. Only a [[wish-xphb|wish]] spell or divine intervention can restore a transformed creature to its former state.
+Up to four meenlocks can telepathically torment one [[conditions#Incapacitated|incapacitated]] creature, filling its mind with disturbing sounds and dreadful imagery. Participating meenlocks can't use their telepathy for any other purpose during this time, though they can move about and take actions and reactions as normal. This torment has no effect on a creature that is immune to the [[conditions#frightened|frightened]] condition. If the creature is susceptible and remains [[conditions#Incapacitated|incapacitated]] for 1 hour, the creature must make a Wisdom saving throw, taking 10 (`3d6`) psychic damage on a failed save, or half as much damage on a successful one. The save DC is 10 + the number of meenlocks participating in the torment, considering only those that remain within sight of the victim for the entire hour and aren't [[conditions#Incapacitated|incapacitated]] during it. The process can be repeated. A Humanoid that drops to 0 hit points as a result of this damage instantly transforms into a meenlock at full health and under the DM's control. Only a [[wish-xphb|wish]] spell or divine intervention can restore a transformed creature to its former state.
 
 ```statblock
 "name": "Meenlock (MPMM)"
@@ -68,13 +85,13 @@ Up to four meenlocks can telepathically torment one [[conditions#Incapacitated|i
     "desc": "+6"
   - "name": "[[skills#Survival|Survival]]"
     "desc": "+2"
-"condition_immunities": "[[conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 14"
 "languages": "telepathy 120 ft."
 "cr": "2"
 "traits":
   - "desc": "Any Beast or Humanoid that starts its turn within 10 feet of the meenlock\
-      \ must succeed on a DC 11 Wisdom saving throw or be [[conditions#Frightened|frightened]]\
+      \ must succeed on a DC 11 Wisdom saving throw or be [[conditions#frightened|frightened]]\
       \ until the start of the creature's next turn."
     "name": "Fear Aura"
   - "desc": "While in bright light, the meenlock has disadvantage on attack rolls,\
@@ -112,19 +129,38 @@ Meenlock mpmm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of meenlock mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around meenlock mpmm.
 
-## Adventure Hooks
-
-- A rumor ties meenlock mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at meenlock mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to meenlock mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

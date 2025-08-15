@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:05.703479+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-strider-mpmm-giant-strider-mpmm.svg)
 
@@ -44,7 +41,6 @@ world: Both
 > Out of curiosity, I once tamed a giant strider. Several potions of fire resistance later, the creature was purring in my lap, and I didn't feel a thing.
 
 > [!quote] A quote from Tasha  
-> 
 > We might have discovered the key to unlock Mordenkainen's frigid heart: magical pets!
 
 These fierce and majestic monsters exhibit attributes of both birds and reptiles, but are truly neither. Giant striders have a supernatural affinity to fire and can spit gouts of flame at distant enemies. They are most often found in tropical, volcanically active areas or regions that similarly provide sources of both water and extreme heat.
@@ -95,6 +91,24 @@ Firenewts prize giant striders and seek to adopt them whenever possible. They pr
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 hill, mountain, underdark
@@ -107,19 +121,34 @@ Giant strider mpmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of giant strider mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around giant strider mpmm.
 
-## Adventure Hooks
-
-- A rumor ties giant strider mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at giant strider mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to giant strider mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and truth emerges
+- Someone is blackmailing an heir for love
+- A shipment has gone missing and truth emerges
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

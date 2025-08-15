@@ -8,24 +8,13 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# The Festival Archives
-
 ## Overview
 
 The Festival Archives represents a crucial aspect of the world's history, cosmology, or fundamental nature.
 
-[Lore content continues with similar detail...]
-
 ---
 
 *Last Updated: 2025-08-14 19:03*
-
-## Connections
-
-- See also: [[Master Timeline]]
-- Related: [[Regional Politics]]
-- Connected to: [[Side Adventures]]
-
 
 ## DM Notes
 

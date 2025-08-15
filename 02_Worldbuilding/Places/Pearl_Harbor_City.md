@@ -1,4 +1,5 @@
 ---
+
 title: Pearl Harbor City
 type: Location
 tags:
@@ -15,6 +16,7 @@ tags:
 - status/in-progress
 - shadow-touched
 - crystal-enhanced
+- conspiracy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -23,6 +25,8 @@ population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.640901+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -30,18 +34,75 @@ world: Both
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-pearl-harbor-city-pearl-harbor-city.svg]]
 
-
 # Pearl Harbor City
 
 *Gateway Between Worlds*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+
 ## Overview
 
 Pearl Harbor City stands as Aquathys's primary connection to the surface world, a bustling metropolis built within a massive underwater dome that maintains variable pressure zones. The city exists in a constant state of controlled chaos as traders, smugglers, diplomats, and adventurers from both above and below the waves converge here.
-
-## Geography
-
-### Districts
 
 #### **The Locks District**
 
@@ -71,8 +132,6 @@ Diplomatic quarters for various factions and surface nations. Heavily warded and
 - **Deep Ambassador:** [[Aboleth Adjunct Yzz]]
 - Neutral Ground: [[The Neutral Current Tavern]]
 
-
-
 ## Sensory Details
 
 **Sights**: Colorful banners flutter in the breeze
@@ -80,16 +139,6 @@ Diplomatic quarters for various factions and surface nations. Heavily warded and
 **Sounds**: The constant murmur of conversation fills the air
 
 **Smells**: Incense mingles with the scent of exotic spices
-
-## Demographics
-
-- **Tritons:** 30%
-- **Sea Elves:** 25%
-- **Merfolk:** 20%
-- **Surface Races:** 15% (in suits/bubbles)
-- **Other Aquatic:** 10%
-
-## Current Events
 
 ### The Pressure Pirates
 
@@ -106,24 +155,6 @@ A crucial delivery of [[Pressure Crystals]] from [[12_Research/D&D_Statblocks/Lu
 ### Political Tensions
 
 [[12_Research/D&D_Statblocks/High Tidecaller Nerissa]] is visiting next week for trade negotiations. Security is tight, and assassins are rumored to be in the city.
-
-## Notable NPCs
-
-### Permanent Residents
-
-- [[The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]] - Syndicate leader
-- [[Captain Marlowe Tidecrest]] - Runs portal transits
-- [[Taverner Bubbles McGill]] - Information broker
-- [[Master Smith Coral-Hammer]] - Pressure-forge specialist
-- [[Illyana Glowstream]] - Bioluminescent enchantments
-
-### Frequent Visitors
-
-- [[Gareth_Ironforge|02 Worldbuilding/People/Gareth Ironforge]] - Monthly metal trades
-- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Seeks underwater spell components
-- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]] - Security inspections
-
-## Available Services
 
 ### Transportation
 
@@ -161,31 +192,13 @@ A crucial delivery of [[Pressure Crystals]] from [[12_Research/D&D_Statblocks/Lu
 18-19: [[Black Market Deal]] going wrong
 20: [[The_Crimson_Pearl|02 Worldbuilding/People/The Crimson Pearl]] personally appears
 
-## Secrets
-
-- The Syndicate has a secret tunnel to [[Market_District|02 Worldbuilding/Places/Market District]]
-- [[12_Research/D&D_Statblocks/The Barnacle]] is actually three gnomes in a diving suit
-- The city was built on a sleeping titan
-- Portal Alpha can reach other planes, not just the surface
-- [[Dr. Siphon Gillwater|02 Worldbuilding/Places/Dr. Siphon Gillwater]] experiments on pressure adaptation
-
 ## Historical Significance
 
 Pearl Harbor City was the first successful surface-depth hybrid settlement, established 500 years after the Great Submersion. It proved peaceful coexistence was possible and became the model for cultural exchange.
 
-## GM Notes
-
 ### Power Level
 
 Suitable for levels 1-5. Higher-level threats exist but avoid direct confrontation.
-
-### Themes
-
-- Cultural clash and adaptation
-- Trade and economics
-- Law vs. crime
-- Prejudice and acceptance
-- Pressure (literal and figurative)
 
 ### Connections
 
@@ -207,16 +220,6 @@ Pearl Harbor City is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Pearl Harbor City as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pearl Harbor City.
 
-## Adventure Hooks
-
-- A rumor ties Pearl Harbor City to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Pearl Harbor City to avert a public scandal.
-- A map overlay reveals a hidden approach to Pearl Harbor City active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -224,67 +227,9 @@ Legends speak of Pearl Harbor City as a nexus where past and present converge. L
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Pearl Harbor City]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[12_Research/D&D_Statblocks/The Barnacle]]
-- [[The Depth Wardens]]
-- [[Azure Citadel]]
-- [[Black Market Deal]]
-- [[Captain Marlowe Tidecrest]]
-- [[Chef Gastropod]]
-- [[Coral Throne Syndicate]]
-- [[Current Riders Guild]]
-- [[12_Research/D&D_Statblocks/Depth Warden Patrol]]
-- [[Engineer Prisma Depthwright]]
-- [[Illyana Glowstream]]
-- [[Lord Reginald Seaworthy]]
-- [[12_Research/D&D_Statblocks/Luminous Hollow]]
-- [[Pressure Suit Malfunction]]
-- [[Street Urchin Gang]]
-- [[Surface Tensions]]
-- [[Surface Traders]]
-- [[The Banker Fish]]
-- [[The Deep Fugitive]]
-- [[12_Research/D&D_Statblocks/High Tidecaller Nerissa]]
-- [[12_Research/D&D_Statblocks/The Lock Saboteur]]
-- [[12_Research/D&D_Statblocks/The Maw of Darkness]]
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[Cross-Dimensional Transit Authority]]
-- [[Artist Wave Creator]]
-- [[04_Resources_Assets_Locations_location-city-the-perfect-symbiosis-the-perfect-symbiosis.svg]]
-
 
 ## Description
 
@@ -293,57 +238,54 @@ Pearl_Harbor_City is a notable location characterized by its unique features and
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Pearl_Harbor_City
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
-
-## History
+**Goverce**: Local authority structure
 
 ### Founding
 Pearl_Harbor_City was established in the distant past, growing from humble beginnings to its current state.
 
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
 
-## Secrets & Rumors
+## Trade Importance
 
-### Common Knowledge
-- What everyone knows about Pearl_Harbor_City
+Key stop on magic items trade route
 
-### Whispered Rumors
-- Stories that may or may not be true
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+## Plot Hooks
+
+- A journal reveals a betrayal about the cult
+- Strange disappearances suggest a conspiracy
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

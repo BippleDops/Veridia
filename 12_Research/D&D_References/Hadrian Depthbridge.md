@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:35.968707+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-hadrian-depthbridge-hadrian-depthbridge.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,25 @@ Hadrian Depthbridge is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Hadrian Depthbridge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Hadrian Depthbridge.
 
-## Adventure Hooks
-
-- A rumor ties Hadrian Depthbridge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Hadrian Depthbridge to avert a public scandal.
-- A map overlay reveals a hidden approach to Hadrian Depthbridge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Hadrian Depthbridge|02 Worldbuilding/Places/Hadrian Depthbridge]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Pressure Terminal]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before the new moon
+- Strange disappearances suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

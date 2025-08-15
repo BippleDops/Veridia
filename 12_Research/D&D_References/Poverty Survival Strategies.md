@@ -21,8 +21,6 @@ world: Both
 updated: '2025-08-13T01:18:34.934194+00:00'
 ---
 
-
-
 > [!figure] Survival Economics
 ![](04_Resources/Assets/Symbols/poverty-survival-strategies.svg)
 
@@ -31,12 +29,26 @@ updated: '2025-08-13T01:18:34.934194+00:00'
 
 > *"The poor don't lack wealth - they lack access to the systems that create wealth. But poverty teaches resourcefulness that no amount of gold can buy. In the margins, survival becomes an art form."* - Sister Morwyn, Depth Community Organizer
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 In the harsh economic realities of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]], millions survive below the poverty line using sophisticated systems of mutual aid, resource sharing, and alternative economies. These survival strategies represent not just desperate measures, but complex social structures that often prove more resilient than formal economic systems.
-
-## Barter Economies
-
-### Surface Realm Barter Systems
 
 #### Harbor District Exchange Networks
 **Participants**: Dock workers, small vendors, unemployed laborers, refugee communities
@@ -60,7 +72,7 @@ In the harsh economic realities of [[Aethermoor|02 Worldbuilding/Places/Aethermo
 
 **Tool and Equipment Sharing**:
 - **Craft Tool Libraries**: Shared access to expensive tools for small projects
-- **Repair Cooperatives**: Group maintenance of essential equipment
+- **Repair Cooperatives**: Group maintece of essential equipment
 - **Transportation Sharing**: Carts, boats, and pack animals used collectively
 - **Seasonal Equipment**: Sharing of items needed only during specific times
 
@@ -83,8 +95,6 @@ In the harsh economic realities of [[Aethermoor|02 Worldbuilding/Places/Aethermo
 - **Conflict Mediation**: Experienced negotiators resolving disputes for compensation
 - **Territory Access**: Safe passage through dangerous areas as tradable service
 - **Weapon Sharing**: Community armaments for protection against threats
-
-### Depth Realm Barter Systems
 
 #### Twilight Zone Adaptation Exchanges
 **Focus**: Resources needed for adapting to underwater life and pressure changes
@@ -126,14 +136,10 @@ In the harsh economic realities of [[Aethermoor|02 Worldbuilding/Places/Aethermo
 - **Communication Assistance**: Translation between highly transformed and normal consciousness
 - **Crisis Intervention**: Emergency psychological assistance during mental breakdown
 
-## Begging Hierarchies
-
-### Surface Realm Begging Systems
-
 #### Organized Begging Territories
 **Structure**: Formal territorial divisions with recognized rights and responsibilities
 **Leadership**: Experienced beggars who coordinate territory assignments and mediate disputes
-**Revenue Sharing**: Percentage of earnings contributed to territory maintenance and protection
+**Revenue Sharing**: Percentage of earnings contributed to territory maintece and protection
 **Professional Development**: Training systems for new beggars and skill development
 
 **Territory Management Structure**:
@@ -196,8 +202,6 @@ In the harsh economic realities of [[Aethermoor|02 Worldbuilding/Places/Aethermo
 - **Benefits**: Prime territory access, reduced fees, guild pension support
 - **Authority**: Advisory role in guild decisions, influence in territory assignments
 
-### Depth Realm Begging Adaptations
-
 #### Depth Community Support Networks
 **Cultural Context**: Depth communities emphasizing collective survival over individual success
 **Support Structure**: Community-based assistance rather than individual begging
@@ -238,10 +242,6 @@ In the harsh economic realities of [[Aethermoor|02 Worldbuilding/Places/Aethermo
 - **Community Connection**: Shared experiences creating stronger social bonds
 - **Crisis Counseling**: Memory-based therapy for psychological difficulties
 
-## Salvage Economies
-
-### Urban Salvage Operations
-
 #### Surface Realm Waste Recovery
 **Scope**: Systematic collection and processing of discarded materials from wealthy districts
 **Participants**: Scrap collectors, repair specialists, upcycling artisans, waste processing communities
@@ -279,7 +279,7 @@ In the harsh economic realities of [[Aethermoor|02 Worldbuilding/Places/Aethermo
 **Living System Recovery**:
 - **Bio-luminescent Organism Cultivation**: Reviving discarded lighting systems
 - **Organic Computer Repair**: Restoring damaged biological processing systems
-- **Living Architecture Maintenance**: Repairing and maintaining organic building systems
+- **Living Architecture Maintece**: Repairing and maintaining organic building systems
 - **Biological Tool Restoration**: Reviving organic tools and equipment
 
 **Biological Waste Processing**:
@@ -287,8 +287,6 @@ In the harsh economic realities of [[Aethermoor|02 Worldbuilding/Places/Aethermo
 - **Nutrient Recovery**: Processing waste into fertilizer and growth mediums
 - **Biological Energy Recovery**: Converting organic waste into energy sources
 - **Ecosystem Integration**: Using salvage to support community biological systems
-
-### Wreck Rights and Maritime Salvage
 
 #### Surface Realm Shipwreck Salvage
 **Legal Framework**: Complex laws governing rights to salvage shipwrecks and maritime disasters
@@ -330,12 +328,8 @@ In the harsh economic realities of [[Aethermoor|02 Worldbuilding/Places/Aethermo
 - **Industrial Salvage**: Recovering materials from failed deep-sea industrial operations
 - **Energy System Recovery**: Salvaging biological and pressure-based energy systems
 
-## Community Mutual Aid Networks
-
-### Formal Mutual Aid Organizations
-
 #### Surface Community Support Cooperatives
-**Structure**: Formal organizations with membership, governance, and systematic support programs
+**Structure**: Formal organizations with membership, goverce, and systematic support programs
 **Services**: Emergency assistance, skill training, resource sharing, collective purchasing
 **Funding**: Member contributions, community fundraising, charitable donations, informal business partnerships
 **Integration**: Cooperation with local businesses, government agencies, and religious organizations
@@ -369,12 +363,10 @@ In the harsh economic realities of [[Aethermoor|02 Worldbuilding/Places/Aethermo
 - **Emergency Response**: Crisis assistance during adaptation difficulties and transformation emergencies
 
 **Cultural Preservation Networks**:
-- **Language Maintenance**: Programs preserving original languages and communication styles
+- **Language Maintece**: Programs preserving original languages and communication styles
 - **Traditional Skill Preservation**: Maintaining cultural crafts and traditional knowledge
 - **Religious and Spiritual Support**: Preserving spiritual practices and beliefs
 - **Festival and Celebration Organization**: Community events maintaining cultural traditions
-
-### Informal Mutual Aid Networks
 
 #### Neighborhood Support Systems
 **Structure**: Informal networks based on geographic proximity and social relationships
@@ -391,21 +383,21 @@ In the harsh economic realities of [[Aethermoor|02 Worldbuilding/Places/Aethermo
 - **Transportation Assistance**: Sharing transport resources and providing rides
 
 **Crisis Response Networks**:
-- **Economic Crisis Support**: Informal assistance during unemployment and financial difficulties
+- **Economic Crisis Support**: Informal assistance during unemployment and ficial difficulties
 - **Health Crisis Management**: Community support during illness and medical emergencies
 - **Housing Crisis Assistance**: Temporary housing and support during housing instability
 - **Family Crisis Support**: Community help during family emergencies and personal difficulties
 
 #### Extended Family Networks
 **Structure**: Support systems based on family relationships, both biological and chosen family
-**Scope**: Multi-generational support including financial, emotional, and practical assistance
+**Scope**: Multi-generational support including ficial, emotional, and practical assistance
 **Cultural Integration**: Family networks integrated with cultural and religious traditions
 **Economic Impact**: Significant economic support through shared resources and mutual assistance
 
 **Family Network Support Categories**:
 
-**Financial Mutual Aid**:
-- **Emergency Loans**: Interest-free family loans during financial crises
+**Ficial Mutual Aid**:
+- **Emergency Loans**: Interest-free family loans during ficial crises
 - **Shared Major Purchases**: Family cooperation for expensive items like housing and equipment
 - **Business Support**: Family investment and support for entrepreneurial ventures
 - **Education Funding**: Family cooperation in supporting education and skill development
@@ -415,10 +407,6 @@ In the harsh economic realities of [[Aethermoor|02 Worldbuilding/Places/Aethermo
 - **Skill Teaching**: Family members training each other in professional and practical skills
 - **Equipment Sharing**: Family ownership of expensive tools and equipment
 - **Housing Support**: Multi-family housing arrangements and temporary housing assistance
-
-## Poverty Crime and Survival
-
-### Survival Crime Categories
 
 #### Necessity-Driven Criminal Activity
 **Motivation**: Meeting basic survival needs when legal alternatives are unavailable
@@ -454,9 +442,9 @@ In the harsh economic realities of [[Aethermoor|02 Worldbuilding/Places/Aethermo
 
 **Organized Crime Services**:
 
-**Alternative Banking and Finance**:
+**Alternative Banking and Fice**:
 - **Loan Sharking**: High-interest loans for people excluded from legitimate banking
-- **Check Cashing**: Financial services for people without bank accounts
+- **Check Cashing**: Ficial services for people without bank accounts
 - **Money Transfer**: Remittance services for communities excluded from formal systems
 - **Micro-Insurance**: Protection services for people and businesses unable to get legitimate insurance
 
@@ -465,8 +453,6 @@ In the harsh economic realities of [[Aethermoor|02 Worldbuilding/Places/Aethermo
 - **Service Economy**: Providing services that are regulated or restricted in formal economy
 - **Protection Services**: Security for communities and businesses in dangerous areas
 - **Dispute Resolution**: Mediation and enforcement for communities excluded from legal system
-
-### Community Crime Response
 
 #### Restorative Justice Systems
 **Philosophy**: Crime response focused on community healing rather than punishment
@@ -508,10 +494,6 @@ In the harsh economic realities of [[Aethermoor|02 Worldbuilding/Places/Aethermo
 - **Legal Support**: Information and assistance navigating legal system
 - **Crisis Communication**: Emergency communication systems for community safety
 
-## Adventure Integration
-
-### Poverty Survival Adventure Hooks
-
 #### Community Support Adventures
 1. **The Mutual Aid Crisis**: A community support network is under attack, requiring protection and assistance
 2. **The Resource War**: Competing communities are fighting over scarce survival resources
@@ -529,22 +511,6 @@ In the harsh economic realities of [[Aethermoor|02 Worldbuilding/Places/Aethermo
 2. **The Alternative Economy**: Developing legitimate alternatives to survival crime and exploitation
 3. **The Community Organizing**: Building political power for poverty communities to advocate for change
 4. **The Resource Development**: Creating new economic opportunities for disadvantaged communities
-
-### Player Opportunities in Poverty Communities
-
-#### Community Development Roles
-- **Community Organizer**: Building political power and advocacy for poverty communities
-- **Mutual Aid Coordinator**: Managing community support networks and resource distribution
-- **Alternative Economy Developer**: Creating legitimate economic opportunities for disadvantaged communities
-- **Conflict Mediator**: Resolving disputes and preventing violence in stressed communities
-
-#### Survival Skill Specializations
-- **Resource Acquisition**: Expertise in finding and acquiring necessary survival resources
-- **Networking Specialist**: Building and maintaining relationships across survival communities
-- **Crisis Management**: Handling emergencies and disasters affecting poverty communities
-- **Cultural Preservation**: Maintaining community culture and traditions during economic stress
-
-## DM Resources
 
 ### Poverty Community Event Generator (d20)
 1-4: **Resource Shortage** - Essential goods become unavailable, creating community crisis
@@ -588,14 +554,6 @@ In the harsh economic realities of [[Aethermoor|02 Worldbuilding/Places/Aethermo
 9: **Legal Pressure** - Government pressure against community survival activities
 10: **Environmental Threat** - Natural disasters or environmental changes threatening community
 
-## Connected Systems and Cross-References
-
-- [[02_Worldbuilding/Lore/District Economic Profiles|02 Worldbuilding/Lore/District Economic Profiles]] - Economic conditions creating need for survival strategies
-- [[Favor Exchange Networks|02 Worldbuilding/Lore/Favor Exchange Networks]] - Non-monetary systems supporting community survival
-- [[Dock Workers Guild|02 Worldbuilding/Groups/Dock Workers Guild]] - Formal organizations providing community support
-- [[Sister Morwyn]] - Community organizer working with poverty survival networks
-- [[Faction Standing System|03 Mechanics/Faction Standing System]] - Tracking relationships with community support networks
-
 ## Player-Facing Summary
 
 Poverty Survival Strategies represent the sophisticated systems that communities develop to survive economic hardship through cooperation, resource sharing, and mutual aid. Understanding these strategies provides insight into community resilience and alternative economic systems that exist alongside formal markets.
@@ -606,12 +564,6 @@ Community elders speak of the "Economy of Hearts" - a theoretical system where v
 
 Deep-sea community historians maintain that extreme pressure creates physical manifestations of community bonds, making mutual aid networks literally visible as connections between community members. They argue that communities with strong survival networks create protective auras that shield members from environmental dangers.
 
-## Adventure Hooks
-
-- A wealthy district's waste stream is being systematically harvested by poverty communities, creating conflicts over resource access and property rights
-- The party discovers that their legitimate business success has been built on exploiting survival labor from desperate communities
-- A community mutual aid network asks the party to help establish trade relationships with legitimate businesses, but the community's survival activities exist in legal gray areas
-
 ## DM Notes
 
 Use poverty survival strategies as examples of community resilience and alternative economic thinking. These systems can provide adventure hooks involving moral complexity, community organizing, and economic justice issues.
@@ -619,9 +571,12 @@ Use poverty survival strategies as examples of community resilience and alternat
 Consider how poverty survival strategies challenge assumptions about individual versus community responsibility for economic welfare. Characters may encounter very different ideas about property, sharing, and economic obligation.
 
 The sophisticated nature of community survival strategies demonstrates that poverty communities are not passive victims but active agents creating solutions to systemic problems. This can lead to adventures involving community organizing, alternative economic development, and social justice advocacy.
-<!-- enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.609110+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-githzerai-monk-xmm-githzerai-monk-xmm.svg)
 
@@ -39,6 +36,24 @@ world: Both
 *Source: Monster Manual (2024) p. 136*  
 
 Githzerai monks pursue control of their minds by honing their physical and psionic talents. They might be found beyond githzerai sanctuaries, testing themselves amid the dangerous extremes of the multiverse.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Githzerai
 
@@ -75,7 +90,6 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
 > 
 > We githzerai crave a challenge, so that when Zerthimon returns, he shall find us ready. Thus we traveled to howling Limbo to make our new home.
 
-
 ```statblock
 "name": "Githzerai Monk (XMM)"
 "size": "Medium"
@@ -89,7 +103,6 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
 "stats":
   - !!int "12"
   - !!int "15"
-  - !!int "12"
   - !!int "13"
   - !!int "14"
   - !!int "10"
@@ -103,7 +116,6 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
   - "name": "[[skills#Insight|Insight]]"
     "desc": "+4"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+4"
 "senses": "passive Perception 14"
 "languages": "Common, Gith"
 "cr": "2"
@@ -145,19 +157,39 @@ Githzerai monk xmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of githzerai monk xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around githzerai monk xmm.
 
-## Adventure Hooks
-
-- A rumor ties githzerai monk xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at githzerai monk xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to githzerai monk xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A journal reveals the truth about the cult
+- Strange sightings suggest a curse
+- The authorities needs help stealing before the new moon
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

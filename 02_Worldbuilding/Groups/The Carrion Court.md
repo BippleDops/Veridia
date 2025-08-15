@@ -1,4 +1,5 @@
 ---
+
 title: The Carrion Court
 type: Faction
 tags:
@@ -17,6 +18,8 @@ headquarters: Unknown
 membership: Unknown
 updated: '2025-08-13T12:34:17.311946+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -24,132 +27,82 @@ world: Both
 > [!figure] Heraldry
 ![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-the-carrion-court-the-carrion-court.svg]]
 
-
 # The Carrion Court
 *In Death We Find True Nobility*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+
 ## Overview
 The Carrion Court is an aristocratic hierarchy of undead beings that maintains the twisted traditions of an ancient noble court from beyond the grave. Led by **Lich-Queen Morwyn the Deathless**, this organization of vampires, liches, wraiths, and other powerful undead seeks to establish a kingdom where death is merely a transition to higher nobility rather than an ending. They operate with the pomp, ceremony, and political intrigue of a living court, but with the power and immortal patience of the undead.
-
-## Court Hierarchy
-
-### The Throne of Bones (Royal Family)
-- **[[Lich-Queen Morwyn the Deathless]]** - Supreme ruler and ancient sorceress
-- **Prince Consort Valdric the Pale** - Vampire lord and military commander
-- **Princess Seraphine the Weeping** - Banshee heir with prophetic powers
-- **Duke Malachar Graveheart** - Lich advisor and court necromancer
-
-### The Noble Houses (Great Undead)
-- **House Ravencrest** - Vampire nobles controlling blood trade
-- **House Bonechill** - Lich scholars preserving ancient knowledge
-- **House Shadowmere** - Wraith spies and assassins
-- **House Graveborn** - Death knights and military commanders
-
-### The Lesser Nobility (Undead Servants)
-- **Spectral Courtiers**: Ghosts of ancient nobles maintaining court protocol
-- **Skeletal Guards**: Elite undead warriors in ornate armor
-- **Zombie Servants**: Mindless but well-dressed attendants
-- **Ghoul Messengers**: Swift scouts and message carriers
-
-### The Living Servants (Mortal Allies)
-- **Death Cultists**: Living humans who serve in hopes of eternal unlife
-- **Necromancer Apprentices**: Studying under court's undead masters
-- **Vampire Thralls**: Blood-bound servants with enhanced abilities
-- **The Marked**: Mortals bearing court's protection and future claim
-
-## Court Operations & Influence
-
-### Political Machinations
-- **Succession Planning**: Carefully selecting mortals worthy of undeath
-- **Territorial Expansion**: Claiming new domains through legal and illegal means
-- **Diplomatic Relations**: Negotiating with living kingdoms and monster factions
-- **Intelligence Networks**: Vast spy system utilizing incorporeal undead
-
-### Economic Activities
-- **The Blood Trade**: Controlling supply of fresh blood for vampire nobles
-- **Funeral Industry**: Monopolizing burial practices to control corpse supply
-- **Antiquities Market**: Trading in ancient artifacts and forbidden knowledge
-- **Protection Rackets**: Offering safety from other undead in exchange for tribute
-
-### Military Assets
-- **The Deathguard**: Elite undead knights and warriors
-- **Spectral Cavalry**: Mounted wraiths and death knights
-- **Necromantic Artillery**: Bone siege engines and corpse catapults
-- **The Endless Legion**: Vast hordes of mindless undead soldiers
-
-## Territorial Control
-
-### Primary Domain
-- **[[The Bone Palace of Sorrows]]** - Royal seat and court headquarters
-- **The Graveyard Kingdoms** - Network of necropolis cities
-- **Shadow Marshlands** - Haunted swamps under court control
-- **The Mourning Fields** - Battlegrounds where undead armies train
-
-### Infiltrated Regions
-- Noble families in [[Crystalhaven]] with vampire connections
-- Funeral directors throughout [[Port Meridian]]
-- Corrupted priests in various temples across [[The Azure Coast]]
-- Academic positions in universities studying necromantic arts
-
-### Contested Territories
-- Ongoing conflicts with [[Crystal Wardens]] over burial practices
-- Territorial disputes with [[The Crimson Fleet]] over corpse supplies
-- Competition with [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] for criminal influence
-- Religious wars against [[High Priestess Celeste Dawnbringer]]'s followers
-
-## Court Culture & Traditions
-
-### Social Protocols
-- **The Eternal Waltz**: Nightly ballroom dances lasting until dawn
-- **Blood Ceremonies**: Formal rituals involving sacrifice and transformation
-- **The Speaking of Names**: Honoring recently deceased nobles with undead conversion
-- **Midnight Courts**: Legal proceedings conducted in true darkness
-
-### Seasonal Observances
-- **The Harvest of Souls** (Autumn): Major recruitment and conversion period
-- **Winter's Embrace** (Winter): Planning and strategizing during longest nights
-- **The Awakening** (Spring): Raising new undead from winter's corpses
-- **The Blood Moon Festival** (Summer): Celebration of vampire nobility
-
-### Court Etiquette
-- Living beings must be invited to speak in presence of undead nobility
-- Fresh blood must be offered as tribute when meeting vampire lords
-- All court members maintain their pre-death noble titles and honors
-- Proper funeral rites must be observed for all fallen enemies
-
-## Key Relationships
-
-### Allied Factions
-- **Necromancer Guilds** - Provide magical support and research
-- **Death Cults** - Supply fresh converts and ritual sacrifices
-- **[[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]]** - Occasional cooperation in criminal enterprises
-- **Corrupted Noble Houses** - Living aristocrats with undead sympathies
-
-### Neutral Parties
-- **[[The Crimson Sage]]** - Respected for ancient knowledge
-- **Ancient Vampire Clans** - Independent undead who acknowledge court legitimacy
-- **Demon Contractors** - Business relationships for specific services
-- **[[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]** - Mutual respect for ancient powers
-
-### Active Enemies
-- **[[Crystal Wardens]]** - Religious crusade against all undead
-- **[[High Priestess Celeste Dawnbringer]]** - Leading divine opposition
-- **[[High Inquisitor Maltheos]]** - Coordinating anti-undead military actions
-- **Living noble families** - Threatened by undead claims to their titles
-
-### Complex Relationships
-- **[[Prince Caspian Duskwater]]** - Potential recruitment target
-- **[[Queen Seraphina Lumengarde]]** - Corrupt enough to potentially ally
-- **[[Lord Commander Gareth Steelborn]]** - Honorable enemy worthy of respect
-- **[[Merchant Princes]]** - Economic relationships despite ideological differences
-
-## Recruitment & Conversion
-
-### Selection Criteria
-- **Noble Blood**: Preference for aristocratic lineage
-- **Exceptional Abilities**: Skilled warriors, mages, or leaders
-- **Willing Servants**: Those who actively seek undeath
-- **Strategic Value**: Individuals with useful connections or knowledge
 
 ### Conversion Process
 1. **The Courtship**: Extended period of testing and preparation
@@ -157,27 +110,15 @@ The Carrion Court is an aristocratic hierarchy of undead beings that maintains t
 3. **The Transformation**: Ritual conversion to appropriate undead type
 4. **The Investiture**: Formal ceremony granting court title and position
 
-### Types of Undeath Offered
-- **Vampirism**: For charismatic nobles and leaders
-- **Lichdom**: For powerful spellcasters and scholars
-- **Death Knighthood**: For exceptional warriors and commanders
-- **Wraith Form**: For spies and those seeking ethereal power
-
-## Secret Operations
-
 ### The Great Nobility Project
 > [!warning] DM Only
 > The court is systematically identifying and converting the most influential noble families across multiple kingdoms, planning to replace living aristocracy with undead rulers within 50 years.
 
 ### The Eternal Archive
-> [!warning] DM Only
 > A vast library containing the memories and knowledge of every being the court has converted to undeath, making them one of the most knowledgeable organizations in the world.
 
 ### The Blood Pact Network
-> [!warning] DM Only
 > Secret agreements with living nobles ensuring their conversion to undeath upon natural death, in exchange for current protection and favor.
-
-## Adventure Hooks
 
 ### Social Intrigue
 1. **The Invitation**: Party receives formal invitation to court function
@@ -197,44 +138,6 @@ The Carrion Court is an aristocratic hierarchy of undead beings that maintains t
 11. **Vampire Hunt**: Track and eliminate specific court noble
 12. **Necromantic Duel**: Magical combat with court's lich advisors
 
-## Economic Impact
-
-### Markets & Trade
-- **Funeral Services**: Control of burial and cremation industries
-- **Antiquities**: Monopoly on ancient artifacts and historical items
-- **Medical Supplies**: Black market trade in blood and organs
-- **Security Services**: Protection from other undead threats
-
-### Financial Networks
-- Immortal patience allows for extremely long-term investments
-- Court treasuries span centuries of accumulated wealth
-- Control over inheritance laws through legal and supernatural means
-- Banking relationships maintained across multiple generations
-
-## Connected Locations
-- [[The Bone Palace of Sorrows]] - Primary headquarters and royal seat
-- [[Port Meridian]] - Major infiltration and recruitment target
-- [[Crystalhaven]] - Noble families with vampire connections
-- [[The Azure Coast]] - Network of corrupted temples and burial grounds
-
-## Connected NPCs
-- **[[Lich-Queen Morwyn the Deathless]]** - Supreme ruler and founder
-- **Prince Consort Valdric the Pale** - Military commander and vampire lord
-- **Princess Seraphine the Weeping** - Prophetic banshee heir
-- **[[High Priestess Celeste Dawnbringer]]** - Primary religious opposition
-
-## Connected Factions
-- [[Crystal Wardens]] - Primary ideological and military opposition
-- [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Occasional criminal cooperation
-- [[Merchant Princes]] - Complex economic relationships
-- [[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]] - Mutual respect for ancient power
-
-## Immediate Threats
-- Planning major conversion ceremony during next noble gathering
-- Infiltration of living royal courts approaching critical mass
-- Military buildup suggesting preparation for territorial expansion
-- Negotiations with demon contractors for additional supernatural support
-
 ## Player-Facing Summary
 
 The Carrion Court is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -247,32 +150,6 @@ Legends speak of The Carrion Court as a nexus where past and present converge. L
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Shadow Markets New]]
-
-
-## Connections
-
-- [[Crystal Wardens]]
-
-
-## Known Members
-
-- [[Lord Magistrate Aldrich Thornwick]]
-- [[Captain Cornelius Deepwater]]
-- [[Quest - The Perfect Purifier]]
-
-
-## Structure
-
-### Leadership
-- **Supreme Leader**: Ultimate authority
-- **Council/Board**: Decision makers
-- **Department Heads**: Operational leaders
-
 ### Ranks
 1. Initiate level
 2. Member level
@@ -280,96 +157,30 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 4. Officer level
 5. Leadership level
 
-
-## Members
-
-### Notable Members
-- [[Leader Name]] - Current head
-- [[Key Officer]] - Important figure
-- [[Rising Star]] - Ambitious member
-
-### Membership Requirements
-- Skills or qualities needed
-- Initiation process
-- Ongoing obligations
-
-
-## Goals
-
 ### Public Mission
 What they claim to pursue
-
-### True Objectives
-- Primary goal
-- Secondary objectives
-- Long-term vision
-
-### Current Projects
-- Active operations
-- Research efforts
-- Political maneuvers
-
-
-## Resources
-
-### Financial
-- Funding sources
-- Wealth level
-- Economic influence
-
-### Physical Assets
-- Properties owned
-- Equipment available
-- Special resources
-
-### Human Resources
-- Member skills
-- Allies and contacts
-- Information networks
-
-
-## Operations
-
-### Regular Activities
-- Day-to-day operations
-- Revenue generation
-- Member services
-
-### Special Operations
-- Covert activities
-- Major projects
-- Crisis responses
-
-
-## Relationships
-
-### Allies
-- Aligned organizations
-- Political supporters
-- Business partners
-
-### Enemies
-- Rival organizations
-- Opposed factions
-- Active threats
-
-### Neutral Parties
-- Potential allies or enemies
-- Trade partners
-- Watching parties
-
-
-## Secrets
 
 ### Open Secrets
 Things widely suspected
 
-### Hidden Truths
-- Real leadership
-- True funding sources
-- Secret objectives
 
-### Deep Mysteries
-- Ancient connections
-- Forbidden knowledge
-- Ultimate goals
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

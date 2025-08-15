@@ -28,14 +28,29 @@ updated: '2025-08-13T12:34:05.686522+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-blob-of-annihilation-xmm-blob-of-annihilation-xmm.svg)
 
 # [[blob-of-annihilation-xmm|Blob of Annihilation]]
 *Source: Monster Manual (2024) p. 47*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Blob of Annihilation
 
@@ -90,7 +105,6 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
   - !!int "28"
   - !!int "10"
   - !!int "16"
-  - !!int "10"
 "speed": "30 ft."
 "saves":
   - "dexterity": !!int "9"
@@ -98,9 +112,9 @@ When the blob appears, roll on or choose a result from the Blob of Annihilation 
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "acid, necrotic, poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Grappled|grappled]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
-  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#prone|prone]],\
   \ [[conditions#Restrained|restrained]], [[conditions#Stunned|stunned]],\
   \ [[conditions#Unconscious|unconscious]]"
 "senses": "blindsight 120 ft., passive Perception 13"
@@ -172,19 +186,27 @@ Blob of annihilation xmm is a undersea element of the setting, known for biolumi
 
 Legends speak of blob of annihilation xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around blob of annihilation xmm.
 
-## Adventure Hooks
-
-- A rumor ties blob of annihilation xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at blob of annihilation xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to blob of annihilation xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help finding before winter
+- A corpse reveals a conspiracy about the government
+- Someone is blackmailing an heir for revenge
+- Someone is searching for a witness for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

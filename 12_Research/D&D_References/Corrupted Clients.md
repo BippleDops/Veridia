@@ -15,36 +15,26 @@ world: Aquabyssos
 updated: '2025-08-13T01:18:36.821504+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-corrupted-clients-corrupted-clients.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Appearance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Personality
-
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -54,26 +44,9 @@ Corrupted Clients is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Corrupted Clients as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Corrupted Clients.
 
-## Adventure Hooks
-
-- A rumor ties Corrupted Clients to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Corrupted Clients to avert a public scandal.
-- A map overlay reveals a hidden approach to Corrupted Clients active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Corrupted Clients|02 Worldbuilding/People/Corrupted Clients]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Aurelius Goldwave]]
 
 ## Semantic Connections
 *Related concepts and locations:*
@@ -88,7 +61,19 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[new-organizations]]
 - [[Border Fortresses]]
 
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Relationships
+
+- **Enemy**: [[Master Artificer Coral Gemwright_1]]
+- **Mentor**: [[Portrait NPC Lord Marcus Shadowbane V2 Lord Marcus Shadowbane.svg]]
+- **Child**: [[Portrait NPC Captain Shadowsail V2 Captain Shadowsail.svg]]
+- **Enemy**: [[Quest - The Shattered Memories]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

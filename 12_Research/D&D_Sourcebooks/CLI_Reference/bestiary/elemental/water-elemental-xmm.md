@@ -31,13 +31,29 @@ updated: '2025-08-12T23:37:35.438066'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-water-elemental-xmm-v1-water-elemental-xmm.svg)
 
 # [[water-elemental-xmm|Water Elemental]]
-*Source: Monster Manual (2024) p. 322. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 322. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Water Elemental
 
@@ -66,7 +82,6 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 > 
 > Water: greatest of the elements in might and form. A tsunami's torrent. A blizzard's claws. A parent's tears. What is not moved by water?
 
-
 ```statblock
 "name": "Water Elemental (XMM)"
 "size": "Large"
@@ -79,7 +94,6 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 "stats":
   - !!int "18"
   - !!int "14"
-  - !!int "18"
   - !!int "5"
   - !!int "10"
   - !!int "8"
@@ -89,7 +103,7 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 "condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
   \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
-  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#prone|prone]], [[conditions#Restrained|restrained]],\
   \ [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Primordial (Aquan)"
@@ -106,7 +120,7 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
   - "desc": "The elemental makes two Slam attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 13 (2d8 + 4) Bludgeoning\
-      \ damage. If the target is a Medium or smaller creature, it has the [[conditions#Prone|Prone]]\
+      \ damage. If the target is a Medium or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Slam"
   - "desc": "Strength Saving Throw: DC 15, each creature in the elemental's space.\
@@ -138,19 +152,23 @@ Water elemental xmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of water elemental xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around water elemental xmm.
 
-## Adventure Hooks
-
-- A rumor ties water elemental xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at water elemental xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to water elemental xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

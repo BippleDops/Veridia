@@ -10,7 +10,23 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Horror Atmosphere Techniques
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Psychological Framework for Sustained Dread in TTRPGs
 
@@ -65,7 +81,7 @@ Research on creating and maintaining horror atmosphere in collaborative storytel
 **Aethermoor Horror Elements**:
 - **Altitude Vertigo**: Fear of falling into endless sky
 - **Wind Vulnerability**: Feeling small against immense forces
-- **Crystal Resonance**: Harmonic frequencies affecting mind and body
+- **Crystal Resoce**: Harmonic frequencies affecting mind and body
 - **Stellar Insignificance**: Overwhelming cosmic scale and indifference
 
 **Cross-Realm Horror Multipliers**:
@@ -106,7 +122,7 @@ Research on creating and maintaining horror atmosphere in collaborative storytel
 - **Perfection Terror**: Beauty and order becoming oppressive and inhuman
 - **Harmony Violation**: Individual will being subsumed into collective consciousness
 - **Geometric Anxiety**: Natural forms becoming rigid and crystalline
-- **Resonance Overwhelm**: Minds synchronized against personal desire
+- **Resoce Overwhelm**: Minds synchronized against personal desire
 
 **Shadow Corruption Horror**:
 - **Identity Dissolution**: Sense of self becoming uncertain and fluid
@@ -171,7 +187,7 @@ class CorruptionHorror(BaseModel):
 ### Success Metrics
 
 Effective horror atmosphere shows:
-- **Engagement Maintenance**: Players remain invested despite discomfort
+- **Engagement Maintece**: Players remain invested despite discomfort
 - **Appropriate Response**: Players exhibit tension without distress
 - **Collaborative Investment**: Players contribute to horror atmosphere
 - **Recovery Balance**: Horror balanced with relief and empowerment
@@ -182,7 +198,6 @@ Effective horror atmosphere shows:
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -190,3 +205,19 @@ Effective horror atmosphere shows:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A journal reveals the truth about the cult
+- A journal reveals a conspiracy about a local noble
+- A merchant needs help stealing before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

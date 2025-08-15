@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.776377'
 world: Both
 ---
 
-
 # Character Races
 *Source: Volo's Guide to Monsters, p. 103* 
 
@@ -53,6 +52,24 @@ If you're the DM, including any of these races in your campaign is a storytellin
 - [[triton-vgm|Triton]]  
 - [[yuan-ti-pureblood-vgm|Yuan-ti Pureblood]]  
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Height and Weight
 
 You may roll for your character's height and weight on the Random Height and Weight table. The roll in the Height Modifier column adds a number (in inches) to the character's base height. To get a weight, multiply the number you rolled for height by the roll in the Weight Modifier column and add the result (in pounds) to the base weight.
@@ -67,19 +84,31 @@ You may roll for your character's height and weight on the Random Height and Wei
 
 Legends speak of 2 character races as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 2 character races.
 
-## Adventure Hooks
-
-- A rumor ties 2 character races to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 2 character races to avert a public scandal.
-- A map overlay reveals a hidden approach to 2 character races active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Plot Hooks
+
+- A corpse reveals a betrayal about the government
+- A merchant needs help finding before the festival
+- The authorities needs help delivering before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

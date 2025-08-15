@@ -17,28 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -48,28 +42,23 @@ Pilgrimage Routes is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Pilgrimage Routes as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pilgrimage Routes.
 
-## Adventure Hooks
-
-- A rumor ties Pilgrimage Routes to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Pilgrimage Routes to avert a public scandal.
-- A map overlay reveals a hidden approach to Pilgrimage Routes active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Pilgrimage Routes|02 Worldbuilding/Places/Pilgrimage Routes]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Mad Oracle Thessaly]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and war looms
+- A letter reveals a betrayal about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

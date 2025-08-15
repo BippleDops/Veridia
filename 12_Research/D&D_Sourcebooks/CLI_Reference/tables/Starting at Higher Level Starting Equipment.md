@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.338340+00:00'
 world: Both
 ---
 
-
-
 # Starting at Higher Level; Starting Equipment
 *Source: Dungeon Master's Guide p. 38* 
 
@@ -37,6 +35,24 @@ world: Both
 | 17th-20th | 20,000 gp plus `1d10 × 250` gp, two uncommon magic items, normal starting equipment | 20,000 gp plus `1d10 × 250` gp, two uncommon magic items, one rare item, normal starting equipment | 20,000 gp plus `1d10 × 250` gp, three uncommon magic items, two rare items, one very rare item, normal starting equipment |
 ^starting-equipment
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Starting at higher level starting equipment is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -45,19 +61,32 @@ Starting at higher level starting equipment is a undersea element of the setting
 
 Legends speak of starting at higher level starting equipment as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around starting at higher level starting equipment.
 
-## Adventure Hooks
-
-- A rumor ties starting at higher level starting equipment to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at starting at higher level starting equipment to avert a public scandal.
-- A map overlay reveals a hidden approach to starting at higher level starting equipment active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and war looms
+- A corpse reveals a conspiracy about the government
+- Someone is blackmailing a witness for money
+- Someone is searching for information for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

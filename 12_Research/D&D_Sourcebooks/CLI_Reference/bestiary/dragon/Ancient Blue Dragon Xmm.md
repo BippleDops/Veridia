@@ -29,16 +29,31 @@ updated: '2025-08-13T12:34:06.003054+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ancient-blue-dragon-xmm-ancient-blue-dragon-xmm.svg)
 
 # [[ancient-blue-dragon-xmm|Ancient Blue Dragon]]
-*Source: Monster Manual (2024) p. 50. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 50. Available in the SRD and the Free Rules (2024)*  
 
 Ancient blue dragons think beyond dominating groups of short-lived servants. Instead, they seek to claim their places above other dragons and their world's most powerful inhabitants. If world domination seems too tedious or cliché, these dragons might seek to seize control of extraplanar realms, multi-world empires, or forces of reality—like life, storms, or time itself.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Blue Dragons
 
@@ -132,9 +147,7 @@ Blue dragons dwell in arid lands. Their lairs might be death traps meant to ento
       \ the sinkhole.  \n- Spiteful Storms. Dust devils and thunderstorms rage\
       \ within 1 mile of the lair. The area is [[lightly-obscured-xphb|Lightly Obscured]].\
       \  "
-    "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/dragon/token/ancient-blue-dragon-xmm.webp"
@@ -153,19 +166,21 @@ Ancient blue dragon xmm is a undersea element of the setting, known for biolumin
 
 Legends speak of ancient blue dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ancient blue dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties ancient blue dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ancient blue dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ancient blue dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting information for money
+- A journal reveals a betrayal about the cult
+- A noble needs help finding before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

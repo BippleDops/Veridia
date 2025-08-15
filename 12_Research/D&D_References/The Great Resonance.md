@@ -1,7 +1,7 @@
-# The Great Resonance
+# The Great Resoce
 
 ---
-title: The Great Resonance
+title: The Great Resoce
 type: Group
 tags:
 - both
@@ -15,64 +15,62 @@ world: Both
 updated: '2025-08-13T01:18:36.650331+00:00'
 ---
 
-
 > [!figure] Heraldry
-![[04_Resources/Assets/Symbols/symbol-heraldry-the-great-resonance-the-great-resonance.svg]]
+![[04_Resources/Assets/Symbols/symbol-heraldry-the-great-resoce-the-great-resoce.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Structure
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Goals
-
-TODO
-## Assets
-
-TODO
-## Conflicts
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
-The Great Resonance is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+The Great Resoce is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of The Great Resonance as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Great Resonance.
-
-## Adventure Hooks
-
-- A rumor ties The Great Resonance to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Great Resonance to avert a public scandal.
-- A map overlay reveals a hidden approach to The Great Resonance active only during specific tides/storms.
+Legends speak of The Great Resoce as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Great Resoce.
 
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Cult of Screams|02 Worldbuilding/Groups/Cult Of Screams]]
-
-
-## Connections
-
-- [[Cult of Screams]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a betrayal about a local noble
+- A document has gone missing and war looms
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

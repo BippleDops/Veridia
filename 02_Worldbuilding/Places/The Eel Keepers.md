@@ -1,4 +1,5 @@
 ---
+
 title: The Eel Keepers
 type: Location
 tags:
@@ -22,6 +23,8 @@ created_by: auto-stub
 danger_level: Moderate
 updated: '2025-08-13T12:34:17.166214+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -29,10 +32,77 @@ world: Aquabyssos
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-eel-keepers-the-eel-keepers.svg]]
 
-
 # The Eel Keepers
 
 *"In the dance of current and coil, we find our calling."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
 
 ## Overview
 The Eel Keepers are a specialized guild of animal handlers who manage, train, and breed the various eel species used throughout Aquabyssos for communication, transportation, and defense. Their expertise with these creatures makes them indispensable to the city's infrastructure.
@@ -44,7 +114,7 @@ This ancient guild has served the underwater kingdom for over 300 years, develop
 **Senior Keepers**: 8 specialists with 15+ years experience
 **Journeymen**: 20 mid-level trainers and breeders
 **Apprentices**: 35+ students learning the craft
-**Support Staff**: 15 maintenance and administrative workers
+**Support Staff**: 15 maintece and administrative workers
 
 ## Guild Structure
 **The Spark Circle**: Senior leadership council
@@ -87,13 +157,6 @@ This ancient guild has served the underwater kingdom for over 300 years, develop
 **Master's Challenge**: Advanced skill demonstration for promotion
 **The Deep Watch**: Solemn remembrance of keepers lost in service
 
-## Current Challenges
-- Mysterious illness affecting Lightning Eel population
-- Increasing demand for services straining breeding programs
-- Competition from mechanical communication alternatives
-- Political pressure to weaponize eels for military purposes
-- Environmental changes affecting wild eel behavior
-
 ## Relationships
 **Royal Palace**: Primary client for secure communications
 **City Guard**: Partnership for security eel deployment
@@ -101,27 +164,11 @@ This ancient guild has served the underwater kingdom for over 300 years, develop
 **Research Institute**: Collaboration on eel biology studies
 **Deep Patrol**: Specialized eels for extreme depth missions
 
-## Guild Secrets
-- Ancient technique for bonding with wild Leviathan-class eels
-- Hidden breeding facility developing combat-enhanced varieties
-- Master keeper's ability to communicate telepathically with eels
-- Secret agreement with smugglers for "no questions asked" services
-
 ## Adventure Hooks
 1. Guild requests help investigating the eel illness outbreak
 2. Stolen prize breeding pair needs to be recovered
 3. Political intrigue involving compromised communication eels
 4. Lost ancient training manual hidden in abandoned facility
-
-## Services and Costs
-- **Message Delivery**: 1-5 gp depending on distance and urgency
-- **Eel Transport Rental**: 10-30 gp per day
-- **Custom Training**: 100-500 gp depending on complexity
-- **Breeding Services**: 500-2000 gp for rare varieties
-
-
-
-## Map Notes
 
 ### Key Locations
 1. Main entrance/approach
@@ -130,53 +177,8 @@ This ancient guild has served the underwater kingdom for over 300 years, develop
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 The Eel Keepers provide both mundane city services and adventure opportunities. Their specialized knowledge makes them valuable allies or obstacles depending on party needs and political situations.
-
-
-## Connections
-
-- [[The Inverse Palace]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -186,24 +188,6 @@ The Eel Keepers is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of The Eel Keepers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Eel Keepers.
 
-## Cross-References
-
-- [[The Eel Keepers]]
-
-<!-- enriched: true -->
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-public-libraries-public-libraries.svg]]
-- [[04_Resources_Assets_Locations_location-city-garden-of-shadows-v1-garden-of-shadows.svg]]
-- [[Anti-Religious Philosophical Arguments]]
-
-
 ## Sensory Details
 
 **Sights**: Shadows dance across weathered stone walls
@@ -212,7 +196,6 @@ Legends speak of The Eel Keepers as a nexus where past and present converge. Loc
 
 **Smells**: The aroma of fresh bread wafts from bakeries
 
-
 ## Description
 
 The Eel Keepers is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -220,35 +203,7 @@ The Eel Keepers is a notable location characterized by its unique features and s
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of The Eel Keepers
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -261,15 +216,19 @@ Ongoing situations affecting The Eel Keepers:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about The Eel Keepers
+## A Day in the Life
 
-### Whispered Rumors
-- Stories that may or may not be true
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

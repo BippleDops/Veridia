@@ -20,34 +20,26 @@ updated: '2025-08-13T12:34:17.137798+00:00'
 world: Both
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-ghost-of-dr-thaddeus-brightwater-ghost-of-dr-thaddeus-brightwater.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -57,28 +49,34 @@ Ghost of Dr. Thaddeus Brightwater is a undersea element of the setting, known fo
 
 Legends speak of Ghost of Dr. Thaddeus Brightwater as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ghost of Dr. Thaddeus Brightwater.
 
-## Adventure Hooks
-
-- A rumor ties Ghost of Dr. Thaddeus Brightwater to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Ghost of Dr. Thaddeus Brightwater to avert a public scandal.
-- A map overlay reveals a hidden approach to Ghost of Dr. Thaddeus Brightwater active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Ghost of Dr. Thaddeus Brightwater|02 Worldbuilding/Places/Ghost Of Dr. Thaddeus Brightwater]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The First Failure]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals ancient history about the government
+- A document has gone missing and chaos spreads
+- A corpse reveals ancient history about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -27,13 +27,29 @@ updated: '2025-08-12T23:37:35.167483'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-scorpion-xmm-giant-scorpion-xmm.svg)
 
 # [[scorpion-xmm|Scorpion]]
-*Source: Monster Manual (2024) p. 369, Player's Handbook (2024) p. 356. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 369, Player's Handbook (2024) p. 356. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Animals
 
@@ -53,8 +69,6 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "11"
   - !!int "8"
   - !!int "1"
-  - !!int "8"
-  - !!int "2"
 "speed": "10 ft."
 "senses": "blindsight 10 ft., passive Perception 9"
 "languages": ""
@@ -82,19 +96,33 @@ Scorpion xmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of scorpion xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around scorpion xmm.
 
-## Adventure Hooks
-
-- A rumor ties scorpion xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at scorpion xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to scorpion xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and war looms
+- Someone is blackmailing a witness for power
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

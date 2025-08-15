@@ -34,15 +34,9 @@ chronology: active
 
 These ships demand anchors, charts, and strong minds. Read [[Merger Hybrid Vehicles]] and [[Aquabyssos]].
 
-## Cross-References
-
-- [[Player Portal]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

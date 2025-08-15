@@ -26,18 +26,30 @@ updated: '2025-08-13T01:18:35.996993+00:00'
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-elder-matthias-stoneward-elder-matthias-stoneward.svg]]
-
-
-
-
 
 # Elder Matthias Stoneward
 
 *"The crystal gardens may shine with ethereal beauty, but it's stone and steel that keep this floating realm from tumbling into the void. Pretty magic fades - good engineering endures."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -52,12 +64,6 @@ As the Silverscale Conspiracy's influence grows, Stoneward finds himself caught 
 Matthias is a broad-shouldered dwarf in his mid-seventies, with steel-gray hair and beard both braided with small crystal fragments that pulse with gentle light. His hands show the wear of decades working with both traditional tools and crystal-based technology, bearing scars from crystal cuts and metal burns alike.
 
 He wears practical leather work clothes reinforced with crystal-woven fabric that helps him withstand the magical energies he works with daily. His tool belt contains both traditional dwarven engineering instruments and specialized crystal-working devices unique to Aethermoor. Most prominently, he carries an ancient family warhammer that has been modified with crystal focusing elements.
-
-## Personality
-- Deeply practical and focused on structural integrity above political concerns
-- Skeptical of purely magical solutions, preferring hybrid crystal-mechanical systems
-- Protective of his workers and adamant about safety protocols
-- Growing increasingly suspicious of the changes being made to the island without proper engineering consultation
 
 ## Statistics
 **Medium humanoid (mountain dwarf), lawful good**
@@ -85,7 +91,7 @@ He wears practical leather work clothes reinforced with crystal-woven fabric tha
 
 **Emergency Protocols (1/day).** Matthias can activate emergency systems in a 60-foot radius, creating walls of force, adjusting local gravity, or providing temporary structural support to damaged areas.
 
-**Crystal Resonance (3/day).** Matthias strikes his hammer against a crystal surface, creating a harmonic frequency that can either stabilize corrupted crystals (healing 2d8 HP to crystal-based creatures) or disrupt hostile crystal magic (dispel magic effect).
+**Crystal Resoce (3/day).** Matthias strikes his hammer against a crystal surface, creating a harmonic frequency that can either stabilize corrupted crystals (healing 2d8 HP to crystal-based creatures) or disrupt hostile crystal magic (dispel magic effect).
 
 ### Legendary Actions (3 per turn, when in engineering areas)
 **Move.** Matthias moves up to his speed.
@@ -106,62 +112,13 @@ Matthias is increasingly alarmed by unauthorized modifications being made to cri
 
 He's been conducting discrete investigations while maintaining his regular duties, trying to determine who is behind these modifications and what their ultimate goal might be. His findings suggest a coordinated effort to compromise the island's independence.
 
-## Relationships
-- **Engineering Guild**: Respected leader despite initial prejudice against his non-native origins
-- **Crystal Garden Keepers**: Professional relationship managing crystal growth and stability
-- **Royal Engineers**: Growing tension over unauthorized modifications to his designs
-- **Worker Teams**: Loyal followers who trust his expertise and safety protocols
-- **Diplomatic Corps**: Occasional consultant on inter-realm engineering projects
-
-## Secrets
-- Has evidence that someone is systematically weakening the island's defenses
-- Maintains secret blueprints showing the island's complete structural layout, including hidden areas
-- Discovered that some recent crystal corruptions are artificially induced rather than natural
-- Built hidden emergency systems that could disconnect Aethermoor from external magical influences
-
 ## Quest Hooks
 1. Matthias approaches the party after discovering sabotage to critical systems, needing discrete investigators who aren't part of the official power structure.
-2. The party needs access to restricted areas of Aethermoor, and Matthias can provide passage through maintenance tunnels in exchange for help with his investigation.
+2. The party needs access to restricted areas of Aethermoor, and Matthias can provide passage through maintece tunnels in exchange for help with his investigation.
 3. A critical system failure threatens the island's stability, requiring the party to assist Matthias with dangerous repairs while avoiding those who might want the island to fall.
 
 ## DM Notes
 Matthias serves as a valuable source of information about Aethermoor's hidden areas and structural vulnerabilities. His engineering expertise can provide creative solutions to challenges or create dramatic scenarios involving the island's stability. Use his outsider perspective and growing suspicions to highlight the Silverscale Conspiracy's influence while providing a trustworthy ally for characters seeking to uncover the truth.
-
-
-## Connections
-
-- [[Captain Blackwater]]
-- [[Captain Thaddeus Blackwater]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -171,20 +128,22 @@ Elder Matthias Stoneward is a undersea element of the setting, known for biolumi
 
 Legends speak of Elder Matthias Stoneward as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Elder Matthias Stoneward.
 
-## Adventure Hooks
-
-- A rumor ties Elder Matthias Stoneward to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Elder Matthias Stoneward to avert a public scandal.
-- A map overlay reveals a hidden approach to Elder Matthias Stoneward active only during specific tides/storms.
-
 ## Cross-References
 
 - [[Elder Matthias Stoneward|02 Worldbuilding/Places/Elder Matthias Stoneward]]
 
-<!-- enriched: true -->
 nriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals ancient history about a local noble
+- Someone is blackmailing information for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

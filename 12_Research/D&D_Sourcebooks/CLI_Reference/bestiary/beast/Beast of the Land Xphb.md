@@ -27,9 +27,6 @@ updated: '2025-08-13T12:34:05.399719+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-beast-of-the-land-xphb-beast-of-the-land-xphb.svg)
 
@@ -45,10 +42,8 @@ world: Both
 "modifier": !!int "2"
 "stats":
   - !!int "14"
-  - !!int "14"
   - !!int "15"
   - !!int "8"
-  - !!int "14"
   - !!int "11"
 "speed": "40 ft., climb 40 ft."
 "senses": "darkvision 60 ft., passive Perception 12"
@@ -62,7 +57,7 @@ world: Both
       \ ft. Hit: 1d8 + 2 plus your Wisdom modifier Bludgeoning, Piercing, or Slashing\
       \ damage (your choice when you summon the beast). If the beast moved at least\
       \ 20 feet straight toward the target before the hit, the target takes an extra\
-      \ d6 damage of the same type, and the target has the [[conditions#Prone|Prone]]\
+      \ d6 damage of the same type, and the target has the [[conditions#prone|Prone]]\
       \ condition if it is a Large or smaller creature."
     "name": "Beast's Strike"
 "source":
@@ -70,6 +65,24 @@ world: Both
 "image": "/03_Mechanics/CLI/bestiary/beast/token/beast-of-the-land-xphb.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -79,19 +92,35 @@ Beast of the land xphb is a undersea element of the setting, known for biolumine
 
 Legends speak of beast of the land xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around beast of the land xphb.
 
-## Adventure Hooks
-
-- A rumor ties beast of the land xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at beast of the land xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to beast of the land xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

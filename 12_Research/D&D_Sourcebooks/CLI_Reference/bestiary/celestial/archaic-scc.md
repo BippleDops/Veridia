@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.800898'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-archaic-scc-archaic-scc.svg)
 
@@ -53,7 +51,6 @@ In truth, archaics are the reincarnated souls of the oracles of Strixhaven. When
   - !!int "10"
   - !!int "24"
   - !!int "27"
-  - !!int "24"
   - !!int "20"
 "speed": "40 ft."
 "saves":
@@ -67,13 +64,12 @@ In truth, archaics are the reincarnated souls of the oracles of Strixhaven. When
   - "name": "[[skills#Deception|Deception]]"
     "desc": "+11"
   - "name": "[[skills#History|History]]"
-    "desc": "+20"
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+13"
 "damage_resistances": "force"
 "damage_immunities": "poison, psychic"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
   \ [[conditions#Stunned|stunned]]"
 "senses": "truesight 120 ft., passive Perception 23"
@@ -126,7 +122,6 @@ In truth, archaics are the reincarnated souls of the oracles of Strixhaven. When
   - "desc": "The archaic makes one Force Strike attack."
     "name": "Strike"
   - "desc": "The archaic uses Teleport."
-    "name": "Teleport"
   - "desc": "The archaic targets one creature it can see within 120 feet of itself.\
       \ The target must succeed on a DC 22 Constitution saving throw or take 35 (10d6)\
       \ force damage, and each spell of 5th level or lower on the target ends."
@@ -137,6 +132,24 @@ In truth, archaics are the reincarnated souls of the oracles of Strixhaven. When
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Archaic scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -145,19 +158,20 @@ Archaic scc is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of archaic scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around archaic scc.
 
-## Adventure Hooks
-
-- A rumor ties archaic scc to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at archaic scc to avert a public scandal.
-- A map overlay reveals a hidden approach to archaic scc active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

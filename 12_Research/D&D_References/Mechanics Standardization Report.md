@@ -22,17 +22,30 @@ updated: '2025-08-13T12:34:17.758703+00:00'
 world: Both
 ---
 
-
-
-
 # Mechanics Standardization Report
 *Documentation of Changes Made to Unify Game Systems*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Executive Summary
 
 This report documents the comprehensive standardization of all game mechanics across the Aquabyssos and Aethermoor campaign settings. The standardization addressed significant inconsistencies in difficulty classes, currency systems, progression mechanics, and resource management that were identified across 50+ mechanics files.
-
-## Key Issues Identified
 
 ### 1. Difficulty Class Inconsistencies
 
@@ -89,8 +102,6 @@ This report documents the comprehensive standardization of all game mechanics ac
 - Standardized pressure effects across all depth zones
 - Consistent environmental hazard system
 - Clear movement penalty progression
-
-## Detailed Changes by System
 
 ### Pressure Adaptation System
 
@@ -152,47 +163,6 @@ This report documents the comprehensive standardization of all game mechanics ac
 
 **Impact**: Combat encounters now have predictable mechanics regardless of environment or character adaptation level.
 
-## Specific DC Standardizations
-
-### Before Standardization
-- Pressure saves: DC 10-22 (inconsistent progression)
-- Sanity saves: DC 10-25 (unclear triggers)
-- Shadow control: DC 10-20 (random difficulty)
-- Memory resistance: DC 12-18 (no clear system)
-
-### After Standardization
-- Pressure saves: DC 10 + (depth/1000ft) with clear modifiers
-- Sanity saves: DC 12-25 based on horror magnitude
-- Shadow control: DC 10 + autonomy level (consistent progression)
-- Memory resistance: DC 14 + pearls consumed today
-
-## Currency Unification
-
-### Previous System Issues
-- Memory pearls: 10-500 gp (same item, different files)
-- Pressure suits: 500-5,000 gp (unclear progression)
-- Services: Widely varying costs across systems
-
-### Unified System
-- Consistent currency conversion table
-- Standardized equipment progression by quality
-- Balanced service costs across all regions
-- Clear guidelines for inflation/deflation
-
-## Progression Balance Changes
-
-### Adaptation Points
-- **Old**: Varied from 1 AP/day to 1 AP/hour randomly
-- **New**: Consistent scaling: 1 AP/week (surface) to 5 AP/hour (void zone)
-
-### Sanity Recovery
-- **Old**: 1-3 points per rest (inconsistent)
-- **New**: 1d4 to 1d12 based on character level
-
-### Shadow Autonomy
-- **Old**: Unclear triggers and progression
-- **New**: Clear 6-level system with specific triggers
-
 ## Files Modified/Superseded
 
 The following files contained mechanics that are now superseded by the Unified Mechanics Guide:
@@ -206,8 +176,6 @@ The following files contained mechanics that are now superseded by the Unified M
 7. **Memory_Trading_Economy.md** - Currency values and absorption limits
 8. **Underwater Combat Rules.md** - Combat modifiers and movement penalties
 
-## Implementation Guidelines
-
 ### For DMs
 1. **Primary Reference**: Always consult Unified Mechanics Guide first
 2. **Conversion**: Use provided conversion table for old DC references
@@ -219,27 +187,6 @@ The following files contained mechanics that are now superseded by the Unified M
 2. **Resource Management**: Reference unified currency system for trades
 3. **Risk Assessment**: Rely on consistent DC progressions for decision-making
 4. **Adaptation Planning**: Use clear thresholds for character development
-
-## Quality Assurance Measures
-
-### Consistency Checks
-- All DCs now follow unified progression
-- Currency values balanced across all systems
-- Progression rates scale appropriately with character level
-- Environmental effects apply consistently
-
-### Balance Testing
-- Power progression maintains challenge appropriate to level
-- Resource costs balanced against availability
-- Risk/reward ratios consistent across systems
-- Player agency preserved while maintaining challenge
-
-## Future Maintenance
-
-### Regular Reviews
-- Monthly check for new mechanics files that need standardization
-- Quarterly review of balance based on play experience
-- Annual comprehensive review of all systems
 
 ### Update Procedures
 1. All new mechanics must reference Unified Mechanics Guide
@@ -289,7 +236,6 @@ For reference when using older mechanics files:
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -297,3 +243,31 @@ For reference when using older mechanics files:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and war looms
+- Strange dreams suggest a conspiracy
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

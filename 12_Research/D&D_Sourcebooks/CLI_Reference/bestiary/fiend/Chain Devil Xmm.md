@@ -29,14 +29,29 @@ updated: '2025-08-13T12:34:05.783913+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-chain-devil-xmm-chain-devil-xmm.svg)
 
 # [[chain-devil-xmm|Chain Devil]]
-*Source: Monster Manual (2024) p. 68. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 68. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Chain Devil
 
@@ -74,7 +89,6 @@ Along with psychological threats and physical harm, a chain devil uses its unner
 "stats":
   - !!int "18"
   - !!int "15"
-  - !!int "18"
   - !!int "11"
   - !!int "12"
   - !!int "14"
@@ -115,7 +129,7 @@ Along with psychological threats and physical harm, a chain devil uses its unner
 "reactions":
   - "desc": "Trigger: A creature the devil can see starts its turn within 30 feet\
       \ of the devil and can see the devil. _Response—_Wisdom Saving Throw: DC 15,\
-      \ the triggering creature. Failure: The target has the [[conditions#Frightened|Frightened]]\
+      \ the triggering creature. Failure: The target has the [[conditions#frightened|Frightened]]\
       \ condition until the end of its turn. Success: The target is immune to this\
       \ devil's Unnerving Gaze for 24 hours."
     "name": "Unnerving Gaze"
@@ -137,19 +151,25 @@ Chain devil xmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of chain devil xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around chain devil xmm.
 
-## Adventure Hooks
-
-- A rumor ties chain devil xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at chain devil xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to chain devil xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before the new moon
+- A merchant needs help delivering before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

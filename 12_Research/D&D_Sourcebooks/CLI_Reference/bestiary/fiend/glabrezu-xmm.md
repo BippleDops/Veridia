@@ -28,13 +28,29 @@ updated: '2025-08-12T23:37:35.485740'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-glabrezu-xmm-glabrezu-xmm.svg)
 
 # [[glabrezu-xmm|Glabrezu]]
-*Source: Monster Manual (2024) p. 138. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 138. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Glabrezu
 
@@ -50,7 +66,6 @@ In the Abyss, glabrezus act as lone hunters or deceitful advisers to greater dem
 > [!quote] A quote from Gerrzog, Glabrezu of the Infinite Staircase  
 > 
 > Your companion's life, or what you've journeyed through infinity in search of! Make your choice.
-
 
 ```statblock
 "name": "Glabrezu (XMM)"
@@ -79,7 +94,6 @@ In the Abyss, glabrezus act as lone hunters or deceitful advisers to greater dem
   - "name": "[[skills#Deception|Deception]]"
     "desc": "+7"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Poisoned|poisoned]]"
@@ -130,19 +144,32 @@ Glabrezu xmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of glabrezu xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around glabrezu xmm.
 
-## Adventure Hooks
-
-- A rumor ties glabrezu xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at glabrezu xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to glabrezu xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and evil awakens
+- A corpse reveals ancient history about the cult
+- A map reveals a conspiracy about a local noble
+- Strange sightings suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

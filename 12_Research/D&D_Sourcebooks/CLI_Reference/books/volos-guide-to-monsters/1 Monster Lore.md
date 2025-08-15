@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:05.164966+00:00'
 world: Both
 ---
 
-
-
 # Monster Lore
 *Source: Volo's Guide to Monsters, p. 5* 
 
@@ -34,6 +32,24 @@ Volo has encountered many monsters in his day, few as odious or as ornery as the
 If you plunder this chapter for ideas and maps the next time you create an adventure or a villain, then this material has served its purpose. We hope that, as you explore each monster section, you'll come up with new ways to challenge and entertain your players, as well as find new things that you can borrow for your own D&D campaign. Let each entry spark your imagination!
 
 The lore in this chapter represents the perspective of Volo and is mostly limited to the Forgotten Realms. In the Realms and elsewhere in the D&D multiverse, reality is more varied than the idiosyncratic views presented here. DM, use the material that inspires you and leave the rest.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Beholders: Bad Dreams Come True
 
@@ -87,7 +103,7 @@ An eye tyrant is a solitary beholder that has suppressed its xenophobia and para
 
 In exceedingly rare cases, a beholder might experience a dream in which it sees itself in a mirror, or encounters several copies of itself, or imagines a sensation akin to what humanoids call multiple personalities. At such a time, the beholder's dream-birthing creates a beholder hive-a group of "newborns" that are identical to its own shape but smaller.
 
-When the dreamer awakens, it treats the newborns as extensions of its own self in other bodies, and therefore isn't consumed with an urge to kill them. This united group of identical beholders doesn't truly have a hive intelligence, but their personalities and goals are so similar that they can predict and assume each others' behavior, much as especially close human siblings can. The original beholder is usually the dominant one and takes a leadership role. A hive consists of three to ten beholders, plus whatever minions they control.
+When the dreamer awakens, it treats the newborns as extensions of its own self in other bodies, and therefore isn't consumed with an urge to kill them. This united group of identical beholders doesn't truly have a hive intelligence, but their personalities and goals are so similar that they can predict and assume each others' behavior, much as especially close human siblings can. The original beholder is usually the domit one and takes a leadership role. A hive consists of three to ten beholders, plus whatever minions they control.
 
 #### Death Tyrants
 
@@ -193,7 +209,7 @@ In the safety of its lair, outside the view of any would-be enemies, a beholder 
 
 #### Antimagic Cone
 
-The magic-nullifying effect of a beholder's central eye has a number of possible uses outside combat, but if it's not needed, the beholder can turn it off by simply closing the eye.
+The magic-ifying effect of a beholder's central eye has a number of possible uses outside combat, but if it's not needed, the beholder can turn it off by simply closing the eye.
 
 #### Negative Energy Cone
 
@@ -359,7 +375,7 @@ A **hazard** can be put to use in an offensive, defensive, or utilitarian capaci
 
 A **trophy** is a treasure that a beholder cherishes as evidence of its power, or serves as a remembrance of victory over its enemies, or evokes another sort of positive reaction from it. The preserved corpse of a rival beholder (or any parts it can recover from a battle) would certainly be a prized trophy, as would be the skull of a defeated dragon, the clothing of a famous adventurer the beholder killed, or art objects that are pleasing to its alien senses. A beholder usually has the location of all its trophies memorized and immediately senses if something is missing or out of place. **Clutter** is treasure that has intrinsic value, but isn't immediately useful to the beholder or its minions. This category includes currency, gems, jewelry, and magic items that nobody in the lair can use or use well. These items are stored somewhere in the lair until they're disposed of-sometimes by distributing them among the minions as gifts, other times by disintegration.
 
-A beholder's personality greatly influences how it categorizes its treasures. A braggart beholder might use a slain enemy's magic battleaxe as a trophy, but a manipulative beholder might give that axe as a gift to a lieutenant in order to encourage competition between its upper ranks. An inventive beholder might use an *eversmoking bottle* to obscure dozens of pit traps in a room, but a more militaristic one might not have a use for it and treat it as clutter. Circumstances might change the role of a piece of treasure-a *staff of the python* used to prop up a stone block trap might be given as a gift if the beholder acquires a minion who can attune the item.
+A beholder's personality greatly influences how it categorizes its treasures. A braggart beholder might use a slain enemy's magic battleaxe as a trophy, but a manipulative beholder might give that axe as a gift to a lieutet in order to encourage competition between its upper ranks. An inventive beholder might use an *eversmoking bottle* to obscure dozens of pit traps in a room, but a more militaristic one might not have a use for it and treat it as clutter. Circumstances might change the role of a piece of treasure-a *staff of the python* used to prop up a stone block trap might be given as a gift if the beholder acquires a minion who can attune the item.
 
 ### Minions and Pets
 
@@ -397,7 +413,7 @@ The Xanathar, like its forerunners, is an eye tyrant-a type of beholder that cho
 
 The Xanathar's bond is its lair, an elaborate cavern complex created by its predecessors, carved out between the twisting sewers of Waterdeep. It almost never leaves its home, for at the center of this world it is the master of all it sees and safe from outside threats. The expansive lair is well stocked with the exotic pleasures it craves, such as scented oils for bathing, fragrant incense, and fine foods prepared by skilled chefs. It surrounds itself with evidence of its wealth and success, eating off gold plates, drinking from diamond-encrusted chalices, decorating its sleeping area with marvelous tapestries, and adorning itself and its sanctum with powerful magic items.
 
-Its fear of conspiracies is merely dormant, though, not absent. From time to time it is gripped by overwhelming concerns about assassination plots, revenge-seekers, and other schemes against it. When these thoughts bubble to the surface, the Xanathar might crack down on its lieutenants, interpreting their mistakes as disobedience, their failures as deliberate attempts to undermine its power, and their successes as challenges to its superiority. The beholder's ire might manifest as abruptly as a disintegration ray or as slowly as an angry glare and increasing scrutiny over the next few weeks.
+Its fear of conspiracies is merely dormant, though, not absent. From time to time it is gripped by overwhelming concerns about assassination plots, revenge-seekers, and other schemes against it. When these thoughts bubble to the surface, the Xanathar might crack down on its lieutets, interpreting their mistakes as disobedience, their failures as deliberate attempts to undermine its power, and their successes as challenges to its superiority. The beholder's ire might manifest as abruptly as a disintegration ray or as slowly as an angry glare and increasing scrutiny over the next few weeks.
 
 The Xanathar is ambitious and wants to expand its power by making alliances, but it is constantly wary of betrayal. The only allies it considers relatively safe are individuals that it (or its predecessor) has worked with for years, and most of these are creatures it has no reason to fear because they aren't a physical threat to it or the guild. It is hesitant to form alliances with other powerful groups, and is likely to break off ties with a new ally if it senses even a hint of betrayal or difficulty. If an organization is useful but significantly weaker than the guild, the Xanathar is likely to absorb its members and resources into its guild (either immediately or gradually) so it can keep an eye on threats from within that group.
 
@@ -405,23 +421,23 @@ Like all beholders, the Xanathar craves information. It is aware of the great li
 
 #### Division of Labor
 
-Thanks to its superior intelligence and its unique way of thinking, the Xanathar is able to efficiently supervise and direct the efforts of many creatures at the same time. It holds sway over a dozen specialized lieutenants. Each lieutenant is responsible for operating one of the aspects of guild business, including assassination, blackmail, extortion, mercenaries, slavery, smuggling, spying, and thievery (of these operations, slavery and thievery are the largest). When one needs to be replaced, the best candidates are those who appreciate the benefits of strict organization (and thus are lawful evil or at worst neutral evil) and who have a high tolerance for their boss's sometimes erratic behavior.
+Thanks to its superior intelligence and its unique way of thinking, the Xanathar is able to efficiently supervise and direct the efforts of many creatures at the same time. It holds sway over a dozen specialized lieutets. Each lieutet is responsible for operating one of the aspects of guild business, including assassination, blackmail, extortion, mercenaries, slavery, smuggling, spying, and thievery (of these operations, slavery and thievery are the largest). When one needs to be replaced, the best candidates are those who appreciate the benefits of strict organization (and thus are lawful evil or at worst neutral evil) and who have a high tolerance for their boss's sometimes erratic behavior.
 
-Each lieutenant is allowed to manage its part of the guild operation as desired. Some use a direct, hands-on approach, and some establish a chain of command that establishes a clear hierarchy from the top to the lowest underling. As long as a lieutenant's operation runs smoothly, the Xanathar doesn't object to methods or micromanage day-to-day activity.
+Each lieutet is allowed to manage its part of the guild operation as desired. Some use a direct, hands-on approach, and some establish a chain of command that establishes a clear hierarchy from the top to the lowest underling. As long as a lieutet's operation runs smoothly, the Xanathar doesn't object to methods or micromanage day-to-day activity.
 
 When a human megalomaniac rises to power in an evil organization, that individual is always at risk of being killed or replaced by a power-hungry rival.
 
-When such a group is led by a beholder rather than a human, the tyrant has incredible staying power against challengers. Not only are its opponents unsure of the best way to kill it, but it can quickly retaliate with lethal force against multiple enemies at the same time, and it literally sleeps with its eyes open. The only real threat to the Xanathar's rule is another beholder, which speaks to the reason why the Xanathar Guild has been led by a succession of beholders instead of by various humanoid or inhuman creatures. Lieutenants who have their own ambitions, who might come to oppose the tyrant or fear for their safety, are much more likely to flee (or "retire") than to confront the beholder. The petrified heads of several  traitorous lieutenants decorate the Xanathar's lair as testimony to how it deals with challengers.
+When such a group is led by a beholder rather than a human, the tyrant has incredible staying power against challengers. Not only are its opponents unsure of the best way to kill it, but it can quickly retaliate with lethal force against multiple enemies at the same time, and it literally sleeps with its eyes open. The only real threat to the Xanathar's rule is another beholder, which speaks to the reason why the Xanathar Guild has been led by a succession of beholders instead of by various humanoid or inhuman creatures. Lieutets who have their own ambitions, who might come to oppose the tyrant or fear for their safety, are much more likely to flee (or "retire") than to confront the beholder. The petrified heads of several  traitorous lieutets decorate the Xanathar's lair as testimony to how it deals with challengers.
 
-In addition to its lieutenants, the Xanathar has many minions with specific jobs. These underlings don't have as much clout as the lieutenants do, but they do hold key roles in its guild and have some degree of influence in the organization. Among these are the beholder's accountant, chamberlain, chief messenger, doctor, fish-keeper, fortune-teller, lawyer, master entertainer, monster trainer, trap-setter, and warden for its private prison. The individuals in these roles generally serve the Xanathar for months or years, because replacements that have the same specialized skills can be hard to come by.
+In addition to its lieutets, the Xanathar has many minions with specific jobs. These underlings don't have as much clout as the lieutets do, but they do hold key roles in its guild and have some degree of influence in the organization. Among these are the beholder's accountant, chamberlain, chief messenger, doctor, fish-keeper, fortune-teller, lawyer, master entertainer, monster trainer, trap-setter, and warden for its private prison. The individuals in these roles generally serve the Xanathar for months or years, because replacements that have the same specialized skills can be hard to come by.
 
 #### What Others Know
 
 The organization's grunt-level employees-thieves, slavers, and ordinary thugs-work for the Xanathar Guild because it pays well. They don't necessarily know their leader is a beholder; they just know the boss is powerful, dangerous, and doesn't tolerate mistakes.
 
-Although previous Xanathars carefully guarded the facts of their true nature and allowed only a handful of their lieutenants to know the truth, the current Xanathar treats the matter more like an open secret.
+Although previous Xanathars carefully guarded the facts of their true nature and allowed only a handful of their lieutets to know the truth, the current Xanathar treats the matter more like an open secret.
 
-All of its lieutenants, as well as many mid-level members of the guild that the Xanathar trusts, know that the guild is run by a beholder.
+All of its lieutets, as well as many mid-level members of the guild that the Xanathar trusts, know that the guild is run by a beholder.
 
 Most of the guild's low-ranking members have an idea that the boss isn't human, especially given how long the Xanathar has been in power (they aren't aware that several beholders have held the job). Most believe their leader is a member of a long-lived race, perhaps a dwarf or an elf. Some think the truth is more monstrous, and that the Xanathar is a drow or perhaps a dragon in humanoid form.
 
@@ -470,9 +486,7 @@ At least, that's what most giants believed to have happened. No one really knows
 The realm that could still be called Ostoria survived only far in the north. A few outposts and fragment kingdoms, such as the fire giants' Helligheim and the stone giants' Nedeheim, clung to life in deep caverns and hidden valleys. In the millennia that followed, even these places fell, and what remained of Ostorian territory became barren, shrouded in ice as thick as mountains. Since that time, many lesser races have attained greatness and themselves fallen into obscurity. Few hints of the giants' once-great empire have survived the relentless accumulation of years.
 
 > [!note] Voninheim, the Lost Capital
-> 
 > Voninheim ("Titan Home" in the Giant language) stood as the capital of Ostoria for millennia. It was an awe-inspiring structure of iron and stone, raised by magic as much as by mortal hands. Some attributed its construction directly to one or more of Annam's sons, arguing that even giants couldn't have erected such a monumental edifice. The palace stood firm and unshaken as glaciers that could flatten mountains assailed it and flowed around it, until only its iron spires jutted above the ice like great, gray fangs. Eventually the relentless ice buried it utterly, and Voninheim was abandoned. Many giants seek to rediscover its location: some hope to recapture the lost glory of Ostoria, but others want only to claim the mighty weapons of legend said to be entombed in its frozen halls.
-> 
 > But the giants remember. Their empire and their unified purpose are long gone, but a yearning for a return to the greatness that was once theirs burns in all their memories.
 ^voninheim-the-lost-capital
 
@@ -488,7 +502,7 @@ Similar statements can be made about the other five brothers. Most cloud giants 
 
 ### The Giant Tongue
 
-The language that giants share is one of the few remnants from their once-grand empire. Over time it has fragmented into many dialects, and each type has its own distinctive accent, but giants of different types can generally understand one another.
+The language that giants share is one of the few remts from their once-grand empire. Over time it has fragmented into many dialects, and each type has its own distinctive accent, but giants of different types can generally understand one another.
 
 Any non-giant who learns the Giant language can converse with all types of giants, but giants sometimes have a hard time hearing the tiny voices of human-sized creatures, and some vowel sounds emitted by giants are nearly impossible to reproduce for any creature that doesn't have lungs as large as beer barrels.
 
@@ -501,23 +515,14 @@ Individual giants aren't necessarily thought of as maat or maug by their kin. Wh
 A storm giant, for example, might see the raiding practices of hill giants as distasteful but not maug, because brutal raiding is an inborn trait of the hill giants. If those same hill giants worshiped Yeenoghu, however, that act would represent a flagrant turning away from the traditions  of the ordning. Hill giants who choose that path make themselves maug.
 
 > [!note] Representative Giant Phrases
-> 
 > What is your tribe and rank? *Wo dun stomm rad?*
-> 
 > Who is your leader? *Wer dun forer?*
-> 
 > I give you respect. *Am du paart.*
-> 
 > Who goes there? *Wer fers dir?*
-> 
 > Where are you going? *Wie ferst du?*
-> 
 > My name is Red Wind of a Thousand Evils. *Rodvind Tusenmaug er meg nom.*
-> 
 > Attack our enemies! *Anfel su uvenir!*
-> 
 > Lead me to your king. *Fang meg zo dun kong.*
-> 
 > Non-giants are considered maug out of hand and must usually prove themselves maat to gain a giant's respect.
 ^representative-giant-phrases
 
@@ -713,11 +718,8 @@ Much of the tribute that cloud giants accept is in the form of livestock and cro
 The garden of a cloud giant family is seldom affected by drought, frost, or locusts. When such a calamity strikes nearby farms, families have been known to share their bounty to ease the humanoids' food shortage.
 
 > [!note] Two Faces of Memnor
-> 
 > The chief deity of cloud giants is Memnor, the cleverest of Annam's offspring. But Memnor isn't only clever, he's sly and deceitful. Tales of his exploits emphasize his charisma, his smooth manner, and his ability to manipulate and mislead his siblings and other legendary figures into doing exactly what he wants, usually to their great detriment.
-> 
 > Thus, cloud giants have two distinct aspects of Memnor to admire and emulate. Those of a benign disposition revere him for his charm, intelligence, and persuasiveness, while those of a more malign bent take Memnor's self-interest to heart and imitate his trickery. Cloud giants that take a particular interest in trickery, known as "smiling ones," wear two-faced masks as they practice their deceptions and prey on those who are susceptible to their charms. Statistics for cloud giant smiling ones appear in chapter 3 of this book.
-> 
 > Such events are at the root of tales about magic beans and others about a human family living in a cottage carved from a single, enormous gourd. Beyond that, the cloud giants' generosity in times of want helps to cement their reputation as friends of humankind-a reputation that serves them well, even though it's not entirely deserved.
 ^two-faces-of-memnor
 
@@ -759,14 +761,11 @@ When fire giants aren't honing their crafting skills, they're drilling with weap
 
 This deficiency isn't born from a lack of ability, but has its roots in tradition. In ages past, when the giants worked together to dominate the world, strategy was determined by the cloud giants and the storm giants. Ever since the clans went their separate ways after Ostoria's wars against the dragons, the fire giants have not mounted a grand, strategic effort to extend their sway, but they have fought countless skirmishes and other tactical engagements, mainly to solidify their hold on territory they have already claimed. If an ambitious fire giant ever became a master of strategic planning (or captured and enslaved a cooperative general), little could stop a tribe of fire giants that enjoyed this additional advantage over their neighbors.
 
-Fire giants raise and train hell hounds as war dogs, and they sometimes persuade human wizards (free or enslaved) to harness fire elementals as guardians for their strongholds. Some allow trolls to roam free in rarely used parts of their fortresses, serving as perimeter guards of a sort. Trolls require little maintenance, able to survive on the fire giants' scraps and on dead or diseased slaves; they're tough enough to deter most intruders; and their susceptibility to fire makes them little threat to a fire giant.
+Fire giants raise and train hell hounds as war dogs, and they sometimes persuade human wizards (free or enslaved) to harness fire elementals as guardians for their strongholds. Some allow trolls to roam free in rarely used parts of their fortresses, serving as perimeter guards of a sort. Trolls require little maintece, able to survive on the fire giants' scraps and on dead or diseased slaves; they're tough enough to deter most intruders; and their susceptibility to fire makes them little threat to a fire giant.
 
 > [!note] Surtur's Cleansing Fire
-> 
 > Surtur, the chief deity of fire giants, is believed to have been born alongside Thrym. Each twin then tried to be the first to cry out, the first to walk, and the first to talk, and they have competed with one another ever since. Often in legends these contests are bloody battles, but some tales have the brothers acting side by side on grand adventures. Surtur is seen as the more clever of the two, and fire giants emulate his unsurpassed skill at creating and building things.
-> 
 > In the fire giants' world, fire is strength. It burns away impurities and leaves behind only what is strong enough to withstand the heat, such as the best steel from the forge. When fire is controlled, it is the giants' most powerful tool; when it rages unchecked, it can bring down forests and lay waste to cities.
-> 
 > Because of the destructive power of fire, the worship of Surtur is tinged with an apocalyptic air. Some observers suspect that priests of Surtur maintain clandestine workshops and armories where they manufacture and stockpile battle gear in preparation for a final, all-encompassing battle that will decide the fate of the world. If the suspicions are true, these sites are expertly hidden and kept secret even from most fire giants.
 ^surturs-cleansing-fire
 
@@ -796,7 +795,7 @@ To show proof of their superiority, frost giants keep and display trophies of th
 
 A frost giant's armor and weapons are as much a record of its battle honors as its trophy collection is, for those who know how to read the signs. Notches carved into the haft of a weapon show the number and type of foes it has brought down. Horns, feathers, claws, and tusks affixed to helmets and armor serve as decorations commemorating the giant's greatest feats of strength.
 
-The ordning is determined by strength and strength alone, and there is no difference in physical prowess between the genders of frost giants. (Most child-rearing duties are handled by the elderly of both sexes, not solely by females.) It is considered highly maug to attack or challenge a pregnant female, even to improve one's standing, just as it would be to attack a frost giant as it slept.
+The ordning is determined by strength and strength alone, and there is no difference in physical prowess between the genders of frost giants. (Most child-rearing duties are handled by the elderly of both sexes, not solely by females.) It is considered highly maug to attack or challenge a pregt female, even to improve one's standing, just as it would be to attack a frost giant as it slept.
 
 A frost giant that is innately weaker than its kin has a low rank in the ordning and practically no chance of rising any higher. At times, when a giant becomes intensely frustrated with that situation, it turns to clandestine worship of Vaprak, the deity of trolls and ogres. An individual touched by Vaprak's favor is transformed into an everlasting one-a giant with enough strength to rival the leaders of the clan, but destined to be cast out or destroyed if its secret allegiance becomes known.
 
@@ -811,11 +810,8 @@ When frost giants plan a raid on a nearby settlement or outpost, they time it to
 Frost giants recognize two kinds of loot: rod and kvit. Rod ("red") plunder consists of living creatures, either livestock or slaves. Kvit refers to material goods, the most prized being objects of steel, alcohol, and large gems. Frost giants like to grab gems for adorning their clothing, but ordinary currency is usually left behind after a raid. Tiny, round coins simply have no worth to a frost giant.
 
 > [!note] Thrym's Frigid Might
-> 
 > Thrym has long rivaled his twin brother Surtur for Annam's affection and pride. Frost giants pride themselves on Thrym's victories over Surtur and other legendary threats when he proved to have more strength or a steadier heart. Yet, Annam was swayed more by Surtur's well-crafted gifts than by the trophy heads Thrym laid at his feet. For this reason, frost giants bear more ill will toward Annam than most other giants do.
-> 
 > Unlike his brothers, Thrym is seldom depicted alone. He is usually accompanied by up to ten shield-brothers and shield-sisters, heroic frost giants that won such great glory during the war between giants and dragons that Thrym granted them the honor of fighting forever at his side.
-> 
 > Because frost giants can't stand the heat of a forge, they don't mine their own metal or craft their own weapons and armor. The fire-forged items of steel and iron that they wield and wear are prized as though they were made of gold. The giants are always on the lookout for such booty on their raids, but they don't often come across gear that is large enough for them to wear. Many of the giants in a tribe boast arms and armor handed down from their ancestors; others make do with items cobbled together from smaller parts. Shields sized for a human, for example, can be lashed together into a crude suit of scale armor; an anvil riveted onto a log serves as a warhammer.
 ^thryms-frigid-might
 
@@ -848,19 +844,15 @@ The stench that exudes from a hill giant den might attract monstrous scavengers 
 Ghouls are known to lurk around the edges of hill giant encampments, but they're less welcome than other kinds of scavengers.
 
 > [!note] Grolantor: Always Hungry, Never Full
-> 
 > The deity most revered by hill giants is Grolantor, the least of Annam's six sons, the black sheep of the family who was scorned by his siblings and his parents. Most of Grolantor's problems, however, were of his own doing.
-> 
 > Proud of his great strength (his only redeeming quality), Grolantor refused to recognize the superiority of his older, smarter, stronger siblings, and insisted on being treated as their equal. He complained constantly of his endless hunger, but rather than hunt for himself, he snatched food from the plates of his siblings and his parents.
-> 
 > This behavior caused many fights between Grolantor and his siblings, most of which Grolantor lost. Tales about Grolantor invariably end with his gaining yet another scar on his back, received as he escaped the wrath of a family member who had been pushed too far by Grolantor's insulting boasts and selfishness.
-> 
 > With their greater craftiness-especially if they're led by a ghast-ghouls can use simple trickery to steal the giants' meals. A hill giant wouldn't mind if a roper dragged away a few scraps, but it would be angry if a trio of ghouls stole an entire carcass.
 ^grolantor-always-hungry-never-full
 
 #### Stuff-Stuff
 
-Hill giants sometimes amuse themselves with inane games that typically involve food or eating. One such game is called stuff-stuff, in which hill giants see how many halflings, gnomes, or goblins they can fit into their mouths at once without swallowing.
+Hill giants sometimes amuse themselves with ie games that typically involve food or eating. One such game is called stuff-stuff, in which hill giants see how many halflings, gnomes, or goblins they can fit into their mouths at once without swallowing.
 
 ### Stone Giants
 
@@ -877,13 +869,9 @@ Those who can't infuse artistry into every aspect of their lives fall to the low
 For a people that spend their lives mostly in darkness, stone giants have a nuanced appreciation of the effects of shadow and light. They design carvings to produce shadows in specific ways when a light source is placed in the proper location. Without both the light and the shadow, the carving is incomplete and can't be viewed in its true form. For example, a tale carving made with these special techniques tells one story when it's viewed in flat, dim light, but it reveals a second, much deeper tale with the addition of proper illumination.
 
 > [!note] Skoraeus Stonebones, the Great Creator
-> 
 > Stone giants worship Skoraeus Stonebones as the Great Creator, second in skill to Annam, but master of the other deities in his father's absence. He appears in stone giant art in two ways: as a pair of hands, one holding a chisel and the other a hammer, and as the largest statue or relief carving of a stone giant in a tribe's caves. Typically, Skoraeus is depicted twice as tall as any other stone giant.
-> 
 > In the legends of the giants, Skoraeus often sits on the sidelines during the schemes and battles of his siblings. He acts as an observer, a confidant to the other gods, and a keeper of secrets that he must be forced or tricked into divulging.
-> 
 > In a classic tale, Memnor came to Skoraeus and whispered something in his ear. When Surtur demanded to know what Memnor had said, Skoraeus told his brother exactly what he had heard. Surtur brooded on that message, which was misleading when taken out of context, and eventually reacted rashly, but the consequences of his acts were seen as no fault of Skoraeus. If Surtur had instead asked Skoraeus for advice about Memnor's words, the legend would have ended differently.
-> 
 > Skoraeus is considered the most knowledgeable of the giant gods about magic, wards, banes, hidden treasures, and the secrets of the earth. Skoraeus gave the secret of smelting to Surtur. Skoraeus showed Thrym how to carve runes on his old weapons to imbue them with magic when Surtur refused to forge new ones for him. Skoraeus crafted spears for Hiatea so she could complete her ten tasks of valor. Skoraeus tapped with his hammer on the stone under the sea, so that Stronmaus could find the chain-tunnels that allowed him to pull the tarrasque down to the bed of the ocean where at last it would drown.
 ^skoraeus-stonebones-the-great-creator
 
@@ -944,11 +932,8 @@ For an obvious reason, every storm giant has a strong personal interest in how s
 Without an emperor to serve as their political and spiritual head, the storm giants are adrift on an uncertain sea. Every possibility encapsulated in every sign is exhaustively examined. Debates over the meaning and validity of this or that omen are conducted across human kingdoms and spanning human lifetimes.
 
 > [!note] Moods of Stronmaus
-> 
 > Storm giants pay homage to Stronmaus, the eldest of Annam's children, who is also the most joyful and the most prone to laughter and enjoying fellowship with his siblings. That image of Stronmaus is in sharp contrast to how storm giants are perceived in the world: aloof and dour. Nonetheless, it is an accurate one.
-> 
 > In the giants' legends, Stronmaus is subject to gray moods and deep brooding that are just as intense as his moments of good humor. It is also true that storm giants aren't as humorless as popular notions paint them to be. They're quiet and reserved when they're by themselves, which is how they spend most of their time. But when they get together with others of their kind, they enjoy mirth, song, and drink as much as Stronmaus does. For the sake of their privacy and for the safety of smaller beings in the vicinity, these rare gatherings occur far from the presence of other creatures, thus perpetuating the giants' reputation for always being gloomy and grim.
-> 
 > Explorers and adventurers can find opportunity in this situation, since the giants sometimes hire agents that they dispatch to investigate portents and to retrieve items the giants need for their oracles. It's dangerous work, for two reasons. The obvious one is that the task involves delving into Ostorian ruins that have been sealed for millennia. The less obvious one is that certain portents, if confirmed to be true, would indeed bring about the return of Annam, upending the giants' social order and initiating a new age. Some would welcome such a change; others would oppose it bitterly and do all they could to stop it, possibly resorting to all-out war.
 ^moods-of-stronmaus
 
@@ -990,28 +975,20 @@ A gnoll war band exemplifies Yeenoghu's plans for the world. He wants to transfo
 
 #### The Gift of Yeenoghu
 
-Yeenoghu imparts to the minds of his followers an unquenchable, supernatural hunger, both for violence and for the flesh of intelligent creatures. A gnoll feels a constant, gnawing demand for blood and destruction that abates only when it kills and eats intelligent creatures. Other prey might provide temporary sustenance, but it does nothing to quell Yeenoghu's hunger.
+Yeenoghu imparts to the minds of his followers an unquenchable, supernatural hunger, both for violence and for the flesh of intelligent creatures. A gnoll feels a constant, gnawing demand for blood and destruction that abates only when it kills and eats intelligent creatures. Other prey might provide temporary sustece, but it does nothing to quell Yeenoghu's hunger.
 
 Gnolls wander the land continually in search of new victims, rarely sleeping and never settling down. Only a large-scale assault, such as the massacre of an entire village, can satisfy their desire even temporarily. A sated gnoll rests, knowing that it has pleased Yeenoghu. Its relief is short, no more than a few days, before the gnoll once again becomes a slave to its desires.
 
 Strength, hunger, and fear are the three concepts that every gnoll extols. Strength allows a gnoll to overwhelm, kill, and devour a foe. Hunger motivates a gnoll to go forth and slay in Yeenoghu's name. Fear is a weapon used against enemies to make them easy prey. In concert, all three play a role in advancing Yeenoghu's goals.
 
 > [!note] Inside the Mind of a Gnoll
-> 
 > From a journal recovered from a slain cultist of Yeenoghu:
-> 
 > *Day 2:* The subject continues to growl and struggle, despite the removal of its arms and legs. I will let it starve for a few days to weaken its mental fortitude. If the gnoll does have some sort of tie to the Abyss, I must keep my focus on exploiting that link, even though the creature's mind might remain aware.
-> 
 > *Day 6:* No appreciable loss of vigor.
-> 
 > *Day 11:* Still no appreciable loss of vigor.
-> 
 > *Day 13:* Ritual must commence tomorrow despite subject's high level of mental activity.
-> 
 > *Day 14:* The ritual brought our minds together. I was assailed simultaneously by hunger and rage, as if some great force from beyond had reached out and commanded me only to kill and eat. Though it lasted only a short time, it was a terrifying feeling to my human mind, but in a way it was also comforting to feel myself a part of a much greater design. What I felt was not the hunger of one beast, but the hunger of all of them.
-> 
 > *Day 15:* Used the ritual to join our minds again. This time I realized where the hunger began. I was consumed by the infinite hunger and boundless rage of great Yeenoghu, and I knew it could never be sated. Yet I felt driven to feed my lord. I killed and devoured a goat while linked to the gnoll's mind. I had set aside a knife for the deed but killed it with my bare hands instead. The flesh was warm. I fed myself. I fed Yeenoghu.
-> 
 > *Day 16:* Third use of ritual. As my connection to my lord deepens, I leave my old concerns behind. His hunger is all that matters. It is greater than me; it is greater than us all. It is His mark. He made us. He drives us. He eats what we eat. He kills what we kill. He will come if we eat well. He will come if we kill well. He will come if we eat well. He will come if we kill well. We will kill and He will eat, and we shall be He and He shall be we, never alone, never afraid, never hungry.
 ^inside-the-mind-of-a-gnoll
 
@@ -1058,17 +1035,11 @@ A band of gnolls lives in a state of eternal war with everything it encounters, 
 If the area they hunt in becomes too well-defended, the gnolls relocate in search of easier prey. Large tracts along the fringe of civilization might be devastated before the wider world becomes aware of a gnoll threat.
 
 > [!note] On Defeating Gnolls
-> 
 > An excerpt from *One Hundred Years of War,* a famous manual of dwarven battle tactics:
-> 
 > Gnolls remain a threat across all seasons. Happily, our redoubts are too fortified for their tastes, but caravans, foraging expeditions, and patrols must deal with them.
-> 
 > Gnolls take care to move quietly when they are on the hunt for prey. The events that presage their presence are easy to misinterpret as the results of other threats. A scout might go missing, a caravan fail to arrive on time, or a village be left deserted. Several kinds of creatures, such as orcs and goblins, can cause such events, but the evidence that gnolls leave of their involvement is unmistakable. Their enemies aren't merely killed, they are dismembered and devoured. The loot that other marauders would scoop up is left where it falls, of no use to a creature that requires only flesh to feed its urges.
-> 
 > If you suspect that gnolls are encroaching on dwarven territory, send reliable spies to human settlements in the region, while pulling back as many of our folk as you can manage. Instruct the spies to pass along updates each day, preferably by messenger bird. Do not tell the spies of your suspicions. Invent a story, such as the search for an outlaw or some other deception.
-> 
 > If a spy fails to report, you must strike quickly. Send your fastest warriors and strongest spellcasters to the spy's location. If the gnolls have struck a settlement, they will rest for up to a week, bloated on their kills. In this state, they are their most vulnerable. Surround the place in silence, and advance as one to catch them in a vise. Let none survive. A single gnoll can, over time, create a new war band.
-> 
 > Some may argue for an approach that doesn't rely on the loss of human life to see it succeed. I would gladly suggest one if such existed. Your best strategy is to defend our halls and let the humans serve as bait. Moradin knows they multiply quickly enough that their losses will soon be recouped.
 ^on-defeating-gnolls
 
@@ -1128,7 +1099,7 @@ All gnolls are ruthless and brutal, but the flesh gnawers in a war band use thei
 
 #### Gnoll Witherlings
 
-A war band might go for weeks without coming across the sort of prey it craves. Gnolls can eat wild animals for sustenance, but only the flesh of intelligent humanoids can calm the endless hunger bestowed upon them by Yeenoghu.
+A war band might go for weeks without coming across the sort of prey it craves. Gnolls can eat wild animals for sustece, but only the flesh of intelligent humanoids can calm the endless hunger bestowed upon them by Yeenoghu.
 
 When a war band grows desperate for food, its members turn on each other. Those who succumb to the violence are devoured, but their service to the war band doesn't end at that point. The survivors preserve the bones of their fallen comrades, so that a pack lord or a flind can perform a ritual to Yeenoghu to turn them into loyal, undead followers known as witherlings.
 
@@ -1167,29 +1138,18 @@ For more information on maw demons and shoosuvas, see chapter 3 of this book.
 Ghoul packs emerge from graveyards and dungeons to trail in the wake of a war band, feasting on the remains of its victims and sometimes eventually merging with the group. Although ghouls typically revere Orcus, their endless hunger can prompt them to turn to Yeenoghu.
 
 > [!note] The Hunter's Chant
-> 
 > This simple declaration of Yeenoghu's power was devised by a small cult to the demon lord discovered deep in the forest. A group of woodcutters, facing starvation, turned to cannibalism to survive and ultimately fell under Yeenoghu's sway. Gnolls sing a similar chant in their language while they seek out prey.
-> 
 > > [!quote]  
 > > 
 > > The first gift is hunger.
-> > 
 > > It is His blessing.
-> > 
 > > It is our call to bring death.
-> > 
 > > The second gift is death.
-> > 
 > > Death proves our strength.
-> > 
 > > Death purges our fear.
-> > 
 > > The third gift is fear.
-> > 
 > > We fear that we will fail him.
-> > 
 > > We fear the onset of hunger.
-> 
 ^the-hunters-chant
 
 #### Hyenas
@@ -1283,9 +1243,7 @@ Gatherers, and the pariahs beneath them, greatly fear for their lives in battle,
 Some goblin families are the lowest of the low, composed of the most dimwitted, least educated, and weakest goblins. They get the worst jobs: mucking out animal pens, cleaning up after other goblins, and doing any hard labor such as digging mines. If the goblin tribe has slaves to do some of this work, the pariah families enjoy the opportunity to supervise and dominate such creatures, which have no status at all.
 
 > [!note] Khurgorbaeyag: The Overseer of All
-> 
 > Goblins once had many gods, but the only one who survived Maglubiyet's ascendancy is cruel Khurgorbaeyag, known as the Overseer. Khurgorbaeyag drives his worshipers to be the masters of others. Only by wielding the whip can they hope to escape its lash. Khurgorbaeyag sometimes makes his presence or his desires known through wrathful signs and magical blessings: the crack of a whip without a visible source, chains or ropes that move of their own accord, or a glowing cage that appears to trap foes or those who displease him. Worshipers of Khurgorbaeyag are sometimes overtaken by sudden onsets of depression, which they take as a sign that they have somehow displeased their god. When they rouse themselves from this despondency, they take up the master's whip with renewed zeal and seek out more creatures upon which they can wield it.
-> 
 > Khurgorbaeyag's holy symbol is a yellow-and-red striped whip made of leather. This mark of his authority is used by its wielder against goblins of a lower caste as well as on slaves and enemies. The knowledge of how to make such a whip is enough to elevate a goblin to the master caste of lashers. Often the secret is guarded by one family in a tribe, which enjoys prestige and influence because it controls the supply of whips.
 ^khurgorbaeyag-the-overseer-of-all
 
@@ -1324,20 +1282,14 @@ This goblin warlock serves a patron who can extract payment in flesh if the gobl
 This goblin is a sorcerer with the wild magic origin whose every casting, including cantrips, is accompanied by a wild magic surge. Use the [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mage]] stat block in the "Monster Manual" to represent this goblin, adding darkvision and the Nimble Escape traits common to all goblins. Each time the goblin casts a spell, there is an accompanying surge of wild magic; roll on the [[wild-magic-surge-phb|Wild Magic Surge]] table in the "Player's Handbook" to determine the wild magic effect.
 
 > [!note] Who's the Boss?
-> 
 > Goblins pattern the rule of their tribes after the whip-cracking rule of their god, Khurgorbaeyag, and thus each group has one leader that exerts autocratic control. But as with many tyrannies, the passing of a leader often results in a chaotic transition to the next. Sometimes a goblin boss has the foresight to declare a successor, often a child or other family member the boss has been able to trust. But such a declaration doesn't always prevent a mad scramble for influence and allies, or secret backstabbing and outright fights over the title. Most often, the victor in such a struggle comes from another family of the lasher caste, and any allies of the previous boss count themselves lucky if their only punishment is demotion to the pariah caste.
-> 
 > Sometimes another creature assumes control of a goblin tribe, by killing or subjugating the current boss and cowing most of the rest of the tribe. If the creature is dimwitted, like a troll or ogre, the lower-class goblins give it obeisance, but before long the upper-class goblins begin to think that whoever can bend the ear of the new leader can act as the real boss. If the creature brushes aside such manipulation, the tribe falls into line behind the new tyrant-better to abide the new rule than conspire against it and be called out as a traitor.
 ^whos-the-boss
 
 > [!note] Nilbogs: Pranksters with Power
-> 
 > A nilbog ("goblin" spelled backward) is a goblin possessed by the spirit of a mischievous prankster god. Even though goblins dwell at the bottom of the hierarchy in a goblinoid host, the threat of a nilbog appearing in their ranks keeps the bugbears and hobgoblins from inflicting too much cruelty upon their lessers.
-> 
 > A nilbog doesn't use its abilities indiscriminately. One can be placated if it is provided with comfortable quarters, good food, and free rein to do as it wishes, in which case it holds its power at bay.
-> 
 > Hobgoblins have learned how to guard against the appearance of a nilbog: the crudest, most obnoxious goblin in the host is given the title of jester. This goblin lounges in a hobgoblin warlord's command center, free to behave as it wishes without risk of punishment or rebuke.
-> 
 > For more information on nilbogs, see chapter 3 of this book.
 ^nilbogs-pranksters-with-power
 
@@ -1450,9 +1402,7 @@ Members of a banner live, work, and fight together, and each banner has a separa
 Rank and responsibility aren't necessarily commensurate from one legion to another or even between banners in the same legion. A phalanx of foot soldiers led by a captain in one legion might be two hundred strong, while in another such a force numbers just twenty. One banner might have four warriors mounted on worgs led by a fist, while a fist in another banner of the same legion might lead ten mounted warriors. If any rank doesn't serve a purpose in the legion, the warlord eliminates it from the hierarchy to maximize efficiency.
 
 > [!note] Bloody Blue Noses
-> 
 > Hobgoblins are sometimes born with bright red or blue noses. This attribute is thought to be a sign of potency and potential. Blue and red-nosed hobgoblins receive preferential treatment, and as a result they occupy most of the leadership positions in hobgoblin society.
-> 
 > The noses of all hobgoblins become more colorful when they are enraged or excited, much the way that humans' cheeks can flush with emotion.
 ^bloody-blue-noses
 
@@ -1531,7 +1481,6 @@ When Maglubiyet conquered the goblins' gods, he taught the goblins to fear his c
 The goblinoids are bound together by Maglubiyet's subjugation of their individual deities. All types rightly fear Maglubiyet's wrath, but each carries out the Mighty One's divine will differently. Goblins typically flee from obvious threats, and hobgoblins often have to round up and threaten them before they can make use of them. Bugbears accept hobgoblin demands for assistance only grudgingly, and often they must be bribed with loot, spirits, battle gear, or the severed heads of enemy leaders-a particularly holy gift. Hobgoblins operating on their own will remain in their forts, content to deal with internal politics of rank and matters of defense, but when they encounter other types of goblinoids (or seek them out), it is viewed by all as a divine sign-Maglubiyet has called them together to do his bidding on a grand scale.
 
 > [!note] No Other God Shall Stand
-> 
 > Goblinoids are indoctrinated from a young age to consider all gods but their own as lesser, false entities. Maglubiyet is the only true deity, they learn, and the world will be wracked by chaos and despair until he one day conquers all pantheons. Goblinoids harbor a special hatred for clerics of enemy deities, focusing on them in battle and desecrating their temples whenever they have the chance. Whether a deity is good, evil, or neutral is immaterial. All gods other than Maglubiyet and his servants are false and must be destroyed.
 ^no-other-god-shall-stand
 
@@ -1583,13 +1532,9 @@ Most of the army travels on foot, and wolf-riding goblins and worg-riding hobgob
 If the host has slaves, they pull wagons or sledges in the center of the army, dragging along the equipment of war while surrounded by its users. If slaves have yet to be acquired, goblins and beasts of burden perform this function.
 
 > [!note] Bugbear Special Forces
-> 
 > Under any circumstances, bugbears are valued members of a goblinoid host. If some of them are specialized (or can be trained) in different aspects of warfare, their value increases, especially when they work in concert.
-> 
 > **Thugs.** Bugbears that serve as thugs have more of Hruggek than Grankhul in them. They leap in among massed foes and make wide, whirling swings with their weapons to create openings in enemy formations.
-> 
 > **Bulwarks.** The wild attack of a group of thugs is often followed by the charge of one or more bulwarks. A bugbear bulwark carries a spiked shield into battle that it uses like a plow, bashing aside whatever it encounters.
-> 
 > **Murderers.** Bugbears that are gifted in stealth are sent out to kill enemy sentries and thus clear the way for others to penetrate the foe's defenses. Murderers carry many javelins with them, which they throw from hiding and wield in melee, and they also carry garrotes to cut off sounds of screaming.
 ^bugbear-special-forces
 
@@ -1600,11 +1545,8 @@ Warfare in the name of Maglubiyet isn't conducted like the raiding of orcs or th
 Typically, a goblinoid host seeks to retain enough of the population in a conquered settlement for the community to continue to produce goods and services. The labor force likely includes more youngsters and elderly than before the goblinoids' conquest, with a corresponding drop-off in production. In any case, a group of conquered people serves the host best when it continues to produce resources that the goblinoids can use. Only when a settlement offers stiff resistance or has no lasting value to the host do the goblinoids resort to slaughter and slavery to empty it of enemies.
 
 > [!note] The Warborn
-> 
 > While a host pursues conquest, it is taboo for its members to copulate. Such proclivities must be suppressed so that all effort is focused on the task at hand. Breach of the taboo can bring summary execution, so it is rare for offspring to be born among the host even when it success fully campaigns for years.
-> 
-> The taboo doesn't extend to female goblinoids that come into the host already pregnant and give birth while on campaign. Such offspring are called Warborn, a title they keep for life. The Warborn are thought to be blessed by Maglubiyet, and as a result these young goblinoids are carried into battle like a standard and used to rally troops.
-> 
+> The taboo doesn't extend to female goblinoids that come into the host already pregt and give birth while on campaign. Such offspring are called Warborn, a title they keep for life. The Warborn are thought to be blessed by Maglubiyet, and as a result these young goblinoids are carried into battle like a standard and used to rally troops.
 > A host that gains many victories might end up claiming vast amounts of territory and eventually become a true nation. Such an empire might last for generations if the military can continue achieving new conquests or at least claim victories when the goblinoids defend territory they previously took over. If triumphs of some sort don't keep coming, the bonds of allegiance among the goblinoids eventually fray. Legions of hobgoblins begin infighting, and goblins shirk their duties while the hobgoblins are distracted. Then, seeing the disarray of the host as a sign that Maglubiyet is no longer looking, the bugbears turn on their hobgoblin leaders, take a few of their heads as fresh trophies, and leave.
 ^the-warborn
 
@@ -1617,10 +1559,8 @@ In matters of religion, there is little or no flexibility. The host eliminates a
 If the settlement has holy sites dedicated to conquered gods, these are converted into shrines to the Mighty One.
 
 > [!note] Maglubiyet's Army of Immortals
-> 
 > The war horns of the host signal that every goblinoid has the chance to prove his or her worth to Maglubiyet and join his Army of Immortals in Acheron, the plane of eternal battle. There Maglubiyet marshals his host against slavering orc hordes in a bid to bring Gruumsh and the other orc gods to heel, a mythic contest that has pitted the goblinoids and orcs of the world against one another since time immemorial.
-> 
-> All representations of the defeated gods are thrown down, ruined, or marred. Mosaics are broken apart. Stained glass is shattered. Flags and pennants are soaked in blood. Statues are put in chains. Altars become chopping blocks where Maglubiyet's bloody axe is used to decapitate all who refuse to bow to him.
+> All representations of the defeated gods are thrown down, ruined, or marred. Mosaics are broken apart. Stained glass is shattered. Flags and pents are soaked in blood. Statues are put in chains. Altars become chopping blocks where Maglubiyet's bloody axe is used to decapitate all who refuse to bow to him.
 ^maglubiyets-army-of-immortals
 
 ### Goblinoid War Camp
@@ -1800,9 +1740,7 @@ Each of the five common types of hags prefers a particular  environment. It is p
 - **Sea hags.** live underwater or on the shore, favoring bleak and despoiled places. They have pale skin like that of a fish, covered in scales, with glassy dead eyes and hair like lank seaweed. Sea hags are emaciated, but one might be tall or short, frail or large-boned. A sea hag hates beauty in any form and seeks to attack, deface, or corrupt it so it has the opposite effect on its viewers. One is more likely to defile the inspiring statue in a town square, making it into a symbol of fear and sorrow, than to destroy it outright.  
 
 > [!note] Hag Metamorphosis
-> 
 > It's commonly believed that five kinds of hags exist in the world (and beyond it). What's not so widely known is that some hags can change from one kind to another during their lives.
-> 
 > A hag that lives long enough or has the necessary resources can alter her basic nature, leaving behind her old physiology and adopting that of a hag appropriate to the environment of her current home. She might accomplish this transformation through force of will over time, or faster with the help of a ritual or assistance from her coven. The reasons for making such a change are as varied as the personalities and goals of hags.
 ^hag-metamorphosis
 
@@ -1874,9 +1812,7 @@ The power to affect the future or perceive things out of the norm could make the
 6th level (1 slot): [[true-seeing-xphb|true seeing]]  
 
 > [!note] The Rule of Three
-> 
 > They say that things come in threes. Good things. Bad things. Strange things. Hags and purveyors of witchcraft embrace the Rule of Three, as it is called: a coven has three members, they believe that good or evil magic returns upon its source threefold, and the casting of many spells requires the same words chanted three times.
-> 
 > Long ago, planar travelers came to recognize that many of the realms and layers of the multiverse are configured in multiples of three. It is possible that plane-traveling hags learned of this planar-based superstition and adapted it to their own uses, although some among the oldest hags claim to have invented the concept or at least named it.
 ^the-rule-of-three
 
@@ -2060,9 +1996,7 @@ Kobolds believe that they were created by Tiamat from the blood of dragons-a vie
 Kobolds willingly serve chromatic dragons and worship them as if they were demigods-mighty beings of divine descent. This isn't a casual sort of worship or lip service; kobolds are awed in the presence of a dragon, as if an actual avatar of a deity were in their presence. Kobolds fall all over themselves to obey orders from a dragon, even if they are dangerous orders. Although kobolds usually don't worship Tiamat directly, they recognize her as the dragon-goddess of all chromatic dragons, and as the master of their racial god, Kurtulmak.
 
 > [!note] Kurtulmak: God of Kobolds
-> 
 > The god of kobolds was a vassal of Tiamat. When the gnome god Garl Glittergold stole a treasure from Tiamat's hoard, she sent Kurtulmak to retrieve it. Garl lured his pursuer into a maze-like cavern, then collapsed the exits behind him, trapping Kurtulmak for all eternity.
-> 
 > Kurtulmak is a hateful deity, one who despises all life except for kobolds. He especially hates Garl Glittergold, gnomes, and fey creatures that enjoy playing pranks. He taught the first kobolds how to mine, tunnel, hide, and ambush. He is dominated by his emotions-intelligent, but not wise. Arrogant and prone to gloating, he carries grudges, has a huge chip on his shoulder, and spends a lot of time fashioning elaborate revenge scenarios against those who have disrespected him.
 ^kurtulmak-god-of-kobolds
 
@@ -2119,7 +2053,6 @@ Partly out of fear and partly because their eyes are sensitive to sunlight, kobo
 Kobolds reside most commonly in hilly or mountainous terrain. Such locations usually have natural caves suitable for living space, plenty of room to dig, and ready sources of food. Although lairing in these locations puts kobolds in competition with surface-dwelling humanoids, their ability to avoid detection often means their warrens go unnoticed by their larger rivals. If it's lucky, a tribe of kobolds that is discovered by a group of larger humanoids might form a mutually beneficial arrangement, relying on the humanoids for protection from invaders and in return providing services such as excavating new living spaces and disposing of trash. If it's unlucky, the tribe is enslaved by the other humanoids, and the kobolds serve similar roles but under threat of death.
 
 > [!note] Urds: Winged Kobolds
-> 
 > Winged kobolds, known as urds, hatch seemingly at random from kobold eggs, even in a tribe that has no adult urds. Although being able to fly is an incredible gift, and it would be expected for kobolds to interpret the wings as a blessing from Tiamat, ordinary kobolds resent urds and don't get along with them. Fragments of kobold legends speak of Kuraulyek, a winged godling servant of Kurtulmak, who betrayed his master in some way. Kobolds see urds as Kuraulyek's favorites, and they project their resentment of this traitor onto their winged kin.
 ^urds-winged-kobolds
 
@@ -2135,7 +2068,7 @@ Kobolds vary widely in how their scales are colored  and patterned. Although a h
 
 Most kobolds of the same tribe tend to have similar  coloration. For example, the Copper Tooth tribe might  be mostly gray with red stripes. Two tribes that merge  eventually crossbreed enough to create a new look,  although occasional outliers and throwbacks are born  that bear the appearance of one of the original tribes.
 
-Use the Scale Color table to randomly determine the  predominant appearance of kobolds in a tribe. If the roll  on the table indicates a patterned appearance, roll on  the Scale Pattern table to determine how the two colors  are combined.
+Use the Scale Color table to randomly determine the  predomit appearance of kobolds in a tribe. If the roll  on the table indicates a patterned appearance, roll on  the Scale Pattern table to determine how the two colors  are combined.
 
 Us the tables below to generate a Kobold Name and scale color.
 
@@ -2212,7 +2145,7 @@ Any chamber in the kobolds' underground complex that isn't immediately needed fo
 
 #### Mushroom Farms
 
-Kobolds aren't good at agriculture, but they can get sustenance from subterranean mushrooms and hardy plant life that can live underground. A farm area might be completely underground, or a cavern near the surface with holes in the ceiling to let in some sunlight.
+Kobolds aren't good at agriculture, but they can get sustece from subterranean mushrooms and hardy plant life that can live underground. A farm area might be completely underground, or a cavern near the surface with holes in the ceiling to let in some sunlight.
 
 #### Root Cellars
 
@@ -2271,9 +2204,9 @@ Mind flayers, also known as illithids, are horrific, alien humanoids that lurk d
 
 Despite all their unique and overwhelming abilities, the mind flayers are a race on the edge of extinction.
 
-Thousands of years ago, the illithids were the dominant power of the Inner Planes. From their astral domains, they launched flying vessels called nautiloids, able to cross between planes, so that they could harvest intelligent humanoids from hundreds of worlds.
+Thousands of years ago, the illithids were the domit power of the Inner Planes. From their astral domains, they launched flying vessels called nautiloids, able to cross between planes, so that they could harvest intelligent humanoids from hundreds of worlds.
 
-The mind flayers relied on a slave race, the gith, to provide physical labor and sustenance when other sources of food grew thin. Eventually, the gith revolted. Whether the mind flayers became decadent or the gith discovered a weakness, none can say. What is known is that after centuries of domination, the mind flayer empire collapsed in less than a year. The gith rose up, slaughtered their masters, and destroyed almost all traces of the illithids' astral domains.
+The mind flayers relied on a slave race, the gith, to provide physical labor and sustece when other sources of food grew thin. Eventually, the gith revolted. Whether the mind flayers became decadent or the gith discovered a weakness, none can say. What is known is that after centuries of domination, the mind flayer empire collapsed in less than a year. The gith rose up, slaughtered their masters, and destroyed almost all traces of the illithids' astral domains.
 
 Only the mind flayers that had infiltrated the worlds of the Material Plane survived, and their safety was short-lived. Both the githzerai and the githyanki, two factions that arose from the victorious gith, sent hunting parties to root out and slaughter the remaining mind flayers.
 
@@ -2289,7 +2222,7 @@ Because of their dietary needs and their otherworldly biology, mind flayers must
 
 #### Food for Thought
 
-When a mind flayer devours a brain, it acquires stray memories from its victim and shares them with the other members of its colony. Mind flayers also receive a degree of sustenance from the physical substance of a brain, but subsist primarily on the psionic energy that they extract from it in its final moments of activity.
+When a mind flayer devours a brain, it acquires stray memories from its victim and shares them with the other members of its colony. Mind flayers also receive a degree of sustece from the physical substance of a brain, but subsist primarily on the psionic energy that they extract from it in its final moments of activity.
 
 Through some quirk of the illithids' parasitic nature, the cultural sophistication of a mind flayer depends upon what sorts of brains are in its diet. For example, members of a colony that feed on grimlocks are no less intelligent than a colony that feeds on elves, but the former will pay almost no attention to crafting clothes to wear, and the latter will dress in elaborate robes.
 
@@ -2508,7 +2441,6 @@ Extracted brains that are exceptional in some way are kept in the colony's brain
 Freshly captured victims are processed in the cleansing chambers. Their gear is removed and either destroyed or kept if it is of interest, their hair is shaved to prevent parasites, and any sickly ones are disposed of.
 
 > [!note] Funerary Brain Jars
-> 
 > When a mind flayer dies, other mind flayers try to salvage the dead illithid's brain and bring it to the colony's brine pool for the elder brain to consume. For this purpose, mind flayers craft funerary brain jars made of stone. Every jar is made for an individual, inscribed with Qualith and artwork that relate the mind flayer's accomplishments. Often a mind flayer's funerary brain jar is created long before the illithid's death and updated as the years pass, with the jar serving as a diary of sorts for the one whose brain will eventually fill it. After it is filled with brine, a funerary brain jar can preserve a brain without spoiling for `1d4 + 10` days.
 ^funerary-brain-jars
 
@@ -2889,7 +2821,7 @@ Bat riders of the Red Fang return from their raids the same way they exited-thro
 
 Orcs are consummate raiders. When they attack and overwhelm, they claim as booty anything of value that they can carry-and an orc's definition of "value" can be very loose indeed.
 
-The strongest or most dominant orcs will always claim the best loot after a successful raid, and since the pecking order in the group is almost always firmly established, there are usually no squabbles over who gets what. If the tribe's war wagon is available, it is used to transport large or especially treasured items.
+The strongest or most domit orcs will always claim the best loot after a successful raid, and since the pecking order in the group is almost always firmly established, there are usually no squabbles over who gets what. If the tribe's war wagon is available, it is used to transport large or especially treasured items.
 
 Each orc warrior carries its personal loot from the raid in a sack. These are the trophies of victory that orcs brandish and boast about when they return to the den. A loot sack might contain something of demonstrable worth or usefulness, something that's edible (or used to be), or something that was acquired at great risk. In any case, once the bragging is over, the loot is eaten, put to use, or otherwise disposed of.
 
@@ -2958,21 +2890,13 @@ In the last years before the yuan-ti empire collapsed, Sseth appeared to the ser
 His most devout followers, known as mind whisperers, use their god-given magic to emulate Sseth's tactics and principles. They strive to succeed by offering an alternative choice to contesting viewpoints or plans, and in so doing they exude an air of self-importance that gives them a less than savory reputation among yuan-ti that follow other gods.
 
 > [!note] Gods of Other Worlds
-> 
 > In worlds other than the Forgotten Realms, yuan-ti make pacts with deities of the pantheons presented in appendix B of the Player's Handbook. The following are suggested yuan-ti deities for each pantheon.
-> 
 > **Greyhawk.** Erythnul, Iuz, Tharizdun, Vecna.
-> 
 > **Dragonlance.** Chemosh, Sargonnas.
-> 
 > **Eberron.** The Fury, the Keeper, the Mockery, the Shadow, the Traveler.
-> 
 > **Celtic.** Math Mathonwy, Morrigan.
-> 
 > **Greek.** Ares, Hecate.
-> 
 > **Egyptian.** Apep, Set.
-> 
 > **Norse.** Hel, Loki.
 ^gods-of-other-worlds
 
@@ -3224,19 +3148,15 @@ Yuan-ti employ a variety of creatures as spies and protectors. The Yuan-ti Agent
 
 Legends speak of 1 monster lore as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 1 monster lore.
 
-## Adventure Hooks
-
-- A rumor ties 1 monster lore to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 1 monster lore to avert a public scandal.
-- A map overlay reveals a hidden approach to 1 monster lore active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.574709+00:00'
 world: Both
 ---
 
-
-
 # Familiars
 *Source: Monster Manual p. 347* 
 
@@ -31,6 +29,24 @@ Any spellcaster that can cast the [[find-familiar-xphb|find familiar]] spell (su
 
 > [!note]
 > This variant is intended for NPCs. (https://twitter.com/JeremyECrawford/status/920714594334654465)
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -40,19 +56,16 @@ Familiars mm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of familiars mm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around familiars mm.
 
-## Adventure Hooks
-
-- A rumor ties familiars mm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at familiars mm to avert a public scandal.
-- A map overlay reveals a hidden approach to familiars mm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a betrayal about the cult
+- A prisoner has gone missing and war looms

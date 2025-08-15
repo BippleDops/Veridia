@@ -1,4 +1,5 @@
 ---
+
 title: The Sorrow Current
 type: Location
 tags:
@@ -18,6 +19,8 @@ population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:17.272255+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -25,55 +28,73 @@ world: Both
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-sorrow-current-the-sorrow-current.svg)
 
-
 # The Sorrow Current
 *Where Ocean Carries the Weight of All Tears*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+
 ## Overview
 The Sorrow Current is a mystical ocean phenomenon that carries the collective emotional weight of all maritime tragedies, creating areas where the water itself induces profound emotional experiences in those who encounter it, serving both as a source of healing and potential psychological danger.
-
-## Key Connections
-- **[[The Temple of Eternal Tides]]** - Spiritual guardians managing current's effects
-- **[[High Priestess Celeste Dawnbringer]]** - Provides healing rituals for affected individuals
-- **[[The Floating Markets of Nereidios]]** - Markets disrupted by emotional effects
-- **[[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]** - Attempts to weaponize emotional manipulation
-- **[[High Priest Dagon Deepcaller]]** - Uses current effects to break down resistance
-- **[[The Kraken's Harbor]]** - Current strengthened by ongoing maritime violence
-- **[[Admiral Cassandra Stormwind]]** - Naval forces experience morale effects
-- **[[The Deepwater Trading Consortium]]** - Ships require spiritual protection
-- **[[The Deepwater Current]]** - Intersects with trade route creating complications
-- **[[Siren Maeve Echoborn|02 Worldbuilding/People/Siren Maeve Echoborn]]** - Uses current to amplify emotional manipulation
-- **[[The Brotherhood of the Black Anchor]]** - Avoids current due to psychological effects
-- **[[The Bone Palace of Sorrows]]** - Undead court draws power from collective sorrow
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -83,16 +104,6 @@ The Sorrow Current is a undersea element of the setting, known for bioluminescen
 
 Legends speak of The Sorrow Current as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Sorrow Current.
 
-## Adventure Hooks
-
-- A rumor ties The Sorrow Current to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Sorrow Current to avert a public scandal.
-- A map overlay reveals a hidden approach to The Sorrow Current active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -100,37 +111,9 @@ Legends speak of The Sorrow Current as a nexus where past and present converge. 
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[The Sorrow Current]]
-
-<!-- enriched: true -->
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Portraits_portrait-npc-senator-glaucus-brain-senator-glaucus-brain.svg]]
-- [[04_Resources_Assets_Locations_location-city-artisan-felix-reefwright-artisan-felix-reefwright.svg]]
-- [[Bone Architect Ossuary]]
-
 
 ## Sensory Details
 
@@ -140,7 +123,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: Wood smoke curls from countless chimneys
 
-
 ## Description
 
 The Sorrow Current is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -148,35 +130,7 @@ The Sorrow Current is a notable location characterized by its unique features an
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of The Sorrow Current
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -189,22 +143,32 @@ Ongoing situations affecting The Sorrow Current:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about The Sorrow Current
+## Religious Observances
 
-### Whispered Rumors
-- Stories that may or may not be true
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income
 
 
-## Connections
+## A Day in the Life
 
-- See also: [[Master Timeline]]
-- Related: [[Power Structures]]
-- Connected to: [[Side Adventures]]
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

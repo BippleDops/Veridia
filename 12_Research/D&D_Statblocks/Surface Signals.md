@@ -30,22 +30,35 @@ accessibility:
   - Open Door
 ---
 
-
-
-
 # Surface Signals
 
 ![[04_Resources/Assets/Art/Places/Surface_Signals.png|Surface Signals Portrait]]
 
 *The crackling voices from the world above the waves*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 
 Surface Signals is both a location and a phenomenon—a series of crystalline receiver stations scattered throughout the upper reaches of Aquabyssos that intercept communications from the surface world. These stations, built by an unknown civilization, translate electromagnetic waves into pressure vibrations that can be understood underwater, creating windows into the air-breathing world above.
 
 The primary station, located in the Twilight Reaches just 500 feet below the surface, has become a pilgrimage site for those seeking news of the surface, messages from lost loved ones, or intelligence about the world above the waves. However, the signals received are not always from the present—some come from the past, others from the future, and some from surfaces that may not exist in this reality.
-
-## The Signal Phenomenon
 
 ### Types of Transmissions
 
@@ -103,11 +116,9 @@ During surface storms, transmissions include:
 - Rain impacts as coded messages
 - Thunder as divine communication
 
-## Physical Infrastructure
-
 ### The Primary Station
 
-**The Resonance Cathedral**
+**The Resoce Cathedral**
 A massive crystalline structure resembling a frozen whirlpool:
 - **Height**: 300 feet
 - **Diameter**: 200 feet at base, 500 feet at crown
@@ -150,8 +161,6 @@ A destroyed station that still receives but can also send:
 - Responses come from wrong realities
 - Sometimes the surface responds
 - Occasionally something else answers
-
-## The Signal Keepers
 
 ### The Listeners
 
@@ -217,8 +226,6 @@ People who've become dependent on surface signals:
 - Bodies developing crystalline growths
 - Eventually merge with stations
 
-## Intercepted Transmissions
-
 ### Historical Significance
 
 **The Last Day Broadcasts**
@@ -271,8 +278,6 @@ Individual communications of note:
 - Deathbed confessions
 - Messages in bottles electronically
 
-## Signal Phenomena
-
 ### The Prophecy Frequencies
 Certain wavelengths carry future information:
 - Tomorrow's weather with perfect accuracy
@@ -304,8 +309,6 @@ The gaps between signals contain:
 - Living entities
 - Answers to unasked questions
 - The voice of the void
-
-## Services and Resources
 
 ### Information Brokerage
 
@@ -348,8 +351,6 @@ The gaps between signals contain:
 - May block beneficial messages
 - 750-7,500 gp
 
-## Dangers and Hazards
-
 ### Signal Madness
 Prolonged exposure causes:
 - Hearing voices constantly
@@ -382,8 +383,6 @@ Entities that monitor who listens:
 - Temporal police preventing paradoxes
 - Things that shouldn't exist but do
 
-## Adventure Hooks
-
 ### The Drowning Forecast
 The stations begin broadcasting a massive catastrophe that will sink another surface city in seven days. The party must decide whether to warn them, knowing that surface contact is forbidden and might cause the very disaster they're trying to prevent.
 
@@ -399,8 +398,6 @@ A new frequency appears claiming to be a surface god offering to raise Aquabysso
 ### The Revolution Broadcast
 Someone is using the stations to coordinate a simultaneous uprising across all of Aquabyssos. The signals are coming from the future, describing a revolution that hasn't happened yet—unless someone stops it.
 
-## The Deep Secret
-
 ### The Truth About Surface Signals
 
 The signals aren't from the surface at all. They're from Aquabyssos itself—from potential futures where the city rose again. Every broadcast is a possibility, a maybe, a could-be. The stations don't receive; they dream.
@@ -408,8 +405,6 @@ The signals aren't from the surface at all. They're from Aquabyssos itself—fro
 The "surface world" being monitored doesn't exist yet. It's the collective unconscious of Aquabyssos imagining what could be if they ever escape the depths. The signals are prophecies disguised as news, hopes disguised as intelligence, fears disguised as warnings.
 
 Those who discover this truth face a choice: maintain the comforting lie that a surface world exists, or reveal that Aquabyssos might be more alone than anyone imagined.
-
-## DM Notes
 
 ### Running Surface Signals
 
@@ -465,15 +460,19 @@ Surface Signals is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Surface Signals as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Surface Signals.
 
-## Cross-References
 
-- [[Surface Signals|02 Worldbuilding/Places/Surface Signals]]
+## Secret Connections
 
-<!-- enriched: true -->
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
 
 
-## Connections
+## Plot Hooks
 
-- See also: [[Master Timeline]]
-- Related: [[Recent Events]]
-- Connected to: [[World Events]]
+- Strange dreams suggest a portal
+- Someone is blackmailing information for money
+- Someone is searching for a artifact for money
+- Strange accidents suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

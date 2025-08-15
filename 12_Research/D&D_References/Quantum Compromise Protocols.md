@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.918201+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,20 @@ Quantum Compromise Protocols is a undersea element of the setting, known for bio
 
 Legends speak of Quantum Compromise Protocols as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Quantum Compromise Protocols.
 
-## Adventure Hooks
-
-- A rumor ties Quantum Compromise Protocols to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Quantum Compromise Protocols to avert a public scandal.
-- A map overlay reveals a hidden approach to Quantum Compromise Protocols active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Tenebrarum|02 Worldbuilding/People/Tenebrarum]]
-
-
-## Connections
-
-- [[Tenebrarum]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

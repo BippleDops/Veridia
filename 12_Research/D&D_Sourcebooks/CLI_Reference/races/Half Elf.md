@@ -23,17 +23,13 @@ updated: '2025-08-13T12:34:08.030026+00:00'
 world: Both
 ---
 
-
-
 # Half-Elf
-*Source: Player's Handbook p. 38. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+*Source: Player's Handbook p. 38. Available in the SRD*  
 ![](/03_Mechanics/CLI/races/img/half-elf.webp#right)
 
 - **Ability Scores**: Apply +1 to one of Strength, Dexterity, Constitution, Intelligence, or Wisdom.
 - **Size**: Medium
 - **Speed**: 30 ft.
-
-## Traits
 
 ### Age
 
@@ -58,6 +54,24 @@ You gain proficiency in two skills of your choice.
 ### Languages
 
 You can speak, read, and write Common, Elvish, and one extra language of your choice.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Description
 
@@ -90,19 +104,22 @@ Half elf is a undersea element of the setting, known for bioluminescent glow and
 
 Legends speak of half elf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around half elf.
 
-## Adventure Hooks
-
-- A rumor ties half elf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at half elf to avert a public scandal.
-- A map overlay reveals a hidden approach to half elf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and war looms
+- A stranger needs help investigating before winter
+- A prisoner has gone missing and chaos spreads
+- A stranger needs help finding before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

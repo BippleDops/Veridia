@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:35.988653+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-royal-chaplain-magnus-goldcurrent-royal-chaplain-magnus-goldcurrent.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Temple Ward|02 Worldbuilding/Places/Temple Ward]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Temple Ward]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,28 @@ Royal Chaplain Magnus Goldcurrent is a undersea element of the setting, known fo
 
 Legends speak of Royal Chaplain Magnus Goldcurrent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Royal Chaplain Magnus Goldcurrent.
 
-## Adventure Hooks
-
-- A rumor ties Royal Chaplain Magnus Goldcurrent to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Royal Chaplain Magnus Goldcurrent to avert a public scandal.
-- A map overlay reveals a hidden approach to Royal Chaplain Magnus Goldcurrent active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

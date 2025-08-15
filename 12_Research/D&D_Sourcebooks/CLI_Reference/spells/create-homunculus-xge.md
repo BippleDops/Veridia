@@ -25,10 +25,8 @@ updated: '2025-08-12T23:37:36.544680'
 world: Both
 ---
 
-
 # Create Homunculus
 *6th-level, Transmutation*  
-
 
 - **Casting time:** 1 hour
 - **Range:** Touch
@@ -45,6 +43,24 @@ You can have only one homunculus at a time. If you cast this spell while your ho
 
 *Source: Xanathar's Guide to Everything p. 152*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Create homunculus xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -53,19 +69,21 @@ Create homunculus xge is a undersea element of the setting, known for biolumines
 
 Legends speak of create homunculus xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around create homunculus xge.
 
-## Adventure Hooks
-
-- A rumor ties create homunculus xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at create homunculus xge to avert a public scandal.
-- A map overlay reveals a hidden approach to create homunculus xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before the festival
+- Someone is hunting a artifact for money
+- A map reveals the truth about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

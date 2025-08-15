@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:34.632712+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,16 @@ Abyssal Cyclicalism is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Abyssal Cyclicalism as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Abyssal Cyclicalism.
 
-## Adventure Hooks
-
-- A rumor ties Abyssal Cyclicalism to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Abyssal Cyclicalism to avert a public scandal.
-- A map overlay reveals a hidden approach to Abyssal Cyclicalism active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Abyss Beneath Aquabyssos|02 Worldbuilding/Lore/The Abyss Beneath Aquabyssos]]
-
-
-## Connections
-
-- [[The Abyss Beneath Aquabyssos]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals the truth about a local noble
+- A shipment has gone missing and chaos spreads

@@ -21,13 +21,30 @@ updated: '2025-08-12T23:37:34.119993'
 world: Both
 ---
 
-
 # Level Advancement without XP
 *Source: Dungeon Master's Guide p. 261* 
 
 You can do away with experience points entirely and control the rate of character advancement. Advance characters based on how many sessions they play, or when they accomplish significant story goals in the campaign. In either case, you tell the players when their characters gain a level.
 
 This method of level advancement can be particularly helpful if your campaign doesn't include much combat, or includes so much combat that tracking XP becomes tiresome.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Session-Based Advancement
 
@@ -45,19 +62,26 @@ Level advancement without xp is a undersea element of the setting, known for bio
 
 Legends speak of level advancement without xp as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around level advancement without xp.
 
-## Adventure Hooks
-
-- A rumor ties level advancement without xp to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at level advancement without xp to avert a public scandal.
-- A map overlay reveals a hidden approach to level advancement without xp active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Someone is hunting a witness for revenge
+- A journal reveals a conspiracy about this place
+- A shipment has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

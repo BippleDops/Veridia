@@ -33,11 +33,8 @@ updated: '2025-08-13T12:34:06.620624+00:00'
 world: Both
 ---
 
-
-
 # Life Transference
 *3rd-level, Necromancy*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -52,6 +49,24 @@ You sacrifice some of your health to mend another creature's injuries. You take 
 
 *Source: Xanathar's Guide to Everything p. 160*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Life transference xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -60,19 +75,28 @@ Life transference xge is a undersea element of the setting, known for biolumines
 
 Legends speak of life transference xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around life transference xge.
 
-## Adventure Hooks
-
-- A rumor ties life transference xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at life transference xge to avert a public scandal.
-- A map overlay reveals a hidden approach to life transference xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

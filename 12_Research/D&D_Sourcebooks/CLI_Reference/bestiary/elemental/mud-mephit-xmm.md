@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.408094'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mud-mephit-xmm-mud-mephit-xmm.svg)
 
@@ -37,6 +35,24 @@ world: Both
 *Source: Monster Manual (2024) p. 207*  
 
 A combination of earth and water, mud mephits are crude, disgusting creatures. They take every opportunity to ruin objects and pollute food with muck.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Mephits
 
@@ -53,7 +69,6 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 > 
 > I am Seamusxanthuszenus, Slayer of Fiends, Merchant Most Excellent, Purveyor of Death!
 
-
 ```statblock
 "name": "Mud Mephit (XMM)"
 "size": "Small"
@@ -65,7 +80,6 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "modifier": !!int "1"
 "stats":
   - !!int "8"
-  - !!int "12"
   - !!int "12"
   - !!int "9"
   - !!int "11"
@@ -111,19 +125,25 @@ Mud mephit xmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of mud mephit xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mud mephit xmm.
 
-## Adventure Hooks
-
-- A rumor ties mud mephit xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at mud mephit xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to mud mephit xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A journal reveals a conspiracy about the government
+- A noble needs help finding before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

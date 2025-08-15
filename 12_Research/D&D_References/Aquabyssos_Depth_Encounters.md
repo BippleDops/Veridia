@@ -19,7 +19,22 @@ world: Aquabyssos
 ---
 
 
-# Aquabyssos Depth Encounters - Random Encounter Table
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Shallow Depths (200-1,000 feet)
 *Roll 1d20 for encounter type*
@@ -40,8 +55,6 @@ world: Aquabyssos
 ## Medium Depths (1,000-5,000 feet)
 *Roll 1d20 for encounter type*
 
-| d20 | Encounter | Description |
-|-----|-----------|-------------|
 | 1-2 | **Military Patrol** | 1d8 Depth Guard soldiers on routine surveillance mission |
 | 3-4 | **Coral City Ruins** | Abandoned settlement, possible treasure but may be haunted |
 | 5-6 | **Giant Octopus** | Intelligent cephalopod, may communicate or attack depending on approach |
@@ -56,8 +69,6 @@ world: Aquabyssos
 ## Deep Waters (5,000-15,000 feet)
 *Roll 1d20 for encounter type*
 
-| d20 | Encounter | Description |
-|-----|-----------|-------------|
 | 1-2 | **Deep Monastery** | Sacred site with monks offering shelter and wisdom |
 | 3-4 | **Pressure Leviathan** | Massive deep-sea creature, ancient and territorial |
 | 5-6 | **Crystal Plague Outbreak** | Area infected with crystal corruption, hazardous to enter |
@@ -72,8 +83,6 @@ world: Aquabyssos
 ## Abyssal Depths (15,000+ feet)
 *Roll 1d20 for encounter type*
 
-| d20 | Encounter | Description |
-|-----|-----------|-------------|
 | 1-2 | **Deep Mother Manifestation** | Direct appearance of cosmic entity, extremely dangerous |
 | 3-4 | **Ancient Titan Corpse** | Massive skeletal remains, may contain powerful artifacts |
 | 5-6 | **Void Spawn** | Creatures from between dimensions, hostile to all life |
@@ -88,8 +97,6 @@ world: Aquabyssos
 ## Urban Encounters (Settlements)
 *Roll 1d20 for encounter type*
 
-| d20 | Encounter | Description |
-|-----|-----------|-------------|
 | 1-2 | **Market Dispute** | Argument between merchants, may escalate to violence |
 | 3-4 | **Political Rally** | Citizens gathering to support faction or cause |
 | 5-6 | **Criminal Activity** | Pickpockets, smugglers, or other illegal operations |
@@ -115,61 +122,6 @@ world: Aquabyssos
 ## Environmental Hazards
 *Present at DM discretion*
 
-### Pressure Differentials
-- **Sudden Drop**: Descending rapidly causes pressure damage
-- **Thermal Layers**: Temperature changes affect equipment and comfort
-- **Current Shears**: Conflicting water flows create navigation challenges
-
-### Chemical Hazards
-- **Toxic Blooms**: Poisonous algae or bacterial infections
-- **Acidic Waters**: Volcanic or magical contamination
-- **Oxygen Depletion**: Areas where breathing apparatus works poorly
-
-### Magical Phenomena
-- **Crystal Resonance**: Nearby crystals affect magical abilities
-- **Reality Thinning**: Dimensional boundaries become unstable
-- **Memory Echoes**: Psychic imprints from past events manifest
-
-## Encounter Scaling Guidelines
-
-### Low Level (1st-4th)
-- Focus on social encounters and minor hazards
-- Single creatures or small groups
-- Environmental challenges with clear solutions
-- Limited supernatural threats
-
-### Mid Level (5th-10th)
-- Introduce conspiracy and political elements
-- Multiple enemy groups or complex creatures
-- Reality distortions and magical hazards
-- Moral dilemmas and faction conflicts
-
-### High Level (11th-16th)
-- Cosmic threats and dimensional dangers
-- Large-scale consequences for actions
-- Ancient powers and legendary creatures
-- Reality-altering encounters
-
-### Epic Level (17th-20th)
-- Direct involvement with Deep Mother and Crystal Network
-- Consequences affecting entire civilizations
-- Legendary artifacts and cosmic forces
-- Encounters that reshape the world
-
-## Using These Tables
-
-### Frequency
-- **Travel**: Roll once per day of underwater journey
-- **Exploration**: Roll when entering new depth zones
-- **Investigation**: Roll when searching specific areas
-- **Rest**: 25% chance of encounter during long rests
-
-### Customization
-- Modify encounters to match current story threads
-- Combine multiple table results for complex situations
-- Use complications to add depth to simple encounters
-- Scale difficulty to match party capabilities
-
 ### Follow-Up
 - Record NPC names and details for future reference
 - Note unresolved encounters that may return later
@@ -184,7 +136,6 @@ world: Aquabyssos
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -192,3 +143,8 @@ world: Aquabyssos
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession

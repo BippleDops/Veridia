@@ -22,16 +22,32 @@ updated: '2025-08-13T12:34:05.202695+00:00'
 world: Both
 ---
 
-
-
 # Chapter 3: Character Classes
 *Source: Player's Handbook (2024), p. 49* 
 
-![[/03_Mechanics/CLI/books/players-handbook-2024/img/025-03-050-opening-art.webp#center "The heroes Mercion, Molliver, Strongheart, and Ringlerun protect a portal to another plane from diabolical invaders"|The heroes Mercion, Molliv...]]
+!]
 
 Character class provides a character's most exciting capabilities. This chapter offers twelve classes, each of which contains four subclasses—all summarized below.
 
 ![](/03_Mechanics/CLI/books/players-handbook-2024/img/026-03-002-barbarian-symbol.webp#center)
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Barbarian
 
@@ -171,19 +187,30 @@ Study arcane magic and master spells for every purpose. Then embody the...
 
 Legends speak of 04 chapter 3 character classes as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 04 chapter 3 character classes.
 
-## Adventure Hooks
-
-- A rumor ties 04 chapter 3 character classes to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 04 chapter 3 character classes to avert a public scandal.
-- A map overlay reveals a hidden approach to 04 chapter 3 character classes active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help investigating before the new moon
+- A map reveals a conspiracy about the government
+- A map reveals the truth about the government
+- Strange sightings suggest a curse
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

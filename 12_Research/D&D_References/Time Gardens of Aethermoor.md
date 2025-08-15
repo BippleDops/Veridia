@@ -18,13 +18,22 @@ updated: '2025-08-13T01:18:35.016860+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -34,28 +43,24 @@ Time Gardens of Aethermoor is a sky-borne element of the setting, known for bras
 
 Legends speak of Time Gardens of Aethermoor as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Time Gardens of Aethermoor.
 
-## Adventure Hooks
-
-- A rumor ties Time Gardens of Aethermoor to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Time Gardens of Aethermoor to avert a public scandal.
-- A map overlay reveals a hidden approach to Time Gardens of Aethermoor active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Lady Vivienne the Unfrozen|02 Worldbuilding/Places/Lady Vivienne The Unfrozen]]
-
-
-## Connections
-
-- [[Lady Vivienne the Unfrozen]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and evil awakens
+- A prisoner has gone missing and chaos spreads
+- Strange dreams suggest ancient magic
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

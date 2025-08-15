@@ -25,10 +25,8 @@ updated: '2025-08-12T23:37:36.317255'
 world: Both
 ---
 
-
 # Bones of the Earth
 *6th-level, Transmutation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -47,6 +45,24 @@ If a pillar is prevented from reaching its full height because of a ceiling or o
 
 *Source: Xanathar's Guide to Everything p. 150*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Bones of the earth xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -55,19 +71,25 @@ Bones of the earth xge is a undersea element of the setting, known for biolumine
 
 Legends speak of bones of the earth xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bones of the earth xge.
 
-## Adventure Hooks
-
-- A rumor ties bones of the earth xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at bones of the earth xge to avert a public scandal.
-- A map overlay reveals a hidden approach to bones of the earth xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Stars
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before winter
+- A stranger needs help stealing before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

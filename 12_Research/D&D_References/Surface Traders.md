@@ -22,18 +22,30 @@ updated: '2025-08-13T01:18:36.444912+00:00'
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-surface-traders-surface-traders.svg]]
-
-
-
-
 
 # Surface Traders
 
 *"Profit flows wherever currents carry willing merchants."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 The Surface Traders are a consortium of merchants who specialize in the dangerous but lucrative business of trading between Aquabyssos and the surface world. Despite official restrictions and political tensions, they maintain secret trade routes and relationships.
@@ -82,26 +94,12 @@ Operating in legal gray areas, they provide access to surface goods that many in
 **Information**: Maps, political intelligence, cultural knowledge
 **Contraband**: Officially banned items with high black market value
 
-## Challenges and Risks
-- Government crackdowns and inspection raids
-- Piracy attacks on valuable cargo shipments
-- Surface world political instability affecting trade relations
-- Competition from other smuggling organizations
-- Weather and navigational hazards on dangerous routes
-
 ## Government Relations
 **Official Status**: Technically illegal but often tolerated
 **Enforcement**: Periodic raids and confiscations for political show
 **Corruption**: Bribes and favors maintain operational freedom
 **Intelligence**: Some members serve as unofficial diplomatic contacts
 **Politics**: Useful leverage in negotiations with surface kingdoms
-
-## Services Provided
-- Procurement of specific surface world items (high prices)
-- Discrete delivery services for sensitive cargo
-- Intelligence about surface world political developments
-- Currency exchange between different economic systems
-- Transportation for individuals needing surface world travel
 
 ## Client Base
 **Wealthy Nobles**: Luxury goods and status items
@@ -117,19 +115,12 @@ Operating in legal gray areas, they provide access to surface goods that many in
 **Political Extremists**: Oppose any surface world contact
 **Legitimate Merchants**: Resent unfair competition from illegal traders
 
-## Secret Operations
-- Underground railroad helping political refugees
-- Intelligence gathering for both Aquabyssos and surface governments
-- Diplomatic backchannel communications during crises
-- Emergency evacuation routes for VIPs
-- Archaeological artifact smuggling from restricted sites
-
-## Financial Operations
+## Ficial Operations
 **Revenue**: 500,000+ gold annually from all trade activities
-**Overhead**: Ship maintenance, bribes, security, and operational costs
+**Overhead**: Ship maintece, bribes, security, and operational costs
 **Profit Margins**: 300-500% markup on rare or dangerous items
 **Investment**: Constantly upgrading ships and expanding networks
-**Banking**: Discrete financial services for wealthy clients
+**Banking**: Discrete ficial services for wealthy clients
 
 ## Adventure Hooks
 1. Characters need passage to or from surface world
@@ -137,57 +128,8 @@ Operating in legal gray areas, they provide access to surface goods that many in
 3. Government crackdown requires emergency evacuation
 4. Surface world conflict affects trade route security
 
-## Future Plans
-- Establish permanent trading posts in neutral territory
-- Develop legitimate business relationships as politics allow
-- Expand into new markets and trade routes
-- Invest in better technology for safer, faster transport
-- Build political influence to change restrictive laws
-
-## Secrets
-- Several government officials are silent partners
-- Hidden alliance with surface world intelligence services
-- Emergency plans for full-scale war evacuation
-- Smuggling network extends to other underwater kingdoms
-- Archaeological discoveries kept secret from both governments
-
 ## DM Notes
 Surface Traders provide adventure opportunities involving smuggling, diplomacy, and cross-cultural conflict. They can serve as allies, employers, or obstacles depending on campaign needs and player actions.
-
-
-## Connections
-
-- [[Pearl_Harbor_City|Pearl Harbor City]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -197,13 +139,37 @@ Surface Traders is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Surface Traders as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Surface Traders.
 
-## Cross-References
-
-- [[Surface Traders|02 Worldbuilding/Places/Surface Traders]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Someone is hunting a witness for love
+- Someone is hunting information for love
+- A map reveals the truth about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

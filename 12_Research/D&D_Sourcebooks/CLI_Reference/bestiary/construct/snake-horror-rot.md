@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.874873'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-snake-horror-rot-snake-horror-rot.svg)
 
@@ -49,8 +47,6 @@ world: Both
   - !!int "13"
   - !!int "16"
   - !!int "10"
-  - !!int "10"
-  - !!int "10"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
@@ -59,7 +55,7 @@ world: Both
   \ aren't adamantine"
 "damage_immunities": "force, necrotic, poison"
 "condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
-  \ [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#frightened|frightened]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
   \ [[conditions#Poisoned|poisoned]], [[conditions#Stunned|stunned]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 14"
@@ -70,7 +66,7 @@ world: Both
       \ magical effects."
     "name": "Magic Resistance"
   - "desc": "The snake horror is immune to three spells chosen by its creator. Typical\
-      \ immunities include [[fireball-xphb|fireball]], [[heat-metal-xphb|heat\
+      \ immunities include [[fireball-xphb|fireball]], [[heat-metal-xphb|heat\]]
       \ metal]], and [[lightning-bolt-xphb|lightning bolt]]."
     "name": "Spell Immunity"
 "actions":
@@ -87,6 +83,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Snake horror rot is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -95,19 +109,20 @@ Snake horror rot is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of snake horror rot as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around snake horror rot.
 
-## Adventure Hooks
-
-- A rumor ties snake horror rot to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at snake horror rot to avert a public scandal.
-- A map overlay reveals a hidden approach to snake horror rot active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

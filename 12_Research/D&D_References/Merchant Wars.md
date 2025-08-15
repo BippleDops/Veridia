@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.783215+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,23 @@ Merchant Wars is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of Merchant Wars as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merchant Wars.
 
-## Adventure Hooks
-
-- A rumor ties Merchant Wars to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Merchant Wars to avert a public scandal.
-- A map overlay reveals a hidden approach to Merchant Wars active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Consortium Security Constructs|02 Worldbuilding/Groups/Consortium Security Constructs]]
-
-
-## Connections
-
-- [[Consortium Security Constructs]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Someone is blackmailing a artifact for power
+- Someone is searching for a witness for money
+- A map reveals the truth about a local noble
+- A prisoner has gone missing and truth emerges

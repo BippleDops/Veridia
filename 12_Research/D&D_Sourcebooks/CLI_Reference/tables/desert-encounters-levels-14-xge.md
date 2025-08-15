@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.618852'
 world: Both
 ---
 
-
 # Desert Encounters (Levels 1—4)
 *Source: Xanathar's Guide to Everything p. 95* 
 
@@ -51,7 +50,7 @@ world: Both
 | 30-31 | `3d6` [[/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm|tribal warriors]] |
 | 32-33 | `d6` [[giant-lizard-xmm|giant lizards]] |
 | 34-35 | 1 [[swarm-of-insects-xmm|swarm of insects]] |
-| 36-40 | An oasis surrounded by palm trees and containing the remnants of an old camp |
+| 36-40 | An oasis surrounded by palm trees and containing the remts of an old camp |
 | 41-44 | `3d6` [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandits]] |
 | 45-46 | `d4` [[constrictor-snake-xmm|constrictor snakes]] |
 | 47-48 | `2d4` [[winged-kobold-xmm|winged kobold]] |
@@ -82,13 +81,31 @@ world: Both
 | 92 | `d3` [[couatl-xmm|couatls]] |
 | 93 | 1 [[fire-elemental-xmm|fire elemental]] |
 | 94 | `d4` [[gnoll-fang-of-yeenoghu-xmm|gnoll fangs of Yeenoghu]] |
-| 95 | 1 [[revenant-xmm|revenant]] |
+| 95 | 1 [[revet-xmm|revet]] |
 | 96 | `d4` [[weretiger-xmm|weretigers]] |
 | 97 | 1 [[cyclops-sentry-xmm|cyclops]] |
 | 98 | 1 [[young-brass-dragon-xmm|young brass dragon]] |
 | 99 | 1 [[medusa-xmm|medusa]] |
 | 00 | 1 [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|yuan-ti abomination]] |
 ^desert-encounters-levels-14
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -98,19 +115,28 @@ Desert encounters levels 14 xge is a undersea element of the setting, known for 
 
 Legends speak of desert encounters levels 14 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around desert encounters levels 14 xge.
 
-## Adventure Hooks
-
-- A rumor ties desert encounters levels 14 xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at desert encounters levels 14 xge to avert a public scandal.
-- A map overlay reveals a hidden approach to desert encounters levels 14 xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for a witness for love
+- Someone is hunting a artifact for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

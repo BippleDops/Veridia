@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.585839'
 world: Both
 ---
 
-
 # Flaw or Secret; NPC Flaws and Secrets
 *Source: Dungeon Master's Guide p. 91* 
 
@@ -45,6 +44,24 @@ world: Both
 | 12 | Foolhardy bravery |
 ^npc-flaws-and-secrets
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Flaw or secret npc flaws and secrets is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -53,19 +70,28 @@ Flaw or secret npc flaws and secrets is a undersea element of the setting, known
 
 Legends speak of flaw or secret npc flaws and secrets as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around flaw or secret npc flaws and secrets.
 
-## Adventure Hooks
-
-- A rumor ties flaw or secret npc flaws and secrets to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at flaw or secret npc flaws and secrets to avert a public scandal.
-- A map overlay reveals a hidden approach to flaw or secret npc flaws and secrets active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

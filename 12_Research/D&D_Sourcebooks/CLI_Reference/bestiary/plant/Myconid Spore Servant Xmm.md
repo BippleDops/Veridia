@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.651693+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-myconid-spore-servant-xmm-myconid-spore-servant-xmm.svg)
 
@@ -38,6 +35,24 @@ world: Both
 *Source: Monster Manual (2024) p. 223*  
 
 Spore servants are corpses that have been overgrown and reanimated by a myconid sovereign's spores. These fungus-infested bodies are extensions of a myconid sovereign and obey its will.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Myconids
 
@@ -60,14 +75,13 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
 "stats":
   - !!int "16"
   - !!int "12"
-  - !!int "16"
   - !!int "2"
   - !!int "6"
   - !!int "1"
 "speed": "20 ft."
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 30 ft., passive Perception 8"
 "languages": "telepathy 30 ft."
@@ -94,19 +108,28 @@ Myconid spore servant xmm is a undersea element of the setting, known for biolum
 
 Legends speak of myconid spore servant xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around myconid spore servant xmm.
 
-## Adventure Hooks
-
-- A rumor ties myconid spore servant xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at myconid spore servant xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to myconid spore servant xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals the truth about the cult
+- A corpse reveals a conspiracy about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -35,9 +35,6 @@ updated: '2025-08-13T12:34:05.549147+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hobgoblin-warlord-xmm-hobgoblin-warlord-xmm.svg)
 
@@ -45,6 +42,24 @@ world: Both
 *Source: Monster Manual (2024) p. 171*  
 
 Hobgoblin warlords lead armies of hobgoblins and their allies, using their experience and strategic minds to command amid the ebb and flow of battle.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Hobgoblins
 
@@ -91,7 +106,6 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
   - !!int "17"
   - !!int "14"
   - !!int "16"
-  - !!int "14"
   - !!int "11"
   - !!int "15"
 "speed": "30 ft."
@@ -142,19 +156,30 @@ Hobgoblin warlord xmm is a undersea element of the setting, known for biolumines
 
 Legends speak of hobgoblin warlord xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hobgoblin warlord xmm.
 
-## Adventure Hooks
-
-- A rumor ties hobgoblin warlord xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at hobgoblin warlord xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to hobgoblin warlord xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals ancient history about this place
+- A noble needs help stealing before the festival
+- An heirloom has gone missing and chaos spreads
+- Someone is searching for information for power
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

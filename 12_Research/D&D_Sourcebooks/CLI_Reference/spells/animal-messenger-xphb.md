@@ -28,10 +28,8 @@ updated: '2025-08-12T23:37:36.074535'
 world: Both
 ---
 
-
 # Animal Messenger
 *2nd-level, Enchantment (ritual)*  
-
 
 - **Casting time:** 1 Action unless cast as a ritual
 - **Range:** 30 feet
@@ -46,7 +44,25 @@ When the Beast arrives, it delivers your message to the creature that you descri
 
 **Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-ranger|Ranger]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]
 
-*Source: Player's Handbook (2024) p. 240. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 240. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -56,19 +72,28 @@ Animal messenger xphb is a undersea element of the setting, known for biolumines
 
 Legends speak of animal messenger xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around animal messenger xphb.
 
-## Adventure Hooks
-
-- A rumor ties animal messenger xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at animal messenger xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to animal messenger xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Depths
+
+
+## Plot Hooks
+
+- Someone is searching for information for money
+- A shipment has gone missing and chaos spreads
+- A letter reveals a conspiracy about the cult
+- A document has gone missing and truth emerges

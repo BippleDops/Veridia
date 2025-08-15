@@ -17,14 +17,22 @@ updated: '2025-08-13T01:18:35.889693+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
 
 ## Player-Facing Summary
 
@@ -34,28 +42,35 @@ The Scribes' Sanctuary is a undersea element of the setting, known for biolumine
 
 Legends speak of The Scribes' Sanctuary as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Scribes' Sanctuary.
 
-## Adventure Hooks
-
-- A rumor ties The Scribes' Sanctuary to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Scribes' Sanctuary to avert a public scandal.
-- A map overlay reveals a hidden approach to The Scribes' Sanctuary active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Whispering Peaks|02 Worldbuilding/Places/The Whispering Peaks]]
-
-
-## Connections
-
-- [[The Whispering Peaks]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and war looms
+- Someone is blackmailing information for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

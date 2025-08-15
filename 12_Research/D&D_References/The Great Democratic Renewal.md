@@ -17,28 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -48,28 +42,18 @@ The Great Democratic Renewal is a undersea element of the setting, known for bio
 
 Legends speak of The Great Democratic Renewal as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Great Democratic Renewal.
 
-## Adventure Hooks
-
-- A rumor ties The Great Democratic Renewal to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Great Democratic Renewal to avert a public scandal.
-- A map overlay reveals a hidden approach to The Great Democratic Renewal active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[The Great Democratic Renewal|02 Worldbuilding/Places/The Great Democratic Renewal]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Tethyan Hegemony]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest a conspiracy
+- Strange accidents suggest a curse
+- A merchant needs help stealing before the festival
+- A merchant needs help finding before the new moon

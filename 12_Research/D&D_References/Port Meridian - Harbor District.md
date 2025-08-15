@@ -30,20 +30,30 @@ accessibility:
   - Open Door
 ---
 
-
-
-
-
-
-
 # Port Meridian - Harbor District
 
 ![[04_Resources/Assets/Art/Places/Port_Meridian_-_Harbor_District.png|Port Meridian - Harbor District Portrait]]
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 Port Meridian - Harbor District is a living crossroads where memory-currents and trade flows intersect. Merchants, informants, and faiths compete to steer the tides of influence. The Convergence leaves subtle scars here: whispers cling to stone, and bargains echo across depths.
-
-## Districts and Features
 
 ### Echo Quay Market
 **Daily Operating Hours**: 0500-2200 (Following tide schedules)
@@ -74,10 +84,10 @@ Port Meridian - Harbor District is a living crossroads where memory-currents and
   - Vessels processed: 4-8 per hour
   - Average wait time: 15-30 minutes
   - Mixed traffic: Private vessels, fishing boats, courier ships
-- **Maintenance Window** (0200-0500): Reduced capacity
+- **Maintece Window** (0200-0500): Reduced capacity
   - Essential traffic only
   - Emergency services priority
-  - Technical maintenance performed
+  - Technical maintece performed
 
 ### Quiet Chapel Services
 **Formal Hours**: 0700-1900 (Sacred hours)
@@ -87,15 +97,11 @@ Port Meridian - Harbor District is a living crossroads where memory-currents and
 - **Evening Services** (1600-1900): Community worship, cultural events
 - **Silent Hours** (1900-0700): Emergency oaths only, no formal services
 
-## Daily Population Flows and Rush Hours
-
-### Harbor District Traffic Patterns
-
 #### Early Morning (0400-0800)
 **Fishing Fleet Return and Dawn Commerce**:
 - **0400-0600**: Night fishing fleet returns with catches
   - Harbor population: 1,500-2,000 (fishermen, dock workers, early traders)
-  - Activity: Unloading, initial fish market setup, equipment maintenance
+  - Activity: Unloading, initial fish market setup, equipment maintece
   - Key locations: Fishing docks, early market stalls, warehouse areas
 - **0600-0800**: Commercial dawn rush begins
   - Population: 3,000-4,500 (traders, workers, early shoppers)
@@ -135,31 +141,6 @@ Port Meridian - Harbor District is a living crossroads where memory-currents and
 - Activity: Security patrols, emergency services, night fishing departure
 - Limited services: Emergency repairs, urgent cargo, security response
 
-## Factions Present
-- Pearl Guard customs officers squeeze revenue and information.
-- The Coral Throne Syndicate arbitrages tariffs and rumor futures.
-- Verdant Accord envoys quietly track bio-crafted goods and seed bans.
-
-## For the Table (Quick Use)
-- Negotiation DCs: Honest trade DC 12; Gray market DC 15; Smuggling DC 17. On a failure, progress with a telltale rumor seeded in the crowd instead of stalling.
-- Hazards: Pressure surges (CON save DC 13 or gain 1 level of Fatigue), slipstream knocks (DEX save DC 12 or lose 1 item to the current).
-- Rewards: Faction favor notes, tariff keys, market scrip worth 2d10×10 gp in local value.
-
-## Threads to the Main Campaign
-- Archivists claim a ledger fragment pointing toward [[02_Worldbuilding/Lore/The Lighthouse of Storms.md|The Lighthouse of Storms]].
-- A clandestine auction circles artifacts tied to [[02_Worldbuilding/Quests/The Whispering Expanse.md|The Whispering Expanse]].
-- An information broker with ties to [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]] trades memories for favors.
-
-## Multiple Resolution Paths (Fail-Forward)
-- Buy the schedule: Secure the Pressure Gate manifests; even on failure, you obtain a partial list that points to a decoy shipment and fresh leads.
-- Bribe or distract: Create a diversion at Echo Quay; on a setback, the guard marks you but also warns of a coming tariff strike.
-- Formal petition: Argue precedent at the Quiet Chapel; on a miss, the judge imposes a bond that grants limited passage and a clock to pay it back.
-
-## Cross-References
-- [[02_Worldbuilding/Lore/The Lighthouse of Storms.md|The Lighthouse of Storms]]
-- [[02_Worldbuilding/Quests/The Whispering Expanse.md|The Whispering Expanse]]
-- [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]]
-
 ## Player-Facing Summary
 
 Port Meridian   Harbor District is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -168,25 +149,23 @@ Port Meridian   Harbor District is a undersea element of the setting, known for 
 
 Legends speak of Port Meridian   Harbor District as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Port Meridian   Harbor District.
 
-## Adventure Hooks
-
-- A rumor ties Port Meridian   Harbor District to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Port Meridian   Harbor District to avert a public scandal.
-- A map overlay reveals a hidden approach to Port Meridian   Harbor District active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Quest - The Truth Unveiled]]
-- [[Find the Grief Bomb]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

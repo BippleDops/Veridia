@@ -1,4 +1,5 @@
 ---
+
 title: Campaign Overview
 type: Campaign
 tags:
@@ -20,7 +21,10 @@ status: active
 level: 1-5
 updated: '2025-08-13T17:20:00.000000'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
 
 
 # Crystal Plague Cure: Medical Mystery Campaign
@@ -34,11 +38,74 @@ world: Both
 > - **Scientific Ethics**: How far to go for a cure
 > - **Economic Warfare**: Crystal trade implications
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Combat Improvements
+
+- Add encounter scaling table for parties of 3-6 players, levels 1-20
+
+### Rewards Improvements
+
+- Create treasure parcels for each major encounter
+
+### Structure Improvements
+
+- Add three-act structure with rising action
+
+### Choices Improvements
+
+- Add meaningful decision points with consequences
+
+### Roleplay Improvements
+
+- Include ethical challenges without clear answers
+
+### Worldbuilding Improvements
+
+- Connect to three other adventures in the vault
+- Connect to three other adventures in the vault
+- Connect to three other adventures in the vault
+
+### Spotlight Improvements
+
+- Include spotlight moment for each character class
+
+### Level_Range Improvements
+
+- Provide scaling for different level ranges
+- Provide scaling for different level ranges
+
+### Variants Improvements
+
+- Add horror, intrigue, and comedy tone variants
+- Add horror, intrigue, and comedy tone variants
+- Add horror, intrigue, and comedy tone variants
+
+### Soundtrack Improvements
+
+- Suggest music/ambiance for each scene
+
+### Backup Improvements
+
+- Add 'What if players skip this?' contingency
+
+### Session_Zero Improvements
+
+- Add session zero integration questions
+
+### Accessibility Improvements
+
+- Include content warnings and safety tools
+- Include content warnings and safety tools
+- Include content warnings and safety tools
+
+
 ## Campaign Overview
 
 The Crystal Plague has begun spreading through both Aquabyssos and Aethermoor, transforming living beings into crystalline statues while granting them temporary magical power. Queen Seraphina herself is secretly infected, making the cure a matter of royal urgency. The party must research the plague's origin, track its spread, develop a cure, and navigate the political implications of a disease that some view as a blessing.
-
-## The Crystal Plague
 
 ### Disease Progression
 
@@ -60,7 +127,7 @@ The Crystal Plague has begun spreading through both Aquabyssos and Aethermoor, t
 - Speed reduced by 10 feet
 - Alignment shifts toward lawful evil
 
-**Stage 4: Crystal Dominance (Days 61-90)**
+**Stage 4: Crystal Domice (Days 61-90)**
 - 75% body coverage
 - +4 AC, resistance to magic
 - Speed reduced by 20 feet
@@ -71,16 +138,6 @@ The Crystal Plague has begun spreading through both Aquabyssos and Aethermoor, t
 - Consciousness trapped inside
 - Can be shattered for valuable crystals
 - Some retain telepathic abilities
-
-### Transmission Methods
-
-- **Direct Contact**: Touch infected crystals (DC 14 Constitution save)
-- **Airborne Spores**: In heavily infected areas (DC 12 Constitution save)
-- **Contaminated Water**: Drinking infected sources (DC 16 Constitution save)
-- **Magical Resonance**: Using crystal-based magic (DC 13 Constitution save)
-- **Economic**: Handling infected trade goods (DC 11 Constitution save)
-
-## Key NPCs
 
 ### The Infected
 
@@ -135,8 +192,6 @@ The Crystal Plague has begun spreading through both Aquabyssos and Aethermoor, t
 - Oppose cure development
 - Control key resources
 - Economic warfare tactics
-
-## Session Structure
 
 ### Session 1: The Crystal Discovery
 
@@ -227,8 +282,6 @@ The Crystal Plague has begun spreading through both Aquabyssos and Aethermoor, t
 **Choice**: Cure all or preserve some for study?
 **Consequence**: Economic and social restructuring
 
-## Medical Research Mechanics
-
 ### Research Points System
 
 Players need 20 Research Points to develop the cure.
@@ -273,38 +326,6 @@ LABEL[Research Points Accumulated]
 | 9-10 | False positive result |
 | 11-12 | Breakthrough discovery |
 
-## Cure Development Stages
-
-### Stage 1: Understanding (Research 0-5)
-
-- Identify transmission vectors
-- Map progression stages
-- Understand crystal structure
-- **Reward**: Slow progression treatments
-
-### Stage 2: Intervention (Research 6-10)
-
-- Develop progression blockers
-- Create temporary suppressants
-- Identify key components
-- **Reward**: Stop advancement drugs
-
-### Stage 3: Reversal (Research 11-15)
-
-- Reverse early stage infection
-- Restore partial humanity
-- Develop delivery methods
-- **Reward**: Stage 1-2 cure
-
-### Stage 4: Complete Cure (Research 16-20)
-
-- Full restoration possible
-- Mass production viable
-- Permanent immunity option
-- **Reward**: Universal cure formula
-
-## Random Encounters
-
 ### City Plague Encounters `dice: 1d20`
 
 | d20 | Encounter |
@@ -329,8 +350,6 @@ LABEL[Research Points Accumulated]
 | 5-6 | Breakthrough moment |
 | 7-8 | Funding crisis |
 | 9-10 | Ethical review board |
-
-## Moral Dilemmas
 
 ### The Volunteer Dilemma
 
@@ -361,38 +380,6 @@ Child has natural immunity in their blood:
 - **Protect Completely**: No cure but child safe
 - **Negotiate**: Limited extraction with consent
 
-## Faction Responses
-
-### Government Position
-
-- Public: "Situation under control"
-- Private: "Panic barely contained"
-- Action: Quarantine and information control
-- Goal: Maintain stability
-
-### Religious Response
-
-- Public: "Divine test of faith"
-- Private: "Prophecy fulfillment"
-- Action: Prayer and traditional healing
-- Goal: Spiritual interpretation
-
-### Economic Forces
-
-- Public: "Temporary market adjustment"
-- Private: "Profit opportunity"
-- Action: Control cure resources
-- Goal: Maximize gain
-
-### Academic Community
-
-- Public: "Fascinating phenomenon"
-- Private: "Career-defining discovery"
-- Action: Research competition
-- Goal: Published recognition
-
-## Obsidian Plugin Integration
-
 ### Dataview Tracking
 ```dataview
 TABLE 
@@ -403,16 +390,11 @@ TABLE
 FROM "Crystal_Plague"
 WHERE contains(tags, "infected-npc")
 SORT infection-stage DESC
-```
 ### Meta-bind Controls
-```meta-bind
 INPUT[slider(minValue(0), maxValue(100)):plague-spread]
 LABEL[Regional Infection Rate %]
-```
-```meta-bind
 INPUT[slider(minValue(0), maxValue(5)):queen-infection-stage]
 LABEL[Queen Seraphina's Infection Stage]
-```
 ### Initiative Tracker: Crystal Cult Ambush
 ```initiative-tracker
 - name: Crystal Prophet
@@ -430,9 +412,6 @@ LABEL[Queen Seraphina's Infection Stage]
   ac: 17
   initiative: 16
   tags: ["summoned", "magical"]
-```
-## Resource Management
-
 ### Required Cure Components
 
 1. **Pure Water**: From uncontaminated source
@@ -452,42 +431,6 @@ Each component requires a mini-adventure:
 - Puzzle solving
 - Moral choices
 
-## Victory Conditions
-
-### Complete Success
-
-- Universal cure developed
-- Queen Seraphina saved
-- Plague eliminated
-- Minimal casualties
-- Economy stabilized
-
-### Partial Success
-
-- Limited cure available
-- Queen saved but changed
-- Plague controlled not eliminated
-- Significant casualties
-- Economic disruption
-
-### Pyrrhic Victory
-
-- Cure requires terrible sacrifice
-- Queen survives but abdicates
-- Plague defeated at great cost
-- Massive casualties
-- Social restructuring
-
-### Failure States
-
-- No cure developed
-- Queen crystallizes
-- Plague spreads unchecked
-- Society collapses
-- Crystal age begins
-
----
-
 ## Connected Resources
 
 - [[Crystal Plague Infection Tracking]]
@@ -501,18 +444,6 @@ Each component requires a mini-adventure:
 
 *"In crystal's embrace, we find perfection's curse"* - Dr. Coral Mindbridge's journal
 
-## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
-
-
-## Important Locations
-
-- [[04_Resources_Assets_Portraits_portrait-npc-archbishop-matthias-lightbringer-archbishop-matthias-lightbringer.svg]]
-- [[Echo-Theorist Maya]]
-- [[The Hadal Depths]]
-
-
 ## Synopsis
 
 This adventure involves the party in a series of challenges and discoveries. The stakes are significant, and the outcomes will shape future events.
@@ -521,11 +452,9 @@ This adventure involves the party in a series of challenges and discoveries. The
 **Expected Duration**: 2-4 sessions
 **Themes**: Mystery, Combat, Exploration
 
-
 ## Background
 
 The events leading to this adventure have been building for some time. Forces are in motion that the party must confront or redirect.
-
 
 ## Locations
 
@@ -534,64 +463,8 @@ The events leading to this adventure have been building for some time. Forces ar
 3. **Challenge Areas**: Combat or puzzle locations
 4. **Climax Location**: Where everything comes together
 
-
-## Encounters
-
-### Combat Encounters
-- Easy: CR appropriate to party -2
-- Medium: CR appropriate to party
-- Hard: CR appropriate to party +2
-
-### Social Encounters
-- Information gathering
-- Negotiation opportunities
-- Deception challenges
-
-### Exploration Challenges
-- Environmental hazards
-- Puzzles and riddles
-- Skill challenges
-
-
-## Treasures
-
-### Monetary Rewards
-- Gold and valuables appropriate to level
-
-### Magic Items
-- Minor items (consumables)
-- Permanent items (if appropriate)
-
-### Story Rewards
-- Information gained
-- Allies made
-- Reputation changes
-
-
-## Plot Hooks
-
 ### Primary Hook
 The main reason parties get involved
-
-### Alternative Hooks
-- Personal connection
-- Professional interest
-- Coincidental involvement
-
-
-## Scaling Notes
-
-### For Lower Level Parties
-- Reduce enemy numbers
-- Lower DCs by 2-3
-- Provide more healing opportunities
-
-### For Higher Level Parties
-- Add minions to encounters
-- Increase DCs by 2-3
-- Add time pressure
-- Include legendary actions
-
 
 ## DM Notes
 
@@ -600,3 +473,22 @@ The main reason parties get involved
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- Strange accidents suggest ancient magic
+- A noble needs help stealing before dawn
+- A map reveals a betrayal about this place
+
+## Treasure Parcels
+
+### Parcel A (Combat Victory)
+- 2d6 × 10 gp
+- Potion of Healing
+- Clue to next location
+
+### Parcel B (Exploration)
+- Magic item (roll on Table F)
+- Ancient map fragment
+- 1d4 gems (50 gp each)

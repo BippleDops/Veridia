@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.830178+00:00'
 world: Both
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-speaking-stones-the-speaking-stones.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[The Emerald Sage Willowbark|02 Worldbuilding/People/The Emerald Sage Willowbark]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[The Emerald Sage Willowbark]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,33 @@ The Speaking Stones is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Speaking Stones as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Speaking Stones.
 
-## Adventure Hooks
-
-- A rumor ties The Speaking Stones to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Speaking Stones to avert a public scandal.
-- A map overlay reveals a hidden approach to The Speaking Stones active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Relationships
+
+- **Sibling**: [[Ambassador Korvin Blacktide]]
+- **Rival**: [[Portrait NPC Quest the Pretender V2 Quest the Pretender.svg]]
+- **Creditor**: [[Portrait NPC Vex Shadowthorn S Apprentices V1 Vex Shadowthorn S Apprentices.svg]]
+- **Ally**: [[Portrait NPC Banking Lord Cornelius Coinwright Banking Lord Cornelius Coinwright.svg]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

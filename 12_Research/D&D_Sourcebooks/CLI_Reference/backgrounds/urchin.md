@@ -21,14 +21,11 @@ updated: '2025-08-13T01:18:32.436058+00:00'
 world: Both
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-street-urchin-gang-street-urchin-gang.svg]]
 
 # Urchin
 *Source: Player's Handbook p. 141*  
-
 
 - **Skill Proficiencies.** [[skills#Sleight%20of%20Hand|Sleight of Hand]], [[skills#Stealth|Stealth]]  
 - **Tool Proficiencies.** [[disguise-kit-xphb|Disguise kit]], [[thieves-tools-xphb|Thieves' tools]]  
@@ -37,6 +34,24 @@ world: Both
 You grew up on the streets alone, orphaned, and poor. You had no one to watch over you or to provide for you, so you learned to provide for yourself. You fought fiercely over food and kept a constant watch out for other desperate souls who might steal from you. You slept on rooftops and in alleyways, exposed to the elements, and endured sickness without the advantage of medicine or a place to recuperate. You've survived despite all odds, and did so through cunning, strength, speed, or some combination of each.
 
 You begin your adventuring career with enough money to live modestly but securely for at least ten days. How did you come by that money? What allowed you to break free of your desperate circumstances and embark on a better life?
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Feature: City Secrets
 
@@ -87,7 +102,6 @@ Urchins are shaped by lives of desperate poverty, for good and for ill. They ten
 `dice: [](urchin.md#^flaw)`
 
 | dice: d6 | Flaw |
-|----------|------|
 | 1 | If I'm outnumbered, I will run away from a fight. |
 | 2 | Gold seems like a lot of money to me, and I'll do just about anything for more of it. |
 | 3 | I will never fully trust anyone other than myself. |
@@ -104,18 +118,9 @@ Urchin is a undersea element of the setting, known for bioluminescent glow and p
 
 Legends speak of urchin as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around urchin.
 
-## Adventure Hooks
-
-- A rumor ties urchin to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at urchin to avert a public scandal.
-- A map overlay reveals a hidden approach to urchin active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

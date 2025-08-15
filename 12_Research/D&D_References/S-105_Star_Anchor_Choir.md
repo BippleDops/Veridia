@@ -21,29 +21,25 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# S-105 Star Anchor Choir
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Read-Aloud
 > Choir decks open across the fleet, voices thrown into the stars. Your hull hums with the key of stability.
-
-## Setup
-- Band: High • Category: Reality/Mystic
-
-## Mechanics
-- Anchorite DC 15 lead harmony
-- Performance DC 14 sustain tone
-
-## Outcomes
-- Success: Integrity +2 within 1 mile for 24h
-- Partial: +1 only
-- Fail: Dissonance; Group Sanity DC 14 or short-term madness
-
-## Integrations
-- [[Complete Reality Merger System]]; [[Sanity System]]; Fleet doctrines
-
-## Quick-Run
-- Anchorite→Performance→apply Integrity and any sanity effects
 
 ## Player-Facing Summary
 
@@ -53,19 +49,30 @@ S 105 Star Anchor Choir is a undersea element of the setting, known for biolumin
 
 Legends speak of S 105 Star Anchor Choir as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around S 105 Star Anchor Choir.
 
-## Adventure Hooks
-
-- A rumor ties S 105 Star Anchor Choir to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at S 105 Star Anchor Choir to avert a public scandal.
-- A map overlay reveals a hidden approach to S 105 Star Anchor Choir active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

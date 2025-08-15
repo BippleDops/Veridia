@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.340448+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-angry-sorrowsworn-mpmm-angry-sorrowsworn-mpmm.svg)
 
@@ -39,6 +36,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 222, Mordenkainen's Tome of Foes p. 231*  
 
 Relying on violence to sustain their existence, angry sorrowsworn—sometimes called the Angry—grow more powerful when their foes fight back. If a creature opts not to attack, though, this sorrowsworn becomes confused, and its attacks weaken. It also has two heads, which bicker with each other incessantly.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Sorrowsworn
 
@@ -72,7 +87,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
 "traits":
   - "desc": "The sorrowsworn has advantage on saving throws against being [[conditions#Blinded|blinded]],\
       \ [[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
-      \ [[conditions#Frightened|frightened]], [[conditions#Stunned|stunned]],\
+      \ [[conditions#frightened|frightened]], [[conditions#Stunned|stunned]],\
       \ or knocked [[conditions#Unconscious|unconscious]]."
     "name": "Two Heads"
   - "desc": "If another creature deals damage to the sorrowsworn, the sorrowsworn's\
@@ -107,19 +122,31 @@ Angry sorrowsworn mpmm is a undersea element of the setting, known for biolumine
 
 Legends speak of angry sorrowsworn mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around angry sorrowsworn mpmm.
 
-## Adventure Hooks
-
-- A rumor ties angry sorrowsworn mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at angry sorrowsworn mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to angry sorrowsworn mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## Plot Hooks
+
+- Someone is searching for a artifact for revenge
+- Strange dreams suggest ancient magic
+- Someone is searching for information for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

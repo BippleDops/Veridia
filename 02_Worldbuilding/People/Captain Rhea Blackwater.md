@@ -1,4 +1,5 @@
 ---
+
 title: Captain Rhea Blackwater
 type: Npc
 tags:
@@ -18,6 +19,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.696308+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +29,69 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-rhea-blackwater-captain-rhea-blackwater.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward manipulation
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward negotiation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
 
 ## Player-Facing Summary
 
@@ -67,14 +100,6 @@ Captain Rhea Blackwater is a undersea element of the setting, known for biolumin
 ## Lore Details
 
 Legends speak of Captain Rhea Blackwater as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Rhea Blackwater.
-
-## Adventure Hooks
-
-- A rumor ties Captain Rhea Blackwater to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Captain Rhea Blackwater to avert a public scandal.
-- A map overlay reveals a hidden approach to Captain Rhea Blackwater active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +110,6 @@ Captain Rhea Blackwater's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Accumulating wealth
@@ -124,8 +119,6 @@ Captain Rhea Blackwater's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Captain Rhea Blackwater harbors secrets that could change everything:
@@ -133,10 +126,6 @@ Captain Rhea Blackwater harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Dark patron
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +144,6 @@ Captain Rhea Blackwater is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Captain Rhea Blackwater needs assistance with a delicate matter
@@ -164,8 +151,6 @@ Captain Rhea Blackwater is currently engaged in:
 3. **The Secret**: Information about Captain Rhea Blackwater's past surfaces
 4. **The Alliance**: Opportunity to work with or against Captain Rhea Blackwater
 5. **The Crisis**: Captain Rhea Blackwater is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,35 +164,38 @@ Captain Rhea Blackwater is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Captain Rhea Blackwater]]
+## Secret Connections
 
-<!-- enriched: true -->
-
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
 
 
+## Historical Timeline
 
-## Relationship Web
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
 
-- [[Otherworldly Pacts]]: *business partner*
-- [[NPCs Statblocks]]: *bitter rival*
-- [[04_Resources_Assets_Locations_location-city-culinary-dreamweaver-sage-gentlespice-v1-culinary-dreamweaver-sage-gentlespice.svg]]: *family member*
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
 
-## Connections
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
 
-### Home
-- [[04_Resources_Assets_Locations_location-city-the-umbral-nexus-v1-the-umbral-nexus.svg]]
 
-### Frequently Visits
-- [[04_Resources_Assets_Locations_location-city-marquis-aldwin-goldcurrent-v1-marquis-aldwin-goldcurrent.svg]]
-- [[04_Resources_Assets_Locations_location-city-insurance-industry-v1-insurance-industry.svg]]
-- [[Community Organizations]]
+## Religious Observances
 
-### Affiliations
-- [[Master Cultivator Apprenticeships]]
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
 
-### Known Associates
-- [[04_Resources_Assets_Symbols_symbol-heraldry-the-succession-crisis-the-succession-crisis.svg]] (enemy)
-- [[Emperor Thalassius the Wise]] (ally)
-- [[04_Resources_Assets_Portraits_portrait-npc-lady-catherine-mourning-lady-catherine-mourning.svg]] (enemy)
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

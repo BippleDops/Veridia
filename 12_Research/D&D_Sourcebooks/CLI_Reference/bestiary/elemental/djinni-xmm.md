@@ -29,13 +29,29 @@ updated: '2025-08-12T23:37:35.449423'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-djinni-xmm-djinni-xmm.svg)
 
 # [[djinni-xmm|Djinni]]
-*Source: Monster Manual (2024) p. 99. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 99. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Djinni
 
@@ -62,7 +78,6 @@ While many djinn create airy palaces on stormy coasts or high in the clouds, unt
   - !!int "21"
   - !!int "15"
   - !!int "22"
-  - !!int "15"
   - !!int "16"
   - !!int "20"
 "speed": "30 ft., fly 90 ft. (hover)"
@@ -75,7 +90,7 @@ While many djinn create airy palaces on stormy coasts or high in the clouds, unt
 "cr": "11"
 "traits":
   - "desc": "If the djinni dies outside the Elemental Plane of Air, its body dissolves\
-      \ into mist, and it gains a new body in d4 days, reviving with all its [[hit-points-xphb|Hit\
+      \ into mist, and it gains a new body in d4 days, reviving with all its [[hit-points-xphb|Hit\]]
       \ Points]] somewhere on the\
       \ Plane of Air."
     "name": "Elemental Restoration"
@@ -97,7 +112,7 @@ While many djinn create airy palaces on stormy coasts or high in the clouds, unt
       \ plus 7 (2d6) Lightning damage."
     "name": "Storm Blade"
   - "desc": "Ranged Attack Roll: +9, range 120 feet. Hit: 13 (3d8) Thunder damage.\
-      \ If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
+      \ If the target is a Large or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Storm Bolt"
   - "desc": "The djinni conjures a whirlwind at a point it can see within 120 feet.\
@@ -143,19 +158,30 @@ Djinni xmm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of djinni xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around djinni xmm.
 
-## Adventure Hooks
-
-- A rumor ties djinni xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at djinni xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to djinni xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- A noble needs help stealing before the new moon
+- Someone is blackmailing an heir for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

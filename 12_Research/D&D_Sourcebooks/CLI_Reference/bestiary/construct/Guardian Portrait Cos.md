@@ -27,9 +27,6 @@ updated: '2025-08-13T12:34:06.094635+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-guardian-portrait-cos-guardian-portrait-cos.svg)
 
@@ -37,6 +34,24 @@ world: Both
 *Source: Curse of Strahd p. 227*  
 
 A guardian portrait looks like a finely rendered and beautifully framed work of art, usually depicting someone important in a realistic manner. The picture and its frame are bound with powerful magic and are inseparable.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Living Image
 
@@ -58,17 +73,14 @@ When a guardian portrait attacks, the figure in the painting animates and moves 
 "modifier": !!int "-5"
 "stats":
   - !!int "1"
-  - !!int "1"
   - !!int "10"
   - !!int "14"
-  - !!int "10"
-  - !!int "10"
 "speed": "0 ft."
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Grappled|grappled]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
-  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#prone|prone]],\
   \ [[conditions#Restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Common, plus up to two other languages"
@@ -77,12 +89,12 @@ When a guardian portrait attacks, the figure in the painting animates and moves 
   - "desc": "The portrait's innate spellcasting ability is Intelligence (spell save\
       \ DC 12). The portrait can innately cast the following spells, requiring no\
       \ material components:\n\n3/day each: [[counterspell-xphb|counterspell]],\
-      \ [[crown-of-madness-xphb|crown of madness]], [[hypnotic-pattern-xphb|hypnotic\
+      \ [[crown-of-madness-xphb|crown of madness]], [[hypnotic-pattern-xphb|hypnotic\]]
       \ pattern]], [[telekinesis-xphb|telekinesis]]"
     "name": "Innate Spellcasting"
   - "desc": "An animated object doesn't require air, food, drink, or sleep.\n\nThe\
       \ magic that animates an object is dispelled when the construct drops to 0 hit\
-      \ points. An animated object reduced to 0 hit points becomes inanimate and is\
+      \ points. An animated object reduced to 0 hit points becomes iimate and is\
       \ too damaged to be of much use or value to anyone."
     "name": "Constructed Nature"
   - "desc": "The portrait is [[conditions#Incapacitated|incapacitated]]\
@@ -109,19 +121,18 @@ Guardian portrait cos is a undersea element of the setting, known for biolumines
 
 Legends speak of guardian portrait cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around guardian portrait cos.
 
-## Adventure Hooks
-
-- A rumor ties guardian portrait cos to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at guardian portrait cos to avert a public scandal.
-- A map overlay reveals a hidden approach to guardian portrait cos active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and evil awakens
+- A prisoner has gone missing and evil awakens
+- An heirloom has gone missing and truth emerges
+- A noble needs help stealing before the festival

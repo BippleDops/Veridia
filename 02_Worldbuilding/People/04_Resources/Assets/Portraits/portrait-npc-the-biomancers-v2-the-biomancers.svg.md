@@ -1,4 +1,5 @@
 ---
+
 title: portrait npc the biomancers v2 the biomancers.svg
 aliases:
 - portrait npc the biomancers v2 the biomancerssvg
@@ -9,6 +10,7 @@ tags:
 - npc
 - character
 - active
+- bloodline
 created: 2025-08-14
 modified: '2025-08-14'
 status: placeholder
@@ -16,12 +18,80 @@ race: Unknown
 class: Unknown
 location: Unknown
 updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
 
 
 # 04_Resources/Assets/Portraits/portrait-npc-the-biomancers-v2-the-biomancers.svg
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
 
 ## Description
 
@@ -30,12 +100,6 @@ updated: 2025-08-14
 ## Details
 
 *[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[NPC_Portraits_Gallery 2]]
-- [[Npc Portraits Gallery]]
 
 ## Notes
 
@@ -56,7 +120,6 @@ portrait-npc-the-biomancers-v2-the-biomancers.svg presents a distinctive figure.
 - **Typical Attire**: Professional garments suited to their role
 - **Mannerisms**: [Describe habits and gestures]
 
-
 ## Personality
 
 **Traits**: Cautious, patient, brave
@@ -67,7 +130,6 @@ portrait-npc-the-biomancers-v2-the-biomancers.svg presents a distinctive figure.
 
 **Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
 
-
 ## Background
 
 portrait-npc-the-biomancers-v2-the-biomancers.svg's path to their current position involved:
@@ -76,48 +138,6 @@ portrait-npc-the-biomancers-v2-the-biomancers.svg's path to their current positi
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-## Relationships
-
-### Allies
-- Professional colleagues and supporters
-- Political or business connections
-
-### Rivals
-- Competitors in their field
-- Ideological opponents
-
-### Neutral Parties
-- Those who could be swayed either way
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
 
 ## Motivations
 
@@ -128,7 +148,6 @@ portrait-npc-the-biomancers-v2-the-biomancers.svg's path to their current positi
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
 ## Secrets
 
 portrait-npc-the-biomancers-v2-the-biomancers.svg harbors secrets that could change everything:
@@ -136,9 +155,6 @@ portrait-npc-the-biomancers-v2-the-biomancers.svg harbors secrets that could cha
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Secret alliance
-
-
-
 
 ## Voice & Mannerisms
 
@@ -157,7 +173,6 @@ portrait-npc-the-biomancers-v2-the-biomancers.svg is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
 ## Plot Hooks
 
 1. **The Request**: portrait-npc-the-biomancers-v2-the-biomancers.svg needs assistance with a delicate matter
@@ -166,7 +181,6 @@ portrait-npc-the-biomancers-v2-the-biomancers.svg is currently engaged in:
 4. **The Alliance**: Opportunity to work with or against portrait-npc-the-biomancers-v2-the-biomancers.svg
 5. **The Crisis**: portrait-npc-the-biomancers-v2-the-biomancers.svg is caught in a situation requiring intervention
 
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -174,9 +188,6 @@ portrait-npc-the-biomancers-v2-the-biomancers.svg is currently engaged in:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
-
 
 ## Statistics (D&D 5e)
 
@@ -200,14 +211,24 @@ languages: Common
 cr: 1/4
 ```
 
-## DM Notes
 
-### Usage Tips
-- portrait-npc-the-biomancers-v2-the-biomancers.svg works best as a recurring NPC
-- Can serve as quest giver, information source, or obstacle
-- Personality should be consistent but can evolve
+## Bloodline
 
-### Scaling
-- Adjust capabilities to party level
-- Influence can grow or wane with story
-- Secrets can be revealed gradually
+Member of House Eagleblood - Trait: curse
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

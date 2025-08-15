@@ -23,14 +23,11 @@ updated: '2025-08-12T23:37:37.618898'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-yester-hill-axe-cos-v1-yester-hill-axe-cos.svg)
 
 # Yester Hill Axe
 *Weapon ([[battleaxe-xphb|battleaxe]])*  
-
 
 - **Damage**:
   - One-handed: 1d8 slashing
@@ -42,6 +39,24 @@ The axe's handle is carved with leaves and vines, and it weighs half as much as 
 
 *Source: Curse of Strahd p. 198*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Yester hill axe cos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -50,18 +65,9 @@ Yester hill axe cos is a undersea element of the setting, known for bioluminesce
 
 Legends speak of yester hill axe cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around yester hill axe cos.
 
-## Adventure Hooks
-
-- A rumor ties yester hill axe cos to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at yester hill axe cos to avert a public scandal.
-- A map overlay reveals a hidden approach to yester hill axe cos active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

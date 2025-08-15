@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.537931'
 world: Both
 ---
 
-
 # Chapter 9: Tsolenka Pass
 *Source: Curse of Strahd, p. 157* 
 
@@ -32,6 +31,24 @@ Tsolenka Pass is a gravel road that hugs Mount Ghakis, climbing to great heights
 > [!quote] A quote from [[strahd-von-zarovich-cos|Strahd von Zarovich]] in I, Strahd: The Memoirs of a Vampire  
 > 
 > The road curved and climbed, making a lengthy switchback into this edge of Mount Ghakis. The air grew colder, not warmer, and patches of snow became more frequent until they were unbroken.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Areas of the Pass
 
@@ -46,9 +63,7 @@ The following areas correspond to labels on the map of the Tsolenka Pass below. 
 When the characters approach from the west, read:
 
 > [!readaloud] 
-> 
 > The shelf of rock on which the mountain road clings grows narrow. To your left, the icy cliffs rise sharply toward dark, rolling clouds. To your right, the ground falls away into a sea of fog. Ahead, through the wind and snow, you see a high wall of black stone lined with spikes and topped by statues of demonic vultures with horned heads. Set in the center of the wall is a closed iron portcullis, behind which burns a curtain of green flame.
-> 
 > On the other side of the dark wall, gripping the mountain's edge, is a guard tower of white stone topped by golden statues of mighty warriors.
 ^533
 
@@ -70,8 +85,6 @@ A successful casting of [[dispel-magic-xphb|dispel magic]] (DC 16) suppresses th
 
 The tower door is made of ironbound wood and barred from within. A character can force open the door with a successful DC 22 Strength ([[skills#Athletics|Athletics]]) check.
 
-> [!readaloud] 
-> 
 > A cold hearth stands across from the door, the wind howling down its chimney. A stone staircase is on the south wall. Three windows look out over a foggy sea.
 ^537
 
@@ -83,8 +96,6 @@ Characters who teleport to this location from area K78 in Castle Ravenloft arriv
 
 ### T5. Guard Tower, Upper Floor
 
-> [!readaloud] 
-> 
 > The upper level of the tower is an icebox with windows set in almost every wall. A rusted iron ladder bolted to the floor and ceiling leads up to a wooden trapdoor. Mounted above the stone hearth is a dire wolf's head. The wind coming down the chimney howls in its stead.
 ^53a
 
@@ -92,8 +103,6 @@ The trapdoor in the ceiling pushes open with a squeal, revealing the rooftop (ar
 
 ### T6. Guard Tower Rooftop
 
-> [!readaloud] 
-> 
 > Ten-foot-tall, gold-plated statues stand atop the battlements, facing outward. Each one depicts a female human knight holding a lance. The cold wind stirs the snow, under which you see human skeletons clad in rusty mail.
 ^53c
 
@@ -105,8 +114,6 @@ The skeletons are the remains of four guards who held this post long ago. Charac
 
 If your card reading reveals that a treasure is here, read:
 
-> [!readaloud] 
-> 
 > The swirling snow assumes the forms of thin, young women. The wind howls, "Begone! The treasure is ours!"
 ^53e
 
@@ -121,8 +128,6 @@ The snow maidens don't speak, nor are they interested in hearing what the charac
 
 When the characters approach the bridge, read:
 
-> [!readaloud] 
-> 
 > The snowy pass comes to a gorge spanned by a stone bridge. At each end of the bridge is a thirty-foot-tall, thirty-foot-wide stone arch. Atop each one are two statues of armored knights on horseback with lances, charging toward one another. The wind bites and howls like wolves as it passes through the gorge.
 ^540
 
@@ -130,8 +135,6 @@ The western arch contains empty guard posts, one on each side of the bridge. The
 
 ### T8. Stone Bridge
 
-> [!readaloud] 
-> 
 > The low walls that enclose the stone bridge have fallen away in a couple of places, but the bridge appears intact. A black-cloaked rider on a charcoal-colored horse guards the middle of the bridge.
 ^542
 
@@ -141,8 +144,6 @@ Five hundred feet below the bridge is the Luna River, barely visible through the
 
 ### T9. Eastern Arch
 
-> [!readaloud] 
-> 
 > One of the statues atop this arch has crumbled, leaving only the hindquarters of the horse intact. The mountain pass continues beyond.
 ^544
 
@@ -160,8 +161,6 @@ As the characters cross the stone bridge (area T8) from east to west—possibly 
 
 When the Roc of Mount Ghakis appears, read:
 
-> [!readaloud] 
-> 
 > Diving toward the bridge is a creature of unearthly size—a bird so monstrous that its wings blot out the sky.
 ^547
 
@@ -173,15 +172,11 @@ The roc attacks a random creature on the bridge, snatching up a horse or a mule,
 
 As the characters make their way along Tsolenka Pass, they encounter a beast that the druids and berserkers of Barovia call [[/03_Mechanics/CLI/bestiary/npc/sangzor-cos|Sangzor]] ("Bloodhorn"):
 
-> [!readaloud] 
-> 
 > The road ahead is cut out of the mountainside, rising steeply to one side and falling away on the other. Mist and snow greatly reduce visibility, and the howling wind cuts through you like a knife.
 ^549
 
 If no character has a passive Wisdom ([[skills#Perception|Perception]]) score of 16 or higher, the party is [[conditions#Surprised|surprised]]. Otherwise, read:
 
-> [!readaloud] 
-> 
 > A nine-foot-tall goat stands atop a crag above you, its gray fur blending perfectly with the rock of the mountainside. It lowers its head, and malice glimmers in its eyes.
 ^54a
 
@@ -208,18 +203,9 @@ A character who wears [[/03_Mechanics/CLI/bestiary/npc/sangzor-cos|Sangzor]]'s p
 
 Legends speak of 11 chapter 9 tsolenka pass as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 11 chapter 9 tsolenka pass.
 
-## Adventure Hooks
-
-- A rumor ties 11 chapter 9 tsolenka pass to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 11 chapter 9 tsolenka pass to avert a public scandal.
-- A map overlay reveals a hidden approach to 11 chapter 9 tsolenka pass active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

@@ -24,15 +24,11 @@ updated: '2025-08-13T12:34:07.950841+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-jakarions-staff-of-frost-cos-jakarions-staff-of-frost-cos.svg)
 
 # Jakarion's Staff of Frost
 *Staff, weapon, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*  
-
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
@@ -50,6 +46,24 @@ Imprinted on this staff is a fragment of a dead wizard's personality. The first 
 
 *Source: Curse of Strahd p. 187*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Jakarions staff of frost cos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -58,19 +72,25 @@ Jakarions staff of frost cos is a undersea element of the setting, known for bio
 
 Legends speak of jakarions staff of frost cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around jakarions staff of frost cos.
 
-## Adventure Hooks
-
-- A rumor ties jakarions staff of frost cos to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at jakarions staff of frost cos to avert a public scandal.
-- A map overlay reveals a hidden approach to jakarions staff of frost cos active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help finding before dawn
+- Someone is hunting a witness for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

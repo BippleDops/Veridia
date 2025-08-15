@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.109403+00:00'
 world: Both
 ---
 
-
-
 # Urban Encounters (Levels 5—10)
 *Source: Xanathar's Guide to Everything p. 110* 
 
@@ -78,13 +76,31 @@ world: Both
 | 92 | 1d3 [[invisible-stalker-xmm|invisible stalkers]] |
 | 93 | 1 [[gray-slaad-xmm|gray slaad]] |
 | 94 | 1 [[young-silver-dragon-xmm|young silver dragon]] |
-| 95 | 1d4 [[cambion-xmm|cambions]] or 1d4 [[revenant-xmm|revenants]] |
+| 95 | 1d4 [[cambion-xmm|cambions]] or 1d4 [[revet-xmm|revets]] |
 | 96 | 3d6 [[wight-xmm|wights]] |
 | 97 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|archmage]] |
 | 98 | 2d4 [[vampire-spawn-xmm|vampire spawn]] or 1d4 [[oni-xmm|oni]] |
 | 99 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mage]] with 1 [[shield-guardian-xmm|shield guardian]] |
 | 00 | 1 [[rakshasa-xmm|rakshasa]] or 1 [[vampire-xmm|vampire]] |
 ^urban-encounters-levels-510
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -94,19 +110,20 @@ Urban encounters levels 510 xge is a undersea element of the setting, known for 
 
 Legends speak of urban encounters levels 510 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around urban encounters levels 510 xge.
 
-## Adventure Hooks
-
-- A rumor ties urban encounters levels 510 xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at urban encounters levels 510 xge to avert a public scandal.
-- A map overlay reveals a hidden approach to urban encounters levels 510 xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

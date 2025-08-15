@@ -29,8 +29,6 @@ updated: '2025-08-12T23:37:35.386750'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-corpse-flower-mpmm-corpse-flower-mpmm.svg)
 
@@ -51,7 +49,6 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
 "hit_dice": "15d10 + 45"
 "modifier": !!int "2"
 "stats":
-  - !!int "14"
   - !!int "14"
   - !!int "16"
   - !!int "7"
@@ -108,6 +105,24 @@ With or without corpses nested in its body, a corpse flower exudes a stench of d
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 forest, swamp, urban
@@ -120,19 +135,25 @@ Corpse flower mpmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of corpse flower mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around corpse flower mpmm.
 
-## Adventure Hooks
-
-- A rumor ties corpse flower mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at corpse flower mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to corpse flower mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

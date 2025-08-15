@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.661506+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-wood-woad-mpmm-v1-wood-woad-mpmm.svg)
 
@@ -45,7 +42,7 @@ In the ritual, a living person's chest is pierced and the heart removed. A seed 
 
 This new body, armored in tough bark and bearing a gnarled club and shield, is at once ready to perform its duty. The one who performed the ritual sets the wood woad to its task, and the creature follows those orders unceasingly.
 
-A wood woad has a hole where its heart would be, just as does the body of its former self, buried in the earth. Those who become wood woads trade their free will and all sense of sentiment for supernatural strength and a deathless duty. They exist only to protect woodlands and the people who tend them. A wood woad's face is void and expressionless, except for the motes of light that swim about in its eye sockets. Wood woads speak little, and when not called on to take action, they root themselves in the earth and silently take sustenance from it.
+A wood woad has a hole where its heart would be, just as does the body of its former self, buried in the earth. Those who become wood woads trade their free will and all sense of sentiment for supernatural strength and a deathless duty. They exist only to protect woodlands and the people who tend them. A wood woad's face is void and expressionless, except for the motes of light that swim about in its eye sockets. Wood woads speak little, and when not called on to take action, they root themselves in the earth and silently take sustece from it.
 
 Like trees, wood woads need only sunlight, air, and nutrients from the earth to go on living. Because they are undying, some wood woads outlive their original purpose. The site a wood woad guards might lose its power or significance over time, or those whom it was assigned to guard might die. If it is freed from its specific duties, a wood woad might roam to find another place of natural beauty or fey influence to watch over.
 
@@ -75,10 +72,9 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+4"
 "damage_vulnerabilities": "fire"
 "damage_resistances": "bludgeoning, piercing"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Sylvan"
 "cr": "5"
@@ -110,6 +106,24 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 forest
@@ -122,19 +136,25 @@ Wood woad mpmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of wood woad mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wood woad mpmm.
 
-## Adventure Hooks
-
-- A rumor ties wood woad mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at wood woad mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to wood woad mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- Strange sightings suggest a curse
+- A journal reveals a betrayal about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

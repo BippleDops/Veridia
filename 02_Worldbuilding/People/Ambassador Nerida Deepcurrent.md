@@ -1,4 +1,5 @@
 ---
+
 title: Ambassador Nerida Deepcurrent
 type: NPC
 tags:
@@ -14,6 +15,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.484964+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -22,23 +25,69 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-ambassador-nerida-deepcurrent-ambassador-nerida-deepcurrent.svg]]
 
 
-# Ambassador Nerida Deepcurrent
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
 
 ## Overview
 The enigmatic envoy from the Tidal Courts of Aquabyssos, a vast underwater empire thought lost to legend. Nerida arrived in [[Crystalhaven]] six months ago, claiming to represent the "Drowned Parliament"—a coalition of submerged civilizations that have thrived beneath the waves for centuries.
-
-## Appearance
-- Aquamarine skin with bioluminescent markings that pulse with emotion
-- Long hair like flowing kelp, adorned with pearls and coral
-- Wears a gown of woven sea silk that never fully dries
-- Travels in a palanquin filled with enchanted seawater
-- Accompanied by two Deep Guard warriors in coral armor
-
-## Personality
-- Diplomatically charming but subtly condescending toward "surface dwellers"
-- Views the crystal corruption as primitive compared to Aquabyssos's magical mastery
-- Genuinely curious about surface politics but maintains superiority
-- Speaks in maritime metaphors and references to depths
 
 ## Abilities & Stats
 **AC:** 16 (Deep Magic Ward)
@@ -48,26 +97,6 @@ The enigmatic envoy from the Tidal Courts of Aquabyssos, a vast underwater empir
 **STR:** 12 (+1) **DEX:** 16 (+3) **CON:** 16 (+3)
 **INT:** 18 (+4) **WIS:** 15 (+2) **CHA:** 20 (+5)
 
-### Special Abilities
-- **Amphibious:** Can breathe air and water
-- **Deep Speech:** Can communicate telepathically with aquatic creatures
-- **Tidal Manipulation:** Can control water within 30 feet
-- **Pact of the Drowned God:** Has a warlock pact with Thal'mexis, the Sunken Sovereign
-
-### Spells (Save DC 17)
-- Bardic magic focused on enchantment and illusion
-- Warlock invocations granting water control and psychic abilities
-
-## Relationships
-- **[[Queen Seraphina Lumengarde]]**: Maintains cordial diplomatic relations while secretly assessing her weakness
-- **[[Prince Caspian Duskwater]]**: Sees him as potentially useful for future succession manipulation
-- **[[Captain Thaddeus Blackwater]]**: Knows his ships have discovered Aquabyssos ruins; wants him silenced or recruited
-- **[[Vex Shadowthorn]]**: Trading partner for smuggling operations between surface and depths
-- **[[Master Artificer Korvin Gearwright]]**: Fascinated by his crystal technology; secretly offers deep-sea materials
-- **Sister Morwyn Veilkeeper**: Exchanges prophetic visions about the coming convergence
-
-
-
 ## Voice & Mannerisms
 
 **Voice**: Soft and measured
@@ -75,13 +104,6 @@ The enigmatic envoy from the Tidal Courts of Aquabyssos, a vast underwater empir
 **Speech Pattern**: Formal and elaborate
 
 **Physical Habits**: Maintains intense eye contact
-
-## Current Activities
-- Negotiating exclusive trade rights for deep-sea resources
-- Secretly mapping Aethermoor's crystal deposits for the Drowned Parliament
-- Recruiting surface agents for intelligence gathering
-- Establishing hidden water-gates for rapid underwater transport
-- Investigating the connection between the Seven Shards and the Great Drowning
 
 ## Secrets
 > [!warning] DM Only
@@ -105,14 +127,6 @@ Located in Crystalhaven's Embassy Quarter, her residence is a architectural marv
 3. Offers valuable information about underwater passages in exchange for crystal samples
 4. Needs discrete investigation of ships that have been exploring too deep
 
-## Quotes
-- "The surface tension between our worlds grows thin."
-- "Your crystals corrupt, but water purifies. Perhaps a flood would cleanse your lands."
-- "Depth has privileges you surface dwellers cannot fathom."
-- "The tide rises, whether you will it or not."
-
-
-
 ## Background
 
 Ambassador Nerida Deepcurrent's path to their current position involved:
@@ -121,8 +135,6 @@ Ambassador Nerida Deepcurrent's path to their current position involved:
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
 
 ## Motivations
 
@@ -133,8 +145,6 @@ Ambassador Nerida Deepcurrent's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -142,8 +152,6 @@ Ambassador Nerida Deepcurrent's path to their current position involved:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
 
 ## Statistics (D&D 5e)
 
@@ -170,38 +178,6 @@ cr: 1/4
 ## DM Notes
 Nerida represents the looming threat of Aquabyssos while maintaining plausible deniability. She's a master manipulator who views the surface world as a chess board for the Tidal Courts' expansion. Her presence should make players question whether cooperation or conflict with the underwater realm is inevitable.
 
-
-
-
-## Relationship Web
-
-- [[04_Resources_Assets_Symbols_symbol-heraldry-border-fortresses-border-fortresses.svg]]: *student*
-- [[Tenebrarum]]: *sworn enemy*
-- [[04_Resources_Assets_Locations_location-city-captain-marcus-v1-captain-marcus.svg]]: *student*
-
-## Connections
-
-- [[Party Shadows]]
-- [[Kraken Territories]]
-- [[Marriage Between Worlds]]
-- [[Crystal Wardens]]
-- [[Jasper Three-Eyes Flint]]
-- [[Mayor Thompson]]
-- [[Senator]]
-- [[The Pearl Guard]]
-
-
-## Goals
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 Ambassador Nerida Deepcurrent is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -210,33 +186,34 @@ Ambassador Nerida Deepcurrent is a undersea element of the setting, known for bi
 
 Legends speak of Ambassador Nerida Deepcurrent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ambassador Nerida Deepcurrent.
 
-## Adventure Hooks
-
-- A rumor ties Ambassador Nerida Deepcurrent to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Ambassador Nerida Deepcurrent to avert a public scandal.
-- A map overlay reveals a hidden approach to Ambassador Nerida Deepcurrent active only during specific tides/storms.
-
-## Cross-References
-
-- [[Ambassador Nerida Deepcurrent]]
-
-<!-- enriched: true -->
-
-
-## Character Arc
-
-### Starting Point
-- **Current State**: Searching
-- **Core Desire**: Knowledge
-- **Major Flaw**: Naivety
-
 ### Development Triggers
 1. **Catalyst Event**: Betrayal
 2. **Challenge**: Must overcome impossible odds
 3. **Growth Moment**: Learns sacrifice
 
-### Potential Endings
-- **Redemption**: Overcomes flaw and finds peace
-- **Tragedy**: Succumbs to flaw with consequences  
-- **Transformation**: Becomes someone entirely new
-- **Stasis**: Refuses to change despite opportunities
+
+## Relationships
+
+- **Student**: [[Quest - The Voice Beneath]]
+- **Blackmailer**: [[Portrait NPC the Corroded Crown the Corroded Crown.svg]]
+- **Ally**: [[Portrait NPC Ambassador Korvin Blacktide V1 Ambassador Korvin Blacktide.svg]]
+- **Child**: [[Assets Symbols Symbol Heraldry Financial Crime Investigatio Financial Crime Investigatio.svg]]
+- **Victim**: [[Portrait NPC Aboleth Prime Yoth V1 Aboleth Prime Yoth.svg]]
+
+
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established

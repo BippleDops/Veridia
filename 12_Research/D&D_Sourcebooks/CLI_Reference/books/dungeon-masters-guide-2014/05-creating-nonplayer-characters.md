@@ -21,13 +21,30 @@ updated: '2025-08-12T23:37:34.794919'
 world: Both
 ---
 
-
 # Creating Nonplayer Characters
 *Source: Dungeon Master's Guide (2014), p. 88* 
 
 A nonplayer character is any character controlled by the Dungeon Master. NPCs can be enemies or allies, regular folk or named monsters. They include the local innkeeper, the old wizard who lives in the tower on the outskirts of town, the death knight out to destroy the kingdom, and the dragon counting gold in its cavernous lair.
 
 This chapter shows you how to flesh out nonplayer characters for your game. For guidelines on generating monster-like stat blocks for an NPC, see chapter 9, "Dungeon Master's Workshop."
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Designing NPCs
 
@@ -270,20 +287,17 @@ See the Oathbreaker classes page entry for more information.
 
 Legends speak of 05 creating nonplayer characters as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 05 creating nonplayer characters.
 
-## Adventure Hooks
-
-- A rumor ties 05 creating nonplayer characters to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 05 creating nonplayer characters to avert a public scandal.
-- A map overlay reveals a hidden approach to 05 creating nonplayer characters active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

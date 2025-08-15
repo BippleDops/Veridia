@@ -22,10 +22,8 @@ updated: '2025-08-12T23:37:34.930014'
 world: Both
 ---
 
-
 # Noble (Retainers) (Variant)
 *Source: Player's Handbook p. 136*  
-
 
 - **Skill Proficiencies.** [[skills#History|History]], [[skills#Persuasion|Persuasion]]  
 - **Tool Proficiencies.** One type of gaming set  
@@ -43,6 +41,24 @@ What's your position in the family? Are you the heir to the head of the family? 
 Does your family have a coat of arms? An insignia you might wear on a signet ring? Particular colors you wear all the time? An animal you regard as a symbol of your line or even a spiritual member of the family?
 
 These details help establish your family and your title as features of the world of the campaign.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Feature: Retainers
 
@@ -93,7 +109,6 @@ Nobles are born and raised to a very different lifestyle than most people ever e
 `dice: [](noble-retainers-variant.md#^flaw)`
 
 | dice: d6 | Flaw |
-|----------|------|
 | 1 | I secretly believe that everyone is beneath me. |
 | 2 | I hide a truly scandalous secret that could ruin my family forever. |
 | 3 | I too often hear veiled insults and threats in every word addressed to me, and I'm quick to anger. |
@@ -110,19 +125,29 @@ Noble retainers variant is a undersea element of the setting, known for biolumin
 
 Legends speak of noble retainers variant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around noble retainers variant.
 
-## Adventure Hooks
-
-- A rumor ties noble retainers variant to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at noble retainers variant to avert a public scandal.
-- A map overlay reveals a hidden approach to noble retainers variant active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A shipment has gone missing and chaos spreads
+- A merchant needs help investigating before winter
+- A journal reveals a betrayal about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

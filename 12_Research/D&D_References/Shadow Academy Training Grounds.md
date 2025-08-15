@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[The Shadow Duchess Duel|02 Worldbuilding/Groups/The Shadow Duchess Duel]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[The Shadow Duchess Duel]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,25 @@ Shadow Academy Training Grounds is a undersea element of the setting, known for 
 
 Legends speak of Shadow Academy Training Grounds as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Academy Training Grounds.
 
-## Adventure Hooks
-
-- A rumor ties Shadow Academy Training Grounds to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Shadow Academy Training Grounds to avert a public scandal.
-- A map overlay reveals a hidden approach to Shadow Academy Training Grounds active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and war looms
+- Someone is searching for information for revenge
+- Someone is searching for information for love
+- Strange accidents suggest ancient magic
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

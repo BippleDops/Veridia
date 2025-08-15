@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:35.479502+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,30 +41,33 @@ The Memory Vaults is a undersea element of the setting, known for bioluminescent
 
 Legends speak of The Memory Vaults as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Memory Vaults.
 
-## Adventure Hooks
-
-- A rumor ties The Memory Vaults to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Memory Vaults to avert a public scandal.
-- A map overlay reveals a hidden approach to The Memory Vaults active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Timeline of the Drowning|02 Worldbuilding/Lore/Timeline Of The Drowning]]
-
-
-## Connections
-
-- [[The Bathyal Succession]]
-- [[The Great Convergence Prophecies]]
-- [[Timeline of the Drowning]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

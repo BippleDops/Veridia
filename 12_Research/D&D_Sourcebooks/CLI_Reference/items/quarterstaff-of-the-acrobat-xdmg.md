@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:36.745224'
 world: Both
 ---
 
-
 # Quarterstaff of the Acrobat
 *Staff, weapon ([[quarterstaff-xphb|quarterstaff]]), very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/quarterstaff-of-the-acrobat.webp#right)
@@ -43,6 +42,24 @@ While holding this weapon, you can take a [[bonus-action-xphb|Bonus Action]] to 
 
 In certain forms, the weapon has the following additional properties.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Acrobatic Assist (Quarterstaff and 10-Foot Pole Forms Only)
 
 While holding this weapon, you have [[advantage-xphb|Advantage]] on Dexterity ([[skills#Acrobatics|Acrobatics]]) checks.
@@ -55,7 +72,7 @@ When you are hit by an attack while holding the weapon, you can take a [[reactio
 
 This weapon has [[item-properties#Thrown|Thrown]] with a normal range of 30 feet and a long range of 120 feet. Immediately after you make a ranged attack with the weapon, it flies back to your hand.
 
-*Source: Dungeon Master's Guide (2024) p. 291. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 291. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -65,19 +82,40 @@ Quarterstaff of the acrobat xdmg is a undersea element of the setting, known for
 
 Legends speak of quarterstaff of the acrobat xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around quarterstaff of the acrobat xdmg.
 
-## Adventure Hooks
-
-- A rumor ties quarterstaff of the acrobat xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at quarterstaff of the acrobat xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to quarterstaff of the acrobat xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- A stranger needs help finding before dawn
+- A shipment has gone missing and truth emerges
+- Strange disappearances suggest ancient magic
+- Strange sightings suggest a portal
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

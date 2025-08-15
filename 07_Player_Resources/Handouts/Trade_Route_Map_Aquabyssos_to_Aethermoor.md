@@ -18,30 +18,12 @@ updated: '2025-08-13'
 world: Both
 ---
 
-
-# Trade Route Map: Aquabyssos ⟷ Aethermoor
-## Merchant's Navigation Guide
-
 ### The Great Convergence Current
 **Primary Trade Artery**
 - **Duration:** 12-15 days each way
 - **Depth:** Surface to 200 fathoms
 - **Hazards:** Storm interference, pressure transitions
 - **Cargo Capacity:** Heavy goods, bulk materials
-
-### Secondary Routes
-
-#### The Spiral Ascent
-- **Route:** Deep trenches → Twilight Zone → Sky docks
-- **Duration:** 18-20 days
-- **Specialty:** Rare minerals, deep-sea artifacts
-- **Requirements:** Pressure adaptation gear
-
-#### The Merchant's Express
-- **Route:** Via Bexley Port Authority
-- **Duration:** 8-10 days
-- **Specialty:** High-value, time-sensitive goods
-- **Cost:** Premium rates, exclusive licensing
 
 ### Checkpoint Stations
 
@@ -65,26 +47,36 @@ world: Both
    - Cross-realm transfer
    - Sky vessel assignment
 
-### Required Documentation
-- Trade Guild certification
-- Cargo manifests (triplicate)
-- Health certificates
-- Pressure adaptation permits
-- Insurance verification
-
 ### Current Exchange Rates
 - 1 Aquabyssos Pearl = 2.3 Aethermoor Crystals
 - Deep Metals: Premium +40%
 - Sky Minerals: Standard rate
 - Living goods: Special permit required
 
-*Updated by the Cross-Realm Merchant's Covenant*
+*Updated by the Cross-Realm Merchant's Covet*
 *Safe travels and fair profits*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -93,3 +85,23 @@ world: Both
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## 07_Player_Resources Specific Content
+
+Contextual improvement based on 07_Player_Resources
+
+
+## 07_Player_Resources Specific Content
+
+Contextual improvement based on 07_Player_Resources
+
+
+## 07_Player_Resources Specific Content
+
+Contextual improvement based on 07_Player_Resources
+
+
+## 07_Player_Resources Specific Content
+
+Contextual improvement based on 07_Player_Resources

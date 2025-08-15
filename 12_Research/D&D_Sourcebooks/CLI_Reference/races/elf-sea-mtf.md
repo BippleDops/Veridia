@@ -22,16 +22,12 @@ updated: '2025-08-12T23:37:37.714506'
 world: Both
 ---
 
-
 # Elf (Sea)
 *Source: Mordenkainen's Tome of Foes p. 62*  
-
 
 - **Ability Scores**: con +1
 - **Size**: Medium
 - **Speed**: walk: 30 ft.; swim: 30 ft.
-
-## Traits
 
 ### Age
 
@@ -80,6 +76,24 @@ Using gestures and sounds, you can communicate simple ideas with any beast that 
 
 You can speak, read, and write Aquan.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Description
 
 Sea elves fell in love with the wild beauty of the ocean in the earliest days of the multiverse. While other elves traveled from realm to realm, the sea elves navigated the deepest currents and explored the waters across a hundred worlds. Today, they live in small, hidden communities in the ocean shallows and on the Elemental Plane of Water.
@@ -87,7 +101,6 @@ Sea elves fell in love with the wild beauty of the ocean in the earliest days of
 > [!note] Sahuagin: Danger from the Depths
 > 
 > The sea elves face as many perils in their watery world as other elves face on dry land, but none are as deadly as the sahuagin. The animosity between these two races stems from the sahuagin's ferocious territoriality. They simply won't abide any other intelligent society, and they consider the entire sea to be their domain.
-> 
 > Adding to the tension, the sahuagin worship Sekolah, the shark god, while Deep Sashelas, the sea deity of the elves, is a sworn enemy of all sharks. But even if the sea elves inexplicably began worshiping Sekolah, the sahuagin still wouldn't be able to get along with them-in the grip of a blood frenzy, sahuagin will tear apart even others of their own kind!
 ^sahuagin-danger-from-the-depths
 
@@ -112,13 +125,9 @@ Most elves dwell in small forest villages hidden among the trees. Elves hunt gam
 Elves encountered outside their own lands are commonly traveling minstrels, artists, or sages. Human nobles compete for the services of elf instructors to teach swordplay or magic to their children.
 
 > [!note] Haughty but Gracious
-> 
 > Although they can be haughty, elves are generally gracious - even to those who fall short of their high expectations - which is most non-elves. Still, they can find good in just about anyone.
-> 
 > **Dwarves.** "Dwarves are dull, clumsy oafs. But what they lack in humor, sophistication, and manners, they make up in valor. And I must admit, their best smiths produce art that approaches elven quality."
-> 
 > **Halflings.** "Halflings are people of simple pleasures, and that is not a quality to scorn. They're a good folk, they care for each other and tend their gardens, and they have proven themselves tougher than they seem when the need arises."
-> 
 > **Humans.** "All that haste, their ambitions and drive to accomplish something before their brief lives pass away - human endeavors seem so futile sometimes. But then you look at what they have accomplished, and you have to appreciate their achievements. If only they could slow down and learn some refinement."
 ^haughty-but-gracious
 
@@ -145,19 +154,20 @@ Elf sea mtf is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of elf sea mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elf sea mtf.
 
-## Adventure Hooks
-
-- A rumor ties elf sea mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at elf sea mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to elf sea mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

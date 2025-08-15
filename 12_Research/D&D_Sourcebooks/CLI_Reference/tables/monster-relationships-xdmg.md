@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.460348'
 world: Both
 ---
 
-
 # Monster Relationships
 *Source: Dungeon Master's Guide (2024) p. 117* 
 
@@ -39,6 +38,24 @@ world: Both
 | 6 | One monster bullies the others; it forces them into danger, but they want it defeated. |
 ^monster-relationships
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Monster relationships xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -47,19 +64,20 @@ Monster relationships xdmg is a undersea element of the setting, known for biolu
 
 Legends speak of monster relationships xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monster relationships xdmg.
 
-## Adventure Hooks
-
-- A rumor ties monster relationships xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at monster relationships xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to monster relationships xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths

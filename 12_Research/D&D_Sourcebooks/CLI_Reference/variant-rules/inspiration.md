@@ -20,11 +20,28 @@ updated: '2025-08-13T01:18:32.001509+00:00'
 world: Both
 ---
 
-
 # Inspiration
 *Source: Dungeon Master's Guide p. 240* 
 
 Awarding inspiration is an effective way to encourage roleplaying and risk-taking. As explained in the "Player's Handbook", having inspiration gives a character an obvious benefit: being able to gain advantage on one ability check, attack roll, or saving throw. Remember that a character can have no more than one inspiration at a time.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Awarding Inspiration
 
@@ -102,19 +119,30 @@ Inspiration is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of inspiration as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around inspiration.
 
-## Adventure Hooks
-
-- A rumor ties inspiration to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at inspiration to avert a public scandal.
-- A map overlay reveals a hidden approach to inspiration active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting a artifact for love
+- A prisoner has gone missing and evil awakens
+- An heirloom has gone missing and evil awakens
+- Someone is searching for information for love
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

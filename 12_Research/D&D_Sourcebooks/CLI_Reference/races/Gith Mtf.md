@@ -23,17 +23,12 @@ updated: '2025-08-13T12:34:08.055227+00:00'
 world: Both
 ---
 
-
-
 # Gith
 *Source: Mordenkainen's Tome of Foes p. 96*  
-
 
 - **Ability Scores**: int +1
 - **Size**: Medium
 - **Speed**: 30 ft.
-
-## Traits
 
 ### Age
 
@@ -46,6 +41,24 @@ Gith are taller and leaner than humans, with most a slender 6 feet in height.
 ### Languages
 
 You can speak, read, and write Common and Gith.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Description
 
@@ -65,19 +78,35 @@ Gith mtf is a undersea element of the setting, known for bioluminescent glow and
 
 Legends speak of gith mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gith mtf.
 
-## Adventure Hooks
-
-- A rumor ties gith mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gith mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to gith mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

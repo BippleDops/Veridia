@@ -29,16 +29,31 @@ updated: '2025-08-13T12:34:05.748794+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-steam-mephit-xmm-steam-mephit-xmm.svg)
 
 # [[steam-mephit-xmm|Steam Mephit]]
-*Source: Monster Manual (2024) p. 208. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 208. Available in the SRD and the Free Rules (2024)*  
 
 These arrogant mephits are made of heat and vaporous water. They often trick creatures into doing them favors, then renege on promised rewards.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Mephits
 
@@ -55,7 +70,6 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 > 
 > I am Seamusxanthuszenus, Slayer of Fiends, Merchant Most Excellent, Purveyor of Death!
 
-
 ```statblock
 "name": "Steam Mephit (XMM)"
 "size": "Small"
@@ -69,8 +83,6 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
   - !!int "5"
   - !!int "11"
   - !!int "10"
-  - !!int "11"
-  - !!int "10"
   - !!int "12"
 "speed": "30 ft., fly 30 ft."
 "skillsaves":
@@ -80,7 +92,7 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 "condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
-"languages": "Primordial (Aquan, Ignan)"
+"languages": "Primordial (Aquan, Ig)"
 "cr": "1/4"
 "traits":
   - "desc": "Attack rolls against the mephit are made with [[disadvantage-xphb|Disadvantage]]\
@@ -120,19 +132,20 @@ Steam mephit xmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of steam mephit xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around steam mephit xmm.
 
-## Adventure Hooks
-
-- A rumor ties steam mephit xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at steam mephit xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to steam mephit xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

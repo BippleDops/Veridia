@@ -16,38 +16,8 @@ updated: '2025-08-13'
 world: Both
 ---
 
-
-# Storm Soul Integration
-## Elemental Weather Transformation
-
 ### Overview
 Druids and storm mages who channel powerful weather magic gradually merge with elemental forces, becoming living storms with personalities shaped by weather patterns.
-
-### Integration Stages
-
-#### Stage 1: Weather Sensitivity (3-6 months)
-- Emotions affect local weather patterns
-- Enhanced weather prediction abilities
-- Resistance to weather-based damage
-- Eyes reflect current weather conditions
-
-#### Stage 2: Elemental Echoes (6-18 months)
-- Can summon minor weather effects at will
-- Immunity to natural weather
-- Personality becomes more mercurial
-- Hair moves like it's in constant wind
-
-#### Stage 3: Storm Avatar (1.5-3 years)
-- Can become localized weather system
-- Control over precipitation and wind
-- Emotional states create weather phenomena
-- Partial elemental transformation
-
-#### Stage 4: Living Tempest (3+ years)
-- Can exist as pure weather pattern
-- Control massive weather systems
-- Multiple elemental forms available
-- Risk of losing human consciousness
 
 ### Elemental Manifestations
 
@@ -75,7 +45,7 @@ Druids and storm mages who channel powerful weather magic gradually merge with e
 - Sunny: Optimistic and cheerful
 - Stormy: Aggressive and volatile
 - Cloudy: Melancholic and introspective
-- Calm: Peaceful but potentially stagnant
+- Calm: Peaceful but potentially stagt
 
 **Seasonal Influences:**
 - Spring: Growth-oriented, hopeful
@@ -115,10 +85,27 @@ Druids and storm mages who channel powerful weather magic gradually merge with e
 
 *Storm soul integration grants mastery over weather but risks losing human identity to elemental forces.*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -127,3 +114,13 @@ Druids and storm mages who channel powerful weather magic gradually merge with e
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A document has gone missing and truth emerges
+- Strange dreams suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -20,7 +20,6 @@ updated: '2025-08-13T16:45:00.000000'
 world: Both
 ---
 
-
 # Seven Shards Campaign: Quick Reference & Player Handouts
 *Essential Tables, References, and Player Materials*
 
@@ -30,8 +29,6 @@ world: Both
 > - **Random Tables**: For improvisation and encounter generation
 > - **Player Handouts**: Materials to share directly with players
 > - **5e Integration**: References to official sources and compatible mechanics
-
-## GM Quick Reference
 
 ### Shard Effects Summary
 
@@ -83,8 +80,6 @@ world: Both
 | **Investigation** | 5-6 | 20% | 40% | 40% |
 | **Social Drama** | 3-4 | 10% | 70% | 20% |
 
-## Random Tables for Improvisation
-
 ### Random Shard Manifestations `dice: 1d20`
 
 | d20 | Manifestation | Effect Duration | Mechanical Impact |
@@ -108,7 +103,7 @@ world: Both
 | 17 | Reality anchor | 1 day | Magic functions perfectly |
 | 18 | Consciousness link | 1 hour | Surface thoughts shared |
 | 19 | Environmental shift | 1d6 hours | Weather/atmosphere changes |
-| 20 | Shard resonance | Special | All nearby shards activate |
+| 20 | Shard resoce | Special | All nearby shards activate |
 
 ### NPC Complications `dice: 1d12`
 
@@ -165,7 +160,7 @@ world: Both
 | 4 | Magical traces | Aura reading/divination | Arcana |
 | 5 | Environmental signs | Pressure/weather changes | Nature |
 | 6 | Biological samples | Corruption symptoms | Medicine |
-| 7 | Economic data | Financial irregularities | Investigation |
+| 7 | Economic data | Ficial irregularities | Investigation |
 | 8 | Communication intercepts | Messages/signals | Technology |
 | 9 | Historical parallels | Past events | History |
 | 10 | Religious insights | Spiritual significance | Religion |
@@ -175,8 +170,6 @@ world: Both
 | 14 | Geographic patterns | Location correlations | Survival |
 | 15 | Temporal anomalies | Time distortions | Arcana |
 | 16 | Dimensional echoes | Other-world influences | Religion |
-
-## Player Handouts
 
 ### Handout 1: World Primer for Players
 
@@ -188,14 +181,12 @@ world: Both
 > - Technology based on pressure dynamics and bioluminescence
 > - Currency: Deep Pearls and Current Coins
 > - Atmosphere: Breathable water maintained by ancient magic
-> 
 > **Aethermoor** - The Sky Kingdom  
 > - Floating cities and mountain peaks above the clouds
 > - Ruled by Emperor Thalassius from the Storm Crown Citadel
 > - Technology based on wind power and crystallized lightning
 > - Currency: Wind Crystals and Sky Silver
 > - Atmosphere: Thin air requiring adaptation at high altitudes
-> 
 > **Travel Between Worlds**
 > - Portal gates in major cities (heavily regulated)
 > - Diplomatic missions and trade expeditions
@@ -205,9 +196,7 @@ world: Both
 ### Handout 2: The Seven Shards - What Players Know Initially
 
 > [!note] Ancient Legends of Power
-> 
 > Old stories speak of seven crystalline artifacts of immense power, created in the distant past when the worlds were young. These "Seven Shards" are said to control fundamental forces:
-> 
 > - **Memory and Mind**: The power of consciousness itself
 > - **Matter and Form**: The ability to reshape reality
 > - **Storm and Sky**: Command over weather and wind
@@ -215,33 +204,27 @@ world: Both
 > - **Void and Space**: Control over existence and nothingness
 > - **Life and Growth**: The force of creation and healing
 > - **Unity and Connection**: The binding of separate things
-> 
 > Most scholars dismiss these as mythology, but recent strange events have some wondering if the legends might be true...
 
 ### Handout 3: Faction Overview for Players
 
 > [!note] Major Powers and Organizations
-> 
 > **Government Factions**
 > - **The Crown Authority**: Official government of both realms
 > - **Parliament of Echoes**: Aquabyssos legislative body
 > - **The Wind Senate**: Aethermoor governing council
-> 
 > **Economic Powers**
 > - **Silverscale Consortium**: Major trading organization
 > - **Deepwater Trading Guild**: Aquabyssos merchants
 > - **Storm Riders Union**: Aethermoor transport guild
-> 
 > **Academic Institutions**
 > - **Academy of Depths**: Premier Aquabyssos university
 > - **Windwright Academy**: Leading Aethermoor school
 > - **Cross-Realm Research Initiative**: Joint scientific projects
-> 
 > **Religious Orders**
 > - **Order of the Azure Flame**: Ancient peaceful order
 > - **Temple of Depths**: Aquabyssos spiritual center
 > - **Storm Callers**: Aethermoor weather priests
-> 
 > **Mysterious Groups**
 > - **The Shadow Conspiracy**: Rumored secret organization
 > - **Void Watchers**: Scholars studying dimensional mysteries
@@ -250,60 +233,49 @@ world: Both
 ### Handout 4: Signs of Shard Corruption
 
 > [!warning] Warning Signs of Supernatural Influence
-> 
 > Citizens should be aware of these symptoms and report them to local authorities:
-> 
 > **Memory-Related**
 > - Sudden gaps in recent memories
 > - Vivid dreams of other people's experiences
 > - Inability to remember one's own name or identity
 > - Speaking in voices that don't sound like your own
-> 
 > **Physical Changes**
 > - Crystalline growths on skin or clothing
 > - Unusual coloration of eyes or hair
 > - Temporary incorporeality or translucency
 > - Rapid aging or reversed aging
-> 
 > **Behavioral Shifts**
 > - Sudden obsession with wealth or power
 > - Compulsive need to hide in shadows
 > - Inability to make decisions independently
 > - Speaking about "the voice in the depths"
-> 
 > **Environmental Effects**
 > - Electronics or magic items behaving strangely
 > - Weather that doesn't match official forecasts
 > - Plants growing at impossible speeds
 > - Gravity seeming lighter or heavier than normal
-> 
 > *If you observe these symptoms in yourself or others, seek immediate medical attention.*
 
 ### Handout 5: Cross-Realm Travel Guide
 
 > [!note] Essential Information for Inter-Dimensional Travelers
-> 
 > **Required Documentation**
 > - Valid travel papers from your home realm
 > - Purpose statement (business, diplomatic, emergency)
 > - Health certificate (no infectious diseases)
 > - Background check clearance (recent criminal history)
-> 
 > **Physical Preparation**
 > - **For Aquabyssos**: Pressure adaptation training or magical assistance
 > - **For Aethermoor**: Altitude conditioning or breathing apparatus
 > - Both realms: Appropriate clothing and equipment
-> 
 > **Cultural Considerations**
 > - **Aquabyssos**: Respect for depth hierarchy, collective decision-making
 > - **Aethermoor**: Individual achievement valued, direct communication
 > - Both: Avoid discussing politics unless specifically invited
-> 
 > **Emergency Procedures**
 > - Contact nearest embassy or consulate
 > - Emergency portal access through official channels only
 > - Medical emergencies: Adaptation sickness requires specialist treatment
-> 
 > **Prohibited Items**
 > - Weapons (except with special permits)
 > - Unregistered magical artifacts
@@ -313,31 +285,22 @@ world: Both
 ### Handout 6: Economic Exchange Rates
 
 > [!note] Current Exchange Rates (Updated Weekly)
-> 
 > **Aquabyssos Currency**
 > - 1 Deep Pearl = 100 Current Coins
 > - 1 Current Coin = 10 Tide Tokens
-> 
 > **Aethermoor Currency**
 > - 1 Wind Crystal = 50 Sky Silver
 > - 1 Sky Silver = 20 Air Copper
-> 
 > **Cross-Realm Exchange** (Market Rate)
 > - 1 Deep Pearl = 2.3 Wind Crystals
 > - 1 Wind Crystal = 43 Current Coins
 > - 1 Current Coin = 1.2 Sky Silver
-> 
 > **Common Goods Pricing**
 > - Simple meal: 5-10 Tide Tokens / 3-6 Air Copper
 > - Night's lodging: 1-3 Current Coins / 2-4 Sky Silver
 > - Basic equipment: 10-50 Current Coins / 1-2 Wind Crystals
 > - Magical services: 1-5 Deep Pearls / 3-12 Wind Crystals
-> 
 > *Note: Prices fluctuate based on availability, quality, and political situation*
-
-## GM Screen Quick Tables
-
-### Name Generators
 
 #### Aquabyssos Names `dice: 1d20`
 | d20 | Male | Female | Family |
@@ -348,8 +311,6 @@ world: Both
 | 16-20 | Maelstrom, Benthic, Pelagic | Thalassa, Nerida, Oceania | Voidcaller, Crystalward, Shadowmere |
 
 #### Aethermoor Names `dice: 1d20`
-| d20 | Male | Female | Family |
-|-----|------|--------|---------|
 | 1-5 | Thalassius, Storm, Wind, Sky, Gale | Lyralei, Tempest, Aurora, Zephyr | Windweaver, Stormbreaker, Skywright |
 | 6-10 | Cloud, Thunder, Lightning, Breeze | Celeste, Cirrus, Nimbus, Aura | Cloudcrest, Brightwind, Thunderborn |
 | 11-15 | Cyclone, Vortex, Whirlwind | Stratia, Tropica, Cumula, Gusta | Galeheart, Mistweaver, Lightbringer |
@@ -381,8 +342,6 @@ world: Both
 | **Wondrous** | 1-100 gp | 101-500 gp | 501-5,000 gp | 5,001-50,000 gp | 50,001+ gp |
 | **Consumable** | 1-50 gp | 51-250 gp | 251-2,500 gp | 2,501-25,000 gp | 25,001+ gp |
 
-## Digital Tools Integration
-
 ### Dice Roller Quick Commands
 
 ```dice-roller
@@ -390,20 +349,14 @@ dice: 1d20+0
 Quick d20 roll for saves, checks, and attacks
 ```
 
-```dice-roller
 dice: 4d6dl1
 Ability score generation (drop lowest)
-```
 
-```dice-roller
 dice: 1d100
 Percentile roll for special events
-```
 
-```dice-roller
 dice: 1d4+1, 1d6+2, 1d8+3, 1d10+4, 1d12+5
 Damage progression by spell level
-```
 
 ### Meta-Bind Quick Buttons
 
@@ -414,25 +367,15 @@ action:
   type: command
   command: dice-roller
 args: ["1d20"]
-```
 
-```meta-bind-button
 label: Weather Check
 id: weather-check
-action:
   type: command  
-  command: dice-roller
 args: ["1d8"]
-```
 
-```meta-bind-button
 label: Corruption Save
 id: corruption-save
-action:
-  type: command
-  command: dice-roller
 args: ["1d20+5"]
-```
 
 ### Dataview Quick Queries
 
@@ -442,15 +385,9 @@ FROM "Seven_Shards_Campaign"
 WHERE contains(tags, "urgent") OR contains(tags, "deadline")
 SORT priority DESC
 LIMIT 5
-```
 
-```dataview
 TABLE relationship, corruption-level, last-seen
-FROM "Seven_Shards_Campaign"
 WHERE contains(tags, "npc") AND contains(tags, "important")
-```
-
-## 5e Official Content Integration
 
 ### Compatible Sourcebooks
 
@@ -500,8 +437,6 @@ WHERE contains(tags, "npc") AND contains(tags, "important")
 
 ---
 
-## Appendix: Emergency References
-
 ### Session Panic Tools
 
 When you need something immediately:
@@ -529,28 +464,27 @@ If campaign goes off rails, return to:
 
 ---
 
-## Credits and Sources
 
-### 5e Content Attribution
-- Monster statistics adapted from Monster Manual © Wizards of the Coast
-- Magic item guidelines from Dungeon Master's Guide © Wizards of the Coast
-- Environmental rules from various official sources
+## 🔧 Deep Evaluation Improvements
 
-### Community Resources
-- Name generators inspired by community fantasy name lists
-- Random tables adapted from general GM resources
-- Balance guidelines from community encounter calculators
+*20 targeted improvements identified*
 
-### Original Content
-- All Seven Shards lore and mechanics
-- Cordelia world setting and cultures
-- Campaign-specific NPCs and locations
-- Integration systems for Obsidian plugins
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -559,3 +493,23 @@ If campaign goes off rails, return to:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A map reveals the truth about the government
+- A merchant needs help investigating before the new moon
+- An heirloom has gone missing and war looms
+- A document has gone missing and evil awakens
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

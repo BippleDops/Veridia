@@ -10,13 +10,9 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Open Source Fantasy TTRPG Audio Library
-
 ## 📜 License Information
 
 All audio files in this vault are intended for use with open-source tabletop role-playing games and are organized according to Creative Commons licensing principles.
-
-### License Types
 
 #### CC0 (Public Domain)
 Files in these directories are free for any use:
@@ -33,42 +29,8 @@ Modified content that must maintain same license:
 - `/11_Media/Remixed/` - Remixed and edited tracks
 - `/04_Resources/Assets/Audio/Ambient/` - Modified ambient loops
 
-## 🎵 Audio Categories
-
 ### Ambient Soundscapes
 Fantasy TTRPG environmental audio for game sessions:
-
-#### Aquabyssos (Underwater Realm)
-- **Coral Reef** - Underwater clicking, bubbling sounds
-- **Deep Trench** - Pressure groans, deep ocean ambience
-- **Harbor Night** - Waves, creaking ships, distant bells
-- **Kelp Forest** - Swaying vegetation, water movement
-- **Underwater Temple** - Echoing chambers, mystical resonance
-
-#### Aethermoor (Sky Realm)
-- **Airship Ambience** - Wind, rigging, engine hum
-- **Sky Dock** - Bustling aerial port sounds
-- **Storm Approach** - Thunder, wind building
-- **Engine Room** - Mechanical thrumming, steam
-- **Brassworks** - Clockwork, grinding gears
-
-#### Generic Fantasy
-- **Tavern Chatter** - Background conversation, clinking mugs
-- **Market Ambience** - Vendors, crowds, activity
-- **Temple/Shrine** - Bells, chanting, echoes
-- **Library Whispers** - Page turning, quiet study
-- **Cavern Drip** - Water drops, cave echoes
-
-### Combat & Action
-- **Battle Ambience** - Clashing weapons, shouts
-- **Spell Casting** - Magical whooshes, energy
-- **Monster Sounds** - Roars, growls, creature noises
-
-### Music Tracks
-- **Exploration Themes** - Background music for travel
-- **Combat Music** - Action-oriented battle tracks
-- **Victory Fanfares** - Success and achievement
-- **Ambient Melodies** - Atmospheric background
 
 ## 📁 File Organization
 
@@ -102,9 +64,6 @@ Fantasy TTRPG environmental audio for game sessions:
 ├── Generated/            # AI/Procedural audio
 ├── Ambient/              # Long-form loops
 └── [Category]/           # Organized by use
-```
-
-## 🎮 Usage Guidelines
 
 ### For Game Masters
 1. **Pre-Session Setup**: Queue ambient tracks for locations
@@ -112,70 +71,14 @@ Fantasy TTRPG environmental audio for game sessions:
 3. **Combat Cues**: Trigger battle music on initiative
 4. **Environmental**: Match audio to current location
 
-### For Online Play
-- **VTT Integration**: Compatible with Roll20, Foundry, etc.
-- **Streaming Safe**: All tracks cleared for streaming
-- **Discord Bot**: Commands for audio playback
-- **Bandwidth Conscious**: Compressed formats available
-
-### For Local Play
-- **Speaker Setup**: Optimized for room acoustics
-- **Mobile Apps**: Syrinscape, Tabletop Audio compatible
-- **Offline Access**: All files work without internet
-- **Quick Access**: Organized for rapid selection
-
-## 🛠️ Technical Specifications
-
-### File Formats
-- **WAV**: Uncompressed, highest quality (curated)
-- **OGG**: Compressed, web-friendly (generated)
-- **MP3**: Universal compatibility (converted)
-
-### Audio Properties
-- **Sample Rate**: 44.1kHz or 48kHz
-- **Bit Depth**: 16-bit or 24-bit
-- **Channels**: Stereo (ambient), Mono (SFX)
-- **Normalization**: -14 LUFS for consistency
-
-### Looping
-- All ambient tracks seamlessly loop
-- Crossfade points marked in metadata
-- No clicks or pops at loop points
-
 ## 📋 Attribution Template
 
 When using CC BY licensed content:
 
-```
 Audio: "[Track Name]" by [Creator]
 Licensed under CC BY 4.0
 Source: [URL or "TTRPG Audio Library"]
 Modified: [Yes/No]
-```
-
-## 🔧 Audio Tools
-
-### Recommended Software
-- **Audacity** - Free, open-source editor
-- **Reaper** - Professional DAW (free trial)
-- **OBS Studio** - Streaming with audio
-- **VoiceMeeter** - Virtual audio routing
-
-### Online Resources
-- **Freesound.org** - CC licensed sounds
-- **OpenGameArt.org** - Game audio assets
-- **Incompetech.com** - Royalty-free music
-- **Zapsplat.com** - Free with account
-
-## 🎯 Quick Reference
-
-### Session Audio Checklist
-- [ ] Location ambience ready
-- [ ] Combat music queued
-- [ ] NPC voice modulation setup
-- [ ] Sound effects organized
-- [ ] Volume levels tested
-- [ ] Backup audio plan
 
 ### Common Audio Cues
 | Event | Audio File | Duration |
@@ -217,7 +120,6 @@ To add audio to this library:
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

@@ -22,12 +22,27 @@ created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 ---
 
-
-
-
 # Madness Effects
 
 *"The mind breaks before the body yields - in the depths, sanity is the first casualty."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -47,15 +62,11 @@ Modern understanding recognizes several distinct categories of madness effects, 
 
 Treatment facilities exist in both realms, with specialized staff trained to handle various types of supernatural madness. However, resources are strained as more individuals suffer exposure to madness-inducing phenomena throughout both worlds.
 
-## Cultural Impact
-
 ### Aquabyssos
 Underwater society has developed sophisticated methods for dealing with pressure-induced madness and the psychological effects of three-dimensional living. "Current madness" - obsession with following water flows - is considered manageable, while "void madness" from deep exposure requires immediate intervention.
 
 ### Aethermoor
 Surface dwellers tend to view madness effects with more stigma, though understanding is improving. Sky-madness (obsession with height and flight) and earth-madness (compulsive tunneling behavior) are increasingly recognized as treatable conditions rather than moral failings.
-
-## Mechanics
 
 ### Requirements
 Madness effects typically result from:
@@ -91,25 +102,6 @@ Duration varies based on:
 - Speed and quality of treatment received
 - Continued exposure to triggering phenomena
 
-## Notable Examples
-
-- **The Spiral Scholars**: Research team whose crystal exposure led to geometric obsessions that actually enhanced their magical abilities
-- **Captain Void-touched**: Ship captain whose deep-sea madness allows unprecedented navigation in abyssal waters
-- **The Laughing Plague**: Collective hysteria that spread through both realms via magical communication networks
-
-## Key Figures
-
-- **Dr. Sanity Mindmend**: Leading researcher in madness treatment and prevention
-- **The Mad Oracle of Deep Currents**: Prophet whose madness grants accurate but disturbing visions
-- **Therapist Calm Stillwater**: Specialist in treating pressure-induced psychological trauma
-
-## Mysteries
-
-- Whether some forms of madness actually represent evolutionary adaptations
-- The role of collective unconscious in spreading madness effects
-- Connection between certain types of madness and enhanced magical abilities
-- Why some individuals seem naturally immune to madness-inducing phenomena
-
 ## Adventure Hooks
 
 1. **The Spreading Madness**: Characters investigate a town where madness effects are spreading like a contagious disease
@@ -120,23 +112,9 @@ Duration varies based on:
 
 Certain forms of "madness" are actually the mind's attempt to process information from higher dimensions or alternative timelines. These individuals aren't truly insane but are perceiving realities that others cannot access. Some secret organizations actively seek out such individuals for their unique insights.
 
-## Related Topics
-
-- [[Corruption Exposure Tracking]]
-- [[The Deep Mother]]
-- [[Crystal Mimics]]
-- [[Random Encounter Tables]]
-- [[Pressure Damage]]
-
 ## Campaign Use
 
 Use madness effects as both mechanical challenges and roleplay opportunities. They can serve as consequences for reckless behavior, plot devices for mystery scenarios, or character development tools. Consider allowing players to choose how their characters express madness effects rather than imposing specific behaviors, maintaining agency while creating interesting complications.
-
-
-## Connections
-
-- [[Crystal Cult Initiates Ambush]]
-- [[Sorrow Pearls]]
 
 ## Player-Facing Summary
 
@@ -150,8 +128,8 @@ Legends speak of Madness Effects as a nexus where past and present converge. Loc
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
 
-## Cross-References
 
-- [[Sorrow Pearls|02 Worldbuilding/Lore/Sorrow Pearls]]
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

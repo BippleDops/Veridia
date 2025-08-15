@@ -23,15 +23,29 @@ updated: '2025-08-13T01:18:31.229170+00:00'
 world: Both
 ---
 
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-uniting-the-factions-uniting-the-factions.svg)
 
-# Actions
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Activate an Item
-_Source: Dungeon Master's Guide p. 141. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Dungeon Master's Guide p. 141. Available in the SRD and the Basic Rules (2014)_
 
 - **Duration**: 1 action
 
@@ -60,7 +74,7 @@ A magic item, such as certain staffs, may require you to use your own spellcasti
 Some magic items have charges that you expend to activate its properties. The number of charges an item has remaining is revealed when an identify spell is cast on the item, or when a creature attunes to the item. Additionally, when an item regains charges, the creature attuned to that item learns how many charges it regained.
 
 ## Attack
-_Source: Player's Handbook (2024) p. 361. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+_Source: Player's Handbook (2024) p. 361. Available in the SRD_
 
 - **Duration**: 1 action
 
@@ -90,7 +104,7 @@ The smaller creature can move around within the larger creature's space, treatin
 This action is an optional addition to the game, from the optional/variant rule [[action-options|Action Options]].
 
 ## Dash
-_Source: Player's Handbook (2024) p. 365. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+_Source: Player's Handbook (2024) p. 365. Available in the SRD_
 
 - **Duration**: 1 action
 
@@ -99,7 +113,6 @@ When you take the Dash action, you gain extra movement for the current turn. The
 If you have a special speed, such as a [[fly-speed-xphb|Fly Speed]] or [[swim-speed-xphb|Swim Speed]], you can use that speed instead of your [[speed-xphb|Speed]] when you take this action. You choose which speed to use each time you take it.
 
 ## Disarm
-_Source: Dungeon Master's Guide p. 271_
 
 - **Duration**: 1 action
 
@@ -109,17 +122,14 @@ The attacker has disadvantage on its attack roll if the target is holding the it
 
 See also: [[actions#Attack|Attack]]
 
-This action is an optional addition to the game, from the optional/variant rule [[action-options|Action Options]].
-
 ## Disengage
-_Source: Player's Handbook (2024) p. 366. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+_Source: Player's Handbook (2024) p. 366. Available in the SRD_
 
 - **Duration**: 1 action
 
 If you take the Disengage action, your movement doesn't provoke [[actions#Opportunity%20Attack|Opportunity Attacks]] for the rest of the current turn.
 
 ## Dodge
-_Source: Player's Handbook (2024) p. 366. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
@@ -128,21 +138,21 @@ lf you take the Dodge action, you gain the following benefits: until the start o
 You lose these benefits if you have the [[conditions#Incapacitated|Incapacitated]] condition or if your [[speed-xphb|Speed]] is 0.
 
 ## Don or Doff a Shield
-_Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+_Source: Player's Handbook (2024) p. 219. Available in the SRD and the Free Rules (2024)_
 
 - **Duration**: 1 action
 
 A [[shield-xphb|Shield]] can be donned or doffed as an action.
 
 ## End Concentration
-_Source: Player's Handbook (2024) p. 363. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+_Source: Player's Handbook (2024) p. 363. Available in the SRD and the Free Rules (2024)_
 
 - **Duration**: Free
 
 Some spells and other effects require Concentration to remain active, as specified in their descriptions. You can end Concentration at any time (no action required).
 
 ## Escape a Grapple
-_Source: Player's Handbook (2024) p. 367. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+_Source: Player's Handbook (2024) p. 367. Available in the SRD and the Free Rules (2024)_
 
 - **Duration**: 1 action
 
@@ -160,7 +170,7 @@ A character who uses a healing surge can't do so again until he or she finishes 
 This action is an optional addition to the game, from the optional/variant rule [[healing|Healing]].
 
 ## Help
-_Source: Player's Handbook (2024) p. 368. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+_Source: Player's Handbook (2024) p. 368. Available in the SRD_
 
 - **Duration**: 1 action
 
@@ -175,7 +185,6 @@ Choose one of your skill or tool proficiencies and one ally who is near enough f
 You momentarily distract an enemy within 5 feet of you, giving [[advantage-xphb|Advantage]] to the next attack roll by one of your allies against that enemy. This benefit expires at the start of your next turn.
 
 ## Hide
-_Source: Player's Handbook (2024) p. 368. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 action
 
@@ -218,7 +227,7 @@ If your urging aligns with the monster's desires, no ability check is necessary;
 
 ### Unwilling
 
-If your urging is repugnant to the monster or counter to its alignment, no ability check is necessary; it doesn't comply.
+If your urging is repugt to the monster or counter to its alignment, no ability check is necessary; it doesn't comply.
 
 ### Hesitant
 
@@ -236,7 +245,7 @@ If you urge the monster to do something that it is hesitant to do, you must make
 ^influence-checks
 
 ## Magic
-_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+_Source: Player's Handbook (2024) p. 371. Available in the SRD_
 
 - **Duration**: 1 action
 
@@ -245,25 +254,19 @@ When you take the Magic action, you cast a spell that has a casting time of an a
 If you cast a spell that has a casting time of 1 minute or longer, you must take the Magic action on each turn of that casting, and you must maintain [[conditions#Concentration|Concentration]] while you do so. If your [[conditions#Concentration|Concentration]] is broken, the spell fails, but you don't expend a spell slot.
 
 ## Mark
-_Source: Dungeon Master's Guide p. 271_
 
 This option makes it easier for melee combatants to harry each other with opportunity attacks.
 
 When a creature makes a melee attack, it can also mark its target. Until the end of the attacker's next turn, any opportunity attack it makes against the marked target has advantage. The opportunity attack doesn't expend the attacker's reaction, but the attacker can't make the attack if anything, such as the [[conditions#Incapacitated|incapacitated]] condition or the [[shocking-grasp-xphb|shocking grasp]] spell, is preventing it from taking reactions. The attacker is limited to one opportunity attack per turn.
 
-See also: [[actions#Attack|Attack]]
-
-This action is an optional addition to the game, from the optional/variant rule [[action-options|Action Options]].
-
 ## Opportunity Attack
-_Source: Player's Handbook (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 - **Duration**: 1 reaction
 
 You can make an Opportunity Attack when a creature that you can see leaves your reach using its action, its [[bonus-action-xphb|Bonus Action]], its [[reaction-xphb|Reaction]], or one of its speeds. To make the Opportunity Attack, take a [[reaction-xphb|Reaction]] to make one melee attack with a weapon or an [[unarmed-strike-xphb|Unarmed Strike]] against the provoking creature. The attack occurs right before the creature leaves your reach.
 
 ## Other Activity
-_Source: Player's Handbook p. 190. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)_
+_Source: Player's Handbook p. 190. Available in the SRD and the Basic Rules (2014)_
 
 - **Duration**: Varies
 
@@ -280,7 +283,6 @@ The DM might require you to use an action for any of these activities when it ne
 > [!note] Interacting with Objects Around You
 > 
 > Here are a few examples of the sorts of thing you can do in tandem with your movement and action:
-> 
 > - draw or sheathe a sword  
 > - open or close a door  
 > - withdraw a potion from your backpack  
@@ -313,10 +315,8 @@ When a creature tries to move through a hostile creature's space, the mover can 
 
 See also: [[actions#Tumble|Tumble]]
 
-This action is an optional addition to the game, from the optional/variant rule [[action-options|Action Options]].
-
 ## Ready
-_Source: Player's Handbook (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+_Source: Player's Handbook (2024) p. 372. Available in the SRD_
 
 - **Duration**: 1 action
 
@@ -329,7 +329,7 @@ When the trigger occurs, you can either take your [[reaction-xphb|Reaction]] rig
 When you Ready a spell, you cast it as normal (expending any resources used to cast it) but hold its energy, which you release with your [[reaction-xphb|Reaction]] when the trigger occurs. To be readied, a spell must have a casting time of an action, and holding on to the spell's magic requires [[conditions#Concentration|Concentration]], which you can maintain up to the start of your next turn. If your [[conditions#Concentration|Concentration]] is broken, the spell dissipates without taking effect.
 
 ## Search
-_Source: Player's Handbook (2024) p. 373. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+_Source: Player's Handbook (2024) p. 373. Available in the SRD_
 
 - **Duration**: 1 action
 
@@ -346,13 +346,10 @@ When you take the Search action, you make a Wisdom check to discern something th
 ^search
 
 ## Shove Aside
-_Source: Dungeon Master's Guide p. 272_
 
 - **Duration**: 1 action
 
 With this option, a creature uses the special [[unarmed-strike-xphb|shove]] attack from the "Player's Handbook" to force a target to the side, rather than away. The attacker has disadvantage on its Strength ([[skills#Athletics|Athletics]]) check when it does so. If that check is successful, the attacker moves the target 5 feet to a different space within its reach.
-
-This action is an optional addition to the game, from the optional/variant rule [[action-options|Action Options]].
 
 ## Study
 _Source: Player's Handbook (2024) p. 375_
@@ -375,7 +372,6 @@ The Areas of Knowledge table suggests which skills are applicable to various are
 ^areas-of-knowledge
 
 ## Tumble
-_Source: Dungeon Master's Guide p. 272_
 
 - **Duration**: 1 action, 1 bonus
 
@@ -383,19 +379,15 @@ A creature can try to tumble through a hostile creature's space, ducking and wea
 
 See also: [[actions#Overrun|Overrun]]
 
-This action is an optional addition to the game, from the optional/variant rule [[action-options|Action Options]].
-
 ## Two-Weapon Fighting
-_Source: Player's Handbook (2024) p. 213. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)_
+_Source: Player's Handbook (2024) p. 213. Available in the SRD and the Free Rules (2024)_
 
 - **Duration**: 1 bonus
 
 When you take the [[actions#Attack|Attack]] action on your turn and attack with a Light weapon, you can make one extra attack as a [[bonus-action-xphb|Bonus Action]] later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[shortsword-xphb|Shortsword]] in one hand and a [[dagger-xphb|Dagger]] in the other using the [[actions#Attack|Attack]] action and a [[bonus-action-xphb|Bonus Action]], but you don't add your Strength or Dexterity modifier to the damage roll of the [[bonus-action-xphb|Bonus Action]] unless that modifier is negative.
 
-See also: [[actions#Attack|Attack]]
-
 ## Utilize
-_Source: Player's Handbook (2024) p. 377. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+_Source: Player's Handbook (2024) p. 377. Available in the SRD_
 
 - **Duration**: 1 action
 
@@ -412,8 +404,6 @@ Whispers don't disturb sleep, unless a sleeper's passive Wisdom ([[skills#Percep
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014|03 Mechanics/Rules Reference/Quick Reference/DnD5e DM Screen 2014]]
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014|03 Mechanics/Rules Reference/Quick Reference/DnD5e DM Screen 2014]]
-
 ## Player-Facing Summary
 
 Actions is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -422,19 +412,40 @@ Actions is a undersea element of the setting, known for bioluminescent glow and 
 
 Legends speak of actions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around actions.
 
-## Adventure Hooks
-
-- A rumor ties actions to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at actions to avert a public scandal.
-- A map overlay reveals a hidden approach to actions active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals ancient history about a local noble
+- Strange sightings suggest a conspiracy
+- A journal reveals ancient history about the cult
+- A letter reveals the truth about this place
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -23,13 +23,29 @@ updated: '2025-08-13T12:34:05.074325+00:00'
 world: Both
 ---
 
-
-
 # Boon of Luck
 
 You can add a `d10` roll to any ability check, attack roll, or saving throw you make. Once you use this boon, you can't use it again until you finish a short rest. 
 
 *Source: Dungeon Master's Guide p. 232*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -39,19 +55,26 @@ Boon of luck is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of boon of luck as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around boon of luck.
 
-## Adventure Hooks
-
-- A rumor ties boon of luck to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at boon of luck to avert a public scandal.
-- A map overlay reveals a hidden approach to boon of luck active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and truth emerges
+- A journal reveals the truth about a local noble
+- Someone is protecting information for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

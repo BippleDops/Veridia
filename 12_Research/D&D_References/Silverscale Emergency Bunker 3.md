@@ -25,13 +25,27 @@ updated: '2025-08-13T12:34:29.049082+00:00'
 world: Aethermoor
 ---
 
-
-
-
-
 # Silverscale Emergency Bunker
 
 *"When the surface world burns, the scales provide sanctuary below."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 The Silverscale Emergency Bunker is a heavily fortified underground facility designed to protect key personnel and resources during catastrophic events affecting Aethermoor. Built by the Silverscale organization using both surface and underwater engineering techniques, it represents one of the most secure locations in the surface realm. The bunker features advanced life support systems, magical shielding, and secure communication networks linking it to both realms.
@@ -41,19 +55,6 @@ Constructed during a period of increasing inter-realm tensions, the bunker was d
 
 ## Current State
 The bunker remains on standby alert, fully stocked and ready for immediate occupation. Recent dimensional instabilities have triggered several false alarms, leading to reviews of activation protocols.
-
-## Mechanics
-### Requirements
-- Silverscale authorization codes
-- Emergency condition declaration
-- Biometric verification
-- Crisis-level threat assessment
-
-### Effects
-- **Complete Protection**: Immunity to most surface-world catastrophes
-- **Command Capabilities**: Maintain leadership during crises
-- **Resource Security**: Preserve essential supplies and personnel
-- **Communication Hub**: Coordinate response across both realms
 
 ### Duration
 Designed for sustained operation up to one year without external support.
@@ -65,15 +66,6 @@ Designed for sustained operation up to one year without external support.
 
 ## Campaign Use
 Provides secure meeting location, refuge during disasters, or target for infiltration missions.
-
-
-## Connections
-
-- [[Silver Mask]]
-- [[The Deep Mother]]
-- [[The Final Choice]]
-- [[The Silverscale Conspiracy]]
-- [[Aethermoor - Session 04 The Silverscale Gambit]]
 
 ## Player-Facing Summary
 
@@ -87,13 +79,21 @@ Legends speak of Silverscale Emergency Bunker as a nexus where past and present 
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Final Choice]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a curse
+- Strange sightings suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

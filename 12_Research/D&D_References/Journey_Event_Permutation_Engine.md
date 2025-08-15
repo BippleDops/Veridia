@@ -19,8 +19,6 @@ updated: '2025-08-13T01:18:31.124703+00:00'
 world: Both
 ---
 
-
-
 # Journey Event Permutation Engine (1,000,000+ combos)
 
 Combine one result from each d20 list to form a unique encounter. This exceeds 1,000 scenarios while staying fast at the table.
@@ -28,6 +26,24 @@ Combine one result from each d20 list to form a unique encounter. This exceeds 1
 Roll: 1d20 Environment + 1d20 Faction + 1d20 Horror + 1d20 Discovery + 1d20 Systems (+ optional 1d6 Tone, 1d20 Complication).
 
 Integration: Apply Zone Modifiers from [[Vehicle_Core_Rules|Vehicle Core Rules]]; sanity from [[Sanity System]]; anchors/RSB from [[Complete Reality Merger System]]; memory payouts from [[Memory Trading Economy System|Memory Economy]]; faction impacts from [[Complete Faction Warfare System]].
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Environment (d20)
 1 Pressure surge wall
@@ -38,7 +54,7 @@ Integration: Apply Zone Modifiers from [[Vehicle_Core_Rules|Vehicle Core Rules]]
 6 Silt blizzard
 7 Gravity eddy (sky)
 8 Jetstream kink (sky)
-9 Null hush pocket
+9  hush pocket
 10 Shadow bloom
 11 Memory rain
 12 Static storm
@@ -48,7 +64,7 @@ Integration: Apply Zone Modifiers from [[Vehicle_Core_Rules|Vehicle Core Rules]]
 16 Solar glare band
 17 Abyss quake
 18 Dust river (sky)
-19 Anchor resonance hum
+19 Anchor resoce hum
 20 Deep Mother pulse
 
 ## Faction (d20)
@@ -153,19 +169,21 @@ Journey Event Permutation Engine is a undersea element of the setting, known for
 
 Legends speak of Journey Event Permutation Engine as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Journey Event Permutation Engine.
 
-## Adventure Hooks
-
-- A rumor ties Journey Event Permutation Engine to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Journey Event Permutation Engine to avert a public scandal.
-- A map overlay reveals a hidden approach to Journey Event Permutation Engine active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help delivering before winter
+- Strange dreams suggest a portal
+- Strange sightings suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

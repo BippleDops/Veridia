@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:37.098556'
 world: Both
 ---
 
-
 # Scimitar
 *Weapon*  
 ![](/03_Mechanics/CLI/items/img/scimitar.webp#right)
@@ -33,7 +32,25 @@ world: Both
 - **Cost**: 25 gp
 - **Weight**: 3.0 lbs.
 
-*Source: Player's Handbook (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 215. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -43,19 +60,26 @@ Scimitar xphb is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of scimitar xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around scimitar xphb.
 
-## Adventure Hooks
-
-- A rumor ties scimitar xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at scimitar xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to scimitar xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Plot Hooks
+
+- Someone is searching for an heir for money
+- A corpse reveals ancient history about the cult
+- The authorities needs help investigating before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -1,4 +1,5 @@
 ---
+
 title: Depth Crystal Harvest
 type: Location
 tags:
@@ -14,6 +15,8 @@ tags:
 - economic
 - world/aethermoor
 - mining
+- bloodline
+- prophecy
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
@@ -23,6 +26,8 @@ created_by: auto-stub
 danger_level: Moderate
 updated: '2025-08-13T12:34:17.183604+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -30,10 +35,71 @@ world: Aquabyssos
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-depth-crystal-harvest-depth-crystal-harvest.svg]]
 
-
 # Depth Crystal Harvest
 
 *"Where pressure forges beauty and danger in equal measure."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
 
 ## Overview
 The Depth Crystal Harvest is a treacherous mining operation located in the deepest trenches surrounding Aquabyssos, where rare pressure-formed crystals grow in the extreme depths. These sites are both essential to the city's economy and extraordinarily dangerous to access.
@@ -49,30 +115,11 @@ Multiple mining sites scattered across three major trench systems, connected by 
 **Processing Facilities**: On-site crystal cutting and preliminary refinement
 **Safety Systems**: Emergency ascent pods, medical stations, pressure monitoring
 
-## Notable Features
-- Naturally occurring crystal formations of immense size
-- Extreme pressure requiring specialized equipment
-- Unstable geology prone to sudden collapses
-- Bioluminescent creatures adapted to crushing depths
-- Magical interference from crystal energy
-
-## NPCs
-- **Supervisor Hadean Deepdelve**: Experienced mining chief
-- **Dr. Pressura Stonebreaker**: Chief geological surveyor
-- **Foreman Crush Ironlung**: Safety and equipment specialist
-- **The Deep Workers**: 50+ specialized miners
-
 ## Hazards
 **Environmental**: Crushing pressure, unstable geology, equipment failure
 **Biological**: Deep predators, pressure-adapted hostile creatures
 **Magical**: Crystal energy surges, temporal distortions
 **Economic**: Corporate sabotage, worker strikes, supply shortages
-
-## Current Events
-- Recent cave-in trapped twelve miners for six days
-- New crystal vein discovered in unexplored trench
-- Equipment sabotage suspected in recent accidents
-- Pressure suit shortage delaying operations
 
 ## Resources Produced
 **Depth Crystals**: Primary magical power source
@@ -80,33 +127,11 @@ Multiple mining sites scattered across three major trench systems, connected by 
 **Rare Minerals**: Secondary mining products
 **Research Materials**: Specimens for magical research
 
-## Economic Impact
-- Primary source of Aquabyssos's magical power
-- Employs over 200 workers directly
-- Supports entire supply chain of specialized equipment
-- Critical to city's technological advancement
-
 ## Adventure Hooks
 1. Rescue mission after catastrophic mining accident
 2. Investigation into sabotage affecting multiple sites
 3. Exploration of newly discovered crystal caverns
 4. Negotiation with deep-dwelling creatures claiming territory
-
-## Services Available
-- Crystal procurement for magical projects
-- Deep diving equipment rental
-- Geological survey services
-- Emergency rescue operations
-
-## Secrets
-- Some crystal formations appear artificially arranged
-- Deep creatures may be more intelligent than assumed
-- Corporate rivalry involves actual espionage and sabotage
-- Ancient ruins discovered beneath one mining site
-
-
-
-## Map Notes
 
 ### Key Locations
 1. Main entrance/approach
@@ -115,47 +140,8 @@ Multiple mining sites scattered across three major trench systems, connected by 
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 Use this location for high-stakes rescue missions and industrial espionage. The extreme environment creates natural tension and urgency. Corporate politics can drive ongoing campaigns.
-
-
-## Connections
-
-- [[The Cerulean Trench]]
-
-
-## History
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -165,24 +151,6 @@ Depth Crystal Harvest is a undersea element of the setting, known for biolumines
 
 Legends speak of Depth Crystal Harvest as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Crystal Harvest.
 
-## Cross-References
-
-- [[Depth Crystal Harvest]]
-
-<!-- enriched: true -->
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-primary-schools-v1-primary-schools.svg]]
-- [[04_Resources_Assets_Portraits_portrait-npc-quest-the-succession-crisis-quest-the-succession-crisis.svg]]
-- [[Wandering Prophet Coral Stormrider]]
-
-
 ## Sensory Details
 
 **Sights**: Colorful banners flutter in the breeze
@@ -191,7 +159,6 @@ Legends speak of Depth Crystal Harvest as a nexus where past and present converg
 
 **Smells**: The tang of salt air permeates everything
 
-
 ## Description
 
 Depth Crystal Harvest is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -199,31 +166,49 @@ Depth Crystal Harvest is a notable location characterized by its unique features
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
+**Goverce**: Local authority structure
 
 
-## Inhabitants
 
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
+## Secret Connections
 
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
 
 
-## Secrets & Rumors
+## Plot Hooks
 
-### Common Knowledge
-- What everyone knows about Depth Crystal Harvest
+- An heirloom has gone missing and evil awakens
+- A noble needs help finding before the festival
+- Strange accidents suggest a curse
+- A document has gone missing and truth emerges
 
-### Whispered Rumors
-- Stories that may or may not be true
+## Economic Structure
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
+
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

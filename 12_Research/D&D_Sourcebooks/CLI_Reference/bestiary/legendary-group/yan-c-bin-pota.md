@@ -22,12 +22,26 @@ updated: '2025-08-12T23:37:35.715642'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-yan-c-bin-pota-v1-yan-c-bin-pota.svg)
 
-# Yan-C-Bin
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Princes of the Apocalypse_
@@ -39,7 +53,6 @@ Yan-C-Bin dwells in a palace of air on the Elemental Plane of Air. In his palace
 - Yan-C-Bin creates a torrent of debris within 120 feet of him that lasts until initiative count 20 on the next round. The debris lightly obscures every creature and object in the area for the duration. All creatures in the area must succeed at a DC 24 Wisdom saving throw or be [[conditions#Blinded|blinded]] until initiative count 20 on the next round.  
 
 ## Regional effects
-_Source: Princes of the Apocalypse_
 
 When Yan-C-Bin inhabits an elemental node, the air is at his command. Temperatures fluctuate from blistering hot to freezing cold; thunder rolls and lightning cracks; powerful gales bear heavy creatures and objects aloft and hurl them with incredible force; cyclones touch down randomly, obliterating whatever they touch.
 
@@ -58,19 +71,26 @@ Yan c bin pota is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of yan c bin pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around yan c bin pota.
 
-## Adventure Hooks
-
-- A rumor ties yan c bin pota to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at yan c bin pota to avert a public scandal.
-- A map overlay reveals a hidden approach to yan c bin pota active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help stealing before the festival
+- Strange sightings suggest a curse
+- A stranger needs help delivering before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

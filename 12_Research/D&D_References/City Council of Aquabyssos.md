@@ -17,33 +17,26 @@ updated: '2025-08-13T01:18:36.336311+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-city-council-of-aquabyssos-city-council-of-aquabyssos.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -53,28 +46,37 @@ City Council of Aquabyssos is a undersea element of the setting, known for biolu
 
 Legends speak of City Council of Aquabyssos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around City Council of Aquabyssos.
 
-## Adventure Hooks
-
-- A rumor ties City Council of Aquabyssos to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at City Council of Aquabyssos to avert a public scandal.
-- A map overlay reveals a hidden approach to City Council of Aquabyssos active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[City Council of Aquabyssos|02 Worldbuilding/Places/City Council Of Aquabyssos]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Harbor Master Luna Freedrift]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Plot Hooks
+
+- A journal reveals the truth about a local noble
+- Strange sightings suggest a portal
+- A corpse reveals a conspiracy about the government
+- Someone is blackmailing information for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

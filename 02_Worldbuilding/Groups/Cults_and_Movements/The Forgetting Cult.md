@@ -1,4 +1,5 @@
 ---
+
 title: The Forgetting Cult
 type: Faction
 tags:
@@ -10,6 +11,7 @@ tags:
 - active
 - complete
 - status/in-progress
+- prophecy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -17,31 +19,75 @@ headquarters: Unknown
 membership: Unknown
 updated: '2025-08-13T12:34:17.402653+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
+
 
 ![The Forgetting Cult](../../../04_Resources/Assets/Generated/Misc/the_forgetting_cult.png)
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Overview
+### History Improvements
 
-TODO
-## Structure
+- Add three historical eras with major events
 
-TODO
-## Goals
+### Culture Improvements
 
-TODO
-## Assets
+- Define unique cultural practices and taboos
 
-TODO
-## Conflicts
+### Economy Improvements
 
-TODO
-## Hooks
+- Detail currency, trade goods, and wealth distribution
 
-TODO
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
 
 ## Player-Facing Summary
 
@@ -51,110 +97,34 @@ The Forgetting Cult is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Forgetting Cult as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Forgetting Cult.
 
-## Adventure Hooks
-
-- A rumor ties The Forgetting Cult to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Forgetting Cult to avert a public scandal.
-- A map overlay reveals a hidden approach to The Forgetting Cult active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Archivist Mnemonic the Forgotten]]
-
-
-## Connections
-
-- [[Archivist Mnemonic the Forgotten]]
-- [[Memory Harvester Kythara]]
-- [[The Shadow Singer Naia]]
-
-
-## Known Members
-
-- [[NPC Statblock]]
-- [[04_Resources_Assets_Locations_location-city-master-elena-preserver-master-elena-preserver.svg]]
-- [[04_Resources_Assets_Locations_location-city-keeper-valdris-goldvault-keeper-valdris-goldvault.svg]]
-
-
-## Members
-
-### Notable Members
-- [[Leader Name]] - Current head
-- [[Key Officer]] - Important figure
-- [[Rising Star]] - Ambitious member
-
-### Membership Requirements
-- Skills or qualities needed
-- Initiation process
-- Ongoing obligations
-
-
-## Resources
-
-### Financial
-- Funding sources
-- Wealth level
-- Economic influence
-
-### Physical Assets
-- Properties owned
-- Equipment available
-- Special resources
-
-### Human Resources
-- Member skills
-- Allies and contacts
-- Information networks
-
-
-## Operations
-
-### Regular Activities
-- Day-to-day operations
-- Revenue generation
-- Member services
-
-### Special Operations
-- Covert activities
-- Major projects
-- Crisis responses
-
-
-## Relationships
-
-### Allies
-- Aligned organizations
-- Political supporters
-- Business partners
-
-### Enemies
-- Rival organizations
-- Opposed factions
-- Active threats
-
-### Neutral Parties
-- Potential allies or enemies
-- Trade partners
-- Watching parties
-
-
-## Secrets
-
 ### Open Secrets
 Things widely suspected
 
-### Hidden Truths
-- Real leadership
-- True funding sources
-- Secret objectives
 
-### Deep Mysteries
-- Ancient connections
-- Forbidden knowledge
-- Ultimate goals
+## Plot Hooks
+
+- A document has gone missing and war looms
+- A shipment has gone missing and war looms
+- Someone is hunting information for love
+- A prisoner has gone missing and war looms
+
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established

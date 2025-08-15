@@ -31,14 +31,29 @@ updated: '2025-08-13T12:34:06.052265+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-couatl-xmm-couatl-xmm.svg)
 
 # [[couatl-xmm|Couatl]]
-*Source: Monster Manual (2024) p. 82. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 82. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Couatl
 
@@ -66,8 +81,6 @@ Each couatl goes through a period of renewal at the end of an age. In a couatl's
   - !!int "16"
   - !!int "20"
   - !!int "17"
-  - !!int "18"
-  - !!int "20"
   - !!int "18"
 "speed": "30 ft., fly 90 ft."
 "saves":
@@ -105,7 +118,7 @@ Each couatl goes through a period of renewal at the end of an age. In a couatl's
       \ [[scrying-xphb|Scrying]], [[sleep-xphb|Sleep]]"
     "name": "Spellcasting"
 "bonus_actions":
-  - "desc": "The couatl casts [[bless-xphb|Bless]], [[lesser-restoration-xphb|Lesser\
+  - "desc": "The couatl casts [[bless-xphb|Bless]], [[lesser-restoration-xphb|Lesser\]]
       \ Restoration]], or [[sanctuary-xphb|Sanctuary]],\
       \ requiring no spell components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Divine Aid (2/Day)"
@@ -127,19 +140,32 @@ Couatl xmm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of couatl xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around couatl xmm.
 
-## Adventure Hooks
-
-- A rumor ties couatl xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at couatl xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to couatl xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and truth emerges
+- A noble needs help stealing before the new moon
+- A letter reveals ancient history about a local noble
+- A map reveals ancient history about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

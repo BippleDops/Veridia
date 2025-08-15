@@ -8,13 +8,9 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# 08_Archive
-
 ## Overview
 
 08_Archive represents a crucial aspect of the world's history, cosmology, or fundamental nature.
-
-[Lore content continues with similar detail...]
 
 ---
 

@@ -1,6 +1,6 @@
 {
   "title": "The Crystal Academy",
-  "prompt": "The crystal academy, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "prompt": "The crystal academy, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting, crystal",
   "negative": "low quality, amateur, blurry",
   "settings": {
     "width": 512,
@@ -8,6 +8,6 @@
     "steps": 20,
     "cfg": 7
   },
-  "generated": "2025-08-14T23:29:36.618Z",
+  "generated": "2025-08-15T00:34:57.647Z",
   "sourceFile": "/02_Worldbuilding/Groups/Academies/The Crystal Academy.md"
 }

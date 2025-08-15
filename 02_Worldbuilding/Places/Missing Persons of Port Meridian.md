@@ -1,4 +1,5 @@
 ---
+
 title: Missing Persons of Port Meridian
 type: Location
 tags:
@@ -14,6 +15,7 @@ tags:
 - complete
 - conspiracy
 - aethermoor
+- bloodline
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
@@ -23,6 +25,8 @@ created_by: auto-stub
 danger_level: Moderate
 updated: '2025-08-13T12:34:17.140247+00:00'
 world: Aethermoor
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -30,10 +34,74 @@ world: Aethermoor
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-missing-persons-of-port-meridian-missing-persons-of-port-meridian.svg]]
 
-
 # Missing Persons of Port Meridian
 
 *"They vanish without trace, leaving only questions behind."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
 
 ## Overview
 A complex investigation quest involving a series of mysterious disappearances in Port Meridian. Over the past six months, seventeen residents have vanished without leaving any conventional traces, creating panic among the population and baffling local authorities.
@@ -85,7 +153,7 @@ The missing persons come from all social classes and backgrounds, with no appare
 ## Clues and Evidence
 **Magical Residue**: Faint traces of conjuration magic at some sites
 **Witness Accounts**: Descriptions of strange lights or sounds
-**Financial Records**: Some victims had recent unusual transactions
+**Ficial Records**: Some victims had recent unusual transactions
 **Travel Documents**: Suspicious ship manifests or passenger lists
 **Personal Items**: Belongings that might reveal victim connections
 
@@ -96,25 +164,11 @@ The missing persons come from all social classes and backgrounds, with no appare
 **Option D**: Extra-dimensional creature collecting humans
 **Option E**: Time travel experiment gone wrong
 
-## Challenges
-- Limited physical evidence makes investigation difficult
-- Public panic and pressure for quick results
-- Official authorities may be hiding information
-- Perpetrators actively working to avoid detection
-- False leads and red herrings confuse the investigation
-
 ## Quest Resolution
 **Investigation Success**: Discover the truth and location of missing persons
 **Rescue Mission**: Attempt to recover victims from wherever they're held
 **Prevention**: Stop future disappearances by eliminating the threat
 **Justice**: Bring perpetrators to face consequences for their actions
-
-## Rewards
-- 2,000-4,000 XP depending on resolution completeness
-- Gratitude of families and city authorities
-- Potential ongoing relationships with rescued victims
-- Information network established through investigation
-- Possible magic items or treasure from perpetrators
 
 ## Adventure Hooks
 1. Players hired by desperate families
@@ -125,10 +179,6 @@ The missing persons come from all social classes and backgrounds, with no appare
 ## Long-term Consequences
 Success prevents future disappearances and may reveal larger conspiracies. Failure could lead to more disappearances and loss of public trust in authorities.
 
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -136,53 +186,8 @@ Success prevents future disappearances and may reveal larger conspiracies. Failu
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 This investigation should feel urgent and personal. Give players multiple investigative paths and let them choose their approach. The solution should tie together several clues in a satisfying way.
-
-
-## Connections
-
-- [[Aethermoor - Session 01 Blood in the Harbor]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -192,24 +197,6 @@ Missing Persons of Port Meridian is a undersea element of the setting, known for
 
 Legends speak of Missing Persons of Port Meridian as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Missing Persons of Port Meridian.
 
-## Cross-References
-
-- [[Missing Persons of Port Meridian]]
-
-<!-- enriched: true -->
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[Maestro Finn Whirlstep]]
-- [[Royal Ports]]
-- [[Voluntary Taxation]]
-
-
 ## Sensory Details
 
 **Sights**: Shadows dance across weathered stone walls
@@ -218,7 +205,6 @@ Legends speak of Missing Persons of Port Meridian as a nexus where past and pres
 
 **Smells**: Incense mingles with the scent of exotic spices
 
-
 ## Description
 
 Missing Persons of Port Meridian is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -226,35 +212,7 @@ Missing Persons of Port Meridian is a notable location characterized by its uniq
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Missing Persons of Port Meridian
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -267,15 +225,28 @@ Ongoing situations affecting Missing Persons of Port Meridian:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Missing Persons of Port Meridian
+## Plot Hooks
 
-### Whispered Rumors
-- Stories that may or may not be true
+- A shipment has gone missing and evil awakens
+- A letter reveals a betrayal about the government
+- The authorities needs help investigating before winter
+- A stranger needs help stealing before dawn
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

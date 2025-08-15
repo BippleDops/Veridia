@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.123350+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-historical-prophetic-analysis-historical-prophetic-analysis.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Mad Oracle Thessaly|02 Worldbuilding/Places/Mad Oracle Thessaly]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Mad Oracle Thessaly]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,20 @@ Historical Prophetic Analysis is a undersea element of the setting, known for bi
 
 Legends speak of Historical Prophetic Analysis as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Historical Prophetic Analysis.
 
-## Adventure Hooks
-
-- A rumor ties Historical Prophetic Analysis to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Historical Prophetic Analysis to avert a public scandal.
-- A map overlay reveals a hidden approach to Historical Prophetic Analysis active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

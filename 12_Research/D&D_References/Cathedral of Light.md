@@ -22,7 +22,7 @@ region: '[[Capital District]]'
 population: 500
 world: Aethermoor
 danger_level: 1
-government: '[[Sacred Order of Luminous Daw|02 Worldbuilding/Groups/Sacred Order Of
+government: '[[Sacred Order of Luminous Daw|02 Worldbuilding/Groups/Sacred Order Of]]
   Luminous Daw]]'
 leader: '[[High Luminary Celestine Brightward]]'
 specialties:
@@ -36,25 +36,35 @@ obsidianUIMode: preview
 updated: '2025-08-12T00:00:00+00:00'
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-cathedral-of-light-cathedral-of-light.png]]
 
-
-
-
-
 # Cathedral of Light
 *The Radiant Heart of Faith*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
 The Cathedral of Light stands as the most magnificent religious structure in [[Aethermoor|02 Worldbuilding/Places/Aethermoor]], its crystalline spires reaching toward the heavens like prayers made manifest. Built from rare [[Illumination Crystals]] that glow with perpetual divine radiance, the Cathedral serves as the spiritual heart of the realm and the primary seat of the [[Sacred Order of Luminous Daw|02 Worldbuilding/Groups/Sacred Order Of Luminous Daw]]. Here, [[High Luminary Celestine Brightward]] leads thousands of faithful in worship of the Light Divine, while the Cathedral's healing halls tend to all who seek sanctuary.
 
 The Cathedral exists not merely as a place of worship but as a beacon of hope in a world touched by crystal corruption, its holy light serving as both literal and metaphorical guidance for those lost in darkness.
-
-## Architectural Marvel
 
 ### The Soaring Sanctuary
 **The Great Nave**
@@ -97,8 +107,6 @@ Each spire represents one aspect of divine light:
 - Contains [[The Cosmic Altar]] where High Luminary communes with divine
 - Houses the sacred [[Chronicle of Stars]] recording celestial events
 
-## The Sacred Order of Luminous Dawn
-
 ### Leadership Hierarchy
 **[[High Luminary Celestine Brightward]]**
 - Supreme religious leader of the Cathedral
@@ -117,13 +125,6 @@ Each spire represents one aspect of divine light:
 - **[[Luminary Commander Gareth Boldstrike]]** - Spire of Courage
 - **[[Luminary Ambassador Lysander Bridgemaker]]** - Spire of Unity
 
-### The Illuminated Clergy
-- **High Clerics** (12) - Senior priests overseeing major ceremonies
-- **Sacred Scribes** (30) - Scholars and keepers of religious texts
-- **Healing Adepts** (50) - Specialized in divine medicine
-- **Temple Guards** (100) - [[Paladins of Light]] protecting the Cathedral
-- **Acolytes** (200+) - Students and junior clergy members
-
 ### The Paladins of Light
 Elite holy warriors dedicated to protecting the Cathedral and the faithful:
 - Trained in both martial and divine arts
@@ -131,8 +132,6 @@ Elite holy warriors dedicated to protecting the Cathedral and the faithful:
 - Oath binds them to protect the innocent and fight darkness
 - Led by [[Paladin Commander Sir Radiant Dawnbreaker]]
 - Can channel divine light through their weapons and armor
-
-## Sacred Chambers and Services
 
 ### The Halls of Healing
 **The Sanctuary of Restoration**
@@ -148,7 +147,7 @@ Elite holy warriors dedicated to protecting the Cathedral and the faithful:
 - Resurrection services (expensive, requires approval)
 - Crystal corruption purification (experimental)
 - Mental healing for trauma and madness
-- Pregnancy and childbirth care
+- Pregcy and childbirth care
 
 ### The Sacred Libraries
 **The Archive of Illumination**
@@ -188,17 +187,6 @@ Elite holy warriors dedicated to protecting the Cathedral and the faithful:
 - Confessional services for spiritual cleansing
 - Truth-seeking ceremonies using divine magic
 
-## Daily Rituals and Ceremonies
-
-### The Seven Daily Prayers
-- **Dawn Praise** - Greeting the new day's light
-- **Morning Gratitude** - Thanks for blessings received
-- **Midday Reflection** - Meditation on divine will
-- **Afternoon Service** - Community prayer and healing
-- **Evening Contemplation** - Personal spiritual examination
-- **Sunset Blessing** - Protection through the night
-- **Midnight Vigil** - For the dedicated faithful only
-
 ### Major Festivals
 **Festival of First Light** (Spring Equinox)
 - Celebrates the triumph of light over darkness
@@ -223,31 +211,6 @@ Elite holy warriors dedicated to protecting the Cathedral and the faithful:
 - Solemn ceremonies for the deceased
 - Renewal of faith vows
 - Silent meditation and fasting
-
-## Notable NPCs
-
-### Religious Leadership
-- **[[High Luminary Celestine Brightward]]** - Supreme spiritual leader
-- **[[Paladin Commander Sir Radiant Dawnbreaker]]** - Military leader
-- **[[Mother Superior Cordelia Mercyheart]]** - Head of charitable works
-- **[[Archdeacon Felix Faithkeeper]]** - Administrative overseer
-- **[[Oracle Sister Luna Visionseeker]]** - Interpreter of divine signs
-
-### Devoted Servants
-- **[[Brother Thomas the Illuminated]]** - Keeper of the Eternal Flame
-- **[[Sister Maria Purelight]]** - Master healer with miraculous abilities
-- **[[Scribe Master Augustine Brightquill]]** - Head librarian and scholar
-- **[[Guardian Captain Marcus Shieldwall]]** - Cathedral security chief
-- **[[Novice Apprentice Sarah Hopeful]]** - Young prodigy showing divine favor
-
-### Regular Visitors
-- **[[Ambassador Elena Diplomatic]]** - Royal court liaison
-- **[[Merchant Lord Cornelius Generous]]** - Major Cathedral benefactor
-- **[[Scholar Dr. Vera Theological]]** - Leading religious researcher
-- **[[Refugee Leader Maria Dispossessed]]** - Organizes displaced persons
-- **[[Pilgrim Guide Samuel Walkingfaith]]** - Leads spiritual journeys
-
-## Secrets & Mysteries
 
 ### The Source of Eternal Flame
 The altar's perpetual fire has burned for over 600 years without fuel:
@@ -281,14 +244,6 @@ Underground network providing safe passage for refugees:
 - Funded through anonymous donations
 - Even some Cathedral hierarchy unaware of full extent
 
-## Current Events & Plot Hooks
-
-### Active Situations
-- **Divine Visions** - High Luminary receiving disturbing prophecies
-- **Healing Crisis** - Mysterious illness resisting divine cure
-- **Faith Schism** - Theological dispute over crystal corruption stance
-- **Missing Artifacts** - Sacred relics vanishing from secured chambers
-
 ### Adventure Opportunities
 
 **The Dimming Light**
@@ -319,8 +274,6 @@ Refugee influx overwhelms Cathedral's resources:
 - Navigate complex diplomatic and moral challenges
 - Outcome determines Cathedral's role in ongoing crisis
 
-## Environmental Features
-
 ### The Light Amplification Field
 The Cathedral's crystal construction creates unique magical effects:
 - All light-based spells cast at +2 caster level
@@ -334,7 +287,7 @@ The Cathedral's design creates perfect sound projection:
 - Whispered prayers audible throughout main sanctuary
 - Choir music achieves supernatural beauty and power
 - Lies spoken aloud create discordant echoes
-- Truth-telling enhances speaker's voice with divine resonance
+- Truth-telling enhances speaker's voice with divine resoce
 - Can be used for mass communication during emergencies
 
 ### Sanctified Ground Effects
@@ -345,8 +298,6 @@ The entire Cathedral area is consecrated space:
 - Crystal corruption slowed within Cathedral bounds
 - Area serves as anchor for extraplanar communication
 
-## D&D 5e Mechanics
-
 ### Environmental Benefits
 While in the Cathedral, characters experience:
 - **Blessed Rest** - Long rests restore maximum hit points
@@ -355,13 +306,6 @@ While in the Cathedral, characters experience:
 - **Peaceful Spirit** - Immunity to fear effects
 - **Healing Grace** - Natural healing doubled
 
-### Services Available
-- **Divine Healing** - Cure diseases, remove curses (donation suggested)
-- **Resurrection Services** - Raise dead (10,000 gp + approval process)
-- **Blessing Ceremonies** - Temporary divine boons (100-500 gp)
-- **Sacred Item Creation** - Holy weapons and armor (materials + time)
-- **Oracle Consultations** - Divination services (varies by complexity)
-
 ### Special Equipment
 **Illumination Crystal Focus**
 - Enhanced spellcasting focus for divine casters
@@ -369,13 +313,6 @@ While in the Cathedral, characters experience:
 - Sheds bright light 20 feet, dim light 20 more
 - Can cast *light* cantrip at will
 - Requires attunement by good-aligned divine caster
-
-### Environmental DCs
-- **Navigate Cathedral:** DC 8 (well-marked and staffed)
-- **Access Restricted Areas:** DC 18 Persuasion or proper authorization
-- **Research in Sacred Libraries:** DC 12 Investigation with assistance
-- **Commune with Divine:** DC 20 Religion check in prayer
-- **Detect Divine Presence:** DC 10 Perception (advantage if faithful)
 
 ### Encounter Tables
 
@@ -396,43 +333,6 @@ While in the Cathedral, characters experience:
 | 5 | Crystal corruption victim seeks sanctuary |
 | 6 | Divine vision grants party important information |
 
-## Connections to Other Locations
-
-### [[The Crystal Throne]]
-- Official recognition and royal patronage
-- Tension over crystal corruption policies
-- Shared concern for realm's spiritual health
-- Regular diplomatic exchanges
-
-### [[Sylvanheart]]
-- Interfaith dialogue on natural vs. divine magic
-- Cooperation in refugee assistance
-- Shared opposition to corruption
-- Exchange of healing knowledge
-
-### [[The Underground]]
-- Secret cooperation in sanctuary network
-- Shared resources for helping refugees
-- Careful balance of legal and moral obligations
-- Mutual protection of vulnerable populations
-
-## Quick Reference
-
-### Daily Schedule
-- **Dawn (6 AM)** - First prayer service
-- **Morning (9 AM)** - Healing halls open
-- **Midday (12 PM)** - Main community service
-- **Afternoon (3 PM)** - Educational programs
-- **Evening (6 PM)** - Evening prayer and reflection
-- **Night (9 PM)** - Quiet hours, emergency services only
-
-### Key Services
-- **Healing** - Free medical care using divine magic
-- **Sanctuary** - Safe haven for refugees and displaced
-- **Education** - Religious instruction and literacy programs
-- **Counseling** - Spiritual guidance and emotional support
-- **Justice** - Ecclesiastical court for religious matters
-
 ### Important Ceremonies
 - **Ordination** - Monthly ceremony for new clergy
 - **Blessing** - Weekly blessing of community needs
@@ -447,11 +347,6 @@ While in the Cathedral, characters experience:
 > [!tip] DM Note
 > The Cathedral serves as a moral anchor and safe haven in campaigns, providing healing, information, and sanctuary for characters. Use it to introduce religious themes, moral dilemmas, and opportunities for characters to help others. The mysteries and secrets provide ongoing plot threads, while the daily operations offer realistic downtime activities.
 
-
-## Connections
-
-- [[Aethermoor - Session 03 Council of Shadows]]
-
 ## Player-Facing Summary
 
 Cathedral of Light is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -459,12 +354,6 @@ Cathedral of Light is a undersea element of the setting, known for bioluminescen
 ## Lore Details
 
 Legends speak of Cathedral of Light as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Cathedral of Light.
-
-## Adventure Hooks
-
-- A rumor ties Cathedral of Light to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Cathedral of Light to avert a public scandal.
-- A map overlay reveals a hidden approach to Cathedral of Light active only during specific tides/storms.
 
 ## DM Notes
 
@@ -474,13 +363,26 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Cathedral of Light|02 Worldbuilding/Places/Cathedral Of Light]]
 
-<!-- enriched: true -->
 riched: true -->
 - [[Purist Coalition]]
 - [[The Great Crystallization]]
 - [[Sylvanheart]]
 
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

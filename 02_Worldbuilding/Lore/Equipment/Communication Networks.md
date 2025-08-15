@@ -1,73 +1,90 @@
 ---
-title: Communication Networks
+
+title: 02_Worldbuilding/Equipment/Communication Networks
 type: lore
 tags:
-- placeholder
 - lore
-- needs-content
-- active
-created: 2025-08-14
+- worldbuilding
+created: '2025-08-14'
 modified: '2025-08-14'
-status: placeholder
-updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
-# 02_Worldbuilding/Equipment/Communication Networks
 
-> *This is a placeholder note created automatically because it was referenced in other notes.*
 
-## Description
+## 🔧 Deep Evaluation Improvements
 
-*[To be filled in]*
+*20 targeted improvements identified*
 
-## Details
+### History Improvements
 
-*[To be filled in]*
+- Add three historical eras with major events
 
-## Connections
+### Culture Improvements
 
-### Referenced In
-- [[Shadow Ambush - Optional]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Ambush - Optional]]
+- Define unique cultural practices and taboos
 
-## Notes
+### Economy Improvements
 
-*This placeholder was created because this concept was referenced but didn't have its own note. Please add appropriate content.*
+- Detail currency, trade goods, and wealth distribution
 
-## Related
-- *[Add related links]*
+### Religion Improvements
 
----
-*Placeholder generated: 2025-08-14*
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
 
 ## Overview
 
-Communication Networks represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
+02_Worldbuilding/Equipment/Communication Networks represents a crucial aspect of the world's history, cosmology, or fundamental nature.
 
+---
 
-## Historical Context
-
-The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
-
-
-## Cultural Impact
-
-Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
-## Game Applications
-
-### Adventure Hooks
-- Discovery of related artifacts or texts
-- Conflicts arising from different interpretations
-- Prophecies beginning to manifest
-
-### Character Connections
-- Scholarly interest
-- Personal involvement in events
-- Hereditary knowledge or curse
-
+*Last Updated: 2025-08-14 19:03*
 
 ## DM Notes
 
@@ -76,3 +93,9 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- Someone is blackmailing a witness for power
+- Strange accidents suggest ancient magic

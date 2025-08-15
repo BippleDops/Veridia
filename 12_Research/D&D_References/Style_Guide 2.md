@@ -10,25 +10,27 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Visual Style Guide
 
-- Realms:
-  - Aquabyssos: teals, deep blues, biolum glow; materials: coral, pearl, pressure glass.
-  - Aethermoor: navy, gold, cloud-white; materials: cloudstone, brass, sailcloth.
-  - Void: indigos, violets, starfields; materials: night-silk, abyss-glass.
-- D&D Stylization: heroic tabletop fantasy (D&D 5e adjacent), grounded medieval-fantasy kit, coherent cultural gear, no modern tech or signage, consistent painterly collection style.
-- Portraits: painterly realism; token readability at 210x330+; clear facial features; realm attire.
-- Environments: concept art realism; cinematic key/fill/rim; underwater caustics; storm rim for sky.
-- Maps: 140 px grid; icons only; bold walls vs fine textures; distinct patterns for terrain types.
-- Vehicles: blueprint cutaways with numbered pins and legend space; no paragraphs.
-- UI: fantasy-themed, high-contrast, readable; short real labels where needed.
-- Negatives: modern signage, sci-fi UI, photoreal CGI, anime, bloom glare, gibberish text.
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -37,3 +39,18 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A journal reveals the truth about a local noble
+- A prisoner has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

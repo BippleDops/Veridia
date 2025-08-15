@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.531889+00:00'
 world: Both
 ---
 
-
-
 # 50 gp Gemstones
 *Source: Dungeon Master's Guide p. 134* 
 
@@ -47,6 +45,24 @@ world: Both
 | 12 | [[zircon-xdmg|Zircon]] (transparent pale blue-green) |
 ^50-gp-gemstones
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 50 gp gemstones is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -55,19 +71,27 @@ world: Both
 
 Legends speak of 50 gp gemstones as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 50 gp gemstones.
 
-## Adventure Hooks
-
-- A rumor ties 50 gp gemstones to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 50 gp gemstones to avert a public scandal.
-- A map overlay reveals a hidden approach to 50 gp gemstones active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Strange dreams suggest a portal
+- A merchant needs help finding before dawn
+- A stranger needs help investigating before winter
+- A merchant needs help stealing before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

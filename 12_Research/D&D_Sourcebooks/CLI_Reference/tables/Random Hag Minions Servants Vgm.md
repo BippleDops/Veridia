@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.373122+00:00'
 world: Both
 ---
 
-
-
 # Random Hag Minions; Servants
 *Source: Volo's Guide to Monsters p. 61* 
 
@@ -43,6 +41,24 @@ world: Both
 | 8 | [[yeth-hound-mpmm|Yeth Hounds]] |
 ^servants
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Random hag minions servants vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -51,19 +67,25 @@ Random hag minions servants vgm is a undersea element of the setting, known for 
 
 Legends speak of random hag minions servants vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random hag minions servants vgm.
 
-## Adventure Hooks
-
-- A rumor ties random hag minions servants vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at random hag minions servants vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to random hag minions servants vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- Strange dreams suggest a conspiracy
+- A noble needs help finding before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

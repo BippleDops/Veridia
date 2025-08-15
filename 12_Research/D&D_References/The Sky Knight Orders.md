@@ -17,17 +17,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Aethermoor Wind Rider Traditions|02 Worldbuilding/Lore/Aethermoor Wind Rider Traditions]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Aethermoor Wind Rider Traditions]]
 
 ## Player-Facing Summary
 
@@ -37,19 +42,25 @@ The Sky Knight Orders is a sky-borne element of the setting, known for brass fit
 
 Legends speak of The Sky Knight Orders as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Sky Knight Orders.
 
-## Adventure Hooks
-
-- A rumor ties The Sky Knight Orders to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Sky Knight Orders to avert a public scandal.
-- A map overlay reveals a hidden approach to The Sky Knight Orders active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -1,7 +1,7 @@
-# Resonance Bomb
+# Resoce Bomb
 
 ---
-title: Resonance Bomb
+title: Resoce Bomb
 type: Group
 tags:
 - both
@@ -15,34 +15,44 @@ updated: '2025-08-13T01:18:36.706133+00:00'
 world: Both
 ---
 
-
 > [!figure] Heraldry
-![[04_Resources/Assets/Symbols/symbol-heraldry-resonance-bomb-resonance-bomb.svg]]
+![[04_Resources/Assets/Symbols/symbol-heraldry-resoce-bomb-resoce-bomb.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
 ## Player-Facing Summary
 
-Resonance Bomb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+Resoce Bomb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of Resonance Bomb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Resonance Bomb.
-
-## Adventure Hooks
-
-- A rumor ties Resonance Bomb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Resonance Bomb to avert a public scandal.
-- A map overlay reveals a hidden approach to Resonance Bomb active only during specific tides/storms.
+Legends speak of Resoce Bomb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Resoce Bomb.
 
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

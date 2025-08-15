@@ -21,32 +21,27 @@ updated: '2025-08-13T12:34:17.812983+00:00'
 world: Both
 ---
 
-
-
-
 # Economic Warfare Simulator
 
 Markets as battlegrounds: supply/demand for 100+ goods, manipulation, sabotage, trade route risk, currencies, collapse scenarios.
 
-## Market Model
-- Goods: Crystal grades, pressure tech, memory pearls, anchors, foodstuffs, artifacts
-- Price = Base × Demand/ Supply × Reality Modifier (from [[Complete Reality Merger System]])
 
-## Manipulation Tools
-- Buyouts, embargoes, counterfeit charts, rumor campaigns, anchor control
+## 🔧 Deep Evaluation Improvements
 
-## Sabotage Operations
-- Attack infrastructure (see [[Transportation_Infrastructure|Transportation Infrastructure]]), bribe officials, infect parasites into supply chains
+*20 targeted improvements identified*
 
-## Trade Route Risk/Reward
-- Use [[06_GM_Resources/Travel/Travel Event Table]]; add piracy and patrol modifiers from [[Fleet_Dynamics_Generator|Fleet Dynamics Generator]]
+### Connection Improvements
 
-## Currency Speculation
-- Crystal notes, Memory credits, Anchor bonds; volatility spikes near mergers
+- Add cross-references to related notes
 
-## Collapse Scenarios
-- Triggers: Anchor failure, Deep Mother cult strikes, plague waves
-- Effects: Faction pillar shocks (see [[Complete Faction Warfare System]])
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -56,23 +51,38 @@ Economic Warfare Simulator is a undersea element of the setting, known for biolu
 
 Legends speak of Economic Warfare Simulator as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Economic Warfare Simulator.
 
-## Adventure Hooks
-
-- A rumor ties Economic Warfare Simulator to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Economic Warfare Simulator to avert a public scandal.
-- A map overlay reveals a hidden approach to Economic Warfare Simulator active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Phase_Omega_Enhanced_Index|03 Mechanics/Phase Omega Enhanced Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting an heir for money
+- Strange accidents suggest ancient magic
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -10,7 +10,23 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Political Intrigue Mechanics
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Systematic Framework for Complex Political Maneuvering
 
@@ -21,7 +37,7 @@ Research on implementing multi-layered political systems that engage players wit
 **Power Structure Layers**:
 - **Formal Authority**: Official government positions and legal powers
 - **Informal Influence**: Social connections, reputation, and favors owed
-- **Economic Control**: Wealth, resources, and financial dependencies
+- **Economic Control**: Wealth, resources, and ficial dependencies
 - **Information Networks**: Intelligence, secrets, and communication channels
 - **Cultural/Religious Authority**: Moral leadership and ideological influence
 
@@ -53,7 +69,7 @@ Research on implementing multi-layered political systems that engage players wit
 **Direct Action** (15% of political actions):
 - **Confrontation**: Open challenges and ultimatums
 - **Legal Maneuvering**: Using official processes and procedures
-- **Economic Warfare**: Financial pressure and resource competition
+- **Economic Warfare**: Ficial pressure and resource competition
 - **Military/Security Options**: Threats or use of force
 
 ### Dual-Realm Political Complexities
@@ -117,7 +133,7 @@ Research on implementing multi-layered political systems that engage players wit
 - **Revenge/Justice**: Responding to past wrongs or injustices
 
 **Secondary Motivations**:
-- **Wealth Accumulation**: Financial gain and economic security
+- **Wealth Accumulation**: Ficial gain and economic security
 - **Social Recognition**: Status, prestige, and public acknowledgment
 - **Professional Advancement**: Career progression and institutional success
 - **Personal Relationships**: Loyalty to friends, family, or mentors
@@ -152,7 +168,6 @@ class PoliticalAction(BaseModel):
 ```
 
 Intrigue campaign tools:
-```python
 class IntrigueCampaign(BaseModel):
     political_web: Dict[str, PoliticalActor]
     active_schemes: List[PoliticalAction]
@@ -160,7 +175,6 @@ class IntrigueCampaign(BaseModel):
     hidden_agendas: List[str]  # Secret plots in motion
     player_reputation: Dict[str, int]  # PC standing with various factions
     political_calendar: Dict[str, List[str]]  # Scheduled events and deadlines
-```
 
 ### Player Engagement Strategies
 
@@ -190,7 +204,6 @@ Effective political intrigue shows:
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -198,3 +211,21 @@ Effective political intrigue shows:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -1,4 +1,5 @@
 ---
+
 title: Captain Voidguard
 type: Npc
 tags:
@@ -10,6 +11,7 @@ tags:
 - complete
 - status/in-progress
 - aethermoor
+- conspiracy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +20,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.634538+00:00'
 world: Aethermoor
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +30,69 @@ world: Aethermoor
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-voidguard-captain-voidguard.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward negotiation
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more focused
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward manipulation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
 
 ## Player-Facing Summary
 
@@ -67,14 +101,6 @@ Captain Voidguard is a void-touched element of the setting, known for impossible
 ## Lore Details
 
 Legends speak of Captain Voidguard as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Voidguard.
-
-## Adventure Hooks
-
-- A rumor ties Captain Voidguard to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Captain Voidguard to avert a public scandal.
-- A map overlay reveals a hidden approach to Captain Voidguard active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +111,6 @@ Captain Voidguard's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Serving justice
@@ -124,8 +120,6 @@ Captain Voidguard's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Captain Voidguard harbors secrets that could change everything:
@@ -133,10 +127,6 @@ Captain Voidguard harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Double agent
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +145,6 @@ Captain Voidguard is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Captain Voidguard needs assistance with a delicate matter
@@ -164,8 +152,6 @@ Captain Voidguard is currently engaged in:
 3. **The Secret**: Information about Captain Voidguard's past surfaces
 4. **The Alliance**: Opportunity to work with or against Captain Voidguard
 5. **The Crisis**: Captain Voidguard is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,28 +165,56 @@ Captain Voidguard is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Captain Voidguard]]
+## Bloodline
 
-<!-- enriched: true -->
-
+Member of House Eagleblood - Trait: curse
 
 
+## Cultural Practices
 
-## Relationship Web
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
 
-- [[04_Resources_Assets_Locations_location-city-prophetic-dreams-v1-prophetic-dreams.svg]]: *mentor*
-- [[Captain Torren Stormwright]]: *informant*
-- [[04_Resources_Assets_Locations_location-city-dr-marina-voidstudier-dr-marina-voidstudier.svg]]: *childhood friend*
-- [[04_Resources_Assets_Portraits_portrait-npc-captain-shadowsail-captain-shadowsail.svg]]: *sworn enemy*
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
 
-## Connections
 
-### Home
-- [[04_Resources_Assets_Locations_location-city-judge-tidal-fairweather-v1-judge-tidal-fairweather.svg]]
+## Economic Structure
 
-### Known Associates
-- [[04_Resources_Assets_Locations_location-city-master-host-torrent-welcomeall-v1-master-host-torrent-welcomeall.svg]] (friend)
-- [[04_Resources_Assets_Locations_location-city-harbor-pilot-captain-storm-skyreacher-harbor-pilot-captain-storm-skyreacher.svg]] (colleague)
-- [[Throne of Bubbles]] (enemy)
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

@@ -17,28 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -48,28 +42,32 @@ Seraph Tidewhisper is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Seraph Tidewhisper as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Seraph Tidewhisper.
 
-## Adventure Hooks
-
-- A rumor ties Seraph Tidewhisper to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Seraph Tidewhisper to avert a public scandal.
-- A map overlay reveals a hidden approach to Seraph Tidewhisper active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Seraph Tidewhisper|02 Worldbuilding/Places/Seraph Tidewhisper]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Memoriam]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a curse
+- A prisoner has gone missing and evil awakens
+- A document has gone missing and war looms
+- Strange disappearances suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

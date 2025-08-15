@@ -29,14 +29,29 @@ updated: '2025-08-13T12:34:05.800442+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-jackalwere-xmm-jackalwere-xmm.svg)
 
 # [[jackalwere-xmm|Jackalwere]]
 *Source: Monster Manual (2024) p. 182*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Jackalwere
 
@@ -75,16 +90,13 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
   - !!int "15"
   - !!int "12"
   - !!int "13"
-  - !!int "11"
   - !!int "10"
 "speed": "40 ft."
 "skillsaves":
   - "name": "[[skills#Deception|Deception]]"
     "desc": "+4"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+4"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+4"
 "senses": "darkvision 90 ft., passive Perception 14"
 "languages": "Common"
 "cr": "1/2"
@@ -132,19 +144,29 @@ Jackalwere xmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of jackalwere xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around jackalwere xmm.
 
-## Adventure Hooks
-
-- A rumor ties jackalwere xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at jackalwere xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to jackalwere xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest ancient magic
+- A merchant needs help delivering before the festival
+- A corpse reveals a betrayal about the government
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

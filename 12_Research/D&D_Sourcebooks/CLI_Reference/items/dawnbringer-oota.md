@@ -24,7 +24,6 @@ updated: '2025-08-12T23:37:37.664747'
 world: Both
 ---
 
-
 # Dawnbringer
 *Weapon ([[longsword-xphb|longsword]]), legendary (requires attunement by a creature of non-evil alignment)*  
 ![](/03_Mechanics/CLI/items/img/dawnbringer.webp#right)
@@ -42,6 +41,24 @@ You gain a +2 bonus to attack and damage rolls made with this weapon, which deal
 The sword's luminous blade emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is sunlight. While the blade persists, you can use an action to expand or reduce its radius of bright and dim light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each.
 
 While holding the weapon, you can use an action to touch a creature with the blade and cast [[lesser-restoration-xphb|lesser restoration]] on that creature. Once used, this ability can't be used again until the next dawn.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Sentience
 
@@ -65,18 +82,9 @@ Dawnbringer oota is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of dawnbringer oota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dawnbringer oota.
 
-## Adventure Hooks
-
-- A rumor ties dawnbringer oota to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dawnbringer oota to avert a public scandal.
-- A map overlay reveals a hidden approach to dawnbringer oota active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

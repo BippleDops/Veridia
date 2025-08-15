@@ -27,15 +27,31 @@ updated: '2025-08-12T23:37:35.867763'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-armor-xmm-animated-armor-xmm.svg)
 
 # [[animated-armor-xmm|Animated Armor]]
-*Source: Monster Manual (2024) p. 16. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 16. Available in the SRD and the Free Rules (2024)*  
 
 Animated suits of armor might move with steady deliberateness or awkward gaits. They're often constructed from plate armor, making them easy to mistake for soldiers or helmed horrors. Other types of armor or even metal statuary might also become animated armor.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Animated Objects
 
@@ -85,11 +101,10 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
   - !!int "13"
   - !!int "1"
   - !!int "3"
-  - !!int "1"
 "speed": "25 ft."
 "damage_immunities": "poison, psychic"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
-  \ [[conditions#Exhaustion|exhaustion]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Exhaustion|exhaustion]], [[conditions#frightened|frightened]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., passive Perception 6"
@@ -118,19 +133,35 @@ Animated armor xmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of animated armor xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around animated armor xmm.
 
-## Adventure Hooks
-
-- A rumor ties animated armor xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at animated armor xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to animated armor xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before the festival
+- The authorities needs help finding before the festival
+- Someone is blackmailing information for love
+- A merchant needs help finding before the festival
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

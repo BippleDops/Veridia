@@ -29,14 +29,29 @@ updated: '2025-08-13T12:34:05.723502+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-water-weird-xmm-v1-water-weird-xmm.svg)
 
 # [[water-weird-xmm|Water Weird]]
 *Source: Monster Manual (2024) p. 323*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Water Weird
 
@@ -53,7 +68,6 @@ Water weirds might protect a site for generations and learn much about their sur
 > 
 > Rule 2: Before you drink from a fountain or pool, toss a copper coin into it. It's a small price to pay for your life!
 
-
 ```statblock
 "name": "Water Weird (XMM)"
 "size": "Large"
@@ -69,14 +83,13 @@ Water weirds might protect a site for generations and learn much about their sur
   - !!int "13"
   - !!int "11"
   - !!int "10"
-  - !!int "10"
 "speed": "5 ft., swim 60 ft."
 "damage_resistances": "fire"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
   \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
-  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#prone|prone]], [[conditions#Restrained|restrained]],\
   \ [[conditions#Unconscious|unconscious]]"
 "senses": "blindsight 30 ft., passive Perception 10"
 "languages": "understands Primordial but can't speak"
@@ -112,19 +125,35 @@ Water weird xmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of water weird xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around water weird xmm.
 
-## Adventure Hooks
-
-- A rumor ties water weird xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at water weird xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to water weird xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a conspiracy
+- Someone is blackmailing information for revenge
+- A letter reveals the truth about this place
+- A journal reveals ancient history about this place
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

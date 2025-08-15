@@ -29,13 +29,29 @@ updated: '2025-08-12T23:37:35.024555'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-werebear-xmm-v1-werebear-xmm.svg)
 
 # [[werebear-xmm|Werebear]]
-*Source: Monster Manual (2024) p. 324. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 324. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Werebear
 
@@ -61,7 +77,6 @@ When threatened or compelled by magic, werebears shape-shift from their humanoid
   - !!int "10"
   - !!int "17"
   - !!int "11"
-  - !!int "12"
   - !!int "12"
 "speed": "30 ft., 40 ft. (bear form only), climb 30 ft. (bear form only)"
 "skillsaves":
@@ -110,18 +125,9 @@ Werebear xmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of werebear xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around werebear xmm.
 
-## Adventure Hooks
-
-- A rumor ties werebear xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at werebear xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to werebear xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

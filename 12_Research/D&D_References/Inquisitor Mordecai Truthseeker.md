@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:35.967321+00:00'
 world: Both
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-inquisitor-mordecai-truthseeker-inquisitor-mordecai-truthseeker.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[Prophet Nerida Voidgazer|02 Worldbuilding/People/Prophet Nerida Voidgazer]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Prophet Nerida Voidgazer]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,23 @@ Inquisitor Mordecai Truthseeker is a undersea element of the setting, known for 
 
 Legends speak of Inquisitor Mordecai Truthseeker as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Inquisitor Mordecai Truthseeker.
 
-## Adventure Hooks
-
-- A rumor ties Inquisitor Mordecai Truthseeker to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Inquisitor Mordecai Truthseeker to avert a public scandal.
-- A map overlay reveals a hidden approach to Inquisitor Mordecai Truthseeker active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

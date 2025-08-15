@@ -1,0 +1,13 @@
+{
+  "title": "Assets Handouts Handout Handout Guild License Certificate V3 Guild License Certificate.png",
+  "prompt": "Assets handouts handout handout guild license certificate v3 guild license certificate.png, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "negative": "low quality, amateur, blurry",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "steps": 20,
+    "cfg": 7
+  },
+  "generated": "2025-08-15T00:39:58.401Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Assets Handouts Handout Handout Guild License Certificate V3 Guild License Certificate.png.md"
+}

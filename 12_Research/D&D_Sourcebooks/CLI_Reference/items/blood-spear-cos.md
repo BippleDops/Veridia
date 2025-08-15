@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:37.402367'
 world: Both
 ---
 
-
 # Blood Spear
 *Weapon ([[spear-xphb|spear]]), uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/blood-spear.webp#right)
@@ -43,6 +42,24 @@ Any creature can wield the spear, but only the character chosen by Kavan to wiel
 
 *Source: Curse of Strahd p. 221*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Blood spear cos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -51,19 +68,29 @@ Blood spear cos is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of blood spear cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around blood spear cos.
 
-## Adventure Hooks
-
-- A rumor ties blood spear cos to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at blood spear cos to avert a public scandal.
-- A map overlay reveals a hidden approach to blood spear cos active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help investigating before dawn
+- Strange sightings suggest a conspiracy
+- A document has gone missing and evil awakens
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

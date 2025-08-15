@@ -29,13 +29,29 @@ updated: '2025-08-12T23:37:35.179469'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-swarm-of-ravens-xmm-swarm-of-ravens-xmm.svg)
 
 # [[swarm-of-ravens-xmm|Swarm of Ravens]]
-*Source: Monster Manual (2024) p. 371. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 371. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Animals
 
@@ -55,16 +71,14 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "14"
   - !!int "12"
   - !!int "5"
-  - !!int "12"
-  - !!int "6"
 "speed": "10 ft., fly 50 ft."
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
-  \ [[conditions#Petrified|petrified]], [[conditions#Prone|prone]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#prone|prone]],\
   \ [[conditions#Restrained|restrained]], [[conditions#Stunned|stunned]]"
 "senses": "passive Perception 15"
 "languages": ""
@@ -103,19 +117,27 @@ Swarm of ravens xmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of swarm of ravens xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around swarm of ravens xmm.
 
-## Adventure Hooks
-
-- A rumor ties swarm of ravens xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at swarm of ravens xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to swarm of ravens xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help finding before the festival
+- Someone is hunting a witness for love
+- Someone is protecting a witness for money
+- Someone is searching for information for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

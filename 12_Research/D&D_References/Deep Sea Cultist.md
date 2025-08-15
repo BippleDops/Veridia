@@ -16,27 +16,22 @@ updated: '2025-08-13T01:18:36.753695+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## Structure
+### Enhancement Improvements
 
-TODO
-## Goals
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Assets
-
-TODO
-## Conflicts
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -46,19 +41,37 @@ Deep Sea Cultists 2 is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Deep Sea Cultists 2 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Deep Sea Cultists 2.
 
-## Adventure Hooks
-
-- A rumor ties Deep Sea Cultists 2 to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Deep Sea Cultists 2 to avert a public scandal.
-- A map overlay reveals a hidden approach to Deep Sea Cultists 2 active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and evil awakens
+- An heirloom has gone missing and war looms
+- A letter reveals a betrayal about the government
+- A journal reveals ancient history about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

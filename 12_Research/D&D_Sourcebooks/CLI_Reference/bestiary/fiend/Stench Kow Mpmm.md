@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.780977+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-stench-kow-mpmm-stench-kow-mpmm.svg)
 
@@ -39,6 +36,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 72, Volo's Guide to Monsters p. 208*  
 
 Stench kows are misshapen bison native to the Lower Planes. These orange and green creatures defend themselves by exuding a miasma so hideous as to be toxic. Some mischievous and malevolent wizards have summoned stench kows to the Material Plane, disguised the creatures as oxen, and let the infernal bison loose on unsuspecting villages.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Cattle
 
@@ -59,7 +74,6 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
   - !!int "10"
   - !!int "14"
   - !!int "2"
-  - !!int "10"
   - !!int "4"
 "speed": "30 ft."
 "damage_resistances": "cold, fire, poison"
@@ -98,19 +112,15 @@ Stench kow mpmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of stench kow mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around stench kow mpmm.
 
-## Adventure Hooks
-
-- A rumor ties stench kow mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at stench kow mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to stench kow mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

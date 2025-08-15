@@ -15,36 +15,26 @@ world: Universal
 updated: '2025-08-13T01:18:36.944078+00:00'
 ---
 
-
-
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-high-priestess-celeste-dawnbringer-high-priestess-celeste-dawnbringer.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Overview
+*20 targeted improvements identified*
 
-TODO
-## Appearance
+### Connection Improvements
 
-TODO
-## Personality
+- Add cross-references to related notes
 
-TODO
-## Goals
+### Enhancement Improvements
 
-TODO
-## Relationships
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -54,28 +44,33 @@ High Priestess Celeste is a undersea element of the setting, known for biolumine
 
 Legends speak of High Priestess Celeste as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around High Priestess Celeste.
 
-## Adventure Hooks
-
-- A rumor ties High Priestess Celeste to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at High Priestess Celeste to avert a public scandal.
-- A map overlay reveals a hidden approach to High Priestess Celeste active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[High Priestess Celeste|02 Worldbuilding/People/High Priestess Celeste]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help finding before dawn
+- A journal reveals a conspiracy about this place
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

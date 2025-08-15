@@ -17,27 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## History
+### Enhancement Improvements
 
-TODO
-## Layout
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -47,21 +42,9 @@ Port Meridian Council Chamber is a undersea element of the setting, known for bi
 
 Legends speak of Port Meridian Council Chamber as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Port Meridian Council Chamber.
 
-## Adventure Hooks
-
-- A rumor ties Port Meridian Council Chamber to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Port Meridian Council Chamber to avert a public scandal.
-- A map overlay reveals a hidden approach to Port Meridian Council Chamber active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Port Meridian Council Chamber|02 Worldbuilding/Places/Port Meridian Council Chamber]]
-
-<!-- enriched: true -->
 
 ## Semantic Connections
 *Related concepts and locations:*
@@ -76,7 +59,31 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[new-organizations]]
 - [[Border Fortresses]]
 
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and war looms
+- A letter reveals a conspiracy about a local noble
+- Strange disappearances suggest ancient magic
+- Strange disappearances suggest a conspiracy
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

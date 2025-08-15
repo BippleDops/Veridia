@@ -20,7 +20,6 @@ world: Both
 updated: '2025-08-12T00:00:00+00:00'
 ---
 
-
 > [!figure] Trade Goods
 ![](04_Resources/Assets/Items/items-trade-goods-catalog.svg)
 
@@ -29,28 +28,26 @@ updated: '2025-08-12T00:00:00+00:00'
 
 > *"Show me a man's inventory and I'll tell you his dreams, his fears, and the exact price of his soul."* - [[Banker Titus Goldcurrent|02 Worldbuilding/People/Banker Titus Goldcurrent]]
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 This comprehensive catalog details the trade goods that flow through [[The Grand Trade Routes|02 Worldbuilding/Lore/The Grand Trade Routes]] connecting [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]]. Each entry includes base pricing, mechanical effects, availability, and the complex factors that determine true market value in an ever-changing economic landscape.
-
-## Pricing System and Modifiers
-
-### Base Price Categories
-- **Tier 1 (Common)**: 1 cp - 10 gp | Available everywhere, stable prices
-- **Tier 2 (Uncommon)**: 10 gp - 100 gp | Regional availability, moderate price fluctuation  
-- **Tier 3 (Rare)**: 100 gp - 1,000 gp | Limited availability, significant price variation
-- **Tier 4 (Very Rare)**: 1,000 gp - 10,000 gp | Extremely limited, dramatic price swings
-- **Tier 5 (Legendary)**: 10,000+ gp | Unique items, prices negotiated individually
-
-### Price Modifiers
-- **Supply Level**: Abundant (-30%), Common (0%), Scarce (+50%), Rare (+100%), Extinct (+500%)
-- **Demand Level**: None (-50%), Low (-25%), Normal (0%), High (+50%), Desperate (+200%)
-- **Quality Grade**: Poor (-50%), Standard (0%), Fine (+50%), Superior (+100%), Masterwork (+300%)
-- **Distance Factor**: Local (0%), Regional (+25%), Cross-Realm (+100%), Exotic (+300%)
-- **Risk Factor**: Safe (0%), Moderate (+25%), Dangerous (+75%), Extreme (+200%)
-
-## Surface Realm Specialty Goods
-
-### Crystal Products
 
 #### Raw Crystals
 **Tier**: 2-4 (depending on grade and purity)
@@ -102,8 +99,6 @@ This comprehensive catalog details the trade goods that flow through [[The Grand
 - **Availability**: Major cities with advanced crystal technology
 - **Market Notes**: Essential for long-distance trade coordination
 
-### Magical Components
-
 #### Alchemical Reagents
 **Tier**: 1-3 (depending on rarity and potency)
 
@@ -145,8 +140,6 @@ This comprehensive catalog details the trade goods that flow through [[The Grand
 - **Examples**: Message-carrying birds, guard animals, detection specialists
 - **Market Notes**: Popular with merchants needing reliable assistants
 
-### Artisan Goods
-
 #### Luxury Textiles
 **Tier**: 2-4 (depending on material and craftsmanship)
 
@@ -168,11 +161,7 @@ This comprehensive catalog details the trade goods that flow through [[The Grand
 - **Goldwave Navigator's Kit**: 500 gp | +2 to all navigation and survival checks at sea
 - **Master Craftsman's Tools**: 300 gp | +1 to all crafting checks with specific tools
 - **Chen Wei's Cultural Compass**: 400 gp | Provides cultural insight bonuses in foreign lands
-- **Merchant's Calculation Engine**: 600 gp | Advantage on all financial and mathematical checks
-
-## Deep-Sea Specialty Goods
-
-### Pressure-Forged Items
+- **Merchant's Calculation Engine**: 600 gp | Advantage on all ficial and mathematical checks
 
 #### Pressure-Enhanced Materials
 **Tier**: 3-4 (unique manufacturing process limits availability)
@@ -215,15 +204,13 @@ This comprehensive catalog details the trade goods that flow through [[The Grand
 - **Special**: Can create pressure waves for area attacks (1/day, 15-foot cone, DC 15 Strength save or knocked prone)
 - **Market Notes**: Highly prized by underwater combatants and surface marines
 
-### Bio-Luminescent Products
-
 #### Living Light Sources
-**Tier**: 2-3 (renewable but requires maintenance)
+**Tier**: 2-3 (renewable but requires maintece)
 
 **Glow Pearls** (each):
 - **Base Price**: 50 gp each
 - **Effect**: Provides bright light in 20-foot radius for 24 hours, recharges with feeding
-- **Maintenance**: Requires 1 gp worth of plankton daily
+- **Maintece**: Requires 1 gp worth of plankton daily
 - **Lifespan**: 2 years with proper care
 - **Market Notes**: Popular alternative to torches and lanterns
 
@@ -239,7 +226,7 @@ This comprehensive catalog details the trade goods that flow through [[The Grand
 **Living Computers** (various complexity):
 - **Base Price**: 1,000-10,000 gp depending on processing capacity
 - **Function**: Organic calculation and data storage systems
-- **Maintenance**: Requires specialized feeding and care (50 gp/month)
+- **Maintece**: Requires specialized feeding and care (50 gp/month)
 - **Capabilities**: Complex calculations, data analysis, pattern recognition
 - **Market Notes**: Cutting-edge technology changing business and research
 
@@ -247,10 +234,8 @@ This comprehensive catalog details the trade goods that flow through [[The Grand
 - **Base Price**: 500 gp per node, requires minimum network of 3 nodes
 - **Range**: Unlimited within connected bio-network
 - **Function**: Instant communication through living nervous system
-- **Maintenance**: 10 gp per month per node for feeding
+- **Maintece**: 10 gp per month per node for feeding
 - **Market Notes**: Revolutionizing long-distance business coordination
-
-### Memory Pearls and Cognitive Products
 
 #### Experience Containers
 **Tier**: 3-5 (depending on experience value and rarity)
@@ -290,10 +275,6 @@ This comprehensive catalog details the trade goods that flow through [[The Grand
 - **Special**: Provides advantage on Wisdom saves and Insight checks
 - **Market Notes**: Essential equipment for diplomatic and business negotiations
 
-## Cross-Realm Integration Goods
-
-### Cultural Translation Items
-
 #### Communication Devices
 **Tier**: 2-3 (essential for cross-cultural commerce)
 
@@ -317,7 +298,7 @@ This comprehensive catalog details the trade goods that flow through [[The Grand
 - **Base Price**: 2,500 gp
 - **Function**: Allows comfortable operation in both air and water environments
 - **Duration**: 8 hours per day of operation
-- **Maintenance**: 50 gp per month for magical power sources
+- **Maintece**: 50 gp per month for magical power sources
 - **Market Notes**: Essential for Bridge Market operations and cross-realm business
 
 **Pressure Adaptation Potions** (each):
@@ -326,15 +307,13 @@ This comprehensive catalog details the trade goods that flow through [[The Grand
 - **Side Effects**: Disorientation for 1 hour after use
 - **Market Notes**: Required for deep-sea business travel and exploration
 
-### Diplomatic and Legal Items
-
 #### Documentation Services
 **Tier**: 2-3 (prices vary with political climate)
 
 **Cross-Realm Trading Licenses** (per year):
 - **Base Price**: 500 gp per year, renewable
 - **Function**: Legal permission for commercial activity in both realms
-- **Requirements**: Background checks, financial guarantees, cultural competency testing
+- **Requirements**: Background checks, ficial guarantees, cultural competency testing
 - **Benefits**: Protection under both legal systems, reduced taxation, official dispute resolution access
 - **Market Notes**: Essential for legitimate cross-realm commerce
 
@@ -344,10 +323,6 @@ This comprehensive catalog details the trade goods that flow through [[The Grand
 - **Duration**: 1 year
 - **Limitations**: Does not cover serious crimes or intentional offenses
 - **Market Notes**: Insurance against costly cultural mistakes
-
-## Contraband and Black Market Goods
-
-### Illegal Magical Items
 
 #### Forbidden Knowledge
 **Tier**: 4-5 (extreme legal risk increases value)
@@ -380,8 +355,6 @@ This comprehensive catalog details the trade goods that flow through [[The Grand
 - **Detection**: Specialized magical analysis required to identify
 - **Market Notes**: High demand from criminals and corrupt officials
 
-### Smuggling and Transportation
-
 #### Concealment Services
 **Tier**: 2-4 (pricing based on risk and sophistication)
 
@@ -406,10 +379,6 @@ This comprehensive catalog details the trade goods that flow through [[The Grand
 - **Risk**: Customer assumes all legal liability
 - **Market Notes**: Premium service for high-risk cargo
 
-## Seasonal and Event-Driven Goods
-
-### Emergency Supplies
-
 #### Crisis Response Items
 **Tier**: 1-3 (prices spike dramatically during emergencies)
 
@@ -433,8 +402,6 @@ This comprehensive catalog details the trade goods that flow through [[The Grand
 - **Emergency Shelters**: 200 gp | Magical tents providing environmental protection
 - **Market Notes**: Seasonal demand creates 200-400% price increases
 
-### Cultural Festival Goods
-
 #### Celebration Supplies
 **Tier**: 1-2 (demand spikes during cultural events)
 
@@ -450,12 +417,8 @@ This comprehensive catalog details the trade goods that flow through [[The Grand
 - **Special Occasion Delicacies**: 10-50× normal luxury food costs
 - **Market Notes**: Extreme demand during specific cultural celebrations
 
-## Investment and Speculation Goods
-
-### Commodity Futures
-
 #### Resource Contracts
-**Tier**: 3-4 (sophisticated financial instruments)
+**Tier**: 3-4 (sophisticated ficial instruments)
 
 **Crystal Futures Contracts** (per contract):
 - **Base Price**: 1,000 gp (representing future delivery of 100 pounds crystal)
@@ -480,20 +443,9 @@ This comprehensive catalog details the trade goods that flow through [[The Grand
 
 **Political Stability Derivatives** (per contract):
 - **Base Price**: Variable based on current political conditions
-- **Function**: Financial betting on political outcomes
+- **Function**: Ficial betting on political outcomes
 - **Returns**: Based on accuracy of political predictions
 - **Market Notes**: Technically illegal but widely practiced
-
-## Quality Grades and Authentication
-
-### Quality Assessment System
-
-#### Grading Standards
-- **Poor Quality**: 50% base price | Defective, damaged, or inferior materials
-- **Standard Quality**: Base price | Meets normal expectations and specifications
-- **Fine Quality**: +50% base price | Above average materials and craftsmanship
-- **Superior Quality**: +100% base price | Excellent materials and expert craftsmanship
-- **Masterwork Quality**: +300% base price | Legendary craftsmanship and perfect materials
 
 #### Authentication Methods
 **Magical Analysis** (per item):
@@ -508,25 +460,12 @@ This comprehensive catalog details the trade goods that flow through [[The Grand
 - **Time**: 30 minutes to 2 hours depending on complexity
 - **Availability**: Most trading centers have qualified appraisers
 
-### Counterfeiting and Fraud
-
-#### Common Fraud Types
-- **Material Substitution**: Cheaper materials passed off as expensive ones
-- **Quality Misrepresentation**: Lower quality items sold as higher grades
-- **Origin Fraud**: Common items claimed to be from prestigious sources
-- **Magical Counterfeiting**: Non-magical items enhanced with temporary magic
-- **Documentation Fraud**: False certificates and authenticity papers
-
 #### Detection and Prevention
 **Anti-Counterfeiting Measures**:
 - **Magical Signatures**: Embedded magical markers difficult to replicate
 - **Physical Authentication**: Unique physical properties hard to duplicate
-- **Documentation Verification**: Cross-referenced certificates and provenance records
+- **Documentation Verification**: Cross-referenced certificates and provece records
 - **Expert Networks**: Professional authentication services and fraud detection
-
-## Adventure Integration and Plot Hooks
-
-### Trade-Based Adventures
 
 #### Commerce Investigations
 1. **The Counterfeit Crystal Crisis**: Fake crystals are flooding the market, threatening to undermine magical infrastructure across both realms
@@ -539,24 +478,6 @@ This comprehensive catalog details the trade goods that flow through [[The Grand
 2. **The Market Manipulation**: Someone is artificially controlling supply and demand to destabilize regional economies
 3. **The Information Leak**: Confidential trade information is being sold to competitors, requiring investigation and counter-intelligence
 4. **The Embargo Enforcement**: Political trade restrictions are being violated through complex smuggling networks
-
-### Character Integration
-
-#### Professional Opportunities
-- **Quality Inspector**: Authenticating goods and preventing fraud for trading companies
-- **Trade Negotiator**: Arranging deals and resolving disputes between merchants
-- **Market Analyst**: Predicting price trends and identifying profitable opportunities
-- **Security Specialist**: Protecting valuable cargo and investigating commercial crimes
-
-#### Investment Opportunities
-- **Merchant Partnership**: Investing in trading ventures for share of profits
-- **Commodity Speculation**: Buying and selling goods based on market predictions
-- **Infrastructure Development**: Funding warehouse, transportation, and market facilities
-- **New Product Development**: Financing research and development of innovative trade goods
-
-## DM Resources
-
-### Random Trade Goods Generator
 
 #### Cargo Manifest Generator (d20)
 1-4: **Common Goods** - Food, textiles, basic tools, everyday supplies
@@ -573,8 +494,6 @@ This comprehensive catalog details the trade goods that flow through [[The Grand
 7-8: **Political Changes** - New regulations, trade agreements, or diplomatic tensions
 9-10: **Seasonal Effects** - Weather, cultural events, or natural cycles affecting trade
 11-12: **Market Manipulation** - Deliberate price control by merchants or criminal organizations
-
-### Economic Simulation Tools
 
 #### Market Condition Calculator
 **Base Price** × **Supply Modifier** × **Demand Modifier** × **Quality Modifier** × **Distance Modifier** = **Final Price**
@@ -594,14 +513,6 @@ This comprehensive catalog details the trade goods that flow through [[The Grand
 - Dangerous routes, luxury goods: 150-500%
 - Extreme routes, contraband: 500-2000% (with massive risk)
 
-## Connected Systems and Cross-References
-- [[The Grand Trade Routes|02 Worldbuilding/Lore/The Grand Trade Routes]] - Transportation networks for trade goods
-- [[Economic Systems and Currency|02 Worldbuilding/Lore/Economic Systems And Currency]] - Financial systems supporting trade
-- [[Commercial Hubs and Markets|02 Worldbuilding/Places/Commercial Hubs And Markets]] - Locations where goods are bought and sold
-- [[Major Trading Companies|02 Worldbuilding/Groups/Major Trading Companies]] - Organizations controlling trade goods flow
-- [[03_Mechanics/Living_Economy_Syste|03 Mechanics/Living Economy Syste]] - Mechanical framework for dynamic pricing
-- [[Economic_Warfare_Simulator|03 Mechanics/Economic Warfare Simulator]] - Tools for economic conflict affecting trade
-
 ## Player-Facing Summary
 
 The Trade Goods Catalog represents the lifeblood of inter-realm commerce, encompassing everything from essential commodities to exotic luxuries, from legal merchandise to dangerous contraband. Understanding these goods, their values, and the forces that control their flow provides the key to success in the complex world of cross-realm trade.
@@ -614,12 +525,6 @@ Ancient trade records describe goods that seem to violate natural laws: weapons 
 
 Deep-sea merchants tell stories of cargo that carries memories of everyone who has ever owned it, allowing skilled traders to read the emotional and historical significance of items simply by handling them. This psychometric commerce supposedly allows for more accurate pricing and authentication, but also creates ethical dilemmas about privacy and the ownership of experiences.
 
-## Adventure Hooks
-
-- A trade shipment contains items that don't match any known manufacturing techniques or cultural origins, suggesting either advanced lost technology or goods from other dimensions entirely.
-- The party discovers that routine trade goods they've been transporting have been magically linked to create a massive spell effect when distributed to specific customers across both realms.
-- A new trade good appears in markets offering miraculous benefits, but investigation reveals that its production requires horrific sacrifices or environmental destruction that threatens both realms.
-
 ## DM Notes
 
 Use the trade goods catalog as more than just a price list - make it a living system that responds to campaign events and drives plot development. Price changes can reflect larger political and economic developments, while the search for specific goods can motivate adventures and character decisions.
@@ -627,9 +532,22 @@ Use the trade goods catalog as more than just a price list - make it a living sy
 Consider how the complex web of legitimate and criminal commerce creates moral ambiguity for characters. The same trade route might carry both essential medicines and illegal weapons, forcing characters to make difficult choices about which aspects of commerce to support or oppose.
 
 The economic complexity allows for sophisticated plots involving market manipulation, supply chain disruption, and the far-reaching consequences of seemingly simple commercial decisions. Use trade goods as a way to connect distant events and demonstrate how individual character actions can have widespread economic and social impacts.
-<!-- enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

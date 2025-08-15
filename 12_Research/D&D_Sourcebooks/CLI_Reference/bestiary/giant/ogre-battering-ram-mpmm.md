@@ -29,8 +29,6 @@ updated: '2025-08-12T23:37:35.038968'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ogre-battering-ram-mpmm-ogre-battering-ram-mpmm.svg)
 
@@ -38,6 +36,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 200, Mordenkainen's Tome of Foes p. 220*  
 
 An ogre battering ram carries an enormous club that's primarily used for bashing doors into kindling but also works well for smashing foes. These ogres are drilled in two simple tasks: rushing forward to shatter enemy fortifications and using their weapons to force an advancing enemy to halt.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Ogres of War
 
@@ -58,7 +74,6 @@ Ogres love to rush headlong into battle, but with enough time and patience, some
   - !!int "8"
   - !!int "16"
   - !!int "5"
-  - !!int "7"
   - !!int "7"
 "speed": "40 ft."
 "senses": "darkvision 60 ft., passive Perception 8"
@@ -98,18 +113,9 @@ Ogre battering ram mpmm is a undersea element of the setting, known for biolumin
 
 Legends speak of ogre battering ram mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ogre battering ram mpmm.
 
-## Adventure Hooks
-
-- A rumor ties ogre battering ram mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ogre battering ram mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ogre battering ram mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

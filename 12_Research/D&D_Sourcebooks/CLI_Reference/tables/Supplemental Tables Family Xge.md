@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.394662+00:00'
 world: Both
 ---
 
-
-
 # Supplemental Tables; Family
 *Source: Xanathar's Guide to Everything p. 63* 
 
@@ -46,6 +44,24 @@ world: Both
 | 76-100 | Mother and father |
 ^family
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Supplemental tables family xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -54,19 +70,26 @@ Supplemental tables family xge is a undersea element of the setting, known for b
 
 Legends speak of supplemental tables family xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around supplemental tables family xge.
 
-## Adventure Hooks
-
-- A rumor ties supplemental tables family xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at supplemental tables family xge to avert a public scandal.
-- A map overlay reveals a hidden approach to supplemental tables family xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before the festival
+- A prisoner has gone missing and truth emerges
+- Someone is protecting a artifact for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

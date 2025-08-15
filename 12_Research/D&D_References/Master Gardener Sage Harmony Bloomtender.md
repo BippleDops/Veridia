@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.567205+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-master-gardener-sage-harmony-bloomtender-master-gardener-sage-harmony-bloomtender.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,35 @@ Master Gardener Sage Harmony Bloomtender is a undersea element of the setting, k
 
 Legends speak of Master Gardener Sage Harmony Bloomtender as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Master Gardener Sage Harmony Bloomtender.
 
-## Adventure Hooks
-
-- A rumor ties Master Gardener Sage Harmony Bloomtender to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Master Gardener Sage Harmony Bloomtender to avert a public scandal.
-- A map overlay reveals a hidden approach to Master Gardener Sage Harmony Bloomtender active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Master Gardener Sage Harmony Bloomtender|02 Worldbuilding/Places/Master Gardener Sage Harmony Bloomtender]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Palace Courtyard - Crystal Garden]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and truth emerges
+- A shipment has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

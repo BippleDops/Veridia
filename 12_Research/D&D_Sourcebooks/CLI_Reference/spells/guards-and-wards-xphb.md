@@ -26,10 +26,8 @@ updated: '2025-08-12T23:37:36.498468'
 world: Both
 ---
 
-
 # Guards and Wards
 *6th-level, Abjuration*  
-
 
 - **Casting time:** 1 hour
 - **Range:** Touch
@@ -41,6 +39,24 @@ You create a ward that protects up to 2,500 square feet of floor space. The ward
 When you cast this spell, you can specify individuals that are unaffected by the spell's effects. You can also specify a password that, when spoken aloud within 5 feet of the warded area, makes the speaker immune to its effects.
 
 The spell creates the effects below within the warded area. [[dispel-magic-xphb|Dispel Magic]] has no effect on Guards and Wards itself, but each of the following effects can be dispelled. If all four are dispelled, Guards and Wards ends. If you cast the spell every day for 365 days on the same area, the spell thereafter lasts until all its effects are dispelled.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Corridors
 
@@ -68,7 +84,7 @@ Place one of the following magical effects within the warded area:
 
 **Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-abjurer-xphb "subclass=XPHB;class=XPHB"|Wizard (Abjurer)]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
 
-*Source: Player's Handbook (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 282. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -78,19 +94,15 @@ Guards and wards xphb is a undersea element of the setting, known for biolumines
 
 Legends speak of guards and wards xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around guards and wards xphb.
 
-## Adventure Hooks
-
-- A rumor ties guards and wards xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at guards and wards xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to guards and wards xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

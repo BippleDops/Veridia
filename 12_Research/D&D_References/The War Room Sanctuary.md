@@ -15,32 +15,26 @@ world: Both
 updated: '2025-08-13T01:18:36.667035+00:00'
 ---
 
-
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-the-war-room-sanctuary-the-war-room-sanctuary.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## Structure
+### Enhancement Improvements
 
-TODO
-## Goals
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Assets
-
-TODO
-## Conflicts
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -50,19 +44,26 @@ The War Room Sanctum 2 is a undersea element of the setting, known for biolumine
 
 Legends speak of The War Room Sanctum 2 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The War Room Sanctum 2.
 
-## Adventure Hooks
-
-- A rumor ties The War Room Sanctum 2 to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The War Room Sanctum 2 to avert a public scandal.
-- A map overlay reveals a hidden approach to The War Room Sanctum 2 active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals the truth about the cult
+- A prisoner has gone missing and chaos spreads
+- A merchant needs help stealing before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

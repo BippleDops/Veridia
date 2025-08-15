@@ -1,4 +1,5 @@
 ---
+
 title: Major NPCs
 type: lore
 tags:
@@ -6,15 +7,83 @@ tags:
 - active
 created: '2025-08-14'
 modified: '2025-08-14'
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
-# Major NPCs
+
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
 
 ## Overview
 
 Major NPCs represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
-
-## Description
 
 ### Basic Information
 Major NPCs can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
@@ -25,8 +94,6 @@ Major NPCs can be understood as a multifaceted element that intersects with vari
 
 ### Detailed Explanation
 The full nature of Major NPCs involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
-
-## Context & Connections
 
 ### Historical Context
 The origins and development of Major NPCs trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
@@ -45,8 +112,6 @@ Different groups view Major NPCs through their own cultural lenses:
 - Regional variations
 - Conflicting perspectives
 
-## Characteristics
-
 ### Defining Features
 What makes Major NPCs unique:
 - Specific attributes or qualities
@@ -60,8 +125,6 @@ Different forms or interpretations:
 - Historical evolution
 - Cultural adaptations
 - Individual variations
-
-## Practical Information
 
 ### How It Works
 The functional aspects of Major NPCs:
@@ -84,8 +147,6 @@ How one might encounter or utilize Major NPCs:
 - Requirements for interaction
 - Restrictions or taboos
 
-## Impact & Influence
-
 ### Direct Effects
 Immediate consequences of Major NPCs:
 - On individuals
@@ -107,8 +168,6 @@ Future implications:
 - Possible endpoints
 - Cyclical patterns
 
-## Current Status
-
 ### Present Situation
 The current state of Major NPCs:
 - Active developments
@@ -123,11 +182,9 @@ How Major NPCs has been involved recently:
 - New discoveries
 - Shifts in control or access
 
-## Mysteries & Questions
-
 ### Unknown Aspects
 What remains unclear about Major NPCs:
-- Unanswered questions
+- Uswered questions
 - Conflicting information
 - Hidden dimensions
 - Lost knowledge
@@ -138,8 +195,6 @@ Current efforts to understand:
 - Methods being employed
 - Recent discoveries
 - Obstacles to understanding
-
-## Game Applications
 
 ### Adventure Hooks
 Ways to incorporate Major NPCs into gameplay:
@@ -163,8 +218,6 @@ How Major NPCs fits into narratives:
 - As character motivation
 - As campaign theme
 
-## Additional Notes
-
 ### Variations by Campaign
 How to adjust for different games:
 - Tone adjustments
@@ -178,8 +231,6 @@ Ways Major NPCs might evolve:
 - Via story progression
 - Based on world events
 - Through discovery
-
-## References
 
 ### Sources
 Where information comes from:
@@ -201,8 +252,6 @@ Where to learn more:
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
-
-## DM Notes
 
 ### True Nature
 [Hidden information for DM only]
@@ -227,3 +276,8 @@ Adapt as needed for:
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil

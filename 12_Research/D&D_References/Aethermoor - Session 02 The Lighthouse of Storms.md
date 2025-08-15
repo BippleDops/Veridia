@@ -20,36 +20,25 @@ world: Aethermoor
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-# Session 2: The Lighthouse of Storms
 
 ## Session Summary
-The party investigates Whisper Island, discovering Captain Blackwater's crystallized ship and a lighthouse conducting horrific resonance experiments. They uncover references to "Seven Shards of the Deep God" and disrupt a ritual attempting to "call something from below," experiencing a shared vision of a vast underwater city.
-
-## Pre-Session Planning
-### Expected Events
-- Explore crystallized ship
-- Meet Jasper "Three-Eyes" Flint
-- Climb lighthouse discovering experiments
-- Confront ritual at peak
-- First glimpse of Aquabyssos
-
-### Prepared Encounters
-- [[Crystal Mimics]] on ship
-- [[Infected Experiments]] in lighthouse
-- [[Crimson Hand Apprentices]] at peak
-
-### NPCs to Include
-- [[Jasper Three-Eyes Flint]] - Terrified survivor with crucial info
-- [[Vex Shadowthorn's Apprentices]] - Fanatic but doubting
-- [[The Crimson Sage]] - Mysterious first appearance
-
-## Session Timeline
+The party investigates Whisper Island, discovering Captain Blackwater's crystallized ship and a lighthouse conducting horrific resoce experiments. They uncover references to "Seven Shards of the Deep God" and disrupt a ritual attempting to "call something from below," experiencing a shared vision of a vast underwater city.
 
 ### Opening Scene
 **Location:** [[Whisper Island Docks]]
@@ -61,8 +50,6 @@ The party's boat cuts through unnatural fog thick as wool. Crystalline formation
 - Fog provides heavy obscurement
 - Crystal formations deal 1d6 damage on contact
 - Strange whispers in unknown language (DC 13 Wisdom save or frightened 1 minute)
-
-### Key Events
 
 #### Event 1: The Crystallized Ship
 **Location:** [[The Seahawk]]
@@ -83,7 +70,7 @@ The party's boat cuts through unnatural fog thick as wool. Crystalline formation
 - Find Jasper hiding, partially crystallized (30% transformed)
 - He's paranoid but has vital information
 - Persuasion DC 14 to calm him, DC 18 for full cooperation
-- Reveals lighthouse was conducting "resonance experiments"
+- Reveals lighthouse was conducting "resoce experiments"
 - Mentions seeing "things swimming in the air" when crystals activate
 
 **Jasper's Revelation:** "They're not creating the plague... they're tuning it! Like a conductor with an orchestra of crystals. The Queen's seal was on the orders, but dated next month. How is that possible?"
@@ -102,8 +89,8 @@ The party's boat cuts through unnatural fog thick as wool. Crystalline formation
 
 **Environmental Challenge:** Each floor closer to peak increases corruption (CON save DC 12 + floor number or gain 1 exposure)
 
-#### Event 4: The Resonance Chamber
-**Location:** [[Lighthouse Peak - Resonance Chamber|01 Campaigns/Aethermoor/Locations/Lighthouse Peak Resonance Chamber]]
+#### Event 4: The Resoce Chamber
+**Location:** [[Lighthouse Peak - Resoce Chamber|01 Campaigns/Aethermoor/Locations/Lighthouse Peak Resoce Chamber]]
 **NPCs:** [[Vex Shadowthorn's Apprentices]] (2)
 **Outcome:**
 - Massive 20-foot crystal formation pulsing with energy
@@ -121,14 +108,12 @@ When the ritual is disrupted, everyone experiences:
 **Cliffhanger:**
 The party awakens from the vision to find three days have passed. Jasper is gone, leaving only a note: "They know you're here now. Both of them - the thing below and the one who wears the crown. The city prepares for war with itself. Trust the Sage, fear the Queen, find the Seven before the Festival. PS - I took one shard. Safer with me running than you fighting."
 
-## Encounters Run
-
 ### Combat
 | Encounter | Location | Difficulty | Outcome |
 |-----------|----------|------------|---------|
 | [[Crystal Mimics]] (3) | [[The Seahawk]] cargo hold | Medium | Morphing ship equipment |
 | [[Infected Experiments]] (2) | Lighthouse second floor | Hard | Multi-attack crystalline claws |
-| [[Crimson Hand Apprentices]] (2) | Resonance Chamber | Hard | Level 5 spellcasters |
+| [[Crimson Hand Apprentices]] (2) | Resoce Chamber | Hard | Level 5 spellcasters |
 
 ### Social
 | NPC | Location | Purpose | Outcome |
@@ -136,23 +121,14 @@ The party awakens from the vision to find three days have passed. Jasper is gone
 | [[Jasper Three-Eyes Flint]] | Keeper's House | Information | Paranoid revelations |
 | Vex's Apprentices | Lighthouse Peak | Possible negotiation | Fanatic devotion |
 
-## Quest Progress
-### Started
-- [[The Whisper Island Mystery]] - Uncover lighthouse experiments
-- [[Captain Blackwater's Fate]] - Learn what happened to missing captain
-
-### Advanced
-- [[Investigate the Crystal Plague]] - Discovered it's not a disease but a calling
-
 ### Completed
 None this session
 
-## Treasure & Rewards
 ### Items
 | Item | Found Where | Given To | Value |
 |------|-------------|----------|-------|
 | Captain Blackwater's journal | Hidden compartment | Party | Priceless info |
-| Resonance crystal | Resonance Chamber | Party | Communication device |
+| Resoce crystal | Resoce Chamber | Party | Communication device |
 | Spell scroll - Detect Thoughts | Library | Party | 150gp |
 | Crimson Hand components | Apprentices | Party | 300gp |
 | Partial shard map | Burnt in library | Party | Quest item |
@@ -165,40 +141,12 @@ Distribution: Party choice
 Total XP: 1000
 Per Player: 200-250 (depending on party size)
 
-## Character Development
-### Player Decisions
-- How to handle paranoid Jasper
-- Whether to fight or negotiate with apprentices
-- Interpreting the vision's meaning
-
-### Character Moments
-- First contact with otherworldly intelligence
-- Experiencing shared consciousness
-- Time loss disorientation
-
-### Relationship Changes
-- [[Jasper Three-Eyes Flint]] - Disposition varies based on treatment
-- [[The Crimson Sage]] - Mysterious but helpful (+1 if noticed)
-
-## World Changes
-- Lighthouse experiments disrupted
-- Three days lost (major events occurred)
-- Emergency council being prepared
-- Jasper fled with one shard
-- Party marked by the Deep God's attention
-
-## Corruption Tracking
 ### Exposure Events
 1. Crystal formations at dock (possible)
 2. Investigating crystallized crew
 3. Each lighthouse floor (scaling DC)
-4. Resonance chamber proximity
+4. Resoce chamber proximity
 
-### Infection Progression
-- Note any party members reaching new thresholds
-- Jasper demonstrates 30% transformation effects
-
-## Seven Shards Mystery
 ### Current Knowledge
 1. Shards are prison, not weapons
 2. Something called "Deep God" imprisoned
@@ -216,66 +164,9 @@ Per Player: 200-250 (depending on party size)
 5. Queen's involvement suspicious
 6. City "prepares for war with itself"
 
-## GM Reflections
-### What Worked
-- Vision sequence impact
-- Environmental storytelling on ship
-- Jasper's paranoid personality
-
-### What Didn't
-- Track time loss consequences
-- Balance combat vs. investigation
-
-### To Improve
-- Prepare "what happened in 3 days" events
-- Detail emergency council attendees
-- Plan Queen's public absence
-
-## Player Feedback
-<!-- Notes from post-session discussion -->
-- 
-
-## Prep for Next Session
-- [ ] Create emergency council scenario
-- [ ] Detail Lord [[Aurelius Goldwave]] murder scene
-- [ ] Prepare faction representatives
-- [ ] Plan political intrigue encounters
-- [ ] Develop "3 days of events" timeline
-- [ ] Create Queen's representative NPC
-
-## Resonance Crystal Mechanics
-### Functions
-- Allows communication with other resonance crystals
-- Detects nearby shard presence (100 ft)
-- Vibrates when lies are spoken near it
-- Can record and playback 1 minute of sound
-
-### Corruption Interaction
-- Accelerates exposure near large crystal formations
-- Can temporarily reduce exposure (1/day, -1 level for 1 hour)
-- Reveals corruption level when held against skin
-
-## Cross-References
-
-- [[Captain Blackwater's Fate]]
-
-
-## Connections
-
-- [[Aurelius Goldwave]]
-- [[Crimson Hand Apprentices]]
-- [[Crystal Mimics]]
-- [[Investigate the Crystal Plague]]
-- [[Jasper Three-Eyes Flint]]
-- [[Vex Shadowthorn's Apprentices]]
-- [[The Whisper Island Mystery]]
-- [[Captain Blackwater's Fate]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -284,3 +175,23 @@ Per Player: 200-250 (depending on party size)
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

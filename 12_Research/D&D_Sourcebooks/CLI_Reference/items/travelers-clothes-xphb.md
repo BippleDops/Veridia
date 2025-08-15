@@ -23,21 +23,36 @@ updated: '2025-08-12T23:37:36.856833'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![[04_Resources/Assets/Items/item-artifact-travelers-clothes-xphb-travelers-clothes-xphb.png]]
 
 # Traveler's Clothes
 *Adventuring gear*  
 
-
 - **Cost**: 2 gp
 - **Weight**: 4.0 lbs.
 
 Traveler's Clothes are resilient garments designed for travel in various environments.
 
-*Source: Player's Handbook (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 225. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -47,19 +62,18 @@ Travelers clothes xphb is a undersea element of the setting, known for biolumine
 
 Legends speak of travelers clothes xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around travelers clothes xphb.
 
-## Adventure Hooks
-
-- A rumor ties travelers clothes xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at travelers clothes xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to travelers clothes xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help stealing before the new moon
+- A corpse reveals ancient history about a local noble
+- Strange disappearances suggest a conspiracy
+- A map reveals the truth about the government

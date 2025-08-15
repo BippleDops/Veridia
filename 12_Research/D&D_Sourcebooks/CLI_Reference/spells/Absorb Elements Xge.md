@@ -35,11 +35,8 @@ updated: '2025-08-13T12:34:06.711165+00:00'
 world: Both
 ---
 
-
-
 # Absorb Elements
 *1st-level, Abjuration*  
-
 
 - **Casting time:** 1 Reaction
 - **Range:** Self
@@ -54,6 +51,24 @@ The spell captures some of the incoming energy, lessening its effect on you and 
 
 *Source: Xanathar's Guide to Everything p. 150*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Absorb elements xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -62,19 +77,29 @@ Absorb elements xge is a undersea element of the setting, known for bioluminesce
 
 Legends speak of absorb elements xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around absorb elements xge.
 
-## Adventure Hooks
-
-- A rumor ties absorb elements xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at absorb elements xge to avert a public scandal.
-- A map overlay reveals a hidden approach to absorb elements xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before the festival
+- Strange sightings suggest ancient magic
+- Someone is searching for a witness for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

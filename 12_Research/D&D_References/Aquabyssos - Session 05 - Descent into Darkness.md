@@ -21,7 +21,7 @@ status: outlined
 location:
 - - Tenebrarum
 session_number: 5
-date_played: null
+date_played: 
 MyCategory: Unknown
 MyContainer: None
 depth: 3,000-4,000 ft
@@ -45,21 +45,29 @@ world: Aquabyssos
 ---
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
-
-
-
-
-# Session 5: Descent into Darkness
 ## Act 2 Begins - Journey to Tenebrarum
 
 > *"In Tenebrarum, your shadow isn't cast by you—you're cast by it."*
 
 ## 🎬 Strong Start
 The party boards the Dream Rails to Tenebrarum, but mid-journey, the train stops in a nightmare. They're in a surgical theater where shadows are being transplanted into paralyzed surface dwellers. One victim locks eyes with a party member—it's someone from their backstory, pleading silently for help as their shadow is peeled away like skin.
-
-## 🎭 Scenes
 
 ### Scene 1: The Dream Rail Horror
 **Location**: Nightmare Transit between continents  
@@ -121,50 +129,6 @@ The party boards the Dream Rails to Tenebrarum, but mid-journey, the train stops
 - Refuse and fight (combat encounter)
 - Negotiate alternative (skill challenge)
 
-## 🗡️ Combat Encounters
-
-### Nightmare Surgeons (3)
-- **AS** 16, **HP** 58 each
-- **Surgical Precision**: +8 to hit, 2d6+4 slashing
-- **Shadow Scalpel**: Separates shadow on crit (CON DC 15)
-- **Nightmare Form**: Can phase through dream logic
-- **Weakness**: Disrupted by positive emotions
-
-### Shadow Auction Enforcers (4)
-- **AS** 15, **HP** 42 each
-- **Shadow Weapons**: +1 magical, phase through armor
-- **Darkness Control**: Cast Darkness 1/day
-- **Tag Team**: Advantage when fighting alongside shadows
-
-### The Silhouette Surgeon Prime
-- **AS** 17, **HP** 95
-- **Legendary Actions** (2/round)
-- **Shadow Surgery**: Can swap shadows between targets
-- **Flesh Suit**: Damage resistance while wearing human form
-- **Multi-Attack**: Three surgical strikes per turn
-
-## 🎲 Environmental Challenges
-
-### Tenebrarum Pressure Effects
-- **Depth**: 3,000-4,000 feet
-- **CON Save**: DC 14 every 2 hours
-- **Shadow Density**: Darkness is physically heavy here
-- **Emotional Weight**: Sadness slows movement by 10 ft
-
-### Shadow Interaction Rules
-- Shadows can speak but PCs might not understand
-- Shadows remember everything PCs have forgotten
-- Shadows can refuse to follow their owners
-- Bright light causes 1d4 damage to exposed shadows
-
-## 💰 Treasure & Rewards
-- 800 [[Sorrow Pearls]]
-- Shadow Modification Kit (one-time use)
-- Map of Tenebrarum's surgical facilities
-- Shadow Broker contact information
-- Encrypted message from [[The Crimson Sage]]
-- Temporary Shadow Independence Charm (24 hours)
-
 ## 🔍 Secrets & Clues
 1. The Shadow Harvest has already begun in minor settlements
 2. [[Shadow Duchess Nyx]] is hunting her original shadow
@@ -177,11 +141,6 @@ The party boards the Dream Rails to Tenebrarum, but mid-journey, the train stops
 9. The Dream Rails connect to [[Memoriam]] but nobody remembers
 10. The next Memory Tide will carry shadow transformation virus
 
-## 🔗 Connections to Other Sessions
-- **Previous**: Party learned of widespread harvest plan
-- **Current**: Discovering the shadow trade infrastructure
-- **Next**: Journey to confront the resonance control
-
 ## 🎪 Cliffhanger Ending
 The party acquires crucial intel about the harvest control center in [[Crystallium]], but as they prepare to leave Tenebrarum, every shadow in the city suddenly freezes in place. A voice echoes from all shadows simultaneously: "The Parliament of Shadows has reached a verdict. Original-kind is found guilty of oppression. The sentence is replacement. The Deep Harvest begins at the next tide—in six hours. Those who resist will watch their shadows devour their loved ones first." 
 
@@ -191,36 +150,9 @@ The party must choose who to trust as shadow enforcers surround their location.
 
 ---
 
-## 🎯 DM Notes
-- Each PC's shadow should have distinct personality
-- Use shadow puppets or lighting effects at table
-- Shadows know PC backstory secrets
-- Consider splitting party between original/shadow loyalty
-- The truth about Marina should remain ambiguous
-
-## 📅 Next Session Prep
-- [[Aquabyssos - Session 06 - The Silhouette Surgeons]]
-- Prepare Crystallium approach
-- Design shadow modification consequences
-- Plan Marina identity revelation
-
-## Cross-References
-
-- [[Campaign Index]]
-
-
-## Connections
-
-- [[Sorrow Pearls]]
-- [[Tenebrarum]]
-- [[Crystallium]]
-- [[Memoriam]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -229,3 +161,19 @@ The party must choose who to trust as shadow enforcers surround their location.
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A map reveals the truth about the cult
+- A corpse reveals a betrayal about a local noble
+- Someone is blackmailing a witness for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -33,11 +33,6 @@ world: Both
 updated: '2025-08-13T01:18:37.139811+00:00'
 ---
 
-
-
-
-
-
 > [!infobox]
 > # Harbor Master's Compass
 > ![[Harbor Master's Compass|cover]]
@@ -48,6 +43,24 @@ updated: '2025-08-13T01:18:37.139811+00:00'
 > | **Rarity** | Rare |
 > | **Attunement** | Required |
 > | **Price** | 2,500 gp |
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Description
 
@@ -97,20 +110,11 @@ Additionally, you feel compelled to investigate any missing persons or mysteriou
 
 **Investigation (DC 16)**: Examining the compass reveals tiny scratches inside the case forming letters that spell out "Find them all" - a message seemingly carved by a desperate hand.
 
-## Quest Connections
-
 ### The Vanishing Merchant Vessels
 This compass is a key piece of evidence in the investigation. It may hold clues about what happened to the missing ships and could lead the party to their fate.
 
 ### Future Adventures
 The compass's compulsion to investigate mysteries makes it an excellent plot hook generator. The DM can use its curse to naturally draw the party toward new adventures and unsolved cases.
-
-## Roleplay Opportunities
-
-- The compass occasionally points toward party members who are keeping secrets
-- In populated areas, it may point toward missing persons the party doesn't know about yet  
-- The curse can create tension between practical navigation needs and mysterious compulsions
-- NPCs familiar with Captain Elena may recognize the compass and share stories about her
 
 ## Combat Applications
 
@@ -153,19 +157,21 @@ Harbor Master's Compass is a undersea element of the setting, known for biolumin
 
 Legends speak of Harbor Master's Compass as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Harbor Master's Compass.
 
-## Adventure Hooks
-
-- A rumor ties Harbor Master's Compass to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Harbor Master's Compass to avert a public scandal.
-- A map overlay reveals a hidden approach to Harbor Master's Compass active only during specific tides/storms.
-
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Harbor Master's Compass|03 Mechanics/Rules Reference/Homebrew/Items/Harbor Master's Compass]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

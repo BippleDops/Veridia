@@ -1,4 +1,5 @@
 ---
+
 title: Engineer Prisma Depthwright
 type: Location
 tags:
@@ -10,6 +11,7 @@ tags:
 - location
 - complete
 - status/in-progress
+- bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +20,8 @@ population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:17.093746+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -25,18 +29,83 @@ world: Both
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-engineer-prisma-depthwright-engineer-prisma-depthwright.svg]]
 
-
 # The Depthwright Laboratory
 *Where Innovation Meets the Depths*
 
 > *"In these halls, the impossible becomes inevitable. We don't just solve problems - we forge solutions from the very essence of the deep, creating tomorrow's miracles with today's determination. Every blueprint is a dream, every prototype a step toward transforming our underwater world."*
 > — [[Engineer Prisma Depthwright]], Master Engineer and Laboratory Director
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+
 ## Overview
 
 The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering research facility, where [[Engineer Prisma Depthwright]] leads a team of brilliant minds in pushing the boundaries of underwater technology and innovation. This state-of-the-art facility specializes in developing solutions to the unique challenges of deep-sea civilization, from pressure-resistant construction materials to revolutionary transportation systems that could reshape how underwater societies function. The laboratory features advanced testing chambers, prototype workshops, materials research facilities, and the cutting-edge equipment necessary to transform theoretical concepts into practical engineering solutions that benefit all underwater civilizations.
-
-## History and Foundation
 
 ### The Innovation Crisis
 **Period**: 60 years ago, when traditional engineering solutions proved inadequate  
@@ -80,10 +149,6 @@ The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering resear
 **Impact**: Laboratory innovations continuing to transform underwater civilization  
 **Future**: Strategic planning for next generation of underwater technological advancement
 
-## Architecture and Research Facilities
-
-### The Central Research Complex
-
 #### The Innovation Cathedral
 **Design**: Massive central chamber with soaring architecture inspiring creative thinking  
 **Function**: Main research hall where interdisciplinary teams work on major projects  
@@ -104,8 +169,6 @@ The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering resear
 **Inspiration**: Inspiring researchers by demonstrating impact of their work  
 **History**: Historical documentation of laboratory's contributions to underwater civilization  
 **Recognition**: Recognition of individual researchers and their contributions to major breakthroughs
-
-### Specialized Research Divisions
 
 #### The Pressure Engineering Wing
 **Focus**: Revolutionary approaches to engineering solutions for extreme pressure environments  
@@ -128,8 +191,6 @@ The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering resear
 **Applications**: Transportation solutions for various underwater environments and applications  
 **Transformation**: Potential transformation of underwater travel and commerce
 
-### Testing and Development Facilities
-
 #### The Deep Simulation Chambers
 **Purpose**: Advanced chambers simulating various deep-sea environmental conditions  
 **Range**: Ability to simulate conditions from shallow waters to deepest ocean trenches  
@@ -150,8 +211,6 @@ The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering resear
 **Monitoring**: Comprehensive monitoring systems tracking prototype performance  
 **Safety**: Safety measures protecting researchers during potentially dangerous testing  
 **Documentation**: Detailed documentation of all testing procedures and results
-
-### Support and Administrative Areas
 
 #### The Research Library
 **Contents**: Comprehensive collection of engineering and scientific research materials  
@@ -174,10 +233,6 @@ The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering resear
 **Recreation**: Recreational facilities maintaining researcher morale and productivity  
 **Integration**: Integration with laboratory facilities allowing easy access to research areas
 
-## Engineering Research Programs
-
-### Revolutionary Engineering Projects
-
 #### The Depth Adaptation Initiative
 **Goal**: Developing technology enabling human habitation at previously impossible depths  
 **Research**: Research into life support systems, habitat design, and pressure adaptation  
@@ -198,8 +253,6 @@ The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering resear
 **Methods**: Construction methods adapted for extreme underwater conditions  
 **Applications**: Construction applications for expanding underwater civilization  
 **Innovation**: Breakthrough innovations in underwater architecture and engineering
-
-### Applied Research Divisions
 
 #### The Infrastructure Solutions Team
 **Mission**: Solving infrastructure challenges facing underwater civilizations  
@@ -222,8 +275,6 @@ The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering resear
 **Applications**: Defensive applications protecting communities and infrastructure  
 **Ethics**: Ethical approach to defense technology development
 
-### Collaborative Research Programs
-
 #### The Inter-Realm Technology Exchange
 **Network**: Collaboration with research institutions throughout underwater realm  
 **Sharing**: Knowledge sharing accelerating innovation across multiple civilizations  
@@ -244,10 +295,6 @@ The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering resear
 **Inspiration**: Inspiring next generation of underwater engineers and innovators  
 **Access**: Providing access to engineering education for diverse populations  
 **Culture**: Building culture of innovation throughout underwater society
-
-## Current Research Projects
-
-### Revolutionary Breakthroughs
 
 #### The Quantum Pressure Drive
 **Innovation**: Revolutionary propulsion system using quantum pressure manipulation  
@@ -270,8 +317,6 @@ The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering resear
 **Integration**: Integration with existing communication systems  
 **Impact**: Transformative impact on government, commerce, and social interaction
 
-### Applied Engineering Solutions
-
 #### The Modular Habitat System
 **Design**: Standardized habitat modules for rapid deep-sea settlement construction  
 **Flexibility**: Flexible system adaptable to various environmental conditions  
@@ -292,8 +337,6 @@ The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering resear
 **Effectiveness**: Enhanced effectiveness in protecting lives and property  
 **Coordination**: Coordination with emergency services throughout [[Aquabyssos]]  
 **Prevention**: Prevention technology reducing likelihood of disasters
-
-### Experimental Research Areas
 
 #### The Consciousness-Technology Interface
 **Exploration**: Experimental research into direct consciousness-technology interaction  
@@ -316,10 +359,6 @@ The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering resear
 **Theory**: Advanced theoretical work on temporal mechanics  
 **Caution**: Careful approach to potentially dangerous temporal research
 
-## Innovation Culture and Philosophy
-
-### The Depthwright Principles
-
 #### Innovation Through Collaboration
 **Belief**: Greatest innovations emerge from collaborative research efforts  
 **Practice**: Collaborative research practices throughout laboratory  
@@ -340,8 +379,6 @@ The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering resear
 **Safety**: Priority focus on safety in all research and development activities  
 **Responsibility**: Responsibility for long-term consequences of engineering innovations  
 **Values**: Engineering values emphasizing service to underwater society
-
-### Research Management Philosophy
 
 #### Freedom Within Structure
 **Balance**: Balancing research freedom with productive structure and organization  
@@ -364,10 +401,6 @@ The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering resear
 **Growth**: Personal and professional growth opportunities for researchers  
 **Excellence**: Commitment to excellence in all research activities
 
-## Challenges and Opportunities
-
-### Research Challenges
-
 #### Resource Limitations
 **Funding**: Limited funding for ambitious research programs  
 **Equipment**: Need for expensive specialized research equipment  
@@ -388,8 +421,6 @@ The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering resear
 **Access**: Limited access to some research environments  
 **Impact**: Minimizing environmental impact of research activities  
 **Adaptation**: Adapting research methods to environmental constraints
-
-### Innovation Opportunities
 
 #### Emerging Technologies
 **Discovery**: Discovery of new technological possibilities through research  
@@ -412,10 +443,6 @@ The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering resear
 **Jobs**: Job creation through technology-based economic development  
 **Growth**: Economic growth opportunities for [[Aquabyssos]] through technological advancement
 
-## Adventure Opportunities
-
-### Research Expeditions
-
 #### Deep-Sea Testing Missions
 **Mission**: Accompanying researchers on dangerous deep-sea testing missions  
 **Technology**: Testing revolutionary technology under extreme conditions  
@@ -436,8 +463,6 @@ The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering resear
 **Investigation**: Investigating equipment failures and unusual phenomena  
 **Protection**: Protecting research assets from various threats  
 **Analysis**: Analyzing recovered equipment to advance research understanding
-
-### Innovation Projects
 
 #### Technology Development
 **Participation**: Direct participation in developing revolutionary technology  
@@ -460,8 +485,6 @@ The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering resear
 **Sabotage**: Preventing sabotage of important research projects  
 **Defense**: Defending laboratory against various forms of attack
 
-### Knowledge Quests
-
 #### Scientific Investigation
 **Research**: Participating in scientific research expeditions  
 **Discovery**: Making scientific discoveries advancing engineering knowledge  
@@ -475,8 +498,6 @@ The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering resear
 **Support**: Supporting technology implementation in various communities  
 **Optimization**: Optimizing technology performance in real-world conditions  
 **Impact**: Maximizing positive impact of technological innovations
-
-## Connected Elements
 
 ### Research Networks
 **Collaboration**: Collaboration with research institutions throughout [[Aquabyssos]] and beyond  
@@ -506,28 +527,12 @@ The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering resear
 **Inspiration**: Inspiring next generation of underwater innovators  
 **Knowledge**: Contributing to engineering education and knowledge
 
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
-
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
-## DM Notes and Plot Hooks
 
 ### Innovation Center
 **Technology**: Access to cutting-edge technology and research  
@@ -559,12 +564,6 @@ The Depthwright Laboratory stands as [[Aquabyssos]]'s premier engineering resear
 
 The Depthwright Laboratory represents the pinnacle of underwater engineering innovation, where [[Engineer Prisma Depthwright]]'s visionary leadership combines with brilliant research talent to create technological solutions that transform the possibilities for underwater civilization. Through revolutionary research programs, collaborative innovation culture, and unwavering commitment to practical applications, this facility continues to push the boundaries of what's possible in the depths, proving that human ingenuity and determination can overcome even the most challenging environmental constraints to create a better future for all underwater societies.
 
-
-## Connections
-
-- [[Depth Adaptation Points]]
-- [[Pearl_Harbor_City]]
-
 ## Player-Facing Summary
 
 Engineer Prisma Depthwright is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -573,54 +572,11 @@ Engineer Prisma Depthwright is a undersea element of the setting, known for biol
 
 Legends speak of Engineer Prisma Depthwright as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Engineer Prisma Depthwright.
 
-## Adventure Hooks
-
-- A rumor ties Engineer Prisma Depthwright to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Engineer Prisma Depthwright to avert a public scandal.
-- A map overlay reveals a hidden approach to Engineer Prisma Depthwright active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
-1. Main entrance/approach
-2. Central gathering area
-3. Important buildings/features
-4. Defensive positions (if applicable)
-5. Hidden or secret areas
-
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
 
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Engineer Prisma Depthwright]]
-
-<!-- enriched: true -->
-
-
-## Notable Residents
-
-- [[04_Resources_Assets_Portraits_portrait-npc-lady-shadowmere-lady-shadowmere.svg]]
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-the-phantom-current-v1-the-phantom-current.svg]]
-- [[Shadow Trackhound]]
-- [[04_Resources_Assets_Portraits_portrait-npc-ancient-king-pelagios-ancient-king-pelagios.svg]]
-
 
 ## Sensory Details
 
@@ -630,7 +586,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: The aroma of fresh bread wafts from bakeries
 
-
 ## Description
 
 Engineer Prisma Depthwright is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -638,35 +593,7 @@ Engineer Prisma Depthwright is a notable location characterized by its unique fe
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Engineer Prisma Depthwright
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -679,15 +606,44 @@ Ongoing situations affecting Engineer Prisma Depthwright:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Engineer Prisma Depthwright
+## Secret Connections
 
-### Whispered Rumors
-- Stories that may or may not be true
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+
+## Plot Hooks
+
+- Someone is protecting a artifact for power
+- Someone is protecting a witness for money
+- The authorities needs help finding before the new moon
+- The authorities needs help delivering before the festival
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

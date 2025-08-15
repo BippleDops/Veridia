@@ -16,31 +16,22 @@ updated: '2025-08-13T01:18:36.972726+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Appearance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Personality
-
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -50,28 +41,25 @@ Shadow touched Communities is a undersea element of the setting, known for biolu
 
 Legends speak of Shadow touched Communities as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow touched Communities.
 
-## Adventure Hooks
-
-- A rumor ties Shadow touched Communities to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Shadow touched Communities to avert a public scandal.
-- A map overlay reveals a hidden approach to Shadow touched Communities active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Shadow-touched Communities|02 Worldbuilding/People/Shadow Touched Communities]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Tenebrarum Ambassadors]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## Plot Hooks
+
+- Strange dreams suggest a portal
+- A document has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

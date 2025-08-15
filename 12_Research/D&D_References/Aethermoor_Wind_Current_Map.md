@@ -18,7 +18,23 @@ world: Aethermoor
 ---
 
 
-# Aethermoor Wind Current Map
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Sky Navigation Reference
 
 ```
@@ -35,52 +51,39 @@ world: Aethermoor
       │        • Military traffic      ⇒⇒⇒⇒⇒
       │        • Express routes        ⇒⇒⇒⇒⇒
       │        • Restricted access     ⇒⇒⇒⇒⇒
-   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    4,000-8,000   TRADE WINDS          →→→→→
       │        (Commercial zone)      →→→→→
       │        • Merchant traffic      →→→→→
       │        • Stable currents       →→→→→
       │        • Weather monitored    →→→→→
-   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    1,000-4,000   CITIZEN WINDS        → → →
       │        (Public zone)          → → →
       │        • Residential traffic   → → →
       │        • Learning flights      → → →
       │        • Tourist approved      → → →
-   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    0-1,000 ft    SURFACE WINDS        ― ― ―
                  (Ground effect)        ― ― ―
                  • Landing zones         ― ― ―
                  • Emergency descent     ― ― ―
                  • Training areas        ― ― ―
-```
 
 ### Wind Current Strength & Direction
 
-```
 CURRENT MAP (Top-Down View)
 
     NORTH WIND ZONE
     ←←←←←←←←←←←←←←←
     ←  POLAR CURRENTS  ←
-    ←←←←←←←←←←←←←←←
          │
     WEST WIND │ EAST WIND
     ↓↓↓↓↓│↑↑↑↑↑
-    ↓↓↓↓↓│↑↑↑↑↑
-    ↓↓↓↓↓│↑↑↑↑↑
-    ↓↓↓↓↓│↑↑↑↑↑
-         │
     →→→→→→→→→→→→→→→
     → SOUTHERN TRADES →
-    →→→→→→→→→→→→→→→
-```
 
 ### Flight Planning Guide
 
 **Optimal Routes by Destination:**
 
-```
 TO AQUABYSSOS CONVERGENCE:
 • Altitude: 4,000-6,000 ft
 • Wind: Southern Trade Route
@@ -101,7 +104,6 @@ TO CRYSTAL PEAKS:
 • Time: 6-8 hours
 • Weather: Extreme conditions
 • Hazards: Authorization required
-```
 
 ### Seasonal Wind Patterns
 
@@ -131,7 +133,6 @@ TO CRYSTAL PEAKS:
 
 ### Emergency Wind Patterns
 
-```
 DANGER ZONES - AVOID THESE AREAS
 
 ⚠️ STORM VORTEX ZONES:
@@ -144,23 +145,16 @@ DANGER ZONES - AVOID THESE AREAS
    Vessel destruction possible
 
 ⚠️ DEAD WIND ZONES:
-   ┌─────────────────┐
    │                 │
    │    NO WIND      │
-   │                 │
-   └─────────────────┘
    Magical interference
    Emergency landing required
 
 ⚠️ CRYSTAL STORM ZONES:
-   ┌─────────────────┐
    │ ✨↯✨↯✨↯✨↯✨ │
    │↯✨↯✨↯✨↯✨↯✨↯│
-   │ ✨↯✨↯✨↯✨↯✨ │
-   └─────────────────┘
    Corrupted crystal energy
    Magical protection required
-```
 
 ### Navigation Equipment
 
@@ -187,7 +181,6 @@ DANGER ZONES - AVOID THESE AREAS
 
 ### Emergency Procedures
 
-```
 WIND EMERGENCY PROTOCOLS:
 
 1. SUDDEN WIND LOSS:
@@ -213,7 +206,6 @@ WIND EMERGENCY PROTOCOLS:
    ► Reduce to minimum altitude
    ► Signal mechanical emergency
    ► Prepare for emergency landing
-```
 
 ### Contact Information
 
@@ -230,7 +222,6 @@ WIND EMERGENCY PROTOCOLS:
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -238,3 +229,17 @@ WIND EMERGENCY PROTOCOLS:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A letter reveals a conspiracy about the cult
+- Strange dreams suggest ancient magic
+- Someone is searching for a witness for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

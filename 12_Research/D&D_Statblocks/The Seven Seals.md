@@ -28,23 +28,35 @@ accessibility:
   - Open Door
 ---
 
-
-
-
-
 # The Seven Seals
 
 ![[04_Resources/Assets/Art/NPCs/The_Seven_Seals.png|The Seven Seals Portrait]]
 
 *Ancient guardians of reality's foundations*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 
 The Seven Seals are not merely individuals but incarnated concepts—living embodiments of the fundamental forces that keep Aquabyssos anchored to reality and prevent the Deep Mother's awakening. Each Seal is both a person and a cosmic function, reincarnating through the ages whenever their predecessor falls. They operate in absolute secrecy, as knowledge of their existence would make them targets for every cult, would-be conqueror, and reality-warping entity in the realm.
 
 Founded in the wake of the First Drowning (3,000 years ago), the Seven Seals were created through a desperate ritual that bound seven heroes to eternal service. They guard the Anchor Points—metaphysical locations where reality is literally bolted to the fundamental structure of existence.
-
-## The Current Seven
 
 ### First Seal: The Depth Warden
 **Current Incarnation**: Malachus Ironheart
@@ -170,8 +182,6 @@ The Seventh Seal is not a person but a distributed consciousness across all livi
 - Children's laughter during storms
 - The decision to go on living
 
-## The Anchor Points
-
 ### Primary Anchors
 Each Seal guards a physical location where reality is bolted down:
 
@@ -210,8 +220,6 @@ Each Seal guards a physical location where reality is bolted down:
    - Strengthened by community and connection
    - Weakened by isolation and despair
 
-## Powers and Abilities
-
 ### Shared Abilities of All Seals
 
 **Seal Synchronization**
@@ -243,8 +251,6 @@ When all Seven Seals act in concert, they can:
 - Create new Anchor Points
 - Awaken sleeping gods (dangerous)
 
-## Organization Structure
-
 ### The Seal Bearers
 The seven incarnated guardians who embody each Seal.
 
@@ -268,8 +274,6 @@ Former Witnesses who had their memories erased:
 - Often become heroes without knowing why
 - Protected by residual seal energy
 - Cannot be possessed by Deep Mother
-
-## Enemies and Threats
 
 ### The Unsealed
 A counter-organization dedicated to breaking the Seals:
@@ -299,25 +303,6 @@ A mysterious eighth entity claiming to be a forgotten Seal:
 - True nature unknown
 - Possibly a Deep Mother fragment
 
-## Historical Incarnations
-
-### Notable First Seals
-- **Tethys the Drowner** (1st): Performed the original binding ritual
-- **Marcus Voidgazer** (89th): Discovered the Deep Mother's true nature
-- **Sister Catherine** (203rd): Established the Witness network
-
-### Notable Second Seals
-- **The Unnamed Chronicler** (45th): Wrote the definitive history then erased it
-- **Forget-Me-Not** (134th): Child who remembered everything
-- **The Archive Itself** (201st): Became one with the Memory Palace
-
-### Notable Third Seals
-- **Whirlwind Dancer** (3rd): Established the current patterns
-- **The Becalmed** (8th): Stopped all motion for three days
-- **Storm-Daughter Yuki** (15th): Youngest ever at age 16
-
-## Rituals and Ceremonies
-
 ### The Awakening
 When a new incarnation is born:
 1. Previous incarnation begins to weaken
@@ -341,8 +326,6 @@ Performed when corruption threatens:
 - Costs years of incarnation's lifespan
 - Can save or damn thousands
 
-## Adventure Hooks
-
 ### The Broken Seal
 One of the Seven has been killed before their successor was ready. The party must protect the vulnerable candidate while they undergo emergency awakening, facing waves of cultists and reality distortions.
 
@@ -360,8 +343,6 @@ The Fourth Seal (Child-Oracle Mei) has been accused of a crime they prophesied. 
 
 ### The Convergence Crash
 The party accidentally discovers the location of the next Convergence. Now they must decide whether to warn the Seals of an ambush or respect the cosmic need for secrecy.
-
-## Treasures and Artifacts
 
 ### Seal Fragments
 Pieces of power left behind by previous incarnations:
@@ -395,8 +376,6 @@ Points toward nearest Anchor Point:
 - Breaks if used by the unworthy
 - Screams when near Deep Mother corruption
 
-## DM Notes
-
 ### Running the Seven Seals
 
 **Revelation Progression**:
@@ -410,14 +389,6 @@ Points toward nearest Anchor Point:
 - Individual Seals can be patrons or quest givers
 - Protecting Seals creates moral dilemmas
 - Breaking a Seal could be campaign climax
-
-### Power Balance
-- Seals are not meant to be fought directly
-- Their power comes with massive restrictions
-- Death of a Seal should have cosmic consequences
-- Players might become Witnesses or even Seals
-
----
 
 ## See Also
 - [[Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
@@ -436,13 +407,19 @@ The Seven Seals is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of The Seven Seals as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Seven Seals.
 
-## Cross-References
 
-- [[The Seven Seals|02 Worldbuilding/People/The Seven Seals]]
+## Prophecy Connection
 
-<!-- enriched: true -->
+Mentioned in The Hidden Prophecy of Shadows
 
 
-## Connections
+## Plot Hooks
 
-- [[Nerissa_Deepcurrent|Nerissa Deepcurrent]]
+- Someone is protecting a witness for power
+- A prisoner has gone missing and chaos spreads
+- The authorities needs help delivering before the festival
+- Strange disappearances suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

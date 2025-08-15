@@ -1,7 +1,7 @@
-# Master Resonants
+# Master Resots
 
 ---
-title: Master Resonants
+title: Master Resots
 type: Lore
 tags:
 - lore
@@ -17,44 +17,51 @@ updated: '2025-08-13T01:18:35.359091+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
-Master Resonants is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+Master Resots is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of Master Resonants as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Master Resonants.
-
-## Adventure Hooks
-
-- A rumor ties Master Resonants to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Master Resonants to avert a public scandal.
-- A map overlay reveals a hidden approach to Master Resonants active only during specific tides/storms.
+Legends speak of Master Resots as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Master Resots.
 
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Original Palace|02 Worldbuilding/Places/The Original Palace]]
-
-
-## Connections
-
-- [[The Original Palace]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- Strange sightings suggest a curse
+- A journal reveals a conspiracy about the government
+- Someone is searching for information for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

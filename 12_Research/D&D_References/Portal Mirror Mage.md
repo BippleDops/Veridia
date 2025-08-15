@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.445792+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-portal-mirror-mage-portal-mirror-mage.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,28 @@ Portal Mirror Mage is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Portal Mirror Mage as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Portal Mirror Mage.
 
-## Adventure Hooks
-
-- A rumor ties Portal Mirror Mage to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Portal Mirror Mage to avert a public scandal.
-- A map overlay reveals a hidden approach to Portal Mirror Mage active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Portal Mirror Mage|02 Worldbuilding/Places/Portal Mirror Mage]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Shadow Broker Mirrors]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

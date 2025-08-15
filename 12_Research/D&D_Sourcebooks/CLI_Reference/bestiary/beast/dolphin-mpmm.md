@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.186309'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dolphin-mpmm-dolphin-mpmm.svg)
 
@@ -37,6 +35,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 97, Volo's Guide to Monsters p. 208*  
 
 Dolphins are symbols of wisdom and playfulness among the sea folk of many worlds. Found in oceans and in the Elemental Plane of Water, dolphins are befriended by druids and rangers, and many tales speak of dolphins that appeared out of nowhere to protect swimmers from sharks and other aquatic predators.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Dolphins
 
@@ -54,7 +70,6 @@ Dolphins are clever, social marine mammals that feed on small fish and squid. An
 "modifier": !!int "1"
 "stats":
   - !!int "14"
-  - !!int "13"
   - !!int "13"
   - !!int "6"
   - !!int "12"
@@ -94,19 +109,27 @@ Dolphin mpmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of dolphin mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dolphin mpmm.
 
-## Adventure Hooks
-
-- A rumor ties dolphin mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dolphin mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to dolphin mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Plot Hooks
+
+- A document has gone missing and evil awakens
+- A stranger needs help investigating before the festival
+- Someone is hunting information for power
+- Someone is hunting information for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

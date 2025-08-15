@@ -1,4 +1,5 @@
 ---
+
 title: location city plague crisis v1 plague crisis.png
 aliases:
 - location city plague crisis v1 plague crisispng
@@ -9,44 +10,101 @@ tags:
 - place
 - active
 - location
+- bloodline
 created: 2025-08-14
 modified: '2025-08-14'
 status: placeholder
 region: Unknown
 population: Unknown
 updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
 
 
 # 04_Resources/Assets/Locations/location-city-plague-crisis-v1-plague-crisis.png
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
 
-## Description
-
 ### Atmosphere
 
 The atmosphere of this location shifts throughout the day. Dawn brings quiet gardens, while dusk transforms the area with increased activity.
-
 
 ### Atmosphere
 
 The atmosphere of this location shifts throughout the day. Midday shows misty mornings, while dusk transforms the area with quiet contemplation.
 
-
 *[To be filled in]*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
 
 ## Details
 
 *[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[Locations Gallery]]
-- [[Locations Gallery]]
-- [[Locations_Gallery]]
-- [[Locations_Gallery]]
 
 ## Notes
 
@@ -58,44 +116,8 @@ The atmosphere of this location shifts throughout the day. Midday shows misty mo
 ---
 *Placeholder generated: 2025-08-14*
 
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of location-city-plague-crisis-v1-plague-crisis.png
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
-
-## History
-
 ### Founding
 location-city-plague-crisis-v1-plague-crisis.png was established in the distant past, growing from humble beginnings to its current state.
-
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
-
 
 ## Current Events
 
@@ -107,21 +129,6 @@ Ongoing situations affecting location-city-plague-crisis-v1-plague-crisis.png:
 - External threats
 - Opportunities arising
 
-
-## Secrets & Rumors
-
-### Common Knowledge
-- What everyone knows about location-city-plague-crisis-v1-plague-crisis.png
-
-### Whispered Rumors
-- Stories that may or may not be true
-
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
-
-
 ## Adventure Hooks
 
 1. **The Missing Person**: Someone important has disappeared in location-city-plague-crisis-v1-plague-crisis.png
@@ -129,7 +136,6 @@ Ongoing situations affecting location-city-plague-crisis-v1-plague-crisis.png:
 3. **The Growing Threat**: A danger that threatens location-city-plague-crisis-v1-plague-crisis.png
 4. **The Political Intrigue**: Power struggles affecting the location
 5. **The Ancient Mystery**: Old secrets beginning to surface
-
 
 ## Sensory Details
 
@@ -141,26 +147,12 @@ Ongoing situations affecting location-city-plague-crisis-v1-plague-crisis.png:
 
 **Atmosphere**: The overall feeling is one of quiet contemplation.
 
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
-
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 
 ## DM Notes
 
@@ -169,3 +161,25 @@ Ongoing situations affecting location-city-plague-crisis-v1-plague-crisis.png:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

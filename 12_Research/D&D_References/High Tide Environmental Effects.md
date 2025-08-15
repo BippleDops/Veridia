@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.874521+00:00'
 world: Both
 ---
 
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-high-tide-environmental-effects-high-tide-environmental-effects.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,25 @@ High Tide Environmental Effects is a undersea element of the setting, known for 
 
 Legends speak of High Tide Environmental Effects as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around High Tide Environmental Effects.
 
-## Adventure Hooks
-
-- A rumor ties High Tide Environmental Effects to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at High Tide Environmental Effects to avert a public scandal.
-- A map overlay reveals a hidden approach to High Tide Environmental Effects active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

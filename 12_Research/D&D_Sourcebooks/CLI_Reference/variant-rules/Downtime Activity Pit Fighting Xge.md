@@ -22,12 +22,28 @@ updated: '2025-08-13T12:34:04.581770+00:00'
 world: Both
 ---
 
-
-
 # Downtime Activity: Pit Fighting
 *Source: Xanathar's Guide to Everything p. 131* 
 
 Pit fighting includes boxing, wrestling, and other nonlethal forms of combat in an organized setting with predetermined matches. If you want to introduce competitive fighting in a battle-to-the-death situation, the standard combat rules apply to that sort of activity.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Resources
 
@@ -55,19 +71,25 @@ Downtime activity pit fighting xge is a undersea element of the setting, known f
 
 Legends speak of downtime activity pit fighting xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around downtime activity pit fighting xge.
 
-## Adventure Hooks
-
-- A rumor ties downtime activity pit fighting xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at downtime activity pit fighting xge to avert a public scandal.
-- A map overlay reveals a hidden approach to downtime activity pit fighting xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

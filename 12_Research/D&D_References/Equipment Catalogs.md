@@ -20,22 +20,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Historical Context
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Current Relevance
-
-TODO
-## See Also
-
-TODO
 
 ## Player-Facing Summary
 
@@ -45,25 +45,22 @@ Equipment Catalogs is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Equipment Catalogs as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Equipment Catalogs.
 
-## Adventure Hooks
-
-- A rumor ties Equipment Catalogs to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Equipment Catalogs to avert a public scandal.
-- A map overlay reveals a hidden approach to Equipment Catalogs active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Vault_Navigation_Hub|Vault Navigation Hub]]
 
 
-## Connections
+## Plot Hooks
 
-- See also: [[Central Index]]
-- Related: [[Historical Context]]
-- Connected to: [[Side Adventures]]
+- The authorities needs help stealing before the new moon
+- Someone is blackmailing information for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

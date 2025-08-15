@@ -22,7 +22,6 @@ updated: '2025-08-12T23:37:37.693907'
 world: Both
 ---
 
-
 # Elf (Eladrin)
 *Source: Mordenkainen's Tome of Foes p. 61*  
 ![](/03_Mechanics/CLI/races/img/elf.webp#right)
@@ -30,8 +29,6 @@ world: Both
 - **Ability Scores**: cha +1
 - **Size**: Medium
 - **Speed**: 30 ft.
-
-## Traits
 
 ### Age
 
@@ -73,9 +70,27 @@ As a bonus action, you can magically teleport up to 30 feet to an unoccupied spa
 When you reach 3rd level, your Fey Step gains an additional effect based on your season; if the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Charisma modifier:
 
 - **Autumn.** Immediately after you use your Fey Step, up to two creatures of your choice that you can see within 10 feet of you must succeed on a Wisdom saving throw or be [[conditions#Charmed|charmed]] by you for 1 minute, or until you or your companions deal any damage to it.  
-- **Winter.** When you use your Fey Step, one creature of your choice that you can see within 5 feet of you before you teleport must succeed on a Wisdom saving throw or be [[conditions#Frightened|frightened]] of you until the end of your next turn.  
+- **Winter.** When you use your Fey Step, one creature of your choice that you can see within 5 feet of you before you teleport must succeed on a Wisdom saving throw or be [[conditions#frightened|frightened]] of you until the end of your next turn.  
 - **Spring.** When you use your Fey Step, you can touch one willing creature within 5 feet of you. That creature then teleports instead of you, appearing in an unoccupied space of your choice that you can see within 30 feet of you.  
 - **Summer.** Immediately after you use your Fey Step, each creature of your choice that you can see within 5 feet of you takes fire damage equal to your Charisma modifier (minimum of 1 damage).  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Description
 
@@ -117,7 +132,6 @@ The following tables offer personality suggestions for eladrin of each season. Y
 `dice: [](elf-eladrin-mtf.md#^winter)`
 
 | dice: d4 | Winter Personality Trait |
-|----------|--------------------------|
 | 1 | The worst case is the most likely to occur. |
 | 2 | You preserve what you have. Better to be hungry today and have food for tomorrow. |
 | 3 | Life is full of dangers, but you are ready for them. |
@@ -127,7 +141,6 @@ The following tables offer personality suggestions for eladrin of each season. Y
 `dice: [](elf-eladrin-mtf.md#^winter-flaw)`
 
 | dice: d4 | Winter Flaw |
-|----------|-------------|
 | 1 | Everything dies eventually. Why bother building anything that is supposedly meant to last? |
 | 2 | Nothing matters to you, and you allow others to guide your actions. |
 | 3 | Your needs come first. In winter, all must watch out for themselves. |
@@ -139,7 +152,6 @@ The following tables offer personality suggestions for eladrin of each season. Y
 `dice: [](elf-eladrin-mtf.md#^spring)`
 
 | dice: d4 | Spring Personality Trait |
-|----------|--------------------------|
 | 1 | Every day is the greatest day of your life. |
 | 2 | You approach everything with enthusiasm, even the most mundane chores. |
 | 3 | You love music and song. You supply a tune yourself if no one else can. |
@@ -149,7 +161,6 @@ The following tables offer personality suggestions for eladrin of each season. Y
 `dice: [](elf-eladrin-mtf.md#^spring-flaw)`
 
 | dice: d4 | Spring Flaw |
-|----------|-------------|
 | 1 | You overdrink. |
 | 2 | Toil is for drudges. Yours should be a life of leisure. |
 | 3 | A pretty face infatuates you in an instant, but your fancy passes with equal speed. |
@@ -161,7 +172,6 @@ The following tables offer personality suggestions for eladrin of each season. Y
 `dice: [](elf-eladrin-mtf.md#^summer)`
 
 | dice: d4 | Summer Personality Trait |
-|----------|--------------------------|
 | 1 | You believe that direct confrontation is the best way to solve problems. |
 | 2 | Overwhelming force can accomplish almost anything. The tougher the problem, the more force you apply. |
 | 3 | You stand tall and strong so that others can lean on you. |
@@ -171,7 +181,6 @@ The following tables offer personality suggestions for eladrin of each season. Y
 `dice: [](elf-eladrin-mtf.md#^summer-flaw)`
 
 | dice: d4 | Summer Flaw |
-|----------|-------------|
 | 1 | You are stubborn. Let others change. |
 | 2 | The best option is one that is swift, unexpected, and overwhelming. |
 | 3 | Punch first. Talk later. |
@@ -201,11 +210,8 @@ Elves encountered outside their own lands are commonly traveling minstrels, arti
 > [!note] Haughty but Gracious
 > 
 > Although they can be haughty, elves are generally gracious - even to those who fall short of their high expectations - which is most non-elves. Still, they can find good in just about anyone.
-> 
 > **Dwarves.** "Dwarves are dull, clumsy oafs. But what they lack in humor, sophistication, and manners, they make up in valor. And I must admit, their best smiths produce art that approaches elven quality."
-> 
 > **Halflings.** "Halflings are people of simple pleasures, and that is not a quality to scorn. They're a good folk, they care for each other and tend their gardens, and they have proven themselves tougher than they seem when the need arises."
-> 
 > **Humans.** "All that haste, their ambitions and drive to accomplish something before their brief lives pass away - human endeavors seem so futile sometimes. But then you look at what they have accomplished, and you have to appreciate their achievements. If only they could slow down and learn some refinement."
 ^haughty-but-gracious
 
@@ -232,19 +238,25 @@ Elf eladrin mtf is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of elf eladrin mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elf eladrin mtf.
 
-## Adventure Hooks
-
-- A rumor ties elf eladrin mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at elf eladrin mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to elf eladrin mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

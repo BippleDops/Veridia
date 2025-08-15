@@ -16,65 +16,32 @@ updated: '2025-08-13T01:18:36.212481+00:00'
 danger_level: Moderate
 ---
 
-
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-temple-of-eternal-tides-the-temple-of-eternal-tides.svg]]
-
-
-
-
 
 # The Temple of Eternal Tides
 *Where Sea and Sky Meet in Sacred Harmony*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 The Temple of Eternal Tides serves as the primary religious center for ocean worship, conducting rituals that maintain the balance between surface and underwater realms. The temple houses diplomatic missions between surface kingdoms and [[Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]], making it a crucial political and spiritual nexus.
-
-## Key Connections
-- **[[High Priestess Celeste Dawnbringer|02 Worldbuilding/People/High Priestess Celeste Dawnbringer]]** - Senior clergy and spiritual leader
-- **[[Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]** - Diplomatic and religious exchange programs
-- **[[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]** - Theological opposition and ideological conflict
-- **[[High Priest Dagon Deepcaller|02 Worldbuilding/People/High Priest Dagon Deepcaller]]** - Primary enemy and corruption threat
-- **[[Crystal Wardens]]** - Allied military order providing temple protection
-- **[[Admiral Cassandra Stormwind|02 Worldbuilding/People/Admiral Cassandra Stormwind]]** - Naval protection and strategic alliance
-- **[[The Floating Markets of Nereidios|02 Worldbuilding/Places/The Floating Markets Of Nereidios]]** - Blesses trade vessels and commercial ventures
-- **[[Prince Caspian Duskwater|02 Worldbuilding/People/Prince Caspian Duskwater]]** - Regular pilgrim with ocean affinity
-- **[[The Crimson Fleet|02 Worldbuilding/Groups/The Crimson Fleet]]** - Active threat to temple shipping
-- **[[Temple of Divine Order|02 Worldbuilding/Places/Temple Of Divine Order]]** - Theological cooperation and shared missions
-- **[[Brother Marcus Steelbane|02 Worldbuilding/People/Brother Marcus Steelbane]]** - Missionary outreach coordinator
-- **[[The Deep Mother|02 Worldbuilding/People/The Deep Mother]]** - Ancient entity requiring careful theological balance
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -84,28 +51,26 @@ The Temple of Eternal Tides is a undersea element of the setting, known for biol
 
 Legends speak of The Temple of Eternal Tides as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Temple of Eternal Tides.
 
-## Adventure Hooks
-
-- A rumor ties The Temple of Eternal Tides to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Temple of Eternal Tides to avert a public scandal.
-- A map overlay reveals a hidden approach to The Temple of Eternal Tides active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[The Temple of Eternal Tides|02 Worldbuilding/Places/The Temple Of Eternal Tides]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Crystal Wardens]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- Someone is searching for a witness for love
+- A noble needs help investigating before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

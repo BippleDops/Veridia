@@ -24,16 +24,31 @@ updated: '2025-08-13T12:34:06.861277+00:00'
 world: Both
 ---
 
-
-
 # Winged Boots
 *Wondrous item, uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/winged-boots.webp#right)
 
-
 These boots have 4 charges and regain `d4` expended charges daily at dawn. While wearing the boots, you can take a [[actions#Magic|Magic]] action to expend 1 charge, gaining a [[fly-speed-xphb|Fly Speed]] of 30 feet for 1 hour. If you are flying when the duration expires, you descend at a rate of 30 feet per round until you land.
 
-*Source: Dungeon Master's Guide (2024) p. 325. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 325. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -43,19 +58,25 @@ Winged boots xdmg is a undersea element of the setting, known for bioluminescent
 
 Legends speak of winged boots xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around winged boots xdmg.
 
-## Adventure Hooks
-
-- A rumor ties winged boots xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at winged boots xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to winged boots xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

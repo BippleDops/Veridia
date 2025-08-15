@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.344876'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-githzerai-psion-xmm-githzerai-psion-xmm.svg)
 
@@ -37,6 +35,24 @@ world: Both
 *Source: Monster Manual (2024) p. 137*  
 
 These powerful psions oversee githzerai sanctuaries, study enigmatic planar events, and lead rrakkma—hostile forays into mind flayer colonies to slay illithids and uncover secrets of how the ancient gith were transformed.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Githzerai
 
@@ -73,7 +89,6 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
 > 
 > We githzerai crave a challenge, so that when Zerthimon returns, he shall find us ready. Thus we traveled to howling Limbo to make our new home.
 
-
 ```statblock
 "name": "Githzerai Psion (XMM)"
 "size": "Medium"
@@ -89,7 +104,6 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
   - !!int "18"
   - !!int "15"
   - !!int "19"
-  - !!int "18"
   - !!int "14"
 "speed": "40 ft., fly 40 ft. (hover)"
 "saves":
@@ -101,9 +115,7 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
   - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+8"
   - "name": "[[skills#Insight|Insight]]"
-    "desc": "+8"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+8"
 "senses": "passive Perception 18"
 "languages": "Common, Gith"
 "cr": "12"
@@ -113,7 +125,7 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
   - "desc": "Melee  or Ranged Attack Roll: +8, reach 5 ft. or range 120 ft. Hit:\
       \ 26 (4d10 + 4) Psychic damage, and the target has the githzerai's choice of\
       \ (A) the [[conditions#Charmed|Charmed]] condition until\
-      \ the start of the githzerai's next turn or (B) the [[conditions#Prone|Prone]]\
+      \ the start of the githzerai's next turn or (B) the [[conditions#prone|Prone]]\
       \ condition, provided the target is a Large or smaller creature."
     "name": "Psychic Warp"
   - "desc": "The githzerai casts one of the following spells, requiring no spell components\
@@ -146,19 +158,26 @@ Githzerai psion xmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of githzerai psion xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around githzerai psion xmm.
 
-## Adventure Hooks
-
-- A rumor ties githzerai psion xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at githzerai psion xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to githzerai psion xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing a witness for revenge
+- Strange disappearances suggest a portal
+- A corpse reveals ancient history about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

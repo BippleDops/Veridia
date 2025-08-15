@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.923859+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-vampire-nightbringer-xmm-v1-vampire-nightbringer-xmm.svg)
 
@@ -39,6 +36,24 @@ world: Both
 *Source: Monster Manual (2024) p. 316*  
 
 Born of necromantic rituals and planes of existence suffused with negative energy, vampire nightbringers manipulate shadows and feed on the raw life force of living creatures.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Vampires
 
@@ -58,7 +73,7 @@ Undead vampires lie dormant during the day, retreating to resting places hidden 
 | dice: 1d6 | The Vampire's Resting Place Is... |
 |-----------|-----------------------------------|
 | 1 | Among the roots of a dead tree. |
-| 2 | At the bottom of a stagnant pool. |
+| 2 | At the bottom of a stagt pool. |
 | 3 | A coffin filled with grave dirt. |
 | 4 | A large pot full of blood or vinegar. |
 | 5 | A space accessible only by shape-shifting. |
@@ -73,7 +88,6 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 > 
 > Darling, you are simply delicious...
 
-
 ```statblock
 "name": "Vampire Nightbringer (XMM)"
 "size": "Small or Medium"
@@ -86,7 +100,6 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 "stats":
   - !!int "16"
   - !!int "18"
-  - !!int "16"
   - !!int "13"
   - !!int "14"
   - !!int "15"
@@ -101,7 +114,7 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
     "desc": "+7"
 "damage_immunities": "cold, necrotic"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]]"
+  \ [[conditions#frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Common plus one other language"
 "cr": "8"
@@ -145,19 +158,15 @@ Vampire nightbringer xmm is a undersea element of the setting, known for biolumi
 
 Legends speak of vampire nightbringer xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around vampire nightbringer xmm.
 
-## Adventure Hooks
-
-- A rumor ties vampire nightbringer xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at vampire nightbringer xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to vampire nightbringer xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

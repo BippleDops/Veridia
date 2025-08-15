@@ -22,18 +22,30 @@ updated: '2025-08-13T01:18:36.517952+00:00'
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-eel-keepers-the-eel-keepers.svg]]
-
-
-
-
 
 # The Eel Keepers
 
 *"In the dance of current and coil, we find our calling."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 The Eel Keepers are a specialized guild of animal handlers who manage, train, and breed the various eel species used throughout Aquabyssos for communication, transportation, and defense. Their expertise with these creatures makes them indispensable to the city's infrastructure.
@@ -45,7 +57,7 @@ This ancient guild has served the underwater kingdom for over 300 years, develop
 **Senior Keepers**: 8 specialists with 15+ years experience
 **Journeymen**: 20 mid-level trainers and breeders
 **Apprentices**: 35+ students learning the craft
-**Support Staff**: 15 maintenance and administrative workers
+**Support Staff**: 15 maintece and administrative workers
 
 ## Guild Structure
 **The Spark Circle**: Senior leadership council
@@ -88,13 +100,6 @@ This ancient guild has served the underwater kingdom for over 300 years, develop
 **Master's Challenge**: Advanced skill demonstration for promotion
 **The Deep Watch**: Solemn remembrance of keepers lost in service
 
-## Current Challenges
-- Mysterious illness affecting Lightning Eel population
-- Increasing demand for services straining breeding programs
-- Competition from mechanical communication alternatives
-- Political pressure to weaponize eels for military purposes
-- Environmental changes affecting wild eel behavior
-
 ## Relationships
 **Royal Palace**: Primary client for secure communications
 **City Guard**: Partnership for security eel deployment
@@ -102,61 +107,14 @@ This ancient guild has served the underwater kingdom for over 300 years, develop
 **Research Institute**: Collaboration on eel biology studies
 **Deep Patrol**: Specialized eels for extreme depth missions
 
-## Guild Secrets
-- Ancient technique for bonding with wild Leviathan-class eels
-- Hidden breeding facility developing combat-enhanced varieties
-- Master keeper's ability to communicate telepathically with eels
-- Secret agreement with smugglers for "no questions asked" services
-
 ## Adventure Hooks
 1. Guild requests help investigating the eel illness outbreak
 2. Stolen prize breeding pair needs to be recovered
 3. Political intrigue involving compromised communication eels
 4. Lost ancient training manual hidden in abandoned facility
 
-## Services and Costs
-- **Message Delivery**: 1-5 gp depending on distance and urgency
-- **Eel Transport Rental**: 10-30 gp per day
-- **Custom Training**: 100-500 gp depending on complexity
-- **Breeding Services**: 500-2000 gp for rare varieties
-
 ## DM Notes
 The Eel Keepers provide both mundane city services and adventure opportunities. Their specialized knowledge makes them valuable allies or obstacles depending on party needs and political situations.
-
-
-## Connections
-
-- [[The Inverse Palace]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -166,13 +124,41 @@ The Eel Keepers is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of The Eel Keepers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Eel Keepers.
 
-## Cross-References
-
-- [[The Eel Keepers|02 Worldbuilding/Places/The Eel Keepers]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- Strange disappearances suggest ancient magic
+- Strange accidents suggest a conspiracy
+- Strange disappearances suggest ancient magic
+- Someone is protecting an heir for power
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

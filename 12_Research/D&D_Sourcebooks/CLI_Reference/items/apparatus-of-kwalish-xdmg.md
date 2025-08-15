@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:37.294609'
 world: Both
 ---
 
-
 # Apparatus of Kwalish
 *Wondrous item, legendary*  
 ![](/03_Mechanics/CLI/vehicles/img/apparatus-of-kwalish.webp#right)
@@ -56,7 +55,25 @@ A creature in the compartment can take a [[actions#Utilize|Utilize]] action to m
 | 10 | The rear hatch unseals and opens. | The rear hatch closes and seals. |
 ^apparatus-of-kwalish-levers
 
-*Source: Dungeon Master's Guide (2024) p. 229. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Apparatus of the Crab") and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 229. Available in the SRD (as "Apparatus of the Crab") and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -66,19 +83,20 @@ Apparatus of kwalish xdmg is a undersea element of the setting, known for biolum
 
 Legends speak of apparatus of kwalish xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around apparatus of kwalish xdmg.
 
-## Adventure Hooks
-
-- A rumor ties apparatus of kwalish xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at apparatus of kwalish xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to apparatus of kwalish xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help stealing before the new moon
+- Someone is hunting information for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

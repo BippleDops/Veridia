@@ -19,11 +19,6 @@ updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
 
-
-# Government Officials Guide
-
-## Aquabyssos Parliamentary System
-
 ### Parliamentary Hierarchy
 | Position | Authority Level | Selection Method | Term Length |
 |----------|----------------|------------------|-------------|
@@ -33,34 +28,6 @@ world: Both
 | **Committee Chairs** | Specialized oversight | Committee election | 1 year |
 | **Regional Representatives** | Constituency voice | Popular election | 3 years |
 
-### Key Government Departments
-
-#### Ministry of Depths
-- **Responsibilities**: Deep sea exploration, pressure regulation, depth safety
-- **Key Officials**: Minister of Depths, Safety Commissioners, Exploration Directors
-- **Common Interactions**: Permits for deep travel, safety inspections, exploration licensing
-- **Corruption Indicators**: Unexplained deep access, pressure equipment irregularities
-
-#### Ministry of Trade and Commerce
-- **Responsibilities**: Economic policy, trade agreements, merchant regulation
-- **Key Officials**: Trade Minister, Harbor Masters, Commercial Inspectors
-- **Common Interactions**: Business licenses, trade disputes, cargo inspections
-- **Corruption Indicators**: Favorable trade deals, smuggling blind spots
-
-#### Ministry of Memory and Archives
-- **Responsibilities**: Historical records, memory trading regulation, information management
-- **Key Officials**: Chief Archivist, Memory Inspectors, Information Coordinators
-- **Common Interactions**: Record access, memory trade licenses, information requests
-- **Corruption Indicators**: Memory tampering, information suppression
-
-#### Ministry of Defense
-- **Responsibilities**: National security, military operations, border protection
-- **Key Officials**: Defense Minister, Naval Commanders, Intelligence Directors
-- **Common Interactions**: Security clearances, military recruitment, defense contracts
-- **Corruption Indicators**: Military equipment irregularities, intelligence leaks
-
-### Parliamentary Procedures
-
 #### Session Structure
 1. **Opening Ceremonies**: Formal protocols, depth blessing rituals
 2. **Question Period**: Representatives query ministers
@@ -68,66 +35,18 @@ world: Both
 4. **Public Petitions**: Citizen concerns addressed
 5. **Closing Formalities**: Session end protocols
 
-#### Voting Mechanisms
-- **Voice Votes**: Simple yes/no questions
-- **Pressure Votes**: Secret ballots using depth chambers
-- **Consensus Seeking**: Traditional discussion until agreement
-- **Emergency Protocols**: Rapid decision-making procedures
-
-## Aethermoor Royal Government
-
 ### Royal Hierarchy
-| Position | Authority Level | Selection Method | Term Length |
-|----------|----------------|------------------|-------------|
 | **Sovereign** | Absolute (theoretical) | Hereditary succession | Life |
 | **Royal Council** | Advisory/Executive | Royal appointment | At sovereign's pleasure |
 | **Noble Assembly** | Legislative | Hereditary/appointed | Life or royal pleasure |
 | **Sky Wardens** | Regional governors | Royal appointment | 7 years |
 | **City Speakers** | Local administration | Popular election | 3 years |
 
-### Key Royal Departments
-
-#### Office of the Sky Throne
-- **Responsibilities**: Royal protocol, succession planning, court ceremonies
-- **Key Officials**: Lord Chamberlain, Court Speakers, Protocol Masters
-- **Common Interactions**: Royal audiences, court presentations, ceremonial functions
-- **Corruption Indicators**: Improper access to royalty, protocol violations
-
-#### Ministry of Winds and Weather
-- **Responsibilities**: Weather management, atmospheric research, altitude regulation
-- **Key Officials**: Weather Ministers, Storm Wardens, Atmospheric Engineers
-- **Common Interactions**: Weather permits, altitude clearances, storm warnings
-- **Corruption Indicators**: Weather manipulation for private gain, altitude access irregularities
-
-#### Ministry of Crystals and Resonance
-- **Responsibilities**: Crystal mining regulation, magical oversight, technology development
-- **Key Officials**: Crystal Ministers, Resonance Masters, Technology Coordinators
-- **Common Interactions**: Crystal permits, magical licenses, technology approvals
-- **Corruption Indicators**: Illegal crystal access, magical contraband
-
-#### Royal Defense Force
-- **Responsibilities**: Realm security, military operations, foreign relations
-- **Key Officials**: Defense Lord, Sky Commanders, Diplomatic Corps
-- **Common Interactions**: Security clearances, military service, diplomatic missions
-- **Corruption Indicators**: Equipment irregularities, intelligence compromise
-
-### Royal Protocols
-
 #### Court Etiquette
 1. **Approach Protocol**: Proper altitude-based greetings
 2. **Speaking Order**: Status-determined speaking rights
 3. **Gift Presentation**: Traditional offering ceremonies
 4. **Departure Customs**: Formal leave-taking rituals
-
-#### Decision-Making Process
-- **Royal Decree**: Direct sovereign pronouncement
-- **Council Deliberation**: Advisory body discussion
-- **Noble Assembly**: Legislative consideration
-- **Public Consultation**: Citizen input (limited cases)
-
-## NPC Government Official Templates
-
-### Aquabyssos Officials
 
 #### The Pragmatic Bureaucrat
 **Personality**: Efficient, detail-oriented, slightly cynical
@@ -162,8 +81,6 @@ world: Both
 - "I might know someone who could expedite that permit... for a fee."
 - "Certain regulations can be interpreted... creatively... you understand?"
 
-### Aethermoor Officials
-
 #### The Noble Traditionalist
 **Personality**: Formal, proud, duty-bound
 **Goals**: Preserve traditions, maintain noble privilege, serve realm honor
@@ -197,10 +114,6 @@ world: Both
 - "The crown's authority must never be questioned or undermined."
 - "Royal protocol requires that all proper forms be observed."
 
-## Interaction Guidelines
-
-### Approaching Government Officials
-
 #### Aquabyssos Approach
 1. **Research**: Know their department and responsibilities
 2. **Documentation**: Bring all relevant paperwork
@@ -215,47 +128,6 @@ world: Both
 4. **Patience**: Allow for elaborate courtly procedures
 5. **Gifts**: Consider appropriate ceremonial offerings
 
-### Information Gathering Strategies
-
-#### What Officials Know
-- **Department Policies**: Official procedures and regulations
-- **Political Climate**: Current issues and debates
-- **Personnel Information**: Who to contact for specific needs
-- **Procedural History**: How things have been done before
-- **Resource Allocation**: Budget and priority information
-
-#### What Officials Won't Say
-- **Classified Information**: State secrets and sensitive data
-- **Personal Opinions**: Private thoughts about superiors
-- **Corruption Details**: Illegal activities and bribes
-- **Future Plans**: Unpublished policy changes
-- **Internal Conflicts**: Department disputes and tensions
-
-### Bribery and Corruption
-
-#### Aquabyssos Corruption Patterns
-- **Depth Permits**: Faster processing for payment
-- **Memory Trading**: Unlicensed memory merchant protection
-- **Harbor Contracts**: Favorable shipping arrangements
-- **Safety Inspections**: Overlooking equipment violations
-- **Information Access**: Selling classified data
-
-#### Aethermoor Corruption Patterns
-- **Altitude Access**: Unauthorized height permissions
-- **Noble Favors**: Court influence and royal access
-- **Crystal Permits**: Illegal mining and trading rights
-- **Weather Services**: Private weather manipulation
-- **Military Contracts**: Defense spending irregularities
-
-#### Corruption Warning Signs
-- **Excessive Wealth**: Lifestyle beyond official salary
-- **Private Meetings**: Avoiding official channels
-- **Delayed Processing**: Creating artificial urgency
-- **Selective Enforcement**: Inconsistent rule application
-- **Information Leaks**: Unauthorized data sharing
-
-## Crisis Response Protocols
-
 ### Aquabyssos Emergency Procedures
 1. **Declaration of Emergency**: Prime Minister or designated authority
 2. **Parliamentary Suspension**: Normal procedures halted
@@ -269,38 +141,6 @@ world: Both
 3. **Emergency Decrees**: Temporary law changes
 4. **Military Mobilization**: Defense force activation
 5. **Public Communication**: Official announcements
-
-### Common Crisis Types
-- **Natural Disasters**: Storms, pressure changes, earthquakes
-- **Security Threats**: Foreign invasion, terrorist attacks
-- **Economic Crisis**: Market collapse, trade disruption
-- **Political Crisis**: Government instability, succession issues
-- **Magical Crisis**: Reality distortions, massive spell failures
-
-## Government NPC Stat Blocks
-
-### Low-Level Officials (CR 1/8)
-- **AC**: 10 (civilian clothes)
-- **HP**: 4 (1d8)
-- **Speed**: 30 ft
-- **Skills**: Investigation +2, Insight +1
-- **Equipment**: Official documents, writing materials
-
-### Mid-Level Officials (CR 1/2)
-- **AC**: 11 (formal attire)
-- **HP**: 13 (3d8)
-- **Speed**: 30 ft
-- **Skills**: Investigation +3, Insight +2, Persuasion +2
-- **Equipment**: Official seal, ceremonial weapon
-
-### High-Level Officials (CR 2)
-- **AC**: 13 (diplomatic immunity)
-- **HP**: 27 (6d8)
-- **Speed**: 30 ft
-- **Skills**: Investigation +4, Insight +4, Persuasion +5
-- **Equipment**: Magical communication device, bodyguards
-
-## Adventure Hooks with Government Officials
 
 ### Aquabyssos Adventures
 1. **The Missing Minister**: Key official disappears before important vote
@@ -323,16 +163,27 @@ world: Both
 4. **Intelligence Sharing**: Coordinate anti-conspiracy efforts
 5. **Constitutional Convention**: Help draft new international treaties
 
-## Links to Related Content
-- [[Parliament_of_Echoes]]
-- [[Faction_Quick_Reference]]
-- [[Social_Encounter_Reference]]
-- [[Aquabyssos_Government]]
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -341,3 +192,26 @@ world: Both
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

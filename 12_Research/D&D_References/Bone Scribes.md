@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.752194+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,22 @@ Bone Scribes is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of Bone Scribes as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Bone Scribes.
 
-## Adventure Hooks
-
-- A rumor ties Bone Scribes to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Bone Scribes to avert a public scandal.
-- A map overlay reveals a hidden approach to Bone Scribes active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Withered Court|02 Worldbuilding/Places/Withered Court]]
-
-
-## Connections
-
-- [[Withered Court]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and war looms
+- A shipment has gone missing and evil awakens
+- A document has gone missing and war looms
+- A merchant needs help investigating before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

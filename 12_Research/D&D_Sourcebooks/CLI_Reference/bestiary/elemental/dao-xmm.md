@@ -29,13 +29,29 @@ updated: '2025-08-12T23:37:35.441650'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dao-xmm-dao-xmm.svg)
 
 # [[dao-xmm|Dao]]
 *Source: Monster Manual (2024) p. 89*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Dao
 
@@ -52,7 +68,6 @@ Many dao call the Elemental Plane of Earth home. There, they create cities that 
 > 
 > On the Elemental Plane of Earth, galaxies of gemstones twinkle over vaults of treasure. If dao are there, so is wealth worth hunting.
 
-
 ```statblock
 "name": "Dao (XMM)"
 "size": "Large"
@@ -67,7 +82,6 @@ Many dao call the Elemental Plane of Earth home. There, they create cities that 
   - !!int "23"
   - !!int "12"
   - !!int "24"
-  - !!int "12"
   - !!int "13"
   - !!int "18"
 "speed": "30 ft., burrow 30 ft., fly 30 ft. (hover)"
@@ -83,7 +97,7 @@ Many dao call the Elemental Plane of Earth home. There, they create cities that 
       \ doing so, the dao doesn't disturb the material it moves through."
     "name": "Earth Glide"
   - "desc": "If the dao dies outside the Elemental Plane of Earth, its body dissolves\
-      \ into dirt, and it gains a new body in d4 days, reviving with all its [[hit-points-xphb|Hit\
+      \ into dirt, and it gains a new body in d4 days, reviving with all its [[hit-points-xphb|Hit\]]
       \ Points]] somewhere on the\
       \ Plane of Earth."
     "name": "Elemental Restoration"
@@ -100,7 +114,7 @@ Many dao call the Elemental Plane of Earth home. There, they create cities that 
   - "desc": "The dao makes three Earthen Maul attacks or two Earth Burst attacks."
     "name": "Multiattack"
   - "desc": "Melee Attack Roll: +10, reach 5 ft. Hit: 20 (4d6 + 6) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Earthen Maul"
   - "desc": "Ranged Attack Roll: +10, range 120 ft. Hit: 15 (2d8 + 6) Bludgeoning\
@@ -136,19 +150,20 @@ Dao xmm is a undersea element of the setting, known for bioluminescent glow and 
 
 Legends speak of dao xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dao xmm.
 
-## Adventure Hooks
-
-- A rumor ties dao xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dao xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to dao xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

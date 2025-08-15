@@ -21,9 +21,8 @@ updated: '2025-08-12T23:37:33.577523'
 world: Both
 ---
 
-
 # Sentient Magic Item Communication
-*Source: Dungeon Master's Guide p. 214. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+*Source: Dungeon Master's Guide p. 214. Available in the SRD* 
 
 **Sentient Magic Item Communication**
 
@@ -36,6 +35,24 @@ world: Both
 | 91-100 | The item can speak, read, and understand one or more languages. In addition, the item can communicate telepathically with any character that carries or wields it. |
 ^sentient-magic-item-communication
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Sentient magic item communication is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -44,19 +61,39 @@ Sentient magic item communication is a undersea element of the setting, known fo
 
 Legends speak of sentient magic item communication as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sentient magic item communication.
 
-## Adventure Hooks
-
-- A rumor ties sentient magic item communication to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at sentient magic item communication to avert a public scandal.
-- A map overlay reveals a hidden approach to sentient magic item communication active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- Strange dreams suggest a portal
+- Someone is searching for information for revenge
+- A corpse reveals ancient history about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

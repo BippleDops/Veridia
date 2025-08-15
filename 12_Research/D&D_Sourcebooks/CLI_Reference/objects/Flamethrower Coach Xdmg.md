@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:05.136414+00:00'
 world: Both
 ---
 
-
-
 # Flamethrower Coach
 %%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide (2024) p. 96*  
@@ -50,6 +48,23 @@ title: Flamethrower Coach
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Actions
 
 ***Flamethrower.*** *Dexterity Saving Throw:* DC 15, each creature in a 60-foot-long, 5-foot-wide [[line-area-of-effect-xphb|Line]]. *Failure:* 14 (4d6) Fire damage, and the creature starts burning. *Success:* Half damage only.
@@ -64,19 +79,16 @@ Flamethrower coach xdmg is a undersea element of the setting, known for biolumin
 
 Legends speak of flamethrower coach xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around flamethrower coach xdmg.
 
-## Adventure Hooks
-
-- A rumor ties flamethrower coach xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at flamethrower coach xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to flamethrower coach xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help investigating before the new moon
+- A stranger needs help delivering before the new moon

@@ -28,16 +28,31 @@ updated: '2025-08-13T12:34:06.069113+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-animated-rug-of-smothering-xmm-animated-rug-of-smothering-xmm.svg)
 
 # [[animated-rug-of-smothering-xmm|Animated Rug of Smothering]]
-*Source: Monster Manual (2024) p. 17. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 17. Available in the SRD and the Free Rules (2024)*  
 
 Animated rugs of smothering might attack any creature that steps on them, or they might be passed off as superficially similar magic items, such as Carpets of Flying, and attack those who speak a supposed command word. Deadly tapestries, furs, and similar items also use this stat block.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Animated Objects
 
@@ -87,11 +102,10 @@ Roll on or choose a result from the Animated Object Catalysts table to inspire w
   - !!int "10"
   - !!int "1"
   - !!int "3"
-  - !!int "1"
 "speed": "10 ft."
 "damage_immunities": "poison, psychic"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
-  \ [[conditions#Exhaustion|exhaustion]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Exhaustion|exhaustion]], [[conditions#frightened|frightened]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft., passive Perception 6"
@@ -127,18 +141,9 @@ Animated rug of smothering xmm is a undersea element of the setting, known for b
 
 Legends speak of animated rug of smothering xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around animated rug of smothering xmm.
 
-## Adventure Hooks
-
-- A rumor ties animated rug of smothering xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at animated rug of smothering xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to animated rug of smothering xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

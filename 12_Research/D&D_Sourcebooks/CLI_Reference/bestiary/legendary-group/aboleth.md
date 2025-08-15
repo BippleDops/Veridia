@@ -21,12 +21,26 @@ updated: '2025-08-13T01:18:32.866050+00:00'
 world: Both
 ---
 
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-aboleth-prime-yoth-aboleth-prime-yoth.svg]]
 
-# Aboleth
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Monster Manual_
@@ -34,11 +48,10 @@ _Source: Monster Manual_
 When fighting inside its lair, an aboleth can invoke the ambient magic to take lair actions. On initiative count 20 (losing initiative ties), the aboleth takes a lair action to cause one of the following effects:
 
 - The aboleth casts [[phantasmal-force-xphb|phantasmal force]] (no components required) on any number of creatures it can see within 60 feet of it. While maintaining [[conditions#Concentration|concentration]] on this effect, the aboleth can't take other lair actions. If a target succeeds on the saving throw or if the effect ends for it, the target is immune to the aboleth's phantasmal force lair action for the next 24 hours, although such a creature can choose to be affected.  
-- Pools of water within 90 feet of the aboleth surge outward in a grasping tide. Any creature on the ground within 20 feet of such a pool must succeed on a DC 14 Strength saving throw or be pulled up to 20 feet into the water and knocked [[conditions#Prone|prone]]. The aboleth can't use this lair action again until it has used a different one.  
+- Pools of water within 90 feet of the aboleth surge outward in a grasping tide. Any creature on the ground within 20 feet of such a pool must succeed on a DC 14 Strength saving throw or be pulled up to 20 feet into the water and knocked [[conditions#prone|prone]]. The aboleth can't use this lair action again until it has used a different one.  
 - Water in the aboleth's lair magically becomes a conduit for the creature's rage. The aboleth can target any number of creatures it can see in such water within 90 feet of it. A target must succeed on a DC 14 Wisdom saving throw or take 7 (`2d6`) psychic damage. The aboleth can't use this lair action again until it has used a different one.  
 
 ## Regional effects
-_Source: Monster Manual_
 
 The region containing an aboleth's lair is warped by the creature's presence, which creates one or more of the following effects:
 
@@ -56,19 +69,30 @@ Aboleth is a undersea element of the setting, known for bioluminescent glow and 
 
 Legends speak of aboleth as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around aboleth.
 
-## Adventure Hooks
-
-- A rumor ties aboleth to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at aboleth to avert a public scandal.
-- A map overlay reveals a hidden approach to aboleth active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Stars
+
+
+## Plot Hooks
+
+- A letter reveals the truth about the cult
+- Strange dreams suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

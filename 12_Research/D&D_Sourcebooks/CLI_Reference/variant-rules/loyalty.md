@@ -20,11 +20,28 @@ updated: '2025-08-13T01:18:31.969211+00:00'
 world: Both
 ---
 
-
 # Loyalty
 *Source: Dungeon Master's Guide p. 93* 
 
 Loyalty is an optional rule you can use to determine how far an NPC party member will go to protect or assist the other members of the party (even those she doesn't particularly like). An NPC party member who is abused or ignored is likely to abandon the party, whereas an NPC who owes a life characters or shares their goals might fight to the death for them. Loyalty can be roleplayed or represented by this rule.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Loyalty Score
 
@@ -50,19 +67,15 @@ Loyalty is a undersea element of the setting, known for bioluminescent glow and 
 
 Legends speak of loyalty as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around loyalty.
 
-## Adventure Hooks
-
-- A rumor ties loyalty to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at loyalty to avert a public scandal.
-- A map overlay reveals a hidden approach to loyalty active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows

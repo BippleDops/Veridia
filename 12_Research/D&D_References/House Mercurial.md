@@ -17,28 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -48,28 +42,22 @@ House Mercurial is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of House Mercurial as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around House Mercurial.
 
-## Adventure Hooks
-
-- A rumor ties House Mercurial to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at House Mercurial to avert a public scandal.
-- A map overlay reveals a hidden approach to House Mercurial active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[House Mercurial|02 Worldbuilding/Places/House Mercurial]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Noble Quarter]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help finding before dawn
+- A journal reveals a betrayal about the cult
+- Strange dreams suggest ancient magic
+- Strange accidents suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

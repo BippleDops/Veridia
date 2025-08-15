@@ -20,30 +20,8 @@ updated: '2025-08-13T12:34:16.728076+00:00'
 world: Both
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-archive-guardian-thomas-archive-guardian-thomas.svg]]
-
-
-## Overview
-
-TODO
-## History
-
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -53,16 +31,6 @@ Archive Guardian Thomas is a undersea element of the setting, known for biolumin
 
 Legends speak of Archive Guardian Thomas as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Archive Guardian Thomas.
 
-## Adventure Hooks
-
-- A rumor ties Archive Guardian Thomas to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Archive Guardian Thomas to avert a public scandal.
-- A map overlay reveals a hidden approach to Archive Guardian Thomas active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -70,42 +38,9 @@ Legends speak of Archive Guardian Thomas as a nexus where past and present conve
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Archive Guardian Thomas]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The Silent Watcher]]
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-traditional-elder-wisdom-keeper-v1-traditional-elder-wisdom-keeper.svg]]
-- [[04_Resources_Assets_Portraits_portrait-npc-archbishop-matthias-lightbringer-archbishop-matthias-lightbringer.svg]]
-- [[04_Resources_Assets_Handouts_handout-handout-temple-prayer-sheet-v1-temple-prayer-sheet.png]]
-
 
 ## Sensory Details
 
@@ -115,7 +50,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: Incense mingles with the scent of exotic spices
 
-
 ## Description
 
 Archive Guardian Thomas is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -123,35 +57,7 @@ Archive Guardian Thomas is a notable location characterized by its unique featur
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Archive Guardian Thomas
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -163,16 +69,3 @@ Ongoing situations affecting Archive Guardian Thomas:
 - External threats
 - Opportunities arising
 
-
-## Secrets & Rumors
-
-### Common Knowledge
-- What everyone knows about Archive Guardian Thomas
-
-### Whispered Rumors
-- Stories that may or may not be true
-
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers

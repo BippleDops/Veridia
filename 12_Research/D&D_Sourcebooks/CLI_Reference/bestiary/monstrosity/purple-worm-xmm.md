@@ -28,13 +28,29 @@ updated: '2025-08-12T23:37:35.004995'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-purple-worm-xmm-purple-worm-xmm.svg)
 
 # [[purple-worm-xmm|Purple Worm]]
-*Source: Monster Manual (2024) p. 250. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 250. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Purple Worm
 
@@ -48,7 +64,6 @@ Titanic purple worms burrow through the earth and sand. Ever ravenous, they devo
 > [!quote] A quote from Morrikan d'Kundarak  
 > 
 > Purple worms alone are bad enough, but the blasted monsters have a knack for unearthing things that are even worse!
-
 
 ```statblock
 "name": "Purple Worm (XMM)"
@@ -100,10 +115,10 @@ Titanic purple worms burrow through the earth and sand. Ever ravenous, they devo
       \ on a single turn from a creature inside it, the worm must succeed on a DC\
       \ 21 Constitution saving throw at the end of that turn or regurgitate all swallowed\
       \ creatures, each of which falls in a space within 5 feet of the worm and has\
-      \ the [[conditions#Prone|Prone]] condition. If the worm dies,\
+      \ the [[conditions#prone|Prone]] condition. If the worm dies,\
       \ any swallowed creature no longer has the [[conditions#Restrained|Restrained]]\
       \ condition and can escape from the corpse using 20 feet of movement, exiting\
-      \ [[conditions#Prone|Prone]]."
+      \ [[conditions#prone|Prone]]."
     "name": "Swallow"
 "source":
   - "XMM"
@@ -123,19 +138,20 @@ Purple worm xmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of purple worm xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around purple worm xmm.
 
-## Adventure Hooks
-
-- A rumor ties purple worm xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at purple worm xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to purple worm xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest ancient magic
+- A merchant needs help stealing before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

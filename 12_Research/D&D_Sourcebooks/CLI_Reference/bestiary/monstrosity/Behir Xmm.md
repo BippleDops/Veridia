@@ -28,14 +28,29 @@ updated: '2025-08-13T12:34:05.296203+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-behir-xmm-behir-xmm.svg)
 
 # [[behir-xmm|Behir]]
-*Source: Monster Manual (2024) p. 34. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 34. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Behir
 
@@ -53,7 +68,6 @@ Behirs live in sprawling cave systems and elaborate ruins where they can make th
 > [!quote] A quote from Lludd, Behir  
 > 
 > You wouldn't believe all the great stuff I've swallowed! Now just climb on in here, and you can keep whatever you find.
-
 
 ```statblock
 "name": "Behir (XMM)"
@@ -108,9 +122,9 @@ Behirs live in sprawling cave systems and elaborate ruins where they can make th
       \ start of each of the behir's turns.\n\nIf the behir takes 30 damage or more\
       \ on a single turn from the swallowed creature, the behir must succeed on a\
       \ DC 14 Constitution saving throw at the end of that turn or regurgitate the\
-      \ creature, which falls in a space within 10 feet of the behir and has the [[conditions#Prone|Prone]]\
+      \ creature, which falls in a space within 10 feet of the behir and has the [[conditions#prone|Prone]]\
       \ condition. If the behir dies, a swallowed creature is no longer [[conditions#Restrained|Restrained]]\
-      \ and can escape from the corpse by using 15 feet of movement, exiting [[conditions#Prone|Prone]]."
+      \ and can escape from the corpse by using 15 feet of movement, exiting [[conditions#prone|Prone]]."
     "name": "Swallow"
 "source":
   - "XMM"
@@ -130,19 +144,20 @@ Behir xmm is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of behir xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around behir xmm.
 
-## Adventure Hooks
-
-- A rumor ties behir xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at behir xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to behir xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

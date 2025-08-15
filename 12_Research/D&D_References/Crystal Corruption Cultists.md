@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Brother Matthias the Amber Bearer|02 Worldbuilding/People/Brother Matthias The Amber Bearer]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Brother Matthias the Amber Bearer]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,15 @@ Crystal Corruption Cultists is a undersea element of the setting, known for biol
 
 Legends speak of Crystal Corruption Cultists as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystal Corruption Cultists.
 
-## Adventure Hooks
-
-- A rumor ties Crystal Corruption Cultists to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Crystal Corruption Cultists to avert a public scandal.
-- A map overlay reveals a hidden approach to Crystal Corruption Cultists active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

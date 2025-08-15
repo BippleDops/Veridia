@@ -1,6 +1,6 @@
 {
   "title": "02_Worldbuilding/Groups/Shadow Harmonists Guild",
-  "prompt": "02 worldbuilding/groups/shadow harmonists guild, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting, shadow",
+  "prompt": "02 worldbuilding/groups/shadow harmonists guild, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
   "negative": "low quality, amateur, blurry",
   "settings": {
     "width": 512,
@@ -8,6 +8,6 @@
     "steps": 20,
     "cfg": 7
   },
-  "generated": "2025-08-14T23:10:08.963Z",
-  "sourceFile": "/02_Worldbuilding/Groups/02_Worldbuilding/Groups/Shadow Harmonists Guild.md"
+  "generated": "2025-08-15T00:22:23.655Z",
+  "sourceFile": "/02_Worldbuilding/Groups/Groups/Shadow Harmonists Guild.md"
 }

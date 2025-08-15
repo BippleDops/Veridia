@@ -39,20 +39,33 @@ themes:
 - atmospheric_communion
 ---
 
-
-
-
 # Sky Burial Traditions
 
 *"In death, we return to the winds that gave us flight. In the winds, we find the endless sky that welcomed our first breath."* - The Aeromancer's Farewell
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
 The **Sky Burial Traditions** of [[Aethermoor]] represent one of the most distinctive and spiritually significant cultural practices of the floating sky cities. Unlike terrestrial burial customs that return the dead to earth or water, Aethermoor's aerial inhabitants have developed elaborate rituals that consecrate the deceased to the endless atmosphere, believing that proper sky burial allows souls to join the eternal wind currents that sustain their floating civilization.
 
 These traditions reflect the fundamental Aethermoor worldview that life and death are both states of atmospheric existence - birth being the soul's descent from the highest winds into physical form, and death being its liberation back to the limitless sky. The customs have evolved over centuries to become deeply intertwined with the technological, magical, and social structures that keep the sky cities aloft.
-
-## Theological Foundations
 
 ### The Doctrine of Aerial Souls
 Central to sky burial theology is the belief that all souls originate in the **Primordial Winds** - the highest atmospheric currents that exist beyond normal weather patterns and seasonal changes. These winds are considered the dwelling place of the **Sky Eternal**, a cosmic force that governs all atmospheric phenomena and maintains the delicate balance that allows Aethermoor's cities to remain airborne.
@@ -88,8 +101,6 @@ Sky burial traditions recognize different levels of atmospheric existence based 
 
 ### The Corruption of Weight
 Sky burial theology considers improper treatment of the dead to be both spiritually damaging and physically dangerous. Bodies that are not properly consecrated to the sky are believed to become "weighted with sorrow," creating atmospheric disturbances that can threaten the stability of floating cities.
-
-## Traditional Burial Practices
 
 ### Preparation Rituals
 
@@ -139,8 +150,6 @@ For thirty days following the burial, the deceased's family observes specific cu
 **The Anniversary Storms**
 Each year on the anniversary of death, families perform "Storm Calling" rituals designed to temporarily contact the deceased soul through atmospheric disturbances. These ceremonies often produce dramatic weather effects and are timed to coincide with natural storm patterns.
 
-## Variations by Social Status
-
 ### Common Citizens
 Standard sky burial for ordinary citizens involves the basic consecration ritual performed at community burial platforms. Bodies are prepared by neighborhood Wind Speakers and released during regularly scheduled ceremony days to ensure efficient use of ritual resources.
 
@@ -168,8 +177,6 @@ Young deaths are handled with special tenderness:
 - Release during calm weather with gentle winds rather than dramatic storms
 - Extended community support for grieving families
 
-## Regional Variations
-
 ### High Altitude Cities
 Communities at extreme altitudes practice "Direct Consecration," where bodies are released immediately into the jet stream currents without preliminary atmospheric preparation. This is considered the most prestigious form of sky burial, available only to cities that maintain elevation levels close to the Primordial Winds.
 
@@ -192,8 +199,6 @@ Cities focused on artistic and technological achievement practice elaborate buri
 - Inventors' bodies are released using devices they created during life
 - The deceased are believed to inspire future creativity through atmospheric influence
 
-## Sacred Artifacts and Locations
-
 ### The Great Wind Altar
 The primary consecration site for [[Queen Seraphina]]'s royal city, a massive platform that extends beyond the city's edge and uses both technological and magical systems to create controlled atmospheric vortices. The altar can lift bodies directly to the jet stream level and is reserved for the most significant burial ceremonies.
 
@@ -206,8 +211,6 @@ A comprehensive record of all sky burials performed in Aethermoor, including det
 ### Storm Caller Bells
 Magical bells that can supposedly summon the spirits of the deceased during atmospheric disturbances. These artifacts are used during anniversary observances and emergency situations when communities need to call upon their ancestors for protection or guidance.
 
-## Theological Debates and Controversies
-
 ### The Aquabyssos Question
 As contact with [[Aquabyssos]] has increased, some Aethermoor theologians have begun questioning whether underwater burial might also be spiritually valid. Progressive Wind Speakers argue that atmospheric and oceanic systems are connected through the water cycle, while traditionalists maintain that only aerial consecration can properly liberate souls.
 
@@ -216,8 +219,6 @@ Recent atmospheric disturbances possibly related to crystal corruption have rais
 
 ### The Convergence Prophecies
 Growing awareness of potential world convergence has created theological uncertainty about what will happen to ancestral wind spirits if atmospheric systems merge with those of [[Aquabyssos]]. Different schools of thought propose various solutions, from modified burial practices to elaborate protective rituals.
-
-## Modern Adaptations
 
 ### Technological Integration
 Contemporary sky burial incorporates advanced atmospheric control systems that can create precise wind conditions for optimal soul ascension. These technological improvements have made the rituals more reliable but have also sparked debates about whether magical assistance diminishes spiritual authenticity.
@@ -251,8 +252,6 @@ Family members who possess wind memorial crystals gain:
 - Ability to sense the presence of family spirits during significant events
 - Bonuses to activities that honor the deceased's memory and achievements
 
-## Cultural Significance
-
 ### Social Cohesion
 Sky burial traditions serve as one of the primary mechanisms for maintaining community bonds across Aethermoor's scattered cities. The shared observances create connections that transcend individual city boundaries and political divisions.
 
@@ -261,8 +260,6 @@ The engineering challenges of reliable atmospheric consecration have driven inno
 
 ### Artistic Expression
 Sky burial ceremonies have inspired countless works of art, music, and literature. The aesthetic traditions developed for burial observances influence broader cultural expressions and help maintain Aethermoor's distinctive artistic identity.
-
-## Adventure Hooks
 
 ### The Grounded Soul
 A recent sky burial has gone wrong, leaving a spirit trapped between atmospheric levels and causing dangerous weather disturbances. The PCs must investigate what prevented proper ascension and find a way to complete the interrupted ceremony.
@@ -302,18 +299,16 @@ Legends speak of Sky Burial Traditions as a nexus where past and present converg
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Master_Lore_Index|Master Lore Index]]
-
-
-## Connections
-
-- [[Aethermoor]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

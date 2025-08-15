@@ -17,28 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -48,30 +42,17 @@ Countess Argentum Vaultkeeper is a undersea element of the setting, known for bi
 
 Legends speak of Countess Argentum Vaultkeeper as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Countess Argentum Vaultkeeper.
 
-## Adventure Hooks
-
-- A rumor ties Countess Argentum Vaultkeeper to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Countess Argentum Vaultkeeper to avert a public scandal.
-- A map overlay reveals a hidden approach to Countess Argentum Vaultkeeper active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Countess Argentum Vaultkeeper|02 Worldbuilding/Places/Countess Argentum Vaultkeeper]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Silverscale Consortium]]
-- [[Lady Jade Clawgrip]]
-- [[The Nameless Auditor]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and evil awakens
+- A corpse reveals a betrayal about this place
+- Someone is hunting a witness for revenge

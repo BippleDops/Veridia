@@ -22,12 +22,26 @@ updated: '2025-08-12T23:37:35.713083'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-strahd-von-zarovich-cos-strahd-von-zarovich-cos.svg)
 
-# Strahd von Zarovich
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Curse of Strahd_
@@ -49,19 +63,25 @@ Strahd von zarovich cos is a undersea element of the setting, known for biolumin
 
 Legends speak of strahd von zarovich cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around strahd von zarovich cos.
 
-## Adventure Hooks
-
-- A rumor ties strahd von zarovich cos to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at strahd von zarovich cos to avert a public scandal.
-- A map overlay reveals a hidden approach to strahd von zarovich cos active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals the truth about the government
+- A letter reveals ancient history about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

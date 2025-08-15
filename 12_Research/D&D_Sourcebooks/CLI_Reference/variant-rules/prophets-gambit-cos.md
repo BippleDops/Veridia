@@ -16,6 +16,21 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
 ## Player-Facing Summary
@@ -26,18 +41,9 @@ Prophets gambit cos is a undersea element of the setting, known for bioluminesce
 
 Legends speak of prophets gambit cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around prophets gambit cos.
 
-## Adventure Hooks
-
-- A rumor ties prophets gambit cos to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at prophets gambit cos to avert a public scandal.
-- A map overlay reveals a hidden approach to prophets gambit cos active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

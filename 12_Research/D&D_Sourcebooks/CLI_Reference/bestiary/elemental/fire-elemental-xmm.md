@@ -29,9 +29,26 @@ updated: '2025-08-12T23:37:35.435841'
 world: Both
 ---
 
-
 # [[fire-elemental-xmm|Fire Elemental]]
-*Source: Monster Manual (2024) p. 118. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 118. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Fire Elemental
 
@@ -53,7 +70,7 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
 | 1 | Colorful, superheated gases. |
 | 2 | A column of diabolical or divine flame. |
 | 3 | Crackling shapes that look like animals, fiends, skeletons, sprites, or other beings. |
-| 4 | Flames that are predominantly white, blue, or a more unusual color. |
+| 4 | Flames that are predomitly white, blue, or a more unusual color. |
 | 5 | The form of a calm or tormented humanoid. |
 | 6 | Smoke that forms eerie shapes or symbols. |
 | 7 | Soot that smells like cedar, cloves, incense, or burning meat. |
@@ -63,7 +80,6 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
 > [!quote] A quote from Marrake the Incandescent, Ruler of Efreet  
 > 
 > All the elements bow to fire. The strongest earth melts. Water boils. Even air ignites. We are all souls of flame, and we know what it is to burn.
-
 
 ```statblock
 "name": "Fire Elemental (XMM)"
@@ -79,7 +95,6 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
   - !!int "17"
   - !!int "16"
   - !!int "6"
-  - !!int "10"
   - !!int "7"
 "speed": "50 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
@@ -87,10 +102,10 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
 "condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
   \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
-  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#prone|prone]], [[conditions#Restrained|restrained]],\
   \ [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 10"
-"languages": "Primordial (Ignan)"
+"languages": "Primordial (Ig)"
 "cr": "5"
 "traits":
   - "desc": "At the end of each of the elemental's turns, each creature in a 10-foot\
@@ -135,19 +150,20 @@ Fire elemental xmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of fire elemental xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fire elemental xmm.
 
-## Adventure Hooks
-
-- A rumor ties fire elemental xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at fire elemental xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to fire elemental xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

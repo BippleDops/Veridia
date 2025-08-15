@@ -1,4 +1,5 @@
 ---
+
 title: Screaming Gardens
 type: Location
 tags:
@@ -20,6 +21,8 @@ population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.721580+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -28,7 +31,63 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-screaming-gardens-screaming-gardens.svg]]
 
 
-# The Screaming Gardens
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
 
 ## Where Every Tree Was Once a Drowning Child
 
@@ -39,8 +98,6 @@ world: Both
 
 The Screaming Gardens sprawl across three square miles of Abyssos Prime's eastern district, a crystallized forest where every tree was formed from the death screams of drowning victims. When the current flows through the crystal branches, they resonate with the final moments of those who died, creating an endless symphony of warning and anguish.
 
-## History
-
 ### The Great Drowning
 
 During the Cataclysm of Tides, thousands of children were at the Meridian Youth Academy when the waters rose. Their screams crystallized in the magical catastrophe, growing into the first trees. Over centuries, more screaming trees have been "planted" as executions, murders, and suicides add to the grove.
@@ -48,10 +105,6 @@ During the Cataclysm of Tides, thousands of children were at the Meridian Youth 
 ### The Conductor's Arrival
 
 Fifty years ago, a musician named Orpheus Deepnote went mad trying to compose a symphony from the screams. He transformed himself into living sound, becoming [[The Conductor]], and now orchestrates the gardens' cacophony into prophetic warnings.
-
-## Geography
-
-### Districts
 
 #### The Songwood Grove
 
@@ -81,11 +134,9 @@ Fifty years ago, a musician named Orpheus Deepnote went mad trying to compose a 
 **Sounds**: Organized into actual prophecies and warnings
 **Danger**: The Conductor's experiments with visitors' screams
 
-## Notable Features
-
 ### The Mother Tree
 
-The largest tree, formed from a pregnant woman who drowned trying to save her children. Sometimes, on quiet nights, you can hear a lullaby that causes uncontrollable weeping.
+The largest tree, formed from a pregt woman who drowned trying to save her children. Sometimes, on quiet nights, you can hear a lullaby that causes uncontrollable weeping.
 
 ### The Harmony Hollow
 
@@ -94,37 +145,6 @@ A depression where screams cancel each other out, creating perfect silence. The 
 ### The Echo Chamber
 
 A crystalline amphitheater where screams bounce eternally, growing louder with each reflection. Entering means hearing every scream that ever was and ever will be.
-
-## Inhabitants
-
-### The Conductor
-
-- **Role**: Self-appointed orchestrator of screams
-- **Abilities**: Can weaponize screams, predict future through scream patterns
-- **Motivation**: Compose the perfect symphony of suffering
-- **Secret**: Is actually three children fused together during transformation
-
-### Scream Thieves
-
-- **Description**: Creatures that steal voices to add to the garden
-- **Method**: Silent until they strike, then victim can only scream
-- **Purpose**: Expanding the garden's collection
-
-### The Mute Gardeners
-
-- **Description**: Volunteers who gave up their voices to tend the gardens
-- **Appearance**: Wrapped in sound-dampening cloth
-- **Communication**: Elaborate sign language
-- **Knowledge**: Which trees hold important warnings
-
-### Memory Parasites
-
-- **Description**: Psychic entities that feed on traumatic memories
-- **Appearance**: Invisible until fed, then take the form of the trauma
-- **Effect**: Drain memories but leave the emotional scars
-- **Reproduction**: Split when fully fed
-
-## Plot Hooks
 
 ### The Missing Verse
 
@@ -141,8 +161,6 @@ One tree screams in reverse, speaking of events that haven't happened yet. Its p
 ### The Garden's Growth
 
 The gardens are expanding faster than new deaths can account for. Trees are appearing that contain screams from people who are still alive, suggesting timeline contamination.
-
-## Encounters
 
 ### Screaming Tree Guardian
 
@@ -166,8 +184,6 @@ The gardens are expanding faster than new deaths can account for. Trees are appe
 - Psychic Scream: 2d4 psychic damage to all within 10 ft
 - Split: At full HP, divides into two parasites
 
-## Environmental Hazards
-
 ### Scream Saturation
 
 **Frequency**: Every 10 minutes of exposure
@@ -175,7 +191,7 @@ The gardens are expanding faster than new deaths can account for. Trees are appe
 **Accumulation**: After 3 failures, permanently sensitive to sound
 **Protection**: Silence spells, wax earplugs (partial)
 
-### Harmonic Resonance
+### Harmonic Resoce
 
 **Trigger**: Speaking above a whisper
 **Effect**: Voice harmonizes with screams, can't stop screaming for 1d4 rounds
@@ -186,8 +202,6 @@ The gardens are expanding faster than new deaths can account for. Trees are appe
 **Location**: Near older trees
 **Effect**: Experience random death memories, WIS save DC 15 or frightened
 **Benefit**: Might gain crucial information from the memories
-
-## Treasures
 
 ### The Conductor's Tuning Fork
 
@@ -210,8 +224,6 @@ The gardens are expanding faster than new deaths can account for. Trees are appe
 **Risk**: May develop independence and turn on user
 **Value**: 1,000 gp to the right buyer
 
-## Services
-
 ### The Conductor's Prophecies
 
 **Cost**: A scream of genuine emotion
@@ -226,21 +238,9 @@ The gardens are expanding faster than new deaths can account for. Trees are appe
 **Benefit**: Know which trees to avoid
 **Limitation**: Cannot protect from The Conductor
 
-## Connections
-
 ### To Aethermoor
 
 The gardens exist partially in [[Port Meridian]], where sensitive individuals hear children singing/screaming near the old academy ruins. During crystal plague outbreaks, new trees appear in both locations simultaneously.
-
-### To Other Districts
-
-- **Parliament of Echoes**: Executions performed here end in the gardens
-- **Memory Meadows**: Memory parasites migrate between locations
-- **Reflection Pools**: Sometimes reflect the gardens' victims before transformation
-
-
-
-## Map Notes
 
 ### Key Locations
 1. Main entrance/approach
@@ -248,32 +248,6 @@ The gardens exist partially in [[Port Meridian]], where sensitive individuals he
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
-
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
-## DM Notes
-
-### Atmosphere
-
-- Constant sound - never complete silence except in Harmony Hollow
-- Crystal trees tinkle like wind chimes between screams
-- Light refracts through crystal creating rainbow patterns over horror
-- Smell of salt and terror-sweat
-
-### Roleplay Tips
-
-- The Conductor speaks in musical terms only
-- Mute Gardeners use exaggerated gestures
-- Trees "recognize" people who remind them of their lives
-- Children's trees are the most active and aggressive
 
 ### Horror Elements
 
@@ -283,7 +257,6 @@ The gardens exist partially in [[Port Meridian]], where sensitive individuals he
 - The compulsion to add your own scream to the symphony
 
 > *"Every scream tells a story. Every story ends the same. But oh, what music they make together!"*
-> — The Conductor
 
 ---
 
@@ -311,35 +284,6 @@ Screaming Gardens is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Screaming Gardens as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Screaming Gardens.
 
-## Adventure Hooks
-
-- A rumor ties Screaming Gardens to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Screaming Gardens to avert a public scandal.
-- A map overlay reveals a hidden approach to Screaming Gardens active only during specific tides/storms.
-
-## Cross-References
-
-- [[Screaming Gardens]]
-
-<!-- enriched: true -->
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
-- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-temple-of-echoing-tides-v1-temple-of-echoing-tides.svg]]
-- [[04_Resources_Assets_Locations_location-city-portal-technician-voidwalk-v1-portal-technician-voidwalk.svg]]
-- [[04_Resources_Assets_Locations_location-city-port-meridian-v1-port-meridian.svg]]
-
-
 ## Sensory Details
 
 **Sights**: Shadows dance across weathered stone walls
@@ -348,7 +292,6 @@ Legends speak of Screaming Gardens as a nexus where past and present converge. L
 
 **Smells**: Wood smoke curls from countless chimneys
 
-
 ## Description
 
 Screaming Gardens is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -356,8 +299,7 @@ Screaming Gardens is a notable location characterized by its unique features and
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -370,15 +312,41 @@ Ongoing situations affecting Screaming Gardens:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Screaming Gardens
+## Plot Hooks
 
-### Whispered Rumors
-- Stories that may or may not be true
+- A document has gone missing and truth emerges
+- Strange disappearances suggest a curse
+- A corpse reveals a conspiracy about a local noble
+- A map reveals a betrayal about the cult
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

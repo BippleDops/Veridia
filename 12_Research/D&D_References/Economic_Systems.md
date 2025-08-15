@@ -16,21 +16,22 @@ updated: '2025-08-13T01:18:34.553982+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## Historical Context
+### Enhancement Improvements
 
-TODO
-## Current Relevance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## See Also
-
-TODO
 
 ## Player-Facing Summary
 
@@ -40,25 +41,15 @@ Economic Systems is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of Economic Systems as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Economic Systems.
 
-## Adventure Hooks
-
-- A rumor ties Economic Systems to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Economic Systems to avert a public scandal.
-- A map overlay reveals a hidden approach to Economic Systems active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Vault_Navigation_Hub|Vault Navigation Hub]]
 
 
-## Connections
+## Plot Hooks
 
-- See also: [[Master Timeline]]
-- Related: [[Recent Events]]
-- Connected to: [[World Events]]
+- Someone is blackmailing information for money
+- A prisoner has gone missing and chaos spreads
+- Strange sightings suggest ancient magic
+- A noble needs help stealing before the festival

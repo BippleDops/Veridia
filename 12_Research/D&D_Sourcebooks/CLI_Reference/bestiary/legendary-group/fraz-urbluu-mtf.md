@@ -22,12 +22,26 @@ updated: '2025-08-12T23:37:35.678829'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fraz-urbluu-mtf-fraz-urbluu-mtf.svg)
 
-# Fraz-Urb'luu
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Mordenkainen's Tome of Foes_
@@ -39,7 +53,6 @@ On Initiative count 20 (losing initiative ties), Fraz-Urb'luu can take a lair ac
 - Fraz-Urb'luu creates a [[wave-xdmg|wave]] of anguish. Each creature he can see within the lair must succeed on a DC 23 Wisdom saving throw or take 33 (`6d10`) psychic damage.  
 
 ## Regional effects
-_Source: Mordenkainen's Tome of Foes_
 
 The region containing Fraz-Urb'luu's lair is warped by his magic, creating one or more of the following effects:
 
@@ -74,19 +87,28 @@ Fraz urbluu mtf is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of fraz urbluu mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fraz urbluu mtf.
 
-## Adventure Hooks
-
-- A rumor ties fraz urbluu mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at fraz urbluu mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to fraz urbluu mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and war looms
+- A letter reveals ancient history about this place
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

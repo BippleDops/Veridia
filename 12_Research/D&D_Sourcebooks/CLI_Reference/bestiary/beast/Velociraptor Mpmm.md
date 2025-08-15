@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.410497+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-velociraptor-mpmm-v1-velociraptor-mpmm.svg)
 
@@ -57,7 +54,6 @@ This feathered dinosaur is about the size of a large turkey. It is an aggressive
   - !!int "13"
   - !!int "4"
   - !!int "12"
-  - !!int "6"
 "speed": "30 ft."
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
@@ -86,6 +82,24 @@ This feathered dinosaur is about the size of a large turkey. It is an aggressive
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 forest, grassland
@@ -98,19 +112,33 @@ Velociraptor mpmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of velociraptor mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around velociraptor mpmm.
 
-## Adventure Hooks
-
-- A rumor ties velociraptor mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at velociraptor mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to velociraptor mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

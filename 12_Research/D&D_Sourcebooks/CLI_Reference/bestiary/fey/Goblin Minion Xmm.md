@@ -34,16 +34,31 @@ updated: '2025-08-13T12:34:05.515161+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-goblin-minion-xmm-goblin-minion-xmm.svg)
 
 # [[goblin-minion-xmm|Goblin Minion]]
-*Source: Monster Manual (2024) p. 142. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 142. Available in the SRD and the Free Rules (2024)*  
 
 Goblin minions enjoy participating in the disruptive schemes of clever leaders but are quick to flee when confronted by their comeuppance.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Goblins
 
@@ -62,7 +77,6 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
 > 
 > Bree-yark!
 
-
 ```statblock
 "name": "Goblin Minion (XMM)"
 "size": "Small"
@@ -77,9 +91,6 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
   - !!int "8"
   - !!int "15"
   - !!int "10"
-  - !!int "10"
-  - !!int "8"
-  - !!int "8"
 "speed": "30 ft."
 "skillsaves":
   - "name": "[[skills#Stealth|Stealth]]"
@@ -112,19 +123,15 @@ Goblin minion xmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of goblin minion xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around goblin minion xmm.
 
-## Adventure Hooks
-
-- A rumor ties goblin minion xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at goblin minion xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to goblin minion xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

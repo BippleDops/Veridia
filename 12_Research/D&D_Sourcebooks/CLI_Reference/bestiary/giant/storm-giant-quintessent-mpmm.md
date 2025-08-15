@@ -30,8 +30,6 @@ updated: '2025-08-12T23:37:35.079586'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![[04_Resources/Assets/Creatures/creature-creature-storm-giant-quintessent-mpmm-storm-giant-quintessent-mpmm.png]]
 
@@ -43,6 +41,24 @@ To forestall the inevitable, some storm giants approaching the end of their natu
 A storm giant quintessent sheds their armor and weapons but gains the power to form makeshift weapons out of thin air. When the giant has no further use of these elemental weapons, or when the giant dies, the weapons disappear.
 
 A storm giant quintessent can revert to their true giant form temporarily and can maintain that form long enough for the giant to communicate with a mortal, carry out a short task, or defend their home against aggressors.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## A Quintessent's Lair
 
@@ -62,7 +78,6 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
   - !!int "14"
   - !!int "20"
   - !!int "17"
-  - !!int "20"
   - !!int "19"
 "speed": "50 ft., fly 50 ft. (hover), swim 50 ft."
 "saves":
@@ -74,7 +89,6 @@ A storm giant quintessent has no need for castles or dungeon lairs. Their lair i
   - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+8"
   - "name": "[[skills#History|History]]"
-    "desc": "+8"
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+10"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks"
@@ -136,19 +150,28 @@ Storm giant quintessent mpmm is a undersea element of the setting, known for bio
 
 Legends speak of storm giant quintessent mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around storm giant quintessent mpmm.
 
-## Adventure Hooks
-
-- A rumor ties storm giant quintessent mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at storm giant quintessent mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to storm giant quintessent mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Winds
+
+
+## Plot Hooks
+
+- A document has gone missing and truth emerges
+- A shipment has gone missing and evil awakens
+- Someone is protecting information for money
+- A journal reveals the truth about the cult

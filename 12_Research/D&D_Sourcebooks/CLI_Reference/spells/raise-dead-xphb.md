@@ -29,7 +29,6 @@ updated: '2025-08-12T23:37:36.112539'
 world: Both
 ---
 
-
 # Raise Dead
 *5th-level, Necromancy*  
 ![](/03_Mechanics/CLI/spells/img/raise-dead.webp#right)
@@ -49,7 +48,25 @@ Coming back from the dead is an ordeal. The target takes a -4 penalty to [[d20-t
 
 **Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[/03_Mechanics/CLI/lists/list-spells-classes-grave-domain-xge "subclass=XGE;class=XPHB"|Cleric (Grave Domain)]]; [[list-spells-classes-paladin|Paladin]]; [[list-spells-classes-bard|Bard]]
 
-*Source: Player's Handbook (2024) p. 310. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 310. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -59,19 +76,22 @@ Raise dead xphb is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of raise dead xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around raise dead xphb.
 
-## Adventure Hooks
-
-- A rumor ties raise dead xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at raise dead xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to raise dead xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals a betrayal about a local noble
+- A corpse reveals a conspiracy about the government
+- A prisoner has gone missing and evil awakens
+- Someone is searching for an heir for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

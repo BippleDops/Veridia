@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:05.554510+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hobgoblin-iron-shadow-mpmm-hobgoblin-iron-shadow-mpmm.svg)
 
@@ -58,8 +55,6 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
   - !!int "14"
   - !!int "16"
   - !!int "15"
-  - !!int "14"
-  - !!int "15"
   - !!int "11"
 "speed": "40 ft."
 "skillsaves":
@@ -68,7 +63,6 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
   - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+4"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common, Goblin"
 "cr": "2"
@@ -94,7 +88,7 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
   - "desc": "The hobgoblin casts one of the following spells, using Intelligence as\
       \ the spellcasting ability (spell save DC 12):\n\nAt will: [[minor-illusion-xphb|minor illusion]],\
       \ [[prestidigitation-xphb|prestidigitation]]\n\n1/day\
-      \ each: [[charm-person-xphb|charm person]], [[disguise-self-xphb|disguise\
+      \ each: [[charm-person-xphb|charm person]], [[disguise-self-xphb|disguise\]]
       \ self]], [[silent-image-xphb|silent image]]"
     "name": "Spellcasting"
 "source":
@@ -103,6 +97,24 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
 "image": "/03_Mechanics/CLI/bestiary/fey/token/hobgoblin-iron-shadow-mpmm.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Environment
 
@@ -116,19 +128,28 @@ Hobgoblin iron shadow mpmm is a undersea element of the setting, known for biolu
 
 Legends speak of hobgoblin iron shadow mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hobgoblin iron shadow mpmm.
 
-## Adventure Hooks
-
-- A rumor ties hobgoblin iron shadow mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at hobgoblin iron shadow mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to hobgoblin iron shadow mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

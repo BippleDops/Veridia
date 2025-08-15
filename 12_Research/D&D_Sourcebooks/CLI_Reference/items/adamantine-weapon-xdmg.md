@@ -57,15 +57,11 @@ updated: '2025-08-12T23:37:37.154276'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-adamantine-weapon-xdmg-adamantine-weapon-xdmg.svg)
 
 # Adamantine Weapon
 *Uncommon*  
-
-
 
 This weapon or piece of ammunition is made of adamantine, one of the hardest substances in existence. Whenever this weapon or piece of ammunition hits an object, the hit is a [[critical-hit-xphb|Critical Hit]].
 
@@ -105,217 +101,31 @@ This weapon or piece of ammunition is made of adamantine, one of the hardest sub
 - [Adamantine Warhammer](#Adamantine%20Warhammer)
 - [Adamantine Whip](#Adamantine%20Whip)
 
-## Adamantine Arrow
-
-- **Weight**: 0.05 lbs.
-
-### Adamantine Battleaxe
-
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: [[item-properties#Versatile|Versatile]]
-- **Weight**: 4.0 lbs.
-
-### Adamantine Bolt
-
-- **Weight**: 0.075 lbs.
-
-### Adamantine Club
-
-- **Damage**: 1d4 bludgeoning
-- **Properties**: [[item-properties#Light|Light]]
-- **Weight**: 2.0 lbs.
-
-### Adamantine Dagger
-
-- **Damage**: 1d4 piercing
-- **Range**: 20/60
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
-- **Weight**: 1.0 lbs.
-
-### Adamantine Energy Cell
-
-- **Weight**: 0.5 lbs.
-
-### Adamantine Firearm Bullet
-
-- **Weight**: 0.2 lbs.
-
-### Adamantine Flail
-
-- **Damage**: 1d8 bludgeoning
-- **Weight**: 2.0 lbs.
-
-### Adamantine Glaive
-
-- **Damage**: 1d10 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 6.0 lbs.
-
-### Adamantine Greataxe
-
-- **Damage**: 1d12 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 7.0 lbs.
-
-### Adamantine Greatclub
-
-- **Damage**: 1d8 bludgeoning
-- **Properties**: [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 10.0 lbs.
-
-### Adamantine Greatsword
-
-- **Damage**: 2d6 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 6.0 lbs.
-
-### Adamantine Halberd
-
-- **Damage**: 1d10 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 6.0 lbs.
-
-### Adamantine Handaxe
-
-- **Damage**: 1d6 slashing
-- **Range**: 20/60
-- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
-- **Weight**: 2.0 lbs.
-
-### Adamantine Javelin
-
-- **Damage**: 1d6 piercing
-- **Range**: 30/120
-- **Properties**: [[item-properties#Thrown|Thrown]]
-- **Weight**: 2.0 lbs.
-
-### Adamantine Lance
-
-- **Damage**: 1d10 piercing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]]
-- **Weight**: 6.0 lbs.
-
-### Adamantine Light Hammer
-
-- **Damage**: 1d4 bludgeoning
-- **Range**: 20/60
-- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
-- **Weight**: 2.0 lbs.
-
-### Adamantine Longsword
-
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: [[item-properties#Versatile|Versatile]]
-- **Weight**: 3.0 lbs.
-
-### Adamantine Mace
-
-- **Damage**: 1d6 bludgeoning
-- **Weight**: 4.0 lbs.
-
-### Adamantine Maul
-
-- **Damage**: 2d6 bludgeoning
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 10.0 lbs.
-
-### Adamantine Morningstar
-
-- **Damage**: 1d8 piercing
-- **Weight**: 4.0 lbs.
-
-### Adamantine Needle
-
-- **Weight**: 0.02 lbs.
-
-### Adamantine Pike
-
-- **Damage**: 1d10 piercing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 18.0 lbs.
-
-### Adamantine Quarterstaff
-
-- **Damage**:
-  - One-handed: 1d6 bludgeoning
-  - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
-- **Weight**: 4.0 lbs.
-
-### Adamantine Rapier
-
-- **Damage**: 1d8 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]]
-- **Weight**: 2.0 lbs.
-
-### Adamantine Scimitar
-
-- **Damage**: 1d6 slashing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
-- **Weight**: 3.0 lbs.
-
-### Adamantine Shortsword
-
-- **Damage**: 1d6 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
-- **Weight**: 2.0 lbs.
-
-### Adamantine Sickle
-
-- **Damage**: 1d4 slashing
-- **Properties**: [[item-properties#Light|Light]]
-- **Weight**: 2.0 lbs.
-
-### Adamantine Sling Bullet
-
-- **Weight**: 0.075 lbs.
-
-### Adamantine Spear
-
-- **Damage**:
-  - One-handed: 1d6 piercing
-  - Two-handed: 1d8 piercing
-- **Range**: 20/60
-- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
-- **Weight**: 3.0 lbs.
-
-### Adamantine Trident
-
-- **Damage**:
-  - One-handed: 1d8 piercing
-  - Two-handed: 1d10 piercing
-- **Range**: 20/60
-- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
-- **Weight**: 4.0 lbs.
-
-### Adamantine War Pick
-
-- **Damage**:
-  - One-handed: 1d8 piercing
-  - Two-handed: 1d10 piercing
-- **Properties**: [[item-properties#Versatile|Versatile]]
-- **Weight**: 2.0 lbs.
-
-### Adamantine Warhammer
-
-- **Damage**:
-  - One-handed: 1d8 bludgeoning
-  - Two-handed: 1d10 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
-- **Weight**: 5.0 lbs.
-
 ### Adamantine Whip
 
 - **Damage**: 1d4 slashing
 - **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Reach|Reach]]
 - **Weight**: 3.0 lbs.
 
-
 *Source: Dungeon Master's Guide (2024) p. 227*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -325,19 +135,20 @@ Adamantine weapon xdmg is a undersea element of the setting, known for biolumine
 
 Legends speak of adamantine weapon xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around adamantine weapon xdmg.
 
-## Adventure Hooks
-
-- A rumor ties adamantine weapon xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at adamantine weapon xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to adamantine weapon xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

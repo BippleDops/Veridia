@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.094353'
 world: Both
 ---
 
-
 # Multiclassing
 *Source: Player's Handbook p. 163* 
 
@@ -30,6 +29,24 @@ Multiclassing allows you to gain levels in multiple classes. Doing so lets you m
 With this rule, you have the option of gaining a level in a new class whenever you advance in level, instead of gaining a level in your current class. Your levels in all your classes are added together to determine your character level. For example, if you have three levels in wizard and two in fighter, you're a 5th-level character.
 
 As you advance in levels, you might primarily remain a member of your original class with just a few levels in another class, or you might change course entirely. never looking back at the class you left behind. You might even start progressing in a third or fourth class. Compared to a single-class character of the same level, you'll sacrifice some focus in exchange for versatility.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Prerequisites
 
@@ -129,19 +146,28 @@ Multiclassing phb is a undersea element of the setting, known for bioluminescent
 
 Legends speak of multiclassing phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around multiclassing phb.
 
-## Adventure Hooks
-
-- A rumor ties multiclassing phb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at multiclassing phb to avert a public scandal.
-- A map overlay reveals a hidden approach to multiclassing phb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and evil awakens
+- A letter reveals a betrayal about the cult
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

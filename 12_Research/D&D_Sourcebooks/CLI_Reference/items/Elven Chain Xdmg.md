@@ -26,12 +26,9 @@ updated: '2025-08-13T12:34:07.508813+00:00'
 world: Both
 ---
 
-
-
 # Elven Chain
 *Rare*  
 ![](/03_Mechanics/CLI/items/img/elven-chain.webp#right)
-
 
 You gain a +1 bonus to [[armor-class-xphb|Armor Class]] while you wear this armor. You are considered trained with this armor even if you lack training with Medium or Heavy armor.
 
@@ -39,20 +36,30 @@ You gain a +1 bonus to [[armor-class-xphb|Armor Class]] while you wear this armo
 - [Elven Chain Mail](#Elven%20Chain%20Mail)
 - [Elven Chain Shirt](#Elven%20Chain%20Shirt)
 
-## Elven Chain Mail
-
-- **Armor Class**: 16
-- **Strength**: Requires 13 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 55.0 lbs.
-
 ### Elven Chain Shirt
 
 - **Armor Class**: 13 + Dex modifier (max of +2)
 - **Weight**: 20.0 lbs.
 
+*Source: Dungeon Master's Guide (2024) p. 257. Available in the SRD and the Free Rules (2024)*
 
-*Source: Dungeon Master's Guide (2024) p. 257. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -62,19 +69,31 @@ Elven chain xdmg is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of elven chain xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elven chain xdmg.
 
-## Adventure Hooks
-
-- A rumor ties elven chain xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at elven chain xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to elven chain xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Stars
+
+
+## Plot Hooks
+
+- The authorities needs help investigating before the festival
+- A prisoner has gone missing and evil awakens
+- Someone is blackmailing information for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

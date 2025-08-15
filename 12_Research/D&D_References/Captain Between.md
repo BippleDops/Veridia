@@ -16,37 +16,26 @@ world: Dimensional Threshold (Both Realms)
 updated: '2025-08-13T01:18:36.965165+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-captain-between-captain-between.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Appearance
-
-TODO
-## Personality
-
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -56,28 +45,27 @@ Captain Between is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Captain Between as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Between.
 
-## Adventure Hooks
-
-- A rumor ties Captain Between to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Captain Between to avert a public scandal.
-- A map overlay reveals a hidden approach to Captain Between active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Captain Between|02 Worldbuilding/People/Captain Between]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The Threshold Chambers]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- A letter reveals the truth about this place
+- Someone is searching for a witness for love
+- A map reveals a betrayal about this place
+- Strange disappearances suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

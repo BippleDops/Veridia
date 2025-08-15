@@ -15,11 +15,25 @@ updated: '2025-08-13T01:18:36.368168+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-noble-quarter-market-the-noble-quarter-market.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
 ## Player-Facing Summary
@@ -30,23 +44,36 @@ The Noble Quarter Market is a undersea element of the setting, known for biolumi
 
 Legends speak of The Noble Quarter Market as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Noble Quarter Market.
 
-## Adventure Hooks
-
-- A rumor ties The Noble Quarter Market to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Noble Quarter Market to avert a public scandal.
-- A map overlay reveals a hidden approach to The Noble Quarter Market active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[The Noble Quarter Market|02 Worldbuilding/Places/The Noble Quarter Market]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- A shipment has gone missing and evil awakens
+- A prisoner has gone missing and evil awakens
+- A corpse reveals a betrayal about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

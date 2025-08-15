@@ -21,13 +21,30 @@ updated: '2025-08-12T23:37:34.649890'
 world: Both
 ---
 
-
 # Chapter 16: The Fetid Wedding
 *Source: Out of the Abyss, p. 208* 
 
 Zuggtmoy, Demon Queen of Fungi, plots to "wed" Araumycos, an enormous fungus occupying a large area of the Underdark. After uniting their powers in an unholy mockery of matrimony—in truth, a demonic rite of domination—Zuggtmoy will gain the power to transform the whole of the Underdark into her new Abyssal domain. The only things in her way are a core of resistance in the myconid community, the rage of her rival Juiblex, and the determination of the adventurers.
 
 The characters receive a warning about Zuggtmoy's plans from Basidia, one of the myconid sovereigns of Neverlight Grove. After traveling to the caverns of Araumycos, they reach out to Araumycos's alien mind with the aid of Basidia's rapport spores, and try to free it from Zuggtmoy's demonic influence. Juiblex seizes the opportunity to crash the wedding, and the two demon lords do battle. When the characters sever Zuggtmoy's link with Araumycos, Juiblex destroys her material form, leaving the adventurers to face the remaining (and weakened) demon lord in battle.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Wedding Invitation
 
@@ -40,7 +57,6 @@ Basidia's vision can come at any point, whether the characters are asleep or awa
 > [!readaloud] 
 > 
 > A soft, glowing light rises from ahead, emanating from a vast cavern. The entire surface of the cave—floor, walls, and ceiling—is blanketed in moss and fungi, all in shades of white and soft pastels of pink, violet, green, and pale blue. The diffuse light the mushrooms shed makes the vista waver as if seen through mist.
-> 
 > "Araumycos," a voice says in your mind. You turn and see a myconid sovereign standing beside you where there was no one before, recognizing Basidia of Neverlight Grove. "The largest and greatest being of our world," the myconid says sadly. "All that you see before you is Araumycos; all this and much more. All is in danger from the corruption that will claim the whole of the world if you do not help us."
 ^577
 
@@ -71,11 +87,8 @@ The fungi of the Underdark aren't the only ones on the move. Juiblex the Faceles
 With both forces on the move, outbreaks of violence between oozes and fungi become more common, although the followers of Zuggtmoy outnumber the Faceless Lord's creatures.
 
 > [!note] Araumycos: General Features
-> 
 > The domain of Araumycos is a bizarre fungal realm in the heart of the Underdark.
-> 
 > **Light.** Araumycos's tunnels and caverns are dimly lit by phosphorescent fungi.
-> 
 > **Terrain.** Fungal life fills the caverns and passageways in the region, with visitors literally walking upon and within Araumycos upon entering its domain. The floor is carpeted with thick mold and fungus, creating patches of difficult terrain throughout. In some tunnels and caves, fungi growths obstruct passage. Characters either have to climb or hack their way through the fungal growth. In other places, the fungus covering the floor is soft enough that characters can sink into it with no warning. Use the quicksand rules in chapter 5, ""Adventure Environments"," of the *Dungeon Master's Guide* for such areas. Creatures that fail to escape become food for Araumycos.
 ^araumycos-general-features
 
@@ -106,16 +119,11 @@ Once the characters enter Araumycos's territory, use the Araumycos Encounters ta
 
 #### Araumycos Encounters
 
-`dice: [](16-chapter-16-the-fetid-wedding.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1–5 | No encounter |
 | 6–10 | Fungi |
 | 11–14 | Mold pit |
 | 15–17 | Myconid parade |
 | 18–20 | Oozes |
-^encounter
 
 #### Death Tyrant
 
@@ -198,7 +206,6 @@ The characters encounter one or more oozes. Roll a `d4` and consult the Oozes ta
 `dice: [](16-chapter-16-the-fetid-wedding.md#^oozes)`
 
 | dice: d4 | Oozes |
-|----------|-------|
 | 1 | 1 [[black-pudding-xmm|black pudding]] and `d6` [[gray-ooze-xmm|gray oozes]] |
 | 2 | 1 [[ochre-jelly-xmm|ochre jellies]] |
 | 3 | `3d6` [[black-pudding-xmm|black puddings]] |
@@ -227,8 +234,6 @@ Once the characters have entered rapport, they must seek out Araumycos's sleepin
 
 Once Basidia has explained the plan to the characters, read the following boxed text aloud to the players.
 
-> [!readaloud] 
-> 
 > Even as the myconid sovereign's thoughts fill your mind, you become aware of a faint hissing and fizzing sound. The fungus around you dissolves to a formless goo as something moves in the undergrowth to surround you!
 ^58f
 
@@ -237,7 +242,6 @@ A pair of [[regenerating-black-pudding-oota|regenerating black puddings]], spies
 Empowered by Juiblex, these [[regenerating-black-pudding-oota|regenerating black puddings]] have an Intelligence of 6 (−2) and the following feature, which increases each pudding's challenge rating to 5 (1,800 XP).
 
 > [!note] 
-> 
 > **Regeneration.** The pudding regains 10 hit points at the start of its turn. If the pudding takes fire damage, this trait doesn't function at the start of the pudding's next turn. The pudding dies only if it starts its turn with 0 hit points and doesn't regenerate.
 ^590
 
@@ -245,8 +249,6 @@ Empowered by Juiblex, these [[regenerating-black-pudding-oota|regenerating black
 
 Once the characters receive Basidia's spores and overcome Juiblex's black pudding spies, they should set out at once for the depths of Araumycos as the rapport takes hold. Unfortunately, they have no means of assuring the slumbering fungal entity of their intentions, and the growing threat posed by Zuggtmoy and the demon lords has roused Araumycos's defenses.
 
-> [!readaloud] 
-> 
 > The pastel colors of fungi transform the caverns you pass through into softly glowing meadows. The floor is spongy, and the myconid spores are making you start to feel drowsy—at least, you hope that's what's behind this strange sensation. Then you feel the ground beneath you shift as something moves—a number of a thick, spiky tendrils bursting from the ground.
 ^593
 
@@ -254,8 +256,6 @@ Two fungal creatures resembling [[otyugh-xmm|otyughs]] rise up and attack the ch
 
 Read the following to the players when the final creature is defeated.
 
-> [!readaloud] 
-> 
 > The creature bursts like an overfull wineskin, releasing a clear ichor and a cloud of dusty spores. The deflating bulk of its body sinks back beneath the shimmering fungal field where you stand. Your vision starts to swim, and you feel dizzy and faint. Your limbs are numb and your legs no longer support you.
 ^594
 
@@ -265,17 +265,12 @@ A successful DC 13 Intelligence ([[skills#Arcana|Arcana]] or [[skills#Nature|Nat
 
 The rapport with Araumycos affects the adventurers like an [[astral-projection-xphb|astral projection]] spell, sending their astral bodies out into the Astral Plane where Araumycos's vast, dreaming mind resides. Their bodies remain [[conditions#Unconscious|unconscious]] in suspended animation while they are projected into the Astral Plane. Read the following aloud to the players.
 
-> [!readaloud] 
-> 
 > You are floating, weightless, adrift. A gray, silvery light spreads around you like the dawn of a cloudy day, illuminating a peculiar realm. All of you are floating in a silvery haze that shimmers with swirls of color. Objects drift past in the distance, but whether they are small stones or rocks the size of mountains, you can't say for certain. Your moment of reverie is broken by the sound of Basidia's voice in your mind. "It begins."
 ^596
 
 The adventurers, now psychically linked with both the myconid sovereign and Araumycos, are aware of the demon queen and her minions performing Zuggtmoy's demonic ritual.
 
-> [!readaloud] 
-> 
 > Through your link with Basidia, you sense that Zuggtmoy's wedding ceremony has begun. Receiving the myconid's impressions, you become aware of a huge crowd of fungal creatures and spore servants—hundreds, perhaps thousands of them—watching as a grotesque procession makes its way through them. Myconids of all sizes caper madly before a troupe of giant animated mushrooms, bearing a mossy litter upon which sits the Demon Queen of Fungi in all her terrible splendor.
-> 
 > Zuggtmoy is draped and veiled in molds and fruiting mushrooms woven into a grotesque gown. Vaguely humanoid figures set with clusters of luminescent lichen and tumescent fungal growths follow her like bridesmaids, carrying a veil and train of lacy mycelia. Stepping off the litter as her followers set it down, the Demon Queen of Fungi rises to tower above all the creatures around her. "My betrothed," she intones, the meaning of her words clear within the vision. "I am here at last."
 ^597
 
@@ -293,8 +288,6 @@ The closer the characters come to the floating skull, the more strongly they fee
 
 When any character enters the skull or touches its surface, the mind of Araumycos stirs—and the Demon Queen of Fungi senses it. Read the following to the players as Zuggtmoy uses the connection of the rapport spores to push into Araumycos's mind.
 
-> [!readaloud] 
-> 
 > "Who dares?" a voice shouts in your mind. "Who dares disturb my intended nuptials?" Spores and tendrils erupt from the surface of the skull, coalescing before your eyes into the image of the Demon Queen of Fungi, her dead eyes glaring with inhuman fury.
 ^59a
 
@@ -387,19 +380,38 @@ If the characters rid Araumycos's mind of its demonic infection, award each of t
 
 Legends speak of 16 chapter 16 the fetid wedding as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 16 chapter 16 the fetid wedding.
 
-## Adventure Hooks
-
-- A rumor ties 16 chapter 16 the fetid wedding to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 16 chapter 16 the fetid wedding to avert a public scandal.
-- A map overlay reveals a hidden approach to 16 chapter 16 the fetid wedding active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.626704'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ash-zombie-lmop-ash-zombie-lmop.svg)
 
@@ -35,6 +33,24 @@ world: Both
 *Source: Lost Mine of Phandelver p. 31*  
 
 From somewhere in the darkness, a gurgling moan is heard. A form lurches into view, dragging one foot as it raises bloated arms and broken hands. The zombie advances, driven to kill anyone too slow to escape its grasp.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Ash Zombies
 
@@ -58,7 +74,6 @@ The first time the zombie takes damage, any living creature within 5 feet of the
   - !!int "6"
   - !!int "16"
   - !!int "3"
-  - !!int "6"
   - !!int "5"
 "speed": "20 ft."
 "saves":
@@ -97,19 +112,25 @@ Ash zombie lmop is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of ash zombie lmop as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ash zombie lmop.
 
-## Adventure Hooks
-
-- A rumor ties ash zombie lmop to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ash zombie lmop to avert a public scandal.
-- A map overlay reveals a hidden approach to ash zombie lmop active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

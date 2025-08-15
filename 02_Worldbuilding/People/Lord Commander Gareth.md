@@ -1,4 +1,5 @@
 ---
+
 title: Lord Commander Gareth
 type: Npc
 tags:
@@ -10,6 +11,7 @@ tags:
 - active
 - universal
 - status/in-progress
+- bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +20,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.699940+00:00'
 world: Universal
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +30,66 @@ world: Universal
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lord-commander-gareth-steelborn-lord-commander-gareth-steelborn.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward avoidance
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward confrontation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
 
 ## Player-Facing Summary
 
@@ -67,14 +98,6 @@ Lord Commander Gareth is a undersea element of the setting, known for biolumines
 ## Lore Details
 
 Legends speak of Lord Commander Gareth as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lord Commander Gareth.
-
-## Adventure Hooks
-
-- A rumor ties Lord Commander Gareth to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Lord Commander Gareth to avert a public scandal.
-- A map overlay reveals a hidden approach to Lord Commander Gareth active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +108,6 @@ Lord Commander Gareth's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Achieving fame
@@ -124,8 +117,6 @@ Lord Commander Gareth's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Lord Commander Gareth harbors secrets that could change everything:
@@ -134,13 +125,9 @@ Lord Commander Gareth harbors secrets that could change everything:
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Divine mission
 
-
-
-
-
 ## Voice & Mannerisms
 
-**Voice**: Deep and resonant
+**Voice**: Deep and resot
 
 **Speech Pattern**: Direct and concise
 
@@ -155,8 +142,6 @@ Lord Commander Gareth is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Lord Commander Gareth needs assistance with a delicate matter
@@ -164,8 +149,6 @@ Lord Commander Gareth is currently engaged in:
 3. **The Secret**: Information about Lord Commander Gareth's past surfaces
 4. **The Alliance**: Opportunity to work with or against Lord Commander Gareth
 5. **The Crisis**: Lord Commander Gareth is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,21 +162,20 @@ Lord Commander Gareth is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Lord Commander Gareth]]
+## Bloodline
 
-<!-- enriched: true -->
-
+Member of House Dragonblood - Trait: magical affinity
 
 
+## Religious Observances
 
-## Relationship Web
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
 
-- [[04_Resources_Assets_Locations_location-city-admiral-thalassa-stormcurrent-v1-admiral-thalassa-stormcurrent.svg]]: *secret ally*
-- [[04_Resources_Assets_Portraits_portrait-npc-lord-admiral-gaius-windcutter-lord-admiral-gaius-windcutter.svg]]: *informant*
-- [[04_Resources_Assets_Symbols_symbol-heraldry-dockworkers-union-dockworkers-union.svg]]: *student*
-
-## Connections
-
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

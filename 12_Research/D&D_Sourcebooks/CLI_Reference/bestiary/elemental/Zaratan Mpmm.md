@@ -33,9 +33,6 @@ updated: '2025-08-13T12:34:05.774561+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-zaratan-mpmm-v1-zaratan-mpmm.svg)
 
@@ -57,7 +54,6 @@ When a zaratan is summoned from the Elemental Plane of Earth, the ground rises u
 "stats":
   - !!int "30"
   - !!int "10"
-  - !!int "30"
   - !!int "2"
   - !!int "21"
   - !!int "18"
@@ -95,7 +91,7 @@ When a zaratan is summoned from the Elemental Plane of Earth, the ground rises u
   - "desc": "The zaratan exhales rocky debris in a 90-foot cube. Each creature in\
       \ that area must make a DC 25 Dexterity saving throw. A creature takes 33 (6d10)\
       \ bludgeoning damage on a failed save, or half as much damage on a successful\
-      \ one. A creature that fails the save by 5 or more is knocked [[conditions#Prone|prone]]."
+      \ one. A creature that fails the save by 5 or more is knocked [[conditions#prone|prone]]."
     "name": "Spew Debris (Recharge 5-6)"
 "bonus_actions":
   - "desc": "After moving at least 10 feet on the ground, the zaratan sends a shock\
@@ -107,18 +103,17 @@ When a zaratan is summoned from the Elemental Plane of Earth, the ground rises u
       \ with the ground in the area. If a creature is near a structure that collapses,\
       \ the creature might be buried; a creature within half the distance of the structure's\
       \ height must make a DC 25 Dexterity saving throw. On a failed save, the creature\
-      \ takes 17 (5d6) bludgeoning damage, is knocked [[conditions#Prone|prone]],\
+      \ takes 17 (5d6) bludgeoning damage, is knocked [[conditions#prone|prone]],\
       \ and is trapped in the rubble. A trapped creature is [[conditions#Restrained|restrained]],\
       \ requiring a successful DC 20 Strength ([[skills#Athletics|Athletics]])\
       \ check as an action to escape. Another creature within 5 feet of the buried\
       \ creature can use its action to clear rubble and grant advantage on the check.\
       \ If three creatures use their actions in this way, the check is an automatic\
       \ success. On a successful save, the creature takes half as much damage and\
-      \ doesn't fall [[conditions#Prone|prone]] or become trapped."
+      \ doesn't fall [[conditions#prone|prone]] or become trapped."
     "name": "Earth-Shaking Movement"
 "legendary_actions":
   - "desc": "The zaratan makes one Stomp attack."
-    "name": "Stomp"
   - "desc": "The zaratan moves up to its speed."
     "name": "Move"
   - "desc": "The zaratan makes one Spit Rock attack."
@@ -142,6 +137,24 @@ When a zaratan is summoned from the Elemental Plane of Earth, the ground rises u
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 desert, forest, grassland, hill, mountain, underdark
@@ -154,19 +167,33 @@ Zaratan mpmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of zaratan mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around zaratan mpmm.
 
-## Adventure Hooks
-
-- A rumor ties zaratan mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at zaratan mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to zaratan mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help investigating before winter
+- An heirloom has gone missing and chaos spreads
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

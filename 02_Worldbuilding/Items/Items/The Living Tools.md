@@ -1,4 +1,5 @@
 ---
+
 title: The Living Tools
 type: item
 tags:
@@ -6,18 +7,88 @@ tags:
 - needs-content
 - item
 - active
+- conspiracy
+- bloodline
 created: 2025-08-14
 modified: '2025-08-14'
 status: placeholder
 rarity: Unknown
 value: Unknown
 updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
 
 
 # 02_Worldbuilding/Items/The Living Tools
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
 
 ## Description
 
@@ -26,12 +97,6 @@ updated: 2025-08-14
 ## Details
 
 *[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[The Shadow-Crystal Synthesis]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]
 
 ## Notes
 
@@ -49,22 +114,6 @@ updated: 2025-08-14
 **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 **Attunement**: Required/Not Required
 **Value**: 100-10,000 gp
-
-
-## Mechanics
-
-### Base Properties
-- Standard item statistics
-
-### Magical Effects
-- Primary power
-- Secondary benefits
-- Activation requirements
-
-### Limitations
-- Usage restrictions
-- Recharge requirements
-
 
 ## DM Notes
 

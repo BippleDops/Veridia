@@ -1,4 +1,5 @@
 ---
+
 title: Duchess Marina Ever Drowning
 type: NPC
 tags:
@@ -14,6 +15,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.716613+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -22,25 +25,72 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-duchess-marina-ever-drowning-duchess-marina-ever-drowning.svg]]
 
 
-# Duchess Marina Ever-Drowning
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
 
 ## Overview
 The last surviving member of the Selenthian Dynasty, Marina has died by drowning 777 times, each death making her more powerful and less human. She controls the memory trade in Aquabyssos, literally buying and selling experiences, identities, and histories. Her merchant empire spans both underwater and surface operations through countless agents who don't know they work for her.
-
-## Appearance
-- Eternally appears to be drowning—hair flows upward, bubbles escape her mouth
-- Skin shifts between corpse-pale and deep blue-green
-- Wears gowns made from the last breaths of drowned nobles
-- Eyes like pearls that have seen too much
-- Jewelry made from crystallized final thoughts
-- Carries a scepter of compressed souls
-
-## Personality
-- Maintains elaborate pre-drowning court etiquette underwater
-- Views everything as transaction, including emotions
-- Collects the last moments of significant people
-- Desperately maintaining humanity through ritual and manner
-- Secretly terrified of her 1000th drowning
 
 ## Abilities & Stats
 **AC:** 18 (Memory Shroud)
@@ -50,49 +100,6 @@ The last surviving member of the Selenthian Dynasty, Marina has died by drowning
 **STR:** 10 (+0) **DEX:** 20 (+5) **CON:** 20 (+5)
 **INT:** 24 (+7) **WIS:** 18 (+4) **CHA:** 22 (+6)
 
-### Special Abilities
-- **Death Count:** Gains power from each drowning death
-- **Memory Merchant:** Can extract, modify, and implant memories
-- **Emotional Currency:** Trades in feelings as tangible objects
-- **Identity Theft:** Can become anyone whose death she owns
-- **Recurring Drowning:** Resurrects if killed, gaining power
-
-### Unique Powers
-- Controls network of memory-modified agents
-- Can experience multiple perspectives simultaneously
-- Immune to mind-affecting magic
-- Speaks all languages of the drowned
-
-## Business Empire
-
-### The Remembrance Exchange
-- Central bank of memories in Gold-Grave Harbor
-- Vaults containing millions of stored experiences
-- Memory modification services
-- Identity construction for spies
-
-### Surface Operations
-- Controls 40% of [[Castellan Ironledger III]]'s information network (he doesn't know)
-- Owns gambling dens that collect desperate memories
-- Runs orphanages that harvest childhood innocence
-- Funds artists who paint prophecies
-
-### Underwater Monopolies
-- Exclusive rights to noble death memories
-- Controls emotional drug trade
-- Monopoly on surface world intelligence
-- Owns the Depth Casino where souls are wagered
-
-## Relationships
-- **[[Ambassador Nerida Deepcurrent]]:** Her protégé and unwitting pawn
-- **High Priestess Scylla Deepdream:** Mutual disgust, forced cooperation
-- **[[Vex Shadowthorn]]:** Surface business partner (through intermediaries)
-- **[[Queen Seraphina Lumengarde]]:** Has memory of her before corruption
-- **That-Which-Swims-Between:** Owes it seven impossible memories
-- **Morpheus Tidecaller:** Former lover, now bitter rival
-
-
-
 ## Voice & Mannerisms
 
 **Voice**: Cold and distant
@@ -100,13 +107,6 @@ The last surviving member of the Selenthian Dynasty, Marina has died by drowning
 **Speech Pattern**: Peppered with idioms
 
 **Physical Habits**: Maintains intense eye contact
-
-## Current Activities
-- Orchestrating economic war against surface kingdoms
-- Building memory weapon to rewrite history
-- Searching for memory of the Crown of Stars' creation
-- Infiltrating Aethermoor nobility through replaced identities
-- Planning hostile takeover of Drowned Parliament
 
 ## The Palace of Last Breaths
 Her residence and headquarters:
@@ -135,31 +135,11 @@ Notable memories in her vault:
 - Every mother's final goodbye to drowned children
 - The taste of air to the newly transformed
 
-## Business Practices
-- Payment accepted in: memories, emotions, souls, potential futures
-- Everything has a price, including this conversation
-- Contracts written in water, signed in breath
-- Broken deals result in identity erasure
-- Customer service includes complementary forgetting
-
-## Combat Tactics
-- Never fights personally, uses memory-puppets
-- Can force enemies to relive their worst moments
-- Steals skills by extracting muscle memory
-- Escapes by dying and resurrecting elsewhere
-- Turns allies against each other with false memories
-
 ## Plot Hooks
 1. Hiring party to retrieve specific surface noble's memory
 2. Needs protection during her 900th drowning ritual
 3. Offers valuable information in exchange for childhood memories
 4. Someone is stealing from her memory vaults
-
-## Quotes
-- "Everything that was, is for sale. Everything that is, is negotiable."
-- "I've died so many times, death now owes me favors."
-- "Your memories are quaint. How much for your mother's last smile?"
-- "The economy of drowning favors those who sink with style."
 
 ## Court Etiquette
 Visitors must observe:
@@ -168,8 +148,6 @@ Visitors must observe:
 - Bring memories as tribute
 - Dance at least once (while drowning)
 - Never mention the number 1000
-
-
 
 ## Background
 
@@ -180,8 +158,6 @@ Duchess Marina Ever-Drowning's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
 ## Motivations
 
 **Primary Goal**: Pursuing knowledge
@@ -191,8 +167,6 @@ Duchess Marina Ever-Drowning's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -200,8 +174,6 @@ Duchess Marina Ever-Drowning's path to their current position involved:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
 
 ## Statistics (D&D 5e)
 
@@ -236,34 +208,15 @@ Duchess Marina Ever Drowning is a undersea element of the setting, known for bio
 
 Legends speak of Duchess Marina Ever Drowning as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Duchess Marina Ever Drowning.
 
-## Adventure Hooks
 
-- A rumor ties Duchess Marina Ever Drowning to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Duchess Marina Ever Drowning to avert a public scandal.
-- A map overlay reveals a hidden approach to Duchess Marina Ever Drowning active only during specific tides/storms.
+## Religious Observances
 
-## Cross-References
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
 
-- [[Duchess Marina Ever-Drowning]]
-
-<!-- enriched: true -->
-
-
-
-
-## Relationship Web
-
-- [[Ambassador Korvin Blacktide]]: *childhood friend*
-- [[04_Resources_Assets_Symbols_symbol-heraldry-the-void-watchers-the-void-watchers.svg]]: *bitter rival*
-- [[04_Resources_Assets_Locations_location-city-hadrian-depthbridge-hadrian-depthbridge.svg]]: *sworn enemy*
-- [[04_Resources_Assets_Symbols_symbol-heraldry-depth-cardinal-wisdom-voidseeke-depth-cardinal-wisdom-voidseeke.svg]]: *business partner*
-
-## Connections
-
-### Home
-- [[04_Resources_Assets_Locations_location-city-shadow-current-v1-shadow-current.svg]]
-
-### Known Associates
-- [[04_Resources_Assets_Locations_location-city-harbor-master-s-license-v1-harbor-master-s-license.svg]] (ally)
-- [[04_Resources_Assets_Vehicles_vehicle-ship-resonance-drive-yacht-v2-resonance-drive-yacht.svg]] (rival)
-- [[04_Resources_Assets_Symbols_symbol-heraldry-echo-prime-cacophony-voidlung-echo-prime-cacophony-voidlung.svg]] (ally)
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

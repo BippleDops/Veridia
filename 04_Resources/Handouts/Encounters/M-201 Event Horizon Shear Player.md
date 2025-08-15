@@ -41,11 +41,9 @@ Possible outcomes
 - A spar tears away into silence
 - The ship lurches and someone falls
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

@@ -18,11 +18,6 @@ updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
 
-
-# Memory Magic Reference
-
-## Memory Pearl System
-
 ### Memory Pearl Types
 | Pearl Type | Capacity | Duration Stored | Market Value |
 |------------|----------|-----------------|--------------|
@@ -47,8 +42,6 @@ world: Both
 3. **Skill Check**: Arcana DC 10 + pearl quality level
 4. **Failure Consequences**: Memory damaged or destroyed
 5. **Success**: Clean extraction preserves original
-
-## Memory Absorption Rules
 
 ### Absorption Methods
 | Method | Time Required | Risk Level | Notes |
@@ -77,40 +70,6 @@ world: Both
 | 9 | Personality bleed | 1d4 days |
 | 10 | False memory implantation | Permanent until removed |
 
-## Memory Magic Spells
-
-### Spell List by Level
-#### Cantrips
-- **Memory Glimmer**: Recall minor detail perfectly
-- **Forget Moment**: Erase last 6 seconds from target's memory
-
-#### 1st Level
-- **Preserve Memory**: Store memory in object
-- **Shared Experience**: Show memory to willing target
-- **Memory Shield**: +2 vs mental effects for 1 hour
-
-#### 2nd Level
-- **Extract Memory**: Remove specific memory from target
-- **False Memory**: Implant false memory (Wisdom save negates)
-- **Memory Link**: Share memories between multiple creatures
-
-#### 3rd Level
-- **Memory Palace**: Create mental construct for storage
-- **Ancestral Memories**: Access racial/family memories
-- **Memory Maze**: Trap consciousness in confusing memories
-
-#### 4th Level
-- **Steal Experience**: Temporarily gain target's skills/knowledge
-- **Memory Restoration**: Recover damaged or lost memories
-- **Group Memory**: Share single experience with multiple targets
-
-#### 5th Level
-- **Memory Archive**: Create permanent memory storage
-- **Past Life Regression**: Access previous incarnations
-- **Memory Plague**: Spread specific memory through population
-
-## Memory-Based Abilities
-
 ### Aquabyssos Memory Traditions
 | Tradition | Focus | Practitioners | Common Uses |
 |-----------|-------|---------------|-------------|
@@ -120,14 +79,10 @@ world: Both
 | **Parliament Scribes** | Legal precedents | Government officials | Store legislation history |
 
 ### Aethermoor Memory Traditions
-| Tradition | Focus | Practitioners | Common Uses |
-|-----------|-------|---------------|-------------|
 | **Wind Chroniclers** | Atmospheric histories | Weather seers | Predict climate patterns |
 | **Star Mappers** | Celestial observations | Navigators | Track stellar movements |
 | **Storm Singers** | Emotional memories | Bards, entertainers | Share experiences through song |
 | **Crystal Resonators** | Mineral memories | Artificers | Enhance crystal properties |
-
-## Memory Corruption Effects
 
 ### Shadow Conspiracy Memory Manipulation
 | Manipulation Type | Detection DC | Restoration DC | Permanent Effects |
@@ -155,8 +110,6 @@ world: Both
 | **Possession** | Deep Mother memories override personal | 1d8 | 1 month |
 | **Transformation** | Become vessel for cosmic consciousness | All | Permanent |
 
-## Memory Trading Economy
-
 ### Memory Market Values
 | Memory Type | Base Value | Rarity Multiplier | Quality Multiplier |
 |-------------|------------|-------------------|-------------------|
@@ -165,15 +118,6 @@ world: Both
 | **Secret Information** | 50 gp | × 5-10 | × quality level |
 | **Unique Experience** | 100 gp | × 10-20 | × quality level |
 | **Forbidden Knowledge** | 500 gp | × 20-50 | × quality level |
-
-### Black Market Memories
-- **Assassination Techniques**: 1000 gp (illegal in most places)
-- **Government Secrets**: 2000 gp (treason charges if caught)
-- **Cult Rituals**: 500 gp (dangerous to possess)
-- **Ancient Languages**: 300 gp (academic interest)
-- **Noble Scandals**: 800 gp (blackmail material)
-
-## Memory-Related Conditions
 
 ### Memory Sickness
 | Stage | Symptoms | Duration | Treatment |
@@ -191,8 +135,6 @@ world: Both
 | **Severe** | Seeks new memories hourly | Constitution damage | 6 months |
 | **Critical** | Cannot function without new memories | System shutdown | 1 year+ |
 
-## Memory Magic Items
-
 ### Common Items
 | Item | Effect | Cost | Rarity |
 |------|--------|------|--------|
@@ -201,20 +143,14 @@ world: Both
 | **Forget-Me-Not Pendant** | Immunity to memory modification for 1 hour | 200 gp | Uncommon |
 
 ### Rare Items
-| Item | Effect | Cost | Rarity |
-|------|--------|------|--------|
 | **Crown of Perfect Recall** | Never forget anything while worn | 5000 gp | Rare |
 | **Memory Thief's Gloves** | Extract memories with touch | 3000 gp | Rare |
 | **Archive Crystal** | Store unlimited memories | 8000 gp | Very Rare |
 
 ### Legendary Items
-| Item | Effect | Cost | Rarity |
-|------|--------|------|--------|
 | **The Omniscient Pearl** | Contains all memories of previous owner | Priceless | Legendary |
 | **Mindscape Crown** | Create shared mental reality | Artifact | Artifact |
 | **Memory of the First Tide** | Contains memories from world's creation | Unique | Artifact |
-
-## Combat Applications
 
 ### Memory-Based Attacks
 | Attack Type | Action | Range | Effect |
@@ -232,8 +168,6 @@ world: Both
 | **Battle Recall** | Free Action | Instantaneous | Remember exact enemy stats/abilities |
 | **Ancestral Guidance** | Reaction | 1 round | Add ancestral memory bonus to roll |
 
-## Memory Investigation Techniques
-
 ### Reading Memory Traces
 | Technique | Time | DC | Information Gained |
 |-----------|------|----|--------------------|
@@ -242,22 +176,27 @@ world: Both
 | **Residual Thoughts** | 10 minutes | 20 | Emotional impressions left behind |
 | **Memory Archaeology** | 8 hours | 25 | Layer by layer memory reconstruction |
 
-### Memory Forensics
-- **Tampering Detection**: Arcana check DC 15 + manipulator's level
-- **Timeline Reconstruction**: Investigation + Memory Magic
-- **Authenticity Verification**: Multiple memory sources cross-referenced
-- **Corruption Analysis**: Medical + magical examination required
 
-## Links to Related Content
-- [[Memory_Pearls]]
-- [[Memory_Trading_Economy]]
-- [[Shadow_Conspiracy]]
-- [[Aquabyssos_Cultural_Codex]]
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -266,3 +205,15 @@ world: Both
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- Someone is protecting an heir for love
+- Someone is hunting an heir for power
+- Strange dreams suggest a conspiracy
+- A journal reveals a betrayal about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

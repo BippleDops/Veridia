@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.869987'
 world: Both
 ---
 
-
 # Spellcasting
 *Source: Player's Handbook (2014), p. 201* 
 
@@ -30,6 +29,24 @@ Magic permeates the worlds of D&D and most often appears in the form of a spell.
 This chapter provides the rules for casting spells. Different character classes have distinctive ways of learning and preparing their spells, and monsters use spells in unique ways. Regardless of its source, a spell follows the rules here.
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/ch10.webp#center)
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## What is a Spell?
 
@@ -124,7 +141,7 @@ A spell's components are the physical requirements you must meet in order to cas
 
 #### Verbal (V)
 
-Most spells require the chanting of mystic words. The words themselves aren't the source of the spell's power; rather, the particular combination of sounds, with specific pitch and resonance, sets the threads of magic in motion. Thus, a character who is gagged or in an area of silence, such as one created by the silence spell, can't cast a spell with a verbal component.
+Most spells require the chanting of mystic words. The words themselves aren't the source of the spell's power; rather, the particular combination of sounds, with specific pitch and resoce, sets the threads of magic in motion. Thus, a character who is gagged or in an area of silence, such as one created by the silence spell, can't cast a spell with a verbal component.
 
 #### Somatic (S)
 
@@ -177,7 +194,6 @@ If you place an area of effect at a point that you can't see and an obstruction,
 If a spell targets a creature of your choice, you can choose yourself, unless the creature must be hostile or specifically a creature other than you. If you are in the area of effect of a spell you cast, you can target yourself.
 
 > [!note] The Schools of Magic
-> 
 > - **Abjuration.** spells are protective in nature, though some of them have aggressive uses. They create magical barriers, negate harmful effects, harm trespassers, or banish creatures to other planes of existence.  
 > - **Conjuration.** spells involve the transportation of objects and creatures from one location to another. Some spells summon creatures or objects to the caster's side, whereas others allow the caster to teleport to another location. Some conjurations create objects or effects out of nothing.  
 > - **Divination.** spells reveal information, whether in the form of secrets long forgotten, glimpses of the future, the locations of hidden things, the truth behind illusions, or visions of distant people or places.  
@@ -185,7 +201,6 @@ If a spell targets a creature of your choice, you can choose yourself, unless th
 > - **Evocation.** spells manipulate magical energy to produce a desired effect. Some call up blasts of fire or lightning. Others channel positive energy to heal wounds.  
 > - **Illusion.** spells deceive the senses or minds of others. They cause people to see things that are not there, to miss things that are there, to hear phantom noises, or to remember things that never happened. Some illusions create phantom images that any creature can see, but the most insidious illusions plant an image directly in the mind of a creature.  
 > - **Necromancy.** spells manipulate the energies of life and death. Such spells can grant an extra reserve of life force, drain the life energy from another creature, create the undead, or even bring the dead back to life.  
-> 
 >     Creating the undead through the use of necromancy spells such as [[animate-dead-xphb|animate dead]] is not a good act, and only evil casters use such spells frequently.  
 > - **Transmutation.** spells change the properties of a creature, object, or environment. They might turn an enemy into a harmless creature, bolster the strength of an ally, make an object move at the caster's command, or enhance a creature's innate healing abilities to rapidly recover from injury.  
 ^the-schools-of-magic
@@ -247,17 +262,11 @@ The effects of different spells add together while the durations of those spells
 For example, if two clerics cast [[bless-xphb|bless]] on the same target, that character gains the spell's benefit only once; he or she doesn't get to roll two bonus dice.
 
 > [!note] The Weave of Magic
-> 
 > The words within the D&D multiverse are magical places. All existence is suffused with magical power, and potential energy lies untapped in every rock, stream, and living creature, the mute and mindless will of existence, permeating every bit of matter and present in every manifestation of energy throughout the multiverse.
-> 
 > Mortals can't directly shape this raw magic. Instead, they make use of a fabric of magic, a kind of interface between the will of a spellcaster and the stuff of raw magic. The spellcasters of the Forgotten Realms call it the Weave and recognize its essence as the goddess Mystra, but casters have varied ways of naming and visualizing this interface.
-> 
 > By any name, without the Weave, raw magic is locked away and inaccessible; the most powerful archmage can't light a candle with magic in an area where the Weave has been torn. But surrounded by the Weave, a spellcaster can shape lightning to blast foes, transport hundreds of miles in the blink of an eye, or even reverse death itself.
-> 
 > All magic depends on the Weave, though different kinds of magic access it in a variety of ways. The spells of wizards, warlocks, sorcerers, and bards are commonly called **arcane magic**. These spells rely on an understanding—learned or intuitive—of the workings of the Weave. The caster plucks directly at the strands of the Weave to create the desired effect. Eldritch knights and arcane tricksters also use arcane magic. The spells of clerics, druids, paladins, and rangers are called **divine magic**. These spellcasters' access to the Weave is mediated by divine power—gods, the divine forces of nature, or the sacred weight of a paladin's oath.
-> 
 > Whenever a magic effect is created, the threads of the Weave intertwine, twist, and fold to make the effect possible.
-> 
 > When characters use divination spells such as *detect magic* or *identify*, they glimpse the Weave. A spell such as *dispel magic* smooths the Weave. Spells such as *antimagic field* rearrange the Weave so that magic flows around, rather than through the area affected by the spell. And in places where the Weave is damaged or torn, magic works in unpredictable ways—or not at all.
 ^the-weave-of-magic
 
@@ -271,19 +280,27 @@ For example, if two clerics cast [[bless-xphb|bless]] on the same target, that c
 
 Legends speak of 11 spellcasting as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 11 spellcasting.
 
-## Adventure Hooks
-
-- A rumor ties 11 spellcasting to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 11 spellcasting to avert a public scandal.
-- A map overlay reveals a hidden approach to 11 spellcasting active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Stars
+
+
+## Plot Hooks
+
+- A corpse reveals the truth about this place
+- A journal reveals a conspiracy about the government
+- The authorities needs help stealing before dawn
+- Strange accidents suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

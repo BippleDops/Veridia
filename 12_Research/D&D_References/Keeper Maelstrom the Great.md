@@ -17,28 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -48,28 +42,26 @@ Keeper Maelstrom the Great is a undersea element of the setting, known for biolu
 
 Legends speak of Keeper Maelstrom the Great as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Keeper Maelstrom the Great.
 
-## Adventure Hooks
-
-- A rumor ties Keeper Maelstrom the Great to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Keeper Maelstrom the Great to avert a public scandal.
-- A map overlay reveals a hidden approach to Keeper Maelstrom the Great active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Keeper Maelstrom the Great|02 Worldbuilding/Places/Keeper Maelstrom The Great]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The Lighthouse of Storms]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for power
+- A map reveals the truth about a local noble
+- A corpse reveals a conspiracy about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

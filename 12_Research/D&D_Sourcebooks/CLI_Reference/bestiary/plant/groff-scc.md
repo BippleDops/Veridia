@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.362144'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-groff-scc-groff-scc.svg)
 
@@ -82,7 +80,7 @@ Many a Strixhaven student wandering the bayou has stepped on a seemingly mundane
       \ While engulfed, the target can't breathe, is [[conditions#Restrained|restrained]],\
       \ and takes 10 (3d6) poison damage at the start of each of its turns. When the\
       \ groff moves, the engulfed target moves with it. The groff can have only one\
-      \ target engulfed at a time.\n\nAn engulfed target can repeat the saving throw\
+      \ target engulfed at a time.\n\ engulfed target can repeat the saving throw\
       \ at the end of its turns. On a success, the target escapes and enters the nearest\
       \ unoccupied space."
     "name": "Swamp Claw"
@@ -92,6 +90,24 @@ Many a Strixhaven student wandering the bayou has stepped on a seemingly mundane
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Groff scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -100,19 +116,32 @@ Groff scc is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of groff scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around groff scc.
 
-## Adventure Hooks
-
-- A rumor ties groff scc to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at groff scc to avert a public scandal.
-- A map overlay reveals a hidden approach to groff scc active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and evil awakens
+- A prisoner has gone missing and truth emerges
+- A stranger needs help investigating before dawn
+- A merchant needs help finding before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

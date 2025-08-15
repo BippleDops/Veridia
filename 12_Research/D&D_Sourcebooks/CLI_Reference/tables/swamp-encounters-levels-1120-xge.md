@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.473516'
 world: Both
 ---
 
-
 # Swamp Encounters (Levels 11—20)
 *Source: Xanathar's Guide to Everything p. 105* 
 
@@ -38,7 +37,7 @@ world: Both
 | 26-30 | `2d4` [[wight-xmm|wights]] |
 | 31-35 | `1d8 + 1` yuan-ti malisons: [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|type 1]], [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-2-xmm|type 2]], [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-3-xmm|type 3]] |
 | 36-40 | Fog that rolls across the terrain, making the area within `d3` miles heavily obscured for `d4` hours |
-| 41-45 | `d4` [[revenant-xmm|revenants]] |
+| 41-45 | `d4` [[revet-xmm|revets]] |
 | 46-50 | `d6` [[shambling-mound-xmm|shambling mounds]] |
 | 51-55 | `d10` [[water-elemental-xmm|water elementals]] |
 | 56-60 | `d4` [[young-black-dragon-xmm|young black dragons]] |
@@ -50,6 +49,24 @@ world: Both
 | 97-00 | 1 [[ancient-black-dragon-xmm|ancient black dragon]] |
 ^swamp-encounters-levels-1120
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Swamp encounters levels 1120 xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -58,19 +75,15 @@ Swamp encounters levels 1120 xge is a undersea element of the setting, known for
 
 Legends speak of swamp encounters levels 1120 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around swamp encounters levels 1120 xge.
 
-## Adventure Hooks
-
-- A rumor ties swamp encounters levels 1120 xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at swamp encounters levels 1120 xge to avert a public scandal.
-- A map overlay reveals a hidden approach to swamp encounters levels 1120 xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

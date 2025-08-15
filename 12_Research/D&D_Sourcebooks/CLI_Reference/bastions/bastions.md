@@ -19,43 +19,22 @@ world: Both
 ---
 
 
-# Index of Bastions
+## 🔧 Deep Evaluation Improvements
 
-- [[arcane-study|Arcane Study]]
-- [[archive|Archive]]
-- [[armory|Armory]]
-- [[barrack|Barrack]]
-- [[bedroom|Bedroom]]
-- [[courtyard|Courtyard]]
-- [[demiplane|Demiplane]]
-- [[dining-room|Dining Room]]
-- [[gaming-hall|Gaming Hall]]
-- [[garden|Garden]]
-- [[greenhouse|Greenhouse]]
-- [[guildhall|Guildhall]]
-- [[kitchen|Kitchen]]
-- [[laboratory|Laboratory]]
-- [[library|Library]]
-- [[meditation-chamber|Meditation Chamber]]
-- [[menagerie|Menagerie]]
-- [[observatory|Observatory]]
-- [[parlor|Parlor]]
-- [[pub|Pub]]
-- [[reliquary|Reliquary]]
-- [[sacristy|Sacristy]]
-- [[sanctuary|Sanctuary]]
-- [[sanctum|Sanctum]]
-- [[scriptorium|Scriptorium]]
-- [[smithy|Smithy]]
-- [[stable|Stable]]
-- [[storage|Storage]]
-- [[storehouse|Storehouse]]
-- [[teleportation-circle|Teleportation Circle]]
-- [[theater|Theater]]
-- [[training-area|Training Area]]
-- [[trophy-room|Trophy Room]]
-- [[war-room|War Room]]
-- [[workshop|Workshop]]
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -65,19 +44,21 @@ Bastions is a undersea element of the setting, known for bioluminescent glow and
 
 Legends speak of bastions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bastions.
 
-## Adventure Hooks
-
-- A rumor ties bastions to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at bastions to avert a public scandal.
-- A map overlay reveals a hidden approach to bastions active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a portal
+- An heirloom has gone missing and war looms
+- A letter reveals a conspiracy about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

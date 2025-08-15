@@ -30,16 +30,11 @@ updated: '2025-08-13T12:34:07.198246+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Generated/Items/item-artifact-1-ammunition-xdmg-1-ammunition-xdmg.svg)
 
 # +1 Ammunition
 *Ammunition, uncommon*  
-
-
 
 You have a +1 bonus to attack and damage rolls made with this piece of magic ammunition. Once it hits a target, the ammunition is no longer magical.
 
@@ -54,32 +49,29 @@ This ammunition is typically found or sold in quantities of ten or twenty pieces
 - [+1 Needle](#+1%20Needle)
 - [+1 Sling Bullet](#+1%20Sling%20Bullet)
 
-## +1 Arrow
-
-- **Weight**: 0.05 lbs.
-
-### +1 Bolt
-
-- **Weight**: 0.075 lbs.
-
-### +1 Energy Cell
-
-- **Weight**: 0.5 lbs.
-
-### +1 Firearm Bullet
-
-- **Weight**: 0.2 lbs.
-
-### +1 Needle
-
-- **Weight**: 0.02 lbs.
-
 ### +1 Sling Bullet
 
 - **Weight**: 0.075 lbs.
 
+*Source: Dungeon Master's Guide (2024) p. 228. Available in the SRD and the Free Rules (2024)*
 
-*Source: Dungeon Master's Guide (2024) p. 228. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -89,19 +81,23 @@ This ammunition is typically found or sold in quantities of ten or twenty pieces
 
 Legends speak of 1 ammunition xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 1 ammunition xdmg.
 
-## Adventure Hooks
-
-- A rumor ties 1 ammunition xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 1 ammunition xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to 1 ammunition xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

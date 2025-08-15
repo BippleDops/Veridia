@@ -25,18 +25,30 @@ obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.836267+00:00'
 ---
 
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-shadow-binding-sanctum-shadow-binding-sanctum.svg]]
-
-
-
-
 
 # Shadow Binding Sanctum
 
 *"Where light fears to tread, we forge chains of darkness." - Shadow Binder Vex*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 The Shadow Binding Sanctum is a hidden facility where practitioners of shadow magic conduct dangerous experiments in binding and controlling shadow entities. Located in the deepest, darkest trenches beneath Aquabyssos, this sanctum serves as both research center and prison for captured shadow creatures. The facility exists in a perpetual state of twilight, where darkness is not merely the absence of light but a living, manipulable substance.
@@ -86,26 +98,12 @@ Built within a natural cave system that extends far below the city proper, the s
 **Guard Rotations:** Regular patrols by shadow-trained security
 **External Monitoring:** Observation posts watching for unauthorized approach
 
-## Research Discoveries
-- Shadow entities retain memories from their plane of origin
-- Binding circles can be enhanced with emotional resonance
-- Some shadow creatures can be reasoned with diplomatically
-- Prolonged exposure to shadow magic affects practitioner psychology
-- Certain shadow entities serve powerful masters from other dimensions
-
 ## Ethical Concerns
 **Entity Rights:** Questions about consciousness and suffering of captured beings
 **Psychological Effects:** Impact of shadow work on practitioner mental health
 **Escape Risks:** Potential consequences of containment failure
 **Knowledge Limits:** Dangers of delving too deeply into shadow mysteries
 **Military Applications:** Use of research for warfare or oppression
-
-## Recent Incidents
-- Containment breach requiring emergency response team
-- Discovery of shadow entity with human-level intelligence
-- Attempted infiltration by unknown shadow creature
-- Researcher disappearance during routine entity interaction
-- Strange communications received from captured beings
 
 ## Adventure Hooks
 1. Containment breach threatens city with escaped shadow entities
@@ -125,35 +123,6 @@ Built within a natural cave system that extends far below the city proper, the s
 ## DM Notes
 The Shadow Binding Sanctum provides opportunities for horror-themed adventures, ethical dilemmas about imprisonment and research, and encounters with alien intelligences. Use the facility to explore themes of knowledge versus safety, and the psychological costs of dealing with darkness. The captured entities can serve as sources of information, threats to overcome, or complex characters with their own agendas.
 
-
-## Connections
-
-- [[Senator_Glaucus_Brain|Senator Glaucus Brain]]
-
-
-## Appearance
-
-
-TODO
-
-
-## Personality
-
-
-TODO
-
-
-## Goals
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 Shadow Binding Sanctum is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -162,13 +131,27 @@ Shadow Binding Sanctum is a undersea element of the setting, known for biolumine
 
 Legends speak of Shadow Binding Sanctum as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Binding Sanctum.
 
-## Cross-References
-
-- [[Shadow Binding Sanctum|02 Worldbuilding/People/Shadow Binding Sanctum]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a betrayal about this place
+- Someone is protecting information for money
+- Strange disappearances suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

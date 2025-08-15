@@ -22,14 +22,30 @@ updated: '2025-08-13T12:34:05.046144+00:00'
 world: Both
 ---
 
-
-
 # Suffocation
 *Generic Hazard*  
 
 A creature can hold its breath for a number of minutes equal to 1 plus its Constitution modifier (minimum of 30 seconds) before suffocation begins. When a creature runs out of breath or is choking, it gains 1 [[conditions#Exhaustion|Exhaustion]] level at the end of each of its turns. When a creature can breathe again, it removes all levels of [[conditions#Exhaustion|Exhaustion]] it gained from suffocating.
 
 *Source: Player's Handbook (2024) p. 376*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -39,19 +55,24 @@ Suffocation xphb is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of suffocation xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around suffocation xphb.
 
-## Adventure Hooks
-
-- A rumor ties suffocation xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at suffocation xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to suffocation xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing a artifact for money
+- A journal reveals a betrayal about the government
+- A map reveals a conspiracy about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

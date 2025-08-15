@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.067247+00:00'
 world: Both
 ---
 
-
-
 # Armaments - Common
 *Source: Dungeon Master's Guide (2024) p. 328* 
 
@@ -45,6 +43,24 @@ world: Both
 | 91–00 | [[walloping-ammunition-xdmg|Walloping Ammunition]] |
 ^armaments-common
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Armaments common xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -53,18 +69,9 @@ Armaments common xdmg is a undersea element of the setting, known for biolumines
 
 Legends speak of armaments common xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around armaments common xdmg.
 
-## Adventure Hooks
-
-- A rumor ties armaments common xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at armaments common xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to armaments common xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

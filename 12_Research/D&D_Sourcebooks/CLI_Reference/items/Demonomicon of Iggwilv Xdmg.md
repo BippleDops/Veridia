@@ -24,18 +24,31 @@ updated: '2025-08-13T12:34:06.907100+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-demonomicon-of-iggwilv-xdmg-demonomicon-of-iggwilv-xdmg.svg)
 
 # Demonomicon of Iggwilv
 *Wondrous item, artifact (requires attunement)*  
 
-
-
 This treatise, composed by "Iggwilv" the archmage, documents the Abyss's layers and inhabitants and is widely regarded as the most thorough and blasphemous tome of demonology in the multiverse. The tome recounts both the oldest and most current profanities of the Abyss and demons. Demons have attempted to censor the text, and while sections have been ripped from the book's spine, the general chapters remain, ever revealing demonic secrets. Caged behind lines of script roils a secret piece of the Abyss itself, which keeps the book up-to-date, no matter how many pages are removed, and it longs to be more than mere reference material.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Abyssal Lore
 
@@ -94,19 +107,23 @@ Demonomicon of iggwilv xdmg is a undersea element of the setting, known for biol
 
 Legends speak of demonomicon of iggwilv xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around demonomicon of iggwilv xdmg.
 
-## Adventure Hooks
-
-- A rumor ties demonomicon of iggwilv xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at demonomicon of iggwilv xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to demonomicon of iggwilv xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

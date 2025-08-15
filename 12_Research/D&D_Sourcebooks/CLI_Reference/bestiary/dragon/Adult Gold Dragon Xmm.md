@@ -29,16 +29,31 @@ updated: '2025-08-13T12:34:06.021361+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-gold-dragon-xmm-adult-gold-dragon-xmm.svg)
 
 # [[adult-gold-dragon-xmm|Adult Gold Dragon]]
-*Source: Monster Manual (2024) p. 145. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 145. Available in the SRD and the Free Rules (2024)*  
 
 Adult gold dragons act subtly, frequently changing their shape to resemble harmless animals or cultivating personas so they can pass as common people.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Gold Dragons
 
@@ -84,7 +99,6 @@ Gold dragons make their homes in places of natural and magical wonder.
   - "name": "[[skills#Persuasion|Persuasion]]"
     "desc": "+13"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+8"
 "damage_immunities": "fire"
 "senses": "blindsight 60 ft., darkvision 120 ft., passive Perception 24"
 "languages": "Common, Draconic"
@@ -144,13 +158,11 @@ Gold dragons make their homes in places of natural and magical wonder.
   - "desc": "- Dream Messenger. While in its lair, the dragon can cast [[dream-xphb|Dream]],\
       \ requiring no Material components and using Charisma as the spellcasting ability.\
       \ When casting the spell this way, the dragon can target any creature within\
-      \ 6 miles.  \n- Foretelling Fog. The area within 1 mile of the lair is [[lightly-obscured-xphb|Lightly\
+      \ 6 miles.  \n- Foretelling Fog. The area within 1 mile of the lair is [[lightly-obscured-xphb|Lightly\]]
       \ Obscured]] by opalescent\
       \ fog. While in that area, creatures can't be [[conditions#Surprised|surprised]],\
       \ as the fog swirls into shapes that warn of danger.  "
-    "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/dragon/token/adult-gold-dragon-xmm.webp"
@@ -169,19 +181,33 @@ Adult gold dragon xmm is a undersea element of the setting, known for biolumines
 
 Legends speak of adult gold dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around adult gold dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties adult gold dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at adult gold dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to adult gold dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

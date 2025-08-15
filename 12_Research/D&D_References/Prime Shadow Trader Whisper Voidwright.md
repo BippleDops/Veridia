@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:35.221221+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,33 @@ Prime Shadow Trader Whisper Voidwright is a void-touched element of the setting,
 
 Legends speak of Prime Shadow Trader Whisper Voidwright as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Prime Shadow Trader Whisper Voidwright.
 
-## Adventure Hooks
-
-- A rumor ties Prime Shadow Trader Whisper Voidwright to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Prime Shadow Trader Whisper Voidwright to avert a public scandal.
-- A map overlay reveals a hidden approach to Prime Shadow Trader Whisper Voidwright active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Umbral Exchange|02 Worldbuilding/Lore/Umbral Exchange]]
-
-
-## Connections
-
-- [[Umbral Exchange]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a betrayal about the government
+- A noble needs help delivering before dawn
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

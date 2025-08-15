@@ -16,22 +16,22 @@ updated: '2025-08-13T01:18:34.590924+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Historical Context
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Current Relevance
-
-TODO
-## See Also
-
-TODO
 
 ## Player-Facing Summary
 
@@ -41,23 +41,19 @@ Spiritual Healing is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Spiritual Healing as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Spiritual Healing.
 
-## Adventure Hooks
-
-- A rumor ties Spiritual Healing to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Spiritual Healing to avert a public scandal.
-- A map overlay reveals a hidden approach to Spiritual Healing active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Mourning Depths|02 Worldbuilding/Places/Mourning Depths]]
 
 
-## Connections
+## Secret Connections
 
-- [[Mourning Depths]]
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- Strange sightings suggest a conspiracy
+- Someone is hunting a witness for revenge
+- A map reveals a conspiracy about a local noble

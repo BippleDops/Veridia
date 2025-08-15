@@ -22,44 +22,35 @@ updated: '2025-08-12T23:37:34.394855'
 world: Both
 ---
 
-
 # Fey Wanderer
 *[[ranger-xphb|Ranger]]: Ranger Subclass*  
 *Source: Player's Handbook (2024) p. 124*  
 
 > [!tldr] Class and Feature Progression
 > 
-> <table class="class-progression">
-> <thead>
-> <tr><th colspan='3'></th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
-> </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Fey Wanderer (Level 3)' class='internal-link'>Fey Wanderer</a></td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Beguiling Twist (Level 7)' class='internal-link'>Beguiling Twist</a></td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Fey Reinforcements (Level 11)' class='internal-link'>Fey Reinforcements</a></td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Misty Wanderer (Level 15)' class='internal-link'>Misty Wanderer</a></td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> </tbody></table>
+> LevelPBFeatures
+> 1st+2
+> 2nd+2
+> 3rd+2Fey Wanderer
+> 4th+2
+> 5th+3
+> 6th+3
+> 7th+3Beguiling Twist
+> 8th+3
+> 9th+4
+> 10th+4
+> 11th+4Fey Reinforcements
+> 12th+4
+> 13th+5
+> 14th+5
+> 15th+5Misty Wanderer
+> 16th+5
+> 17th+6
+> 18th+6
+> 19th+6
+> 20th+6
 
 ^class-progression
-
-
-## Class Features
 
 ### Fey Wanderer (Level 3)
 
@@ -110,9 +101,9 @@ You also gain proficiency in one of these skills of your choice: [[skills#Decept
 
 ### Beguiling Twist (Level 7)
 
-The magic of the Feywild guards your mind. You have [[advantage-xphb|Advantage]] on saving throws to avoid or end the [[conditions#Charmed|Charmed]] or [[conditions#Frightened|Frightened]] condition.
+The magic of the Feywild guards your mind. You have [[advantage-xphb|Advantage]] on saving throws to avoid or end the [[conditions#Charmed|Charmed]] or [[conditions#frightened|Frightened]] condition.
 
-In addition, whenever you or a creature you can see within 120 feet of you succeeds on a saving throw to avoid or end the [[conditions#Charmed|Charmed]] or [[conditions#Frightened|Frightened]] condition, you can take a [[reaction-xphb|Reaction]] to force a different creature you can see within 120 feet of yourself to make a Wisdom save against your spell save DC. On a failed save, the target is [[conditions#Charmed|Charmed]] or [[conditions#Frightened|Frightened]] (your choice) for 1 minute. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
+In addition, whenever you or a creature you can see within 120 feet of you succeeds on a saving throw to avoid or end the [[conditions#Charmed|Charmed]] or [[conditions#frightened|Frightened]] condition, you can take a [[reaction-xphb|Reaction]] to force a different creature you can see within 120 feet of yourself to make a Wisdom save against your spell save DC. On a failed save, the target is [[conditions#Charmed|Charmed]] or [[conditions#frightened|Frightened]] (your choice) for 1 minute. The target repeats the save at the end of each of its turns, ending the effect on itself on a success.
 
 ### Fey Reinforcements (Level 11)
 
@@ -126,6 +117,24 @@ You can cast [[misty-step-xphb|Misty Step]] without expending a spell slot. You 
 
 In addition, whenever you cast [[misty-step-xphb|Misty Step]], you can bring along one willing creature you can see within 5 feet of yourself. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Ranger xphb fey wanderer xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -134,19 +143,27 @@ Ranger xphb fey wanderer xphb is a undersea element of the setting, known for bi
 
 Legends speak of ranger xphb fey wanderer xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ranger xphb fey wanderer xphb.
 
-## Adventure Hooks
-
-- A rumor ties ranger xphb fey wanderer xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ranger xphb fey wanderer xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to ranger xphb fey wanderer xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help finding before winter
+- Strange dreams suggest a portal
+- A noble needs help finding before dawn
+- An heirloom has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

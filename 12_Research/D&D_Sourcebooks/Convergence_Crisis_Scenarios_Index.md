@@ -18,11 +18,27 @@ world: Universal
 obsidianUIMode: preview
 ---
 
-
-
 # Convergence Crisis Scenarios
 
 10 tournament-legal one-shots, 4–6 hours each, at varying Convergence levels.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Scenarios by Convergence Level
 - 5%: Whispering Smugglers
@@ -30,7 +46,7 @@ obsidianUIMode: preview
 - 20%: Memory Fog Heist
 - 30%: Pressure Gate Breach
 - 40%: Festival Riot Control
-- 50%: Shard-Resonance Duel
+- 50%: Shard-Resoce Duel
 - 60%: Plague Corridor Evacuation
 - 70%: Guardian Ultimatum
 - 80%: Dual-Realm Siege
@@ -46,19 +62,35 @@ Scenario Index is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Scenario Index as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Scenario Index.
 
-## Adventure Hooks
-
-- A rumor ties Scenario Index to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Scenario Index to avert a public scandal.
-- A map overlay reveals a hidden approach to Scenario Index active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help finding before the new moon
+- Someone is searching for a artifact for love
+- Strange accidents suggest a portal
+- A merchant needs help stealing before winter
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

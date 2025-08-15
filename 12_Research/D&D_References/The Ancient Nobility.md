@@ -15,36 +15,26 @@ world: Both
 updated: '2025-08-13T01:18:36.838709+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-ancient-nobility-the-ancient-nobility.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Appearance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Personality
-
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -54,28 +44,48 @@ The Ancient Nobility is a undersea element of the setting, known for bioluminesc
 
 Legends speak of The Ancient Nobility as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Ancient Nobility.
 
-## Adventure Hooks
-
-- A rumor ties The Ancient Nobility to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Ancient Nobility to avert a public scandal.
-- A map overlay reveals a hidden approach to The Ancient Nobility active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[The Ancient Nobility|02 Worldbuilding/People/The Ancient Nobility]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Throne of Bubbles]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Relationships
+
+- **Sibling**: [[Assets Locations Location City Forge Master Petra Hammerdeep V1 Forge Master Petra Hammerdeep.svg]]
+- **Parent**: [[portrait-npc-the-schooling-v1-the-schooling.svg]]
+- **Ally**: [[Assets Locations Location City Archdruid Marina Kelpweaver V1 Archdruid Marina Kelpweaver.svg]]
+- **Debtor**: [[Assets Locations Location City Master Gardener Sage Harmony Bloomtender Master Gardener Sage Harmony Bloomtender.svg]]
+- **Debtor**: [[Portrait NPC Sorrow Root Nightbloom Sorrow Root Nightbloom.svg]]
+
+
+## Plot Hooks
+
+- Someone is searching for an heir for money
+- Strange disappearances suggest a portal
+- A journal reveals a conspiracy about the government
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

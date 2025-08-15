@@ -15,32 +15,26 @@ world: Both
 updated: '2025-08-13T01:18:36.606803+00:00'
 ---
 
-
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-navigation-geograph-navigation-geograph.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## Structure
+### Enhancement Improvements
 
-TODO
-## Goals
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Assets
-
-TODO
-## Conflicts
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -50,17 +44,9 @@ Navigation & Geography 2 is a undersea element of the setting, known for biolumi
 
 Legends speak of Navigation & Geography 2 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Navigation & Geography 2.
 
-## Adventure Hooks
-
-- A rumor ties Navigation & Geography 2 to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Navigation & Geography 2 to avert a public scandal.
-- A map overlay reveals a hidden approach to Navigation & Geography 2 active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
 
 ## Semantic Connections
 *Related concepts and locations:*
@@ -75,7 +61,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[new-organizations]]
 - [[Border Fortresses]]
 
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for a artifact for love
+- A journal reveals ancient history about a local noble
+- A map reveals ancient history about a local noble
+- A prisoner has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

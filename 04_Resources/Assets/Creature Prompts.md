@@ -12,14 +12,9 @@ status: draft
 updated: '2024-01-01T00:00:00+00:00'
 ---
 
-
-# Monster & Creature Illustration Prompts
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

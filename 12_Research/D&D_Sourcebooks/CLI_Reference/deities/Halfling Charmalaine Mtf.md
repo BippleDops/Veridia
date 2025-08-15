@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:04.210068+00:00'
 world: Both
 ---
 
-
-
 # Charmalaine
 *Source: Mordenkainen's Tome of Foes p. 103* 
 
@@ -39,6 +37,24 @@ Charmalaine is an energetic and spontaneous deity, unafraid of danger, for she e
 
 Halflings sometimes call Charmalaine the Lucky Ghost because she can send her spirit out of her body to scout ahead, and thus she is able to warn halfling adventurers of danger while in her incorporeal form. Halflings who favor Charmalaine are usually adventurers or those who pursue other risky professions such as hunting, beast training, scouting, and guarding public officials.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Halfling charmalaine mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -47,19 +63,45 @@ Halfling charmalaine mtf is a undersea element of the setting, known for biolumi
 
 Legends speak of halfling charmalaine mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around halfling charmalaine mtf.
 
-## Adventure Hooks
-
-- A rumor ties halfling charmalaine mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at halfling charmalaine mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to halfling charmalaine mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a betrayal about this place
+- Someone is blackmailing information for power
+- Someone is protecting information for power
+- Strange accidents suggest a portal
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

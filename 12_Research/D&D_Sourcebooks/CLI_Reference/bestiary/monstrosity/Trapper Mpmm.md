@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.357378+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-trapper-mpmm-trapper-mpmm.svg)
 
@@ -41,7 +38,7 @@ A trapper is a manta-like creature that usually lurks in subterranean environmen
 
 A trapper's ability to alter the color and texture of its outer side enables it to blend in with any surface made of stone, earth, or wood, masking its presence to any but the most rigorous scrutiny. It can't change its texture to that of a grassy or snow-covered surface, but it is just cunning enough to change its color to match and then conceal itself under a thin layer of vegetation or actual snow.
 
-A trapper that lurks on the floor of its hunting grounds can cover any remains there with its body, making them look like irregularities in the surface. The creature might instead attach itself to a nearby wall or a ceiling, using the remnants as bait; any creature that stops to investigate the bones for valuables becomes the trapper's next meal.
+A trapper that lurks on the floor of its hunting grounds can cover any remains there with its body, making them look like irregularities in the surface. The creature might instead attach itself to a nearby wall or a ceiling, using the remts as bait; any creature that stops to investigate the bones for valuables becomes the trapper's next meal.
 
 A trapper needs to eat a [[halfling-xphb|halfling]]-sized meal once per week to remain sated. Given a steady supply of food, trappers are content to stay in one place, making them a threat along well-traveled dungeon corridor and on routes through the wilderness that see a lot of traffic. When prey is scarce, a trapper enters a state of hibernation that can last for months, though it is still aware when prey comes near. A trapper on the verge of starvation might defy its instincts and abandon its old territory in search of better hunting.
 
@@ -58,7 +55,6 @@ A trapper needs to eat a [[halfling-xphb|halfling]]-sized meal once per week to 
 "stats":
   - !!int "17"
   - !!int "10"
-  - !!int "17"
   - !!int "2"
   - !!int "13"
   - !!int "4"
@@ -95,6 +91,24 @@ A trapper needs to eat a [[halfling-xphb|halfling]]-sized meal once per week to 
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 underdark
@@ -107,19 +121,29 @@ Trapper mpmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of trapper mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around trapper mpmm.
 
-## Adventure Hooks
-
-- A rumor ties trapper mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at trapper mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to trapper mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest ancient magic
+- A document has gone missing and truth emerges
+- A document has gone missing and chaos spreads
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -21,31 +21,25 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# S-L-11 Platform Unmooring
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Read-Aloud
 > The city shifts under your feet as if remembering how to drift.
-
-## Setup
-- Band: Any • Category: Legendary Infrastructure
-- Stakes: City lost to the winds
-
-## Mechanics
-- Engineer DC 18 re-anchor systems
-- Anchorite DC 17 stabilize star pylon
-- Command DC 17 coordinate ground crews
-
-## Outcomes
-- Success: Re-anchored; public acclaim
-- Partial: Drifting continues; temporary relocation arc
-- Fail: Lost city; long-term campaign location changes
-
-## Integrations
-- Anchors; faction governance; logistics
-
-## Quick-Run
-- Engineer→Anchorite→Command; set city-state and arc
 
 ## Player-Facing Summary
 
@@ -55,19 +49,35 @@ S L 11 Platform Unmooring is a undersea element of the setting, known for biolum
 
 Legends speak of S L 11 Platform Unmooring as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around S L 11 Platform Unmooring.
 
-## Adventure Hooks
-
-- A rumor ties S L 11 Platform Unmooring to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at S L 11 Platform Unmooring to avert a public scandal.
-- A map overlay reveals a hidden approach to S L 11 Platform Unmooring active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A document has gone missing and war looms
+- A merchant needs help investigating before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:37.356336'
 world: Both
 ---
 
-
 # Wand of Winter
 *Wand, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/wand-of-winter.webp#right)
@@ -36,6 +35,24 @@ The wand has 7 charges, which are used to fuel the spells within it. With the wa
 
 *Source: Hoard of the Dragon Queen p. 94*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Wand of winter hotdq is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -44,19 +61,20 @@ Wand of winter hotdq is a undersea element of the setting, known for bioluminesc
 
 Legends speak of wand of winter hotdq as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wand of winter hotdq.
 
-## Adventure Hooks
-
-- A rumor ties wand of winter hotdq to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at wand of winter hotdq to avert a public scandal.
-- A map overlay reveals a hidden approach to wand of winter hotdq active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

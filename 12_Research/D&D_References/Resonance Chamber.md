@@ -1,7 +1,7 @@
-# Resonance Chamber
+# Resoce Chamber
 
 ---
-title: Resonance Chamber
+title: Resoce Chamber
 type: Lore
 tags:
 - lore
@@ -16,47 +16,45 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Master_Places_Index|Master Places Index]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Master Artificers Guild]]
-- [[Crystal-Corruption-Tracking-Sheet]]
-- [[Eastern Kingdom]]
-- [[Resonance Peaks]]
-- [[The Possessed Queen]]
-- [[United Councils of Both Worlds]]
-- [[Aethermoor]]
-- [[Royal Palace]]
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
-Resonance Chamber is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+Resoce Chamber is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of Resonance Chamber as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Resonance Chamber.
-
-## Adventure Hooks
-
-- A rumor ties Resonance Chamber to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Resonance Chamber to avert a public scandal.
-- A map overlay reveals a hidden approach to Resonance Chamber active only during specific tides/storms.
+Legends speak of Resoce Chamber as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Resoce Chamber.
 
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

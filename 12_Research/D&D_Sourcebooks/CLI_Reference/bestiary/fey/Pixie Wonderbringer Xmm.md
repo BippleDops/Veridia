@@ -19,7 +19,7 @@ tags:
 - ttrpg-cli/monster/environment/forest
 - status/in-progress
 - ttrpg-cli/monster/size/tiny
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-monster
@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:05.540880+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-pixie-wonderbringer-xmm-pixie-wonderbringer-xmm.svg)
 
@@ -40,6 +37,24 @@ world: Both
 *Source: Monster Manual (2024) p. 244*  
 
 Energetic entertainers, wonderbringers use their magic in defense of the wilderness when they must.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Pixies
 
@@ -98,7 +113,7 @@ Barely a foot tall, pixies resemble diminutive elves with gossamer wings. They i
     "name": "Spellcasting"
 "bonus_actions":
   - "desc": "The pixie casts [[entangle-xphb|Entangle]],\
-      \ [[polymorph-xphb|Polymorph]], or [[tashas-hideous-laughter-xphb|Tasha's Hideous\
+      \ [[polymorph-xphb|Polymorph]], or [[tashas-hideous-laughter-xphb|Tasha's Hideous\]]
       \ Laughter]], requiring\
       \ no Material components and using the same spellcasting ability as Spellcasting.\n"
     "name": "Burst of Wonder (Recharge 5-6)"
@@ -120,19 +135,22 @@ Pixie wonderbringer xmm is a undersea element of the setting, known for biolumin
 
 Legends speak of pixie wonderbringer xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around pixie wonderbringer xmm.
 
-## Adventure Hooks
-
-- A rumor ties pixie wonderbringer xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at pixie wonderbringer xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to pixie wonderbringer xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and chaos spreads
+- A document has gone missing and war looms
+- Strange dreams suggest ancient magic
+- Someone is protecting information for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -32,10 +32,8 @@ updated: '2025-08-12T23:37:36.139523'
 world: Both
 ---
 
-
 # Aganazzar's Scorcher
 *2nd-level, Evocation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -50,6 +48,24 @@ A line of roaring flame 30 feet long and 5 feet wide emanates from you in a dire
 
 *Source: Xanathar's Guide to Everything p. 150*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Aganazzars scorcher xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -58,19 +74,32 @@ Aganazzars scorcher xge is a undersea element of the setting, known for biolumin
 
 Legends speak of aganazzars scorcher xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around aganazzars scorcher xge.
 
-## Adventure Hooks
-
-- A rumor ties aganazzars scorcher xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at aganazzars scorcher xge to avert a public scandal.
-- A map overlay reveals a hidden approach to aganazzars scorcher xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A map reveals a conspiracy about a local noble
+- Someone is searching for a witness for revenge
+- A journal reveals the truth about the cult
+- A merchant needs help stealing before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

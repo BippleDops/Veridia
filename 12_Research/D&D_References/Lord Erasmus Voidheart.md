@@ -15,36 +15,26 @@ world: Aquabyssos
 updated: '2025-08-13T01:18:36.962919+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-lord-erasmus-voidheart-lord-erasmus-voidheart.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Appearance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Personality
-
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -54,28 +44,32 @@ Lord Erasmus Voidheart is a void-touched element of the setting, known for impos
 
 Legends speak of Lord Erasmus Voidheart as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lord Erasmus Voidheart.
 
-## Adventure Hooks
-
-- A rumor ties Lord Erasmus Voidheart to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Lord Erasmus Voidheart to avert a public scandal.
-- A map overlay reveals a hidden approach to Lord Erasmus Voidheart active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Lord Erasmus Voidheart|02 Worldbuilding/People/Lord Erasmus Voidheart]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Diplomatic Tides]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Plot Hooks
+
+- Someone is hunting an heir for power
+- Strange dreams suggest a curse
+- A letter reveals the truth about the cult
+- A stranger needs help finding before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

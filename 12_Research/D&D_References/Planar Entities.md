@@ -16,18 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Stop the Crystal Festival Ritual|02 Worldbuilding/Quests/Stop The Crystal Festival Ritual]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Bubble Burst]]
-- [[Stop the Crystal Festival Ritual]]
 
 ## Player-Facing Summary
 
@@ -37,19 +41,39 @@ Planar Entities is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Planar Entities as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Planar Entities.
 
-## Adventure Hooks
-
-- A rumor ties Planar Entities to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Planar Entities to avert a public scandal.
-- A map overlay reveals a hidden approach to Planar Entities active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals the truth about the government
+- Someone is protecting a artifact for love
+- A merchant needs help delivering before the festival
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

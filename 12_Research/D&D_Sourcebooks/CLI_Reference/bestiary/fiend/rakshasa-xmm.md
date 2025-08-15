@@ -29,9 +29,26 @@ updated: '2025-08-12T23:37:35.488841'
 world: Both
 ---
 
-
 # [[rakshasa-xmm|Rakshasa]]
-*Source: Monster Manual (2024) p. 253. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 253. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Rakshasa
 
@@ -69,10 +86,9 @@ Rakshasas' appearances combine humanlike bodies with the features of animals and
   - "name": "[[skills#Insight|Insight]]"
     "desc": "+8"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+8"
 "damage_vulnerabilities": "piercing damage from weapons wielded by creatures under\
   \ the effect of a Bless spell"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]]"
 "senses": "truesight 60 ft., passive Perception 18"
 "languages": "Common, Infernal"
 "cr": "13"
@@ -96,14 +112,14 @@ Rakshasas' appearances combine humanlike bodies with the features of animals and
     "name": "Cursed Touch"
   - "desc": "Wisdom Saving Throw: DC 18, each enemy in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the rakshasa. Failure: 28 (8d6) Psychic damage, and the\
-      \ target has the [[conditions#Frightened|Frightened]] and\
+      \ target has the [[conditions#frightened|Frightened]] and\
       \ [[conditions#Incapacitated|Incapacitated]] conditions until\
       \ the start of the rakshasa's next turn."
     "name": "Baleful Command (Recharge 5-6)"
   - "desc": "The rakshasa casts one of the following spells, requiring no Material\
       \ components and using Charisma as the spellcasting ability (spell save DC 18):\n\
       \nAt will: [[detect-magic-xphb|Detect Magic]],\
-      \ [[detect-thoughts-xphb|Detect Thoughts]], [[disguise-self-xphb|Disguise\
+      \ [[detect-thoughts-xphb|Detect Thoughts]], [[disguise-self-xphb|Disguise\]]
       \ Self]], [[mage-hand-xphb|Mage Hand]],\
       \ [[minor-illusion-xphb|Minor Illusion]]\n\n1/day\
       \ each: [[fly-xphb|Fly]], [[invisibility-xphb|Invisibility]],\
@@ -127,19 +143,31 @@ Rakshasa xmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of rakshasa xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rakshasa xmm.
 
-## Adventure Hooks
-
-- A rumor ties rakshasa xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at rakshasa xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to rakshasa xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and war looms
+- Someone is searching for an heir for power
+- A journal reveals a conspiracy about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

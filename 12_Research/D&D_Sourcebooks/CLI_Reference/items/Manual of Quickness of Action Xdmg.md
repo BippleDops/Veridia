@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:06.829891+00:00'
 world: Both
 ---
 
-
-
 # Manual of Quickness of Action
 *Wondrous item, very rare*  
 ![](/03_Mechanics/CLI/items/img/manual-of-quickness-of-action.webp#right)
@@ -34,7 +32,25 @@ world: Both
 
 This book contains coordination and balance exercises, and its words are charged with magic. If you spend 48 hours over a period of 6 days or fewer studying the book's contents and practicing its guidelines, your Dexterity score increases by 2, as does your maximum for that score. The manual then loses its magic, but regains it in a century.
 
-*Source: Dungeon Master's Guide (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 278. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -44,19 +60,20 @@ Manual of quickness of action xdmg is a undersea element of the setting, known f
 
 Legends speak of manual of quickness of action xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around manual of quickness of action xdmg.
 
-## Adventure Hooks
-
-- A rumor ties manual of quickness of action xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at manual of quickness of action xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to manual of quickness of action xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

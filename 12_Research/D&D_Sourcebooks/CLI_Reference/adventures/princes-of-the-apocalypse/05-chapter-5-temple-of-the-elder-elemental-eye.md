@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.589036'
 world: Both
 ---
 
-
 # Chapter 5: Temple of the Elder Elemental Eye
 *Source: Princes of the Apocalypse, p. 112* 
 
@@ -35,6 +34,24 @@ The elemental nodes are growing so strong that their mere existence is triggerin
 > 
 > If the party cleaned out each of the temples in chapter 4, the adventurers begin this chapter around 10th level. The Fane of the Eye is intended for a 10th-level group; the Howling Caves are designed for an 11th-level party; the Plunging Torrents and Black Geode are intended for a party of about 12th level; and the Weeping Colossus is designed for a 13th-level party. As a rough guideline, the party should gain one level after clearing the Fane, one level after finishing the first elemental node they explore, and one more level after completing the third node they explore.
 ^character-advancement
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Wrath of the Elements
 
@@ -60,7 +77,6 @@ You can present the characters with unexpected obstacles related to the storm to
 Use this event only if the fire node is still active. The characters find themselves—and perhaps a settlement they care about—in the path of three [[fire-elemental-xmm|fire elementals]] and five [[smoke-mephit-xmm|smoke mephits]]. The elementals go for the nearest large combustible objects, while the smoke mephits scatter and use their cinder breath to start small peripheral fires.
 
 > [!readaloud] 
-> 
 > The smell of smoke drifts on the air. Upwind, plumes of smoke billow up from the hillsides. Grass is catching fire at a furious rate, and the fire is moving quickly your way. Big creatures made of flame race over the ground, while small shapes flit in the smoke.
 ^450
 
@@ -76,8 +92,6 @@ As the tremor ends, a [[/03_Mechanics/CLI/bestiary/monstrosity/young-purple-worm
 
 Seeing no end to the destruction visited on their homes, a cowardly faction among the elders of Westbridge submits to the forces of elemental earth. They hope to be spared further sorrow and destruction. Characters learn of this development from Sedina Wolfpaw, a half-elf [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|scout]] from Triboar who visited Westbridge, discovered the situation, and hurried to track down anyone who could help. She introduces the problem as follows:
 
-> [!readaloud] 
-> 
 > "Westbridge was badly damaged by earthquakes. I was down that way, and I found half the town gathered in front of the Harvest Inn. Most of them were listening to a priest in stony armor. He was preaching about how destruction was coming, and only the chosen would be spared, and they were listening to him!" She shakes her head. "When I tried to speak up, the priest told the townies to seize me, but I managed to escape. I knew I had to find someone who can fight these lunatics, so here I am."
 ^453
 
@@ -101,14 +115,12 @@ If the characters try to slip into town without being spotted, they quickly meet
 
 The adventurers find the cult already at work.
 
-> [!readaloud] 
-> 
 > Much of Westbridge lies in ruins. A handful of people are out and about, but they keep to themselves. Several dozen more townsfolk have gathered in a clearing. They each wear a brown patch on their cloaks or tunics as they stand listening to a trio of hooded priests who are leading them in strange prayer to "the Black Earth."
 ^458
 
 The three hooded priests are junior members of the Black Earth cult ([[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]]) who are enjoying haranguing the forty or so [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]] undergoing indoctrination. The cultists taunt any characters who approach, saying, "These people have learned the truth. You can't save them, but we can."
 
-The Westbridgers are [[conditions#Frightened|frightened]]. They don't like the cultists, but they think they need the cult's protection against future disasters. Some beg the characters not to interfere, while others take the adventurers' arrival as reason to stand up to the cult. If fighting breaks out here, most of the commoners scatter, but six aid the adventurers. These braver folk warn the characters that the "high priest," Dreyon, is at the Harvest Inn and has a hill giant in his service.
+The Westbridgers are [[conditions#frightened|frightened]]. They don't like the cultists, but they think they need the cult's protection against future disasters. Some beg the characters not to interfere, while others take the adventurers' arrival as reason to stand up to the cult. If fighting breaks out here, most of the commoners scatter, but six aid the adventurers. These braver folk warn the characters that the "high priest," Dreyon, is at the Harvest Inn and has a hill giant in his service.
 
 #### The Harvest Inn
 
@@ -130,8 +142,6 @@ Given time, Haayon might very well rebuild the Cult of the Howling Hatred. He kn
 
 Through rumors in a town or messages from faction members, the characters hear the following tale. For the description, choose a settlement the characters aren't in and that has not been destroyed.
 
-> [!readaloud] 
-> 
 > Refugees have been shuffling down from the hills north of the town. Some wear the white robes and black-feathered cowls of air cultists, while others are dressed in the green of the water cultists. Each person bears a placard around his or her neck, reading "I am punished."
 ^45c
 
@@ -141,8 +151,6 @@ The refugees are [[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm|cultists]] wh
 
 The giant's band has gathered at a hilltop ruin in the hills overlooking Jundar's Pass, where the road leads northeast from Beliard. When the adventurers locate the camp, read the following text:
 
-> [!readaloud] 
-> 
 > A footpath leads to a ruined stone wall that rings a hilltop. A dozen tents are pitched in the shelter of the walls, along with a pavilion. At one side of the camp, five slumped figures are tied to wooden posts, each captive with a placard around his or her neck. Silent figures in leather breeches stand guard.
 ^45e
 
@@ -206,12 +214,8 @@ The glow of weird, phosphorescent lichen—a side effect of the strange magical 
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/054-05-01.webp#gallery|Map 5.1: Fane of the Eye]]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/055-pam20_faneeye_dm-zf-0998-75774-1-011-0.webp#gallery|Player Version]]
 
-### Areas of the Fane
-
 ### F1. Worm's Stair
 
-> [!readaloud] 
-> 
 > The skeleton of a giant worm is fused to the sides of this long tunnel, disappearing into a nearly vertical tunnel fifty feet above the floor. Wooden steps have been lashed to the bones, creating a makeshift staircase. Several odd backpacks lie in a pile on the floor at the foot of the stairs.
 ^46c
 
@@ -223,8 +227,6 @@ The odd backpacks are five [[balloon-pack-pota|balloon packs]] (see chapter 7) l
 
 ### F2. Howling Pit
 
-> [!readaloud] 
-> 
 > Wind howls as it climbs this dark shaft.
 ^46f
 
@@ -232,8 +234,6 @@ After 80 feet, the pit tapers into a tunnel (area N1 of the Howling Caves, descr
 
 ### F3. Wind Prison
 
-> [!readaloud] 
-> 
 > A stone pedestal in the middle of this cavern holds a glassy sphere about eight inches in diameter. The sphere seems to contain swirling smoke. Battered armor, damaged weapons, and tattered clothing are strewn around the chamber, but the floor within ten feet of the sphere is free of such debris. Several weapons on the ground seem like they might still be serviceable, although all are badly worn.
 ^471
 
@@ -247,10 +247,7 @@ While the whirlwind rages, four [[animated-flying-sword-xmm|flying swords]] anim
 
 Characters spot the light in this chamber before entering it.
 
-> [!readaloud] 
-> 
 > A bronze torch glowing with a magical light lies next to the corpse of a bare-chested man with a shield in the shape of a crab shell and a broken shark-toothed sword. Several other corpses are scattered on the floor. Some have been picked down to bone, their clothing and armor discarded nearby, while others have hardly been touched.
-> 
 > The walls are uneven, with small ledges and fissures on all sides. The ceiling is about a hundred feet high.
 ^473
 
@@ -268,10 +265,7 @@ The harpies have collected loot in their nests, including 560 sp, 220 gp, a gold
 
 ### F5. Rust Monster Pit
 
-> [!readaloud] 
-> 
 > A low, thin mist clings to the floor of this cave, and the walls glisten with moisture. Several sets of crude bronze manacles are anchored to the walls, and three hold haggard human captives. The captives are [[conditions#Unconscious|unconscious]], although they groan and writhe slowly.
-> 
 > A steady breeze blows toward a passage to the west, while from the east comes the distant sound of running water.
 ^478
 
@@ -281,7 +275,7 @@ The mist is natural, caused by the humid air in area F6 being drawn westward by 
 
 A character searching the floor notices the pit with a successful DC 10 Wisdom ([[skills#Perception|Perception]]) check.
 
-A character unaware of the pit falls into it. The pit is 10 feet deep and contains a [[rust-monster-xmm|rust monster]] that wandered into this cave after being driven out of area F9. The rust monster is heavily obscured by the mist and makes a surprise attack against a creature that falls into the pit, gaining advantage on its attack roll if its target is [[conditions#Prone|prone]].
+A character unaware of the pit falls into it. The pit is 10 feet deep and contains a [[rust-monster-xmm|rust monster]] that wandered into this cave after being driven out of area F9. The rust monster is heavily obscured by the mist and makes a surprise attack against a creature that falls into the pit, gaining advantage on its attack roll if its target is [[conditions#prone|prone]].
 
 #### Prisoners
 
@@ -289,8 +283,6 @@ Three captives are chained to the walls. Two are fire cultists, while the third 
 
 ### F6. Swift Stream
 
-> [!readaloud] 
-> 
 > A waterfall gushes out of the wall of this large cave, filling a swirling pool and then coursing through a passage to the north. A winding footpath follows the rushing stream. In addition to the stream's passage, there are stone stairs leading up into a passage of dwarven stonework to the north and cave mouths to the northwest and southwest.
 ^47d
 
@@ -304,8 +296,6 @@ The stairs lead up to area C28 in the Temple of the Crushing Wave (chapter 4).
 
 ### F7. Blackmaw Throne
 
-> [!readaloud] 
-> 
 > A big stone bench surrounded by dozens of humanoid skulls stands against the northwest wall of this dank cavern. In the middle of the room, hot coals glow in a fire pit, while crude nests of moss and mud are heaped here and there.
 ^481
 
@@ -329,8 +319,6 @@ Drexa has amassed a small amount of treasure from the Blackmaws' participation i
 
 The waterfall here can be heard from quite a distance.
 
-> [!readaloud] 
-> 
 > The roar of falling water fills this cavern. A stream flows from a passage to the south and spills over the edge of a forty-foot-wide pit. A set of slick stone steps descends into the spray-filled bowl to the north, while a passage to the west holds steps leading upward.
 ^487
 
@@ -342,8 +330,6 @@ The stairs that hug the edge of the pit, though slippery, provide a much safer r
 
 ### F9. Fungal Swamp
 
-> [!readaloud] 
-> 
 > A forest of weird fungal growth infests this large cavern. Giant toadstools and puffballs stand in and among shallow pools of water or atop ledges along the walls. Those walls are covered by huge growths of shelf fungi. Water drips constantly from above.
 ^489
 
@@ -357,8 +343,6 @@ Because dangerous fungi often lurk near the footpaths, denizens of the fane who 
 
 ### F10. Foebreaker's Crypt
 
-> [!readaloud] 
-> 
 > A stone sarcophagus rests on a dais in the southern half of this room. A worn frieze circles the monument about four feet above the ground, but it has been badly damaged, and it is difficult to make out what the carvings represent.
 ^48d
 
@@ -368,8 +352,6 @@ The crypt contains Hendrel's bones, interred here as a warning to Besilmer's ene
 
 ### F11. Foot of the Obelisk
 
-> [!readaloud] 
-> 
 > This cavern is a vertical shaft. Rising up the shaft is a black stone obelisk, twenty feet on a side, with a stone staircase wrapping around its sides, ascending into darkness.
 ^48f
 
@@ -377,8 +359,6 @@ The stairs ascend to area B17 in the Temple of Black Earth (see chapter 4).
 
 ### F12. Abandoned Mine
 
-> [!readaloud] 
-> 
 > A natural passage enters this rubble-strewn chamber from the south, petering out to the north. Stone doors lead to the east, west, and south. Rusting iron rails are anchored to the floor, and a pair of ancient ore carts still rest on the rails. The dust on the floor is thick, and the air is stale.
 ^491
 
@@ -392,8 +372,6 @@ If any character is currently under the blessing of Hendrel Foebreaker (area F10
 
 ### F13. Hall of Black Crystal
 
-> [!readaloud] 
-> 
 > Weird crystals jut from the walls and the floor of this ancient hall, giving off violet light. On the east side, these crystals form a distinct doorway or gate, beyond which the floor slopes downward. Two huge bedrolls and barrels full of provisions are in the southern end of the room.
 ^494
 
@@ -411,15 +389,12 @@ Karg and Maul carry large satchels. Between them, they have 160 gp, 22 pp, three
 
 ### F14. Zegdar's Lair
 
-> [!readaloud] 
-> 
 > This cavern is festooned with dozens of burned human hands and reptilian claws fixed to the walls with iron nails. An iron brazier in the middle of the room is full of hot, glowing coals. A large sleeping pallet of furs is arranged to the south. A hulking minotaur sits on the pallet, counting coins in an iron coffer, while a strange one-eyed creature cowers next to the brazier.
 ^499
 
 The **minotaur **is [[/03_Mechanics/CLI/bestiary/npc/zegdar-pota|Zegdar]], chief of the Emberhorn tribe. He has 117 hit points, wears a chain mail hauberk (AC 16), has an Intelligence score of 11, speaks Undercommon, and is blessed by [[imix-pota|Imix]]. The blessing grants the minotaur immunity to fire damage as well as the following additional action option:
 
 > [!note] 
-> 
 > **Burning Breath (Recharge 5-6).** The minotaur exhales a cloud of burning embers in a 15-foot cone. Each creature in that area must succeed on a DC 14 Dexterity saving throw, taking 21 (`6d6`) fire damage on a failed save, or half as much damage on a successful one.
 ^49a
 
@@ -435,10 +410,7 @@ The Emberhorn minotaurs take trophies by hewing the hands from their smaller def
 
 ### F15. Fiery Throat
 
-> [!readaloud] 
-> 
 > A ten-foot-wide slab of stone levitates in the center of this wide vertical shaft. A bridge-like pier of rock juts out to meet the platform from a wide ledge on the eastern side of the shaft. Hot fumes rise from below, and the shaft glows with fiery light below this level. The shaft continues upward into darkness.
-> 
 > Three passages lead away from the shaft. A small brass gong and a striking hammer are near the ledge.
 ^4a0
 
@@ -448,8 +420,6 @@ Speaking either command word or striking the gong calls the disk to this level. 
 
 ### F16. Emberhorn Den
 
-> [!readaloud] 
-> 
 > A blackened ogre skeleton stands against the north wall of this cavern, pinned in place by iron nails and rawhide straps. A black iron brazier full of hot coals stands in the middle of the room. Three huge, filthy bedrolls lie near the feet of the ogre skeleton.
 ^4a2
 
@@ -463,8 +433,6 @@ Any loud noise in here causes the minotaurs in area F17 to investigate. One goes
 
 ### F17. Ancient Conjury
 
-> [!readaloud] 
-> 
 > The stonework in this chamber is noticeably different from the natural caverns nearby. The room was roughly hewn from the surrounding rock but never dressed or finished. In the middle of the floor is a strange symbol shaped like overlapping circles, cut into the stone with two-inch wide channels.
 ^4a6
 
@@ -480,8 +448,6 @@ Any loud noise in here causes the minotaurs in area F16 to investigate. One goes
 
 ### F18. Drow Tomb
 
-> [!readaloud] 
-> 
 > Flame dances above a pool of murky water to the south, lighting the room. A sarcophagus carved from glassy black stone stands atop a natural pedestal toward the north. The sarcophagus has fluted embellishments, delicate ribs, and friezes that show groveling demons.
 ^4aa
 
@@ -497,8 +463,6 @@ The flame burning on the water is fed by natural oil seeping into a tainted pool
 
 ### F19. That Which Lurks
 
-> [!readaloud] 
-> 
 > In the middle of the chamber is a statue depicting an amorphous body and thick tentacles, hunching over as if to feed. A purple crystal the size of a human head represents one alien eye.
 ^4af
 
@@ -508,8 +472,6 @@ The "crystal" is worthless glass. Any creature that removes or destroys the ston
 
 ### F20. Hall of Battle
 
-> [!readaloud] 
-> 
 > This room smells of blood and death. The debris of several recent battles is scattered throughout this rough-hewn chamber. A dozen dead warriors, clearly of the earth and water cults, lie amid a handful of monstrous corpses, such as those of bugbears and ogres. Some of the bodies look like they have been here for months, while others are only days old. A whirlwind of air encased in armor and clutching a flail rushes into view.
 ^4b1
 
@@ -523,8 +485,6 @@ The various human corpses in this hall include air cultists, earth cultists, and
 
 ### F21. Temple of the Elder Elemental Eye
 
-> [!readaloud] 
-> 
 > A stone ziggurat capped by a huge altar of black granite stands in the middle of this cavern. At the foot of the altar lies a bound and gagged figure. Fresh rivulets of blood stain the altar and trickle down the steps of the ziggurat. On all sides of the cavern, guttering flames dance atop sluggish pools of oily water. Gusts of wind moan and howl from fissures high in the cavern walls.
 ^4b4
 
@@ -532,7 +492,7 @@ This chamber is the Temple of the Elder Elemental Eye, the dark force that lies 
 
 #### Altar
 
-Any non-evil creature that touches the altar or makes a melee weapon attack against it must succeed on a DC 15 Constitution saving throw or take 22 (`4d10`) psychic damage. The altar has AC 15, 150 hit points, and immunity to acid, cold, fire, lightning, poison, psychic, and thunder damage, as well as bludgeoning, piercing, and slashing damage from nonmagical weapons. As long as the altar remains intact, servants of Elemental Evil (including members of the hour elemental cults) can't be [[conditions#Frightened|frightened]] while in this room.
+Any non-evil creature that touches the altar or makes a melee weapon attack against it must succeed on a DC 15 Constitution saving throw or take 22 (`4d10`) psychic damage. The altar has AC 15, 150 hit points, and immunity to acid, cold, fire, lightning, poison, psychic, and thunder damage, as well as bludgeoning, piercing, and slashing damage from nonmagical weapons. As long as the altar remains intact, servants of Elemental Evil (including members of the hour elemental cults) can't be [[conditions#frightened|frightened]] while in this room.
 
 #### Flaming Water
 
@@ -589,16 +549,11 @@ The Howling Caves are lightless.
 
 Wind continuously moves through the Howling Caves, in whispers or howls.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/058-05-02.webp#gallery|Map 5.2: Howling Caves]]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/059-poa6.webp#gallery|Player Version]]
 
-### Areas of the Caves
-
 ### N1. Entrance
 
-> [!readaloud] 
-> 
 > A subterranean wind blows north, up the tunnel, carrying distant screams from the south.
 ^4c4
 
@@ -606,8 +561,6 @@ The north end of the tunnel forms the bottom of a widening shaft that leads up t
 
 ### N2. Deadly Pool
 
-> [!readaloud] 
-> 
 > The temperature plunges in this cave, which is dominated by a frozen pool. Ice crystals glitter on the walls, floor, and other rock formations. Snow whirls about on strong gusts.
 ^4c6
 
@@ -615,8 +568,6 @@ When the characters first arrive, the temperature in this cave is −30 degrees 
 
 When the temperature shifts, read the following:
 
-> [!readaloud] 
-> 
 > Suddenly, the air grows very warm. Water rains from above. The ice cracks, and thick waves of steam rise from the pool. Bobbing among the breaking ice, the bloated bodies of small humanoids stare up with wide, dead eyes.
 ^4c7
 
@@ -628,8 +579,6 @@ The bodies are the boiled remains of svirfneblin that lived in area N5.
 
 ### N3. Oubliette
 
-> [!readaloud] 
-> 
 > Gore spatters the floor and walls of this windy cave, and the floor is strewn with dismembered humanoid corpses. A windy cyclone moves among the remains. A shaft in the ceiling leads up farther than you can see.
 ^4cb
 
@@ -639,8 +588,6 @@ The corpses are sacrifices to [[yan-c-bin-pota|Yan-C-Bin]], hurled down the shaf
 
 ### N4. Storm Chasm
 
-> [!readaloud] 
-> 
 > A chasm divides the subterranean passageway, which continues on the other side ten feet away. Fog obscures the chasm's depths.
 ^4cd
 
@@ -674,8 +621,6 @@ Lightning momentarily fills the chasm. Each creature in the chasm must make a DC
 
 If the nycaloth is in area N7, the characters hear a horrid, rasping song coming from the eastern passage.
 
-> [!readaloud] 
-> 
 > Dwellings carved in the walls of this cavern have been torn asunder by some intense force. Ruins of several dwellings resemble gaps in the walls and piles of rubble. Scores of small humanoid corpses are scattered among the ruins.
 ^4d3
 
@@ -683,8 +628,6 @@ This svirfneblin settlement was the test site for [[aerisi-kalinoth-pota|Aerisi 
 
 ### N6. Breathless Cave
 
-> [!readaloud] 
-> 
 > Giant spiders are seized in death among dead cave lizards, giant bats, a carrion crawler, and a female drow decked in fine chain mail, with ruby-pommeled knives at her hips. No injuries are apparent, and the smell of death is fainter than one would expect. At the back of the cave, within ten feet of the drow, a breeze whistles through three tiny fissures in the rock.
 ^4d5
 
@@ -698,8 +641,6 @@ The drow wears a suit of [[elven-chain-xdmg|elven chain]] and carries a pair of 
 
 If the nycaloth is alive here, the characters hear a horrid, rasping song coming from the area before they see it.
 
-> [!readaloud] 
-> 
 > Two humans, an aarakocra, and a drow hang suspended from hooks connected to chains. Blood pools on the floor beneath them. Beetles scurry along the floor, walls, and down the chains and onto the victims, which faintly struggle, rasp, and moan as a breeze turns them around and around. Debris, including tattered clothing and broken weapons, is scattered against the walls.
 ^4d8
 
@@ -721,8 +662,6 @@ Among the debris is a spider silk pouch with 23 pp and a [[necklace-of-prayer-be
 
 ### N8. Wind Chorus
 
-> [!readaloud] 
-> 
 > Wind rushes through this curving natural passage and off into the darkness beyond, howling in a changing pitch as it feeds through the alcoves and fissures of faraway caves.
 ^4dd
 
@@ -738,8 +677,6 @@ Choose an NPC adversary who was or is important to the affected characters. The 
 
 ### N9. Mushroom Forest
 
-> [!readaloud] 
-> 
 > This cave has an uneven floor covered with toadstools. The toadstool caps are spotted white, purple, green, and blue. Some are as low and wide as forest ferns while others stand as tall as humans, their stems thick as the trunks of trees. Still others shed a faint light, eerily illuminating a sloped passage leading down to the shore of a placid body of water that also glows dimly. Beneath whispering gusts of air, the sound of dripping water echoes.
 ^4e2
 
@@ -751,8 +688,6 @@ The sloping passage to the south leads to area N12.
 
 ### N10. Stalagmite Garden
 
-> [!readaloud] 
-> 
 > Wind blows through this weird stalagmite garden. The rock formations are smooth and contorted, their natural forms weathered to be chaotic and abstract.
 ^4e4
 
@@ -760,8 +695,6 @@ Supernatural air has weathered the stalagmites such that they form weird images 
 
 ### N11. Hero's Tomb
 
-> [!readaloud] 
-> 
 > A yellow casket rests on the flat top of a stone column in the middle of a glowing mere.
 ^4e6
 
@@ -775,8 +708,6 @@ Godwyd's shortsword is a [[dragon-slayer-xdmg|dragon slayer]]. Removing the blad
 
 ### N12. Glowing Mere
 
-> [!readaloud] 
-> 
 > Surrounded by tall stalagmites and fungi, a wide, placid pool of water stretches through this elongated cavern. The water glows a soft blue, and in its shallows, silvery fish dart in and out of sight.
 ^4e9
 
@@ -784,8 +715,6 @@ The mere is 15 feet deep at its deepest point. The water here is clear and clean
 
 ### N13a–N13b. Whispering Caverns
 
-> [!readaloud] 
-> 
 > This cave has an uneven floor. Wind whispers through the flowstone formations here.
 ^4eb
 
@@ -795,8 +724,6 @@ These caves are empty.
 
 Wind blowing from area N15 intensifies as it passes through this area, extinguishing torches and other open flames.
 
-> [!readaloud] 
-> 
 > Several windy tunnels meet at a chasm. Ledges along the cavern walls create natural footpaths above the abyss.
 ^4ed
 
@@ -804,8 +731,6 @@ The chasm is 100 feet deep. The strong wind makes walking on the narrow ledges t
 
 ### N15. Windhuggers
 
-> [!readaloud] 
-> 
 > A warm wind swirls through this smooth cave, seemingly changing course at random. Nine cultists wearing feathered cloaks stand here with arms outstretched, as though waiting for the wind's embrace or, perhaps, waiting for the wind to carry them somewhere far, far away.
 ^4ef
 
@@ -813,8 +738,6 @@ A [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-priest-pota|Howling Hatre
 
 ### N16. Tortured Cavern
 
-> [!readaloud] 
-> 
 > The walls have a smoothed, rippled look about them, as if the stone was melted. Squat stalagmites and elongated stalactites bend and lean in unnatural arcs. A strong draft blows across the rock formations, eliciting a hollow howl.
 ^4f1
 
@@ -824,8 +747,6 @@ As the characters explore this area, a [[black-pudding-xmm|black pudding]] pours
 
 Characters hear the wind and spot the green light here before arriving.
 
-> [!readaloud] 
-> 
 > At an intersection of four tunnels, a mighty gale blows from the northern way, making a constant howl. Two braziers burn with green flame, lighting the area. Numerous rock columns join the floor to the ceiling. Severed silk ropes, darkly sodden with blood, sit at the base of three gore-spattered columns. Tied to two other columns are two women, each with a symbol cut into her forehead.
 ^4f3
 
@@ -847,8 +768,6 @@ The wind disperses gas or vapor, and it extinguishes candles, torches, and simil
 
 The characters spot the green light ([[continual-flame-xphb|continual flame]]) from the brazier here before arriving.
 
-> [!readaloud] 
-> 
 > A powerful wind roars through this small cave, causing bits of debris to ricochet off the walls, exploding into dust from the impact. In the middle of the cavern a stone brazier is lit with a steady green flame. Blocking the tunnel to the north are four thin figures in billowing cult robes. The wind doesn't seem to impede them at all.
 ^4f8
 
@@ -858,10 +777,7 @@ Four emaciated [[/03_Mechanics/CLI/bestiary/humanoid/howling-hatred-priest-pota|
 
 Characters hear thunder and see flashes of light as they approach this area.
 
-> [!readaloud] 
-> 
 > In the middle of this cavern, spikes of stone jut upward like three immense claws. Between them, a churning thundercloud thrashes with lightning. Thunder cracks, and cascades of tiny rocks tumble from above. Beneath the thunderhead stands a raised area splattered with the blood of many sacrifices.
-> 
 > A silvery window is sometimes visible in the center of the cloud. It opens onto clouds in an endless sky.
 ^4fa
 
@@ -955,18 +871,11 @@ Check for a random encounter every 10 minutes. Roll a `d20` and consult the foll
 
 Within the Plunging Torrents, any creature that has the symbol of water scratched into their flesh gains a swimming speed equal to its ground speed, is immune to the effects of currents, and suffers no negative effects from descending a waterfall. Inscribing the mark deals 1 slashing damage and leaves a scar. Healing magic can remove the scar and the capabilities it grants.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/061-05-03.webp#gallery|Map 5.3: The Plunging Torrents]]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/062-poa8.webp#gallery|Player Version]]
 
-### Areas of the Torrents
-
 ### P1. Waterfall Basin
 
-The waterfall here can be heard from quite a distance.
-
-> [!readaloud] 
-> 
 > A loud waterfall pours into this mossy cavern. Wet stairs hug the western wall, climbing higher than the waterfall and descending into the water-filled basin. Where the stairs meet the water's surface, an iron post juts at an angle, and a flat boat is tied to it. Tunnels to the northeast and northwest channel the water from the pool. Above the pool, a seven-foot-diameter globe of water hovers in midair.
 ^50e
 
@@ -988,8 +897,6 @@ When the globe is destroyed or leaves this cave, another one rises up out of the
 
 ### P2. Plunging Passage
 
-> [!readaloud] 
-> 
 > The current moves swiftly toward a small, rocky island that splits the waterway north and south. The sound of falling water is louder to the south.
 ^513
 
@@ -999,8 +906,6 @@ The waterway to the north flows westward down the passageway, unaffected by the 
 
 ### P3. Nets
 
-> [!readaloud] 
-> 
 > The waterway dead-ends in a long cavern where only the distant sound of the falls echoes off the walls. Nets divide the cavern, spanning the distance between pairs of stalagmites jutting above the water.
 ^515
 
@@ -1014,8 +919,6 @@ Each net draped across the cavern has AC 8 and 20 hit points. They extend 5 feet
 
 If the characters explore beneath the water, read the following:
 
-> [!readaloud] 
-> 
 > Forty feet beneath the water, the walls are constructed of worked stone. Red and black mosaics of tentacles flank a set of black marble doors in the south wall. Reliefs of long, curving fangs line the arc of the door frame.
 ^519
 
@@ -1027,8 +930,6 @@ The walls of this cavern are covered with slime and can't be climbed without gea
 
 The water fills the cavern to within 2 feet of the ceiling. The following boxed text assumes that the characters can see underwater:
 
-> [!readaloud] 
-> 
 > Through the water looms a colonnade supporting an arched pediment above a long portico. Behind the colonnade is a pair of stone doors graven with a relief of a circular, saw-toothed maw. In the plaza in front of this structure, four slimy, fishlike humanoids kneel beneath a sunken stone idol of branching tentacles, which convene at the top around a circular fanged mouth.
 ^51b
 
@@ -1042,13 +943,9 @@ If a battle occurs here, the creatures from area P7 investigate and join the fra
 
 ### P5. Shrine of Yngukulub
 
-> [!readaloud] 
-> 
 > This room echoes with the roar of falling water. Relief carvings of horrific mouths, each framed by a knotwork of oozing tentacles wrought in stone, adorn the slime-covered walls of this half-submerged shrine.
 ^51f
 
-> [!readaloud] 
-> 
 > Stairs lined with columns ascend from the water to a landing where a block of smooth stone serves as an altar. Chains snake from the base of the altar, ending in open, rusty manacles.
 ^520
 
@@ -1058,8 +955,6 @@ This is where the aboleth in area P6 comes to feed on sacrifices. A [[kuo-toa-ar
 
 Replace the kuo-toa archpriest's Scepter action with the following action:
 
-> [!note] 
-> 
 > **Trident of Fish Command.** *Melee  or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit*: 5 (`1d6 + 2`) piercing damage, or 6 (`1d8 + 2`) piercing damage if used with two hands to make a melee attack.
 ^521
 
@@ -1077,8 +972,6 @@ Yngukulub obeys [[gar-shatterkeel-pota|Gar Shatterkeel]] because it awaits the d
 
 If [[gar-shatterkeel-pota|Gar Shatterkeel]] was defeated in the Temple of the Crushing Wave, the aboleth guards the water portal in area P20. Otherwise, it is here.
 
-> [!readaloud] 
-> 
 > The slimy water that fills this cave flows through a hole in the east wall before plunging into the cavernous darkness beyond. Tall, slime-covered columns ascend from the foul water. Each one is decorated with a mosaic depicting elves, dwarves, humans, and other races descending into the fanged maw of a three-eyed, tentacled horror at the base of the column. The monster's eyes glitter like gems.
 ^526
 
@@ -1096,8 +989,6 @@ Lying on the floor of the aboleth's cave are 180 pp, 1,700 ep, and a [[tentacle-
 
 ### P7. Quipper Pit
 
-> [!readaloud] 
-> 
 > Stairs rise to a small, damp cave where five loathsome fishfolk stand around a pit, choking and muttering.
 ^52b
 
@@ -1107,8 +998,6 @@ Four [[kuo-toa-xmm|kuo-toa]] and a [[kuo-toa-whip-xmm|kuo-toa whip]] have filled
 
 ### P8. Sloping Cave
 
-> [!readaloud] 
-> 
 > Stalactites cover the ceiling of this cave, which slopes down toward the south. Embankments skirt the edges, and small, flat stones rise from the water, which is about 5 feet deep. Tiny white fish move through the shallows, darting over glittering coins visible beneath the water.
 ^52d
 
@@ -1122,8 +1011,6 @@ Beneath the water are 230 ep and 563 gp.
 
 ### P9. Crushing Wave Outpost
 
-> [!readaloud] 
-> 
 > The ceiling of this large, water-filled cavern is 30 feet above the water's surface. In the middle of the cavern, two rocky plateaus rise twenty feet above the water. Atop each plinth crouches a humanoid with slimy, translucent skin. The water flows toward the southeast, where you hear a thunderous waterfall.
 ^530
 
@@ -1135,10 +1022,7 @@ Unless they are drawn to area P20 to protect the aboleth, two [[chuul-xmm|chuuls
 
 ### P10. Trial by Water
 
-> [!readaloud] 
-> 
 > A ribbon of dry land hugs the walls of this cavern, the walls of which are covered with chalk-scrawled symbols of elemental water.
-> 
 > In the center of the cavern, a wrought-iron cage dangles from a rope lashed to a stalactite. Three-fourths of the cage hangs submerged in the pool that fills the middle of the cavern. A dozen humanoids pack the cage, elemental water's symbol raised in a scar on every brow. Tired hands grasp at the bars as the captives struggle to press their mouths above the water. Among the mass of wrestling forms, some lay still, floating face down inside the cage.
 ^532
 
@@ -1148,8 +1032,6 @@ Eight [[/03_Mechanics/CLI/bestiary/humanoid/crushing-wave-reaver-pota|Crushing W
 
 ### P11. Hunter's Den
 
-> [!readaloud] 
-> 
 > Water drips from the stalactites in this serene cave, echoing through the gloom. Wide rock ledges extend around the perimeter, and natural stone islands provide ample room to sit or lay down.
 ^534
 
@@ -1163,8 +1045,6 @@ A one-way secret door blocks access to a submerged tunnel that ends at another s
 
 ### P12. Feeding Cave
 
-> [!readaloud] 
-> 
 > A long pool fills the cavern, broken only by an island bristling with stalagmites. A corpse floats face down in the water near the island.
 ^538
 
@@ -1188,8 +1068,6 @@ While exploring the southern part of this area, characters can hear the cackling
 
 ### P13. The Hungry
 
-> [!readaloud] 
-> 
 > Humanoid bones are scattered across the water's bottom. Barnacles cling to the cave walls, and piles of splintered bone crowd the cave's ledges and islands. The smell of brine battles with the stench of decay.
 ^53f
 
@@ -1197,8 +1075,6 @@ Seven [[ghoul-xmm|ghouls]] and a [[ghast-xmm|ghast]] gnaw on the bones in this c
 
 ### P14. Eye of Anguish
 
-> [!readaloud] 
-> 
 > Frosty mist fills this cave. Icicles and water crystals glitter along ledges, the ceiling, and the walls, and a brittle crust of ice surrounds a central isle upon which crouches a pale-skinned, bare-chested man wearing an eyepatch. He is surrounded by seven cackling, prancing, imp-like creatures made of ice. Five humans are spread-eagled against the far wall, frozen to its surface, their skin black from frostbite. Some hang upside down or sideways; some are missing fingers, hands, and feet.
 ^541
 
@@ -1214,8 +1090,6 @@ If the battle here is extremely loud, the cultists in area P16 know to prepare f
 
 ### P15. Reflection Chamber
 
-> [!readaloud] 
-> 
 > A throne made of coral and seashells stands on the rock at the center of this chamber. Across the arms of the throne, a pearl- and sapphire-encrusted narwhal horn rests like a lordly scepter. The smooth surface of the cavern's pool reflects the throne.
 ^546
 
@@ -1237,8 +1111,6 @@ Encrusted with sapphires and pearls, the narwhal horn is worth 10,000 gp. A crea
 
 The waterfall at the southern end of this cave is audible from the northern approach.
 
-> [!readaloud] 
-> 
 > A crude stone hut perches atop a stony island in the midst of a wide pool. Water drizzles from the cavern ceiling, and the roar of a waterfall echoes throughout.
 ^54b
 
@@ -1248,8 +1120,6 @@ The hut contains two hammocks made from fishing nets, as well as the knights' we
 
 ### P17. Elemental Guardian
 
-> [!readaloud] 
-> 
 > Water pours into this cavern from a waterfall to the north, then flows over a second waterfall to the south. Thick mist conceals the cavern ceiling, with only an occasional stalactite piercing the fog. The surface of the water undulates in big, rolling waves.
 ^54d
 
@@ -1257,8 +1127,6 @@ The ceiling is 30 feet above the eater's surface. A [[water-elemental-myrmidon-m
 
 ### P18. Wrecks
 
-> [!readaloud] 
-> 
 > Heavy rain batters what must be a gigantic cavern, its walls and ceiling lost in the driving storm. Even the roar of the waterfalls to the north, west, and south hush beneath the rain's noise as it strikes the water.
 ^54f
 
@@ -1288,8 +1156,6 @@ Strong currents channel water from area P18 to these caves. In the center of eac
 
 ### P20. Water Portal
 
-> [!readaloud] 
-> 
 > An island rises from a lake at the epicenter of three roaring waterfalls. Flutes of rose, ivory, and lavender coral fringe the island. Above the island floats a gigantic, shimmering globe of water. Smaller globes of water emerge from it, drift outward, and hover in the air a few feet above the surface of the lake. The ambient light reveals the cavern ceiling, eighty feet above the island and hung with countless stalactites.
 ^555
 
@@ -1317,7 +1183,7 @@ Gar makes a final stand here. He can't retreat to the Plane of Water with [[drow
 
 #### Encounter with Olhydra
 
-[[gar-shatterkeel-pota|Gar Shatterkeel]] stands on the island, unguarded. He holds his trident aloft and cries, "With this key I call forth my mistress!" A dark flow emerges from the portal, forming an immense water elemental with pearly, malignant eyes. This is [[olhydra-pota|Olhydra]], Princess of Evil Water (see chapter 7). [[olhydra-pota|Olhydra]] focuses on remaining in the world to work evil, especially keeping [[drown-pota|Drown]] away from the characters.
+[[gar-shatterkeel-pota|Gar Shatterkeel]] stands on the island, unguarded. He holds his trident aloft and cries, "With this key I call forth my mistress!" A dark flow emerges from the portal, forming an immense water elemental with pearly, maligt eyes. This is [[olhydra-pota|Olhydra]], Princess of Evil Water (see chapter 7). [[olhydra-pota|Olhydra]] focuses on remaining in the world to work evil, especially keeping [[drown-pota|Drown]] away from the characters.
 
 ##### Rising Water
 
@@ -1337,8 +1203,6 @@ The Black Geode is a natural cavern distinguished by the seams of luminous viole
 
 ### Geode Features
 
-The area has the following features. Any exceptions are noted in areas to which they apply.
-
 #### Character Recognition
 
 Even if he has not yet encountered the characters, Marlos has seen them in his visions. The earth prophet gives descriptions of the characters to all cultists in the Black Geode.
@@ -1355,10 +1219,6 @@ Most areas are dimly lit by crystal formations that give off a soft, violet glow
 
 Check for random encounters once every 30 minutes. Roll a `d20` and consult the following table to determine what, if anything, the characters encounter:
 
-`dice: [](05-chapter-5-temple-of-the-elder-elemental-eye.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/burrowshark-pota|burrowshark]] riding a [[bulette-xmm|bulette]] (see area G13) |
 | 2 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/stonemelder-pota|stonemelder]] and `1d3 + 1` [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-guard-pota|Black Earth guards]] (see area G12) |
 | 3 | `d2` [[earth-elemental-xmm|earth elementals]] |
@@ -1369,7 +1229,6 @@ Check for random encounters once every 30 minutes. Roll a `d20` and consult the 
 | 8 | Fissure |
 | 9 | Flowstone growth |
 | 10–20 | None |
-^encounter
 
 ##### Bleeding Earth
 
@@ -1377,7 +1236,7 @@ A nearby wall swells and splits open, oozing thick black mud.
 
 ##### Ceiling Collapse
 
-A tremor causes part of the ceiling to collapse above one random party member. If the party includes NPCs, be sure to count them as well. The target must succeed on a DC 15 Dexterity saving throw or take 21 (`6d6`) bludgeoning damage and be knocked [[conditions#Prone|prone]] and buried. While buried in this way, the target is [[conditions#Restrained|restrained]] and unable to breathe or stand up. A creature can take an action to extricate itself or another buried creature, doing so with a successful DC 15 Strength check.
+A tremor causes part of the ceiling to collapse above one random party member. If the party includes NPCs, be sure to count them as well. The target must succeed on a DC 15 Dexterity saving throw or take 21 (`6d6`) bludgeoning damage and be knocked [[conditions#prone|prone]] and buried. While buried in this way, the target is [[conditions#Restrained|restrained]] and unable to breathe or stand up. A creature can take an action to extricate itself or another buried creature, doing so with a successful DC 15 Strength check.
 
 ##### Crystal Extrusion
 
@@ -1391,18 +1250,13 @@ A tremor causes a fissure `1d6 × 10` feet deep to open in the floor beneath one
 
 Stalactites within 30 feet of the party begin to drip like melting wax. By the time the change ceases, each stalactite has grown `d4` feet longer. If a stalactite touches the opposite surface, it becomes a natural column.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/064-05-04.webp#gallery|Map 5.4: The Black Geode]]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/065-poa4.webp#gallery|Player Version]]
-
-### Areas of the Geode
 
 ### G1. Hall of the Guardians
 
 This cave lies at the end of a twisting, declining tunnel that began in area F13 of the Fane of the Eye.
 
-> [!readaloud] 
-> 
 > The rough walls of this cavern rise to a vaulted ceiling hung with stalactites and clumps of slender, luminous crystals that bathe the cavern in a soft, violet light. Passages lead east and west. To the east, the tunnel ascends. The western passage is flanked by a pair of twenty-foot tall stone statues of rough-hewn humanoids, their faces grim masks of forbiddance. Next to each statue is a human guard encased in stone armor.
 ^56b
 
@@ -1412,8 +1266,6 @@ If combat erupts here, two [[earth-elemental-xmm|earth elementals]] burst up fro
 
 ### G2. Keltar and Gorx
 
-> [!readaloud] 
-> 
 > The walls of this circular chamber are thick with glowing crystals. In the middle of the room is a fat, egg-shaped creature with three arms, three legs, heavy-lidded eyes, and a wide mouth atop its stony ovoid body. Casually dropping gemstones into the creature's gaping mouth is a creepy-looking earth cultist.
 ^56d
 
@@ -1437,8 +1289,6 @@ The xorn's stomach still contains some undigested offerings: 9 gp, three egg-siz
 
 ### G3. Roper Den
 
-> [!readaloud] 
-> 
 > This cave is a thicket of stalagmites and stalactites. Several weapons and broken pieces of armor lie scattered among the spires in the room's center.
 ^572
 
@@ -1450,8 +1300,6 @@ Scattered amid the broken weapons and armor are 65 gp, a brass statuette of an i
 
 ### G4. Bewildering Crystals
 
-> [!readaloud] 
-> 
 > This cave is a forest of glowing crystals, which grow like foliage on slender stone columns that make it difficult to gauge the chamber's true size. Slumped against one of the columns is a dead man wearing a stone breastplate.
 ^575
 
@@ -1469,8 +1317,6 @@ The "secret" entrance to area G5 is a tunnel cloaked by a 6th-level [[major-imag
 
 ### G5. Underdark Entrance
 
-> [!readaloud] 
-> 
 > A hole in the back of this cave forms the mouth of a tunnel that plunges deeper into the earth. The tunnel is devoid of the luminous crystals that grow elsewhere in these caverns, and a chill, fetid breeze wafts up from its depths.
 ^57a
 
@@ -1478,12 +1324,10 @@ This tunnel runs for miles, eventually branching off into the caves of the Under
 
 ### G6. Mudflow Falls
 
-> [!readaloud] 
-> 
 > The dull roar of splashing, churning mud fills this cavern, the walls and ceiling of which are streaked with glittering veins of glowing violet crystal. A stream of mud pours through a gash in the roof, cascades down until it crashes onto a ten-foot-high ledge, then tumbles over the ledge into a thin river of mud that flows out through a hole in the northeast corner. A stone staircase climbs up to the ledge, where a passage leads north. A tunnel on the lower level leads south.
 ^57c
 
-Earth cultists call this river of elemental mud the Mudflow. The river is 6 feet wide, 3 feet deep, and descends a total of 40 feet by the time it reaches area G11. Any creature that enters the river for the first time on a turn or ends its turn there must make a DC 10 Strength saving throw or fall [[conditions#Prone|prone]] and be swept 20 feet toward area G11. A creature that is [[conditions#Prone|prone]] in the mud must use an action and succeed on a DC 15 Strength ([[skills#Athletics|Athletics]]) check to stand up. Standing isn't possible within the section of tunnel between this cave and area G11; that stretch of the river is completely submerged in mud.
+Earth cultists call this river of elemental mud the Mudflow. The river is 6 feet wide, 3 feet deep, and descends a total of 40 feet by the time it reaches area G11. Any creature that enters the river for the first time on a turn or ends its turn there must make a DC 10 Strength saving throw or fall [[conditions#prone|prone]] and be swept 20 feet toward area G11. A creature that is [[conditions#prone|prone]] in the mud must use an action and succeed on a DC 15 Strength ([[skills#Athletics|Athletics]]) check to stand up. Standing isn't possible within the section of tunnel between this cave and area G11; that stretch of the river is completely submerged in mud.
 
 A creature can use an action to pull itself or another creature within its reach out of the Mudflow, doing so on a successful DC 15 Strength ([[skills#Athletics|Athletics]]) check.
 
@@ -1499,8 +1343,6 @@ The western portion of the cave is 10 feet higher than the eastern portion, and 
 
 ### G7. Empty Cave
 
-> [!readaloud] 
-> 
 > This small cave is striated with glowing violet crystals. A tunnel to the south turns sharply eastward, while a tunnel to the north slopes down and toward the east as well.
 ^581
 
@@ -1510,15 +1352,11 @@ This area is perfect for random encounters.
 
 As the party approaches this area for the first time, read the following text:
 
-> [!readaloud] 
-> 
 > Bloodcurdling screams come from the cave ahead. The cries last only a few seconds, then stop suddenly.
 ^583
 
 Once the party can see the cave, read the following:
 
-> [!readaloud] 
-> 
 > Humanoid bones litter the floor of this cavern. Some skeletons are partially intact, their rib cages shattered by boulders lying atop them. Only one skeleton remains whole, and it clutches to its chest an open-faced steel helmet decorated with a golden circlet above the brow, from which seven small gold spikes project upward.
 ^584
 
@@ -1544,12 +1382,10 @@ The golden-spiked helm is the [[lost-crown-of-besilmer-pota|Lost Crown of Besilm
 
 The following boxed text assumes that the characters arrive here via the tunnel to the north or south:
 
-> [!readaloud] 
-> 
 > The passage opens onto a smooth stone bridge flanked by boulders. The bridge is five feet wide, has no railings, and spans a wide cavern that echoes with strange clacking noises.
 ^589
 
-The bridge is 40 feet long and sturdy. A creature on the bridge that takes 10 damage or more from a single source must make a DC 10 Dexterity saving throw. If the save fails by 5 or more, the creature is knocked off the bridge and falls. On any other failed result, the creature is knocked [[conditions#Prone|prone]] but manages not to fall off the bridge. The bridge is 40 feet above the floor of the surrounding cavern (area G10).
+The bridge is 40 feet long and sturdy. A creature on the bridge that takes 10 damage or more from a single source must make a DC 10 Dexterity saving throw. If the save fails by 5 or more, the creature is knocked off the bridge and falls. On any other failed result, the creature is knocked [[conditions#prone|prone]] but manages not to fall off the bridge. The bridge is 40 feet above the floor of the surrounding cavern (area G10).
 
 Two [[galeb-duhr-xmm|galeb duhrs]] guard the bridge—one at each end. They look like ordinary boulders until they open their eyes and move. To cross the bridge without rousing the galeb duhrs, someone among the passersby must speak the cult's pass phrase: "We walk in the shadow of [[ogremoch-pota|Ogrémoch]]!" Otherwise, the galeb duhrs wait until intruders are halfway across the bridge before attacking, first by animating the boulders set near them and commanding them to roll across the bridge.
 
@@ -1561,8 +1397,6 @@ Combat on the bridge attracts the hook horrors in area G10, which gather under t
 
 ### G10. Clickety Clack
 
-> [!readaloud] 
-> 
 > This long cavern cuts a wide swath through the earth. Its jagged walls look as if the stone here tore itself apart. Shattered bones lie amid the scree. High above, a narrow stone bridge spans the defile. The chasm echoes with clacking noises that sound a little like falling rocks.
 ^58d
 
@@ -1580,8 +1414,6 @@ Characters who search through the shattered bones of the hook horrors' previous 
 
 ### G11. Elemental Mud Pool
 
-> [!readaloud] 
-> 
 > A river of thick mud gushes from a fissure in one wall, running a short way before gathering into a swirling pool. Standing next to the pool is an earth elemental encased in armor and several small creatures composed of thick, dripping mud.
 ^592
 
@@ -1599,8 +1431,6 @@ If the characters observe the cave unnoticed for a few minutes, they see the myr
 
 If the characters approach this area quietly and without bright light sources, they can surprise the earth cultists within.
 
-> [!readaloud] 
-> 
 > The walls of this cavern are broken at regular intervals by small alcoves, each of which holds a shard of glowing violet crystal. Four earth cultists are here. Each one kneels or sits in front of an alcove, in a way that suggests a form of meditation.
 ^595
 
@@ -1610,8 +1440,6 @@ Several barrels and crates stand at the north end of the cavern. They contain wa
 
 ### G13. Bulette Kennels
 
-> [!readaloud] 
-> 
 > Boulders have been used to build crude, roofless enclosures similar to pens—three to the north and three to the south. Odd saddles and harnesses are piled in the middle of the cave, while spears and goads lean against the walls.
 ^597
 
@@ -1621,8 +1449,6 @@ The enclosures to the north and south are kennels enclosed by 10-foot-high walls
 
 ### G14. Rorgrin's Cave
 
-> [!readaloud] 
-> 
 > The back of this small cave is filled by a nest made of broken shards of rock. Nearby, a bedroll is laid out on the ground with an odd saddle sitting in place of a pillow.
 ^599
 
@@ -1634,8 +1460,6 @@ Stashed under his leather saddle "pillow," Rorgrin keeps a small leather bag con
 
 ### G15. Arcane Foundry
 
-> [!readaloud] 
-> 
 > Stone slabs line the walls of this cave. Weapons, pieces of armor, and various tools cover the slabs. In the middle of the chamber, steam rises from a well of boiling mud.
 ^59c
 
@@ -1659,8 +1483,6 @@ Characters searching the worktables find several crystal staffs, stone morningst
 
 ### G16. Cathedral of Stone
 
-> [!readaloud] 
-> 
 > This cavern has a vaulted ceiling supported by six natural stone columns. Crystal growths protruding from the ceiling cast a lurid purple glow over everything. Issuing from a tunnel that descends toward the east is the loud, constant sound of stone grinding against stone.
 ^5a2
 
@@ -1668,8 +1490,6 @@ If the nothics in area G15 retreat to this cave, they cower at the western end o
 
 ### G17. Earth Portal
 
-> [!readaloud] 
-> 
 > This colossal cavern is an alien landscape filled with soaring stone buttresses, weirdly twisting columns, and gargantuan shards of glowing crystal. A long path of steps is cut into the uneven floor and wends its way between the mighty stone pillars to the cavern's core. There, the steps climb to the base of a stone monolith that is constantly changing its shape, filling the great cavern with a thunderous grinding noise.
 ^5a4
 
@@ -1701,13 +1521,10 @@ When the portal implodes, an [[earthquake-xphb|earthquake]] spell is triggered, 
 
 The Weeping Colossus sits in the heart of a volcanic fissure. During the height of the dwarven civilization of Besilmer, lava filled this entire area, and the heat and magma rose into the lowest levels of the city where the foundries were located. When [[vanifer-pota|Vanifer]] arrived with her cult, she used her connection with [[imix-pota|Imix]], the Prince of Evil Fire, to settle the magma and form the chambers left behind. Now, the fissure and lava tubes serve as the fire node, an extension of the Elemental Plane of Fire, resulting in lava flows, ash storms, gouts of liquid fire, and other strange elemental effects.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/067-05-05.webp#gallery|Map 5.5: The Weeping Colossus]]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/067-05-05-2.webp#gallery|Player Version]]
 
 ### Colossus Features
-
-The complex has the following features. Any exceptions are noted in areas to which they apply.
 
 #### Ceilings
 
@@ -1741,10 +1558,6 @@ The map indicates three zones of heat intensity. The low intensity zone is uncom
 
 For every 30 minutes the characters spend inside the Weeping Colossus, roll a `d20` and consult the following table. Explanations of some of the encounters appear after the table. In the medium intensity zone, roll a `d20` and a `d4`, subtracting the `d4` from the `d20` roll. Use a `d6` instead of a `d4` in the high intensity zone.
 
-`dice: [](05-chapter-5-temple-of-the-elder-elemental-eye.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1–2 | 1 [[fire-elemental-xmm|fire elemental]] |
 | 3 | `d8` [[magmin-xmm|magmin]] |
 | 4 | `d3` [[salamander-xmm|salamanders]] (see area W7) |
@@ -1753,8 +1566,6 @@ For every 30 minutes the characters spend inside the Weeping Colossus, roll a `d
 | 7 | Lava rain |
 | 8 | Smoke cloud |
 | 9 | Sulfur cloud |
-| 10–20 | None |
-^encounter
 
 ##### Crust Break
 
@@ -1776,14 +1587,10 @@ A cloud of smoke kicks up, filling an area 40 feet in diameter and causing that 
 
 A discharge of noxious fumes erupts from a nearby vent. The effects are identical to a [[stinking-cloud-xphb|stinking cloud]] spell.
 
-### Areas of the Colossus
-
 ### W1. Volcanic Shaft
 
 This shaft descends from area E14 in the Temple of Eternal Flame, past area F15 in the Fane of the Eye. A magical disk allows easy movement among the levels.
 
-> [!readaloud] 
-> 
 > The natural walls of the shaft widen near the base. Heat and light radiate from a bubbling lake of lava that covers most of the floor. Lava flows through an exit to the northeast. Stone passages open to the northwest, west, and south.
 ^5ba
 
@@ -1803,8 +1610,6 @@ The razerblast in area W2 takes the place of any guards slain here.
 
 ### W2. Sentry Chamber
 
-> [!readaloud] 
-> 
 > Half of this oddly shaped chamber is set higher than the other half, as if it cracked and shifted a few feet upward. A natural pillar is the only feature of the upper level. In the center the lower level, a vortex of flame jets from the floor toward the ceiling. Numerous exits head off in different directions around the perimeter.
 ^5c0
 
@@ -1820,10 +1625,7 @@ The giant has a satchel made of chain mail. Inside are 600 gp, thirteen bloodsto
 
 ### W3. Causeway
 
-> [!readaloud] 
-> 
 > This chamber's lower reaches are filled with lava. An uneven stone causeway spans the lava, ending at a narrow ledge along the eastern wall. Hanging from a pair of stout chains near the western tunnel is a large brass gong.
-> 
 > To the north, lava flows out through a wide passage, the magma almost toughing the ceiling there. To the south is a similar passage, but the ceiling there is a few feet higher than the lava.
 ^5c5
 
@@ -1843,8 +1645,6 @@ The southern lava flow is only 4 feet lower than the ceiling of the passage thro
 
 ### W4. Pool of Lava
 
-> [!readaloud] 
-> 
 > The causeway hugs the east wall, narrowing as it travels north until it finally peters out. The magma hisses and roils, and flames dance on its surface.
 ^5cb
 
@@ -1856,8 +1656,6 @@ When the roper uses its Reel action, it pulls creatures it is grappling into the
 
 This chamber sits at the high point of this part of the fire node. Both passages leading into it (from area W2 and area W7) rise toward it at a thirty-degree angle. A bizarre play of multicolored flickering light is visible before the characters enter.
 
-> [!readaloud] 
-> 
 > The steep passage opens into a chamber with a convex floor. Scores of humanoid skulls, most of them scorched and charred, are stuffed into niches in the walls. Many of them burn with flames, each varying in color, casting the entire chamber in bizarre light.
 ^5cd
 
@@ -1879,8 +1677,6 @@ Levers are hidden in secret niches behind skulls at the points marked "c" and "d
 
 An alcove in the north wall contains an 8-foot-diameter shaft that leads 30 feet down to area W6. Read the following if the characters look into the shaft:
 
-> [!readaloud] 
-> 
 > Intense heat and light radiate up from the bottom of this smooth-sided shaft, and the crackle of flames is easily discernible from below. A chain ladder is coiled up near the hole, one end attached to the wall.
 ^5d3
 
@@ -1890,8 +1686,6 @@ Characters can descend the shaft using the chain ladder without needing to make 
 
 This room is 30 feet below area W5 and accessible via a vertical shaft. Once a character reaches the bottom of the shaft, read the following:
 
-> [!readaloud] 
-> 
 > This rough, circular cave is painfully hot. A curved wall of fire stretches from floor to ceiling and leaves only five feet between it and the surrounding walls.
 ^5d5
 
@@ -1917,8 +1711,6 @@ Characters captured within the node are stripped of their gear and brought here.
 
 ### W7. Breeding Chamber
 
-> [!readaloud] 
-> 
 > The tunnel opens above a pool of lava, the surface of which is thirty feet below. A metal catwalk suspended 10 feet from the ceiling by iron chains connects to another tunnel on the far side, as well as to a stone column rising up from the magma. The catwalk passes through a hole in the column. In the lava below, serpentine creatures glide and splash. To the south, the lava cascades into the pool before the current continues down a channel to the north.
 ^5da
 
@@ -1934,10 +1726,7 @@ Inside the column is a rock that has the symbol of fire carved into it. A charac
 
 ### W8. Fire Shrine
 
-> [!readaloud] 
-> 
 > Basalt pillars rise from the glassy floor of this circular cave to support a smooth domed ceiling. Niches carved into the columns hold dancing flames that illuminate copper tapestries hanging on the walls. Each tapestry bears the symbol of the fire cult. Just in front of a wide exit tunnel stands a dais with an altar atop it. Before the altar kneel three cultists, two in robes and one encased in armor.
-> 
 > To the north and south are smaller chambers attached to the shrine. An ornate privacy screen blocks the view to the north. The southern room is circular and lavishly decorated.
 ^5df
 
@@ -1953,8 +1742,6 @@ Seven tapestries worth 50 gp each adorn the walls.
 
 The [[efreeti-xmm|efreeti]] from area E13 in the Temple of Eternal Flame (see chapter 4) lives here.
 
-> [!readaloud] 
-> 
 > Colorful carpets and throw pillows are scattered across the floor, while a sumptuous feast is laid out on an obsidian table along the far wall. Under it is an ornate chest. A divan with finely woven cloth coverlets and pillows sits along the north side. Small jets of flame that emerge from the walls at regular intervals light the place.
 ^5e2
 
@@ -1966,8 +1753,6 @@ The chest contains 750 gp, a [[potion-of-speed-xdmg|potion of speed]], and a tin
 
 ### W10. Vanifer's Chamber
 
-> [!readaloud] 
-> 
 > Beyond the privacy screen is a comfortable bedchamber. Several pieces of suggestive art hang on the walls, and a number of risqué sculptures of humans, tieflings, and other creatures in the throes of passion adorn side tables. In the middle sits a bed with plush covers and many pillows. An armoire stands against a side wall.
 ^5e5
 
@@ -1979,8 +1764,6 @@ An [[elixir-of-health-xdmg|elixir of health]] is inside the pocket of a robe han
 
 ### W11. Flowing Lava
 
-> [!readaloud] 
-> 
 > A stream of lava flows down this long, sloping chamber to an immense magma pool beyond, tumbling over a series of rock shelves. One enormous point of rock juts up and forward from the flow.
 ^5e8
 
@@ -1998,8 +1781,6 @@ Halinaxus has accumulated a loose pile of loot. On his perch are 160 pp, eleven 
 
 ### W12. Fire Portal
 
-> [!readaloud] 
-> 
 > This titanic cavern is filled with a lake of gently undulating magma. A rough, uneven causeway of natural rock leads out into the middle, to a point where two crooked pillars of glassy black rock jut up on either side of a great altar of the same stone. Just beyond the altar, a gargantuan stone colossus rises from the lava to its waist, its head thrown back as if in agony. Tears of lava stream down its face, and lava wells from its gaping mouth. Above the colossus's head hovers a great orb of fire and light—a miniature sun with motes of fire swirling around it. The ceiling is another twenty feet up, at least one hundred feet overhead.
 ^5ed
 
@@ -2033,13 +1814,13 @@ Some tavern talk can be overheard about occupying the Haunted Keeps to scare awa
 
 Remaining cultists slink away and disperse within a tenday of the cults' defeat. Bereft of leadership and reeling from the events, the cultists decide the Dessarin Valley isn't the place for them. Some go to nearby cities, especially Waterdeep and Neverwinter, and attempt to hide amid the bustle as they rebuild their ranks. Any monsters loyal to the cult are free to fend for themselves.
 
-The characters can become involved in a mop-up effort against the cult remnants.
+The characters can become involved in a mop-up effort against the cult remts.
 
 ![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/069-poa05-13.webp#center)
 
 ### Recovering from Defeat
 
-If the characters fail to prevent a Prince of Elemental Evil from remaining in the world, all is not lost. The triumphant prince remains near the node for several weeks, reorganizing its cult and bringing the scattered remnants of the other cults to heel. This time allows the characters to plan a second assault.
+If the characters fail to prevent a Prince of Elemental Evil from remaining in the world, all is not lost. The triumphant prince remains near the node for several weeks, reorganizing its cult and bringing the scattered remts of the other cults to heel. This time allows the characters to plan a second assault.
 
 The factions the characters are affiliated with take a more active role in thwarting Elemental Evil. Reports from characters who survived the first battle carry great weight with them, and it's possible that a faction was scrying near the node at just the right time and saw how the battle unfolded. If the characters need better gear or spells cast on their behalf, the factions get to work. No one wants a second assault to fail for lack of [[potion-of-fire-resistance-xdmg|potions of fire resistance]], for example.
 
@@ -2069,19 +1850,23 @@ Know anyone who fits that description?
 
 Legends speak of 05 chapter 5 temple of the elder elemental eye as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 05 chapter 5 temple of the elder elemental eye.
 
-## Adventure Hooks
-
-- A rumor ties 05 chapter 5 temple of the elder elemental eye to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 05 chapter 5 temple of the elder elemental eye to avert a public scandal.
-- A map overlay reveals a hidden approach to 05 chapter 5 temple of the elder elemental eye active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- A map reveals ancient history about this place
+- Strange disappearances suggest a curse
+- Strange accidents suggest ancient magic
+- A map reveals ancient history about the government

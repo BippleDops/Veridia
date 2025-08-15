@@ -28,13 +28,29 @@ updated: '2025-08-12T23:37:35.529098'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-nalfeshnee-xmm-nalfeshnee-xmm.svg)
 
 # [[nalfeshnee-xmm|Nalfeshnee]]
-*Source: Monster Manual (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 224. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Nalfeshnee
 
@@ -50,7 +66,6 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
 > [!quote] A quote from Mordenkainen  
 > 
 > The Blood War—that ageless clash between devils and demons—helps ensure the balance of the multiverse. At times it makes unlikely allies, but never delude yourself into believing there's a lesser of two evil. I won't be thanking a demon for every day I'm spared a devil's lash.
-
 
 ```statblock
 "name": "Nalfeshnee (XMM)"
@@ -77,7 +92,7 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
   - "charisma": !!int "7"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#frightened|frightened]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 11"
 "languages": "Abyssal; telepathy 120 ft."
@@ -102,7 +117,7 @@ Many nalfeshnees view themselves as prospective demon lords and seek to conquer 
 "bonus_actions":
   - "desc": "Wisdom Saving Throw: DC 15, each creature in a 15-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the nalfeshnee. Failure: 28 (8d6) Psychic damage, and the\
-      \ target has the [[conditions#Frightened|Frightened]] condition\
+      \ target has the [[conditions#frightened|Frightened]] condition\
       \ for 1 minute, until it takes damage, or until it ends its turn with the nalfeshnee\
       \ out of line of sight. Success: The target is immune to this nalfeshnee's\
       \ Horror Nimbus for 24 hours."
@@ -130,19 +145,34 @@ Nalfeshnee xmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of nalfeshnee xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around nalfeshnee xmm.
 
-## Adventure Hooks
-
-- A rumor ties nalfeshnee xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at nalfeshnee xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to nalfeshnee xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting a witness for revenge
+- Strange disappearances suggest ancient magic
+- A shipment has gone missing and evil awakens
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

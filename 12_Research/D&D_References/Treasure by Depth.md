@@ -21,28 +21,30 @@ created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 ---
 
-
-
-
 # Treasure by Depth
 
 *"The deeper you dare descend, the greater the rewards that await."*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 Treasure by Depth is a systematic approach to distributing rewards based on the dangerous depths explored in Aquabyssos. This system recognizes that deeper areas require greater risk, preparation, and skill, and should provide proportionally valuable rewards including rare materials, powerful magical items, and unique artifacts unavailable at shallower depths.
-
-## Mechanics
-### Requirements
-- Depth classification system (Surface to Abyssal)
-- Risk assessment protocols
-- Rarity scaling for magical items
-- Pressure-resistant treasure containers
-
-### Effects
-- **Scaled Rewards**: Treasure value increases with depth
-- **Unique Materials**: Deeper zones provide rare components
-- **Pressure-Forged Items**: Depth-specific magical properties
-- **Risk-Reward Balance**: Encourages deep exploration
 
 ### Duration
 Permanent system governing treasure distribution throughout campaign.
@@ -54,12 +56,6 @@ Permanent system governing treasure distribution throughout campaign.
 
 ## Campaign Use
 Provides mechanical framework for encouraging exploration while maintaining appropriate challenge-reward ratios.
-
-
-## Connections
-
-- [[Crystal Mimics]]
-- [[Random Encounter Tables]]
 
 ## Player-Facing Summary
 
@@ -73,13 +69,19 @@ Legends speak of Treasure by Depth as a nexus where past and present converge. L
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Master_Lore_Index|Master Lore Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

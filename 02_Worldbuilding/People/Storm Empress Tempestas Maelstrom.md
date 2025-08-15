@@ -1,4 +1,5 @@
 ---
+
 title: Storm Empress Tempestas Maelstrom
 type: Npc
 tags:
@@ -18,6 +19,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.530700+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +29,66 @@ world: Aquabyssos
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-storm-empress-tempestas-maelstrom-storm-empress-tempestas-maelstrom.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward avoidance
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward negotiation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
 
 ## Player-Facing Summary
 
@@ -67,14 +97,6 @@ Storm Empress Tempestas Maelstrom is a undersea element of the setting, known fo
 ## Lore Details
 
 Legends speak of Storm Empress Tempestas Maelstrom as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Storm Empress Tempestas Maelstrom.
-
-## Adventure Hooks
-
-- A rumor ties Storm Empress Tempestas Maelstrom to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Storm Empress Tempestas Maelstrom to avert a public scandal.
-- A map overlay reveals a hidden approach to Storm Empress Tempestas Maelstrom active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +107,6 @@ Storm Empress Tempestas Maelstrom's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Protecting loved ones
@@ -124,8 +116,6 @@ Storm Empress Tempestas Maelstrom's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Storm Empress Tempestas Maelstrom harbors secrets that could change everything:
@@ -133,10 +123,6 @@ Storm Empress Tempestas Maelstrom harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Lost memory
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +141,6 @@ Storm Empress Tempestas Maelstrom is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Storm Empress Tempestas Maelstrom needs assistance with a delicate matter
@@ -164,8 +148,6 @@ Storm Empress Tempestas Maelstrom is currently engaged in:
 3. **The Secret**: Information about Storm Empress Tempestas Maelstrom's past surfaces
 4. **The Alliance**: Opportunity to work with or against Storm Empress Tempestas Maelstrom
 5. **The Crisis**: Storm Empress Tempestas Maelstrom is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,22 +161,44 @@ Storm Empress Tempestas Maelstrom is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Storm Empress Tempestas Maelstrom]]
+## Bloodline
 
-<!-- enriched: true -->
-
+Member of House Dragonblood - Trait: magical affinity
 
 
+## Prophecy Connection
 
-## Relationship Web
+Mentioned in The Second Prophecy of Depths
 
-- [[Archbishop Mordecai Stormwright]]: *debt holder*
-- [[04_Resources_Assets_Portraits_portrait-npc-captain-redbeard-captain-redbeard.svg]]: *informant*
-- [[04_Resources_Assets_Symbols_symbol-heraldry-arcturus-lumenblade-arcturus-lumenblade.svg]]: *bitter rival*
-- [[04_Resources_Assets_Locations_location-city-master-thorek-crystalhammer-master-thorek-crystalhammer.svg]]: *patron*
 
-## Connections
+## Cultural Practices
 
-- [[Maelstrom Palace]]
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

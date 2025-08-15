@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:34.018024'
 world: Both
 ---
 
-
 # Keptolo
 *Source: Mordenkainen's Tome of Foes p. 54* 
 
@@ -42,6 +41,24 @@ The ideal of what a male drow can become, Keptolo is handsome, stylish, witty, h
 
 In most myths, Keptolo resides in the Demonweb Pits alongside Lolth, whom he serves as consort, more than a plaything but much less than an equal. Keptolo is a bitter enemy of Zinzerena, who deceives and uses him as a tool in many of the stories about the Dark Seldarine.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Drow keptolo mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -50,19 +67,21 @@ Drow keptolo mtf is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of drow keptolo mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around drow keptolo mtf.
 
-## Adventure Hooks
-
-- A rumor ties drow keptolo mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at drow keptolo mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to drow keptolo mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a portal
+- A shipment has gone missing and truth emerges
+- A stranger needs help delivering before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

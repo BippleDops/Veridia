@@ -1,5 +1,6 @@
 ---
-title: Financial Crime Investigation
+
+title: Ficial Crime Investigation
 type: Faction
 tags:
 - both
@@ -17,58 +18,93 @@ headquarters: Unknown
 membership: Unknown
 updated: '2025-08-13T12:34:17.357698+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
 > [!figure] Heraldry
-![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-financial-crime-investigation-financial-crime-investigation.svg]]
+![[04_Resources/Assets/04_Resources/Assets/Symbols/symbol-heraldry-ficial-crime-investigation-ficial-crime-investigation.svg]]
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
 
 
 ## Player-Facing Summary
 
-Financial Crime Investigation is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+Ficial Crime Investigation is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of Financial Crime Investigation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Financial Crime Investigation.
-
-## Adventure Hooks
-
-- A rumor ties Financial Crime Investigation to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Financial Crime Investigation to avert a public scandal.
-- A map overlay reveals a hidden approach to Financial Crime Investigation active only during specific tides/storms.
+Legends speak of Ficial Crime Investigation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ficial Crime Investigation.
 
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
-## Known Members
-
-- [[Sage Lysander Deepthought]]
-- [[04_Resources_Assets_Portraits_portrait-npc-lord-general-harrison-ironhold-lord-general-harrison-ironhold.svg]]
-- [[04_Resources_Assets_Symbols_symbol-heraldry-master-trader-darkmarke-master-trader-darkmarke.svg]]
-
-
 ## Overview
 
-Financial Crime Investigation operates as an influential organization with specific goals and methods. Their reach extends throughout their sphere of influence.
+Ficial Crime Investigation operates as an influential organization with specific goals and methods. Their reach extends throughout their sphere of influence.
 
 **Type**: Guild/Order/Syndicate/Faction
 **Influence**: Local/Regional/Global
 **Membership**: Dozens to thousands
 **Secrecy**: Public/Semi-secret/Secret
-
-
-## Structure
-
-### Leadership
-- **Supreme Leader**: Ultimate authority
-- **Council/Board**: Decision makers
-- **Department Heads**: Operational leaders
 
 ### Ranks
 1. Initiate level
@@ -77,103 +113,32 @@ Financial Crime Investigation operates as an influential organization with speci
 4. Officer level
 5. Leadership level
 
-
-## Members
-
-### Notable Members
-- [[Leader Name]] - Current head
-- [[Key Officer]] - Important figure
-- [[Rising Star]] - Ambitious member
-
-### Membership Requirements
-- Skills or qualities needed
-- Initiation process
-- Ongoing obligations
-
-
-## Goals
-
 ### Public Mission
 What they claim to pursue
-
-### True Objectives
-- Primary goal
-- Secondary objectives
-- Long-term vision
-
-### Current Projects
-- Active operations
-- Research efforts
-- Political maneuvers
-
-
-## Resources
-
-### Financial
-- Funding sources
-- Wealth level
-- Economic influence
-
-### Physical Assets
-- Properties owned
-- Equipment available
-- Special resources
-
-### Human Resources
-- Member skills
-- Allies and contacts
-- Information networks
-
-
-## Operations
-
-### Regular Activities
-- Day-to-day operations
-- Revenue generation
-- Member services
-
-### Special Operations
-- Covert activities
-- Major projects
-- Crisis responses
-
-
-## Relationships
-
-### Allies
-- Aligned organizations
-- Political supporters
-- Business partners
-
-### Enemies
-- Rival organizations
-- Opposed factions
-- Active threats
-
-### Neutral Parties
-- Potential allies or enemies
-- Trade partners
-- Watching parties
-
-
-## Secrets
 
 ### Open Secrets
 Things widely suspected
 
-### Hidden Truths
-- Real leadership
-- True funding sources
-- Secret objectives
 
-### Deep Mysteries
-- Ancient connections
-- Forbidden knowledge
-- Ultimate goals
+## Plot Hooks
 
+- Someone is blackmailing an heir for power
+- A stranger needs help delivering before the new moon
+- Someone is protecting an heir for money
 
-## Connections
+## Historical Timeline
 
-- See also: [[Campaign Guide]]
-- Related: [[Recent Events]]
-- Connected to: [[Main Quest Line]]
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established

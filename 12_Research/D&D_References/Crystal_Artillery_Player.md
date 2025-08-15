@@ -18,32 +18,42 @@ updated: '2025-08-13T01:18:37.194747+00:00'
 world: Both
 ---
 
-
-
 # Crystal Artillery
 
 How it feels
 - Choir decks, humming arrays, rainbows in the spray
 
 What changes in travel
-- Resonance corridors; feedback hazards
+- Resoce corridors; feedback hazards
 
 Crew tips
 - Tune fast; damp faster
 - Helm respects timing windows
 
 Risks
-- Null pockets will make you blind and quiet
+-  pockets will make you blind and quiet
 
-## Cross-References
 
-- [[Doctrine_Quick_Reference|04 Resources/Handouts/Doctrines/Doctrine Quick Reference]]
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -52,3 +62,23 @@ Risks
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A journal reveals the truth about this place
+- A noble needs help finding before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

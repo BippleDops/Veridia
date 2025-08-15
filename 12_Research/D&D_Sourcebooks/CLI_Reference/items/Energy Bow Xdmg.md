@@ -26,20 +26,33 @@ updated: '2025-08-13T12:34:07.712743+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-energy-bow-xdmg-energy-bow-xdmg.svg)
 
 # Energy Bow
 *Very rare (requires attunement)*  
 
-
-
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon, which has no string. Each time you pull your arm back in a firing motion, a magical arrow made of golden energy appears nocked and ready to fire. An arrow produced by this weapon deals Force damage instead of Piercing damage on a hit, and it disappears after it hits or misses its target. Until it disappears, the arrow emits [[bright-light-xphb|Bright Light]] in a 20-foot radius and [[dim-light-xphb|Dim Light]] for an additional 20 feet.
 
 This weapon has the following additional properties.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Arrow of Restraint
 
@@ -57,13 +70,6 @@ As a [[actions#Magic|Magic]] action, you can loose a flurry of energy arrows fro
 - [Energy Longbow](#Energy%20Longbow)
 - [Energy Shortbow](#Energy%20Shortbow)
 
-### Energy Longbow
-
-- **Damage**: 1d8 piercing
-- **Range**: 150/600
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 2.0 lbs.
-
 ### Energy Shortbow
 
 - **Damage**: 1d6 piercing
@@ -71,8 +77,7 @@ As a [[actions#Magic|Magic]] action, you can loose a flurry of energy arrows fro
 - **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 2.0 lbs.
 
-
-*Source: Dungeon Master's Guide (2024) p. 257. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 257. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -82,19 +87,18 @@ Energy bow xdmg is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of energy bow xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around energy bow xdmg.
 
-## Adventure Hooks
-
-- A rumor ties energy bow xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at energy bow xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to energy bow xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

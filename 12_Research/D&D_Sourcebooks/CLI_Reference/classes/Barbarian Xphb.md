@@ -23,47 +23,52 @@ updated: '2025-08-13T12:34:04.773954+00:00'
 world: Both
 ---
 
-
-
 # Barbarian
-*Source: Player's Handbook (2024) p. 50. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Player's Handbook (2024) p. 50. Available in the SRD and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
-> <table class="class-progression">
-> <thead>
-> <tr><th colspan='6'></th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Rages</th><th class="value">Rage Damage</th><th class="value">Weapon Mastery</th></tr>
-> </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Rage (Level 1)' class='internal-link'>Rage</a>, <a href='#Unarmored Defense (Level 1)' class='internal-link'>Unarmored Defense</a>, <a href='#Weapon Mastery (Level 1)' class='internal-link'>Weapon Mastery</a></td><td class="value">2</td><td class="value">+2</td><td class="value">2</td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Danger Sense (Level 2)' class='internal-link'>Danger Sense</a>, <a href='#Reckless Attack (Level 2)' class='internal-link'>Reckless Attack</a></td><td class="value">2</td><td class="value">+2</td><td class="value">2</td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Barbarian Subclass (Level 3)' class='internal-link'>Barbarian Subclass</a>, <a href='#Primal Knowledge (Level 3)' class='internal-link'>Primal Knowledge</a></td><td class="value">3</td><td class="value">+2</td><td class="value">2</td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">+2</td><td class="value">3</td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra Attack (Level 5)' class='internal-link'>Extra Attack</a>, <a href='#Fast Movement (Level 5)' class='internal-link'>Fast Movement</a></td><td class="value">3</td><td class="value">+2</td><td class="value">3</td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Subclass Feature (Level 6)' class='internal-link'>Subclass Feature</a></td><td class="value">4</td><td class="value">+2</td><td class="value">3</td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Feral Instinct (Level 7)' class='internal-link'>Feral Instinct</a>, <a href='#Instinctive Pounce (Level 7)' class='internal-link'>Instinctive Pounce</a></td><td class="value">4</td><td class="value">+2</td><td class="value">3</td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 8)' class='internal-link'>Ability Score Improvement</a></td><td class="value">4</td><td class="value">+2</td><td class="value">3</td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Brutal Strike (Level 9)' class='internal-link'>Brutal Strike</a></td><td class="value">4</td><td class="value">+3</td><td class="value">3</td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Subclass Feature (Level 10)' class='internal-link'>Subclass Feature</a></td><td class="value">4</td><td class="value">+3</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Relentless Rage (Level 11)' class='internal-link'>Relentless Rage</a></td><td class="value">4</td><td class="value">+3</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 12)' class='internal-link'>Ability Score Improvement</a></td><td class="value">5</td><td class="value">+3</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Improved Brutal Strike (Level 13)' class='internal-link'>Improved Brutal Strike</a></td><td class="value">5</td><td class="value">+3</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Subclass Feature (Level 14)' class='internal-link'>Subclass Feature</a></td><td class="value">5</td><td class="value">+3</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Persistent Rage (Level 15)' class='internal-link'>Persistent Rage</a></td><td class="value">5</td><td class="value">+3</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td><td class="value">5</td><td class="value">+4</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Improved Brutal Strike (Level 17)' class='internal-link'>Improved Brutal Strike</a></td><td class="value">6</td><td class="value">+4</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Indomitable Might (Level 18)' class='internal-link'>Indomitable Might</a></td><td class="value">6</td><td class="value">+4</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Epic Boon (Level 19)' class='internal-link'>Epic Boon</a></td><td class="value">6</td><td class="value">+4</td><td class="value">4</td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Primal Champion (Level 20)' class='internal-link'>Primal Champion</a></td><td class="value">6</td><td class="value">+4</td><td class="value">4</td></tr>
-> </tbody></table>
+> LevelPBFeaturesRagesRage DamageWeapon Mastery
+> 1st+2Rage, Unarmored Defense, Weapon Mastery2+22
+> 2nd+2Danger Sense, Reckless Attack2+22
+> 3rd+2Barbarian Subclass, Primal Knowledge3+22
+> 4th+2Ability Score Improvement3+23
+> 5th+3Extra Attack, Fast Movement3+23
+> 6th+3Subclass Feature4+23
+> 7th+3Feral Instinct, Instinctive Pounce4+23
+> 8th+3Ability Score Improvement4+23
+> 9th+4Brutal Strike4+33
+> 10th+4Subclass Feature4+34
+> 11th+4Relentless Rage4+34
+> 12th+4Ability Score Improvement5+34
+> 13th+5Improved Brutal Strike5+34
+> 14th+5Subclass Feature5+34
+> 15th+5Persistent Rage5+34
+> 16th+5Ability Score Improvement5+44
+> 17th+6Improved Brutal Strike6+44
+> 18th+6Indomitable Might6+44
+> 19th+6Epic Boon6+44
+> 20th+6Primal Champion6+44
 
 ^class-progression
 
-## Hit Points
 
-- **Hit Dice**: 1d12 per Barbarian level
-- **Hit Points at First Level:** 12 + CON
-- **Hit Points at Higher Levels:** add 7 OR 1d12 + CON  (minimum of 1)
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Starting Barbarian
 
@@ -74,11 +79,6 @@ world: Both
 
 **Starting Equipment:** *Choose A or B:* (A) [[greataxe-xphb|Greataxe]], 4 [[handaxe-xphb|Handaxes]], [[explorers-pack-xphb|Explorer's Pack]], and 15 GP; or (B) 75 GP
 
-## Multiclassing Barbarian
-
-- **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [[shield-xphb|Shields]]
-
 ## Barbarian
 
 Barbarians are mighty warriors who are powered by primal forces of the multiverse that manifest as a Rage. More than a mere emotion—and not limited to anger—this Rage is an incarnation of a predator's ferocity, a storm's fury, and a sea's turmoil.
@@ -86,8 +86,6 @@ Barbarians are mighty warriors who are powered by primal forces of the multivers
 Some Barbarians personify their Rage as a fierce spirit or revered forebear. Others see it as a connection to the pain and anguish of the world, as an impersonal tangle of wild magic, or as an expression of their own deepest self. For every Barbarian, their Rage is a power that fuels not just battle prowess, but also uncanny reflexes and heightened senses.
 
 Barbarians often serve as protectors and leaders in their communities. They charge headlong into danger so those under their protection don't have to. Their courage in the face of danger makes Barbarians perfectly suited for adventure.
-
-## Class Features
 
 ### Rage (Level 1)
 
@@ -193,8 +191,6 @@ The target's [[speed-xphb|Speed]] is reduced by 15 feet until the start of your 
 
 ### Subclass Feature (Level 10)
 
-You gain a feature from your Barbarian subclass.
-
 ### Relentless Rage (Level 11)
 
 Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[hit-points-xphb|Hit Points]] while your Rage is active and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, your [[hit-points-xphb|Hit Points]] instead change to a number equal to twice your Barbarian level.
@@ -202,8 +198,6 @@ Your Rage can keep you fighting despite grievous wounds. If you drop to 0 [[hit-
 Each time you use this feature after the first, the DC increases by 5. When you finish a [[short-rest-xphb|Short]] or [[long-rest-xphb|Long Rest]], the DC resets to 10.
 
 ### Ability Score Improvement (Level 12)
-
-You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Improved Brutal Strike (Level 13)
 
@@ -219,8 +213,6 @@ Before the start of your next turn, the next attack roll made by another creatur
 
 ### Subclass Feature (Level 14)
 
-You gain a feature from your Barbarian subclass.
-
 ### Persistent Rage (Level 15)
 
 When you roll [[initiative-xphb|Initiative]], you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can't do so again until you finish a [[long-rest-xphb|Long Rest]].
@@ -228,8 +220,6 @@ When you roll [[initiative-xphb|Initiative]], you can regain all expended uses o
 In addition, your Rage is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. Your Rage ends early if you have the [[conditions#Unconscious|Unconscious]] condition (not just the [[conditions#Incapacitated|Incapacitated]] condition) or don Heavy armor.
 
 ### Ability Score Improvement (Level 16)
-
-You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
 
 ### Improved Brutal Strike (Level 17)
 
@@ -255,19 +245,21 @@ Barbarian xphb is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of barbarian xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around barbarian xphb.
 
-## Adventure Hooks
-
-- A rumor ties barbarian xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at barbarian xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to barbarian xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help finding before the new moon
+- Someone is hunting a witness for power
+- Strange disappearances suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

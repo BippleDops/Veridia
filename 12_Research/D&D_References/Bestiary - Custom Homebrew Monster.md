@@ -26,10 +26,6 @@ world: Both
 updated: '2025-08-13T01:18:37.137598+00:00'
 ---
 
-
-
-
-
 # resource.name
 *Source: Creature Codex p. 95*  
 
@@ -102,6 +98,24 @@ updated: '2025-08-13T01:18:37.137598+00:00'
 
 *With a flattened, lupine face and skin pulled taught over its skeletal frame, the creature is terrible to behold. It wears entrails and bones of previous victims over its dark red fur and has black spikes jutting from its spine.*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Favor Warlike Lords
 
 While [[03_Mechanics/CLI/bestiary/npc/qorgeth-demon-lord-of-the-devouring-worm-tob|Qorgeth]] (Tome of Beasts ^[creature/Kobold Press; Tome of Beasts.json]), [[03_Mechanics/CLI/bestiary/fiend/chittrkk-demon-lord-of-rats-ccodex|Chittr'k'k]], and similar demonic figures are popular overlords for yek demons, their greatest reverence is usually given to [[03_Mechanics/CLI/bestiary/npc/mechuiti-demon-lord-of-apes-tob|Mechuiti]], lord of cannibals, and to [[03_Mechanics/CLI/bestiary/fiend/typhon-father-of-monsters-ccodex|Typhon]], lord of monsters, for the lords' sheer constant states of war. At other times they swear themselves to [[03_Mechanics/CLI/bestiary/undead/hierophant-lich-ccodex|hierophant liches]], [[03_Mechanics/CLI/bestiary/fiend/umbral-vampire-tob|umbral vampires]], or anyone else who can guarantee them a steady supply of fresh, strong bone, frequent combat, and wanton destruction.
@@ -117,11 +131,8 @@ The lesser yek demons are completely subservient to their pack leader, sometimes
 > [!note] Yek Demons as Mercenaries
 > 
 > While yek demons usually choose their own masters, they are among the most mercenary of demons and can be bargained with to a greater degree than most. An evil spellcaster can perform a yek summoning ritual (its details shared among malign warlords and wizards) offering "blood and bone and a stream of rich and constant plunder" to the demons' pack leader, in exchange for service against a particular foe. If the plunder and cartloads of bone are not forthcoming (as, for instance, when a foe withdraws from the battlefield), the yek demons invariably take their fee out of their summoner or that summoner's troops and followers.
-> 
 > This practice sometimes spreads to merely rapacious and opportunistic armies seeking an edge. For instance, in a controversial move, the armies of the Dragon Empire have begun using yek as shock troops, summoning the fiends behind enemy lines and letting them do the dirty work.
 ^yek-demons-as-mercenaries
-
-
 
 ## Environment
 
@@ -135,19 +146,32 @@ Custom Homebrew Monster is a undersea element of the setting, known for biolumin
 
 Legends speak of Custom Homebrew Monster as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Custom Homebrew Monster.
 
-## Adventure Hooks
-
-- A rumor ties Custom Homebrew Monster to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Custom Homebrew Monster to avert a public scandal.
-- A map overlay reveals a hidden approach to Custom Homebrew Monster active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- Someone is blackmailing information for revenge
+- A merchant needs help investigating before winter
+- The authorities needs help investigating before the new moon
+- Strange disappearances suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

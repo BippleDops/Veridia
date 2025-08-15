@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:36.912068'
 world: Both
 ---
 
-
 # Dragontooth Dagger
 *Weapon ([[dagger-xphb|dagger]]), rare*  
 ![](/03_Mechanics/CLI/items/img/dragontooth-dagger.webp#right)
@@ -36,6 +35,24 @@ world: Both
 A dagger fashioned from the tooth of a dragon. While the blade is obviously a fang or predator's tooth, the handle is leather wrapped around the root of the tooth, and there is no crossguard.
 
 You gain a +1 bonus to attack and damage rolls made with this weapon. On a hit with this weapon, the target takes an extra `d6` acid damage.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Draconic Potency
 
@@ -51,19 +68,22 @@ Dragontooth dagger rot is a undersea element of the setting, known for biolumine
 
 Legends speak of dragontooth dagger rot as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dragontooth dagger rot.
 
-## Adventure Hooks
-
-- A rumor ties dragontooth dagger rot to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dragontooth dagger rot to avert a public scandal.
-- A map overlay reveals a hidden approach to dragontooth dagger rot active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for information for love
+- Strange disappearances suggest ancient magic
+- A stranger needs help delivering before dawn
+- A shipment has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

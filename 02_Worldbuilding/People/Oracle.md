@@ -1,4 +1,5 @@
 ---
+
 title: Oracle
 type: Npc
 tags:
@@ -18,13 +19,14 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.573545+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
 > [!figure] Portrait
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-oracle-nerida-the-tidereader-oracle-nerida-the-tidereader.svg]]
-
 
 # Pythia Deepgazer, the Tide Oracle
 
@@ -44,6 +46,65 @@ world: Both
 **Languages** Common, Primordial, Aquabyssan, Deep Speech, telepathy 60 ft.  
 **Challenge Rating** 12 (8,400 XP)  
 **Proficiency Bonus** +4
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
 
 ## Special Abilities
 
@@ -83,11 +144,6 @@ world: Both
 
 **Oracle's Gaze (3/Day).** Pythia fixes her gaze on a creature within 60 feet. The target must make a DC 20 Wisdom saving throw. On a failure, Pythia learns the creature's deepest secret and the creature is frightened of her for 1 minute.
 
-## Legendary Actions (3 per turn)
-- **Move.** Pythia moves up to her speed without provoking opportunity attacks.
-- **Cantrip.** Pythia casts a cantrip.
-- **Future Sight (2 actions).** Pythia gains advantage on her next attack roll, ability check, or saving throw.
-
 ## Description
 
 Pythia Deepgazer appears as a figure suspended between realms and times. Her triton heritage is evident in her blue-green skin that shimmers like sunlight on water and her flowing hair that moves as if perpetually underwater. Her most striking feature is her eyes—completely white orbs that seem to contain swirling galaxies, reflecting visions of what was, what is, and what might be.
@@ -95,14 +151,6 @@ Pythia Deepgazer appears as a figure suspended between realms and times. Her tri
 Standing 5'8" with an ethereal grace, Pythia is draped in flowing robes made from luminescent sea silk that phases between blue, purple, and silver. Bioluminescent patterns spiral across her arms and neck, pulsing in rhythm with her visions. When she speaks prophecies, these patterns flare brilliantly, and her voice takes on a harmonic quality that resonates like whale song.
 
 She resides in the Depths of Contemplation, a sacred site where the barriers between present and future are thinnest. Here, surrounded by pools of liquid starlight and crystalline formations that sing with memories of the deep, she receives visitors who seek knowledge of tomorrow's tides.
-
-## Equipment
-
-- **Staff of the Deep Tides** (arcane focus that can control water currents)
-- **Robes of Temporal Shift** (grants resistance to damage from attacks she foresaw)
-- **Orb of Future Echoes** (allows her to store and replay visions)
-- **Pearl of Endless Depths** (contains a bound water elemental for protection)
-- **Crystal Codex** (records all her prophecies in living crystal)
 
 ## Relationships
 
@@ -132,14 +180,6 @@ She resides in the Depths of Contemplation, a sacred site where the barriers bet
 4. **The Vision Quest** - Pythia foresees that one party member will face a terrible choice that could doom both realms. She offers to guide them through a prophetic journey to understand their destiny and find a third option.
 
 5. **The Silence of the Deep** - The leviathans who provide Pythia with her deepest visions have gone mysteriously silent. She needs brave souls to descend to the deepest ocean trenches to discover what force could frighten such ancient beings.
-
-## Secrets
-
-- **The Bound Future**: Pythia's power comes from a pact with a being that claims to be from the end of time itself. She fears what payment it will eventually demand.
-- **The Last Vision**: She has seen the ultimate fate of both Aethermoor and Aquabyssos—a future so terrible she has never spoken of it to anyone.
-- **Mortal Past**: Before her transformation into an oracle, she was [[Emperor Thalassius the Wise]]'s daughter, Princess Merina. She faked her death to escape court politics and embrace her prophetic calling.
-- **The Ripple Effect**: Every prophecy she speaks changes the future slightly, and she's aware that some of her well-meaning warnings have caused the very disasters she tried to prevent.
-- **The Rival Seer**: There is another oracle—one who serves shadow and entropy—who can see the same futures she does and works to ensure the darkest prophecies come to pass.
 
 ## Motivations
 
@@ -175,14 +215,6 @@ Oracle is a undersea element of the setting, known for bioluminescent glow and p
 
 Legends speak of Oracle as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Oracle.
 
-## Adventure Hooks
-
-- A rumor ties Oracle to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Oracle to avert a public scandal.
-- A map overlay reveals a hidden approach to Oracle active only during specific tides/storms.
-
-
-
 ## Appearance
 
 Oracle presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
@@ -191,8 +223,6 @@ Oracle presents a distinctive figure. Their bearing suggests both competence and
 - **Distinguishing Marks**: [Describe unique features]
 - **Typical Attire**: Professional garments suited to their role
 - **Mannerisms**: [Describe habits and gestures]
-
-
 
 ## Personality
 
@@ -204,8 +234,6 @@ Oracle presents a distinctive figure. Their bearing suggests both competence and
 
 **Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
 
-
-
 ## Background
 
 Oracle's path to their current position involved:
@@ -214,24 +242,6 @@ Oracle's path to their current position involved:
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -250,8 +260,6 @@ Oracle is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Oracle needs assistance with a delicate matter
@@ -260,8 +268,6 @@ Oracle is currently engaged in:
 4. **The Alliance**: Opportunity to work with or against Oracle
 5. **The Crisis**: Oracle is caught in a situation requiring intervention
 
-
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -269,8 +275,6 @@ Oracle is currently engaged in:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
 
 ## Statistics (D&D 5e)
 
@@ -298,25 +302,52 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Oracle]]
+## Historical Timeline
 
-<!-- enriched: true -->
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
 
 
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
 
 
-## Relationship Web
+## Economic Structure
 
-- [[Captain Morgrim Lastvessel]]: *student*
-- [[Lord Aurelius]]: *student*
-- [[04_Resources_Assets_Locations_location-city-dream-enhancement-techniques-dream-enhancement-techniques.svg]]: *secret ally*
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
 
-## Connections
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
 
-- [[Emperor Thalassius the Wise]]
-- [[High Priestess Scylla Deepdream]]
-- [[Prince Caspian Duskwater]]
-- [[The Leviathan Prophets]]
-- [[The Waking Prophets]]
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

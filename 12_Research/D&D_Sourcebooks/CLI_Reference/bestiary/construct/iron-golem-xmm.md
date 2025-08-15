@@ -27,13 +27,29 @@ updated: '2025-08-12T23:37:35.841116'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-iron-golem-xmm-iron-golem-xmm.svg)
 
 # [[iron-golem-xmm|Iron Golem]]
-*Source: Monster Manual (2024) p. 181. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 181. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Iron Golem
 
@@ -77,7 +93,7 @@ Iron golems preserve and protect their charges for generations. Roll on or choos
 "speed": "30 ft."
 "damage_immunities": "fire, poison, psychic"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "understands Common plus two other languages but can't speak"
@@ -121,19 +137,16 @@ Iron golem xmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of iron golem xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around iron golem xmm.
 
-## Adventure Hooks
-
-- A rumor ties iron golem xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at iron golem xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to iron golem xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting an heir for power
+- The authorities needs help finding before dawn

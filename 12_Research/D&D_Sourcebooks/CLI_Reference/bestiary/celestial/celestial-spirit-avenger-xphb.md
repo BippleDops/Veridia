@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.822549'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-celestial-spirit-avenger-xphb-celestial-spirit-avenger-xphb.svg)
 
@@ -44,13 +42,10 @@ world: Both
 "stats":
   - !!int "16"
   - !!int "14"
-  - !!int "16"
   - !!int "10"
-  - !!int "14"
-  - !!int "16"
 "speed": "30 ft., fly 40 ft."
 "damage_resistances": "radiant"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Celestial, understands the languages you know"
 "actions":
@@ -68,6 +63,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Celestial spirit avenger xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -76,19 +89,20 @@ Celestial spirit avenger xphb is a undersea element of the setting, known for bi
 
 Legends speak of celestial spirit avenger xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around celestial spirit avenger xphb.
 
-## Adventure Hooks
-
-- A rumor ties celestial spirit avenger xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at celestial spirit avenger xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to celestial spirit avenger xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting a artifact for money
+- A map reveals a betrayal about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

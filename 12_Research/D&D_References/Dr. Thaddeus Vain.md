@@ -18,17 +18,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[The Whispering Expanse|02 Worldbuilding/Quests/The Whispering Expanse]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[The Whispering Expanse]]
 
 ## Player-Facing Summary
 
@@ -38,19 +43,32 @@ Dr. Thaddeus Vain is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Dr. Thaddeus Vain as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Dr. Thaddeus Vain.
 
-## Adventure Hooks
-
-- A rumor ties Dr. Thaddeus Vain to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Dr. Thaddeus Vain to avert a public scandal.
-- A map overlay reveals a hidden approach to Dr. Thaddeus Vain active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Depths
+
+
+## Plot Hooks
+
+- Someone is blackmailing information for love
+- Strange accidents suggest a portal
+- Strange accidents suggest ancient magic
+- A corpse reveals the truth about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

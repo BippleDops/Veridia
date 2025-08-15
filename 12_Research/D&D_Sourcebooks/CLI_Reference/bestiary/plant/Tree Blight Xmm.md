@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.679900+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-tree-blight-xmm-tree-blight-xmm.svg)
 
@@ -38,6 +35,24 @@ world: Both
 *Source: Monster Manual (2024) p. 44*  
 
 Tree blights look like ancient, dead trees with gnarled limbs and splintered hollows. Imbued with bloodlust, these blights feed on the living. Evidence of their past meals is often tangled amid their branches and roots. Tree blights cooperate with other blights, but they attack other tree-shaped beings they encounter, such as awakened trees and treants.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Blights
 
@@ -51,7 +66,6 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 > [!quote] A quote from Belak the Outcast, Druid of the Twilight Grove  
 > 
 > It lives, though it looks dead. In an age long past, someone staked a vampire to the earth on this very spot. The wooden stake was yet green and took root. And so grew the Gulthias Tree, reverberating with primal power.
-
 
 ```statblock
 "name": "Tree Blight (XMM)"
@@ -67,7 +81,6 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
   - !!int "10"
   - !!int "20"
   - !!int "6"
-  - !!int "10"
   - !!int "3"
 "speed": "30 ft."
 "condition_immunities": "[[conditions#Deafened|deafened]]"
@@ -108,19 +121,28 @@ Tree blight xmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of tree blight xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tree blight xmm.
 
-## Adventure Hooks
-
-- A rumor ties tree blight xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at tree blight xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to tree blight xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

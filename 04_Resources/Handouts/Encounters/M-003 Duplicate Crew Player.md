@@ -42,11 +42,9 @@ Possible outcomes
 - Tense standoff
 - A fight you didn’t want
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

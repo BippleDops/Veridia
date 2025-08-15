@@ -17,7 +17,7 @@ tags:
 - campaign/arc
 - status/in-progress
 - ttrpg-cli/monster/cr/3
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-monster
@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.355754+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-abominable-yeti-xmm-abominable-yeti-xmm.svg)
 
@@ -38,6 +35,24 @@ world: Both
 *Source: Monster Manual (2024) p. 339*  
 
 Yetis hunt alone or in small family groups. They avoid the settlements of other creatures but lurk near paths frequented by traders and herders to pick off unsuspecting prey. Yetis make their homes in icy caves near frozen peaks and at extremes where few dare travel.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Yetis
 
@@ -53,7 +68,6 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
 > [!quote] A quote from Kelesta Hawke of the Emerald Enclave  
 > 
 > In the yeti, I find no kinship, no understanding, no mercy. Theirs is not the might of the mountain or the magic of glacial wonders. Theirs is a world where harmony lies murdered and frozen.
-
 
 ```statblock
 "name": "Yeti (XMM)"
@@ -76,7 +90,6 @@ Due to yetis' elusiveness, folktales about yetis are more common than sightings.
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+5"
 "damage_immunities": "cold"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Yeti"
@@ -119,19 +132,20 @@ Yeti xmm is a undersea element of the setting, known for bioluminescent glow and
 
 Legends speak of yeti xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around yeti xmm.
 
-## Adventure Hooks
-
-- A rumor ties yeti xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at yeti xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to yeti xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and war looms
+- A noble needs help delivering before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

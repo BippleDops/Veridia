@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.277450'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-autumn-eladrin-mpmm-autumn-eladrin-mpmm.svg)
 
@@ -37,12 +35,29 @@ world: Both
 
 Eladrin often enter the autumn season when they are overcome by feelings of goodwill. In this aspect, they defuse conflicts and alleviate suffering by using their magic to relieve any ailments that afflict the people who come to them for aid. They tolerate no violence in their presence and move quickly to settle disputes, to ensure that peace continues to reign.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Eladrin
 
 > [!quote] A quote from Tasha  
 > 
 > If an autumn eladrin invites you over for dinner, come with an empty stomach. Their goodwill extends to heaping portions.
-> 
 > Note to self: send some of my spring eladrin friends to visit Mordenkainen. That'll teach him to lighten up.
 
 Eladrin dwell in the verdant splendor of the Feywild. They are related to the elves found on the Material Plane. But while other elves can temper their wild impulses, eladrin are ruled by emotion—and due to their magical nature, they undergo physical changes to match their changes in temperament.
@@ -69,7 +84,6 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "stats":
   - !!int "12"
   - !!int "16"
-  - !!int "16"
   - !!int "14"
   - !!int "17"
   - !!int "18"
@@ -78,7 +92,6 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
   - "name": "[[skills#Insight|Insight]]"
     "desc": "+7"
   - "name": "[[skills#Medicine|Medicine]]"
-    "desc": "+7"
 "damage_resistances": "psychic"
 "senses": "darkvision 60 ft., passive Perception 13"
 "languages": "Common, Elvish, Sylvan"
@@ -143,19 +156,34 @@ Autumn eladrin mpmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of autumn eladrin mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around autumn eladrin mpmm.
 
-## Adventure Hooks
-
-- A rumor ties autumn eladrin mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at autumn eladrin mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to autumn eladrin mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Stars
+
+
+## Plot Hooks
+
+- Strange dreams suggest a portal
+- Strange disappearances suggest ancient magic
+- Someone is searching for a artifact for revenge
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

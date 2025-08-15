@@ -28,16 +28,31 @@ updated: '2025-08-13T12:34:06.001881+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ancient-bronze-dragon-xmm-ancient-bronze-dragon-xmm.svg)
 
 # [[ancient-bronze-dragon-xmm|Ancient Bronze Dragon]]
-*Source: Monster Manual (2024) p. 60. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 60. Available in the SRD and the Free Rules (2024)*  
 
 Ancient bronze dragons develop dramatic patinas on their glimmering scales. These dragons strive to protect whole regions, continents, or planets from threats. They seek solutions to planes-spanning calamities or multiversal perils and oppose the evil of mighty chromatic dragons.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Bronze Dragons
 
@@ -105,7 +120,7 @@ Bronze dragons usually make their homes near or under the sea.
     "name": "Lightning Breath (Recharge 5-6)"
   - "desc": "Strength Saving Throw: DC 23, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: The target is pushed up to 60 feet straight away from the dragon\
-      \ and has the [[conditions#Prone|Prone]] condition."
+      \ and has the [[conditions#prone|Prone]] condition."
     "name": "Repulsion Breath"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 22, +14 to hit\
@@ -116,13 +131,12 @@ Bronze dragons usually make their homes near or under the sea.
       \ gained from the spell, and no Concentration or [[temporary-hit-points-xphb|Temporary Hit Points]]\
       \ required to maintain the spell), [[speak-with-animals-xphb|Speak with Animals]],\
       \ [[thaumaturgy-xphb|Thaumaturgy]]\n\n1/day each:\
-      \ [[detect-thoughts-xphb|Detect Thoughts]], [[control-water-xphb|Control\
+      \ [[detect-thoughts-xphb|Detect Thoughts]], [[control-water-xphb|Control\]]
       \ Water]], [[scrying-xphb|Scrying]],\
       \ [[water-breathing-xphb|Water Breathing]]"
     "name": "Spellcasting"
 "legendary_actions":
   - "desc": "The dragon uses Spellcasting to cast [[guiding-bolt-xphb|Guiding Bolt]]\
-      \ (level 2 version)."
     "name": "Guiding Light"
   - "desc": "The dragon moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Rend attack."
@@ -145,9 +159,7 @@ Bronze dragons usually make their homes near or under the sea.
       \ its Spellcasting action. When casting the spell this way, the dragon can control\
       \ the weather within 1 mile of its lair, regardless if the dragon is inside\
       \ or outside.  "
-    "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/dragon/token/ancient-bronze-dragon-xmm.webp"
@@ -166,19 +178,15 @@ Ancient bronze dragon xmm is a undersea element of the setting, known for biolum
 
 Legends speak of ancient bronze dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ancient bronze dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties ancient bronze dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ancient bronze dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ancient bronze dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

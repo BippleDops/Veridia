@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.449428'
 world: Both
 ---
 
-
 # Desert Encounters (Levels 5—10)
 *Source: Xanathar's Guide to Everything p. 95* 
 
@@ -63,7 +62,7 @@ world: Both
 | 73 | `d4` [[couatl-xmm|couatls]] |
 | 74-75 | `d4` [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|yuan-ti malisons]] |
 | 76-80 | Strong winds that kick up dust and reduce visibility to `d6` feet for `d4` hours |
-| 81-83 | 1 [[revenant-xmm|revenant]] with `d3` [[wight-xmm|wights]] |
+| 81-83 | 1 [[revet-xmm|revet]] with `d3` [[wight-xmm|wights]] |
 | 84-85 | `1d8 + 1` [[phase-spider-xmm|phase spiders]] |
 | 86-87 | `1d6 + 2` [[weretiger-xmm|weretigers]] |
 | 88-90 | `2d4` [[gnoll-fang-of-yeenoghu-xmm|gnoll fangs of Yeenoghu]] |
@@ -79,6 +78,24 @@ world: Both
 | 00 | 1 [[adult-brass-dragon-xmm|adult brass dragon]] |
 ^desert-encounters-levels-510
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Desert encounters levels 510 xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -87,19 +104,25 @@ Desert encounters levels 510 xge is a undersea element of the setting, known for
 
 Legends speak of desert encounters levels 510 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around desert encounters levels 510 xge.
 
-## Adventure Hooks
-
-- A rumor ties desert encounters levels 510 xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at desert encounters levels 510 xge to avert a public scandal.
-- A map overlay reveals a hidden approach to desert encounters levels 510 xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

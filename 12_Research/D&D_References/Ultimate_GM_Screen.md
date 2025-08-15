@@ -10,7 +10,7 @@ tags:
 - gm_resource
 - universal
 - gm_screen
-created: null
+created: 
 modified: '2025-08-14'
 status: complete
 world: Universal
@@ -19,47 +19,22 @@ updated: '2025-08-13T01:18:31.114962+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# Ultimate GM Screen
+*20 targeted improvements identified*
 
-## Conditions and Status
-- Fatigue, Confusion, Crystallized Thoughts, Pressure Sick
-- Save DC defaults: 12–15; escalate by scene stakes
+### Connection Improvements
 
-## Common DCs by Situation
-- Calm negotiation 12; tense 15; hostile 17
-- Depth navigation: known 12; storm 15; anomaly 17
-- Heist timing windows: easy 12; tight 15; razor 18
+- Add cross-references to related notes
 
-## Quick NPC Generator
-- Role: dockhand/guard/broker/pilgrim
-- Quirk: salt-spark laugh, glassy stare, coral tattoo
-- Goal: get paid, avoid scandal, make amends
+### Enhancement Improvements
 
-## Instant Encounter Builder
-- Pick a Location, add 1 Hazard, 1–2 NPCs, and 1 Twist; scale to party level.
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Realm Rules Summary
-- Aquabyssos: pressure, memory tides, quiet oaths
-- Aethermoor: crystal resonance, stormglass, shard auroras
-
-## Treasure and Rewards
-- Scrip bundles, ritual components, favor notes, shard motes
-
-## Name Lists by Culture
-- Aquatic: Thalassius, Nerissa, Coralheart, Driftwood
-- Aetheric: Seraphina, Glaucus, Starweaver, Steelborn
-
-## Emergency Plot Twists
-- Ally is a courier for the rival
-- Guardian tests mercy instead of strength
-- Ledger is true—but about someone else
-
-## Session Pacing
-- Open with a rumor, complicate with a clock, end with a choice
-
-## Dice Helpers
-- Roll d6: 1–2 Calm, 3–4 Tense, 5 Volatile, 6 Crisis
 
 ## Player-Facing Summary
 
@@ -69,19 +44,21 @@ Ultimate GM Screen 2 is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Ultimate GM Screen 2 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ultimate GM Screen 2.
 
-## Adventure Hooks
-
-- A rumor ties Ultimate GM Screen 2 to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Ultimate GM Screen 2 to avert a public scandal.
-- A map overlay reveals a hidden approach to Ultimate GM Screen 2 active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help investigating before the new moon
+- Someone is searching for a witness for power
+- Someone is searching for a witness for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

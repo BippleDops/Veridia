@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.752209+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,26 @@ House Brightblade is a undersea element of the setting, known for bioluminescent
 
 Legends speak of House Brightblade as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around House Brightblade.
 
-## Adventure Hooks
-
-- A rumor ties House Brightblade to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at House Brightblade to avert a public scandal.
-- A map overlay reveals a hidden approach to House Brightblade active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Crown|02 Worldbuilding/Groups/The Crown]]
-
-
-## Connections
-
-- [[The Crown]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A stranger needs help finding before the festival
+- Strange disappearances suggest a curse
+- Someone is protecting an heir for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

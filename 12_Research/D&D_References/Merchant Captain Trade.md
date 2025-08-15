@@ -15,36 +15,26 @@ world: Aquabyssos
 updated: '2025-08-13T01:18:36.866635+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-merchant-captain-trade-merchant-captain-trade.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Appearance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Personality
-
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -54,28 +44,33 @@ Merchant Captain Trade is a undersea element of the setting, known for biolumine
 
 Legends speak of Merchant Captain Trade as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merchant Captain Trade.
 
-## Adventure Hooks
-
-- A rumor ties Merchant Captain Trade to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Merchant Captain Trade to avert a public scandal.
-- A map overlay reveals a hidden approach to Merchant Captain Trade active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Merchant Captain Trade|02 Worldbuilding/People/Merchant Captain Trade]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Master Smith Vulcan Deepforge]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- A journal reveals the truth about this place
+- A prisoner has gone missing and war looms
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

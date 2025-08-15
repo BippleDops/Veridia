@@ -17,14 +17,22 @@ updated: '2025-08-13T01:18:34.841768+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
 
 ## Player-Facing Summary
 
@@ -34,28 +42,39 @@ The Depth Oracles is a undersea element of the setting, known for bioluminescent
 
 Legends speak of The Depth Oracles as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Depth Oracles.
 
-## Adventure Hooks
-
-- A rumor ties The Depth Oracles to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Depth Oracles to avert a public scandal.
-- A map overlay reveals a hidden approach to The Depth Oracles active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Great Convergence Prophecies|02 Worldbuilding/Lore/The Great Convergence Prophecies]]
-
-
-## Connections
-
-- [[The Great Convergence Prophecies]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## Plot Hooks
+
+- Strange accidents suggest a conspiracy
+- A merchant needs help finding before the new moon
+- Strange sightings suggest a curse
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

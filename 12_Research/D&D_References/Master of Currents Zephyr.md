@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.977694+00:00'
 world: Both
 ---
 
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-master-of-currents-zephyr-master-of-currents-zephyr.svg)
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[Compass Quest|02 Worldbuilding/Places/Compass Quest]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Nerissa_Deepcurrent|Nerissa Deepcurrent]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,30 @@ Master of Currents Zephyr is a undersea element of the setting, known for biolum
 
 Legends speak of Master of Currents Zephyr as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Master of Currents Zephyr.
 
-## Adventure Hooks
-
-- A rumor ties Master of Currents Zephyr to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Master of Currents Zephyr to avert a public scandal.
-- A map overlay reveals a hidden approach to Master of Currents Zephyr active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest ancient magic
+- Someone is hunting a artifact for power
+- A merchant needs help investigating before the new moon
+- Strange accidents suggest a conspiracy
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

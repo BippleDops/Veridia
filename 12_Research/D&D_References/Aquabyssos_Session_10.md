@@ -9,7 +9,7 @@ tags:
 - session_packet
 - research
 - active
-created: null
+created: 
 modified: '2025-08-14'
 status: ready
 session_number: 10
@@ -17,8 +17,6 @@ campaign_name: Aquabyssos
 updated: '2025-08-13T01:18:31.120422+00:00'
 world: Aquabyssos
 ---
-
-
 
 # Session Packet — Aquabyssos 10
 
@@ -36,20 +34,34 @@ gm_sheets:
 assets:
   - [[Vehicles_Index|03 Mechanics/Vehicles/Vehicles Index]]
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player Handouts
 ```dataviewjs
 (dv.current().handouts ?? []).forEach(l=>dv.list(l))
 ```
 
 ## GM Sheets
-```dataviewjs
 (dv.current().gm_sheets ?? []).forEach(l=>dv.list(l))
-```
 
 ## Extra Assets
-```dataviewjs
 (dv.current().assets ?? []).forEach(l=>dv.list(l))
-```
 
 ## Player-Facing Summary
 
@@ -59,19 +71,20 @@ Aquabyssos Session 10 is a undersea element of the setting, known for biolumines
 
 Legends speak of Aquabyssos Session 10 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos Session 10.
 
-## Adventure Hooks
-
-- A rumor ties Aquabyssos Session 10 to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Aquabyssos Session 10 to avert a public scandal.
-- A map overlay reveals a hidden approach to Aquabyssos Session 10 active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -1,4 +1,5 @@
 ---
+
 title: The Crystal Queen Mother
 type: Npc
 tags:
@@ -10,6 +11,7 @@ tags:
 - active
 - complete
 - status/in-progress
+- conspiracy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +20,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.648196+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +30,69 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-crystal-queen-mother-the-crystal-queen-mother.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward avoidance
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward negotiation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
 
 ## Player-Facing Summary
 
@@ -67,14 +101,6 @@ The Crystal Queen Mother is a undersea element of the setting, known for biolumi
 ## Lore Details
 
 Legends speak of The Crystal Queen Mother as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crystal Queen Mother.
-
-## Adventure Hooks
-
-- A rumor ties The Crystal Queen Mother to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Crystal Queen Mother to avert a public scandal.
-- A map overlay reveals a hidden approach to The Crystal Queen Mother active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +111,6 @@ The Crystal Queen Mother's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Finding purpose
@@ -124,8 +120,6 @@ The Crystal Queen Mother's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 The Crystal Queen Mother harbors secrets that could change everything:
@@ -134,13 +128,9 @@ The Crystal Queen Mother harbors secrets that could change everything:
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Forbidden knowledge
 
-
-
-
-
 ## Voice & Mannerisms
 
-**Voice**: Deep and resonant
+**Voice**: Deep and resot
 
 **Speech Pattern**: Peppered with idioms
 
@@ -155,8 +145,6 @@ The Crystal Queen Mother is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: The Crystal Queen Mother needs assistance with a delicate matter
@@ -164,8 +152,6 @@ The Crystal Queen Mother is currently engaged in:
 3. **The Secret**: Information about The Crystal Queen Mother's past surfaces
 4. **The Alliance**: Opportunity to work with or against The Crystal Queen Mother
 5. **The Crisis**: The Crystal Queen Mother is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,31 +165,69 @@ The Crystal Queen Mother is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[The Crystal Queen Mother]]
+## Historical Timeline
 
-<!-- enriched: true -->
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
 
 
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
 
 
-## Relationship Web
+## Economic Structure
 
-- [[04_Resources_Assets_Symbols_symbol-heraldry-witness-protection-protocol-v1-witness-protection-protocol.svg]]: *business partner*
-- [[04_Resources_Assets_Locations_location-city-master-chef-coral-seasweaver-master-chef-coral-seasweaver.svg]]: *informant*
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
 
-## Connections
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
 
-### Home
-- [[04_Resources_Assets_Locations_location-city-the-collector-v1-the-collector.svg]]
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
 
-### Frequently Visits
-- [[Artificers' Consortium]]
-- [[04_Resources_Assets_Locations_location-city-transformation-medicine-techniques-transformation-medicine-techniques.svg]]
-- [[04_Resources_Assets_Locations_location-city-keeper-of-crowns-lydia-starfall-keeper-of-crowns-lydia-starfall.svg]]
 
-### Known Associates
-- [[The Royal Treasury Depths]] (colleague)
-- [[Quest - The Divine Test]] (ally)
-- [[04_Resources_Assets_Locations_location-city-harbor-master-s-tower-v1-harbor-master-s-tower.png]] (enemy)
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

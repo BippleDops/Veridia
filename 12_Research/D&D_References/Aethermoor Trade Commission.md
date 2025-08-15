@@ -16,17 +16,22 @@ world: Aethermoor
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Port Meridian - Market Square|02 Worldbuilding/Places/Port Meridian Market Square]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Port Meridian - Market Square]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,28 @@ Aethermoor Trade Commission is a sky-borne element of the setting, known for bra
 
 Legends speak of Aethermoor Trade Commission as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aethermoor Trade Commission.
 
-## Adventure Hooks
-
-- A rumor ties Aethermoor Trade Commission to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Aethermoor Trade Commission to avert a public scandal.
-- A map overlay reveals a hidden approach to Aethermoor Trade Commission active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

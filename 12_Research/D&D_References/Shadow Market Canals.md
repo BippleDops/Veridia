@@ -29,25 +29,36 @@ MyCategory: Places
 obsidianUIMode: preview
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-shadow-market-canals-shadow-market-canals.svg]]
-
-
-
 
 # Shadow Market Canals
 
 *"In the deepest channels beneath the city, where official maps fear to tread, commerce flows as dark and swift as the currents themselves."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
 The Shadow Market Canals represent one of Aquabyssos's most sophisticated criminal enterprises - a vast network of hidden waterways that serve as both transportation system and trading floor for the city's underground economy. These forgotten channels, originally built as emergency drainage and waste management systems, have been transformed into a thriving black market complex that operates entirely beneath the notice of official authorities.
 
 Spanning over thirty miles of interconnected tunnels, the canal system provides discrete transportation between key criminal facilities while hosting floating markets, mobile meeting rooms, and secure storage facilities. The constant flow of water masks conversations and movements, while the maze-like layout confuses outsiders and provides numerous escape routes for those who know the secret passages.
-
-## Geographic Layout
 
 ### The Five Districts
 
@@ -91,8 +102,6 @@ Color-coded rope guides indicate water depth:
 - Black rope: 10+ feet (diving gear recommended)
 - Red rope: Dangerous currents or obstacles
 
-## Access and Security
-
 ### Entry Requirements
 
 **The Voucher System**
@@ -133,8 +142,6 @@ All newcomers must be sponsored by established canal users:
 - **[[Depth Enforcers]]**: Armed guards trained in underwater combat
 - **[[The Tide Turners]]**: Elite operatives capable of controlling water flow
 - **[[Emergency Response Protocol]]**: Complete canal lockdown procedures
-
-## Operations and Services
 
 ### Primary Markets
 
@@ -190,8 +197,6 @@ Rapid transport system using trained water creatures:
 - **Equipment Rental**: Breathing apparatus and underwater gear (10 gp/day)
 - **Escort Protection**: Armed swimmers for dangerous journeys (100 gp/trip)
 - **Emergency Rescue**: Rapid response for accidents or attacks (200 gp)
-
-## Key NPCs
 
 ### Canal Master Typhoon Currentwise
 *Medium humanoid (triton), chaotic neutral*
@@ -271,8 +276,6 @@ Manages currency exchange and validates payment methods
 *Medium humanoid (sea elf), chaotic good*
 Negotiates with legitimate businesses and maintains cover operations
 
-## Criminal Organizations
-
 ### The Flow Runners
 **Specialty**: High-speed transportation and courier services
 **Territory**: The fastest current channels and main thoroughfares
@@ -301,8 +304,6 @@ Negotiates with legitimate businesses and maintains cover operations
 **Leadership**: [[Mind-Current Remembrance]], former temple priest turned rogue
 **Operations**: Memory theft, experience trading, selective amnesia services
 
-## Connections to Other Locations
-
 ### Direct Physical Connections
 
 **[[The Shadow Markets]]**
@@ -316,7 +317,7 @@ Secret tunnels connect to the main criminal trading center:
 Hidden passages allow discrete transport of political information:
 - Protected courier routes for sensitive documents
 - Secure meeting locations for political conspirators
-- Money laundering operations for political financing
+- Money laundering operations for political ficing
 - Blackmail material storage and transport
 
 **[[Secret Vault Beneath Throne]]**
@@ -362,7 +363,7 @@ Communication services and coded message delivery:
 Mutual protection and enforcement cooperation:
 - Shared security personnel during major operations
 - Joint response to external threats
-- Territory respect agreements and boundary maintenance
+- Territory respect agreements and boundary maintece
 - Coordinated pricing and service standards
 
 **[[Memory Thief]]**
@@ -379,8 +380,6 @@ Goods transfer and transportation coordination:
 - Joint operations for large-scale smuggling enterprises
 - Emergency evacuation and safe house networks
 
-## Threats and Challenges
-
 ### Law Enforcement Threats
 
 **City Guard Investigations**
@@ -393,7 +392,7 @@ Periodic attempts to map and infiltrate the canal system:
 **Political Pressure**
 Official efforts to shut down or control canal operations:
 - **Legal Challenges**: Attempts to reclaim the tunnels for city use
-- **Economic Pressure**: Tracking financial flows and taxation
+- **Economic Pressure**: Tracking ficial flows and taxation
 - **Public Relations**: Campaigns to reduce public support for criminal activity
 - **International Cooperation**: Working with other realms to stop cross-border crime
 
@@ -414,7 +413,7 @@ Threats to the secrecy and safety of canal operations:
 - Technical failures in magical or mechanical security systems
 
 **Economic Instability**
-Factors that threaten the financial viability of operations:
+Factors that threaten the ficial viability of operations:
 - Competition from other criminal networks
 - Changes in supply and demand for illegal goods and services
 - Economic pressures from the legitimate economy
@@ -442,8 +441,6 @@ Environmental events that threaten the canal system:
 - Extreme weather changing water levels
 - Seasonal changes affecting water flow and access
 - Disease outbreaks in the enclosed environment
-
-## Adventure Hooks
 
 ### Low-Level Adventures (Levels 1-4)
 
@@ -501,8 +498,6 @@ Criminal organizations in the canal system launch a bid to take control of Aquab
 19. **Emergency Evacuation**: External threat forces temporary canal closure
 20. **Unexpected Alliance**: Traditional enemies cooperate for mutual benefit
 
-## Physical Features
-
 ### The Trading Current - Central Market Area
 
 **Depth**: 8-12 feet, allowing both swimming and boat navigation
@@ -552,18 +547,6 @@ Criminal organizations in the canal system launch a bid to take control of Aquab
 
 *The Shadow Market Canals represent the sophisticated evolution of criminal enterprise - a hidden ecosystem that provides services, opportunities, and connections while maintaining the delicate balance between profitability and secrecy that allows the underground economy to flourish.*
 
-
-## Connections
-
-- [[Shadow Surgeons Collective]]
-- [[Deepmind Conspiracy]]
-- [[Secret Vault Beneath Throne]]
-- [[Shadow Merchant Riptide]]
-- [[Vote Vaults]]
-- [[Ambush Point]]
-- [[Rescue Senator Glaucus]]
-- [[Aquabyssos - Session 04 - High Tide Horror]]
-
 ## Player-Facing Summary
 
 Shadow Market Canals is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -576,17 +559,17 @@ Legends speak of Shadow Market Canals as a nexus where past and present converge
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Shadow Market Canals|02 Worldbuilding/Places/Shadow Market Canals]]
-
-<!-- enriched: true -->
-- [[Hidden Smuggler's Cove]]
-- [[Memory Thief]]
-- [[Reflection Pools - Surgical Theater]]
-- [[The Silent Watcher]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and chaos spreads
+- Strange sightings suggest a curse

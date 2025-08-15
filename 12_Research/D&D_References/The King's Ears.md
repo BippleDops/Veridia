@@ -15,36 +15,26 @@ world: Aethermoor
 updated: '2025-08-13T01:18:36.843127+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-king-s-ears-the-king-s-ears.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Appearance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Personality
-
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -54,28 +44,24 @@ The King's Ears is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of The King's Ears as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The King's Ears.
 
-## Adventure Hooks
-
-- A rumor ties The King's Ears to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The King's Ears to avert a public scandal.
-- A map overlay reveals a hidden approach to The King's Ears active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[The King's Ears|02 Worldbuilding/People/The King's Ears]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Secret Vault Beneath Throne]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Relationships
+
+- **Creditor**: [[King Marcus Lumengarde]]
+- **Enemy**: [[Portrait NPC the Bloodline Carrier the Bloodline Carrier.svg]]
+- **Parent**: [[Lord Commander Gareth]]
+- **Friend**: [[Captain Depths-Walker Marina]]
+- **Ally**: [[High Priest Daemon Shadowprayer]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

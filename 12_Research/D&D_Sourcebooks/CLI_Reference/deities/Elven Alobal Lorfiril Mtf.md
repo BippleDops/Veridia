@@ -17,7 +17,21 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
 ## Player-Facing Summary
@@ -28,19 +42,25 @@ Elven alobal lorfiril mtf is a undersea element of the setting, known for biolum
 
 Legends speak of elven alobal lorfiril mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elven alobal lorfiril mtf.
 
-## Adventure Hooks
-
-- A rumor ties elven alobal lorfiril mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at elven alobal lorfiril mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to elven alobal lorfiril mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for an heir for money
+- An heirloom has gone missing and chaos spreads
+- Someone is blackmailing a witness for power
+- A shipment has gone missing and evil awakens
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

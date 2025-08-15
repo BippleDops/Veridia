@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.444732+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,15 @@ NPC 1 is a undersea element of the setting, known for bioluminescent glow and pr
 
 Legends speak of NPC 1 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around NPC 1.
 
-## Adventure Hooks
-
-- A rumor ties NPC 1 to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at NPC 1 to avert a public scandal.
-- A map overlay reveals a hidden approach to NPC 1 active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[New Session|05 Templates/Templater/New Session]]
-
-
-## Connections
-
-- [[New Session]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

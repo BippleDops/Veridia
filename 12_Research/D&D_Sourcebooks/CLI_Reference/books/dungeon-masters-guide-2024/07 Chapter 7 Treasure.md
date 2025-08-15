@@ -22,14 +22,30 @@ updated: '2025-08-13T12:34:05.169097+00:00'
 world: Both
 ---
 
-
-
 # Chapter 7: Treasure
 *Source: Dungeon Master's Guide (2024), p. 213* 
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/104-07-001-onyx-treasure.webp#center "The Black Dragon Onyx guards her treasure hoard in the ruins of Xak Tsaroth"|The Black Dragon Onyx guar...]]
+!]
 
 Adventurers strive for many things, including glory, knowledge, and justice. Many adventurers also seek something more tangible: treasure. This chapter presents treasure in all its forms, from coins to magic items.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Treasure Themes
 
@@ -100,13 +116,9 @@ Magic items are gleaned from the hoards of felled monsters or discovered in long
 > [!note] Magic Item Rules
 > 
 > Rules for "identifying", "attuning to", and "using" magic items appear in the "Player's Handbook". Additional rules are presented below.
-> 
 > **Attunement Prerequisites.** If a magic item has a class prerequisite, a creature must be a member of that class to attune to the item. If a creature must be a spellcaster to attune to an item, the creature qualifies if it can cast at least one spell using its traits or features, not by using a magic item or the like.
-> 
 > **Items Made for Specific Creatures.** Magic items that are meant to be worn tend to magically adjust themselves to the wearer. However, you can decide that a magic item doesn't adjust its size to fit any wearer. For example, a particular armorer might make items usable only by folk who are sized and shaped like dwarves.
-> 
 > **Unusual Anatomy.** Use your discretion to decide whether a creature can wear an item not made for its anatomy. A ring placed on a tentacle might work, but a yuan-ti with a snakelike tail instead of legs can't wear magic boots.
-> 
 > **Paired Items.** You can allow exceptions to the rule that paired items must both be worn. For example, a character with only one arm might be able to use a single [[gloves-of-missile-snaring-xdmg|Glove of Missile Snaring]] so long as the matching glove is on their person.
 ^magic-item-rules
 
@@ -201,7 +213,6 @@ If a magic item incorporates an item that has a purchase cost in the "Player's H
 Awarding magic items is the purview of the DM. You can award a magic item because the story calls for it or the players would be especially pleased to have it. This section helps you to determine which magic items end up in the characters' possession.
 
 > [!note] Are Magic Items Necessary?
-> 
 > The D&D game assumes that magic items appear sporadically and that they are a boon unless an item bears a curse. Characters and monsters are built to face each other without the help of magic items, which means that having a magic item makes a character more powerful or versatile than a generic character of the same level. As DM, you never have to worry about awarding magic items just so the characters can keep up with the campaign's threats. Magic items are truly prizes—desirable but not necessary.
 ^are-magic-items-necessary
 
@@ -236,9 +247,7 @@ To use the table, find the level of the characters in the top row. Roll `d100`, 
 ![[random-magic-item-rarity-magic-item-rarities-xdmg|Random Magic Item Rarity; Magic Item Rarities]]
 
 > [!note] Magic Items for Starting Characters
-> 
 > If you're starting a campaign for characters above level 1, the "Player's Handbook" offers [[starting-equipment-at-higher-levels-xphb|suggestions]] for how many magic items such characters should start with and the rarity of those items. Consider these approaches to determining the items each character receives:
-> 
 > - **DM Choice.** Choose items for each character using your own judgment.  
 > - **Player Choice.** Let the players choose whatever items they want, within the specified rarity.  
 > - **Random Determination.** Use the tables at the end of this chapter to randomly determine starting items. Use the "Arcana tables" for Sorcerers, Warlocks, and Wizards. Use the "Armaments tables" for Barbarians, Fighters, Paladins, and Rangers. Use the "Implements tables" for Bards, Monks, and Rogues. Use the "Relics tables" for Clerics and Druids. Feel free to vary the tables you use to give each character a mix of useful items and to match character themes. For example, for a Fighter with the Eldritch Knight subclass, you might choose one item from the "Arcana tables" and the rest of the character's items from the "Armaments tables".  
@@ -407,7 +416,7 @@ You can give a sentient item an objective it pursues, perhaps to the exclusion o
 When the bearer of a sentient item acts in a manner opposed to the item's alignment or purpose, conflict can arise. When such a conflict occurs, the item's bearer makes a Charisma saving throw (DC 12 plus the item's Charisma modifier). On a failed save, the item makes one or more of the following demands:
 
 - **Chase My Dreams.** The item demands that its bearer pursue the item's goals to the exclusion of all other goals.  
-- **Get Rid of It.** The item demands that its bearer dispose of anything the item finds repugnant.  
+- **Get Rid of It.** The item demands that its bearer dispose of anything the item finds repugt.  
 - **It's Time for a Change.** The item demands to be given to someone else.  
 - **Keep Me Close.** The item insists on being carried or worn at all times.  
 
@@ -839,19 +848,30 @@ Use the tables in this section to randomly determine magic items the characters 
 
 Legends speak of 07 chapter 7 treasure as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 07 chapter 7 treasure.
 
-## Adventure Hooks
-
-- A rumor ties 07 chapter 7 treasure to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 07 chapter 7 treasure to avert a public scandal.
-- A map overlay reveals a hidden approach to 07 chapter 7 treasure active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for love
+- Strange sightings suggest ancient magic
+- A map reveals the truth about a local noble
+- A noble needs help investigating before the festival
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

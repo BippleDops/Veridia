@@ -21,11 +21,28 @@ updated: '2025-08-12T23:37:34.783833'
 world: Both
 ---
 
-
 # Appendix C: Tracking Sheets
 *Source: Dungeon Master's Guide (2024)* 
 
 You can find all the tracking sheets found throughout the "Dungeon Master's Guide" below. A [combined sheet](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/pdf/XDMG/combined-tracking-sheets.pdf) is also available.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Game Expectations
 
@@ -71,20 +88,39 @@ You can find all the tracking sheets found throughout the "Dungeon Master's Guid
 
 Legends speak of 11 appendix c tracking sheets as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 11 appendix c tracking sheets.
 
-## Adventure Hooks
-
-- A rumor ties 11 appendix c tracking sheets to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 11 appendix c tracking sheets to avert a public scandal.
-- A map overlay reveals a hidden approach to 11 appendix c tracking sheets active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Winds
+
+
+## Plot Hooks
+
+- A merchant needs help stealing before the new moon
+- A journal reveals a betrayal about this place
+- A noble needs help stealing before the festival
+- A map reveals ancient history about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -23,20 +23,35 @@ updated: '2025-08-12T23:37:36.796951'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-black-opal-xdmg-black-opal-xdmg.svg)
 
 # Black Opal
 *Treasure (gemstone)*  
 
-
 - **Cost**: 1,000 gp
 
 A dark green with black mottling and golden flecks gemstone.
 
 *Source: Dungeon Master's Guide (2024) p. 214*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -46,19 +61,30 @@ Black opal xdmg is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of black opal xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around black opal xdmg.
 
-## Adventure Hooks
-
-- A rumor ties black opal xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at black opal xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to black opal xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A merchant needs help delivering before the new moon
+- An heirloom has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

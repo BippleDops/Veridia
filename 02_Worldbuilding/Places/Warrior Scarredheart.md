@@ -1,4 +1,5 @@
 ---
+
 title: Warrior Scarredheart
 type: Location
 tags:
@@ -18,6 +19,8 @@ population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:17.003099+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,24 +29,72 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-warrior-scarredheart-v1-warrior-scarredheart.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## History
+*20 targeted improvements identified*
 
-TODO
-## Layout
+### History Improvements
 
-TODO
-## Notables
+- Add three historical eras with major events
 
-TODO
-## Threats
+### Culture Improvements
 
-TODO
-## Hooks
+- Define unique cultural practices and taboos
 
-TODO
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
 
 ## Player-Facing Summary
 
@@ -53,16 +104,6 @@ Warrior Scarredheart is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Warrior Scarredheart as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Warrior Scarredheart.
 
-## Adventure Hooks
-
-- A rumor ties Warrior Scarredheart to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Warrior Scarredheart to avert a public scandal.
-- A map overlay reveals a hidden approach to Warrior Scarredheart active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -70,42 +111,9 @@ Legends speak of Warrior Scarredheart as a nexus where past and present converge
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Warrior Scarredheart]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Innkeeper Marina Dreamwhisper]]
-
-
-## Notable Residents
-
-- [[Shadow Embassy]]
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-neutrality-laws-v1-neutrality-laws.svg]]
-- [[04_Resources_Assets_Locations_location-city-phantom-harbor-charter-phantom-harbor-charter.svg]]
-- [[Wave Traderwind]]
-
 
 ## Sensory Details
 
@@ -115,7 +123,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: The tang of salt air permeates everything
 
-
 ## Description
 
 Warrior Scarredheart is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -123,35 +130,7 @@ Warrior Scarredheart is a notable location characterized by its unique features 
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Warrior Scarredheart
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -164,15 +143,14 @@ Ongoing situations affecting Warrior Scarredheart:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Warrior Scarredheart
+## Trade Importance
 
-### Whispered Rumors
-- Stories that may or may not be true
+Key stop on magic items trade route
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+
+## Plot Hooks
+
+- A letter reveals a conspiracy about the cult
+- A corpse reveals ancient history about this place
+- A merchant needs help finding before dawn

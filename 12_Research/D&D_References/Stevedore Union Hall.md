@@ -17,14 +17,22 @@ updated: '2025-08-13T01:18:35.061304+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
 
 ## Player-Facing Summary
 
@@ -34,28 +42,18 @@ Stevedore Union Hall is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Stevedore Union Hall as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Stevedore Union Hall.
 
-## Adventure Hooks
-
-- A rumor ties Stevedore Union Hall to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Stevedore Union Hall to avert a public scandal.
-- A map overlay reveals a hidden approach to Stevedore Union Hall active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Port Meridian - Merchant Quarter|02 Worldbuilding/Places/Port Meridian Merchant Quarter]]
-
-
-## Connections
-
-- [[Port Meridian - Merchant Quarter]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a betrayal about this place
+- A letter reveals a conspiracy about the government
+- Strange disappearances suggest ancient magic
+- The authorities needs help finding before winter

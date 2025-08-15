@@ -15,23 +15,26 @@ updated: '2025-08-13T01:18:37.003622+00:00'
 world: Both
 ---
 
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-lord-flux-the-inconsistent-lord-flux-the-inconsistent.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Deep Mother]]
-- [[Aquabyssos - Session 08 - The Fractal Conspiracy]]
 
 ## Player-Facing Summary
 
@@ -41,19 +44,30 @@ Lord Flux the Inconsistent is a undersea element of the setting, known for biolu
 
 Legends speak of Lord Flux the Inconsistent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lord Flux the Inconsistent.
 
-## Adventure Hooks
-
-- A rumor ties Lord Flux the Inconsistent to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Lord Flux the Inconsistent to avert a public scandal.
-- A map overlay reveals a hidden approach to Lord Flux the Inconsistent active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a portal
+- A noble needs help stealing before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

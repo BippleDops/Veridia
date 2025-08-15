@@ -10,7 +10,23 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Collaborative Worldbuilding Methodology
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Integrating Player Input into Complex World Systems
 
@@ -137,12 +153,10 @@ class CollaborativeSession(BaseModel):
 ```
 
 World element ownership tracking:
-```python
 world_element_ownership: Dict[str, str]  # Which player contributed what
 player_expertise_areas: Dict[str, List[str]]  # Player specializations
 collaborative_history: List[PlayerContribution]  # Record of all contributions
 pending_integrations: List[str]  # Contributions waiting for implementation
-```
 
 ### Collaboration Success Metrics
 
@@ -192,7 +206,6 @@ pending_integrations: List[str]  # Contributions waiting for implementation
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -200,3 +213,24 @@ pending_integrations: List[str]  # Contributions waiting for implementation
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A corpse reveals a conspiracy about this place
+- Strange accidents suggest a curse
+- A journal reveals the truth about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

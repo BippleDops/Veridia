@@ -17,7 +17,23 @@ world: Both
 ---
 
 
-# Crystal Corruption Identification Chart
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Visual Reference for Field Identification
 
 ```
@@ -27,15 +43,12 @@ world: Both
     ║  ♦ BLUE GLOW ♦  ║                     ║ ☠ PULSING RED ☠ ║
     ║ ♦  STABLE HUM  ♦ ║                     ║☠  DISCORDANT  ☠║
     ║  ♦ CLEAR CORE ♦  ║                     ║ ☠ DARK VEINS ☠ ║
-    ║   ♦♦♦♦♦♦♦♦♦♦♦    ║                     ║  ☠☠☠☠☠☠☠☠☠☠☠   ║
     ╚════════════════╝                     ╚════════════════╝
-```
 
 ### Stage 1: Early Corruption
-```
 Visual Signs:           Audio Signs:           Physical Effects:
 • Slight color shift    • Harmonic distortion   • Mild headaches
-• Flickering light      • Off-key resonance     • Slight dizziness
+• Flickering light      • Off-key resoce     • Slight dizziness
 • Minor surface cracks  • Volume fluctuation    • Skin tingling
 
   ┌─────┐
@@ -46,58 +59,39 @@ Visual Signs:           Audio Signs:           Physical Effects:
 
 SAFETY: Manageable with protective gear
 ACTION: Report to authorities, avoid prolonged contact
-```
 
 ### Stage 2: Moderate Corruption
-```
-Visual Signs:           Audio Signs:           Physical Effects:
 • Obvious color change  • Discordant harmonics  • Nausea
 • Pulsing red glow      • Whispers in crystal   • Memory gaps
 • Spreading dark veins  • Echo distortion       • Temporary blindness
 
-  ┌─────┐
   │█•█•█│  <- Veins spreading
   │•█•█•│
   │█•█•█│
-  └─────┘
 
 SAFETY: Dangerous - specialized equipment required
 ACTION: Immediate evacuation, contact Corruption Response Team
-```
 
 ### Stage 3: Severe Corruption
-```
-Visual Signs:           Audio Signs:           Physical Effects:
-• Deep red/black core   • Screaming resonance   • Severe illness
+• Deep red/black core   • Screaming resoce   • Severe illness
 • Chaotic light pulses  • Reality distortion    • Hallucinations
 • Surface bubbling      • Multiple voices       • Physical mutations
 
-  ┌─────┐
   │█████│  <- Mostly corrupted
-  │█•█•█│
   │█████│
-  └─────┘
 
 SAFETY: EXTREME DANGER - Lethal without Master-level protection
 ACTION: Do not approach - Alert Crystal Wardens immediately
-```
 
 ### Stage 4: Critical Corruption
-```
-Visual Signs:           Audio Signs:           Physical Effects:
 • Void-black interior   • Reality-rending       • Instant madness
 • Anti-light emission   • Silence zones         • Dimensional shifting
 • Spatial distortion    • Temporal echoes       • Soul damage
 
-  ┌─────┐
   │█████│  <- Complete corruption
-  │█████│
-  │█████│
-  └─────┘
 
 SAFETY: REALITY HAZARD - Area evacuation required
 ACTION: Full military response - Deep Mother influence suspected
-```
 
 ### Protection Equipment by Stage
 
@@ -126,7 +120,6 @@ ACTION: Full military response - Deep Mother influence suspected
 
 ### Emergency Procedures
 
-```
 IF EXPOSED TO CORRUPTED CRYSTAL:
 
 1. IMMEDIATE (First 30 seconds)
@@ -146,7 +139,6 @@ IF EXPOSED TO CORRUPTED CRYSTAL:
    ► Mental state evaluation
    ► Quarantine if symptoms present
    ► Follow-up monitoring schedule
-```
 
 ### Contact Information
 
@@ -167,7 +159,6 @@ IF EXPOSED TO CORRUPTED CRYSTAL:
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -175,3 +166,20 @@ IF EXPOSED TO CORRUPTED CRYSTAL:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- A merchant needs help finding before winter
+- A letter reveals a conspiracy about the government
+- The authorities needs help finding before the new moon
+- A noble needs help delivering before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

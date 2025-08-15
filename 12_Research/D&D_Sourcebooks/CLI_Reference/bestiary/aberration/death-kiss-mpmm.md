@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.332255'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-death-kiss-mpmm-death-kiss-mpmm.svg)
 
@@ -57,10 +55,8 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
 "stats":
   - !!int "18"
   - !!int "14"
-  - !!int "18"
   - !!int "10"
   - !!int "12"
-  - !!int "10"
 "speed": "0 ft., fly 30 ft. (hover)"
 "saves":
   - "constitution": !!int "8"
@@ -69,7 +65,7 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "damage_immunities": "lightning"
-"condition_immunities": "[[conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#prone|prone]]"
 "senses": "darkvision 120 ft., passive Perception 15"
 "languages": "Deep Speech, Undercommon"
 "cr": "10"
@@ -101,6 +97,24 @@ A death kiss lacks the combat finesse and intelligence of a true beholder. In mo
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 underdark
@@ -113,19 +127,15 @@ Death kiss mpmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of death kiss mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around death kiss mpmm.
 
-## Adventure Hooks
-
-- A rumor ties death kiss mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at death kiss mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to death kiss mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

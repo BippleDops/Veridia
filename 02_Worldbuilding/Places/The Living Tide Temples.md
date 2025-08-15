@@ -1,4 +1,5 @@
 ---
+
 title: The Living Tide Temples
 type: Location
 tags:
@@ -10,6 +11,8 @@ tags:
 - location
 - complete
 - status/in-progress
+- bloodline
+- prophecy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +21,8 @@ population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.693314+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,24 +31,69 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-living-tide-temples-the-living-tide-temples.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## History
+*20 targeted improvements identified*
 
-TODO
-## Layout
+### History Improvements
 
-TODO
-## Notables
+- Add three historical eras with major events
 
-TODO
-## Threats
+### Culture Improvements
 
-TODO
-## Hooks
+- Define unique cultural practices and taboos
 
-TODO
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
 
 ## Player-Facing Summary
 
@@ -53,16 +103,6 @@ The Living Tide Temples is a undersea element of the setting, known for biolumin
 
 Legends speak of The Living Tide Temples as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Living Tide Temples.
 
-## Adventure Hooks
-
-- A rumor ties The Living Tide Temples to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Living Tide Temples to avert a public scandal.
-- A map overlay reveals a hidden approach to The Living Tide Temples active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -70,37 +110,9 @@ Legends speak of The Living Tide Temples as a nexus where past and present conve
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[The Living Tide Temples]]
-
-<!-- enriched: true -->
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-diplomatic-deepcurrent-v1-diplomatic-deepcurrent.svg]]
-- [[Codex of Forgotten Depths]]
-- [[04_Resources_Assets_Locations_location-city-magical-services-magical-services.svg]]
-
 
 ## Sensory Details
 
@@ -110,7 +122,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: Wood smoke curls from countless chimneys
 
-
 ## Description
 
 The Living Tide Temples is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -118,35 +129,7 @@ The Living Tide Temples is a notable location characterized by its unique featur
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of The Living Tide Temples
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -159,22 +142,63 @@ Ongoing situations affecting The Living Tide Temples:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about The Living Tide Temples
+## Secret Connections
 
-### Whispered Rumors
-- Stories that may or may not be true
-
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
 
 
-## Connections
+## Plot Hooks
 
-- See also: [[Master Timeline]]
-- Related: [[Power Structures]]
-- Connected to: [[Side Adventures]]
+- A noble needs help delivering before dawn
+- Strange disappearances suggest a curse
+- A prisoner has gone missing and chaos spreads
+- A letter reveals a betrayal about a local noble
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
+
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

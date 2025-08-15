@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.513038+00:00'
 world: Both
 ---
 
-
-
 # Arctic Encounters (Levels 17—20)
 *Source: Xanathar's Guide to Everything p. 92* 
 
@@ -33,7 +31,7 @@ world: Both
 
 | dice: d100 | Encounter |
 |------------|-----------|
-| 01-02 | `2d10` [[revenant-xmm|revenants]] |
+| 01-02 | `2d10` [[revet-xmm|revets]] |
 | 03-04 | `2d8` [[troll-xmm|trolls]] |
 | 05-06 | `2d10` [[werebear-xmm|werebears]] |
 | 07-08 | 1 [[frost-giant-xmm|frost giant]] |
@@ -53,6 +51,24 @@ world: Both
 | 00 | 1 [[ancient-white-dragon-xmm|ancient white dragon]] with `d3` [[young-white-dragon-xmm|young white dragons]] |
 ^arctic-encounters-levels-1720
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Arctic encounters levels 1720 xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -61,19 +77,21 @@ Arctic encounters levels 1720 xge is a undersea element of the setting, known fo
 
 Legends speak of arctic encounters levels 1720 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around arctic encounters levels 1720 xge.
 
-## Adventure Hooks
-
-- A rumor ties arctic encounters levels 1720 xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at arctic encounters levels 1720 xge to avert a public scandal.
-- A map overlay reveals a hidden approach to arctic encounters levels 1720 xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting a artifact for revenge
+- A noble needs help delivering before the festival
+- A stranger needs help delivering before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

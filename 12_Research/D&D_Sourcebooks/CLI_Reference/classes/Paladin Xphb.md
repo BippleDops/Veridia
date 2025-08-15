@@ -23,47 +23,53 @@ updated: '2025-08-13T12:34:04.848171+00:00'
 world: Both
 ---
 
-
-
 # Paladin
-*Source: Player's Handbook (2024) p. 108. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Player's Handbook (2024) p. 108. Available in the SRD and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
-> <table class="class-progression">
-> <thead>
-> <tr><th colspan='5'></th><th colspan='5'>Spell Slots per Spell Level</th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Channel Divinity</th><th class="value">Prepared Spells</th><th class="spellSlot">1st</th><th class="spellSlot">2nd</th><th class="spellSlot">3rd</th><th class="spellSlot">4th</th><th class="spellSlot">5th</th></tr>
-> </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Lay on Hands (Level 1)' class='internal-link'>Lay on Hands</a>, <a href='#Spellcasting (Level 1)' class='internal-link'>Spellcasting</a>, <a href='#Weapon Mastery (Level 1)' class='internal-link'>Weapon Mastery</a></td><td class="value">⏤</td><td class="value">2</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Fighting Style (Level 2)' class='internal-link'>Fighting Style</a>, <a href='#Paladin's Smite (Level 2)' class='internal-link'>Paladin's Smite</a></td><td class="value">⏤</td><td class="value">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Channel Divinity (Level 3)' class='internal-link'>Channel Divinity</a>, <a href='#Paladin Subclass (Level 3)' class='internal-link'>Paladin Subclass</a></td><td class="value">2</td><td class="value">4</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a></td><td class="value">2</td><td class="value">5</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Extra Attack (Level 5)' class='internal-link'>Extra Attack</a>, <a href='#Faithful Steed (Level 5)' class='internal-link'>Faithful Steed</a></td><td class="value">2</td><td class="value">6</td><td class="spellSlot">4</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Aura of Protection (Level 6)' class='internal-link'>Aura of Protection</a></td><td class="value">2</td><td class="value">6</td><td class="spellSlot">4</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Subclass Feature (Level 7)' class='internal-link'>Subclass Feature</a></td><td class="value">2</td><td class="value">7</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 8)' class='internal-link'>Ability Score Improvement</a></td><td class="value">2</td><td class="value">7</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Abjure Foes (Level 9)' class='internal-link'>Abjure Foes</a></td><td class="value">2</td><td class="value">9</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Aura of Courage (Level 10)' class='internal-link'>Aura of Courage</a></td><td class="value">2</td><td class="value">9</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Radiant Strikes (Level 11)' class='internal-link'>Radiant Strikes</a></td><td class="value">3</td><td class="value">10</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 12)' class='internal-link'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">10</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">⏤</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td><td class="value">3</td><td class="value">11</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Restoring Touch (Level 14)' class='internal-link'>Restoring Touch</a></td><td class="value">3</td><td class="value">11</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Subclass Feature (Level 15)' class='internal-link'>Subclass Feature</a></td><td class="value">3</td><td class="value">12</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td><td class="value">3</td><td class="value">12</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td><td class="spellSlot">⏤</td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td><td class="value">3</td><td class="value">14</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Aura Expansion (Level 18)' class='internal-link'>Aura Expansion</a></td><td class="value">3</td><td class="value">14</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">1</td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Epic Boon (Level 19)' class='internal-link'>Epic Boon</a></td><td class="value">3</td><td class="value">15</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Subclass Feature (Level 20)' class='internal-link'>Subclass Feature</a></td><td class="value">3</td><td class="value">15</td><td class="spellSlot">4</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">3</td><td class="spellSlot">2</td></tr>
-> </tbody></table>
+> Spell Slots per Spell Level
+> LevelPBFeaturesChannel DivinityPrepared Spells1st2nd3rd4th5th
+> 1st+2Lay on Hands, Spellcasting, Weapon Mastery⏤22⏤⏤⏤⏤
+> 2nd+2Fighting Style, Paladin's Smite⏤32⏤⏤⏤⏤
+> 3rd+2Channel Divinity, Paladin Subclass243⏤⏤⏤⏤
+> 4th+2Ability Score Improvement253⏤⏤⏤⏤
+> 5th+3Extra Attack, Faithful Steed2642⏤⏤⏤
+> 6th+3Aura of Protection2642⏤⏤⏤
+> 7th+3Subclass Feature2743⏤⏤⏤
+> 8th+3Ability Score Improvement2743⏤⏤⏤
+> 9th+4Abjure Foes29432⏤⏤
+> 10th+4Aura of Courage29432⏤⏤
+> 11th+4Radiant Strikes310433⏤⏤
+> 12th+4Ability Score Improvement310433⏤⏤
+> 13th+53114331⏤
+> 14th+5Restoring Touch3114331⏤
+> 15th+5Subclass Feature3124332⏤
+> 16th+5Ability Score Improvement3124332⏤
+> 17th+631443331
+> 18th+6Aura Expansion31443331
+> 19th+6Epic Boon31543332
+> 20th+6Subclass Feature31543332
 
 ^class-progression
 
-## Hit Points
 
-- **Hit Dice**: 1d10 per Paladin level
-- **Hit Points at First Level:** 10 + CON
-- **Hit Points at Higher Levels:** add 6 OR 1d10 + CON  (minimum of 1)
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Starting Paladin
 
@@ -74,11 +80,6 @@ world: Both
 
 **Starting Equipment:** *Choose A or B:* (A) [[chain-mail-xphb|Chain Mail]], [[shield-xphb|Shield]], [[longsword-xphb|Longsword]], 6 [[javelin-xphb|Javelins]], [[holy-symbol-xphb|Holy Symbol]], [[priests-pack-xphb|Priest's Pack]], and 9 GP; or (B) 150 GP
 
-## Multiclassing Paladin
-
-- **Weapon Proficiencies**: Martial weapons
-- **Armor Training**: [[item-types#Light%20Armor|Light armor]], [[item-types#Medium%20Armor|Medium armor]], [[shield-xphb|Shields]]
-
 ## Paladin
 
 Paladins are united by their oaths to stand against the forces of annihilation and corruption. Whether sworn before a god's altar, in a sacred glade before nature spirits, or in a moment of desperation and grief with the dead as the only witnesses, a Paladin's oath is a powerful bond. It is a source of power that turns a devout warrior into a blessed champion.
@@ -86,8 +87,6 @@ Paladins are united by their oaths to stand against the forces of annihilation a
 Paladins train to learn the skills of combat, mastering a variety of weapons and armor. Even so, their martial skills are secondary to the magical power they wield: power to heal the injured, smite their foes, and protect the helpless and those who fight at their side.
 
 Almost by definition, the life of a Paladin is an adventuring life, for every Paladin lives on the front lines of the cosmic struggle against annihilation. Fighters are rare enough among the ranks of a world's armies, but even fewer people can claim the calling of a Paladin. When they do receive the call, these blessed folk turn from their former occupations and take up arms and magic.
-
-## Class Features
 
 ### Lay on Hands (Level 1)
 
@@ -156,11 +155,8 @@ As a [[bonus-action-xphb|Bonus Action]], you can open your awareness to detect C
 You gain a Paladin subclass of your choice. A subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass's features that are of your Paladin level or lower.
 
 > [!note] Breaking Your Oath
-> 
 > A Paladin tries to hold to the highest standards of conduct, but even the most dedicated are fallible. Sometimes a Paladin transgresses their oath.
-> 
 > A Paladin who has broken a vow typically seeks absolution, spending an all-night vigil as a sign of penitence or undertaking a fast. After a rite of forgiveness, the Paladin starts fresh.
-> 
 > If your Paladin unrepentantly violates their oath, talk to your DM. Your Paladin should probably take a more appropriate subclass or even abandon the class and adopt another one.
 ^breaking-your-oath
 
@@ -196,11 +192,11 @@ You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] Feat o
 
 ### Abjure Foes (Level 9)
 
-As a [[actions#Magic|Magic]] action, you can expend one use of this class's Channel Divinity to overwhelm foes with awe. As you present your [[holy-symbol-xphb|Holy Symbol]] or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the [[conditions#Frightened|Frightened]] condition for 1 minute or until it takes any damage. While [[conditions#Frightened|Frightened]] in this way, a target can do only one of the following on its turns: move, take an action, or take a [[bonus-action-xphb|Bonus Action]].
+As a [[actions#Magic|Magic]] action, you can expend one use of this class's Channel Divinity to overwhelm foes with awe. As you present your [[holy-symbol-xphb|Holy Symbol]] or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the [[conditions#frightened|Frightened]] condition for 1 minute or until it takes any damage. While [[conditions#frightened|Frightened]] in this way, a target can do only one of the following on its turns: move, take an action, or take a [[bonus-action-xphb|Bonus Action]].
 
 ### Aura of Courage (Level 10)
 
-You and your allies have [[immunity-xphb|Immunity]] to the [[conditions#Frightened|Frightened]] condition while in your Aura of Protection. If a [[conditions#Frightened|Frightened]] ally enters the aura, that condition has no effect on that ally while there.
+You and your allies have [[immunity-xphb|Immunity]] to the [[conditions#frightened|Frightened]] condition while in your Aura of Protection. If a [[conditions#frightened|Frightened]] ally enters the aura, that condition has no effect on that ally while there.
 
 ### Radiant Strikes (Level 11)
 
@@ -208,19 +204,13 @@ Your strikes now carry supernatural power. When you hit a target with an attack 
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
-
 ### Restoring Touch (Level 14)
 
-When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: [[conditions#Blinded|Blinded]], [[conditions#Charmed|Charmed]], [[conditions#Deafened|Deafened]], [[conditions#Frightened|Frightened]], [[conditions#Paralyzed|Paralyzed]], or [[conditions#Stunned|Stunned]]. You must expend 5 [[hit-points-xphb|Hit Points]] from the healing pool of Lay On Hands for each of these conditions you remove; those points don't also restore [[hit-points-xphb|Hit Points]] to the creature.
+When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: [[conditions#Blinded|Blinded]], [[conditions#Charmed|Charmed]], [[conditions#Deafened|Deafened]], [[conditions#frightened|Frightened]], [[conditions#Paralyzed|Paralyzed]], or [[conditions#Stunned|Stunned]]. You must expend 5 [[hit-points-xphb|Hit Points]] from the healing pool of Lay On Hands for each of these conditions you remove; those points don't also restore [[hit-points-xphb|Hit Points]] to the creature.
 
 ### Subclass Feature (Level 15)
 
-You gain a feature from your Paladin Subclass.
-
 ### Ability Score Improvement (Level 16)
-
-You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] Feat or another feat of your choice for which you qualify.
 
 ### Aura Expansion (Level 18)
 
@@ -232,8 +222,6 @@ You gain an Epic Boon feat or another feat of your choice for which you qualify.
 
 ### Subclass Feature (Level 20)
 
-You gain a feature from your Paladin Subclass.
-
 ## Player-Facing Summary
 
 Paladin xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -242,19 +230,23 @@ Paladin xphb is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of paladin xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around paladin xphb.
 
-## Adventure Hooks
-
-- A rumor ties paladin xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at paladin xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to paladin xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.036164+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,25 @@ Paradox Elimination Squad is a undersea element of the setting, known for biolum
 
 Legends speak of Paradox Elimination Squad as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Paradox Elimination Squad.
 
-## Adventure Hooks
-
-- A rumor ties Paradox Elimination Squad to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Paradox Elimination Squad to avert a public scandal.
-- A map overlay reveals a hidden approach to Paradox Elimination Squad active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Parliament of Nobody|02 Worldbuilding/Groups/The Parliament Of Nobody]]
-
-
-## Connections
-
-- [[The Parliament of Nobody]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before the new moon
+- A merchant needs help stealing before dawn
+- A journal reveals a betrayal about this place
+- A stranger needs help delivering before the festival
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

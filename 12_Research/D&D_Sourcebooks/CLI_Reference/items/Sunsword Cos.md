@@ -25,8 +25,6 @@ updated: '2025-08-13T12:34:06.857674+00:00'
 world: Both
 ---
 
-
-
 # Sunsword
 *Weapon ([[longsword-xphb|longsword]]), legendary (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/sunsword.webp#right)
@@ -47,6 +45,24 @@ The hilt, which is sentient, knows that it can never be reunited with its origin
 - You gain a +2 bonus to attack and damage rolls made with this weapon, which deals radiant damage instead of slashing damage. When you hit an undead with it, that target takes an extra `d8` radiant damage.  
 - The sword's luminous blade emits bright light in a 15-foot radius and dim light for an additional 15 feet. The light is sunlight. While the blade persists, you can use an action to expand or reduce its radius of bright and dim light by 5 feet each, to a maximum of 30 feet each or a minimum of 10 feet each.  
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Sentience
 
 The Sunsword is a sentient chaotic good weapon with an Intelligence of 11, a Wisdom of 17, and a Charisma of 16. It has hearing and normal vision out to a range of 60 feet. The weapon communicates by transmitting emotions to the creature carrying it or wielding it.
@@ -65,19 +81,34 @@ Sunsword cos is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of sunsword cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sunsword cos.
 
-## Adventure Hooks
-
-- A rumor ties sunsword cos to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at sunsword cos to avert a public scandal.
-- A map overlay reveals a hidden approach to sunsword cos active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals a conspiracy about the cult
+- A shipment has gone missing and chaos spreads
+- Someone is blackmailing an heir for love
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

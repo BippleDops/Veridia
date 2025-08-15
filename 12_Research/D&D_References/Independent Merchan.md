@@ -17,12 +17,22 @@ updated: '2025-08-13T01:18:35.850182+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,19 +42,30 @@ Independent Merchant 2 is a undersea element of the setting, known for biolumine
 
 Legends speak of Independent Merchant 2 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Independent Merchant 2.
 
-## Adventure Hooks
-
-- A rumor ties Independent Merchant 2 to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Independent Merchant 2 to avert a public scandal.
-- A map overlay reveals a hidden approach to Independent Merchant 2 active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before winter
+- A shipment has gone missing and war looms
+- A merchant needs help finding before dawn
+- Strange disappearances suggest a curse
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

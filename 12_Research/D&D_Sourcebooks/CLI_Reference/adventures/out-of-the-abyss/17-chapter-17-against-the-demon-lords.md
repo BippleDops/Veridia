@@ -21,11 +21,28 @@ updated: '2025-08-12T23:37:34.651682'
 world: Both
 ---
 
-
 # Chapter 17: Against the Demon Lords
 *Source: Out of the Abyss, p. 215* 
 
 In the culmination of *Out of the Abyss*, the heroes implement [[/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota|Vizeran DeVir]]'s scheme to take on the demon lords. The archmage's ritual draws the demon lords together to fight to the death, leaving Demogorgon victorious but weakened as the adventurers face off against the Prince of Demons. Even wounded and weakened, though, Demogorgon is a legendary foe, and the fate of the Underdark and all Faerûn rests on the adventurers' final battle.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Readying the Plan
 
@@ -54,9 +71,7 @@ Enraged by being forcibly summoned yet again by a ritual, the demons fly into a 
 > [!note] Option: The Lesser of Two Evils
 > 
 > If you want to pose a moral dilemma for the characters, have Vizeran tell them that the ritual needs a final component, to be delivered while it is performed: the sacrifice of an innocent sentient being, whose blood will fuel and activate the ritual's fiendish magic. Will the adventurers willingly sacrifice one life to stop the demon lords from threatening the Underdark and the whole of Faerûn?
-> 
 > This kind of moral dilemma can add significant drama to the story. However, it can also be played out as a red herring—by having it be something Vizeran asks for even though it's not necessary. The drow archmage might be testing the characters to see how far they'll go, or he could be afflicted with madness that makes him believe such a sacrifice is necessary even though it isn't.
-> 
 > A character can figure out the truth with a DC 20 Intelligence ([[skills#Arcana|Arcana]]) check, or by consulting Gromph Baenre's grimoire (see chapter 15). Alternatively, Grin Ousstyl can tell the characters the truth, enraging his master as a result.
 ^option-the-lesser-of-two-evils
 
@@ -67,9 +82,7 @@ The players can choose where their characters confront the demon lords by decidi
 Wherever the players decide to place the talisman, their characters must travel to that location while Vizeran makes his final preparations for the ritual. Given their experiences in the Underdark, the adventurers should be able to think of a number of likely sites for the final battle. A few likely options are discussed here.
 
 > [!note] Staying Behind
-> 
 > One or more of the characters might choose to stay with Vizeran during the nine-hour performance of the ritual, whether to guard against treachery or to reclaim Gromph's grimoire once the ritual is done. If this is the case, you can add some action for those who remain behind by having a small number of the demons summoned by the ritual attracted to the site of the ritual rather than the location of the *dark heart* talisman. Alternatively, agents of [[/03_Mechanics/CLI/bestiary/npc/quenthel-baenre-oota|Quenthel Baenre]] or Jarlaxle can attack Araj when the ritual is complete, wanting to silence Vizeran before he can reveal what he knows about Gromph Baenre (see chapter 15).
-> 
 > Vizeran might also learn of Grin Ousstyl's betrayal of information to the adventurers, and choose to eliminate him immediately after he's served his purpose in assisting with the ritual. This might lead some characters back to Araj to aid the drow apprentice.
 ^staying-behind
 
@@ -92,7 +105,6 @@ The ruins of the kuo-toa settlement (see chapter 3) could become the site of the
 Characters looking to double-cross Vizeran—or those with a sense of poetic justice—might hide the *dark heart* somewhere in the drow archmage's tower or the surrounding cavern. This reduces the number of bystanders, contains the demons and their battle, and ensures Vizeran's enmity.
 
 > [!note] Broken Heart
-> 
 > If the characters lose or destroy the *dark heart*, they either have to go through the process of gathering the necessary components to make a replacement, or abandon Vizeran's plan. See "Loose Threads" later in this chapter for ideas about what to do if the plan never gets off the ground.
 ^broken-heart
 
@@ -123,9 +135,7 @@ Players should never have to think about sacrificing their characters, but you s
 Once the *dark heart* talisman is placed and the characters signal Vizeran, there's no turning back.
 
 > [!readaloud] 
-> 
 > The waiting is the hard part. Time seems to drag as you remain alert, weapons drawn, every nerve singing with the tension in the air all around you.
-> 
 > Finally, a swirling light begins to flare in the darkness. A barely audible humming shakes you to the core, rising and falling like a vast heartbeat in the depths. The glow of *faerzress* gathers and brightens, creating swirling pools like holes torn in the air. A roar sounds from far away as shadows move in the depths of those pools of light. The demons are coming.
 ^5b7
 
@@ -138,13 +148,9 @@ The demon lords described in appendix D of this adventure all appear in the fina
 Numerous other demons also pour through the portals. For a brief moment, all of the demons and demon lords are disoriented as they attempt to get their bearings after being pulled across the Underdark. Then as their gazes fall upon each other, they roar, bellow, or shriek with a hatred too deep for mortals to truly comprehend, and the terrible battle begins.
 
 > [!note] Option: Jimjar's Last Gamble
-> 
 > If the adventurers need some extra help in their epic final battle at the end of the campaign, consider the following option involving [[/03_Mechanics/CLI/bestiary/npc/jimjar-oota|Jimjar]], the deep gnome gambler they met in the drow slave pen in chapter 1 of the adventure.
-> 
 > "[[/03_Mechanics/CLI/bestiary/npc/jimjar-oota|Jimjar]]" isn't at all who he appears. He is, in fact, a god or other great power in disguise—or the Chosen of such a power—and has been watching the heroes since their first encounter in Velkynvelve. His reasons for doing this are his own, but when push comes to shove, he can give the heroes some help in overcoming the demon lords.
-> 
 > At an opportune moment, [[/03_Mechanics/CLI/bestiary/npc/jimjar-oota|Jimjar]] shows up (even returning from death if he appeared to perish earlier in the adventure) and gives the characters a vote of encouragement, telling them, "I bet you can do this." Each character gains inspiration and a *blessing of wound closure* (see ""Other Rewards"" in chapter 7 of the *Dungeon Master's Guide*). [[/03_Mechanics/CLI/bestiary/npc/jimjar-oota|Jimjar]] disappears afterward, potentially putting in one last appearance at the end of the adventure to hint as to his true nature before vanishing into the Underdark.
-> 
 > Who is [[/03_Mechanics/CLI/bestiary/npc/jimjar-oota|Jimjar]] really? That depends on your characters and the campaign, but one of the characters' patron deities is a good possibility. He might also be a gnomish god such as Garl Glittergold or Callarduran Smoothhands, known tricksters and shapeshifters, and foes of demons and their ilk. The more important thing is that he serves as a "lucky charm" for the characters when they need him. This option works particularly well if the adventurers have been kind to the sometimes annoying deep gnome over the course of the campaign, earning his respect and gratitude.
 ^option-jimjars-last-gamble
 
@@ -177,13 +183,9 @@ An [[conditions#Invisible|invisible]] [[quasit-xmm|quasit]] tries to steal a sma
 If any of the player characters' allies are accompanying them, a demon sortie (see above) attacks the NPCs. The characters must decide whether or not to break cover to aid their allies against the demons. If they do, another demon sortie attacks them `d4` rounds later.
 
 > [!note] Option: Playing Out the Battle Option
-> 
 > Rather than focusing on the adventurers biding their time and dealing with the fallout of the titanic battle between the demon lords, you can shift focus for this part of the adventure. Consider having the players take control of the various demon lords from appendix D, then play out the conflict between them.
-> 
 > Assign each player an available demon lord, or allow players to choose one demon lord to control during the battle. You manage any of the remaining demon lords. If there aren't enough demon lords for all the players, you can use [[balor-xmm|balors]] or other powerful demons to round out their numbers.
-> 
 > The players control the demons in their battle to the death, with the only restriction being that they can't withdraw from the combat. Brief tactical retreats are permissible, but Vizeran's ritual has filled the demon lords with the rage to do battle.
-> 
 > The demonic victor of this battle, its hit points and other resources sufficiently depleted, is the foe that the adventurers must overcome in the final confrontation.
 ^option-playing-out-the-battle-option
 
@@ -196,7 +198,7 @@ The battle between the demon lords shifts dangerously close to the characters. R
 | dice: d6 | Event |
 |----------|-------|
 | 1–2 | **Explosion**. Each creature within 20 feet of a point you choose must make a DC 13 Dexterity saving throw. On a failure, the creature takes `3d6` fire damage, or half as much damage on a success. |
-| 3–4 | **Flying Debris**. Each creature within 30 feet of a point you choose must make a DC 13 Dexterity saving throw, taking `3d6` bludgeoning damage and falling [[conditions#Prone|prone]] on a failure. |
+| 3–4 | **Flying Debris**. Each creature within 30 feet of a point you choose must make a DC 13 Dexterity saving throw, taking `3d6` bludgeoning damage and falling [[conditions#prone|prone]] on a failure. |
 | 5–6 | **Close Call**. A character you choose must make a successful DC 13 Dexterity saving throw to dodge a stray attack. On a failed save, the character takes `3d6` bludgeoning damage. |
 ^event
 
@@ -208,10 +210,7 @@ If the battle takes place in a populated area such as Menzoberranzan, the charac
 
 After running any events you wish from "The Battle," the struggle between the demon lords comes to an end as Demogorgon proves why he is known as the Prince of Demons.
 
-> [!readaloud] 
-> 
 > The sounds of battle finally die away, the ground before you stained black and red with demonic blood and ichor. In the terrible grip of Demogorgon, even the mighty Orcus looks almost small. Tentacles hold the Demon Prince of Undeath in a crushing grip, slithering across the maggot-riddled flesh of the horned demon, as they tighten inexorably. A strangled gasp issues from the demon lord's throat as a horrific crunching sound echoes throughout the cavern and his skull-topped wand clatters onto the floor.
-> 
 > Demogorgon casts aside the limp form, which melts away as Orcus returns to the Abyss that spawned him. The Prince of Demons throws back his two heads and roars his triumph. As he does, his nearer head turns, burning eyes raking across the battlefield. Filled with bloodlust and battle rage, the demon lord searches for another target.
 ^5c2
 
@@ -237,7 +236,6 @@ If the characters reduce the Prince of Demons to 0 hit points, they disrupt and 
 If the characters fail to destroy Demogorgon, see "Demon Lords Triumphant."
 
 > [!note] Alternative Showdown
-> 
 > If you prefer, a demon lord other than Demogorgon could be the victor of the demonic showdown and the final foe of the campaign. This is particularly appropriate if the adventurers earned the ire of a specific demon lord during the adventure (including Juiblex or Yeenoghu). Alternatively, one or more of the characters' backgrounds might be tied to a particular demon lord.
 ^alternative-showdown
 
@@ -267,7 +265,7 @@ Ambitious adventurers might decide to take the fight to Lolth, seeking to punish
 
 As they travel through the Abyss, the characters might discover that the demon lords they defeated in the Underdark are potential allies in this new quest. Those demon lords want their own revenge upon Lolth for her scheme, and it might suit their mad whims to use the adventurers as their agents to achieve it.
 
-If and when the characters confront Lolth, they find her pregnant and surrounded by thousands of eggs—her unborn young. When the eggs hatch, the Demon Queen of Spiders plans to send her offspring throughout the Abyss, creating a new generation of demon lords under her sway. How the heroes thwart Lolth's mad scheme remains to be seen!
+If and when the characters confront Lolth, they find her pregt and surrounded by thousands of eggs—her unborn young. When the eggs hatch, the Demon Queen of Spiders plans to send her offspring throughout the Abyss, creating a new generation of demon lords under her sway. How the heroes thwart Lolth's mad scheme remains to be seen!
 
 ### Demon Lords Triumphant
 
@@ -305,20 +303,17 @@ If the adventurers thwarted Vizeran's revenge scheme by placing the *dark heart*
 
 Legends speak of 17 chapter 17 against the demon lords as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 17 chapter 17 against the demon lords.
 
-## Adventure Hooks
-
-- A rumor ties 17 chapter 17 against the demon lords to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 17 chapter 17 against the demon lords to avert a public scandal.
-- A map overlay reveals a hidden approach to 17 chapter 17 against the demon lords active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

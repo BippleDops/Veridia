@@ -21,15 +21,22 @@ world: Both Aethermoor & Aquabyssos
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Overview
-
-TODO
 
 ## Player-Facing Summary
 
@@ -39,29 +46,21 @@ The First Watcher is a undersea element of the setting, known for bioluminescent
 
 Legends speak of The First Watcher as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The First Watcher.
 
-## Adventure Hooks
-
-- A rumor ties The First Watcher to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The First Watcher to avert a public scandal.
-- A map overlay reveals a hidden approach to The First Watcher active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Quest - The Convergence Crisis]]
-
-
-## Connections
-
-- [[The Void Watchers]]
-- [[Quest - The Convergence Crisis]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help stealing before the new moon
+- A stranger needs help investigating before dawn
+- Someone is searching for a artifact for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

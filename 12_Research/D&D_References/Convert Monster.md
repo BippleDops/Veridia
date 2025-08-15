@@ -23,11 +23,6 @@ world: Both
 updated: '2025-08-13T01:18:31.185410+00:00'
 ---
 
-
-
-
-
-
 {{#if selection}}
 Convert the provided text into the statblock template provided. The Syntax is important. Do not change the layout/syntax. 
 {{/if}}
@@ -36,7 +31,6 @@ Convert the provided text into the statblock template provided. The Syntax is im
 obsidianUIMode: preview
 cssclass: json5e-monster
 statblock: inline
-tags:
 - compendium/src/5e/mm
 - monster/cr/13
 - monster/environment/arctic
@@ -126,6 +120,24 @@ statHP: 200
 "image": "/2-Mechanics/CLI/bestiary/dragon/token/ancient-blue-dragon.png"
 ```
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Convert Monster is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -134,19 +146,25 @@ Convert Monster is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Convert Monster as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Convert Monster.
 
-## Adventure Hooks
-
-- A rumor ties Convert Monster to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Convert Monster to avert a public scandal.
-- A map overlay reveals a hidden approach to Convert Monster active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

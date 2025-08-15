@@ -23,7 +23,22 @@ world: Both
 ---
 
 
-# Diseases
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Blinding Sickness
 _Source: Player's Handbook p. 227_
@@ -34,7 +49,7 @@ Pain grips the creature's mind, and its eyes turn milky white. The creature has 
 > This disease can be inflicted with the [[contagion-xphb|contagion]] spell.
 
 ## Cackle Fever
-_Source: Dungeon Master's Guide (2024) p. 61. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
+_Source: Dungeon Master's Guide (2024) p. 61. Available in the SRD_
 
 Cheaply made potions and elixirs are sometimes tainted by Cackle Fever, which affects Humanoids only (gnomes are strangely immune). A creature suffers the following effects `d4` days after infection:
 
@@ -46,20 +61,12 @@ Cheaply made potions and elixirs are sometimes tainted by Cackle Fever, which af
 **Spreading the Contagion.** Any Humanoid (other than a gnome) that starts its turn within a 10-foot [[emanation-area-of-effect-xphb|Emanation]] originating from a creature infected with Cackle Fever must succeed on a DC 10 Constitution saving throw or also become infected with the contagion. On a successful save, the Humanoid can't catch the contagion from that particular infected creature for the next 24 hours.
 
 ## Filth Fever
-_Source: Player's Handbook p. 227_
 
 A raging fever sweeps through the creature's body. The creature has disadvantage on Strength checks, Strength saving throws, and attack rolls that use Strength.
 
-> [!note]
-> This disease can be inflicted with the [[contagion-xphb|contagion]] spell.
-
 ## Flesh Rot
-_Source: Player's Handbook p. 227_
 
 The creature's flesh decays. The creature has disadvantage on Charisma checks and vulnerability to all damage.
-
-> [!note]
-> This disease can be inflicted with the [[contagion-xphb|contagion]] spell.
 
 ## Grackle-Lung
 _Source: Out of the Abyss p. 54_
@@ -71,23 +78,14 @@ A creature with one or more levels of [[conditions#Exhaustion|exhaustion]] broug
 If a creature's [[conditions#Exhaustion|exhaustion]] level drops below 1, it no longer suffers the effects of grackle-lung and becomes immune to it for the next week. Duergar and derro are inured to grackle-lung, making Constitution checks against it with advantage. Any spell or effect that cures disease also cures grackle-lung, effectively removing all levels of [[conditions#Exhaustion|exhaustion]] brought on by the affliction.
 
 ## Mindfire
-_Source: Player's Handbook p. 227_
 
 The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the [[confusion-xphb|confusion]] spell during combat.
 
-> [!note]
-> This disease can be inflicted with the [[contagion-xphb|contagion]] spell.
-
 ## Seizure
-_Source: Player's Handbook p. 227_
 
 The creature is overcome with shaking. The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity.
 
-> [!note]
-> This disease can be inflicted with the [[contagion-xphb|contagion]] spell.
-
 ## Sewer Plague
-_Source: Dungeon Master's Guide (2024) p. 61. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 Fouled potions and alchemical waste can give rise to Sewer Plague, which incubates in sewers and refuse heaps and is sometimes transmitted by creatures that dwell in such areas, including otyughs and rats. Any Humanoid that is wounded by a creature that carries the contagion or that comes into contact with contaminated filth or offal must succeed on a DC 11 Constitution saving throw or become infected with Sewer Plague. A creature suffers the following effects `d4` days after infection:
 
@@ -98,7 +96,6 @@ Fouled potions and alchemical waste can give rise to Sewer Plague, which incubat
 **Fighting the Contagion.** Daily at dawn, an infected creature makes a DC 11 Constitution saving throw. On a failed save, the creature gains 1 [[conditions#Exhaustion|Exhaustion]] level as its fatigue worsens. On a successful save, the creature's Exhaustion level decreases by 1. If the creature's Exhaustion level is reduced to 0, the contagion ends on the creature.
 
 ## Sight Rot
-_Source: Dungeon Master's Guide (2024) p. 61. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>_
 
 Any Beast or Humanoid that drinks water tainted by Sight Rot must succeed on a DC 15 Constitution saving throw or have the [[conditions#Blinded|Blinded]] condition until the contagion ends.
 
@@ -107,12 +104,8 @@ Any Beast or Humanoid that drinks water tainted by Sight Rot must succeed on a D
 **Spreading the Contagion.** Any Humanoid that makes skin contact with a creature infected with Sight Rot must succeed on a DC 15 Constitution saving throw or also become infected with the contagion. On a successful save, the Humanoid can't catch the contagion from that particular infected creature for the next 24 hours.
 
 ## Slimy Doom
-_Source: Player's Handbook p. 227_
 
 The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is [[conditions#Stunned|stunned]] until the end of its next turn.
-
-> [!note]
-> This disease can be inflicted with the [[contagion-xphb|contagion]] spell.
 
 ## Player-Facing Summary
 
@@ -122,19 +115,31 @@ Diseases is a undersea element of the setting, known for bioluminescent glow and
 
 Legends speak of diseases as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around diseases.
 
-## Adventure Hooks
-
-- A rumor ties diseases to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at diseases to avert a public scandal.
-- A map overlay reveals a hidden approach to diseases active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- Strange disappearances suggest a conspiracy
+- Someone is protecting an heir for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

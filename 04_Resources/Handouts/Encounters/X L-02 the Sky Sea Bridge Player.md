@@ -42,11 +42,9 @@ Possible outcomes
 - It sways
 - It breaks
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

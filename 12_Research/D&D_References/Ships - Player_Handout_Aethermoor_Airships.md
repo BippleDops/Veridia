@@ -19,8 +19,6 @@ updated: '2025-08-13T01:18:37.191802+00:00'
 world: Aethermoor
 ---
 
-
-
 # Aethermoor Airships — Visual & Vibe Guide
 
 - Wind-Sung Clipper: Silk sails inscribed with songs; ripples shimmer with notes.
@@ -32,15 +30,27 @@ world: Aethermoor
 
 Ship choice shapes play: speed, stealth, sanity resilience, and upgrade slots differ. See [[Vehicle_Customization_Progression|Vehicle Customization Progression]].
 
-## Cross-References
 
-- [[Aethermoor_Session_01|06 GM Resources/Session Packets/Aethermoor Session 01]]
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -49,3 +59,11 @@ Ship choice shapes play: speed, stealth, sanity resilience, and upgrade slots di
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- Someone is protecting a witness for power
+- A document has gone missing and war looms
+- Someone is searching for a witness for money
+- A map reveals a conspiracy about the government

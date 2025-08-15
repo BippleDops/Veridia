@@ -1,4 +1,5 @@
 ---
+
 title: Shadow Broker Mirrors
 type: Faction
 tags:
@@ -28,6 +29,8 @@ members: ~200 brokers, spies, and mirror-touched
 purpose: Control information through reflection magic
 updated: '2025-08-13T12:34:17.393258+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -35,14 +38,79 @@ world: Aquabyssos
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-shadow-broker-mirrors-shadow-broker-mirrors.svg)
 
-
 # Shadow Broker Mirrors
 *The Reflection Syndicate, Masters of Information Mirrors, Those Who See All Faces*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+
 ## Overview
 The Shadow Broker Mirrors is a specialized information syndicate that uses enchanted mirrors and reflection magic to gather, trade, and manipulate information throughout [[Aquabyssos]]. Operating from [[The Reflection Chamber]]—a hidden facility lined with thousands of scrying mirrors—they have built the most comprehensive intelligence network in the realm by exploiting the fact that every reflection can become a window into secrets. Unlike traditional spy networks, they use mirror magic to literally see and hear conversations reflected in any polished surface, making privacy nearly impossible for those who don't understand their capabilities.
-
-## Origins & History
 
 ### The First Reflection (25 Years Ago)
 **Magical Discovery**
@@ -66,7 +134,7 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 - Used mirror magic advantages to outperform conventional espionage
 - Survived government crackdowns by relocating through mirror portals
 - Absorbed smaller information-gathering organizations
-- Established dominance over magical surveillance in Aquabyssos
+- Established domice over magical surveillance in Aquabyssos
 
 ### Modern Empire (Last 8 Years)
 **Information Monopoly**
@@ -76,17 +144,13 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 - Built legitimate business fronts for mirror and glass trading
 - Developed network of corrupted officials dependent on their information
 
-## Structure & Organization
-
 ### The Reflection Council
 **Supreme Leadership**
 - **[[The Prime Reflection]]**: Mysterious leader who may be living reflection
 - **[[Mirror Duchess Silviana]]**: Second-in-command and master spy coordinator
-- **[[The Glass Calculator]]**: Financial operations and information pricing
+- **[[The Glass Calculator]]**: Ficial operations and information pricing
 - **[[Reflection Captain Vantage]]**: Security and counter-intelligence specialist
 - **[[The Scrying Master]]**: Technical operations and mirror magic research
-
-### Operational Divisions
 
 #### The Looking Glass Network
 **Surveillance Operations**
@@ -128,10 +192,6 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 - Create detailed profiles of important individuals and organizations
 - Store visual records of significant events captured through mirrors
 
-## Methods & Mirror Magic
-
-### Surveillance Techniques
-
 #### Reflection Scrying
 **Remote Viewing Magic**
 - **[[02_Worldbuilding/Spells/Mirror Window|02 Worldbuilding/Spells/Mirror Window]]**: Turn any reflective surface into viewing portal
@@ -148,8 +208,6 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 - Disguised mirrors that appear as normal decorative or functional items
 - Emergency mirror evacuation routes for operatives in danger
 
-### Information Processing
-
 #### Analysis & Interpretation
 **Intelligence Evaluation**
 - Cross-reference information from multiple mirror sources
@@ -165,8 +223,6 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 - Create convincing illusions for disinformation campaigns
 - Modify appearance of events captured in mirror recordings
 - Coordinate perception management across multiple targets
-
-## Current Operations & Services
 
 ### Project Total Reflection
 **Comprehensive Surveillance**
@@ -208,101 +264,6 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 - Social pressure campaigns using embarrassing or compromising information
 - Long-term relationship engineering between different factions
 
-## Known Members & Associates
-
-### Leadership Tier
-- **[[The Prime Reflection]]**: Mysterious supreme leader and master of mirrors
-- **[[Mirror Duchess Silviana]]**: Intelligence operations coordinator
-- **[[The Glass Calculator]]**: Financial and pricing specialist
-- **[[Reflection Captain Vantage]]**: Security and protection services
-- **[[The Scrying Master]]**: Technical operations and magical research
-
-### Mirror Specialists
-- **[[Narcissus Silverwater]]**: Original founder and mirror magic innovator
-- **[[Madame Crystal Eye]]**: Master scrying specialist
-- **[[The Phantom Gazer]]**: Covert surveillance expert
-- **[[Mirror Merchant Marina]]**: Commercial operations coordinator
-- **[[Shadow Reflection Sage]]**: Counter-intelligence and security
-
-### Field Operatives
-- **[[The Glass Twins]]**: Master infiltrators using reflection magic
-- **[[Portal Mirror Mage]]**: Transportation and communication specialist
-- **[[The Truth Seeker]]**: Information verification and authentication
-- **[[Reflection Thief]]**: Acquiring mirrors and placing surveillance
-- **[[Memory Mirror Master]]**: Specialized in consciousness and memory magic
-
-### External Contacts
-- **[[The Mirror Merchants Guild]]**: Legitimate business front
-- **[[Corrupted Government Reflections]]**: Official sources and assets
-- **[[Academy Mirror Researchers]]**: Academic collaborations
-- **[[International Glass Traders]]**: Cross-realm intelligence connections
-- **[[The Vanity Courts]]**: Noble clients obsessed with appearances
-
-## Services & Capabilities
-
-### Intelligence Services
-- **Comprehensive Surveillance**: Monitor any location through reflective surfaces using [[02_Worldbuilding/Networks/Mirror Scrying Web|02 Worldbuilding/Networks/Mirror Scrying Web]]
-- **Information Trading**: Buy and sell valuable intelligence via [[The Truth Exchange|02 Worldbuilding/Markets/The Truth Exchange]]
-- **Background Investigation**: Detailed research on individuals or organizations
-- **Predictive Analysis**: Forecast political and social developments through [[02_Worldbuilding/Techniques/Pattern Mirror Divination|02 Worldbuilding/Techniques/Pattern Mirror Divination]]
-- **Counter-Intelligence**: Protect clients from enemy surveillance and information gathering
-- **Truth Verification**: Authenticate information using magical truth-detection mirrors
-- **Strategic Consultation**: Expert advice based on comprehensive intelligence gathering
-- **Information Security**: Protect sensitive communications and data
-- **Reputation Management**: Control information flow affecting client public image
-- **Custom Intelligence**: Targeted information gathering for specific client needs
-
-### Mirror Magic Services
-- **Scrying Consultations**: Remote viewing services for specific targets or locations
-- **Memory Recovery**: Extract lost or suppressed memories using [[02_Worldbuilding/Devices/Memory Reflection Mirrors|02 Worldbuilding/Devices/Memory Reflection Mirrors]]
-- **Truth Revelation**: Force honesty through specialized interrogation mirrors
-- **Identity Verification**: Confirm true identity using reflection analysis
-- **Future Glimpsing**: Limited precognitive abilities through mirror divination
-- **Communication Networks**: Secure messaging through mirror portals
-- **Illusion Creation**: Generate convincing false images for deception
-- **Evidence Documentation**: Magical recording of events for legal purposes
-- **Transportation Services**: Mirror portal travel for discreet movement
-- **Protective Wards**: Anti-scrying defenses using counter-reflection magic
-
-### Commercial Operations
-- **Mirror Trading**: Legitimate business in enchanted and mundane mirrors
-- **Glass Crafting**: Custom glass and crystal work with potential magical properties
-- **Interior Decoration**: Mirror placement services (with potential surveillance benefits)
-- **Magical Item Creation**: Specialized mirrors and reflection devices
-- **Consultation Services**: Mirror magic expertise for other organizations
-
-## Resources & Assets
-
-### The Mirror Network
-- **Surveillance Mirrors**: Hidden viewing devices throughout major cities (5,000+ locations)
-- **Communication Mirrors**: Two-way communication network connecting operatives
-- **Portal Mirrors**: Transportation network for rapid movement and escape
-- **Storage Mirrors**: Extra-dimensional spaces for hiding documents and assets
-- **Archive Mirrors**: Permanent recording devices capturing important events
-
-### Intelligence Database
-- Comprehensive records on all major political figures
-- Business intelligence on trade organizations and merchant guilds
-- Military intelligence on troop movements and strategic plans
-- Social intelligence on relationships and personal connections
-- Historical records dating back 25 years of continuous surveillance
-
-### Financial Resources
-- Revenue from information trading exceeding most legitimate businesses
-- Diversified income through legitimate mirror and glass trading
-- Investment portfolio built on advance knowledge of market changes
-- Currency reserves in multiple forms including rare magical materials
-- Property ownership through various shell companies and false identities
-
-### Magical Assets
-- Extensive library of mirror magic spells and techniques
-- Research facilities for developing new scrying and reflection magic
-- Training grounds for mirror mages and surveillance specialists
-- Magical item creation workshops for specialized mirrors
-- Protective enchantments securing all facilities from enemy scrying
-
-## Opposition & Threats
-
 ### Government Counter-Intelligence
 **Official Response**
 - **[[Counter-Mirror Task Force]]**: Specialized unit targeting reflection surveillance
@@ -334,8 +295,6 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 - Privacy advocates organizing boycotts of mirror merchants
 - Academic critics publishing research on surveillance society dangers
 - Artistic movements creating anti-mirror propaganda
-
-## Adventure Hooks
 
 ### Information Trading
 1. **The Secret Auction**: Bid on crucial information at underground intelligence market
@@ -372,10 +331,6 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 4. **The False Memory**: Investigate memories implanted through mirror manipulation
 5. **The Reflection Romance**: Navigate relationship between mirror spy and target
 
-## Internal Conflicts & Politics
-
-### Philosophical Divisions
-
 #### Information Freedom vs. Privacy
 **Fundamental Tension**
 - Some members believe all information should be freely available
@@ -391,8 +346,6 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 - Tension between exclusive high-paying clients and broader public benefit
 - Disagreement over information pricing and availability
 - Conflicts over information that could prevent disasters but hurt profits
-
-### Operational Tensions
 
 #### Security vs. Expansion
 **Growth vs. Safety**
@@ -410,8 +363,6 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 - Investment priorities between magical research and human network development
 - Training emphasis between technical mirror skills and interpersonal intelligence
 
-### Leadership Succession
-
 #### The Prime Reflection Mystery
 **Identity Questions**
 - No one knows true identity or nature of The Prime Reflection
@@ -427,37 +378,6 @@ The Shadow Broker Mirrors is a specialized information syndicate that uses encha
 - Different regions developing different operational cultures and priorities
 - Communication delays between distant mirror networks creating coordination problems
 - Competition between regions for resources and prestigious assignments
-
-## Faction Items & Equipment
-
-### Surveillance Mirrors
-- **[[02_Worldbuilding/Items/All-Seeing Mirrors|02 Worldbuilding/Items/All Seeing Mirrors]]**: Devices that can view any location
-- **[[02_Worldbuilding/Items/Truth Reflection Glass|02 Worldbuilding/Items/Truth Reflection Glass]]**: Mirrors that reveal hidden secrets
-- **[[02_Worldbuilding/Items/Memory Echo Mirrors|02 Worldbuilding/Items/Memory Echo Mirrors]]**: Show past events that occurred nearby
-- **[[02_Worldbuilding/Items/Portable Scrying Mirrors|02 Worldbuilding/Items/Portable Scrying Mirrors]]**: Hand-held surveillance devices
-- **[[02_Worldbuilding/Items/Invisible Observation Glass|02 Worldbuilding/Items/Invisible Observation Glass]]**: Mirrors that can't be detected by targets
-- **[[02_Worldbuilding/Items/Sound Capture Mirrors|02 Worldbuilding/Items/Sound Capture Mirrors]]**: Record conversations and replay them
-- **[[02_Worldbuilding/Items/Emotional Reflection Mirrors|02 Worldbuilding/Items/Emotional Reflection Mirrors]]**: Show true feelings and motivations
-- **[[02_Worldbuilding/Items/Future Glimpse Glass|02 Worldbuilding/Items/Future Glimpse Glass]]**: Provide limited precognitive visions
-
-### Communication Equipment
-- **[[02_Worldbuilding/Items/Mirror Portal Networks|02 Worldbuilding/Items/Mirror Portal Networks]]**: Instant communication across distances
-- **[[02_Worldbuilding/Items/Encrypted Reflection Messages|02 Worldbuilding/Items/Encrypted Reflection Messages]]**: Secure communication mirrors
-- **[[02_Worldbuilding/Items/Group Conference Mirrors|02 Worldbuilding/Items/Group Conference Mirrors]]**: Multi-way communication devices
-- **[[02_Worldbuilding/Items/Emergency Signal Mirrors|02 Worldbuilding/Items/Emergency Signal Mirrors]]**: Distress communication systems
-- **[[02_Worldbuilding/Items/Coded Reflection Language|02 Worldbuilding/Items/Coded Reflection Language]]**: Secret communication through mirror symbols
-
-### Specialized Equipment
-- **[[02_Worldbuilding/Items/Counter-Scrying Mirrors|02 Worldbuilding/Items/Counter Scrying Mirrors]]**: Protection against enemy surveillance
-- **[[02_Worldbuilding/Items/Information Storage Crystals|02 Worldbuilding/Items/Information Storage Crystals]]**: Data storage using reflection magic
-- **[[02_Worldbuilding/Items/Identity Verification Mirrors|02 Worldbuilding/Items/Identity Verification Mirrors]]**: Confirm true identity of individuals
-- **[[02_Worldbuilding/Items/Truth Compulsion Glass|02 Worldbuilding/Items/Truth Compulsion Glass]]**: Force honesty during interrogation
-- **[[02_Worldbuilding/Items/Memory Alteration Mirrors|02 Worldbuilding/Items/Memory Alteration Mirrors]]**: Modify or implant memories
-- **[[02_Worldbuilding/Items/Illusion Generation Mirrors|02 Worldbuilding/Items/Illusion Generation Mirrors]]**: Create false images for deception
-- **[[02_Worldbuilding/Items/Transportation Portal Mirrors|02 Worldbuilding/Items/Transportation Portal Mirrors]]**: Travel instantly between locations
-- **[[02_Worldbuilding/Items/Evidence Recording Glass|02 Worldbuilding/Items/Evidence Recording Glass]]**: Document events for legal purposes
-
-## Secret Agendas & Conspiracies
 
 ### The Prime Reflection's True Nature
 **Hidden Identity**
@@ -479,82 +399,6 @@ The organization has enough compromising information on government officials to 
 **Reality Manipulation**
 Advanced mirror magic research is developing ability to trap people's consciousness in mirrors while their bodies are controlled by reflections, creating perfect puppet network.
 
-## Campaign Integration
-
-### Connection to Main Themes
-- Represents surveillance state and loss of privacy themes
-- Explores power of information and knowledge in society
-- Links traditional espionage with magical surveillance methods
-- Provides gray-area faction focused on information rather than violence
-- Connects individual privacy with broader social control
-
-### Plot Integration Points
-- **Information Source**: Party seeks specific intelligence from mirror network
-- **Surveillance Target**: Party discovers they're being watched through mirrors
-- **Client Relationship**: Party hires mirror brokers for information gathering
-- **Investigation**: Party investigates crimes using mirror surveillance evidence
-- **Counter-Intelligence**: Party works to defeat or infiltrate mirror network
-
-### Character Integration
-- Information-focused characters find natural allies or rivals
-- Mirror magic users can join or compete with organization
-- Rogues and investigators utilize their services
-- Privacy advocates oppose their surveillance methods
-- Politicians navigate information warfare implications
-
-## DM Notes
-
-### Running the Organization
-- Emphasize moral ambiguity of surveillance versus security
-- Use information as currency and plot device
-- Show both benefits and dangers of comprehensive surveillance
-- Create tension between privacy and transparency
-- Demonstrate power of knowledge and information control
-
-### Mirror Magic Mechanics
-- Establish clear rules for what mirrors can and cannot show
-- Balance surveillance power with countermeasures and limitations
-- Use mirror magic for both plot advancement and character development
-- Create opportunities for creative problem-solving using reflection magic
-- Maintain mystery about most advanced mirror magic capabilities
-
-### Information Trading
-- Make information valuable resource with clear costs and benefits
-- Create moral dilemmas about buying and selling secrets
-- Use information scarcity to drive plot conflicts
-- Show consequences of information revelation and suppression
-- Balance character knowledge with information control
-
-### Long-term Development
-- Organization influence grows or shrinks based on character actions
-- Technology development affects surveillance capabilities
-- Political changes influence information trading legality
-- International expansion creates cross-realm storyline opportunities
-- Success or failure shapes society's relationship with privacy
-
-## Connected Elements
-
-### Key NPCs
-- [[The Prime Reflection]] - Mysterious leader and master of mirrors
-- [[Mirror Duchess Silviana]] - Intelligence operations coordinator
-- [[Narcissus Silverwater]] - Founder and mirror magic innovator
-- [[Marina-Red-Tide-Coralheart]] - Potential surveillance target
-- [[Senator Glaucus]] - High-value intelligence target
-
-### Important Locations
-- [[The Reflection Chamber]] - Hidden headquarters filled with scrying mirrors
-- [[Mirror Network Nodes]] - Surveillance hubs throughout major cities
-- [[Parliament of Echoes]] - Primary surveillance target
-- [[The Truth Exchange]] - Information trading marketplace
-- [[Counter-Mirror Safe Houses]] - Locations protected from surveillance
-
-### Related Quests
-- [[Quest - Mirror Surveillance]] - Investigating comprehensive surveillance network
-- [[Quest - Information War]] - Conflict between rival intelligence organizations
-- [[Quest - Privacy Protection]] - Defending citizens from mirror surveillance
-- [[Quest - Truth Market]] - Navigating information trading economy
-- [[Quest - Reflection Reality]] - Dealing with mirror magic affecting reality
-
 ### Opposing Organizations
 - [[Counter-Mirror Task Force]] - Government unit targeting mirror surveillance
 - [[Privacy Protection Agency]] - Civilian organization opposing surveillance
@@ -566,11 +410,6 @@ Advanced mirror magic research is developing ability to trap people's consciousn
 
 *"Every surface that can cast a reflection is a window into truth. We simply provide the view."* - Shadow Broker Mirrors Creed
 
-
-## Connections
-
-- [[Party Shadows]]
-
 ## Player-Facing Summary
 
 Shadow Broker Mirrors is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -579,84 +418,50 @@ Shadow Broker Mirrors is a undersea element of the setting, known for biolumines
 
 Legends speak of Shadow Broker Mirrors as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Broker Mirrors.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Party Shadows|02 Worldbuilding/Groups/Party Shadows]]
-
-
-## Members
-
-### Notable Members
-- [[Leader Name]] - Current head
-- [[Key Officer]] - Important figure
-- [[Rising Star]] - Ambitious member
-
-### Membership Requirements
-- Skills or qualities needed
-- Initiation process
-- Ongoing obligations
-
-
-## Goals
-
 ### Public Mission
 What they claim to pursue
-
-### True Objectives
-- Primary goal
-- Secondary objectives
-- Long-term vision
-
-### Current Projects
-- Active operations
-- Research efforts
-- Political maneuvers
-
-
-## Operations
-
-### Regular Activities
-- Day-to-day operations
-- Revenue generation
-- Member services
-
-### Special Operations
-- Covert activities
-- Major projects
-- Crisis responses
-
-
-## Relationships
-
-### Allies
-- Aligned organizations
-- Political supporters
-- Business partners
-
-### Enemies
-- Rival organizations
-- Opposed factions
-- Active threats
-
-### Neutral Parties
-- Potential allies or enemies
-- Trade partners
-- Watching parties
-
-
-## Secrets
 
 ### Open Secrets
 Things widely suspected
 
-### Hidden Truths
-- Real leadership
-- True funding sources
-- Secret objectives
 
-### Deep Mysteries
-- Ancient connections
-- Forbidden knowledge
-- Ultimate goals
+## Plot Hooks
+
+- Someone is protecting a witness for revenge
+- An heirloom has gone missing and war looms
+- Someone is hunting information for love
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

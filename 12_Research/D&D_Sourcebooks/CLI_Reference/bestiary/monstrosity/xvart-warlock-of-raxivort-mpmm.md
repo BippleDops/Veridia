@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:34.963980'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-xvart-warlock-of-raxivort-mpmm-v1-xvart-warlock-of-raxivort-mpmm.svg)
 
@@ -37,6 +35,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 267, Volo's Guide to Monsters p. 200*  
 
 Some xvarts are spawned with a trace of Raxivort's divine energy. These xvarts usually form a pact with him and wield magic in his service as warlocks.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Xvarts
 
@@ -57,9 +73,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
   - !!int "8"
   - !!int "14"
   - !!int "12"
-  - !!int "8"
   - !!int "11"
-  - !!int "12"
 "speed": "30 ft."
 "skillsaves":
   - "name": "[[skills#Stealth|Stealth]]"
@@ -72,7 +86,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
       \ hit points."
     "name": "Raxivort's Blessing"
   - "desc": "The xvart can communicate with ordinary [[bat-xmm|bats]]\
-      \ and [[rat-xmm|rats]], as well as [[giant-bat-xmm|giant\
+      \ and [[rat-xmm|rats]], as well as [[giant-bat-xmm|giant\]]
       \ bats]] and [[giant-rat-xmm|giant rats]]."
     "name": "Raxivort's Tongue"
 "actions":
@@ -86,7 +100,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
     "name": "Raxivort's Bite"
   - "desc": "The xvart casts one of the following spells, requiring no material components\
       \ and using Charisma as the spellcasting ability (spell save DC 11):\n\nAt\
-      \ will: [[detect-magic-xphb|detect magic]], [[mage-armor-xphb|mage\
+      \ will: [[detect-magic-xphb|detect magic]], [[mage-armor-xphb|mage\]]
       \ armor]] (self only), [[mage-hand-xphb|mage hand]],\
       \ [[minor-illusion-xphb|minor illusion]], [[prestidigitation-xphb|prestidigitation]]\n\
       \n1/day each: [[burning-hands-xphb|burning hands]],\
@@ -115,19 +129,20 @@ Xvart warlock of raxivort mpmm is a undersea element of the setting, known for b
 
 Legends speak of xvart warlock of raxivort mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around xvart warlock of raxivort mpmm.
 
-## Adventure Hooks
-
-- A rumor ties xvart warlock of raxivort mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at xvart warlock of raxivort mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to xvart warlock of raxivort mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

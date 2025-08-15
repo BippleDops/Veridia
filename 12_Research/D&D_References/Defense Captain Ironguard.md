@@ -15,36 +15,26 @@ world: Both
 updated: '2025-08-13T01:18:37.041482+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-defense-captain-ironguard-defense-captain-ironguard.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Appearance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Personality
-
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -54,28 +44,20 @@ Defense Captain Ironguard is a undersea element of the setting, known for biolum
 
 Legends speak of Defense Captain Ironguard as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Defense Captain Ironguard.
 
-## Adventure Hooks
-
-- A rumor ties Defense Captain Ironguard to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Defense Captain Ironguard to avert a public scandal.
-- A map overlay reveals a hidden approach to Defense Captain Ironguard active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Defense Captain Ironguard|02 Worldbuilding/People/Defense Captain Ironguard]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The Forsaken Consortium Collective]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

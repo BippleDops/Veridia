@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:34.958984'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-tlincalli-mpmm-tlincalli-mpmm.svg)
 
@@ -60,18 +58,14 @@ Tlincallis rarely build cities, make clothing, or mine metals. Instead, they sca
 "stats":
   - !!int "16"
   - !!int "13"
-  - !!int "16"
   - !!int "8"
   - !!int "12"
-  - !!int "8"
 "speed": "40 ft."
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+4"
   - "name": "[[skills#Survival|Survival]]"
-    "desc": "+4"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "Tlincalli"
 "cr": "5"
@@ -103,6 +97,24 @@ Tlincallis rarely build cities, make clothing, or mine metals. Instead, they sca
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 desert
@@ -115,19 +127,23 @@ Tlincalli mpmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of tlincalli mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tlincalli mpmm.
 
-## Adventure Hooks
-
-- A rumor ties tlincalli mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at tlincalli mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to tlincalli mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

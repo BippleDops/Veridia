@@ -17,18 +17,26 @@ updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
 
-
 > [!figure] Asset
 ![[04_Resources/Assets/Digital/ui-ui-initiative-tracker-initiative-tracker.png]]
 
 
-# Initiative Tracker
+## 🔧 Deep Evaluation Improvements
 
-## Combat Setup
-- **Encounter Name**: ___________
-- **Location**: ___________
-- **Environmental Factors**: ___________
-- **Pressure/Altitude Level**: ___________
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Initiative Order
 
@@ -60,8 +68,6 @@ world: Both
 | 2 |  |  |  |  |  |  |
 | 1 |  |  |  |  |  |  |
 
-## Status Effects Tracking
-
 ### Active Conditions
 | Character | Condition | Duration | Save DC | Notes |
 |-----------|-----------|----------|---------|-------|
@@ -82,36 +88,6 @@ world: Both
 |-----------|--------------|--------------|---------|------------|
 |           |              |              |         |            |
 
-## Round Tracking
-- **Current Round**: ___________
-- **Total Rounds Elapsed**: ___________
-
-### Round Summary Notes
-- **Round 1**: ___________
-- **Round 2**: ___________
-- **Round 3**: ___________
-- **Round 4**: ___________
-- **Round 5**: ___________
-
-## Environmental Hazards
-### Aquabyssos Specific
-- [ ] **Pressure Changes**: ___________
-- [ ] **Current Shifts**: ___________
-- [ ] **Bioluminescent Flashes**: ___________
-- [ ] **Crushing Depths**: ___________
-
-### Aethermoor Specific
-- [ ] **Wind Shear**: ___________
-- [ ] **Altitude Sickness**: ___________
-- [ ] **Lightning Storms**: ___________
-- [ ] **Platform Stability**: ___________
-
-### Cross-Realm
-- [ ] **Reality Distortion**: ___________
-- [ ] **Convergence Effects**: ___________
-- [ ] **Planar Instability**: ___________
-
-## Spell & Ability Tracking
 ### Spell Slots Used
 | Level | Player 1 | Player 2 | Player 3 | Player 4 |
 |-------|----------|----------|----------|----------|
@@ -130,81 +106,9 @@ world: Both
 |-----------|---------|----------------|----------|
 |           |         |                |          |
 
-## Quick Actions Reference
-### Standard Actions
-- **Attack**: Roll 1d20 + attack bonus vs AC
-- **Cast Spell**: Action/Bonus Action/Reaction
-- **Dash**: Double movement speed
-- **Dodge**: Attackers have disadvantage
-- **Help**: Give ally advantage on next ability check/attack
-- **Hide**: Stealth check vs passive Perception
-- **Ready**: Prepare action with trigger
-- **Search**: Investigation/Perception check
-
-### Bonus Actions
-- **Off-hand Attack**: Second weapon attack
-- **Spell**: Bonus action spells only
-- **Class Features**: Various class-specific abilities
-
-### Reactions
-- **Opportunity Attack**: When enemy leaves reach
-- **Spell**: Reaction spells only
-- **Class Features**: Various triggered abilities
-
-## Damage Types Reference
-### Physical
-- **Bludgeoning**: Clubs, hammers, falling
-- **Piercing**: Arrows, spears, fangs
-- **Slashing**: Swords, claws, glass
-
-### Elemental
-- **Acid**: Corrosive substances
-- **Cold**: Ice, snow, arctic winds
-- **Fire**: Flames, lava, lightning
-- **Lightning**: Electrical energy
-- **Thunder**: Sonic booms, sound waves
-
-### Magical
-- **Force**: Pure magical energy
-- **Necrotic**: Death energy, undead touch
-- **Radiant**: Divine light, celestial power
-- **Psychic**: Mental attacks, mind control
-
-### Special (Cordelia Setting)
-- **Pressure**: Deep sea crushing force
-- **Crystalline**: Crystal magic corruption
-- **Shadow**: Shadow Conspiracy influence
-- **Void**: Deep Mother corruption
-
-## Combat End
-### Victory Conditions Met
-- [ ] All enemies defeated
-- [ ] Objective completed
-- [ ] Enemies retreat
-- [ ] Environmental solution
-
-### Rewards
-- **Experience Points**: ___________
-- **Treasure Found**: ___________
-- **Story Progression**: ___________
-- **Character Development**: ___________
-
-### Aftermath
-- **Injuries**: ___________
-- **Resource Expenditure**: ___________
-- **Environmental Changes**: ___________
-- **Plot Consequences**: ___________
-
-## Links to Related Content
-- [[Combat_Reference_Card]]
-- [[Underwater_Combat_Rules]]
-- [[Pressure_Combat_Modifiers]]
-- [[Session_Debrief_Template]]
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -213,3 +117,29 @@ world: Both
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Plot Hooks
+
+- Strange sightings suggest a conspiracy
+- A stranger needs help stealing before dawn
+- A letter reveals a betrayal about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

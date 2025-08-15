@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.615286+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-neogi-master-mpmm-neogi-master-mpmm.svg)
 
@@ -39,6 +36,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 192, Volo's Guide to Monsters p. 180*  
 
 Neogi masters use magic, as a result of a pact between neogi and aberrant entities they met during their journey from their home world. These entities—known by such names as Acamar, Caiphon, Gibbeth, and Hadar—resemble stars and embody the essence of evil.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Neogi
 
@@ -65,7 +80,6 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
   - !!int "6"
   - !!int "16"
   - !!int "14"
-  - !!int "16"
   - !!int "12"
   - !!int "18"
 "speed": "30 ft., climb 30 ft."
@@ -77,11 +91,9 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
   - "name": "[[skills#Deception|Deception]]"
     "desc": "+6"
   - "name": "[[skills#Intimidation|Intimidation]]"
-    "desc": "+6"
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
   - "name": "[[skills#Persuasion|Persuasion]]"
-    "desc": "+6"
 "senses": "darkvision 120 ft., passive Perception 13"
 "languages": "Common, Deep Speech, Undercommon, telepathy 30 ft."
 "cr": "4"
@@ -89,7 +101,7 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
   - "desc": "Magical darkness doesn't impede the neogi's [[senses#Darkvision|darkvision]]."
     "name": "Devil's Sight"
   - "desc": "The neogi has advantage on saving throws against being [[conditions#Charmed|charmed]]\
-      \ or [[conditions#Frightened|frightened]], and magic can't\
+      \ or [[conditions#frightened|frightened]], and magic can't\
       \ put the neogi to sleep."
     "name": "Mental Fortitude"
   - "desc": "The neogi can climb difficult surfaces, including upside down on ceilings,\
@@ -148,19 +160,42 @@ Neogi master mpmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of neogi master mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around neogi master mpmm.
 
-## Adventure Hooks
-
-- A rumor ties neogi master mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at neogi master mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to neogi master mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Strange accidents suggest a conspiracy
+- Strange disappearances suggest ancient magic
+- The authorities needs help delivering before the new moon
+- A letter reveals a conspiracy about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

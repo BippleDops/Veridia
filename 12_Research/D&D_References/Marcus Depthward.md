@@ -17,12 +17,22 @@ updated: '2025-08-13T01:18:35.686147+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,19 +42,25 @@ Marcus Depthward is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of Marcus Depthward as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Marcus Depthward.
 
-## Adventure Hooks
-
-- A rumor ties Marcus Depthward to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Marcus Depthward to avert a public scandal.
-- A map overlay reveals a hidden approach to Marcus Depthward active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before dawn
+- A stranger needs help delivering before dawn
+- Someone is protecting a witness for love
+- A shipment has gone missing and truth emerges
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.018724'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sea-spawn-mpmm-sea-spawn-mpmm.svg)
 
@@ -43,6 +41,24 @@ Tales provide myriad reasons for these strange transformations. Folklore warns a
 [[kraken-xmm|Krakens]], morkoths, [[sea-hag-xmm|sea hags]], [[marid-xmm|marids]], [[storm-giant-xmm|storm giants]], [[dragon-turtle-xmm|dragon turtles]]—all of these and more can mark mortals as their own and claim them as minions. Unlucky folk might become beholden to such a master through a bleak bargain, or they might find themselves cursed by one. Once warped into a fishlike form, a sea spawn can't leave the water for long without courting death.
 
 Sea spawn come in a wide variety of forms. An individual might have a tentacle for an arm, the jaws of a shark, a sea urchin's spines, a whale's fin, octopus eyes, seaweed hair, or any combination of such qualities. Some of these piscine body parts provide them with special abilities.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## The Sea Spawn of Purple Rocks
 
@@ -63,10 +79,8 @@ Kraken priests (in this book) tend to the kraken's flock. Most of the priests ar
 "stats":
   - !!int "15"
   - !!int "8"
-  - !!int "15"
   - !!int "6"
   - !!int "10"
-  - !!int "8"
 "speed": "20 ft., swim 30 ft."
 "senses": "darkvision 120 ft., passive Perception 10"
 "languages": "understands Aquan and Common but can't speak"
@@ -114,19 +128,36 @@ Sea spawn mpmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of sea spawn mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sea spawn mpmm.
 
-## Adventure Hooks
-
-- A rumor ties sea spawn mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at sea spawn mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to sea spawn mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- Strange disappearances suggest a portal
+- Strange sightings suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

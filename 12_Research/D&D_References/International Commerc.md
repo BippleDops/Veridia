@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.608522+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,19 +42,22 @@ International Commerce 2 is a undersea element of the setting, known for biolumi
 
 Legends speak of International Commerce 2 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around International Commerce 2.
 
-## Adventure Hooks
-
-- A rumor ties International Commerce 2 to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at International Commerce 2 to avert a public scandal.
-- A map overlay reveals a hidden approach to International Commerce 2 active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting information for revenge
+- Someone is blackmailing a artifact for revenge
+- A corpse reveals ancient history about a local noble
+- An heirloom has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

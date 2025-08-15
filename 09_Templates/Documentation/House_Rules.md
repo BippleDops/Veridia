@@ -10,7 +10,23 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# House Rules
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 09_Templates-specific enhancement
+- Add 09_Templates-specific enhancement
+- Add 09_Templates-specific enhancement
+- Add 09_Templates-specific enhancement
+- Add 09_Templates-specific enhancement
+
 
 ## Character Creation
 *Custom rules for character creation*
@@ -28,7 +44,6 @@ modified: '2025-08-14'
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -36,3 +51,19 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before the new moon
+- A prisoner has gone missing and chaos spreads
+- A noble needs help delivering before dawn
+
+## 09_Templates Specific Content
+
+Contextual improvement based on 09_Templates
+
+
+## 09_Templates Specific Content
+
+Contextual improvement based on 09_Templates

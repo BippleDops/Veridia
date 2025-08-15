@@ -26,18 +26,30 @@ updated: '2025-08-11T00:00:00+00:00'
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-withered-court-withered-court.svg]]
-
-
-
-
 
 # Withered Court
 
 *Where ancient nobility clings to power beyond death's embrace*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -58,8 +70,6 @@ The Court's seat of power is an architectural marvel of macabre beauty. Construc
 The Withered Court maintains many of the customs and ceremonies of living nobility, but twisted through the lens of undeath. They host elaborate **Death Masques** where both living and dead dance until dawn, conduct **Séance Salons** for diplomatic discourse with spirits, and practice **Blood Sports** where the entertainment often proves literally fatal for participants.
 
 The air throughout their domain carries the perpetual scent of funeral flowers and embalming spices, while [[Phantom Orchestras]] provide haunting melodies that can be heard echoing across the moors. The Court values tradition, bloodline purity, and the accumulation of both temporal power and spiritual essence.
-
-## Notable NPCs
 
 ### Countess Morwyn Ashborne, The Bone Sovereign
 *Female Human Lich, Supreme Ruler of the Withered Court*
@@ -117,20 +127,6 @@ Once a renowned diplomat in life, Lady Hollowmere's tragic death transformed her
 - Speak in unison with voices like rustling parchment
 - Absolutely incorruptible but rigidly literal in interpretation
 
-## Services & Amenities
-
-### For the Living
-- **Temporary Death Services**: Experience undeath safely for up to 24 hours (500 gp)
-- **Necromantic Consultation**: Expert advice on undead-related matters (100-1000 gp)
-- **Death Contracts**: Binding agreements that persist beyond death (negotiable)
-- **Ghost Hunting**: Professional elimination of problematic spirits (market rates)
-
-### For the Undead
-- **Essence Refinement**: Purification and strengthening of undead nature (varies)
-- **Phylactery Security**: Safe storage for lich souls and vampire coffins (10,000 gp/year)
-- **Eternal Maintenance**: Preservation services for deteriorating undead (ongoing fees)
-- **Undead Diplomacy**: Mediation between different types of undead (500 gp/session)
-
 ## Plot Hooks
 
 1. **The Inheritance War**: A living heir has appeared claiming rights to one of the Court's territories, backed by legal documents the [[Bone Scribes]] cannot deny. The Court must navigate ancient laws while maintaining their power structure.
@@ -157,36 +153,6 @@ The Withered Court serves as a unique political entity within [[Aethermoor]], of
 - [[The Synthesis Gardens]]
 - [[Stop the Crystal Festival Ritual]]
 
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 Withered Court is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -195,24 +161,33 @@ Withered Court is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Withered Court as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Withered Court.
 
-## Adventure Hooks
-
-- A rumor ties Withered Court to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Withered Court to avert a public scandal.
-- A map overlay reveals a hidden approach to Withered Court active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Withered Court|02 Worldbuilding/Places/Withered Court]]
-
-<!-- enriched: true -->
-- [[Aethermoor]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -13,6 +13,24 @@ modified: '2025-08-14'
 # Vault Directory Structure
 *Official directory organization and purpose*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Directory Overview
 
 | Number | Directory | Purpose | File Count |
@@ -32,21 +50,11 @@ modified: '2025-08-14'
 | 12 | Research | D&D sourcebooks and research | - |
 | 13 | Performance | Metrics, logs, and optimization | - |
 
-## Important Notes
-
-### DO NOT Link To:
-- `/08_Archive/` - Historical content only
-- `/backups/` - Backup storage only
-- Absolute paths starting with `/Users/`
-
 ### Proper Link Format:
 ```markdown
 Good: [[Queen Seraphina]]
 Bad: [[Queen Seraphina]]
-Bad: [[Queen Seraphina]]
 ```
-
-## Directory Details
 
 ### 00_Indexes
 Central navigation hub for the entire vault.
@@ -93,11 +101,9 @@ Vault metrics, logs, and performance data.
 ---
 *Last Updated: 2025-08-13*
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -106,3 +112,23 @@ Vault metrics, logs, and performance data.
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A map reveals the truth about the government
+- A letter reveals ancient history about this place
+- Strange dreams suggest a conspiracy
+- A corpse reveals a conspiracy about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

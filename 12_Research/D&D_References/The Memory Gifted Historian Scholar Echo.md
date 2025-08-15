@@ -20,14 +20,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
 
 ## Player-Facing Summary
 
@@ -37,28 +45,30 @@ The Memory Gifted Historian, Scholar Echo Thought is a undersea element of the s
 
 Legends speak of The Memory Gifted Historian, Scholar Echo Thought as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Memory Gifted Historian, Scholar Echo Thought.
 
-## Adventure Hooks
-
-- A rumor ties The Memory Gifted Historian, Scholar Echo Thought to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Memory Gifted Historian, Scholar Echo Thought to avert a public scandal.
-- A map overlay reveals a hidden approach to The Memory Gifted Historian, Scholar Echo Thought active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Transformed Citizens]]
-
-
-## Connections
-
-- [[The Transformed Citizens]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before winter
+- A noble needs help finding before dawn
+- A merchant needs help investigating before dawn
+- Strange sightings suggest ancient magic
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

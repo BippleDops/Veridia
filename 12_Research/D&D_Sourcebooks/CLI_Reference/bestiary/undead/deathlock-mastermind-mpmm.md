@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.601954'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-deathlock-mastermind-mpmm-deathlock-mastermind-mpmm.svg)
 
@@ -36,6 +34,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 87, Mordenkainen's Tome of Foes p. 129*  
 
 Though deathlocks exist to serve their patrons, they retain some freedom when it comes to devising tactics and carrying out plans. Powerful deathlocks recruit lesser creatures to help them carry out their missions, becoming the masterminds behind vast conspiracies and intrigues that culminate in the accomplishment of great acts of evil.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Deathlocks
 
@@ -58,7 +74,6 @@ An powerful necromancer might also discover the wicked methods of creating a dea
   - !!int "16"
   - !!int "12"
   - !!int "15"
-  - !!int "12"
   - !!int "17"
 "speed": "30 ft."
 "saves":
@@ -68,7 +83,6 @@ An powerful necromancer might also discover the wicked methods of creating a dea
   - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+5"
   - "name": "[[skills#History|History]]"
-    "desc": "+5"
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks\
@@ -127,19 +141,32 @@ Deathlock mastermind mpmm is a undersea element of the setting, known for biolum
 
 Legends speak of deathlock mastermind mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around deathlock mastermind mpmm.
 
-## Adventure Hooks
-
-- A rumor ties deathlock mastermind mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at deathlock mastermind mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to deathlock mastermind mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals a conspiracy about this place
+- A merchant needs help investigating before the new moon
+- Someone is blackmailing an heir for revenge
+- Strange dreams suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

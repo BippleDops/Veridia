@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.774210+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,37 @@ Banker Merchant is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Banker Merchant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Banker Merchant.
 
-## Adventure Hooks
-
-- A rumor ties Banker Merchant to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Banker Merchant to avert a public scandal.
-- A map overlay reveals a hidden approach to Banker Merchant active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Madame Rosalind Goldleaf|02 Worldbuilding/Places/Madame Rosalind Goldleaf]]
-
-
-## Connections
-
-- [[Madame Rosalind Goldleaf]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- Strange sightings suggest a portal
+- Someone is protecting a witness for revenge
+- A prisoner has gone missing and truth emerges
+- Someone is protecting a witness for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

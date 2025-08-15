@@ -1,4 +1,5 @@
 ---
+
 title: Royal Palace of Meridian
 type: Location
 tags:
@@ -22,6 +23,8 @@ created_by: auto-stub
 danger_level: Moderate
 updated: '2025-08-13T12:34:17.016940+00:00'
 world: Aethermoor
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -29,10 +32,77 @@ world: Aethermoor
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-royal-palace-of-meridian-royal-palace-of-meridian.svg]]
 
-
 # Royal Palace of Meridian
 
 *"Where power flows like tide, and politics shape the very air."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
 
 ## Overview
 The Royal Palace of Meridian is the seat of government for the surface kingdom of Aethermoor, a magnificent structure combining classical architecture with magical enhancements. This center of political power houses the royal family, government offices, and diplomatic facilities.
@@ -42,7 +112,7 @@ The Royal Palace of Meridian is the seat of government for the surface kingdom o
 **Government Wing**: Administrative offices and council chambers
 **Diplomatic Quarter**: Foreign embassy facilities and guest accommodations
 **Gardens**: Elaborate landscaped grounds with magical enhancements
-**Service Areas**: Kitchens, staff quarters, and maintenance facilities
+**Service Areas**: Kitchens, staff quarters, and maintece facilities
 
 ## Key Locations
 **Throne Room**: Grand chamber for royal audiences and state ceremonies
@@ -63,7 +133,7 @@ The Royal Palace of Meridian is the seat of government for the surface kingdom o
 **High Chancellor**: Chief administrator coordinating government functions
 **Court Wizard**: Magical advisor and researcher
 **Foreign Minister**: Diplomat managing international relations
-**Treasury Minister**: Official overseeing kingdom's finances
+**Treasury Minister**: Official overseeing kingdom's fices
 
 ## Palace Staff
 **Chamberlain**: Chief servant managing palace operations
@@ -86,20 +156,6 @@ The Royal Palace of Meridian is the seat of government for the surface kingdom o
 **State Dinners**: Formal meals with important guests
 **Evening Entertainment**: Court performances and social gatherings
 
-## Political Intrigue
-- Succession debates about Prince Alexander's fitness to rule
- - Foreign influence operations targeting government decisions
-- Noble faction disputes over trade policies and military spending
-- Secret negotiations with underwater kingdoms
-- Court scandals involving romantic relationships and financial corruption
-
-## Recent Events
-- Diplomatic crisis with neighboring kingdom over trade disputes
- - Discovery of assassination plot against royal family
-- Magical accident in observatory requiring cleanup and investigation
-- Major state wedding requiring extensive security and coordination
-- Economic negotiations with merchant guilds affecting kingdom policies
-
 ## Adventure Hooks
 1. Characters hired as diplomatic security for important negotiations
 2. Mystery involving theft of important royal artifact
@@ -112,13 +168,6 @@ The Royal Palace of Meridian is the seat of government for the surface kingdom o
 **Gift-Giving**: Ceremonial exchanges demonstrating diplomatic relationships
 **Ceremony**: Formal protocols for official events and audiences
 **Social Hierarchy**: Rigid ranking system determining precedence and access
-
-## Economic Impact
-- Major employer for hundreds of staff and service providers
- - Consumer of luxury goods supporting artisan industries
-- Tourist attraction drawing visitors and their spending
-- Political decisions affecting entire kingdom's economy
-- International trade negotiations impacting merchant activities
 
 ## Magical Elements
 **Enchanted Architecture**: Magical enhancements to building structure
@@ -141,10 +190,6 @@ The Royal Palace of Meridian is the seat of government for the surface kingdom o
 **Royal Hospitality**: Accommodations for important state guests
 **Official Ceremonies**: Formal events marking significant occasions
 
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -152,53 +197,8 @@ The Royal Palace of Meridian is the seat of government for the surface kingdom o
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 The Royal Palace serves as center for political adventures, diplomatic missions, and court intrigue. Use the complex relationships between nobles, foreign agents, and government officials to create multilayered plots with significant consequences for player choices.
-
-
-## Connections
-
-- [[The Royal Palace]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -208,24 +208,6 @@ Royal Palace of Meridian is a undersea element of the setting, known for biolumi
 
 Legends speak of Royal Palace of Meridian as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Royal Palace of Meridian.
 
-## Cross-References
-
-- [[Royal Palace of Meridian]]
-
-<!-- enriched: true -->
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-chronomancer-paradox-chronomancer-paradox.svg]]
-- [[04_Resources_Assets_Locations_location-city-memorial-district-of-abyssos-prime-memorial-district-of-abyssos-prime.svg]]
-- [[04_Resources_Assets_Locations_location-city-reality-distortion-effects-reality-distortion-effects.svg]]
-
-
 ## Sensory Details
 
 **Sights**: Colorful banners flutter in the breeze
@@ -234,7 +216,6 @@ Legends speak of Royal Palace of Meridian as a nexus where past and present conv
 
 **Smells**: The tang of salt air permeates everything
 
-
 ## Description
 
 Royal Palace of Meridian is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -242,35 +223,7 @@ Royal Palace of Meridian is a notable location characterized by its unique featu
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Royal Palace of Meridian
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -283,15 +236,15 @@ Ongoing situations affecting Royal Palace of Meridian:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Royal Palace of Meridian
+## Religious Observances
 
-### Whispered Rumors
-- Stories that may or may not be true
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

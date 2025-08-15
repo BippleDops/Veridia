@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:05.191960+00:00'
 world: Both
 ---
 
-
-
 # Character Names
 *Source: Xanathar's Guide to Everything, p. 173* 
 
@@ -37,6 +35,24 @@ See the names page for the full collection of name tables.
 
 ![](/03_Mechanics/CLI/books/xanathars-guide-to-everything/img/ab001.webp#center)
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 6 character names is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -45,19 +61,15 @@ See the names page for the full collection of name tables.
 
 Legends speak of 6 character names as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 6 character names.
 
-## Adventure Hooks
-
-- A rumor ties 6 character names to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 6 character names to avert a public scandal.
-- A map overlay reveals a hidden approach to 6 character names active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

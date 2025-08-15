@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.833863'
 world: Both
 ---
 
-
 # Credits
 *Source: Xanathar's Guide to Everything* 
 
@@ -45,6 +44,24 @@ world: Both
 - **Other D&D Team Members.** Bart Carroll, Trevor Kidd, Christopher Lindsay, Shelly Mazzanoble, Hilary Ross, Liz Schuh, Nathan Stewart, Greg Tito  
 - **Playtesters.** Charles Benscoter, Dan Klinestiver, Dave Kovarik, Davena Oaks, Kevin Engling, Teos Abadía, Robert Alaniz, Phil Allison, Robert Allison, Jay Anderson, Paul Aparicio, Paul Van Arcken, Dee Ashe, Andrew Bahls, Chris Balboni, Jason Baxter, Jerry Behrendt, Teddy Benson, Deb Berlin, Stacy Bermes, Jim Berrier, Lauren Bilanko, Jordan Brass, Ken J. Breese, Robert "Bobby" Brown, Matthew Budde, Matt Burton, David Callander, Mik Calow, Richard Chamberlain, Wayne Chang, Emre Cihangir, Bruno Cobbi, Garrett Colón, Mark Craddock, Max Cushner, Brian Dahl, Derek DaSilva, Phil Davidson, Krupal Desai, Scott Deschler, Yorcho Diaz, Mario A. DiGirolamo, Adam Dowdy, Curt Duval, Jay Elmore, Russell Engel, Andrew Epps, David M. Ewalt, Justin Faris, Jared Fegan, Frank Foulis, Max Frutig, Travis Fuller, Kyle Garms, Ben Garton, Louis Gentile, Genesis Emanuale Martinez Gonzalez, Derek A. Gray, Richard Green, Kevin Grigsby, Christopher Hackler, Bryan Harris, Gregory Harris, Randall Harris, Fred Harvey, Ian Hawthorne, Adam Hennebeck, Sterling Hershey, Justin Hicks, Will Hoffman, Scott Holmgren, Paul Hughes, Daniel E. Chapman II, Stanislav Ivanov, Matt Jarmak, James Jorstad, Evan Jorstad, Alex Kammer, Joshua Kaufman, Bill Grishnak Kerney, Jake Kiefer, Chet King, Atis Kleinbergs, Steven Knight, David Krolnik, Yan Lacharité, Jon F. Lamkin, Marjorie Lamkin, Shane Leahy, Stephen Lindberg, Tom Lommel, Michael Long, Jonathan Longstaff, Ginny Loveday, Kevin D. Luebke, Michael Lydon, Matthew Maranda, Joel Marsh, Gleb Masaltsev, Chris McDaniel, Chris McGovern, Jim McKay, Mark Meredith, Mark Merida, Lou Michelli, David Middleton, Mike Mihalas, Mark A. Miller, Paige Miller, Ian Mills, Stacy Mills, David Milman, Daren Mitchell, TL Frasqueri-Molina, Scott Moore, David Morris, Tim Mottishaw, JoDee Murch, Joshua Murdock, William Myers, Walter Nau, Kevin Neff, Daniel "KBlin" Oliveira, Grigory Parovichnikov, Alan Patrick, Russ Paulsen, Matt Petruzzelli, Zachary Pickett, Chris Presnall, Nel Pulanco, Jack Reid, Joe Reilly, Renout van Rijn, Sam Robertson, Carlos Robles, Evan Rodarte, Matthew Roderick, Zane Romine, Nathan Ross, Dave Rosser, David Russell, Ruty Rutenberg, A.C. Ryder, Arthur Saucier, Benjamin Schindewolf, Ken Schreur, James Schweiss, the Seer, Jonathan Connor Self, Nicholas Sementelli, Arthur Severance, Ben Siekert, Jimmy Spiva, the Dead Squad, Francois P. Lefebvre Sr., Keaton Stamps, Matthew Talley, Dan Taylor, Kirsten A. Thomas, Laura Thompson, Jia Jian Tin, Kyle Turner, Justin Turner, Alex Vine, Yoerik de Voogd, Shane Walker, Matthew Warwick, Chris "Waffles" Wathen, Eric Weberg, Werebear, Gary West, Andy Wieland, Keith Williams, David Williamson, Travis Woodall, Arthur Wright, Keoki Young
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 7 credits is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -53,19 +70,26 @@ world: Both
 
 Legends speak of 7 credits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 7 credits.
 
-## Adventure Hooks
-
-- A rumor ties 7 credits to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 7 credits to avert a public scandal.
-- A map overlay reveals a hidden approach to 7 credits active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and chaos spreads
+- A corpse reveals a conspiracy about this place
+- A corpse reveals a conspiracy about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

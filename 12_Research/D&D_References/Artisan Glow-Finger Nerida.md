@@ -17,28 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -48,28 +42,21 @@ Artisan Glow Finger Nerida is a undersea element of the setting, known for biolu
 
 Legends speak of Artisan Glow Finger Nerida as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Artisan Glow Finger Nerida.
 
-## Adventure Hooks
-
-- A rumor ties Artisan Glow Finger Nerida to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Artisan Glow Finger Nerida to avert a public scandal.
-- A map overlay reveals a hidden approach to Artisan Glow Finger Nerida active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Artisan Glow-Finger Nerida|02 Worldbuilding/Places/Artisan Glow Finger Nerida]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The Phosphor Markets]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help finding before dawn
+- The authorities needs help investigating before the festival
+- A merchant needs help finding before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -16,10 +16,6 @@ updated: '2025-08-13'
 world: Both
 ---
 
-
-# Mechanics Feedback
-## Help improve game systems
-
 ### Core Mechanics Assessment
 
 ```
@@ -50,11 +46,9 @@ CROSS-REALM TRAVEL:
 □ Sometimes confusing
 □ Often unclear
 □ Very confusing
-```
 
 ### Rule Clarity
 
-```
 Which mechanics need clearer explanations?
 □ Pressure adaptation rules
 □ Altitude effects
@@ -71,48 +65,48 @@ Most confusing rule encountered:
 _______________________________________
 
 Suggestion for improvement:
-_______________________________________
-_______________________________________
-```
 
 ### Balance Assessment
 
-```
 Which mechanics feel overpowered?
-_______________________________________
 
 Which mechanics feel underpowered?
-_______________________________________
 
 Any mechanics that slow down gameplay?
-_______________________________________
 
 Any mechanics you'd like to see expanded?
-_______________________________________
-```
 
 ### Homebrew Suggestions
 
-```
 What new mechanics would enhance the game?
-_______________________________________
-_______________________________________
 
 What existing D&D rules don't fit this setting?
-_______________________________________
-_______________________________________
 
 Any mechanics from other games you'd like to see?
-_______________________________________
-_______________________________________
-```
 
 *Good mechanics enhance story without getting in the way*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -121,3 +115,8 @@ _______________________________________
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows

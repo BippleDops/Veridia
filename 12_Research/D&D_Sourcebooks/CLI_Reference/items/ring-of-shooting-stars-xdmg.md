@@ -23,15 +23,31 @@ updated: '2025-08-12T23:37:36.664760'
 world: Both
 ---
 
-
 # Ring of Shooting Stars
 *Ring, very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/ring-of-shooting-stars.webp#right)
 
-
 You can cast [[dancing-lights-xphb|Dancing Lights]] or [[light-xphb|Light]] from the ring.
 
 The ring has 6 charges and regains `d6` expended charges daily at dawn. You can expend its charges to use the properties below.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Faerie Fire
 
@@ -57,7 +73,7 @@ As a [[bonus-action-xphb|Bonus Action]], you can move each sphere up to 30 feet,
 
 You can expend 1 to 3 charges as a [[actions#Magic|Magic]] action. For every charge you expend, you launch a glowing mote of light from the ring at a point you can see within 60 feet of yourself. Each creature in a 15-foot [[cube-area-of-effect-xphb|Cube]] originating from that point is showered in sparks and makes a DC 15 Dexterity saving throw, taking `5d4` Radiant damage on a failed save or half as much damage on a successful one.
 
-*Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 294. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -67,19 +83,15 @@ Ring of shooting stars xdmg is a undersea element of the setting, known for biol
 
 Legends speak of ring of shooting stars xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ring of shooting stars xdmg.
 
-## Adventure Hooks
-
-- A rumor ties ring of shooting stars xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ring of shooting stars xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to ring of shooting stars xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes

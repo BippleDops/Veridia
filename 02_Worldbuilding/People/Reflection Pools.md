@@ -1,4 +1,5 @@
 ---
+
 title: Reflection Pools
 type: Npc
 tags:
@@ -14,6 +15,7 @@ tags:
 - complete
 - world/aquabyssos
 - divination
+- bloodline
 created: '2025-08-12'
 modified: '2025-08-14'
 status: complete
@@ -26,6 +28,8 @@ created_by: auto-stub
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.546207+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -33,10 +37,80 @@ world: Aquabyssos
 > [!figure] Portrait
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-reflection-pools-reflection-pools.svg]]
 
-
 # Reflection Pools
 
 *"In still waters, the future ripples backward to the present." - Oracle Miraleth*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
 
 ## Overview
 The Reflection Pools are a sacred site consisting of seven perfectly circular pools of unnaturally still water, each capable of showing visions of past, present, or future events. Located in the Temple District's quietest corner, these pools serve both religious and practical purposes for divination, meditation, and seeking guidance.
@@ -62,19 +136,6 @@ The Reflection Pools are a sacred site consisting of seven perfectly circular po
 **Apprentice Seers:** Students learning divination arts
 **Temple Guards:** Protection from misuse or disruption
 
-## Restrictions and Dangers
-- Pools may show false or misleading visions
-- Extended viewing can cause madness or obsession
-- Some visions are deliberately blocked by powerful magic
-- Certain questions anger the pools' mysterious intelligence
-- Multiple viewers may see conflicting images
-
-## Recent Visions
-- Disturbing glimpses of shadow creatures in city tunnels
-- Visions of surface world conflict affecting trade
-- Prophetic images of underwater volcanic activity
-- Mysterious figures gathering in secret locations
-
 ## Adventure Hooks
 1. Pool shows vision of party's death unless they act quickly
 2. False visions are being planted by unknown magical interference
@@ -89,8 +150,6 @@ The Reflection Pools are a sacred site consisting of seven perfectly circular po
 **Location Scrying:** 300 gp to observe distant place
 **Emergency Consultation:** 1000 gp for immediate access
 
-
-
 ## Background
 
 Reflection Pools's path to their current position involved:
@@ -99,36 +158,6 @@ Reflection Pools's path to their current position involved:
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
 
 ## Motivations
 
@@ -139,8 +168,6 @@ Reflection Pools's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Reflection Pools harbors secrets that could change everything:
@@ -149,13 +176,9 @@ Reflection Pools harbors secrets that could change everything:
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Divine mission
 
-
-
-
-
 ## Voice & Mannerisms
 
-**Voice**: Deep and resonant
+**Voice**: Deep and resot
 
 **Speech Pattern**: Formal and elaborate
 
@@ -170,8 +193,6 @@ Reflection Pools is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Reflection Pools needs assistance with a delicate matter
@@ -180,8 +201,6 @@ Reflection Pools is currently engaged in:
 4. **The Alliance**: Opportunity to work with or against Reflection Pools
 5. **The Crisis**: Reflection Pools is caught in a situation requiring intervention
 
-
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -189,8 +208,6 @@ Reflection Pools is currently engaged in:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
 
 ## Statistics (D&D 5e)
 
@@ -217,61 +234,6 @@ cr: 1/4
 ## DM Notes
 Use the Reflection Pools as plot devices to provide information, foreshadow events, or create red herrings. Visions should be symbolic rather than literal, requiring interpretation and potentially misleading parties into interesting complications.
 
-
-
-
-## Relationship Web
-
-- [[Tidal Priests Circle]]: *competitor*
-- [[Lord Aurelius]]: *patron*
-
-## Connections
-
-- [[Original Glaucus]]
-- [[Senator Glaucus]]
-
-
-## Appearance
-
-
-TODO
-
-
-## Personality
-
-### Behavioral Patterns
-- **Under Stress**: Becomes more focused
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward manipulation
-
-
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward negotiation
-
-
-
-TODO
-
-
-## Goals
-
-
-TODO
-
-
-## Relationships
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 Reflection Pools is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -279,9 +241,3 @@ Reflection Pools is a undersea element of the setting, known for bioluminescent 
 ## Lore Details
 
 Legends speak of Reflection Pools as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reflection Pools.
-
-## Cross-References
-
-- [[Reflection Pools]]
-
-<!-- enriched: true -->

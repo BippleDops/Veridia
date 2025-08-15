@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:05.143504+00:00'
 world: Both
 ---
 
-
-
 # The Blood War
 *Source: Mordenkainen's Tome of Foes, p. 5* 
 
@@ -32,6 +30,24 @@ world: Both
 Throughout history, the teeming hordes of the Abyss and the strictly regimented legions of the Nine Hells have battled for supremacy in the cosmos. In the mortal world, the scant few scholars, arcanists, and adventurers who know the conflict for what it is refer to it as the Blood War.
 
 The fighting takes place across the Lower Planes, on the Material Plane, and anywhere else that demons and devils might congregate. From time to time, demons spill out of the Abyss to invade Avernus, the uppermost layer of the Nine Hells. While the devils defend their home turf, they also make strikes against locations in the Abyss. Although the intensity of the conflict waxes and wanes, and the front lines of the war can shift drastically, a moment never goes by when demons and devils aren't battling each other somewhere in the multiverse.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## The Great Dance
 
@@ -78,18 +94,14 @@ The devils view fighting demons on Avernus as a net benefit for their cause. Alt
 ![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315529_cn.webp#center)
 
 > [!note] Sailing the Styx
-> 
 > The River Styx frustrates every attempt to map it or predict its course. Although anyone can try to navigate it, only merrenoloths, the yugoloth ferrymen of the Styx, can faultlessly negotiate the Styx's treacherous waters. For a price, merrenoloths will carry anyone safely and swiftly across planar boundaries. The greater the distance and the more perilous the passengers to be ferried, the higher the price.
-> 
 > Getting lost while sailing the Styx isn't the only danger the river presents. Merely tasting or touching its waters causes most creatures to become stupefied, and drinking fully or being immersed for too long can render that condition permanent, robbing a creature of all its memories. Fiends don't fear being momentarily exposed to the Styx, but—with the notable exception of hydroloths, merrenoloths, and amnizus—even they can't retain their memories if they drink from the River Styx or swim for too long in its waters.
-> 
 > More important, demons that are slain and sent back to the Abyss return to their chaotic wanderings in that realm. A demon lord is thus hard pressed to keep a horde cohesive as it takes casualties. If the devils extended a tenacious defense out to the planes beyond Avernus, they could keep the demons away from Hell's doorstep, but such a strategy would place a great strain on supplies, reinforcements, and unit integrity. Although the devils killed in such places would recover, their weapons, armor, and other materials would remain lost.
 ^sailing-the-styx
 
 ### The Devilish Point of View
 
 > [!quote] A quote from [[/03_Mechanics/CLI/bestiary/npc/zariel-mpmm|Zariel]], Archduchess of Avernus, former angel of Celestia  
-> 
 > My legions are the only thing standing between your precious Seven Heavens and the bottomless hunger of the Abyss. I did not fall into the clutches of evil. I rose to shoulder a cosmic burden.
 
 Although the basic facts of the Blood War aren't subject to debate, a host of theories exist that attempt to explain why the conflict erupted in the first place.
@@ -101,20 +113,15 @@ In fact, devils believe that the demons would have long ago swept across the mul
 Every devil takes a grim pride in its service in the Blood War. Talk to one for a short time, and it will reveal the scars earned during its time in Avernus and tell tales of the great battles it has seen. Talk to one for a little longer, and it will inform you that you are alive only because of the devils' heroic efforts. If there was truly justice in the world, it would tell you, the multiverse would bend its knee to the Nine Hells in thanks for the devils' role in preserving the cosmos.
 
 > [!note] Legions of the Damned
-> 
 > Most of the forces of the Nine Hells are grouped into three types of legions that each play a role in repelling the invading demons. Incompetent or weak devils fill out the dreg legions, composed mainly of hordes of lemures and nupperibos. They are deployed as a delaying tactic, serving as fodder to slow down an advancing horde of demons while sword legions organize their counterattacks and shield legions establish their defenses. Each legion within a category has a distinctive, fearsome—sounding name in the Infernal tongue. When translated into Common, these names are often descriptive of the legion's status or battle-worthiness, such as the ones given below.
-> 
 > **Dreg Legions.** Bugs in the System, Momentary Lapse of Progress, Casualties Imminent, Last in Line for Healing, Not Worth the Effort
-> 
 > **Shield Legions.** Moment of Silence, Welcome to the Hells, Pleased to Meet You, Front toward Enemy, End of the Line
-> 
 > **Sword Legions.** Flawless Execution, Damned Good, The Hanging Blade, Inevitable Outcome, A Taste for Carnage
 ^legions-of-the-damned
 
 ### The Demonic Point of View
 
 > [!quote] A quote from Zaadaaak, demon of the Abyss  
-> 
 > Why do we descend upon the domain of our hated enemies? Because that's where the fighting is!
 
 Most other creatures believe demons to be little more than mindless engines of destruction and violence. If that supposition were true, the Blood War should have ended long ago, since the tactical and strategic genius of the archdevils would have made quick work of the hordes that erupt from the Abyss. In fact, even though demons are quintessentially chaotic, their evilness combines with that outlook to produce a fiendish, subtle shrewdness. Demon lords and other powerful entities exert control over their armies that enables the forces to accomplish goals that would be beyond the capabilities of a leaderless mob. To the demons that have intelligence enough to appreciate their role in it, the Blood War offers an endless source of diversion underscored by resentment of a cosmic order that refuses to admit their superiority.
@@ -126,9 +133,7 @@ Instead, as long as the demons focus most of their efforts on the doorstep of th
 Therefore, the demons assault the Nine Hells over and over not only because it is the greatest threat to their dominion, but also because striking in force anywhere else would play into the devils' hands.
 
 > [!note] Yugoloths: Fickle Allies
-> 
 > Yugoloths are major players on both sides of the Blood War. The death of a yugoloth is meaningless when it occurs in the Abyss or the Nine Hells, and thus these mercenaries freely give their all in any battle even when it means fighting other yugoloths. Demons and devils both know that a yugoloth's loyalty is constantly for sale-even during a conflict on the battlefield-and a yugoloth never agrees to a contract that prohibits it from seeking a better offer. This set of circumstances prompts hellish and abyssal armies to carry war chests with them in the hope of buying the services of the yugoloths on the other side. The war chests themselves thus become highly prized targets, which in turn leads to protective measures, such as valuables hidden in [[bag-of-holding-xdmg|bags of holding]] or empty treasure containers used to lure the enemy into a trap.
-> 
 > Regardless of the side that hires them, yugoloths almost never fight on their home plane of Gehenna despite the fact that both sides sometimes traverse it and many battles of the Blood War are fought there. A yugoloth killed in Gehenna can't be restored to life except through an exceptional ritual, so the sums required to entice one to fight on its home plane are astronomical... and making such a bargain always draws the attention of the ultroloths.
 ^yugoloths-fickle-allies
 
@@ -140,7 +145,7 @@ The adherents of this viewpoint refer to the concept they espouse as the Balance
 
 To an outside observer, a disciple of the Balance might act cruelly or heartlessly one day, and benevolent and caring the next. A follower might aid in consigning one city to domination by a devil cult while driving demonic cultists from another. For the sake of the Balance, the cosmos must remain in a static state where neither demon nor devil can permanently gain the upper hand.
 
-Keepers of the Balance sometimes resort to strategies that seem inexplicable to those who don't grasp the whole situation. A crusading paladin might be discouraged from seeking out and defeating [[/03_Mechanics/CLI/bestiary/npc/demogorgon-mpmm|Demogorgon]], because doing so could weaken the Abyss enough to allow the forces of the Nine Hells to gain a firm foothold there. An adherent of the Balance might vie with a great arcanist as both search for knowledge of a ritual that would cripple Asmodeus for a short time. The arcanist correctly believes that performing the ritual would free a world of the Material Plane from the devils' taint, but doesn't appreciate that it also would bring a grievous setback to the forces that had been keeping the demons from overrunning Avernus.
+Keepers of the Balance sometimes resort to strategies that seem inexplicable to those who don't grasp the whole situation. A crusading paladin might be discouraged from seeking out and defeating [[/03_Mechanics/CLI/bestiary/npc/demogorgon-mpmm|Demogorgon]], because doing so could weaken the Abyss enough to allow the forces of the Nine Hells to gain a firm foothold there. An adherent of the Balance might vie with a great arcanist as both search for knowledge of a ritual that would cripple Asmodeus for a short time. The arcanist correctly believes that performing the ritual would free a world of the Material Plane from the devils' taint, but doesn't appreciate that it also would bring a grievous seck to the forces that had been keeping the demons from overrunning Avernus.
 
 Those who vow to maintain the Balance make enemies wherever they go, because their full reasons for acting as they do aren't always apparent. The fact that some of these adherents embrace the Balance to further their personal quests for power makes it impossible to count on them as allies with complete certainty.
 
@@ -157,7 +162,6 @@ Asmodeus and the other archdevils rule over the nine layers that comprise the He
 ### Asmodeus
 
 > [!quote] A quote from Asmodeus addresses the celestial jury, from The Trial of Asmodeus  
-> 
 > I literally sit beneath eight tiers of scheming, ambitious entities that represent primal law suffused with evil. The path from this realm leads to an infinite pit of chaos and evil. Now, tell me again how you and your ilk are the victims in this eternal struggle.
 
 Asmodeus is an unmatched strategist and orator. The most epic of all his achievements is chronicled in *The Trial of Asmodeus,* a play based on purportedly true events as researched by the aasimar bard Anodius.
@@ -195,7 +199,6 @@ Asmodeus resides in Nessus, the bottommost layer of the Nine Hells. By design, t
 ### Zariel
 
 > [!quote] A quote from [[/03_Mechanics/CLI/bestiary/npc/zariel-mpmm|Zariel]] addressing emissaries from Dis  
-> 
 > Keep wasting my time with your pointless words and die, or join my war band and live. Choose swiftly. I have a plane to conquer.
 
 [[/03_Mechanics/CLI/bestiary/npc/zariel-mpmm|Zariel]] was once an angel, but her impetuous nature and love of battle led to her fall. In her previous life, she was charged with observing the battles on Avernus and tracking their progress. From this exposure, she grew obsessed with the Blood War, and a thirst for battle grew within her that she couldn't ignore. In time, she became frustrated that she and the other angels were forced to remain spectators while the demons and devils battled. The hosts of Mount Celestia, she believed, could descend upon Avernus en masse and wipe both hordes of evil from the cosmos if they so desired.
@@ -204,7 +207,7 @@ After her repeated requests to join the fray were denied, her frustration overto
 
 #### A Fighting General
 
-When [[/03_Mechanics/CLI/bestiary/npc/zariel-mpmm|Zariel]] supplanted the pit fiend Bel as the ruler of Avernus, that change signaled a major shift in the devils' tactics. [[/03_Mechanics/CLI/bestiary/npc/zariel-mpmm|Zariel]]'s fiery temperament and reckless maneuvering stand in stark contrast to Bel's approach, which relied on his expertise in logistics and defensive tactics to make steady but slow advances. Bel remains one of her chief lieutenants, and he doesn't discourage her reckless tactics in the hope that she will overextend her forces and suffer a defeat that leads to her removal.
+When [[/03_Mechanics/CLI/bestiary/npc/zariel-mpmm|Zariel]] supplanted the pit fiend Bel as the ruler of Avernus, that change signaled a major shift in the devils' tactics. [[/03_Mechanics/CLI/bestiary/npc/zariel-mpmm|Zariel]]'s fiery temperament and reckless maneuvering stand in stark contrast to Bel's approach, which relied on his expertise in logistics and defensive tactics to make steady but slow advances. Bel remains one of her chief lieutets, and he doesn't discourage her reckless tactics in the hope that she will overextend her forces and suffer a defeat that leads to her removal.
 
 For now, though, the devils are fighting with a berserker fury under her charge. [[/03_Mechanics/CLI/bestiary/npc/zariel-mpmm|Zariel]] leads their offensives herself, and her unyielding resolve coupled with the fighting skill of her underlings has pushed nearly all the demonic invaders out of Avernus.
 
@@ -221,18 +224,14 @@ That outlook has made her something of a political pariah, since she has spurned
 Adventurers able to avoid the other occupants can find treasure within some of the ruins, though they must venture to the fringes of the active conflict to have any hope of finding places that have not yet been looted. Many of the active citadels on Avernus loom over the River Styx or surround portals to other planes or to Dis. An amnizu presides over each location, directing the lemures that emerge from the Styx, marshaling forces against invaders, and preventing unauthorized travel.
 
 > [!note] Tiamat Waits and Watches
-> 
 > The Queen of Dragons resides in Avernus. Her lairs sits atop a towering mountain, with flights of dragons wheeling through the skies to discourage any demonic incursions. For their part, the demons avoid this place. The hordes of the Abyss have learned the hard way that Tiamat and her court prefer to be left alone. She appears disinterested in becoming involved in the Blood War.
-> 
 > Tiamat's presence in Avernus has confounded sages for years. As with devils, she is unable to leave the plane of her own will. She must be called forth, but only the mightiest rituals can draw her back into the world. So, if she has been imprisoned here, how and why did that come about?
-> 
 > The most prevalent theory holds that her confinement is related to the end of the long war between the dragons and giants, that she was sequestered here by means of a mighty curse levied by a forgotten god of the giants she slew. The curse brought an end to the war but also drew the curtain on the time of the dragons and giants on the Material Plane, clearing the way for the rise of humans, orcs, dwarves, elves, and other folk. If Tiamat were to return to the material world, that event could trigger, or be a signal of, the resumption of the war between giants and dragons.
 ^tiamat-waits-and-watches
 
 ### Dispater
 
 > [!quote] A quote from Dispater  
-> 
 > The cosmos is a grand game. He who knows its rules the best shall win the prize.
 
 Dispater is the foremost arms dealer of the Nine Hells, and perhaps the greatest weapons supplier in all the planes. As the lord of Dis, he oversees a mining and smelting operation that continually churns out weapons and armor. Using some of the great number of secret techniques Dispater has unearthed over his lifetime, the foundries of Dis produce deadly armaments that help to stem the abyssal tide. The fighting requires constant reinforcements, creating a voracious appetite for the products of the iron mines on Dis and the workshops in the sprawling metropolis that shares the name of the layer.
@@ -254,7 +253,6 @@ To Dispater, all of reality is a contest played out under secret rules. If he ca
 ### Mammon
 
 > [!quote] A quote from Mammon  
-> 
 > The count of my coins is more reliable than any roster of mortal hearts or immortal souls.
 
 Mammon is the foremost merchant and miser of the Nine Hells, and perhaps the richest entity in all the planes. As the lord of Minauros, Mammon oversees the soul trade. While those who pledge their souls are claimed by the devil they bargained with, lawful evil creatures that aren't bound by any contract emerge from the River Styx as lemures. Roving bands of soul-mongers patrol the river's banks, harvesting the newly created devils. On its arrival, each soul passes through the capital of Minauros, the Sinking City, and is recorded. The soul is then distributed to whoever should claim it, according to contracts in force and laws in effect. Mammon appropriates any extra lemures for himself and sells them for profit.
@@ -267,7 +265,7 @@ Mammon measures everything in terms of its value in gold. He cares only for the 
 
 Mammon's obsession with wealth and efficiency make him a dangerous entity to entreat. He enters any bargain with the goal of making a profit. Those who waste his time or tarry in their dealings with him are likely to incur his wrath. If he can't make an acceptable profit in return for the time he has spent, he can at least vent his frustration by grinding the offending party into a thick, bloody sludge.
 
-#### Financier of the Hells
+#### Ficier of the Hells
 
 Mammon's wealth is his primary way of exerting power and influence. He offers monetary loans to other devils in return for service, favors, or items he desires. From time to time, he dips into his coffers to attract mercenaries to ensure that a particularly virulent demonic advance is stopped-always in the expectation that the current lord of Avernus turns loot and booty obtained from the defeated demons over to him.
 
@@ -282,7 +280,6 @@ Mammon refuses to spend any more coin than necessary to keep the soul marketplac
 ### Fierna and Belial
 
 > [!quote] A quote from Fierna  
-> 
 > A paladin? How exquisite! Sit, please. Rest. Tell me about the god that would send such a bright soul on so long and dark a journey.
 
 In the flaming realm of Phlegethos, Fierna and Belial rule in strange tandem. They are variously thought of by mortals as mother and son, daughter and father, wife and husband, or ruler and consort, but none of those terms can capture the paradoxical nature of their partnership. The Nine Hells is a hierarchy in which two individuals can't normally hold the same position as ruler of a single layer. Yet Asmodeus allows these two to claim dominion over Phlegethos as partners and rivals.
@@ -310,7 +307,6 @@ Fierna takes a direct interest in the soul trade. Her prodigious intellect allow
 ### Levistus
 
 > [!quote] A quote from Levistus  
-> 
 > Though ice might hold my body in place, it has done nothing to contain my ambition.
 
 Even by the otherworldly standards of the Nine Hells, the realm of Stygia and its lord, Levistus, both occupy strange positions in the hierarchy. Stygia is a frozen wasteland of mysterious origin, a churning, murky sea covered in a thick layer of ice. Where the ice gives way to open water, immense icebergs drift on the unpredictable currents. Levistus is trapped within one of these bergs, imprisoned there by Asmodeus for reasons that few can even guess about.
@@ -334,7 +330,6 @@ The presence of so many creatures native to the Material Plane has led to specul
 ### Glasya
 
 > [!quote] A quote from Glasya  
-> 
 > Of course I love my father. Without him, whom would I have to strive against?
 
 Malbolge is the prison of the Nine Hells, and on this layer dwells its most infamous criminal. Glasya, the rebellious daughter of Asmodeus, rules the place and oversees the punishments doled out to devils that stray from their assigned tasks. These lawbreakers are put on trial in Phlegethos, and if they are found guilty they are dispatched to Malbolge to endure years of torment. That Glasya is both prison warden and the Nine Hells' most notorious criminal is evidence that in the infernal realms, crime pays as long as you avoid being convicted.
@@ -378,17 +373,14 @@ An ambitious prince who is entitled by law to inherit his parents' wealth but do
 A notable portion of Glasya's petitioners are souls who have pledged themselves to another Lord of the Nine and want out of the bargain. Her minions scour every contract struck with another devil and approach mortals whose contracts contain loopholes. In return for giving their souls to her instead, such individuals learn how to break the contract and negate whatever price the contract says they must pay.
 
 > [!note] Devils and Gender
-> 
 > To a devil, gender is insignificant. Devils can't create new life through physical means; a new devil comes into being only when a soul is corrupted or claimed in a bargain, and the gender of the mortal that provided the soul is immaterial. Devils that represent themselves to mortals are likely to adopt an appearance (including an apparent gender) that conforms with what those mortals believe to be true. Gender (and the assumptions that mortals make about it) is just another tool for devils to use to get what they want.
-> 
 > Devils that are known to and named by mortals often accept the gender assigned to them, but they aren't bound by that label. Stories of the Lords of the Nine told by mortals might speak of Glasya as Asmodeus's daughter and Belial as Fierna's consort, but such expressions can't encompass the complexities of the strange relationships formed by beings of immortal evil.
 ^devils-and-gender
 
 ### Baalzebul
 
 > [!quote] A quote from Baalzebul  
-> 
-> Through sufficient penance and grace, even the lowliest can redeem themselves. Am I not a living testament to that fact?
+> Through sufficient pece and grace, even the lowliest can redeem themselves. Am I not a living testament to that fact?
 
 Maladomini was once a bustling realm of vibrant cities and a panoply of roads, gardens, and bridges. It was the center of the Hells' bureaucracy, where every edict, law, and order was dutifully copied and filed away. With each passing year, the devils would add more fortresses and archives to Maladomini to house all their records.
 
@@ -423,7 +415,6 @@ Although Baalzebul claims a great number of unsuspecting souls, almost all of th
 ### Mephistopheles
 
 > [!quote] A quote from Mephistopheles  
-> 
 > There are few problems that cannot be solved through the application of overwhelming arcane firepower.
 
 Cania, like Stygia above it, is a bitterly cold realm of glaciers and howling ice storms. Mephistopheles holds court here with the ice devils that make up his retinue. Operating from his great tower, the icy citadel of Mephistar, he conducts a never-ending series of experiments that expand his understanding of arcane magic and of the planes of existence.
@@ -432,7 +423,7 @@ Mephistopheles keeps his realm churning with punishing storms. He doesn't entert
 
 The foremost wizard in the Hells, Mephistopheles suffers nothing that would compromise his intellectual focus. He hates distractions and allows only particular devils to speak to him without first being spoken to. He has been known to disintegrate minions for the smallest transgressions, and sometimes carries out an execution simply because he suspected that a devil was about to do something to annoy him.
 
-Mephistopheles is able to devote almost all his time to his research thanks to the loyalty of [[/03_Mechanics/CLI/bestiary/npc/hutijin-mpmm|Hutijin]], his top lieutenant. Even though [[/03_Mechanics/CLI/bestiary/npc/hutijin-mpmm|Hutijin]] commands enough power to threaten his master's position, he is content to remain at the right hand of the throne, at least for the time being.
+Mephistopheles is able to devote almost all his time to his research thanks to the loyalty of [[/03_Mechanics/CLI/bestiary/npc/hutijin-mpmm|Hutijin]], his top lieutet. Even though [[/03_Mechanics/CLI/bestiary/npc/hutijin-mpmm|Hutijin]] commands enough power to threaten his master's position, he is content to remain at the right hand of the throne, at least for the time being.
 
 #### Experiments in the Unknown
 
@@ -580,7 +571,6 @@ The demon princes' arrogance is exceeded only by their ambition. While any ratio
 ### Scourge of Worlds
 
 > [!quote] A quote from Iuz the Old  
-> 
 > You must understand that my ambitions do not stop here in Doraaka, or even at the doorstep of Greyhawk or the Amedio jungles beyond. Oerth is but the first of many worlds that will fall.
 
 The Abyss and its demonic inhabitants are akin to a virus. While most other factions across the planes spread their influence into other realms through conquest, conversion, or diplomacy, demons infect a world by traveling there and beginning to transform their environment to resemble the malleable, chaotic substance of their home plane. If demons dwell in a place for a significant amount of time, the area starts to warp in response to the abyssal energy that churns within it. If a demonic infestation is left unchecked, a portal to the Abyss is the result, and more and more of the essence of the Abyss pushes its way through. In time, a plane or a world could become a colony of the Abyss, overrun with demons and devoid of all other forms of life.
@@ -619,7 +609,7 @@ Slaying all the demons in an infested area ends their direct threat, but the ter
 
 If the incursion remains unchecked or grows strong enough, it enters its fourth and final phase with the entrance of a demon lord. As a portal continues to shunt demons and abyssal energy into the world, it begins to attract the attention of the lords. Two or more of them might fight for control of it, or in the worst case, several might travel through the portal in rapid succession.
 
-The visitation of a demon lord to the Material Plane is a cataclysmic event. The lord's presence overwhelms the minds of other beings to keep them from resisting, and the lord's power enables it to command the other demons already present in the world. They form a horrid army that sets about stripping the world of life and clearing the path for the lord's dominance.
+The visitation of a demon lord to the Material Plane is a cataclysmic event. The lord's presence overwhelms the minds of other beings to keep them from resisting, and the lord's power enables it to command the other demons already present in the world. They form a horrid army that sets about stripping the world of life and clearing the path for the lord's domice.
 
 At this point, a besieged world's only hope for survival is the expulsion of the demon lord. The lord's defeat leaves the other demons again leaderless, and they react by warring against each other, which makes them susceptible to attacks from the world's defenders. The longer a demon lord remains in control of all the other fiends, the more the world around it becomes irrevocably changed. When a demonic incursion runs its course, no vestige remains of the world that existed before-in effect, the realm has become another layer of the Abyss.
 
@@ -654,7 +644,6 @@ Those who would navigate the Abyss always enter the place in a random location. 
 ### Evil Inchoate
 
 > [!quote] A quote from [[/03_Mechanics/CLI/bestiary/npc/orcus-mpmm|Orcus]]  
-> 
 > I will be the last creature when I am done. The cosmos will then be perfect, free of the braying abominations that are all other living things.
 
 As beings of utter chaos and absolute evil, demons have no concept of empathy. Each demon believes that only its needs and desires matter.
@@ -670,11 +659,8 @@ All demons seek to satisfy their whims and force others around them to serve the
 Less intelligent and less powerful demons typically have correspondingly modest visions for what it means to be the center of their universes. All demons have an instinctive sense of their own status, and they typically don't set impossible goals-a lesser demon, for instance, might simply run amok when unleashed into the world, its only desire to spread chaos, but a marilith or other powerful demon usually has an intent that goes beyond merely causing carnage, and a plan to achieve it.
 
 > [!note] Demonic Amulets: Blessing and Curse
-> 
 > Some demon lords have a way of cheating death, but this great benefit doesn't come without its own perils. A demon that stores part of its essence in a demonic amulet can avoid being destroyed even if it is killed in the Abyss. On the other hand, anyone else who lays claim to such an item can command the demon to do as they wish.
-> 
 > For this reason, demon lords hide their amulets away and trust no one, not even their followers, with knowledge of the location. Such a site is usually protected with intricate traps, mindless servants, and other defenses that bring no risk of subversion or betrayal.
-> 
 > If an archdevil were ever to acquire a demonic amulet, that event could signal a tipping point in the Blood War. If Asmodeus held [[/03_Mechanics/CLI/bestiary/npc/demogorgon-mpmm|Demogorgon]]'s amulet, for instance, the demon lord might find itself in a position from which there is no escape.
 ^demonic-amulets-blessing-and-curse
 
@@ -715,7 +701,6 @@ Demons comprise the majority of [[/03_Mechanics/CLI/bestiary/npc/demogorgon-mpmm
 In mortal realms, people can fall under his sway simply by laying eyes on a true copy of his symbol, crafted either by [[/03_Mechanics/CLI/bestiary/npc/demogorgon-mpmm|Demogorgon]] or one of his most powerful demonic followers. An individual exposed to such a symbol becomes an agent of [[/03_Mechanics/CLI/bestiary/npc/demogorgon-mpmm|Demogorgon]], dedicated ever after to a life of lurking in the shadows, lashing out against unsuspecting victims and striking fear into those who discover the bodies left behind.
 
 > [!quote]  
-> 
 > I studied [[/03_Mechanics/CLI/bestiary/npc/demogorgon-mpmm|Demogorgon]]'s symbol. I thought that, by looking at it through a mirror, I might avoid its effects. If anything, viewing its reflection made its effect more potent and more subtle. It was Rary who saved me, and I thought he had been spared the symbol's effects. I don't have many regrets, but underestimating that symbol is one of my greatest.
 
 ![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315585_cn_wmask.webp#center)
@@ -747,11 +732,8 @@ Despite his extreme self-indulgence, [[/03_Mechanics/CLI/bestiary/npc/grazzt-mpm
 When a cult beseeches him during the induction of new members, [[/03_Mechanics/CLI/bestiary/npc/grazzt-mpmm|Graz'zt]] sends an emissary or an avatar to preside over the proceedings, which conclude with the new followers being treated to a night of debauchery.
 
 > [!note] Graz'zt's Murky Past
-> 
 > Sages have put forth ideas for why demons consider the denizens of the Nine Hells as the greatest threat to their designs for the cosmos. Some researchers claim to have uncovered evidence that the animosity between demons and devils has its roots in a primeval time when [[/03_Mechanics/CLI/bestiary/npc/grazzt-mpmm|Graz'zt]], now a demon lord, was a member of the devils' hierarchy.
-> 
 > As the hypothesis goes, [[/03_Mechanics/CLI/bestiary/npc/grazzt-mpmm|Graz'zt]] wasn't satisfied with the prospect of being eternally subservient to Asmodeus in the Hells, where only one devil can claim absolute rulership. The Abyss offers greater freedom to those who are powerful enough to carve out a realm for themselves-and, after forsaking his status in the Hells, that's exactly what [[/03_Mechanics/CLI/bestiary/npc/grazzt-mpmm|Graz'zt]] did.
-> 
 > Those who find this idea plausible hope that [[/03_Mechanics/CLI/bestiary/npc/grazzt-mpmm|Graz'zt]]'s defection is a unique event, never to be repeated. If that turns out not to be the case, another such shift could be a major turning point in the Blood War.
 ^grazzts-murky-past
 
@@ -804,9 +786,7 @@ Most of [[/03_Mechanics/CLI/bestiary/npc/zuggtmoy-mpmm|Zuggtmoy]]'s cultists are
 A few mortals freely enter her service. Most are druids who want to exterminate civilization and replace it with wild plants and fungus, or deluded, power-hungry individuals who believe that they would retain their identities while they bring others under [[/03_Mechanics/CLI/bestiary/npc/zuggtmoy-mpmm|Zuggtmoy]]'s thrall. [[/03_Mechanics/CLI/bestiary/npc/zuggtmoy-mpmm|Zuggtmoy]] allows these zealots to retain their existing forms if doing so furthers her aims and helps to spread her children far and wide, but they are destined for the same fate as all the others.
 
 > [!note] Lolth Extends Her Webs
-> 
 > The Demon Queen of Spiders and her brood rarely take part directly in the Blood War; rather, her agents in the Abyss contrive to lure her enemies into throwing themselves into the struggle. Her servitors spy on both sides, playing demon and devil against each other.
-> 
 > Lolth's plan, as far as those who study the Abyss understand it, is to tempt her rival demon lords into venturing onto other planes or to send them away with powerful magic. Because it is in the demons' nature to spread and destroy, they rampage in their new environs instead of seeking revenge on Lolth. Lolth, in turn, delights in filling the vacancy left by a departed rival, expanding the reach of the Demonweb Pits and claiming those servants her enemies have left behind as new spies and informants for her.
 ^lolth-extends-her-webs
 
@@ -897,19 +877,37 @@ Use the template linked above to quickly draw up some information on a Fiendish 
 
 Legends speak of 1 the blood war as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 1 the blood war.
 
-## Adventure Hooks
-
-- A rumor ties 1 the blood war to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 1 the blood war to avert a public scandal.
-- A map overlay reveals a hidden approach to 1 the blood war active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Plot Hooks
+
+- The authorities needs help investigating before winter
+- A shipment has gone missing and evil awakens
+- A stranger needs help delivering before the new moon
+- Someone is hunting information for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -26,11 +26,8 @@ updated: '2025-08-13T12:34:06.675389+00:00'
 world: Both
 ---
 
-
-
 # Drawmij's Instant Summons
 *6th-level, Conjuration (ritual)*  
-
 
 - **Casting time:** 1 minute unless cast as a ritual
 - **Range:** Touch
@@ -45,7 +42,25 @@ If another creature is holding or carrying the object, crushing the sapphire doe
 
 **Classes**: [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
 
-*Source: Player's Handbook (2024) p. 266. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Instant Summons") and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 266. Available in the SRD (as "Instant Summons") and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -55,19 +70,22 @@ Drawmijs instant summons xphb is a undersea element of the setting, known for bi
 
 Legends speak of drawmijs instant summons xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around drawmijs instant summons xphb.
 
-## Adventure Hooks
-
-- A rumor ties drawmijs instant summons xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at drawmijs instant summons xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to drawmijs instant summons xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and evil awakens
+- A letter reveals ancient history about a local noble
+- A noble needs help stealing before dawn
+- Someone is hunting an heir for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

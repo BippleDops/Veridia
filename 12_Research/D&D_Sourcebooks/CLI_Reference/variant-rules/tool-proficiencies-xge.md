@@ -21,11 +21,28 @@ updated: '2025-08-12T23:37:34.151623'
 world: Both
 ---
 
-
 # Tool Proficiencies
 *Source: Xanathar's Guide to Everything p. 78* 
 
 Tool proficiencies are a useful way to highlight a character's background and talents. At the game table, though, the use of tools sometimes overlaps with the use of skills, and it can be unclear how to use them together in certain situations. This section offers various ways that tools can be used in the game.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Tools and Skills Together
 
@@ -122,8 +139,6 @@ Your knowledge of brewing enables you to purify water that would otherwise be un
 
 **Brewer's Supplies**
 
-| Activity | DC |
-|----------|----|
 | Detect poison or impurities in a drink | 10 |
 | Identify alcohol | 15 |
 | Ignore effects of alcohol | 20 |
@@ -151,8 +166,6 @@ This tool proficiency grants you expertise in examining maps. You can make an In
 
 **Calligrapher's Supplies**
 
-| Activity | DC |
-|----------|----|
 | Identify writer of nonmagical script | 10 |
 | Determine writer's state of mind | 15 |
 | Spot forged text | 15 |
@@ -193,8 +206,6 @@ As part of a long rest, you can construct a lean-to or a similar shelter to keep
 
 **Carpenter's Tools**
 
-| Activity | DC |
-|----------|----|
 | Build a simple wooden structure | 10 |
 | Design a complex wooden structure | 15 |
 | Find a weak point in a wooden wall | 15 |
@@ -227,8 +238,6 @@ While traveling, you can draw a map as you go in addition to engaging in other a
 
 **Cartographer's Tools**
 
-| Activity | DC |
-|----------|----|
 | Determine a map's age and origin | 10 |
 | Estimate direction and distance to a landmark | 15 |
 | Discern that a map is fake | 15 |
@@ -261,8 +270,6 @@ With 8 hours of work, you can add a hidden compartment to a pair of shoes. The c
 
 **Cobbler's Tools**
 
-| Activity | DC |
-|----------|----|
 | Determine a shoe's age and origin | 10 |
 | Find a hidden compartment in a boot heel | 15 |
 ^cobblers-tools
@@ -293,8 +300,6 @@ As part of a short rest, you can prepare a tasty meal that helps your companions
 
 **Cook's Utensils**
 
-| Activity | DC |
-|----------|----|
 | Create a typical meal | 10 |
 | Duplicate a meal | 10 |
 | Spot poison or impurities in food | 15 |
@@ -333,8 +338,6 @@ At other times, it takes 10 minutes to craft a disguise that involves moderate c
 
 **Disguise Kit**
 
-| Activity | DC |
-|----------|----|
 | Cover injuries or distinguishing marks | 10 |
 | Spot a disguise being used by someone else | 15 |
 | Copy a humanoid's appearance | 20 |
@@ -374,8 +377,6 @@ As part of a short rest, you can produce a forged document no more than one page
 
 **Forgery Kit**
 
-| Activity | DC |
-|----------|----|
 | Mimic handwriting | 15 |
 | Duplicate a wax seal | 20 |
 ^forgery-kit
@@ -402,8 +403,6 @@ Playing games with someone is a good way to gain understanding of their personal
 
 **Gaming Set**
 
-| Activity | DC |
-|----------|----|
 | Catch a player cheating | 15 |
 | Gain insight into an opponent's personality | 15 |
 ^gaming-set
@@ -430,8 +429,6 @@ With 1 minute of study, you can identify the weak points in a glass object. Any 
 
 **Glassblower's Tools**
 
-| Activity | DC |
-|----------|----|
 | Identify source of glass | 10 |
 | Determine what a glass object once held | 20 |
 ^glassblowers-tools
@@ -466,8 +463,6 @@ You can identify most plants with a quick inspection of their appearance and sme
 
 **Herbalism Kit**
 
-| Activity | DC |
-|----------|----|
 | Find plants | 15 |
 | Identify poison | 20 |
 ^herbalism-kit
@@ -494,8 +489,6 @@ You can identify gems and determine their value at a glance.
 
 **Jeweler's Tools**
 
-| Activity | DC |
-|----------|----|
 | Modify a gem's appearance | 15 |
 | Determine a gem's history | 20 |
 ^jewelers-tools
@@ -520,8 +513,6 @@ When piloting a vehicle, you can apply your proficiency bonus to the vehicle's A
 
 **Vehicles**
 
-| Activity | DC |
-|----------|----|
 | Navigate rough terrain or waters | 10 |
 | Assess a vehicle's condition | 15 |
 | Take a tight corner at high speed | 20 |
@@ -549,8 +540,6 @@ When looking at a hide or a leather item, you can determine the source of the le
 
 **Leatherworker's Tools**
 
-| Activity | DC |
-|----------|----|
 | Modify a leather item's appearance | 10 |
 | Determine a leather item's history | 20 |
 ^leatherworkers-tools
@@ -581,8 +570,6 @@ Your knowledge of masonry allows you to spot weak points in brick walls. You dea
 
 **Mason's Tools**
 
-| Activity | DC |
-|----------|----|
 | Chisel a small hole in a stone wall | 10 |
 | Find a weak point in a stone wall | 15 |
 ^masons-tools
@@ -605,8 +592,6 @@ As part of a long rest, you can compose a new tune and lyrics for your instrumen
 
 **Musical Instrument**
 
-| Activity | DC |
-|----------|----|
 | Identify a tune | 10 |
 | Improvise a tune | 20 |
 ^musical-instrument
@@ -629,8 +614,6 @@ By taking careful measurements, you can determine your position on a nautical ch
 
 **Navigator's Tools**
 
-| Activity | DC |
-|----------|----|
 | Plot a course | 10 |
 | Discover your position on a nautical chart | 15 |
 ^navigators-tools
@@ -657,8 +640,6 @@ As part of a short or long rest, you can produce a simple work of art. Although 
 
 **Painter's Supplies**
 
-| Activity | DC |
-|----------|----|
 | Paint an accurate portrait | 10 |
 | Create a painting with a hidden message | 20 |
 ^painters-supplies
@@ -693,8 +674,6 @@ Your proficiency allows you to handle and apply a poison without risk of exposin
 
 **Poisoner's Tools**
 
-| Activity | DC |
-|----------|----|
 | Spot a [[conditions#Poisoned|poisoned]] object | 10 |
 | Determine the effects of a poison | 20 |
 ^poisoners-tools
@@ -721,8 +700,6 @@ By examining pottery shards, you can determine an object's original, intact form
 
 **Potter's Tools**
 
-| Activity | DC |
-|----------|----|
 | Determine what a vessel once held | 10 |
 | Create a serviceable pot | 15 |
 | Find a weak point in a ceramic object | 20 |
@@ -750,8 +727,6 @@ With access to your tools and an open flame hot enough to make metal pliable, yo
 
 **Smith's Tools**
 
-| Activity | DC |
-|----------|----|
 | Sharpen a dull blade | 10 |
 | Repair a suit of armor | 15 |
 | Sunder a nonmagical metal object | 15 |
@@ -779,8 +754,6 @@ Just as you can disable traps, you can also set them. As part of a short rest, y
 
 **Thieves' Tools**
 
-| Activity | DC |
-|----------|----|
 | Pick a lock | Varies |
 | Disable a trap | Varies |
 ^thieves-tools
@@ -807,8 +780,6 @@ You can restore 10 hit points to a damaged object for each hour of work. For any
 
 **Tinker's Tools**
 
-| Activity | DC |
-|----------|----|
 | Temporarily repair a disabled device | 10 |
 | Repair an item in half the time | 15 |
 | Improvise a temporary item using scraps | 20 |
@@ -840,8 +811,6 @@ Assuming you have access to sufficient cloth and thread, you can create an outfi
 
 **Weaver's Tools**
 
-| Activity | DC |
-|----------|----|
 | Repurpose cloth | 10 |
 | Mend a hole in a piece of cloth | 10 |
 | Tailor an outfit | 15 |
@@ -873,8 +842,6 @@ As part of a short rest, you can craft up to five arrows. As part of a long rest
 
 **Woodcarver's Tools**
 
-| Activity | DC |
-|----------|----|
 | Craft a small wooden figurine | 10 |
 | Carve an intricate pattern in wood | 15 |
 ^woodcarvers-tools
@@ -887,19 +854,30 @@ Tool proficiencies xge is a undersea element of the setting, known for biolumine
 
 Legends speak of tool proficiencies xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tool proficiencies xge.
 
-## Adventure Hooks
-
-- A rumor ties tool proficiencies xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at tool proficiencies xge to avert a public scandal.
-- A map overlay reveals a hidden approach to tool proficiencies xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Winds
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

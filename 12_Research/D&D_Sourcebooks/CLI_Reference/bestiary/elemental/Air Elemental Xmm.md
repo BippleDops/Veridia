@@ -31,14 +31,29 @@ updated: '2025-08-13T12:34:05.746945+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-air-elemental-xmm-air-elemental-xmm.svg)
 
 # [[air-elemental-xmm|Air Elemental]]
-*Source: Monster Manual (2024) p. 13. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 13. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Air Elemental
 
@@ -81,17 +96,15 @@ Air elementals often have distinctive compositions. Roll on or choose a result f
 "stats":
   - !!int "14"
   - !!int "20"
-  - !!int "14"
   - !!int "6"
   - !!int "10"
-  - !!int "6"
 "speed": "10 ft., fly 90 ft. (hover)"
 "damage_resistances": "bludgeoning, lightning, piercing, slashing"
 "damage_immunities": "poison, thunder"
 "condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
   \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
-  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#prone|prone]], [[conditions#Restrained|restrained]],\
   \ [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Primordial (Auran)"
@@ -108,7 +121,7 @@ Air elementals often have distinctive compositions. Roll on or choose a result f
     "name": "Thunderous Slam"
   - "desc": "Strength Saving Throw: DC 13, one Medium or smaller creature in the\
       \ elemental's space. Failure: 24 (4d10 + 2) Thunder damage, and the target\
-      \ is pushed up to 20 feet straight away from the elemental and has the [[conditions#Prone|Prone]]\
+      \ is pushed up to 20 feet straight away from the elemental and has the [[conditions#prone|Prone]]\
       \ condition. Success: Half damage only."
     "name": "Whirlwind (Recharge 4-6)"
 "source":
@@ -129,19 +142,25 @@ Air elemental xmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of air elemental xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around air elemental xmm.
 
-## Adventure Hooks
-
-- A rumor ties air elemental xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at air elemental xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to air elemental xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help investigating before winter
+- Strange disappearances suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

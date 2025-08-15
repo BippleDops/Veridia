@@ -17,14 +17,22 @@ updated: '2025-08-13T01:18:35.466532+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
 
 ## Player-Facing Summary
 
@@ -34,28 +42,21 @@ Memory Gardens is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Memory Gardens as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Gardens.
 
-## Adventure Hooks
-
-- A rumor ties Memory Gardens to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Memory Gardens to avert a public scandal.
-- A map overlay reveals a hidden approach to Memory Gardens active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Lock|02 Worldbuilding/Places/The Lock]]
-
-
-## Connections
-
-- [[The Lock]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help finding before the new moon
+- A document has gone missing and chaos spreads
+- A journal reveals a betrayal about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

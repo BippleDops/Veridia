@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.675388'
 world: Both
 ---
 
-
 # Magic Item Table G
 *Source: Dungeon Master's Guide p. 144* 
 
@@ -72,7 +71,7 @@ world: Both
 | 51 | [[ioun-stone-awareness-xdmg|Ioun stone, awareness]] |
 | 52 | [[ioun-stone-protection-xdmg|Ioun stone, protection]] |
 | 53 | [[ioun-stone-reserve-xdmg|Ioun stone, reserve]] |
-| 54 | [[ioun-stone-sustenance-xdmg|Ioun stone, sustenance]] |
+| 54 | [[ioun-stone-sustece-xdmg|Ioun stone, sustece]] |
 | 55 | [[iron-bands-of-bilarro-xdmg|Iron bands of Bilarro]] |
 | 56 | [[1-armor-xdmg|+1 leather armor]] |
 | 57 | [[armor-of-resistance-xdmg|Leather armor of resistance]] |
@@ -136,6 +135,24 @@ world: Both
 | 08 | [[figurine-of-wondrous-power-serpentine-owl-xdmg|Figurine of wondrous power, serpentine owl]] |
 ^figurine-of-wondrous-power
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Magic item table g is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -144,19 +161,23 @@ Magic item table g is a undersea element of the setting, known for bioluminescen
 
 Legends speak of magic item table g as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around magic item table g.
 
-## Adventure Hooks
-
-- A rumor ties magic item table g to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at magic item table g to avert a public scandal.
-- A map overlay reveals a hidden approach to magic item table g active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

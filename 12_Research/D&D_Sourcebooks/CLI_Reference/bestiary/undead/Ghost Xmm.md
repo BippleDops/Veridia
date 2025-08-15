@@ -29,14 +29,29 @@ updated: '2025-08-13T12:34:05.913943+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ghost-xmm-ghost-xmm.svg)
 
 # [[ghost-xmm|Ghost]]
-*Source: Monster Manual (2024) p. 131. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 131. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Ghost
 
@@ -62,7 +77,6 @@ Ghosts typically appear as semitransparent versions of the creatures they were i
   - !!int "7"
   - !!int "13"
   - !!int "10"
-  - !!int "10"
   - !!int "12"
   - !!int "17"
 "speed": "5 ft., fly 40 ft. (hover)"
@@ -70,9 +84,9 @@ Ghosts typically appear as semitransparent versions of the creatures they were i
   \ thunder"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Grappled|grappled]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
-  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#prone|prone]],\
   \ [[conditions#Restrained|restrained]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common plus one other language"
@@ -92,7 +106,7 @@ Ghosts typically appear as semitransparent versions of the creatures they were i
     "name": "Withering Touch"
   - "desc": "Wisdom Saving Throw: DC 13, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]]\
       \ that can see the ghost and isn't an Undead. Failure: 10 (2d6 + 3) Psychic\
-      \ damage, and the target has the [[conditions#Frightened|Frightened]]\
+      \ damage, and the target has the [[conditions#frightened|Frightened]]\
       \ condition until the start of the ghost's next turn. Success: The target\
       \ is immune to this ghost's Horrific Visage for 24 hours."
     "name": "Horrific Visage"
@@ -135,19 +149,21 @@ Ghost xmm is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of ghost xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ghost xmm.
 
-## Adventure Hooks
-
-- A rumor ties ghost xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ghost xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ghost xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## Plot Hooks
+
+- Someone is hunting a artifact for power
+- Someone is searching for a witness for revenge

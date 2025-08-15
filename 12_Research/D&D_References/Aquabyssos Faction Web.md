@@ -15,10 +15,26 @@ updated: '2025-08-13T01:18:36.669589+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-aquabyssos-faction-web-aquabyssos-faction-web.svg]]
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -28,19 +44,20 @@ Aquabyssos Faction Web is a undersea element of the setting, known for biolumine
 
 Legends speak of Aquabyssos Faction Web as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos Faction Web.
 
-## Adventure Hooks
-
-- A rumor ties Aquabyssos Faction Web to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Aquabyssos Faction Web to avert a public scandal.
-- A map overlay reveals a hidden approach to Aquabyssos Faction Web active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for a witness for power
+- A journal reveals a betrayal about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

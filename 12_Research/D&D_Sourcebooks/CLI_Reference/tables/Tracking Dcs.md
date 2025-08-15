@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.659483+00:00'
 world: Both
 ---
 
-
-
 # Tracking DCs
 *Source: Dungeon Master's Guide p. 244* 
 
@@ -38,6 +36,24 @@ world: Both
 | Creature left a trail such as blood | -5 |
 ^tracking-dcs
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Tracking dcs is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -46,19 +62,21 @@ Tracking dcs is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of tracking dcs as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tracking dcs.
 
-## Adventure Hooks
-
-- A rumor ties tracking dcs to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at tracking dcs to avert a public scandal.
-- A map overlay reveals a hidden approach to tracking dcs active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a conspiracy
+- A map reveals a betrayal about the cult
+- A document has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

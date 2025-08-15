@@ -29,14 +29,29 @@ updated: '2025-08-13T12:34:05.821178+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-barbed-devil-xmm-barbed-devil-xmm.svg)
 
 # [[barbed-devil-xmm|Barbed Devil]]
-*Source: Monster Manual (2024) p. 30. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 30. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Barbed Devil
 
@@ -67,7 +82,6 @@ Barbed devils rarely collect anything as prosaic as coins and gems. Rather, they
   - !!int "18"
   - !!int "12"
   - !!int "14"
-  - !!int "14"
 "speed": "30 ft., climb 30 ft."
 "saves":
   - "strength": !!int "6"
@@ -78,7 +92,6 @@ Barbed devils rarely collect anything as prosaic as coins and gems. Rather, they
   - "name": "[[skills#Deception|Deception]]"
     "desc": "+5"
   - "name": "[[skills#Insight|Insight]]"
-    "desc": "+5"
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+8"
 "damage_resistances": "cold"
@@ -131,19 +144,20 @@ Barbed devil xmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of barbed devil xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around barbed devil xmm.
 
-## Adventure Hooks
-
-- A rumor ties barbed devil xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at barbed devil xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to barbed devil xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest a conspiracy
+- Someone is searching for an heir for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

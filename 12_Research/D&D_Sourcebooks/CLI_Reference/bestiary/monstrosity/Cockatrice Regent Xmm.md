@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.288913+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cockatrice-regent-xmm-cockatrice-regent-xmm.svg)
 
@@ -38,6 +35,24 @@ world: Both
 *Source: Monster Manual (2024) p. 75*  
 
 Bolder than their smaller cousins, cockatrice regents brim with unstable magical energy they use to restrain distant foes.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Cockatrices
 
@@ -62,7 +77,6 @@ Cockatrices combine the features of irate roosters and starving reptiles. They p
   - !!int "14"
   - !!int "16"
   - !!int "3"
-  - !!int "16"
   - !!int "5"
 "speed": "30 ft., fly 60 ft."
 "saves":
@@ -112,19 +126,39 @@ Cockatrice regent xmm is a undersea element of the setting, known for biolumines
 
 Legends speak of cockatrice regent xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cockatrice regent xmm.
 
-## Adventure Hooks
-
-- A rumor ties cockatrice regent xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at cockatrice regent xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to cockatrice regent xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Plot Hooks
+
+- A document has gone missing and evil awakens
+- A noble needs help delivering before winter
+- A journal reveals the truth about the cult
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

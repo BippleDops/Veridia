@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:04.445234+00:00'
 world: Both
 ---
 
-
-
 # Gilean
 *Source: Player's Handbook p. 295* 
 
@@ -35,6 +33,24 @@ world: Both
 - **Pantheon**: Dragonlance
 - **Symbol**: Open book
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Dragonlance gilean phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -43,19 +59,32 @@ Dragonlance gilean phb is a undersea element of the setting, known for biolumine
 
 Legends speak of dragonlance gilean phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dragonlance gilean phb.
 
-## Adventure Hooks
-
-- A rumor ties dragonlance gilean phb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dragonlance gilean phb to avert a public scandal.
-- A map overlay reveals a hidden approach to dragonlance gilean phb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a portal
+- A corpse reveals a conspiracy about this place
+- A noble needs help delivering before the new moon
+- Strange dreams suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

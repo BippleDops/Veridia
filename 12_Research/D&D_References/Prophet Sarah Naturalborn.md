@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.950241+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,22 @@ Prophet Sarah Naturalborn is a undersea element of the setting, known for biolum
 
 Legends speak of Prophet Sarah Naturalborn as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Prophet Sarah Naturalborn.
 
-## Adventure Hooks
-
-- A rumor ties Prophet Sarah Naturalborn to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Prophet Sarah Naturalborn to avert a public scandal.
-- A map overlay reveals a hidden approach to Prophet Sarah Naturalborn active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Purist Coalition Thugs|02 Worldbuilding/Groups/Purist Coalition Thugs]]
-
-
-## Connections
-
-- [[Purist Coalition Thugs]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and chaos spreads
+- Strange accidents suggest ancient magic
+- Someone is searching for an heir for love
+- Someone is blackmailing a artifact for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

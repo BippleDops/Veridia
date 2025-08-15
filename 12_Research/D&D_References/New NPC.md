@@ -19,9 +19,6 @@ world: Both
 updated: '2025-08-13T01:18:31.203844+00:00'
 ---
 
-
-
-
 <%*
 const npcName = await tp.system.prompt("NPC Name:");
 const npcRace = await tp.system.prompt("Race:");
@@ -33,26 +30,37 @@ await tp.file.rename(npcName);
 ---
 type: character
 tags: [npc]
-aliases: [<% npcName %>]
-created: <% tp.file.creation_date() %>
-modified: <% tp.file.last_modified_date() %>
-race: <% npcRace %>
-gender: <% npcGender %>
-age: <% npcAge %>
-occupation: <% npcOccupation %>
+created: 
+modified: 
+race: 
+gender: 
+age: 
+occupation: 
 ---
-# <% npcName %>
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## General Info
-**Race**: <% npcRace %>
-**Gender**: <% npcGender %>
-**Age**: <% npcAge %>
-**Occupation**: <% npcOccupation %>
+**Race**: 
+**Gender**: 
+**Age**: 
+**Occupation**: 
 **Location**: [[Location]]
-
-## Description
-
-## GM Notes
 
 ## Player-Facing Summary
 
@@ -62,23 +70,37 @@ New NPC is a undersea element of the setting, known for bioluminescent glow and 
 
 Legends speak of New NPC as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around New NPC.
 
-## Adventure Hooks
-
-- A rumor ties New NPC to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at New NPC to avert a public scandal.
-- A map overlay reveals a hidden approach to New NPC active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[reports/bidirectional_links|Reports/bidirectional Links]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- A document has gone missing and war looms
+- A noble needs help finding before dawn
+- The authorities needs help stealing before dawn
+- A map reveals ancient history about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

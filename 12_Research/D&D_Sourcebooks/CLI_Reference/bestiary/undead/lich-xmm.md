@@ -27,13 +27,29 @@ updated: '2025-08-12T23:37:35.671058'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-demilich-xmm-demilich-xmm.svg)
 
 # [[lich-xmm|Lich]]
-*Source: Monster Manual (2024) p. 196. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 196. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lich
 
@@ -80,7 +96,6 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
 > 
 > Ambition can become an addiction of the mind and spirit. It builds beyond a driving flame into an insidious inferno that burns a mage hollow until only the desire for more magical power remains
 
-
 ```statblock
 "name": "Lich (XMM)"
 "size": "Medium"
@@ -94,10 +109,8 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
 "stats":
   - !!int "11"
   - !!int "16"
-  - !!int "16"
   - !!int "21"
   - !!int "14"
-  - !!int "16"
 "speed": "30 ft."
 "saves":
   - "dexterity": !!int "10"
@@ -112,11 +125,10 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
   - "name": "[[skills#Insight|Insight]]"
     "desc": "+9"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+9"
 "damage_resistances": "cold, lightning"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 19"
 "languages": "all"
@@ -141,7 +153,7 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
     "name": "Paralyzing Touch"
   - "desc": "The lich casts one of the following spells, using Intelligence as the\
       \ spellcasting ability (spell save DC 20):\n\nAt will: [[detect-magic-xphb|Detect Magic]],\
-      \ [[detect-thoughts-xphb|Detect Thoughts]], [[dispel-magic-xphb|Dispel\
+      \ [[detect-thoughts-xphb|Detect Thoughts]], [[dispel-magic-xphb|Dispel\]]
       \ Magic]], [[fireball-xphb|Fireball]]\
       \ (level 5 version), [[invisibility-xphb|Invisibility]],\
       \ [[lightning-bolt-xphb|Lightning Bolt]] (level 5\
@@ -149,7 +161,7 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
       \n2/day each: [[animate-dead-xphb|Animate Dead]],\
       \ [[dimension-door-xphb|Dimension Door]], [[plane-shift-xphb|Plane Shift]]\n\
       \n1/day each: [[chain-lightning-xphb|Chain Lightning]],\
-      \ [[finger-of-death-xphb|Finger of Death]], [[power-word-kill-xphb|Power\
+      \ [[finger-of-death-xphb|Finger of Death]], [[power-word-kill-xphb|Power\]]
       \ Word Kill]], [[scrying-xphb|Scrying]]"
     "name": "Spellcasting"
 "reactions":
@@ -183,11 +195,9 @@ Liches create secluded libraries of magical lore and arcane laboratories hidden 
       \ Humanoid whose soul is consumed in this way can be brought back to life only\
       \ by a True Resurrection or [[wish-xphb|Wish]] spell.\
       \  "
-    "name": ""
   - "desc": "If the lich is destroyed or moves its lair elsewhere, these effects end\
       \ immediately. These effects resume if the lich gains a new body (see its Spirit\
       \ Jar trait)."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/undead/token/lich-xmm.webp"
@@ -206,19 +216,22 @@ Lich xmm is a undersea element of the setting, known for bioluminescent glow and
 
 Legends speak of lich xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around lich xmm.
 
-## Adventure Hooks
-
-- A rumor ties lich xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at lich xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to lich xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a conspiracy
+- Someone is protecting information for money
+- A corpse reveals ancient history about a local noble

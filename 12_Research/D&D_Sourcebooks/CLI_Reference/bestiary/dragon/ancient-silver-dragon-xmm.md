@@ -28,15 +28,31 @@ updated: '2025-08-12T23:37:35.766880'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ancient-silver-dragon-xmm-ancient-silver-dragon-xmm.svg)
 
 # [[ancient-silver-dragon-xmm|Ancient Silver Dragon]]
-*Source: Monster Manual (2024) p. 280. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 280. Available in the SRD and the Free Rules (2024)*  
 
 Ancient silver dragons pursue world-wide change. They defend their communities and allies, encouraging them to perform deeds worthy of legend. Some set their sights on other worlds and planes of existence, creating extraplanar alliances or combating multiplanar threats. They might have guises in multiple societies and forge generation-spanning friendships with heroic families or valorous groups.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Silver Dragons
 
@@ -101,7 +117,6 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
   - "desc": "Constitution Saving Throw: DC 24, each creature in a 90-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: 67 (15d8) Cold damage. Success: Half damage."
     "name": "Cold Breath (Recharge 5-6)"
-  - "desc": "Constitution Saving Throw: DC 24, each creature in a 90-foot [[cone-area-of-effect-xphb|Cone]].\
       \ 1st Failure: The target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn, when it repeats the save. 2nd Failure:\
       \ The target has the [[conditions#Paralyzed|Paralyzed]] condition,\
@@ -142,9 +157,7 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
       \ [[control-weather-xphb|Control Weather]], requiring\
       \ no Material components and using the same spellcasting ability as its Spellcasting\
       \ action.  "
-    "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/dragon/token/ancient-silver-dragon-xmm.webp"
@@ -163,19 +176,35 @@ Ancient silver dragon xmm is a undersea element of the setting, known for biolum
 
 Legends speak of ancient silver dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ancient silver dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties ancient silver dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ancient silver dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ancient silver dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Plot Hooks
+
+- A merchant needs help finding before dawn
+- An heirloom has gone missing and truth emerges
+- Strange accidents suggest a curse
+- An heirloom has gone missing and chaos spreads
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

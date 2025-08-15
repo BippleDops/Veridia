@@ -1,4 +1,5 @@
 ---
+
 title: Captain Torren Stormwright
 type: Npc
 tags:
@@ -18,6 +19,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.501829+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +29,69 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-torren-stormwright-captain-torren-stormwright.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward confrontation
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward avoidance
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
 
 ## Player-Facing Summary
 
@@ -67,14 +100,6 @@ Captain Torren Stormwright is a undersea element of the setting, known for biolu
 ## Lore Details
 
 Legends speak of Captain Torren Stormwright as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Torren Stormwright.
-
-## Adventure Hooks
-
-- A rumor ties Captain Torren Stormwright to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Captain Torren Stormwright to avert a public scandal.
-- A map overlay reveals a hidden approach to Captain Torren Stormwright active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +110,6 @@ Captain Torren Stormwright's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Accumulating wealth
@@ -124,8 +119,6 @@ Captain Torren Stormwright's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Captain Torren Stormwright harbors secrets that could change everything:
@@ -133,10 +126,6 @@ Captain Torren Stormwright harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Stolen identity
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +144,6 @@ Captain Torren Stormwright is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Captain Torren Stormwright needs assistance with a delicate matter
@@ -164,8 +151,6 @@ Captain Torren Stormwright is currently engaged in:
 3. **The Secret**: Information about Captain Torren Stormwright's past surfaces
 4. **The Alliance**: Opportunity to work with or against Captain Torren Stormwright
 5. **The Crisis**: Captain Torren Stormwright is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,32 +164,21 @@ Captain Torren Stormwright is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Captain Torren Stormwright]]
+## Economic Structure
 
-<!-- enriched: true -->
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
 
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
 
-
-
-## Relationship Web
-
-- [[04_Resources_Assets_Locations_location-city-palace-guard-captain-neutralis-palace-guard-captain-neutralis.png]]: *competitor*
-- [[Find the Shadow Cure]]: *debt holder*
-- [[04_Resources_Assets_Symbols_symbol-heraldry-temporal-engineering-guil-temporal-engineering-guil.svg]]: *sworn enemy*
-
-## Connections
-
-### Home
-- [[04_Resources_Assets_Locations_location-city-community-organizations-community-organizations.svg]]
-
-### Frequently Visits
-- [[04_Resources_Assets_Locations_location-city-the-temporal-convergence-storms-v1-the-temporal-convergence-storms.svg]]
-- [[Abyss Currentbinder]]
-- [[04_Resources_Assets_Locations_location-city-political-leader-reef-crown-political-leader-reef-crown.png]]
-
-### Known Associates
-- [[04_Resources_Assets_Portraits_portrait-npc-watch-captain-roderick-shieldbreaker-v1-watch-captain-roderick-shieldbreaker.svg]] (enemy)
-- [[04_Resources_Assets_Symbols_symbol-heraldry-living-amplifiers-living-amplifiers.svg]] (colleague)
-- [[Memory Merchant Valeria Siltweave]] (colleague)
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

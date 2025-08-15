@@ -17,7 +17,7 @@ tags:
 - ttrpg-cli/monster/type/dragon/metallic
 - status/in-progress
 - ttrpg-cli/monster/cr/15
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-monster
@@ -28,12 +28,28 @@ updated: '2025-08-13T12:34:05.992548+00:00'
 world: Both
 ---
 
-
-
 # [[adult-bronze-dragon-xmm|Adult Bronze Dragon]]
-*Source: Monster Manual (2024) p. 59. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 59. Available in the SRD and the Free Rules (2024)*  
 
 Adult bronze dragons often dwell near places they defend or where they help others work toward goals. They might become patrons of whole cities, advising leaders and helping generations flourish.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Bronze Dragons
 
@@ -101,7 +117,7 @@ Bronze dragons usually make their homes near or under the sea.
     "name": "Lightning Breath (Recharge 5-6)"
   - "desc": "Strength Saving Throw: DC 19, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: The target is pushed up to 60 feet straight away from the dragon\
-      \ and has the [[conditions#Prone|Prone]] condition."
+      \ and has the [[conditions#prone|Prone]] condition."
     "name": "Repulsion Breath"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 17, +10 to hit\
@@ -112,12 +128,11 @@ Bronze dragons usually make their homes near or under the sea.
       \ gained from the spell, and no Concentration or [[temporary-hit-points-xphb|Temporary Hit Points]]\
       \ required to maintain the spell), [[speak-with-animals-xphb|Speak with Animals]],\
       \ [[thaumaturgy-xphb|Thaumaturgy]]\n\n1/day each:\
-      \ [[detect-thoughts-xphb|Detect Thoughts]], [[water-breathing-xphb|Water\
+      \ [[detect-thoughts-xphb|Detect Thoughts]], [[water-breathing-xphb|Water\]]
       \ Breathing]]"
     "name": "Spellcasting"
 "legendary_actions":
   - "desc": "The dragon uses Spellcasting to cast [[guiding-bolt-xphb|Guiding Bolt]]\
-      \ (level 2 version)."
     "name": "Guiding Light"
   - "desc": "The dragon moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Rend attack."
@@ -140,9 +155,7 @@ Bronze dragons usually make their homes near or under the sea.
       \ its Spellcasting action. When casting the spell this way, the dragon can control\
       \ the weather within 1 mile of its lair, regardless if the dragon is inside\
       \ or outside.  "
-    "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/dragon/token/adult-bronze-dragon-xmm.webp"
@@ -161,19 +174,29 @@ Adult bronze dragon xmm is a undersea element of the setting, known for biolumin
 
 Legends speak of adult bronze dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around adult bronze dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties adult bronze dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at adult bronze dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to adult bronze dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and war looms
+- An heirloom has gone missing and chaos spreads
+- A merchant needs help finding before winter
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

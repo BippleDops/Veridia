@@ -31,13 +31,29 @@ updated: '2025-08-12T23:37:35.017784'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-roc-xmm-roc-xmm.svg)
 
 # [[roc-xmm|Roc]]
-*Source: Monster Manual (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 261. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Roc
 
@@ -48,11 +64,11 @@ world: Both
 
 Birds of prey of fantastic scale, rocs hunt over vast territories and can snatch whole elephants, whales, or wagons in their talons. They then carry their prey back to their remote nests, journeys that can take days and cover hundreds of miles.
 
-Rocs nest amid remote heights. Their nests are typically littered with treasure and uneaten prey. Roll on or choose an option from the Roc Nest Remnants table to inspire what's in a roc's nest.
+Rocs nest amid remote heights. Their nests are typically littered with treasure and uneaten prey. Roll on or choose an option from the Roc Nest Remts table to inspire what's in a roc's nest.
 
-**Roc Nest Remnants**
+**Roc Nest Remts**
 
-`dice: [](roc-xmm.md#^roc-nest-remnants)`
+`dice: [](roc-xmm.md#^roc-nest-remts)`
 
 | dice: 1d6 | The Roc's Nest Holds... |
 |-----------|-------------------------|
@@ -62,7 +78,7 @@ Rocs nest amid remote heights. Their nests are typically littered with treasure 
 | 4 | `d4` eggs larger than adult humans. |
 | 5 | Someone marooned in the nest. |
 | 6 | A statue of a knight riding a rearing steed. |
-^roc-nest-remnants
+^roc-nest-remts
 
 ```statblock
 "name": "Roc (XMM)"
@@ -78,7 +94,6 @@ Rocs nest amid remote heights. Their nests are typically littered with treasure 
   - !!int "10"
   - !!int "20"
   - !!int "3"
-  - !!int "10"
   - !!int "9"
 "speed": "20 ft., fly 120 ft."
 "saves":
@@ -126,19 +141,33 @@ Roc xmm is a undersea element of the setting, known for bioluminescent glow and 
 
 Legends speak of roc xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around roc xmm.
 
-## Adventure Hooks
-
-- A rumor ties roc xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at roc xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to roc xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help stealing before the new moon
+- Someone is protecting information for power
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

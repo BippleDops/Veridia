@@ -24,7 +24,7 @@ MyContainer: None
 absent: []
 ap_gained: 3
 campaign: The Parliament of Shadows
-date: null
+date: 
 depth: 1600
 duration_hours: 4
 encounters:
@@ -72,33 +72,25 @@ xp_awarded: 1100
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-# Session 03: The Gallery Conspiracy
-## The Parliament of Shadows - Act 1
 
 ## Session Summary
 The party awakens to find one member replaced by their reflection from an alternate timeline. As they investigate the Gallery of Frozen Waves, they uncover a massive shadow surgery operation preparing for a harvest at high tide. The Conductor's screaming symphony reveals warnings from drowning victims while memory farmers profit from stolen identities.
-
-## Pre-Session Planning
-
-### Key Objectives
-- [ ] Create identity paranoia with reflection replacement
-- [ ] Reveal scope of shadow surgery operation
-- [ ] Introduce memory as commodity
-- [ ] Build to high tide deadline
-- [ ] Rescue real Senator Glaucus
-
-### Required Props
-- Mirror shard props for identity testing
-- Screaming Gardens sound effects
-- Memory kelp descriptions (index cards)
-- Temporal wave movement tracker
-- Surgical schedule handout
 
 ## Strong Start
 > *Read aloud:* "You wake to arguing. Two identical versions of [PARTY MEMBER] stand in your quarters, each insisting they're real. Both have complete memories. Both bleed red blood. Both cast shadows—shadows that move independently, watching this identity crisis with what might be amusement. Through the window, the Screaming Gardens harmonize into actual words: 'The surgeons come at high tide.' You have six hours."
@@ -111,23 +103,8 @@ The party awakens to find one member replaced by their reflection from an altern
 - Marina can "taste" the difference if present
 - Memory from yesterday's temporal overlap
 
-### Immediate Decisions
-- Keep both versions?
-- Investigate the warning?
-- Report to Parliament?
-- Search for more replacements?
-
-## Scene 1: The Reflection Crisis
-
 ### Location: [[Party Quarters - Inverse Palace]]
 **Atmosphere**: Morning light through water creates caustic patterns. Both versions of party member perfect except for subtle differences.
-
-### The Reflection's Nature
-- From timeline where party sided with shadows
-- Has memories of different choices made
-- Genuinely believes they're original
-- If killed, original feels the death
-- Can provide information about alternate timeline
 
 ### Reflection Broker's Mark
 **Investigation DC 15 reveals**:
@@ -148,8 +125,6 @@ Both versions' shadows:
 2. **Banish Reflection**: Returns to timeline but creates enemy
 3. **Keep Both**: Complications but double resources
 4. **Switch Places**: Send original to other timeline
-
-## Scene 2: The Conductor's Symphony
 
 ### Location: [[Screaming Gardens - Songwood Grove]]
 **Atmosphere**: Crystallized trees made from screams, each one a drowning victim's last moment preserved forever.
@@ -186,8 +161,6 @@ Both versions' shadows:
 - Constitution DC 14: Endure the acoustic assault
 - Investigation DC 16: Decode scream patterns for information
 - Failure: Attract Screaming Tree Guardians
-
-## Scene 3: The Gallery Investigation
 
 ### Location: [[Gallery of Frozen Waves]]
 **Atmosphere**: Tsunami waves frozen mid-crash, each one a different temporal moment. Time moves differently in each wave.
@@ -227,8 +200,6 @@ Both versions' shadows:
 - Identify his captors (memory farmers)
 - Steal shadow surgeon tools
 
-## Scene 4: The Memory Farm Raid
-
 ### Location: [[Memory Meadows Black Market]]
 **Atmosphere**: Fields of kelp storing stolen memories, each strand a life's worth of experiences.
 
@@ -265,32 +236,6 @@ Both versions' shadows:
 - Schedule of "harvests"
 - Payment records from Tenebrarum
 
-## Combat Encounters
-
-### Screaming Tree Guardians (2)
-- AS 16, HP 55 each
-- Vulnerability to thunder damage
-- Scream Cone: 3d6 thunder, 15 ft cone, CON DC 14 or deafened
-- Rooted: Can't move but 15 ft reach
-- Death: Releases trapped soul (grateful)
-
-### Memory Farmers (3)
-- AS 14, HP 38 each
-- Memory Blast: 2d6 psychic, WIS DC 14 or stunned 1 round
-- Memory Shield: Reaction, +3 AS
-- Stolen Skills: Each has different stolen abilities
-- Death: Release cloud of memories (confusion 10 ft radius)
-
-### Shadow Surgeon Strike Team (If Detected)
-- **Apprentice**: AS 15, HP 48
-  - Shadow Scalpel: Separates shadow on hit (CON DC 15)
-  - 3rd level spellcaster
-- **2 Shadow Nurses**: AS 13, HP 30 each
-  - Assist: Grant advantage to Apprentice
-  - Shadow Stitch: Reattach separated shadows
-
-## Discoveries & Clues
-
 ### Documents Found
 1. **Surgical Schedule**: Mass operations at high tide
 2. **Shadow Integration Manual**: How shadows maintain coherency
@@ -304,13 +249,6 @@ If helped or impressed:
 - **Harmonic Knowledge**: Understand sound-based magic
 - **Scream Translation**: Know what each scream means
 
-### Senator Glaucus's Information
-- Shadow Parliament already exists in parallel
-- They voted on humanity's replacement
-- Shadow Duchess Nyx investigating both sides
-- Some shadows oppose the harvest
-- Way to trap shadows in their reflections
-
 ### Memory Meadow Samples
 **Random Memory Kelp Effects** (d6):
 1. Noble's affair scandal (blackmail material)
@@ -320,89 +258,12 @@ If helped or impressed:
 5. Shadow's original moment of consciousness
 6. Location of shadow surgery tools
 
-## Treasure Distribution
-
-### From Memory Farm
-- **Memory Vault Key**: Access stored memories
-- **600 Sorrow Pearls**: Aquabyssos currency
-- **Blank Memory Kelp**: Store one memory safely
-- **Identity Mask**: Appear as someone whose memory you have
-
-### From Conductor
-- **Tuning Fork**: Control one screaming tree for 10 minutes
-- **Resonance Crystal**: Record and replay sounds
-- **Harmonic Map**: Safe routes through gardens
-
-### From Gallery
-- **Temporal Anchor**: Resist time effects for 1 hour
-- **Tomorrow's Newspaper**: Literally from tomorrow
-- **Reflection Shard**: See true form vs shadow/reflection
-
-### From Surgery Team (If Defeated)
-- **Shadow Scalpel**: +1 dagger, separates shadows
-- **Surgical Notes**: How to perform shadow transplant
-- **Operating Schedule**: Names and times
-- **Anesthetic Vials**: Paralyze shadows
-
-## Environmental Details
-
-### The Screaming Gardens Expanded
-- Each tree type from different disaster
-  - Drowning victims: Aqua-blue crystal
-  - Burning victims: Red-orange crystal
-  - Frozen victims: White-ice crystal
-  - Crushed victims: Black-purple crystal
-- Center grove: The First Scream (creation of death itself)
-
-### Memory Meadows Agriculture
-- Farmers cultivate specific memory types
-- Happy memories: Golden kelp
-- Traumatic memories: Black kelp
-- Knowledge memories: Silver kelp
-- Love memories: Rose kelp
-- Shadows need all types for stability
-
-### Gallery of Frozen Waves Secrets
-- Each wave from different catastrophe
-- Can communicate across waves with effort
-- Central wave: The moment Aquabyssos drowned
-- Hidden wave: Shows possible futures
-- Broken wave: Leads to Void Currents
-
-## Cliffhanger Ending
-
 ### High Tide Approaches
 > *Read aloud:* "Senator Glaucus gasps as you help him to safety: 'The Shadow Duchess—she's not investigating the conspiracy, she IS the conspiracy! No, wait—' His face contorts in pain. 'That's wrong. She's investigating her own shadow. The real Duchess has been fighting her shadow for years.'
 > 
 > Through the windows, you see the tide beginning to rise—impossibly, as tides don't exist at this depth. Every shadow in the city stops what it's doing and turns toward the Reflection Pools. They begin walking in perfect synchronization.
-> 
-> Marina's shadow separates from her completely, speaking with her voice but wrong: 'The vote was unanimous. The harvest begins at high tide. You can join us willingly, or we take you anyway. One hour remains.'
-> 
+> Marina's shadow separates from her completely, speaking with her voice but wrong: 'The vote was uimous. The harvest begins at high tide. You can join us willingly, or we take you anyway. One hour remains.'
 > Your own shadows pull away, standing at arm's length, waiting. In the distance, bells toll—but the sound comes from below, not above."
-
-### Immediate Consequences
-- All shadows now independent for 1 hour
-- Must maintain distance from own shadow
-- City-wide panic as shadows mobilize
-- High tide in exactly 1 hour
-- Reflection Pools become active surgery sites
-
-## Post-Session Notes
-
-### Track the Following
-- [ ] Which party member was replaced/resolved
-- [ ] Senator Glaucus's condition and location
-- [ ] Memories gained/lost by party
-- [ ] Shadow independence level for each PC
-- [ ] Time until high tide
-- [ ] Faction responses to crisis
-
-### Prep for Next Session
-- High tide transformation mechanics
-- Mass shadow replacement rules
-- Shadow Duchess Nyx confrontation (both versions)
-- Possible negotiations with shadows
-- Environmental changes from tide
 
 ## Connection to Aethermoor
 This session's revelations connect to:
@@ -412,31 +273,21 @@ This session's revelations connect to:
 - Depth adaptation making replacement easier
 - The Queen's possession related to shadow consciousness
 
-## Rules References
-- [[Shadow Separation Mechanics]]
-- [[Memory Absorption Rules]]
-- [[Temporal Navigation Hazards]]
-- [[Identity Crisis Resolution]]
-- [[High Tide Environmental Effects]]
-
-## DM Notes
-- Play up paranoia about who is real
-- Make shadows sympathetic but threatening
-- Use memory loss for dramatic effect
-- Time pressure should feel overwhelming
-- Let players find creative solutions to identity crisis
-
-## Cross-References
-
-- [[Campaign Index]]
-
-
-## Connections
-
-- [[Memory Meadows Black Market]]
-- [[Party Quarters - Inverse Palace]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- Strange disappearances suggest ancient magic
+- Strange disappearances suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

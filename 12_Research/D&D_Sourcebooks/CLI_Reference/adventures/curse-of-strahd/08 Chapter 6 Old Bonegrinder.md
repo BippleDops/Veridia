@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.954400+00:00'
 world: Both
 ---
 
-
-
 # Chapter 6: Old Bonegrinder
 *Source: Curse of Strahd, p. 125* 
 
@@ -36,6 +34,24 @@ Made with the bones of the innocent, the hags' dream pastries allow Barovians to
 > [!quote] A quote from [[strahd-von-zarovich-cos|Strahd von Zarovich]]  
 > 
 > Dreams are for the living.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Morgantha's Coven
 
@@ -54,14 +70,11 @@ While in the trance, the creature dreams of being in some joyous place, far remo
 The windmill's stone walls are easily climbed. Wooden floors separate the various levels. There are no lights within, since the hags have [[senses#Darkvision|darkvision]].
 
 > [!readaloud] 
-> 
 > The Old Svalich Road transitions here from being a winding path through the Balinok Mountains to a lazy trail that hugs the mountainside as it descends into a fog-filled valley. In the heart of the valley you see a walled town near the shores of a great mountain lake, its waters dark and still. A branch in the road leads west to a promontory, atop which is perched a dilapidated stone windmill, its warped wooden vanes stripped bare.
 ^415
 
 Closer investigation of the windmill yields a few more details:
 
-> [!readaloud] 
-> 
 > The onion-domed edifice leans forward and to one side, as though trying to turn away from the stormy gray sky. You see gray brick walls and dirt-covered windows on the upper floors. A decrepit wooden platform encircles the windmill above a flimsy doorway leading to the building's interior. Perched on a wooden beam above the door is a raven. It hops about and squawks at you, seemingly agitated.
 ^416
 
@@ -77,19 +90,13 @@ The following areas correspond to labels on the map of Old Bonegrinder below.
 
 ### O1. Ground Floor
 
-> [!readaloud] 
-> 
 > The ground floor has been converted into a makeshift kitchen, but the room is filthy. Baskets and old dishware are piled everywhere. Adding to the clutter is a peddler's cart, a chicken coop, a heavy wooden trunk, and a pretty wooden cabinet with flowers painted on its doors. In addition to the clucking of the chickens, you hear toads croaking.
-> 
 > The sweet smell of pastries blends horridly with a stench that burns your nostrils. The awful odor comes out of an open, upright barrel in the center of the room.
-> 
 > Warmth issues from a brick oven against one wall, and a crumbling staircase ascends the wall across from it. Shrieks and cackles from somewhere higher up cause the old mill to shudder.
 ^419
 
 The ceiling here is 8 feet high. If the characters explore the room, read:
 
-> [!readaloud] 
-> 
 > Small human bones litter the flagstone floor.
 ^41a
 
@@ -111,10 +118,7 @@ The wooden trunk has tiny holes bored into its lid and contains a hundred croaki
 
 Unless she has been lured elsewhere, [[/03_Mechanics/CLI/bestiary/npc/morgantha-cos|Morgantha]] is encountered here. This is where she grinds children's bones to make the powder for her dream pastries.
 
-> [!readaloud] 
-> 
 > A haggard, heavyset old woman with a face as wrinkled as a boiled apple sweeps the floor, pushing around a few old bones and stirring up a cloud of white dust with her broom. She wears a bloodstained, flour-caked apron. A long, sharp bodkin impales her bundled-up mound of gray hair.
-> 
 > The dirt-caked windows allow very little light to enter this eight-foot-high chamber, most of which is taken up by a large millstone connected to a wooden gear shaft that rises through the ceiling in the center of the room. A stone staircase continues up, toward the sound of loud cackling.
 ^41c
 
@@ -126,10 +130,7 @@ The hags operate the millstone manually, since the arms of the windmill no longe
 
 The [[night-hag-xmm|night hags]] Bella Sunbane and Offalia Wormwiggle are here, unless they have been drawn elsewhere.
 
-> [!readaloud] 
-> 
 > Dancing around a thick wooden gear shaft in the center of this cramped, circular room are two ugly young women wearing silk shawls and gowns of stitched flesh. Long needles stick out of their tangled mops of black hair. The women cackle with glee.
-> 
 > In a rotting wooden closet are three crates, stacked one atop another, with small doors set into them. Next to the closet is a heap of discarded clothing. A ladder climbs to a wooden trapdoor in the nine-foot-high ceiling. A moldy bed with a tattered canopy stands nearby.
 ^41e
 
@@ -147,8 +148,6 @@ The hags don't use the bed for sleeping, but they store their treasure in it. Si
 
 ### O4. Domed Attic
 
-> [!readaloud] 
-> 
 > You've reached the windmill's peak—a domed chamber filled with old machinery. There's not much room to move around. Light slips into this attic through small holes in the walls.
 ^421
 
@@ -174,19 +173,31 @@ Several ravens circle overhead, and one pecks at something on top of the stone t
 
 Legends speak of 08 chapter 6 old bonegrinder as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 08 chapter 6 old bonegrinder.
 
-## Adventure Hooks
-
-- A rumor ties 08 chapter 6 old bonegrinder to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 08 chapter 6 old bonegrinder to avert a public scandal.
-- A map overlay reveals a hidden approach to 08 chapter 6 old bonegrinder active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A journal reveals ancient history about a local noble
+- A corpse reveals a conspiracy about a local noble
+- Someone is searching for information for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

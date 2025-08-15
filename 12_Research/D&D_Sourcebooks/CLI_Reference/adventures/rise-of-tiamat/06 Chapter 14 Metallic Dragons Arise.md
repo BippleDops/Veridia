@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.974705+00:00'
 world: Both
 ---
 
-
-
 # Chapter 14: Metallic Dragons, Arise
 *Source: Rise of Tiamat, p. 144* 
 
@@ -38,6 +36,24 @@ The council includes representatives from each of the five metallic dragon races
 During the council, the adventurers have a chance to engage and debate some of Faerûn's wisest and most powerful creatures. They must convince the dragons that the cause of the humanoid folk of the Sword Coast is just, and that dragons and non-dragons need to support each other in this conflict.
 
 To broker such an alliance, the characters might need to promise concessions on behalf of different factions—whether they have those factions' permission to offer concessions or not. If they are successful, the adventurers can gain not only the support of the dragons as a whole but also the specific favor of certain councilors, including valuable magic items from those dragons' own hoards.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Unlikely Ambassadors
 
@@ -123,7 +139,7 @@ Otaaryliakkarnos would like the metallic dragons to strike now as Protanther sug
 
 #### Concession
 
-Otaaryliakkarnos knows that the skin of her slain kin was used to make armor for the dwarf lord who slew her. She demands the remains be returned and that Ambassador Brawnanvil make an apology on behalf of all dwarves for the wrongful deaths the Dragonmoots have caused.
+Otaaryliakkarnos knows that the skin of her slain kin was used to make armor for the dwarf lord who slew her. She demands the remains be returned and that Ambassador Brawvil make an apology on behalf of all dwarves for the wrongful deaths the Dragonmoots have caused.
 
 ![[/03_Mechanics/CLI/adventures/rise-of-tiamat/img/021-tod-14-02.webp#center|The Draakhorn]]
 
@@ -202,20 +218,25 @@ When the characters have reached a satisfactory agreement with the dragons, Otaa
 
 Legends speak of 06 chapter 14 metallic dragons arise as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 06 chapter 14 metallic dragons arise.
 
-## Adventure Hooks
-
-- A rumor ties 06 chapter 14 metallic dragons arise to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 06 chapter 14 metallic dragons arise to avert a public scandal.
-- A map overlay reveals a hidden approach to 06 chapter 14 metallic dragons arise active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

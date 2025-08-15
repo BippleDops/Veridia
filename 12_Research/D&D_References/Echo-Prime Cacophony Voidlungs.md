@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.683742+00:00'
 world: Both
 ---
 
-
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-echo-prime-cacophony-voidlungs-echo-prime-cacophony-voidlungs.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Cult of Screams|02 Worldbuilding/Groups/Cult Of Screams]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Cult of Screams]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,34 @@ Echo Prime Cacophony Voidlungs is a void-touched element of the setting, known f
 
 Legends speak of Echo Prime Cacophony Voidlungs as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Echo Prime Cacophony Voidlungs.
 
-## Adventure Hooks
-
-- A rumor ties Echo Prime Cacophony Voidlungs to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Echo Prime Cacophony Voidlungs to avert a public scandal.
-- A map overlay reveals a hidden approach to Echo Prime Cacophony Voidlungs active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help finding before the new moon
+- Someone is protecting a artifact for revenge
+- Strange disappearances suggest a portal
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

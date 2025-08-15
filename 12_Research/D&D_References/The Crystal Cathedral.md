@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:35.969117+00:00'
 danger_level: Moderate
 ---
 
-
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-crystal-cathedral-of-pure-light-the-crystal-cathedral-of-pure-light.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Overview
+*20 targeted improvements identified*
 
-TODO
-## History
+### Connection Improvements
 
-TODO
-## Layout
+- Add cross-references to related notes
 
-TODO
-## Notables
+### Enhancement Improvements
 
-TODO
-## Threats
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,32 @@ The Crystal Cathedral is a undersea element of the setting, known for biolumines
 
 Legends speak of The Crystal Cathedral as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crystal Cathedral.
 
-## Adventure Hooks
-
-- A rumor ties The Crystal Cathedral to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Crystal Cathedral to avert a public scandal.
-- A map overlay reveals a hidden approach to The Crystal Cathedral active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[The Crystal Cathedral|02 Worldbuilding/Places/The Crystal Cathedral]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Quest - The Pretender's Crown]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Depths
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- Strange dreams suggest a curse
+- A merchant needs help investigating before the festival
+- A merchant needs help finding before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

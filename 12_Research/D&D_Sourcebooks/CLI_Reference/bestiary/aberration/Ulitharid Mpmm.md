@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.622877+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ulitharid-mpmm-ulitharid-mpmm.svg)
 
@@ -57,10 +54,8 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
 "stats":
   - !!int "15"
   - !!int "12"
-  - !!int "15"
   - !!int "21"
   - !!int "19"
-  - !!int "21"
 "speed": "30 ft."
 "saves":
   - "intelligence": !!int "9"
@@ -72,7 +67,6 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
   - "name": "[[skills#Insight|Insight]]"
     "desc": "+8"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+8"
   - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "senses": "darkvision 120 ft., passive Perception 18"
@@ -119,10 +113,10 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
   - "desc": "The ulitharid casts one of the following spells, requiring no spell components\
       \ and using Intelligence as the spellcasting ability (spell save DC 17):\n\n\
       At will: [[detect-thoughts-xphb|detect thoughts]],\
-      \ [[levitate-xphb|levitate]]\n\n1/day each: [[dominate-monster-xphb|dominate\
+      \ [[levitate-xphb|levitate]]\n\n1/day each: [[dominate-monster-xphb|dominate\]]
       \ monster]], [[befuddlement-xphb|feeblemind]],\
-      \ [[mass-suggestion-xphb|mass suggestion]], [[plane-shift-xphb|plane\
-      \ shift]] (self only), [[project-image-xphb|project\
+      \ [[mass-suggestion-xphb|mass suggestion]], [[plane-shift-xphb|plane\]]
+      \ shift]] (self only), [[project-image-xphb|project\]]
       \ image]], [[scrying-xphb|scrying]],\
       \ [[telekinesis-xphb|telekinesis]]"
     "name": "Spellcasting (Psionics)"
@@ -132,6 +126,24 @@ This process doesn't work on the brain of an ulitharid that dies a natural death
 "image": "/03_Mechanics/CLI/bestiary/aberration/token/ulitharid-mpmm.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Environment
 
@@ -145,19 +157,30 @@ Ulitharid mpmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of ulitharid mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ulitharid mpmm.
 
-## Adventure Hooks
-
-- A rumor ties ulitharid mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ulitharid mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ulitharid mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

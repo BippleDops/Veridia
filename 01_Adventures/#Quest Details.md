@@ -1,4 +1,5 @@
 ---
+
 title: '#Quest Details'
 type: quest
 tags:
@@ -7,17 +8,84 @@ tags:
 - needs-content
 - quest
 - active
+- bloodline
+- prophecy
 created: 2025-08-14
 modified: '2025-08-14'
 status: placeholder
 level: 1-5
 updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
 
 
 # #Quest Details
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Combat Improvements
+
+- Add encounter scaling table for parties of 3-6 players, levels 1-20
+
+### Rewards Improvements
+
+- Create treasure parcels for each major encounter
+
+### Structure Improvements
+
+- Add three-act structure with rising action
+
+### Choices Improvements
+
+- Add meaningful decision points with consequences
+
+### Roleplay Improvements
+
+- Include ethical challenges without clear answers
+
+### Worldbuilding Improvements
+
+- Connect to three other adventures in the vault
+- Connect to three other adventures in the vault
+
+### Spotlight Improvements
+
+- Include spotlight moment for each character class
+- Include spotlight moment for each character class
+- Include spotlight moment for each character class
+
+### Backup Improvements
+
+- Add 'What if players skip this?' contingency
+- Add 'What if players skip this?' contingency
+- Add 'What if players skip this?' contingency
+- Add 'What if players skip this?' contingency
+
+### Level_Range Improvements
+
+- Provide scaling for different level ranges
+
+### Accessibility Improvements
+
+- Include content warnings and safety tools
+- Include content warnings and safety tools
+
+### Art Improvements
+
+- Add AI art prompts for key scenes
+- Add AI art prompts for key scenes
+
+### Variants Improvements
+
+- Add horror, intrigue, and comedy tone variants
+
 
 ## Description
 
@@ -26,11 +94,6 @@ updated: 2025-08-14
 ## Details
 
 *[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[Template-Quest]]
 
 ## Notes
 
@@ -42,22 +105,6 @@ updated: 2025-08-14
 ---
 *Placeholder generated: 2025-08-14*
 
-## Key NPCs
-
-- [[Free Captains Alliance]]
-- [[04_Resources_Assets_Locations_location-city-master-curator-pearl-artflow-v1-master-curator-pearl-artflow.svg]]
-- [[Emperor Thalassius the Wise]]
-- [[Quest - Nature]]
-- [[04_Resources_Assets_Locations_location-city-transportation-guild-masters-v1-transportation-guild-masters.svg]]
-
-
-## Important Locations
-
-- [[04_Resources_Assets_Locations_location-city-reality-monitoring-specialists-reality-monitoring-specialists.svg]]
-- [[04_Resources_Assets_Locations_location-city-the-pearl-markets-the-pearl-markets.svg]]
-- [[04_Resources_Assets_Locations_location-city-crystallium-crystallium.svg]]
-
-
 ## Synopsis
 
 This adventure involves the party in a series of challenges and discoveries. The stakes are significant, and the outcomes will shape future events.
@@ -66,11 +113,9 @@ This adventure involves the party in a series of challenges and discoveries. The
 **Expected Duration**: 2-4 sessions
 **Themes**: Mystery, Combat, Exploration
 
-
 ## Background
 
 The events leading to this adventure have been building for some time. Forces are in motion that the party must confront or redirect.
-
 
 ## Locations
 
@@ -79,64 +124,8 @@ The events leading to this adventure have been building for some time. Forces ar
 3. **Challenge Areas**: Combat or puzzle locations
 4. **Climax Location**: Where everything comes together
 
-
-## Encounters
-
-### Combat Encounters
-- Easy: CR appropriate to party -2
-- Medium: CR appropriate to party
-- Hard: CR appropriate to party +2
-
-### Social Encounters
-- Information gathering
-- Negotiation opportunities
-- Deception challenges
-
-### Exploration Challenges
-- Environmental hazards
-- Puzzles and riddles
-- Skill challenges
-
-
-## Treasures
-
-### Monetary Rewards
-- Gold and valuables appropriate to level
-
-### Magic Items
-- Minor items (consumables)
-- Permanent items (if appropriate)
-
-### Story Rewards
-- Information gained
-- Allies made
-- Reputation changes
-
-
-## Plot Hooks
-
 ### Primary Hook
 The main reason parties get involved
-
-### Alternative Hooks
-- Personal connection
-- Professional interest
-- Coincidental involvement
-
-
-## Scaling Notes
-
-### For Lower Level Parties
-- Reduce enemy numbers
-- Lower DCs by 2-3
-- Provide more healing opportunities
-
-### For Higher Level Parties
-- Add minions to encounters
-- Increase DCs by 2-3
-- Add time pressure
-- Include legendary actions
-
 
 ## DM Notes
 
@@ -145,3 +134,26 @@ The main reason parties get involved
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Encounter Scaling
+
+| Party Level | 3 Players | 4 Players | 5 Players | 6 Players |
+|------------|-----------|-----------|-----------|----------|
+| 1-4 | CR 2 | CR 3 | CR 4 | CR 5 |
+| 5-10 | CR 7 | CR 9 | CR 11 | CR 13 |
+| 11-16 | CR 14 | CR 17 | CR 19 | CR 21 |
+| 17-20 | CR 22 | CR 24 | CR 26 | CR 28 |
+
+
+## Treasure Parcels
+
+### Parcel A (Combat Victory)
+- 2d6 × 10 gp
+- Potion of Healing
+- Clue to next location
+
+### Parcel B (Exploration)
+- Magic item (roll on Table F)
+- Ancient map fragment
+- 1d4 gems (50 gp each)

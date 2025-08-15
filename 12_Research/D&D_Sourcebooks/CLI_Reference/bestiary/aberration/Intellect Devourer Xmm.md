@@ -28,14 +28,29 @@ updated: '2025-08-13T12:34:05.605178+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-intellect-devourer-xmm-intellect-devourer-xmm.svg)
 
 # [[intellect-devourer-xmm|Intellect Devourer]]
 *Source: Monster Manual (2024) p. 179*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Intellect Devourer
 
@@ -50,7 +65,6 @@ Intellect devourers serve their mind flayer creators by consuming other creature
 > 
 > I know Durgan, and that wasn't Durgan. It was like something was wearing Durgan... like some sort of suit... a Durgan suit.
 
-
 ```statblock
 "name": "Intellect Devourer (XMM)"
 "size": "Tiny"
@@ -64,7 +78,6 @@ Intellect devourers serve their mind flayer creators by consuming other creature
   - !!int "6"
   - !!int "14"
   - !!int "13"
-  - !!int "14"
   - !!int "11"
   - !!int "10"
 "speed": "40 ft."
@@ -128,19 +141,23 @@ Intellect devourer xmm is a undersea element of the setting, known for biolumine
 
 Legends speak of intellect devourer xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around intellect devourer xmm.
 
-## Adventure Hooks
-
-- A rumor ties intellect devourer xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at intellect devourer xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to intellect devourer xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help delivering before the new moon
+- Someone is searching for a witness for love
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

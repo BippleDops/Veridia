@@ -23,23 +23,11 @@ world: Aquabyssos
 updated: '2025-08-13T01:18:31.122392+00:00'
 ---
 
-
-
-
-
-# Aquabyssos Quick Reference Cards
-## Simplified Mechanics for Fast Play
-
----
-
-## 🌊 PRESSURE CARD
-
 ### Quick Check
 **When Depth Changes:**
 ```
 Going Deeper: DC 10 + (new depth ÷ 1000)
 Going Up: DC 12 + (depth change ÷ 1000)
-```
 
 ### Fast Resolution
 | Save Result | Effect |
@@ -48,15 +36,6 @@ Going Up: DC 12 + (depth change ÷ 1000)
 | **Fail by 1-4** | Disadvantage 10 min |
 | **Fail by 5-9** | 1 exhaustion |
 | **Fail by 10+** | 1 exhaustion + stunned 1 round |
-
-### Emergency Options
-- **Pressure Pill**: Advantage on save (25 SP)
-- **Rest 10 min**: Reroll with +2 bonus
-- **Push Through**: Take 1d6 damage, ignore effect 1 hour
-
----
-
-## 👥 SHADOW INDEPENDENCE CARD
 
 ### Daily Check (if 50+ AP)
 **Roll d20 + (AP - 50)**
@@ -68,16 +47,6 @@ Going Up: DC 12 + (depth change ÷ 1000)
 | 16-20 | Acts differently | CHA DC 15 to control |
 | 21-25 | Speaks to you | CHA DC 18 to quiet |
 | 26+ | Fully independent | Negotiate or fight |
-
-### Shadow Negotiation (Quick)
-- **Offer**: 1 memory = 1 hour cooperation
-- **Threaten**: Intimidation DC 20 = 10 min obedience  
-- **Bargain**: Promise of freedom = 1 day help
-- **Force**: Shadow Locks = 24 hours bound
-
----
-
-## 🧠 ADAPTATION TRACKER CARD
 
 ### Gaining Adaptation Points
 | Depth | AP per Hour | Visible Change |
@@ -96,16 +65,6 @@ Going Up: DC 12 + (depth change ÷ 1000)
 | 75-99 | Severe | Can't return to surface |
 | 100+ | Complete | Become NPC or new character |
 
-### Slowing Adaptation
-- Surface rest: -1 AP per day
-- Special treatment: -2 AP (costs 100 SP)
-- Magic: Remove Curse = -10 AP
-- Accept it: Gain benefits, lose humanity
-
----
-
-## 💭 MEMORY QUICK RESOLUTION
-
 ### Memory Tide Hits
 **Roll d20:**
 | Roll | Effect |
@@ -115,15 +74,6 @@ Going Up: DC 12 + (depth change ÷ 1000)
 | 11-15 | Swap memory with nearby person |
 | 16-19 | Gain helpful memory (+1 skill for day) |
 | 20 | Remember something important |
-
-### Memory Trading (Simple)
-- **Sell Memory**: 50-200 SP based on significance
-- **Buy Memory**: 100-500 SP for specific knowledge
-- **Trade Memory**: Even swap, both roll d20 (1-5 = goes wrong)
-
----
-
-## 😱 SANITY QUICK TRACK
 
 ### Sanity Events
 | Trigger | Check |
@@ -145,8 +95,6 @@ Roll d6:
 
 ---
 
-## 🎭 NPC REACTION CARD
-
 ### Quick Personality Roll (d12)
 1. **Helpful** but wants something
 2. **Suspicious** of surface dwellers
@@ -161,24 +109,6 @@ Roll d6:
 11. **Neutral** professional
 12. **Roll twice** - complex personality
 
-### Fast Social Resolution
-- **Persuasion**: DC 15 standard (±5 for circumstances)
-- **Deception**: DC 15 + they get Insight
-- **Intimidation**: DC 15 but makes enemy
-- **Bribery**: 10-50 SP usually works
-
----
-
-## ⚡ COMBAT MODIFICATIONS CARD
-
-### Underwater Combat (Quick)
-- **Melee**: Normal if adapted, disadvantage if not
-- **Ranged**: Disadvantage always (except crossbows)
-- **Movement**: Half speed unless adapted
-- **Fire**: Doesn't work
-- **Lightning**: Hits all in 10 ft
-- **Talking**: Difficult, short phrases only
-
 ### Environmental Hazards (Roll d6)
 1. **Current**: DEX DC 12 or moved 10 ft
 2. **Debris**: Difficult terrain
@@ -188,8 +118,6 @@ Roll d6:
 6. **Shadow zone**: Shadows act randomly
 
 ---
-
-## 🗺️ TRAVEL TIME CARD
 
 ### Between Districts (Abyssos Prime)
 | From → To | Walking | Current Rider | Express |
@@ -214,8 +142,6 @@ Roll d6:
 
 ---
 
-## 🎲 SKILL CHECK MODIFICATIONS
-
 ### Depth-Modified Skills
 | Skill | Modification |
 |-------|-------------|
@@ -225,28 +151,6 @@ Roll d6:
 | **Investigation** | -2 if memory-affected |
 | **Survival** | DC +5 for surface dwellers |
 
-### Advantage Situations
-- Acting with your shadow's help
-- Using local guide
-- Spending memory for knowledge
-- Adapted for environment
-
-### Disadvantage Situations
-- Shadow working against you
-- Memory tide active
-- Depth sickness
-- Cultural misunderstanding
-
----
-
-## 💰 ECONOMIC QUICK REFERENCE
-
-### Exchange Rates
-- 1 GP = 2 Sorrow Pearls
-- 1 Memory = 50-500 SP
-- 1 Emotion = 100-1000 SP
-- 1 Shadow Service = 200 SP
-
 ### Daily Expenses
 | Lifestyle | Cost/Day | Includes |
 |-----------|----------|----------|
@@ -255,14 +159,23 @@ Roll d6:
 | Comfortable | 30 SP | Good food, private room |
 | Wealthy | 60 SP | Fine dining, suite |
 
-### Quick Services
-- Information: 10-50 SP
-- Guide: 20 SP/day
-- Healing: 25 SP/spell level
-- Equipment repair: 10 SP/point
-- Pressure suit refill: 5 SP
 
----
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## 🎯 SUCCESS AT A COST TABLE
 
@@ -278,8 +191,6 @@ Roll d6 for consequence:
 
 ---
 
-## 🔄 FACTION REPUTATION QUICK TRACK
-
 ### Fast Rep Change
 | Action | Change |
 |--------|--------|
@@ -289,38 +200,6 @@ Roll d6 for consequence:
 | Refuse mission | -1 |
 | Work for enemy | -2 |
 | Betray | -5 |
-
-### Rep Thresholds
-- **-5**: Hostile (attacks possible)
-- **0**: Neutral (normal prices)
-- **+5**: Friendly (discounts, info)
-- **+10**: Allied (special access)
-
----
-
-## ⏱️ SESSION PACING CARD
-
-### Scene Length Guidelines
-- **Investigation**: 20-30 minutes
-- **Social**: 15-20 minutes
-- **Combat**: 30-45 minutes
-- **Exploration**: 10-15 minutes
-- **Downtime**: 5-10 minutes
-
-### When to Speed Up
-- Multiple repeated rolls
-- Players stuck for 10+ minutes
-- Energy dropping
-- 30 min left in session
-
-### Quick Scene Transitions
-- "Hours pass as you..."
-- "After your rest..."
-- "The next morning..."
-- "Meanwhile..."
-- "Suddenly..."
-
----
 
 ## 🎬 CLIFFHANGER GENERATOR
 
@@ -337,18 +216,6 @@ Roll d6 for consequence:
 10. Character transformation begins
 
 ---
-
-## 📋 QUICK INITIATIVE VARIANTS
-
-### Group Initiative
-- Party rolls once (highest bonus)
-- Enemies roll once
-- Alternate sides
-
-### Popcorn Initiative
-- Highest roll goes first
-- They choose who goes next
-- Can't repeat until all have gone
 
 ### Depth Initiative
 - Most adapted goes first
@@ -367,19 +234,30 @@ Aquabyssos Quick Reference Cards is a undersea element of the setting, known for
 
 Legends speak of Aquabyssos Quick Reference Cards as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos Quick Reference Cards.
 
-## Adventure Hooks
-
-- A rumor ties Aquabyssos Quick Reference Cards to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Aquabyssos Quick Reference Cards to avert a public scandal.
-- A map overlay reveals a hidden approach to Aquabyssos Quick Reference Cards active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

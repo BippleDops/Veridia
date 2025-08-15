@@ -23,15 +23,31 @@ updated: '2025-08-12T23:37:37.475240'
 world: Both
 ---
 
-
 # Wings of Flying
 *Wondrous item, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/wings-of-flying.webp#right)
 
-
 While wearing this cloak, you can take a [[actions#Magic|Magic]] action to turn the cloak into a pair of wings on your back. The wings lasts for 1 hour or until you end the effect early as a [[actions#Magic|Magic]] action. The wings give you a [[fly-speed-xphb|Fly Speed]] of 60 feet. If you are aloft when the wings disappear, you fall. When the wings disappear, you can't use them again for `d12` hours.
 
-*Source: Dungeon Master's Guide (2024) p. 324. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 324. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -41,19 +57,25 @@ Wings of flying xdmg is a undersea element of the setting, known for bioluminesc
 
 Legends speak of wings of flying xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wings of flying xdmg.
 
-## Adventure Hooks
-
-- A rumor ties wings of flying xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at wings of flying xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to wings of flying xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

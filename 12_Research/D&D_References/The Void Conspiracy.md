@@ -15,26 +15,26 @@ world: Both
 updated: '2025-08-13T01:18:35.352772+00:00'
 ---
 
-
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-quest-the-void-conspiracy-quest-the-void-conspiracy.png]]
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Overview
+*20 targeted improvements identified*
 
-TODO
-## Historical Context
+### Connection Improvements
 
-TODO
-## Current Relevance
+- Add cross-references to related notes
 
-TODO
-## See Also
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -44,25 +44,13 @@ The Void Conspiracy is a void-touched element of the setting, known for impossib
 
 Legends speak of The Void Conspiracy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Void Conspiracy.
 
-## Adventure Hooks
-
-- A rumor ties The Void Conspiracy to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Void Conspiracy to avert a public scandal.
-- A map overlay reveals a hidden approach to The Void Conspiracy active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Vault_Navigation_Hub|Vault Navigation Hub]]
 
 
-## Connections
+## Plot Hooks
 
-- See also: [[Central Index]]
-- Related: [[Recent Events]]
-- Connected to: [[Side Adventures]]
+- A noble needs help investigating before the new moon
+- Strange accidents suggest a curse

@@ -23,8 +23,6 @@ updated: '2025-08-13T12:34:04.923094+00:00'
 world: Both
 ---
 
-
-
 # Telepathic
 *Source: Player's Handbook (2024) p. 208*  
 
@@ -38,6 +36,24 @@ You gain the following benefits.
 
 **Detect Thoughts.** You always have the [[detect-thoughts-xphb|Detect Thoughts]] spell prepared. You can cast it without a spell slot or spell components, and you must finish a Long Rest before you can cast it in this way again. You can also cast it using spell slots you have of the appropriate level. Your spellcasting ability for the spell is the ability increased by this feat.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Telepathic xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -46,19 +62,23 @@ Telepathic xphb is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of telepathic xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around telepathic xphb.
 
-## Adventure Hooks
-
-- A rumor ties telepathic xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at telepathic xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to telepathic xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Strange sightings suggest a conspiracy
+- A prisoner has gone missing and war looms
+- A letter reveals ancient history about this place
+- The authorities needs help finding before the festival

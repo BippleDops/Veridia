@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.103280+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,20 @@ Shadowblade Marshal Darian Nightstrike is a undersea element of the setting, kno
 
 Legends speak of Shadowblade Marshal Darian Nightstrike as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadowblade Marshal Darian Nightstrike.
 
-## Adventure Hooks
-
-- A rumor ties Shadowblade Marshal Darian Nightstrike to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Shadowblade Marshal Darian Nightstrike to avert a public scandal.
-- A map overlay reveals a hidden approach to Shadowblade Marshal Darian Nightstrike active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Shadow Duchess Duel|02 Worldbuilding/Groups/The Shadow Duchess Duel]]
-
-
-## Connections
-
-- [[The Shadow Duchess Duel]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

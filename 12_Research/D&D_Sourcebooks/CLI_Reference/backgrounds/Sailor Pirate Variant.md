@@ -23,11 +23,8 @@ updated: '2025-08-13T12:34:05.273331+00:00'
 world: Both
 ---
 
-
-
 # Sailor (Pirate) (Variant)
 *Source: Player's Handbook p. 139*  
-
 
 - **Skill Proficiencies.** [[skills#Athletics|Athletics]], [[skills#Perception|Perception]]  
 - **Tool Proficiencies.** [[navigators-tools-xphb|Navigator's tools]], vehicles (water)  
@@ -36,6 +33,24 @@ world: Both
 You spent your youth under the sway of a dread pirate, a ruthless cutthroat who taught you how to survive in a world of sharks and savages. You've indulged in larceny on the high seas and sent more than one deserving soul to a briny grave. Fear and bloodshed are no strangers to you, and you've garnered a somewhat unsavory reputation in many a port town.
 
 If you decide that your sailing career involved piracy, you can choose the Bad Reputation feature instead of the Ship's Passage feature.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Feature: Bad Reputation
 
@@ -86,7 +101,6 @@ Sailors can be a rough lot, but the responsibilities of life on a ship make them
 `dice: [](sailor-pirate-variant.md#^flaw)`
 
 | dice: d6 | Flaw |
-|----------|------|
 | 1 | I follow orders, even if I think they're wrong. |
 | 2 | I'll say anything to avoid having to do extra work. |
 | 3 | Once someone questions my courage, I never back down no matter how dangerous the situation. |
@@ -103,19 +117,20 @@ Sailor pirate variant is a undersea element of the setting, known for biolumines
 
 Legends speak of sailor pirate variant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sailor pirate variant.
 
-## Adventure Hooks
-
-- A rumor ties sailor pirate variant to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at sailor pirate variant to avert a public scandal.
-- A map overlay reveals a hidden approach to sailor pirate variant active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

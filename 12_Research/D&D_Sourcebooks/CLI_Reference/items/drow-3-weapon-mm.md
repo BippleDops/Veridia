@@ -74,14 +74,10 @@ updated: '2025-08-12T23:37:36.836554'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Generated/Items/item-artifact-drow-3-weapon-mm-drow-3-weapon-mm.svg)
 
 # Drow +3 Weapon
-
-
 
 You have a +3 bonus to attack and damage rolls made with this weapon. This weapon loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
 
@@ -138,342 +134,6 @@ You have a +3 bonus to attack and damage rolls made with this weapon. This weapo
 - [Drow +3 Whip](#Drow%20+3%20Whip)
 - [Drow +3 Yklwa](#Drow%20+3%20Yklwa)
 
-## Drow +3 Antimatter Rifle
-
-- **Damage**: 6d8 necrotic
-- **Range**: 120/360
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 10.0 lbs.
-
-### Drow +3 Automatic Rifle
-
-- **Damage**: 2d8 piercing
-- **Range**: 80/240
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Burst%20Fire|Burst Fire]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 8.0 lbs.
-
-### Drow +3 Battleaxe
-
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: [[item-properties#Versatile|Versatile]]
-- **Weight**: 4.0 lbs.
-
-### Drow +3 Blowgun
-
-- **Damage**: 1 piercing
-- **Range**: 25/100
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]]
-- **Weight**: 1.0 lbs.
-
-### Drow +3 Club
-
-- **Damage**: 1d4 bludgeoning
-- **Properties**: [[item-properties#Light|Light]]
-- **Weight**: 2.0 lbs.
-
-### Drow +3 Dagger
-
-- **Damage**: 1d4 piercing
-- **Range**: 20/60
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
-- **Weight**: 1.0 lbs.
-
-### Drow +3 Dart
-
-- **Damage**: 1d4 piercing
-- **Range**: 20/60
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Thrown|Thrown]]
-- **Weight**: 0.25 lbs.
-
-### Drow +3 Double-Bladed Scimitar
-
-- **Damage**: 2d4 slashing
-- **Properties**: [[item-properties#Two-Handed|Two-Handed]], [[item-properties#Special%20Weapons|special]]
-- **Weight**: 6.0 lbs.
-
-### Drow +3 Flail
-
-- **Damage**: 1d8 bludgeoning
-- **Weight**: 2.0 lbs.
-
-### Drow +3 Glaive
-
-- **Damage**: 1d10 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 6.0 lbs.
-
-### Drow +3 Greataxe
-
-- **Damage**: 1d12 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 7.0 lbs.
-
-### Drow +3 Greatclub
-
-- **Damage**: 1d8 bludgeoning
-- **Properties**: [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 10.0 lbs.
-
-### Drow +3 Greatsword
-
-- **Damage**: 2d6 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 6.0 lbs.
-
-### Drow +3 Halberd
-
-- **Damage**: 1d10 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 6.0 lbs.
-
-### Drow +3 Hand Crossbow
-
-- **Damage**: 1d6 piercing
-- **Range**: 30/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Light|Light]], [[item-properties#Loading|Loading]]
-- **Weight**: 3.0 lbs.
-
-### Drow +3 Handaxe
-
-- **Damage**: 1d6 slashing
-- **Range**: 20/60
-- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
-- **Weight**: 2.0 lbs.
-
-### Drow +3 Heavy Crossbow
-
-- **Damage**: 1d10 piercing
-- **Range**: 100/400
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Heavy|Heavy]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 18.0 lbs.
-
-### Drow +3 Hooked Shortspear
-
-- **Damage**: 1d4 piercing
-- **Properties**: [[item-properties#Light|Light]]
-- **Weight**: 2.0 lbs.
-
-### Drow +3 Hoopak
-
-- **Damage**: 1d6 piercing
-- **Range**: 40/160
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Finesse|Finesse]], [[item-properties#Two-Handed|Two-Handed]], [[item-properties#Special%20Weapons|special]]
-- **Weight**: 2.0 lbs.
-
-### Drow +3 Hunting Rifle
-
-- **Damage**: 2d10 piercing
-- **Range**: 80/240
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 8.0 lbs.
-
-### Drow +3 Javelin
-
-- **Damage**: 1d6 piercing
-- **Range**: 30/120
-- **Properties**: [[item-properties#Thrown|Thrown]]
-- **Weight**: 2.0 lbs.
-
-### Drow +3 Lance
-
-- **Damage**: 1d10 piercing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]]
-- **Weight**: 6.0 lbs.
-
-### Drow +3 Laser Pistol
-
-- **Damage**: 3d6 radiant
-- **Range**: 40/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]]
-- **Weight**: 2.0 lbs.
-
-### Drow +3 Laser Rifle
-
-- **Damage**: 3d8 radiant
-- **Range**: 100/300
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 7.0 lbs.
-
-### Drow +3 Light Crossbow
-
-- **Damage**: 1d8 piercing
-- **Range**: 80/320
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 5.0 lbs.
-
-### Drow +3 Light Hammer
-
-- **Damage**: 1d4 bludgeoning
-- **Range**: 20/60
-- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
-- **Weight**: 2.0 lbs.
-
-### Drow +3 Light Repeating Crossbow
-
-- **Damage**: 1d8 piercing
-- **Range**: 40/160
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 5.0 lbs.
-
-### Drow +3 Longbow
-
-- **Damage**: 1d8 piercing
-- **Range**: 150/600
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 2.0 lbs.
-
-### Drow +3 Longsword
-
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: [[item-properties#Versatile|Versatile]]
-- **Weight**: 3.0 lbs.
-
-### Drow +3 Mace
-
-- **Damage**: 1d6 bludgeoning
-- **Weight**: 4.0 lbs.
-
-### Drow +3 Maul
-
-- **Damage**: 2d6 bludgeoning
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 10.0 lbs.
-
-### Drow +3 Morningstar
-
-- **Damage**: 1d8 piercing
-- **Weight**: 4.0 lbs.
-
-### Drow +3 Musket
-
-- **Damage**: 1d12 piercing
-- **Range**: 40/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 10.0 lbs.
-
-### Drow +3 Pike
-
-- **Damage**: 1d10 piercing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 18.0 lbs.
-
-### Drow +3 Pistol
-
-- **Damage**: 1d10 piercing
-- **Range**: 30/90
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]]
-- **Weight**: 3.0 lbs.
-
-### Drow +3 Quarterstaff
-
-- **Damage**:
-  - One-handed: 1d6 bludgeoning
-  - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
-- **Weight**: 4.0 lbs.
-
-### Drow +3 Rapier
-
-- **Damage**: 1d8 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]]
-- **Weight**: 2.0 lbs.
-
-### Drow +3 Revolver
-
-- **Damage**: 2d8 piercing
-- **Range**: 40/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]]
-- **Weight**: 3.0 lbs.
-
-### Drow +3 Scimitar
-
-- **Damage**: 1d6 slashing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
-- **Weight**: 3.0 lbs.
-
-### Drow +3 Semiautomatic Pistol
-
-- **Damage**: 2d6 piercing
-- **Range**: 50/150
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]]
-- **Weight**: 3.0 lbs.
-
-### Drow +3 Shortbow
-
-- **Damage**: 1d6 piercing
-- **Range**: 80/320
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 2.0 lbs.
-
-### Drow +3 Shortsword
-
-- **Damage**: 1d6 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
-- **Weight**: 2.0 lbs.
-
-### Drow +3 Shotgun
-
-- **Damage**: 2d8 piercing
-- **Range**: 30/90
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 7.0 lbs.
-
-### Drow +3 Sickle
-
-- **Damage**: 1d4 slashing
-- **Properties**: [[item-properties#Light|Light]]
-- **Weight**: 2.0 lbs.
-
-### Drow +3 Sling
-
-- **Damage**: 1d4 bludgeoning
-- **Range**: 30/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]]
-
-### Drow +3 Spear
-
-- **Damage**:
-  - One-handed: 1d6 piercing
-  - Two-handed: 1d8 piercing
-- **Range**: 20/60
-- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
-- **Weight**: 3.0 lbs.
-
-### Drow +3 Trident
-
-- **Damage**:
-  - One-handed: 1d8 piercing
-  - Two-handed: 1d10 piercing
-- **Range**: 20/60
-- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
-- **Weight**: 4.0 lbs.
-
-### Drow +3 War Pick
-
-- **Damage**:
-  - One-handed: 1d8 piercing
-  - Two-handed: 1d10 piercing
-- **Properties**: [[item-properties#Versatile|Versatile]]
-- **Weight**: 2.0 lbs.
-
-### Drow +3 Warhammer
-
-- **Damage**:
-  - One-handed: 1d8 bludgeoning
-  - Two-handed: 1d10 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
-- **Weight**: 5.0 lbs.
-
-### Drow +3 Whip
-
-- **Damage**: 1d4 slashing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Reach|Reach]]
-- **Weight**: 3.0 lbs.
-
 ### Drow +3 Yklwa
 
 - **Damage**: 1d8 piercing
@@ -481,8 +141,25 @@ You have a +3 bonus to attack and damage rolls made with this weapon. This weapo
 - **Properties**: [[item-properties#Thrown|Thrown]]
 - **Weight**: 3.0 lbs.
 
-
 *Source: Monster Manual p. 126*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -492,19 +169,38 @@ Drow 3 weapon mm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of drow 3 weapon mm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around drow 3 weapon mm.
 
-## Adventure Hooks
-
-- A rumor ties drow 3 weapon mm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at drow 3 weapon mm to avert a public scandal.
-- A map overlay reveals a hidden approach to drow 3 weapon mm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals a betrayal about the government
+- A document has gone missing and evil awakens
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

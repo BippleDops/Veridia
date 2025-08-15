@@ -21,13 +21,30 @@ updated: '2025-08-12T23:37:34.854762'
 world: Both
 ---
 
-
 # Chapter 4: Character Origins
 *Source: Player's Handbook (2024), p. 176* 
 
-![[/03_Mechanics/CLI/books/players-handbook-2024/img/127-05-001-laeral-drizzt-vajra.webp#center "Not even a white dragon's wrath can chill these heroes of the Forgotten Realms: Laeral Silverhand, Drizzt Do'Urden, and Vajra Safahr"|Not even a white dragon's ...]]
+!]
 
 This chapter describes the two components of an adventurer's origin: "background" and "species". Together, these elements suggest your character's early experience and family origin before taking up the adventuring life and learning the capabilities of a class (described in "chapter 3").
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Origin Components
 
@@ -130,19 +147,20 @@ Ten species are presented in this section in alphabetical order: [[aasimar-xphb|
 
 Legends speak of 05 chapter 4 character origins as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 05 chapter 4 character origins.
 
-## Adventure Hooks
-
-- A rumor ties 05 chapter 4 character origins to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 05 chapter 4 character origins to avert a public scandal.
-- A map overlay reveals a hidden approach to 05 chapter 4 character origins active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

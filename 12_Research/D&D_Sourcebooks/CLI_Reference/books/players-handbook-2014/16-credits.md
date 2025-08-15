@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.865669'
 world: Both
 ---
 
-
 # Credits
 *Source: Player's Handbook (2014)* 
 
@@ -43,7 +42,25 @@ world: Both
 - **Drawing from further development by.** J. Eric Holmes, Tom Moldvay, Frank Mentzer, Aaron Allston, Harold Johnson, Roger E. Moore, David "Zeb" Cook, Ed Greenwood, Tracy Hickman, Margaret Weis, Douglas Niles, Jeff Grubb, Jonathan Tweet, Monte Cook, Skip Williams, Richard Baker, Peter Adkison, Keith Baker, Bill Slavicsek, Andy Collins, and Rob Heinsoo  
 - **Playtesting provided by.** over 175,000 fans of D&D. Thank you!  
 
-![[/03_Mechanics/CLI/books/players-handbook-2014/img/phbcover.webp#center "On the Cover: In this fiery scene illustrated by Tyler Jacobson, the fire giant King Snurre, suffering no fools to live, calls his hell hounds to join him in confronting unwelcome guests in his home."|On the Cover: In this fier...]]
+!]
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -53,19 +70,22 @@ world: Both
 
 Legends speak of 16 credits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 16 credits.
 
-## Adventure Hooks
-
-- A rumor ties 16 credits to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 16 credits to avert a public scandal.
-- A map overlay reveals a hidden approach to 16 credits active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Plot Hooks
+
+- A merchant needs help delivering before the new moon
+- Strange disappearances suggest a curse
+- A corpse reveals ancient history about the government

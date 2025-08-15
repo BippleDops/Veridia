@@ -42,15 +42,9 @@ Possible outcomes
 - Lightning kisses the rails
 - Raiders wait in the shadowed turns
 
-## Cross-References
-
-- [[06_GM_Resources/Session_Packets/Aethermoor Session 01]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

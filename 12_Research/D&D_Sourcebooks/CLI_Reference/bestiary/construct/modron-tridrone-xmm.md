@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.837972'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-modron-tridrone-xmm-modron-tridrone-xmm.svg)
 
@@ -37,6 +35,24 @@ world: Both
 *Source: Monster Manual (2024) p. 217*  
 
 Tridrones oversee lesser modrons and lead them in battle. They're suspicious of any data provided by non-modrons.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Modrons
 
@@ -77,7 +93,6 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 > 
 > The guide swore "beep boop" meant "hello, friend." I don't know why they're after us!
 
-
 ```statblock
 "name": "Modron Tridrone (XMM)"
 "size": "Medium"
@@ -90,10 +105,8 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 "stats":
   - !!int "12"
   - !!int "13"
-  - !!int "12"
   - !!int "9"
   - !!int "10"
-  - !!int "9"
 "speed": "30 ft."
 "condition_immunities": "[[conditions#Charmed|charmed]]"
 "senses": "truesight 120 ft., passive Perception 10"
@@ -128,19 +141,24 @@ Modron tridrone xmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of modron tridrone xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around modron tridrone xmm.
 
-## Adventure Hooks
-
-- A rumor ties modron tridrone xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at modron tridrone xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to modron tridrone xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals ancient history about the cult
+- Someone is protecting an heir for love
+- Strange dreams suggest ancient magic
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

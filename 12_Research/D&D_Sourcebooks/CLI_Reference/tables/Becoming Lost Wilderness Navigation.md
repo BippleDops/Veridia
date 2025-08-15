@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.329990+00:00'
 world: Both
 ---
 
-
-
 # Becoming Lost; Wilderness Navigation
 *Source: Dungeon Master's Guide p. 111* 
 
@@ -36,6 +34,24 @@ world: Both
 | Grassland, meadow, farmland | 5 |
 ^wilderness-navigation
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Becoming lost wilderness navigation is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -44,19 +60,23 @@ Becoming lost wilderness navigation is a undersea element of the setting, known 
 
 Legends speak of becoming lost wilderness navigation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around becoming lost wilderness navigation.
 
-## Adventure Hooks
-
-- A rumor ties becoming lost wilderness navigation to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at becoming lost wilderness navigation to avert a public scandal.
-- A map overlay reveals a hidden approach to becoming lost wilderness navigation active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- Strange accidents suggest a conspiracy
+- Strange sightings suggest ancient magic
+- An heirloom has gone missing and war looms
+- Someone is searching for information for power

@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.646547'
 world: Both
 ---
 
-
 # Chapter 11: Gravenhollow
 *Source: Out of the Abyss, p. 150* 
 
@@ -32,6 +31,24 @@ The adventurers need to find the library in their quest to learn what has happen
 Gravenhollow is a place where visitors will most certainly find answers. However, those answers might not be the ones the characters wanted—or might even be things they never wanted to know.
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/087-ooa11-01.webp#center)
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Going to Gravenhollow
 
@@ -76,14 +93,9 @@ Untold years ago, a visiting stone giant druid presented the librarians with a g
 
 A pair of massive basalt doors mark the entrance to Gravenhollow, flanked by stone giant statues that are actually [[stone-golem-xmm|stone golems]]. The doors are opened simply by pushing, after which the entire expeditionary force can enter along with the characters. The golems turn their heads to watch new arrivals but otherwise remain still. The basilisk [[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]] guides the characters in through the gates, instructs them to continue straight ahead, then quickly disappears down a side passage.
 
-> [!readaloud] 
-> 
 > Walking across the threshold of Gravenhollow is like stepping into another realm. The oppressive gloom of the Underdark is replaced by light and a sense of openness that brings back memories of the surface world. The corridor beyond the gates is wide enough for ten people to walk side by side, and the ceiling's height reminds you of the great halls of Gauntlgrym.
-> 
 > The corridor opens into a central well, with walkways crossing its span to the opposite side. You can barely see the ends of the level to your right and left, with doors opening into so many rooms that you doubt you could explore them all in a single day.
-> 
 > The ceiling is bright, with rainbows trapped in hundreds of crystal formations combining to create a warm and inviting illumination. Looking down is a dizzying experience. Staircases connect to different levels below, and you soon lose count of how far down they go.
-> 
 > A stout, rocky creature detaches from the perfectly smooth wall to your left, leaving an imprint of its body in the wall that quickly smooths out and fades from sight. "Trravelerrrrsss. I am Hourm. The masterrrsss arre occupied. Therre arre rroomsss forr all of you. Choose yourr own. The rresourrcesss of Grravenhollow arre at yourr disssposssal. You need only asssk."
 ^3ca
 
@@ -138,9 +150,7 @@ It's impossible to tell at a glance whether an echo is from the past or the futu
 Echoes appear so often that the characters find one every time they go looking for any information in the library. Use the Echoes in Gravenhollow table to determine who the characters encounter, or place echoes as you see fit.
 
 > [!note] Illustrious Visitors
-> 
 > The time-displaced echoes in Gravenhollow are a prime opportunity to introduce some of the great adventurers and personalities of Faerûn in a way that will not negatively impact the story you want to tell, nor steal the spotlight from the characters. The echoes offer them the chance to receive advice from experienced adventures and heroes, and for the adventurers to meet some of their favorite characters from the world of the Forgotten Realms.
-> 
 > The echoes belong to those who managed to find Gravenhollow, coming there to seek knowledge for whatever all-important purpose or quest drove them there. Each echo is also from a specific point in time (possibly including the future).
 ^illustrious-visitors
 
@@ -223,19 +233,12 @@ The guest quarters appear bare until a visitor chooses a room. The next time tha
 The walkways that surround the central well are wide and mostly empty, with the occasional galeb duhr or visitor echo wandering about. Each level consists of a well opening surrounded by a wide walkway connecting the rooms dug into the surrounding wall. Bridges cross the well at regular intervals, and also connect to stairs to the levels above and below. No matter how far down visitors go, there always appear to be more levels below.
 
 > [!note] Gravenhollow: General Features
-> 
 > Not even the current librarians know who built Gravenhollow. All they know is that the library has existed since the dawn of giantkind.
-> 
 > **Power Node.** Gravenhollow was carved from a titanic geode whose crystals are imbued with magic that concentrates *faerzress*. The magic that suffuses the library profoundly affects time and space, altering the perceptions and reality of all beings within its walls.
-> 
 > **Bigger on the Inside.** The notion of space works strangely in Gravenhollow. The interior of the library continually expands as lore is added to it, but visitors can still traverse all its floors and chambers with ease. Only the most absentminded and scatterbrained become lost in Gravenhollow.
-> 
 > **Universal Language.** While in Gravenhollow, all creatures gain the benefit of the [[comprehend-languages-xphb|comprehend languages]] spell.
-> 
 > **Hidden from Magic.** Gravenhollow is a window into the passage of time and history, and the magic permeating the library blocks it off from the real world around it. Though divination magic works normally within the library, no divination effect used outside the library can discern any creature, object, or location within it.
-> 
 > **A Place of Peace.** Visitors to the library of Gravenhollow are expected to conduct themselves with decorum, and to refrain from arguments and violence. Creatures that incite conflict quickly draw the attention of the basilisk [[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]], who is quick to use his Petrifying Gaze on troublemakers. If a threat arises that [[/03_Mechanics/CLI/bestiary/npc/veldyskar-oota|Veldyskar]] can't handle, the library generates `3d6` galeb duhr to assist him.
-> 
 > **Willful Navigation.** Finding anything in Gravenhollow is an effort of will. Whenever a character seeks a specific location in the library (a particular floor or period of history, for example), the character must make a successful DC 14 Wisdom check to find that location. On a failure, the character takes a wrong turn and must make additional checks until successful. If led by one of the library's keepers, characters don't need to make checks to find the location they seek.
 ^gravenhollow-general-features
 
@@ -257,8 +260,6 @@ To acquire information not inscribed in the records (including any events outsid
 
 Every room devoted to the records of the past has the same inscription carved above the doorway in runes that anyone who knows Dwarvish or Giant understands:
 
-> [!readaloud] 
-> 
 > *The past is a crystal, for it can be seen from many facets yet it always remains the same.*
 ^3ec
 
@@ -272,8 +273,6 @@ Characters can research the backgrounds of the primary settlements of the Underd
 
 The rooms that contain the works of Urmas have inscriptions carved above the doorway that anyone who knows Dwarvish or Giant can translate:
 
-> [!readaloud] 
-> 
 > *The present is like sand, ever flowing and escaping one's grasp without mercy or respite.*
 ^3ef
 
@@ -287,8 +286,6 @@ Reading the tablets in these archives provides a good overview of what is going 
 
 The rooms with Ustova's prophetic writings have inscriptions above the doorways that anyone who knows Dwarvish or Giant can decipher:
 
-> [!readaloud] 
-> 
 > *The future is a song we remember, but we cannot rush to its end lest we destroy the melody.*
 ^3f2
 
@@ -309,8 +306,6 @@ As the characters explore the library, ideally after encountering an echo or two
 
 When the characters first encounter Vizeran and Kleve, read the following boxed text to the players.
 
-> [!readaloud] 
-> 
 > Two figures approach—a withered drow clad in dark flowing robes, and a hulking gray-skinned monster resembling a spiky humanoid toad, its wide mouth full of razor-sharp teeth. The drow's pinched and lined face speak to his great age, and his red eyes narrow and appraise you carefully as he approaches.
 ^3f5
 
@@ -355,12 +350,8 @@ The following are the most relevant visions the characters can receive as answer
 
 If the characters inquire about Gromph Baenre or the arrival of the demon lords, they receive a vision of how everything started.
 
-> [!readaloud] 
-> 
 > An imperious drow archwizard in spider silk robes casts a mighty conjuration spell. As the ritual draws toward its conclusion, a web of *faerzress* energy expands outward. The wizard seems alarmed by this, his efforts to complete the spell growing more crazed as he realizes he's lost control.
-> 
 > And then, madness! Rifts open in the web of energy around him. These cracks stretch and widen, and through them come horrific fiends that scream, shriek, and howl as they are wrenched from the Abyss and cast into the Underdark.
-> 
 > A woman's deep, dark laugh echoes in your mind as the drow wizard shrinks away from the demonic hordes he has unwittingly unleashed.
 ^3fa
 
@@ -370,10 +361,7 @@ If a character receiving this vision has a passive Wisdom ([[skills#Perception|P
 
 The characters can inquire about Zuggtmoy or the events in Neverlight Grove.
 
-> [!readaloud] 
-> 
 > A cavern of peculiar beauty opens up before you, with lights of every color shining from the pure essence of life, diffused and amplified by the glow of *faerzress*. The glow pulses, and you can feel the life in the cavern rotting away, bursting with infection. A mushroom grows in the center of the cave, ever larger and taller, pustules forming and seeping as its stem thickens and its cap reaches to the cavern's ceiling, forming a vast fungal tower.
-> 
 > Two myconids approach the site in awe, not minding the carpet of rot under their feet. You sense their minds come alive in wonder, and as they kneel in worship, you know they are doomed. A voice sounds out within clouds of spores that fall like snow. The voice tells the myconids to prepare for a gift unlike any they have ever known.
 ^3fc
 
@@ -383,12 +371,8 @@ If the characters visited Neverlight Grove, they recognize one of the myconids a
 
 As much as the characters learned from fighting [[/03_Mechanics/CLI/bestiary/npc/the-pudding-king-oota|the Pudding King]] in Blingdenstone, they might decide to seek more knowledge of the mad svirfneblin or his fiendish master, Juiblex the Faceless Lord.
 
-> [!readaloud] 
-> 
 > A deep gnome spurned by others of his kind weeps as he wanders the dark tunnels, talking to the things that crawl and seep from the walls. You see him adopt two slick patches of ooze, sensing his innate power over them. He plays with them as if they were children, chasing them through the gloomy depths.
-> 
 > Something changes, and the oozes flow away. The deep gnome runs after them, fearful of being alone once again. You feel a great hunger seize him. He experiences visions that pass into your vision, showing what appears as a paradise to him but an oozing nightmare for all others.
-> 
 > The great hunger speaks to him, his already broken mind a shield against the hunger's shattering power. That power seems to recognize and acknowledge something in the gnome that will serve it well. The great hunger has a name—Juiblex. And its power... oh, such great and terrible power! It grants the gnome the ability to command the little hungers—his children—so that they can return to the place that cast them out and devour it all!
 ^3fe
 
@@ -396,8 +380,6 @@ As much as the characters learned from fighting [[/03_Mechanics/CLI/bestiary/npc
 
 The corruption in Gracklstugh slowly rots duergar society from within, leading it toward a brutal fate.
 
-> [!readaloud] 
-> 
 > You see a circle of small hooded figures, their forms hunched and emaciated. Their gestures and movements are jerky, indicative of the madness possessing them. They are chanting, swaying to their own words. And then they stop as the glow of *faerzress* rises around them, whispering to them in unintelligible sounds. The derro cackle and dance, their hands glowing with a power that isn't theirs. The vision shifts, and suddenly gray dwarves stare down at the red-hot metal on their anvils. The constant rhythm of their hammering falters. Suddenly, brother turns against brother as minds turn inward upon themselves. Sparks fly and a city burns.
 ^400
 
@@ -405,10 +387,7 @@ The corruption in Gracklstugh slowly rots duergar society from within, leading i
 
 One of the first brushes the characters might have had with the demon lords was in Sloobludop, where they witnessed the rise of Demogorgon, the so-called "Deep Father" of the mad kuo-toa.
 
-> [!readaloud] 
-> 
 > You see a kuo-toa swimming in the gloomy depths of a dark, subterranean lake, uncertain. It turns left and right, trying to find something, even as it's surrounded by a fanged creatures resembling manta rays. The kuo-toa smiles, its needle teeth gleaming even in the darkness. It has seen something. It understands a new secret, and its already unhinged mind plunges further into madness.
-> 
 > The kuo-toa curls in on itself, arms extended in worship. Then from the circle of rays, two tentacles emerge—followed by two howling baboon heads.
 ^402
 
@@ -416,10 +395,7 @@ One of the first brushes the characters might have had with the demon lords was 
 
 Characters might be curious to know more about the source of the discord in Mantol-Derith, leading to a revelation about Fraz-Urb'luu.
 
-> [!readaloud] 
-> 
 > A rift formed by *faerzress* opens wide, illuminating a dark tunnel. The rift spits out a black gem that clatters as it tumbles across the tunnel floor. The gem is picked up by a gray-skinned dwarf, who inspects it closely.
-> 
 > The vision shifts to a brightly lit cavern full of crude merchant stalls, where the duergar hands the gem to a svirfneblin for appraisal. The gnome refuses to return the gem, instead giving it to one of her svirfneblin apprentices. The young apprentice skulks away with the gem in his clutches, but is ambushed by a gargoyle. The gargoyle snatches the gem, flies away, and gives it to a female drow. The drow gazes into the black gemstone and sees a hideous demonic face looking back at her. Thoughts of murder and carnage fill her thoughts as she hides the gemstone on her person, draws her shortsword, and coats the blade with poison.
 ^404
 
@@ -427,10 +403,7 @@ Characters might be curious to know more about the source of the discord in Mant
 
 Although Orcus doesn't have a significant role in this adventure, players might wonder what the Demon Lord of Undeath is up to.
 
-> [!readaloud] 
-> 
 > In the heart of a alien cavern glistening with slime, scores of mind flayers gather around an enormous brain resting in a pool. The brain is dead. You can hear the illithids' incomprehensible thoughts as they mourn its passing. One word echoes louder than the others: Cyrog.
-> 
 > Suddenly, *faerzress *bathes the dark and twisted hall in purplish light. A rift opens, and a hulking, horned figure that reeks of putrescence steps out. It raises a skull-tipped wand and points it at the dead elder brain. The elder brain begins to pulsate, and you see intermittent flashes of purple light under its rotting flesh. The mind flayers are aghast as the elder brain speaks to them once more, telling them that Orcus has saved Cyrog, and commanding them to follow it into undeath.
 ^406
 
@@ -440,8 +413,6 @@ The librarians of Gravenhollow know that Cyrog is the name of distant mind flaye
 
 The demon lord Baphomet doesn't play a significant role in this adventure. However, a character seeking clues to the Horned King's whereabouts receive the following vision.
 
-> [!readaloud] 
-> 
 > The smell of blood fills your nostrils as you wander a maze of Underdark tunnels, moving with purpose as your giant hooves crush stones underfoot. *Faerzress* light reveals that your shadow is monstrous, suggesting a hulking beast with a crown of horns. With your bloody glaive, you carve a swath through a forest of towering zurkhwood mushrooms that stands in your way. The tunnels beyond would confuse an ordinary mind, but you instinctively know the path you must walk. Every step brings you closer to a magma-filled chasm, lodged in which is an enormous contraption of metal and stone—a weapon capable of reshaping the Underdark itself.
 ^408
 
@@ -451,8 +422,6 @@ This vision provides a brief glimpse of the Maze Engine, an arcane device locate
 
 A character that tries to learn more about Yeenoghu, the Demon Lord of Gnolls, receives the following unsettling vision.
 
-> [!readaloud] 
-> 
 > A hunched and rotting creature with the head of a fiendish hyena swings a triple-headed flail at a beholder, crushing it. As the eye tyrant falls to the floor, a pack of hyenas leaps onto the corpse and tears off its eyestalks while the demon lord licks the gore off his weapon. As the hyenas feed, they transform into slavering, cackling gnolls before your eyes.
 ^40a
 
@@ -460,8 +429,6 @@ A character that tries to learn more about Yeenoghu, the Demon Lord of Gnolls, r
 
 If the characters inquire about Lolth, they receive a vision of her home in the Demonweb Pits, confirming that at least one demon lord didn't escape the Abyss.
 
-> [!readaloud] 
-> 
 > You behold the true form of the Demon Queen of Spiders—that of a black, bloated arachnid with the head of a female drow. Nestled in the webs all around her are thousands upon thousands of gray eggs. Lolth knows she is being scried, her fury tangible as her mind reaches out to find you. Her shriek of rage as she's shut out by the powerful wards of Gravenhollow echoes in your mind as the vision is suddenly torn away to darkness.
 ^40c
 
@@ -475,10 +442,7 @@ The other visions the characters might look for depend on what they experienced 
 
 When the characters have discovered all they are looking to find out, they can go to Vizeran. If they don't, he seeks them out, having finished his own research.
 
-> [!readaloud] 
-> 
 > "That fool Gromph brought the demon lords down upon us, with his demon queen pulling his strings all the while. He has given Lolth free reign in the Abyss. My own research leads me to believe Gromph used *faerzress* to achieve such a summoning, though I am sure he didn't intend this result. Imbecile!
-> 
 > "I can save you months of research—time we clearly don't have. The information I found here has confirmed my theories, and I know how to banish the demon lords back to the Abyss. We can do this only if we work together, if you are willing and daring enough to directly challenge the demon lords. Or perhaps foolhardy is the better word."
 ^40f
 
@@ -506,19 +470,21 @@ The characters should leave Gravenhollow with a clear picture of what is happeni
 
 Legends speak of 11 chapter 11 gravenhollow as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 11 chapter 11 gravenhollow.
 
-## Adventure Hooks
-
-- A rumor ties 11 chapter 11 gravenhollow to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 11 chapter 11 gravenhollow to avert a public scandal.
-- A map overlay reveals a hidden approach to 11 chapter 11 gravenhollow active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a conspiracy
+- Strange dreams suggest a conspiracy
+- A map reveals a betrayal about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

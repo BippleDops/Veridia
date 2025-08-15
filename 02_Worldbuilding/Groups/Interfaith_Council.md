@@ -1,17 +1,86 @@
 ---
+
 title: Interfaith Council
 type: organization
 tags:
 - faction
 - active
 - organization
+- prophecy
 created: '2025-08-14'
 modified: '2025-08-14'
 headquarters: Unknown
 membership: Unknown
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
-# Interfaith Council
+
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
 
 ## Organization Overview
 
@@ -25,8 +94,6 @@ membership: Unknown
 ## Description
 
 Interfaith Council operates as a council dedicated to its core mission and the advancement of its members' interests. The organization maintains a significant presence in regional affairs through both public and private channels.
-
-## Mission & Goals
 
 ### Primary Mission
 The organization exists to:
@@ -49,30 +116,14 @@ Hidden agendas:
 - Eliminate rivals or threats
 - Achieve long-term transformation
 
-## History
-
 ### Founding
 Established in response to specific historical needs, Interfaith Council has evolved from its original purpose while maintaining core traditions.
-
-### Major Events
-- **Foundation**: Original establishment and charter
-- **Growth Period**: Expansion of influence and membership
-- **Conflicts**: Major disputes or wars
-- **Recent Developments**: Current position and activities
 
 ### Historical Figures
 Notable past members who shaped the organization:
 - Founders and early leaders
 - Revolutionary or reform figures
 - Heroes and villains
-
-## Structure & Hierarchy
-
-### Leadership
-- **Grand Master/Leader**: Supreme authority
-- **Inner Circle**: Senior decision makers
-- **Department Heads**: Operational leaders
-- **Regional Commanders**: Local authority
 
 ### Ranks
 1. **Initiate**: New members
@@ -81,15 +132,6 @@ Notable past members who shaped the organization:
 4. **Master**: Experienced member
 5. **Elder**: Senior position
 6. **Grand Master**: Ultimate authority
-
-### Departments
-- **Operations**: Day-to-day activities
-- **Intelligence**: Information gathering
-- **Resources**: Financial management
-- **Recruitment**: Membership growth
-- **Enforcement**: Security and discipline
-
-## Membership
 
 ### Requirements
 To join, candidates must:
@@ -115,99 +157,12 @@ Members must:
 - Support fellow members
 - Advance organizational goals
 
-## Resources & Assets
-
-### Financial
-- Treasury reserves
-- Income from operations
-- Member contributions
-- Investment holdings
-- Trade monopolies or contracts
-
-### Physical
-- Headquarters and facilities
-- Safe houses and warehouses
-- Transportation resources
-- Equipment and supplies
-- Libraries and archives
-
-### Human Resources
-- Skilled membership base
-- Informant networks
-- Allied organizations
-- Political connections
-- Military/security forces
-
-## Operations
-
-### Public Activities
-- Trade and commerce
-- Education and training
-- Charitable works
-- Cultural events
-- Political lobbying
-
-### Covert Operations
-- Intelligence gathering
-- Influence operations
-- Economic manipulation
-- Elimination of threats
-- Secret research
-
-## Relations
-
-### Allies
-- Aligned organizations
-- Political patrons
-- Business partners
-- Religious supporters
-
-### Rivals
-- Competing organizations
-- Political opponents
-- Economic competitors
-- Ideological enemies
-
-### Neutral Parties
-- Government bodies
-- Independent merchants
-- Foreign organizations
-- Common population
-
-## Notable Members
-
-### Current Leadership
-- **Grand Master**: [Name]
-- **Spymaster**: [Name]
-- **Treasurer**: [Name]
-- **Enforcer**: [Name]
-
 ### Key Operatives
 Active members of significance:
 - Field commanders
 - Master craftsmen
 - Diplomatic representatives
 - Special agents
-
-## Customs & Culture
-
-### Traditions
-- Initiation ceremonies
-- Rank advancement rituals
-- Annual gatherings
-- Secret handshakes or signs
-
-### Symbols
-- Official insignia
-- Secret marks
-- Ceremonial items
-- Colors and heraldry
-
-### Codes
-- Behavioral expectations
-- Communication ciphers
-- Loyalty oaths
-- Operational protocols
 
 ## Current Activities
 
@@ -216,8 +171,6 @@ The organization currently focuses on:
 - Dealing with specific threats
 - Pursuing major objectives
 - Managing internal conflicts
-
-## Locations
 
 ### Headquarters
 Primary base of operations with full facilities and defenses.
@@ -236,27 +189,6 @@ Secret locations for sensitive activities.
 4. **Secret Mission**: Undertake covert operation
 5. **Betrayal**: Deal with traitor or corruption
 
-## DM Notes
-
-### Secrets
-- True leadership identity
-- Hidden resources or weapons
-- Secret alliances or conflicts
-- Long-term master plan
-
-### Using in Campaign
-- Source of quests and resources
-- Political intrigue element
-- Character backstory connection
-- Campaign antagonist or ally
-
-
-
-## Known Members
-
-- [[Archdruid Thornweaver]]
-
-
 ## Overview
 
 Interfaith_Council operates as an influential organization with specific goals and methods. Their reach extends throughout their sphere of influence.
@@ -266,36 +198,8 @@ Interfaith_Council operates as an influential organization with specific goals a
 **Membership**: Dozens to thousands
 **Secrecy**: Public/Semi-secret/Secret
 
-
-
-## Goals
-
 ### Public Mission
 What they claim to pursue
-
-### True Objectives
-- Primary goal
-- Secondary objectives
-- Long-term vision
-
-### Current Projects
-- Active operations
-- Research efforts
-- Political maneuvers
-
-
-
-## Relationships
-
-### Allies
-- Aligned organizations
-- Political supporters
-- Business partners
-
-### Enemies
-- Rival organizations
-- Opposed factions
-- Active threats
 
 ### Neutral Parties
 - Potential allies or enemies
@@ -305,8 +209,39 @@ What they claim to pursue
 ---
 *Tags*: #organization #council #faction #worldbuilding
 
-## Connections
 
-- See also: [[Master Timeline]]
-- Related: [[Historical Context]]
-- Connected to: [[World Events]]
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

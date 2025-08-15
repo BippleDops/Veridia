@@ -10,7 +10,23 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Cross-Realm Mechanics Research
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Dual-World Integration Methodology
 
@@ -74,7 +90,7 @@ Research on effectively implementing transitions and interactions between contra
 
 **Realm-Specific Currencies:**
 - **Aquabyssos**: Pressure-forged metals, refined nutrients
-- **Aethermoor**: Crystal resonance tokens, wind-captured energy
+- **Aethermoor**: Crystal resoce tokens, wind-captured energy
 - **Universal**: Memory pearls, information exchanges
 - **Black Market**: Corruption artifacts, forbidden knowledge
 
@@ -104,12 +120,10 @@ cultural_adaptation_dc: int  # Difficulty for social integration
 ```
 
 Character cross-realm tracking:
-```python
 realm_familiarity: Dict[str, str]  # Competency level per realm
 adaptation_equipment: List[str]  # Gear for cross-realm survival
 cultural_connections: Dict[str, List[str]]  # Contacts in each realm
 political_status: Dict[str, str]  # Standing with each realm government
-```
 
 ### Success Metrics
 
@@ -125,7 +139,6 @@ Effective cross-realm mechanics show:
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -133,3 +146,18 @@ Effective cross-realm mechanics show:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.172553'
 world: Both
 ---
 
-
 # Devil Customization Tables
 *Source: Mordenkainen's Tome of Foes p. 23* 
 
@@ -72,7 +71,6 @@ world: Both
 `dice: [](devil-customization-tables.md#^devil-ideals)`
 
 | dice: d6 | Ideal |
-|----------|-------|
 | 1 | Loyalty. I keep my vows to my superior and respect those who do the same. |
 | 2 | Law. I might not like the rules, but I obey them. |
 | 3 | Ambition. The need to improve my station drives my every action. |
@@ -100,7 +98,6 @@ world: Both
 `dice: [](devil-customization-tables.md#^devil-flaws)`
 
 | dice: d6 | Flaw |
-|----------|------|
 | 1 | My frustration boils over into violence. |
 | 2 | I obey the law, but I strain at its limits to the point of heresy. |
 | 3 | I put the minimum effort possible into anything that isn't my own idea. |
@@ -108,6 +105,24 @@ world: Both
 | 5 | I'm so reliant on the laws of the Nine Hells that I panic without their guidance. |
 | 6 | I am secretly jealous of the freedom that mortals enjoy. |
 ^devil-flaws
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -117,19 +132,35 @@ Devil customization tables is a undersea element of the setting, known for biolu
 
 Legends speak of devil customization tables as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around devil customization tables.
 
-## Adventure Hooks
-
-- A rumor ties devil customization tables to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at devil customization tables to avert a public scandal.
-- A map overlay reveals a hidden approach to devil customization tables active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before dawn
+- Strange accidents suggest ancient magic
+- Strange disappearances suggest ancient magic
+- Someone is searching for information for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

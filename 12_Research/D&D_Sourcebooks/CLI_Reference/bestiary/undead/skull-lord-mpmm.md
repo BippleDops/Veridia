@@ -29,11 +29,10 @@ updated: '2025-08-12T23:37:35.632379'
 world: Both
 ---
 
-
 # [[skull-lord-mpmm|Skull Lord]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 220, Mordenkainen's Tome of Foes p. 230*  
 
-Skull lords have claimed vast regions of the Shadowfell as their dominion. From these blighted lands, they wage war against their rivals, commanding hordes of the undying in a bid to establish dominance. Yet skull lords always prove to be their own worst enemies; each is a combined being born from three hateful individuals, and they constantly plot against themselves.
+Skull lords have claimed vast regions of the Shadowfell as their dominion. From these blighted lands, they wage war against their rivals, commanding hordes of the undying in a bid to establish domice. Yet skull lords always prove to be their own worst enemies; each is a combined being born from three hateful individuals, and they constantly plot against themselves.
 
 Infighting and treachery brought skull lords into existence. The first of them appeared in the aftermath of Vecna's bid to conquer the world of Greyhawk, after the vampire Kas betrayed Vecna and took his eye and hand. In the confusion resulting from this turn of events, Vecna's warlords turned against each other, and his plans were dashed. In a rage, Vecna gathered up his generals and captains and bound them in groups of three, fusing them into abominations cursed to fight among themselves for all time. Since the first skull lords were exiled into the shadows, others have arisen, typically created from other leaders who betrayed their masters.
 
@@ -52,7 +51,6 @@ Infighting and treachery brought skull lords into existence. The first of them a
   - !!int "14"
   - !!int "16"
   - !!int "17"
-  - !!int "16"
   - !!int "15"
   - !!int "21"
 "speed": "30 ft."
@@ -64,13 +62,12 @@ Infighting and treachery brought skull lords into existence. The first of them a
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+12"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+8"
 "damage_resistances": "cold; necrotic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
   \ [[conditions#Deafened|deafened]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Poisoned|poisoned]],\
   \ [[conditions#Stunned|stunned]], [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 22"
 "languages": "all the languages it knew in life"
@@ -100,9 +97,9 @@ Infighting and treachery brought skull lords into existence. The first of them a
     "name": "Deathly Ray"
   - "desc": "The skull, lord casts one of the following spells, using Charisma as\
       \ the spellcasting ability (spell save DC 18):\n\nAt will: [[mage-hand-xphb|mage hand]],\
-      \ [[message-xphb|message]]\n\n2/day each: [[dimension-door-xphb|dimension\
+      \ [[message-xphb|message]]\n\n2/day each: [[dimension-door-xphb|dimension\]]
       \ door]], [[fear-xphb|fear]]\n\
-      \n1/day each: [[cloudkill-xphb|cloudkill]], [[cone-of-cold-xphb|cone\
+      \n1/day each: [[cloudkill-xphb|cloudkill]], [[cone-of-cold-xphb|cone\]]
       \ of cold]]"
     "name": "Spellcasting"
 "legendary_actions":
@@ -124,6 +121,24 @@ Infighting and treachery brought skull lords into existence. The first of them a
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 desert, swamp, underdark
@@ -136,19 +151,17 @@ Skull lord mpmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of skull lord mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around skull lord mpmm.
 
-## Adventure Hooks
-
-- A rumor ties skull lord mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at skull lord mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to skull lord mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a curse
+- An heirloom has gone missing and truth emerges
+- Someone is hunting a artifact for power

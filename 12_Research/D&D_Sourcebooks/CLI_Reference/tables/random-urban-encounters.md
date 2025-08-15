@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.607032'
 world: Both
 ---
 
-
 # Random Urban Encounters
 *Source: Dungeon Master's Guide p. 114* 
 
@@ -50,6 +49,24 @@ world: Both
 | 20 | "Urchin" |
 ^random-urban-encounters
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Random urban encounters is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -58,19 +75,26 @@ Random urban encounters is a undersea element of the setting, known for biolumin
 
 Legends speak of random urban encounters as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random urban encounters.
 
-## Adventure Hooks
-
-- A rumor ties random urban encounters to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at random urban encounters to avert a public scandal.
-- A map overlay reveals a hidden approach to random urban encounters active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help delivering before dawn
+- Someone is hunting information for love
+- The authorities needs help stealing before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

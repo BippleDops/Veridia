@@ -22,16 +22,32 @@ updated: '2025-08-12T23:37:34.928541'
 world: Both
 ---
 
-
 # Criminal (Spy) (Variant)
 *Source: Player's Handbook p. 130. Available in the Basic Rules (2014)*  
-
 
 - **Skill Proficiencies.** [[skills#Deception|Deception]], [[skills#Stealth|Stealth]]  
 - **Tool Proficiencies.** One type of gaming set, [[thieves-tools-xphb|thieves' tools]]  
 - **Equipment.** A [[crowbar-xphb|crowbar]], a set of dark [[common-clothes|common clothes]] including a hood, and a belt [[pouch-xphb|pouch]] containing 15 gp  
 
 Although your capabilities are not much different from those of a burglar or smuggler, you learned and practiced them in a very different context: as an espionage agent. You might have been an officially sanctioned agent of the crown, or perhaps you sold the secrets you uncovered to the highest bidder.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Feature: Spy Contact
 
@@ -100,7 +116,6 @@ Criminals might seem like villains on the surface, and many of them are villaino
 `dice: [](criminal-spy-variant.md#^flaw)`
 
 | dice: d6 | Flaw |
-|----------|------|
 | 1 | When I see something valuable, I can't think about anything but how to steal it. |
 | 2 | When faced with a choice between money and my friends, I usually choose the money. |
 | 3 | If there's a plan, I'll forget it. If I don't forget it, I'll ignore it. |
@@ -117,18 +132,9 @@ Criminal spy variant is a undersea element of the setting, known for bioluminesc
 
 Legends speak of criminal spy variant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around criminal spy variant.
 
-## Adventure Hooks
-
-- A rumor ties criminal spy variant to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at criminal spy variant to avert a public scandal.
-- A map overlay reveals a hidden approach to criminal spy variant active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

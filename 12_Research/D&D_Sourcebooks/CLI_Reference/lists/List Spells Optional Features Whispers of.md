@@ -23,12 +23,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# Spells for Whispers of the Grave
+*20 targeted improvements identified*
 
-## 3rd Level
+### Connection Improvements
 
-- [[/03_Mechanics/CLI/spells/speak-with-dead-xphb "XPHB"|Speak with Dead]]
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -38,19 +48,17 @@ List spells optional features whispers of the grave xphb is a undersea element o
 
 Legends speak of list spells optional features whispers of the grave xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells optional features whispers of the grave xphb.
 
-## Adventure Hooks
-
-- A rumor ties list spells optional features whispers of the grave xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells optional features whispers of the grave xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells optional features whispers of the grave xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting an heir for revenge
+- A journal reveals the truth about this place
+- A map reveals a betrayal about this place

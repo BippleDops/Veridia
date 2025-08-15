@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.949202+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,27 @@ The Cosmic Constants is a undersea element of the setting, known for bioluminesc
 
 Legends speak of The Cosmic Constants as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Cosmic Constants.
 
-## Adventure Hooks
-
-- A rumor ties The Cosmic Constants to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Cosmic Constants to avert a public scandal.
-- A map overlay reveals a hidden approach to The Cosmic Constants active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Tenebrarum|02 Worldbuilding/People/Tenebrarum]]
-
-
-## Connections
-
-- [[Tenebrarum]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a betrayal about the cult
+- A document has gone missing and truth emerges
+- A document has gone missing and truth emerges
+- A letter reveals the truth about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

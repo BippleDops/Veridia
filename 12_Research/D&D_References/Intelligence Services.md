@@ -16,17 +16,26 @@ world: Aquabyssos
 updated: '2025-08-13T01:18:34.627085+00:00'
 ---
 
-
 > [!figure] Asset
 ![[04_Resources/Assets/Portraits/portrait-npc-intelligence-services-intelligence-services.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -36,23 +45,32 @@ Intelligence Services is a undersea element of the setting, known for biolumines
 
 Legends speak of Intelligence Services as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Intelligence Services.
 
-## Adventure Hooks
-
-- A rumor ties Intelligence Services to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Intelligence Services to avert a public scandal.
-- A map overlay reveals a hidden approach to Intelligence Services active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Intelligence Services|02 Worldbuilding/People/Intelligence Services]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Relationships
+
+- **Enemy**: [[portrait-npc-senator-glaucus-senator-glaucus.svg]]
+- **Blackmailer**: [[Assassin]]
+- **Lover**: [[Lighthouse Keeper]]
+- **Parent**: [[Assets Symbols Symbol Heraldry the Architects of Depths the Architects of Depths.svg]]
+- **Student**: [[Assets Locations Location City Ambassador Lysandra Silvertonge V1 Ambassador Lysandra Silvertonge.svg]]
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

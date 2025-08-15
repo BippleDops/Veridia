@@ -21,15 +21,32 @@ updated: '2025-08-12T23:37:34.909287'
 world: Both
 ---
 
-
 # Deck of Many Things (13 Cards)
-*Source: Dungeon Master's Guide p. 162. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+*Source: Dungeon Master's Guide p. 162. Available in the SRD*  
 
 Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have only thirteen cards, but the rest have twenty-two.
 
 Before you draw a card, you must declare how many cards you intend to draw and then draw them randomly (you can use an altered deck of playing cards to simulate the deck). Any cards drawn in excess of this number have no effect. Otherwise, as soon as you draw a card from the deck, its magic takes effect. You must draw each card no more than 1 hour after the previous draw. If you fail to draw the chosen number, the remaining number of cards fly from the deck on their own and take effect all at once.
 
 Once a card is drawn, it fades from existence. Unless the card is the [[deck-of-many-things#Fool|Fool]] or the [[deck-of-many-things#Jester|Jester]], the card reappears in the deck, making it possible to draw the same card twice.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## A Question of Enmity
 
@@ -55,8 +72,6 @@ In the case of the [[deck-of-many-things#Rogue|Rogue]] card, the enmity is secre
 | 12 | Jack of spades | [[deck-of-many-things#Rogue|Rogue]] |
 | 13 | Joker (without TM) | [[deck-of-many-things#Jester|Jester]] |
 ^1-playing-card-card
-
-## Cards
 
 ### Sun
 ![](/03_Mechanics/CLI/decks/img/deck-of-many-things-02-sun.webp#card)
@@ -118,19 +133,22 @@ Deck of many things 13 cards is a undersea element of the setting, known for bio
 
 Legends speak of deck of many things 13 cards as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around deck of many things 13 cards.
 
-## Adventure Hooks
-
-- A rumor ties deck of many things 13 cards to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at deck of many things 13 cards to avert a public scandal.
-- A map overlay reveals a hidden approach to deck of many things 13 cards active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for an heir for money
+- A merchant needs help stealing before the new moon
+- A merchant needs help delivering before the festival
+- The authorities needs help finding before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

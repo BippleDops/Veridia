@@ -1,4 +1,5 @@
 ---
+
 title: Cultural Bridge Alliance
 type: faction
 tags:
@@ -7,21 +8,86 @@ tags:
 - faction
 - organization
 - active
+- prophecy
 created: 2025-08-14
 modified: '2025-08-14'
 status: placeholder
 headquarters: Unknown
 membership: Unknown
 updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
+
+
 ![02_Worldbuilding/Groups/Cultural Bridge Alliance](../../../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_cultural_bridge_alliance.png)
-
-
 
 # 02_Worldbuilding/Groups/Cultural Bridge Alliance
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
 
 ## Description
 
@@ -30,12 +96,6 @@ updated: 2025-08-14
 ## Details
 
 *[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[Shadow Magic Integration Practices]]
-- [[02_Worldbuilding/Lore/Shadow Magic Integration Practices]]
 
 ## Notes
 
@@ -47,12 +107,6 @@ updated: 2025-08-14
 ---
 *Placeholder generated: 2025-08-14*
 
-## Known Members
-
-- [[04_Resources_Assets_Locations_location-city-harbor-master-s-tower-harbor-master-s-tower.png]]
-- [[04_Resources_Assets_Locations_location-city-communications-master-signal-cryptkeeper-communications-master-signal-cryptkeeper.svg]]
-
-
 ## Overview
 
 Cultural Bridge Alliance operates as an influential organization with specific goals and methods. Their reach extends throughout their sphere of influence.
@@ -62,14 +116,6 @@ Cultural Bridge Alliance operates as an influential organization with specific g
 **Membership**: Dozens to thousands
 **Secrecy**: Public/Semi-secret/Secret
 
-
-## Structure
-
-### Leadership
-- **Supreme Leader**: Ultimate authority
-- **Council/Board**: Decision makers
-- **Department Heads**: Operational leaders
-
 ### Ranks
 1. Initiate level
 2. Member level
@@ -77,100 +123,11 @@ Cultural Bridge Alliance operates as an influential organization with specific g
 4. Officer level
 5. Leadership level
 
-
-## Members
-
-### Notable Members
-- [[Leader Name]] - Current head
-- [[Key Officer]] - Important figure
-- [[Rising Star]] - Ambitious member
-
-### Membership Requirements
-- Skills or qualities needed
-- Initiation process
-- Ongoing obligations
-
-
-## Goals
-
 ### Public Mission
 What they claim to pursue
 
-### True Objectives
-- Primary goal
-- Secondary objectives
-- Long-term vision
-
-### Current Projects
-- Active operations
-- Research efforts
-- Political maneuvers
-
-
-## Resources
-
-### Financial
-- Funding sources
-- Wealth level
-- Economic influence
-
-### Physical Assets
-- Properties owned
-- Equipment available
-- Special resources
-
-### Human Resources
-- Member skills
-- Allies and contacts
-- Information networks
-
-
-## Operations
-
-### Regular Activities
-- Day-to-day operations
-- Revenue generation
-- Member services
-
-### Special Operations
-- Covert activities
-- Major projects
-- Crisis responses
-
-
-## Relationships
-
-### Allies
-- Aligned organizations
-- Political supporters
-- Business partners
-
-### Enemies
-- Rival organizations
-- Opposed factions
-- Active threats
-
-### Neutral Parties
-- Potential allies or enemies
-- Trade partners
-- Watching parties
-
-
-## Secrets
-
 ### Open Secrets
 Things widely suspected
-
-### Hidden Truths
-- Real leadership
-- True funding sources
-- Secret objectives
-
-### Deep Mysteries
-- Ancient connections
-- Forbidden knowledge
-- Ultimate goals
-
 
 ## DM Notes
 
@@ -179,3 +136,16 @@ Things widely suspected
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Plot Hooks
+
+- A noble needs help investigating before dawn
+- Strange dreams suggest a conspiracy
+- A merchant needs help delivering before winter
+- A prisoner has gone missing and war looms

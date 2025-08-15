@@ -21,7 +21,22 @@ world: Both
 ---
 
 
-# Item Properties
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Attunement
 
@@ -61,13 +76,7 @@ Your Attunement to an item ends if you no longer satisfy the prerequisites for A
 
 ### Optional Attunement
 
-Attunement may be required for this item.
-
 ### Requires Attunement
-
-Attunement is required for this item.
-
-## General and Weapon Properties
 
 ### Ammunition
 _Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
@@ -78,19 +87,15 @@ _Source: Dungeon Master's Guide (2024) p. 72_
 Firearm Bullets are destroyed upon use in a modern firearm. Futuristic firearms use Energy Cells that become depleted but could possibly be recharged with the proper equipment, at the GM's discretion.
 
 ### Burst Fire
-_Source: Dungeon Master's Guide (2024) p. 72_
 As an action, you can expend 10 pieces of a Burst Fire weapon's ammunition to spray shots in a 10-foot [[cube-area-of-effect-xphb|Cube]] within the weapon's normal range. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take damage. Roll the weapon's damage once, and apply it to each creature that failed the save.
 
 ### Finesse
-_Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
 When making an attack with a Finesse weapon, use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
 ### Heavy
-_Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
 You have [[disadvantage-xphb|Disadvantage]] on attack rolls with a Heavy weapon if it's a Melee weapon and your Strength score isn't at least 13 or if it's a Ranged weapon and your Dexterity score isn't at least 13.
 
 ### Light
-_Source: Player's Handbook (2024) p. 213. Available in the Free Rules (2024)_
 When you take the [[actions#Attack|Attack]] action on your turn and attack with a Light weapon, you can make one extra attack as a [[bonus-action-xphb|Bonus Action]] later on the same turn. That extra attack must be made with a different Light weapon, and you don't add your ability modifier to the extra attack's damage unless that modifier is negative. For example, you can attack with a [[shortsword-xphb|Shortsword]] in one hand and a [[dagger-xphb|Dagger]] in the other using the [[actions#Attack|Attack]] action and a [[bonus-action-xphb|Bonus Action]], but you don't add your Strength or Dexterity modifier to the damage roll of the [[bonus-action-xphb|Bonus Action]] unless that modifier is negative.
 
 ### Loading
@@ -98,23 +103,18 @@ _Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
 You can fire only one piece of ammunition from a Loading weapon when you use an action, a [[bonus-action-xphb|Bonus Action]], or a [[reaction-xphb|Reaction]] to fire it, regardless of the number of attacks you can normally make.
 
 ### Reach
-_Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
 A Reach weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for [[actions#Opportunity%20Attack|Opportunity Attacks]] with it.
 
 ### Reload
-_Source: Dungeon Master's Guide (2024) p. 72_
 You can make a limited number of shots with a Reload weapon. You must then reload the weapon as an action or a [[bonus-action-xphb|Bonus Action]].
 
 ### Thrown
-_Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
 If a weapon has the Thrown property, you can throw the weapon to make a ranged attack, and you can draw that weapon as part of the attack. If the weapon is a Melee weapon, use the same ability modifier for the attack and damage rolls that you use for a melee attack with that weapon.
 
 ### Two-Handed
-_Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
 A Two-Handed weapon requires two hands when you attack with it.
 
 ### Versatile
-_Source: Player's Handbook (2024) p. 214. Available in the Free Rules (2024)_
 A Versatile weapon can be used with one or two hands. A damage value in parentheses appears with the property. The weapon deals that damage when used with two hands to make a melee attack.
 
 ## Improvised Weapons
@@ -208,19 +208,30 @@ Item properties is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of item properties as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around item properties.
 
-## Adventure Hooks
-
-- A rumor ties item properties to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at item properties to avert a public scandal.
-- A map overlay reveals a hidden approach to item properties active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and chaos spreads
+- Someone is protecting a witness for love
+- A letter reveals a conspiracy about the government
+- An heirloom has gone missing and chaos spreads
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

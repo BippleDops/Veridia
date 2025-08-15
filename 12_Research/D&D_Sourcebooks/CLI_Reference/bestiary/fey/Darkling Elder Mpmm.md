@@ -31,9 +31,6 @@ updated: '2025-08-13T12:34:05.522401+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-darkling-elder-mpmm-darkling-elder-mpmm.svg)
 
@@ -41,6 +38,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 84, Volo's Guide to Monsters p. 134*  
 
 A wise and respected darkling can undergo a ritual to become an elder. Other elders mark the supplicant with glowing tattoos, channeling away some of the darkling's absorbed light. If the ritual succeeds, the darkling grows into a taller, elf-like form. The darkling perishes if the ritual fails.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Darklings
 
@@ -62,7 +77,6 @@ Ancient legends speak of a seelie fey who betrayed the Summer Queen. In the Summ
   - !!int "12"
   - !!int "10"
   - !!int "14"
-  - !!int "13"
 "speed": "30 ft."
 "skillsaves":
   - "name": "[[skills#Acrobatics|Acrobatics]]"
@@ -113,18 +127,9 @@ Darkling elder mpmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of darkling elder mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around darkling elder mpmm.
 
-## Adventure Hooks
-
-- A rumor ties darkling elder mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at darkling elder mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to darkling elder mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

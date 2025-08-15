@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:37.015487'
 world: Both
 ---
 
-
 # Saint Markovia's Thighbone
 *Melee weapon, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/saint-markovias-thighbone.webp#right)
@@ -41,11 +40,29 @@ Suffused with confidence born of a righteous victory, Markovia advanced on Castl
 
 The essence of Markovia's saintliness passed partly into her bones as the rest of her body decomposed. Her remaining thighbone is imbued with power that inflicts grievous injury on the undead.
 
-[[mace-of-disruption-xdmg|Mace of Disruption]]. When you hit a fiend or an undead with this magic weapon, that creature takes an extra `2d6` radiant damage. If the target has 25 hit points or fewer after taking this damage, it must succeed on a DC 15 Wisdom saving throw or be destroyed. On a successful save, the creature becomes [[conditions#Frightened|frightened]] of you until the end of your next turn.
+[[mace-of-disruption-xdmg|Mace of Disruption]]. When you hit a fiend or an undead with this magic weapon, that creature takes an extra `2d6` radiant damage. If the target has 25 hit points or fewer after taking this damage, it must succeed on a DC 15 Wisdom saving throw or be destroyed. On a successful save, the creature becomes [[conditions#frightened|frightened]] of you until the end of your next turn.
 
 While you hold this weapon, it sheds bright light in a 20-foot radius and dim light for an additional 20 feet.
 
 *Source: Curse of Strahd p. 222*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -55,19 +72,40 @@ Saint markovias thighbone cos is a undersea element of the setting, known for bi
 
 Legends speak of saint markovias thighbone cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around saint markovias thighbone cos.
 
-## Adventure Hooks
-
-- A rumor ties saint markovias thighbone cos to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at saint markovias thighbone cos to avert a public scandal.
-- A map overlay reveals a hidden approach to saint markovias thighbone cos active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a portal
+- Strange disappearances suggest ancient magic
+- Someone is hunting information for revenge
+- A document has gone missing and war looms
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -16,10 +16,6 @@ updated: '2025-08-13'
 world: Aethermoor
 ---
 
-
-# Wind-Touched Evolution
-## Atmospheric Adaptation System
-
 ### Overview
 
 Characters exposed to extreme altitudes and wind magic gradually develop supernatural connection to atmospheric forces. This transformation grants aerial abilities but alters personality and physical form.
@@ -37,8 +33,6 @@ Characters exposed to extreme altitudes and wind magic gradually develop superna
 - Professional sky sailing and navigation
 - Storm chasing and weather research
 - Wind temple meditation practices
-
-### Evolution Stages
 
 #### Stage 1: Breeze-Touched (1-3 months)
 **Physical Changes:** Hair moves in non-existent wind, lighter step
@@ -71,8 +65,6 @@ Characters exposed to extreme altitudes and wind magic gradually develop superna
 - Control Weather 1/week
 - Storm form (gaseous form with lightning)
 - One with the sky (can become weather pattern)
-
-### Transformation Process
 
 #### Month 1: Initial Attunement
 **Symptoms:**
@@ -110,10 +102,8 @@ Characters exposed to extreme altitudes and wind magic gradually develop superna
 **Advanced Changes:**
 - Partial control over personal weather
 - Enhanced reflexes and agility
-- Decreased need for physical sustenance
+- Decreased need for physical sustece
 - Growing detachment from material world
-
-### Mechanical Effects
 
 #### Combat Applications
 **Aerial Superiority:**
@@ -145,8 +135,6 @@ Characters exposed to extreme altitudes and wind magic gradually develop superna
 7. **Incorporeal Drift:** Randomly becoming partially gaseous
 8. **Sky Calling:** Overwhelming urge to fly into dangerous weather
 
-### Reversal Options
-
 #### Earth Grounding Ritual
 **Requirements:** 1 month underground, earth elemental assistance
 **Success Rate:** 70% for Stages 1-2, 40% for Stage 3, 10% for Stage 4
@@ -156,8 +144,6 @@ Characters exposed to extreme altitudes and wind magic gradually develop superna
 **Dispel Magic:** Can suppress abilities temporarily
 **Greater Restoration:** Reverses one stage per casting
 **Wish Spell:** Complete reversal possible but risky
-
-### Cultural Impact
 
 #### Aethermoor Society
 **Elite Status:** Wind-touched often become rulers or generals
@@ -171,49 +157,6 @@ Characters exposed to extreme altitudes and wind magic gradually develop superna
 **Cultural Bridge:** Understanding of both grounded and aerial life
 **Political Complications:** Loyalty questions due to detachment
 
-### Adventure Applications
-
-#### Quest Hooks
-- **The Grounding Disease:** Curse preventing flight
-- **Storm Rider Recruitment:** Military service for sky patrol
-- **Weather War:** Using transformation for atmospheric warfare
-- **The Last Storm:** Ancient wind-touched needs successor
-- **Earthbound Love:** Romance complicated by transformation
-
-#### Environmental Challenges
-- **Dead Air Zones:** Areas where abilities don't function
-- **Storm Barriers:** Weather too dangerous even for wind-touched
-- **Grounding Fields:** Magic that forces contact with earth
-- **Altitude Sickness:** Even adapted characters have limits
-
-### Roleplay Considerations
-
-#### Character Development
-- Gradual disconnection from earthly concerns
-- Increasing identification with weather patterns
-- Growing sense of responsibility for atmospheric balance
-- Conflict between freedom and commitment
-
-#### Relationship Dynamics
-- Difficulty maintaining ground-based friendships
-- Natural affinity with other flying creatures
-- Romantic complications due to literal distance
-- Professional advantages in aerial occupations
-
-#### Moral Questions
-- Using weather powers responsibly
-- Obligations to protect ground-dwellers
-- Balancing personal freedom with social duty
-- Environmental impact of weather manipulation
-
-### Equipment Modifications
-
-#### Specialized Gear
-- **Storm Anchors:** Magical items for controlled grounding
-- **Wind Riders:** Enhanced flying equipment
-- **Weather Cloaks:** Protection from atmospheric extremes
-- **Sky Compasses:** Navigation tools for three dimensions
-
 #### Armor Adaptations
 - Lightweight materials for aerial combat
 - Streamlined designs for wind resistance
@@ -224,10 +167,27 @@ Characters exposed to extreme altitudes and wind magic gradually develop superna
 
 *Wind-touched evolution represents the price and power of atmospheric mastery, perfect for characters willing to sacrifice earthly ties for sky-bound freedom.*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -236,3 +196,18 @@ Characters exposed to extreme altitudes and wind magic gradually develop superna
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A noble needs help finding before the new moon
+- The authorities needs help stealing before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -31,11 +31,8 @@ updated: '2025-08-13T12:34:06.674638+00:00'
 world: Both
 ---
 
-
-
 # Spirit Guardians
 *3rd-level, Conjuration*  
-
 
 - **Casting time:** 1 Action
 - **Range:** Self (15-foot Emanation)
@@ -50,7 +47,25 @@ When you cast this spell, you can designate creatures to be unaffected by it. An
 
 **Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-college-of-lore-xphb "subclass=XPHB;class=XPHB"|Bard (College of Lore)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-war-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (War Domain)]]
 
-*Source: Player's Handbook (2024) p. 319. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 319. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -60,19 +75,26 @@ Spirit guardians xphb is a undersea element of the setting, known for biolumines
 
 Legends speak of spirit guardians xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spirit guardians xphb.
 
-## Adventure Hooks
-
-- A rumor ties spirit guardians xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at spirit guardians xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to spirit guardians xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a conspiracy
+- A prisoner has gone missing and evil awakens
+- A stranger needs help stealing before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

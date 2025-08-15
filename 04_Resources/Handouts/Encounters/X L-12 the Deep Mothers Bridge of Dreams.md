@@ -41,11 +41,9 @@ Possible outcomes
 - You cross and are shaken
 - You do not cross
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

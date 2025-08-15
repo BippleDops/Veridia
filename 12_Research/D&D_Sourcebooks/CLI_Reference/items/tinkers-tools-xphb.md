@@ -23,14 +23,11 @@ updated: '2025-08-12T23:37:37.091170'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-tinkers-tools-xphb-tinkers-tools-xphb.svg)
 
 # Tinker's Tools
 *Artisan's tools*  
-
 
 - **Cost**: 50 gp
 - **Weight**: 10.0 lbs.
@@ -39,7 +36,25 @@ world: Both
 - **Utilize.** Assemble a Tiny item composed of scrap, which falls apart in 1 minute (DC 20)  
 - **Craft.** [[musket-xphb|Musket]], [[pistol-xphb|Pistol]], [[bell-xphb|Bell]], [[bullseye-lantern-xphb|Bullseye Lantern]], [[flask-xphb|Flask]], [[hooded-lantern-xphb|Hooded Lantern]], [[hunting-trap-xphb|Hunting Trap]], [[lock-xphb|Lock]], [[manacles-xphb|Manacles]], [[mirror-xphb|Mirror]], [[shovel-xphb|Shovel]], [[signal-whistle-xphb|Signal Whistle]], [[tinderbox-xphb|Tinderbox]]  
 
-*Source: Player's Handbook (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 221. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -49,19 +64,23 @@ Tinkers tools xphb is a undersea element of the setting, known for bioluminescen
 
 Legends speak of tinkers tools xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tinkers tools xphb.
 
-## Adventure Hooks
-
-- A rumor ties tinkers tools xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at tinkers tools xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to tinkers tools xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

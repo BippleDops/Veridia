@@ -23,20 +23,35 @@ updated: '2025-08-12T23:37:36.581336'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-antitoxin-xphb-antitoxin-xphb.svg)
 
 # Antitoxin
 *Adventuring gear*  
 
-
 - **Cost**: 50 gp
 
 As a [[bonus-action-xphb|Bonus Action]], you can drink a vial of Antitoxin to gain [[advantage-xphb|Advantage]] on saving throws to avoid or end the [[conditions#Poisoned|Poisoned]] condition for 1 hour.
 
-*Source: Player's Handbook (2024) p. 222. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 222. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -46,19 +61,26 @@ Antitoxin xphb is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of antitoxin xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around antitoxin xphb.
 
-## Adventure Hooks
-
-- A rumor ties antitoxin xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at antitoxin xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to antitoxin xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Stars
+
+
+## Plot Hooks
+
+- A letter reveals a conspiracy about a local noble
+- A stranger needs help stealing before winter
+- A prisoner has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

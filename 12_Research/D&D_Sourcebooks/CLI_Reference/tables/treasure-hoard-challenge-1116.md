@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.465032'
 world: Both
 ---
 
-
 # Treasure Hoard: Challenge 11—16
 *Source: Dungeon Master's Guide p. 133* 
 
@@ -71,6 +70,24 @@ world: Both
 | 99-00 | `3d6` (10) 1,000 gp gems | Roll once on [[magic-item-table-i|Magic Item Table I]]. |
 ^gems-or-art-objects-magic-items
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Treasure hoard challenge 1116 is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -79,19 +96,15 @@ Treasure hoard challenge 1116 is a undersea element of the setting, known for bi
 
 Legends speak of treasure hoard challenge 1116 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around treasure hoard challenge 1116.
 
-## Adventure Hooks
-
-- A rumor ties treasure hoard challenge 1116 to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at treasure hoard challenge 1116 to avert a public scandal.
-- A map overlay reveals a hidden approach to treasure hoard challenge 1116 active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

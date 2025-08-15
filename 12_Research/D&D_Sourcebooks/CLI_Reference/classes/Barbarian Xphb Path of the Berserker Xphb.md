@@ -23,45 +23,35 @@ updated: '2025-08-13T12:34:04.785125+00:00'
 world: Both
 ---
 
-
-
 # Path of the Berserker
 *[[barbarian-xphb|Barbarian]]: Barbarian Subclass*  
-*Source: Player's Handbook (2024) p. 54. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 54. Available in the SRD*  
 
 > [!tldr] Class and Feature Progression
 > 
-> <table class="class-progression">
-> <thead>
-> <tr><th colspan='3'></th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
-> </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Path of the Berserker (Level 3)' class='internal-link'>Path of the Berserker</a></td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Mindless Rage (Level 6)' class='internal-link'>Mindless Rage</a></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Retaliation (Level 10)' class='internal-link'>Retaliation</a></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Intimidating Presence (Level 14)' class='internal-link'>Intimidating Presence</a></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> </tbody></table>
+> LevelPBFeatures
+> 1st+2
+> 2nd+2
+> 3rd+2Path of the Berserker
+> 4th+2
+> 5th+3
+> 6th+3Mindless Rage
+> 7th+3
+> 8th+3
+> 9th+4
+> 10th+4Retaliation
+> 11th+4
+> 12th+4
+> 13th+5
+> 14th+5Intimidating Presence
+> 15th+5
+> 16th+5
+> 17th+6
+> 18th+6
+> 19th+6
+> 20th+6
 
 ^class-progression
-
-
-## Class Features
 
 ### Path of the Berserker (Level 3)
 
@@ -75,7 +65,7 @@ If you use Reckless Attack while your Rage is active, you deal extra damage to t
 
 ### Mindless Rage (Level 6)
 
-You have [[immunity-xphb|Immunity]] to the [[conditions#Charmed|Charmed]] and [[conditions#Frightened|Frightened]] conditions while your Rage is active. If you're [[conditions#Charmed|Charmed]] or [[conditions#Frightened|Frightened]] when you enter your Rage, the condition ends on you.
+You have [[immunity-xphb|Immunity]] to the [[conditions#Charmed|Charmed]] and [[conditions#frightened|Frightened]] conditions while your Rage is active. If you're [[conditions#Charmed|Charmed]] or [[conditions#frightened|Frightened]] when you enter your Rage, the condition ends on you.
 
 ### Retaliation (Level 10)
 
@@ -83,9 +73,27 @@ When you take damage from a creature that is within 5 feet of you, you can take 
 
 ### Intimidating Presence (Level 14)
 
-As a [[bonus-action-xphb|Bonus Action]], you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot [[emanation-area-of-effect-xphb|Emanation]] originating from you must make a Wisdom saving throw (DC 8 plus your Strength modifier and [[proficiency-xphb|Proficiency Bonus]]). On a failed save, a creature has the [[conditions#Frightened|Frightened]] condition for 1 minute. At the end of each of the [[conditions#Frightened|Frightened]] creature's turns, the creature repeats the save, ending the effect on itself on a success.
+As a [[bonus-action-xphb|Bonus Action]], you can strike terror into others with your menacing presence and primal power. When you do so, each creature of your choice in a 30-foot [[emanation-area-of-effect-xphb|Emanation]] originating from you must make a Wisdom saving throw (DC 8 plus your Strength modifier and [[proficiency-xphb|Proficiency Bonus]]). On a failed save, a creature has the [[conditions#frightened|Frightened]] condition for 1 minute. At the end of each of the [[conditions#frightened|Frightened]] creature's turns, the creature repeats the save, ending the effect on itself on a success.
 
 Once you use this feature, you can't use it again until you finish a [[long-rest-xphb|Long Rest]] unless you expend a use of your Rage (no action required) to restore your use of it.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -95,19 +103,22 @@ Barbarian xphb path of the berserker xphb is a undersea element of the setting, 
 
 Legends speak of barbarian xphb path of the berserker xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around barbarian xphb path of the berserker xphb.
 
-## Adventure Hooks
-
-- A rumor ties barbarian xphb path of the berserker xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at barbarian xphb path of the berserker xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to barbarian xphb path of the berserker xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Plot Hooks
+
+- Someone is protecting an heir for love
+- Strange dreams suggest ancient magic
+- A document has gone missing and chaos spreads

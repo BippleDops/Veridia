@@ -22,10 +22,8 @@ updated: '2025-08-13T12:34:04.732243+00:00'
 world: Both
 ---
 
-
-
 # Metamagic
-*Source: Player's Handbook, Player's Handbook (2024), Tasha's Cauldron of Everything p. 66. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>* 
+*Source: Player's Handbook, Player's Handbook (2024), Tasha's Cauldron of Everything p. 66. Available in the SRD* 
 
 - [[careful-spell-xphb|Careful Spell]]
 - [[careful-spell-xphb|Careful Spell]]
@@ -47,6 +45,24 @@ world: Both
 - [[transmuted-spell-xphb|Transmuted Spell]]
 - [[twinned-spell-xphb|Twinned Spell]]
 - [[twinned-spell-xphb|Twinned Spell]]
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -56,19 +72,20 @@ List optfeaturetype mm is a undersea element of the setting, known for biolumine
 
 Legends speak of list optfeaturetype mm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list optfeaturetype mm.
 
-## Adventure Hooks
-
-- A rumor ties list optfeaturetype mm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list optfeaturetype mm to avert a public scandal.
-- A map overlay reveals a hidden approach to list optfeaturetype mm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

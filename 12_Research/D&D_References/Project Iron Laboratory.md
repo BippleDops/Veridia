@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.279072+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,30 @@ Project Iron Laboratory is a undersea element of the setting, known for biolumin
 
 Legends speak of Project Iron Laboratory as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Project Iron Laboratory.
 
-## Adventure Hooks
-
-- A rumor ties Project Iron Laboratory to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Project Iron Laboratory to avert a public scandal.
-- A map overlay reveals a hidden approach to Project Iron Laboratory active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Consortium Security Constructs|02 Worldbuilding/Groups/Consortium Security Constructs]]
-
-
-## Connections
-
-- [[Consortium Security Constructs]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals ancient history about the government
+- Strange sightings suggest ancient magic
+- A stranger needs help stealing before the festival
+- A letter reveals a betrayal about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

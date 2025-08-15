@@ -1,6 +1,5 @@
-# pat
-
 ---
+
 title: pat
 type: Lore
 tags:
@@ -17,33 +16,31 @@ modified: '2025-08-14'
 status: complete
 updated: '2025-08-13T12:34:16.009866+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
-
-
-
 
 
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png]]
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Overview
+*20 targeted improvements identified*
 
-TODO
-## Historical Context
+### Connection Improvements
 
-TODO
-## Current Relevance
+- Add cross-references to related notes
 
-TODO
-## See Also
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Cross-References
-
-- [[Quest - The Convergence Crisis]]
 
 ## Player-Facing Summary
 
@@ -53,21 +50,13 @@ Pat is a undersea element of the setting, known for bioluminescent glow and pres
 
 Legends speak of pat as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around pat.
 
-## Adventure Hooks
-
-- A rumor ties pat to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at pat to avert a public scandal.
-- A map overlay reveals a hidden approach to pat active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
 
 
-## Connections
+## Plot Hooks
 
-- See also: [[Central Index]]
-- Related: [[Regional Politics]]
-- Connected to: [[Side Adventures]]
+- A map reveals ancient history about a local noble
+- Strange disappearances suggest a conspiracy

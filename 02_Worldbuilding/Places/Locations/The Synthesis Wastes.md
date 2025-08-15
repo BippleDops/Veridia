@@ -1,4 +1,5 @@
 ---
+
 title: The Synthesis Wastes
 type: location
 tags:
@@ -13,36 +14,91 @@ status: placeholder
 region: Unknown
 population: Unknown
 updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
 
 
 # 02_Worldbuilding/Locations/The Synthesis Wastes
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
 
-## Description
-
 ### Atmosphere
 
 The atmosphere of this location shifts throughout the day. Mornings see grand plazas, while nightfall transforms the area with quiet contemplation.
-
 
 ### Atmosphere
 
 The atmosphere of this location shifts throughout the day. Dawn brings ancient ruins, while evening transforms the area with mysterious shadows.
 
-
 *[To be filled in]*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
 
 ## Details
 
 *[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[The Shadow-Crystal Synthesis]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]
 
 ## Notes
 
@@ -54,44 +110,8 @@ The atmosphere of this location shifts throughout the day. Dawn brings ancient r
 ---
 *Placeholder generated: 2025-08-14*
 
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of The Synthesis Wastes
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
-
-## History
-
 ### Founding
 The Synthesis Wastes was established in the distant past, growing from humble beginnings to its current state.
-
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
-
 
 ## Current Events
 
@@ -103,21 +123,6 @@ Ongoing situations affecting The Synthesis Wastes:
 - External threats
 - Opportunities arising
 
-
-## Secrets & Rumors
-
-### Common Knowledge
-- What everyone knows about The Synthesis Wastes
-
-### Whispered Rumors
-- Stories that may or may not be true
-
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
-
-
 ## Adventure Hooks
 
 1. **The Missing Person**: Someone important has disappeared in The Synthesis Wastes
@@ -125,7 +130,6 @@ Ongoing situations affecting The Synthesis Wastes:
 3. **The Growing Threat**: A danger that threatens The Synthesis Wastes
 4. **The Political Intrigue**: Power struggles affecting the location
 5. **The Ancient Mystery**: Old secrets beginning to surface
-
 
 ## Sensory Details
 
@@ -137,26 +141,12 @@ Ongoing situations affecting The Synthesis Wastes:
 
 **Atmosphere**: The overall feeling is one of quiet contemplation.
 
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
-
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 
 ## DM Notes
 
@@ -165,3 +155,26 @@ Ongoing situations affecting The Synthesis Wastes:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A journal reveals ancient history about the government
+- Someone is protecting an heir for money
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon

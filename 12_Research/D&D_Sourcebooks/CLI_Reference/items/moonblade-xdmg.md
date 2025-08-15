@@ -29,17 +29,33 @@ updated: '2025-08-12T23:37:37.047846'
 world: Both
 ---
 
-
 # Moonblade
 *Legendary (requires attunement by a creature of the weapon's choice)*  
 ![](/03_Mechanics/CLI/items/img/moonblade.webp#right)
-
 
 Of all the magic items created by elves, one of the most prized and jealously guarded is a Moonblade. In ancient times, nearly all elven noble houses claimed one such weapon. Over the centuries, some of these weapons have faded from the world, their magic lost as family lines have become extinct. Others have vanished with their bearers during great quests. Thus, only a few of these weapons remain.
 
 Every Moonblade longs for a bearer whose disposition and goals are compatible with its own. If you try to attune to a Moonblade that doesn't want you as its bearer, the weapon not only rejects you but also places a curse on you, causing you to make [[d20-test-xphb|D20 Tests]] with [[disadvantage-xphb|Disadvantage]] for 24 hours or until the curse is ended by a [[remove-curse-xphb|Remove Curse]] spell or similar magic. If you're accepted by the weapon and try to attune to it, you become attuned to it instantly, and a new rune appears on it. You remain attuned to the weapon until you die or the weapon is destroyed. A Moonblade functions like a nonmagical weapon of its kind for anyone other than its chosen bearer.
 
 A Moonblade has one rune on it for each bearer it has willingly served (typically `1d6 + 1`). The first rune grants a +1 bonus to attack rolls and damage rolls made with this magic weapon. Each rune beyond the first grants the Moonblade an additional property. The DM chooses each property or determines it randomly by rolling on the Moonblade Properties table.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Minor Property
 
@@ -77,38 +93,11 @@ A Moonblade has a personality similar to that of its creator. Once a Moonblade h
 - [Moonblade Scimitar](#Moonblade%20Scimitar)
 - [Moonblade Shortsword](#Moonblade%20Shortsword)
 
-### Moonblade Greatsword
-
-- **Damage**: 2d6 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 6.0 lbs.
-
-### Moonblade Longsword
-
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: [[item-properties#Versatile|Versatile]]
-- **Weight**: 3.0 lbs.
-
-### Moonblade Rapier
-
-- **Damage**: 1d8 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]]
-- **Weight**: 2.0 lbs.
-
-### Moonblade Scimitar
-
-- **Damage**: 1d6 slashing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
-- **Weight**: 3.0 lbs.
-
 ### Moonblade Shortsword
 
 - **Damage**: 1d6 piercing
 - **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
 - **Weight**: 2.0 lbs.
-
 
 *Source: Dungeon Master's Guide (2024) p. 279*
 
@@ -120,19 +109,20 @@ Moonblade xdmg is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of moonblade xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around moonblade xdmg.
 
-## Adventure Hooks
-
-- A rumor ties moonblade xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at moonblade xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to moonblade xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

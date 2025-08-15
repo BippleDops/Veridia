@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.000123+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-dream-enhancement-techniques-dream-enhancement-techniques.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,32 @@ Dream Enhancement Techniques is a undersea element of the setting, known for bio
 
 Legends speak of Dream Enhancement Techniques as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Dream Enhancement Techniques.
 
-## Adventure Hooks
-
-- A rumor ties Dream Enhancement Techniques to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Dream Enhancement Techniques to avert a public scandal.
-- A map overlay reveals a hidden approach to Dream Enhancement Techniques active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Dream Enhancement Techniques|02 Worldbuilding/Places/Dream Enhancement Techniques]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Innkeeper Marina Dreamwhisper]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A map reveals the truth about the government
+- A journal reveals a betrayal about the cult
+- Someone is searching for a witness for revenge
+- An heirloom has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

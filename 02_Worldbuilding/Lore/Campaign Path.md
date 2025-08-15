@@ -1,109 +1,110 @@
 ---
-title: Campaign Path
-type: Lore
+
+title: 02_Worldbuilding/Lore/Campaign Path
+type: adventure
 tags:
-- lore
-- aquabyssos
-- status/complete
-- content/lore
+- adventure
 - quest
-- active
-- complete
-- world/aquabyssos
-- shadow-touched
-created: '2025-08-11'
+created: '2025-08-14'
 modified: '2025-08-14'
-status: complete
-accessibility:
-  content_warnings: []
-  pronunciation: Campaign Path
-  safety_tools:
-  - Lines & Veils
-  - X-Card
-  screen_reader_summary: This lore entry explains a pivotal principle or event and
-    its consequences for play.
-obsidianUIMode: preview
-updated: '2025-08-13T12:34:16.413388+00:00'
-world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
-# Campaign Path
 
-![[04_Resources/Assets/Art/Lore/Campaign_Path.png|Campaign Path Portrait]]
+## 🔧 Deep Evaluation Improvements
 
-## Summary
+*20 targeted improvements identified*
 
-Campaign Path describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
+### Combat Improvements
 
-## Historical Context
+- Add encounter scaling table for parties of 3-6 players, levels 1-20
 
-- Origin: Scribal disputes escalated into pressure-lock conflicts.
-- Spread: Merchant routes adopted secret signs to bypass tariffs; songs encoded depth-keys.
-- Present: Competing narratives justify new taxes, oaths, and contraband routes.
+### Rewards Improvements
 
-## What It Means at the Table
+- Create treasure parcels for each major encounter
 
-- Investigation: On a lead toward old tariffs, players can extract schedules that reduce travel risks for a session.
-- Social: Reciting the chapel oath grants advantage on one Persuasion check if honored afterward.
-- Exploration: Recognizing encoded waystones reduces the chance of getting lost by one step.
+### Structure Improvements
 
-## Threads and Revelations
+- Add three-act structure with rising action
 
-- Records implicate agents tied to [[The Sunken Library of Thalassius]].
-- A rite echoes the activation cadence needed for [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
-- Testimony suggests [[Vex Shadowthorn]] financed a pivotal bribe.
+### Choices Improvements
 
-## Cross-References
+- Add meaningful decision points with consequences
 
-- [[The Sunken Library of Thalassius]]
-- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[Vex Shadowthorn]]
+### Roleplay Improvements
 
-## Player-Facing Summary
+- Include ethical challenges without clear answers
 
-Campaign Path is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+### Level_Range Improvements
 
-## Lore Details
+- Provide scaling for different level ranges
+- Provide scaling for different level ranges
+- Provide scaling for different level ranges
+- Provide scaling for different level ranges
 
-Legends speak of Campaign Path as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Campaign Path.
+### Session_Zero Improvements
 
-## Adventure Hooks
+- Add session zero integration questions
 
-- A rumor ties Campaign Path to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Campaign Path to avert a public scandal.
-- A map overlay reveals a hidden approach to Campaign Path active only during specific tides/storms.
+### Art Improvements
+
+- Add AI art prompts for key scenes
+- Add AI art prompts for key scenes
+- Add AI art prompts for key scenes
+
+### Worldbuilding Improvements
+
+- Connect to three other adventures in the vault
+- Connect to three other adventures in the vault
+
+### Accessibility Improvements
+
+- Include content warnings and safety tools
+- Include content warnings and safety tools
+
+### Props Improvements
+
+- List physical props and handouts needed
+
+### Backup Improvements
+
+- Add 'What if players skip this?' contingency
+- Add 'What if players skip this?' contingency
+
+
+## Adventure Overview
+
+An exciting quest that challenges heroes to claim glory.
+
+---
+
+*Last Updated: 2025-08-14 19:03*
 
 ## DM Notes
 
-Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes
 
 
-## Overview
+## Adventure Pacing
 
-Campaign Path represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
+### Act 1: Setup (Sessions 1-2)
+- Hook presentation
+- Initial investigation
+- First combat
 
+### Act 2: Confrontation (Sessions 3-4)
+- Main challenges
+- Plot complications
+- Resource depletion
 
-## Cultural Impact
-
-Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
-## Game Applications
-
-### Adventure Hooks
-- Discovery of related artifacts or texts
-- Conflicts arising from different interpretations
-- Prophecies beginning to manifest
-
-### Character Connections
-- Scholarly interest
-- Personal involvement in events
-- Hereditary knowledge or curse
+### Act 3: Resolution (Session 5)
+- Final confrontation
+- Consequences
+- Epilogue hooks

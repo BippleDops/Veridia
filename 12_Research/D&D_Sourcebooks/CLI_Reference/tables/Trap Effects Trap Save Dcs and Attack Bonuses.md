@@ -22,19 +22,35 @@ updated: '2025-08-13T12:34:03.910772+00:00'
 world: Both
 ---
 
-
-
 # Trap Effects; Trap Save DCs and Attack Bonuses
-*Source: Dungeon Master's Guide p. 121. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+*Source: Dungeon Master's Guide p. 121. Available in the SRD* 
 
 **Trap Save DCs and Attack Bonuses**
 
 | Trap Danger | Save DC | Attack Bonus |
 |-------------|---------|--------------|
-| Setback | 10-11 | +3 to +5 |
+| Seck | 10-11 | +3 to +5 |
 | Dangerous | 12-15 | +6 to +8 |
 | Deadly | 16-20 | +9 to +12 |
 ^trap-save-dcs-and-attack-bonuses
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -44,19 +60,20 @@ Trap effects trap save dcs and attack bonuses is a undersea element of the setti
 
 Legends speak of trap effects trap save dcs and attack bonuses as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around trap effects trap save dcs and attack bonuses.
 
-## Adventure Hooks
-
-- A rumor ties trap effects trap save dcs and attack bonuses to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at trap effects trap save dcs and attack bonuses to avert a public scandal.
-- A map overlay reveals a hidden approach to trap effects trap save dcs and attack bonuses active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals the truth about the cult
+- A stranger needs help finding before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

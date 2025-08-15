@@ -1,4 +1,5 @@
 ---
+
 title: Memory Coherence Analyzer
 type: item
 tags:
@@ -6,18 +7,87 @@ tags:
 - needs-content
 - item
 - active
+- conspiracy
 created: 2025-08-14
 modified: '2025-08-14'
 status: placeholder
 rarity: Unknown
 value: Unknown
 updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
 
 
 # 02_Worldbuilding/Items/Memory Coherence Analyzer
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
 
 ## Description
 
@@ -26,12 +96,6 @@ updated: 2025-08-14
 ## Details
 
 *[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[Investigate Shadow Surgeons]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Investigate Shadow Surgeons]]
 
 ## Notes
 
@@ -50,22 +114,6 @@ updated: 2025-08-14
 **Attunement**: Required/Not Required
 **Value**: 100-10,000 gp
 
-
-## Mechanics
-
-### Base Properties
-- Standard item statistics
-
-### Magical Effects
-- Primary power
-- Secondary benefits
-- Activation requirements
-
-### Limitations
-- Usage restrictions
-- Recharge requirements
-
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -73,3 +121,28 @@ updated: 2025-08-14
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A corpse reveals a betrayal about this place
+- Someone is blackmailing a artifact for love
+- A corpse reveals a conspiracy about the cult
+- A shipment has gone missing and chaos spreads
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon

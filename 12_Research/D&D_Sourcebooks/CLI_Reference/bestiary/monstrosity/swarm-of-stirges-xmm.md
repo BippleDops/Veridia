@@ -34,11 +34,28 @@ updated: '2025-08-12T23:37:34.966026'
 world: Both
 ---
 
-
 # [[swarm-of-stirges-xmm|Swarm of Stirges]]
 *Source: Monster Manual (2024) p. 299*  
 
 Swarms of stirges sometimes form in swamps and Underdark caverns, draining livestock and any other creatures that can't escape them.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Stirges
 
@@ -79,9 +96,9 @@ Stirges are bat-size vermin with dagger-length proboscises that attach to other 
   - !!int "6"
 "speed": "10 ft., fly 40 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
-  \ [[conditions#Petrified|petrified]], [[conditions#Prone|prone]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#prone|prone]],\
   \ [[conditions#Restrained|restrained]], [[conditions#Stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": ""
@@ -118,19 +135,30 @@ Swarm of stirges xmm is a undersea element of the setting, known for bioluminesc
 
 Legends speak of swarm of stirges xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around swarm of stirges xmm.
 
-## Adventure Hooks
-
-- A rumor ties swarm of stirges xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at swarm of stirges xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to swarm of stirges xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- The authorities needs help stealing before winter
+- Strange disappearances suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

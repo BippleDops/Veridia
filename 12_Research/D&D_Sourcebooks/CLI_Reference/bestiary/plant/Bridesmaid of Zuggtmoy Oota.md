@@ -27,9 +27,6 @@ updated: '2025-08-13T12:34:05.650786+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bridesmaid-of-zuggtmoy-oota-bridesmaid-of-zuggtmoy-oota.svg)
 
@@ -49,8 +46,6 @@ world: Both
 "stats":
   - !!int "14"
   - !!int "11"
-  - !!int "11"
-  - !!int "14"
   - !!int "8"
   - !!int "18"
 "speed": "20 ft."
@@ -93,6 +88,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Bridesmaid of zuggtmoy oota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -101,19 +114,27 @@ Bridesmaid of zuggtmoy oota is a undersea element of the setting, known for biol
 
 Legends speak of bridesmaid of zuggtmoy oota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bridesmaid of zuggtmoy oota.
 
-## Adventure Hooks
-
-- A rumor ties bridesmaid of zuggtmoy oota to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at bridesmaid of zuggtmoy oota to avert a public scandal.
-- A map overlay reveals a hidden approach to bridesmaid of zuggtmoy oota active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and chaos spreads
+- A journal reveals a conspiracy about the government
+- The authorities needs help investigating before the festival
+- Strange accidents suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

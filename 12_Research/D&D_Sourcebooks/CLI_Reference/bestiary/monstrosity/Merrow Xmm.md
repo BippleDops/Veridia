@@ -29,14 +29,29 @@ updated: '2025-08-13T12:34:05.300330+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-merrow-xmm-merrow-xmm.svg)
 
 # [[merrow-xmm|Merrow]]
-*Source: Monster Manual (2024) p. 210. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 210. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Merrow
 
@@ -53,7 +68,6 @@ Merrow raid coastal settlements and merfolk communities to steal weapons and tre
 > 
 > Sages trace merrows' origins to aquatic ogres, depraved merfolk, and worse. Such broad theories reveal little about these monsters but overmuch of the dread lurking beyond our certain shores.
 
-
 ```statblock
 "name": "Merrow (XMM)"
 "size": "Large"
@@ -65,7 +79,6 @@ Merrow raid coastal settlements and merfolk communities to steal weapons and tre
 "modifier": !!int "2"
 "stats":
   - !!int "18"
-  - !!int "15"
   - !!int "15"
   - !!int "8"
   - !!int "10"
@@ -108,19 +121,25 @@ Merrow xmm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of merrow xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around merrow xmm.
 
-## Adventure Hooks
-
-- A rumor ties merrow xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at merrow xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to merrow xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

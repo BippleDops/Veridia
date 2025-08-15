@@ -1,4 +1,5 @@
 ---
+
 title: Pirate Lords of the Spiral Depths
 type: Npc
 tags:
@@ -18,6 +19,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.555759+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,22 +29,72 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-pirate-lords-of-the-spiral-depths-pirate-lords-of-the-spiral-depths.svg]]
 
 
-## Cross-References
+## 🔧 Deep Evaluation Improvements
 
-- [[Harbor Master Luna Freedrift]]
+*20 targeted improvements identified*
 
+### History Improvements
 
+- Add three historical eras with major events
 
+### Culture Improvements
 
-## Relationship Web
+- Define unique cultural practices and taboos
 
-- [[10-combat#Dropping_to_0_Hit_Points#Stabilizing_a_Creature]]: *business partner*
-- [[Quest - The Admiral's Gambit]]: *student*
-- [[04_Resources_Assets_Locations_location-city-temple-of-sacred-dreams-v1-temple-of-sacred-dreams.svg]]: *student*
+### Economy Improvements
 
-## Connections
+- Detail currency, trade goods, and wealth distribution
 
-- [[Harbor Master Luna Freedrift]]
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
 
 ## Player-Facing Summary
 
@@ -51,14 +104,6 @@ Pirate Lords of the Spiral Depths is a undersea element of the setting, known fo
 
 Legends speak of Pirate Lords of the Spiral Depths as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pirate Lords of the Spiral Depths.
 
-## Adventure Hooks
-
-- A rumor ties Pirate Lords of the Spiral Depths to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Pirate Lords of the Spiral Depths to avert a public scandal.
-- A map overlay reveals a hidden approach to Pirate Lords of the Spiral Depths active only during specific tides/storms.
-
-
-
 ## Appearance
 
 Pirate Lords of the Spiral Depths presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
@@ -67,8 +112,6 @@ Pirate Lords of the Spiral Depths presents a distinctive figure. Their bearing s
 - **Distinguishing Marks**: [Describe unique features]
 - **Typical Attire**: Professional garments suited to their role
 - **Mannerisms**: [Describe habits and gestures]
-
-
 
 ## Personality
 
@@ -80,8 +123,6 @@ Pirate Lords of the Spiral Depths presents a distinctive figure. Their bearing s
 
 **Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
 
-
-
 ## Background
 
 Pirate Lords of the Spiral Depths's path to their current position involved:
@@ -90,51 +131,6 @@ Pirate Lords of the Spiral Depths's path to their current position involved:
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-## Relationships
-
-### Allies
-- Professional colleagues and supporters
-- Political or business connections
-
-### Rivals
-- Competitors in their field
-- Ideological opponents
-
-### Neutral Parties
-- Those who could be swayed either way
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
 
 ## Motivations
 
@@ -145,8 +141,6 @@ Pirate Lords of the Spiral Depths's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Pirate Lords of the Spiral Depths harbors secrets that could change everything:
@@ -154,10 +148,6 @@ Pirate Lords of the Spiral Depths harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Divine mission
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -176,8 +166,6 @@ Pirate Lords of the Spiral Depths is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Pirate Lords of the Spiral Depths needs assistance with a delicate matter
@@ -186,8 +174,6 @@ Pirate Lords of the Spiral Depths is currently engaged in:
 4. **The Alliance**: Opportunity to work with or against Pirate Lords of the Spiral Depths
 5. **The Crisis**: Pirate Lords of the Spiral Depths is caught in a situation requiring intervention
 
-
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -195,8 +181,6 @@ Pirate Lords of the Spiral Depths is currently engaged in:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
 
 ## Statistics (D&D 5e)
 
@@ -224,4 +208,38 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
+
+
+## Bloodline
+
+Member of House Lionblood - Trait: prophecy
+
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

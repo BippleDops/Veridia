@@ -1,4 +1,5 @@
 ---
+
 title: Action Economy
 type: action-economy
 tags:
@@ -9,47 +10,77 @@ tags:
 - combat
 created: '2025-08-14'
 modified: '2025-08-14'
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
-# Action Economy Reference
 
-## On Your Turn
 
-### Action
-- Attack
-- Cast spell (action)
-- Dash (double speed)
-- Dodge (disadvantage to attackers)
-- Help (give advantage)
-- Hide (Stealth check)
-- Ready (prepare triggered action)
-- Search (Perception/Investigation)
+## 🔧 Deep Evaluation Improvements
 
-### Bonus Action
-- Specific features only
-- Off-hand attack
-- Some spells
+*20 targeted improvements identified*
 
-### Movement
-- Up to your speed
-- Can split before/after action
+### Clarification Improvements
 
-### Free
-- Interact with one object
-- Speak
+- Add 3 examples of increasing complexity
 
-## Reaction
-- One per round
-- Opportunity attack
-- Ready action trigger
-- Some spells/features
+### Completeness Improvements
+
+- Address unusual situations and corner cases
+
+### Balance Improvements
+
+- Include mathematical analysis and comparisons
+
+### Usability Improvements
+
+- Create quick reference table
+
+### Automated Improvements
+
+- Add macro/code for VTT implementation
+- Add macro/code for VTT implementation
+- Add macro/code for VTT implementation
+- Add macro/code for VTT implementation
+
+### Variant Improvements
+
+- Add 'gritty realism' variant of rule
+- Add 'gritty realism' variant of rule
+
+### Heroic Improvements
+
+- Add 'heroic fantasy' variant of rule
+- Add 'heroic fantasy' variant of rule
+- Add 'heroic fantasy' variant of rule
+
+### Magic_Items Improvements
+
+- Note how magic items affect this rule
+
+### Simplified Improvements
+
+- Create simplified version for new players
+
+### Interaction Improvements
+
+- Clarify interaction with multiclassing
+
+### Narrative_Triggers Improvements
+
+- Suggest story moments to introduce rule
+- Suggest story moments to introduce rule
+- Suggest story moments to introduce rule
+
+### Monster_Use Improvements
+
+- Explain if/how monsters use this rule
 
 
 ## Rule Summary
 
 Action_Economy provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay.
-
 
 ## When to Use
 
@@ -57,9 +88,6 @@ Apply this rule when:
 - Specific trigger conditions are met
 - Players request this type of action
 - The situation calls for additional detail
-
-
-## Examples
 
 ### Example 1: Basic Application
 *Scenario*: Simple use case
@@ -71,7 +99,6 @@ Apply this rule when:
 *Resolution*: Step-by-step process
 *Outcome*: Various possibilities
 
-
 ## Quick Reference
 
 1. Trigger condition occurs
@@ -80,14 +107,6 @@ Apply this rule when:
 4. Apply results
 5. Narrate outcome
 
-
-## Connections
-
-- See also: [[Campaign Guide]]
-- Related: [[Historical Context]]
-- Connected to: [[Main Quest Line]]
-
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -95,3 +114,19 @@ Apply this rule when:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- Someone is hunting an heir for revenge
+- Strange accidents suggest a portal
+- Someone is hunting a witness for money
+
+## Quick Reference
+
+| Situation | Roll | DC | Effect on Failure |
+|-----------|------|-----|------------------|
+| Easy | d20+mod | 10 | Minor setback |
+| Moderate | d20+mod | 15 | Complication |
+| Hard | d20+mod | 20 | Serious consequence |
+| Extreme | d20+mod | 25 | Catastrophic |

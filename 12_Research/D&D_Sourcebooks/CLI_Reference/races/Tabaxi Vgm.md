@@ -23,8 +23,6 @@ updated: '2025-08-13T12:34:08.052343+00:00'
 world: Both
 ---
 
-
-
 # Tabaxi
 *Source: Volo's Guide to Monsters p. 113*  
 ![](/03_Mechanics/CLI/races/img/tabaxi.webp#right)
@@ -32,8 +30,6 @@ world: Both
 - **Ability Scores**: dex +2 cha +1
 - **Size**: Medium
 - **Speed**: walk: 30 ft.; climb: 20 ft.
-
-## Traits
 
 ### Age
 
@@ -62,6 +58,24 @@ You have proficiency in the [[skills#Perception|Perception]] and [[skills#Stealt
 ### Languages
 
 You can speak, read, and write Common and one other language of your choice.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Description
 
@@ -152,7 +166,6 @@ The Tabaxi Obsession table can help hone your character's goals. For extra fun, 
 ^tabaxi-quirks
 
 > [!note] Tabaxi in the Forgotten Realms
-> 
 > In the Forgotten Realms, tabaxi hail from Maztica, a realm located far across the ocean west of the Sword Coast. The tabaxi of Maztica are known for their isolation, and until recently they never ventured from their homeland. The tabaxi say little of why that has changed, though rumors persist of strange happenings in that distant land.
 ^tabaxi-in-the-forgotten-realms
 
@@ -164,19 +177,18 @@ Tabaxi vgm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of tabaxi vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tabaxi vgm.
 
-## Adventure Hooks
-
-- A rumor ties tabaxi vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at tabaxi vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to tabaxi vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals ancient history about a local noble
+- A stranger needs help stealing before dawn
+- A merchant needs help finding before the festival
+- Strange accidents suggest a conspiracy

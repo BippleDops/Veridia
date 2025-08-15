@@ -1,4 +1,5 @@
 ---
+
 title: Parallel Storylines
 type: narrative
 tags:
@@ -7,11 +8,11 @@ tags:
 - storylines
 created: '2025-08-14'
 modified: '2025-08-14'
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
-# Parallel Storylines
 
-## Simultaneous Events
 
 ### ParallelEvent_81
 
@@ -104,11 +105,68 @@ modified: '2025-08-14'
 **Party Learns**: Never directly
 
 
-## Connections
+## 🔧 Deep Evaluation Improvements
 
-- See also: [[Campaign Guide]]
-- Related: [[Regional Politics]]
-- Connected to: [[World Events]]
+*20 targeted improvements identified*
+
+### Combat Improvements
+
+- Add encounter scaling table for parties of 3-6 players, levels 1-20
+
+### Rewards Improvements
+
+- Create treasure parcels for each major encounter
+
+### Structure Improvements
+
+- Add three-act structure with rising action
+
+### Choices Improvements
+
+- Add meaningful decision points with consequences
+
+### Roleplay Improvements
+
+- Include ethical challenges without clear answers
+
+### Worldbuilding Improvements
+
+- Connect to three other adventures in the vault
+
+### Backup Improvements
+
+- Add 'What if players skip this?' contingency
+- Add 'What if players skip this?' contingency
+- Add 'What if players skip this?' contingency
+
+### Variants Improvements
+
+- Add horror, intrigue, and comedy tone variants
+
+### Session_Zero Improvements
+
+- Add session zero integration questions
+- Add session zero integration questions
+
+### Spotlight Improvements
+
+- Include spotlight moment for each character class
+- Include spotlight moment for each character class
+
+### Props Improvements
+
+- List physical props and handouts needed
+- List physical props and handouts needed
+- List physical props and handouts needed
+
+### Soundtrack Improvements
+
+- Suggest music/ambiance for each scene
+- Suggest music/ambiance for each scene
+
+### Accessibility Improvements
+
+- Include content warnings and safety tools
 
 
 ## DM Notes
@@ -118,3 +176,18 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- Strange sightings suggest ancient magic
+- Strange disappearances suggest ancient magic
+
+## Encounter Scaling
+
+| Party Level | 3 Players | 4 Players | 5 Players | 6 Players |
+|------------|-----------|-----------|-----------|----------|
+| 1-4 | CR 2 | CR 3 | CR 4 | CR 5 |
+| 5-10 | CR 7 | CR 9 | CR 11 | CR 13 |
+| 11-16 | CR 14 | CR 17 | CR 19 | CR 21 |
+| 17-20 | CR 22 | CR 24 | CR 26 | CR 28 |

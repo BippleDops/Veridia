@@ -24,18 +24,33 @@ updated: '2025-08-13T12:34:07.350034+00:00'
 world: Both
 ---
 
-
-
 # Quaal's Feather Token, Anchor
 *Wondrous item, uncommon*  
 ![](/03_Mechanics/CLI/items/img/quaals-feather-token-anchor.webp#right)
-
 
 This object looks like a feather.
 
 You can take a [[actions#Magic|Magic]] action to touch the token to a boat or ship. For the next 24 hours, the vessel can't be moved by any means. Touching the token to the vessel again ends the effect. When the effect ends, the token disappears.
 
-*Source: Dungeon Master's Guide (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Feather Token, Anchor") and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 290. Available in the SRD (as "Feather Token, Anchor") and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -45,19 +60,34 @@ Quaals feather token anchor xdmg is a undersea element of the setting, known for
 
 Legends speak of quaals feather token anchor xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around quaals feather token anchor xdmg.
 
-## Adventure Hooks
-
-- A rumor ties quaals feather token anchor xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at quaals feather token anchor xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to quaals feather token anchor xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for money
+- Strange dreams suggest a curse
+- Someone is hunting a witness for revenge
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

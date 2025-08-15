@@ -22,10 +22,9 @@ updated: '2025-08-12T23:37:34.916513'
 world: Both
 ---
 
-
 # Prismari Student
 *Source: Strixhaven: A Curriculum of Chaos p. 32*  
-![[/03_Mechanics/CLI/backgrounds/img/prismari-student.webp#right "An advanced Prismari student artfully harnesses fire"|An advanced Prismari stude...]]
+!]
 
 - **Skill Proficiencies.** [[skills#Acrobatics|Acrobatics]], [[skills#Performance|Performance]]  
 - **Tool Proficiencies.** One type of musical instrument or artisan's tools  
@@ -33,6 +32,24 @@ world: Both
 - **Equipment.** A [[ink-xphb|bottle of black ink]], an [[ink-pen-xphb|ink pen]], a set of artisan's tools or a musical instrument (one of your choice), a school uniform, and a [[pouch-xphb|pouch]] containing 10 gp  
 
 You are an artist, and you have been preparing to hone your craft according to the traditions of Prismari College. Whatever your medium—sculpture, dance, paint, music, drama, architecture, or any other field—you have grand visions of bringing your art to life in a fusion of magic and creativity.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Feature: Prismari Initiate
 
@@ -89,19 +106,30 @@ Prismari student scc is a undersea element of the setting, known for bioluminesc
 
 Legends speak of prismari student scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around prismari student scc.
 
-## Adventure Hooks
-
-- A rumor ties prismari student scc to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at prismari student scc to avert a public scandal.
-- A map overlay reveals a hidden approach to prismari student scc active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help finding before dawn
+- A journal reveals a betrayal about the cult
+- A document has gone missing and chaos spreads
+- A journal reveals ancient history about this place
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

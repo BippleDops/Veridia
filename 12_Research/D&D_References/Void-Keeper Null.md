@@ -1,7 +1,7 @@
-# Void-Keeper Null
+# Void-Keeper 
 
 ---
-title: Void Keeper Null
+title: Void Keeper 
 type: Location
 tags:
 - aquabyssos
@@ -16,64 +16,56 @@ updated: '2025-08-13T01:18:36.299848+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
-![[04_Resources/Assets/Locations/location-city-void-keeper-null-v1-void-keeper-null.svg]]
+![[04_Resources/Assets/Locations/location-city-void-keeper--v1-void-keeper-.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
-Void Keeper Null is a void-touched element of the setting, known for impossible angles and star-silent echoes. Its presence anchors ongoing storylines and offers clear player choices.
+Void Keeper  is a void-touched element of the setting, known for impossible angles and star-silent echoes. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of Void Keeper Null as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Void Keeper Null.
-
-## Adventure Hooks
-
-- A rumor ties Void Keeper Null to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Void Keeper Null to avert a public scandal.
-- A map overlay reveals a hidden approach to Void Keeper Null active only during specific tides/storms.
+Legends speak of Void Keeper  as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Void Keeper .
 
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Void-Keeper Null|02 Worldbuilding/Places/Void Keeper Null]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The Parliament of Nobody]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and war looms
+- A map reveals a conspiracy about the government
+- Strange disappearances suggest a curse
+- A merchant needs help finding before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

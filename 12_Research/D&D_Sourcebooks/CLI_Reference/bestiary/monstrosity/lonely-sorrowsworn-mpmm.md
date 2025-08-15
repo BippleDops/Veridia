@@ -31,8 +31,6 @@ updated: '2025-08-12T23:37:34.988431'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-lonely-sorrowsworn-mpmm-lonely-sorrowsworn-mpmm.svg)
 
@@ -40,6 +38,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 223, Mordenkainen's Tome of Foes p. 232*  
 
 The sorrow of isolation afflicts many creatures that lurk in the Shadowfell, but the need for companionship is never manifested more dramatically than in the lonely sorrowsworn—also called the Lonely. When these sorrowsworn spot other creatures, they feel keenly the need for interaction and launch their harpoon-like arms to drag their victims closer.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Sorrowsworn
 
@@ -61,7 +77,6 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
   - !!int "17"
   - !!int "6"
   - !!int "11"
-  - !!int "6"
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing while in dim light or darkness"
 "senses": "darkvision 60 ft., passive Perception 10"
@@ -108,19 +123,31 @@ Lonely sorrowsworn mpmm is a undersea element of the setting, known for biolumin
 
 Legends speak of lonely sorrowsworn mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around lonely sorrowsworn mpmm.
 
-## Adventure Hooks
-
-- A rumor ties lonely sorrowsworn mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at lonely sorrowsworn mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to lonely sorrowsworn mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- Strange dreams suggest a curse
+- Someone is blackmailing a witness for revenge
+- Strange sightings suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

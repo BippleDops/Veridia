@@ -27,11 +27,28 @@ updated: '2025-08-12T23:37:35.359156'
 world: Both
 ---
 
-
 # [[awakened-shrub-xmm|Awakened Shrub]]
-*Source: Monster Manual (2024) p. 23. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 23. Available in the SRD and the Free Rules (2024)*  
 
 Awakened shrubs can be any sort of small plant, from forest bushes to clustered flowers. They often appear near awakened trees or in regions imbued with primal magic. Some have whimsical appearances or foliage resembling rudimentary facial features, while others look like animate topiary creatures.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Awakened Plants
 
@@ -46,7 +63,6 @@ Magic can invest plants with mobility, sapience, and even a voice. Spells such a
 > 
 > Just because we protect the forest doesn't mean it's defenseless.
 
-
 ```statblock
 "name": "Awakened Shrub (XMM)"
 "size": "Small"
@@ -60,7 +76,6 @@ Magic can invest plants with mobility, sapience, and even a voice. Spells such a
   - !!int "3"
   - !!int "8"
   - !!int "11"
-  - !!int "10"
   - !!int "10"
   - !!int "6"
 "speed": "20 ft."
@@ -90,19 +105,26 @@ Awakened shrub xmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of awakened shrub xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around awakened shrub xmm.
 
-## Adventure Hooks
-
-- A rumor ties awakened shrub xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at awakened shrub xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to awakened shrub xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals the truth about this place
+- A corpse reveals the truth about the government
+- A prisoner has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

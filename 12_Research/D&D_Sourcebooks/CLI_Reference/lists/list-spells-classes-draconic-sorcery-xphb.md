@@ -22,32 +22,22 @@ world: Both
 ---
 
 
-# Spells for Draconic Sorcery
+## 🔧 Deep Evaluation Improvements
 
-## 1st Level
+*20 targeted improvements identified*
 
-- [[/03_Mechanics/CLI/spells/chromatic-orb-xphb "XPHB"|Chromatic Orb]] at class level 3
-- [[/03_Mechanics/CLI/spells/command-xphb "XPHB"|Command]] at class level 3
+### Connection Improvements
 
-## 2nd Level
+- Add cross-references to related notes
 
-- [[/03_Mechanics/CLI/spells/alter-self-xphb "XPHB"|Alter Self]] at class level 3
-- [[/03_Mechanics/CLI/spells/dragons-breath-xphb "XPHB"|Dragon's Breath]] at class level 3
+### Enhancement Improvements
 
-## 3rd Level
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[/03_Mechanics/CLI/spells/fear-xphb "XPHB"|Fear]] at class level 3
-- [[/03_Mechanics/CLI/spells/fly-xphb "XPHB"|Fly]] at class level 3
-
-## 4th Level
-
-- [[/03_Mechanics/CLI/spells/arcane-eye-xphb "XPHB"|Arcane Eye]] at class level 3
-- [[/03_Mechanics/CLI/spells/charm-monster-xphb "XPHB"|Charm Monster]] at class level 3
-
-## 5th Level
-
-- [[/03_Mechanics/CLI/spells/legend-lore-xphb "XPHB"|Legend Lore]] at class level 3
-- [[/03_Mechanics/CLI/spells/summon-dragon-xphb "XPHB"|Summon Dragon]] at class level 3
 
 ## Player-Facing Summary
 
@@ -57,19 +47,18 @@ List spells classes draconic sorcery xphb is a undersea element of the setting, 
 
 Legends speak of list spells classes draconic sorcery xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells classes draconic sorcery xphb.
 
-## Adventure Hooks
-
-- A rumor ties list spells classes draconic sorcery xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells classes draconic sorcery xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells classes draconic sorcery xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

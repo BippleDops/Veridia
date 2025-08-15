@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:06.084685+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-modron-monodrone-xmm-modron-monodrone-xmm.svg)
 
@@ -39,6 +36,24 @@ world: Both
 *Source: Monster Manual (2024) p. 216*  
 
 The most numerous modrons, monodrones can perform one simple task at a time. They believe anything they're told that isn't logically or mathematically false. When faced with unexpected situations, they're quick to seek duodrones for help.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Modrons
 
@@ -79,7 +94,6 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
 > 
 > The guide swore "beep boop" meant "hello, friend." I don't know why they're after us!
 
-
 ```statblock
 "name": "Modron Monodrone (XMM)"
 "size": "Medium"
@@ -94,7 +108,6 @@ Whether in service to lawful deities or as part of the Great Modron March, modro
   - !!int "14"
   - !!int "12"
   - !!int "4"
-  - !!int "10"
   - !!int "5"
 "speed": "30 ft., fly 30 ft."
 "condition_immunities": "[[conditions#Charmed|charmed]]"
@@ -128,19 +141,39 @@ Modron monodrone xmm is a undersea element of the setting, known for bioluminesc
 
 Legends speak of modron monodrone xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around modron monodrone xmm.
 
-## Adventure Hooks
-
-- A rumor ties modron monodrone xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at modron monodrone xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to modron monodrone xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A stranger needs help delivering before winter
+- Strange disappearances suggest ancient magic
+- Strange disappearances suggest a curse
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

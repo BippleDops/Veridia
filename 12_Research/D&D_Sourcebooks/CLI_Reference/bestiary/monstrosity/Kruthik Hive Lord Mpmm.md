@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:05.317903+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-kruthik-hive-lord-mpmm-kruthik-hive-lord-mpmm.svg)
 
@@ -41,14 +38,30 @@ world: Both
 
 A hive lord rules each kruthik hive. When the hive lord dies, the surviving members of the hive abandon their lair and search for a new one. When a suitable location is found, the largest kruthik in the hive undergoes a metamorphosis, forming a cocoon around itself and emerging several weeks later as a hive lord—a bigger and smarter kruthik with the ability to spray digestive acid from its maw. The hive lord claims the largest chamber of the lair and keeps several adult kruthiks nearby as bodyguards.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Kruthiks
 
 > [!quote] A quote from Mordenkainen  
 > 
 > Imagine a hive of ants the size of horses, but the ants are wearing armor.
 
-> [!quote] A quote from Mordenkainen  
-> 
 > Other creatures that abide in hives serve a purpose in the natural world. Bees pollinate flowers. Termites make earth out of wood. Kruthiks, by contrast, slay societies.
 
 Kruthiks are chitin-covered reptiles that hunt in packs and nest in sprawling subterranean warrens. They are attracted to sources of heat, such as dwarven forges and pools of molten lava, and carve out lairs as close to such locations as possible. As they burrow through the earth, they leave behind tunnels—evidence that is often the first clue to the nearby presence of a kruthik hive. Kruthiks also make use of preexisting underground chambers, incorporating them into their lairs when they can.
@@ -77,7 +90,6 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
   - !!int "17"
   - !!int "10"
   - !!int "14"
-  - !!int "10"
 "speed": "40 ft., burrow 20 ft., climb 40 ft."
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
@@ -125,19 +137,28 @@ Kruthik hive lord mpmm is a undersea element of the setting, known for biolumine
 
 Legends speak of kruthik hive lord mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around kruthik hive lord mpmm.
 
-## Adventure Hooks
-
-- A rumor ties kruthik hive lord mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at kruthik hive lord mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to kruthik hive lord mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

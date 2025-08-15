@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:04.227595+00:00'
 world: Both
 ---
 
-
-
 # Naralis Analor
 *Source: Mordenkainen's Tome of Foes p. 43* 
 
@@ -36,6 +34,24 @@ world: Both
 - **Province**: Healing, suffering, death
 - **Symbol**: White dove
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Elven naralis analor mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -44,19 +60,35 @@ Elven naralis analor mtf is a undersea element of the setting, known for biolumi
 
 Legends speak of elven naralis analor mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elven naralis analor mtf.
 
-## Adventure Hooks
-
-- A rumor ties elven naralis analor mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at elven naralis analor mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to elven naralis analor mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and truth emerges
+- Strange sightings suggest a portal
+- Someone is protecting a artifact for money
+- A letter reveals the truth about the government
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

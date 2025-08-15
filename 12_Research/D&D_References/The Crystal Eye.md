@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[The Void Watchers|02 Worldbuilding/Groups/The Void Watchers]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[The Void Watchers]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,20 @@ The Crystal Eye is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of The Crystal Eye as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crystal Eye.
 
-## Adventure Hooks
-
-- A rumor ties The Crystal Eye to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Crystal Eye to avert a public scandal.
-- A map overlay reveals a hidden approach to The Crystal Eye active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

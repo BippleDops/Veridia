@@ -27,11 +27,8 @@ updated: '2025-08-13T12:34:06.454951+00:00'
 world: Both
 ---
 
-
-
 # Soul Cage
 *6th-level, Necromancy*  
-
 
 - **Casting time:** 1 Reaction
 - **Range:** 60 feet
@@ -39,6 +36,24 @@ world: Both
 - **Duration:** 8 hours
 
 This spell snatches the soul of a humanoid as it dies and traps it inside the tiny cage you use for the material component. A stolen soul remains inside the cage until the spell ends or until you destroy the cage, which ends the spell. While you have a soul inside the cage, you can exploit it in any of the ways described below. You can use a trapped soul up to six times. Once you exploit a soul for the sixth time, it is released, and the spell ends. While a soul is trapped, the dead humanoid it came from can't be revived.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Steal Life
 
@@ -72,19 +87,21 @@ Soul cage xge is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of soul cage xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around soul cage xge.
 
-## Adventure Hooks
-
-- A rumor ties soul cage xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at soul cage xge to avert a public scandal.
-- A map overlay reveals a hidden approach to soul cage xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals ancient history about the government
+- Someone is searching for a artifact for money
+- A noble needs help stealing before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

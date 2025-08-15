@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.855475'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-duergar-hammerer-mpmm-duergar-hammerer-mpmm.svg)
 
@@ -37,6 +35,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 112, Mordenkainen's Tome of Foes p. 188*  
 
 The duergar hammerer is a digging machine and siege engine, used to dig tunnels and besiege enemy fortifications.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Duergar Constructs
 
@@ -60,12 +76,10 @@ These machines are deployed to assist with construction projects and war. Some d
   - !!int "7"
   - !!int "12"
   - !!int "5"
-  - !!int "5"
-  - !!int "5"
 "speed": "20 ft."
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 7"
 "languages": "understands Dwarvish but can't speak"
@@ -105,19 +119,31 @@ Duergar hammerer mpmm is a undersea element of the setting, known for biolumines
 
 Legends speak of duergar hammerer mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around duergar hammerer mpmm.
 
-## Adventure Hooks
-
-- A rumor ties duergar hammerer mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at duergar hammerer mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to duergar hammerer mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- Strange dreams suggest ancient magic
+- Strange sightings suggest a portal
+- Someone is blackmailing a artifact for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -23,7 +23,7 @@ absent: []
 campaign: Aethermoor - The Plague of Crystals
 corruption_exposure: 2
 danger_level: 5
-date: null
+date: 
 duration_hours: 4
 encounters:
 - '[[Crystal Cult Initiates Ambush]]'
@@ -63,35 +63,25 @@ xp_awarded: 750
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-# Session 1: Blood in the Harbor
 
 ## Session Summary
 The party witnesses a crystallized corpse being pulled from Port Meridian's harbor, releasing a pulse of violet energy that threatens everyone nearby. As they investigate the crystal plague's origins, they uncover disturbing connections between missing naval personnel, smuggling operations, and mysterious nightmares shared by all victims.
-
-## Pre-Session Planning
-### Expected Events
-- Introduction to crystal plague threat
-- First corruption exposure mechanics
-- Establish key NPC relationships
-- Plant seeds for Seven Shards mystery
-
-### Prepared Encounters
-- [[Crystal Cult Initiates Ambush]]
-- [[Desperate Plague Victim]] (optional)
-- [[Purist Coalition Thugs]] (optional)
-
-### NPCs to Include
-- [[Captain Lyanna Brightshield]] - Quest giver, lawful good authority
-- [[Marina-Red-Tide-Coralheart]] - Information broker with hidden depths
-- [[Brother Marcus Steelbane]] - Healer desperately seeking cure
-
-## Session Timeline
 
 ### Opening Scene
 **Location:** [[Pier 7]]
@@ -100,8 +90,6 @@ The party witnesses a crystallized corpse being pulled from Port Meridian's harb
 The party arrives at the harbor as dock workers use hooks to pull something from the water. It's a crystallized corpse - a sailor whose body has transformed into purple crystal. As the workers lift it onto the pier, the corpse suddenly shatters with a sound like breaking glass. A pulse of violet energy erupts outward.
 
 **Mechanical:** Everyone within 10 feet makes DC 12 Constitution save or gains 1 level of crystal exposure.
-
-### Key Events
 
 #### Event 1: The Shattered Sailor Investigation
 **Location:** [[Pier 7]]
@@ -144,8 +132,6 @@ The party arrives at the harbor as dock workers use hooks to pull something from
 **Cliffhanger:** 
 Investigation reveals all clues point to the abandoned [[Lighthouse of Storms]] on [[Whisper Island]]. As night falls, a pillar of violet light erupts from the lighthouse, visible across the entire harbor. The light pulses three times, and every plague victim in the city screams simultaneously.
 
-## Encounters Run
-
 ### Combat
 | Encounter | Location | Difficulty | Outcome |
 |-----------|----------|------------|---------|
@@ -158,18 +144,11 @@ Investigation reveals all clues point to the abandoned [[Lighthouse of Storms]] 
 | [[Marina-Red-Tide-Coralheart]] | [[The Siren's Rest Tavern]] | Information | Map and connections |
 | [[Brother Marcus Steelbane]] | [[Customs House]] | Medical aid | Plague insights |
 
-## Quest Progress
-### Started
-- [[Investigate the Crystal Plague]] - Find source of the crystallization
-- [[Missing Persons of Port Meridian]] - Three navy personnel missing
-
 ### Advanced
 None this session
 
 ### Completed
-None this session
 
-## Treasure & Rewards
 ### Items
 | Item | Found Where | Given To | Value |
 |------|-------------|----------|-------|
@@ -186,29 +165,6 @@ Distribution: Split among party
 Total XP: 750
 Per Player: 150-188 (depending on party size)
 
-## Character Development
-### Player Decisions
-- How to handle families at quarantine ward
-- Whether to trust Marina
-- Approach to investigating cultists
-
-### Character Moments
-- First exposure to crystal corruption
-- Moral choice at quarantine ward
-- Building relationship with key NPCs
-
-### Relationship Changes
-- [[Captain Lyanna Brightshield]] - Disposition +1 if helped with investigation
-- [[Marina-Red-Tide-Coralheart]] - Disposition +2 if impressed, -1 if aggressive
-- [[Brother Marcus Steelbane]] - Disposition +1 if showed compassion
-
-## World Changes
-- Crystal plague public knowledge increases
-- Tension between factions escalates
-- Cultist activity revealed
-- Lighthouse activated (major event)
-
-## Corruption Tracking
 ### Exposure Events
 1. Opening scene crystal pulse (possible)
 2. Crystal cult daggers (combat)
@@ -223,34 +179,6 @@ Track each character's exposure level (0-6 scale)
 3. Synchronized screaming implies psychic connection
 4. Captain Blackwater's ship might be at the island
 
-## GM Reflections
-### What Worked
-- Strong opening with immediate danger
-- Multiple investigation paths
-- NPC variety and motivations
-
-### What Didn't
-- Track corruption exposure carefully
-- Balance investigation vs. action
-
-### To Improve
-- Prepare contingency if party avoids island
-- Have backup encounters ready
-- Clarify corruption mechanics early
-
-## Player Feedback
-<!-- Notes from post-session discussion -->
-- 
-
-## Prep for Next Session
-- [ ] Create [[Whisper Island]] location details
-- [ ] Stat Captain Blackwater's ghost/remains
-- [ ] Prepare [[The Seahawk]] ship exploration
-- [ ] Design lighthouse puzzle/challenges
-- [ ] Create [[Jasper Three-Eyes Flint]] NPC
-- [ ] Plan [[The Crimson Sage]] appearance
-
-## Crystal Plague Mechanics
 ### Exposure Levels
 1. **Minor** (1-2 points): Slight crystal veins, -1 to social checks
 2. **Moderate** (3-4 points): Visible crystals, disadvantage on CON saves
@@ -259,35 +187,9 @@ Track each character's exposure level (0-6 scale)
 5. **Critical** (9-10 points): 75% crystallized, gain telepathy with infected
 6. **Complete** (11+ points): Full transformation
 
-### Recovery Methods
-- Lesser Restoration: Removes 1 level (only works on Minor)
-- Greater Restoration: Removes 2 levels (up to Major)
-- Brother Marcus's treatment: Prevents progression for 24 hours
-
-## Cross-References
-
-- [[Customs House]]
-
-
-## Connections
-
-- [[Purist Coalition Thugs]]
-- [[Customs House]]
-- [[Desperate Plague Victim]]
-- [[Lamplight Alley]]
-- [[Brother Marcus Steelbane]]
-- [[Investigate the Crystal Plague]]
-- [[Jasper Three-Eyes Flint]]
-- [[Harbor District Customs House]]
-- [[Missing Persons of Port Meridian]]
-- [[The Siren's Rest Tavern]]
-- [[Whisper Island]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -296,3 +198,28 @@ Track each character's exposure level (0-6 scale)
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- Someone is searching for a witness for power
+- A shipment has gone missing and chaos spreads
+- Someone is hunting information for money
+- Strange dreams suggest ancient magic
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

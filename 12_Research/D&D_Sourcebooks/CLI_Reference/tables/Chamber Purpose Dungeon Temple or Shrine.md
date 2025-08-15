@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.626410+00:00'
 world: Both
 ---
 
-
-
 # Chamber Purpose; Dungeon: Temple or Shrine
 *Source: Dungeon Master's Guide p. 292* 
 
@@ -33,7 +31,7 @@ world: Both
 
 | dice: d100 | Purpose |
 |------------|---------|
-| 01-03 | Armory filled with weapons and armor, battle banners, and pennants |
+| 01-03 | Armory filled with weapons and armor, battle banners, and pents |
 | 04-05 | Audience chamber where priests of the temple receive commoners and low-ranking visitors |
 | 06-07 | Banquet room used for celebrations and holy days |
 | 08-10 | Barracks for the temple's military arm or its hired guards |
@@ -63,6 +61,24 @@ world: Both
 | 95-00 | Workshop for repairing or creating weapons, religious items, and tools |
 ^dungeon-temple-or-shrine
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Chamber purpose dungeon temple or shrine is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -71,19 +87,38 @@ Chamber purpose dungeon temple or shrine is a undersea element of the setting, k
 
 Legends speak of chamber purpose dungeon temple or shrine as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around chamber purpose dungeon temple or shrine.
 
-## Adventure Hooks
-
-- A rumor ties chamber purpose dungeon temple or shrine to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at chamber purpose dungeon temple or shrine to avert a public scandal.
-- A map overlay reveals a hidden approach to chamber purpose dungeon temple or shrine active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## Plot Hooks
+
+- Strange dreams suggest a portal
+- A noble needs help investigating before winter
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

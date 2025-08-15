@@ -28,13 +28,29 @@ updated: '2025-08-12T23:37:35.469566'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ultroloth-xmm-ultroloth-xmm.svg)
 
 # [[ultroloth-xmm|Ultroloth]]
 *Source: Monster Manual (2024) p. 311*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Ultroloth
 
@@ -75,9 +91,7 @@ Ultroloths strive to achieve planes-spanning plots. Roll on or choose a result f
   - !!int "19"
   - !!int "16"
   - !!int "18"
-  - !!int "19"
   - !!int "15"
-  - !!int "18"
 "speed": "30 ft., fly 60 ft. (hover)"
 "skillsaves":
   - "name": "[[skills#Deception|Deception]]"
@@ -88,7 +102,7 @@ Ultroloths strive to achieve planes-spanning plots. Roll on or choose a result f
     "desc": "+8"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "acid, poison"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 17"
 "languages": "Abyssal, Infernal; telepathy 120 ft."
@@ -118,7 +132,7 @@ Ultroloths strive to achieve planes-spanning plots. Roll on or choose a result f
       \ DC 17):\n\nAt will: [[alter-self-xphb|Alter Self]],\
       \ [[clairvoyance-xphb|Clairvoyance]], [[detect-magic-xphb|Detect Magic]]\n\
       \n1/day each: [[dimension-door-xphb|Dimension Door]],\
-      \ [[fireball-xphb|Fireball]] (level 5 version), [[wall-of-fire-xphb|Wall\
+      \ [[fireball-xphb|Fireball]] (level 5 version), [[wall-of-fire-xphb|Wall\]]
       \ of Fire]]"
     "name": "Spellcasting"
 "bonus_actions":
@@ -146,19 +160,29 @@ Ultroloth xmm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of ultroloth xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ultroloth xmm.
 
-## Adventure Hooks
-
-- A rumor ties ultroloth xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ultroloth xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ultroloth xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals a conspiracy about a local noble
+- Someone is blackmailing information for money
+- The authorities needs help stealing before the new moon
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

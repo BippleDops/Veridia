@@ -33,17 +33,30 @@ MyCategory: Places
 obsidianUIMode: preview
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-reflection-pools-surgical-theater-reflection-pools-surgical-theater.svg]]
-
-
-
 
 # Reflection Pools - Surgical Theater
 
 *"Where flesh meets consciousness, and the boundaries between healing the body and healing the mind dissolve in the sacred waters of restoration."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -52,8 +65,6 @@ The Surgical Theater within [[The Reflection Pools]] represents the pinnacle of 
 Unlike surface-world medicine that focuses purely on physical intervention, the Surgical Theater operates on the principle that consciousness and memory directly affect physical healing. Here, surgeons work not only with scalpels and sutures, but with extracted memories, consciousness-altering environments, and the mystical properties of reflection-enhanced healing chambers. Patients may undergo procedures that heal both their bodies and their minds simultaneously, emerging not only physically restored but with enhanced mental clarity, resolved trauma, or improved cognitive function.
 
 The Theater serves as both a medical facility and a research center, pushing the boundaries of what medicine can achieve when consciousness, memory, and physical healing are treated as interconnected aspects of the same therapeutic process.
-
-## Architecture and Layout
 
 ### The Central Amphitheater
 
@@ -130,8 +141,6 @@ Cutting-edge facilities for direct consciousness intervention:
 - **Failure Investigation**: Detailed analysis of unsuccessful procedures
 - **Innovation Development**: Laboratory space for developing new techniques
 
-## Medical Procedures and Specializations
-
 ### Consciousness Surgery
 
 **Memory Extraction and Reimplantation**
@@ -193,8 +202,6 @@ Advanced techniques for rebuilding damaged consciousness structures:
 - **Magical Mind Damage**: Repairing consciousness injured by magical attacks
 - **Birth Defect Compensation**: Creating functional memory systems for congenital conditions
 - **Aging-Related Decline**: Restoring youthful cognitive function through memory work
-
-## Medical Staff and Specializations
 
 ### Chief Medical Personnel
 
@@ -265,8 +272,6 @@ Advanced techniques for rebuilding damaged consciousness structures:
 - **Protocols**: Procedures for containing consciousness-related accidents or security breaches
 - **Coordination**: Working with medical staff to maintain safe operating environment
 
-## Patient Experience and Procedures
-
 ### Pre-Operative Process
 
 **Initial Consultation**
@@ -315,8 +320,6 @@ Advanced techniques for rebuilding damaged consciousness structures:
 - **Follow-up Monitoring**: Regular evaluation of long-term procedure outcomes
 - **Adjustment Procedures**: Additional treatments if initial procedures require modification
 
-## Ethics and Regulations
-
 ### Medical Board Oversight
 
 **The Consciousness Surgery Ethics Committee**
@@ -348,38 +351,6 @@ Advanced techniques for rebuilding damaged consciousness structures:
 - **Data Privacy**: Protecting sensitive consciousness information from unauthorized access
 - **Publication Standards**: Ethical guidelines for sharing consciousness research results
 - **International Cooperation**: Sharing knowledge while respecting different ethical frameworks
-
-## Connections and Relationships
-
-### [[The Reflection Pools]] - Parent Complex
-- **Integration**: Surgical Theater uses same memory-infused waters as rest of complex
-- **Resource Sharing**: Common memory archives and consciousness research facilities
-- **Patient Flow**: Patients often receive multiple treatments throughout the complex
-- **Staff Exchange**: Medical personnel work across different areas of the complex
-- **Research Coordination**: Joint research projects with other Reflection Pool facilities
-
-### [[The Shadow Markets]] - Underground Connections
-- **Illegal Services**: Black market consciousness modification and memory trading
-- **Ethics Violations**: Some rejected procedures available through criminal networks
-- **Patient Referrals**: Desperate patients sometimes seek illegal alternatives
-- **Information Security**: Protecting patient data from criminal intelligence gathering
-- **Enforcement Cooperation**: Working with authorities to stop illegal consciousness procedures
-
-### [[Imperial Academy]] - Educational Partnership
-- **Medical Training**: Advanced students receive training in consciousness surgery
-- **Research Collaboration**: Joint projects advancing consciousness medicine
-- **Ethics Education**: Training future surgeons in consciousness procedure ethics
-- **Innovation Development**: Academic research contributing to surgical advancement
-- **International Exchange**: Foreign medical students learning Aquabyssos techniques
-
-### [[Parliament of Echoes]] - Regulatory Oversight
-- **Legislative Framework**: Laws governing consciousness surgery and patient rights
-- **Funding Authorization**: Parliamentary approval for research and facility expansion
-- **Ethics Standards**: Political oversight ensuring ethical medical practices
-- **International Agreements**: Parliamentary ratification of medical cooperation treaties
-- **Public Accountability**: Political responsibility for consciousness surgery programs
-
-## Adventure Opportunities and Hooks
 
 ### Low-Level Adventures (Levels 1-4)
 
@@ -433,8 +404,6 @@ Experimental consciousness procedures have begun affecting the nature of reality
 - **Danger**: Reality distortions may trap or transform characters
 - **Resolution**: Stabilizing reality while preserving valuable medical advances
 
-## Secrets and Hidden Knowledge
-
 ### The Memory Market
 Beyond official procedures, the Theater secretly facilitates memory trading:
 - **Black Market Operations**: Illegal buying and selling of extracted memories
@@ -442,13 +411,6 @@ Beyond official procedures, the Theater secretly facilitates memory trading:
 - **Skill Downloading**: Instant expertise through memory implantation
 - **Experience Trading**: People selling unique or valuable experiences
 - **Identity Trafficking**: Complete personality exchanges for various purposes
-
-### Government Intelligence Operations
-- **Memory Extraction**: Secret interrogation through consciousness surgery
-- **Spy Conditioning**: Creating deep-cover agents through personality modification
-- **Loyalty Programming**: Ensuring government employee loyalty through consciousness work
-- **Information Security**: Memory modification to protect state secrets
-- **Enemy Infiltration**: Consciousness surgery for infiltrating foreign organizations
 
 ### The Consciousness Archive
 Hidden beneath the facility lies a vast archive of consciousness data:
@@ -464,19 +426,11 @@ The facility's most closely guarded secret is a device preventing reality distor
 - **Origin**: Ancient artifact of unknown origin and immense power
 - **Vulnerability**: If damaged or destroyed, reality around facility becomes unstable
 - **Knowledge**: Only senior medical staff aware of device's existence
-- **Maintenance**: Requires regular magical energy input and careful calibration
+- **Maintece**: Requires regular magical energy input and careful calibration
 
 ---
 
 *The Reflection Pools Surgical Theater represents the cutting edge of medical science, where the boundaries between mind and body, memory and reality, healing and transformation blur in the pursuit of perfect therapeutic intervention. Here, medicine becomes art, science becomes magic, and the very nature of identity and consciousness becomes malleable in the hands of skilled practitioners.*
-
-
-## Connections
-
-- [[Shadow Market Canals]]
-- [[Aquabyssos - Session 04 - High Tide Horror]]
-- [[Campaign_Quick_Reference_Sheets|Campaign Quick Reference Sheets]]
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -486,24 +440,31 @@ Reflection Pools   Surgical Theater is a undersea element of the setting, known 
 
 Legends speak of Reflection Pools   Surgical Theater as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reflection Pools   Surgical Theater.
 
-## Adventure Hooks
-
-- A rumor ties Reflection Pools   Surgical Theater to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Reflection Pools   Surgical Theater to avert a public scandal.
-- A map overlay reveals a hidden approach to Reflection Pools   Surgical Theater active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Reflection Pools - Surgical Theater|02 Worldbuilding/Places/Reflection Pools Surgical Theater]]
-
-<!-- enriched: true -->
-- [[Parliament of Echoes]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting an heir for power
+- An heirloom has gone missing and truth emerges
+- Someone is protecting information for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

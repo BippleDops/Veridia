@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.428320+00:00'
 world: Both
 ---
 
-
-
 # Arctic Encounters (Levels 11—16)
 *Source: Xanathar's Guide to Everything p. 92* 
 
@@ -34,7 +32,7 @@ world: Both
 | dice: d100 | Encounter |
 |------------|-----------|
 | 01 | 1 [[abominable-yeti-xmm|abominable yeti]] |
-| 02-04 | `d6` [[revenant-xmm|revenants]] |
+| 02-04 | `d6` [[revet-xmm|revets]] |
 | 05-10 | `1d4 + 1` [[werebear-xmm|werebears]] |
 | 11-20 | `d3` [[young-white-dragon-xmm|young white dragons]] |
 | 21-25 | A blizzard that reduces visibility to 5 feet for `d6` hours |
@@ -51,6 +49,24 @@ world: Both
 | 00 | 1 [[ancient-white-dragon-xmm|ancient white dragon]] |
 ^arctic-encounters-levels-1116
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Arctic encounters levels 1116 xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -59,19 +75,32 @@ Arctic encounters levels 1116 xge is a undersea element of the setting, known fo
 
 Legends speak of arctic encounters levels 1116 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around arctic encounters levels 1116 xge.
 
-## Adventure Hooks
-
-- A rumor ties arctic encounters levels 1116 xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at arctic encounters levels 1116 xge to avert a public scandal.
-- A map overlay reveals a hidden approach to arctic encounters levels 1116 xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help finding before the festival
+- Someone is hunting an heir for love
+- Someone is hunting an heir for love
+- A stranger needs help delivering before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

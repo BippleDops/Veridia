@@ -32,9 +32,6 @@ updated: '2025-08-13T12:34:05.743308+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-elder-tempest-mpmm-elder-tempest-mpmm.svg)
 
@@ -55,7 +52,6 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
 "stats":
   - !!int "23"
   - !!int "28"
-  - !!int "23"
   - !!int "2"
   - !!int "21"
   - !!int "18"
@@ -68,7 +64,7 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
 "condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
   \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
-  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#prone|prone]], [[conditions#Restrained|restrained]],\
   \ [[conditions#Stunned|stunned]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": ""
@@ -120,7 +116,7 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
       \ wall or floor) or another creature, the target takes 3 (d6) bludgeoning damage\
       \ for every 10 feet it was thrown before impact. If the target collides with\
       \ another creature, that other creature must succeed on a DC 19 Dexterity saving\
-      \ throw or take the same impact damage and be knocked [[conditions#Prone|prone]]."
+      \ throw or take the same impact damage and be knocked [[conditions#prone|prone]]."
     "name": "Screaming Gale (Costs 3 Actions)"
 "source":
   - "MPMM"
@@ -128,6 +124,24 @@ Terrifying storms manifest in the bodies of elder tempests. Beings carved from c
 "image": "/03_Mechanics/CLI/bestiary/elemental/token/elder-tempest-mpmm.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Environment
 
@@ -141,19 +155,22 @@ Elder tempest mpmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of elder tempest mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elder tempest mpmm.
 
-## Adventure Hooks
-
-- A rumor ties elder tempest mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at elder tempest mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to elder tempest mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and truth emerges
+- A document has gone missing and chaos spreads
+- A map reveals ancient history about this place
+- A prisoner has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

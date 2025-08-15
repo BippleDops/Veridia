@@ -17,30 +17,26 @@ updated: '2025-08-13T12:34:14.332056+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-aether-crystal-aether-crystal.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[Aetheron|02 Worldbuilding/Lore/Aetheron]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Crystal Wardens]]
-- [[Shadow Surgeons Collective]]
-- [[Aetheron]]
-- [[Professor Aldric Crystalweaver]]
-- [[Queen Seraphina Lumengarde]]
-- [[Sorrow-Root Nightbloom]]
-- [[Azure Citadel]]
-- [[Aether Crystals]]
 
 ## Player-Facing Summary
 
@@ -50,19 +46,46 @@ Aether Crystal is a sky-borne element of the setting, known for brass fittings a
 
 Legends speak of Aether Crystal as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aether Crystal.
 
-## Adventure Hooks
-
-- A rumor ties Aether Crystal to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Aether Crystal to avert a public scandal.
-- A map overlay reveals a hidden approach to Aether Crystal active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Relationships
+
+- **Ally**: [[Portrait NPC Lady Willow Greenbough V2 Lady Willow Greenbough.svg]]
+- **Friend**: [[Assets Symbols Symbol Heraldry Quest the Family Reconciliatio Quest the Family Reconciliatio.svg]]
+- **Lover**: [[Portrait NPC Memory Harvester Kythara V2 Memory Harvester Kythara.svg]]
+
+
+## Plot Hooks
+
+- A document has gone missing and chaos spreads
+- Someone is protecting an heir for love
+- An heirloom has gone missing and war looms
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

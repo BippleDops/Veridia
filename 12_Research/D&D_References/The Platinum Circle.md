@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.622641+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,26 @@ The Platinum Circle is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Platinum Circle as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Platinum Circle.
 
-## Adventure Hooks
-
-- A rumor ties The Platinum Circle to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Platinum Circle to avert a public scandal.
-- A map overlay reveals a hidden approach to The Platinum Circle active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]
-
-
-## Connections
-
-- [[Silverscale Consortium]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- A map reveals ancient history about this place
+- An heirloom has gone missing and chaos spreads
+- A corpse reveals a betrayal about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

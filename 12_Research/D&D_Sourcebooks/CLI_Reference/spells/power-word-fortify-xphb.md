@@ -26,10 +26,8 @@ updated: '2025-08-12T23:37:36.069043'
 world: Both
 ---
 
-
 # Power Word Fortify
 *7th-level, Enchantment*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -42,6 +40,24 @@ You fortify up to six creatures you can see within range. The spell bestows 120 
 
 *Source: Player's Handbook (2024) p. 306*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Power word fortify xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -50,19 +66,27 @@ Power word fortify xphb is a undersea element of the setting, known for biolumin
 
 Legends speak of power word fortify xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around power word fortify xphb.
 
-## Adventure Hooks
-
-- A rumor ties power word fortify xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at power word fortify xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to power word fortify xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Plot Hooks
+
+- Someone is protecting a witness for love
+- A letter reveals ancient history about the cult
+- Someone is searching for a witness for love
+- A stranger needs help investigating before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

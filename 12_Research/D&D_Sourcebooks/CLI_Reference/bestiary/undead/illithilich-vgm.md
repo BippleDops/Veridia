@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.582222'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-illithilich-vgm-illithilich-vgm.svg)
 
@@ -36,6 +34,24 @@ world: Both
 *Source: Volo's Guide to Monsters p. 172*  
 
 Mind flayers that pursue arcane magic are exiled as deviants, and for them no eternal communion with an elder brain is possible. The road to lichdom offers a way to escape the permanency of death, but that path is long and solitary. Alhoons are mind flayers that use a shortcut.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Arcane Temptation
 
@@ -92,8 +108,6 @@ At will: detect thoughts, levitate
 
 The lich's innate spellcasting ability is Intelligence (spell save DC 20). It can innately cast the following spells, requiring no components.
 
-## Actions
-
 ### Tentacles
 
 Melee Weapon Attack: +12 to hit, reach 5 ft., one creature. Hit: 21 (`3d10 + 5`) psychic damage. If the target is Large or smaller, it is [[conditions#Grappled|grappled]] (escape DC 15) and must succeed on a DC 20 Intelligence saving throw or be [[conditions#Stunned|stunned]] until this grapple ends.
@@ -139,10 +153,8 @@ The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has 
 "stats":
   - !!int "11"
   - !!int "16"
-  - !!int "16"
   - !!int "20"
   - !!int "14"
-  - !!int "16"
 "speed": "30 ft."
 "saves":
   - "constitution": !!int "10"
@@ -156,11 +168,10 @@ The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has 
   - "name": "[[skills#Insight|Insight]]"
     "desc": "+9"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+9"
 "damage_resistances": "cold, lightning, necrotic"
 "damage_immunities": "poison; bludgeoning, piercing, slashing from nonmagical attacks"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 19"
 "languages": "Deep Speech, Undercommon, telepathy 120 ft."
@@ -168,14 +179,14 @@ The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has 
 "traits":
   - "desc": "The illithilich is an 18th-level spellcaster. Its spellcasting ability\
       \ is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich\
-      \ has the following wizard spells prepared:\n\nCantrips (at will): [[mage-hand-xphb|mage\
+      \ has the following wizard spells prepared:\n\nCantrips (at will): [[mage-hand-xphb|mage\]]
       \ hand]], [[prestidigitation-xphb|prestidigitation]],\
       \ [[ray-of-frost-xphb|ray of frost]]\n\n1st level\
       \ (4 slots): [[detect-magic-xphb|detect magic]],\
       \ [[magic-missile-xphb|magic missile]], [[shield-xphb|shield]],\
       \ [[thunderwave-xphb|thunderwave]]\n\n2nd level\
       \ (3 slots): [[detect-thoughts-xphb|detect thoughts]],\
-      \ [[invisibility-xphb|invisibility]], [[melfs-acid-arrow-xphb|Melf's acid\
+      \ [[invisibility-xphb|invisibility]], [[melfs-acid-arrow-xphb|Melf's acid\]]
       \ arrow]], [[mirror-image-xphb|mirror image]]\n\
       \n3rd level (3 slots): [[animate-dead-xphb|animate dead]],\
       \ [[counterspell-xphb|counterspell]], [[dispel-magic-xphb|dispel magic]],\
@@ -193,7 +204,7 @@ The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has 
   - "desc": "The illithilich's innate spellcasting ability is Intelligence (spell\
       \ save DC 20). It can innately cast the following spells, requiring no components.\n\
       \nAt will: [[detect-thoughts-xphb|detect thoughts]],\
-      \ [[levitate-xphb|levitate]]\n\n1/day each: [[dominate-monster-xphb|dominate\
+      \ [[levitate-xphb|levitate]]\n\n1/day each: [[dominate-monster-xphb|dominate\]]
       \ monster]], [[plane-shift-xphb|plane shift]]\
       \ (self only)"
     "name": "Innate Spellcasting (Psionics)"
@@ -234,7 +245,6 @@ The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has 
     "name": "Mind Blast (Recharge 5-6)"
 "legendary_actions":
   - "desc": "The illithilich makes one attack with its tentacles."
-    "name": "Tentacles"
   - "desc": "The illithilich uses Extract Brain."
     "name": "Extract Brain (Costs 2 Actions)"
   - "desc": "The illithilich recharges its Mind Blast and uses it."
@@ -262,7 +272,6 @@ The lich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has 
       \ The target must succeed on a DC 18 Constitution saving throw, taking 52 (15d6)\
       \ necrotic damage on a failed save, or half as much damage on a success. The\
       \ apparitions then disappear.  "
-    "name": ""
 "source":
   - "VGM"
 "image": "/03_Mechanics/CLI/bestiary/undead/token/illithilich-vgm.webp"
@@ -281,19 +290,27 @@ Illithilich vgm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of illithilich vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around illithilich vgm.
 
-## Adventure Hooks
-
-- A rumor ties illithilich vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at illithilich vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to illithilich vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals ancient history about this place
+- A corpse reveals the truth about this place
+- Someone is searching for a artifact for revenge
+- Strange accidents suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

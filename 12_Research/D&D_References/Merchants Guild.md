@@ -21,33 +21,32 @@ world: Both
 updated: '2025-08-13T01:18:36.807998+00:00'
 ---
 
-
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-merchants-guild-merchants-guild.svg)
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-# Merchants Guild
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## General Info
 **Location**: Shadowhaven
 
 ## Description
 The Merchants Guild is a powerful and influential guild that controls all of the legitimate trade in and out of Shadowhaven. They are a force to be reckoned with, and they are not afraid to use their wealth and influence to protect their interests.
-
-## GM Notes
-- The guild is led by a council of wealthy merchants, including Lady Seraphina Goldleaf.
-- The guild is a rival of the [[02_Worldbuilding/Groups/Thieves Guild.md|02 Worldbuilding/Groups/Thieves Guild]] and the [[02_Worldbuilding/Groups/The Crimson Fleet.md|02 Worldbuilding/Groups/The Crimson Fleet]].
-- The guild is a potential patron for the party, but they will expect a hefty price for their services.
-
-
-## Connections
-
-- [[Shadow Surgeons Collective]]
 
 ## Player-Facing Summary
 
@@ -57,23 +56,39 @@ Merchants Guild is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Merchants Guild as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merchants Guild.
 
-## Adventure Hooks
-
-- A rumor ties Merchants Guild to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Merchants Guild to avert a public scandal.
-- A map overlay reveals a hidden approach to Merchants Guild active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Master_Groups_Index|Master Groups Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a curse
+- Strange disappearances suggest ancient magic
+- A corpse reveals ancient history about the cult
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

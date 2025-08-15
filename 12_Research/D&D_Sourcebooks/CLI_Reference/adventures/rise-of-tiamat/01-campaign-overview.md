@@ -21,13 +21,30 @@ updated: '2025-08-12T23:37:34.626968'
 world: Both
 ---
 
-
 # Campaign Overview
 *Source: Rise of Tiamat, p. 6* 
 
 *Tyranny of Dragons* tells an epic story spanning two adventures, Hoard of the Dragon Queen and *The Rise of Tiamat*—the two tales contained within this collection. Both adventures are introduced here, outlining their backgrounds, plots, and fundamental ties, followed by details on allies and villains relevant to both adventures. Regardless of which adventure you're running, this overview provides useful information, applicable to the wider campaign and helpful for foreshadowing the threats unleashed by the Cult of the Dragon.
 
 *Tyranny of Dragons* is set in the Forgotten Realms on Faerûn's western shore—the Sword Coast. A thin strip of civilization stretches down this coast, where widely spaced cities are arranged like beads on a string. Roads loosely connect the cities that stretch from Luskan in the north to Calimport in the south, passing through Neverwinter, Waterdeep, Baldur's Gate, and other ports along the way. The bulk of this adventure takes place on the stretch between Baldur's Gate and Neverwinter.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Adventure Supplements
 
@@ -87,7 +104,7 @@ This adventure uses the milestone experience rule. Under this rule, completing c
 
 ### Background
 
-The time of dragons dawns. Calling upon ancient magic and a host of draconic allies, the Cult of the Dragon seeks to unleash [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]] from her prison in the Nine Hells. By bringing the Queen of Dragons bodily into the world, the cult plans to scour away their foes and usher in a new age of draconic dominance. So far, they've gathered great stores of treasure, forged an alliance with Thay to assist with performing the required summoning ritual, gathered the five dragon masks central to the ritual (see "Dragon Masks," below), and persuaded or cajoled many of the oldest and strongest evil dragons of Faerûn into supporting them.
+The time of dragons dawns. Calling upon ancient magic and a host of draconic allies, the Cult of the Dragon seeks to unleash [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]] from her prison in the Nine Hells. By bringing the Queen of Dragons bodily into the world, the cult plans to scour away their foes and usher in a new age of draconic domice. So far, they've gathered great stores of treasure, forged an alliance with Thay to assist with performing the required summoning ritual, gathered the five dragon masks central to the ritual (see "Dragon Masks," below), and persuaded or cajoled many of the oldest and strongest evil dragons of Faerûn into supporting them.
 
 However, not everything has gone according to the cult's plans. The discovery of an alliance between the Cult of the Dragon and the Red Wizards of Thay has shaken the various factions aligned against both organizations. The Harpers view any such alliance as an abomination, as does the Order of the Gauntlet. The Lords' Alliance recognizes the obvious threat to the lands and rulers of the Sword Coast and the North, while the Emerald Enclave suspects that anything Thay promotes is likely against the natural order. Even the Zhentarim fear the union of two such powerful forces.
 
@@ -117,8 +134,6 @@ Events are arranged in this book in a logical sequence for staging *The Rise of 
 
 The events of Hoard of the Dragon Queen lead directly into **The Rise of Tiamat*.* The shape of this adventure is defined by the meetings of the Council of Waterdeep, which divide the adventure into four stages.
 
-### Stage 1
-
 #### First Council of Waterdeep
 
 The characters are invited by NPCs they know and trust to the first session of the Council of Waterdeep. (If you played Hoard of the Dragon Queen, Leosin Erlanthar or Ontharr Frume are likely candidates.)
@@ -134,8 +149,6 @@ The adventurers learn the location of one of the cult's highest-ranking leaders�
 #### The Cult Strikes Back (Part 1)
 
 The cult's leaders aren't oblivious to the damage being caused by the heroes. Assassins try to stop the characters' interference, but the cultists misjudge the strength needed to complete the job.
-
-### Stage 2
 
 #### Second Council of Waterdeep
 
@@ -153,8 +166,6 @@ The metallic dragons of the Sword Coast send word to the Council of Waterdeep th
 
 After a first attempt to assassinate the heroes failed, the Cult of the Dragon tries again. With a better idea of what they're up against, they have a better chance to succeed.
 
-### Stage 3
-
 #### Third Council of Waterdeep
 
 At the third meeting of the Council of Waterdeep, the characters take lead roles in shaping the fight against the cult.
@@ -170,8 +181,6 @@ The ritual that will bring [[/03_Mechanics/CLI/bestiary/npc/tiamat-rot|Tiamat]] 
 #### The Cult Strikes Back (Part 3)
 
 The Cult of the Dragon now knows the adventurers' strengths and methods. If the characters don't take precautions to safeguard themselves, the cult stands a good chance of killing them all with a third attack.
-
-### Stage 4
 
 #### Fourth Council of Waterdeep
 
@@ -205,7 +214,6 @@ For characters who have not played Hoard of the Dragon Queen, the adventure can 
 > [!note] Recurring Villains
 > 
 > The *The Rise of Tiamat* makes use of certain NPCs from Hoard of the Dragon Queen, and makes the assumption that those NPCs escaped any conflict with the adventurers.
-> 
 > In the event that important nonplayer characters such as [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Wyrmspeaker Rezmir]] or the [[/03_Mechanics/CLI/bestiary/humanoid/red-wizard-rot|Red Wizard]] [[/03_Mechanics/CLI/bestiary/npc/rath-modar-hotdq|Rath Modar]] were killed or captured, simply replace them with new nonplayer characters here—or assume that they were resurrected between the previous adventure and this one. NPCs returning from the dead show the level of magical power the cult and its [[/03_Mechanics/CLI/bestiary/humanoid/red-wizard-rot|Red Wizard]] allies wield—and their dedication to seeing [[/03_Mechanics/CLI/bestiary/npc/severin-rot|Severin]]'s plans brought to fruition.
 ^recurring-villains
 
@@ -543,9 +551,9 @@ Strong and decisive, Dagult acts always for the good of his subjects and realm�
 
 Dagult demands order and rewards discipline, but he is pragmatic and driven by results above all else. He knows that nothing comes without effort, and sacrifices must be made when necessary. Tireless in his actions, he never stops until he has achieved his goals. He will use any means at his disposal, as long as those means are legally justifiable—even when such justification must be "rediscovered" from long-forgotten or ignored laws.
 
-In the first council meeting, Lord Dagult's resources have been spread thin between the massive investments he's made in rebuilding Neverwinter and in maintaining dominance in Waterdeep. He strongly supports the members of the Lords' Alliance pooling resources, because he worries that neither of his investments can survive the coming catastrophe without assistance. This changes by the second council. Though losing Waterdeep allows him to consolidate his strength, Dagult resents Laeral for taking his position. He avoids letting his feelings cloud his judgment, however, intent on showing that he is a more fitting leader by backing the adventurers and taking a firm leadership role in the council.
+In the first council meeting, Lord Dagult's resources have been spread thin between the massive investments he's made in rebuilding Neverwinter and in maintaining domice in Waterdeep. He strongly supports the members of the Lords' Alliance pooling resources, because he worries that neither of his investments can survive the coming catastrophe without assistance. This changes by the second council. Though losing Waterdeep allows him to consolidate his strength, Dagult resents Laeral for taking his position. He avoids letting his feelings cloud his judgment, however, intent on showing that he is a more fitting leader by backing the adventurers and taking a firm leadership role in the council.
 
-#### Ambassador Connerad Brawnanvil
+#### Ambassador Connerad Brawvil
 
 *Lawful good male shield dwarf fighter*
 
@@ -555,7 +563,7 @@ In the first council meeting, Lord Dagult's resources have been spread thin betw
 
 **Pledged Resources**: Dwarf soldiers and dwarf-forged armaments and siege weapons
 
-Son of Banak Brawnanvil and a former king of Mithral Hall, Connerad has made the long journey from Mithral Hall to act as the Lords' Alliance delegate for the dwarves of the North, including Citadel Adbar and Citadel Felbarr.
+Son of Banak Brawvil and a former king of Mithral Hall, Connerad has made the long journey from Mithral Hall to act as the Lords' Alliance delegate for the dwarves of the North, including Citadel Adbar and Citadel Felbarr.
 
 Even though Connerad hates dragons, devils, and cultists alike, he is as stubborn as a mule about committing troops anywhere but his homeland. The dwarven kingdoms in the North have lost many people in recent years, and the dwarves that remain are struggling to retain ancient lands only recently reclaimed. He knows the adventurers only by reputation, and desires tangible proof that they have the mettle and wits to lead soldiers and dwarves before he'll make a serious commitment. Like Ontharr Frume of the Order of the Gauntlet, Connerad responds well to bold demonstrations of heroism. However, he is personally and deeply insulted by any slight against dwarves or intrusions by the characters into dwarven affairs. His reactions to the adventurers' exploits determine how he votes in the fourth council.
 
@@ -691,20 +699,27 @@ Engaging the giants in an alliance against the Cult of the Dragon can be handled
 
 Legends speak of 01 campaign overview as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 01 campaign overview.
 
-## Adventure Hooks
-
-- A rumor ties 01 campaign overview to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 01 campaign overview to avert a public scandal.
-- A map overlay reveals a hidden approach to 01 campaign overview active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

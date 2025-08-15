@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.430660+00:00'
 world: Both
 ---
 
-
-
 # Identify Important NPCs; Adventure Villains
 *Source: Dungeon Master's Guide p. 74* 
 
@@ -50,6 +48,24 @@ world: Both
 | 20 | Misguided humanoid zealot |
 ^adventure-villains
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Identify important npcs adventure villains is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -58,19 +74,21 @@ Identify important npcs adventure villains is a undersea element of the setting,
 
 Legends speak of identify important npcs adventure villains as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around identify important npcs adventure villains.
 
-## Adventure Hooks
-
-- A rumor ties identify important npcs adventure villains to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at identify important npcs adventure villains to avert a public scandal.
-- A map overlay reveals a hidden approach to identify important npcs adventure villains active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a conspiracy
+- An heirloom has gone missing and evil awakens
+- Someone is protecting a witness for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

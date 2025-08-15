@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.785795+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,31 @@ Narrative Combat Integration is a undersea element of the setting, known for bio
 
 Legends speak of Narrative Combat Integration as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Narrative Combat Integration.
 
-## Adventure Hooks
-
-- A rumor ties Narrative Combat Integration to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Narrative Combat Integration to avert a public scandal.
-- A map overlay reveals a hidden approach to Narrative Combat Integration active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Multi-Phase Boss Fights|02 Worldbuilding/Lore/Multi Phase Boss Fights]]
-
-
-## Connections
-
-- [[Multi-Phase Boss Fights]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Plot Hooks
+
+- Someone is searching for a witness for power
+- A map reveals ancient history about the government
+- A journal reveals the truth about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

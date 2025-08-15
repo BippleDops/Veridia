@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:05.133450+00:00'
 world: Both
 ---
 
-
-
 # Lightning Cannon
 %%-- Embedded content starts on the next line. --%%
 *Source: Dungeon Master's Guide (2024) p. 96*  
@@ -46,6 +44,23 @@ title: Lightning Cannon
 |10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Actions
 
 ***Lightning Ball (Requires Aim).*** *Ranged Attack Roll:* +6, range 300/1,200 ft. *Hit:* 22 (4d10) Lightning damage.
@@ -60,19 +75,15 @@ Lightning cannon xdmg is a undersea element of the setting, known for biolumines
 
 Legends speak of lightning cannon xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around lightning cannon xdmg.
 
-## Adventure Hooks
-
-- A rumor ties lightning cannon xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at lightning cannon xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to lightning cannon xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

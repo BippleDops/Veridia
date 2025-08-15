@@ -18,7 +18,23 @@ world: Aquabyssos
 ---
 
 
-# Aquabyssos City District Map
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player Reference Guide
 
 ```
@@ -31,7 +47,6 @@ world: Aquabyssos
     ╚═══════════════════════════════╝
              │ Current Flow │
      TWILIGHT ZONE (50-200 Fathoms)
-    ╔═══════════════════════════════╗
     ║      MERCHANT DISTRICT        ║
     ║   [D] Grand Bazaar            ║
     ║   [E] Guild Halls             ║
@@ -41,34 +56,26 @@ world: Aquabyssos
     ║   [G] Family Estates          ║
     ║   [H] Artisan Workshops       ║
     ║   [I] Community Centers       ║
-    ╚═══════════════════════════════╝
              │ Deep Current │
      DEEP ZONE (200-500 Fathoms)
-    ╔═══════════════════════════════╗
     ║     GOVERNMENT QUARTER        ║
     ║   [J] Parliament Buildings    ║
     ║   [K] Royal Palace Complex    ║
     ║   [L] Justice Courts          ║
-    ║                               ║
     ║      TEMPLE DISTRICT          ║
     ║   [M] Cathedral of Depths     ║
     ║   [N] Healing Sanctuaries     ║
     ║   [O] Oracle Chambers         ║
-    ╚═══════════════════════════════╝
              │ Abyssal Flow │
      ABYSS LEVEL (500+ Fathoms)
-    ╔═══════════════════════════════╗
     ║      FORBIDDEN QUARTER        ║
     ║   [P] Ancient Ruins           ║
     ║   [Q] Research Facilities     ║
     ║   [R] Prison Complex          ║
-    ║                               ║
     ║      INDUSTRIAL QUARTER       ║
     ║   [S] Crystal Processing      ║
     ║   [T] Deep Forges             ║
     ║   [U] Waste Management        ║
-    ╚═══════════════════════════════╝
-```
 
 ### Key Locations
 
@@ -142,7 +149,6 @@ world: Aquabyssos
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -150,3 +156,23 @@ world: Aquabyssos
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- Someone is protecting an heir for power
+- Someone is searching for a witness for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

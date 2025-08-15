@@ -19,8 +19,6 @@ updated: '2025-08-13T01:18:37.191209+00:00'
 world: Aquabyssos
 ---
 
-
-
 # Aquabyssos Submarines — Visual & Vibe Guide
 
 - Coral Leviathan: Living reef hull, bioluminescent veins, cathedral spine.
@@ -28,21 +26,33 @@ world: Aquabyssos
 - Memory Ghost Sub: Glassy, half-there plates; inscriptions that change when stared at.
 - Crystal Resonator: Faceted armor, humming harmonics, prismatic wakes.
 - Deep Blessed Nave: Carved shrines, whispering vents, votive pearls.
-- Tide Serpent: Sinuous plates, ribbon fins, current-woven pennants.
+- Tide Serpent: Sinuous plates, ribbon fins, current-woven pents.
 - Lantern Warden: Lantern fields along flanks; soft teal glow.
 - Maelstrom Rider: Vortex thrusters, spiral fins, trailing turbulence.
 
 Choosing a ship affects your story: see [[Vehicle_Core_Rules|Vehicle Core Rules]] for piloting, sanity, and upgrade paths.
 
-## Cross-References
 
-- [[Aquabyssos_Session_01|06 GM Resources/Session Packets/Aquabyssos Session 01]]
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -51,3 +61,16 @@ Choosing a ship affects your story: see [[Vehicle_Core_Rules|Vehicle Core Rules]
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

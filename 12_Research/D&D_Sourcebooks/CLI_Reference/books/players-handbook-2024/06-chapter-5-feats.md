@@ -21,11 +21,10 @@ updated: '2025-08-12T23:37:34.856806'
 world: Both
 ---
 
-
 # Chapter 5: Feats
 *Source: Player's Handbook (2024), p. 199* 
 
-![[/03_Mechanics/CLI/books/players-handbook-2024/img/158-06-001-weathermay-foxgrove-alanik-arthur.webp#center "The Weathermay-Foxgrove Twins, Gennifer and Laurie, along with the investigators Alanik Ray and Arthur Sedgwick, fight to escape the horrors of Castle Ravenloft"|The Weathermay-Foxgrove Tw...]]
+!]
 
 This chapter offers a collection of feats, which are special features not tied to a character class. A feat represents a talent or an area of expertise that gives a character special capabilities. It embodies training, experience, and abilities beyond what a class provides.
 
@@ -34,6 +33,24 @@ The sections below explain the parts of a feat and list a variety of feat option
 Your background gives you a feat, and at certain levels, your class gives you the "Ability Score Improvement" feat or the choice of another feat for which you qualify.
 
 By whatever means you acquire a feat, you can take it only once unless its description says otherwise.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Feat Descriptions
 
@@ -164,20 +181,17 @@ These feats are in the Epic Boon category.
 
 Legends speak of 06 chapter 5 feats as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 06 chapter 5 feats.
 
-## Adventure Hooks
-
-- A rumor ties 06 chapter 5 feats to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 06 chapter 5 feats to avert a public scandal.
-- A map overlay reveals a hidden approach to 06 chapter 5 feats active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

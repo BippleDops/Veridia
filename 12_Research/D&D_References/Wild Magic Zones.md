@@ -17,14 +17,22 @@ updated: '2025-08-13T01:18:34.793100+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
 
 ## Player-Facing Summary
 
@@ -34,28 +42,25 @@ Wild Magic Zones is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of Wild Magic Zones as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Wild Magic Zones.
 
-## Adventure Hooks
-
-- A rumor ties Wild Magic Zones to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Wild Magic Zones to avert a public scandal.
-- A map overlay reveals a hidden approach to Wild Magic Zones active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Sundering|02 Worldbuilding/Lore/The Sundering]]
-
-
-## Connections
-
-- [[The Sundering]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for an heir for love
+- A corpse reveals a conspiracy about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

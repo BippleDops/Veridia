@@ -23,12 +23,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# Spells for Minions of Chaos
+*20 targeted improvements identified*
 
-## 5th Level
+### Connection Improvements
 
-- [[/03_Mechanics/CLI/spells/conjure-elemental-xphb "XPHB"|Conjure Elemental]]
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -38,19 +48,18 @@ List spells optional features minions of chaos is a undersea element of the sett
 
 Legends speak of list spells optional features minions of chaos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells optional features minions of chaos.
 
-## Adventure Hooks
-
-- A rumor ties list spells optional features minions of chaos to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells optional features minions of chaos to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells optional features minions of chaos active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

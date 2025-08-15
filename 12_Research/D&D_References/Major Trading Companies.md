@@ -20,8 +20,6 @@ world: Both
 updated: '2025-08-13T01:18:36.694875+00:00'
 ---
 
-
-
 > [!figure] Corporate Emblems
 ![](04_Resources/Assets/Symbols/symbol-corporate-major-trading-companies.svg)
 
@@ -30,10 +28,26 @@ updated: '2025-08-13T01:18:36.694875+00:00'
 
 > *"In the depths of commerce, empires rise and fall not by the sword, but by the ledger. We are the merchants of destiny."* - Guildmaster [[02_Worldbuilding/People/Guildmaster Victoria Silvertongue|02 Worldbuilding/People/Guildmaster Victoria Silvertongue]]
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]] and [[Aquabyssos|02 Worldbuilding/Places/Aquabyssos]] represent the pinnacle of commercial evolution, having grown from simple merchant ventures into powerful quasi-governmental entities that wield influence rivaling kingdoms. These corporate giants control trade routes, manipulate markets, and shape the political landscape through economic pressure and strategic alliances.
-
-## The Surface Trading Powerhouses
 
 ### Goldwave Commercial Empire
 **Supreme Director**: [[Lord Aurelius Goldwave]]
@@ -41,19 +55,6 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 **Primary Headquarters**: The Golden Tower, [[Port Meridian|02 Worldbuilding/Places/Port Meridian]]
 **Estimated Value**: 2.5+ million gold pieces
 **Workforce**: 3,000+ direct employees, 15,000+ affiliated workers
-
-#### Corporate Structure
-- **Executive Board**: Lord Aurelius (Chairman), 4 appointed directors
-- **Division Heads**: Crystal Trade, Shipping, Insurance, Academy Operations, Intelligence
-- **Regional Managers**: 12 major territories across surface realm
-- **Independent Contractors**: Hundreds of affiliated small businesses
-
-#### Core Business Operations
-- **Crystal Purification Services** (40% of revenue): Processing and transportation of corrupted crystals
-- **Goldwave Shipping Consortium** (30% of revenue): Largest merchant fleet on Azure Coast
-- **Crystal Insurance Guild** (15% of revenue): Protection against corruption losses
-- **Goldwave Academy** (10% of revenue): Education and training services
-- **Strategic Consulting** (5% of revenue): Political and economic advisory services
 
 #### Hidden Operations
 > [!warning] DM Only
@@ -71,15 +72,8 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 
 **Strategic Partners**:
 - **Crystal Wardens** (security services)
-- **Goldspire Confederacy Banks** (financial backing)
+- **Goldspire Confederacy Banks** (ficial backing)
 - **Independent Navigation Guilds** (route expertise)
-
-#### Corporate Secrets
-- **Financial**: Embezzling funds for secret Order operations
-- **Political**: Funding multiple political factions simultaneously  
-- **Personal**: Lord Aurelius's plan to sacrifice everything for temporal manipulation
-- **Technological**: Developing crystal-powered time magic capabilities
-- **Intelligence**: Comprehensive spy network in all major governments
 
 ### Silkwind Luxury Enterprises
 **Chief Executive**: [[Lady Venetia Silkwind]]  
@@ -88,28 +82,10 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 **Estimated Value**: 1.8+ million gold pieces
 **Workforce**: 2,200+ direct employees
 
-#### Corporate Focus
-- **Luxury Textiles** (45% of revenue): Finest fabrics and fashion across both realms
-- **Exotic Imports** (25% of revenue): Rare goods from distant kingdoms
-- **High-End Services** (20% of revenue): Exclusive customer experiences
-- **Political Consulting** (10% of revenue): Social influence and networking
-
 #### Corporate Culture
 **Philosophy**: "Excellence is not a skill, it is an attitude"
 **Values**: Quality over quantity, exclusivity over accessibility, influence over profit
 **Practices**: Highly selective hiring, extensive background checks, loyalty rewards
-
-#### Secret Operations
-- **Noble House Infiltration**: Placing employees in aristocratic households as spies
-- **Marriage Brokerage**: Arranging strategic unions for political/economic advantage
-- **Blackmail Networks**: Using social scandals for business leverage
-- **Cultural Manipulation**: Shaping fashion trends to control luxury markets
-
-#### Major Scandals (Covered Up)
-- **The Seamstress Murders**: Workers who discovered corruption were eliminated
-- **The Countess Affair**: Blackmailing nobility for trade concessions
-- **The Fabric Poisoning**: Using magically-tainted materials to eliminate competitors
-- **The Wedding Espionage**: Infiltrating noble marriages for intelligence gathering
 
 ### Chen Wei Import/Export Consortium
 **Managing Director**: [[Master Chen Wei]]
@@ -118,43 +94,18 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 **Estimated Value**: 1.5+ million gold pieces  
 **Workforce**: 1,800+ direct employees
 
-#### Unique Business Model
-- **Cultural Bridge Trading**: Specializing in goods that require cultural translation
-- **Information Commerce**: Selling political and economic intelligence
-- **Diplomatic Services**: Unofficial ambassadorial functions
-- **Foreign Relations**: Maintaining connections with distant kingdoms
-
 #### Hidden Foreign Connections
-> [!warning] DM Only
-> - **Eastern Empire Backing**: Secret financial support from foreign power
+> - **Eastern Empire Backing**: Secret ficial support from foreign power
 > - **Spy Network Operations**: Intelligence gathering for foreign governments
 > - **Cultural Subversion**: Undermining local traditions to benefit foreign interests
 > - **Political Destabilization**: Supporting factions that favor foreign trade
 
-#### Corporate Intelligence Division
-- **Market Analysis Team**: Predicting economic trends and opportunities
-- **Political Monitoring**: Tracking government policy developments
-- **Competitor Surveillance**: Industrial espionage against rivals
-- **Cultural Research**: Understanding social trends for market advantage
-
-### Ironanchor Maritime Corporation
-**Fleet Admiral**: [[Captain Rodrigo Ironanchor]]
+### Irochor Maritime Corporation
+**Fleet Admiral**: [[Captain Rodrigo Irochor]]
 **Founded**: 35 years ago from military privateer background
 **Primary Headquarters**: The Iron Tower, [[Port Meridian|02 Worldbuilding/Places/Port Meridian]]
 **Estimated Value**: 2.1+ million gold pieces
 **Workforce**: 4,500+ sailors, marines, and support staff
-
-#### Fleet Composition
-- **Heavy Cargo Vessels**: 45 ships for bulk transport
-- **Fast Courier Ships**: 20 vessels for high-priority deliveries
-- **Escort Warships**: 15 armed vessels for protection services
-- **Specialized Craft**: 10 ships for unique cargo (magical, dangerous, or secret)
-
-#### Military-Commercial Hybrid Operations
-- **Private Navy Services**: Providing naval protection for hire
-- **Government Contracts**: Official military support and logistics
-- **Mercenary Operations**: Combat services beyond simple protection
-- **Intelligence Maritime**: Naval reconnaissance and information gathering
 
 #### Corporate Military Culture
 **Hierarchy**: Strict naval discipline with corporate efficiency
@@ -162,33 +113,12 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 **Loyalty**: Strong emphasis on company honor and maritime tradition
 **Ethics**: Code of conduct balancing profit with military honor
 
-### Goldleaf Financial Services
-**Chief Financial Officer**: [[Madame Rosalind Goldleaf]]
+### Goldleaf Ficial Services
+**Chief Ficial Officer**: [[Madame Rosalind Goldleaf]]
 **Founded**: 22 years ago through banking consolidation
 **Primary Headquarters**: The Rose Tower, [[Port Meridian|02 Worldbuilding/Places/Port Meridian]]
 **Estimated Value**: 3.2+ million gold pieces (mostly in loans and investments)
-**Workforce**: 1,200+ financial professionals
-
-#### Financial Services Portfolio
-- **Commercial Banking**: Business loans and deposit services
-- **Investment Management**: Portfolio management for wealthy clients
-- **Insurance Operations**: Risk assessment and coverage provision
-- **Currency Exchange**: Foreign exchange and international transfers
-- **Debt Collection**: Recovery services for overdue obligations
-
-#### Sophisticated Financial Instruments
-- **Derivative Trading**: Complex betting on market movements
-- **Futures Contracts**: Advance purchase agreements for commodities
-- **Political Bonds**: Investments tied to governmental stability
-- **Risk Syndication**: Spreading large risks across multiple parties
-
-#### Hidden Financial Activities
-- **Money Laundering**: Cleaning profits from criminal enterprises
-- **Tax Avoidance**: Helping clients evade government revenue collection
-- **Market Manipulation**: Coordinating with other companies to control prices
-- **Political Financing**: Illegal campaign contributions and bribery
-
-## The Deep-Sea Corporate Giants
+**Workforce**: 1,200+ ficial professionals
 
 ### Deep Current Trading Company
 **Supreme Navigator**: [[The Current Merchants|02 Worldbuilding/People/The Current Merchants]] (Nereon Swiftcurrent)
@@ -196,18 +126,6 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 **Primary Headquarters**: The Flowing Market, [[02_Worldbuilding/Places/Aquabyssos Prime|02 Worldbuilding/Places/Aquabyssos Prime]]
 **Estimated Value**: 2.8+ million pearl equivalents
 **Workforce**: 3,000+ current-riders, navigators, and support staff
-
-#### Revolutionary Business Model
-- **Current-Riding Transport**: Exclusive use of magically-enhanced oceanic currents
-- **Deep-Route Monopoly**: Only company capable of navigating the most dangerous passages
-- **Express Services**: Fastest delivery times in underwater realm
-- **Environmental Integration**: Business practices that work with natural ocean systems
-
-#### Current Network Infrastructure
-- **The Grand Circuit**: Magically enhanced current system connecting major population centers
-- **Navigation Beacons**: Magical markers for safe passage through current systems
-- **Current Locks**: Artificial flow control systems for traffic management
-- **Emergency Networks**: Backup routes for disasters and conflicts
 
 #### Environmental Considerations
 **Challenges**: Accusations of disrupting natural ecosystems
@@ -220,16 +138,9 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 **Founded**: 15 years ago during the Crystal Currency Crisis
 **Primary Headquarters**: The Deep Vault, [[02_Worldbuilding/Places/Aquabyssos Prime|02 Worldbuilding/Places/Aquabyssos Prime]]
 **Estimated Value**: 5.1+ million pearl equivalents
-**Workforce**: 800+ financial professionals
-
-#### Comprehensive Financial Services
-- **Cross-Realm Banking**: Currency exchange and international transfers
-- **Investment Services**: Portfolio management and speculation opportunities
-- **Government Finance**: Loans to imperial government and noble houses
-- **Commercial Lending**: Business development funding and expansion capital
+**Workforce**: 800+ ficial professionals
 
 #### Corrupt Business Practices
-> [!warning] DM Only
 > - **Imperial Treasury Embezzlement**: Stealing from government accounts
 > - **Exchange Rate Manipulation**: Artificial currency control for profit
 > - **Predatory Lending**: Trapping borrowers in debt cycles
@@ -249,12 +160,6 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 **Estimated Value**: 1.9+ million pearl equivalents
 **Workforce**: 1,500+ artisans, servants, and sales professionals
 
-#### Luxury Market Domination
-- **Artistic Creations**: Exclusive artwork and decorative items
-- **Noble Services**: Personal services for aristocratic clientele
-- **Cultural Events**: Hosting and organizing high-society gatherings
-- **Prestige Products**: Items that confer social status and political influence
-
 #### Social Manipulation Networks
 **Intelligence Operations**: Gathering secrets at social events
 **Marriage Brokerage**: Arranging strategic unions for business advantage
@@ -268,19 +173,11 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 **Estimated Value**: 1.7+ million pearl equivalents
 **Workforce**: 2,800+ engineers, craftsmen, and laborers
 
-#### Deep-Sea Manufacturing Excellence
-- **Pressure Forging**: Creating impossibly dense and durable materials
-- **Bio-Luminescent Technology**: Living light systems for various applications
-- **Deep-Sea Construction**: Building in extreme underwater environments
-- **Specialized Equipment**: Tools and devices for unique underwater challenges
-
 #### Industrial Innovation
 **Research Division**: Developing new pressure-based technologies
 **Military Contracts**: Producing specialized weapons and armor for imperial forces
 **Civil Engineering**: Infrastructure development for underwater communities
 **Export Operations**: Selling unique deep-sea products to surface realm
-
-## Inter-Company Relationships and Rivalries
 
 ### The Great Corporate Conspiracy
 **Participants**: All major companies maintain secret cooperation agreements
@@ -302,10 +199,8 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 - **Criminal**: Using illegal methods to eliminate persistent competitors
 - **Social**: Public relations campaigns to discredit independent operators
 
-### Alliance Networks
-
 #### The Port Meridian Pact (Surface)
-**Members**: Goldwave, Silkwind, Chen Wei, Ironanchor, Goldleaf
+**Members**: Goldwave, Silkwind, Chen Wei, Irochor, Goldleaf
 **Purpose**: Coordinated control of surface trade
 **Benefits**: Shared intelligence, joint political lobbying, market stability
 **Tensions**: Individual company ambitions vs. collective interests
@@ -321,8 +216,6 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 **Purpose**: Coordinate inter-realm trade policy and eliminate mutual threats
 **Activities**: Joint lobbying, intelligence sharing, conflict resolution
 **Risks**: Political exposure, popular backlash, government intervention
-
-## Corporate Espionage and Intelligence Networks
 
 ### Information Warfare Systems
 **Corporate Spy Networks**: Each major company maintains extensive intelligence operations
@@ -342,23 +235,6 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 **Government Monitoring**: Joint surveillance of political developments
 **Criminal Intelligence**: Sharing information about illegal competitors and threats
 
-## Economic Impact and Market Control
-
-### Market Share by Sector
-
-#### Surface Realm Trade
-- **Goldwave Empire**: 35% of crystal trade, 25% of shipping
-- **Silkwind Luxury**: 60% of luxury goods, 30% of textile trade
-- **Chen Wei Imports**: 40% of exotic goods, 70% of cultural exchange
-- **Ironanchor Maritime**: 45% of naval transport, 80% of military contracts
-- **Goldleaf Financial**: 50% of commercial banking, 35% of investment services
-
-#### Deep-Sea Commerce
-- **Deep Current Trading**: 70% of deep-route transport, 40% of express services
-- **Goldcurrent Banking**: 60% of inter-realm banking, 45% of government finance
-- **Pearlheart Luxury**: 55% of noble market, 70% of cultural events
-- **Depthforge Industrial**: 50% of pressure manufacturing, 35% of construction
-
 ### Price Control Mechanisms
 **Market Cornering**: Buying up entire supplies of essential goods
 **Predatory Pricing**: Selling below cost to eliminate competitors
@@ -366,14 +242,10 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 **Distribution Control**: Monopolizing transportation and sales networks
 
 ### Political Influence Systems
-**Campaign Financing**: Funding political candidates who support corporate interests
+**Campaign Ficing**: Funding political candidates who support corporate interests
 **Lobbying Operations**: Professional influence campaigns targeting government officials
 **Regulatory Capture**: Placing corporate personnel in government regulatory positions
 **Policy Development**: Writing legislation and regulations that favor corporate interests
-
-## Corporate Culture and Internal Operations
-
-### Management Philosophies
 
 #### Goldwave Empire
 **Leadership Style**: Paternalistic authoritarianism with noble purpose
@@ -394,18 +266,10 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 **Recruitment**: Technical skills, magical ability, adaptation to underwater conditions
 
 #### Goldcurrent Banking
-**Leadership Style**: Authoritarian hierarchy based on financial success
+**Leadership Style**: Authoritarian hierarchy based on ficial success
 **Employee Treatment**: High compensation with intense pressure and surveillance
-**Corporate Values**: Profit maximization, competitive dominance, financial control
+**Corporate Values**: Profit maximization, competitive domice, ficial control
 **Recruitment**: Mathematical aptitude, moral flexibility, loyalty to profit
-
-### Employee Relations and Labor Issues
-
-#### Corporate Benefits Packages
-- **Goldwave**: Health insurance, education benefits, retirement planning, family support
-- **Silkwind**: Luxury accommodations, social connections, cultural experiences
-- **Deep Current**: Hazard pay, magical training, current-riding equipment
-- **Goldcurrent**: High salaries, performance bonuses, financial investment opportunities
 
 #### Labor Disputes and Strikes
 **Common Issues**: Working conditions, compensation, job security, corporate ethics
@@ -418,10 +282,6 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 **Punishment Mechanisms**: Demotion, salary reduction, termination, blacklisting
 **Reward Systems**: Bonuses, promotions, special privileges, company loyalty programs
 **Psychological Manipulation**: Corporate culture programming, peer pressure systems
-
-## Corporate Crimes and Scandals
-
-### Recent Major Scandals
 
 #### The Goldwave Temporal Conspiracy
 **Discovery**: Employees discovered unauthorized temporal magic research
@@ -447,8 +307,6 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 **Current Status**: Cover-up successful but internal investigation ongoing
 **Potential Consequences**: Imperial prosecution, banking system collapse, political crisis
 
-### Ongoing Criminal Operations
-
 #### Systematic Tax Evasion
 **Methods**: Shell companies, overseas accounts, transfer pricing manipulation
 **Scale**: Millions of gold pieces annually in avoided taxes
@@ -466,10 +324,6 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 **Methods**: Bribery, blackmail, technological surveillance, employee recruitment
 **Scope**: Cross-company intelligence sharing, government infiltration
 **Legal Risk**: Criminal prosecution, international incidents, corporate warfare
-
-## Adventure Integration and Plot Hooks
-
-### Corporate Investigation Adventures
 
 #### The Whistleblower Protection
 **Setup**: Former corporate employee seeks protection while revealing major crimes
@@ -489,8 +343,6 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 **Stakes**: Corporate security vs. information freedom, national security implications
 **Outcomes**: Espionage network dismantling, corporate policy changes, international agreements
 
-### Corporate Employment Adventures
-
 #### The Corporate Consultant
 **Setup**: Party hired as independent contractors for corporate operations
 **Challenges**: Competing loyalties, ethical dilemmas, dangerous assignments
@@ -509,13 +361,11 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 **Stakes**: Market stability vs. competitive advantage, peace vs. profit
 **Outcomes**: Market regulation, corporate cooperation, economic stability
 
-### Corporate Crime Adventures
-
-#### The Financial Fraud Investigation
-**Setup**: Major financial crime threatens to destabilize entire economic system
+#### The Ficial Fraud Investigation
+**Setup**: Major ficial crime threatens to destabilize entire economic system
 **Challenges**: Corporate obstruction, government corruption, technical complexity
 **Stakes**: Economic stability vs. corporate profits, justice vs. systemic corruption
-**Outcomes**: Financial system reform, corporate accountability, economic justice
+**Outcomes**: Ficial system reform, corporate accountability, economic justice
 
 #### The Corporate Assassination Plot
 **Setup**: Systematic elimination of threats to corporate power and influence
@@ -523,13 +373,9 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 **Stakes**: Justice vs. corporate immunity, individual vs. institutional power
 **Outcomes**: Corporate criminal prosecution, government reform, social justice
 
-## DM Resources
-
-### Corporate NPC Generator
-
 #### Random Corporate Executive (d20)
 1-4: **Ambitious Middle Manager** - Seeking advancement through any means necessary
-5-8: **Corrupt Financial Officer** - Embezzling funds while maintaining respectable facade  
+5-8: **Corrupt Ficial Officer** - Embezzling funds while maintaining respectable facade  
 9-12: **Corporate Spy Master** - Managing intelligence operations and industrial espionage
 13-16: **Reform-Minded Director** - Trying to change corporate culture from within
 17-19: **Ruthless Efficiency Expert** - Maximizing profits regardless of human cost
@@ -543,11 +389,9 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 9-10: **Strategic Negotiation** - Arranging deals, treaties, or cooperative agreements
 11-12: **Elimination Protocol** - Removing obstacles to corporate objectives through any means
 
-### Corporate Complication Tables
-
 #### Internal Corporate Problems (d10)
 1: **Employee Uprising** - Labor disputes threaten operations
-2: **Embezzlement Discovery** - Financial crimes exposed by internal audit
+2: **Embezzlement Discovery** - Ficial crimes exposed by internal audit
 3: **Espionage Infiltration** - Enemy agents discovered in corporate structure
 4: **Management Conflict** - Power struggle between executives
 5: **Regulatory Investigation** - Government scrutiny of corporate practices
@@ -569,22 +413,6 @@ The major trading companies of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]]
 9: **Supplier Crisis** - Essential resources become unavailable
 10: **Customer Revolt** - Mass rejection of corporate products or services
 
-## Connected NPCs and Systems
-- [[Lord Aurelius Goldwave]] - Goldwave Commercial Empire leader
-- [[Lady Venetia Silkwind]] - Silkwind Luxury Enterprises executive
-- [[Master Chen Wei]] - Chen Wei Import/Export director
-- [[The Current Merchants|02 Worldbuilding/People/The Current Merchants]] - Deep Current Trading Company navigator
-- [[Banker Titus Goldcurrent|02 Worldbuilding/People/Banker Titus Goldcurrent]] - Goldcurrent Banking Consortium controller
-- [[Merchant Princes|02 Worldbuilding/Groups/Merchant Princes]] - Surface corporate council
-- [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] - Criminal competition
-
-## Cross-References
-- [[The Grand Trade Routes|02 Worldbuilding/Lore/The Grand Trade Routes]]
-- [[Economic Systems and Currency|02 Worldbuilding/Lore/Economic Systems And Currency]]
-- [[Commercial Hubs and Markets|02 Worldbuilding/Places/Commercial Hubs And Markets]]
-- [[03_Mechanics/Living_Economy_Syste|03 Mechanics/Living Economy Syste]]
-- [[Economic_Warfare_Simulator|03 Mechanics/Economic Warfare Simulator]]
-
 ## Player-Facing Summary
 
 The major trading companies represent the pinnacle of commercial power across both realms, wielding influence that rivals governments through economic manipulation, political pressure, and strategic resource control. These corporate giants offer opportunities for employment, partnership, investigation, or opposition, depending on player interests and moral alignments.
@@ -595,20 +423,24 @@ Merchants say that in the deepest vaults of the great trading companies, ledgers
 
 Ancient prophecies speak of a time when the corporate powers will either unite the realms in prosperity or destroy them in an endless war of greed and ambition. The signs are already visible to those who know where to look: mysterious disappearances of whistleblowers, impossible profits from failing ventures, and trade agreements signed in languages that predate known civilization.
 
-## Adventure Hooks
-
-- A pattern of corporate acquisitions reveals a systematic plan to control all trade between the realms, but the ultimate purpose remains hidden behind layers of shell companies and false identities.
-- The party discovers that their routine employment by a trading company involves delivering packages that seem to phase in and out of reality, leading to questions about extra-dimensional commerce and forbidden technologies.
-- A series of corporate executives across multiple companies have been replaced by identical duplicates, suggesting either advanced magic, alien infiltration, or time manipulation on a massive scale.
-
 ## DM Notes
 
 Use the trading companies as a framework for complex political and economic intrigue, allowing players to engage with power structures that operate through influence rather than force. The competing interests and secret alliances between companies provide endless opportunities for plots involving espionage, betrayal, moral dilemmas, and the consequences of unchecked corporate power.
 
 Consider how corporate actions ripple through society, affecting everything from individual livelihoods to international relations. The companies serve as both potential allies and enemies, offering resources and opportunities while representing systematic corruption and inequality that can drive character motivations and campaign themes.
-<!-- enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing information for revenge
+- A document has gone missing and evil awakens
+- Someone is hunting information for revenge
+- Someone is blackmailing information for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

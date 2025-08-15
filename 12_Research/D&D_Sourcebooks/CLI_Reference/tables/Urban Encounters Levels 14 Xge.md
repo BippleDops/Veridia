@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.501459+00:00'
 world: Both
 ---
 
-
-
 # Urban Encounters (Levels 1—4)
 *Source: Xanathar's Guide to Everything p. 110* 
 
@@ -93,7 +91,7 @@ world: Both
 | 91 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mage]] |
 | 92 | 1 [[shield-guardian-xmm|shield guardian]] |
 | 93 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm|gladiator]] |
-| 94 | 1 [[revenant-xmm|revenant]] |
+| 94 | 1 [[revet-xmm|revet]] |
 | 95 | 2d4 [[gargoyle-xmm|gargoyles]] |
 | 96 | 1d4 [[doppelganger-xmm|doppelgangers]] |
 | 97 | 1 [[oni-xmm|oni]] |
@@ -101,6 +99,24 @@ world: Both
 | 99 | 1d3 + 1 [[phase-spider-xmm|phase spiders]] |
 | 00 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/assassin-xmm|assassin]] |
 ^urban-encounters-levels-14
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -110,19 +126,15 @@ Urban encounters levels 14 xge is a undersea element of the setting, known for b
 
 Legends speak of urban encounters levels 14 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around urban encounters levels 14 xge.
 
-## Adventure Hooks
-
-- A rumor ties urban encounters levels 14 xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at urban encounters levels 14 xge to avert a public scandal.
-- A map overlay reveals a hidden approach to urban encounters levels 14 xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

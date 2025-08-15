@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.346593+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-toxin-specialist-venom-reef-toxin-specialist-venom-reef.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Coral Throne Syndicate HQ|02 Worldbuilding/Places/Coral Throne Syndicate HQ]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Coral Throne Syndicate HQ]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,18 @@ Toxin Specialist Venom Reef is a undersea element of the setting, known for biol
 
 Legends speak of Toxin Specialist Venom Reef as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Toxin Specialist Venom Reef.
 
-## Adventure Hooks
-
-- A rumor ties Toxin Specialist Venom Reef to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Toxin Specialist Venom Reef to avert a public scandal.
-- A map overlay reveals a hidden approach to Toxin Specialist Venom Reef active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

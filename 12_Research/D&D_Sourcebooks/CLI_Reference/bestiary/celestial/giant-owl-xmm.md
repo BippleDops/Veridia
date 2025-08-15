@@ -29,13 +29,29 @@ updated: '2025-08-12T23:37:35.821583'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-owl-xmm-giant-owl-xmm.svg)
 
 # [[giant-owl-xmm|Giant Owl]]
-*Source: Monster Manual (2024) p. 358. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 358. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Animals
 
@@ -56,7 +72,6 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "12"
   - !!int "10"
   - !!int "14"
-  - !!int "10"
 "speed": "5 ft., fly 60 ft."
 "saves":
   - "wisdom": !!int "4"
@@ -64,7 +79,6 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+6"
 "damage_resistances": "necrotic, radiant"
 "senses": "darkvision 120 ft., passive Perception 16"
 "languages": "Celestial; understands Common, Elvish, and Sylvan but can't speak them"
@@ -77,7 +91,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 7 (1d10 + 2) Slashing damage."
     "name": "Talons"
   - "desc": "The owl casts one of the following spells, requiring no spell components\
-      \ and using Wisdom as the spellcasting ability:\n\nAt will: [[detect-evil-and-good-xphb|Detect Evil\
+      \ and using Wisdom as the spellcasting ability:\n\nAt will: [[detect-evil-and-good-xphb|Detect Evil\]]
       \ and Good]], [[detect-magic-xphb|Detect Magic]]\n\
       \n1/day: [[clairvoyance-xphb|Clairvoyance]]"
     "name": "Spellcasting"
@@ -99,19 +113,26 @@ Giant owl xmm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of giant owl xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around giant owl xmm.
 
-## Adventure Hooks
-
-- A rumor ties giant owl xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at giant owl xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to giant owl xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and chaos spreads
+- The authorities needs help finding before the new moon
+- A journal reveals a betrayal about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

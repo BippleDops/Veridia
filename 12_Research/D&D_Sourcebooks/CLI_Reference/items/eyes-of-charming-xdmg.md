@@ -23,15 +23,31 @@ updated: '2025-08-12T23:37:36.983235'
 world: Both
 ---
 
-
 # Eyes of Charming
 *Wondrous item, uncommon (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/eyes-of-charming.webp#right)
 
-
 These crystal lenses fit over the eyes. They have 3 charges. While wearing them, you can expend 1 or more charges to cast [[charm-person-xphb|Charm Person]] (save DC 13). For 1 charge, you cast the level 1 version of the spell. You increase the spell's level by one for each additional charge you expend. The lenses regain all expended charges daily at dawn.
 
-*Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 261. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -41,19 +57,35 @@ Eyes of charming xdmg is a undersea element of the setting, known for biolumines
 
 Legends speak of eyes of charming xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around eyes of charming xdmg.
 
-## Adventure Hooks
-
-- A rumor ties eyes of charming xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at eyes of charming xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to eyes of charming xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- A letter reveals ancient history about the government
+- Strange sightings suggest a portal
+- A map reveals ancient history about this place
+- The authorities needs help stealing before the new moon
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

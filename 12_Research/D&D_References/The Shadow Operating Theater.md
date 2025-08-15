@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.680594+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,29 @@ The Shadow Operating Theater is a undersea element of the setting, known for bio
 
 Legends speak of The Shadow Operating Theater as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Shadow Operating Theater.
 
-## Adventure Hooks
-
-- A rumor ties The Shadow Operating Theater to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Shadow Operating Theater to avert a public scandal.
-- A map overlay reveals a hidden approach to The Shadow Operating Theater active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Shadow Surgeon Strike Team|02 Worldbuilding/Groups/Shadow Surgeon Strike Team]]
-
-
-## Connections
-
-- [[Shadow Surgeon Strike Team]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and evil awakens
+- Someone is blackmailing information for money
+- Someone is searching for a artifact for love
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

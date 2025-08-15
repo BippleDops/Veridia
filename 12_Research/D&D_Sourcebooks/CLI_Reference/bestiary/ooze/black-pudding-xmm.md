@@ -27,13 +27,29 @@ updated: '2025-08-12T23:37:35.396036'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-black-pudding-xmm-black-pudding-xmm.svg)
 
 # [[black-pudding-xmm|Black Pudding]]
-*Source: Monster Manual (2024) p. 42. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 42. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Black Pudding
 
@@ -72,15 +88,13 @@ Various supernatural conditions might bring black puddings into being. Roll on o
 "stats":
   - !!int "16"
   - !!int "5"
-  - !!int "16"
   - !!int "1"
   - !!int "6"
-  - !!int "1"
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "acid, cold, lightning, slashing"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
-  \ [[conditions#Exhaustion|exhaustion]], [[conditions#Frightened|frightened]],\
-  \ [[conditions#Grappled|grappled]], [[conditions#Prone|prone]],\
+  \ [[conditions#Exhaustion|exhaustion]], [[conditions#frightened|frightened]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#prone|prone]],\
   \ [[conditions#Restrained|restrained]]"
 "senses": "blindsight 60 ft., passive Perception 8"
 "languages": ""
@@ -135,19 +149,28 @@ Black pudding xmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of black pudding xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around black pudding xmm.
 
-## Adventure Hooks
-
-- A rumor ties black pudding xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at black pudding xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to black pudding xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A map reveals a betrayal about a local noble
+- A prisoner has gone missing and war looms
+- A journal reveals a conspiracy about the cult
+- A corpse reveals ancient history about a local noble

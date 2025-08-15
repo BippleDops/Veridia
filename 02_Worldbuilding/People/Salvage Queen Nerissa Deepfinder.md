@@ -1,4 +1,5 @@
 ---
+
 title: Salvage Queen Nerissa Deepfinder
 type: Npc
 tags:
@@ -10,6 +11,7 @@ tags:
 - active
 - complete
 - status/in-progress
+- bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +20,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.516684+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +30,69 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-salvage-queen-nerissa-deepfinder-salvage-queen-nerissa-deepfinder.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward manipulation
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward manipulation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
 
 ## Player-Facing Summary
 
@@ -67,14 +101,6 @@ Salvage Queen Nerissa Deepfinder is a undersea element of the setting, known for
 ## Lore Details
 
 Legends speak of Salvage Queen Nerissa Deepfinder as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Salvage Queen Nerissa Deepfinder.
-
-## Adventure Hooks
-
-- A rumor ties Salvage Queen Nerissa Deepfinder to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Salvage Queen Nerissa Deepfinder to avert a public scandal.
-- A map overlay reveals a hidden approach to Salvage Queen Nerissa Deepfinder active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +111,6 @@ Salvage Queen Nerissa Deepfinder's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Pursuing knowledge
@@ -124,8 +120,6 @@ Salvage Queen Nerissa Deepfinder's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Salvage Queen Nerissa Deepfinder harbors secrets that could change everything:
@@ -133,10 +127,6 @@ Salvage Queen Nerissa Deepfinder harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Prophetic visions
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +145,6 @@ Salvage Queen Nerissa Deepfinder is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Salvage Queen Nerissa Deepfinder needs assistance with a delicate matter
@@ -164,8 +152,6 @@ Salvage Queen Nerissa Deepfinder is currently engaged in:
 3. **The Secret**: Information about Salvage Queen Nerissa Deepfinder's past surfaces
 4. **The Alliance**: Opportunity to work with or against Salvage Queen Nerissa Deepfinder
 5. **The Crisis**: Salvage Queen Nerissa Deepfinder is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,31 +165,38 @@ Salvage Queen Nerissa Deepfinder is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Salvage Queen Nerissa Deepfinder]]
+## Secret Connections
 
-<!-- enriched: true -->
-
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
 
 
+## Prophecy Connection
 
-## Relationship Web
+Mentioned in The Second Prophecy of Shadows
 
-- [[Quest - Into the Wastes]]: *family member*
-- [[02_Worldbuilding_People_High_Theologian_Commander_Aurelius]]: *informant*
-- [[04_Resources_Assets_Locations_location-city-master-archivist-valdric-stonewhisper-master-archivist-valdric-stonewhisper.svg]]: *mentor*
-- [[Aria Lumengarde]]: *student*
 
-## Connections
+## Cultural Practices
 
-### Home
-- [[04_Resources_Assets_Locations_location-city-the-primordial-vaults-the-primordial-vaults.svg]]
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
 
-### Affiliations
-- [[International Medical Organizations]]
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
 
-### Known Associates
-- [[Unite the Emperor]] (colleague)
-- [[Current-Lord Triton of House Pelagios]] (enemy)
-- [[Captain Dara Ironwill]] (friend)
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

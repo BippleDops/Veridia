@@ -30,16 +30,31 @@ updated: '2025-08-13T12:34:05.756274+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![[04_Resources/Assets/Creatures/creature-creature-salamander-xmm-salamander-xmm.png]]
 
 # [[salamander-xmm|Salamander]]
-*Source: Monster Manual (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 267. Available in the SRD and the Free Rules (2024)*  
 
 Most salamanders are arrogant yet curious, seeking to create artful blazes or burn that which has never been burned. They eagerly explain their work to strangers before trying to determine how the strangers burn. Salamanders radiate intense heat, which is conducted by their blazing weapons.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Salamanders
 
@@ -55,7 +70,6 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 > [!quote] A quote from Filiag Highthumbs  
 > 
 > The salamanders of the Elemental Plane of Fire delight in meeting visitors from other realms. For them, every stranger is a potential addition to their fiery artistry. Don't fall for their flattery, no matter how beautifully they say you'll burn.
-
 
 ```statblock
 "name": "Salamander (XMM)"
@@ -77,7 +91,7 @@ Salamanders are typically content to dwell on the Elemental Plane of Fire, creat
 "damage_vulnerabilities": "cold"
 "damage_immunities": "fire"
 "senses": "darkvision 60 ft., passive Perception 10"
-"languages": "Primordial (Ignan)"
+"languages": "Primordial (Ig)"
 "cr": "5"
 "traits":
   - "desc": "At the end of each of the salamander's turns, each creature of the salamander's\
@@ -117,19 +131,33 @@ Salamander xmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of salamander xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around salamander xmm.
 
-## Adventure Hooks
-
-- A rumor ties salamander xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at salamander xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to salamander xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A document has gone missing and war looms
+- Someone is searching for information for love
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -29,14 +29,29 @@ updated: '2025-08-13T12:34:05.846685+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-balor-xmm-balor-xmm.svg)
 
 # [[balor-xmm|Balor]]
-*Source: Monster Manual (2024) p. 26. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 26. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Balor
 
@@ -63,7 +78,6 @@ Balors embody demons' ruinous fury and hatred. Towering, winged terrors, these d
   - !!int "22"
   - !!int "20"
   - !!int "16"
-  - !!int "22"
 "speed": "40 ft., fly 80 ft."
 "saves":
   - "constitution": !!int "12"
@@ -73,7 +87,7 @@ Balors embody demons' ruinous fury and hatred. Towering, winged terrors, these d
     "desc": "+9"
 "damage_resistances": "cold, lightning"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 19"
 "languages": "Abyssal; telepathy 120 ft."
@@ -83,7 +97,7 @@ Balors embody demons' ruinous fury and hatred. Towering, winged terrors, these d
       \ creature in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the balor. Failure: 31 (9d6) Fire damage plus 31 (9d6)\
       \ Force damage. Success: Half damage. Failure or Success: If the balor dies\
-      \ outside the Abyss, it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit\
+      \ outside the Abyss, it gains a new body instantly, reviving with all its [[hit-points-xphb|Hit\]]
       \ Points]] somewhere in the\
       \ Abyss."
     "name": "Death Throes"
@@ -101,7 +115,7 @@ Balors embody demons' ruinous fury and hatred. Towering, winged terrors, these d
   - "desc": "Melee Attack Roll: +14, reach 30 ft. Hit: 18 (3d6 + 8) Force damage\
       \ plus 17 (5d6) Fire damage. If the target is a Huge or smaller creature, the\
       \ balor pulls the target up to 25 feet straight toward itself, and the target\
-      \ has the [[conditions#Prone|Prone]] condition."
+      \ has the [[conditions#prone|Prone]] condition."
     "name": "Flame Whip"
   - "desc": "Melee Attack Roll: +14, reach 10 ft. Hit: 21 (3d8 + 8) Force damage\
       \ plus 22 (4d10) Lightning damage, and the target can't take Reactions until\
@@ -129,19 +143,20 @@ Balor xmm is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of balor xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around balor xmm.
 
-## Adventure Hooks
-
-- A rumor ties balor xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at balor xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to balor xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

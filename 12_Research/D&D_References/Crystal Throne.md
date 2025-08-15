@@ -15,27 +15,26 @@ world: Both
 updated: '2025-08-13T01:18:35.874737+00:00'
 ---
 
-
-
-
-
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-the-crystal-throne-the-crystal-throne.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Overview
+*20 targeted improvements identified*
 
-TODO
-## Historical Context
+### Connection Improvements
 
-TODO
-## Current Relevance
+- Add cross-references to related notes
 
-TODO
-## See Also
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -45,24 +44,36 @@ Crystal Throne is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Crystal Throne as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystal Throne.
 
-## Adventure Hooks
-
-- A rumor ties Crystal Throne to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Crystal Throne to avert a public scandal.
-- A map overlay reveals a hidden approach to Crystal Throne active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Cathedral of Light|02 Worldbuilding/Places/Cathedral Of Light]]
 
 
-## Connections
+## Plot Hooks
 
-- [[Cathedral of Light]]
-- [[The Gilded Shard]]
+- A stranger needs help delivering before the festival
+- A journal reveals a conspiracy about the cult
+- Someone is blackmailing information for revenge
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

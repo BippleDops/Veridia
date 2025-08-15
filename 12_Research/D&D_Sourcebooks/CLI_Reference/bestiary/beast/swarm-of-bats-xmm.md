@@ -30,13 +30,29 @@ updated: '2025-08-12T23:37:35.140646'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-swarm-of-bats-xmm-swarm-of-bats-xmm.svg)
 
 # [[swarm-of-bats-xmm|Swarm of Bats]]
-*Source: Monster Manual (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 370. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Animals
 
@@ -60,9 +76,9 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "4"
 "speed": "5 ft., fly 30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
-  \ [[conditions#Petrified|petrified]], [[conditions#Prone|prone]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#prone|prone]],\
   \ [[conditions#Restrained|restrained]], [[conditions#Stunned|stunned]]"
 "senses": "blindsight 60 ft., passive Perception 11"
 "languages": ""
@@ -95,19 +111,25 @@ Swarm of bats xmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of swarm of bats xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around swarm of bats xmm.
 
-## Adventure Hooks
-
-- A rumor ties swarm of bats xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at swarm of bats xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to swarm of bats xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

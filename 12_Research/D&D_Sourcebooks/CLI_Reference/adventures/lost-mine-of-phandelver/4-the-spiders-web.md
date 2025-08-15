@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.668050'
 world: Both
 ---
 
-
 # The Spider's Web
 *Source: Lost Mine of Phandelver, p. 27* 
 
@@ -34,6 +33,24 @@ In this part of the adventure, the characters follow up on existing leads and li
 - [[/03_Mechanics/CLI/bestiary/npc/sildar-hallwinter-lmop|Sildar Hallwinter]] wants the characters to find Cragmaw Castle, search for [[/03_Mechanics/CLI/bestiary/npc/gundren-rockseeker-lmop|Gundren Rockseeker]], rescue the dwarf, and retrieve his map.  
 
 Each of these possible quests has its own section in this part of the adventure. The characters can remain in Phandalin long enough to rest up and purchase supplies. When they're done, have them pick a storyline to investigate, then set out for the appropriate destination.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Triboar Trail
 
@@ -80,8 +97,6 @@ The Triboar Trail is not safe. As the adventurers travel throughout this area, t
 
 `dice: [](4-the-spiders-web.md#^wilderness-encounters-night)`
 
-| dice: d12 | Encounter |
-|-----------|-----------|
 | 1-3 | [[stirge-xmm|Stirges]] (`1d8 + 2`) |
 | 4 | [[ghoul-xmm|Ghouls]] (`1d4 + 1`) |
 | 5 | [[goblin-warrior-xmm|Goblins]] (`1d6 + 3`) |
@@ -130,15 +145,11 @@ The town of Conyberry was sacked by barbarians years ago and now lies in ruins. 
 
 If the characters exercise caution and remember what they've come for, they will be able to speak with the banshee. When the characters enter the shelter, read the following:
 
-> [!readaloud] 
-> 
 > A home of sorts is sheltered within the dome of woven branches. It is sparsely furnished with chests, shelves, a table, and a reclined couch, all of it old and of elven craft.
 ^0c3
 
 Agatha senses the characters' intrusion and manifests shortly after they enter her home.
 
-> [!readaloud] 
-> 
 > The air grows cold, and a powerful feeling of dread grips you. A cold, pale light flickers in the air, rapidly taking on the form of a female elf, her hair and robes waving in a spectral wind. She might have been beautiful once, but a hateful expression twists her features now. "Foolish mortals," she snarls. "What do you want here? Do you not know it is death to seek me out?"
 ^0c4
 
@@ -148,8 +159,6 @@ If the characters are rude, disrespectful, or threatening, Agatha scowls and dis
 
 If the characters are respectful and polite, Agatha can be persuaded to help them with a successful DC 15 Charisma ([[skills#Persuasion|Persuasion]]) check. The player whose character takes the lead in speaking with the banshee makes the check. If that player roleplays the encounter well, allow him or her to make the check with advantage. If any character has Sister Garaele's silver comb and presents it to Agatha as a gift, the check is automatically successful.
 
-> [!readaloud] 
-> 
 > The ghostly figure smiles with cold amusement. "Very well," she says. "I know that you seek many things. Ask me one question, and I will give you an answer."
 ^0c6
 
@@ -162,7 +171,6 @@ The characters might instead choose to ask Agatha about something else—for exa
 The characters gain experience for successfully persuading Agatha to answer a question. If they do, divide 200 XP equally among the characters.
 
 > [!note] Where's the Map?
-> 
 > No maps are provided for Agatha's lair, Old Owl Well, or Wyvern Tor. These adventure locations contain only one or two points of interest, and you don't need maps to run the encounters effectively. If you feel the need for a map, create your own using the adventure text as a guide.
 ^wheres-the-map
 
@@ -172,8 +180,6 @@ Built thousands of years ago by a long-vanished empire, Old Owl Well is a ruined
 
 Recently, prospectors in the area have noted that someone has set up a campsite at Old Owl Well, and that undead guardians have been posted to keep intruders out.
 
-> [!readaloud] 
-> 
 > As you crest a low ridge, you spy the crumbling ruins of an old watchtower standing amid the rugged hills. The place is so old that the walls are only mounds of rubble enclosing a courtyard of sorts, adjacent to the broken stump of an old tower. A colorful tent has been set up in the middle of the courtyard, but no one is in sight.
 ^0ca
 
@@ -184,7 +190,6 @@ Twelve [[zombie-xmm|zombies]] lurk inside the crumbled shell of the old watchtow
 If a battle erupts, Hamun Kost, the [[/03_Mechanics/CLI/bestiary/humanoid/evil-mage-lmop|evil mage]], emerges from his tent and asks,
 
 > [!note] Red-Robed Mage
-> 
 > "What is the meaning of this?"
 ^red-robed-mage
 
@@ -215,16 +220,12 @@ Though most of the zombies have long since crumbled to dust, strange magic perme
 
 As the party approaches the ruins, read the following:
 
-> [!readaloud] 
-> 
 > Gradually, the trail becomes an old, overgrown lane winding between dilapidated buildings choked in vines and brush. Ahead of you, in the middle of the settlement, rises a steep hill, upon which stands a stone tower with a partially collapsed roof and an adjoining cottage. A dirt road hugs the base of the hill and wends its way between old stone houses, many of which are roofless ruins with interiors open to the weather. Other buildings appear more or less intact. The whole place is eerily silent.
-> 
 > A wooden sign is nailed to a post nearby. It reads: "DANGER! Plant monsters AND zombies! Turn back now!"
 ^0cf
 
 Reidoth placed the sign to discourage bands of treasure seekers from stirring up the monsters in the area.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/lost-mine-of-phandelver/img/ruins-of-thundertree.webp#gallery|Ruins of Thundertree]]
 > ![[/03_Mechanics/CLI/adventures/lost-mine-of-phandelver/img/ruins-of-thundertree-player.webp#gallery|Player Version]]
 
@@ -248,8 +249,6 @@ Trees average 30 to 40 feet tall and provide cover. Brush consists of large bush
 
 This cottage has seen better days.
 
-> [!readaloud] 
-> 
 > Cowering in the shadow of an old tree is a crumbled stone cottage with no roof. Weeds are rampant here.
 ^0d4
 
@@ -265,8 +264,6 @@ Divide 50 XP equally among the characters if the party destroys the twig blights
 
 Wind and weather have done their work here, and little remains of these houses or their former contents.
 
-> [!readaloud] 
-> 
 > These ruined, side-by-side cottages look as though they might have been the homes of prosperous shopkeepers or well-off farmers in their time. All that remains are collapsed walls and piles of debris. Several young trees have grown up in the midst of the ruins.
 ^0d7
 
@@ -286,8 +283,6 @@ Divide 150 XP equally among the characters if the party destroys these twig blig
 
 This was formerly the Brown Horse, a tavern renowned for its excellent ale.
 
-> [!readaloud] 
-> 
 > A weathered signboard by the door of this large building shows the faded image of a workhorse holding a flagon of ale. The building is sagging and dilapidated, but it is more intact than the ruins across the road.
 ^0db
 
@@ -300,9 +295,7 @@ The eastern half of the building is the old common room, while the western porti
 Divide 200 XP equally among the characters if the party destroys the ash zombies.
 
 > [!note] Ash Zombies
-> 
 > These zombies were created by the magical devastation when Mount Hotenow erupted thirty years ago. They use the zombie stat block, with the following additional trait.
-> 
 > **Ash Puff.** The first time the zombie takes damage, any living creature within 5 feet of the zombie must succeed on a DC 10 Constitution saving throw or gain disadvantage on attack rolls, saving throws, and ability checks for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on it early with a successful save.
 ^ash-zombies
 
@@ -310,10 +303,7 @@ Divide 200 XP equally among the characters if the party destroys the ash zombies
 
 When Reidoth visits Thundertree, this is where he makes camp.
 
-> [!readaloud] 
-> 
 > This small house appears to be in better condition than the ruined and dilapidated structures nearby. The doors are reinforced with heavy iron bands, and thick shutters protect the windows.
-> 
 > Reidoth is a gaunt, white-bearded human who doesn't use two words when one word will do. Though he receives very few visitors, he is reasonably hospitable.
 ^0e0
 
@@ -335,8 +325,6 @@ If the party helps Reidoth by chasing off [[/03_Mechanics/CLI/bestiary/npc/venom
 
 To its south, this farm abuts a field with thick patches of gorse and briars.
 
-> [!readaloud] 
-> 
 > This ruin looks as if it might once have been a farmhouse. It is now half swallowed by a dense thicket, with trees growing up through its ruined foundations. The lane continues south a short distance past the ruin before ending in an overgrown field.
 ^0e4
 
@@ -352,8 +340,6 @@ Divide 200 XP equally among the characters if the party destroys the twig blight
 
 This former general store is not a complete ruin yet, with portions of its tile roof still intact.
 
-> [!readaloud] 
-> 
 > At an intersection near the middle of the village, a narrow lane winds up the steep hillside to the north. Directly to the south is a ruined building that might have been a store or workshop. Webs stretch across the lane, from the building to the trees on the north side of the road.
 ^0e7
 
@@ -377,10 +363,7 @@ Divide 400 XP equally among the characters if the party defeats the giant spider
 
 This tower was formerly the home of a human wizard, who was killed fighting the ash zombies that overran Thundertree thirty years ago.
 
-> [!readaloud] 
-> 
 > At the top of the hill stands a round tower with a cottage attached. Both are in good condition, although half of the tower's roof is gone. A door leads into the cottage, and several arrow-slit windows are visible in the tower. You can't help but notice an eerie quiet in the area and a strange, acrid smell in the air.
-> 
 > The corpses of two hideous giant spiders are sprawled near the edge of the pathway, apparently dragged there. Their bloated bodies are puckered and blistered, and appear to have been mauled by a large animal.
 ^0ec
 
@@ -410,8 +393,6 @@ Divide 2,000 XP equally among the characters if the party drives away [[/03_Mech
 
 This smithy was abandoned long ago.
 
-> [!readaloud] 
-> 
 > A wide chimney and rotted piles of firewood jumbled outside the walls of this sagging building suggest that it was a smithy in its day.
 ^0f2
 
@@ -427,8 +408,6 @@ Divide 100 XP equally among the characters if the party destroys the ash zombies
 
 This was an herb and alchemy shop belonging to the family of Mirna Dendrar, now a resident in Phandalin (see encounter 5 in the "Redbrand Hideout" section).
 
-> [!readaloud] 
-> 
 > This ruined shop is cluttered with sagging storage shelves and broken furniture. Shards of glass and pieces of pottery glint in the weeds and rubble next to rotted books and casks.
 ^0f5
 
@@ -446,8 +425,6 @@ Divide 200 XP equally among the characters if the party returns the necklace to 
 
 Encroaching underbrush has yet to engulf the square.
 
-> [!readaloud] 
-> 
 > On the east side of town, the lane opens up to form a small square. Several ruined buildings surround the south side of the square, but a larger, intact structure to the north looks like a barracks. One lane leads southeast, another heads southwest around the hill in the middle of the town, and a third way meanders north. In the middle of the square, leaning to one side ever so slightly, is a weathered wooden statue of a warrior clutching a spear and shield.
 ^0f9
 
@@ -457,12 +434,10 @@ The leaning statue is ten feet tall, including the base. It depicts an old hero 
 
 For the residents of Thundertree, living so close to Neverwinter Wood demanded constant vigilance.
 
-> [!readaloud] 
-> 
 > The barracks appears to have weathered the years better than most buildings in town. Its rooftop features a simple battlement, and arrow-slit windows confirm that it was built to serve as a small keep in times of emergency.
 ^0fb
 
-Five [[ash-zombie-lmop|ash zombies]] (see the "Ash Zombies" sidebar) lurk within this building. Former members of the garrison, they still wear the remnants of rusted mail and soldiers' surcoats. These scraps of armor do not improve their Armor Class, however. The zombies animate and attack if any living creature disturbs their rest.
+Five [[ash-zombie-lmop|ash zombies]] (see the "Ash Zombies" sidebar) lurk within this building. Former members of the garrison, they still wear the remts of rusted mail and soldiers' surcoats. These scraps of armor do not improve their Armor Class, however. The zombies animate and attack if any living creature disturbs their rest.
 
 The interior of the building still contains furnishings, and the main room has a ladder leading through a trapdoor to the roof. The chamber to the north contains two double bunks, while the chamber to the south has three double bunks, providing quarters for ten soldiers altogether. To the northwest of the main area of the barracks was a kitchen and pantry, now containing piles of well-rotted sacks and barrels that once held salted meat. All the foodstuffs have long since been devoured by vermin.
 
@@ -474,8 +449,6 @@ Divide 250 XP equally among the characters if the party destroys the ash zombies
 
 This fallen cottage is a lure for the creatures that lair nearby.
 
-> [!readaloud] 
-> 
 > Heaps of wreckage litter the interior of this ruin. In one corner stands a broken loom.
 ^0fe
 
@@ -493,8 +466,6 @@ Divide 150 XP equally among the characters if the party destroys the twig blight
 
 A group calling itself the Cult of the Dragon seeks to forge alliances with powerful dragons of the Sword Coast. Toward that end, four cultists recently tracked a green dragon to Thundertree (see 7) and are waiting for the right moment to approach the dragon and broker an alliance. They have been spying on the dragon from afar, trying to gauge its demeanor and its needs.
 
-> [!readaloud] 
-> 
 > This small farmhouse appears to be just another empty home at first glance. However, all the doors are shut and windows shuttered.
 ^102
 
@@ -530,8 +501,6 @@ Wyvern Tor is a sizable hill, with miles of rugged terrain on its flanks and slo
 
 When the characters find the camp, read the following:
 
-> [!readaloud] 
-> 
 > The faint smell of smoke hangs on the air as you ascend a rugged ridge on the lower slopes of the hill. Fifty yards away, a cave mouth opens up at the bottom of a ravine. Hunkered down by a boulder twenty yards outside the cave, keeping watch, is a single orc.
 ^108
 
@@ -553,7 +522,6 @@ The Cragmaw tribe consists of marauding bands and rival goblinholds scattered th
 
 Cragmaw Castle is not a goblin construction, nor is that the structure's original name. Raised by a talented wizard-noble of old Phalorm, an ancient realm that once controlled much of the North, the stronghold consists of seven overlapping towers; however, its upper levels have long since collapsed to heaps of crumbling masonry. Only the ground floor is still sound enough to be habitable.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/lost-mine-of-phandelver/img/cragmaw-castle.webp#gallery|Cragmaw Castle]]
 > ![[/03_Mechanics/CLI/adventures/lost-mine-of-phandelver/img/cragmaw-castle-player.webp#gallery|Player Version]]
 
@@ -587,8 +555,6 @@ Arrow slits in the castle walls are 10 feet above the outside ground level, 4 fe
 
 The main gates between areas 1 and 2 are made of bronze-covered wood, but they are corroded and collapsed.
 
-> [!readaloud] 
-> 
 > The castle consists of seven crumbling towers of different sizes and heights, but the upper stories are all in varying states of collapse. A short flight of steps leads up to a terrace in front of the main entryway. Past the wreckage of a pair of sundered doors lies a shadowed hall. Round towers loom over the entranceway, with dark arrow slits looking down on the terrace.
 ^113
 
@@ -610,8 +576,6 @@ If the characters try to perpetrate a deception as a group, have them each make 
 
 Once the castle's foyer, this wide hall makes a dangerous battleground.
 
-> [!readaloud] 
-> 
 > Doors stand closed to the north and south, with a crumbling mound of rubble partially obscuring the southern hall. To the east, a broad corridor ends in two more doors leading south and east. The corridor is cluttered with dusty rubble and fallen plaster from a partial collapse of the ceiling overhead.
 ^116
 
@@ -631,8 +595,6 @@ Divide 100 XP equally among the characters if the party detects or survives the 
 
 Cragmaw Castle's main defenses are its secret location and the appearance of having been abandoned. In addition, King Grol posts sentries to drive off intruders who get too close.
 
-> [!readaloud] 
-> 
 > This small room is littered with debris. The arrow slit opposite the door offers a fine field of fire over the terrace in front of the castle gates.
 ^11a
 
@@ -646,8 +608,6 @@ Divide 100 XP equally among the characters for each pair of goblin archers the p
 
 The Cragmaw goblins make use of every bit of available space in the castle.
 
-> [!readaloud] 
-> 
 > The southwest tower of the castle is little more than a heap of rubble. Several ragged bedrolls are scattered across the remaining floor space, and a small, twisting passage leads east through the ruins.
 ^11d
 
@@ -665,8 +625,6 @@ Divide 150 XP equally among the characters if the party defeats these goblins.
 
 Caravans raided by the Cragmaws along the High Road and the Triboar Trail supply provisions for the castle.
 
-> [!readaloud] 
-> 
 > Old casks of salted meat and sacks of rotting grain fill this storage area. Among the supplies, you see a bloody suit of chain mail, a heavy crossbow, and an unsheathed longsword with the emblem of Neverwinter worked into its hilt.
 ^121
 
@@ -682,8 +640,6 @@ The chain mail and longsword belong to [[/03_Mechanics/CLI/bestiary/npc/sildar-h
 
 The Cragmaws are a mixed tribe of goblinoids, with a handful of bugbears lording over larger numbers of miserable goblins and a few hobgoblins. The hobgoblins plan to dispose of the bugbears and take over someday, but for now, the bugbears are too strong a threat.
 
-> [!readaloud] 
-> 
 > Four plain straw pallets and bedrolls are lined up on the floor of this barracks. Brackets on the walls hold a number of weapons—spears, swords, morningstars, and more. The north wall shows signs of damage, but the floor is swept clean of rubble.
 ^124
 
@@ -701,8 +657,6 @@ Divide 400 XP equally among the characters if the party defeats the hobgoblins i
 
 The lord of the castle once entertained his guests here, throwing lavish banquets and dances. Now this place is a foul goblin mess hall.
 
-> [!readaloud] 
-> 
 > The western portion of this large hall ends in a wall of rubble, but the remainder is still intact. This must once have been the castle's banquet hall, with a soaring ceiling twenty-five feet high. Two large wooden tables with plain benches stand in the middle of the room, and a brass brazier full of glowing coals is tucked into one corner. Dirty dishes, half-full stewpots, moldy heels of bread, and gnawed bones cover the tables.
 ^128
 
@@ -716,8 +670,6 @@ Divide 400 XP equally among the characters if the party defeats the goblins in t
 
 Even by day, this area has no exterior light. The boxed text assumes that the characters have [[senses#Darkvision|darkvision]] or a light source.
 
-> [!readaloud] 
-> 
 > This high, narrow hall looks as if it might have been part of a chapel or shrine at one time. Angelic figures are sculpted along the room's upper reaches, looking down on the floor below. To the north, heavy curtains block a matching pair of archways. Between the archways is a cracked but ornately carved stone brazier.
 ^12b
 
@@ -743,8 +695,6 @@ Divide 450 XP equally among the characters if the party defeats the grick.
 
 Goblins have no use for human gods, so the Cragmaws have rededicated this place to Maglubiyet, the god of goblins and hobgoblins.
 
-> [!readaloud] 
-> 
 > This chamber occupies the northern tower of the castle. A stone altar stands in the middle of the room, covered with bloodstained black cloth. Golden ritual implements—a chalice, a knife, and a censer—are carefully arranged on top of the altar. Two archways to the south are covered with heavy curtains.
 ^130
 
@@ -764,8 +714,6 @@ Divide 150 XP equally among the characters if the party defeats the goblins.
 
 This side entrance to the castle is locked but unguarded.
 
-> [!readaloud] 
-> 
 > On the south side of the old castle, an overgrown path leads to a passage that climbs up into the wall. A large iron door stands here, sheltered from direct outside attack. Arrow slits ten feet above the ground overlook the path.
 ^134
 
@@ -779,8 +727,6 @@ Any character who pauses and listens near the arrow slits hears, from 7, an occa
 
 Dusty canvas (marked with a "C" on the map) hides the northern entrance to this area, blending in with the surrounding stonework and rubble. A character who succeeds on a DC 15 Wisdom ([[skills#Perception|Perception]]) check spots a footpath leading up to the hidden entrance. If the characters are actively searching the outside of the castle for a hidden entrance, they can make a DC 10 Wisdom ([[skills#Perception|Perception]]) check to spot the canvas "door."
 
-> [!readaloud] 
-> 
 > This tower has almost completely collapsed, although the ground floor still has a little open space. Rotting crates and ancient barrels show that provisions were once stored here. A heavy curtain blocks a crumbling area to the south, and an intact door leads east. To the north, a short passage through the rubble ends before a screen of canvas.
 ^137
 
@@ -788,8 +734,6 @@ Dusty canvas (marked with a "C" on the map) hides the northern entrance to this 
 
 The creatures here keep watch from the arrow slit, so any characters creeping around the east side of the castle are likely to be spotted and attacked.
 
-> [!readaloud] 
-> 
 > A stone brazier full of coals glows in the middle of this small barracks. Four straw pallets are lined up along the east wall. The wall to the south has collapsed, but a barred wooden door in that direction is still clear. A curtain hangs in an archway to the north.
 ^139
 
@@ -807,8 +751,6 @@ The door to this room is held shut with a heavy wooden bar—a subtle warning th
 
 The arrow slits here are shuttered, leaving the room dark. The boxed text assumes that the characters have [[senses#Darkvision|darkvision]] or a light source.
 
-> [!readaloud] 
-> 
 > The upper floors of this tower have collapsed to create a hollow silo at least thirty feet high, and the upper reaches of the room are lost in shadows. Dust, rubble, and broken glass cover the floor, and old worktables and bookshelves lie strewn to the south. In the middle of the room is a hulking beast that looks like a mangy bear with an owl's head. It rears up and roars when it sees you.
 ^13c
 
@@ -832,8 +774,6 @@ Divide 700 XP equally among the characters if the party defeats the owlbear or r
 
 Any character who listens at the door hears two voices in a heated discussion—a loud, growling voice demanding payment for something, and a silky smooth reply.
 
-> [!readaloud] 
-> 
 > This chamber has been set up as a crude living space, with thick furs thrown on the floor to serve as carpets, old trophies hanging on the walls, a large bed to the north, and a brazier of coals burning brightly. A round table with several chairs stands to the south near the door. Near the table, on the floor, is an [[conditions#Unconscious|unconscious]] dwarf who looks badly beaten.
 ^141
 
@@ -897,19 +837,15 @@ Whether the characters sought the information from Agatha or Reidoth, negotiated
 
 Legends speak of 4 the spiders web as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 4 the spiders web.
 
-## Adventure Hooks
-
-- A rumor ties 4 the spiders web to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 4 the spiders web to avert a public scandal.
-- A map overlay reveals a hidden approach to 4 the spiders web active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

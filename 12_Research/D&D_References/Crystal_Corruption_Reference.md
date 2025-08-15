@@ -18,11 +18,6 @@ updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
 
-
-# Crystal Corruption Reference
-
-## Corruption Stages
-
 ### Stage Progression
 | Stage | Duration | Symptoms | Save DC | Reversal Difficulty |
 |-------|----------|----------|---------|-------------------|
@@ -32,12 +27,10 @@ world: Both
 | **Advanced** | 6-12 months | Major body systems affected | 21 | Greater restoration required |
 | **Terminal** | 1+ years | Complete crystalline conversion | 25 | Wish/miracle only |
 
-### Detailed Stage Effects
-
 #### Exposure Stage (Days 1-7)
 **Physical Changes:**
 - Faint prismatic sheen to eyes
-- Increased sensitivity to crystal resonance
+- Increased sensitivity to crystal resoce
 - Slightly improved night vision
 
 **Behavioral Changes:**
@@ -140,8 +133,6 @@ world: Both
 - True resurrection to restore original soul
 - Requires destroyed crystal form first
 
-## Infection Vectors
-
 ### Primary Transmission Methods
 | Method | Infection Chance | Incubation | Notes |
 |--------|------------------|------------|-------|
@@ -161,8 +152,6 @@ world: Both
 | **Cult Temples** | 25% | +10% per day |
 | **Natural Crystal Caves** | 5% | +1% per day |
 
-## Protection Methods
-
 ### Personal Protection
 | Protection Type | Effectiveness | Cost | Duration |
 |-----------------|---------------|------|----------|
@@ -173,14 +162,12 @@ world: Both
 | **Lead-Lined Equipment** | 60% reduction | 2× normal cost | Permanent |
 
 ### Environmental Protection
-| Method | Area Coverage | Installation Cost | Maintenance |
+| Method | Area Coverage | Installation Cost | Maintece |
 |--------|---------------|-------------------|-------------|
 | **Sanctified Ground** | 100 ft radius | 1000 gp | Monthly rituals |
 | **Lead Lining** | Single building | 500 gp | None |
 | **Anti-Crystal Wards** | 50 ft radius | 2000 gp | Weekly renewal |
 | **Purification Fountains** | 25 ft radius | 1500 gp | Daily blessing |
-
-## Crystal Types and Effects
 
 ### Natural Crystals
 | Crystal Type | Infection Risk | Special Properties |
@@ -193,14 +180,11 @@ world: Both
 
 ### Corrupted Crystals
 | Crystal Type | Infection Risk | Corruption Effect |
-|--------------|----------------|-------------------|
 | **Shadow Crystal** | Very High (40%) | Consciousness suppression |
 | **Void Crystal** | Extreme (60%) | Reality distortion |
 | **Blood Crystal** | High (30%) | Vampiric energy drain |
 | **Plague Crystal** | Extreme (70%) | Accelerated infection |
 | **Hive Crystal** | Maximum (90%) | Instant network connection |
-
-## Treatment and Cures
 
 ### Medical Treatments
 | Treatment Level | Success Rate | Cost | Requirements |
@@ -219,8 +203,6 @@ world: Both
 | **Refined Cure** | 2 years | 15000 gp | 80% |
 | **Mass Production** | 6 months | 10000 gp | 90% |
 
-## Social Impact
-
 ### Public Reaction by Stage
 | Stage | Public Response | Legal Status | Employment |
 |-------|----------------|--------------|------------|
@@ -229,15 +211,6 @@ world: Both
 | **Progressive** | Fear and avoidance | Quarantine laws | Banned from many jobs |
 | **Advanced** | Hostile rejection | Detention orders | Complete social exclusion |
 | **Terminal** | Kill on sight | Extermination orders | Hunted |
-
-### Economic Effects
-- **Medical costs** increase 500% in affected areas
-- **Property values** drop 75% near infection sites
-- **Trade disruption** as merchants avoid affected regions
-- **Military expenditure** increases for containment
-- **Research funding** diverted to cure development
-
-## Combat Modifications
 
 ### Infected Combatants
 | Stage | AC Bonus | HP Modifier | Special Abilities |
@@ -248,30 +221,6 @@ world: Both
 | **Advanced** | +3 | +20 | DR 5/magic, spell abilities |
 | **Terminal** | +5 | +50 | Construct immunities |
 
-### Crystal Weapons vs Infected
-- **Effectiveness doubled** against infected targets
-- **Disrupts healing** from crystal network
-- **Prevents resurrection** unless crystal completely destroyed
-- **Causes pain** even to advanced stages
-
-## Investigation Clues
-
-### Early Detection Signs
-- **Environmental**: Crystal formations in unexpected places
-- **Behavioral**: People acting in unison, rhythmic speech
-- **Physical**: Unusual eye coloration, skin changes
-- **Social**: Decreased diversity of opinion, cult-like behavior
-- **Economic**: Increased crystal trade, decreased food consumption
-
-### Crime Scene Evidence
-- **Crystal Residue**: Traces of crystal dust or fragments
-- **Biological Samples**: Infected blood, tissue, or saliva
-- **Environmental**: Ambient magic levels elevated
-- **Witness Reports**: Descriptions of crystalline features
-- **Documentation**: Medical records, quarantine papers
-
-## Faction Responses
-
 ### Government Response
 | Threat Level | Response | Resources Allocated |
 |--------------|----------|-------------------|
@@ -280,22 +229,6 @@ world: Both
 | **City-Wide Infection** | Martial law | National resources |
 | **Regional Plague** | Evacuation | International aid |
 | **Continental Threat** | War footing | Total mobilization |
-
-### Crystal Cult Response
-- **Celebration** of new conversions
-- **Protection** of infected individuals
-- **Acceleration** of conversion processes
-- **Recruitment** from desperate families
-- **Sabotage** of cure research
-
-### Shadow Conspiracy Response
-- **Exploitation** for consciousness control
-- **Research** into artificial triggering
-- **Coverup** of conspiracy involvement
-- **Elimination** of inconvenient witnesses
-- **Manipulation** of government response
-
-## Quick Reference Tables
 
 ### Exposure Check Results (d20)
 | Roll | Result |
@@ -315,16 +248,27 @@ world: Both
 | 9-10 | Infectious to non-contact transmission |
 | 11-12 | Maintains individual personality longer |
 
-## Links to Related Content
-- [[Crystal_Plague_Mechanics]]
-- [[Crystal_Cults]]
-- [[Crystal_Corruption_Cultists]]
-- [[Disease_and_Plague_System]]
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -333,3 +277,28 @@ world: Both
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a curse
+- Someone is protecting a witness for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

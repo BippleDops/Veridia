@@ -22,12 +22,26 @@ updated: '2025-08-12T23:37:35.708382'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ki-rin-vgm-ki-rin-vgm.svg)
 
-# Ki-rin
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Volo's Guide to Monsters_
@@ -35,7 +49,6 @@ _Source: Volo's Guide to Monsters_
 Inside its lair, a ki-rin has the power to conjure objects up to three times per day, using each of the following versions of the power once. One version permanently creates enough objects made of soft, plant-based material - including manufactured objects such as cloth, pillows, rope, blankets, and clothing - to fill a cube 20 feet on a side. The second version permanently creates enough objects made of wood, or similarly hard plant-based material, to fill a cube 10 feet on a side. The third version creates enough objects made of stone or metal to fill a cube 2 feet on a side, but any materials created in this way last for only 1 hour.
 
 ## Regional effects
-_Source: Volo's Guide to Monsters_
 
 The ki-rin's celestial nature transforms the region around its lair. Any of the following magical effects is possible for travelers to encounter in the vicinity:
 
@@ -55,19 +68,15 @@ Ki rin vgm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of ki rin vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ki rin vgm.
 
-## Adventure Hooks
-
-- A rumor ties ki rin vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ki rin vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to ki rin vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

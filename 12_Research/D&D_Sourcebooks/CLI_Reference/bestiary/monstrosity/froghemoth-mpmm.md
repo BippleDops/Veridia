@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:34.985042'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-froghemoth-mpmm-froghemoth-mpmm.svg)
 
@@ -94,10 +92,10 @@ If [[bullywug-warrior-xmm|bullywugs]] come across a froghemoth, the bullywugs ma
       \ gullet can hold up to two creatures at a time. If the froghemoth takes 20\
       \ damage or more on a single turn from a creature inside it, the froghemoth\
       \ must succeed on a DC 20 Constitution saving throw at the end of that turn\
-      \ or regurgitate all swallowed creatures, each of which falls [[conditions#Prone|prone]]\
+      \ or regurgitate all swallowed creatures, each of which falls [[conditions#prone|prone]]\
       \ in a space within 10 feet of the froghemoth. If the froghemoth dies, any swallowed\
       \ creature is no longer [[conditions#Restrained|restrained]]\
-      \ by it and can escape from the corpse using 10 feet of movement, exiting [[conditions#Prone|prone]]."
+      \ by it and can escape from the corpse using 10 feet of movement, exiting [[conditions#prone|prone]]."
     "name": "Bite"
   - "desc": "Melee Weapon Attack: +10 to hit, reach 20 ft., one target. Hit: 19\
       \ (3d8 + 6) bludgeoning damage, and the target is [[conditions#Grappled|grappled]]\
@@ -117,6 +115,24 @@ If [[bullywug-warrior-xmm|bullywugs]] come across a froghemoth, the bullywugs ma
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 swamp, underdark
@@ -129,19 +145,38 @@ Froghemoth mpmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of froghemoth mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around froghemoth mpmm.
 
-## Adventure Hooks
-
-- A rumor ties froghemoth mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at froghemoth mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to froghemoth mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Stars
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

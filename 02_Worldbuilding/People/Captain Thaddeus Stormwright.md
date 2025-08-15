@@ -1,4 +1,5 @@
 ---
+
 title: Captain Thaddeus Stormwright
 type: Npc
 tags:
@@ -18,6 +19,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.679543+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +29,69 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-thaddeus-stormwright-captain-thaddeus-stormwright.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more focused
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward negotiation
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward negotiation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
 
 ## Player-Facing Summary
 
@@ -67,14 +100,6 @@ Captain Thaddeus Stormwright is a undersea element of the setting, known for bio
 ## Lore Details
 
 Legends speak of Captain Thaddeus Stormwright as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Thaddeus Stormwright.
-
-## Adventure Hooks
-
-- A rumor ties Captain Thaddeus Stormwright to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Captain Thaddeus Stormwright to avert a public scandal.
-- A map overlay reveals a hidden approach to Captain Thaddeus Stormwright active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +110,6 @@ Captain Thaddeus Stormwright's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Seeking redemption
@@ -124,8 +119,6 @@ Captain Thaddeus Stormwright's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Captain Thaddeus Stormwright harbors secrets that could change everything:
@@ -134,13 +127,9 @@ Captain Thaddeus Stormwright harbors secrets that could change everything:
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Hidden past
 
-
-
-
-
 ## Voice & Mannerisms
 
-**Voice**: Deep and resonant
+**Voice**: Deep and resot
 
 **Speech Pattern**: Direct and concise
 
@@ -155,8 +144,6 @@ Captain Thaddeus Stormwright is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Captain Thaddeus Stormwright needs assistance with a delicate matter
@@ -164,8 +151,6 @@ Captain Thaddeus Stormwright is currently engaged in:
 3. **The Secret**: Information about Captain Thaddeus Stormwright's past surfaces
 4. **The Alliance**: Opportunity to work with or against Captain Thaddeus Stormwright
 5. **The Crisis**: Captain Thaddeus Stormwright is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,20 +164,15 @@ Captain Thaddeus Stormwright is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Captain Thaddeus Stormwright]]
+## Religious Observances
 
-<!-- enriched: true -->
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
 
-
-
-
-## Relationship Web
-
-- [[Sire]]: *secret ally*
-- [[Quest - The Democratic Balance]]: *informant*
-
-## Connections
-
-- [[Harbor Master Luna Freedrift]]
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

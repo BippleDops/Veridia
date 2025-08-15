@@ -1,4 +1,5 @@
 ---
+
 title: Abyssos Prime   Inverse Palace
 type: Location
 tags:
@@ -25,6 +26,8 @@ danger_level: Moderate
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.234769+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -32,18 +35,74 @@ world: Aquabyssos
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-abyssos-prime-inverse-palace-abyssos-prime-inverse-palace.svg]]
 
-
 # Abyssos Prime - Inverse Palace
 
 *Where reality bends inward and the depths dream of ascension*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
 
 ## Overview
 
 The [[Inverse Palace]] stands as the most paradoxical structure in all of [[Aquabyssos]], defying both architectural logic and the fundamental laws of physics. Built not upon the ocean floor but suspended in the crushing darkness between tectonic plates, this impossible fortress serves as the seat of power for the [[The Abyssal Court]] and the primary residence of [[The Deep Sovereign]].
 
 What makes the palace "inverse" is its fundamental rejection of directional reality - corridors flow upward into deeper waters, stairs descend toward surface pressures, and gravity itself seems negotiable within its coral-wrought halls. The structure exists in a state of perpetual architectural rebellion, where the concept of "up" and "down" become matters of political allegiance rather than physical law.
-
-## Architectural Impossibilities
 
 ### The Inverted Spires
 
@@ -64,8 +123,6 @@ Throughout the palace, **localized gravity wells** create pockets where the norm
 - **The Inverted Gardens**: Coral forests that grow in all directions simultaneously
 - **The Paradox Pools**: Bodies of water that flow in impossible loops
 - **The Weightless Archives**: Where knowledge itself has mass and must be contained by gravitational fields
-
-## The Abyssal Court
 
 ### The Deep Sovereign
 
@@ -102,8 +159,6 @@ Below The Deep Sovereign are the [[Pressure Lords]], twelve powerful entities wh
 - [[Count Benthic]]: Keeper of the sea floor territories
 - [[Earl Demersal]]: Master of the palace's living architecture
 
-## Environmental Hazards
-
 ### Pressure Flux Storms
 
 The palace exists in a constant state of **pressure flux**, creating dangerous environmental conditions:
@@ -130,8 +185,6 @@ The palace exists in a constant state of **pressure flux**, creating dangerous e
 - After 24 hours: DC 15 Wisdom save or gain one level of madness
 - Each additional day: DC increases by 2
 - [[Eldritch Knowledge]] skill checks can help navigate safely
-
-## Notable Locations Within the Palace
 
 ### The Ascending Throne Room
 
@@ -161,8 +214,6 @@ Many of the palace's passages are actually enormous, dormant creatures from the 
 - **Muscular Passages**: Can contract to trap or redirect movement
 - **Sensory Networks**: Constantly monitor all activity within the palace
 
-## Political Intrigue
-
 ### The Ascension Plot
 
 A growing faction within the [[The Abyssal Court]] believes the time has come to abandon the depths and conquer the surface oceans. Led by [[Lord Bathysmal]], this group seeks to use the palace's reality-warping capabilities to:
@@ -189,8 +240,6 @@ A secretive faction has discovered that the palace's [[02_Worldbuilding/Lore/Tem
 - Retrieve lost knowledge from destroyed realities
 - Potentially replace the current reality with a more favorable one
 - Use temporal manipulation to eliminate their political rivals
-
-## Adventure Hooks
 
 ### The Diplomatic Mission
 
@@ -267,8 +316,6 @@ The [[Inverse Palace]] serves as a nexus point connecting to numerous other sign
 - **[[Temporal Anchor Points]]**: Locations where time flows differently
 - **[[The Whispering Chambers]]**: Communication centers throughout [[Aquabyssos]]
 
-## Treasures and Artifacts
-
 ### The Pressure Crown
 
 *Artifact (requires attunement by a creature with the ability to survive in the deep ocean)*
@@ -301,13 +348,6 @@ Forged from the pressure-compressed remains of surface metals, this armor provid
 
 The [[Inverse Palace]] stands as both a marvel of impossible architecture and a center of cosmic political power, where the laws of reality bend to the will of entities whose motivations remain as dark and mysterious as the depths they call home.
 
-
-## Connections
-
-- [[Emperor Thalassius the Wise]]
-- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[Find the Grief Bomb]]
-
 ## Player-Facing Summary
 
 Abyssos Prime   Inverse Palace is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -316,10 +356,6 @@ Abyssos Prime   Inverse Palace is a undersea element of the setting, known for b
 
 Legends speak of Abyssos Prime   Inverse Palace as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Abyssos Prime   Inverse Palace.
 
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -327,37 +363,9 @@ Legends speak of Abyssos Prime   Inverse Palace as a nexus where past and presen
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Abyssos Prime - Inverse Palace]]
-
-<!-- enriched: true -->
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-shadow-market-canals-v1-shadow-market-canals.svg]]
-- [[Political Leader Reef-Crown]]
-- [[Ambassador Mark Exchangekeeper]]
-
 
 ## Sensory Details
 
@@ -367,7 +375,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: Incense mingles with the scent of exotic spices
 
-
 ## Description
 
 Abyssos Prime - Inverse Palace is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -375,47 +382,10 @@ Abyssos Prime - Inverse Palace is a notable location characterized by its unique
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Abyssos Prime - Inverse Palace
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
-
-## History
+**Goverce**: Local authority structure
 
 ### Founding
 Abyssos Prime - Inverse Palace was established in the distant past, growing from humble beginnings to its current state.
-
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
-
 
 ## Current Events
 
@@ -428,15 +398,31 @@ Ongoing situations affecting Abyssos Prime - Inverse Palace:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Abyssos Prime - Inverse Palace
+## Trade Importance
 
-### Whispered Rumors
-- Stories that may or may not be true
+Key stop on metals trade route
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+
+## Plot Hooks
+
+- Strange disappearances suggest a portal
+- A noble needs help finding before dawn
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

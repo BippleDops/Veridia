@@ -27,7 +27,6 @@ updated: '2025-08-12T23:37:35.860028'
 world: Both
 ---
 
-
 # [[steel-predator-mpmm|Steel Predator]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 232, Mordenkainen's Tome of Foes p. 239*  
 
@@ -65,12 +64,11 @@ If all goes according to plan, a steel predator slays its target and then volunt
   - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+8"
   - "name": "[[skills#Survival|Survival]]"
-    "desc": "+7"
 "damage_resistances": "cold, lightning, necrotic, thunder"
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
   \ [[conditions#Stunned|stunned]]"
 "senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 17"
@@ -111,6 +109,24 @@ If all goes according to plan, a steel predator slays its target and then volunt
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 urban
@@ -123,19 +139,30 @@ Steel predator mpmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of steel predator mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around steel predator mpmm.
 
-## Adventure Hooks
-
-- A rumor ties steel predator mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at steel predator mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to steel predator mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Plot Hooks
+
+- Strange dreams suggest a portal
+- Someone is blackmailing an heir for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

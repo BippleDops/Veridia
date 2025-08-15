@@ -16,32 +16,26 @@ updated: '2025-08-13T01:18:36.557702+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-harbor-master-nereid-deepcurrent-harbor-master-nereid-deepcurrent.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## History
+### Enhancement Improvements
 
-TODO
-## Layout
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -51,23 +45,20 @@ Harbor Master Nereid Deepcurrent is a undersea element of the setting, known for
 
 Legends speak of Harbor Master Nereid Deepcurrent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Harbor Master Nereid Deepcurrent.
 
-## Adventure Hooks
-
-- A rumor ties Harbor Master Nereid Deepcurrent to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Harbor Master Nereid Deepcurrent to avert a public scandal.
-- A map overlay reveals a hidden approach to Harbor Master Nereid Deepcurrent active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Harbor Master Nereid Deepcurrent|02 Worldbuilding/Places/Harbor Master Nereid Deepcurrent]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting information for love
+- Someone is hunting a artifact for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

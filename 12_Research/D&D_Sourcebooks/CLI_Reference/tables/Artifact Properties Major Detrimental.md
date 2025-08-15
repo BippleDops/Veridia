@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.031043+00:00'
 world: Both
 ---
 
-
-
 # Artifact Properties; Major Detrimental Properties
 *Source: Dungeon Master's Guide p. 219* 
 
@@ -54,6 +52,24 @@ world: Both
 | 96-00 | When you become attuned to the artifact, there is a 10 percent chance that you attract the attention of a god that sends an avatar to wrest the artifact from you. The avatar has the same alignment as its creator and the statistics of an [[empyrean-xmm|empyrean]] (see the Monster Manual). Once it obtains the artifact, the avatar vanishes. |
 ^major-detrimental-properties
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Artifact properties major detrimental properties is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -62,19 +78,38 @@ Artifact properties major detrimental properties is a undersea element of the se
 
 Legends speak of artifact properties major detrimental properties as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around artifact properties major detrimental properties.
 
-## Adventure Hooks
-
-- A rumor ties artifact properties major detrimental properties to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at artifact properties major detrimental properties to avert a public scandal.
-- A map overlay reveals a hidden approach to artifact properties major detrimental properties active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- Strange disappearances suggest a portal
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

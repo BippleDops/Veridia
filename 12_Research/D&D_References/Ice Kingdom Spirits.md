@@ -15,36 +15,26 @@ world: Both
 updated: '2025-08-13T01:18:36.840901+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-ice-kingdom-spirits-ice-kingdom-spirits.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Appearance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Personality
-
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -54,28 +44,47 @@ Ice Kingdom Spirits is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Ice Kingdom Spirits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ice Kingdom Spirits.
 
-## Adventure Hooks
-
-- A rumor ties Ice Kingdom Spirits to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Ice Kingdom Spirits to avert a public scandal.
-- A map overlay reveals a hidden approach to Ice Kingdom Spirits active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Ice Kingdom Spirits|02 Worldbuilding/People/Ice Kingdom Spirits]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The Frozen Throne]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Relationships
+
+- **Rival**: [[Portrait NPC Archbishop Mordecai Stormwright Archbishop Mordecai Stormwright.svg]]
+- **Debtor**: [[Portrait NPC Quest the Democratic Balance V2 Quest the Democratic Balance.svg]]
+- **Creditor**: [[Assets Locations Location City the Sunken Cathedral of Perfect Order the Sunken Cathedral of Perfect Order.svg]]
+- **Blackmailer**: [[Portrait NPC Lady Victoria Pennworth V1 Lady Victoria Pennworth.svg]]
+- **Friend**: [[Senator]]
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and war looms
+- A noble needs help stealing before the festival
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

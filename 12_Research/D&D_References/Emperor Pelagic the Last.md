@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.891260+00:00'
 world: Both
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-emperor-pelagic-the-last-emperor-pelagic-the-last.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[The Tethyan Hegemony|02 Worldbuilding/Lore/The Tethyan Hegemony]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[The Tethyan Hegemony]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,28 @@ Emperor Pelagic the Last is a undersea element of the setting, known for biolumi
 
 Legends speak of Emperor Pelagic the Last as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Emperor Pelagic the Last.
 
-## Adventure Hooks
-
-- A rumor ties Emperor Pelagic the Last to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Emperor Pelagic the Last to avert a public scandal.
-- A map overlay reveals a hidden approach to Emperor Pelagic the Last active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Winds
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

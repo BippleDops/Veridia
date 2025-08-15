@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.736162+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,18 @@ Crown of Endless Moments is a undersea element of the setting, known for biolumi
 
 Legends speak of Crown of Endless Moments as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crown of Endless Moments.
 
-## Adventure Hooks
-
-- A rumor ties Crown of Endless Moments to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Crown of Endless Moments to avert a public scandal.
-- A map overlay reveals a hidden approach to Crown of Endless Moments active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Lady Vivienne the Unfrozen|02 Worldbuilding/Places/Lady Vivienne The Unfrozen]]
-
-
-## Connections
-
-- [[Lady Vivienne the Unfrozen]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

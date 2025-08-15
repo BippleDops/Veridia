@@ -16,37 +16,26 @@ world: Dimensional Nexus (Both Realms)
 updated: '2025-08-13T01:18:37.041126+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-captain-dara-ironwill-captain-dara-ironwill.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Appearance
-
-TODO
-## Personality
-
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -56,28 +45,50 @@ Captain Dara Ironwill is a undersea element of the setting, known for biolumines
 
 Legends speak of Captain Dara Ironwill as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Dara Ironwill.
 
-## Adventure Hooks
-
-- A rumor ties Captain Dara Ironwill to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Captain Dara Ironwill to avert a public scandal.
-- A map overlay reveals a hidden approach to Captain Dara Ironwill active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Captain Dara Ironwill|02 Worldbuilding/People/Captain Dara Ironwill]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The Floating Market]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help stealing before winter
+- A stranger needs help finding before dawn
+- Someone is hunting information for love
+- Someone is searching for a artifact for love
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

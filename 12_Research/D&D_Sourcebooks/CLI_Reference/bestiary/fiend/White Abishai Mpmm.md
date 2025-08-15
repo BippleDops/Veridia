@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.804716+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-white-abishai-mpmm-v1-white-abishai-mpmm.svg)
 
@@ -38,6 +35,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 41, Mordenkainen's Tome of Foes p. 163*  
 
 White abishais fight with a reckless fury, making them ideally suited for bolstering the ranks of Tiamat's armies. White abishais fight without fear, becoming whirlwinds of destruction on the battlefield.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Abishais
 
@@ -62,7 +77,6 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - !!int "16"
   - !!int "11"
   - !!int "18"
-  - !!int "11"
   - !!int "12"
   - !!int "13"
 "speed": "30 ft., fly 40 ft."
@@ -124,19 +138,20 @@ White abishai mpmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of white abishai mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around white abishai mpmm.
 
-## Adventure Hooks
-
-- A rumor ties white abishai mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at white abishai mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to white abishai mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

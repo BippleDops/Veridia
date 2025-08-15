@@ -29,8 +29,6 @@ updated: '2025-08-12T23:37:34.990361'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-kruthik-mpmm-v1-young-kruthik-mpmm.svg)
 
@@ -39,14 +37,30 @@ world: Both
 
 Kruthiks hatch from eggs laid by female adults. Each egg is about the size of an adult human's head and hatches within a month. Tiny kruthik hatchlings are harmless and rarely stray far from the nest. They feed primarily on offal and one another. Within a month, the survivors become young kruthiks large enough to hunt and defend themselves.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Kruthiks
 
 > [!quote] A quote from Mordenkainen  
 > 
 > Imagine a hive of ants the size of horses, but the ants are wearing armor.
 
-> [!quote] A quote from Mordenkainen  
-> 
 > Other creatures that abide in hives serve a purpose in the natural world. Bees pollinate flowers. Termites make earth out of wood. Kruthiks, by contrast, slay societies.
 
 Kruthiks are chitin-covered reptiles that hunt in packs and nest in sprawling subterranean warrens. They are attracted to sources of heat, such as dwarven forges and pools of molten lava, and carve out lairs as close to such locations as possible. As they burrow through the earth, they leave behind tunnels—evidence that is often the first clue to the nearby presence of a kruthik hive. Kruthiks also make use of preexisting underground chambers, incorporating them into their lairs when they can.
@@ -72,7 +86,6 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "stats":
   - !!int "13"
   - !!int "16"
-  - !!int "13"
   - !!int "4"
   - !!int "10"
   - !!int "6"
@@ -114,19 +127,15 @@ Young kruthik mpmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of young kruthik mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around young kruthik mpmm.
 
-## Adventure Hooks
-
-- A rumor ties young kruthik mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at young kruthik mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to young kruthik mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

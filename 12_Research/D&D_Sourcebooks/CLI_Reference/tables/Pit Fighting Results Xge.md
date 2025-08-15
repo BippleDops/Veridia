@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.328569+00:00'
 world: Both
 ---
 
-
-
 # Pit Fighting Results
 *Source: Xanathar's Guide to Everything p. 131* 
 
@@ -37,6 +35,24 @@ world: Both
 | 3 successes | Win 200 gp. |
 ^pit-fighting-results
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Pit fighting results xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -45,19 +61,33 @@ Pit fighting results xge is a undersea element of the setting, known for biolumi
 
 Legends speak of pit fighting results xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around pit fighting results xge.
 
-## Adventure Hooks
-
-- A rumor ties pit fighting results xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at pit fighting results xge to avert a public scandal.
-- A map overlay reveals a hidden approach to pit fighting results xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

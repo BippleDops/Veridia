@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.584539+00:00'
 world: Both
 ---
 
-
-
 # Underdark Encounters (Levels 11—16)
 *Source: Xanathar's Guide to Everything p. 106* 
 
@@ -99,6 +97,24 @@ world: Both
 | 00 | 1 [[purple-worm-xmm|purple worm]] |
 ^underdark-encounters-levels-1116
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Underdark encounters levels 1116 xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -107,19 +123,28 @@ Underdark encounters levels 1116 xge is a undersea element of the setting, known
 
 Legends speak of underdark encounters levels 1116 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around underdark encounters levels 1116 xge.
 
-## Adventure Hooks
-
-- A rumor ties underdark encounters levels 1116 xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at underdark encounters levels 1116 xge to avert a public scandal.
-- A map overlay reveals a hidden approach to underdark encounters levels 1116 xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

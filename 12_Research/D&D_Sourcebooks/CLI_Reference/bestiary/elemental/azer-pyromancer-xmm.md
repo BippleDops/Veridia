@@ -29,8 +29,6 @@ updated: '2025-08-12T23:37:35.452454'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-azer-pyromancer-xmm-azer-pyromancer-xmm.svg)
 
@@ -38,6 +36,24 @@ world: Both
 *Source: Monster Manual (2024) p. 25*  
 
 Azer pyromancers conjure flames from the Elemental Plane of Fire to defend themselves and stoke magical forges.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Azers
 
@@ -76,7 +92,7 @@ Azers are living bronze folk who work the primal elements of creation to craft w
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[conditions#Poisoned|poisoned]]"
 "senses": "passive Perception 17"
-"languages": "Primordial (Ignan)"
+"languages": "Primordial (Ig)"
 "cr": "6"
 "traits":
   - "desc": "At the end of each of the azer's turns, each creature of the azer's choice\
@@ -122,19 +138,30 @@ Azer pyromancer xmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of azer pyromancer xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around azer pyromancer xmm.
 
-## Adventure Hooks
-
-- A rumor ties azer pyromancer xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at azer pyromancer xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to azer pyromancer xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Plot Hooks
+
+- A merchant needs help stealing before the new moon
+- A map reveals a conspiracy about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

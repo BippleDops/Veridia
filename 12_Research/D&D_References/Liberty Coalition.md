@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.311054+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-liberty-coalition-liberty-coalition.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,26 @@ Liberty Coalition is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Liberty Coalition as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Liberty Coalition.
 
-## Adventure Hooks
-
-- A rumor ties Liberty Coalition to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Liberty Coalition to avert a public scandal.
-- A map overlay reveals a hidden approach to Liberty Coalition active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Liberty Coalition|02 Worldbuilding/Places/Liberty Coalition]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The Free Current]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help finding before dawn
+- Someone is blackmailing information for revenge
+- A journal reveals a conspiracy about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

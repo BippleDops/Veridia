@@ -21,13 +21,30 @@ updated: '2025-08-12T23:37:34.622812'
 world: Both
 ---
 
-
 # Chapter 9: Council of Waterdeep
 *Source: Rise of Tiamat, p. 104* 
 
 ![](/03_Mechanics/CLI/adventures/rise-of-tiamat/img/006-tod-09-01.webp#center)
 
 *The Rise of Tiamat* begins immediately after the conclusion of *Hoard of the Dragon Queen*, and assumes that the characters have returned to Waterdeep in the aftermath of that adventure. While in the city, the adventurers are summoned to the first meeting of the Council of Waterdeep. While at that gathering, they hear the sounding of the ancient [[draakhorn-rot|Draakhorn]] that heralds the next stage of the Cult of the Dragon's plots. (See Chapter 17 for more information on the [[draakhorn-rot|Draakhorn]], but be sure to withhold that information until the characters have played through the "Chapter 10: The Sea of Moving Ice.")
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Starting the Adventure
 
@@ -96,8 +113,6 @@ Shortly after the crash or capture of Skyreach Castle, operatives of the Cult of
 
 As the characters are arriving in Waterdeep, read or paraphrase the following.
 
-> [!readaloud] 
-> 
 > A sudden shift in the wind brings with it a strange sense of unease. The feeling is akin to the drop in air pressure before the approach of a deadly storm, or faint tremors felt from a landslide or earthquake far away. You're not the only ones who have noticed. The city around you goes unnaturally quiet suddenly. No dogs bark, no birds squawk. Even the street vendors have gone silent.
 ^069
 
@@ -105,8 +120,6 @@ The silence lasts only a moment before the normal sounds of Waterdeep return to 
 
 During the first session of the council (or earlier if the characters make efforts to investigate the strange phenomenon), the adventurers are approached by Dala Silmerhelve—a Waterdhavian noble. Read or paraphrase the following when the characters speak to Dala.
 
-> [!readaloud] 
-> 
 > "The disturbance that's been sensed across the Sword Coast is the [[draakhorn-rot|Draakhorn]]—an ancient device whose sounding alerts dragons across Faerûn that great events are unfolding. It's impossible to say what the sounding means, but the dragons hear it clearly and will eventually answer its call. "
 ^06a
 
@@ -168,7 +181,7 @@ During the council, the adventurers are introduced to the silver dragon Otaaryli
 
 ### Third Session
 
-The third council features another new face—the tiefling Rian Nightshade, introduced as a special adviser to Lord Neverember. Characters who pay attention notice that some at the meeting—including Sir Isteval, Ontharr Frume, and Ambassador Brawnanvil—are doing their best to ignore the secret Zhentarim delegate, who makes no statements unless addressed by the party.
+The third council features another new face—the tiefling Rian Nightshade, introduced as a special adviser to Lord Neverember. Characters who pay attention notice that some at the meeting—including Sir Isteval, Ontharr Frume, and Ambassador Brawvil—are doing their best to ignore the secret Zhentarim delegate, who makes no statements unless addressed by the party.
 
 #### Follow-up: Neronvain
 
@@ -178,7 +191,7 @@ News that the dragon attacks in the elven forest have ended is gratefully receiv
 
 All the delegates are impressed if the party has gained the support of the metallic dragons, even if their own faction was asked to make concessions. The good dragons are wise and just creatures, and their acceptance of the party greatly boosts the adventurers' standing in everyone's eyes.
 
-King Melandrach is furious if the characters agreed to an apology for the *Dracorage mythal*. He makes the apology because honor demands it, but he resents the party for forcing his hand. Connerad Brawnanvil is similarly unhappy if a concession was made in response to the ancient dragonmoots of the dwarves. The traditions of the dragonmoot saved many lives in their time, and the fact that one metallic dragon was injured indicates that it was probably misbehaving. Dwarves have no patience for tolerating misbehaving dragons, no matter what their color.
+King Melandrach is furious if the characters agreed to an apology for the *Dracorage mythal*. He makes the apology because honor demands it, but he resents the party for forcing his hand. Connerad Brawvil is similarly unhappy if a concession was made in response to the ancient dragonmoots of the dwarves. The traditions of the dragonmoot saved many lives in their time, and the fact that one metallic dragon was injured indicates that it was probably misbehaving. Dwarves have no patience for tolerating misbehaving dragons, no matter what their color.
 
 Bartering away portions of the hoard that the cult stole is the only way some factions can make concessions. For every concession that was made for a share, circle a negative (−) icon in the following order: Dagult Neverember, Connerad, Melandrach, Lady Laeral, Ulder Ravengard, Taern Hornblade, the Harpers, Sir Isteval, and the Order of the Gauntlet. The Emerald Enclave is not affected by such concessions, since the order has not been overly affected by the dragon raids.
 
@@ -204,11 +217,11 @@ Rian points out that the Zhentarim have a keen interest in Xonthal's Tower. Owne
 
 #### Follow-up: Mission to Thay
 
-Any alliance with the Red Wizards is a mixed blessing. More pragmatic factions and delegates—including the Harpers, King Melandrach, Dagult Neverember, and Taern Hornblade—are impressed by the diplomacy such an arrangement demonstrates, and know that regardless of the Red Wizards' character and previous plots against the Sword Coast, they are a significant asset. Sir Isteval, Ambassador Brawnanvil, and the Order of the Gauntlet object to the idea of even opening dialogue with the Red Wizards, and believe that the Thayans would agree to an alliance only if it furthered their own plots to rule the Sword Coast and all Faerûn. Lady Laeral and Ulder Ravengard both think the Red Wizards unpredictable but necessary, believing that the only important factor is how the Thayans influence the outcome of the final battle.
+Any alliance with the Red Wizards is a mixed blessing. More pragmatic factions and delegates—including the Harpers, King Melandrach, Dagult Neverember, and Taern Hornblade—are impressed by the diplomacy such an arrangement demonstrates, and know that regardless of the Red Wizards' character and previous plots against the Sword Coast, they are a significant asset. Sir Isteval, Ambassador Brawvil, and the Order of the Gauntlet object to the idea of even opening dialogue with the Red Wizards, and believe that the Thayans would agree to an alliance only if it furthered their own plots to rule the Sword Coast and all Faerûn. Lady Laeral and Ulder Ravengard both think the Red Wizards unpredictable but necessary, believing that the only important factor is how the Thayans influence the outcome of the final battle.
 
 #### Follow-up: Metallic Dragons, Arise
 
-The outcome of the support of the metallic dragons (as allocated in the third council) is accounted for in this fourth council. Factions that did not receive draconic aid suffer terribly in the cult's raids, and some delegates resent the adventurers for withholding the service of their dragon allies. Only Isteval, Connerad, and the Harpers maintain their respect for the adventurers regardless of how the dragons were assigned. Cormyr remains largely untouched by the cult, whose operations remain focused on the Sword Coast. The Harpers have no strongholds, and so suffer less than other factions. Ambassador Brawnanvil appreciates the value of dragon guards, but his strongholds are deep underground and hard for the cult to reach—and all dwarves know how even good dragons covet dwarven gems and gold.
+The outcome of the support of the metallic dragons (as allocated in the third council) is accounted for in this fourth council. Factions that did not receive draconic aid suffer terribly in the cult's raids, and some delegates resent the adventurers for withholding the service of their dragon allies. Only Isteval, Connerad, and the Harpers maintain their respect for the adventurers regardless of how the dragons were assigned. Cormyr remains largely untouched by the cult, whose operations remain focused on the Sword Coast. The Harpers have no strongholds, and so suffer less than other factions. Ambassador Brawvil appreciates the value of dragon guards, but his strongholds are deep underground and hard for the cult to reach—and all dwarves know how even good dragons covet dwarven gems and gold.
 
 ## Scoring the Sessions
 
@@ -224,7 +237,7 @@ Whenever an event occurs as noted in the list, circle or highlight the appropria
 
 Three rows on the table have icons that can't be marked all at once. These are the decisions about which factions receive metallic dragon guardians, which factions had to make concessions to secure the metallic dragons' aid, and who takes possession of Xonthal's Tower. Only the factions that are affected have their icons marked. For example, if King Melandrach and Ulder Ravengard had to make concessions to win the support of the metallic dragons, only their entries on that line should be circled or highlighted.
 
-Some attendees are easier to sway toward pledging their full support, including Dagult Neverember. Others are more difficult, such as Connerad Brawnanvil. Additionally, securing Sir Isteval or Laeral Silverhand's full support provides one additional respect for certain of the other factions, since both those senior delegates hold great influence on the council.
+Some attendees are easier to sway toward pledging their full support, including Dagult Neverember. Others are more difficult, such as Connerad Brawvil. Additionally, securing Sir Isteval or Laeral Silverhand's full support provides one additional respect for certain of the other factions, since both those senior delegates hold great influence on the council.
 
 The scorecard covers the events and outcomes that are likely to occur over the course of the adventure. However, *The Rise of Tiamat* is an open-ended scenario, such that decisions by the players might trigger events that aren't noted on the scorecard. Excellent diplomacy, good roleplaying, and creative handling of events that have the potential to impress or anger certain delegates can be rewarded with additional respect, at your discretion. Likewise, if the characters tackle chapters in a different order from this list, just mark off icons for events as they happen, then keep track of the subtotals as you see fit.
 
@@ -242,20 +255,27 @@ If a faction's final tally equals or exceeds the "Score Needed For Support," the
 
 Legends speak of 02 chapter 9 council of waterdeep as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 02 chapter 9 council of waterdeep.
 
-## Adventure Hooks
-
-- A rumor ties 02 chapter 9 council of waterdeep to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 02 chapter 9 council of waterdeep to avert a public scandal.
-- A map overlay reveals a hidden approach to 02 chapter 9 council of waterdeep active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help finding before the new moon
+- Someone is blackmailing an heir for money
+- Strange accidents suggest a conspiracy
+- A shipment has gone missing and chaos spreads
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

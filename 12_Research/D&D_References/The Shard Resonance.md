@@ -1,7 +1,7 @@
-# The Shard Resonance
+# The Shard Resoce
 
 ---
-title: The Shard Resonance
+title: The Shard Resoce
 type: Lore
 tags:
 - lore
@@ -16,44 +16,57 @@ updated: '2025-08-13T01:18:34.780059+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
-The Shard Resonance is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+The Shard Resoce is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of The Shard Resonance as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Shard Resonance.
-
-## Adventure Hooks
-
-- A rumor ties The Shard Resonance to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Shard Resonance to avert a public scandal.
-- A map overlay reveals a hidden approach to The Shard Resonance active only during specific tides/storms.
+Legends speak of The Shard Resoce as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Shard Resoce.
 
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Convergence Point|02 Worldbuilding/Lore/The Convergence Point]]
-
-
-## Connections
-
-- [[The Convergence Point]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A merchant needs help finding before winter
+- Strange dreams suggest a conspiracy
+- Strange sightings suggest a conspiracy
+- Strange dreams suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

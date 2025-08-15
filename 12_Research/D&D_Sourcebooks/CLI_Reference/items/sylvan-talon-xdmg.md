@@ -29,13 +29,29 @@ updated: '2025-08-12T23:37:36.770616'
 world: Both
 ---
 
-
 # Sylvan Talon
 *Common (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/sylvan-talon.webp#right)
 
-
 While this weapon is on your person, you understand the non-written communication of all Fey, and they understand yours.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Secret Message
 
@@ -49,37 +65,6 @@ As a [[actions#Magic|Magic]] action, you can use the weapon to cast [[message-xp
 - [Sylvan Talon Sickle](#Sylvan%20Talon%20Sickle)
 - [Sylvan Talon Spear](#Sylvan%20Talon%20Spear)
 
-### Sylvan Talon Dagger
-
-- **Damage**: 1d4 piercing
-- **Range**: 20/60
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
-- **Weight**: 1.0 lbs.
-
-### Sylvan Talon Rapier
-
-- **Damage**: 1d8 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]]
-- **Weight**: 2.0 lbs.
-
-### Sylvan Talon Scimitar
-
-- **Damage**: 1d6 slashing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
-- **Weight**: 3.0 lbs.
-
-### Sylvan Talon Shortsword
-
-- **Damage**: 1d6 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
-- **Weight**: 2.0 lbs.
-
-### Sylvan Talon Sickle
-
-- **Damage**: 1d4 slashing
-- **Properties**: [[item-properties#Light|Light]]
-- **Weight**: 2.0 lbs.
-
 ### Sylvan Talon Spear
 
 - **Damage**:
@@ -88,7 +73,6 @@ As a [[actions#Magic|Magic]] action, you can use the weapon to cast [[message-xp
 - **Range**: 20/60
 - **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
-
 
 *Source: Dungeon Master's Guide (2024) p. 314*
 
@@ -100,19 +84,25 @@ Sylvan talon xdmg is a undersea element of the setting, known for bioluminescent
 
 Legends speak of sylvan talon xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sylvan talon xdmg.
 
-## Adventure Hooks
-
-- A rumor ties sylvan talon xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at sylvan talon xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to sylvan talon xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

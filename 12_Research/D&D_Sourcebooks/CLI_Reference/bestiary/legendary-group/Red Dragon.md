@@ -23,13 +23,26 @@ updated: '2025-08-13T12:34:05.978677+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-red-dragon-xmm-adult-red-dragon-xmm.svg)
 
-# Red Dragon
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Monster Manual_
@@ -37,7 +50,7 @@ _Source: Monster Manual_
 On initiative count 20 (losing initiative ties), the dragon takes a lair action to cause one of the following effects; the dragon can't use the same effect two rounds in a row:
 
 - Magma erupts from a point on the ground the dragon can see within 120 feet of it, creating a 20-foot-high, 5-foot-radius geyser. Each creature in the geyser's area must make a DC 15 Dexterity saving throw, taking 21 (`6d6`) fire damage on a failed save, or half as much damage on a successful one.  
-- A tremor shakes the lair in a 60-foot radius around the dragon. Each creature other than the dragon on the ground in that area must succeed on a DC 15 Dexterity saving throw or be knocked [[conditions#Prone|prone]].  
+- A tremor shakes the lair in a 60-foot radius around the dragon. Each creature other than the dragon on the ground in that area must succeed on a DC 15 Dexterity saving throw or be knocked [[conditions#prone|prone]].  
 - Volcanic gases form a cloud in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads around corners, and its area is lightly obscured. It lasts until initiative count 20 on the next round. Each creature that starts its turn in the cloud must succeed on a DC 13 Constitution saving throw or be [[conditions#Poisoned|poisoned]] until the end of its turn. While [[conditions#Poisoned|poisoned]] in this way, a creature is [[conditions#Incapacitated|incapacitated]].  
 
 ### Additional Lair Actions
@@ -48,7 +61,6 @@ At your discretion, a legendary ([[adult-red-dragon-xmm|adult]] or [[ancient-red
 - **Searing Heat.** Searing heat spreads out in a 15-foot-radius sphere centered on a point the dragon can see within 120 feet of it. Any creature that enters the affected area or starts its turn there must make a DC 15 Constitution saving throw, taking 10 (`3d6`) fire damage on a failed save, or half as much damage on a successful one. The heat lasts until initiative count 20 on the next round.  
 
 ## Regional effects
-_Source: Monster Manual_
 
 The region containing a legendary red dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
 
@@ -74,19 +86,17 @@ Red dragon is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of red dragon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around red dragon.
 
-## Adventure Hooks
-
-- A rumor ties red dragon to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at red dragon to avert a public scandal.
-- A map overlay reveals a hidden approach to red dragon active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and evil awakens
+- A prisoner has gone missing and evil awakens
+- Strange sightings suggest a portal

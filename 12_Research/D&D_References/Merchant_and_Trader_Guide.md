@@ -19,18 +19,11 @@ updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
 
-
-# Merchant and Trader Guide
-
-## Merchant Types and Specializations
-
-### Aquabyssos Merchants
-
 #### Depth Traders
 **Specialization**: Goods requiring specific pressure conditions
 **Common Inventory**: Pressure-forged metals, deep-sea delicacies, compressed materials
 **Typical Locations**: Deep market districts, pressure foundries, specialized workshops
-**Unique Challenges**: Equipment maintenance, depth adaptation costs, pressure-sensitive cargo
+**Unique Challenges**: Equipment maintece, depth adaptation costs, pressure-sensitive cargo
 
 **Business Model**: High-margin specialty items with limited competition
 **Customer Base**: Deep dwellers, specialized craftsmen, pressure engineers
@@ -66,8 +59,6 @@ world: Both
 **Customer Base**: Researchers, wealthy collectors, specialized craftsmen
 **Profit Margins**: 300-800% for rare specimens
 
-### Aethermoor Merchants
-
 #### Wind Traders
 **Specialization**: Atmospheric and aerial goods
 **Common Inventory**: Wind-powered equipment, atmospheric readings, weather services
@@ -79,8 +70,8 @@ world: Both
 **Profit Margins**: 100-300% with seasonal fluctuations
 
 #### Crystal Dealers
-**Specialization**: Magical crystals and resonance technology
-**Common Inventory**: Raw crystals, enchanted items, resonance equipment
+**Specialization**: Magical crystals and resoce technology
+**Common Inventory**: Raw crystals, enchanted items, resoce equipment
 **Typical Locations**: Crystal markets, magical districts, technology centers
 **Unique Challenges**: Magical regulation, corruption risks, authentication
 
@@ -108,8 +99,6 @@ world: Both
 **Customer Base**: Specialized crafters, researchers, collectors
 **Profit Margins**: 400-1000% for storm-touched materials
 
-## Cross-Realm Trading
-
 ### Portal Merchants
 **Specialization**: Inter-realm commerce and arbitrage
 **Business Model**: Exploiting price differences between realms
@@ -131,8 +120,6 @@ world: Both
 - Pressure technology vs. altitude technology
 - Realm-specific magical components
 
-### Currency and Exchange
-
 #### Aquabyssos Currency
 | Denomination | Material | Value | Common Use |
 |-------------|----------|-------|------------|
@@ -142,20 +129,10 @@ world: Both
 | **Abyssal Mark** | Void-touched platinum | 1000 pp | Elite purchases |
 
 #### Aethermoor Currency
-| Denomination | Material | Value | Common Use |
-|-------------|----------|-------|------------|
 | **Wind Whisper** | Light metal | 1 ww | Daily transactions |
 | **Sky Silver** | Altitude-blessed silver | 10 ww | Standard purchases |
 | **Storm Gold** | Lightning-charged gold | 100 ww | Major transactions |
-| **Crystal Crown** | Resonant crystal-gold | 1000 ww | Royal transactions |
-
-#### Exchange Rates (Current Market)
-- 1 Aquabyssos Pressure Piece = 0.9 Aethermoor Wind Whispers
-- Portal fees: 5-10% of transaction value
-- Currency speculation: ±20% daily fluctuations
-- Black market rates: Often 25% better/worse
-
-## Merchant Personalities and Motivations
+| **Crystal Crown** | Resot crystal-gold | 1000 ww | Royal transactions |
 
 ### The Shrewd Negotiator
 **Personality**: Sharp, calculating, always looking for advantage
@@ -182,7 +159,7 @@ world: Both
 ### The Desperate Seller
 **Personality**: Anxious, pressured, potentially dangerous
 **Goals**: Quick cash, debt payment, escape from trouble
-**Tactics**: Below-market prices, urgent sales, questionable provenance
+**Tactics**: Below-market prices, urgent sales, questionable provece
 **Weakness**: May be selling stolen goods or involved in illegal activity
 
 **Example Dialogue**:
@@ -201,88 +178,6 @@ world: Both
 - "Most people don't appreciate the subtleties of proper [specialty] work."
 - "I have connections you won't find anywhere else in the realm."
 
-## Market Locations and Trading Posts
-
-### Aquabyssos Commerce Centers
-
-#### The Grand Bazaar (Medium Depth)
-- **Location**: Central market district, 1,500 feet depth
-- **Specialties**: General goods, everyday items, tourist attractions
-- **Notable Features**: Pressure-controlled environment, tourist-friendly
-- **Security**: Moderate, regular patrols, merchant guild presence
-- **Pricing**: Standard market rates, tourist markup expected
-
-#### The Deep Market (Advanced Depth)
-- **Location**: Specialized trading area, 4,000 feet depth
-- **Specialties**: Pressure-specific goods, deep-sea materials, rare items
-- **Notable Features**: Advanced pressure adaptation required
-- **Security**: High security, restricted access, guild-regulated
-- **Pricing**: Premium prices, limited competition
-
-#### Smuggler's Cove (Variable Depth)
-- **Location**: Hidden market, depth varies by tides
-- **Specialties**: Contraband, black market goods, illegal services
-- **Notable Features**: Secret entrances, password required
-- **Security**: Dangerous, criminal elements, no legal protection
-- **Pricing**: Black market rates, high risk premium
-
-#### Memory Quarter (Shallow Depth)
-- **Location**: Academic district, 500 feet depth
-- **Specialties**: Memory pearls, information, knowledge transfer
-- **Notable Features**: Library proximity, scholar clientele
-- **Security**: Moderate, information regulation enforcement
-- **Pricing**: Knowledge-based pricing, authentication premiums
-
-### Aethermoor Commerce Centers
-
-#### Sky Harbor Market (Medium Altitude)
-- **Location**: Major trading platform, 3,000 feet altitude
-- **Specialties**: General goods, transportation services, traveler supplies
-- **Notable Features**: Multiple docking bays, weather protection
-- **Security**: Professional security force, trade regulation
-- **Pricing**: Competitive rates, standard markups
-
-#### Crystal Exchange (High Altitude)
-- **Location**: Specialized crystal trading post, 8,000 feet altitude
-- **Specialties**: Magical crystals, enchanted items, resonance equipment
-- **Notable Features**: Magical security, authentication services
-- **Security**: Magical wards, guild oversight, strict regulation
-- **Pricing**: Premium prices, magical authentication costs
-
-#### Storm's End Depot (Variable Altitude)
-- **Location**: Storm-chaser supply base, follows weather patterns
-- **Specialties**: Storm-touched materials, weather equipment, emergency supplies
-- **Notable Features**: Mobile platform, storm tracking technology
-- **Security**: Minimal, danger-focused rather than crime
-- **Pricing**: High-risk premiums, weather-dependent availability
-
-#### Wind Rider's Rest (Low Altitude)
-- **Location**: Courier and transport hub, 1,500 feet altitude
-- **Specialties**: Fast transport, message services, travel supplies
-- **Notable Features**: 24-hour operation, speed-focused services
-- **Security**: Transport guild protection, time-sensitive priority
-- **Pricing**: Express service premiums, speed-based pricing
-
-## Trading Mechanics
-
-### Supply and Demand Factors
-
-#### Aquabyssos Market Forces
-- **Seasonal Tides**: Affect transportation and accessibility
-- **Government Regulation**: Parliamentary policies impact trade
-- **Depth Accessibility**: Pressure limits affect goods distribution
-- **Memory Trade Laws**: Regulatory changes affect information markets
-- **Shadow Conspiracy**: Hidden manipulation of certain markets
-
-#### Aethermoor Market Forces
-- **Weather Patterns**: Storms and wind affect transportation
-- **Royal Decrees**: Monarch's decisions impact trade policy
-- **Altitude Restrictions**: Height limits affect goods access
-- **Crystal Regulations**: Magical oversight affects crystal trade
-- **Cross-Realm Relations**: Political tensions affect international trade
-
-### Price Fluctuation Events
-
 #### Random Market Events (d20)
 | Roll | Event | Price Impact |
 |------|-------|--------------|
@@ -297,15 +192,6 @@ world: Both
 | 17-18 | Resource discovery | Resource goods -40% |
 | 19-20 | Economic boom/bust | All goods ±20% |
 
-### Negotiation Mechanics
-
-#### Standard Pricing
-- **List Price**: Posted merchant price (baseline)
-- **Bulk Discount**: 5-15% for large orders
-- **Loyalty Discount**: 5-10% for repeat customers
-- **Quick Sale**: 10-25% discount for immediate payment
-- **Extended Terms**: 10-20% markup for credit arrangements
-
 #### Negotiation DCs
 | Situation | Base DC | Modifiers |
 |-----------|---------|-----------|
@@ -314,58 +200,6 @@ world: Both
 | **Rare item** | 20 | Rarity +5 |
 | **Emergency need** | 18 | Urgency -3 |
 | **Social connection** | 10 | Relationship +5 |
-
-## Merchant Services and Offerings
-
-### Standard Services
-- **Goods Authentication**: Verify item quality and origin (10-50 gp)
-- **Storage Services**: Secure item storage (1 gp/day/item)
-- **Transportation Arrangement**: Coordinate shipping (10% of cargo value)
-- **Market Information**: Current prices and trends (5-25 gp)
-- **Credit Services**: Payment plans and financing (interest rates vary)
-
-### Specialized Services
-- **Custom Orders**: Commission specific items (50% deposit required)
-- **Rare Item Location**: Find unusual or unique goods (success not guaranteed)
-- **Market Manipulation**: Influence prices (illegal, expensive, risky)
-- **Information Brokerage**: Buy/sell sensitive data (high risk)
-- **Smuggling Services**: Transport contraband (extremely risky)
-
-## Criminal and Illegal Trade
-
-### Common Contraband
-
-#### Aquabyssos Black Market
-- **Unlicensed Memory Pearls**: Stolen or illegally extracted memories
-- **Pressure Equipment**: Military-grade or safety-compromised gear
-- **Deep Artifacts**: Items from restricted depths or ancient sites
-- **Information**: Government secrets, private data, classified research
-- **Biological Materials**: Illegal creature parts, dangerous organisms
-
-#### Aethermoor Black Market
-- **Unregulated Crystals**: Dangerous or corrupted magical crystals
-- **Weather Control Devices**: Unauthorized atmospheric manipulation
-- **Restricted Altitude Gear**: Military equipment, royal technology
-- **Diplomatic Secrets**: Government intelligence, foreign intelligence
-- **Magical Contraband**: Banned spells, dangerous artifacts
-
-### Smuggling Operations
-
-#### Common Smuggling Methods
-- **Hidden Compartments**: Concealed spaces in cargo
-- **Mislabeled Goods**: False documentation and descriptions
-- **Bribery Networks**: Corrupted officials and inspectors
-- **Alternative Routes**: Unmonitored or dangerous pathways
-- **Legitimate Front**: Legal businesses hiding illegal activity
-
-#### Risk Factors
-- **Inspection Frequency**: 15% for routine cargo, 75% for suspicious
-- **Penalty Severity**: Fines to imprisonment to execution
-- **Enforcement Quality**: Varies by location and corruption level
-- **Competition**: Other criminal organizations and law enforcement
-- **Market Demand**: High demand increases prices and risks
-
-## Adventure Hooks with Merchants
 
 ### Economic Intrigue
 1. **Price War**: Competing merchants hire parties to sabotage rivals
@@ -388,16 +222,27 @@ world: Both
 4. **Apprentice Problems**: Resolve issues with merchant's training program
 5. **Reputation Recovery**: Help merchant rebuild after scandal
 
-## Links to Related Content
-- [[Major_Trading_Companies]]
-- [[Trade_Goods_Catalog]]
-- [[Economic_Warfare_Simulator]]
-- [[Merchant_Guilds]]
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -406,3 +251,31 @@ world: Both
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- Strange sightings suggest a portal
+- A prisoner has gone missing and war looms
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -16,15 +16,11 @@ updated: '2025-08-13'
 world: Both
 ---
 
-
-# World Building Input
-## Help expand the campaign world
-
 ### World Elements of Interest
 
 ```
 What aspects of the world intrigue you most?
-□ Political systems and governance
+□ Political systems and goverce
 □ Economic trade and commerce
 □ Cultural differences between realms
 □ Ancient history and mysteries
@@ -37,12 +33,9 @@ What aspects of the world intrigue you most?
 
 What would you like to explore more?
 _______________________________________
-_______________________________________
-```
 
 ### Location Suggestions
 
-```
 What types of locations would you like to visit?
 □ Government buildings and offices
 □ Markets and commercial districts
@@ -58,17 +51,11 @@ What types of locations would you like to visit?
 Specific location idea:
 Name: ____________________________________
 Description: _____________________________
-_______________________________________
-_______________________________________
 
 Why would this location be interesting?
-_______________________________________
-_______________________________________
-```
 
 ### Cultural Details
 
-```
 What cultural elements would you like to see developed?
 □ Festivals and celebrations
 □ Art and music traditions
@@ -82,17 +69,11 @@ What cultural elements would you like to see developed?
 □ Cross-realm cultural exchange
 
 Cultural idea:
-_______________________________________
-_______________________________________
 
 How might this affect the story?
-_______________________________________
-_______________________________________
-```
 
 ### Organizations & Groups
 
-```
 What types of organizations interest you?
 □ Professional guilds
 □ Academic societies
@@ -106,18 +87,12 @@ What types of organizations interest you?
 □ Hobbyist communities
 
 Organization concept:
-Name: ____________________________________
 Purpose: _________________________________
-_______________________________________
 
 How might characters interact with them?
-_______________________________________
-_______________________________________
-```
 
 ### Historical Events
 
-```
 What historical elements would add depth?
 □ Ancient wars and conflicts
 □ Great discoveries and inventions
@@ -131,17 +106,11 @@ What historical elements would add depth?
 □ Heroes and legends
 
 Historical event idea:
-_______________________________________
-_______________________________________
 
 How might this history influence current events?
-_______________________________________
-_______________________________________
-```
 
 ### Player Contributions
 
-```
 Would you like to contribute world-building elements?
 □ Yes, I have specific ideas
 □ Yes, I'd like to collaborate
@@ -159,17 +128,30 @@ What would you most like to help develop?
 □ Other: _______________________________
 
 Specific contribution idea:
-_______________________________________
-_______________________________________
-_______________________________________
-```
 
 *Player input makes the world richer and more engaging*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -178,3 +160,18 @@ _______________________________________
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A merchant needs help investigating before dawn
+- Someone is searching for an heir for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

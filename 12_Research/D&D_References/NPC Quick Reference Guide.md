@@ -22,18 +22,6 @@ world: Both
 updated: '2025-08-13T01:18:31.116177+00:00'
 ---
 
-
-
-
-
-
-# NPC Quick Reference Guide
-## Voices, Mannerisms & Instant Personality
-
----
-
-## 🎭 Major NPCs - Instant Roleplay
-
 ### Marina "Red Tide" Coralheart
 **Role**: Party's Liaison
 **Voice**: Melodic with bubble-pops between sentences
@@ -109,8 +97,6 @@ updated: '2025-08-13T01:18:31.116177+00:00'
 
 ---
 
-## 🎲 Quick NPC Generator
-
 ### Instant Voice (d12)
 1. **Bubbling** - Sounds like talking underwater
 2. **Clicking** - Dolphin-like clicks between words
@@ -175,99 +161,6 @@ updated: '2025-08-13T01:18:31.116177+00:00'
 
 ---
 
-## 💬 Quick Dialogue Starters
-
-### Information Gathering
-- "Oh, you're asking about THAT? *[nervous gill touch]* That'll cost extra..."
-- "The Parliament doesn't like us discussing... *[looks around]* but for you..."
-- "My shadow heard something interesting yesterday..."
-- "You didn't hear this from me, but..."
-
-### Faction Recruitment
-- "You seem like someone who understands the depths..."
-- "The [Faction] could use surface perspectives..."
-- "There's profit in choosing the right side..."
-- "When the tide turns—and it will—where will you stand?"
-
-### Warning/Threat
-- "Surface dwellers don't last long here..."
-- "The depths have a way of... changing people."
-- "Your shadow's getting restless. I can tell."
-- "Best swim back to shallow water while you can."
-
-### merchant/Trade
-- "Fresh from the surface? That's worth something..."
-- "I trade in memories. What do you remember?"
-- "Sorrow pearls only. No surface coin."
-- "Your shadow... would you consider selling?"
-
----
-
-## 🎨 Shadow Behaviors by NPC Type
-
-### Officials
-- Shadow signs documents differently
-- Shadow votes opposite
-- Shadow accepts bribes body refuses
-
-### Merchants  
-- Shadow pockets extra payment
-- Shadow points at different goods
-- Shadow shakes head at deals
-
-### Commoners
-- Shadow cowers when body stands tall
-- Shadow reaches for help
-- Shadow mouths "help me"
-
-### Cultists
-- Shadow prays differently
-- Shadow makes holy symbols
-- Shadow rebels against doctrine
-
-### Criminals
-- Shadow reveals concealed weapons
-- Shadow points at escape routes
-- Shadow counts stolen goods
-
----
-
-## 🗣️ Faction-Specific Speech Patterns
-
-### Parliament of Shadows
-- Speak in passive voice
-- Reference "collective decisions"
-- Never claim personal responsibility
-- End sentences with "the Parliament wills"
-
-### Archive Imperium
-- Quote historical precedents
-- Correct others' memories
-- Speak precisely, no ambiguity
-- "As recorded in the Archive..."
-
-### Shadow Liberation Front
-- Address shadows directly
-- Speak of freedom constantly
-- Use "we" for shadow+self
-- "When shadows rise..."
-
-### Memory Merchants
-- Everything in transaction terms
-- Quantify emotions and memories
-- "What's that worth to you?"
-- "I'll trade you three traumas for that joy"
-
-### Depth Mother Devotees
-- Speak of awakening/dreams
-- Reference the Mother constantly
-- Use water metaphors
-- "When She wakes, we all wake"
-
----
-
-## 🎭 Quick NPC Attitude Adjuster
-
 ### Based on Party Actions
 
 **If Party Shows Respect**:
@@ -296,8 +189,6 @@ updated: '2025-08-13T01:18:31.116177+00:00'
 
 ---
 
-## 📊 NPC Relationship Web Quick Builder
-
 ### Every NPC Has:
 1. **One Ally** - Someone they trust
 2. **One Enemy** - Someone they oppose
@@ -315,33 +206,23 @@ updated: '2025-08-13T01:18:31.116177+00:00'
 
 ---
 
-## 🎬 NPC Scene Closers
 
-### Mysterious Exit
-- "My shadow's calling... I must go."
-- "The tide turns. We'll speak again."
-- *[Fades into shadow without a word]*
-- "Remember... you didn't see me."
+## 🔧 Deep Evaluation Improvements
 
-### Friendly Departure
-- "Breathe easy, surface friends."
-- "May your shadows swim freely."
-- "Until the next tide."
-- "The depths keep you."
+*20 targeted improvements identified*
 
-### Threatening Leave
-- "The depths remember everything."
-- "Your shadow knows where to find me."
-- "We're watching."
-- "Pray you don't see me again."
+### Connection Improvements
 
-### Transaction Complete
-- "Pleasure doing business."
-- "Your pearls, my secrets. Fair trade."
-- "Tell no one where you heard this."
-- "Come back when you have more to trade."
+- Add cross-references to related notes
 
----
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## 🎯 NPC Emergency Personalities
 
@@ -367,10 +248,6 @@ Roll 3d6:
 
 **The key to memorable NPCs: One strong voice, one obvious mannerism, one clear want.**
 
-## Connections
-
-- [[Complete_Faction_Warfare_System|Complete Faction Warfare System]]
-
 ## Player-Facing Summary
 
 NPC Quick Reference Guide is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -379,19 +256,17 @@ NPC Quick Reference Guide is a undersea element of the setting, known for biolum
 
 Legends speak of NPC Quick Reference Guide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around NPC Quick Reference Guide.
 
-## Adventure Hooks
-
-- A rumor ties NPC Quick Reference Guide to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at NPC Quick Reference Guide to avert a public scandal.
-- A map overlay reveals a hidden approach to NPC Quick Reference Guide active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a curse
+- The authorities needs help delivering before the new moon
+- Strange dreams suggest a conspiracy

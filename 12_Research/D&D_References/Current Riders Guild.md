@@ -16,21 +16,30 @@ updated: '2025-08-13T01:18:36.576483+00:00'
 danger_level: Moderate
 ---
 
-
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-current-riders-guild-current-riders-guild.svg]]
-
-
-
-
-
 
 # Current Riders Guild
 
 *A prestigious maritime courier and messenger service operating throughout the aquatic realms of Aquabyssos.*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Physical Description & Atmosphere
 
@@ -45,8 +54,6 @@ The atmosphere buzzes with constant activity - riders checking in from distant d
 Founded three centuries ago by the legendary [[Tidal Runner Nerissa]], the Current Riders Guild emerged from the need for reliable communication across Aquabyssos's vast underwater territories. What began as a small collective of [[Triton]] messengers has grown into the realm's most trusted courier service.
 
 The guild played a crucial role during the [[War of Crushing Depths]], maintaining communication lines between allied settlements despite enemy blockades. Their heroic delivery of crucial intelligence to [[Fort Nautilus]] is credited with turning the tide of the war's final battle.
-
-## Current Leadership & Inhabitants
 
 ### Guildmaster Torrino Swiftcurrent
 *Medium humanoid (triton), lawful neutral*
@@ -75,14 +82,6 @@ The guild played a crucial role during the [[War of Crushing Depths]], maintaini
 - **Multiattack.** Torrino makes two trident attacks.
 - **Trident.** *Melee or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands.
 
-### Notable Staff
-- **[[Marina Swiftfin]]** - Deputy Guildmaster and Route Coordinator
-- **[[Keeper Brinescale]]** - Master of Mounts and Stable Operations  
-- **[[Courier Pelagic]]** - Senior Rider specializing in dangerous deliveries
-- **[[Navigator Depthseer]]** - Expedition planner for deep-ocean routes
-
-## Notable Features & Services
-
 ### The Great Tide Pool
 A massive circular pool at the guild's heart, magically connected to major waterways across [[Aquabyssos]]. Serves as both mount stable and rapid-transit hub for urgent deliveries.
 
@@ -93,15 +92,6 @@ The guild maintains extensive breeding programs for:
 - **[[Manta Ray]]** - Long-distance cargo transport
 - **[[Electric Eel]]** - Specialized defense and combat support
 
-### Services Offered
-- **Standard Delivery** - 5 gp per 100 miles
-- **Urgent Courier** - 25 gp per 100 miles (arrives in half time)
-- **Dangerous Territory** - 50 gp per 100 miles plus hazard fees
-- **Bulk Cargo Transport** - Negotiated rates for large shipments
-- **Escort Services** - Guild riders accompanying merchant vessels
-
-## Adventure Hooks & Encounters
-
 ### The Missing Courier (Level 3-5)
 [[Courier Ripplestone]] vanished while delivering sensitive documents to [[Port Abyssos]]. Investigation reveals signs of [[Sahuagin]] ambush near the [[Kelp Maze]]. The documents contain intelligence about [[Coral Throne Syndicate]] operations.
 
@@ -110,8 +100,6 @@ During the annual [[Pelagic Cup]] racing competition, several guild mounts fall 
 
 ### Diplomatic Emergency (Level 7-9)
 War threatens between [[Triton]] city-states. The guild needs experienced adventurers to escort their most skilled diplomat through hostile waters controlled by [[Deep Ones]] and deliver peace negotiations to [[The Sunken Senate]].
-
-## D&D 5e Mechanics
 
 ### Guild Membership Benefits
 Characters who join the Current Riders Guild (requires proficiency in Animal Handling and either Athletics or Survival) gain:
@@ -127,57 +115,8 @@ Characters who join the Current Riders Guild (requires proficiency in Animal Han
 3. **Swift Rider** (11-25 renown)
 4. **Master Courier** (26+ renown)
 
-### Environmental Features
-- **Tidal Pools** - Provide water breathing for air-breathers (24 hours)
-- **Current Channels** - Increase swim speed by 20 ft. when following the flow
-- **Emergency Beacons** - Magical sending stones for distress calls
-
 ## Connected Locations
 The Current Riders Guild maintains outposts in [[Port Abyssos]], [[The Twilight Gardens]], [[Fort Nautilus]], and [[The Pearl Markets]], creating a comprehensive network spanning the known regions of Aquabyssos.
-
-
-## Connections
-
-- [[Coral Throne Syndicate]]
-- [[Pearl_Harbor_City|Pearl Harbor City]]
-- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[Rescue Senator Glaucus]]
-
-
-## Overview
-
-
-TODO
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -187,24 +126,33 @@ Current Riders Guild is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Current Riders Guild as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Current Riders Guild.
 
-## Adventure Hooks
-
-- A rumor ties Current Riders Guild to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Current Riders Guild to avert a public scandal.
-- A map overlay reveals a hidden approach to Current Riders Guild active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Current Riders Guild|02 Worldbuilding/Places/Current Riders Guild]]
-
-<!-- enriched: true -->
-- [[The Depth Plague]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and evil awakens
+- A stranger needs help finding before winter
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

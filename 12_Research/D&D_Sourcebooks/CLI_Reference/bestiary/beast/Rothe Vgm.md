@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.459170+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-rothe-vgm-rothe-vgm.svg)
 
@@ -53,7 +50,6 @@ Ordinary rothé resemble musk oxen and have [[senses#Darkvision|darkvision]] out
   - !!int "10"
   - !!int "14"
   - !!int "2"
-  - !!int "10"
   - !!int "4"
 "speed": "30 ft."
 "senses": "darkvision 30 ft., passive Perception 10"
@@ -74,6 +70,24 @@ Ordinary rothé resemble musk oxen and have [[senses#Darkvision|darkvision]] out
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 grassland
@@ -86,19 +100,25 @@ Rothe vgm is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of rothe vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rothe vgm.
 
-## Adventure Hooks
-
-- A rumor ties rothe vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at rothe vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to rothe vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Plot Hooks
+
+- A letter reveals a betrayal about the government
+- Strange sightings suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

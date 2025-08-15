@@ -1,4 +1,5 @@
 ---
+
 title: Rest Mechanics
 type: rest
 tags:
@@ -6,38 +7,83 @@ tags:
 - active
 - mechanics
 - rest
+- prophecy
 created: '2025-08-14'
 modified: '2025-08-14'
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
-# Rest Mechanics
 
-## Short Rest (1 hour)
-- Spend Hit Dice to heal
-- Recover some features:
-  - Warlock spell slots
-  - Fighter Action Surge
-  - Monk Ki points
-  - Bardic Inspiration (5+)
 
-## Long Rest (8 hours)
-- Regain all HP
-- Regain half Hit Dice (min 1)
-- Regain all spell slots
-- Reset all features
-- Remove exhaustion (1 level)
+## 🔧 Deep Evaluation Improvements
 
-## Interruption
-- 1+ hour walking
-- 1+ hour combat
-- Must restart
+*20 targeted improvements identified*
+
+### Clarification Improvements
+
+- Add 3 examples of increasing complexity
+
+### Completeness Improvements
+
+- Address unusual situations and corner cases
+
+### Balance Improvements
+
+- Include mathematical analysis and comparisons
+
+### Usability Improvements
+
+- Create quick reference table
+
+### Session_Zero Improvements
+
+- Include session zero discussion points
+- Include session zero discussion points
+
+### Automated Improvements
+
+- Add macro/code for VTT implementation
+- Add macro/code for VTT implementation
+
+### Heroic Improvements
+
+- Add 'heroic fantasy' variant of rule
+- Add 'heroic fantasy' variant of rule
+
+### Abuse_Prevention Improvements
+
+- Add guidelines to prevent exploitation
+
+### Magic_Items Improvements
+
+- Note how magic items affect this rule
+- Note how magic items affect this rule
+- Note how magic items affect this rule
+
+### Interaction Improvements
+
+- Clarify interaction with multiclassing
+- Clarify interaction with multiclassing
+- Clarify interaction with multiclassing
+
+### Variant Improvements
+
+- Add 'gritty realism' variant of rule
+
+### Simplified Improvements
+
+- Create simplified version for new players
+
+### Narrative_Triggers Improvements
+
+- Suggest story moments to introduce rule
 
 
 ## Rule Summary
 
 Rest_Mechanics provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay.
-
 
 ## When to Use
 
@@ -45,9 +91,6 @@ Apply this rule when:
 - Specific trigger conditions are met
 - Players request this type of action
 - The situation calls for additional detail
-
-
-## Examples
 
 ### Example 1: Basic Application
 *Scenario*: Simple use case
@@ -59,7 +102,6 @@ Apply this rule when:
 *Resolution*: Step-by-step process
 *Outcome*: Various possibilities
 
-
 ## Quick Reference
 
 1. Trigger condition occurs
@@ -68,14 +110,6 @@ Apply this rule when:
 4. Apply results
 5. Narrate outcome
 
-
-## Connections
-
-- See also: [[Master Timeline]]
-- Related: [[Recent Events]]
-- Connected to: [[World Events]]
-
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -83,3 +117,31 @@ Apply this rule when:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and truth emerges
+- A prisoner has gone missing and evil awakens
+- A shipment has gone missing and truth emerges
+
+## Edge Cases & Rulings
+
+### Q: What if a player has multiple inspiration sources?
+A: Maximum of 2 inspiration dice, must declare which before rolling
+
+### Q: Can this stack with similar abilities?
+A: No, use the higher bonus only
+
+### Q: What about antimagic fields?
+A: Supernatural abilities suppressed, mundane portions still function
+
+
+## Quick Reference
+
+| Situation | Roll | DC | Effect on Failure |
+|-----------|------|-----|------------------|
+| Easy | d20+mod | 10 | Minor setback |
+| Moderate | d20+mod | 15 | Complication |
+| Hard | d20+mod | 20 | Serious consequence |
+| Extreme | d20+mod | 25 | Catastrophic |

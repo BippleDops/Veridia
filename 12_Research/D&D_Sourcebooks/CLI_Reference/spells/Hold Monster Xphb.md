@@ -17,7 +17,7 @@ tags:
 - status/in-progress
 - importance/core
 - ttrpg-cli/compendium/src/5e/xphb
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 classes:
@@ -36,11 +36,8 @@ updated: '2025-08-13T12:34:06.204985+00:00'
 world: Both
 ---
 
-
-
 # Hold Monster
 *5th-level, Enchantment*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 90 feet
@@ -53,7 +50,25 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 
 **Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-monster-slayer-xge "subclass=XGE;class=XPHB"|Ranger (Monster Slayer)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[/03_Mechanics/CLI/lists/list-spells-classes-oath-of-redemption-xge "subclass=XGE;class=XPHB"|Paladin (Oath of Redemption)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-oath-of-vengeance-xphb "subclass=XPHB;class=XPHB"|Paladin (Oath of Vengeance)]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-circle-of-the-sea-xphb "subclass=XPHB;class=XPHB"|Druid (Circle of the Sea)]]; [[list-spells-classes-wizard|Wizard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-war-domain-xphb "subclass=XPHB;class=XPHB"|Cleric (War Domain)]]
 
-*Source: Player's Handbook (2024) p. 285. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 285. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -63,19 +78,26 @@ Hold monster xphb is a undersea element of the setting, known for bioluminescent
 
 Legends speak of hold monster xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hold monster xphb.
 
-## Adventure Hooks
-
-- A rumor ties hold monster xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at hold monster xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to hold monster xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and chaos spreads
+- Someone is hunting a artifact for money
+- Someone is protecting a artifact for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

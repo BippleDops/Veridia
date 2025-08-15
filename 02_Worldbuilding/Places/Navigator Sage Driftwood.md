@@ -1,4 +1,5 @@
 ---
+
 title: Navigator Sage Driftwood
 type: Location
 tags:
@@ -30,6 +31,8 @@ danger_level: Moderate
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:16.684963+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -37,10 +40,77 @@ world: Aquabyssos
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-navigator-sage-driftwood-navigator-sage-driftwood.svg)
 
-
 # Navigator Sage Driftwood
 
 *"The ocean speaks to those who know how to listen. Every current has a story, every tide brings wisdom, and those who drift with purpose shall find their way to any shore."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
 
 ## Overview
 
@@ -55,13 +125,6 @@ Her services are in high demand as political tensions make safe travel increasin
 Sage Driftwood is an elderly sea elf woman whose exact age is difficult to determine, appearing to be anywhere from sixty to several hundred years old. Her silver-green hair flows like seaweed, often adorned with small shells, bits of coral, and trinkets collected from her travels. Her eyes are the deep blue-green of abyssal waters, seeming to hold depths of ancient knowledge.
 
 She dresses in practical but elegant robes made from various aquatic materials - sea silk, kelp fiber, and scales from friendly sea creatures. Her most distinctive possession is an ancient staff carved from driftwood that she claims came from the first tree to ever touch the ocean, adorned with navigation instruments that blend magical and mundane techniques.
-
-## Personality
-
-- Deeply philosophical about the nature of travel and exploration
-- Patient and wise, speaking in metaphors drawn from oceanic phenomena
-- Intensely curious about the connections between all things in the sea
-- Protective of ancient knowledge while generous in sharing practical wisdom
 
 ## Statistics
 
@@ -115,31 +178,11 @@ Driftwood is increasingly concerned about disturbances in the ocean's natural pa
 
 She's also been approached by various factions seeking her navigation services for sensitive missions, requiring her to carefully balance her neutral stance with her desire to help maintain stability in the region.
 
-## Relationships
-
-- **Aquabyssos Explorers Guild**: Senior advisor and most respected navigator
-- **Her Students**: Network of trained navigators throughout the oceanic realm
-- **Sea Creatures**: Maintains communication with various oceanic life forms
-- **All Factions**: Neutral service provider respected by all sides
-- **Deep-Sea Researchers**: Collaborates on studies of oceanic phenomena
-
-## Secrets
-
-- Has discovered that the ocean itself is becoming "agitated" due to supernatural influences affecting Aquabyssos
-- Maintains secret charts showing hidden pathways and safe harbors throughout the region
-- Can communicate with ancient sea spirits that possess knowledge of pre-historic civilizations
-- Knows the locations of several underwater ruins that predate current civilizations
-- Has been contacted by entities from the deepest ocean who are concerned about current events
-
 ## Quest Hooks
 
 1. Driftwood offers to guide the party to a location that can only be reached during specific oceanic conditions that occur rarely and unpredictably.
 2. Strange disturbances in oceanic patterns suggest supernatural interference, and Driftwood needs investigators to help identify the source.
 3. The party requires safe passage through dangerous waters, leading them to seek Driftwood's unique navigation expertise.
-
-
-
-## Map Notes
 
 ### Key Locations
 1. Main entrance/approach
@@ -148,56 +191,9 @@ She's also been approached by various factions seeking her navigation services f
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Sage Driftwood serves as both a practical resource for oceanic travel and a source of wisdom about the deeper mysteries of the sea. Her philosophical approach to navigation can provide unique insights into problems, while her oceanic connections offer opportunities for underwater adventures and encounters with sea creatures. Use her neutral stance and ancient wisdom to provide guidance that transcends factional politics.
-
-
-## Connections
-
-- [[Compass Quest]]
-- [[The Forgotten One]]
-- [[The Wandering Atoll]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -207,35 +203,6 @@ Navigator Sage Driftwood is a undersea element of the setting, known for biolumi
 
 Legends speak of Navigator Sage Driftwood as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Navigator Sage Driftwood.
 
-## Adventure Hooks
-
-- A rumor ties Navigator Sage Driftwood to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Navigator Sage Driftwood to avert a public scandal.
-- A map overlay reveals a hidden approach to Navigator Sage Driftwood active only during specific tides/storms.
-
-## Cross-References
-
-- [[Navigator Sage Driftwood]]
-
-<!-- enriched: true -->
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-
-
-## Notable Residents
-
-- [[Captain Marrow Drinker]]
-- [[04_Resources_Assets_Symbols_symbol-heraldry-vex-shadowthorn-boss-fight-vex-shadowthorn-boss-fight.png]]
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-port-meridian-merchant-quarter-v1-port-meridian-merchant-quarter.svg]]
-- [[04_Resources_Assets_Locations_location-city-the-missing-diplomat-v1-the-missing-diplomat.svg]]
-- [[04_Resources_Assets_Locations_location-city-the-first-truth-the-first-truth.svg]]
-
-
 ## Sensory Details
 
 **Sights**: Shadows dance across weathered stone walls
@@ -244,7 +211,6 @@ Legends speak of Navigator Sage Driftwood as a nexus where past and present conv
 
 **Smells**: Incense mingles with the scent of exotic spices
 
-
 ## Description
 
 Navigator Sage Driftwood is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -252,35 +218,7 @@ Navigator Sage Driftwood is a notable location characterized by its unique featu
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Navigator Sage Driftwood
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -293,15 +231,48 @@ Ongoing situations affecting Navigator Sage Driftwood:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Navigator Sage Driftwood
+## Secret Connections
 
-### Whispered Rumors
-- Stories that may or may not be true
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+
+## Plot Hooks
+
+- A merchant needs help investigating before the festival
+- A shipment has gone missing and chaos spreads
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

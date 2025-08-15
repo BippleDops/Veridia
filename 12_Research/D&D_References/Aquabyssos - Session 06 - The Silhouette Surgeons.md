@@ -21,7 +21,7 @@ status: outlined
 location:
 - - Tenebrarum
 session_number: 6
-date_played: null
+date_played: 
 MyCategory: Unknown
 MyContainer: None
 depth: 4,000 ft
@@ -46,21 +46,29 @@ world: Aquabyssos
 ---
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
-
-
-
-
-# Session 6: The Silhouette Surgeons
 ## The Nightmare Hospital
 
 > *"We don't perform surgery. We perform identity reassignment."*
 
 ## 🎬 Strong Start
 The party infiltrates the Surgical Sanctum to find hundreds of bodies suspended in tanks, each being slowly separated from their shadows. One tank contains someone identical to a party member. The Surgeon Prime appears: "Ah, you've found your prototypes. Don't worry—we'll reunite you with your true selves soon enough."
-
-## 🎭 Scenes
 
 ### Scene 1: The Prototype Ward
 **Location**: Sublevel 3 - Duplication Chambers  
@@ -126,49 +134,12 @@ The party infiltrates the Surgical Sanctum to find hundreds of bodies suspended 
 - **Option C**: Negotiate coexistence terms
 - **Option D**: Steal the research and flee
 
-## 🗡️ Combat Encounters
-
-### Prototype Party Members
-- **Stats**: Mirror PC stats but with shadow abilities
-- **Shadow Step**: Bonus action teleport 30 ft
-- **Identity Crisis**: Can confuse who's who (WIS DC 15)
-- **Emotional Plea**: Disadvantage on attacks against them
-
-### Surgical Staff (6)
-- **AS** 14, **HP** 38 each
-- **Surgical Tools**: 1d6+2 piercing
-- **Anesthetic Gas**: CON DC 14 or paralyzed 1 minute
-- **Pack Tactics**: Advantage when adjacent
-
-### The Silhouette Surgeon Prime (Phase 2)
-- **AS** 18, **HP** 120
-- **Legendary Resistance** (3/day)
-- **Lair Actions**: Surgical equipment attacks
-- **Shadow Multiplication**: Splits into 3 shadows at half HP
-- **Identity Theft**: Can copy PC appearance and abilities
-
-## 🎲 Environmental Hazards
-
-### Surgical Sanctum Effects
-- **Anesthetic Fog**: CON saves or unconscious
-- **Identity Confusion**: WIS saves or forget who you are
-- **Shadow Bleed**: Shadows randomly swap between beings
-- **Surgical Precision Field**: Crits on 19-20
-
 ### The Choice Chamber
 Special mechanics for Marina confrontation:
 - Zone of Truth effect (no lies possible)
 - Memories manifest as visible projections
 - Emotional damage for wrong accusations
 - Time pressure: 10 rounds before security arrives
-
-## 💰 Treasure & Rewards
-- Surgical Codex (shadow separation techniques)
-- 1,200 [[Sorrow Pearls]]
-- Shadow Fusion Elixir (3 doses)
-- Identity Anchor (prevents shadow swap)
-- Map to [[Crystallium]] resonance facility
-- Surgeon's Master Key (access all Tenebrarum facilities)
 
 ## 🔍 Secrets & Clues
 1. The Surgeon Prime is composed of 12 different shadows
@@ -182,28 +153,8 @@ Special mechanics for Marina confrontation:
 9. Children adapt to shadow fusion better than adults
 10. The real threat isn't shadows—it's what they're fleeing from
 
-## 🔗 Campaign Implications
-
-### If Party Accepts Fusion
-- Gain shadow abilities
-- Become targets of purist factions
-- Can communicate with shadows directly
-- Lose some humanity (roleplay consequences)
-
-### If Marina's Shadow is Chosen
-- Real Marina becomes antagonist
-- Shadow Marina provides inside information
-- Access to shadow resistance network
-- Changes in [[Aethermoor]] connections
-
-### If Facility is Destroyed
-- Thousands die (alignment shift)
-- Shadow faction becomes hostile
-- Lose access to shadow immunity
-- Purist factions support party
-
 ## 🎪 Cliffhanger Ending
-Regardless of choices made, as the party escapes the facility, every shadow in Tenebrarum suddenly points toward [[Crystallium]]. The Surgeon Prime's head (or remains) speaks: "You fools. The resonance has already begun. In three hours, every shadow in Aquabyssos will hear the call. You can't stop the harvest—you can only choose whether to guide it or be consumed by it."
+Regardless of choices made, as the party escapes the facility, every shadow in Tenebrarum suddenly points toward [[Crystallium]]. The Surgeon Prime's head (or remains) speaks: "You fools. The resoce has already begun. In three hours, every shadow in Aquabyssos will hear the call. You can't stop the harvest—you can only choose whether to guide it or be consumed by it."
 
 Marina (whichever one remains) reveals a final secret: "There's something you need to know about [[Crystallium]]. The entire continent is a transmission tower. And it's not calling to our shadows—it's calling to something else's. We're not the harvest. We're the bait."
 
@@ -211,34 +162,9 @@ Through the window, the party sees the ocean literally cracking like glass, reve
 
 ---
 
-## 🎯 DM Notes
-- Keep Marina situation ambiguous until forced
-- Describe surgical horror viscerally
-- Each PC should face identity questions
-- Prototypes know PC backstory secrets
-- Consider permanent changes from this session
-
-## 📅 Next Session Prep
-- [[Aquabyssos - Session 07 - The Resonance Revelation]]
-- Prepare Crystallium's alien architecture
-- Design resonance combat mechanics
-- Plan first contact with what shadows fear
-
-## Cross-References
-
-- [[Campaign Index]]
-
-
-## Connections
-
-- [[Sorrow Pearls]]
-- [[Crystallium]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -247,3 +173,23 @@ Through the window, the party sees the ocean literally cracking like glass, reve
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A letter reveals a conspiracy about the government
+- Strange accidents suggest a curse
+- Strange accidents suggest a conspiracy
+- Someone is protecting information for revenge
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

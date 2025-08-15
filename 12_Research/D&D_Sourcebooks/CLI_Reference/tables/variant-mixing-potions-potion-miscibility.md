@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.776416'
 world: Both
 ---
 
-
 # Variant: Mixing Potions; Potion Miscibility
 *Source: Dungeon Master's Guide p. 140* 
 
@@ -41,6 +40,24 @@ world: Both
 | 00 | Only one potion works, but its effect is permanent. Choose the simplest effect to make permanent, or the one that seems the most fun. For example, a [[potion-of-healing-xdmg|potion of healing]] might increase the drinker's hit point maximum by 4, or [[oil-of-etherealness-xdmg|oil of etherealness]] might permanently trap the user in the Ethereal Plane. At your discretion, an appropriate spell, such as [[dispel-magic-xphb|dispel magic]] or [[remove-curse-xphb|remove curse]], might end this lasting effect. |
 ^potion-miscibility
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Variant mixing potions potion miscibility is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -49,19 +66,31 @@ Variant mixing potions potion miscibility is a undersea element of the setting, 
 
 Legends speak of variant mixing potions potion miscibility as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around variant mixing potions potion miscibility.
 
-## Adventure Hooks
-
-- A rumor ties variant mixing potions potion miscibility to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at variant mixing potions potion miscibility to avert a public scandal.
-- A map overlay reveals a hidden approach to variant mixing potions potion miscibility active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A merchant needs help delivering before dawn
+- A journal reveals a conspiracy about this place
+- A stranger needs help investigating before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

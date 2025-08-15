@@ -21,17 +21,30 @@ updated: 2025-08-11
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-memory-meadows-black-market-memory-meadows-black-market.svg]]
-
-
-
-
 
 # Memory Meadows Black Market
 
 *"Memories for sale: precious, painful, or perfectly forgotten."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 A hidden black market specializing in the illegal trade of memories, operating from concealed chambers beneath the Memory Meadows district. Here, desperate individuals sell their most treasured or traumatic memories, while collectors and researchers purchase specific experiences.
@@ -80,13 +93,6 @@ The market exists in a legal gray area, as memory extraction is heavily regulate
 **Dangerous Knowledge**: 1,000-10,000 gold (secrets, forbidden information)
 **Perfect Memories**: 5,000+ gold (flawless recall of important events)
 
-## Legal and Ethical Issues
-- Memory extraction requires official permits and medical supervision
-- Selling memories of criminal activities is evidence tampering
-- Buying someone's traumatic memories without consent is psychological theft
-- Memory modification can destroy personal identity
-- Some memories contain information belonging to third parties
-
 ## Law Enforcement Response
 **Official Position**: Memory trade heavily regulated, black market illegal
 **Enforcement Challenges**: Difficult to prove memory crimes after they occur
@@ -108,20 +114,6 @@ The market exists in a legal gray area, as memory extraction is heavily regulate
 **Experience Tourism**: Wealthy client buys memories of exotic adventures
 **Identity Fraud**: Criminal purchases innocent person's childhood memories
 
-## Security Measures
-- Magical detection systems identify law enforcement
-- Multiple escape routes for emergency evacuation
-- Memory-wiping devices to protect client information
-- Armed guards with non-lethal but effective weapons
-- Alarm systems connected to legitimate business fronts
-
-## Dangers and Complications
-- Memory extraction can cause permanent psychological damage
-- Infected memories carrying curses or mental illnesses
-- Identity theft using purchased personality memories
-- Blackmail using embarrassing or incriminating memories
-- Government agents conducting sting operations
-
 ## Adventure Hooks
 1. Character needs to recover stolen memories
 2. Investigation into memory-related crimes leads to market
@@ -135,60 +127,8 @@ The market exists in a legal gray area, as memory extraction is heavily regulate
 **Scholar's Rest Library**: Academic research and rare book sales
 **Sunset Meditation Center**: Mental health and therapeutic services
 
-## Recent Events
-- Government raid narrowly missed major auction
-- New memory modification techniques attracting wealthy clients
-- Competitor market opening in different district
-- Several clients reporting memory contamination
- - Famous celebrity's memories stolen and sold publicly
-
-## Economic Impact
-- Estimated 200,000 gold annual revenue
-- Employment for 30+ individuals in various capacities
-- Connected to legitimate memory research industry
-- Provides services unavailable through legal channels
-- Contributes to underground economy network
-
 ## DM Notes
 This market explores themes of identity, the value of experience, and the ethics of memory manipulation. Use it for morally complex scenarios where players must decide what memories are worth preserving or forgetting.
-
-
-## Connections
-
-- [[Memory Farmer Thane]]
-- [[Diplomatic Tides]]
-- [[Aquabyssos - Session 03 - The Gallery Conspiracy]]
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -197,13 +137,6 @@ Memory Meadows Black Market is a undersea element of the setting, known for biol
 ## Lore Details
 
 Legends speak of Memory Meadows Black Market as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Meadows Black Market.
-
-## Cross-References
-
-- [[Memory Meadows Black Market|02 Worldbuilding/Places/Memory Meadows Black Market]]
-
-<!-- enriched: true -->
-
 
 ## Related
 

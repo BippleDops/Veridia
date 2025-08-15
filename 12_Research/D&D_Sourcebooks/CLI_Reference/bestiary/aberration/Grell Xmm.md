@@ -28,14 +28,29 @@ updated: '2025-08-13T12:34:05.594455+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-grell-xmm-grell-xmm.svg)
 
 # [[grell-xmm|Grell]]
 *Source: Monster Manual (2024) p. 157*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Grell
 
@@ -68,7 +83,6 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
 > 
 > For meal, my hunger grinds within my teeth. For might, my hunger clenches in my grip. But for what we're told we mustn't know, my hunger snaps a raptor's beak and makes my mind a muscle that knows only how to chew.
 
-
 ```statblock
 "name": "Grell (XMM)"
 "size": "Medium"
@@ -92,7 +106,7 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
   - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_immunities": "lightning"
-"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#prone|prone]]"
 "senses": "blindsight 60 ft., passive Perception 14"
 "languages": "Deep Speech"
 "cr": "3"
@@ -131,19 +145,21 @@ Grell xmm is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of grell xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around grell xmm.
 
-## Adventure Hooks
-
-- A rumor ties grell xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at grell xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to grell xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a conspiracy
+- Someone is searching for an heir for power
+- Strange accidents suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

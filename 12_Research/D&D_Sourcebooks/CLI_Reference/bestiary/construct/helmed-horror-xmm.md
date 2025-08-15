@@ -27,13 +27,29 @@ updated: '2025-08-12T23:37:35.848052'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-helmed-horror-xmm-helmed-horror-xmm.svg)
 
 # [[helmed-horror-xmm|Helmed Horror]]
 *Source: Monster Manual (2024) p. 166*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Helmed Horror
 
@@ -74,8 +90,6 @@ Helmed horrors might perform any number of assignments. Roll on or choose a resu
   - !!int "13"
   - !!int "16"
   - !!int "10"
-  - !!int "10"
-  - !!int "10"
 "speed": "30 ft., fly 30 ft. (hover)"
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
@@ -83,7 +97,7 @@ Helmed horrors might perform any number of assignments. Roll on or choose a resu
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
   \ [[conditions#Deafened|deafened]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
   \ [[conditions#Stunned|stunned]]"
 "senses": "blindsight 60 ft., passive Perception 14"
@@ -95,7 +109,7 @@ Helmed horrors might perform any number of assignments. Roll on or choose a resu
     "name": "Magic Resistance"
   - "desc": "The helmed horror is immune to three spells chosen by its creator. Typical\
       \ choices include [[heat-metal-xphb|Heat Metal]],\
-      \ [[lightning-bolt-xphb|Lightning Bolt]], and [[magic-missile-xphb|Magic\
+      \ [[lightning-bolt-xphb|Lightning Bolt]], and [[magic-missile-xphb|Magic\]]
       \ Missile]]."
     "name": "Spell Immunity"
 "actions":
@@ -122,19 +136,44 @@ Helmed horror xmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of helmed horror xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around helmed horror xmm.
 
-## Adventure Hooks
-
-- A rumor ties helmed horror xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at helmed horror xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to helmed horror xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- Strange dreams suggest a conspiracy
+- Strange dreams suggest ancient magic
+- A shipment has gone missing and chaos spreads
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

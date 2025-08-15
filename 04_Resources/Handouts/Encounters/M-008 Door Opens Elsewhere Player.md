@@ -26,7 +26,7 @@ chronology: active
 
 # Door Opens Elsewhere
 
-The maintenance door opens onto a cliff under twin moons.
+The maintece door opens onto a cliff under twin moons.
 
 What you notice
 - Night air that smells wrong
@@ -42,11 +42,9 @@ Possible outcomes
 - Something comes through
 - You find a shortcut—or a detour
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

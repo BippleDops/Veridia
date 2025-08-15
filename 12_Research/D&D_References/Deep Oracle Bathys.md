@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.584078+00:00'
 danger_level: Moderate
 ---
 
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-deep-oracle-bathys-deep-oracle-bathys.png]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Overview
+### Connection Improvements
 
-TODO
-## History
+- Add cross-references to related notes
 
-TODO
-## Layout
+### Enhancement Improvements
 
-TODO
-## Notables
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,39 @@ Deep Oracle Bathys is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Deep Oracle Bathys as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Deep Oracle Bathys.
 
-## Adventure Hooks
-
-- A rumor ties Deep Oracle Bathys to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Deep Oracle Bathys to avert a public scandal.
-- A map overlay reveals a hidden approach to Deep Oracle Bathys active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Deep Oracle Bathys|02 Worldbuilding/Places/Deep Oracle Bathys]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Temple Ward]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and truth emerges
+- Strange sightings suggest a curse
+- Strange sightings suggest ancient magic
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

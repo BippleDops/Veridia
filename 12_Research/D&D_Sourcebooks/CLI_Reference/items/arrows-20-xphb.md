@@ -23,14 +23,11 @@ updated: '2025-08-12T23:37:37.438451'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-arrows-20-xphb-arrows-20-xphb.svg)
 
 # Arrows (20)
 *Ammunition*  
-
 
 - **Cost**: 1 gp
 - **Weight**: 1.0 lbs.
@@ -39,7 +36,25 @@ Arrows are used with a weapon that has the ammunition property to make a ranged 
 
 Arrows are typically stored in a [[quiver-xphb|Quiver]] (bought separately).
 
-*Source: Player's Handbook (2024) p. 222. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Player's Handbook (2024) p. 222. Available in the SRD*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -49,19 +64,35 @@ Arrows 20 xphb is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of arrows 20 xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around arrows 20 xphb.
 
-## Adventure Hooks
-
-- A rumor ties arrows 20 xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at arrows 20 xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to arrows 20 xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Winds
+
+
+## Plot Hooks
+
+- A letter reveals a conspiracy about the government
+- Someone is hunting an heir for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

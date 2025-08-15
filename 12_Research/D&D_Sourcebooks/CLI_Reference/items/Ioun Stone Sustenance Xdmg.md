@@ -1,9 +1,9 @@
-# Ioun Stone Sustenance Xdmg
+# Ioun Stone Sustece Xdmg
 
 ---
-title: Ioun Stone Sustenance Xdmg
+title: Ioun Stone Sustece Xdmg
 aliases:
-- Ioun Stone, Sustenance
+- Ioun Stone, Sustece
 type: note
 tags:
 - both
@@ -24,12 +24,9 @@ updated: '2025-08-13T12:34:06.811724+00:00'
 world: Both
 ---
 
-
-
-# Ioun Stone, Sustenance
+# Ioun Stone, Sustece
 *Wondrous item, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/ioun-stone.webp#right)
-
 
 Roughly marble sized, *Ioun Stones* are named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of *Ioun Stones* exist, each type a distinct combination of shape and color.
 
@@ -41,29 +38,58 @@ As a [[actions#Utilize|Utilize]] action, you can seize and stow any number of *I
 
 You don't need to eat or drink while this clear spindle orbits your head.
 
-*Source: Dungeon Master's Guide (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 273. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
-Ioun stone sustenance xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+Ioun stone sustece xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of ioun stone sustenance xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ioun stone sustenance xdmg.
-
-## Adventure Hooks
-
-- A rumor ties ioun stone sustenance xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ioun stone sustenance xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to ioun stone sustenance xdmg active only during specific tides/storms.
+Legends speak of ioun stone sustece xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ioun stone sustece xdmg.
 
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

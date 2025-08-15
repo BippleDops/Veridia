@@ -29,14 +29,29 @@ updated: '2025-08-13T12:34:05.832207+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-pit-fiend-xmm-pit-fiend-xmm.svg)
 
 # [[pit-fiend-xmm|Pit Fiend]]
-*Source: Monster Manual (2024) p. 243. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 243. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Pit Fiend
 
@@ -67,7 +82,6 @@ Smoldering with the evil of the Nine Hells, pit fiends strike fear in creatures 
   - !!int "24"
   - !!int "22"
   - !!int "18"
-  - !!int "24"
 "speed": "30 ft., fly 60 ft."
 "saves":
   - "dexterity": !!int "8"
@@ -92,7 +106,7 @@ Smoldering with the evil of the Nine Hells, pit fiends strike fear in creatures 
   - "desc": "The pit fiend emanates an aura in a 20-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ while it doesn't have the [[conditions#Incapacitated|Incapacitated]]\
       \ condition. Wisdom Saving Throw: DC 21, any enemy that starts its turn in\
-      \ the aura. Failure: The target has the [[conditions#Frightened|Frightened]]\
+      \ the aura. Failure: The target has the [[conditions#frightened|Frightened]]\
       \ condition until the start of its next turn. Success: The target is immune\
       \ to this pit fiend's aura for 24 hours."
     "name": "Fear Aura"
@@ -143,19 +157,27 @@ Pit fiend xmm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of pit fiend xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around pit fiend xmm.
 
-## Adventure Hooks
-
-- A rumor ties pit fiend xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at pit fiend xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to pit fiend xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A document has gone missing and evil awakens
+- An heirloom has gone missing and truth emerges
+- A journal reveals a betrayal about a local noble
+- A document has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

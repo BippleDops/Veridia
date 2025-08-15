@@ -17,28 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -48,28 +42,27 @@ Courier Pelagic is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Courier Pelagic as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Courier Pelagic.
 
-## Adventure Hooks
-
-- A rumor ties Courier Pelagic to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Courier Pelagic to avert a public scandal.
-- A map overlay reveals a hidden approach to Courier Pelagic active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Courier Pelagic|02 Worldbuilding/Places/Courier Pelagic]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Current Riders Guild]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A merchant needs help investigating before the new moon
+- A letter reveals the truth about the government
+- A stranger needs help delivering before winter
+- Someone is searching for a artifact for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

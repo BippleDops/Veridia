@@ -1,4 +1,5 @@
 ---
+
 title: Moral Dilemmas
 type: ethics
 tags:
@@ -7,11 +8,11 @@ tags:
 - consequences
 created: '2025-08-14'
 modified: '2025-08-14'
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
-# Moral Dilemma Framework
 
-## Ethical Scenarios
 
 ### Dilemma_251
 
@@ -163,116 +164,6 @@ modified: '2025-08-14'
 - Immediate: Enemy defeated
 - Long-term: Peace achieved
 
-### Alignment Shift
-- **Lawful Choice**: Follow the law → +1 Lawful
-- **Chaotic Choice**: Act on emotion → +1 Chaotic
-- **Good Choice**: Self-sacrifice → +1 Good
-- **Evil Choice**: Betray trust → +1 Evil
-
-### Alignment Shift
-- **Lawful Choice**: Honor agreement → +1 Lawful
-- **Chaotic Choice**: Break rules → +1 Chaotic
-- **Good Choice**: Show mercy → +1 Good
-- **Evil Choice**: Cruel action → +1 Evil
-
-### Alignment Shift
-- **Lawful Choice**: Honor agreement → +1 Lawful
-- **Chaotic Choice**: Embrace change → +1 Chaotic
-- **Good Choice**: Protect innocent → +1 Good
-- **Evil Choice**: Betray trust → +1 Evil
-
-### Alignment Shift
-- **Lawful Choice**: Honor agreement → +1 Lawful
-- **Chaotic Choice**: Act on emotion → +1 Chaotic
-- **Good Choice**: Show mercy → +1 Good
-- **Evil Choice**: Cruel action → +1 Evil
-
-### Alignment Shift
-- **Lawful Choice**: Maintain order → +1 Lawful
-- **Chaotic Choice**: Embrace change → +1 Chaotic
-- **Good Choice**: Protect innocent → +1 Good
-- **Evil Choice**: Personal gain → +1 Evil
-
-### Alignment Shift
-- **Lawful Choice**: Maintain order → +1 Lawful
-- **Chaotic Choice**: Break rules → +1 Chaotic
-- **Good Choice**: Self-sacrifice → +1 Good
-- **Evil Choice**: Cruel action → +1 Evil
-
-### Alignment Shift
-- **Lawful Choice**: Follow the law → +1 Lawful
-- **Chaotic Choice**: Embrace change → +1 Chaotic
-- **Good Choice**: Self-sacrifice → +1 Good
-- **Evil Choice**: Betray trust → +1 Evil
-
-### Alignment Shift
-- **Lawful Choice**: Honor agreement → +1 Lawful
-- **Chaotic Choice**: Embrace change → +1 Chaotic
-- **Good Choice**: Protect innocent → +1 Good
-- **Evil Choice**: Cruel action → +1 Evil
-
-### Alignment Shift
-- **Lawful Choice**: Honor agreement → +1 Lawful
-- **Chaotic Choice**: Embrace change → +1 Chaotic
-- **Good Choice**: Show mercy → +1 Good
-- **Evil Choice**: Betray trust → +1 Evil
-
-### Alignment Shift
-- **Lawful Choice**: Follow the law → +1 Lawful
-- **Chaotic Choice**: Break rules → +1 Chaotic
-- **Good Choice**: Self-sacrifice → +1 Good
-- **Evil Choice**: Betray trust → +1 Evil
-
-### Reputation Changes
-- **Public Opinion**: Controversial
-- **Noble View**: Dangerous
-- **Criminal View**: Potential allies
-
-### Reputation Changes
-- **Public Opinion**: Villains
-- **Noble View**: Unpredictable
-- **Criminal View**: Marks
-
-### Reputation Changes
-- **Public Opinion**: Unknown
-- **Noble View**: Unpredictable
-- **Criminal View**: Rivals
-
-### Reputation Changes
-- **Public Opinion**: Villains
-- **Noble View**: Trustworthy
-- **Criminal View**: Potential allies
-
-### Reputation Changes
-- **Public Opinion**: Unknown
-- **Noble View**: Trustworthy
-- **Criminal View**: Potential allies
-
-### Reputation Changes
-- **Public Opinion**: Heroes
-- **Noble View**: Unpredictable
-- **Criminal View**: Rivals
-
-### Reputation Changes
-- **Public Opinion**: Villains
-- **Noble View**: Unpredictable
-- **Criminal View**: Potential allies
-
-### Reputation Changes
-- **Public Opinion**: Controversial
-- **Noble View**: Useful
-- **Criminal View**: Marks
-
-### Reputation Changes
-- **Public Opinion**: Villains
-- **Noble View**: Trustworthy
-- **Criminal View**: Rivals
-
-### Reputation Changes
-- **Public Opinion**: Controversial
-- **Noble View**: Trustworthy
-- **Criminal View**: Rivals
-
 ### Path to Redemption
 1. **Acknowledgment**: Public confession
 2. **Restitution**: Quest completion
@@ -280,65 +171,85 @@ modified: '2025-08-14'
 4. **Forgiveness**: From gods
 
 ### Path to Redemption
-1. **Acknowledgment**: Public confession
 2. **Restitution**: Gold payment
-3. **Demonstration**: Save innocents
 4. **Forgiveness**: From self
 
 ### Path to Redemption
-1. **Acknowledgment**: Public confession
-2. **Restitution**: Gold payment
-3. **Demonstration**: Save innocents
 4. **Forgiveness**: From victims
 
 ### Path to Redemption
 1. **Acknowledgment**: Written testimony
 2. **Restitution**: Service period
-3. **Demonstration**: Save innocents
-4. **Forgiveness**: From self
 
 ### Path to Redemption
-1. **Acknowledgment**: Public confession
-2. **Restitution**: Quest completion
 3. **Demonstration**: Defeat evil
-4. **Forgiveness**: From victims
 
 ### Path to Redemption
 1. **Acknowledgment**: Private admission
-2. **Restitution**: Quest completion
 3. **Demonstration**: Sacrifice something
-4. **Forgiveness**: From self
 
 ### Path to Redemption
-1. **Acknowledgment**: Written testimony
-2. **Restitution**: Gold payment
-3. **Demonstration**: Defeat evil
-4. **Forgiveness**: From gods
 
 ### Path to Redemption
-1. **Acknowledgment**: Written testimony
-2. **Restitution**: Service period
-3. **Demonstration**: Sacrifice something
-4. **Forgiveness**: From victims
 
 ### Path to Redemption
-1. **Acknowledgment**: Private admission
-2. **Restitution**: Gold payment
-3. **Demonstration**: Defeat evil
-4. **Forgiveness**: From gods
 
 ### Path to Redemption
-1. **Acknowledgment**: Public confession
-2. **Restitution**: Quest completion
-3. **Demonstration**: Defeat evil
-4. **Forgiveness**: From gods
 
 
-## Connections
+## 🔧 Deep Evaluation Improvements
 
-- See also: [[Central Index]]
-- Related: [[Recent Events]]
-- Connected to: [[Character Backstories]]
+*20 targeted improvements identified*
+
+### Combat Improvements
+
+- Add encounter scaling table for parties of 3-6 players, levels 1-20
+
+### Rewards Improvements
+
+- Create treasure parcels for each major encounter
+
+### Structure Improvements
+
+- Add three-act structure with rising action
+
+### Choices Improvements
+
+- Add meaningful decision points with consequences
+
+### Roleplay Improvements
+
+- Include ethical challenges without clear answers
+
+### Worldbuilding Improvements
+
+- Connect to three other adventures in the vault
+- Connect to three other adventures in the vault
+- Connect to three other adventures in the vault
+- Connect to three other adventures in the vault
+
+### Props Improvements
+
+- List physical props and handouts needed
+- List physical props and handouts needed
+- List physical props and handouts needed
+- List physical props and handouts needed
+
+### Level_Range Improvements
+
+- Provide scaling for different level ranges
+- Provide scaling for different level ranges
+
+### Art Improvements
+
+- Add AI art prompts for key scenes
+- Add AI art prompts for key scenes
+- Add AI art prompts for key scenes
+
+### Accessibility Improvements
+
+- Include content warnings and safety tools
+- Include content warnings and safety tools
 
 
 ## DM Notes
@@ -348,3 +259,22 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A map reveals the truth about this place
+- A letter reveals the truth about a local noble
+
+## Critical Decisions
+
+1. **The Prisoner's Dilemma**: Save the hostages OR pursue the villain
+2. **The Devil's Bargain**: Accept dark power OR fight with disadvantage
+3. **The Succession Choice**: Support the heir OR the usurper
+
+
+## Moral Quandaries
+
+- The villain's family begs for mercy
+- Stealing medicine to save a plague victim
+- Choosing between two villages to save

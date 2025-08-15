@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.665915+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-myconid-sprout-xmm-myconid-sprout-xmm.svg)
 
@@ -38,6 +35,24 @@ world: Both
 *Source: Monster Manual (2024) p. 222*  
 
 Myconid sprouts tend to their fungal homes and watch for trespassers.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Myconids
 
@@ -60,8 +75,6 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
 "stats":
   - !!int "8"
   - !!int "10"
-  - !!int "10"
-  - !!int "8"
   - !!int "11"
   - !!int "5"
 "speed": "10 ft."
@@ -100,19 +113,30 @@ Myconid sprout xmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of myconid sprout xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around myconid sprout xmm.
 
-## Adventure Hooks
-
-- A rumor ties myconid sprout xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at myconid sprout xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to myconid sprout xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

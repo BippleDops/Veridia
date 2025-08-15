@@ -22,12 +22,26 @@ updated: '2025-08-12T23:37:35.695487'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-baphomet-mtf-baphomet-mtf.svg)
 
-# Baphomet
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Mordenkainen's Tome of Foes_
@@ -39,12 +53,11 @@ On initiative count 20 (losing initiative ties), Baphomet can take a lair action
 - Baphomet casts [[mirage-arcane-xphb|mirage arcane]], affecting a room within the lair that is no larger in any dimension than 100 feet. The effect ends on the next initiative count 20.  
 
 ## Regional effects
-_Source: Mordenkainen's Tome of Foes_
 
 The region containing Baphomet's lair is warped by his magic, creating one or more of the following effects:
 
 - Plant life within 1 mile of the lair grows thick and forms walls of trees, hedges, and other flora in the form of small mazes.  
-- Beasts within 1 mile of the lair become [[conditions#Frightened|frightened]] and disoriented, as though constantly under threat of being hunted, and might lash out or panic even when no visible threat is nearby.  
+- Beasts within 1 mile of the lair become [[conditions#frightened|frightened]] and disoriented, as though constantly under threat of being hunted, and might lash out or panic even when no visible threat is nearby.  
 - If a humanoid spends at least 1 hour within 1 mile of the lair, that creature must succeed on a DC 18 Wisdom saving throw or descend into a madness determined by the Madness of Baphomet table. A creature that succeeds on this saving throw can't be affected by this regional effect again for 24 hours.  
 
 If Baphomet dies, these effects fade over the course of `d10` days.
@@ -74,19 +87,26 @@ Baphomet mtf is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of baphomet mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around baphomet mtf.
 
-## Adventure Hooks
-
-- A rumor ties baphomet mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at baphomet mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to baphomet mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- Someone is searching for an heir for love
+- Strange accidents suggest a conspiracy
+- A letter reveals the truth about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

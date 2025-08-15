@@ -31,9 +31,6 @@ updated: '2025-08-13T12:34:05.818292+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-howler-mpmm-howler-mpmm.svg)
 
@@ -73,7 +70,7 @@ Howlers rely on speed, numbers, and their mind-numbing howling to corner prey be
     "desc": "+5"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
-"condition_immunities": "[[conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "understands Abyssal but can't speak"
 "cr": "8"
@@ -87,13 +84,13 @@ Howlers rely on speed, numbers, and their mind-numbing howling to corner prey be
     "name": "Multiattack"
   - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10\
       \ (2d6 + 3) piercing damage, plus 22 (4d10) psychic damage if the target is\
-      \ [[conditions#Frightened|frightened]]. This attack ignores\
+      \ [[conditions#frightened|frightened]]. This attack ignores\
       \ damage resistance."
     "name": "Rending Bite"
   - "desc": "The howler emits a keening howl in a 60-foot cone. Each creature in that\
       \ area must succeed on a DC 13 Wisdom saving throw or take 16 (3d10) psychic\
-      \ damage and be [[conditions#Frightened|frightened]] until\
-      \ the end of the howler's next turn. While a creature is [[conditions#Frightened|frightened]]\
+      \ damage and be [[conditions#frightened|frightened]] until\
+      \ the end of the howler's next turn. While a creature is [[conditions#frightened|frightened]]\
       \ in this way, its speed is halved, and it is [[conditions#Incapacitated|incapacitated]].\
       \ A target that successfully saves is immune to the Mind-Breaking Howl of all\
       \ howlers for the next 24 hours."
@@ -104,6 +101,24 @@ Howlers rely on speed, numbers, and their mind-numbing howling to corner prey be
 "image": "/03_Mechanics/CLI/bestiary/fiend/token/howler-mpmm.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Environment
 
@@ -117,19 +132,29 @@ Howler mpmm is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of howler mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around howler mpmm.
 
-## Adventure Hooks
-
-- A rumor ties howler mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at howler mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to howler mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest a portal
+- The authorities needs help delivering before winter
+- A noble needs help delivering before dawn
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

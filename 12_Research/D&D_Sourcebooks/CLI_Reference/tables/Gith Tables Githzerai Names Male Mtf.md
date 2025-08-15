@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.003969+00:00'
 world: Both
 ---
 
-
-
 # Gith Tables; Githzerai Names, Male
 *Source: Mordenkainen's Tome of Foes p. 97* 
 
@@ -45,6 +43,24 @@ world: Both
 | 10 | Xorm |
 ^githzerai-names-male
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Gith tables githzerai names male mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -53,19 +69,33 @@ Gith tables githzerai names male mtf is a undersea element of the setting, known
 
 Legends speak of gith tables githzerai names male mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gith tables githzerai names male mtf.
 
-## Adventure Hooks
-
-- A rumor ties gith tables githzerai names male mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gith tables githzerai names male mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to gith tables githzerai names male mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a curse
+- A journal reveals the truth about the government
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

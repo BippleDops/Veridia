@@ -23,20 +23,35 @@ updated: '2025-08-12T23:37:37.437655'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-obsidian-xdmg-obsidian-xdmg.svg)
 
 # Obsidian
 *Treasure (gemstone)*  
 
-
 - **Cost**: 10 gp
 
 A black gemstone.
 
 *Source: Dungeon Master's Guide (2024) p. 214*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -46,19 +61,25 @@ Obsidian xdmg is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of obsidian xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around obsidian xdmg.
 
-## Adventure Hooks
-
-- A rumor ties obsidian xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at obsidian xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to obsidian xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

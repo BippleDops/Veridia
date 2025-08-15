@@ -15,16 +15,8 @@ world: Both
 updated: '2025-08-13T01:18:36.980507+00:00'
 ---
 
-
-
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-sorrowmaster-the-sorrowmaster.svg)
-
-
-
-
 
 # Morteus Grieveheart, the Sorrowmaster
 
@@ -44,6 +36,24 @@ updated: '2025-08-13T01:18:36.980507+00:00'
 **Languages** Common, Aquabyssan, Abyssal, Celestial, telepathy 60 ft.  
 **Challenge Rating** 15 (13,000 XP)  
 **Proficiency Bonus** +5
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Special Abilities
 
@@ -80,12 +90,6 @@ updated: '2025-08-13T01:18:36.980507+00:00'
 
 **Overwhelming Despair (1/Day).** All creatures within 60 feet must make a DC 19 Charisma saving throw. On failure, they are stunned for 1 minute and take 21 (6d6) psychic damage at the start of each turn. They can repeat the save at the end of each turn.
 
-## Legendary Actions (3 per turn)
-- **Move.** Morteus moves up to his speed without provoking opportunity attacks.
-- **Cantrip.** Morteus casts a cantrip.
-- **Grief Touch (2 actions).** Morteus makes a Grief Touch attack.
-- **Cast Spell (3 actions).** Morteus casts a spell of 3rd level or lower.
-
 ## Description
 
 Morteus Grieveheart appears as a figure carved from living sorrow. His deep merfolk heritage shows in his elongated form and pale, almost translucent skin that seems to absorb light rather than reflect it. Standing 6'2" with an ethereal, gaunt frame, he moves with the slow, measured pace of one who has witnessed countless deaths.
@@ -93,15 +97,6 @@ Morteus Grieveheart appears as a figure carved from living sorrow. His deep merf
 His most striking features are his eyes—completely black voids that seem to contain the collected tears of every soul he has "comforted" in their final moments. His hair flows like dark water, occasionally revealing glimpses of the many mourning symbols braided within. Intricate tattoos of funeral rites spiral across his arms and chest, each one representing a different culture's approach to death and grief.
 
 Morteus dwells in the Grief Gardens, a haunted grove where the water itself seems to weep. Here, surrounded by monuments to the dead and tended by his undead servants, he offers his services to those seeking to commune with lost loved ones—for a price that extends far beyond mere coin.
-
-## Equipment
-
-- **Staff of the Grave** (necromantic focus that can trap souls temporarily)
-- **Robes of the Grave** (+3 AC, resistance to necrotic damage, command undead)
-- **Amulet of Sorrow** (stores emotional pain to fuel spells)
-- **Ring of Death Ward** (automatic *death ward* when reduced to 0 hp, 1/day)
-- **Tome of Funeral Rites** (contains rituals from 100 different cultures)
-- **Vial of Tears** (component pouch containing essences of grief)
 
 ## Relationships
 
@@ -134,14 +129,6 @@ Morteus dwells in the Grief Gardens, a haunted grove where the water itself seem
 
 5. **The Mourning War** - Two noble houses are using Morteus's services to weaponize their ancestral ghosts against each other. The party must stop the escalating supernatural conflict before it tears Aquabyssos apart.
 
-## Secrets
-
-- **The First Death**: Morteus was once a healer who accidentally caused a patient's death. His grief was so profound it attracted the attention of death entities who offered him power.
-- **The Soul Tax**: Every resurrection he performs costs him a piece of his own soul. He's dangerously close to becoming undead himself.
-- **The Emperor's Secret**: He knows that [[Emperor Thalassius the Wise]] died three years ago and has been maintaining an elaborate illusion to hide this fact.
-- **The Grief Engine**: Deep beneath his gardens lies a massive necromantic device that converts sorrow into raw magical energy, powered by the tears of the bereaved.
-- **The Final Service**: He has prepared his own funeral rites and knows exactly when and how he will die—information he guards more carefully than any other secret.
-
 ## Motivations
 
 **Primary**: Understand and master the relationship between grief and death
@@ -168,13 +155,6 @@ Morteus dwells in the Grief Gardens, a haunted grove where the water itself seem
 
 **Mannerisms**: Always maintains perfect posture, as if conducting a funeral service. His hands move in subtle blessing gestures when he speaks. He has a habit of touching mourning jewelry worn by others, claiming he can sense the grief contained within. Water around him becomes still and dark, reflecting his emotional state.
 
-
-## Connections
-
-- [[The Resonance Prophet]]
-- [[The Mourning Depths]]
-- [[Aquabyssos - Session 09 - The Mourning Strategy]]
-
 ## Player-Facing Summary
 
 The Sorrowmaster is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -183,29 +163,31 @@ The Sorrowmaster is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of The Sorrowmaster as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Sorrowmaster.
 
-## Adventure Hooks
-
-- A rumor ties The Sorrowmaster to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Sorrowmaster to avert a public scandal.
-- A map overlay reveals a hidden approach to The Sorrowmaster active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[The Sorrowmaster|02 Worldbuilding/People/The Sorrowmaster]]
-
-<!-- enriched: true -->
-- [[Emperor Thalassius the Wise]]
-- [[High Priestess Scylla Deepdream]]
-- [[Memory Merchant Valeria Siltweave]]
-- [[Prince Caspian Duskwater]]
-- [[The Parasite Priests]]
-- [[The Waking Prophets]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help finding before the new moon
+- Someone is blackmailing a witness for money
+- Strange dreams suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

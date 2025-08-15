@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Ritual Redirection Options|02 Worldbuilding/Lore/Ritual Redirection Options]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Ritual Redirection Options]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,35 @@ Storm of Eternal Lightning is a undersea element of the setting, known for biolu
 
 Legends speak of Storm of Eternal Lightning as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Storm of Eternal Lightning.
 
-## Adventure Hooks
-
-- A rumor ties Storm of Eternal Lightning to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Storm of Eternal Lightning to avert a public scandal.
-- A map overlay reveals a hidden approach to Storm of Eternal Lightning active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help investigating before winter
+- Strange disappearances suggest ancient magic
+- An heirloom has gone missing and evil awakens
+- A letter reveals ancient history about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

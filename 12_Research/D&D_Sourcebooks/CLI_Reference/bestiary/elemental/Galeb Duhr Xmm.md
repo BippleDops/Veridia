@@ -29,14 +29,29 @@ updated: '2025-08-13T12:34:05.754394+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-galeb-duhr-xmm-galeb-duhr-xmm.svg)
 
 # [[galeb-duhr-xmm|Galeb Duhr]]
 *Source: Monster Manual (2024) p. 127*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Galeb Duhr
 
@@ -63,14 +78,12 @@ Some mountain dwellers view galeb duhr as aloof allies and might entrust these l
 "stats":
   - !!int "20"
   - !!int "14"
-  - !!int "20"
   - !!int "11"
   - !!int "12"
-  - !!int "11"
 "speed": "15 ft. (30 ft. when rolling, 60 ft. rolling downhill)"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 11"
 "languages": "Primordial (Terran)"
@@ -79,7 +92,7 @@ Some mountain dwellers view galeb duhr as aloof allies and might entrust these l
   - "desc": "Melee Attack Roll: +8, reach 5 ft. Hit: 12 (2d6 + 5) Bludgeoning\
       \ damage. If the target is a Large or smaller creature and the galeb duhr moved\
       \ 20+ feet straight toward it immediately before the hit, the target takes an\
-      \ extra 7 (2d6) Bludgeoning damage and has the [[conditions#Prone|Prone]]\
+      \ extra 7 (2d6) Bludgeoning damage and has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Avalanche Slam"
   - "desc": "The galeb duhr magically animates one or two boulders it can see within\
@@ -107,19 +120,20 @@ Galeb duhr xmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of galeb duhr xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around galeb duhr xmm.
 
-## Adventure Hooks
-
-- A rumor ties galeb duhr xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at galeb duhr xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to galeb duhr xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Stars
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

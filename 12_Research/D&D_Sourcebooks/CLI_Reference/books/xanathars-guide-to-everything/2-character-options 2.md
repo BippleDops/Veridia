@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:05.195575+00:00'
 world: Both
 ---
 
-
-
 # Character Options
 *Source: Xanathar's Guide to Everything, p. 7* 
 
@@ -38,6 +36,24 @@ Following the subclasses, the section called "this is your life" presents a seri
 The chapter concludes with a selection of feats for the races in the player's handbook, offering ways to delve deeper into a character's racial identity.
 
 ![[character-options-subclasses-xge|Character Options; Subclasses]]
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## This is Your Life
 
@@ -207,7 +223,6 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 `dice: [](2-character-options.md#^criminal)`
 
 | dice: d6 | I became a criminal because... |
-|----------|--------------------------------|
 | 1 | I resented authority in my younger days and saw a life of crime as the best way to fight against tyranny and oppression. |
 | 2 | Necessity forced me to take up the life, since it was the only way I could survive. |
 | 3 | I fell in with a gang of reprobates and ne'er-do-wells, and I learned my specialty from them. |
@@ -235,7 +250,6 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 `dice: [](2-character-options.md#^folk-hero)`
 
 | dice: d6 | I became a folk hero because... |
-|----------|---------------------------------|
 | 1 | I learned what was right and wrong from my family. |
 | 2 | I was always enamored by tales of heroes and wished I could be something more than ordinary. |
 | 3 | I hated my mundane life, so when it was time for someone to step up and do the right thing, I took my chance. |
@@ -319,7 +333,6 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 `dice: [](2-character-options.md#^sailor)`
 
 | dice: d6 | I became a sailor because... |
-|----------|------------------------------|
 | 1 | I was press-ganged by pirates and forced to serve on their ship until I finally escaped. |
 | 2 | I wanted to see the world, so I signed on as a deck-hand for a merchant ship. |
 | 3 | One of my relatives was a sailor who took me to sea. |
@@ -347,7 +360,6 @@ Roll on the appropriate table in this section as soon as you decide your backgro
 `dice: [](2-character-options.md#^urchin)`
 
 | dice: d6 | I became an urchin because... |
-|----------|-------------------------------|
 | 1 | Wanderlust caused me to leave my family to see the world. I look after myself. |
 | 2 | I ran away from a bad situation at home and made my own way in the world. |
 | 3 | Monsters wiped out my village, and I was the sole survivor. I had to find a way to survive. |
@@ -371,7 +383,6 @@ The class sections earlier in this chapter have further story suggestions, which
 `dice: [](2-character-options.md#^barbarian)`
 
 | dice: d6 | I became a barbarian because... |
-|----------|---------------------------------|
 | 1 | My devotion to my people lifted me in battle, making me powerful and dangerous. |
 | 2 | The spirits of my ancestors called on me to carry out a great task. |
 | 3 | I lost control in battle one day, and it was as if something else was manipulating my body, forcing it to kill every foe I could reach. |
@@ -385,7 +396,6 @@ The class sections earlier in this chapter have further story suggestions, which
 `dice: [](2-character-options.md#^bard)`
 
 | dice: d6 | I became a bard because... |
-|----------|----------------------------|
 | 1 | I awakened my latent bardic abilities through trial and error. |
 | 2 | I was a gifted performer and attracted the attention of a master bard who schooled me in the old techniques. |
 | 3 | I joined a loose society of scholars and orators to learn new techniques of performance and magic. |
@@ -399,7 +409,6 @@ The class sections earlier in this chapter have further story suggestions, which
 `dice: [](2-character-options.md#^cleric)`
 
 | dice: d6 | I became a cleric because... |
-|----------|------------------------------|
 | 1 | A supernatural being in service to the gods called me to become a divine agent in the world. |
 | 2 | I saw the injustice and horror in the world and felt moved to take a stand against them. |
 | 3 | My god gave me an unmistakable sign. I dropped everything to serve the divine. |
@@ -413,7 +422,6 @@ The class sections earlier in this chapter have further story suggestions, which
 `dice: [](2-character-options.md#^druid)`
 
 | dice: d6 | I became a druid because... |
-|----------|-----------------------------|
 | 1 | I saw too much devastation in the wild places, too much of nature's splendor ruined by the despoilers. I joined a circle of druids to fight back against the enemies of nature. |
 | 2 | I found a place among a group of druids after I fled a catastrophe. |
 | 3 | I have always had an affinity for animals, so I explored my talent to see how I could best use it. |
@@ -427,7 +435,6 @@ The class sections earlier in this chapter have further story suggestions, which
 `dice: [](2-character-options.md#^fighter)`
 
 | dice: d6 | I became a fighter because... |
-|----------|-------------------------------|
 | 1 | I wanted to hone my combat skills, and so I joined a war college. |
 | 2 | I squired for a knight who taught me how to fight, care for a steed, and conduct myself with honor. I decided to take up that path for myself. |
 | 3 | Horrible monsters descended on my community, killing someone I loved. I took up arms to destroy those creatures and others of a similar nature. |
@@ -441,7 +448,6 @@ The class sections earlier in this chapter have further story suggestions, which
 `dice: [](2-character-options.md#^monk)`
 
 | dice: d6 | I became a monk because... |
-|----------|----------------------------|
 | 1 | I was chosen to study at a secluded monastery. There, I was taught the fundamental techniques required to eventually master a tradition. |
 | 2 | I sought instruction to gain a deeper understanding of existence and my place in the world. |
 | 3 | I stumbled into a portal to the Shadowfell and took refuge in a strange monastery, where I learned how to defend myself against the forces of darkness. |
@@ -455,7 +461,6 @@ The class sections earlier in this chapter have further story suggestions, which
 `dice: [](2-character-options.md#^paladin)`
 
 | dice: d6 | I became a paladin because... |
-|----------|-------------------------------|
 | 1 | A fantastical being appeared before me and called on me to undertake a holy quest. |
 | 2 | One of my ancestors left a holy quest unfulfilled, so I intend to finish that work. |
 | 3 | The world is a dark and terrible place. I decided to serve as a beacon of light shining out against the gathering shadows. |
@@ -469,7 +474,6 @@ The class sections earlier in this chapter have further story suggestions, which
 `dice: [](2-character-options.md#^ranger)`
 
 | dice: d6 | I became a ranger because... |
-|----------|------------------------------|
 | 1 | I found purpose while I honed my hunting skills by bringing down dangerous animals at the edge of civilization. |
 | 2 | I always had a way with animals, able to calm them with a soothing word and a touch. |
 | 3 | I suffer from terrible wanderlust, so being a ranger gave me a reason not to remain in one place for too long. |
@@ -483,7 +487,6 @@ The class sections earlier in this chapter have further story suggestions, which
 `dice: [](2-character-options.md#^rogue)`
 
 | dice: d6 | I became a rogue because... |
-|----------|-----------------------------|
 | 1 | I've always been nimble and quick of wit, so I decided to use those talents to help me make my way in the world. |
 | 2 | An assassin or a thief wronged me, so I focused my training on mastering the skills of my enemy to better combat foes of that sort. |
 | 3 | An experienced rogue saw something in me and taught me several useful tricks. |
@@ -497,7 +500,6 @@ The class sections earlier in this chapter have further story suggestions, which
 `dice: [](2-character-options.md#^sorcerer)`
 
 | dice: d6 | I became a sorcerer because... |
-|----------|--------------------------------|
 | 1 | When I was born, all the water in the house froze solid, the milk spoiled, or all the iron turned to copper. My family is convinced that this event was a harbinger of stranger things to come for me. |
 | 2 | I suffered a terrible emotional or physical strain, which brought forth my latent magical power. I have fought to control it ever since. |
 | 3 | My immediate family never spoke of my ancestors, and when I asked, they would change the subject. It wasn't until I started displaying strange talents that the full truth of my heritage came out. |
@@ -511,7 +513,6 @@ The class sections earlier in this chapter have further story suggestions, which
 `dice: [](2-character-options.md#^warlock)`
 
 | dice: d6 | I became a warlock because... |
-|----------|-------------------------------|
 | 1 | While wandering around in a forbidden place, I encountered an otherworldly being that offered to enter into a pact with me. |
 | 2 | I was examining a strange tome I found in an abandoned library when the entity that would become my patron suddenly appeared before me. |
 | 3 | I stumbled into the clutches of my patron after I accidentally stepped through a magical doorway. |
@@ -525,7 +526,6 @@ The class sections earlier in this chapter have further story suggestions, which
 `dice: [](2-character-options.md#^wizard)`
 
 | dice: d6 | I became a wizard because... |
-|----------|------------------------------|
 | 1 | An old wizard chose me from among several candidates to serve an apprenticeship. |
 | 2 | When I became lost in a forest, a hedge wizard found me, took me in, and taught me the rudiments of magic. |
 | 3 | I grew up listening to tales of great wizards and knew I wanted to follow their path. I strove to be accepted at an academy of magic and succeeded. |
@@ -620,19 +620,20 @@ The cause of a particular transformation is up to you and your DM. A transformat
 
 Legends speak of 2 character options as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 2 character options.
 
-## Adventure Hooks
-
-- A rumor ties 2 character options to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 2 character options to avert a public scandal.
-- A map overlay reveals a hidden approach to 2 character options active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help finding before the new moon
+- Strange sightings suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

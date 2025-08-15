@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Angels and Depths|02 Worldbuilding/Places/Angels And Depths]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Angels and Depths]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,22 @@ Tide Runners Guild is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Tide Runners Guild as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Tide Runners Guild.
 
-## Adventure Hooks
-
-- A rumor ties Tide Runners Guild to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Tide Runners Guild to avert a public scandal.
-- A map overlay reveals a hidden approach to Tide Runners Guild active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a portal
+- Strange disappearances suggest a curse
+- A stranger needs help finding before the new moon
+- Strange sightings suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

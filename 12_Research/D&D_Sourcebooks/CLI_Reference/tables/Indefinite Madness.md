@@ -22,10 +22,8 @@ updated: '2025-08-13T12:34:03.447732+00:00'
 world: Both
 ---
 
-
-
 # Indefinite Madness
-*Source: Dungeon Master's Guide p. 259. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+*Source: Dungeon Master's Guide p. 259. Available in the SRD* 
 
 **Indefinite Madness**
 
@@ -47,6 +45,24 @@ world: Both
 | 96-100 | "I've discovered that I really like killing people." |
 ^indefinite-madness
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Indefinite madness is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -55,20 +71,30 @@ Indefinite madness is a undersea element of the setting, known for bioluminescen
 
 Legends speak of indefinite madness as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around indefinite madness.
 
-## Adventure Hooks
-
-- A rumor ties indefinite madness to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at indefinite madness to avert a public scandal.
-- A map overlay reveals a hidden approach to indefinite madness active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

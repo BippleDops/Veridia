@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.692947+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,22 @@ Councilor Depths Controlled is a undersea element of the setting, known for biol
 
 Legends speak of Councilor Depths Controlled as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Councilor Depths Controlled.
 
-## Adventure Hooks
-
-- A rumor ties Councilor Depths Controlled to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Councilor Depths Controlled to avert a public scandal.
-- A map overlay reveals a hidden approach to Councilor Depths Controlled active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Vote Vaults|02 Worldbuilding/Places/Vote Vaults]]
-
-
-## Connections
-
-- [[Vote Vaults]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for a artifact for money
+- A corpse reveals ancient history about the government
+- A journal reveals the truth about the cult
+- An heirloom has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

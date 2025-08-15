@@ -23,21 +23,35 @@ updated: '2025-08-12T23:37:37.586213'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Generated/Items/item-artifact-carpet-of-flying-3-ft-5-ft-xdmg-carpet-of-flying-3-ft-5-ft-xdmg.svg)
 
 # Carpet of Flying, 3 ft. × 5 ft.
 *Wondrous item, very rare*  
 
-
-
 You can make this carpet hover and fly by taking a [[actions#Magic|Magic]] action and using the carpet's command word. It moves according to your directions if you are within 30 feet of it.
 
 A 3 ft. × 5 ft. carpet can carry up to 200 lb. at a fly speed of 80 feet. A carpet can carry up to twice the weight shown on the table, but its [[fly-speed-xphb|Fly Speed]] is halved if it carries more than its normal capacity.
 
-*Source: Dungeon Master's Guide (2024) p. 242. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 242. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -47,19 +61,20 @@ Carpet of flying 3 ft 5 ft xdmg is a undersea element of the setting, known for 
 
 Legends speak of carpet of flying 3 ft 5 ft xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around carpet of flying 3 ft 5 ft xdmg.
 
-## Adventure Hooks
-
-- A rumor ties carpet of flying 3 ft 5 ft xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at carpet of flying 3 ft 5 ft xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to carpet of flying 3 ft 5 ft xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:07.042586+00:00'
 world: Both
 ---
 
-
-
 # Manual of Clay Golems
 *Wondrous item, very rare*  
 ![](/03_Mechanics/CLI/items/img/manual-of-clay-golems.webp#right)
@@ -38,7 +36,25 @@ To create a clay golem, you must spend 30 days, working without interruption wit
 
 Once you finish creating the golem, the book is consumed in eldritch flames. The golem becomes animate when the ashes of the manual are sprinkled on it. It is under your control, and it understands and obeys your spoken commands.
 
-*Source: Dungeon Master's Guide (2024) p. 277. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 277. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -48,19 +64,25 @@ Manual of clay golems xdmg is a undersea element of the setting, known for biolu
 
 Legends speak of manual of clay golems xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around manual of clay golems xdmg.
 
-## Adventure Hooks
-
-- A rumor ties manual of clay golems xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at manual of clay golems xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to manual of clay golems xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

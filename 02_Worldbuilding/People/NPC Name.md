@@ -1,4 +1,5 @@
 ---
+
 title: NPC Name
 type: npc
 tags:
@@ -7,6 +8,7 @@ tags:
 - npc
 - character
 - active
+- conspiracy
 created: 2025-08-14
 modified: '2025-08-14'
 status: placeholder
@@ -14,12 +16,80 @@ race: Unknown
 class: Unknown
 location: Unknown
 updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
 
 
 # NPC Name
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
 
 ## Description
 
@@ -28,27 +98,6 @@ updated: 2025-08-14
 ## Details
 
 *[To be filled in]*
-
-
-
-## Relationship Web
-
-- [[04_Resources_Assets_Locations_location-city-the-drowned-embassy-the-drowned-embassy.svg]]: *family member*
-- [[Underground Testing Facility]]: *bitter rival*
-
-## Connections
-
-### Referenced In
-- [[07_Templates/Location_Template]]
-- [[07_Templates/Location_Template]]
-- [[07_Templates/Quest_Template]]
-- [[Location_Template]]
-- [[01_Adventures/Seven_Shards_Campaign/Session_19]]
-- [[01_Adventures/Seven_Shards_Campaign/Session_19]]
-- [[01_Adventures/Seven_Shards_Campaign/Session_09]]
-- [[01_Adventures/Seven_Shards_Campaign/Session_09]]
-- [[01_Adventures/Seven_Shards_Campaign/Session_18]]
-- [[01_Adventures/Seven_Shards_Campaign/Session_18]]
 
 ## Notes
 
@@ -69,7 +118,6 @@ NPC Name presents a distinctive figure. Their bearing suggests both competence a
 - **Typical Attire**: Professional garments suited to their role
 - **Mannerisms**: [Describe habits and gestures]
 
-
 ## Personality
 
 **Traits**: Clever, loyal, honest
@@ -80,7 +128,6 @@ NPC Name presents a distinctive figure. Their bearing suggests both competence a
 
 **Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
 
-
 ## Background
 
 NPC Name's path to their current position involved:
@@ -89,48 +136,6 @@ NPC Name's path to their current position involved:
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-## Relationships
-
-### Allies
-- Professional colleagues and supporters
-- Political or business connections
-
-### Rivals
-- Competitors in their field
-- Ideological opponents
-
-### Neutral Parties
-- Those who could be swayed either way
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
 
 ## Motivations
 
@@ -141,7 +146,6 @@ NPC Name's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
 ## Secrets
 
 NPC Name harbors secrets that could change everything:
@@ -149,9 +153,6 @@ NPC Name harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Divine mission
-
-
-
 
 ## Voice & Mannerisms
 
@@ -170,7 +171,6 @@ NPC Name is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
 ## Plot Hooks
 
 1. **The Request**: NPC Name needs assistance with a delicate matter
@@ -179,7 +179,6 @@ NPC Name is currently engaged in:
 4. **The Alliance**: Opportunity to work with or against NPC Name
 5. **The Crisis**: NPC Name is caught in a situation requiring intervention
 
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -187,9 +186,6 @@ NPC Name is currently engaged in:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
-
 
 ## Statistics (D&D 5e)
 
@@ -213,14 +209,21 @@ languages: Common
 cr: 1/4
 ```
 
-## DM Notes
 
-### Usage Tips
-- NPC Name works best as a recurring NPC
-- Can serve as quest giver, information source, or obstacle
-- Personality should be consistent but can evolve
+## Economic Structure
 
-### Scaling
-- Adjust capabilities to party level
-- Influence can grow or wane with story
-- Secrets can be revealed gradually
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

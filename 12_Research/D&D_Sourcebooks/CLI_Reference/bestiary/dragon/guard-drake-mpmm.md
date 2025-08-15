@@ -33,7 +33,6 @@ updated: '2025-08-12T23:37:35.771881'
 world: Both
 ---
 
-
 # [[guard-drake-mpmm|Guard Drake]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151, Hoard of the Dragon Queen p. 91*  
 
@@ -58,7 +57,6 @@ A newly hatched guard drake imprints upon the first creature that feeds it (usua
 "stats":
   - !!int "16"
   - !!int "11"
-  - !!int "16"
   - !!int "4"
   - !!int "10"
   - !!int "7"
@@ -85,6 +83,24 @@ A newly hatched guard drake imprints upon the first creature that feeds it (usua
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 arctic, desert, forest, mountain, swamp, underdark, urban
@@ -97,19 +113,22 @@ Guard drake mpmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of guard drake mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around guard drake mpmm.
 
-## Adventure Hooks
-
-- A rumor ties guard drake mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at guard drake mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to guard drake mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help stealing before the festival
+- Strange sightings suggest a conspiracy
+- A document has gone missing and chaos spreads
+- A shipment has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

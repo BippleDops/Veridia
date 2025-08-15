@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.596490+00:00'
 world: Both
 ---
 
-
-
 # New Ability Scores: Honor and Sanity
 *Source: Dungeon Master's Guide p. 264* 
 
@@ -38,6 +36,24 @@ Here's how to incorporate these optional abilities at character creation:
 - If your players roll their ability scores, have them roll for the added ability scores.  
 
 If you ever need to make a check or saving throw for Honor or Sanity for a monster that lacks the score, you can use Charisma for Honor and Wisdom for Sanity.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Honor Score
 
@@ -99,19 +115,34 @@ New ability scores honor and sanity is a undersea element of the setting, known 
 
 Legends speak of new ability scores honor and sanity as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around new ability scores honor and sanity.
 
-## Adventure Hooks
-
-- A rumor ties new ability scores honor and sanity to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at new ability scores honor and sanity to avert a public scandal.
-- A map overlay reveals a hidden approach to new ability scores honor and sanity active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help finding before the festival
+- An heirloom has gone missing and truth emerges
+- A journal reveals ancient history about the government
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

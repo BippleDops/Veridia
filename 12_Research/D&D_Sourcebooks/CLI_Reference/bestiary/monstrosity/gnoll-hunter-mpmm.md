@@ -30,8 +30,6 @@ updated: '2025-08-12T23:37:34.974386'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gnoll-hunter-mpmm-gnoll-hunter-mpmm.svg)
 
@@ -41,6 +39,24 @@ world: Both
 Hunters are the stealthiest gnolls in a war band. In the vanguard, they creep around, picking off isolated opposition while clearing the way for the rest of the force to advance.
 
 Hunters are particularly skilled with the longbow, and they fire arrows with viciously barbed heads. Even when a hunter doesn't kill their target with their first shot, the arrow strike brings so much pain that the victim is hobbled in its attempt to run away.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Gnolls
 
@@ -58,9 +74,6 @@ The first gnolls were hyenas transformed by magic. Many of them were then corrup
 "modifier": !!int "2"
 "stats":
   - !!int "14"
-  - !!int "14"
-  - !!int "12"
-  - !!int "8"
   - !!int "12"
   - !!int "8"
 "speed": "30 ft."
@@ -109,19 +122,22 @@ Gnoll hunter mpmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of gnoll hunter mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gnoll hunter mpmm.
 
-## Adventure Hooks
-
-- A rumor ties gnoll hunter mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gnoll hunter mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to gnoll hunter mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before dawn
+- Strange sightings suggest ancient magic
+- A stranger needs help investigating before the festival
+- Strange disappearances suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

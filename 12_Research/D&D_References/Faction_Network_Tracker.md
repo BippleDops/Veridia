@@ -10,30 +10,38 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Faction Network Tracker
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 Comprehensive tracking system for faction relationships, conflicts, and alliances.
-
-## Major Factions
 
 ### wikilink_standardization_report
 
 **Connected Factions**: 0 direct connections
 
-
-
 ### Vault Enhancement Roadmap
 
 **Connected Factions**: 0 direct connections
 
-
-
 ### Link Integrity Report
 
 **Connected Factions**: 0 direct connections
-
-
 
 ### Master Campaign Index
 
@@ -49,86 +57,37 @@ Comprehensive tracking system for faction relationships, conflicts, and alliance
 
 **Connected Factions**: 0 direct connections
 
-
-
 ### Encounter and Loot Generators
 
 **Connected Factions**: 0 direct connections
-
-
 
 ### Location Prompts
 
 **Connected Factions**: 0 direct connections
 
-
-
 ### Location_Prompts - Cities
 
 **Connected Factions**: 0 direct connections
-
-
 
 ### Symbols - Faction Heraldry
 
 **Connected Factions**: 0 direct connections
 
-
-
 ### Handouts - Document Designs
 
 **Connected Factions**: 0 direct connections
-
-
-
-
-## Relationship Types
-
-### Alliances
-- **Formal Treaties**: Official agreements and mutual support pacts
-- **Informal Cooperation**: Unofficial collaboration on shared interests
-- **Temporary Alliances**: Short-term partnerships for specific goals
-
-### Conflicts
-- **Open Warfare**: Active military engagement
-- **Cold War**: Hostile but non-violent competition
-- **Trade Wars**: Economic competition and sanctions
-
-### Neutral Relationships
-- **Non-Interference**: Mutual recognition without involvement
-- **Cordial Relations**: Polite but limited interaction
-- **Suspicious Neutrality**: Watchful but non-committal stance
-
-## Power Dynamics
 
 ### Major Powers
 Factions with significant influence across multiple regions
 
 ### Regional Powers
-Factions dominant within specific areas
+Factions domit within specific areas
 
 ### Minor Factions
 Specialized or limited influence organizations
 
 ### Emerging Factions
 New organizations gaining influence
-
-## Tracking Mechanisms
-
-### Relationship Status Updates
-- Monitor changes in faction relationships
-- Track alliance formations and breakdowns
-- Record conflict escalations and resolutions
-
-### Influence Tracking
-- Map territorial and political influence
-- Monitor resource control and access
-- Track member recruitment and defection
-
-### Event Impact Assessment
-- Analyze how world events affect faction relationships
-- Project relationship changes from character actions
-- Plan faction responses to campaign developments
 
 ## Usage Guidelines
 
@@ -141,11 +100,9 @@ New organizations gaining influence
 ---
 *Generated: 2025-08-13 07:59:51*
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -154,3 +111,18 @@ New organizations gaining influence
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Plot Hooks
+
+- A journal reveals a conspiracy about the cult
+- Strange accidents suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

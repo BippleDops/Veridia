@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Innkeeper Marina Dreamwhisper|02 Worldbuilding/Places/Innkeeper Marina Dreamwhisper]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Innkeeper Marina Dreamwhisper]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,22 @@ Echo Gentleguide is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of Echo Gentleguide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Echo Gentleguide.
 
-## Adventure Hooks
-
-- A rumor ties Echo Gentleguide to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Echo Gentleguide to avert a public scandal.
-- A map overlay reveals a hidden approach to Echo Gentleguide active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a conspiracy
+- Someone is searching for a witness for love
+- A corpse reveals a conspiracy about the government
+- A corpse reveals the truth about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

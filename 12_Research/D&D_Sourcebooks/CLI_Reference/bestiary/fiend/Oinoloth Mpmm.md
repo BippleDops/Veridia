@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.810426+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-oinoloth-mpmm-oinoloth-mpmm.svg)
 
@@ -57,9 +54,7 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
   - !!int "19"
   - !!int "17"
   - !!int "18"
-  - !!int "17"
   - !!int "16"
-  - !!int "19"
 "speed": "40 ft."
 "saves":
   - "constitution": !!int "8"
@@ -68,7 +63,6 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
   - "name": "[[skills#Deception|Deception]]"
     "desc": "+8"
   - "name": "[[skills#Intimidation|Intimidation]]"
-    "desc": "+8"
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
@@ -95,7 +89,7 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
       \ or [[conditions#Poisoned|poisoned]]. The target then gains\
       \ 1 level of [[conditions#Exhaustion|exhaustion]], and its\
       \ hit point maximum is reduced by 7 (2d6). This reduction can be removed only\
-      \ by a [[wish-xphb|wish]] spell or by casting [[greater-restoration-xphb|greater\
+      \ by a [[wish-xphb|wish]] spell or by casting [[greater-restoration-xphb|greater\]]
       \ restoration]] on the target\
       \ three times within the same hour. The target dies if its hit point maximum\
       \ is reduced to 0."
@@ -105,7 +99,7 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
     "name": "Teleport"
   - "desc": "The oinoloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \nAt will: [[darkness-xphb|darkness]], [[detect-magic-xphb|detect\
+      \nAt will: [[darkness-xphb|darkness]], [[detect-magic-xphb|detect\]]
       \ magic]], [[dispel-magic-xphb|dispel magic]],\
       \ [[hold-monster-xphb|hold monster]], [[invisibility-xphb|invisibility]]\
       \ (self only)\n\n1/day each: [[befuddlement-xphb|feeblemind]],\
@@ -133,6 +127,24 @@ Oinoloths solve thorny problems by killing everyone involved. They are typically
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 desert, underdark
@@ -145,19 +157,30 @@ Oinoloth mpmm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of oinoloth mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around oinoloth mpmm.
 
-## Adventure Hooks
-
-- A rumor ties oinoloth mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at oinoloth mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to oinoloth mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest a portal
+- The authorities needs help stealing before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

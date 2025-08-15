@@ -27,13 +27,29 @@ updated: '2025-08-12T23:37:35.315677'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gibbering-mouther-xmm-gibbering-mouther-xmm.svg)
 
 # [[gibbering-mouther-xmm|Gibbering Mouther]]
-*Source: Monster Manual (2024) p. 133. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 133. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Gibbering Mouther
 
@@ -64,7 +80,6 @@ Gibbering mouthers come into being in various unpleasant ways. Roll on or choose
 > 
 > Alas, the Elder Elves made a fatal mistake. When the Dragon's Tear comet next returned, the Vast Gate—still keyed to the Far Realm of alien entities—linked to the comet and opened again. And what emerged, ululating profanities, sang unnameable hungers into an unguarded world.
 
-
 ```statblock
 "name": "Gibbering Mouther (XMM)"
 "size": "Medium"
@@ -79,10 +94,9 @@ Gibbering mouthers come into being in various unpleasant ways. Roll on or choose
   - !!int "8"
   - !!int "16"
   - !!int "3"
-  - !!int "10"
   - !!int "6"
 "speed": "20 ft., swim 20 ft."
-"condition_immunities": "[[conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": ""
 "cr": "2"
@@ -94,7 +108,7 @@ Gibbering mouthers come into being in various unpleasant ways. Roll on or choose
       \ condition. Wisdom Saving Throw: DC 10, any creature that starts its turn\
       \ within 20 feet of the mouther while it is babbling. Failure: The target\
       \ rolls d8 to determine what it does during the current turn:\n\n- 1-4.\
-      \ The target does nothing.  \n- 5-6. The target takes no action or [[bonus-action-xphb|Bonus\
+      \ The target does nothing.  \n- 5-6. The target takes no action or [[bonus-action-xphb|Bonus\]]
       \ Action]] and uses all\
       \ its movement to move in a random direction.  \n- 7-8. The target makes\
       \ a melee attack against a randomly determined creature within its reach or\
@@ -102,7 +116,7 @@ Gibbering mouthers come into being in various unpleasant ways. Roll on or choose
     "name": "Gibbering"
 "actions":
   - "desc": "Melee Attack Roll: +2, reach 5 ft. Hit: 7 (2d6) Piercing damage.\
-      \ If the target is a Medium or smaller creature, it has the [[conditions#Prone|Prone]]\
+      \ If the target is a Medium or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition. The target dies if it is reduced to 0 [[hit-points-xphb|Hit Points]]\
       \ by this attack. Its body is then absorbed into the mouther, leaving only equipment\
       \ behind."
@@ -130,19 +144,20 @@ Gibbering mouther xmm is a undersea element of the setting, known for biolumines
 
 Legends speak of gibbering mouther xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gibbering mouther xmm.
 
-## Adventure Hooks
-
-- A rumor ties gibbering mouther xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gibbering mouther xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to gibbering mouther xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

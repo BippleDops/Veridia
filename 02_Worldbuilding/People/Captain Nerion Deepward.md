@@ -1,4 +1,5 @@
 ---
+
 title: Captain Nerion Deepward
 type: Npc
 tags:
@@ -10,6 +11,7 @@ tags:
 - active
 - complete
 - status/in-progress
+- bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +20,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.515452+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +30,63 @@ world: Aquabyssos
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-nerion-deepward-captain-nerion-deepward.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward manipulation
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward manipulation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
 
 ## Player-Facing Summary
 
@@ -67,14 +95,6 @@ Captain Nerion Deepward is a undersea element of the setting, known for biolumin
 ## Lore Details
 
 Legends speak of Captain Nerion Deepward as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Nerion Deepward.
-
-## Adventure Hooks
-
-- A rumor ties Captain Nerion Deepward to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Captain Nerion Deepward to avert a public scandal.
-- A map overlay reveals a hidden approach to Captain Nerion Deepward active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +105,6 @@ Captain Nerion Deepward's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Achieving fame
@@ -124,8 +114,6 @@ Captain Nerion Deepward's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Captain Nerion Deepward harbors secrets that could change everything:
@@ -133,10 +121,6 @@ Captain Nerion Deepward harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Dark patron
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +139,6 @@ Captain Nerion Deepward is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Captain Nerion Deepward needs assistance with a delicate matter
@@ -164,8 +146,6 @@ Captain Nerion Deepward is currently engaged in:
 3. **The Secret**: Information about Captain Nerion Deepward's past surfaces
 4. **The Alliance**: Opportunity to work with or against Captain Nerion Deepward
 5. **The Crisis**: Captain Nerion Deepward is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -178,21 +158,3 @@ Captain Nerion Deepward is currently engaged in:
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Captain Nerion Deepward]]
-
-<!-- enriched: true -->
-
-
-
-
-## Relationship Web
-
-- [[04_Resources_Assets_Locations_location-city-surge-mixmaster-v1-surge-mixmaster.png]]: *debt holder*
-- [[04_Resources_Assets_Symbols_symbol-heraldry-foreman-prime-salvage-maste-foreman-prime-salvage-maste.svg]]: *secret ally*
-
-## Connections
-
-- [[The Original Palace]]

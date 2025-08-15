@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.353117+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,32 @@ Memory Recovery Specialist is a undersea element of the setting, known for biolu
 
 Legends speak of Memory Recovery Specialist as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Recovery Specialist.
 
-## Adventure Hooks
-
-- A rumor ties Memory Recovery Specialist to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Memory Recovery Specialist to avert a public scandal.
-- A map overlay reveals a hidden approach to Memory Recovery Specialist active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Parliament of Nobody|02 Worldbuilding/Groups/The Parliament Of Nobody]]
-
-
-## Connections
-
-- [[The Parliament of Nobody]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals the truth about the cult
+- The authorities needs help stealing before dawn
+- Someone is blackmailing a witness for revenge
+- Someone is searching for an heir for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

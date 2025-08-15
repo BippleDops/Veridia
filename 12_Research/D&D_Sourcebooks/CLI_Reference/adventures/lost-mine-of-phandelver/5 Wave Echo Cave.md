@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:05.017701+00:00'
 world: Both
 ---
 
-
-
 # Wave Echo Cave
 *Source: Lost Mine of Phandelver, p. 42* 
 
@@ -34,6 +32,24 @@ In the centuries since, countless prospectors and adventurers have searched for 
 The drow is searching for the Forge of Spells, where the human mages of old Phandalin enchanted dwarven weapons and gnome gadgets. However, Nezznar's exploration has been hindered by the restless undead and dangerous monsters that lurk in Wave Echo Cave, forcing him to proceed with great caution.
 
 The adventurers now have the chance to aid Gundren, avenge his kin, and put a stop to the nefarious schemes of the Black Spider. And of course, the hoard of powerful magic rumored to be hidden in the mines is a rich prize.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Character Level
 
@@ -111,7 +127,6 @@ Whether the characters follow Gundren's map or receive directions to Wave Echo C
 > [!readaloud] 
 > 
 > The entrance tunnel leads into a large cavern supported by a natural pillar of rock and containing three stalagmites. In the western part of the cave, behind the column of rock, are three bedrolls and a heap of ordinary supplies—sacks of flour, bags of salt, casks of salted meat, lanterns, flasks of lamp oil, pickaxes, shovels, and other gear. Amid the supplies, you see the body of a dwarf miner, dead for at least a week.
-> 
 > The northeastern section of the cavern has collapsed, forming a ten-foot-wide, twenty-foot-deep pit. A sturdy hemp rope is tied off around a nearby stalagmite and dangles down the side of the pit, at the bottom of which is a rough-hewn tunnel heading northwest and east.
 ^159
 
@@ -121,7 +136,7 @@ The dwarves' supplies are potentially useful, but not particularly valuable.
 
 ### Open Pit
 
-Climbing up or down the wall of the pit without a rope requires a successful DC 15 Strength ([[skills#Athletics|Athletics]]) check. A character who fails the check by 5 or more falls and takes `d6` bludgeoning damage per 10 feet fallen, landing [[conditions#Prone|prone]] at the bottom. The tunnel at the bottom of the pit leads northwest toward 2 and east toward 3.
+Climbing up or down the wall of the pit without a rope requires a successful DC 15 Strength ([[skills#Athletics|Athletics]]) check. A character who fails the check by 5 or more falls and takes `d6` bludgeoning damage per 10 feet fallen, landing [[conditions#prone|prone]] at the bottom. The tunnel at the bottom of the pit leads northwest toward 2 and east toward 3.
 
 ### Treasure
 
@@ -131,8 +146,6 @@ Tharden wears a pair of [[boots-of-striding-and-springing-xdmg|boots of striding
 
 This maze of passages is an old section of Wave Echo Cave's original mine site.
 
-> [!readaloud] 
-> 
 > This area consists of numerous intersecting passages. The ceilings here are only six feet high, and several of the passages end in partially excavated rock faces.
 ^15d
 
@@ -142,8 +155,6 @@ The dead-end passages are places where the miners gave up and decided to move on
 
 The tunnel that runs south was the original entrance to Wave Echo Cave, but it was buried by the destruction that wracked the mines centuries ago. A pitched battle was fought here when the orcs stormed the mines. The dead still lie where they fell.
 
-> [!readaloud] 
-> 
 > Many tunnels intersect at this natural, thirty-foot-high cavern. The walls are carved with simple reliefs showing dwarf and gnome miners hard at work. Below them, nearly two dozen skeletons in rusted scraps of armor are scattered across the cavern floor. Some are dwarf skeletons, while others are orc remains. Half a dozen large brass lanterns stand in niches or on ledges around the cavern, but none are lit.
 ^15f
 
@@ -155,8 +166,6 @@ The lanterns and the carvings of miners at work were meant as a welcome to newco
 
 This guardroom once protected the nearby entrance to the mine, but it was overrun early in the fighting when the orcs attacked.
 
-> [!readaloud] 
-> 
 > Splintered stone benches and heaps of rubble from a partially collapsed ceiling fill this room. Amid ruined stone bunks and toppled weapon racks are the bones of several dwarves and orcs.
 ^161
 
@@ -166,8 +175,6 @@ In the round after any living creature enters this chamber, the bones begin to s
 
 The mine's assayers worked here, weighing and assessing ore samples and paying the minors for their labor.
 
-> [!readaloud] 
-> 
 > This chamber was once an office or storeroom of some kind. A large stone counter bisects the room, set with three dusty balance scales made of iron. Cubbyholes carved into the north wall are stuffed with dusty paper scraps. Several long-dead corpses—gnomes and orcs by their look—are sprawled across the floor.
 ^163
 
@@ -181,8 +188,6 @@ Behind the counter sits a locked iron strongbox, requiring [[thieves-tools-xphb|
 
 This was a miners' barracks, where the skilled delvers working in Wave Echo Cave rested between shifts. Any character who listens at the partially open door hears faint crunching and splintering sounds with a successful DC 10 Wisdom ([[skills#Perception|Perception]]) check.
 
-> [!readaloud] 
-> 
 > Old stone bunks in orderly rows line the walls of this chamber, and a corroded iron brazier full of old coals stands near the middle of the room. The bones of a half dozen dwarves and orcs lie strewn about, clad in scraps of armor. Three gray, hunched figures squat among the remains, pawing at the scraps and gnawing on the bones.
 ^166
 
@@ -192,8 +197,6 @@ Three [[ghoul-xmm|ghouls]] from the pack in 9 are here, cracking and gnawing on 
 
 Despite the destruction all around, the northern part of this storage area has survived intact.
 
-> [!readaloud] 
-> 
 > The eastern wall of this chamber has collapsed into a mass of rubble. To the north, a door stands ajar, leading to a good-sized storeroom. Dusty kegs are tucked neatly against the walls, all of them cracked and split open from age.
 ^168
 
@@ -205,8 +208,6 @@ The contents of the kegs have long evaporated.
 
 This cave has hindered Nezznar's explorations. The drow suspects that the mine's magic workshops are close by, but he's reluctant to risk dealing with the monsters here.
 
-> [!readaloud] 
-> 
 > Dense carpets of weird fungi cover large sections of the floor in this cavern. The growth includes puffballs a foot across, weird shelf fungus growing on stalagmites, and large stalks and caps a good five feet tall. Some of the puffballs glow with an eerie green phosphorescence.
 ^16a
 
@@ -220,8 +221,6 @@ Whenever a creature attempts to cross the cavern, the carpets of fungi that cove
 
 This cave once served as the banquet room, meeting area, and mead hall for the miners.
 
-> [!readaloud] 
-> 
 > Steep escarpments divide this large cavern into three sections—high ledges at either end, and a lower section in the middle. Carved stone stairs climb up to the ledges. Two large tables stand in the middle section, along with a pair of old braziers. A smaller table stands on the eastern ledge. The skeletal remains of dozens of dead warriors—dwarves, gnomes, orcs, and ogres—attest to the fierceness of the fighting that took place here long ago.
 ^16d
 
@@ -229,16 +228,13 @@ Seven [[ghoul-xmm|ghouls]] lurk in the shadows on the western ledge.
 
 They notice any light or noise elsewhere in the cave and quickly bound down to attack. The undead are hungry and fight until destroyed.
 
-The escarpments are 10 feet high and require a successful DC 12 Strength ([[skills#Athletics|Athletics]]) check to climb. A creature that falls or is knocked from the top of a ledge takes `d6` bludgeoning damage and lands [[conditions#Prone|prone]].
+The escarpments are 10 feet high and require a successful DC 12 Strength ([[skills#Athletics|Athletics]]) check to climb. A creature that falls or is knocked from the top of a ledge takes `d6` bludgeoning damage and lands [[conditions#prone|prone]].
 
 ## 10. Dark Pool
 
 Treasure is concealed in this water-filled cave.
 
-> [!readaloud] 
-> 
 > A still pool fills much of this cavern. The water is dark, revealing little of what might lie within. The shore of the pool consists of a thin layer of broken shells from strange, pale mussels, and a fishy odor hangs in the air.
-> 
 > A passage leads south from this area, and a set of steps climbs up to the east. A sluggish stream flows out of the cave to the northeast.
 ^16f
 
@@ -254,15 +250,11 @@ The skeleton wears two platinum rings (75 gp each) and clutches a [[wand-of-magi
 
 The eastern door is barricaded from inside the room and requires a successful DC 20 Strength check to force open. A character who listens at either door and succeeds on a DC 10 Wisdom ([[skills#Perception|Perception]]) check hears gruff voices speaking Goblin and talking about how hungry they are.
 
-> [!readaloud] 
-> 
 > Old stone bunks line the walls of this barracks, which is lit and heated by a glowing iron brazier in the middle of the room.
 ^172
 
 If the party enters from the west, add:
 
-> [!readaloud] 
-> 
 > Across the room is another door, this one blocked by a barricade made from the remains of a wooden table.
 ^173
 
@@ -278,11 +270,8 @@ The largest bugbear carries a pouch containing 15 cp. 13ep, and a [[potion-of-vi
 
 Like the fungi cavern at 8, this chamber poses a serious obstacle that prevents Nezznar from reaching his objective—the Forge of Spells (15). The drow is still formulating a plan to get past the undead guardians in this area.
 
-> [!readaloud] 
-> 
 > A blast furnace and a mechanical bellows powered by a waterwheel dominate this large chamber. The furnace is cold and dark, but heaps of coal are piled nearby, along with carts full of unrefined ore. The waterwheel sits in a ten-foot-wide channel cut into the floor of the room, but the channel is dry. Passages exit to the west, south, and east. The empty channel exits to the north and east.
-> 
-> More than a dozen withered corpses are scattered around the room. These slain dwarves and orcs are still wearing the remnants of their armor. Floating above them is a skull engulfed in green flame.
+> More than a dozen withered corpses are scattered around the room. These slain dwarves and orcs are still wearing the remts of their armor. Floating above them is a skull engulfed in green flame.
 ^176
 
 Eight of the fallen dwarf warriors are [[zombie-xmm|zombies]]. They rise and pursue any living creatures that enter the room, but they do not pursue creatures outside this area for more than 1 round. In addition, a far more intelligent undead guards this area: a [[flameskull-xmm|flameskull]]. This creature was a servant of the human wizards allied with the Phandelver dwarves and gnomes, and it continues to act on ancient instructions to prevent intruders from passing through.
@@ -295,12 +284,8 @@ The channel's bottom is 5 feet below floor level, and no ability check is requir
 
 The structural damage and the skeletal remains in this area are evidence of the destructive spell battle fought here centuries ago when the arcs and their mercenary wizards stormed the mines.
 
-> [!readaloud] 
-> 
 > Glittering minerals in the ceiling of this large cavern catch the light and send it back to create the impression of a starry night sky. Dozens of skeletons—many crushed under fallen debris—are scattered across the floor.
-> 
 > The cave is large enough that it contains two freestanding structures. Each of these stone buildings is proportioned for human use, as opposed to the dwarf-sized doorways and furnishings you've seen elsewhere in the mines. Both structures have battered and blackened masonry walls, their double doors cracked and scorched. The cavern is divided by an escarpment, into which a flight of stairs has been cut.
-> 
 > Passages lead out of this area to the north, south, and west.
 ^178
 
@@ -312,8 +297,6 @@ Any character proficient in [[skills#Arcana|Arcana]] can sense a subtle aura of 
 
 The doors leading into this area are cracked, their iron hinges partially melted. Wrenching or smashing open the doors requires a successful DC 15 Strength check.
 
-> [!readaloud] 
-> 
 > Dust, ash, walls blackened by fire, and heaps of debris beneath the sagging ceiling show that this room was damaged by a destructive blast. The furnishings—tables, chairs, bookshelves, beds—are charred or splintered, but otherwise well preserved. A scorched iron chest stands near the foot of one of the beds.
 ^17a
 
@@ -343,10 +326,7 @@ A handful of magically preserved tomes remain on the shelves. Most are just hist
 
 Here is where the wizards allied with the dwarves and gnomes of the Phandelver's Pact channeled the magic of these caverns to enchant dwarven arms and gnome gadgets. The northernmost door is scorched and cracked, its iron hinges partially melted; forcing it open requires a successful DC 15 Strength check. The western double doors are just as damaged but stand slightly ajar.
 
-> [!readaloud] 
-> 
 > This large workshop was badly damaged by the ancient spell battle that laid waste to the mine. Worktables taking up two corners of the room are scorched, and the plaster has been burned off the masonry walls. In the middle of the room, a stone pedestal holds a small brazier in which an eerie green flame dances and crackles. The brazier and its pedestal appear to have been untouched by the forces that destroyed this area.
-> 
 > Behind the brazier of green flame floats a spherical creature measuring roughly four feet in diameter. Four eyestalks protrude from its central mass, two on each side. In the center of the body is a large eye that stares at you. "Hello," says a thick, burbling voice inside your head.
 ^17e
 
@@ -372,8 +352,6 @@ On the worktable in the southeast corner of the room are the last items the spec
 
 The sound of pounding surf that gives Wave Echo Cave its name can be traced to this water-filled cavern.
 
-> [!readaloud] 
-> 
 > A narrow ledge overlooks a large cavern that houses a surging, seething body of water. The rhythmic booming heard throughout the mines is louder here. At regular intervals, a fresh surge of water funnels into this chamber and slams against the wall just below the ledge. The echo suggests that this cave might be one arm of a much larger cavern to the northeast.
 ^183
 
@@ -383,8 +361,6 @@ The ledge that hugs the south wall is 15 feet above water level. However, when w
 
 The stream flowing from 10 to 18 used to continue through this low passage, eventually emptying out into 16.
 
-> [!readaloud] 
-> 
 > This passageway is barely four feet high and is obstructed by rounded boulders and pebbles. It might have been a streambed, though no water flows here now.
 ^185
 
@@ -394,8 +370,6 @@ The dwarves diverted the stream into the channel leading to 12 to drive the wate
 
 Nezznar's servants occupy this cavern, guarding against undead incursions and carefully sifting through the rubble. The Black Spider's divinations suggest that some valuable treasure is hidden at the bottom of the rift that was created when this area was destroyed.
 
-> [!readaloud] 
-> 
 > A wide rift fills the eastern half of this cavern. A stream pours out of the west wall, then tumbles down into the rift and flows out again to the north. Several ropes are secured to iron stakes along on the western edge of the rift, leading down to the chasm floor.
 ^187
 
@@ -403,7 +377,7 @@ Three [[bugbear-warrior-xmm|bugbears]] are stationed here. Two of them are clear
 
 ### Rift
 
-The rift is 20 feet deep. Climbing up or down without using a rope requires a successful DC 10 Strength ([[skills#Athletics|Athletics]]) check. A creature that fails the check by 5 or more falls and takes `d6` bludgeoning damage per 10 feet fallen, landing [[conditions#Prone|prone]] at the bottom.
+The rift is 20 feet deep. Climbing up or down without using a rope requires a successful DC 10 Strength ([[skills#Athletics|Athletics]]) check. A creature that fails the check by 5 or more falls and takes `d6` bludgeoning damage per 10 feet fallen, landing [[conditions#prone|prone]] at the bottom.
 
 ### Developments
 
@@ -417,17 +391,12 @@ Nezznar's divinations are accurate. Buried under heavy rubble at the bottom of t
 
 Nezznar uses this room as his headquarters while he explores the mines and searches for the Forge of Spells.
 
-> [!readaloud] 
-> 
 > Six cracked marble pillars line the walls of this hall, at the north end of which stands a nine-foot-tall statue of a dwarf seated on a throne, a mighty stone warhammer across his lap. Large emeralds gleam in the statue's eyes.
-> 
 > The dust and debris covering the floor has been swept to one side, and a campsite of sorts now spreads in front of the statue. Half a dozen bedrolls and packs are neatly arranged around a rough-built fire pit. A wooden table stands on the west side of the room between two pillars.
 ^18c
 
 If the room's occupants are not aware of the characters as they enter, add the following:
 
-> [!readaloud] 
-> 
 > Two bugbears stand by the table, flanking a dark elf dressed in black leather armor and robes. He clutches a black staff with a carved spider at the top and frowns as he sees you. "It seems that I must deal with you myself. A pity it must end this way."
 ^18d
 
@@ -439,7 +408,7 @@ If the [[doppelganger-xmm|doppelganger]] from 18 retreated to this area, it assu
 
 The statue depicts Dumathoin, the dwarven god of mining. Any character who has proficiency in [[skills#Religion|Religion]] recognizes the deity. The statue is beautifully carved, and its emerald eyes appear extremely valuable. However, the jewels are clever fakes made of worthless glass, as close inspection and a successful DC 15 Intelligence ([[skills#Investigation|Investigation]]) check reveals. Nevertheless, a powerful spell protects them, and a [[detect-magic-xphb|detect magic]] spell reveals a strong aura of abjuration magic surrounding the statue.
 
-A character can climb the statue easily and pry a jewel loose with a successful DC 10 Strength check. However, if either eye is removed, the pillars that line the walls crack, triggering a ceiling collapse. Each creature in the room must make a DC 15 Dexterity saving throw, taking `4d10` bludgeoning damage from falling rubble and falling [[conditions#Prone|prone]] on a failure, or taking only half the damage on a success.
+A character can climb the statue easily and pry a jewel loose with a successful DC 10 Strength check. However, if either eye is removed, the pillars that line the walls crack, triggering a ceiling collapse. Each creature in the room must make a DC 15 Dexterity saving throw, taking `4d10` bludgeoning damage from falling rubble and falling [[conditions#prone|prone]] on a failure, or taking only half the damage on a success.
 
 ### Table
 
@@ -473,8 +442,6 @@ The door to this room is locked, requiring [[thieves-tools-xphb|thieves' tools]]
 
 Unless the characters are being stealthy, any activity at the door attracts the attention of Nezznar and his allies in 19, prompting the drow to send his giant spiders to investigate.
 
-> [!readaloud] 
-> 
 > Dusty draperies adorn the walls of this room, which also contains a bed and brazier. A badly disheveled dwarf lies bound and [[conditions#Unconscious|unconscious]] on the cold stone floor.
 ^195
 
@@ -506,20 +473,32 @@ By the end of the adventure, the characters should be 5th level. If your players
 
 Legends speak of 5 wave echo cave as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 5 wave echo cave.
 
-## Adventure Hooks
-
-- A rumor ties 5 wave echo cave to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 5 wave echo cave to avert a public scandal.
-- A map overlay reveals a hidden approach to 5 wave echo cave active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- A letter reveals ancient history about a local noble
+- An heirloom has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

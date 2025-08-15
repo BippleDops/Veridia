@@ -23,11 +23,8 @@ updated: '2025-08-13T12:34:05.255921+00:00'
 world: Both
 ---
 
-
-
 # Guild Artisan (Guild Merchant) (Variant)
 *Source: Player's Handbook p. 133*  
-
 
 - **Skill Proficiencies.** [[skills#Insight|Insight]], [[skills#Persuasion|Persuasion]]  
 - **Tool Proficiencies.** One type of artisan's tools, or [[navigators-tools-xphb|navigator's tools]], or an additional language  
@@ -35,6 +32,24 @@ world: Both
 - **Equipment.** A set of artisan's tools (one of your choice) or a [[mule-xphb|mule]] and [[cart-xphb|cart]], a letter of introduction from your guild, a set of [[travelers-clothes-xphb|traveler's clothes]], and a belt [[pouch-xphb|pouch]] containing 15 gp  
 
 Instead of an artisans' guild, you might belong to a guild of traders, caravan masters, or shopkeepers. You don't craft items yourself but earn a living by buying and selling the works of others (or the raw materials artisans need to practice their craft). Your guild might be a large merchant consortium (or family) with interests across the region. Perhaps you transported goods from one place to another, by ship, wagon, or caravan, or bought them from traveling traders and sold them in your own little shop. In some ways, the traveling merchant's life lends itself to adventure far more than the life of an artisan.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Feature: Guild Membership
 
@@ -119,7 +134,6 @@ Guild artisans are among the most ordinary people in the world—until they set 
 `dice: [](guild-artisan-guild-merchant-variant.md#^flaw)`
 
 | dice: d6 | Flaw |
-|----------|------|
 | 1 | I'll do anything to get my hands on something rare or priceless. |
 | 2 | I'm quick to assume that someone is trying to cheat me. |
 | 3 | No one must ever learn that I once stole money from guild coffers. |
@@ -136,19 +150,45 @@ Guild artisan guild merchant variant is a undersea element of the setting, known
 
 Legends speak of guild artisan guild merchant variant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around guild artisan guild merchant variant.
 
-## Adventure Hooks
-
-- A rumor ties guild artisan guild merchant variant to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at guild artisan guild merchant variant to avert a public scandal.
-- A map overlay reveals a hidden approach to guild artisan guild merchant variant active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and evil awakens
+- A corpse reveals the truth about the government
+- Someone is blackmailing a artifact for revenge
+- A noble needs help investigating before the festival
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

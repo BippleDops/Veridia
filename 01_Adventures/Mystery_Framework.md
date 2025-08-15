@@ -1,4 +1,5 @@
 ---
+
 title: Mystery Framework
 type: investigation
 tags:
@@ -7,11 +8,11 @@ tags:
 - investigation
 created: '2025-08-14'
 modified: '2025-08-14'
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
-# Mystery & Investigation Framework
 
-## Mystery Networks
 
 ### Mystery_241
 
@@ -234,11 +235,68 @@ modified: '2025-08-14'
 **Resources**: Underground contacts
 
 
-## Connections
+## 🔧 Deep Evaluation Improvements
 
-- See also: [[Central Index]]
-- Related: [[Power Structures]]
-- Connected to: [[World Events]]
+*20 targeted improvements identified*
+
+### Combat Improvements
+
+- Add encounter scaling table for parties of 3-6 players, levels 1-20
+
+### Rewards Improvements
+
+- Create treasure parcels for each major encounter
+
+### Structure Improvements
+
+- Add three-act structure with rising action
+
+### Choices Improvements
+
+- Add meaningful decision points with consequences
+
+### Roleplay Improvements
+
+- Include ethical challenges without clear answers
+
+### Accessibility Improvements
+
+- Include content warnings and safety tools
+- Include content warnings and safety tools
+
+### Spotlight Improvements
+
+- Include spotlight moment for each character class
+
+### Worldbuilding Improvements
+
+- Connect to three other adventures in the vault
+- Connect to three other adventures in the vault
+
+### Level_Range Improvements
+
+- Provide scaling for different level ranges
+- Provide scaling for different level ranges
+- Provide scaling for different level ranges
+
+### Soundtrack Improvements
+
+- Suggest music/ambiance for each scene
+- Suggest music/ambiance for each scene
+
+### Backup Improvements
+
+- Add 'What if players skip this?' contingency
+- Add 'What if players skip this?' contingency
+
+### Art Improvements
+
+- Add AI art prompts for key scenes
+
+### Session_Zero Improvements
+
+- Add session zero integration questions
+- Add session zero integration questions
 
 
 ## DM Notes
@@ -248,3 +306,20 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for revenge
+- Someone is protecting a witness for power
+
+## Moral Quandaries
+
+- The villain's family begs for mercy
+- Stealing medicine to save a plague victim
+- Choosing between two villages to save

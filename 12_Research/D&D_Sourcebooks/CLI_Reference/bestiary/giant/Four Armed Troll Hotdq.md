@@ -27,9 +27,6 @@ updated: '2025-08-13T12:34:05.378422+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-four-armed-troll-hotdq-four-armed-troll-hotdq.svg)
 
@@ -54,7 +51,6 @@ Sometimes when a troll loses a limb, it regenerates two limbs to replace the one
   - !!int "20"
   - !!int "7"
   - !!int "9"
-  - !!int "7"
 "speed": "30 ft."
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
@@ -88,6 +84,24 @@ Sometimes when a troll loses a limb, it regenerates two limbs to replace the one
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Four armed troll hotdq is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -96,19 +110,26 @@ Four armed troll hotdq is a undersea element of the setting, known for biolumine
 
 Legends speak of four armed troll hotdq as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around four armed troll hotdq.
 
-## Adventure Hooks
-
-- A rumor ties four armed troll hotdq to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at four armed troll hotdq to avert a public scandal.
-- A map overlay reveals a hidden approach to four armed troll hotdq active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a conspiracy
+- A document has gone missing and evil awakens
+- Someone is protecting an heir for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

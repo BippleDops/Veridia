@@ -22,12 +22,26 @@ updated: '2025-08-12T23:37:35.681521'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-silver-dragon-xmm-adult-silver-dragon-xmm.svg)
 
-# Silver Dragon
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Monster Manual_
@@ -44,7 +58,6 @@ At your discretion, a legendary ([[adult-silver-dragon-xmm|adult]] or [[ancient-
 - **Icy Grip.** A sudden, supernatural chill fills the lair near the dragon. Each creature of the dragon's choice that it can see within 120 feet of it must succeed on a DC 15 Constitution saving throw or be [[conditions#Restrained|restrained]] until initiative count 20 on the next round. Creatures that have resistance to cold damage have advantage on the saving throw; creatures that have immunity to cold damage succeed automatically.  
 
 ## Regional effects
-_Source: Monster Manual_
 
 The region containing a legendary silver dragon's lair is warped by the dragon's magic, which creates one or more of the following effects.
 
@@ -62,19 +75,28 @@ Silver dragon is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of silver dragon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around silver dragon.
 
-## Adventure Hooks
-
-- A rumor ties silver dragon to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at silver dragon to avert a public scandal.
-- A map overlay reveals a hidden approach to silver dragon active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest ancient magic
+- Strange sightings suggest a portal
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

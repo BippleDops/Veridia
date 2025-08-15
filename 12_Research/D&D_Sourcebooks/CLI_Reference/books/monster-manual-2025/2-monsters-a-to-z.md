@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.774393'
 world: Both
 ---
 
-
 # Monsters A to Z
 *Source: Monster Manual (2025), p. 10* 
 
@@ -325,9 +324,9 @@ world: Both
 - [[ancient-red-dragon-xmm|Ancient Red Dragon]]  
 - [[remorhaz-xmm|Remorhaz]]  
 - [[/03_Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm|Young Remorhaz]]  
-- [[revenant-xmm|Revenant]]  
-- [[graveyard-revenant-xmm|Graveyard Revenant]]  
-- [[haunting-revenant-xmm|Haunting Revenant]]  
+- [[revet-xmm|Revet]]  
+- [[graveyard-revet-xmm|Graveyard Revet]]  
+- [[haunting-revet-xmm|Haunting Revet]]  
 - [[roc-xmm|Roc]]  
 - [[roper-xmm|Roper]]  
 - [[rust-monster-xmm|Rust Monster]]  
@@ -433,8 +432,6 @@ world: Both
 - [[zombie-xmm|Zombie]]  
 - [[beholder-zombie-xmm|Beholder Zombie]]  
 
-## Monsters (A)
-
 ### Aarakocra
 
 **Aarakocra.** *Winged Guardians of the Sky*
@@ -502,7 +499,6 @@ Energetic spirits from the Elemental Plane of Air, air elementals gather clouds 
 Air elementals often have distinctive compositions. Roll on or choose a result from the Air Elemental Compositions table to inspire the elemental's appearance.
 
 > [!quote] A quote from Husam, Son of the Breezes, Ruler of Djinn  
-> 
 > What can withstand the storm's scream? The lightning's spear? The want of sweet breath? Air is the mightiest of elements—respect its power.
 
 **Air Elemental Compositions**
@@ -538,11 +534,9 @@ Most animal lords make their homes in the Beastlands, but they occasionally jour
 Among the best-known animal lords are those that represent cats, hawks, lizards, and wolves, but animal lords exist for beasts of all types. Some animal lords even embody creatures that are rare or extinct on Material Plane worlds, like megafauna or dinosaurs. Using their divine might, animal lords can summon spectral animals, channel spiritual energy, and exhibit powers associated with one of three broad groups: foragers, hunters, or sages. These powers are tied to an animal lord's personality and traits associated with the creature it resembles. Roll on or choose results from the relevant Animal Lord Appearances table to inspire what creature an animal lord resembles.
 
 > [!quote] A quote from Brother of Shadows, Cat Lord  
-> 
 > While I don't deny the compliment, I assure you, I'm more akin to a god than a "pretty kitty."
 
 > [!quote] A quote from Wind and Moon, Wolf Lord  
-> 
 > You call yourself hunter, but your fear makes you smell like prey.
 
 **Forager Animal Lord Appearances**
@@ -567,8 +561,6 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
 
 `dice: [](2-monsters-a-to-z.md#^hunter-animal-lord-appearances)`
 
-| dice: 1d10 | Bestial Shape |
-|------------|---------------|
 | 1 | Alligator |
 | 2 | Badger |
 | 3 | Bat |
@@ -585,8 +577,6 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
 
 `dice: [](2-monsters-a-to-z.md#^sage-animal-lord-appearances)`
 
-| dice: 1d10 | Bestial Shape |
-|------------|---------------|
 | 1 | Coyote |
 | 2 | Crow |
 | 3 | Elephant |
@@ -616,7 +606,6 @@ Magic can manipulate mundane items, compelling them to perform simple tasks. Suc
 Roll on or choose a result from the Animated Object Catalysts table to inspire what sort of magic motivates an ambulatory item.
 
 > [!quote] A quote from Levity Quickstitch, Rogue  
-> 
 > Lyin' next to the chest were the bones of Cap'n Scornblade himself, still clutchin' his rusty sword. Imagine my surprise when the blade flew from his bony grasp! Still got the scar.
 
 **Animated Object Catalysts**
@@ -665,7 +654,6 @@ Ankhegs are the bane of farmers whose grazing livestock are easy prey for these 
 Ankheg tunnels are roughly cylindrical and are often littered with the remains of ankhegs' meals and subterranean treasures. Roll on or choose a result from the Ankheg Tunnel Discoveries table to inspire what might be found in an ankheg's tunnel.
 
 > [!quote] A quote from Feil Jenkins, Sage of Kirwak  
-> 
 > Though they feed on things under the soil, ankhegs prefer live meat—your cattle, your dogs, or you.
 
 **Ankheg Tunnel Discoveries**
@@ -721,7 +709,6 @@ Most arch-hags avoid battle, but if forced to fight, they unleash dangerous magi
 Every arch-hag has a unique weakness tied to a fateful encounter the hag had in the past or something that embodies the antithesis of the hag's magic. A hag goes out of its way to keep this vulnerability secret. Although an arch-hag isn't physically harmed by its weakness, it can be destroyed only while its weakness is nearby. Roll on or choose a result from the Arch-hag Anathemas table to inspire an arch-hag's weakness.
 
 > [!quote] A quote from Baba Yaga, Mother of Witches  
-> 
 > Heh! People who know too much grow old before their time. Ask me your questions, but be certain that every secret has its cost.
 
 **Arch-hag Anathemas**
@@ -729,7 +716,6 @@ Every arch-hag has a unique weakness tied to a fateful encounter the hag had in 
 `dice: [](2-monsters-a-to-z.md#^arch-hag-anathemas)`
 
 | dice: 1d10 | The Arch-hag's Weakness Is... |
-|------------|-------------------------------|
 | 1 | The bones of the arch-hag's first love. |
 | 2 | A devil's tear. |
 | 3 | An egg with a miniature castle inside. |
@@ -789,7 +775,6 @@ Many assassins adhere to a professional code or exhibit some signature quirk. Ro
 Magic can invest plants with mobility, sapience, and even a voice. Spells such as [[awaken-xphb|Awaken]] or the influence of other planes of existence might bring mundane vegetation to life, while other remarkable plants might naturally have these features.
 
 > [!quote] A quote from Rivergleam, Pixie  
-> 
 > Just because we protect the forest doesn't mean it's defenseless.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/040-01-010-awakened-plant.webp#center)
@@ -812,7 +797,6 @@ Axe beaks are flightless, birdlike creatures with distinctive axe-shaped beaks. 
 Axe beaks are difficult to train, but those hatched and raised in captivity can become reliable mounts.
 
 > [!quote] A quote from Batley Summerfoot, Adventurer  
-> 
 > The thing's got an axe for a face and a giant, angry rooster for everything else—of course I want to ride it!
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/041-01-011-axe-beak.webp#center)
@@ -840,8 +824,6 @@ Azers are living bronze folk who work the primal elements of creation to craft w
 > [!embed-monster]- Azer Sentinel
 > ![[azer-sentinel-xmm#^statblock|Azer Sentinel]]
 
-## Monsters (B)
-
 ### Balor
 
 **Balor.** *Demon of Overwhelming Rage*
@@ -868,7 +850,6 @@ Bandits use the threat of violence to take what they want. Such criminals includ
 Roll on or choose a result from the Bandit Motivations table to determine the circumstances behind a bandit's crimes.
 
 > [!quote] A quote from Jarlaxle  
-> 
 > I am he who rules the world, don't you know? One little piece at a time.
 
 **Bandit Motivations**
@@ -977,7 +958,6 @@ Basilisks are ponderous predators with eight clawed legs, crystalline spines, an
 The remains of [[conditions#Petrified|Petrified]] creatures litter the area where a basilisk hunts. These might be mundane creatures or more unusual beings that had dire encounters with a basilisk. Roll on or choose a result from the [[conditions#Petrified|Petrified]] Basilisk Victims table to inspire the statues that might appear in a basilisk's hunting grounds. There is a 50 percent chance that any of these statues are missing limbs or broken into pieces.
 
 > [!quote] A quote from X the Mystic's  
-> 
 > Rule 4: No one carves statues of frightened warriors. If you see one, keep your eyes closed and your ears open.
 
 **Petrified Basilisk Victims**
@@ -1035,7 +1015,6 @@ Legends claim the first behirs were magically created by storm giants during an 
 Behirs live in sprawling cave systems and elaborate ruins where they can make the most of their exceptional mobility. They are mindful of areas where dragons dwell, as most dragons view behirs as dangerous abominations and attack them on sight. Nevertheless, behirs occasionally hunt for dragon lairs in the hope of finding and devouring unhatched dragon eggs.
 
 > [!quote] A quote from Lludd, Behir  
-> 
 > You wouldn't believe all the great stuff I've swallowed! Now just climb on in here, and you can keep whatever you find.
 
 > [!embed-monster]- Behir
@@ -1091,7 +1070,7 @@ Gripped by the adrenaline of battle, berserkers are reckless invaders, pit fight
 
 Black dragons delight in suffering and ruin. While other chromatic dragons scheme for power and wealth, these dragons seek to tear down all they see and rule over what remains.
 
-Black dragons are terrifying creatures with curved horns and withered visages suggestive of fiendish skulls. They typically inhabit stagnant swamps, crumbling ruins, or places of magical or environmental corruption. Their acid breath scars their domains, eroding the features from ancient statues and leaving nature with festering wounds.
+Black dragons are terrifying creatures with curved horns and withered visages suggestive of fiendish skulls. They typically inhabit stagt swamps, crumbling ruins, or places of magical or environmental corruption. Their acid breath scars their domains, eroding the features from ancient statues and leaving nature with festering wounds.
 
 Black dragons hoard tarnished symbols of hope and relics of fallen empires. The more sought-after the treasure, the more black dragons prize it—particularly if they were responsible for it being lost.
 
@@ -1105,12 +1084,10 @@ Black dragons hoard tarnished symbols of hope and relics of fallen empires. The 
 > [!embed-monster]- Young Black Dragon
 > ![[young-black-dragon-xmm#^statblock|Young Black Dragon]]
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/054-02-012-adult-black-dragon.webp#center "An adult black dragon uses its acid breath to melt the construct defenders of a clockwork fortress"|An adult black dragon uses...]]
+!]
 
 > [!embed-monster]- Adult Black Dragon
 > ![[adult-black-dragon-xmm#^statblock|Adult Black Dragon]]
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/055-02-013-ancient-black-dragon.webp#center "As terrifying as it is titanic, an ancient black dragon eradicates unwanted life in its despoiled territory"|As terrifying as it is tit...]]
 
 > [!embed-monster]- Ancient Black Dragon
 > ![[ancient-black-dragon-xmm#^statblock|Ancient Black Dragon]]
@@ -1155,7 +1132,6 @@ Various supernatural conditions might bring black puddings into being. Roll on o
 Blights are malicious plants that sprout from deep-rooted evil. Their gnarled forms twist with fearsome features suggestive of human limbs and vicious maws. Blights lurk in ambush amid mundane vegetation and lash out at non-Plant creatures. While blights can act independently, they're usually motivated by whatever sinister forces spawned them or by wicked creatures with control over nature. The magic that creates blights often affects other vegetation as well, causing brambles, vines, and gnarled trees to overwhelm roads and fields, choke wells and streams, and force animals from their natural habitat. This might make blights the first sign of an oncoming wave of corruption.
 
 > [!quote] A quote from Belak the Outcast, Druid of the Twilight Grove  
-> 
 > It lives, though it looks dead. In an age long past, someone staked a vampire to the earth on this very spot. The wooden stake was yet green and took root. And so grew the Gulthias Tree, reverberating with primal power.
 
 ![[/03_Mechanics/CLI/books/monster-manual-2025/img/057-638741964748722131.webp#center|Twig Blight]]
@@ -1165,8 +1141,6 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 
 > [!embed-monster]- Needle Blight
 > ![[needle-blight-xmm#^statblock|Needle Blight]]
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/058-02-016-vine-tree-needle-blights.webp#center "Left to Right: Vine Blight, Tree Blight, and Needle Blight"|Left to Right: Vine Blight...]]
 
 > [!embed-monster]- Vine Blight
 > ![[vine-blight-xmm#^statblock|Vine Blight]]
@@ -1209,7 +1183,6 @@ Only magic items and the corpses of gods and titans can endure inside the blob. 
 When the blob appears, roll on or choose a result from the Blob of Annihilation Contents table to inspire what extraordinary thing remains within its goop.
 
 > [!quote] A quote from Vi, Artificer of Eberron  
-> 
 > Honey, I've seen horrors that would make you shit your drawers and reach for the nearest drink. And then there's the blob of annihilation. If you see it, run. And if you can't get away from it, just hope you dissolve fast.
 
 **Blob of Annihilation Contents**
@@ -1258,12 +1231,8 @@ Regalia of rulership and artistic masterpieces fill blue dragons' hoards. These 
 > [!embed-monster]- Young Blue Dragon
 > ![[young-blue-dragon-xmm#^statblock|Young Blue Dragon]]
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/063-02-021-adult-blue-dragon.webp#center "An adult blue dragon invades the territory of a silver dragon rival"|An adult blue dragon invad...]]
-
 > [!embed-monster]- Adult Blue Dragon
 > ![[adult-blue-dragon-xmm#^statblock|Adult Blue Dragon]]
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/064-02-022-ancient-blue-dragon.webp#center "Shattering the enemy's defenses, an ancient blue dragon leads its armies in conquest"|Shattering the enemy's def...]]
 
 > [!embed-monster]- Ancient Blue Dragon
 > ![[ancient-blue-dragon-xmm#^statblock|Ancient Blue Dragon]]
@@ -1282,7 +1251,6 @@ When not serving their diabolical masters, bone devils tempt self-obsessed morta
 Bone devils travel across the multiverse to fulfill diabolical orders. If left with no other choices, they might conscript mortals to aid them in their vicious goals. Roll on or choose a result from the Bone Devil Objectives table to inspire a bone devil's goals.
 
 > [!quote] A quote from Sylvira Savikas, Candlekeep Sage  
-> 
 > Bone devils are just one of a thousand reasons never to make a deal with a devil, but they're a significant one. Break said deal, and it'll likely be one of these nightmares that drags you down to the Nine Hells.
 
 **Bone Devil Objectives**
@@ -1343,12 +1311,8 @@ Brass dragons collect eclectic objects. While such items might seem like knickkn
 > [!embed-monster]- Young Brass Dragon
 > ![[young-brass-dragon-xmm#^statblock|Young Brass Dragon]]
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/068-02-026-adult-brass-dragon.webp#center "An adult brass dragon rids its new lair of unwelcome undead"|An adult brass dragon rids...]]
-
 > [!embed-monster]- Adult Brass Dragon
 > ![[adult-brass-dragon-xmm#^statblock|Adult Brass Dragon]]
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/069-02-027-ancient-brass-dragon.webp#center "An ancient brass dragon protects travelers from an oncoming sandstorm"|An ancient brass dragon pr...]]
 
 > [!embed-monster]- Ancient Brass Dragon
 > ![[ancient-brass-dragon-xmm#^statblock|Ancient Brass Dragon]]
@@ -1374,12 +1338,8 @@ Bronze dragons enjoy the power and endless possibilities of the sea, and they of
 > [!embed-monster]- Young Bronze Dragon
 > ![[young-bronze-dragon-xmm#^statblock|Young Bronze Dragon]]
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/071-02-029-adult-bronze-dragon.webp#center "An adult bronze dragon defends the deep from a ravenous giant shark"|An adult bronze dragon def...]]
-
 > [!embed-monster]- Adult Bronze Dragon
 > ![[adult-bronze-dragon-xmm#^statblock|Adult Bronze Dragon]]
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/072-02-030-ancient-bronze-dragon.webp#center "An ancient bronze dragon uses its repulsion breath to protect a community from rampaging Water elementals"|An ancient bronze dragon u...]]
 
 > [!embed-monster]- Ancient Bronze Dragon
 > ![[ancient-bronze-dragon-xmm#^statblock|Ancient Bronze Dragon]]
@@ -1435,8 +1395,6 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/075-02-033-bullywugs.webp#center)
 
-## Monsters (C)
-
 ### Cambion
 
 **Cambion.** *Mortal Infused with Fiendish Might*
@@ -1451,7 +1409,6 @@ Many cambions serve the malevolent forces that are the source of their powers. O
 Cambions come into being in disparate ways. Roll on or choose a result from the Cambion Origins table to determine the source of a cambion's fiendish might.
 
 > [!quote] A quote from Iuz the Evil, Cambion Demigod  
-> 
 > It seems that I must do everything myself, since I have only fools for servants. Clearly disappointment must ever be the price of divinity.
 
 **Cambion Origins**
@@ -1770,8 +1727,6 @@ Weaver
 
 Youngster
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/088-03-013-commoners.webp#center "Commoners of varied species and professions go about their day"|Commoners of varied specie...]]
-
 > [!embed-monster]- Commoner
 > ![[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm#^statblock|Commoner]]
 
@@ -1796,12 +1751,8 @@ Copper dragons typically live in caverns amid picturesque hills and rock formati
 > [!embed-monster]- Young Copper Dragon
 > ![[young-copper-dragon-xmm#^statblock|Young Copper Dragon]]
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/090-03-015-adult-copper-dragon.webp#center "Surrounded by guardians of the forest, an adult copper dragon bequeaths a magic sword to a worthy hero"|Surrounded by guardians of...]]
-
 > [!embed-monster]- Adult Copper Dragon
 > ![[adult-copper-dragon-xmm#^statblock|Adult Copper Dragon]]
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/091-03-016-ancient-copper-dragon.webp#center "An ancient copper dragon watches over its allies' boisterous young"|An ancient copper dragon w...]]
 
 > [!embed-monster]- Ancient Copper Dragon
 > ![[ancient-copper-dragon-xmm#^statblock|Ancient Copper Dragon]]
@@ -1834,7 +1785,6 @@ Each couatl goes through a period of renewal at the end of an age. In a couatl's
 Crawling claws are severed hands that move and act of their own murderous accord. These deathless appendages can spring to life from the severed limbs of killers and villains, and sinister magic-users might animate crawling claws as foul servants. Crawling claws appear in a variety of forms, from decaying human hands to the fresh appendages of animals or monsters
 
 > [!quote] A quote from Ansolm Haas  
-> 
 > Is it possible for any creature, any living being, to be inherently evil? Such an assertion may itself facilitate the committing of evil acts. By defining a person as evil, we give them free rein to behave as they will, absolving them from the wickedness of their words and the evil of their hands.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/093-03-018-crawling-claws.webp#center)
@@ -1860,7 +1810,7 @@ Cultists use magic and extreme measures to spread radical beliefs. Some privatel
 
 | dice: 1d6 | The Cultist Strives To... |
 |-----------|---------------------------|
-| 1 | Bring about the end of a dominant order, an age, or the world. |
+| 1 | Bring about the end of a domit order, an age, or the world. |
 | 2 | Burn away the comfortable lies of reality, revealing forgotten or terrible truths. |
 | 3 | Expand their faith though mind control or supernatural coercion. |
 | 4 | Make global changes, like sinking the land or awakening volcanoes. |
@@ -1893,10 +1843,7 @@ Cultists use magic and extreme measures to spread radical beliefs. Some privatel
 **Types of Cultists.** Cults can organize around any mystical tradition, but many serve supernatural beings. Cult members often have abilities tied to the forces they worship.
 
 > [!quote] A quote from Rites of the Cult of Elemental Evil  
-> 
 > Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/094-03-019-death-cultists.webp#center "A death cultist and his followers summon Orcus, Demon Lord of Undeath"|A death cultist and his fo...]]
 
 > [!embed-monster]- Cultist
 > ![[/03_Mechanics/CLI/bestiary/humanoid/cultist-xmm#^statblock|Cultist]]
@@ -1906,8 +1853,6 @@ Cultists use magic and extreme measures to spread radical beliefs. Some privatel
 
 > [!embed-monster]- Cultist Hierophant
 > ![[/03_Mechanics/CLI/bestiary/humanoid/cultist-hierophant-xmm#^statblock|Cultist Hierophant]]
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/095-03-020-elemental-aberrant-cultists.webp#center "An aberrant cultist and an elemental cultist clash, unleashing the magic of their otherworldly patrons"|An aberrant cultist and an...]]
 
 > [!embed-monster]- Aberrant Cultist
 > ![[/03_Mechanics/CLI/bestiary/humanoid/aberrant-cultist-xmm#^statblock|Aberrant Cultist]]
@@ -1938,8 +1883,6 @@ Cyclopes are gigantic, one-eyed descendants of the gods. Using their mystical vi
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/096-03-021-cyclops.webp#center)
 
-## Monsters (D)
-
 ### Dao
 
 **Dao.** *Genie of the Earth*
@@ -1952,7 +1895,6 @@ Genies of minerals and gemstones, dao embody the resolve of rock. Using innate m
 Many dao call the Elemental Plane of Earth home. There, they create cities that glitter with treasure. Among these realms is the labyrinthine expanse called the Great Dismal Delve or the Sevenfold Mazework, which protects the City of Jewels, the Iron Crucible, and the Strait of Magnets.
 
 > [!quote] A quote from Gundren Rockseeker, Dwarf Treasure Hunter  
-> 
 > On the Elemental Plane of Earth, galaxies of gemstones twinkle over vaults of treasure. If dao are there, so is wealth worth hunting.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/097-04-001-dao.webp#center)
@@ -1972,7 +1914,6 @@ Unnatural subterranean hunters, darkmantles veil themselves in magical shadows a
 Darkmantles share similarities with piercers and ropers and often hunt near those monsters. Scholars have attempted to establish a shared origin or life cycle between those creatures, but their efforts are thwarted by those monsters' supernatural physiologies and deadly natures.
 
 > [!quote] A quote from S. Wakeman, Underdark Explorer  
-> 
 > Just assume there's no such thing as a stalactite.
 
 ![[/03_Mechanics/CLI/books/monster-manual-2025/img/098-04-002-darkmantle.webp#center|Darkmantle]]
@@ -1992,7 +1933,6 @@ Death dogs are plagues on the arid lands they inhabit. These vicious, two-headed
 Legends tie death dogs to malicious death gods, the underworld, and cursed rulers. These stories are based on the malady death dogs spread. Roll on or choose a result from the Death Dog Malady Symptoms table to inspire symptoms spread by a death dog's bite. These symptoms are cosmetic and don't alter the effects of the death dog's Bite action. The symptoms vanish when a creature no longer has the [[conditions#Poisoned|Poisoned]] condition from a death dog's Bite.
 
 > [!quote] A quote from Tablet Fragment  
-> 
 > And his sorrows will stalk your land like hungry dogs until the seas turn to sand and the sun burns to cinders.
 
 **Death Dog Malady Symptoms**
@@ -2000,7 +1940,6 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
 `dice: [](2-monsters-a-to-z.md#^death-dog-malady-symptoms)`
 
 | dice: 1d6 | The Death Dog's Malady Causes... |
-|-----------|----------------------------------|
 | 1 | Marks from canine jaws to appear on the victim's body, as if they were still being mauled. |
 | 2 | The victim's body to wither, as if constantly exposed to desert heat. |
 | 3 | The victim to be distracted by distant howling or vague whispers only they can hear. |
@@ -2022,8 +1961,6 @@ Legends tie death dogs to malicious death gods, the underworld, and cursed ruler
 - **Treasure.** Armaments  
 
 Champions of evil, death knights are armor-clad, skeletal warlords. Combining devastating martial prowess and blasphemous magic, these undying tyrants lead unholy legions against the living or brood in cursed citadels. Every death knight is haunted by a legacy of tragedy and dishonor that drives it to commit greater evils.
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/100-04-004-death-knight.webp#center "A death knight and its aspirants march to war against the living"|A death knight and its asp...]]
 
 > [!embed-monster]- Death Knight
 > ![[death-knight-xmm#^statblock|Death Knight]]
@@ -2047,7 +1984,6 @@ No matter how death tyrants come into being, bizarre impulses drive their deathl
 **Death Tyrant Lairs.** Death tyrants often lurk deep in the Underdark, in the tunnel-mazes they occupied in life or in the lairs of enemy beholders they conquered. These lairs are devoid of life, as death tyrants change their servants into Undead horrors.
 
 > [!quote] A quote from Journal of Jastus Hollowquill, explorer of Undermountain  
-> 
 > A cluster of tiny lights descended from a dark crevice in the ceiling. These motes cast an eerie glow on the great, alien skull that hung beneath them.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/101-04-005-death-tyrant.webp#center)
@@ -2062,7 +1998,7 @@ No matter how death tyrants come into being, bizarre impulses drive their deathl
 - **Habitat.** Any  
 - **Treasure.** Arcana  
 
-A demilich is a skull harboring the remnants of a lich's wicked essence. If the burden of immortality overwhelms a lich, its consciousness turns inward as its body rots away. But if its remains are disturbed, a demilich rises. Demiliches usually appear as skulls adorned with gems or arcane sigils.
+A demilich is a skull harboring the remts of a lich's wicked essence. If the burden of immortality overwhelms a lich, its consciousness turns inward as its body rots away. But if its remains are disturbed, a demilich rises. Demiliches usually appear as skulls adorned with gems or arcane sigils.
 
 **Demilich Lairs.** Demiliches jealously guard their deathtrap-laden sanctums. The most notorious of these is the Tomb of Horrors, lair of the infamous Acererak.
 
@@ -2089,7 +2025,6 @@ Rather than literal correspondence from a god, a deva conveys an allegory or que
 `dice: [](2-monsters-a-to-z.md#^deva-messages)`
 
 | dice: 1d6 | The Deva Tasks a Mortal with Delivering... |
-|-----------|--------------------------------------------|
 | 1 | The corpse of a hero in need of redemption. |
 | 2 | The cure for a plague in a distant land. |
 | 3 | A holy coffer that must not be opened. |
@@ -2115,7 +2050,6 @@ Displacer beasts hunt not just to feed but because they enjoy killing. Once disp
 Displacer beasts sometimes pursue prey through portals to other planes of existence. As a result, these predators can be found across the multiverse, particularly on the worlds of the Material Plane, in the Shadowfell, and in the Feywild. These restless hunters can destroy a land's natural balance and drive other creatures to extinction. As a result, many druid circles and Fey view displacer beasts as deadly threats.
 
 > [!quote] A quote from Jen-Ahb, Naturalist and Displacer Beast Survivor  
-> 
 > The murderous fury of a displacer beast is fit only for nightmares, of which I've been haunted since narrowly escaping one's ambush. I'm certain that beast stalks me still.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/104-04-008-displacer-beasts.webp#center)
@@ -2155,7 +2089,6 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
 `dice: [](2-monsters-a-to-z.md#^doppelganger-deceptions)`
 
 | dice: 1d6 | The Doppelganger Schemes To... |
-|-----------|--------------------------------|
 | 1 | Cause chaos within the temple of a deity that cursed it to live without a true form. |
 | 2 | Conceal evidence of a vast conspiracy. |
 | 3 | Control a community through fear by posing as a legendary bogeyman. |
@@ -2165,7 +2098,6 @@ A doppelganger's agenda might relate to its mysterious magical origins or to mor
 ^doppelganger-deceptions
 
 > [!quote] A quote from Someone claiming to be Lorhirin of Fearchor Keep  
-> 
 > Meeting yourself is the surest way to realize you're not as charming as you think you are.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/106-04-010-doppelganger.webp#center)
@@ -2207,7 +2139,6 @@ There are untold profane routes by which a dragon might become a dracolich. Howe
 **Dracolich Lairs.** A dracolich lurks in a corrupted version of the lair it had in life.
 
 > [!quote] A quote from Sammaster the Fallen's translation of The Chronicle of Years to Come  
-> 
 > And naught will be left save shattered thrones with no rulers. But the dead dragons shall rule the world entire...
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/107-04-011-dracolich.webp#center)
@@ -2241,7 +2172,6 @@ Many dragon turtles live in secluded lairs or ruins deep underwater, and they mi
 The servants and victims of greater demons, dretches embody petty instincts, chaotic impulses, and violent urges. Dretches exist in unfathomable numbers in the depths of the Abyss, where their reeking throngs fill vast demonic hordes.
 
 > [!quote] A quote from Jaranda, Expert on the Abyss  
-> 
 > Ah, the infinite wonders of the Abyss. If there's anything you don't like, you'll find it here.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/109-04-013-dretches.webp#center)
@@ -2268,7 +2198,6 @@ Driders also appear when whole communities are transformed by a wicked god's wra
 `dice: [](2-monsters-a-to-z.md#^drider-metamorphoses)`
 
 | dice: 1d6 | The Drider Gained Its Form As... |
-|-----------|----------------------------------|
 | 1 | A blessing from a deity of assassins, dangerous wildernesses, or the Underdark. |
 | 2 | A curse from a powerful hag, vengeful witch, or strange Artifact. |
 | 3 | An experiment by an aboleth, a mind flayer, or another life-shaping magic-user. |
@@ -2324,7 +2253,6 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
 `dice: [](2-monsters-a-to-z.md#^dryad-sanctuaries)`
 
 | dice: 1d6 | The Dryad Dwells in and Protects... |
-|-----------|-------------------------------------|
 | 1 | An acres-large clonal colony—a stand of identical, interconnected trees. |
 | 2 | A fortress-like tree, like a baobab or sequoia. |
 | 3 | A living lock—a plant that seals evil below or blocks the path to a dungeon. |
@@ -2337,8 +2265,6 @@ Guardians of the woodlands, dryads magically flit from tree to tree and from roo
 
 > [!embed-monster]- Dryad
 > ![[dryad-xmm#^statblock|Dryad]]
-
-## Monsters (E)
 
 ### Earth Elemental
 
@@ -2356,7 +2282,6 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 `dice: [](2-monsters-a-to-z.md#^earth-elemental-compositions)`
 
 | dice: 1d8 | The Earth Elemental's Body Features... |
-|-----------|----------------------------------------|
 | 1 | Colorful mineral formations. |
 | 2 | Cooled magma in melted heaps. |
 | 3 | Grass, moss, or plant roots. |
@@ -2368,7 +2293,6 @@ Earth elementals are typically made of more than dirt. While an elemental's comp
 ^earth-elemental-compositions
 
 > [!quote] A quote from Kabril the Perfect Compass, Ruler of Dao  
-> 
 > The foundations of our homes, the strength of our weapons, the vaults of our greatest secrets—earth is nothing less than the grip of reality itself. It is the mightiest element. This cannot be denied.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/113-05-001-earth-elemental.webp#center)
@@ -2388,7 +2312,6 @@ Efreet burn with the energy and unpredictability of fire. Their innate magic all
 On many worlds, efreet dwell in sweltering deserts and volcanic regions. Those that make their homes on the Elemental Plane of Fire create incredible cities among seas of flame and molten minerals. Eclipsing all of these is the storied City of Brass, a gleaming metropolis that is one of the most wondrous cities in the multiverse. Here, magic tempers the plane's extreme heat, making the City of Brass a hub of trade between planes of existence.
 
 > [!quote] A quote from Veyisvexvayn, Magma Mephit Herald  
-> 
 > Imagine seas of platinum and liquid flame, the Crimson Pillar with fires hot enough to sear the gods, and the infinite delights of the City of Brass. Now imagine what my master offers...
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/114-05-002-efreeti.webp#center)
@@ -2403,7 +2326,7 @@ On many worlds, efreet dwell in sweltering deserts and volcanic regions. Those t
 - **Habitat.** Planar (Elemental Chaos)  
 - **Treasure.** None  
 
-Beyond the fringes of the Elemental Planes, primordial forces endlessly clash amid the Elemental Chaos. Within the vastness and violence of this realm rage elemental cataclysms, entities spawned from the raw forces of the multiverse and awash in dissonant elemental powers. These beings of primal conflict annihilate nearly all they encounter and seed the ruins left in their wake with the potential for new creations.
+Beyond the fringes of the Elemental Planes, primordial forces endlessly clash amid the Elemental Chaos. Within the vastness and violence of this realm rage elemental cataclysms, entities spawned from the raw forces of the multiverse and awash in dissot elemental powers. These beings of primal conflict annihilate nearly all they encounter and seed the ruins left in their wake with the potential for new creations.
 
 Elemental cataclysms rarely escape the Elemental Chaos. When they do, it is typically due to some planar disruption or the summons of nihilistic cultists. When they emerge on Material Plane worlds, elemental cataclysms create realm-altering trails of destruction, carelessly destroying cities and throwing whole nations into chaos. The rampages aren't random. Elemental cataclysms abhor anything that visibly mars nature, be it mines or monuments, fortresses or cities, but they vent their most intense rage on works of metal and clockwork. As they sow destruction, they howl condemnation and chant words of unmaking in the languages of the Inner Planes.
 
@@ -2414,7 +2337,6 @@ Little can stop an elemental cataclysm. Those that oppose one of these calamitie
 `dice: [](2-monsters-a-to-z.md#^elemental-alterations)`
 
 | dice: 1d8 | The Elemental Cataclysm Leaves Behind A... |
-|-----------|--------------------------------------------|
 | 1 | Dramatic increase or decrease in temperature. |
 | 2 | Gigantic coral reef or fungal forest. |
 | 3 | Never-ending storm or whirlpool. |
@@ -2446,7 +2368,6 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
 `dice: [](2-monsters-a-to-z.md#^empyrean-influences)`
 
 | dice: 1d6 | The Empyrean Has Features That Are... |
-|-----------|---------------------------------------|
 | 1 | Balanced, naturalistic, or suggestive of watching eyes. |
 | 2 | Colorful, shadowy, or fluid or that vary depending on the viewer. |
 | 3 | Comforting and gentle or that remind viewers of pleasant memories. |
@@ -2456,10 +2377,7 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
 ^empyrean-influences
 
 > [!quote] A quote from Kopoha, Scion of Storms  
-> 
 > One day I might be the god of storms—mind countless followers, answer prayers, change whole worlds—but, until then, I do what I please.
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/117-05-005-empyrean.webp#center "Celestial and fiendish empyreans observe the cosmos attended by sigil-like empyrean iotas"|Celestial and fiendish emp...]]
 
 > [!embed-monster]- Empyrean Iota
 > ![[empyrean-iota-xmm#^statblock|Empyrean Iota]]
@@ -2535,15 +2453,12 @@ Roll on or choose a result from the Ettin Interactions table to inspire how an e
 ^ettin-interactions
 
 > [!quote] A quote from Bertrand, Inquisitor of the Mind Fire  
-> 
 > Twice the malice, aggressiveness, and appetite—the ettin demonstrates that two heads aren't necessarily better than one.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/120-05-008-ettin.webp#center)
 
 > [!embed-monster]- Ettin
 > ![[ettin-xmm#^statblock|Ettin]]
-
-## Monsters (F)
 
 ### Faerie Dragons
 
@@ -2578,11 +2493,10 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
 `dice: [](2-monsters-a-to-z.md#^fire-elemental-compositions)`
 
 | dice: 1d8 | The Fire Elemental's Body Features... |
-|-----------|---------------------------------------|
 | 1 | Colorful, superheated gases. |
 | 2 | A column of diabolical or divine flame. |
 | 3 | Crackling shapes that look like animals, fiends, skeletons, sprites, or other beings. |
-| 4 | Flames that are predominantly white, blue, or a more unusual color. |
+| 4 | Flames that are predomitly white, blue, or a more unusual color. |
 | 5 | The form of a calm or tormented humanoid. |
 | 6 | Smoke that forms eerie shapes or symbols. |
 | 7 | Soot that smells like cedar, cloves, incense, or burning meat. |
@@ -2590,7 +2504,6 @@ Fire elementals might burn in distinctive ways. Roll on or choose a result from 
 ^fire-elemental-compositions
 
 > [!quote] A quote from Marrake the Incandescent, Ruler of Efreet  
-> 
 > All the elements bow to fire. The strongest earth melts. Water boils. Even air ignites. We are all souls of flame, and we know what it is to burn.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/122-06-002-fire-elemental.webp#center)
@@ -2632,7 +2545,6 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
 `dice: [](2-monsters-a-to-z.md#^flameskull-details)`
 
 | dice: 1d6 | The Flameskull Features... |
-|-----------|----------------------------|
 | 1 | Arcane diagrams etched into it. |
 | 2 | Flames like dramatic features, horns, or hair. |
 | 3 | Fractured pieces that fly in unison. |
@@ -2642,7 +2554,6 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
 ^flameskull-details
 
 > [!quote] A quote from Trenzia, Undermountain Flameskull  
-> 
 > I never cared for warmth. I never needed a body. My will is enough, and my work will be the legacy that makes my every sacrifice worthwhile!
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/124-06-004-flame-skulls.webp#center)
@@ -2676,7 +2587,6 @@ Flesh golems appear in varied forms. Roll on or choose a result from the Flesh G
 ^flesh-golem-characteristics
 
 > [!quote] A quote from Viktra Mordenheim, Darklord of Lamordia  
-> 
 > The barrier between the mortal and the divine lies shattered—open is the mold for new gods. It was I who invaded the divine. Not with a spear but with a stitch. Not with my heresies but with my heart.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/125-06-005-flesh-golem.webp#center)
@@ -2702,7 +2612,6 @@ Flumphs dwell in psychically charged regions or near creatures with psionic magi
 `dice: [](2-monsters-a-to-z.md#^flumph-assistance)`
 
 | dice: 1d6 | The Flumph Helps By... |
-|-----------|------------------------|
 | 1 | Cooking a meal of Underdark delicacies. |
 | 2 | Performing a psychic song or "smell poem." |
 | 3 | Recovering and nursing fallen adventurers. |
@@ -2758,7 +2667,6 @@ Once infamous for their magical aptitude, fomorians are giants afflicted with a 
 ^fomorian-warping
 
 > [!quote] A quote from Bigby  
-> 
 > All-Father Annam banished his son, Karontor, for Karontor's part in the fomorian assault on the Feywild. That day, the ordning—the hierarchy of the giants and their gods—changed forever, and the fomorians were part of it no more.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/127-00-067-fomorian.webp#center)
@@ -2778,7 +2686,6 @@ From glacial mountain heights and vast tundras rise the homes of frost giants. T
 Frost giants often travel far to find food and goods. This leads many to become raiders and earn violent reputations. Others live more peaceably by hunting titanic game or creating sanctuaries from the cold (frequently featuring hot springs or snowy contests). Frost giants sometimes forge partnerships with icy Fey or fire giants dwelling underground, serving as guardians to their realms in exchange for treasure, weapons, and crafts.
 
 > [!quote] A quote from Jarl Grugnur, Frost Giant  
-> 
 > The small folk have barely anything worth looting, so they shouldn't much mind when we take it from them.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/128-06-008-frost-giants.webp#center)
@@ -2798,8 +2705,6 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
 > [!embed-monster]- Gas Spore Fungus
 > ![[gas-spore-fungus-xmm#^statblock|Gas Spore Fungus]]
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/129-06-009-fungi.webp#center "A gas spore and clusters of shriekers and violet fungi grow in the Underdark"|A gas spore and clusters o...]]
-
 > [!embed-monster]- Shrieker Fungus
 > ![[shrieker-fungus-xmm#^statblock|Shrieker Fungus]]
 
@@ -2810,8 +2715,6 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
 
 > [!embed-monster]- Violet Fungus Necrohulk
 > ![[violet-fungus-necrohulk-xmm#^statblock|Violet Fungus Necrohulk]]
-
-## Monsters (G)
 
 ### Galeb Duhr
 
@@ -2847,7 +2750,6 @@ Gargoyles have a variety of appearances. Roll on or choose a result from the Gar
 `dice: [](2-monsters-a-to-z.md#^gargoyle-sculptures)`
 
 | dice: 1d6 | The Gargoyle Is Sculpted to Appear... |
-|-----------|---------------------------------------|
 | 1 | Cherubic with perpetually smiling features. |
 | 2 | Crudely hewed or naturally formed. |
 | 3 | Damaged or marred by mismatched pieces. |
@@ -2863,7 +2765,6 @@ Gargoyles have a variety of appearances. Roll on or choose a result from the Gar
 `dice: [](2-monsters-a-to-z.md#^gargoyle-camouflage)`
 
 | dice: 1d8 | The Gargoyle Conceals Itself Amid... |
-|-----------|--------------------------------------|
 | 1 | Burls and bark on a giant tree. |
 | 2 | Monuments in a graveyard or memorial. |
 | 3 | Outcroppings on a cliff or rock formation |
@@ -2875,7 +2776,6 @@ Gargoyles have a variety of appearances. Roll on or choose a result from the Gar
 ^gargoyle-camouflage
 
 > [!quote] A quote from Tiv, Scholar of the Elemental Planes  
-> 
 > Where evil passes in the Elemental Plane of Earth, it stains the rock and spoils the soil. Malice vanishes amid other elements, but in the dismal dark, the wicked shape it into nightmares.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/132-07-002-gargoyle.webp#center)
@@ -2954,7 +2854,6 @@ Ghosts typically appear as semitransparent versions of the creatures they were i
 Packs of ghouls haunt the rotten corners of the world, ravenously hunting for corpses and those soon to be corpses. These gaunt, animate cadavers with unnaturally long tongues dwell in catacombs and ruins where they devour the contents of graves and paralyze foes with vicious claws.
 
 > [!quote]  
-> 
 > On a plain of teeth, in a temple of filth, the starving king wastes no morsel. Every coffin a banquet. Every slab a platter. Now is the time of feasting!
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/136-07-006-ghoul.webp#center)
@@ -2990,8 +2889,6 @@ Gibbering mouthers come into being in various unpleasant ways. Roll on or choose
 | 6 | Someone cursed by a cult or vengeful deity. |
 ^gibbering-mouther-nascencies
 
-> [!quote]  
-> 
 > Alas, the Elder Elves made a fatal mistake. When the Dragon's Tear comet next returned, the Vast Gate—still keyed to the Far Realm of alien entities—linked to the comet and opened again. And what emerged, ululating profanities, sang unnameable hungers into an unguarded world.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/137-07-007-gibbering-mouther.webp#center)
@@ -3013,8 +2910,6 @@ Githyanki were once an ordinary people, but the deeds of a vile mind flayer empi
 The victory of the gith was short-lived. As Gith was forging her own burgeoning empire, a leader named Zerthimon challenged her. Zerthimon claimed Gith's drive for vengeance and new conquests was evidence of species-wide mental programming laid by the mind flayers, biological manipulation that condemned her people to continued servitude. This claim split the gith into Gith's followers, the githyanki (meaning "followers of Gith"), and Zerthimon's followers, the githzerai (meaning "those who spurn Gith"), and sparked an ongoing conflict.
 
 When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaakith's line has continued to the githyanki's current ruler, Vlaakith the Lich-Queen. This undead tyrant compels her people to wage endless wars against mind flayers, githzerai, and any others that threaten githyanki supremacy.
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/138-07-008-group-of-githyanki.webp#center "Left to Right: Githyanki Dracomancer, Githyanki Knight, and Githyanki Warrior"|Left to Right: Githyanki D...]]
 
 > [!embed-monster]- Githyanki Warrior
 > ![[githyanki-warrior-xmm#^statblock|Githyanki Warrior]]
@@ -3055,10 +2950,7 @@ Githzerai psychically create serene, hidden sanctuaries in chaotic reaches of th
 ^gith-conflicts
 
 > [!quote] A quote from Zaerith Menyar-Ag-Gith, Githzerai Leader  
-> 
 > We githzerai crave a challenge, so that when Zerthimon returns, he shall find us ready. Thus we traveled to howling Limbo to make our new home.
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/139-07-009-group-of-githzerai.webp#center "Left to Right: Githzerai Zerth, Githzerai Psion, and Githzerai Monk"|Left to Right: Githzerai Z...]]
 
 > [!embed-monster]- Githzerai Monk
 > ![[githzerai-monk-xmm#^statblock|Githzerai Monk]]
@@ -3081,7 +2973,6 @@ Glabrezus embody delusion and predatory guile. These cunning demons know the mos
 In the Abyss, glabrezus act as lone hunters or deceitful advisers to greater demons. Glabrezus seek routes to the Material Plane and relish being summoned by magic-users. They eagerly serve mortals while tempting them to betray their allies and indulge in hubristic fantasies. A glabrezu strives to murder its summoner once the magic-user has committed irredeemable misdeeds and the mortal's soul is surely condemned to the Abyss.
 
 > [!quote] A quote from Gerrzog, Glabrezu of the Infinite Staircase  
-> 
 > Your companion's life, or what you've journeyed through infinity in search of! Make your choice.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/140-07-010-glabrezu.webp#center)
@@ -3103,7 +2994,6 @@ Gladiators are professional fighters who pit themselves against one another, mon
 `dice: [](2-monsters-a-to-z.md#^gladiator-theatrics)`
 
 | dice: 1d6 | During a Competition, the Gladiator... |
-|-----------|----------------------------------------|
 | 1 | Dedicates their impending victory to a deity, ruler, beloved noble, or member of the crowd. |
 | 2 | Dresses in a monster-themed mask and cape. |
 | 3 | Judges whether their foe fights honorably. |
@@ -3115,8 +3005,6 @@ Gladiators are professional fighters who pit themselves against one another, mon
 > [!embed-monster]- Gladiator
 > ![[/03_Mechanics/CLI/bestiary/humanoid/gladiator-xmm#^statblock|Gladiator]]
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/141-07-011-gladiator.webp#center "In an undersea arena, the crowd goes wild as a gladiator triumphs over a giant squid"|In an undersea arena, the ...]]
-
 ### Gnolls
 
 **Gnolls.** *Fiends in Feral Flesh*
@@ -3127,10 +3015,7 @@ Gladiators are professional fighters who pit themselves against one another, mon
 The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their corruption and violence delighted the demon lord Yeenoghu, who encouraged their numbers and spread them across the multiverse. Ever since, gnolls have been the cackling servants of Yeenoghu, existing to cause ruin and to feast on what remains.
 
 > [!quote] A quote from Iggwilv  
-> 
 > Yeenoghu claims gnolls not as his brood but as maggots purposefully released to infest a despised carcass. They are a pernicious rot the Beast of Butchery spreads across mortal worlds. Whatever they once were, they were remade and are now his.
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/142-07-012-group-of-gnolls.webp#center "Gnoll Warriors rampage after a gnoll pack lord, a gnoll fang of Yeenoghu, and a gnoll demoniac"|Gnoll Warriors rampage aft...]]
 
 > [!embed-monster]- Gnoll Warrior
 > ![[gnoll-warrior-xmm#^statblock|Gnoll Warrior]]
@@ -3158,10 +3043,7 @@ Goblins obey those who accomplish the wildest plans. Such leaders might be gobli
 The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, and on the Infinite Battlefield of Acheron, the deity commands innumerable goblinoid legions. In ages long past, Maglubiyet witnessed the destructive propensity of goblinoids and relocated a population of them from the Feywild to his realm on the Outer Planes. Since then, hordes of these more martial-minded goblins have flourished, with some finding their ways to Material Plane worlds. These vicious invaders seek to sow ruin in preparation for their god's conquest.
 
 > [!quote] A quote from Approximate translation from Goblin to Common: "Hey, rube!"  
-> 
 > Bree-yark!
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/143-07-013-group-of-goblins.webp#center "A goblin boss, a goblin hexer, and a goblin Warrior prepare to strike against a bitter foe"|A goblin boss, a goblin he...]]
 
 > [!embed-monster]- Goblin Minion
 > ![[goblin-minion-xmm#^statblock|Goblin Minion]]
@@ -3196,12 +3078,8 @@ Gold dragons favor grasslands and pristine forests, frequently dwelling near awe
 > [!embed-monster]- Young Gold Dragon
 > ![[young-gold-dragon-xmm#^statblock|Young Gold Dragon]]
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/145-07-015-adult-gold-dragon.webp#center "An adult gold dragon guards the site of a mysterious seal from intruders"|An adult gold dragon guard...]]
-
 > [!embed-monster]- Adult Gold Dragon
 > ![[adult-gold-dragon-xmm#^statblock|Adult Gold Dragon]]
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/146-07-016-ancient-gold-dragon.webp#center "The pure of heart have nothing to fear in the presence of an ancient gold dragon"|The pure of heart have not...]]
 
 > [!embed-monster]- Ancient Gold Dragon
 > ![[ancient-gold-dragon-xmm#^statblock|Ancient Gold Dragon]]
@@ -3226,7 +3104,6 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
 `dice: [](2-monsters-a-to-z.md#^gorgon-command-keys)`
 
 | dice: 1d6 | Gorgon Won't Attack Those That... |
-|-----------|-----------------------------------|
 | 1 | Cast a particular spell in the gorgon's presence. |
 | 2 | Keep their back to the gorgon or otherwise act like they don't see the monster. |
 | 3 | Offer it a drink of blood, water, or wine. |
@@ -3236,10 +3113,7 @@ Those who create gorgons strive to give them purposefully obscure command keys. 
 ^gorgon-command-keys
 
 > [!quote] A quote from Lum the Maestro  
-> 
 > Notable among my eccentric ancestor's scattered designs was a schematic of a swamp-dwelling bovine monster and an ominous note: "Do better."
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/147-07-017-gorgon.webp#center "A gorgon petrifies victims with its deadly breath, then tramples them to pieces"|A gorgon petrifies victims...]]
 
 > [!embed-monster]- Gorgon
 > ![[gorgon-xmm#^statblock|Gorgon]]
@@ -3259,7 +3133,6 @@ Terrifying in scale and overwhelming power, goristros are giant demons capable o
 Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars or wounds from mighty war machines. Their appearance reflects that of their creator, Baphomet, the demon lord worshiped by many evil minotaurs. Goristros stalk Baphomet's Abyssal realm, known as the Endless Maze, and pulp any non-demons they encounter in that massive, magical labyrinth.
 
 > [!quote] A quote from Mellagorus the Pit Fiend  
-> 
 > Plot and strategize, bait and scheme, but hubris is no armor against ruin incarnate, and greater beings than you have fallen under the onslaught of the Abyss.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/148-07-018-goristro.webp#center)
@@ -3277,9 +3150,6 @@ Goristros resemble hunched, primeval minotaurs bearing the scars of Abyssal wars
 Gray oozes are predatory, corrosive slimes that blend in with stony surroundings.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/149-07-019-gray-ooze.webp#center)
-
-> [!embed-monster]- Gray Ooze
-> ![[gray-ooze-xmm#^statblock|Gray Ooze]]
 
 > [!embed-monster]- Gray Ooze
 > ![[gray-ooze-xmm#^statblock|Gray Ooze]]
@@ -3310,8 +3180,6 @@ Despite their might, most green dragons disdain physical violence, viewing comba
 > [!embed-monster]- Adult Green Dragon
 > ![[adult-green-dragon-xmm#^statblock|Adult Green Dragon]]
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/152-07-022-ancient-green-dragon.webp#center "An ancient green dragon manipulates the fates of its pawns from deep within its forest lair"|An ancient green dragon ma...]]
-
 > [!embed-monster]- Ancient Green Dragon
 > ![[ancient-green-dragon-xmm#^statblock|Ancient Green Dragon]]
 
@@ -3333,7 +3201,6 @@ Green hags frequently know strange magic or forgotten secrets, such as the weakn
 `dice: [](2-monsters-a-to-z.md#^green-hag-bargains)`
 
 | dice: 1d6 | A Green Hag Trades Its Knowledge For... |
-|-----------|-----------------------------------------|
 | 1 | A bargainer's memories of a loved one. |
 | 2 | The cauldron of a rival hag. |
 | 3 | A favor to be redeemed when the hag wishes. |
@@ -3363,7 +3230,6 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
 `dice: [](2-monsters-a-to-z.md#^grell-explorations)`
 
 | dice: 1d6 | Grells Travel Because They Are... |
-|-----------|-----------------------------------|
 | 1 | Advanced viruses, each the clone of all other grell. They exist only to feed and spread. |
 | 2 | The larvae of another creature and require electrically charged environs to reproduce. |
 | 3 | Seeking to escape some catastrophe or terror lurking in the depths. |
@@ -3372,8 +3238,6 @@ Many grells pursue methods of traveling between worlds and planes of existence. 
 | 6 | Without souls, but convinced they can attain souls by eating certain beings. |
 ^grell-explorations
 
-> [!quote] A quote from Evard  
-> 
 > For meal, my hunger grinds within my teeth. For might, my hunger clenches in my grip. But for what we're told we mustn't know, my hunger snaps a raptor's beak and makes my mind a muscle that knows only how to chew.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/154-07-024-grell.webp#center)
@@ -3416,7 +3280,6 @@ Countless tales surround griffons. Roll on or choose a result from the Griffon T
 `dice: [](2-monsters-a-to-z.md#^griffon-tales)`
 
 | dice: 1d6 | Legends Claim That Griffons... |
-|-----------|--------------------------------|
 | 1 | Attack anything in the skies near their lairs. |
 | 2 | Curse their killers. Those who slay a griffon face the enmity of all animals. |
 | 3 | Lay eggs with remarkable healing properties. |
@@ -3426,7 +3289,6 @@ Countless tales surround griffons. Roll on or choose a result from the Griffon T
 ^griffon-tales
 
 > [!quote] A quote from Sildar Hallwinter, retired member of the Waterdeep Griffon Cavalry  
-> 
 > People think we flew high over the city to avoid weather vanes and laundry lines and whatnot. Truth is, if the griffons smelled how much horse meat trotted just below, folks would have worse than joy-flying mages and stirges to worry about!
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/156-07-026-griffon.webp#center)
@@ -3452,7 +3314,6 @@ Roll on or choose a result from the Grimlock Tasks table to inspire how grimlock
 `dice: [](2-monsters-a-to-z.md#^grimlock-tasks)`
 
 | dice: 1d4 | The Grimlock Serves Mind Flayers By... |
-|-----------|----------------------------------------|
 | 1 | Carving caves to serve as illithid outposts. |
 | 2 | Hiding the threat of mind flayers beneath fake, purposefully crude dwellings. |
 | 3 | Pretending to be helpful and luring travelers into false senses of security. |
@@ -3460,7 +3321,6 @@ Roll on or choose a result from the Grimlock Tasks table to inspire how grimlock
 ^grimlock-tasks
 
 > [!quote] A quote from Aljayera, Underdark Seer  
-> 
 > We thought we'd discovered a new people living deeper than we believed possible. The truth was something far worse.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/157-07-027-grimlock.webp#center)
@@ -3484,7 +3344,6 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
 `dice: [](2-monsters-a-to-z.md#^guardian-naga-lore)`
 
 | dice: 1d8 | The Guardian Naga Recalls... |
-|-----------|------------------------------|
 | 1 | The last words of an ancient sage or leader. |
 | 2 | The location of a hidden city or continent. |
 | 3 | A magic word, password, or riddle's answer. |
@@ -3510,7 +3369,6 @@ Roll on or choose a result from the Guardian Naga Lore table to inspire what a n
 Guards protect people, places, and things, either for pay or from a sense of duty. They might perform their duties vigilantly or distractedly. Some raise alarms at the first sign of danger and defend their charges with their lives. Others flee outright if their compensation doesn't match the danger they face.
 
 > [!quote] A quote from Volothamp Geddarm, Legendary Explorer  
-> 
 > To distinguish between Waterdeep's different groups of guardians, keep this handy mnemonic in mind: the Guard guards the walls while the Watch watches all.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/159-07-029-guards.webp#center)
@@ -3520,8 +3378,6 @@ Guards protect people, places, and things, either for pay or from a sense of dut
 
 > [!embed-monster]- Guard Captain
 > ![[/03_Mechanics/CLI/bestiary/humanoid/guard-captain-xmm#^statblock|Guard Captain]]
-
-## Monsters (H)
 
 ### Half-Dragon
 
@@ -3535,7 +3391,6 @@ Born through magical rites involving the essences of dragons, half-dragons serve
 Half-dragons share personality traits and agendas with the dragon who spawned them. Those resembling chromatic dragons typically loathe their creator even as they seek the same ends. Half-dragons with the traits of metallic dragons are especially rare, but they might arise through magical accidents, the efforts of reckless magic-users, or the last act of a dying dragon.
 
 > [!quote] A quote from Wyrmlord Azarr Kul, Half–Dragon  
-> 
 > What blessing demands more yet inspires greater works than the blood of Tiamat?
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/160-08-001-half-dragon.webp#center)
@@ -3602,8 +3457,6 @@ Helmed horrors might perform any number of assignments. Roll on or choose a resu
 | 6 | Stand sentry in a gallery of mundane armors. |
 ^helmed-horror-directives
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/163-08-004-helmed-horror.webp#center "A helmed horror proves immune to a mage's Lightning Bolt spell"|A helmed horror proves imm...]]
-
 > [!embed-monster]- Helmed Horror
 > ![[helmed-horror-xmm#^statblock|Helmed Horror]]
 
@@ -3625,7 +3478,6 @@ When on the Material Plane or otherwise left to their own devices, hezrous reckl
 `dice: [](2-monsters-a-to-z.md#^demonic-undertakings)`
 
 | dice: 1d6 | The Demon Is Compelled To... |
-|-----------|------------------------------|
 | 1 | Break open a vault and steal what's within. |
 | 2 | Defile a place using blasphemous symbols and demonic gore. |
 | 3 | Fetch or otherwise provide materials for a profane ritual. |
@@ -3673,7 +3525,6 @@ Hippogriff migrations might take months or years, and sages frequently predict t
 `dice: [](2-monsters-a-to-z.md#^hippogriff-destination)`
 
 | dice: 1d6 | The Hippogriff Is Traveling to A... |
-|-----------|-------------------------------------|
 | 1 | Lost ruin hidden by clouds or fog. |
 | 2 | Low-hanging moon, star, or other solar body. |
 | 3 | Magical garden on a floating island. |
@@ -3707,7 +3558,6 @@ Many hobgoblins serve the violent god Maglubiyet, whose hunger for conquest matc
 `dice: [](2-monsters-a-to-z.md#^hobgoblin-strategies)`
 
 | dice: 1d6 | The Hobgoblin Works To... |
-|-----------|---------------------------|
 | 1 | Build a vessel to carry hobgoblin armies to new conquests. |
 | 2 | Capture monsters and train them to fight. |
 | 3 | Collapse a region into the Underdark so riches can be sifted from the ruins. |
@@ -3715,8 +3565,6 @@ Many hobgoblins serve the violent god Maglubiyet, whose hunger for conquest matc
 | 5 | Convince devils, dragons, or hobgoblins from Acheron to invade an enemy land. |
 | 6 | Help shortsighted merchants undermine a government or despoil the environment. |
 ^hobgoblin-strategies
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/167-08-008-hobgoblins.webp#center "A hobgoblin warlord oversees a hobgoblin captain and hobgoblin warriors marching to war"|A hobgoblin warlord overse...]]
 
 > [!embed-monster]- Hobgoblin Warrior
 > ![[hobgoblin-warrior-xmm#^statblock|Hobgoblin Warrior]]
@@ -3726,8 +3574,6 @@ Many hobgoblins serve the violent god Maglubiyet, whose hunger for conquest matc
 
 > [!embed-monster]- Hobgoblin Warlord
 > ![[hobgoblin-warlord-xmm#^statblock|Hobgoblin Warlord]]
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/168-08-009-group-of-homunculus.webp#center "Homunculi are as varied as the magic-users who create them"|Homunculi are as varied as...]]
 
 ### Homunculus
 
@@ -3745,7 +3591,6 @@ A homunculus's appearance reflects its creator's tastes. Roll on or choose a res
 `dice: [](2-monsters-a-to-z.md#^homunculus-features)`
 
 | dice: 1d8 | The Homunculus Has Features That Are... |
-|-----------|-----------------------------------------|
 | 1 | Bat-like with tattered wings. |
 | 2 | Made of soft metal and delicate gears. |
 | 3 | Marked with its creator's symbol. |
@@ -3807,7 +3652,6 @@ While many hydras claim their own territories, wicked deities might use them to 
 `dice: [](2-monsters-a-to-z.md#^hydra-lairs)`
 
 | dice: 1d4 | The Hydra Lurks Where It Does To... |
-|-----------|-------------------------------------|
 | 1 | Ensure none claim the weapon of a fallen hero. |
 | 2 | Defend the home of a wise but sinister oracle. |
 | 3 | Guard a magical herb that blooms once a year. |
@@ -3818,8 +3662,6 @@ While many hydras claim their own territories, wicked deities might use them to 
 
 > [!embed-monster]- Hydra
 > ![[hydra-xmm#^statblock|Hydra]]
-
-## Monsters (I)
 
 ### Ice Devil
 
@@ -3837,7 +3679,6 @@ When indulging their own schemes, ice devils tempt mortals to forsake empathy an
 Ice devils usually lurk in frozen realms, particularly the frigid layer of Cania in the Nine Hells.
 
 > [!quote] A quote from Tasha  
-> 
 > Part of the charm of ice devils is that they always think they're smarter than you. Mmm—there are few pleasures sweeter than proving a devil wrong.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/172-09-001-ice-devil.webp#center)
@@ -3856,8 +3697,7 @@ Known for their cowardice and toadying, imps serve devils and wicked magic-users
 
 Imps without masters delight in manipulating other creatures and inflating their own egos. They might take over bands of weaker monsters, or they might pose as helpful spirits and trick influential individuals into pursuing nefarious ends.
 
-> [!quote] A quote from Skeever, Imp Servant of Firan Zal'Honan  
-> 
+> [!quote] A quote from Skeever, Imp Servant of Firan Zal'Ho  
 > I can tell you what I know, but wouldn't you rather I tell you what'll let you do what you know you're going to do anyway?
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/173-09-002-imp.webp#center)
@@ -3883,7 +3723,6 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
 `dice: [](2-monsters-a-to-z.md#^incubus-nightmares)`
 
 | dice: 1d8 | The Incubus's Victim Has Dreams Of... |
-|-----------|---------------------------------------|
 | 1 | An angry family member or authority figure. |
 | 2 | Being chased through the wilderness. |
 | 3 | Being devoured by animals or monsters. |
@@ -3909,7 +3748,6 @@ Those visited by an incubus have recurring nightmares. Roll on or choose a resul
 Intellect devourers serve their mind flayer creators by consuming other creatures' brains and puppetizing the mindless bodies. These quadrupedal brains seek to ambush sapient beings, then drain their thoughts until they're mindless. Then, if their victims are Humanoids, they enter the creatures' skulls. With access to the victims' knowledge and control of their bodies, intellect devourers use their perfect disguises to pass as the people they've replaced and further mind flayer plots.
 
 > [!quote] A quote from Johana Grethe, Account of the Stormport Shock  
-> 
 > I know Durgan, and that wasn't Durgan. It was like something was wearing Durgan... like some sort of suit... a Durgan suit.
 
 ![[/03_Mechanics/CLI/books/monster-manual-2025/img/175-09-004-intellect-devourer.webp#center|Intellect Devourer]]
@@ -3933,7 +3771,6 @@ In rare cases, an invisible stalker lingers in the world without a spellcaster c
 `dice: [](2-monsters-a-to-z.md#^uncontrolled-invisible-stalkers)`
 
 | dice: 1d6 | The Invisible Stalker Is... |
-|-----------|-----------------------------|
 | 1 | The breath of an infamous god or monster. |
 | 2 | A guardian of a hidden portal or magical site. |
 | 3 | The lingering violent thoughts of someone killed in a great battle. |
@@ -3942,8 +3779,6 @@ In rare cases, an invisible stalker lingers in the world without a spellcaster c
 | 6 | Unable to complete its duty and tries to create circumstances allowing it to fulfill its task. |
 ^uncontrolled-invisible-stalkers
 
-> [!quote]  
-> 
 > As detectives, we seek truth by eliminating the impossible, ever mindful that the impossible might also be seeking to eliminate us.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/176-09-005-invisible-stalker.webp#center)
@@ -3967,7 +3802,6 @@ Iron golems preserve and protect their charges for generations. Roll on or choos
 `dice: [](2-monsters-a-to-z.md#^iron-golem-orders)`
 
 | dice: 1d4 | The Iron Golem Follows Orders To... |
-|-----------|-------------------------------------|
 | 1 | Block a door that has never been opened, moving only when a prophecy is fulfilled. |
 | 2 | Exhale poison gas whenever it can, pausing only when someone speaks a passphrase. |
 | 3 | Pose as a statue until a community's hour of greatest need. |
@@ -3978,6 +3812,24 @@ Iron golems preserve and protect their charges for generations. Roll on or choos
 
 > [!embed-monster]- Iron Golem
 > ![[iron-golem-xmm#^statblock|Iron Golem]]
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Monsters (J)
 
@@ -3999,7 +3851,6 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
 `dice: [](2-monsters-a-to-z.md#^jackalwere-tricks)`
 
 | dice: 1d4 | The Jackalwere Tricks Travelers By... |
-|-----------|---------------------------------------|
 | 1 | Guiding them into wildernesses, then abandoning them. |
 | 2 | Mapping a shortcut through a monster's lair. |
 | 3 | Putting them to sleep, then stealing mounts or supplies. |
@@ -4008,8 +3859,6 @@ Jackalweres dwell in inhospitable wildernesses and pride themselves on their cle
 
 > [!embed-monster]- Jackalwere
 > ![[jackalwere-xmm#^statblock|Jackalwere]]
-
-## Monsters (K)
 
 ### Kenku
 
@@ -4081,7 +3930,6 @@ Krakens rarely appear on the surface, but when they do, they herald times of cha
 `dice: [](2-monsters-a-to-z.md#^kraken-attacks)`
 
 | dice: 1d8 | The Enraged Kraken... |
-|-----------|-----------------------|
 | 1 | Abducts the vessel of a leader or another important community member. |
 | 2 | Attacks a community from below using flooded ruins, hidden aquifers, or sewers. |
 | 3 | Breaks a lighthouse or seaside tower, carrying it and the occupants to a secret island. |
@@ -4095,7 +3943,6 @@ Krakens rarely appear on the surface, but when they do, they herald times of cha
 **Kraken Lairs.** Kraken lairs tend to be sunken temples, eldritch ritual sites, or primeval places of divine power. They might lie deep beneath bodies of fresh or salt water, and they often connect to labyrinths of flooded subterranean tunnels or networks of magical portals.
 
 > [!quote] A quote from Malfeore Serrang  
-> 
 > A kraken dreams of casting its tentacles into the heavens and strangling that which birthed it, and when its dream exceeds its reach, it settles for the occasional passing ship.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/182-11-004-kraken.webp#center)
@@ -4116,7 +3963,7 @@ Most kuo-toa follow the orders of their more powerful leaders out of a combinati
 
 Kuo-toa have slimy, humanoid bodies and the heads of goggle-eyed deep-sea fish. They claim they once dominated whole worlds, their empires spanning land and sea under the blessings of piscine gods. The kuo-toa can't say what disaster brought their glorious civilization to an end, but elves, humans, mind flayers, and the kuo-toan gods bear the brunt of their blame. From the lands and seas of the surface, the kuo-toa retreated into cavernous trenches and Underdark seas. In these hidden realms, kuo-toa brood over all they've lost and forgotten, nursing plots to avenge themselves for slights that might never have occurred.
 
-Kuo-toa hate the civilizations of the surface and the Underdark, believing themselves to be victims of age-old slights and ongoing conspiracies. Kuo-toa undertake contrived plots to propel themselves to dominance, often kidnapping people to learn their secrets or making dubious sacrifices to bizarre gods. To facilitate such plots, kuo-toa try to capture creatures alive using nets or strange weapons. Drow, dwarves, and gnomes dwelling in the Underdark, as well as surface communities near submerged subterranean passages, are frequent targets for kuo-toa raids and other plots.
+Kuo-toa hate the civilizations of the surface and the Underdark, believing themselves to be victims of age-old slights and ongoing conspiracies. Kuo-toa undertake contrived plots to propel themselves to domice, often kidnapping people to learn their secrets or making dubious sacrifices to bizarre gods. To facilitate such plots, kuo-toa try to capture creatures alive using nets or strange weapons. Drow, dwarves, and gnomes dwelling in the Underdark, as well as surface communities near submerged subterranean passages, are frequent targets for kuo-toa raids and other plots.
 
 Kuo-toa frequently serve depraved masterminds such as aboleths and krakens. Such kuo-toa believe these powerful creatures are avatars of kuo-toan deities or gods in their own right. Kuo-toa might temporarily ally with other evil creatures, but these alliances shift as kuo-toa leaders interpret omens from their unpredictable deities.
 
@@ -4149,7 +3996,6 @@ Lacking information about what their other gods look like, kuo-toa priests inven
 `dice: [](2-monsters-a-to-z.md#^kuo-toa-ritual-sites)`
 
 | dice: 1d8 | The Kuo-toa Community Features... |
-|-----------|-----------------------------------|
 | 1 | An arena scattered with weapons made from crustacean shells. |
 | 2 | A gallery of hibernating chuuls. |
 | 3 | A garden of mussels and tide pool creatures that whisper secrets. |
@@ -4161,10 +4007,7 @@ Lacking information about what their other gods look like, kuo-toa priests inven
 ^kuo-toa-ritual-sites
 
 > [!quote] A quote from Tak Merakin, Harbor Master of the Styes  
-> 
 > When the Corpse Moon rises and the Chum-Tide washes in, up rise the Gogglers from their pits beneath the waves. Burbling and noisome they come, fishing night's shores as we do dawn's waves.
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/183-11-005-kuo-toa-archpriest.webp#center "An adventurer stumbles on a kuo-toa archpriest and servants of its strange gods"|An adventurer stumbles on ...]]
 
 ![[/03_Mechanics/CLI/books/monster-manual-2025/img/184-11-006-kuo-toa.webp#center|Kuo-toa]]
 
@@ -4174,15 +4017,11 @@ Lacking information about what their other gods look like, kuo-toa priests inven
 > [!embed-monster]- Kuo-toa Whip
 > ![[kuo-toa-whip-xmm#^statblock|Kuo-toa Whip]]
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/185-11-007-kuo-toa-monitor-and-whip.webp#center "A kuo-toa whip and kuo-toa monitor lead a midnight raid"|A kuo-toa whip and kuo-toa...]]
-
 > [!embed-monster]- Kuo-toa Monitor
 > ![[kuo-toa-monitor-xmm#^statblock|Kuo-toa Monitor]]
 
 > [!embed-monster]- Kuo-toa Archpriest
 > ![[kuo-toa-archpriest-xmm#^statblock|Kuo-toa Archpriest]]
-
-## Monsters (L)
 
 ### Lamia
 
@@ -4200,7 +4039,6 @@ Lamias either are descendants of that first lamia or have made similar deals. Th
 `dice: [](2-monsters-a-to-z.md#^lamia-pacts)`
 
 | dice: 1d6 | The Lamia Compels the Bargainer To... |
-|-----------|---------------------------------------|
 | 1 | Bring it a possession from a ruler or noble. |
 | 2 | Create a map of a dungeon or ruin. |
 | 3 | Escort it through a nearby community's gate. |
@@ -4274,7 +4112,6 @@ Spirit jars are typically small, well-made objects that were meaningful to a lic
 `dice: [](2-monsters-a-to-z.md#^lich-spirit-jars)`
 
 | dice: 1d8 | The Lich's Spirit Jar Is... |
-|-----------|-----------------------------|
 | 1 | A bottle or puzzle box inscribed with sigils. |
 | 2 | A contract folded into a paper figure. |
 | 3 | The first magic item the lich created. |
@@ -4288,10 +4125,7 @@ Spirit jars are typically small, well-made objects that were meaningful to a lic
 **Lich Lairs.** Liches create secluded libraries of magical lore and arcane laboratories hidden within extraplanar bastions, fortresses with cursed reputations, or other such deadly sanctuaries.
 
 > [!quote] A quote from Rudolph van Richten  
-> 
 > Ambition can become an addiction of the mind and spirit. It builds beyond a driving flame into an insidious inferno that burns a mage hollow until only the desire for more magical power remains
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/189-12-004-litches.webp#center "An ancient lich and her ghast gravecaller attendants ¤arp reality with forbidden magic"|An ancient lich and her gh...]]
 
 > [!embed-monster]- Lich
 > ![[lich-xmm#^statblock|Lich]]
@@ -4312,8 +4146,6 @@ Lizardfolk dwell in wildernesses suffused with primal magic. While many lizardfo
 > ![[lizardfolk-sovereign-xmm#^statblock|Lizardfolk Sovereign]]
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/190-12-005-lizardfolk.webp#center)
-
-## Monsters (M)
 
 ### Mages
 
@@ -4345,7 +4177,6 @@ Roll on or choose a result from the Mage Roles table to inspire different sorts 
 ^mage-roles
 
 > [!quote] A quote from Nathor, Thayan Refugee  
-> 
 > Have you gazed on the Runes of Chaos, held the Death Moon Orb in your trembling hands, entered the Devouring Portal and walked the Paths of the Doomed, or sat at the left hand of Szass Tam during the Ritual of Twin Burnings? No? Then speak not to me of wizards. Speak not to me of Thay.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/191-13-001-mages.webp#center)
@@ -4412,7 +4243,6 @@ Despite their ravenous tendencies, manticores enjoy speaking with those they're 
 `dice: [](2-monsters-a-to-z.md#^manticore-negotiations)`
 
 | dice: 1d8 | The Manticore Agrees To... |
-|-----------|----------------------------|
 | 1 | Attack a particular foe. |
 | 2 | Create a distraction. |
 | 3 | Give up a captive or corpse. |
@@ -4500,7 +4330,6 @@ Mephits are mean-spirited tricksters that dwell on the Elemental Planes. The six
 Mephits resent leaving the elemental extremes where they make their homes. If loosed on the Material Plane or other realms, they lash out with nasty pranks or by tormenting weaker creatures. When destroyed, mephits explode in a burst of elemental magic.
 
 > [!quote] A quote from Seamusxanthuszenus, smoke mephit with a typically inflated impression of itself  
-> 
 > I am Seamusxanthuszenus, Slayer of Fiends, Merchant Most Excellent, Purveyor of Death!
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/198-13-008-mephits.webp#center)
@@ -4554,7 +4383,6 @@ Vicious aquatic hunters, merrow combine the features of ogres with those of prim
 Merrow raid coastal settlements and merfolk communities to steal weapons and treasure. This leads to conflicts between merfolk and merrow, but it also provokes misunderstandings with surface dwellers who blame merfolk for merrow attacks.
 
 > [!quote] A quote from Leomund  
-> 
 > Sages trace merrows' origins to aquatic ogres, depraved merfolk, and worse. Such broad theories reveal little about these monsters but overmuch of the dread lurking beyond our certain shores.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/201-13-011-merrow.webp#center)
@@ -4578,7 +4406,6 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
 `dice: [](2-monsters-a-to-z.md#^mezzoloth-payments)`
 
 | dice: 1d6 | The Mezzoloth Agrees to Serve For... |
-|-----------|--------------------------------------|
 | 1 | Access to a planar portal. |
 | 2 | Information valued by its true master. |
 | 3 | A lair where it can bring others of its kind. |
@@ -4599,7 +4426,7 @@ Mezzoloths typically form mercenary bands with others of their kind. These force
 - **Habitat.** Underdark, Urban  
 - **Treasure.** Any  
 
-In their natural forms, mimics are little more than roaming stomachs, their blobby bodies covered with alien eyes and teeth. They can alter their color, texture, and dimensions to duplicate inanimate objects of their approximate size. Mimics use their disguises as both camouflage and bait. Once victims draw close, mimics strike, lashing out with their sticky pseudopods and toothy mouths. After consuming victims, mimics usually relocate, change form, and await their next meal.
+In their natural forms, mimics are little more than roaming stomachs, their blobby bodies covered with alien eyes and teeth. They can alter their color, texture, and dimensions to duplicate iimate objects of their approximate size. Mimics use their disguises as both camouflage and bait. Once victims draw close, mimics strike, lashing out with their sticky pseudopods and toothy mouths. After consuming victims, mimics usually relocate, change form, and await their next meal.
 
 Use the following list to inspire mimics' shapes:
 
@@ -4731,7 +4558,6 @@ Minotaurs of Baphomet often dwell in mazes, leading their allies to hidden desti
 `dice: [](2-monsters-a-to-z.md#^minotaur-mazes)`
 
 | dice: 1d4 | The Minotaur of Baphomet Lurks In... |
-|-----------|--------------------------------------|
 | 1 | A multilevel mine or sewer. |
 | 2 | Multiple mazes connected by magic portals. |
 | 3 | A poisonous swamp with labyrinthine paths. |
@@ -4765,7 +4591,6 @@ In rare cases, a modron goes rogue and develops its own will. In these cases, ot
 `dice: [](2-monsters-a-to-z.md#^modron-operations)`
 
 | dice: 1d8 | The Modrons Work To... |
-|-----------|------------------------|
 | 1 | Create a clockwork outpost to monitor the balance of obscure planar forces. |
 | 2 | Ensure neither side gains the upper hand in a conflict between good and evil. |
 | 3 | Excavate a portal to another plane. |
@@ -4777,7 +4602,6 @@ In rare cases, a modron goes rogue and develops its own will. In these cases, ot
 ^modron-operations
 
 > [!quote] A quote from A planar explorer learning modrons have no sense of humor  
-> 
 > The guide swore "beep boop" meant "hello, friend." I don't know why they're after us!
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/206-13-016-modron-monodrone.webp#center)
@@ -4837,8 +4661,6 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
 
 Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. These ambulatory fungal creatures tend to their sanctuaries and avoid becoming embroiled in the conflicts of other creatures. They use specialized spores to communicate, to alert one another to danger, and to defend themselves. When myconids encounter others beings, they use mind-linking spores to allow nearby creatures to telepathically share thoughts. Nevertheless, myconids' goals remain mysterious to most non-fungal creatures.
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/213-13-023-group-of-myconids.webp#center "Myconids tend to the fungi in their hidden gardens, whether mysterious mushrooms or their own community members"|Myconids tend to the fungi...]]
-
 > [!embed-monster]- Myconid Sprout
 > ![[myconid-sprout-xmm#^statblock|Myconid Sprout]]
 
@@ -4850,8 +4672,6 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
 
 > [!embed-monster]- Myconid Sovereign
 > ![[myconid-sovereign-xmm#^statblock|Myconid Sovereign]]
-
-## Monsters (N)
 
 ### Nalfeshnee
 
@@ -4865,7 +4685,6 @@ Nalfeshnees seek to dominate all they encounter. Hulking and grotesque, these de
 Many nalfeshnees view themselves as prospective demon lords and seek to conquer realms of their own. They often use promises of fiendish magic or Abyssal alliances to tempt ambitious mortals into ruinous pacts. Should they run out of patience, nalfeshnees conjure visions of the Abyss and other nightmares to terrorize others into obeying.
 
 > [!quote] A quote from Mordenkainen  
-> 
 > The Blood War—that ageless clash between devils and demons—helps ensure the balance of the multiverse. At times it makes unlikely allies, but never delude yourself into believing there's a lesser of two evil. I won't be thanking a demon for every day I'm spared a devil's lash.
 
 ![[/03_Mechanics/CLI/books/monster-manual-2025/img/214-14-001-nalfeshnee.webp#center|Nalfeshnee]]
@@ -4905,7 +4724,6 @@ Nightmares' speed, resilience, and ability to gallop between planes of existence
 `dice: [](2-monsters-a-to-z.md#^nightmare-riders)`
 
 | dice: 1d6 | The Nightmare Carries... |
-|-----------|--------------------------|
 | 1 | The champion or messenger of an evil deity. |
 | 2 | A group of joyriding imps or quasits. |
 | 3 | An innocent soul trapped on the wild Fiend. |
@@ -4947,8 +4765,6 @@ Consumed by their thirst for forbidden knowledge, nothics are cursed lore seeker
 
 Some nothics seek to end the curse that warped them into their bizarre forms, but many are unaware of—or uninterested in—their transformation.
 
-> [!quote]  
-> 
 > Deeper. Deeper and Deeper. Deeper and creeper. Creeping they come. Up from the place that isn't a place. They come to feed. Feed on what I know. So I hide. I hide away. Away in the secret dark. Secret and dark, like all that I know I shouldn't know!
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/218-14-005-nothic.webp#center)
@@ -4974,7 +4790,6 @@ Nycaloths and other yugoloths frequently serve as mercenary forces in extraplana
 `dice: [](2-monsters-a-to-z.md#^yugoloth-incursions)`
 
 | dice: 1d4 | Yugoloth Mercenaries Seek To... |
-|-----------|---------------------------------|
 | 1 | Claim a portal with strategic importance. |
 | 2 | Enlist monsters as allies or beasts of war. |
 | 3 | Destroy a city harboring enemy cultists. |
@@ -4985,8 +4800,6 @@ Nycaloths and other yugoloths frequently serve as mercenary forces in extraplana
 
 > [!embed-monster]- Nycaloth
 > ![[nycaloth-xmm#^statblock|Nycaloth]]
-
-## Monsters (O)
 
 ### Ochre Jelly
 
@@ -5111,7 +4924,6 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
 `dice: [](2-monsters-a-to-z.md#^owlbear-den-features)`
 
 | dice: 1d4 | An Owlbear Den Contains... |
-|-----------|----------------------------|
 | 1 | Evidence of previous occupants, like bandits, wolves, or dragons. |
 | 2 | Heaps of regurgitated pellets studded with coins or other treasure. |
 | 3 | A nest with `d6` owlbear eggs. |
@@ -5125,8 +4937,6 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
 
 > [!embed-monster]- Primeval Owlbear
 > ![[primeval-owlbear-xmm#^statblock|Primeval Owlbear]]
-
-## Monsters (P)
 
 ### Pegasus
 
@@ -5144,7 +4954,6 @@ Pegasi are hunted by servants of evil, leading many of these winged steeds to fl
 `dice: [](2-monsters-a-to-z.md#^pegasus-offerings)`
 
 | dice: 1d4 | A Pegasus Won't Flee Someone... |
-|-----------|---------------------------------|
 | 1 | Bearing the gear of a hero the pegasus aided. |
 | 2 | Offering magical fruit or holy spring water. |
 | 3 | Singing a song in Celestial, Druidic, or Sylvan. |
@@ -5152,7 +4961,6 @@ Pegasi are hunted by servants of evil, leading many of these winged steeds to fl
 ^pegasus-offerings
 
 > [!quote] A quote from Yolande, Queen of Celene  
-> 
 > Pegasi are the cherished steeds of our creator, Corellon. To see one is a blessing, but to ride one proves nothing less than the love of the gods.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/225-16-001-pegasus.webp#center)
@@ -5223,8 +5031,6 @@ Storyteller
 
 Throat singer
 
-Town crier
-
 Trick rider
 
 Vocalist
@@ -5232,7 +5038,6 @@ Vocalist
 Wrestler
 
 > [!quote] A quote from Tindal, Carnival Barker  
-> 
 > Welcome, one! Welcome, all! Welcome to the short, and welcome to the tall! Welcome angels, welcome fiends, welcome to all from walks between! Welcome to the Carnival!
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/226-16-002-performers.webp#center)
@@ -5262,14 +5067,11 @@ Perytons tear out the hearts of those they slay, carrying the organs back to gri
 `dice: [](2-monsters-a-to-z.md#^peryton-superstitions)`
 
 | dice: 1d4 | If a Peryton Collects Enough Hearts... |
-|-----------|----------------------------------------|
 | 1 | The hearts grant an evil wish. |
 | 2 | It reverts to its original form. |
 | 3 | A new peryton hatches from each heart. |
 | 4 | A portal opens to the Lower Planes. |
 ^peryton-superstitions
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/227-16-003-peryton.webp#center "A peryton's humanoid-shaped shadow suggests the monster's supernatural origin"|A peryton's humanoid-shape...]]
 
 > [!embed-monster]- Peryton
 > ![[peryton-xmm#^statblock|Peryton]]
@@ -5283,10 +5085,9 @@ Perytons tear out the hearts of those they slay, carrying the organs back to gri
 
 Phase spiders appear out of nowhere to attack, then vanish just as swiftly. These horse-size, magical arachnids are endemic to the Ethereal Plane. From vaporous lairs, they peer through the Border Ethereal into the Material Plane. When they detect prey, phase spiders draw close and then shift or "phase" to the Material Plane to attack. They shift between planes of existence and attack from unexpected directions until they overcome their prey or are forced to retreat.
 
-Phase spiders are more intelligent than mundane spiders, but most are cowards. They usually flee if they're outnumbered by creatures capable of seeing them on the Ethereal Plane or pursuing them there. They make exceptions for ghosts and similar spirits, which phase spiders gain sustenance from and pursue as favored prey.
+Phase spiders are more intelligent than mundane spiders, but most are cowards. They usually flee if they're outnumbered by creatures capable of seeing them on the Ethereal Plane or pursuing them there. They make exceptions for ghosts and similar spirits, which phase spiders gain sustece from and pursue as favored prey.
 
 > [!quote] A quote from Marcus Wands, Doubtful Authority  
-> 
 > Some sages say you unknowingly occupy the same ethereally coterminous point as a phase spider an average of four times each year.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/228-16-004-phase-spider.webp#center)
@@ -5305,8 +5106,6 @@ Piercers resemble stalactites, but each has a toothy maw and a single eye. They 
 
 Piercers are the larval form of ropers. Young piercers seek to move as far from ropers as they can to avoid ropers' undiscerning hunger. Many piercers migrate vast distances through the Underdark, often to caverns or buried ruins near the surface.
 
-> [!quote]  
-> 
 > Rule 8: Never trust a stalactite
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/229-16-005-piercer.webp#center)
@@ -5405,7 +5204,6 @@ These angels act where they can against overwhelming evil, but to avoid the atte
 `dice: [](2-monsters-a-to-z.md#^planetar-quests)`
 
 | dice: 1d6 | The Planetar Entreats a Mortal Hero To... |
-|-----------|-------------------------------------------|
 | 1 | Convince a villain to meet with the angel. |
 | 2 | Find a loved one a villain believes is dead. |
 | 3 | Heal the loved one of an evil ruler. |
@@ -5435,7 +5233,6 @@ Poltergeists telekinetically move objects in the places they lurk. Roll on or ch
 `dice: [](2-monsters-a-to-z.md#^poltergeist-activities)`
 
 | dice: 1d8 | To Torment the Living, the Poltergeist... |
-|-----------|-------------------------------------------|
 | 1 | Keeps returning a discarded item. |
 | 2 | Leaves footprints on vertical surfaces. |
 | 3 | Makes noises like someone trapped in a wall. |
@@ -5480,8 +5277,6 @@ Roll on or choose a result from the Priest Roles table to inspire different sort
 | 10 | A zealot who wages war for a divine cause. |
 ^priest-roles
 
-> [!quote]  
-> 
 > Shining One, light my hours. Enkindle my soul, and inspire my deeds. Chase the shadows from my path, and let me walk in your brilliance.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/235-16-011-priests.webp#center)
@@ -5529,7 +5324,6 @@ Many pseudodragons prefer the finer things in life. These diminutive dragons mig
 ^pseudodragon-treats
 
 > [!quote] A quote from Jallarzi, Pseudodragon's Companion  
-> 
 > If you want to keep a pseudodragon happy, get used to thinking of yourself as its familiar.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/236-16-012-pseudodragon.webp#center)
@@ -5547,15 +5341,12 @@ Many pseudodragons prefer the finer things in life. These diminutive dragons mig
 Titanic purple worms burrow through the earth and sand. Ever ravenous, they devour smaller creatures and ravage entire communities in their aimless burrowing.
 
 > [!quote] A quote from Morrikan d'Kundarak  
-> 
 > Purple worms alone are bad enough, but the blasted monsters have a knack for unearthing things that are even worse!
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/237-16-013-purple-worm.webp#center)
 
 > [!embed-monster]- Purple Worm
 > ![[purple-worm-xmm#^statblock|Purple Worm]]
-
-## Monsters (Q)
 
 ### Quaggoths
 
@@ -5588,15 +5379,12 @@ Tirelessly destructive, quasits sow discord through nasty pranks, sabotage, and 
 Quasits are usually overlooked and underestimated by other demons. This drives them to prove themselves through cruel acts or by seeking paths to the Material Plane. Among mortals, quasits sow senseless chaos, and they might find kindred evil spirits among violent cultists and magic-users.
 
 > [!quote] A quote from Otto the Bard  
-> 
 > A thing doesn't need to be big to be gut-flippingly dreadful. Just think of all the folks who're squeamish around spiders. Now imagine a spider as big as a cat and that wants to steal your tongue.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/239-17-002-quasit.webp#center)
 
 > [!embed-monster]- Quasit
 > ![[quasit-xmm#^statblock|Quasit]]
-
-## Monsters (R)
 
 ### Rakshasa
 
@@ -5639,12 +5427,8 @@ Red dragons believe themselves to be the greatest of all dragons and, by extensi
 > [!embed-monster]- Young Red Dragon
 > ![[young-red-dragon-xmm#^statblock|Young Red Dragon]]
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/242-18-003-adult-red-dragon.webp#center "An adult red dragon unleashes its fury, reducing a city to ruin"|An adult red dragon unleas...]]
-
 > [!embed-monster]- Adult Red Dragon
 > ![[adult-red-dragon-xmm#^statblock|Adult Red Dragon]]
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/243-18-004-ancient-red-dragon.webp#center "Even the bravest souls flee the onslaught of an ancient red dragon"|Even the bravest souls fle...]]
 
 > [!embed-monster]- Ancient Red Dragon
 > ![[ancient-red-dragon-xmm#^statblock|Ancient Red Dragon]]
@@ -5666,27 +5450,27 @@ Remorhazes are centipede-like terrors that burrow through snow and ice to ambush
 > [!embed-monster]- Remorhaz
 > ![[remorhaz-xmm#^statblock|Remorhaz]]
 
-### Revenants
+### Revets
 
-**Revenants.** *Vengeance from beyond the Grave*
+**Revets.** *Vengeance from beyond the Grave*
 
 - **Habitat.** Forest, Swamp, Urban  
 - **Treasure.** Any  
 
-Wrathful spirits bent on revenge, revenants possess corpses and other materials, using them to seek justice or vent their rage on those who wronged them. Revenants refuse to rest until those they seek to punish are no more. If their bodies are destroyed, revenants claim new forms and continue their ruthless quests.
+Wrathful spirits bent on revenge, revets possess corpses and other materials, using them to seek justice or vent their rage on those who wronged them. Revets refuse to rest until those they seek to punish are no more. If their bodies are destroyed, revets claim new forms and continue their ruthless quests.
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/245-18-006-group-of-revenants.webp#center|Revenant Followed by a Graveyard Revenant]]
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/245-18-006-group-of-revets.webp#center|Revet Followed by a Graveyard Revet]]
 
-> [!embed-monster]- Revenant
-> ![[revenant-xmm#^statblock|Revenant]]
+> [!embed-monster]- Revet
+> ![[revet-xmm#^statblock|Revet]]
 
-> [!embed-monster]- Graveyard Revenant
-> ![[graveyard-revenant-xmm#^statblock|Graveyard Revenant]]
+> [!embed-monster]- Graveyard Revet
+> ![[graveyard-revet-xmm#^statblock|Graveyard Revet]]
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/246-18-007-haunting-revenant.webp#center|Haunting Revenant]]
+![[/03_Mechanics/CLI/books/monster-manual-2025/img/246-18-007-haunting-revet.webp#center|Haunting Revet]]
 
-> [!embed-monster]- Haunting Revenant
-> ![[haunting-revenant-xmm#^statblock|Haunting Revenant]]
+> [!embed-monster]- Haunting Revet
+> ![[haunting-revet-xmm#^statblock|Haunting Revet]]
 
 ### Roc
 
@@ -5697,21 +5481,20 @@ Wrathful spirits bent on revenge, revenants possess corpses and other materials,
 
 Birds of prey of fantastic scale, rocs hunt over vast territories and can snatch whole elephants, whales, or wagons in their talons. They then carry their prey back to their remote nests, journeys that can take days and cover hundreds of miles.
 
-Rocs nest amid remote heights. Their nests are typically littered with treasure and uneaten prey. Roll on or choose an option from the Roc Nest Remnants table to inspire what's in a roc's nest.
+Rocs nest amid remote heights. Their nests are typically littered with treasure and uneaten prey. Roll on or choose an option from the Roc Nest Remts table to inspire what's in a roc's nest.
 
-**Roc Nest Remnants**
+**Roc Nest Remts**
 
-`dice: [](2-monsters-a-to-z.md#^roc-nest-remnants)`
+`dice: [](2-monsters-a-to-z.md#^roc-nest-remts)`
 
 | dice: 1d6 | The Roc's Nest Holds... |
-|-----------|-------------------------|
 | 1 | The burial litter of a lost hero. |
 | 2 | A caravan wagon full of trade goods. |
 | 3 | A live elephant. |
 | 4 | `d4` eggs larger than adult humans. |
 | 5 | Someone marooned in the nest. |
 | 6 | A statue of a knight riding a rearing steed. |
-^roc-nest-remnants
+^roc-nest-remts
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/247-18-008-roc.webp#center)
 
@@ -5734,7 +5517,6 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
 `dice: [](2-monsters-a-to-z.md#^roper-hazards)`
 
 | dice: 1d8 | The Roper Drags Prey Through... |
-|-----------|---------------------------------|
 | 1 | Areas that trigger traps. |
 | 2 | Caverns filled with smoke or gas. |
 | 3 | "dead magic zone" or [[wild-magic-zone-xdmg|Wild Magic zones]]. |
@@ -5745,8 +5527,6 @@ Ropers can move, albeit slowly. Crawling on the sticky cilia that cover their un
 | 8 | "razorvine" or similar dangerous plants. |
 ^roper-hazards
 
-> [!quote]  
-> 
 > Rule 9: Never trust a stalagmite.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/248-18-009-roper.webp#center)
@@ -5768,8 +5548,6 @@ Rust monsters roam the Underdark searching for ferrous metal. When they find thi
 > [!embed-monster]- Rust Monster
 > ![[rust-monster-xmm#^statblock|Rust Monster]]
 
-## Monsters (S)
-
 ### Sahuagin
 
 **Sahuagin.** *Ravagers from Beneath the Waves*
@@ -5782,10 +5560,7 @@ Sahuagin are fiendish terrors that prey on creatures above and below the water. 
 Sahuagin constantly war on any peoples living near their territory. Merfolk and other aquatic folk bear the brunt of these attacks, but sahuagin also hunt air-breathers who sail over or swim through the waters the sea devils claim. Sahuagin often attack alongside sharks, which they can telepathically command.
 
 > [!quote] A quote from Tiguran Maremrynd  
-> 
 > When a sahuagin comes at you, it doesn't seem to be living until it bites you. Then the thing's black eyes turn red as hellfire and the waves foam crimson. Then comes the screaming.
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/250-19-001-sahuagin.webp#center "A sahuagin baron and sahuagin priest lead sahuagin warriors on an aquatic raid"|A sahuagin baron and sahua...]]
 
 > [!embed-monster]- Sahuagin Warrior
 > ![[sahuagin-warrior-xmm#^statblock|Sahuagin Warrior]]
@@ -5808,10 +5583,7 @@ Salamanders are serpentine denizens of the Elemental Plane of Fire. They believe
 Salamanders are typically content to dwell on the Elemental Plane of Fire, creating strange, temporary art amid the flames. Some travel to other planes of existence and worlds to experience the flames of other realms or create conflagrations of unprecedented scale.
 
 > [!quote] A quote from Filiag Highthumbs  
-> 
 > The salamanders of the Elemental Plane of Fire delight in meeting visitors from other realms. For them, every stranger is a potential addition to their fiery artistry. Don't fall for their flattery, no matter how beautifully they say you'll burn.
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/251-19-002-salamanders.webp#center "A salamander inferno master drives its salamander and fire snake minions to burn all they encounter"|A salamander inferno maste...]]
 
 > [!embed-monster]- Salamander Fire Snake
 > ![[salamander-fire-snake-xmm#^statblock|Salamander Fire Snake]]
@@ -5855,7 +5627,6 @@ Although scarecrows take their name from rural effigies, they might take varied 
 `dice: [](2-monsters-a-to-z.md#^scarecrow-frames)`
 
 | dice: 1d8 | The Scarecrow Is Made From... |
-|-----------|-------------------------------|
 | 1 | Animal furs, bones, horns, and claws. |
 | 2 | Beehives or wasp nests over a wicker frame. |
 | 3 | A carved pumpkin atop a body of thick vines. |
@@ -5895,7 +5666,7 @@ Scouts are warriors of the wilderness, trained in hunting and tracking. They mig
 - **Habitat.** Coastal, Underwater  
 - **Treasure.** Arcana  
 
-Sea hags loathe peace and beauty. Bitter, jealous creatures, they spread chaos and undermine joy however they can, undertaking elaborate deceptions to sow discord for its own sake. The hags' true forms are supernaturally vile, and their baleful gazes can strike down creatures [[conditions#Frightened|frightened]] by their appearance.
+Sea hags loathe peace and beauty. Bitter, jealous creatures, they spread chaos and undermine joy however they can, undertaking elaborate deceptions to sow discord for its own sake. The hags' true forms are supernaturally vile, and their baleful gazes can strike down creatures [[conditions#frightened|frightened]] by their appearance.
 
 Sea hags cloak themselves in illusions to work their schemes. Roll on or choose a result from the Sea Hag Disguises table to inspire a sea hag's illusion and how they might use it to wreak chaos and destruction.
 
@@ -5904,7 +5675,6 @@ Sea hags cloak themselves in illusions to work their schemes. Roll on or choose 
 `dice: [](2-monsters-a-to-z.md#^sea-hag-disguises)`
 
 | dice: 1d6 | The Sea Hag Takes the Form of A... |
-|-----------|------------------------------------|
 | 1 | Captive and claims nearby villagers bound them and left them to drown. |
 | 2 | Castaway and shares a cursed item's location with would-be rescuers. |
 | 3 | Healer and passes off poisons as medicine. |
@@ -5936,7 +5706,6 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
 `dice: [](2-monsters-a-to-z.md#^shadow-shapes)`
 
 | dice: 1d6 | The Shadow Appears As... |
-|-----------|--------------------------|
 | 1 | A distorted stalker that lurks in the woods. |
 | 2 | A fiend that dwells near a wicked ritual site. |
 | 3 | Grasping hands that haunt a miser's home. |
@@ -5957,7 +5726,7 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
 - **Habitat.** Planar (Abyss)  
 - **Treasure.** None  
 
-Shadow demons form when exceptionally wicked demons are destroyed and prevented from reconstituting their physical forms in the Abyss. This might occur due to divine intervention, when a demon is destroyed in the Abyss, or under more unusual circumstances. Shadow demons are the incorporeal remnants of these destroyed demons' evil. They usually vaguely resemble their former shapes, but some take purposefully deceptive shapes. Many lurk in dark places or venture out only at night to hide their true forms from those they manipulate.
+Shadow demons form when exceptionally wicked demons are destroyed and prevented from reconstituting their physical forms in the Abyss. This might occur due to divine intervention, when a demon is destroyed in the Abyss, or under more unusual circumstances. Shadow demons are the incorporeal remts of these destroyed demons' evil. They usually vaguely resemble their former shapes, but some take purposefully deceptive shapes. Many lurk in dark places or venture out only at night to hide their true forms from those they manipulate.
 
 Shadow demons seek ways to regain their former might and take revenge on those who destroyed them. They often ingratiate themselves with more powerful demons or mortal spellcasters, bargaining with and coercing others into restoring them to power. Many try to claim or corrupt souls to restore their fiendish forms, while some shadow demons seek wicked relics or nexuses of profane magic. It typically takes shadow demons centuries to recover their demonic power, if they ever do.
 
@@ -5966,7 +5735,6 @@ Particularly powerful demons might return as multiple shadow demons after being 
 In rare cases, Fiends other than demons might adopt forms similar to shadow demons.
 
 > [!quote] A quote from Tarsheva Longreach, Planar Traveler  
-> 
 > There are three rules to endings. First, good always wins. Second, evil always returns. Third, the first rule isn't always true.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/257-19-008-shadow-demon.webp#center)
@@ -5990,10 +5758,7 @@ Like many other dragons, shadow dragons collect hoards. Their tastes tend to be 
 **Shadow Dragon Lairs.** Shadow dragons lair in places of darkness and despair, such as accursed ruins, the depths of the Underdark, or the Shadowfell.
 
 > [!quote] A quote from Challenge Tempting Victims to the Lair of the Shadow Dragon Aurgloroasa  
-> 
 > If ye truly be adventurers of lore, seek the great shadowy wyrm who lairs beneath the Peaks of Thunder and return in triumph bearing aloft her fabled Eye of Shadow.
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/258-19-009-shadow-dragon.webp#center "A shadow dragon lurks among haunted ruins, attended by shadows raised by its life-draining breath"|A shadow dragon lurks amon...]]
 
 > [!embed-monster]- Juvenile Shadow Dragon
 > ![[juvenile-shadow-dragon-xmm#^statblock|Juvenile Shadow Dragon]]
@@ -6017,7 +5782,6 @@ Strange circumstances might give rise to shambling mounds, transforming vegetati
 `dice: [](2-monsters-a-to-z.md#^shambling-mound-cultivation)`
 
 | dice: 1d6 | The Shambling Mound Is... |
-|-----------|---------------------------|
 | 1 | Covered in vibrant alien or Feywild blooms. |
 | 2 | Hauling a rune-etched menhir in its torso. |
 | 3 | Infested with vermin or fungi. |
@@ -6070,12 +5834,8 @@ Silver dragons take inspiration from legendary heroes and have grand ambitions. 
 > [!embed-monster]- Young Silver Dragon
 > ![[young-silver-dragon-xmm#^statblock|Young Silver Dragon]]
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/262-19-013-adult-silver-dragon.webp#center "An adult silver dragon relaxes in camp alongside its fellow adventurers"|An adult silver dragon rel...]]
-
 > [!embed-monster]- Adult Silver Dragon
 > ![[adult-silver-dragon-xmm#^statblock|Adult Silver Dragon]]
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/263-19-014-ancient-silver-dragon.webp#center "The sight of an ancient silver dragon can panic despicable evil-doers"|The sight of an ancient si...]]
 
 > [!embed-monster]- Ancient Silver Dragon
 > ![[ancient-silver-dragon-xmm#^statblock|Ancient Silver Dragon]]
@@ -6094,7 +5854,6 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 `dice: [](2-monsters-a-to-z.md#^skeleton-pantomimes)`
 
 | dice: 1d6 | Left to Its Own Devices, the Skeleton... |
-|-----------|------------------------------------------|
 | 1 | Delivers meal salvers or ages-old correspondence to the crypt of its dead master. |
 | 2 | Endlessly trains in battle with other skeletons, despite being hacked to animate splinters. |
 | 3 | Mimics ways it entertained itself in life, such as acting, dancing, or reading. |
@@ -6102,8 +5861,6 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 | 5 | Repeats its final moments of life. |
 | 6 | Stands guard at the post it protected in life. |
 ^skeleton-pantomimes
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/264-19-015-group-of-skeletons.webp#center "Adventurers face an onslaught from all manner of skeletons"|Adventurers face an onslau...]]
 
 > [!embed-monster]- Skeleton
 > ![[skeleton-xmm#^statblock|Skeleton]]
@@ -6129,17 +5886,12 @@ Unpredictable slaadi devour and multiply across the Ever-Changing Chaos of Limbo
 Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue and red slaadi rampage across Limbo and spill into other worlds at the direction of green slaadi. More powerful slaadi have connections to the Spawning Stone, a source of chaotic magic from which the first slaadi originated. The Spawning Stone is hidden deep within Limbo, and legends tie its origins to the modron overlord Primus or the ruinous slaad lords, such as Ssendam, the golden amoeboid terror, and Ygorl, the winged skeleton. These slaad lords and others plot to spread slaadi across the multiverse.
 
 > [!note] Slaad Control Gems
-> 
 > A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [[conditions#Charmed|Charmed]] condition and obeys the gem's bearer. The slaad ceases to be [[conditions#Charmed|Charmed]] if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [[greater-restoration-xphb|Greater Restoration]] spell cast on a slaad destroys the gem, and the slaad ceases to be [[conditions#Charmed|Charmed]].
-> 
 > One can obtain a slaad's control gem using a [[wish-xphb|Wish]] or [[imprisonment-xphb|Imprisonment]] spell. If the slaad fails its saving throw against [[imprisonment-xphb|Imprisonment]], the caster gains the gem, and the slaad isn't imprisoned. An [[conditions#Incapacitated|Incapacitated]] slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([[skills#Medicine|Medicine]]) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
 ^slaad-control-gems
 
 > [!quote] A quote from Jebeel Sloom  
-> 
 > Fight a slaad and lose, the story's over. Fight a slaad and win, there's a thousand more standing in line just to prove they're tougher.
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/265-19-016-slaad.webp#center "A red slaad and blue slaad, along with several slaad tadpoles, burst from a portal on the plane of Limbo"|A red slaad and blue slaad...]]
 
 > [!embed-monster]- Slaad Tadpole
 > ![[slaad-tadpole-xmm#^statblock|Slaad Tadpole]]
@@ -6149,8 +5901,6 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 
 > [!embed-monster]- Blue Slaad
 > ![[blue-slaad-xmm#^statblock|Blue Slaad]]
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/266-19-017-death-slaad.webp#center "A gray slaad, a death slaad, and a green slaad spread chaos in their wake"|A gray slaad, a death slaa...]]
 
 > [!embed-monster]- Green Slaad
 > ![[green-slaad-xmm#^statblock|Green Slaad]]
@@ -6211,7 +5961,6 @@ Specters seek creatures and locations that exude evil and feed on the suffering 
 `dice: [](2-monsters-a-to-z.md#^specter-haunts)`
 
 | dice: 1d8 | The Specter Lurks Near... |
-|-----------|---------------------------|
 | 1 | A community afflicted by curses, grudges, plagues, or tragedies. |
 | 2 | An evil Artifact or a deadly magical device. |
 | 3 | The lair of a Fiend or an Undead. |
@@ -6221,8 +5970,6 @@ Specters seek creatures and locations that exude evil and feed on the suffering 
 | 7 | A secluded monument binding wicked souls. |
 | 8 | The site of a disaster or mass death. |
 ^specter-haunts
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/269-19-020-specter.webp#center "Specters are loath to attack a cleric surrounded by divine light"|Specters are loath to atta...]]
 
 > [!embed-monster]- Specter
 > ![[specter-xmm#^statblock|Specter]]
@@ -6238,14 +5985,9 @@ Sphinxes protect the secrets of the multiverse. Formed from the spirits of sages
 
 **Sphinx Lairs.** Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 
-> [!quote]  
-> 
 > Round she is, yet flat as a board
-> 
 > Altar of the Lupine Lords
-> 
 > Jewel on black velvet, pearl in the sea
-> 
 > Unchanged but e'erchanging eternally
 
 > [!note]
@@ -6285,7 +6027,6 @@ Spies gather information and disseminate lies, manipulating people to gain the r
 `dice: [](2-monsters-a-to-z.md#^spy-personas)`
 
 | dice: 1d4 | The Spy Disguises Themself As... |
-|-----------|----------------------------------|
 | 1 | A bard or traveling performer. |
 | 2 | A captive or servant of a monster or villain. |
 | 3 | A dignitary or traveler from a distant land. |
@@ -6344,7 +6085,6 @@ Spirit nagas seek to claim what they believe they deserve. Their schemes often i
 `dice: [](2-monsters-a-to-z.md#^spirit-naga-grievances)`
 
 | dice: 1d6 | The Spirit Naga Believes... |
-|-----------|-----------------------------|
 | 1 | A character is to blame for its recent failures. |
 | 2 | It has been evicted from its rightful home. |
 | 3 | Locals have reneged on an age-old bargain. |
@@ -6371,8 +6111,6 @@ Sprites can sense the innate goodness or wickedness of other creatures. Those th
 
 Sprites oppose any creatures that seek to harm places of natural magic and beauty. This can put them into conflict with would-be settlers, monsters like ettercaps, and despoilers such as goblinoids and hags. They frequently aid other good creatures of the forest, including treants and unicorns, in defending their homes.
 
-> [!quote]  
-> 
 > The tree had a wee village nestled in its boughs, I swear. Next thing I knew, I was lyin' face-down in the dirt. My head was full of stars, an' when I stood up an' looked around, both the tree an' the wee village were gone.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/277-19-028-sprites.webp#center)
@@ -6394,7 +6132,6 @@ Stirges are bat-size vermin with dagger-length proboscises that attach to other 
 `dice: [](2-monsters-a-to-z.md#^stirge-roosts)`
 
 | dice: 1d4 | Between Hunts, the Stirge Lurks In... |
-|-----------|---------------------------------------|
 | 1 | The attic or furniture of a ruined building. |
 | 2 | A cave or narrow crevice. |
 | 3 | A hollow tree or thicket. |
@@ -6443,7 +6180,6 @@ Stone golems are typically created to protect places of significance to a group,
 `dice: [](2-monsters-a-to-z.md#^stone-golem-orders)`
 
 | dice: 1d6 | The Stone Golem Follows Orders To... |
-|-----------|--------------------------------------|
 | 1 | Allow only those wearing ritual garb to pass. |
 | 2 | Cast [[slow-xphb|Slow]] on and aid in apprehending anyone who touches a city's prized relic. |
 | 3 | Destroy a dam or bridge at the command of one bearing a ruler's medallion of office. |
@@ -6452,8 +6188,6 @@ Stone golems are typically created to protect places of significance to a group,
 | 6 | Watch for and do battle with the type of monster that slew the hero it resembles. |
 ^stone-golem-orders
 
-> [!quote]  
-> 
 > Exercise discernment when deciding the golem's appearance, as your creation is likely to long outlive its model.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/280-19-031-stone-golem.webp#center)
@@ -6491,7 +6225,6 @@ Through fiendish rites, succubi can transform into incubi to manipulate their pr
 `dice: [](2-monsters-a-to-z.md#^succubus-temptations)`
 
 | dice: 1d6 | The Succubus Manipulates Its Target By... |
-|-----------|-------------------------------------------|
 | 1 | Adopting the form of a lost loved one. |
 | 2 | Charming someone close to its target. |
 | 3 | Isolating them from their loved ones. |
@@ -6504,8 +6237,6 @@ Through fiendish rites, succubi can transform into incubi to manipulate their pr
 
 > [!embed-monster]- Succubus
 > ![[succubus-xmm#^statblock|Succubus]]
-
-## Monsters (T)
 
 ### Tarrasque
 
@@ -6529,7 +6260,6 @@ Few things survive the tarrasque's rampages, and reports of the monster's devast
 `dice: [](2-monsters-a-to-z.md#^tarrasque-evidence)`
 
 | dice: 1d4 | Amid Destruction, the Tarrasque Leaves... |
-|-----------|-------------------------------------------|
 | 1 | Evidence of a magic spell reflected back on its caster, like Ice Knife or Melf's Acid Arrow. |
 | 2 | Massive footprints or claw marks. |
 | 3 | A russet scale the size of a knight's shield. |
@@ -6551,7 +6281,6 @@ Few things survive the tarrasque's rampages, and reports of the monster's devast
 Thri-kreen are mantis-like wanderers who harness their innate camouflage and psychic abilities to survive. Different groups of thri-kreen have distinct carapaces, from the rocky shades of desert dwellers to the vibrant hues of those living in verdant lands. While their language has a distinctly insectile quality, thri-kreen often use telepathy to communicate, and groups can rapidly share a wealth of detailed information without making a sound.
 
 > [!quote] A quote from Ka'Cha, Thri-kreen Knowledge Hunter  
-> 
 > I would tell you now the tale of the first Ka'Cha, the first thri-kreen who knew and taught the truth: that the clutch is all.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/284-20-002-thri-kreen.webp#center)
@@ -6571,8 +6300,6 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
 
 Bodyguards, belligerents, and laborers, toughs rely on their physical strength to intimidate foes. They might be brawny criminals, rowdy tavern goers, seasoned workers, or anyone who uses their muscle to get what they want.
 
-> [!quote]  
-> 
 > There are two answers to every question: ours, and the wrong one.
 
 > [!embed-monster]- Tough
@@ -6608,8 +6335,6 @@ Treants defend and are shaped by secrets of the forest. Roll on or choose a resu
 | 6 | Scarred by a fire and holds the bones of the arsonist who started it in a hollow. |
 ^treant-secrets
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/286-20-004-treant.webp#center "A treant evicts adventurers from a city it has reclaimed for nature"|A treant evicts adventurer...]]
-
 > [!embed-monster]- Treant
 > ![[treant-xmm#^statblock|Treant]]
 
@@ -6625,7 +6350,6 @@ With features similar to those of pale cave lizards, troglodytes stalk the Under
 Troglodytes prefer to ambush prey and can change their scale color to blend in with their surroundings. They often climb along cavern walls or emerge from deep fissures to take their prey by surprise. Despite their stealthiness, these stalkers exude a distinctly repulsive stench. Descriptions of what troglodytes smell like span a spectrum as complex as it is vile. This reek nauseates many who smell it, but it can also warn of the presence of troglodytes before they strike.
 
 > [!quote] A quote from Caarey Gelthik, Ghast  
-> 
 > Smells fine to me.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/287-20-005-troglodyte.webp#center)
@@ -6652,8 +6376,6 @@ Trolls typically hunt alone, but small groups occasionally cooperate to ambush p
 > [!embed-monster]- Troll Limb
 > ![[troll-limb-xmm#^statblock|Troll Limb]]
 
-## Monsters (U)
-
 ### Ultroloth
 
 **Ultroloth.** *Yugoloth of Conspiracy and Control*
@@ -6670,7 +6392,6 @@ Ultroloths strive to achieve planes-spanning plots. Roll on or choose a result f
 `dice: [](2-monsters-a-to-z.md#^ultroloth-conspiracies)`
 
 | dice: 1d6 | The Ultroloth Schemes To... |
-|-----------|-----------------------------|
 | 1 | Convince cultists their god has forsaken them. |
 | 2 | Destabilize a nation and rule the chaos. |
 | 3 | Incite a calamity and hold a world hostage. |
@@ -6716,8 +6437,6 @@ Unicorns are majestic defenders of forests. They are revered by many Fey and oth
 > [!embed-monster]- Unicorn
 > ![[unicorn-xmm#^statblock|Unicorn]]
 
-## Monsters (V)
-
 ### Vampires
 
 **Vampires.** *Blood-Sucking Lords of the Night*
@@ -6734,9 +6453,8 @@ Undead vampires lie dormant during the day, retreating to resting places hidden 
 `dice: [](2-monsters-a-to-z.md#^vampire-resting-places)`
 
 | dice: 1d6 | The Vampire's Resting Place Is... |
-|-----------|-----------------------------------|
 | 1 | Among the roots of a dead tree. |
-| 2 | At the bottom of a stagnant pool. |
+| 2 | At the bottom of a stagt pool. |
 | 3 | A coffin filled with grave dirt. |
 | 4 | A large pot full of blood or vinegar. |
 | 5 | A space accessible only by shape-shifting. |
@@ -6746,10 +6464,7 @@ Undead vampires lie dormant during the day, retreating to resting places hidden 
 **Vampire Lairs.** Vampires and vampire umbral lords create sanctuaries apart from the living, whether hidden in cosmopolitan cities or sequestered in ruins where they dwelled in life.
 
 > [!quote] A quote from Astarion, Vampire Spawn  
-> 
 > Darling, you are simply delicious...
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/292-22-001-vampire-and-familiar.webp#center "A vampire familiar provides a meal for a vampire spawn"|A vampire familiar provide...]]
 
 > [!embed-monster]- Vampire Familiar
 > ![[/03_Mechanics/CLI/bestiary/humanoid/vampire-familiar-xmm#^statblock|Vampire Familiar]]
@@ -6786,8 +6501,6 @@ Screeching, vulturelike demons, vrocks soar from the Abyss to spread ruin and sl
 > [!embed-monster]- Vrock
 > ![[vrock-xmm#^statblock|Vrock]]
 
-## Monsters (W)
-
 ### Warriors
 
 **Warriors.** *Soldiers and Scrappers*
@@ -6818,10 +6531,7 @@ Roll on or choose a result from the Warrior Roles table to inspire the creation 
 ^warrior-roles
 
 > [!quote] A quote from Minsc, Hero of Baldur's Gate  
-> 
 > Make way, evil! I'm armed to the teeth and packing a hamster!
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/297-23-001-warriors.webp#center "An aasimar commander leads warriors charging into battle"|An aasimar commander leads...]]
 
 > [!embed-monster]- Warrior Infantry
 > ![[/03_Mechanics/CLI/bestiary/humanoid/warrior-infantry-xmm#^statblock|Warrior Infantry]]
@@ -6848,7 +6558,6 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 `dice: [](2-monsters-a-to-z.md#^water-elemental-compositions)`
 
 | dice: 1d4 | The Water Elemental's Body Features... |
-|-----------|----------------------------------------|
 | 1 | Chilling or near-boiling temperatures. |
 | 2 | Energetic effervescence. |
 | 3 | Muddy, polluted, or crystal-clear water. |
@@ -6856,7 +6565,6 @@ Water elementals' shapes are influenced by the liquid bodies in which they form.
 ^water-elemental-compositions
 
 > [!quote] A quote from Kalbari, Mother of Foam, Ruler of Marids  
-> 
 > Water: greatest of the elements in might and form. A tsunami's torrent. A blizzard's claws. A parent's tears. What is not moved by water?
 
 ![[/03_Mechanics/CLI/books/monster-manual-2025/img/298-23-002-water-elemental.webp#center|Water Elemental]]
@@ -6875,8 +6583,6 @@ Serpentine nature spirits, water weirds protect pools, fountains, and magical bo
 
 Water weirds might protect a site for generations and learn much about their surroundings. Some gain reputations as oracles and might respond to questions posed to them in Primordial. Since water weirds don't speak, they often communicate using spouts of water or objects submerged in their pools.
 
-> [!quote]  
-> 
 > Rule 2: Before you drink from a fountain or pool, toss a copper coin into it. It's a small price to pay for your life!
 
 > [!embed-monster]- Water Weird
@@ -6908,8 +6614,6 @@ Wereboars shape-shift from their humanoid forms into powerful boars or humanoid-
 > [!embed-monster]- Wereboar
 > ![[wereboar-xmm#^statblock|Wereboar]]
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/300-23-004-were-creature-group.webp#center "A werebear chases a wereboar and wererat out of its territory"|A werebear chases a werebo...]]
-
 ### Wererat
 
 **Wererat.** *Changed by the Deviousness of the Rat*
@@ -6936,7 +6640,6 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
 `dice: [](2-monsters-a-to-z.md#^weretiger-wards)`
 
 | dice: 1d4 | The Weretiger Protects A... |
-|-----------|-----------------------------|
 | 1 | Legendary weapon or symbol of rulership. |
 | 2 | Proving ground for prophesied heroes. |
 | 3 | Rare species of magical plant or animal. |
@@ -6944,7 +6647,6 @@ Weretigers shape-shift from humanoid forms into tigers or tiger-humanoid hybrids
 ^weretiger-wards
 
 > [!quote] A quote from Delmair Rallyhorn, Weretiger  
-> 
 > I hunt evil like the great cat hunts its prey, but evil will not long yield to blade alone. It takes strength, honor, and sometimes a little more.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/301-23-005-weretiger.webp#center)
@@ -6987,12 +6689,8 @@ White dragons create lairs to defend themselves from other deadly arctic creatur
 > [!embed-monster]- Young White Dragon
 > ![[young-white-dragon-xmm#^statblock|Young White Dragon]]
 
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/304-23-008-adult-white-dragon.webp#center "An adult white dragon views all creatures in its territory as prey"|An adult white dragon view...]]
-
 > [!embed-monster]- Adult White Dragon
 > ![[adult-white-dragon-xmm#^statblock|Adult White Dragon]]
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/305-23-009-ancient-white-dragon.webp#center "An ancient white dragon freezes a ship full of trespassers before they set foot in its territory"|An ancient white dragon fr...]]
 
 > [!embed-monster]- Ancient White Dragon
 > ![[ancient-white-dragon-xmm#^statblock|Ancient White Dragon]]
@@ -7015,7 +6713,6 @@ Wights might return from the dead for a multitude of sinister reasons. Roll on o
 `dice: [](2-monsters-a-to-z.md#^wight-motives)`
 
 | dice: 1d8 | The Wight Returned from the Dead To... |
-|-----------|----------------------------------------|
 | 1 | Challenge anyone who passes near its grave on a certain cursed night. |
 | 2 | Conquer the land it believes it should rule. |
 | 3 | Continue the crimes it was executed for. |
@@ -7047,7 +6744,6 @@ Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a
 `dice: [](2-monsters-a-to-z.md#^will-o-wisp-ambushes)`
 
 | dice: 1d6 | The Will-o'-Wisp Tempts Victims Into... |
-|-----------|-----------------------------------------|
 | 1 | An abandoned structure ready to collapse. |
 | 2 | An ambush by hungry ghouls or vampires. |
 | 3 | A dreaded ruin that curses those who enter. |
@@ -7070,12 +6766,10 @@ Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a
 
 Winter wolves are horse-size, supernatural predators that prowl frigid wildernesses in deadly packs. With their great size and chilling breath, winter wolves pursue megafauna, arctic travelers, and any other creatures they catch on the tundra.
 
-Winter wolves are more intelligent than natural wolves and can speak. Most are predominantly concerned with their next meal, and while they might converse with other creatures in exchange for food, few concern themselves with long-term bargains or keeping their word unless they have something to gain. Winter wolves often hunt alongside frost giants that indulge them with frequent hunts and reliable meals.
+Winter wolves are more intelligent than natural wolves and can speak. Most are predomitly concerned with their next meal, and while they might converse with other creatures in exchange for food, few concern themselves with long-term bargains or keeping their word unless they have something to gain. Winter wolves often hunt alongside frost giants that indulge them with frequent hunts and reliable meals.
 
 > [!quote] A quote from Koran, Winter Wolf  
-> 
 > Snowdrifts, driving hail, and wind fierce enough to strip the hairless skin off your bones—you lot have been through it all. But good news, there's a town full of warm hearths right over this rise.
-> 
 > You'll never reach it, but at least your last thoughts will be warm.
 
 ![[/03_Mechanics/CLI/books/monster-manual-2025/img/308-23-012-winter-wolf.webp#center|Winter Wolf]]
@@ -7154,8 +6848,6 @@ Once wyverns overpower a quarry, they carry it to their cavernous lairs to eithe
 > [!embed-monster]- Wyvern
 > ![[wyvern-xmm#^statblock|Wyvern]]
 
-## Monsters (X)
-
 ### Xorn
 
 **Xorn.** *Treasure-Devouring Glutton*
@@ -7192,8 +6884,6 @@ Roll on or choose a result from the Xorn Delicacies table to inspire a xorn's fa
 > [!embed-monster]- Xorn
 > ![[xorn-xmm#^statblock|Xorn]]
 
-## Monsters (Y)
-
 ### Yetis
 
 **Yetis.** *Chilling Stalkers of the Frozen Wilds*
@@ -7206,7 +6896,6 @@ Across alpine extremes and frozen frontiers, yetis hunt those that trespass in t
 Due to yetis' elusiveness, folktales about yetis are more common than sightings. Whether a distant scream is the howl of an enraged yeti or just the wind, few can be certain. Nevertheless, many mountainous settlements burn bonfires to ward off yetis, taking advantage of these brutes' aversion to fire.
 
 > [!quote] A quote from Kelesta Hawke of the Emerald Enclave  
-> 
 > In the yeti, I find no kinship, no understanding, no mercy. Theirs is not the might of the mountain or the magic of glacial wonders. Theirs is a world where harmony lies murdered and frozen.
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/313-25-001-yeti.webp#center)
@@ -7265,7 +6954,6 @@ Yuan-ti might gain their reptilian features through dangerous supernatural rites
 ^yuan-ti-transformations
 
 > [!quote] A quote from Last Message of Sorril Venil, Explorer of the Labyrinth of Madness  
-> 
 > Great magic, twisted and corrupted... Malice beyond reckoning... Flesh reshaped, becoming serpentine horrors...
 
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/316-25-004-yuan-ti-infiltrators.webp#center)
@@ -7303,10 +6991,7 @@ Zombies are unthinking, reanimated corpses, often gruesomely marred by decay and
 Zombies are usually created from Humanoid corpses, but the remains of other creatures can also become zombies. Such monstrous zombies might possess the strength they had in life or a measure of their supernatural abilities, but they employ such abilities haphazardly at best.
 
 > [!quote] A quote from Account of the Night of the Walking Dead  
-> 
 > Then, by a spectacular crack of lightning, the figures came into view, moving slowly toward the village. Over driving winds a voice cried out, "The dead come for Marais d'Tarascon! An army of the walking dead!"
-
-![[/03_Mechanics/CLI/books/monster-manual-2025/img/320-26-001-group-of-zombies.webp#center "A tiefling tries to hide in the midst of a zombie horde"|A tiefling tries to hide i...]]
 
 > [!embed-monster]- Zombie
 > ![[zombie-xmm#^statblock|Zombie]]
@@ -7325,20 +7010,23 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 
 Legends speak of 2 monsters a to z as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 2 monsters a to z.
 
-## Adventure Hooks
-
-- A rumor ties 2 monsters a to z to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 2 monsters a to z to avert a public scandal.
-- A map overlay reveals a hidden approach to 2 monsters a to z active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and war looms
+- An heirloom has gone missing and war looms
+- An heirloom has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

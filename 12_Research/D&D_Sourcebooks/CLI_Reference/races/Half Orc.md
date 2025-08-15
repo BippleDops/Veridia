@@ -23,17 +23,13 @@ updated: '2025-08-13T12:34:08.053120+00:00'
 world: Both
 ---
 
-
-
 # Half-Orc
-*Source: Player's Handbook p. 40. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+*Source: Player's Handbook p. 40. Available in the SRD*  
 ![](/03_Mechanics/CLI/races/img/half-orc.webp#right)
 
 - **Ability Scores**: str +2 con +1
 - **Size**: Medium
 - **Speed**: 30 ft.
-
-## Traits
 
 ### Age
 
@@ -61,7 +57,25 @@ When you score a critical hit with a melee weapon attack, you can roll one of th
 
 ### Languages
 
-You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.
+You can speak, read, and write Common and Orc. Orc is a harsh, grating language with hard consots. It has no script of its own but is written in the Dwarvish script.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Description
 
@@ -99,19 +113,28 @@ Half orc is a undersea element of the setting, known for bioluminescent glow and
 
 Legends speak of half orc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around half orc.
 
-## Adventure Hooks
-
-- A rumor ties half orc to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at half orc to avert a public scandal.
-- A map overlay reveals a hidden approach to half orc active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

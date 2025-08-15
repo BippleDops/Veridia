@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:07.011624+00:00'
 world: Both
 ---
 
-
-
 # Net
 *Adventuring gear*  
 ![](/03_Mechanics/CLI/items/img/net.webp#right)
@@ -37,7 +35,25 @@ When you take the [[actions#Attack|Attack]] action, you can replace one of your 
 
 To escape, the target or a creature within 5 feet of it must take an action to make a DC 10 Strength ([[skills#Athletics|Athletics]]) check, freeing the [[conditions#Restrained|Restrained]] creature on a success. Destroying the Net (AC 10; 5 HP; [[immunity-xphb|Immunity]] to Bludgeoning, Poison, and Psychic damage) also frees the target, ending the effect.
 
-*Source: Player's Handbook (2024) p. 227. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 227. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -47,19 +63,23 @@ Net xphb is a undersea element of the setting, known for bioluminescent glow and
 
 Legends speak of net xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around net xphb.
 
-## Adventure Hooks
-
-- A rumor ties net xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at net xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to net xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

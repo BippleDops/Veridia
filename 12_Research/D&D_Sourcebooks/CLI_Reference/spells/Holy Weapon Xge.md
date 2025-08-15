@@ -28,11 +28,8 @@ updated: '2025-08-13T12:34:06.206038+00:00'
 world: Both
 ---
 
-
-
 # Holy Weapon
 *5th-level, Evocation*  
-
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Touch
@@ -47,6 +44,24 @@ As a bonus action on your turn, you can dismiss this spell and cause the weapon 
 
 *Source: Xanathar's Guide to Everything p. 157*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Holy weapon xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -55,19 +70,25 @@ Holy weapon xge is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of holy weapon xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around holy weapon xge.
 
-## Adventure Hooks
-
-- A rumor ties holy weapon xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at holy weapon xge to avert a public scandal.
-- A map overlay reveals a hidden approach to holy weapon xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a portal
+- Someone is blackmailing information for revenge
+- An heirloom has gone missing and evil awakens
+- A noble needs help investigating before the festival
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

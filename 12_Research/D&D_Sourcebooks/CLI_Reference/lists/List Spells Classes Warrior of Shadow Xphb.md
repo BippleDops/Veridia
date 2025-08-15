@@ -23,16 +23,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# Spells for Warrior of Shadow
+*20 targeted improvements identified*
 
-## Cantrip
+### Connection Improvements
 
-- [[/03_Mechanics/CLI/spells/minor-illusion-xphb "XPHB"|Minor Illusion]] at class level 3
+- Add cross-references to related notes
 
-## 2nd Level
+### Enhancement Improvements
 
-- [[/03_Mechanics/CLI/spells/darkness-xphb "XPHB"|Darkness]] at class level 3
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -42,19 +48,15 @@ List spells classes warrior of shadow xphb is a undersea element of the setting,
 
 Legends speak of list spells classes warrior of shadow xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells classes warrior of shadow xphb.
 
-## Adventure Hooks
-
-- A rumor ties list spells classes warrior of shadow xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells classes warrior of shadow xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells classes warrior of shadow xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes

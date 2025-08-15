@@ -368,21 +368,10 @@ modified: '2025-08-14'
 ## world-map
 ![[04_Resources/Assets/Maps/world-map.png]]
 
-## Faction Relationships
-
 ### Network Position
 **Direct Connections**: 0 faction relationships
 **Network Influence**: 0 degrees of separation reach
 **Relationship Complexity**: Low
-
-### Key Relationships
-
-
-### Relationship Dynamics
-- **Alliance Potential**: Opportunities for cooperation and mutual benefit
-- **Conflict Risk**: Areas of potential disagreement or competition  
-- **Neutral Interactions**: Routine diplomatic and trade relationships
-- **Unknown Factors**: Relationships requiring further investigation
 
 ### Network Strategy
 **Expansion Opportunities**: Potential new alliances and partnerships
@@ -390,12 +379,9 @@ modified: '2025-08-14'
 **Influence Maximization**: Leveraging relationships for faction goals
 **Diplomatic Priorities**: Key relationships requiring attention
 
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

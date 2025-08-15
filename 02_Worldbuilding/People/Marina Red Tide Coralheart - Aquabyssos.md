@@ -1,4 +1,5 @@
 ---
+
 title: Marina Red Tide Coralheart   Aquabyssos
 type: Npc
 tags:
@@ -30,6 +31,8 @@ obsidianUIMode: preview
 status_condition: Switching with Shadow
 updated: '2025-08-13T12:34:17.527797+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -37,41 +40,76 @@ world: Aquabyssos
 > [!figure] Portrait
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-marina-red-tide-coralheart-aquabyssos-marina-red-tide-coralheart-aquabyssos.svg]]
 
-
 # Marina Red Tide Coralheart
 *The Adapted Guide, Shadow Switcher, Depth Walker*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+
 ## Overview
 Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[Aquabyssos]], having undergone extreme depth adaptation that allows her to survive at any pressure. What makes her unique—and dangerous—is her conscious partnership with her shadow, regularly switching control of their shared body. She's one of the few beings who maintains independence from both the [[The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] and the original authorities, walking a careful line between both worlds.
-
-## Appearance
-
-### Physical Form
-- **Height**: 5'7" (varies slightly with pressure)
-- **Build**: Lithe, hydrodynamically adapted
-- **Skin**: Translucent blue-green, shows veins
-- **Hair**: Flowing red kelp-like strands
-- **Eyes**: Solid black with bioluminescent pupils
-- **Gills**: Functional on neck, usually hidden
-- **Webbing**: Retractable between fingers/toes
-- **Coral Growth**: Living coral armor patches
-
-### Adaptation Features
-- Bones partially cartilaginous for pressure
-- Internal organs rearranged for efficiency
-- Blood contains natural antifreeze
-- Can see in complete darkness
-- Echolocation capability
-- Pressure bladder for depth changes
-
-### Shadow Switching Signs
-- Eyes flicker between black and normal
-- Shadow moves before she does
-- Temperature drops when shadow controls
-- Voice becomes slightly hollow
-- Different mannerisms emerge
-
-## The Dual Nature
 
 ### Marina (Original)
 **The Compassionate Guide**
@@ -97,8 +135,6 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[A
 - Shadow handles dangerous negotiations
 - Original handles emotional connections
 
-## Background
-
 ### Early Life
 **Surface Origins**
 - Born in coastal [[Aethermoor]] village
@@ -123,62 +159,6 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[A
 - Learned to switch voluntarily
 - Became valuable to all sides
 
-## Abilities & Skills
-
-### Ranger/Druid Abilities
-- **Favored Terrain**: Underwater caves, kelp forests
-- **Favored Enemy**: Shadows, aberrations
-- **Beast Companion**: Bioluminescent octopus named Prism
-- **Wild Shape**: Aquatic forms only
-- **Spellcasting**: Water and pressure magic
-
-### Depth Adaptations
-- **Pressure Immunity**: No depth limits
-- **Amphibious**: Breathe air or water
-- **Swim Speed**: 60 feet
-- **Darkvision**: 120 feet
-- **Blindsight**: 30 feet underwater
-- **Tremorsense**: Detect movement in water
-
-### Shadow Abilities (When Switched)
-- **Shadow Step**: Teleport through darkness
-- **Shadow Sight**: See other shadows' true nature
-- **Shadow Speech**: Communicate with shadows
-- **Phase Shift**: Briefly become incorporeal
-- **Darkness Manipulation**: Create areas of shadow
-
-### Unique Powers
-- **Dual Mind**: Advantage on mental saves
-- **Switch**: Change control as bonus action
-- **Shadow Resistance**: Immune to shadow possession
-- **Depth Memory**: Perfect recall underwater
-- **Pressure Weaponization**: Use pressure as weapon
-
-## Relationships
-
-### Allies
-- **[[The Scattered Emperor]]**: Provides information
-- **[[Captain Thrace Deeprunner]]**: Former Depth Guard commander
-- **[[The Kelp Witches]]**: Taught her adaptation magic
-- **Surface Refugees**: Guides them to safety
-- **Prism**: Octopus companion, only true friend
-
-### Complicated
-- **[[Senator Glaucus]]**: Knows he's replaced
-- **[[Shadow Duchess Nyx]]**: Mutual wariness
-- **[[Aboleth Prime Yoth]]**: Resists but fears
-- **[[The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]]**: Neither enemy nor ally
-- **Party Members**: Trust must be earned
-
-### Enemies
-- **Shadow Purists**: Want her shadow freed
-- **Original Supremacists**: See her as traitor
-- **[[The Depth Reapers]]**: Hunt adapted humans
-- **[[Memory Farmers]]**: Want her unique memories
-- **Surface world**: Would see her as monster
-
-
-
 ## Voice & Mannerisms
 
 **Voice**: Warm and friendly
@@ -187,8 +167,6 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[A
 
 **Physical Habits**: Steeples fingers when thinking
 
-## Current Activities
-
 ### Public Role
 **Guide Services**
 - Escorts surface visitors
@@ -196,79 +174,6 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[A
 - Provides safe passage
 - Translates depth languages
 - Navigates political dangers
-
-### Secret Missions
-- Investigating shadow conspiracy
-- Protecting original humans
-- Sabotaging transformation facilities
-- Building resistance network
-- Searching for adaptation cure
-
-### Personal Quest
-- Find balance with shadow
-- Prevent complete takeover
-- Discover switching permanence
-- Help others like her
-- Bridge two worlds
-
-## Knowledge & Secrets
-
-### What Marina Knows
-- Location of 3 transformation facilities
-- Identity of 12 replaced officials
-- [[Original Glaucus]]'s prison location
-- Safe routes through [[The Hadal Depths]]
-- Counter-ritual for shadow separation
-
-### What Her Shadow Knows
-- Full shadow conspiracy structure
-- The Dark Harvest timeline
-- [[Aboleth Prime Yoth]]'s involvement
-- Which shadows have empathy
-- How to kill shadows permanently
-
-### Shared Secrets
-- The switching is accelerating
-- Soon one must dominate
-- Love for someone impossible
-- Location of depth cure research
-- The [[Deep Mother]] stirring
-
-## Combat Statistics
-
-### Base Stats (Level 10)
-- **AS**: 16 (Natural armor + Dex)
-- **HP**: 95 (10d10 + 30)
-- **Speed**: 30 ft, Swim 60 ft
-- **Initiative**: +4
-
-### Ability Scores
-- **STR**: 14 (+2)
-- **DEX**: 18 (+4)
-- **CON**: 16 (+3)
-- **INT**: 14 (+2)
-- **WIS**: 16 (+3)
-- **CHA**: 12 (+1)
-
-### Saves & Skills
-- **Saves**: STR +6, DEX +8
-- **Skills**: Survival +7, Nature +6, Perception +7, Stealth +8
-- **Expertise**: Underwater navigation, Shadow detection
-
-### Combat Actions
-- **Multiattack**: Two weapon or spell attacks
-- **Coral Blade**: +8 to hit, 1d8+4 slashing + 1d6 poison
-- **Pressure Burst**: 15-ft cone, DEX 15 or 3d6 force
-- **Depth Charge**: Ranged spell, 4d6 thunder
-- **Switch**: Bonus action, change controller
-
-### Spellcasting (Druid)
-- **Spell Save DC**: 15
-- **Spell Attack**: +7
-- **Spell Slots**: 4/3/3/3/2
-- **Known Spells**: Water/nature themed
-
-## Quest Hooks
 
 ### Marina as Quest Giver
 1. **Shadow Double**: Her shadow needs favor
@@ -284,42 +189,11 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[A
 4. **The Third Option**: Find coexistence solution
 5. **Love Interest**: Complicated romance
 
-## Personality
-
-### Behavioral Patterns
-- **Under Stress**: Becomes more focused
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward negotiation
-
-
 ### Behavioral Patterns
 - **Under Stress**: Becomes more focused
 - **When Pleased**: Shows subtle satisfaction
 - **In Conflict**: Tends toward manipulation
  & Mannerisms
-
-### Marina (Original)
-- Laughs like bubbles rising
-- Touches water constantly for comfort
-- Hums old surface songs
-- Apologizes for shadow's rudeness
-- Still uses surface expressions
-
-### Shadow Marina
-- Never blinks
-- Speaks in shorter sentences
-- Stands perfectly still
-- Notices everything
-- Laughs at inappropriate times
-
-### Shared Traits
-- Protective of the innocent
-- Suspicious of pure shadows
-- Fear of losing control
-- Love of deep places
-- Hatred of imprisonment
-
-## Speaking Patterns
 
 ### Marina Original
 *"The depths change you, but they don't have to drown who you were."*
@@ -338,42 +212,6 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[A
 ### Both Speaking
 *"We are Marina. We survive. Together or not at all."*
 
-## Development Arc
-
-### Early Campaign
-- Helpful but mysterious guide
-- Shadow nature hidden
-- Seems to know too much
-- Occasional personality shifts
-
-### Mid Campaign
-- Reveals dual nature
-- Switching becomes obvious
-- Trust issues develop
-- Personal quest emerges
-
-### Late Campaign
-- Crisis of identity
-- Must choose side
-- Possible separation
-- Sacrifice potential
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Pursuing knowledge
@@ -383,8 +221,6 @@ Marina Red Tide Coralheart serves as a guide for surface dwellers navigating [[A
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Marina Red Tide Coralheart - Aquabyssos harbors secrets that could change everything:
@@ -392,8 +228,6 @@ Marina Red Tide Coralheart - Aquabyssos harbors secrets that could change everyt
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Stolen identity
-
-
 
 ## Plot Hooks
 
@@ -403,8 +237,6 @@ Marina Red Tide Coralheart - Aquabyssos harbors secrets that could change everyt
 4. **The Alliance**: Opportunity to work with or against Marina Red Tide Coralheart - Aquabyssos
 5. **The Crisis**: Marina Red Tide Coralheart - Aquabyssos is caught in a situation requiring intervention
 
-
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -412,8 +244,6 @@ Marina Red Tide Coralheart - Aquabyssos harbors secrets that could change everyt
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
 
 ## Statistics (D&D 5e)
 
@@ -437,52 +267,6 @@ languages: Common
 cr: 1/4
 ```
 
-## DM Notes
-
-### Using Marina
-- Perfect party guide for Aquabyssos
-- Walking exposition for shadow conspiracy
-- Moral complexity personified
-- Romance option with complications
-- Betrayal or loyalty uncertain
-
-### The Switching Mechanic
-- Roll d20 each morning
-- 1-10: Original controls
-- 11-20: Shadow controls
-- Stress triggers switches
-- Party can influence
-
-### Campaign Integration
-- Knows all major locations
-- Connected to every faction
-- Personal stake in outcome
-- Multiple questlines
-- Possible party member
-
-## Connected Elements
-
-### Key NPCs
-- [[The Scattered Emperor]] - Information source
-- [[Senator Glaucus]] - Knows truth about
-- [[Shadow Duchess Nyx]] - Complicated rival
-- [[Original Glaucus]] - Could rescue
-- [[Captain Thrace Deeprunner]] - Former commander
-
-### Important Locations
-- [[Abyssos Prime]] - Base of operations
-- [[The Memory Meadows]] - Knows location
-- [[Transformation Facilities]] - Sabotage targets
-- [[The Hadal Depths]] - Can navigate
-- [[Depth Guard Sanctuary]] - Hidden refuge
-
-### Related Quests
-- [[Quest - The Shadow Guide]]
-- [[Quest - Marina's Choice]]
-- [[Quest - The Switching Cure]]
-- [[Quest - Depth Adaptation]]
-- [[Quest - Two Minds, One Body]]
-
 ### Organizations
 - [[Depth Guard]] - Former member
 - [[The Shadow Conspiracy|02 Worldbuilding/Groups/The Shadow Conspiracy]] - Complicated relationship
@@ -494,23 +278,6 @@ cr: 1/4
 
 *"In the depths, you learn that identity isn't about who you were—it's about who you choose to be when you could be anyone."*
 
-
-
-
-## Relationship Web
-
-- [[The Tidecaller]]: *student*
-- [[Captain Nerion Deepward]]: *mentor*
-
-## Connections
-
-- [[Marina's Echo]]
-- [[The Emperor's Gambit]]
-- [[The Scattered Emperor]]
-- [[Abyssos Prime]]
-- [[The First Failure]]
-- [[Aquabyssos - Session 01 - The Drowning Welcome]]
-
 ## Player-Facing Summary
 
 Marina Red Tide Coralheart   Aquabyssos is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -519,15 +286,34 @@ Marina Red Tide Coralheart   Aquabyssos is a undersea element of the setting, kn
 
 Legends speak of Marina Red Tide Coralheart   Aquabyssos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Marina Red Tide Coralheart   Aquabyssos.
 
-## Adventure Hooks
 
-- A rumor ties Marina Red Tide Coralheart   Aquabyssos to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Marina Red Tide Coralheart   Aquabyssos to avert a public scandal.
-- A map overlay reveals a hidden approach to Marina Red Tide Coralheart   Aquabyssos active only during specific tides/storms.
+## Cultural Practices
 
-## Cross-References
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
 
-- [[Marina Red Tide Coralheart - Aquabyssos]]
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
 
-<!-- enriched: true -->
-- [[Memory Farmers]]
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

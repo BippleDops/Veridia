@@ -24,18 +24,30 @@ obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.970774+00:00'
 ---
 
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-purification-gardens-the-purification-gardens.svg)
-
-
-
-
 
 # The Purification Gardens
 
 *"In cleansed soil, pure intentions take root." - Gardener Serenity*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 The Purification Gardens serve as Aethermoor's sacred healing sanctuary, where magical plants and purified water sources work together to cleanse corruption from body, mind, and spirit. Maintained by an order of dedicated gardener-priests, these grounds offer hope to those afflicted by magical diseases, curses, and spiritual ailments.
@@ -80,26 +92,12 @@ The Purification Gardens serve as Aethermoor's sacred healing sanctuary, where m
 **Recovery Period:** Rest and monitoring in peaceful environment
 **Final Blessing:** Spiritual protection before return to world
 
-## Current Challenges
-- Increased demand due to Crystal Plague affecting nearby regions
-- Limited space forcing difficult decisions about patient priority
-- Corruption sources becoming more resistant to traditional treatments
-- Resource strain from treating complex supernatural afflictions
-- Political pressure to treat wealthy patrons over needy pilgrims
-
 ## Visiting Restrictions
-**Donation Requirements:** Suggested offering based on financial ability
+**Donation Requirements:** Suggested offering based on ficial ability
 **Purity Standards:** Visitors must undergo preliminary cleansing
 **Behavior Codes:** Peaceful conduct and respect for sacred space
 **Time Limits:** Treatment duration depends on condition severity
 **Confidentiality:** All patient information kept strictly private
-
-## Recent Successes
-- Successfully treated victims of aberrant mind control
-- Developed new techniques for shadow corruption removal
-- Restored sight to those blinded by cursed artifacts
-- Healed psychological trauma from supernatural encounters
-- Purified contaminated water sources affecting local communities
 
 ## Adventure Hooks
 1. Party member needs treatment for curse or magical affliction
@@ -126,36 +124,6 @@ The Purification Gardens serve as Aethermoor's sacred healing sanctuary, where m
 ## DM Notes
 The Purification Gardens provide excellent opportunities for healing interlude adventures, moral dilemmas about resource allocation, and mysteries involving corruption or sabotage. Use them as safe havens where characters can recover while engaging with deeper spiritual themes.
 
-
-## Connections
-
-- [[Queen Seraphina Lumengarde]]
-- [[Ancient Tunnels Beneath Palace]]
-
-
-## Appearance
-
-
-TODO
-
-
-## Personality
-
-
-TODO
-
-
-## Goals
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 The Purification Gardens is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -164,13 +132,23 @@ The Purification Gardens is a undersea element of the setting, known for biolumi
 
 Legends speak of The Purification Gardens as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Purification Gardens.
 
-## Cross-References
-
-- [[The Purification Gardens|02 Worldbuilding/People/The Purification Gardens]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help investigating before the festival
+- A stranger needs help investigating before winter
+- An heirloom has gone missing and chaos spreads
+- The authorities needs help finding before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

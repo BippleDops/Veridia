@@ -18,11 +18,8 @@ updated: '2025-08-13T16:45:00.000000'
 world: Both
 ---
 
-
 # Seven Shards Campaign: NPC Statblocks
 *Complete 5e Statistics for Major Characters*
-
-## Primary Antagonists
 
 ### The Deep Mother (Final Form)
 
@@ -100,7 +97,6 @@ regional_effects:
 
 ### Vex Shadowthorn (Shadow Shard Carrier)
 
-```statblock
 name: Vex Shadowthorn
 size: Medium
 type: humanoid
@@ -111,11 +107,9 @@ hp: 165
 hit_dice: 22d8 + 66
 speed: 30 ft., shadow step 60 ft.
 stats: [14, 20, 16, 18, 15, 16]
-saves:
   - dexterity: 11
   - intelligence: 10
   - charisma: 9
-skillsaves:
   - stealth: 17
   - sleight_of_hand: 11
   - deception: 9
@@ -125,7 +119,6 @@ condition_immunities: charmed while shadow-touched
 senses: darkvision 120 ft., passive Perception 12
 languages: Common, Thieves' Cant, Shadow Speech
 cr: 12
-spells:
   - "Vex is a 15th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). He has the following spells prepared:"
   - "Cantrips (at will): mage hand, minor illusion, prestidigitation, shadow blade"
   - "1st level (4 slots): disguise self, silent image, sleep"
@@ -136,7 +129,6 @@ spells:
   - "6th level (1 slot): mass suggestion, mental prison"
   - "7th level (1 slot): plane shift, project image"
   - "8th level (1 slot): feeblemind, mind blank"
-traits:
   - name: Shadow Shard Corruption
     desc: Vex carries a fragment of the Shadow Shard. He can split his consciousness, creating shadow duplicates that act independently.
   - name: Surgical Precision
@@ -145,8 +137,6 @@ traits:
     desc: As an action, Vex can attempt to alter the memories of a creature within 30 feet (DC 18 Wisdom save negates).
   - name: Shadow Network
     desc: Vex can communicate telepathically with any shadow-touched creature within 1 mile.
-actions:
-  - name: Multiattack
     desc: Vex makes three Shadow Blade attacks or two attacks and casts a spell.
   - name: Shadow Blade
     desc: "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) psychic damage plus 7 (2d6) necrotic damage. Target must make DC 18 Wisdom save or have a memory altered."
@@ -156,8 +146,6 @@ actions:
     desc: Vex creates 1d3 shadow duplicates of himself with half his hit points. They act on his initiative but can take independent actions.
   - name: Shadow Step
     desc: As a bonus action, Vex can teleport from one area of dim light or darkness to another within 60 feet.
-legendary_actions:
-  - name: Move
     desc: Vex moves up to his speed using shadow step if possible.
   - name: Shadow Blade Attack
     desc: Vex makes one Shadow Blade attack.
@@ -165,14 +153,10 @@ legendary_actions:
     desc: Vex attempts to steal a specific memory from a creature within 30 feet.
   - name: Shadow Manipulation (Costs 3 Actions)
     desc: Vex manipulates shadows in a 30-foot radius, creating difficult terrain and granting him total cover.
-```
 
 ### Lord Aurelius Goldwave (Crystal Shard Corrupted)
 
-```statblock
 name: Lord Aurelius Goldwave
-size: Medium
-type: humanoid
 subtype: human, crystal-touched
 alignment: lawful evil
 ac: 16
@@ -180,29 +164,24 @@ hp: 112
 hit_dice: 15d8 + 45
 speed: 25 ft. (crystal growths slow movement)
 stats: [16, 12, 16, 14, 13, 18]
-saves:
   - constitution: 8
   - charisma: 10
-skillsaves:
   - persuasion: 10
   - insight: 7
   - deception: 10
 damage_resistances: acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks
-damage_vulnerabilities: thunder (crystal resonance)
+damage_vulnerabilities: thunder (crystal resoce)
 senses: passive Perception 11
 languages: Common, Draconic
 cr: 8
-traits:
   - name: Crystal Corruption
     desc: 40% of Aurelius's body has been transformed into living crystal. He gains damage resistance but vulnerability to sonic attacks.
   - name: Wealth Sense
     desc: Aurelius can detect precious metals and gems within 120 feet and knows their approximate value.
-  - name: Crystal Resonance
+  - name: Crystal Resoce
     desc: When Aurelius takes thunder damage, all crystal-touched creatures within 30 feet must make a DC 16 Constitution save or be stunned until the end of their next turn.
   - name: Economic Influence
     desc: Aurelius can leverage his vast wealth to influence NPCs. He has advantage on Charisma checks with anyone motivated by money.
-actions:
-  - name: Multiattack
     desc: Aurelius makes two Crystal Spike attacks or one attack and uses a crystal ability.
   - name: Crystal Spike
     desc: "Ranged Spell Attack: +7 to hit, range 60 ft., one target. Hit: 12 (2d8 + 3) piercing damage plus 7 (2d6) acid damage. Target must make DC 16 Constitution save or begin growing crystal patches."
@@ -215,16 +194,10 @@ actions:
 reactions:
   - name: Crystal Shield
     desc: When Aurelius takes damage, he can use his reaction to create a crystal barrier, reducing the damage by 10 (3d6).
-```
-
-## Primary Allies
 
 ### Queen Seraphina Lumengarde (Consciousness Shard Affected)
 
-```statblock
 name: Queen Seraphina Lumengarde
-size: Medium
-type: humanoid
 subtype: human, shard-touched
 alignment: lawful good
 ac: 17
@@ -232,10 +205,8 @@ hp: 143
 hit_dice: 22d8 + 44
 speed: 30 ft., swim 60 ft.
 stats: [12, 14, 14, 18, 20, 22]
-saves:
   - wisdom: 11
   - charisma: 12
-skillsaves:
   - insight: 17
   - persuasion: 18
   - history: 10
@@ -245,7 +216,6 @@ condition_immunities: charmed (when not corrupted)
 senses: passive Perception 15
 languages: Common, Aquatic, Celestial
 cr: 10
-spells:
   - "Seraphina is an 18th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). She has the following spells prepared:"
   - "Cantrips (at will): guidance, light, mending, thaumaturgy"
   - "1st level (4 slots): command, cure wounds, detect magic, sanctuary"
@@ -255,9 +225,7 @@ spells:
   - "5th level (3 slots): greater restoration, mass cure wounds, scrying"
   - "6th level (1 slot): heal, mass suggestion"
   - "7th level (1 slot): plane shift, regenerate"
-  - "8th level (1 slot): feeblemind, mind blank"
   - "9th level (1 slot): mass heal, wish"
-traits:
   - name: Royal Authority
     desc: Seraphina has advantage on Charisma checks when dealing with subjects of Aquabyssos or when invoking royal prerogatives.
   - name: Consciousness Touch
@@ -266,8 +234,6 @@ traits:
     desc: Seraphina has perfect recall and can share specific memories with others through touch.
   - name: Shard Corruption (Variable)
     desc: Depending on campaign progress, Seraphina may be under varying degrees of consciousness manipulation. When corrupted, her alignment shifts toward lawful evil.
-actions:
-  - name: Multiattack
     desc: Seraphina makes two Tidal Scepter attacks or casts a spell and makes one attack.
   - name: Tidal Scepter
     desc: "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage plus 9 (2d8) cold damage. Target must make DC 18 Strength save or be knocked prone."
@@ -277,8 +243,6 @@ actions:
     desc: Seraphina can restore damaged memories or consciousness to a creature, effectively acting as greater restoration for mental effects.
   - name: Summon Royal Guard (1/Day)
     desc: Seraphina calls 2d4 Aquabyssos Royal Guards (use Knight statistics with swim speed) that arrive in 1d4 rounds.
-legendary_actions:
-  - name: Move
     desc: Seraphina moves up to her speed without provoking opportunity attacks.
   - name: Cantrip
     desc: Seraphina casts a cantrip.
@@ -286,26 +250,18 @@ legendary_actions:
     desc: Seraphina casts healing word at 4th level.
   - name: Royal Presence (Costs 3 Actions)
     desc: All creatures within 30 feet must make a DC 20 Wisdom save or be charmed until the end of their next turn.
-```
 
 ### Emperor Thalassius (Storm Shard Guardian)
 
-```statblock
 name: Emperor Thalassius
-size: Medium
-type: humanoid
 subtype: human, storm-touched
 alignment: lawful neutral
 ac: 19
-hp: 165
-hit_dice: 22d8 + 66
 speed: 30 ft., fly 90 ft. (storm winds)
 stats: [18, 16, 16, 16, 18, 20]
-saves:
   - strength: 10
   - wisdom: 10
   - charisma: 11
-skillsaves:
   - athletics: 10
   - intimidation: 11
   - perception: 10
@@ -314,7 +270,6 @@ damage_immunities: being knocked prone by wind effects
 senses: passive Perception 20
 languages: Common, Aetherial, Primordial (Air)
 cr: 11
-spells:
   - "Thalassius is a 16th-level spellcaster. His spellcasting ability is Charisma (spell save DC 19, +11 to hit with spell attacks). He has the following spells prepared:"
   - "Cantrips (at will): druidcraft, gust, lightning lure, thunderclap"
   - "1st level (4 slots): feather fall, fog cloud, thunderwave"
@@ -325,7 +280,6 @@ spells:
   - "6th level (1 slot): chain lightning, wind walk"
   - "7th level (1 slot): control weather, whirlwind"
   - "8th level (1 slot): control weather, tsunami"
-traits:
   - name: Storm Lord
     desc: Thalassius is constantly surrounded by minor weather effects. He can see through fog, mist, and similar weather, and wind-based attacks have disadvantage against him.
   - name: Lightning Crown
@@ -334,8 +288,6 @@ traits:
     desc: Thalassius always knows the weather conditions within 25 miles and can predict weather changes up to 7 days in advance.
   - name: Imperial Authority
     desc: Thalassius has advantage on Charisma checks when dealing with subjects of Aethermoor or when making official proclamations.
-actions:
-  - name: Multiattack
     desc: Thalassius makes two Storm Blade attacks or casts a spell and makes one attack.
   - name: Storm Blade
     desc: "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage plus 7 (2d6) lightning damage. On a critical hit, target is stunned until end of their next turn."
@@ -345,8 +297,6 @@ actions:
     desc: Thalassius summons a localized storm in a 60-foot radius. The area becomes heavily obscured, creatures take 10 (3d6) lightning damage at the start of their turn, and wind speed makes ranged attacks nearly impossible.
   - name: Wind Throne (1/Day)
     desc: Thalassius creates a throne of crystallized wind that grants him flight speed of 120 feet, +2 AC, and advantage on all Charisma-based checks for 10 minutes.
-legendary_actions:
-  - name: Move
     desc: Thalassius moves up to his flight speed without provoking opportunity attacks.
   - name: Lightning Strike
     desc: Thalassius calls down a bolt of lightning on a creature within 120 feet. Target takes 14 (4d6) lightning damage (DC 19 Dex save for half).
@@ -354,16 +304,10 @@ legendary_actions:
     desc: Thalassius changes the weather in a 120-foot radius (clear to stormy, calm to windy, etc.).
   - name: Imperial Command (Costs 3 Actions)
     desc: Thalassius issues a command that echoes with imperial authority. All creatures within 60 feet must make a DC 19 Wisdom save or be compelled to follow a simple command.
-```
-
-## Supporting NPCs
 
 ### Dr. Marina Voidseeker (Research Specialist)
 
-```statblock
 name: Dr. Marina Voidseeker
-size: Medium
-type: humanoid
 subtype: human
 alignment: neutral good
 ac: 13
@@ -371,10 +315,8 @@ hp: 78
 hit_dice: 12d8 + 24
 speed: 30 ft., swim 40 ft.
 stats: [10, 14, 14, 20, 16, 12]
-saves:
   - intelligence: 11
   - wisdom: 9
-skillsaves:
   - arcana: 17
   - investigation: 17
   - medicine: 9
@@ -383,7 +325,6 @@ damage_resistances: psychic (from void exposure)
 senses: passive Perception 13
 languages: Common, Aquatic, Draconic, Primordial
 cr: 5
-spells:
   - "Dr. Voidseeker is a 12th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). She has the following spells prepared:"
   - "Cantrips (at will): detect magic, light, mage hand, prestidigitation"
   - "1st level (4 slots): comprehend languages, detect magic, identify"
@@ -392,7 +333,6 @@ spells:
   - "4th level (3 slots): arcane eye, divination, locate creature"
   - "5th level (2 slots): legend lore, scrying, telekinesis"
   - "6th level (1 slot): true seeing, mass suggestion"
-traits:
   - name: Void Exposure
     desc: Dr. Voidseeker has been exposed to void energies, granting her resistance to psychic damage but making her slightly unstable. She has advantage on saves against fear and charm effects.
   - name: Research Expertise
@@ -401,7 +341,6 @@ traits:
     desc: When Dr. Voidseeker aids another character's ability check related to investigation or knowledge, she grants advantage instead of the normal +2 bonus.
   - name: Void Sensitivity
     desc: Dr. Voidseeker can sense disturbances in reality within 1 mile and identify their general nature and direction.
-actions:
   - name: Void Scanner
     desc: "Ranged Spell Attack: +9 to hit, range 120 ft., one creature or object. Hit: 14 (3d6 + 4) force damage and Dr. Voidseeker learns one piece of information about the target's magical nature."
   - name: Research Flash (3/Day)
@@ -410,36 +349,18 @@ actions:
     desc: Dr. Voidseeker rapidly develops a working theory about a magical phenomenon, allowing her party to treat one failed save or check as a success.
   - name: Scientific Equipment
     desc: Dr. Voidseeker deploys specialized equipment that can detect magical auras, measure energy fields, or provide other investigative benefits as determined by the DM.
-reactions:
   - name: Analytical Defense
     desc: When targeted by a spell or magical effect, Dr. Voidseeker can use her reaction to analyze it, gaining advantage on the saving throw and learning the spell's effects.
-```
 
 ### High Priestess Coral Depthsinger (Religious Authority)
 
-```statblock
 name: High Priestess Coral Depthsinger
-size: Medium
-type: humanoid
-subtype: human
-alignment: lawful good
-ac: 16
 hp: 117
 hit_dice: 18d8 + 36
-speed: 30 ft., swim 60 ft.
 stats: [12, 14, 14, 16, 20, 18]
-saves:
-  - wisdom: 11
-  - charisma: 10
-skillsaves:
-  - insight: 17
   - medicine: 11
   - religion: 9
-  - persuasion: 10
-senses: passive Perception 15
-languages: Common, Aquatic, Celestial
 cr: 9
-spells:
   - "Coral is an 18th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 19, +11 to hit with spell attacks). She has the following cleric spells prepared:"
   - "Cantrips (at will): guidance, light, resistance, sacred flame, thaumaturgy"
   - "1st level (4 slots): bless, cure wounds, detect magic, sanctuary"
@@ -451,16 +372,14 @@ spells:
   - "7th level (1 slot): divine word, plane shift, regenerate"
   - "8th level (1 slot): antimagic field, earthquake"
   - "9th level (1 slot): heal, mass heal"
-traits:
   - name: Divine Authority
     desc: Coral has advantage on Charisma checks when dealing with religious matters or invoking divine authority.
   - name: Tidal Blessing
     desc: Coral can breathe underwater indefinitely and can grant this ability to others for 24 hours through a 1-minute ritual.
-  - name: Sacred Resonance
+  - name: Sacred Resoce
     desc: When Coral casts a spell that restores hit points, she can choose to have it also remove one condition affecting the target.
   - name: Deep Communion
     desc: Coral can communicate with sea creatures and has advantage on Animal Handling checks with aquatic life.
-actions:
   - name: Sacred Trident
     desc: "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage plus 9 (2d8) radiant damage."
   - name: Tidal Wave Blessing (1/Day)
@@ -469,18 +388,11 @@ actions:
     desc: Coral calls upon divine power to aid in a crisis. Roll percentile dice - if the result is equal to or less than her cleric level (18), the intervention succeeds with effects determined by the DM.
   - name: Sanctuary of Depths (1/Day)
     desc: Coral creates a 20-foot radius area of consecrated water that lasts for 24 hours. The area provides sanctuary effects to all creatures of good alignment.
-legendary_actions:
-  - name: Move
     desc: Coral moves up to her speed without provoking opportunity attacks.
-  - name: Cantrip
     desc: Coral casts a cantrip.
-  - name: Healing Word (Costs 2 Actions)
     desc: Coral casts healing word at 5th level.
   - name: Divine Guidance (Costs 3 Actions)
     desc: All allies within 60 feet gain guidance on their next ability check, attack roll, or saving throw.
-```
-
-## Initiative Tracker Templates
 
 ### Major Boss Fight Template
 ```initiative-tracker
@@ -488,14 +400,11 @@ legendary_actions:
   hp: [Variable]
   ac: [Variable]
   initiative: [High]
-- name: Lieutenant 1
+- name: Lieutet 1
   hp: [Medium]
   ac: [Medium]
   initiative: [Medium]
-- name: Lieutenant 2
-  hp: [Medium]
-  ac: [Medium]
-  initiative: [Medium]
+- name: Lieutet 2
 - name: Minion Group (4)
   hp: [Low]
   ac: [Low]
@@ -504,65 +413,46 @@ legendary_actions:
   hp: ---
   ac: ---
   initiative: 20
-```
 
 ### Social Encounter Template
-```initiative-tracker
 - name: Primary Speaker
   hp: [Social HP: 3 Arguments]
   ac: [Persuasion DC]
   initiative: [Charisma]
 - name: Supporting Voice 1
   hp: [Social HP: 2 Arguments]
-  ac: [Persuasion DC]
-  initiative: [Charisma]
 - name: Opposition Leader
-  hp: [Social HP: 3 Arguments]
   ac: [Deception DC]
-  initiative: [Charisma]
 - name: Neutral Mediator
   hp: [Social HP: 1 Argument]
   ac: [Insight DC]
   initiative: [Wisdom]
-```
-
-## Meta-Bind Interactive Elements
 
 ### NPC Relationship Tracker
 ```meta-bind
 INPUT[slider(minValue(-10), maxValue(10), addLabels):relationship-seraphina]
 Label: Queen Seraphina Relationship
-```
 
-```meta-bind
 INPUT[slider(minValue(-10), maxValue(10), addLabels):relationship-thalassius]
 Label: Emperor Thalassius Relationship
-```
 
-```meta-bind
 INPUT[slider(minValue(-10), maxValue(10), addLabels):relationship-aurelius]
 Label: Lord Aurelius Relationship
-```
 
 ### Corruption Tracker
-```meta-bind
 INPUT[progressBar(minValue(0), maxValue(100)):corruption-level]
 Label: Party Shard Corruption Level
-```
 
 ### Shard Status Monitor
 ```meta-bind-button
-label: Check Shard Resonance
+label: Check Shard Resoce
 id: shard-check
 action:
   type: command
   command: dice-roller
 args: ["7d20"]
-```
 
 ---
-
-## Dataview Queries for Dynamic Content
 
 ### All NPCs by Threat Level
 ```dataview
@@ -570,75 +460,41 @@ TABLE location, cr, alignment, status
 FROM "Seven_Shards_Campaign/NPCs_Statblocks"
 WHERE contains(tags, "npc")
 SORT cr DESC
-```
 
 ### Relationship Tracking
-```dataview
 TABLE relationship-value, last-interaction, current-status
 FROM "Seven_Shards_Campaign"
 WHERE contains(tags, "relationship")
 SORT relationship-value DESC
-```
 
 ### Corruption Levels
-```dataview
 TABLE character, corruption-source, corruption-level, treatment-status
-FROM "Seven_Shards_Campaign"
 WHERE contains(tags, "corruption")
 SORT corruption-level DESC
-```
 
 ---
 
-## Combat Modifiers by Shard Presence
 
-### Consciousness Shard Effects
-- **Allies**: +2 to Wisdom saves, telepathic communication
-- **Enemies**: Must make Wisdom saves to target specific opponents
-- **Environment**: Thoughts become partially visible as auras
+## 🔧 Deep Evaluation Improvements
 
-### Crystal Shard Effects
-- **Allies**: +1 AC from crystal growths, resistance to one damage type
-- **Enemies**: Vulnerability to thunder damage from crystal resonance
-- **Environment**: Metal weapons vibrate, causing discomfort
+*20 targeted improvements identified*
 
-### Storm Shard Effects
-- **Allies**: +10 ft speed from wind assistance, resistance to lightning
-- **Enemies**: Disadvantage on ranged attacks due to wind
-- **Environment**: Constant light rain, occasional lightning strikes
+### Connection Improvements
 
-### Shadow Shard Effects
-- **Allies**: Advantage on stealth checks, can see through illusions
-- **Enemies**: -2 to attack rolls in bright light
-- **Environment**: Areas of darkness move and shift randomly
+- Add cross-references to related notes
 
-### Void Shard Effects
-- **Allies**: Can phase through barriers once per turn
-- **Enemies**: Take 1d6 force damage when moving between spaces
-- **Environment**: Reality becomes unstable, magic can fail unexpectedly
+### Enhancement Improvements
 
-### Life Shard Effects
-- **Allies**: Regenerate 2 HP at start of turn, advantage on death saves
-- **Enemies**: Healing spells can be reversed to cause damage
-- **Environment**: Plants grow rapidly, animals become more active
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-### Unity Shard Effects
-- **Allies**: Can share spell slots and class abilities
-- **Enemies**: Must make saves to attack former allies
-- **Environment**: Boundaries between individuals become blurred
-
----
-
-## Connected Content
-- [[Seven Shards Campaign Overview]]
-- [[Session Planning Templates]]
-- [[Shard Corruption Mechanics]]
-- [[NPC Relationship System]]
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -647,3 +503,24 @@ SORT corruption-level DESC
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Depths
+
+
+## Plot Hooks
+
+- A noble needs help finding before the festival
+- A letter reveals a conspiracy about the cult
+- A merchant needs help stealing before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

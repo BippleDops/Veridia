@@ -16,10 +16,6 @@ updated: '2025-08-13'
 world: Both
 ---
 
-
-# End of Arc Reflection
-## Looking back on completed storylines
-
 ### Story Arc Summary
 
 ```
@@ -38,26 +34,17 @@ Overall Arc Rating:
 ★★★☆☆  Good
 ★★★★☆  Great
 ★★★★★  Excellent
-```
 
 ### Character Development
 
-```
 How did your character grow during this arc?
-_______________________________________
 _______________________________________
 
 What was your character's greatest achievement?
-_______________________________________
-_______________________________________
 
 What was your character's biggest failure?
-_______________________________________
-_______________________________________
 
 How did relationships change?
-_______________________________________
-_______________________________________
 
 Did the arc address your character's goals?
 □ Completely addressed
@@ -65,11 +52,9 @@ Did the arc address your character's goals?
 □ Partially addressed
 □ Barely addressed
 □ Not addressed at all
-```
 
 ### Story Satisfaction
 
-```
 Was the conclusion satisfying?
 □ Very satisfying
 □ Satisfying
@@ -92,56 +77,50 @@ Did the arc feel complete?
 □ Very incomplete
 
 Most memorable moment:
-_______________________________________
-_______________________________________
 
 Biggest surprise:
-_______________________________________
-_______________________________________
-```
 
 ### Future Hooks
 
-```
 What consequences from this arc should affect future stories?
-_______________________________________
-_______________________________________
 
 What new goals emerged for your character?
-_______________________________________
-_______________________________________
 
 What relationships need further development?
-_______________________________________
-_______________________________________
 
 What unfinished business remains?
-_______________________________________
-_______________________________________
-```
 
 ### Lessons Learned
 
-```
 What would you do differently if playing this arc again?
-_______________________________________
-_______________________________________
 
 What worked particularly well?
-_______________________________________
-_______________________________________
 
 What advice would you give other players for similar arcs?
-_______________________________________
-_______________________________________
-```
 
 *Reflection helps improve future storytelling*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -150,3 +129,23 @@ _______________________________________
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## Plot Hooks
+
+- Someone is searching for a artifact for money
+- Strange accidents suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

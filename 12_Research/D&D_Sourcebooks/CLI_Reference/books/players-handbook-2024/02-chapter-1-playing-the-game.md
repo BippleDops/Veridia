@@ -21,11 +21,10 @@ updated: '2025-08-12T23:37:34.850688'
 world: Both
 ---
 
-
 # Chapter 1: Playing the Game
 *Source: Player's Handbook (2024), p. 7* 
 
-![[/03_Mechanics/CLI/books/players-handbook-2024/img/000-01-013-opening-art.webp#center "While adventuring in the Dragonlance setting, the siblings Caramon Majere, Raistlin Majere, and Kitiara uth Matar provoke the rage of a wyvern"|While adventuring in the D...]]
+!]
 
 Imagination is a key ingredient of Dungeons & Dragons, a cooperative game in which the characters that you roleplay embark on adventures together in fantasy worlds filled with monsters and magic.
 
@@ -48,6 +47,24 @@ The adventure continues from there, relying on the DM's descriptions to set the 
 > 
 > If you read a rules term in this book and want to know its definition, consult the rules glossary, which is "appendix C". This chapter provides an overview of how to play D&D and focuses on the big picture. Many places in this chapter reference that glossary.
 ^rules-glossary
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player or DM?
 
@@ -80,9 +97,7 @@ The three main pillars of D&D play are "social interaction", "exploration", and 
 This pattern holds during every game session (each time you sit down to play D&D), whether the adventurers are talking to a noble, exploring a ruin, or fighting a dragon. In certain situations—particularly combat—the action is more structured, and everyone takes turns.
 
 > [!note] Exceptions Supersede General Rules
-> 
 > General rules govern each part of the game. For example, the combat rules tell you that melee attacks use Strength and ranged attacks use Dexterity. That's a general rule, and a general rule is in effect as long as something in the game doesn't explicitly say otherwise.
-> 
 > The game also includes elements—class features, feats, weapon properties, spells, magic items, monster abilities, and the like—that sometimes contradict a general rule. When an exception and a general rule disagree, the exception wins. For example, if a feature says you can make melee attacks using your Charisma, you can do so, even though that statement disagrees with the general rule.
 ^exceptions-supersede-general-rules
 
@@ -112,10 +127,9 @@ As with adventures, a DM might create a campaign from scratch, assemble a campai
 
 Dice add randomness to the game. They help determine whether characters and monsters are successful at the things they attempt.
 
-![[/03_Mechanics/CLI/books/players-handbook-2024/img/001-01-002-dice.webp#center "From left to right: `D4`, `D6`, `D8`, `D10` (ones digit|From left to right: `D4`, ...]], `D10` (tens digit), `D12`, `D20`")
+!], `D10` (tens digit), `D12`, `D20`")
 
 > [!note] Round Down
-> 
 > Whenever you divide or multiply a number in the game, round down if you end up with a fraction, even if the fraction is one-half or greater. Some rules make an exception and tell you to round up.
 ^round-down
 
@@ -156,7 +170,6 @@ Occasionally, you'll see a table that uses a die roll to generate a random resul
 Sometimes you might see a rule describing a percentage chance of something happening. For example, a rule might say there is a 5 percent chance of something happening. You can determine whether that thing happens by rolling percentile dice; if the roll is equal to or less than the percentage chance (a 01 to 05, in this example), it happens.
 
 > [!note] Interpreting Die Rolls in the Story
-> 
 > Part of the fun of D&D is interpreting what die rolls mean in the story. The randomness that dice bring often introduces the unexpected: an expert fails, a novice succeeds, or any number of other twists. When a [[d20-test-xphb|D20 Test]] or another roll produces a surprise, the Dungeon Master often gives a fun description of what happened. If you're a player, look for opportunities to interpret your character's die rolls and describe why things unfolded unexpectedly or even humorously.
 ^interpreting-die-rolls-in-the-story
 
@@ -188,8 +201,6 @@ When the outcome of an action is uncertain, the game uses a `d20` roll to determ
         - **Your Proficiency Bonus If Relevant.** Each creature has a Proficiency Bonus, a number added when making a [[d20-test-xphb|D20 Test]] that uses something, such as a skill, in which the creature has proficiency. See ""Proficiency"" later in this chapter.    
         - **Circumstantial Bonuses and Penalties.** A class feature, a spell, or another rule might give a bonus or penalty to the die roll.    
 - **Compare the Total to a Target Number.** If the total of the `d20` and its modifiers equals or exceeds the target number, the [[d20-test-xphb|D20 Test]] succeeds. Otherwise, it fails. The Dungeon Master determines target numbers and tells players whether their rolls are successful. The target number for an ability check or a saving throw is called a [[difficulty-class-xphb|Difficulty Class]] (DC). The target number for an attack roll is called an [[armor-class-xphb|Armor Class]] (AC), which appears on a character sheet or in a [[stat-block-xphb|stat block]].  
-
-![[/03_Mechanics/CLI/books/players-handbook-2024/img/002-01-003-d20-test.webp#center "A D20 Test can result in a dramatic success, a simple accomplishment, or a catastrophe"|A D20 Test can result in a...]]
 
 ### Ability Checks
 
@@ -271,8 +282,6 @@ If you roll a 1 on the `d20` (a "natural 1") for an attack roll, the attack miss
 
 ### Advantage/Disadvantage
 
-![[/03_Mechanics/CLI/books/players-handbook-2024/img/003-01-004-advantage-disadvantage.webp#center "If you have Advantage, use the 18 If you have Disadvantage, use the 3"|If you have Advantage, use...]]
-
 Sometimes a [[d20-test-xphb|D20 Test]] is modified by Advantage or Disadvantage. Advantage reflects the positive circumstances surrounding a `d20` roll, while Disadvantage reflects negative circumstances.
 
 You usually acquire Advantage or Disadvantage through the use of special abilities and actions. The DM can also decide that circumstances grant Advantage or impose Disadvantage.
@@ -294,13 +303,9 @@ When you have Advantage or Disadvantage and something in the game lets you rerol
 For example, if you have [[heroic-inspiration-xphb|Heroic Inspiration]] (see the sidebar) and roll a 3 and an 18 on an ability check that has Advantage or Disadvantage, you could expend your Heroic Inspiration to reroll one of those dice, not both of them.
 
 > [!note] Heroic Inspiration
-> 
 > Sometimes the DM or a rule gives you Heroic Inspiration. If you have Heroic Inspiration, you can expend it to reroll any die immediately after rolling it, and you must use the new roll.
-> 
 > **Only One at a Time.** You can never have more than one instance of Heroic Inspiration. If something gives you Heroic Inspiration and you already have it, you can give it to a player character in your group who lacks it.
-> 
 > **Gaining Heroic Inspiration.** Your DM can give you Heroic Inspiration for a variety of reasons. Typically, DMs award it when you do something particularly heroic, in character, or entertaining. It's a reward for making the game more fun for everyone playing.
-> 
 > Other rules might allow your character to gain Heroic Inspiration independent of the DM's decision. For example, Human characters start each day with Heroic Inspiration.
 ^heroic-inspiration
 
@@ -335,7 +340,6 @@ The skills are shown on the Skills table, which notes example uses for each skil
 A character's starting skill proficiencies are determined at character creation, and a monster's skill proficiencies appear in its stat block.
 
 > [!note] Skills with Different Abilities
-> 
 > Each skill proficiency is associated with an ability check. For example, the [[skills#Intimidation|Intimidation]] skill is associated with Charisma. In some situations, the DM might allow you to apply your skill proficiency to a different ability check. For example, if a character tries to intimidate someone through a show of physical strength, the DM might ask for a Strength ([[skills#Intimidation|Intimidation]]) check rather than a Charisma ([[skills#Intimidation|Intimidation]]) check. That character would make a Strength check and add their Proficiency Bonus if they have [[skills#Intimidation|Intimidation]] proficiency.
 ^skills-with-different-abilities
 
@@ -383,15 +387,11 @@ When you take a Reaction, you can't take another one until the start of your nex
 In terms of timing, a Reaction takes place immediately after its trigger unless the Reaction's description says otherwise.
 
 > [!note] What Would Your Character Do?
-> 
 > Ask yourself as you play, "What would my character do?" Playing a role involves some amount of getting into another person's head and understanding what motivates them and how those motivations translate into action. In D&D, those actions unfold against the backdrop of a fantastic world full of situations we can only imagine. How does your character react to those situations?
-> 
 > This advice comes with one important caveat: avoid character choices that ruin the fun of the other players and the DM. Choose actions that delight you and your friends.
 ^what-would-your-character-do
 
 ## Social Interaction
-
-![[/03_Mechanics/CLI/books/players-handbook-2024/img/004-01-005-adventurers-bartering.webp#center "Characters lay on the charm while bartering for magic items with a green hag"|Characters lay on the char...]]
 
 During their adventures, player characters meet many different people and face some monsters that would rather talk than fight. In those situations, it's time for social interaction, which takes many forms. For example, you might try to convince a burglar to confess to wrongdoing or try to flatter a guard. The Dungeon Master assumes the roles of any nonplayer characters who are participating.
 
@@ -449,23 +449,18 @@ In this scene, players engage in a social interaction encounter. You and your gr
 - **Jared.** "No! He is the vampire lord of Castle Ravenloft and a plague to my sister. You must help her!"  
 
 > [!note] Active Roleplaying
-> 
 > Notice throughout the example how Russell and Amy actively roleplay their characters' behavior. In this active approach, they speak with their characters' voices, like an actor taking on a role. The players might even echo their characters' body language. They still need to describe things that can't reasonably be acted out.
 ^active-roleplaying
 
 > [!note] Descriptive Roleplaying
-> 
 > Notice how Phillip describes his character's words and action. Drawing on his mental image of his character, he says what his character does and how the character does it. If this approach is most comfortable for you, keep these things in mind:
-> 
 > - Describe your character's emotions and attitude.  
 > - Focus on your character's intent and how others might perceive it.  
 > - Provide as much embellishment as you feel comfortable with.  
-> 
 > Don't worry about getting things exactly right. Focus on what your character would do, and describe what you see in your mind.
 ^descriptive-roleplaying
 
 > [!note] (1)—Ability Checks
-> 
 > Phillip's character, Gareth, makes a Wisdom ([[skills#Insight|Insight]]) check to determine whether he reads Ismark's unspoken cues. Wisdom is the ability that measures perceptiveness and intuition. Insight reflects a character's skill at reading other people's moods and intentions. The DM set the DC at 15, which Gareth beats. With a successful Wisdom ([[skills#Insight|Insight]]) check, Gareth gleans information that wasn't obvious, so it wasn't part of the DM's earlier narration. For more information, see ""Ability Scores"" and ""Proficiency"" earlier in this chapter and the [[actions#Search|Search]] action in the "rules glossary".
 ^1-ability-checks
 
@@ -483,7 +478,6 @@ In this scene, players engage in a social interaction encounter. You and your gr
 - **Russell.** "All right, Ismark. You bought us drinks and told us about the Devil Strahd and your sister. How can we help?"  
 
 > [!note] (2)—Influencing NPCs
-> 
 > Gareth takes the [[actions#Influence|Influence]] action, which characters can take to influence an NPC. It's easier to influence an NPC who's already disposed to help you, as Ismark is here. Ismark's [[friendly-attitude-xphb|Friendly]] attitude gives Phillip Advantage on the roll. In this case, [[advantage-xphb|Advantage]] made the difference between success and failure.
 ^2-influencing-npcs
 
@@ -557,7 +551,7 @@ Interacting with objects is often simple to resolve. The player tells the DM tha
 
 #### What Is an Object?
 
-For the purpose of the rules, an object is a discrete, inanimate item like a window, door, sword, book, table, chair, or stone. It isn't a building or a vehicle, which are composed of many objects.
+For the purpose of the rules, an object is a discrete, iimate item like a window, door, sword, book, table, chair, or stone. It isn't a building or a vehicle, which are composed of many objects.
 
 #### Time-Limited Object Interactions
 
@@ -598,7 +592,6 @@ During an adventure, the characters might travel long distances on trips that co
 If you need to know how fast you can move when every second matters, see the movement rules in ""Combat"" later in this chapter.
 
 > [!note] Marching Order
-> 
 > The adventurers should establish a marching order while they travel, whether indoors or outdoors. A marching order makes it easier to determine which characters are affected by traps, which ones can spot hidden enemies, and which ones are the closest to those enemies if a fight breaks out. You can change your marching order outside combat and record the order any way you like: write it down, for example, or arrange miniatures to show it.
 ^marching-order
 
@@ -650,17 +643,14 @@ This scene finds the player characters investigating a mysterious and potentiall
 - **Maeve.** Yeah, I pull one off the shelf at random.  
 
 > [!note] Everyone Is Accounted For
-> 
 > Exploration is open-ended; the players don't take turns moving around the dungeon the way they do in combat. But the DM frequently checks in to make sure it's clear where everyone is and what they're doing.
 ^everyone-is-accounted-for
 
 > [!note] Teamwork Matters
-> 
 > The player characters are working toward a common goal. They move together through the dungeon and cooperate to overcome its challenges. When the characters enter the room, they explore different parts of the room. When Auro finds a secret door behind the fireplace later in the example, they come together again to examine it, and Gareth figures out how to bypass the fire. It might seem like Russell's character wasn't doing much, but Shreeve was protecting the group by guarding the door.
 ^teamwork-matters
 
 > [!note] (3)—Worth Rolling with or without Proficiency
-> 
 > You usually have a chance of success on an ability check even if you don't have proficiency in a relevant skill. In the example, Phillip gets a 20 without proficiency. The `d20` brings many surprises to the game—surprises that the DM then interprets.
 ^3-worth-rolling-with-or-without-proficiency
 
@@ -699,27 +689,22 @@ This scene finds the player characters investigating a mysterious and potentiall
 - **Jared.** As you draw this gas into your lungs, you feel a chill grip you, and your bodies stiffen. You both have the Paralyzed condition!  
 
 > [!note] (4)—Finding Hidden Objects
-> 
 > Adventure environments are full of secrets: traps, concealed doors, loose floorboards, and hidden treasures. Characters often use Wisdom checks to find things—see the [[actions#Search|Search]] action in the "rules glossary"—but sometimes they stumble on them accidentally, as Auro did here.
 ^4-finding-hidden-objects
 
 > [!note] (5)—Casting Spells
-> 
 > Many characters have the ability to cast spells, which have a huge variety of effects. Some spells are mostly useful in combat, by dealing damage or imposing conditions. Other spells have utility in exploration. If you're playing a spellcaster, look for a mix of combat-effective and utilitarian spells to help deal with varied challenges.
 ^5-casting-spells
 
 > [!note] Know Your Spells!
-> 
 > Have your Player's Handbook open to the description of a spell before you cast it. Don't expect the DM to know how your spell works, and be ready to answer any questions about it.
 ^know-your-spells
 
 > [!note] (6)—Vision and Light
-> 
 > The DM determines what the adventurers can perceive, which means being aware of light sources—like the leaping flames in the fireplace and Shreeve's glowing sword—as well as obscuring factors like smoke and fog. See ""Vision and Light"" earlier in this chapter for more information.
 ^6-vision-and-light
 
 > [!note] (7)—Saving Throws
-> 
 > A saving throw is used to see whether a creature avoids or resists something. When the chest releases toxic gas, Phillip's and Amy's characters make Constitution saving throws. Constitution is one of the six abilities that measure creatures' capabilities, and it has to do with health and stamina. When they fail their saves, the gas causes them to have the [[conditions#Paralyzed|Paralyzed]] condition. See ""Conditions"" later in this chapter for more information.
 ^7-saving-throws
 
@@ -787,8 +772,6 @@ Combat ends when one side or the other is defeated, which can mean the creatures
 
 ### Movement and Position
 
-![[/03_Mechanics/CLI/books/players-handbook-2024/img/009-01-010-displacer-beast-combat.webp#center "Creatures occupy spaces of varying sizes. This Displacer Beast occupies a 10-by-10-foot space, while the adventurers occupy 5-by-5-foot spaces"|Creatures occupy spaces of...]]
-
 On your turn, you can move a distance equal to your [[speed-xphb|Speed]] or less. Or you can decide not to move.
 
 Your movement can include [[climbing-xphb|climbing]], [[crawling-xphb|crawling]], [[jumping-xphb|jumping]], and [[swimming-xphb|swimming]] (each explained in the "rules glossary"). These different modes of movement can be combined with your regular movement, or they can constitute your entire move.
@@ -804,17 +787,11 @@ Combatants are often slowed down by Difficult Terrain. Low furniture, rubble, un
 Every foot of movement in Difficult Terrain costs 1 extra foot, even if multiple things in a space count as Difficult Terrain.
 
 > [!note] Playing on a Grid
-> 
 > If you play using a square grid and miniatures or other tokens, follow these rules.
-> 
 > **Squares.** Each square represents 5 feet.
-> 
 > **Speed.** Rather than moving foot by foot, move square by square on the grid, using your Speed in 5-foot segments. You can translate your Speed into squares by dividing it by 5. For example, a Speed of 30 feet translates into 6 squares. If you use a grid often, consider writing your Speed in squares on your character sheet.
-> 
 > **Entering a Square.** To enter a square, you must have enough movement left to pay for entering. It costs 1 square of movement to enter an unoccupied square that's adjacent to your space (orthogonally or diagonally adjacent). A square of Difficult Terrain costs 2 squares to enter. Other effects might make a square cost even more.
-> 
 > **Corners.** Diagonal movement can't cross the corner of a wall, a large tree, or another terrain feature that fills its space.
-> 
 > **Ranges.** To determine the range on a grid between two things—whether creatures or objects—count squares from a square adjacent to one of them and stop counting in the space of the other one. Count by the shortest route.
 ^playing-on-a-grid
 
@@ -824,7 +801,7 @@ You can break up your move, using some of its movement before and after any acti
 
 #### Dropping Prone
 
-On your turn, you can give yourself the [[conditions#Prone|Prone]] condition without using an action or any of your Speed, but you can't do so if your Speed is 0.
+On your turn, you can give yourself the [[conditions#prone|Prone]] condition without using an action or any of your Speed, but you can't do so if your Speed is 0.
 
 #### Creature Size
 
@@ -840,7 +817,7 @@ During your move, you can pass through the space of an ally, a creature that has
 
 Another creature's space is [[difficult-terrain-xphb|Difficult Terrain]] for you unless that creature is Tiny or your ally.
 
-You can't willingly end a move in a space occupied by another creature. If you somehow end a turn in a space with another creature, you have the [[conditions#Prone|Prone]] condition unless you are Tiny or are of a larger size than the other creature.
+You can't willingly end a move in a space occupied by another creature. If you somehow end a turn in a space with another creature, you have the [[conditions#prone|Prone]] condition unless you are Tiny or are of a larger size than the other creature.
 
 ### Making an Attack
 
@@ -859,11 +836,8 @@ A target can benefit from cover only when an attack or other effect originates o
 ![[cover-xphb|Cover]]
 
 > [!note] Unseen Attackers and Targets
-> 
 > When you make an attack roll against a target you can't see, you have [[disadvantage-xphb|Disadvantage]] on the roll. This is true whether you're guessing the target's location or targeting a creature you can hear but not see. If the target isn't in the location you targeted, you miss.
-> 
 > When a creature can't see you, you have [[advantage-xphb|Advantage]] on attack rolls against it.
-> 
 > If you are hidden when you make an attack roll, you give away your location when the attack hits or misses.
 ^unseen-attackers-and-targets
 
@@ -903,8 +877,6 @@ You can make an Opportunity Attack when a creature that you can see leaves your 
 
 ### Mounted Combat
 
-![[/03_Mechanics/CLI/books/players-handbook-2024/img/010-01-011-giant-seahorse-mount.webp#center "Astride a giant seahorse, a paladin adventures underwater"|Astride a giant seahorse, ...]]
-
 A willing creature that is at least one size larger than a rider and that has an appropriate anatomy can serve as a mount, using the following rules.
 
 #### Mounting and Dismounting
@@ -921,9 +893,9 @@ In contrast, an independent mount—one that lets you ride but ignores your cont
 
 #### Falling Off
 
-If an effect is about to move your mount against its will while you're on it, you must succeed on a DC 10 Dexterity saving throw or fall off, landing with the [[conditions#Prone|Prone]] condition in an unoccupied space within 5 feet of the mount.
+If an effect is about to move your mount against its will while you're on it, you must succeed on a DC 10 Dexterity saving throw or fall off, landing with the [[conditions#prone|Prone]] condition in an unoccupied space within 5 feet of the mount.
 
-While mounted, you must make the same save if you're knocked [[conditions#Prone|Prone]] or the mount is.
+While mounted, you must make the same save if you're knocked [[conditions#prone|Prone]] or the mount is.
 
 ### Underwater Combat
 
@@ -952,7 +924,6 @@ Whenever you take damage, subtract it from your Hit Points. Hit Point loss has n
 If you have half your Hit Points or fewer, you're Bloodied, which has no game effect on its own but which might trigger other game effects.
 
 > [!note] Resting
-> 
 > Adventurers can't spend every hour adventuring. They need rest. Any creature can take hour-long [[short-rest-xphb|Short Rests]] in the midst of a day and an 8-hour [[long-rest-xphb|Long Rest]] to end it. Regaining Hit Points is one of the main benefits of a rest. The "rules glossary" provides the rules for Short and Long Rests.
 ^resting
 
@@ -1035,7 +1006,6 @@ If your character dies, others might find a magical way to revive your character
 If you reach 0 Hit Points and don't die instantly, you have the [[conditions#Unconscious|Unconscious]] condition until you regain any Hit Points, and you now face making [[death-saving-throw-xphb|Death Saving Throws]] (see below).
 
 > [!note] Knocking Out a Creature
-> 
 > When you would reduce a creature to 0 Hit Points with a melee attack, you can instead reduce the creature to 1 Hit Point and give it the [[conditions#Unconscious|Unconscious]] condition. It then starts a [[short-rest-xphb|Short Rest]], at the end of which that condition ends on it. The condition ends early if the creature regains any Hit Points or if someone takes an action to administer first aid to it, making a successful DC 10 Wisdom ([[skills#Medicine|Medicine]]) check.
 ^knocking-out-a-creature
 
@@ -1097,7 +1067,7 @@ Many effects impose a condition, a temporary state that alters the recipient's c
 
 [[conditions#Exhaustion|Exhaustion]]
 
-[[conditions#Frightened|Frightened]]
+[[conditions#frightened|Frightened]]
 
 [[conditions#Grappled|Grappled]]
 
@@ -1111,7 +1081,7 @@ Many effects impose a condition, a temporary state that alters the recipient's c
 
 [[conditions#Poisoned|Poisoned]]
 
-[[conditions#Prone|Prone]]
+[[conditions#prone|Prone]]
 
 [[conditions#Restrained|Restrained]]
 
@@ -1123,7 +1093,7 @@ The definition of a condition specifies what happens to its recipient while affe
 
 ### Duration
 
-A condition lasts either for a duration specified by the effect that imposed the condition or until the condition is countered (the [[conditions#Prone|Prone]] condition is countered by standing up, for example).
+A condition lasts either for a duration specified by the effect that imposed the condition or until the condition is countered (the [[conditions#prone|Prone]] condition is countered by standing up, for example).
 
 ### Conditions Don't Stack
 
@@ -1175,7 +1145,7 @@ In this scene, threats force a group of adventurers into battle. This example de
 
 - **Amy.** So with my Sneak Attack, that's 22 damage!  
 
-- **Jared.** Your blade slides into an empty eye socket, and the skeleton clatters to the ground, now inanimate and harmless.  
+- **Jared.** Your blade slides into an empty eye socket, and the skeleton clatters to the ground, now iimate and harmless.  
 
 - **Amy.** Then I use Cunning Action to Disengage as a Bonus Action and move 20 feet out of the melee.  
 
@@ -1184,37 +1154,30 @@ In this scene, threats force a group of adventurers into battle. This example de
 - **Russell.** I drop my sword and pull out my warhammer. Time to break some bones! My first attack is a 21 to hit for 7 Bludgeoning damage.  
 
 > [!note] (8)—Starting Combat
-> 
 > While describing the skeletons animating, the DM gets ready to start combat by mentally figuring out where everyone is, referring to the map of the area and the party's established marching order.
 ^8-starting-combat
 
 > [!note] (9)—Rolling Initiative
-> 
 > The next step in combat is for everyone involved to roll [[initiative-xphb|Initiative]].
 ^9-rolling-initiative
 
 > [!note] (10)—Taking Turns
-> 
 > Now each participant in the battle takes a turn in Initiative order. The skeletons go first because they got the highest Initiative: 20.
 ^10-taking-turns
 
 > [!note] (11)—Attack Rolls
-> 
 > When a creature attacks, whether swinging a sword or firing an arrow from a bow, its player makes an attack roll. If the total is equal to or higher than the target's [[armor-class-xphb|Armor Class]] (AC), the attack hits.
 ^11-attack-rolls
 
 > [!note] (12)—Spells and Reactions
-> 
 > Mirabella casts the [[shield-xphb|Shield]] spell. It's a special property of this spell that it can be cast even when it's not the caster's turn, using her Reaction (see ""Actions"" earlier in this chapter).
 ^12-spells-and-reactions
 
 > [!note] (13)—Special Abilities
-> 
 > Auro's Sneak Attack lets him deal extra damage to the skeletons, and his Cunning Action lets him [[actions#Disengage|Disengage]] as a Bonus Action. These are examples of class features (described in "chapter 3") that let characters bend the rules.
 ^13-special-abilities
 
 > [!note] (14)—Vulnerability
-> 
 > An attack that deals Bludgeoning damage is deadly to skeletons. Shreeve knows this from past experience, which is why she drops her sword and switches to a Bludgeoning weapon. She rolls only 7 damage, but the DM knows the skeleton actually takes 14 damage.
 ^14-vulnerability
 
@@ -1245,22 +1208,18 @@ In this scene, threats force a group of adventurers into battle. This example de
 - **Jared.** Never mind the "and." Pelor does indeed smite these skeletons! They're silhouetted for a moment in a burst of brilliant light, then they vanish, leaving only their broken swords behind.  
 
 > [!note] (15)—Areas of Effect
-> 
 > Spells and many other effects in the game fill a specific area that is defined by the rules, like the 15-foot [[cube-area-of-effect-xphb|Cube]] of the [[thunderwave-xphb|Thunderwave]] spell. See the "rules glossary" for more on areas of effect.
 ^15-areas-of-effect
 
 > [!note] (16)—Saving Throws
-> 
 > The skeletons make Constitution saving throws to resist the [[thunderwave-xphb|Thunderwave]] spell. When they fail those saves, they take damage and are pushed, as defined in that spell's description.
 ^16-saving-throws
 
 > [!note] Damage and Hit Points
-> 
 > The skeletons have 13 Hit Points each, so the spells and attacks in this example deal enough damage to destroy them. If a spell or an attack dealt less than 13 damage, the DM would keep track of the damage each skeleton has taken until it is reduced to 0 Hit Points and is destroyed.
 ^damage-and-hit-points
 
 > [!note] (17)—Saving Throws
-> 
 > Gareth's Sear Undead is a class feature (see "chapter 3"). As with Mirabella's [[thunderwave-xphb|Thunderwave]] spell, Sear Undead forces the skeletons to make a saving throw.
 ^17-saving-throws
 
@@ -1276,20 +1235,40 @@ In this scene, threats force a group of adventurers into battle. This example de
 
 Legends speak of 02 chapter 1 playing the game as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 02 chapter 1 playing the game.
 
-## Adventure Hooks
-
-- A rumor ties 02 chapter 1 playing the game to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 02 chapter 1 playing the game to avert a public scandal.
-- A map overlay reveals a hidden approach to 02 chapter 1 playing the game active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- Strange dreams suggest ancient magic
+- Strange disappearances suggest ancient magic
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

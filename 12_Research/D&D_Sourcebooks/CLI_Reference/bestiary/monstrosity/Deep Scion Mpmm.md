@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.360796+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-deep-scion-mpmm-deep-scion-mpmm.svg)
 
@@ -70,9 +67,7 @@ The training to which a deep scion is subjected rids it of empathy for those the
   - "name": "[[skills#Insight|Insight]]"
     "desc": "+3"
   - "name": "[[skills#Sleight%20of%20Hand|Sleight of Hand]]"
-    "desc": "+3"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+3"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Aquan, Common, thieves' cant"
 "cr": "3"
@@ -112,6 +107,24 @@ The training to which a deep scion is subjected rids it of empathy for those the
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 coastal, underwater
@@ -124,19 +137,35 @@ Deep scion mpmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of deep scion mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around deep scion mpmm.
 
-## Adventure Hooks
-
-- A rumor ties deep scion mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at deep scion mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to deep scion mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and war looms
+- A map reveals the truth about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

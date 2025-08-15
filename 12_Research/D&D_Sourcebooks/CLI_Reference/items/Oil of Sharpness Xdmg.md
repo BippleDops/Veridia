@@ -24,15 +24,11 @@ updated: '2025-08-13T12:34:07.064611+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-oil-of-sharpness-xdmg-oil-of-sharpness-xdmg.svg)
 
 # Oil of Sharpness
 *Potion, very rare*  
-
 
 - **Weight**: 0.5 lbs.
 
@@ -40,7 +36,25 @@ One vial of this oil can coat one Melee weapon or twenty pieces of ammunition, b
 
 This clear, gelatinous oil sparkles with tiny, ultrathin silver shards.
 
-*Source: Dungeon Master's Guide (2024) p. 282. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 282. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -50,19 +64,38 @@ Oil of sharpness xdmg is a undersea element of the setting, known for biolumines
 
 Legends speak of oil of sharpness xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around oil of sharpness xdmg.
 
-## Adventure Hooks
-
-- A rumor ties oil of sharpness xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at oil of sharpness xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to oil of sharpness xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

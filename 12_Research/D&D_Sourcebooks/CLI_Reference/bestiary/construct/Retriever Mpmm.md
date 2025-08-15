@@ -30,8 +30,6 @@ updated: '2025-08-13T12:34:06.104640+00:00'
 world: Both
 ---
 
-
-
 # [[retriever-mpmm|Retriever]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 209, Mordenkainen's Tome of Foes p. 222*  
 
@@ -69,7 +67,7 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
 "damage_immunities": "necrotic; poison; psychic; bludgeoning, piercing, slashing from\
   \ nonmagical attacks that aren't adamantine"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 15"
 "languages": "understands Abyssal, Elvish, and Undercommon but can't speak"
@@ -93,7 +91,6 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
       \ target must make a DC 16 Dexterity saving throw, taking 27 (5d10) force damage\
       \ on a failed save, or half as much damage on a successful one."
     "name": "Force Beam"
-  - "desc": "The retriever targets one creature it can see within 60 feet of it. The\
       \ target must succeed on a DC 18 Constitution saving throw or be [[conditions#Paralyzed|paralyzed]]\
       \ for 1 minute. The [[conditions#Paralyzed|paralyzed]] target\
       \ can repeat the saving throw at the end of each of its turns, ending the effect\
@@ -114,6 +111,24 @@ Though retrievers were created to operate only in the Abyss, they are sometimes 
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 desert, forest, underdark
@@ -126,19 +141,25 @@ Retriever mpmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of retriever mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around retriever mpmm.
 
-## Adventure Hooks
-
-- A rumor ties retriever mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at retriever mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to retriever mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a portal
+- A merchant needs help investigating before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

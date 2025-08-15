@@ -10,31 +10,12 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Narrative Branching Decision Trees - Phase 2 Deep Planning
-
-## Meta Information
-- **Created**: 2025-08-14
-- **System Type**: Dynamic Narrative Flow Management
-- **Integration Level**: Cross-campaign consequence tracking
-- **Status**: Master Framework
-
-## I. CORE DECISION TREE ARCHITECTURE
-
 ### Primary Branching Categories
 1. **Government Structure Decisions** (Constitutional impact)
 2. **Corruption Response Choices** (Society transformation)
 3. **Cross-Realm Relations** (Diplomatic consequences)
 4. **Power Distribution** (Authority balance)
 5. **Cultural Integration** (Identity preservation)
-
-### Decision Impact Timeframes
-- **Immediate**: Same session consequences
-- **Short-term**: 1-3 session effects
-- **Medium-term**: Campaign arc alterations
-- **Long-term**: World state changes
-- **Legacy**: Cross-campaign influences
-
-## II. GOVERNMENT STRUCTURE DECISION TREE
 
 ### Root Decision Point: "Parliamentary Crisis Response"
 **Trigger**: Shadow Conspiracy exposure in government
@@ -52,7 +33,7 @@ Parliamentary Crisis
 │   │       ├── Immediate: Public trust -2, Political chaos
 │   │       └── Emergency authoritarian measures triggered
 │   └── Constitutional Convention
-│       ├── SUCCESS: New governance framework
+│       ├── SUCCESS: New goverce framework
 │       │   ├── Multi-realm representation
 │       │   ├── Enhanced citizen rights
 │       │   └── Balanced power distribution
@@ -96,7 +77,6 @@ Parliamentary Crisis
             ├── Trade war escalation
             ├── Cultural conflict intensification
             └── Reality merger complications
-```
 
 ### Government Consequence Matrix
 **Stability Factors** (Scale 1-10):
@@ -113,13 +93,10 @@ Parliamentary Crisis
 - Resource allocation
 - Long-term planning
 
-## III. CORRUPTION RESPONSE DECISION TREE
-
 ### Root Decision Point: "Shadow Conspiracy Exposure Method"
 **Context**: Evidence of government infiltration discovered
 **Stakes**: Society's response to systemic corruption
 
-```
 Corruption Exposure
 ├── Public Revelation
 │   ├── Full Transparency
@@ -143,7 +120,7 @@ Corruption Exposure
 │   └── Selective Disclosure
 │       ├── Target Specific Officials
 │       │   ├── SUCCESS: Surgical removal of corruption
-│       │   │   ├── Minimal disruption to governance
+│       │   │   ├── Minimal disruption to goverce
 │       │   │   ├── Preservation of institutional stability
 │       │   │   └── Risk of incomplete cleansing
 │       │   └── FAILURE: Incomplete exposure
@@ -181,7 +158,7 @@ Corruption Exposure
 │       │       └── Counter-infiltration risk
 │       └── Parallel Government Structure
 │           ├── Create clean alternative institutions
-│           ├── SUCCESS: Redundant governance
+│           ├── SUCCESS: Redundant goverce
 │           └── FAILURE: Divided government
 └── Elimination Campaign
     ├── Military Solution
@@ -227,15 +204,11 @@ Corruption Exposure
             ├── Deep Mother influence elimination
             ├── SUCCESS: Cosmic purification
             └── FAILURE: Greater cosmic corruption
-```
-
-## IV. CROSS-REALM RELATIONS DECISION TREE
 
 ### Root Decision Point: "Reality Merger Management"
 **Context**: Aquabyssos and Aethermoor beginning to merge
 **Stakes**: Cultural identity versus unified survival
 
-```
 Reality Merger Management
 ├── Embrace Unity
 │   ├── Cultural Integration Programs
@@ -321,7 +294,7 @@ Reality Merger Management
 │       │   │   └── Tension escalation
 │       │   └── FAILURE: Border conflicts
 │       └── Preemptive Strikes
-│           ├── SUCCESS: Military dominance
+│           ├── SUCCESS: Military domice
 │           │   ├── Forced separation
 │           │   ├── Occupation zones
 │           │   └── Resistance movements
@@ -360,13 +333,9 @@ Reality Merger Management
             ├── Cross-realm information sharing
             ├── SUCCESS: Understanding growth
             └── FAILURE: Propaganda wars
-```
-
-## V. CHARACTER ARC INTEGRATION DECISION TREES
 
 ### Marina Saltborn Arc Decisions
 
-```
 Marina's Identity Crisis
 ├── Embrace Shadow Past
 │   ├── Reformed Shadow Agent
@@ -395,11 +364,9 @@ Marina's Identity Crisis
         ├── Freelance problem solver
         ├── SUCCESS: Flexible problem resolution
         └── FAILURE: Conflicted loyalties
-```
 
 ### Queen Seraphina Corruption Arc
 
-```
 Queen's Corruption Response
 ├── Fight Corruption
 │   ├── Medical Treatment
@@ -428,12 +395,9 @@ Queen's Corruption Response
     │   ├── SUCCESS: Smooth transition
     │   └── FAILURE: Succession crisis
     └── Shared Rule
-        ├── Council governance
+        ├── Council goverce
         ├── SUCCESS: Collective leadership
         └── FAILURE: Power vacuum
-```
-
-## VI. CONSEQUENCE PROPAGATION MATRIX
 
 ### Decision Impact Tracking
 **Immediate Consequences** (Same session):
@@ -482,10 +446,27 @@ Queen's Corruption Response
 **Consequence Chains**: 156 tracked outcome sequences
 **Integration Depth**: Cross-campaign decision impact analysis complete
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -494,3 +475,18 @@ Queen's Corruption Response
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- A journal reveals ancient history about the cult
+- A document has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

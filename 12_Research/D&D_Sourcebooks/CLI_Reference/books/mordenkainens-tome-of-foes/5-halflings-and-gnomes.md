@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.763581'
 world: Both
 ---
 
-
 # Halflings and Gnomes
 *Source: Mordenkainen's Tome of Foes, p. 99* 
 
@@ -30,6 +29,24 @@ world: Both
 Creatures of many races and cultures are embroiled in struggles that flare up across the multiverse. Other folk survive in the face of all this turmoil by keeping a low profile and avoiding the wars and other depredations that keep the outside world in a state of flux.
 
 Halflings and gnomes are two groups that have survived by remaining largely unnoticed by the aggressive powers of the cosmos. Both races are exceptions in a multiverse wracked by conflict-peaceful folk who have found niches for themselves away from the battles and rivalries that fill the lives of the larger folk.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Halflings
 
@@ -60,9 +77,7 @@ This aspect of the halfling mind-set accounts for what members of other races of
 Throughout recorded history, halflings have never sought to expand their reach beyond the borders of their isolated communities. They live their lives satisfied with what the world has to offer: fresh air, green grass, and rich soil. They grow all the food they need, taking pleasure in every poached egg and piece of toast. Halflings aren't known for great works of literature or elaborate written accounts of their history. Scholars who study their behavior speculate that halflings realize-consciously or otherwise-that the past is a story that can only be retold, not changed, and the future doesn't yet exist, so it can't be experienced. Only by living in the moment can one appreciate the wonder of being alive.
 
 > [!note] Halfling Superstitions
-> 
 > Halflings might perform the following actions, among many others, to ward off bad luck or to bring good fortune. Villages or even families might have superstitions observed by no one else, such as the following:
-> 
 > - For a safe journey through a forest, leave a few seeds or a cloverleaf for Sheela Peryroyl.  
 > - A large silvery squirrel could be Yondalla in disguise. Be on your best behavior and offer a treat when you see her!  
 > - A spring is a sacred place full of good luck. Take a moment to pause and reflect in such a place, or stop for a quick snack.  
@@ -111,58 +126,30 @@ For the most part, halflings aren't the targets of warring nations. Their villag
 And, as halfling luck would have it, these incidents are so rare that a single one might be talked about for generations. In one village, the story of the ogre that ate Farmer Keller's billy goat is a cautionary tale that will be repeated and embellished for decades.
 
 > [!quote] A quote from "Tale of the Fishskippers," by Harkin Fishskipper  
-> 
 > From the gentle waters,
-> 
 > Amid the swaying reeds,
-> 
 > There rose a hairy villain,
-> 
 > A troll called Snobble Sweed.
-> 
 >  
 > He came to gobble children,
-> 
 > To line his lair with bones,
-> 
 > And pick his teeth with talons,
-> 
 > And grind their flesh with stones.
-> 
->  
 > But on that day a-fishing
-> 
 > Was a halfling brave and true,
-> 
 > The first of the Fishskippers,
-> 
 > Grand-kin to me and you.
-> 
->  
 > When he saw old Snobble Sweed
-> 
 > A-sharpening his knives,
-> 
 > He knew that all his family's folk
-> 
 > Were in danger of their lives.
-> 
->  
 > In that moment of grave peril,
-> 
 > Fishskipper caught a bream
-> 
 > And hurled it by its silvery tail
-> 
 > Across the glassy stream.
-> 
->  
 > Ten times the bream did swiftly skip,
-> 
 > And like a clap of thunder
-> 
 > It smote old Sweed upon his head,
-> 
 > And tore the beast asunder.
 
 ^how-the-fishskippers-got-their-name
@@ -268,7 +255,6 @@ Unlike other halfling deities, Urogalan is surrounded by a cloud of melancholy. 
 ### The Halfling Adventurer
 
 > [!quote] A quote from Elminster Aumar, Sage of Shadowdale  
-> 
 > Who knows where a hero's spirit will grow? Even the smallest seed can produce the mightiest tree.
 
 Everything about halflings, from their small stature to their easy demeanor, makes them unlikely candidates for taking up a life of adventure away from home. Yet every generation produces a handful of exceptional individuals who defy conventional wisdom and seek their fortunes in the wider world.
@@ -294,15 +280,10 @@ Each new would-be hero hopes to have adventures that merit exciting stories of t
 Of course, not every journey into the world involves risking one's life or claiming great riches. An adventure for a halfling could mean traveling with a caravan, sneaking on board a tall ship, serving as a messenger for a lord, or living with the dwarves for a few years as an apprentice. From the point of view of a halfling villager, going anywhere beyond home is an adventure, and anyone who does so must have a fine story or two to tell upon their return. Even on a dangerous mission, halflings find enjoyment all around them. If it's raining, a halfling is playing in the puddles; in a stiff wind, a halfling might fly a kite instead of seeking shelter.
 
 > [!note] Halflings of the Multiverse
-> 
 > In the worlds of Dungeons & Dragons, many kinds of halflings exist, and they vary greatly from place to place.
-> 
 > In the Forgotten Realms, halflings are of the lightfoot and strongheart varieties. Lightfoot halflings are taller and thinner than stronghearts, although "thinner" is a relative word by halfling standards. Lightfoots prefer to live on the move in traveling bands, and their members are most likely to take to a life of adventuring. Stronghearts are homebodies by nature, most of them likely to spend their lives tucked away in their secluded villages, and are also quite happy living in the communities of other races, working as farmers, innkeepers, cobblers and bakers.
-> 
 > In the Dragonlance setting, kender are the counterparts of halflings. Possessed of shorter life spans than their counterparts on other worlds, the kender have pointed ears and become wizened as they age. Great mimics and vocalists, kender are consummate storytellers, but they often speak too fast for other races not accustomed to their frenetic cadence.
-> 
 > Halflings in the world of Greyhawk live in underground burrows or small cottages in the grasslands or hills. They are lightly covered with hair over most of their bodies, especially on the backs of their hands and the tops of their feet, and they rarely wear shoes. The three subraces are the hairfeet, which are the most numerous; the tallfellows, which are the tallest and least athletic of the halflings, somewhat resembling elves; and the stouts, which are more akin to dwarves in temperament and stature than the other two.
-> 
 > On the world of Athas in the Dark Sun setting, halflings are feral creatures, prone to devouring the flesh of humans and elves. Small, furtive and sun-bronzed, they live a hard life under their chief, eking out a savage existence by hunting, foraging, and raiding. Outside their tribe, halflings are mistrusting, cynical, and often paranoid, since they think that all other races are as fond of devouring humanoids as they are.
 ^halflings-of-the-multiverse
 
@@ -323,7 +304,6 @@ This section provides a number of tables useful for players and DMs who want to 
 ## Gnomes
 
 > [!quote] A quote from Griballix, gnome of Sigil  
-> 
 > And then the whole thing exploded into a million jillion pieces! [gasp] I never saw anything like it in my life!
 
 Love of discovery is the force that drives the life of a gnome, whether one is investigating the nature of magic or trying to invent a better back scratcher. Questions about the world fill a gnome's head: how an insect flies, a fish swims, or a grasshopper jumps-they want to figure it all out! But it's not just nature and its workings that intrigue them; gnomes become obsessed with all sorts of topics. In particular, they have a keen interest in mechanical devices, the natural world, and magical pursuits; a gnome might seek to invent a new garden tool, collect and categorize every type of butterfly, or develop a new method for cutting gemstones.
@@ -361,11 +341,8 @@ Rock gnomes who take a more scientific approach to inventing are the ones respon
 These inventors are rarely reluctant to try making devices of exceptional power, even if one might not work at first the way it was intended to. The gnomes know that it's always possible for someone else to learn from an inventor's mistakes, so even a failed experiment is a success in some way. Every minor explosion or other incident of turmoil in a rock gnome burrow serves as a clue about what not to do next time-unless, of course, the goal was to make something explode.
 
 > [!note] Celestial Toymakers
-> 
 > A handful of master artificers exist among the rock gnomes who take the magic of their craft to new heights. These legendary gnomes usually reside in Bytopia and on other planes far from the Material Plane, locales where they can access and harness powerful energies. They have unlocked secrets of the multiverse that enable them to fashion mind-boggling creations—their so-called "celestial toys."
-> 
 > These master artificers are friendly to those who seek them out. They enjoy showing off their works and take great glee in watching visitors interact with their toys, while they scribble notes on how to refine their creations.
-> 
 > Celestial toys can do just about anything. Many of these objects have properties not unlike those of wondrous items, such as a toy that can increase an ability score or one that can show happenings on other planes.
 ^celestial-toymakers
 
@@ -392,16 +369,12 @@ An artificer's inventions might include items such as a lock box that opens with
 When they are at work, rock gnomes hole up in their workshops with "Do Not Disturb" signs hung on the door. It isn't uncommon for gnomes who are working on their projects to spend most of their time in seclusion, and even when they emerge (for meals or other reasons), they are often deep in thought and oblivious of their surroundings. In the safety of the burrow, they seldom come to harm because of this vulnerability. But even city-dwelling gnomes can fall prey to this sort of obsession as they pursue their projects, and in such cases it's much safer for them to stay in their homes, since a gnome wandering the streets deep in thought is liable to walk into a moat or be run over by a wagon.
 
 > [!note] Tinker Gnomes
-> 
 > On the world of Krynn in the Dragonlance setting, rock gnomes take invention to extreme heights and are known for being purveyors of madcap mayhem. Despite losing body parts or gaining scars from various accidents, nothing stops the tinker gnomes' insatiable quest to experiment and discover.
-> 
 > **Go Big or Go Home.** The creations of tinker gnomes range from the ridiculous to the dangerous. They love to push the art of invention beyond its limits, and to explore the instability of volatile materials. They cackle with glee after an earsplitting bang, and jump and cavort amid lethal sprays of lightning. Though it might be bizarre and unusual, a working tinker gnome creation is a rare thing, and highly prized. Such inventions include the following:
-> 
 > - A chain-driven tomato smasher that is also able to fly  
 > - A lightning-powered portable rat-zapper—good for keeping out the vermin  
 > - A floating metal facsimile of a beholder, complete with disintegrating eye rays  
 > - A flock of exploding parrots  
-> 
 > **Fail Often, Fail Happy.** These inventors are delighted by every explosion, every melted mess, and every heap of smoking wreckage. Failure is part of the eventual solution and something to be celebrated. A truly epic failure might be cause for a great celebration in the community.
 ^tinker-gnomes
 
@@ -451,8 +424,6 @@ Elminster calls gnomes the Forgotten Folk-an apt name for them in most worlds. I
 
 ### Gnome Gods
 
-> [!quote] A quote from Griballix, gnome of Sigil  
-> 
 > Who forged the chains that bind Tiamat in Avernus? Why do the modrons go on the Great March? Who is the Lady of Pain, really? I can't tell you, but the answers lie in the Golden Hills. And if Garl and his gang don't know, it can't be known.
 
 It shouldn't be surprising that gnomes, inveterate inventors that they are, have an incredible number of legends they tell about their deities. Every warren has its unique repertoire of tales-some of them no doubt grounded in fact, while others could be the products of imagination. The distinction isn't important to the folk who take inspiration and pride from the stories of their gods, because each legend is true in its own way.
@@ -544,7 +515,6 @@ Though the details differ from telling to telling, all gnomes know the story of 
 Gnomes believe that Urdlen exerts influence on their lives when they experience jealousy, greed, petulance, or envy. Individuals are more likely to fall prey to these feelings when they don't spend enough time in activities with others, and so tales of Urdlen serve as a somber reminder of the importance of participating in society.
 
 > [!note] Gifts from the Gods
-> 
 > The gnome gods enjoy traveling about the multiverse in the guise of ordinary gnomes. Those who offer them aid or treat them with respect might receive a modest token of appreciation in return. Sometimes the deity reveals itself before giving the gift, and sometimes the item simply appears on the recipient's pillow or in a loot sack. Typical gifts include a golden whistle that can mimic any bird song, a clockwork beetle made of silver that can fly and obey simple commands, and a seed that, when planted, grows into a miniature fruit tree and bears fruit within a few hours.
 ^gifts-from-the-gods
 
@@ -583,7 +553,6 @@ Nebelun's hill is festooned inside and out with structures and contraptions of m
 ### Gnome Adventurers
 
 > [!quote] A quote from Delaan Winterhound  
-> 
 > I don't know how many times I've seen a gnome turn a dead end into a wonderful opportunity.
 
 When a gnome leaves the burrow, the force behind that decision is almost always curiosity-an insatiable need to seek out and experience what the world has to offer. Sometimes the adventuring life is the natural outgrowth of a gnome's research project or experiment. A rock gnome alchemist who discovers a new form of fungus growing in a nearby cavern might wander farther afield from the burrow, looking for knowledge about other fungi in the world. A forest gnome who hears about a master illusionist in a faraway realm could embark on a journey to find that person and learn new tricks. A rock gnome artificer might become determined to locate any deposits of a rare metal, willing to travel the world high and low in search of it. Even a deep gnome might be born with an irrepressible urge to leave the Underdark and join a group to pursue a life of shared purpose.
@@ -632,19 +601,20 @@ This section provides several tables useful for players and DMs who want to crea
 
 Legends speak of 5 halflings and gnomes as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 5 halflings and gnomes.
 
-## Adventure Hooks
-
-- A rumor ties 5 halflings and gnomes to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 5 halflings and gnomes to avert a public scandal.
-- A map overlay reveals a hidden approach to 5 halflings and gnomes active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a curse
+- The authorities needs help finding before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

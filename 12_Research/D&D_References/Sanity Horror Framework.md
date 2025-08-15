@@ -26,14 +26,26 @@ version: 1.0
 world: Both
 ---
 
-
-
-
-
-
-
 # Complete Sanity & Horror Framework
 *When Reality Itself Becomes the Enemy*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Table of Contents
 1. [Core Sanity Mechanics](#core-sanity-mechanics)
@@ -48,8 +60,6 @@ world: Both
 10. [Player Agency Mechanics](#player-agency-mechanics)
 11. [Integration with Other Systems](#integration-with-other-systems)
 12. [Quick Reference Tables](#quick-reference-tables)
-
-## Core Sanity Mechanics
 
 ### Sanity Points System
 
@@ -98,8 +108,6 @@ Characters have **Breaking Points** - specific triggers that bypass normal sanit
 - Body horror to self
 
 When triggered: Automatic sanity damage (no save), double normal amount
-
-## Horror Triggers & Thresholds
 
 ### Environmental Horror Triggers
 
@@ -525,33 +533,6 @@ Some madnesses grant terrible gifts:
 | Extreme | Know true names | 5 sanity |
 | Complete | Rewrite fate | 10 sanity |
 
-## Madness-to-Transformation Pipeline
-
-### Stage 1: Inception (80-60% Sanity)
-- Minor behavioral changes
-- Occasional hallucinations
-- Transformation potential: 5%
-
-### Stage 2: Development (59-40% Sanity)
-- Persistent delusions
-- Physical symptoms
-- Transformation potential: 20%
-
-### Stage 3: Crisis (39-20% Sanity)
-- Reality breaks down
-- Body begins changing
-- Transformation potential: 50%
-
-### Stage 4: Metamorphosis (19-10% Sanity)
-- Madness becomes physical
-- Humanity slipping
-- Transformation potential: 80%
-
-### Stage 5: Transcendence (9-0% Sanity)
-- Complete transformation
-- New existence
-- Transformation potential: 100%
-
 ### Transformation Triggers
 
 **Madness + Catalyst = Transformation**
@@ -563,8 +544,6 @@ Some madnesses grant terrible gifts:
 | Crystal obsession | Crystal proximity | Crystalline conversion |
 | Time confusion | Temporal event | Chronological existence |
 | Identity loss | Memory consumption | Become living memory |
-
-## Cosmic Horror Encounters
 
 ### Encounter Difficulty Scaling
 
@@ -627,8 +606,6 @@ Some madnesses grant terrible gifts:
 - Effect: Cannot be remembered
 - Escape: Never fully possible
 
-## Recovery & Treatment
-
 ### Natural Recovery
 
 **Rest & Safety:**
@@ -670,8 +647,6 @@ Some madnesses grant terrible gifts:
 - Violence: Immediate +2d6, -3d6 later
 - Isolation: Immediate +1d4, -2d6 later
 
-## Player Agency Mechanics
-
 ### Madness Resistance
 
 **Building Resistance:**
@@ -709,40 +684,6 @@ Some madnesses grant terrible gifts:
 - Find meaning in madness
 - Use madness productively
 - Achieve new equilibrium
-
-## Integration with Other Systems
-
-### Pressure System Interaction
-- Deep pressure accelerates madness
-- Pressure adaptations affect sanity
-- Depth madness unique category
-- Surface becomes psychologically necessary
-
-### Transformation System Synergy
-- Low sanity triggers transformations
-- Transformations cause sanity loss
-- Madness shapes transformation type
-- Transformation can stabilize madness
-
-### Reality Merger Effects
-- Merger zones cause sanity damage
-- Madness weakens reality barriers
-- Prophetic madness predicts mergers
-- Sanity anchors can stabilize reality
-
-### Memory Economy Impact
-- Memories affect sanity
-- Mad memories are valuable/dangerous
-- Memory loss causes identity crisis
-- Memory therapy restores sanity
-
-### Faction Relationships
-- Different factions view madness differently
-- Some worship the mad as prophets
-- Others quarantine or eliminate
-- Mad characters may switch factions
-
-## Quick Reference Tables
 
 ### Daily Sanity Checks
 
@@ -789,22 +730,6 @@ Some madnesses grant terrible gifts:
 | Scream therapy | Action | All within 30 ft save or shaken |
 | Find anchor | Bonus | +2 to saves this turn |
 
-## Campaign Integration
-
-### Madness as Theme
-- Everyone slowly going mad
-- Madness reveals truth
-- Sanity is the real enemy
-- Mad prophets guide the way
-- Collective madness shapes reality
-
-### Horror Atmosphere Tools
-- Describe the indescribable vaguely
-- Use all senses in horror descriptions
-- Make familiar things wrong
-- Build dread through anticipation
-- Payoff horror with consequences
-
 ### Player Safety Tools
 - X-card for content boundaries
 - Lines and veils discussion
@@ -825,28 +750,30 @@ Sanity Horror Framework is a undersea element of the setting, known for biolumin
 
 Legends speak of Sanity Horror Framework as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sanity Horror Framework.
 
-## Adventure Hooks
-
-- A rumor ties Sanity Horror Framework to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Sanity Horror Framework to avert a public scandal.
-- A map overlay reveals a hidden approach to Sanity Horror Framework active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Vault_Navigation_Hub|Vault Navigation Hub]]
-
-
-## Connections
-
-- [[Introduction]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

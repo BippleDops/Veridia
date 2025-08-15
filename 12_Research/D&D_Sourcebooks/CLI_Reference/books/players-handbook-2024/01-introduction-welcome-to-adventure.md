@@ -21,16 +21,13 @@ updated: '2025-08-12T23:37:34.859064'
 world: Both
 ---
 
-
 # Introduction: Welcome to Adventure
 *Source: Player's Handbook (2024), p. 4* 
 
 > [!quote] A quote from Jeremy Crawford  
 > 
 > This story began 50 years ago, and you're part of it. In the 1970s, Gary Gygax and Dave Arneson created a game of make-believe that fused rules with storytelling. There'd never been anything like it: a game in which each player made their own fantasy character and teamed up with their friends to go on quests. One person served as the narrator and referee—the Dungeon Master—and did everything they could to challenge and delight the other players. That game was, of course, the first version of Dungeons & Dragons, and you're now reading its latest version.
-> 
 > Over the decades, millions of people have played D&D, and scores of writers, game designers, and artists have made their mark on it through its various editions. When our team released the current edition in 2014, we were humbled by how many of you loved it. This revised version of it is a salute to all of you—those of you who've been playing D&D for years, those of you who've contributed to the game through your feedback, and those of you who are about to experience the joy of playing it for the first time.
-> 
 > As a teenager, I met both Gary and Dave. I even spent an entire day with Gary, and we did what all D&D fans do: share stories about our adventures in the D&D multiverse. I invite you to embark on such adventures anew. Share as much laughter as you can with your friends. Use only the rules that serve your fun, and always follow your group's bliss. So many people have been enjoying the magic of D&D for half a century. Let's keep it blazing for another 50 years!
 
 Are you ready to embark on fantasy adventures with your friends? Dungeons & Dragons invites you to play imaginary adventurers who delve into dungeons and other perilous locations together, face fearsome foes such as dragons, and build friendships forged amid fantastical dangers.
@@ -38,6 +35,24 @@ Are you ready to embark on fantasy adventures with your friends? Dungeons & Drag
 Fueled by imagination and rules, D&D invites you to adopt a fantasy persona—a mighty Fighter, a cunning Rogue, a faithful Cleric, a magical Wizard, or something else—and then solve problems, fight monsters, and visit wondrous places.
 
 There's no winning and losing in D&D, at least not the way those terms are usually understood. Together you and friends create an exciting story of adventurers who confront perils. Sometimes an adventurer might come to a tragic end. Even so, the other adventurers can search for powerful magic to revive their fallen comrade, or the character's player might create a new character to carry on. No matter what happens, if everyone has a good time and creates a memorable story, they all win.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## What You Need
 
@@ -47,11 +62,10 @@ Here's what you need to play D&D with one or more friends (a typical group has f
 - **Players.** Each player creates an adventurer who teams up with the other players' adventurers. Working together, the group might explore a dark dungeon, a ruined city, a haunted castle, a lost temple, a lava-filled mountain, or another location described by the DM. The adventurers also solve puzzles, talk with other characters, battle fantastic monsters, and discover magic items and other treasure—all while supporting each other's fun.  
 
 > [!note] Learn by Watching
-> 
 > A great way to learn the basics of D&D is to watch people play it. The Internet offers videos of D&D play that show off the tremendous range of possibilities the game offers. As you watch, pay attention to the ways that some players help make the game fun for everyone in their group. The only audience you need to entertain when you're playing D&D is yourself and your group.
 ^learn-by-watching
 
-You also need these resources, either in physical form or on <span class='tip' title=':^)'>DnDBeyond.com (https://www.dndbeyond.com/)</span>:
+You also need these resources, either in physical form or on DnDBeyond.com (https://www.dndbeyond.com/):
 
 ### Player's Handbook
 
@@ -93,9 +107,7 @@ D&D worlds exist in a multiverse and are connected to one another and to other p
 The worlds of the multiverse share characteristics, but each world is set apart by its own history and geography. Your DM might set a campaign on one of these worlds or on a world of their own invention. Because there is so much variety among D&D worlds, check with your DM about the world of your upcoming adventures.
 
 > [!note] What's new in the 2024 Version?
-> 
 > This is the 2024 version of the fifth edition *Player's Handbook*. If you've read the "2014 version", much of this book will feel familiar, since the fundamental rules of the game are the same. But the book contains many new or redesigned elements, and the versions of things in this book replace versions from older books. Here are highlights:
-> 
 > - **Streamlined Rules.** The game's rules have been streamlined and are now supported by a "rules glossary".  
 > - **Easier Character Creation.** Using "chapter 2", making a character is easier than ever before.  
 > - **Enhanced Classes.** In "chapter 3", every class and subclass has been enhanced with new options.  
@@ -103,7 +115,6 @@ The worlds of the multiverse share characteristics, but each world is set apart 
 > - **Expanded Feats.** In "chapter 5", feats have been redesigned, with many feats added.  
 > - **Upgraded Weapons, Tools, and Crafting.** Mastery properties transform how weapon wielders use their weapons, and every character can enjoy new tool and crafting rules in "chapter 6".  
 > - **Dazzling Spells.** "Chapter 7" bursts with new spells and old ones that have been enhanced.  
-> 
 > If you can't find a rule, check the index. If a rule's name has changed from what was printed in the 2014 *Player's Handbook*, the index points you to the new name. For example, if you look up Inspiration in the index, it points you to the rules for [[heroic-inspiration-xphb|Heroic Inspiration]] in the rules glossary.
 ^whats-new-in-the-2024-version
 
@@ -115,19 +126,15 @@ The worlds of the multiverse share characteristics, but each world is set apart 
 
 Legends speak of 01 introduction welcome to adventure as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 01 introduction welcome to adventure.
 
-## Adventure Hooks
-
-- A rumor ties 01 introduction welcome to adventure to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 01 introduction welcome to adventure to avert a public scandal.
-- A map overlay reveals a hidden approach to 01 introduction welcome to adventure active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

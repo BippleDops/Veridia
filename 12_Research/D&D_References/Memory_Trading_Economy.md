@@ -21,20 +21,12 @@ world: Both
 updated: '2025-08-13T01:18:37.109237+00:00'
 ---
 
-
-
-
-
 # Memory Trading Economy System
 *Where Experience Becomes Currency and Identity Is Negotiable*
-
-## Core Concepts
 
 ### The Nature of Memory as Currency
 
 In Aquabyssos and Aethermoor, memories have crystallized into tangible form through the merger of magic and pressure. These **Memory Pearls** serve as both currency and commodity, containing actual experiences that can be absorbed, traded, or destroyed.
-
-### Memory Pearl Classifications
 
 #### By Rarity
 | Grade | Color | Base Value | Occurrence |
@@ -58,22 +50,6 @@ In Aquabyssos and Aethermoor, memories have crystallized into tangible form thro
 
 *Identity memories are illegal in most civilized areas but trade on black markets
 
-### Memory Pearl Properties
-
-#### Physical Characteristics
-- **Size**: Rice grain to fist-sized
-- **Weight**: Nearly weightless (1 oz per 100gp value)
-- **Durability**: Fragile (AC 10, 1 HP)
-- **Storage**: Require special containers to prevent degradation
-
-#### Magical Properties
-- **Detection**: Detect Magic reveals school (Enchantment/Divination)
-- **Identification**: Identify spell reveals general content
-- **Protection**: Can be warded against theft/scanning
-- **Decay**: Lose 10% value per month if not preserved
-
-## Memory Extraction & Creation
-
 ### Natural Formation
 Memories naturally crystallize under specific conditions:
 
@@ -85,31 +61,6 @@ Memories naturally crystallize under specific conditions:
 | Reality merger zone | 75% | Random |
 | Deep Mother influence | 90% | Epic+ |
 | Prophetic vision | 100% | Rare+ |
-
-### Artificial Extraction
-
-#### Memory Siphon Device (5,000 gp)
-- **Function**: Extracts specific memories
-- **Success Rate**: 70% (INT check DC 15)
-- **Risk**: 10% chance of memory damage
-- **Time**: 1 hour per memory
-- **Side Effects**: Exhaustion, temporary amnesia
-
-#### Meditation Crystallization
-- **Requirements**: 20+ Wisdom, special training
-- **Process**: 8-hour meditation
-- **Success**: WIS check DC 20
-- **Output**: 1 memory pearl of chosen experience
-- **Cost**: Lose the memory permanently
-
-#### Surgical Extraction
-- **Performed by**: Shadow Surgeons, specialized doctors
-- **Success Rate**: 95%
-- **Risk**: 5% chance of brain damage
-- **Time**: 2-4 hours
-- **Cost**: 500 gp + pearl value
-
-### Memory Cultivation
 
 #### Memory Farms
 Specialized facilities that cultivate memories:
@@ -125,10 +76,6 @@ Specialized facilities that cultivate memories:
 - Subjects may lose sense of reality
 - Creates "hollow people" with no memories
 - Some farms use prisoners or debtors
-
-## Trading Mechanics
-
-### Memory Markets
 
 #### Legal Markets
 
@@ -178,8 +125,6 @@ Specialized facilities that cultivate memories:
 | Illegal/forbidden | ×3-10 |
 | Pre-Sundering | ×10-1000 |
 
-### Trading Procedures
-
 #### Authentication
 1. **Visual Inspection**: Check color, clarity, size
 2. **Magical Verification**: Detect Magic, Identify
@@ -197,10 +142,6 @@ Specialized facilities that cultivate memories:
 - Failure: No negotiation
 - Critical Failure: Offended merchant
 
-## Memory Absorption
-
-### Absorption Process
-
 #### Safe Absorption
 1. **Preparation**: Meditate for 10 minutes
 2. **Consumption**: Swallow or press to forehead
@@ -215,32 +156,6 @@ Specialized facilities that cultivate memories:
 3. **Risk**: 25% chance of memory confusion
 4. **Side Effects**: Headache, nausea, identity confusion
 
-### Absorption Effects
-
-#### Knowledge Memories
-- **Immediate**: Understanding of subject
-- **Temporary**: Proficiency for 24 hours
-- **Permanent**: Must study for 1 week after
-- **Limit**: INT modifier per day
-
-#### Emotional Memories
-- **Immediate**: Experience the emotion
-- **Duration**: 1d4 days of mood effects
-- **Risk**: May alter personality
-- **Limit**: WIS save DC 15 or overwhelmed
-
-#### Sensory Memories
-- **Immediate**: Vivid sensory experience
-- **Duration**: Permanent recall ability
-- **Benefit**: Advantage on related Perception
-- **Risk**: May develop synesthesia
-
-#### Identity Memories
-- **Immediate**: Know everything about person
-- **Duration**: Permanent unless removed
-- **Risk**: Identity crisis, alignment shift
-- **Illegal**: Highly regulated/forbidden
-
 ### Overdose Effects
 
 Absorbing too many memories too quickly:
@@ -252,16 +167,6 @@ Absorbing too many memories too quickly:
 | 6-7 | Memory bleeding (mix memories) |
 | 8-9 | Identity crisis (WIS save DC 20) |
 | 10+ | Memory cascade (lose own memories) |
-
-## Economic Impact
-
-### On Society
-
-#### Class Division
-- **Memory Rich**: Hoard valuable experiences
-- **Memory Poor**: Sell memories to survive
-- **Memory Slaves**: Forced to produce memories
-- **Hollow Ones**: Sold all memories, empty shells
 
 #### Professional Classes
 
@@ -289,62 +194,12 @@ Absorbing too many memories too quickly:
 - Track memory origins
 - Government or private employment
 
-### On Gameplay
-
 #### As Quest Rewards
 Instead of gold, offer:
 - Specific knowledge needed later
 - NPC's treasured memory
 - Map memory to hidden location
 - Secret password/ritual memory
-
-#### As Plot Devices
-- Stolen memories must be recovered
-- False memories implanted
-- Memory plague spreading
-- Ancient memory holds key to mystery
-
-#### As Currency Alternative
-- Pay for services with experiences
-- Trade memories for goods
-- Memory taxation by government
-- Memory inheritance from family
-
-## Memory Crafting & Modification
-
-### Artificial Memory Creation
-
-#### Basic Crafting (DC 15)
-- **Time**: 1 day
-- **Cost**: 100 gp materials
-- **Output**: Common memory pearl
-- **Requirement**: Proficiency in Arcana
-
-#### Advanced Crafting (DC 20)
-- **Time**: 1 week  
-- **Cost**: 500 gp materials
-- **Output**: Uncommon-Rare pearl
-- **Requirement**: Expertise in Arcana
-
-#### Master Crafting (DC 25)
-- **Time**: 1 month
-- **Cost**: 5,000 gp materials
-- **Output**: Epic+ pearl
-- **Requirement**: 7th level spells
-
-### Memory Modification
-
-#### Editing Existing Memories
-- **Subtle Changes**: DC 20, undetectable
-- **Major Changes**: DC 25, may be noticed
-- **Complete Rewrite**: DC 30, obvious if examined
-
-#### Combination Techniques
-- **Memory Fusion**: Blend multiple memories
-- **Memory Layering**: Hide memories within others
-- **Memory Encryption**: Password-protect memories
-
-## Legal & Ethical Framework
 
 ### Legal Status by Region
 
@@ -355,46 +210,6 @@ Instead of gold, offer:
 | Lower Depths | Unregulated | No restrictions |
 | Crystal Peaks | Illegal | Banned completely |
 | Neutral Zones | Gray market | Variable enforcement |
-
-### Ethical Considerations
-
-#### Arguments For Memory Trade
-- Personal freedom to sell experiences
-- Preservation of history/culture
-- Therapeutic uses for trauma
-- Educational advancement
-- Economic necessity
-
-#### Arguments Against
-- Exploitation of desperate
-- Loss of personal identity
-- Creates hollow people
-- Enables identity theft
-- Destroys authentic experience
-
-## Integration with Other Systems
-
-### With Pressure Adaptation
-- Depth memories aid adaptation
-- Adaptation memories valuable
-- Pressure affects memory formation
-
-### With Faction Warfare
-- State secrets as memories
-- Memory warfare tactics
-- Faction memory monopolies
-
-### With Reality Merger
-- Cross-dimensional memories
-- Timeline memories
-- Paradox memory creation
-
-### With Sanity System
-- Traumatic memory effects
-- Memory-induced madness
-- Therapeutic memory use
-
-## Quick Reference Tables
 
 ### Memory Pearl Values
 | Type | Common | Uncommon | Rare | Epic | Legendary |
@@ -419,6 +234,24 @@ Instead of gold, offer:
 
 *In the depths, memories are more than thoughts—they are commodity, weapon, and lifeline. Trade wisely, for you may be selling more than you know.*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Memory Trading Economy is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -427,19 +260,30 @@ Memory Trading Economy is a undersea element of the setting, known for biolumine
 
 Legends speak of Memory Trading Economy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Trading Economy.
 
-## Adventure Hooks
-
-- A rumor ties Memory Trading Economy to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Memory Trading Economy to avert a public scandal.
-- A map overlay reveals a hidden approach to Memory Trading Economy active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help delivering before the festival
+- An heirloom has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.295787+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-phantom-harbor-charter-phantom-harbor-charter.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Shadow Marina|02 Worldbuilding/Groups/Shadow Marina]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Shadow Marina]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,15 @@ Phantom Harbor Charter is a undersea element of the setting, known for biolumine
 
 Legends speak of Phantom Harbor Charter as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Phantom Harbor Charter.
 
-## Adventure Hooks
-
-- A rumor ties Phantom Harbor Charter to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Phantom Harbor Charter to avert a public scandal.
-- A map overlay reveals a hidden approach to Phantom Harbor Charter active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

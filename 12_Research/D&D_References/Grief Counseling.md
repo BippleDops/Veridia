@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.434324+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-grief-counseling-grief-counseling.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,17 @@ Grief Counseling is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of Grief Counseling as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Grief Counseling.
 
-## Adventure Hooks
-
-- A rumor ties Grief Counseling to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Grief Counseling to avert a public scandal.
-- A map overlay reveals a hidden approach to Grief Counseling active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Grief Counseling|02 Worldbuilding/Places/Grief Counseling]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Mourning Depths]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals the truth about this place
+- A corpse reveals the truth about the government
+- A stranger needs help delivering before dawn

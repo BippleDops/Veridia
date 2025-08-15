@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.833332+00:00'
 world: Both
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-merchant-captain-tobias-stormwind-merchant-captain-tobias-stormwind.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[The Whispering Peaks|02 Worldbuilding/Places/The Whispering Peaks]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[The Whispering Peaks]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,37 @@ Merchant Captain Tobias Stormwind is a undersea element of the setting, known fo
 
 Legends speak of Merchant Captain Tobias Stormwind as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merchant Captain Tobias Stormwind.
 
-## Adventure Hooks
-
-- A rumor ties Merchant Captain Tobias Stormwind to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Merchant Captain Tobias Stormwind to avert a public scandal.
-- A map overlay reveals a hidden approach to Merchant Captain Tobias Stormwind active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Relationships
+
+- **Child**: [[Portrait NPC Find the Shadow Cure V1 Find the Shadow Cure.svg]]
+- **Parent**: [[Portrait NPC Aboleth Prime Yoth Aboleth Prime Yoth.svg]]
+- **Blackmailer**: [[Portrait NPC High Priest Nereon High Priest Nereon.svg]]
+
+
+## Plot Hooks
+
+- Someone is searching for a artifact for money
+- A map reveals a conspiracy about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

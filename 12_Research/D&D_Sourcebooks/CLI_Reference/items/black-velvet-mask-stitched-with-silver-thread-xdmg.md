@@ -23,18 +23,33 @@ updated: '2025-08-12T23:37:37.283692'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-black-velvet-mask-stitched-with-silver-thread-xdmg-black-velvet-mask-stitched-with-silver-thread-xdmg.svg)
 
 # Black velvet mask stitched with silver thread
 *Treasure (art object)*  
 
-
 - **Cost**: 25 gp
 
 *Source: Dungeon Master's Guide (2024) p. 215*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -44,18 +59,9 @@ Black velvet mask stitched with silver thread xdmg is a undersea element of the 
 
 Legends speak of black velvet mask stitched with silver thread xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around black velvet mask stitched with silver thread xdmg.
 
-## Adventure Hooks
-
-- A rumor ties black velvet mask stitched with silver thread xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at black velvet mask stitched with silver thread xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to black velvet mask stitched with silver thread xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

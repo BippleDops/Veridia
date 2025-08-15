@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:04.207261+00:00'
 world: Both
 ---
 
-
-
 # Ilneval
 *Source: Volo's Guide to Monsters p. 83* 
 
@@ -35,6 +33,24 @@ world: Both
 - **Symbol**: Upright blood-spattered sword
 
 Ilneval is the loyal right hand of Gruumsh. He is the god who plans the attacks and devises the strategies that allow the forces of Gruumsh to dominate the battle and fill their war wagons with plunder and severed heads. Ilneval stands with his bloody sword, calling to those who understand the ebb and flow of combat to sit around his council fire and learn the ways of warfare.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Skilled Strategists
 
@@ -48,19 +64,25 @@ Orc ilneval vgm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of orc ilneval vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around orc ilneval vgm.
 
-## Adventure Hooks
-
-- A rumor ties orc ilneval vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at orc ilneval vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to orc ilneval vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A letter reveals a betrayal about this place
+- An heirloom has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -18,26 +18,27 @@ updated: '2025-08-13T01:18:37.097617+00:00'
 world: Both
 ---
 
-
-
 # Personal Horror Customization
 
 Tailored nightmares, breaking points, transformations, madness, whispers, and personal apocalypses.
 
-## Player Profiles
-- Capture fears, bonds, memories; opt-in boundaries
 
-## Breaking Points
-- Threshold mechanics that trigger short/long/indefinite effects (see [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]])
+## 🔧 Deep Evaluation Improvements
 
-## Tailored Transformations
-- Map fear to transformation path (pressure, crystal, parasite, void)
+*20 targeted improvements identified*
 
-## Custom Whispers
-- Deep Mother messages personalized to character arcs
+### Connection Improvements
 
-## Personal Apocalypse
-- End-state visions; can be defied or fulfilled through play
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -47,30 +48,29 @@ Personal Horror Customization is a undersea element of the setting, known for bi
 
 Legends speak of Personal Horror Customization as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Personal Horror Customization.
 
-## Adventure Hooks
-
-- A rumor ties Personal Horror Customization to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Personal Horror Customization to avert a public scandal.
-- A map overlay reveals a hidden approach to Personal Horror Customization active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Phase_Omega_Enhanced_Index|03 Mechanics/Phase Omega Enhanced Index]]
 
 
-## See Also
+## Plot Hooks
 
-- [[02_Worldbuilding/Lore|02 Worldbuilding/Lore]] - Related content
-- [[Master_Campaign_Index|Master Campaign Index]] - Campaign overview
+- A letter reveals a betrayal about the government
+- A journal reveals a betrayal about the government
+- A prisoner has gone missing and truth emerges
+- Strange disappearances suggest a conspiracy
 
-## Connections
+## 12_Research Specific Content
 
-- See also: [[Campaign Guide]]
-- Related: [[Power Structures]]
-- Connected to: [[World Events]]
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

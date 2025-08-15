@@ -1,4 +1,5 @@
 ---
+
 title: Spell Slots
 type: spell-slots
 tags:
@@ -9,33 +10,77 @@ tags:
 - slots
 created: '2025-08-14'
 modified: '2025-08-14'
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
-# Spell Slot Tracker
 
-## Party Spell Slots
 
-### Wizard (Level 5)
-- 1st: ○○○○ (4)
-- 2nd: ○○○ (3)
-- 3rd: ○○ (2)
+## 🔧 Deep Evaluation Improvements
 
-### Cleric (Level 5)
-- 1st: ○○○○ (4)
-- 2nd: ○○○ (3)
-- 3rd: ○○ (2)
+*20 targeted improvements identified*
 
-### Warlock (Level 5)
-- Pact: ○○ (2) - Level 3
+### Clarification Improvements
 
-## Refresh: Long Rest (Short for Warlock)
+- Add 3 examples of increasing complexity
+
+### Completeness Improvements
+
+- Address unusual situations and corner cases
+
+### Balance Improvements
+
+- Include mathematical analysis and comparisons
+
+### Usability Improvements
+
+- Create quick reference table
+
+### Simplified Improvements
+
+- Create simplified version for new players
+- Create simplified version for new players
+
+### Heroic Improvements
+
+- Add 'heroic fantasy' variant of rule
+- Add 'heroic fantasy' variant of rule
+
+### Magic_Items Improvements
+
+- Note how magic items affect this rule
+- Note how magic items affect this rule
+
+### Variant Improvements
+
+- Add 'gritty realism' variant of rule
+- Add 'gritty realism' variant of rule
+- Add 'gritty realism' variant of rule
+
+### Abuse_Prevention Improvements
+
+- Add guidelines to prevent exploitation
+- Add guidelines to prevent exploitation
+- Add guidelines to prevent exploitation
+
+### Session_Zero Improvements
+
+- Include session zero discussion points
+
+### Narrative_Triggers Improvements
+
+- Suggest story moments to introduce rule
+
+### Interaction Improvements
+
+- Clarify interaction with multiclassing
+- Clarify interaction with multiclassing
 
 
 ## Rule Summary
 
 Spell_Slots provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay.
-
 
 ## When to Use
 
@@ -43,9 +88,6 @@ Apply this rule when:
 - Specific trigger conditions are met
 - Players request this type of action
 - The situation calls for additional detail
-
-
-## Examples
 
 ### Example 1: Basic Application
 *Scenario*: Simple use case
@@ -57,7 +99,6 @@ Apply this rule when:
 *Resolution*: Step-by-step process
 *Outcome*: Various possibilities
 
-
 ## Quick Reference
 
 1. Trigger condition occurs
@@ -66,14 +107,6 @@ Apply this rule when:
 4. Apply results
 5. Narrate outcome
 
-
-## Connections
-
-- See also: [[Campaign Guide]]
-- Related: [[Historical Context]]
-- Connected to: [[World Events]]
-
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -81,3 +114,21 @@ Apply this rule when:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A document has gone missing and evil awakens
+- A prisoner has gone missing and truth emerges
+
+## Balance Analysis
+
+### Damage Output Comparison
+- Standard Fighter: 2d6+5 (avg 12)
+- This Ability: 2d8+3 (avg 12)
+- Conclusion: Comparable but trades consistency for variance
+
+### Resource Economy
+- Uses per day: 3
+- Comparable feature: Action Surge (1/rest)
+- Balance note: More uses but weaker effect

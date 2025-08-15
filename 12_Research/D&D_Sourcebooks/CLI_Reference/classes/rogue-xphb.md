@@ -22,46 +22,52 @@ updated: '2025-08-12T23:37:34.426344'
 world: Both
 ---
 
-
 # Rogue
-*Source: Player's Handbook (2024) p. 128. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Player's Handbook (2024) p. 128. Available in the SRD and the Free Rules (2024)*  
 
 > [!tldr] Class and Feature Progression
 > 
-> <table class="class-progression">
-> <thead>
-> <tr><th colspan='4'></th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th><th class="value">Sneak Attack</th></tr>
-> </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"><a href='#Expertise (Level 1)' class='internal-link'>Expertise</a>, <a href='#Sneak Attack (Level 1)' class='internal-link'>Sneak Attack</a>, <a href='#Thieves' Cant (Level 1)' class='internal-link'>Thieves' Cant</a>, <a href='#Weapon Mastery (Level 1)' class='internal-link'>Weapon Mastery</a></td><td class="value">1d6</td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"><a href='#Cunning Action (Level 2)' class='internal-link'>Cunning Action</a></td><td class="value">1d6</td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Rogue Subclass (Level 3)' class='internal-link'>Rogue Subclass</a>, <a href='#Steady Aim (Level 3)' class='internal-link'>Steady Aim</a></td><td class="value">2d6</td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"><a href='#Ability Score Improvement (Level 4)' class='internal-link'>Ability Score Improvement</a></td><td class="value">2d6</td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"><a href='#Cunning Strike (Level 5)' class='internal-link'>Cunning Strike</a>, <a href='#Uncanny Dodge (Level 5)' class='internal-link'>Uncanny Dodge</a></td><td class="value">3d6</td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"><a href='#Expertise (Level 6)' class='internal-link'>Expertise</a></td><td class="value">3d6</td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Evasion (Level 7)' class='internal-link'>Evasion</a>, <a href='#Reliable Talent (Level 7)' class='internal-link'>Reliable Talent</a></td><td class="value">4d6</td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"><a href='#Ability Score Improvement (Level 8)' class='internal-link'>Ability Score Improvement</a></td><td class="value">4d6</td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"><a href='#Subclass Feature (Level 9)' class='internal-link'>Subclass Feature</a></td><td class="value">5d6</td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 10)' class='internal-link'>Ability Score Improvement</a></td><td class="value">5d6</td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"><a href='#Improved Cunning Strike (Level 11)' class='internal-link'>Improved Cunning Strike</a></td><td class="value">6d6</td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"><a href='#Ability Score Improvement (Level 12)' class='internal-link'>Ability Score Improvement</a></td><td class="value">6d6</td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"><a href='#Subclass Feature (Level 13)' class='internal-link'>Subclass Feature</a></td><td class="value">7d6</td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"><a href='#Devious Strikes (Level 14)' class='internal-link'>Devious Strikes</a></td><td class="value">7d6</td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Slippery Mind (Level 15)' class='internal-link'>Slippery Mind</a></td><td class="value">8d6</td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"><a href='#Ability Score Improvement (Level 16)' class='internal-link'>Ability Score Improvement</a></td><td class="value">8d6</td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"><a href='#Subclass Feature (Level 17)' class='internal-link'>Subclass Feature</a></td><td class="value">9d6</td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Elusive (Level 18)' class='internal-link'>Elusive</a></td><td class="value">9d6</td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"><a href='#Epic Boon (Level 19)' class='internal-link'>Epic Boon</a></td><td class="value">10d6</td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"><a href='#Stroke of Luck (Level 20)' class='internal-link'>Stroke of Luck</a></td><td class="value">10d6</td></tr>
-> </tbody></table>
+> LevelPBFeaturesSneak Attack
+> 1st+2Expertise, Sneak Attack, Thieves' Cant, Weapon Mastery1d6
+> 2nd+2Cunning Action1d6
+> 3rd+2Rogue Subclass, Steady Aim2d6
+> 4th+2Ability Score Improvement2d6
+> 5th+3Cunning Strike, Uncanny Dodge3d6
+> 6th+3Expertise3d6
+> 7th+3Evasion, Reliable Talent4d6
+> 8th+3Ability Score Improvement4d6
+> 9th+4Subclass Feature5d6
+> 10th+4Ability Score Improvement5d6
+> 11th+4Improved Cunning Strike6d6
+> 12th+4Ability Score Improvement6d6
+> 13th+5Subclass Feature7d6
+> 14th+5Devious Strikes7d6
+> 15th+5Slippery Mind8d6
+> 16th+5Ability Score Improvement8d6
+> 17th+6Subclass Feature9d6
+> 18th+6Elusive9d6
+> 19th+6Epic Boon10d6
+> 20th+6Stroke of Luck10d6
 
 ^class-progression
 
-## Hit Points
 
-- **Hit Dice**: 1d8 per Rogue level
-- **Hit Points at First Level:** 8 + CON
-- **Hit Points at Higher Levels:** add 5 OR 1d8 + CON  (minimum of 1)
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Starting Rogue
 
@@ -73,12 +79,6 @@ world: Both
 
 **Starting Equipment:** *Choose A or B:* (A) [[leather-armor-xphb|Leather Armor]], 2 [[dagger-xphb|Daggers]], [[shortsword-xphb|Shortsword]], [[shortbow-xphb|Shortbow]], [[arrows-20-xphb|20 Arrows]], [[quiver-xphb|Quiver]], [[thieves-tools-xphb|Thieves' Tools]], [[burglars-pack-xphb|Burglar's Pack]], and 8 GP; or (B) 100 GP
 
-## Multiclassing Rogue
-
-- **Skill Proficiencies**: *Choose 1:* [[skills#Acrobatics|Acrobatics]], [[skills#Athletics|Athletics]], [[skills#Deception|Deception]], [[skills#Insight|Insight]], [[skills#Intimidation|Intimidation]], [[skills#Investigation|Investigation]], [[skills#Perception|Perception]], [[skills#Persuasion|Persuasion]], [[skills#Sleight%20of%20Hand|Sleight of Hand]], or [[skills#Stealth|Stealth]]
-- **Tool Proficiencies**: [[thieves-tools-xphb|Thieves' Tools]]
-- **Armor Training**: [[item-types#Light%20Armor|Light armor]]
-
 ## Rogue
 
 Rogues rely on cunning, stealth, and their foes' vulnerabilities to get the upper hand in any situation. They have a knack for finding the solution to just about any problem. A few even learn magical tricks to supplement their other abilities. Many Rogues focus on stealth and deception, while others refine skills that help them in a dungeon environment, such as climbing, finding and disarming traps, and opening locks.
@@ -86,8 +86,6 @@ Rogues rely on cunning, stealth, and their foes' vulnerabilities to get the uppe
 In combat, Rogues prioritize subtle strikes over brute strength. They would rather make one precise strike than wear an opponent down with a barrage of blows.
 
 Some Rogues began their careers as criminals, while others used their cunning to fight crime. Whatever a Rogue's relation to the law, no common criminal or officer of the law can match the subtle brilliance of the greatest Rogues.
-
-## Class Features
 
 ### Expertise (Level 1)
 
@@ -143,7 +141,7 @@ To use this effect, you must have a [[poisoners-kit-xphb|Poisoner's Kit]] on you
 
 ### Trip (Cost: 1d6) (Level 5)
 
-If the target is Large or smaller, it must succeed on a Dexterity saving throw or have the [[conditions#Prone|Prone]] condition.
+If the target is Large or smaller, it must succeed on a Dexterity saving throw or have the [[conditions#prone|Prone]] condition.
 
 ### Withdraw (Cost: 1d6) (Level 5)
 
@@ -175,19 +173,13 @@ You gain a feature from your Rogue Subclass.
 
 ### Ability Score Improvement (Level 10)
 
-You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
-
 ### Improved Cunning Strike (Level 11)
 
 You can use up to two Cunning Strike effects when you deal Sneak Attack damage, paying the die cost for each effect.
 
 ### Ability Score Improvement (Level 12)
 
-You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
-
 ### Subclass Feature (Level 13)
-
-You gain a feature from your Rogue Subclass.
 
 ### Devious Strikes (Level 14)
 
@@ -211,11 +203,7 @@ Your cunning mind is exceptionally difficult to control. You gain proficiency in
 
 ### Ability Score Improvement (Level 16)
 
-You gain the [[ability-score-improvement-xphb|Ability Score Improvement]] feat or another feat of your choice for which you qualify.
-
 ### Subclass Feature (Level 17)
-
-You gain a feature from your Rogue Subclass.
 
 ### Elusive (Level 18)
 
@@ -239,20 +227,23 @@ Rogue xphb is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of rogue xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rogue xphb.
 
-## Adventure Hooks
-
-- A rumor ties rogue xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at rogue xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to rogue xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and evil awakens
+- A shipment has gone missing and chaos spreads

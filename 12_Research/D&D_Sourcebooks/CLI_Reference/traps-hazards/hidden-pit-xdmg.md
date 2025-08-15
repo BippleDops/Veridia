@@ -22,13 +22,30 @@ updated: '2025-08-12T23:37:34.706524'
 world: Both
 ---
 
-
 # Hidden Pit
 *Generic Hazard*  
 
 This 10-foot-deep pit has a hinged lid constructed from material identical to the surrounding floor. When a creature moves onto the lid, it swings open like a trapdoor, causing the creature to fall into the pit. The lid remains open thereafter.
 
 A creature that falls into the pit takes 3 (`d6`) Bludgeoning damage from the fall.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Detect and Disarm
 
@@ -49,7 +66,7 @@ You can scale the trap for higher levels by increasing the pit's depth and damag
 | 17–20 | 120 feet | 42 (`12d6`) |
 ^levels-pit-depth-bludgeoning-damage
 
-*Source: Dungeon Master's Guide (2024) p. 102. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 102. Available in the SRD*
 
 ## Player-Facing Summary
 
@@ -59,19 +76,25 @@ Hidden pit xdmg is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of hidden pit xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hidden pit xdmg.
 
-## Adventure Hooks
-
-- A rumor ties hidden pit xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at hidden pit xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to hidden pit xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Winds
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

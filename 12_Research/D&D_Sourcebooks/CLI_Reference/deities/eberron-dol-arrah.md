@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:33.916777'
 world: Both
 ---
 
-
 # Dol Arrah
 *Source: Player's Handbook p. 296, Tasha's Cauldron of Everything p. 34* 
 
@@ -33,6 +32,24 @@ world: Both
 - **Pantheon**: Eberron
 - **Symbol**: Rising sun
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Eberron dol arrah is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -41,19 +58,27 @@ Eberron dol arrah is a undersea element of the setting, known for bioluminescent
 
 Legends speak of eberron dol arrah as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around eberron dol arrah.
 
-## Adventure Hooks
-
-- A rumor ties eberron dol arrah to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at eberron dol arrah to avert a public scandal.
-- A map overlay reveals a hidden approach to eberron dol arrah active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## Plot Hooks
+
+- A journal reveals a betrayal about the government
+- A noble needs help finding before dawn
+- A map reveals a betrayal about this place

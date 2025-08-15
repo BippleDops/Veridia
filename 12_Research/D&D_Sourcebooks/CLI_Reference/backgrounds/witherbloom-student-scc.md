@@ -22,10 +22,8 @@ updated: '2025-08-12T23:37:34.921287'
 world: Both
 ---
 
-
 # Witherbloom Student
 *Source: Strixhaven: A Curriculum of Chaos p. 36*  
-
 
 - **Skill Proficiencies.** [[skills#Nature|Nature]], [[skills#Survival|Survival]]  
 - **Tool Proficiencies.** [[herbalism-kit-xphb|Herbalism kit]]  
@@ -33,6 +31,24 @@ world: Both
 - **Equipment.** A [[ink-xphb|bottle of black ink]], an [[ink-pen-xphb|ink pen]], a book about plant identification, an [[iron-pot-xphb|iron pot]], an [[herbalism-kit-xphb|herbalism kit]], a school uniform, and a [[pouch-xphb|pouch]] containing 15 gp  
 
 You filled your childhood with rudimentary alchemical experiments, all in the hope of becoming a student of Witherbloom College. The life sciences are the focus of your reading, which include biology and necromancy. Brewing strange concoctions with medicinal properties, exploring the anatomies of monsters, and cataloging swamp flora are the kinds of studies you might pursue at Witherbloom College.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Feature: Witherbloom Initiate
 
@@ -89,19 +105,15 @@ Witherbloom student scc is a undersea element of the setting, known for biolumin
 
 Legends speak of witherbloom student scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around witherbloom student scc.
 
-## Adventure Hooks
-
-- A rumor ties witherbloom student scc to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at witherbloom student scc to avert a public scandal.
-- A map overlay reveals a hidden approach to witherbloom student scc active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

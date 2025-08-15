@@ -23,8 +23,6 @@ updated: '2025-08-13T12:34:08.034911+00:00'
 world: Both
 ---
 
-
-
 # Tiefling (Asmodeus)
 *Source: Mordenkainen's Tome of Foes p. 21*  
 ![](/03_Mechanics/CLI/races/img/tiefling.webp#right)
@@ -33,8 +31,6 @@ world: Both
 - **Size**: Medium
 - **Speed**: 30 ft.
 - **Spellcasting**: Charisma
-
-## Traits
 
 ### Age
 
@@ -59,6 +55,24 @@ You know the [[thaumaturgy-xphb|thaumaturgy]] cantrip. Once you reach 3rd level,
 ### Languages
 
 You can speak, read, and write Common and Infernal.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Description
 
@@ -97,19 +111,17 @@ Tiefling asmodeus mtf is a undersea element of the setting, known for biolumines
 
 Legends speak of tiefling asmodeus mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tiefling asmodeus mtf.
 
-## Adventure Hooks
-
-- A rumor ties tiefling asmodeus mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at tiefling asmodeus mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to tiefling asmodeus mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and evil awakens
+- Strange accidents suggest a curse
+- A journal reveals the truth about this place

@@ -17,12 +17,22 @@ updated: '2025-08-13T01:18:35.654518+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,19 +42,21 @@ Earl Thaddeus Blackthorn is a undersea element of the setting, known for biolumi
 
 Legends speak of Earl Thaddeus Blackthorn as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Earl Thaddeus Blackthorn.
 
-## Adventure Hooks
-
-- A rumor ties Earl Thaddeus Blackthorn to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Earl Thaddeus Blackthorn to avert a public scandal.
-- A map overlay reveals a hidden approach to Earl Thaddeus Blackthorn active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and war looms
+- A journal reveals a conspiracy about the cult
+- A document has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

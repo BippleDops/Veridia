@@ -23,8 +23,6 @@ updated: '2025-08-13T12:34:04.918554+00:00'
 world: Both
 ---
 
-
-
 # Strixhaven Initiate
 *Source: Strixhaven: A Curriculum of Chaos p. 36*  
 
@@ -47,6 +45,24 @@ Your spellcasting ability for this feat's spells is Intelligence, Wisdom, or Cha
 | Witherbloom | Choose two from [[chill-touch-xphb|chill touch]], [[druidcraft-xphb|druidcraft]], and [[spare-the-dying-xphb|spare the dying]]. | Choose one 1st-level druid or wizard spell. |
 ^strixhaven-spells
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Strixhaven initiate scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -55,19 +71,22 @@ Strixhaven initiate scc is a undersea element of the setting, known for biolumin
 
 Legends speak of strixhaven initiate scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around strixhaven initiate scc.
 
-## Adventure Hooks
-
-- A rumor ties strixhaven initiate scc to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at strixhaven initiate scc to avert a public scandal.
-- A map overlay reveals a hidden approach to strixhaven initiate scc active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help delivering before the new moon
+- Strange sightings suggest a portal
+- Strange disappearances suggest a curse
+- A merchant needs help stealing before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

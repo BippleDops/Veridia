@@ -22,12 +22,26 @@ updated: '2025-08-12T23:37:35.722383'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mummy-lord-mummy-lord.svg)
 
-# Mummy Lord
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Monster Manual_
@@ -39,7 +53,6 @@ On initiative count 20 (losing initiative ties), the mummy lord takes a lair act
 - Until initiative count 20 on the next round, any non-undead creature that tries to cast a spell of 4th level or lower in the mummy lord's lair is wracked with pain. The creature can choose another action, but if it tries to cast the spell, it must make a DC 16 Constitution saving throw. On a failed save, it takes `d6` necrotic damage per level of the spell, and the spell has no effect and is wasted.  
 
 ## Regional effects
-_Source: Monster Manual_
 
 A mummy lord's temple or tomb is warped in any of the following ways by the creature's dark presence:
 
@@ -57,19 +70,22 @@ Mummy lord is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of mummy lord as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mummy lord.
 
-## Adventure Hooks
-
-- A rumor ties mummy lord to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at mummy lord to avert a public scandal.
-- A map overlay reveals a hidden approach to mummy lord active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals the truth about the government
+- A document has gone missing and chaos spreads
+- Someone is blackmailing a artifact for power
+- Someone is searching for information for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

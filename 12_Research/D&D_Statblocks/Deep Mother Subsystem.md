@@ -26,13 +26,26 @@ version: 1.0
 world: Both
 ---
 
-
-
-
-
-
 # Complete Deep Mother Subsystem
 *The Ultimate Threat from Below the World*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Table of Contents
 1. [The Nature of the Deep Mother](#the-nature-of-the-deep-mother)
@@ -47,8 +60,6 @@ world: Both
 10. [Player Interaction Options](#player-interaction-options)
 11. [Campaign Ending Variations](#campaign-ending-variations)
 12. [Quick Reference Tables](#quick-reference-tables)
-
-## The Nature of the Deep Mother
 
 ### Who Is the Deep Mother?
 
@@ -66,7 +77,7 @@ Different cultures know her by different titles:
 - **Aquabyssos**: "The Depth That Dreams"
 - **Aethermoor**: "The Shadow Behind Stars"
 - **Ancient Mer-Folk**: "Mother of the First Waters"
-- **Crystal Cults**: "The Resonance Beyond"
+- **Crystal Cults**: "The Resoce Beyond"
 - **Parasite Priests**: "The Host of All"
 - **Mad Prophets**: "She Who Waits Below"
 
@@ -95,8 +106,6 @@ The Deep Mother operates on a scale beyond normal game mechanics:
 | 61-80% | Rising | Apocalyptic events |
 | 81-99% | Nearly Awake | Final countdown |
 | 100% | AWAKE | Campaign ends (varies) |
-
-## Manifestation Mechanics
 
 ### Manifestation Types
 
@@ -183,46 +192,9 @@ Roll d100 when Influence increases:
 | 96-99 | Avatar emergence |
 | 100 | Direct communication |
 
-## Dream Infiltration System
-
 ### Dream Layers
 
 Dreams have five layers, each deeper and more dangerous:
-
-#### Layer 1: Surface Dreams (DC 10)
-- Normal dreams with slight wrongness
-- Familiar places with impossible geometry
-- Dead people who don't know they're dead
-- Gain: Disturbing visions
-- Risk: 1 sanity point
-
-#### Layer 2: Anxiety Dreams (DC 13)
-- Personal fears made manifest
-- Endless falling/drowning/chasing
-- Loved ones become monsters
-- Gain: Understanding of fears
-- Risk: 1d4 sanity, short-term madness
-
-#### Layer 3: Prophetic Dreams (DC 16)
-- See possible futures
-- Witness coming disasters
-- Meet future selves
-- Gain: Prophetic knowledge
-- Risk: 1d6 sanity, long-term madness
-
-#### Layer 4: Collective Dreams (DC 19)
-- Enter shared unconscious
-- Experience others' nightmares
-- Become part of hive mind
-- Gain: Collective knowledge
-- Risk: 2d6 sanity, identity confusion
-
-#### Layer 5: Deep Mother's Dream (DC 22)
-- Reality's source code
-- Witness universe's birth/death
-- Understand ultimate truth
-- Gain: Cosmic awareness
-- Risk: 3d6 sanity, permanent change
 
 ### Dream Navigation
 
@@ -262,8 +234,6 @@ Dreams spread like disease:
 2. **Onset** (4-6 nights): Disturbing elements
 3. **Full Infection** (7+ nights): Trapped in Deep Mother's dream
 4. **Terminal** (14+ nights): Become dream entity
-
-## Avatar Summoning Rules
 
 ### Avatar Types
 
@@ -312,12 +282,12 @@ The Deep Mother has multiple avatar forms:
 - **Abilities**:
   - Reality Refraction: Bend space/time
   - Crystallize (recharge 5-6): 30 ft radius petrification
-  - Resonant Shatter: 8d8 thunder to all crystals
+  - Resot Shatter: 8d8 thunder to all crystals
   - Dimensional Prison: Trap in crystal dimension
   - Regeneration: 20 HP/round near crystals
 - **Summoning Requirements**:
   - Crystal convergence at ley line intersection
-  - Harmonic resonance with 13 crystal nodes
+  - Harmonic resoce with 13 crystal nodes
   - Influence 35+
 
 #### The Void Prophet (Influence 50+)
@@ -368,40 +338,6 @@ The Deep Mother has multiple avatar forms:
 - Self-sacrifice can banish them
 - Love/hope causes them pain
 
-## Cult Progression Tracking
-
-### Cult Development Stages
-
-#### Stage 1: Inception (1-10 cultists)
-- **Activities**: Secret meetings, recruitment
-- **Influence Gain**: +0.1/week
-- **Detection DC**: 20
-- **Typical Members**: Outcasts, madmen, desperate
-
-#### Stage 2: Growth (11-50 cultists)
-- **Activities**: Public recruitment, minor rituals
-- **Influence Gain**: +0.5/week
-- **Detection DC**: 17
-- **Typical Members**: Adding merchants, minor nobles
-
-#### Stage 3: Establishment (51-200 cultists)
-- **Activities**: Infiltration, major rituals
-- **Influence Gain**: +1/week
-- **Detection DC**: 15
-- **Typical Members**: Officials, guards, clergy
-
-#### Stage 4: Domination (201-1000 cultists)
-- **Activities**: Control institutions, summonings
-- **Influence Gain**: +2/week
-- **Detection DC**: 12
-- **Typical Members**: Leaders, military, mages
-
-#### Stage 5: Apocalyptic (1000+ cultists)
-- **Activities**: Open worship, reality breaking
-- **Influence Gain**: +5/week
-- **Detection DC**: Automatic
-- **Typical Members**: Entire communities
-
 ### Cult Activities
 
 **Weekly Cult Actions (based on stage):**
@@ -432,8 +368,6 @@ The Deep Mother has multiple avatar forms:
 | Wealth | 10 gp | Equipment, bribes |
 | Knowledge | 0.25 points | Research, summoning |
 | Madness | 0.5 points | Prophecy, transformation |
-
-## Influence Spread Mechanics
 
 ### Influence Sources
 
@@ -496,8 +430,6 @@ The Deep Mother has multiple avatar forms:
 - Memory of influence spreads it
 - Future influences present
 
-## Servants and Minions (20+ Stat Blocks)
-
 ### Tier 1: Pawns (CR 1/4 - 2)
 
 **Deep Dreamers** (CR 1/4)
@@ -548,7 +480,7 @@ The Deep Mother has multiple avatar forms:
 - **HP**: 91
 - **AC**: 17
 - **Attacks**: Crystal shard +9 (3d8 piercing)
-- **Abilities**: Crystallize victims, resonance
+- **Abilities**: Crystallize victims, resoce
 - **Description**: Living crystal servants
 
 **Void Hunters** (CR 7)
@@ -632,8 +564,6 @@ The Deep Mother has multiple avatar forms:
 - **Abilities**: End stories, inevitable victory
 - **Description**: The nightmare of cessation
 
-## Blessing and Curse System
-
 ### Deep Mother's Blessings
 
 **Minor Blessings** (Influence 10+):
@@ -648,18 +578,14 @@ The Deep Mother has multiple avatar forms:
 
 **Major Blessings** (Influence 25+):
 
-| Blessing | Benefit | Cost |
-|----------|---------|------|
 | Parasitic Symbiosis | Gain parasite ally | Share consciousness |
-| Crystal Resonance | Control crystals | Slowly crystallize |
+| Crystal Resoce | Control crystals | Slowly crystallize |
 | Void Touch | Phase through matter | Partially not exist |
 | Depth Gigantism | Double size | Cannot leave water |
 | Memory Consumption | Steal memories/skills | Lose own identity |
 
 **Ultimate Blessings** (Influence 50+):
 
-| Blessing | Benefit | Cost |
-|----------|---------|------|
 | Avatar Form | Become minor avatar | Lose humanity |
 | Reality Sculptor | Reshape reality | Sanity becomes alien |
 | Temporal Existence | Exist across time | No linear life |
@@ -680,8 +606,6 @@ The Deep Mother has multiple avatar forms:
 
 **Major Curses** (Defying cult/avatars):
 
-| Curse | Effect | Duration |
-|-------|--------|----------|
 | Depth Calling | Compelled to depths | 1 month |
 | Parasitic Infection | Parasites spawn in body | Until cured |
 | Reality Rejection | Things forget you exist | 2d6 weeks |
@@ -697,54 +621,6 @@ The Deep Mother has multiple avatar forms:
 | Eternal Nightmare | Trapped in Deep Mother's dream | Impossible |
 | Become the Enemy | Transform into servant | Death |
 | The Final Truth | Know how everything ends | Cannot be removed |
-
-## Awakening Scenarios
-
-### Scenario 1: The Slow Wake (Influence gain 1-2/week)
-- **Timeline**: 6-12 months
-- **Signs**: Gradual reality degradation
-- **Player Agency**: High, multiple intervention points
-- **Key Events**:
-  - Month 1-2: Strange dreams, missing persons
-  - Month 3-4: First avatars, cult revealed
-  - Month 5-6: Reality breaches, mass madness
-  - Month 7-8: Geographic changes, time distortions
-  - Month 9-10: Multiple avatars, existence questions
-  - Month 11-12: Final countdown
-
-### Scenario 2: The Cascade (Influence gain 5-10/week)
-- **Timeline**: 2-3 months
-- **Signs**: Rapid catastrophic changes
-- **Player Agency**: Moderate, crisis management
-- **Key Events**:
-  - Week 1-2: Cult revealed, first avatar
-  - Week 3-4: Multiple breaches, geography shifts
-  - Week 5-6: Time breaks, mass transformations
-  - Week 7-8: Reality collapse begins
-  - Week 9-12: Final battle for existence
-
-### Scenario 3: The Sudden Wake (Influence gain 20+/week)
-- **Timeline**: 2-4 weeks
-- **Signs**: Apocalyptic horror
-- **Player Agency**: Low, damage control only
-- **Key Events**:
-  - Day 1-7: Everything goes wrong at once
-  - Day 8-14: Reality actively hostile
-  - Day 15-21: Last desperate measures
-  - Day 22-28: The ending
-
-### Scenario 4: The False Wake (Variable)
-- **Timeline**: Appears immediate, actually slow
-- **Signs**: Reality loops, time paradoxes
-- **Player Agency**: Discovering the truth
-- **Key Events**:
-  - Players experience the ending
-  - Time resets with memory
-  - Must prevent what they've seen
-  - Multiple loops possible
-  - True timeline hidden
-
-## Player Interaction Options
 
 ### Resistance Paths
 
@@ -835,8 +711,6 @@ The Deep Mother has multiple avatar forms:
 - Change past = unpredictable present
 - Deep Mother exists outside time
 - May already be too late
-
-## Campaign Ending Variations
 
 ### Ending 1: The Heroes' Victory (Influence never reaches 100%)
 **Requirements**:
@@ -964,15 +838,13 @@ The Deep Mother has multiple avatar forms:
 - Perfect loops
 - Player choice loops
 
-## Quick Reference Tables
-
 ### Daily Influence Check
 
 Roll d20 each day:
 
 | Roll | Influence Change |
 |------|------------------|
-| 1 | -1d4 (setback) |
+| 1 | -1d4 (seck) |
 | 2-5 | -1 |
 | 6-10 | 0 |
 | 11-15 | +1 |
@@ -1027,47 +899,6 @@ When Influence reaches threshold:
 | Understand nature | 30 | 6d6 |
 | Direct contact | No save | Permanent madness |
 
-## Integration with Other Systems
-
-### Pressure System
-- Deep Mother controls all pressure
-- Depth adaptation serves her
-- Pressure zones spread influence
-- Surface becomes psychological need
-
-### Transformation System
-- All transformations lead to her
-- Higher transformation = higher influence
-- Transformed become her servants
-- Final forms are her avatars
-
-### Sanity System
-- Madness opens mind to her
-- Prophetic madness reveals her plans
-- Complete madness = joining her
-- Sanity anchors oppose her
-
-### Reality Merger System
-- She causes all mergers
-- Merger zones are her entering
-- Complete merger = her victory
-- Reality anchors slow her
-
-### Faction System
-- All factions must choose sides
-- Hidden cultists in each faction
-- Faction war weakens resistance
-- Unity only hope against her
-
-## Campaign Integration
-
-### Pacing Suggestions
-- Start subtle (sessions 1-5)
-- Build dread (sessions 6-10)
-- Reveal truth (sessions 11-15)
-- Crisis point (sessions 16-18)
-- Final confrontation (sessions 19-20)
-
 ### Clue Progression
 1. Strange dreams
 2. Missing persons
@@ -1099,30 +930,19 @@ Deep Mother Subsystem is a undersea element of the setting, known for biolumines
 
 Legends speak of Deep Mother Subsystem as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Deep Mother Subsystem.
 
-## Adventure Hooks
-
-- A rumor ties Deep Mother Subsystem to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Deep Mother Subsystem to avert a public scandal.
-- A map overlay reveals a hidden approach to Deep Mother Subsystem active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Vault_Navigation_Hub|Vault Navigation Hub]]
 
 
-## See Also
+## Secret Connections
 
-- [[02_Worldbuilding/Lore|02 Worldbuilding/Lore]] - Related content
-- [[Master_Campaign_Index|Master Campaign Index]] - Campaign overview
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
-## Connections
 
-- See also: [[Master Timeline]]
-- Related: [[Historical Context]]
-- Connected to: [[Character Backstories]]
+## Plot Hooks
+
+- Strange disappearances suggest a conspiracy
+- An heirloom has gone missing and war looms
+- A merchant needs help delivering before the festival

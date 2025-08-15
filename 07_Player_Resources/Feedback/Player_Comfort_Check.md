@@ -16,10 +16,6 @@ updated: '2025-08-13'
 world: Both
 ---
 
-
-# Player Comfort Check
-## Ensuring everyone's enjoyment and safety
-
 ### Basic Comfort Assessment
 
 ```
@@ -35,12 +31,9 @@ Overall comfort level this session:
 
 If below 4 stars, please explain:
 __________________________________________
-__________________________________________
-```
 
 ### Content Boundaries
 
-```
 Were there any moments that made you uncomfortable?
 □ No, everything was fine
 □ Minor discomfort, manageable
@@ -57,18 +50,14 @@ If yes, what type of content?
 □ Other: _______________________________
 
 Details (optional):
-__________________________________________
-__________________________________________
 
 Would you like to discuss this privately with the GM?
 □ Yes, please reach out
 □ No, feedback noted
 □ Maybe, if it happens again
-```
 
 ### Social Dynamics
 
-```
 How comfortable did you feel speaking up during the session?
 
 ★☆☆☆☆  Couldn't speak up at all
@@ -84,8 +73,6 @@ Did anyone make you feel excluded or unwelcome?
 □ Significant issues, needs addressing
 
 If yes, please provide details:
-__________________________________________
-__________________________________________
 
 Did you feel your contributions were valued?
 □ Yes, always
@@ -93,11 +80,9 @@ Did you feel your contributions were valued?
 □ Sometimes
 □ Rarely
 □ No, not at all
-```
 
 ### Safety Tools Effectiveness
 
-```
 Did you feel safe using safety tools if needed?
 □ Yes, completely comfortable
 □ Mostly comfortable
@@ -112,13 +97,9 @@ Are the current safety tools sufficient?
 □ Need different/additional tools
 
 Suggestions for improvement:
-__________________________________________
-__________________________________________
-```
 
 ### Overall Wellbeing
 
-```
 How did this session affect your mood?
 □ Very positive effect
 □ Positive effect
@@ -134,22 +115,36 @@ Do you feel excited about the next session?
 □ Dreading it
 
 Anything else affecting your enjoyment?
-__________________________________________
-__________________________________________
 
 Anonymous submission preferred?
 □ Yes, keep anonymous
 □ No, you can use my name
 □ Anonymous to group, but GM can know
-```
 
 *Your comfort and safety are the top priority*
 *All feedback will be handled respectfully and confidentially*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+
+
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -158,3 +153,18 @@ Anonymous submission preferred?
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## 07_Player_Resources Specific Content
+
+Contextual improvement based on 07_Player_Resources
+
+
+## 07_Player_Resources Specific Content
+
+Contextual improvement based on 07_Player_Resources
+
+
+## 07_Player_Resources Specific Content
+
+Contextual improvement based on 07_Player_Resources

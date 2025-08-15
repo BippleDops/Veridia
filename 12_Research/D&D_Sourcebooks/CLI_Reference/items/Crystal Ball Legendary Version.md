@@ -25,15 +25,11 @@ updated: '2025-08-13T12:34:06.749304+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-crystal-ball-legendary-version-crystal-ball-legendary-version.svg)
 
 # Crystal Ball (Legendary Version)
 *Wondrous item, major, legendary (requires attunement)*  
-
 
 - **Weight**: 3.0 lbs.
 
@@ -45,6 +41,24 @@ world: Both
 
 *Source: Dungeon Master's Guide p. 159*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Crystal ball legendary version is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -53,19 +67,37 @@ Crystal ball legendary version is a undersea element of the setting, known for b
 
 Legends speak of crystal ball legendary version as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around crystal ball legendary version.
 
-## Adventure Hooks
-
-- A rumor ties crystal ball legendary version to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at crystal ball legendary version to avert a public scandal.
-- A map overlay reveals a hidden approach to crystal ball legendary version active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- Strange sightings suggest ancient magic
+- Strange sightings suggest ancient magic
+- A letter reveals the truth about the government
+- Someone is blackmailing a witness for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

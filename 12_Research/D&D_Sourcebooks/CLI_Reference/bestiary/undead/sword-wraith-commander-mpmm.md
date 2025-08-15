@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.673318'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sword-wraith-commander-mpmm-sword-wraith-commander-mpmm.svg)
 
@@ -37,6 +35,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 239, Mordenkainen's Tome of Foes p. 241*  
 
 Sword wraith commanders haunt battlefields, attacking anyone who questions their valor but looking kindly on those who sing their praises.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Sword Wraiths
 
@@ -55,10 +71,8 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "stats":
   - !!int "18"
   - !!int "14"
-  - !!int "18"
   - !!int "11"
   - !!int "12"
-  - !!int "14"
 "speed": "30 ft."
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
@@ -66,7 +80,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
 "damage_resistances": "necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Poisoned|poisoned]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Poisoned|poisoned]],\
   \ [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "the languages it knew in life"
@@ -87,7 +101,7 @@ When glory-obsessed warriors die in battle without honor, they might haunt the s
       \ 6 (1d8 + 2) piercing damage."
     "name": "Longbow"
   - "desc": "If the commander has taken damage during this combat, it gives itself\
-      \ advantage on attack rolls until the end of its next turn, and 1d4 + 1 [[sword-wraith-warrior-mpmm|sword\
+      \ advantage on attack rolls until the end of its next turn, and 1d4 + 1 [[sword-wraith-warrior-mpmm|sword\]]
       \ wraith warriors]]\
       \ appear in unoccupied spaces within 30 feet of it. The warriors last until\
       \ they drop to 0 hit points, and they take their turns immediately after the\
@@ -117,19 +131,33 @@ Sword wraith commander mpmm is a undersea element of the setting, known for biol
 
 Legends speak of sword wraith commander mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sword wraith commander mpmm.
 
-## Adventure Hooks
-
-- A rumor ties sword wraith commander mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at sword wraith commander mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to sword wraith commander mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Winds
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

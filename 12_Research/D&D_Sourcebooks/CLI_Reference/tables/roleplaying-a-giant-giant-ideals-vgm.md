@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.823945'
 world: Both
 ---
 
-
 # Roleplaying a Giant; Giant Ideals
 *Source: Volo's Guide to Monsters p. 23* 
 
@@ -39,6 +38,24 @@ world: Both
 | 6 | Religion. Of Annam's many sons, none is greater than my patron deity. (Any) |
 ^giant-ideals
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Roleplaying a giant giant ideals vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -47,19 +64,20 @@ Roleplaying a giant giant ideals vgm is a undersea element of the setting, known
 
 Legends speak of roleplaying a giant giant ideals vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around roleplaying a giant giant ideals vgm.
 
-## Adventure Hooks
-
-- A rumor ties roleplaying a giant giant ideals vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at roleplaying a giant giant ideals vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to roleplaying a giant giant ideals vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -19,11 +19,6 @@ updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
 
-
-# Pressure & Altitude Reference
-
-## Aquabyssos Pressure System
-
 ### Pressure Zones
 | Zone | Depth Range | Pressure Level | Adaptation Required |
 |------|-------------|----------------|-------------------|
@@ -58,8 +53,6 @@ world: Both
 | **Rapid descent** | Bludgeoning | 1d6 per 500 ft | Constitution DC 12 |
 | **Equipment failure** | Bludgeoning | 1d8 per round | Constitution DC 18 |
 | **Explosive decompression** | Bludgeoning | 4d6 immediate | Constitution DC 20 |
-
-## Aethermoor Altitude System
 
 ### Altitude Zones
 | Zone | Height Range | Air Pressure | Adaptation Required |
@@ -96,8 +89,6 @@ world: Both
 | **Severe** | DC 20 | Two levels of exhaustion | 1d8 hours |
 | **Critical** | DC 25 | Unconscious in 1d4 rounds | Until treated |
 
-## Environmental Interaction Tables
-
 ### Aquabyssos Equipment Performance
 | Equipment Type | Surface | Shallow | Medium | Deep | Abyssal |
 |----------------|---------|---------|--------|------|---------|
@@ -116,8 +107,6 @@ world: Both
 | **Light sources** | Normal | Normal | Brighter | Much brighter | Blinding |
 | **Sealed containers** | Normal | Normal | DC 10 save | DC 15 save | DC 20 save |
 
-## Cross-Zone Travel
-
 ### Aquabyssos Decompression
 | From Zone | To Zone | Time Required | Risk Level |
 |-----------|---------|---------------|------------|
@@ -127,57 +116,10 @@ world: Both
 | Abyssal | Shallow | 2+ hours | Extreme |
 
 ### Aethermoor Acclimatization
-| From Zone | To Zone | Time Required | Risk Level |
-|-----------|---------|---------------|------------|
 | High | Medium | 1 hour | Low |
 | Extreme | High | 4 hours | Moderate |
 | Extreme | Medium | 8 hours | High |
 | Extreme | Ground | 12+ hours | Extreme |
-
-## Environmental Hazards
-
-### Aquabyssos Hazards by Depth
-#### Shallow Zone
-- **Current changes**: Dexterity saves to maintain position
-- **Marine life**: Aggressive fish, territorial creatures
-- **Visibility**: Light penetration limits to 100 ft
-
-#### Medium Zone
-- **Pressure pockets**: Sudden pressure changes, disorientation
-- **Bioluminescence**: Blinding flashes, navigation confusion
-- **Temperature drops**: Cold damage, hypothermia risk
-
-#### Deep Zone
-- **Crushing currents**: Strength saves to avoid being swept away
-- **Toxic gases**: Constitution saves, poison damage
-- **Absolute darkness**: All vision relies on artificial light
-
-#### Abyssal Zone
-- **Void touches**: Psychic damage, madness effects
-- **Reality distortion**: Physics don't work normally
-- **Leviathan presence**: Fear effects, massive scale encounters
-
-### Aethermoor Hazards by Altitude
-#### Low Zone
-- **Wind gusts**: Minor adjustments to flight paths
-- **Weather changes**: Sudden rain or fog
-
-#### Medium Zone
-- **Wind shear**: Dexterity saves to maintain balance
-- **Temperature drops**: Cold damage risk
-- **Thin air**: Constitution checks for strenuous activity
-
-#### High Zone
-- **Severe storms**: Lightning, hail, severe turbulence
-- **Frost formation**: Equipment icing, hypothermia
-- **Oxygen depletion**: Regular Constitution saves
-
-#### Extreme Zone
-- **Violent winds**: Constant Strength saves, impossible flight
-- **Extreme cold**: Continuous cold damage
-- **Oxygen starvation**: Constitution saves every minute
-
-## Adaptation Equipment
 
 ### Aquabyssos Pressure Gear
 | Equipment | Cost | Depth Protection | Special Properties |
@@ -197,8 +139,6 @@ world: Both
 | **Oxygen crystal** | 150 gp | 8 hours air supply | Renewable with magic |
 | **Lung enhancement** | 2500 gp | High altitude adaptation | Surgical modification |
 
-## Magical Adaptations
-
 ### Aquabyssos Magic
 | Spell Level | Spell Name | Effect | Duration |
 |-------------|------------|--------|----------|
@@ -209,53 +149,33 @@ world: Both
 | **5th** | Permanent Adaptation | Permanent depth tolerance | Permanent |
 
 ### Aethermoor Magic
-| Spell Level | Spell Name | Effect | Duration |
-|-------------|------------|--------|----------|
 | **1st** | Altitude Adjustment | +5 vs altitude saves | 8 hours |
 | **2nd** | Wind Walking | Walk on air currents | 1 hour |
 | **3rd** | Atmosphere Shell | Personal atmosphere | 8 hours |
 | **4th** | Flight Mastery | Perfect aerial maneuverability | 1 hour |
 | **5th** | Sky Lord's Blessing | Immune to altitude effects | 24 hours |
 
-## Quick Reference Formulas
 
-### Pressure Calculations
-- **Depth in feet ÷ 33 = additional atmospheres**
-- **Total pressure = 1 + (depth ÷ 33)**
-- **Damage from pressure = (pressure level - adaptation) × d4**
+## 🔧 Deep Evaluation Improvements
 
-### Altitude Calculations
-- **Height in feet ÷ 1000 = altitude category**
-- **Air pressure = 1 - (height ÷ 50000)**
-- **Oxygen level = air pressure × 100%**
+*20 targeted improvements identified*
 
-### Time Requirements
-- **Safe ascent rate**: 30 feet per minute (Aquabyssos)
-- **Safe descent rate**: 100 feet per minute (Aethermoor)
-- **Emergency ascent**: Constitution save every round
+### Connection Improvements
 
-## Medical Treatment
+- Add cross-references to related notes
 
-### Pressure-Related Injuries
-- **Decompression sickness**: Remove disease spell or 1 week rest
-- **Pressure trauma**: Healing magic or medical attention
-- **Barotrauma**: Constitution save DC 15 or permanent injury
+### Enhancement Improvements
 
-### Altitude-Related Injuries
-- **Altitude sickness**: Lesser restoration or acclimatization time
-- **Hypoxia**: Oxygen supply or immediate descent
-- **Frostbite**: Warming + healing magic or permanent damage
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Links to Related Content
-- [[Aquabyssos_Survival_Mechanics]]
-- [[Complete_Pressure_Adaptation_System]]
-- [[Underwater_Combat_Rules]]
-- [[Vehicles]]
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -264,3 +184,23 @@ world: Both
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- Someone is protecting a witness for revenge
+- A document has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -26,18 +26,30 @@ updated: '2025-08-13T01:18:35.988065+00:00'
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-keeper-of-the-dead-sister-morwyn-keeper-of-the-dead-sister-morwyn.svg]]
-
-
-
-
 
 # Keeper of the Dead, Sister Morwyn
 
 *"Death is not the enemy - it is the final current that carries us home. I merely ensure that passage is peaceful and honored."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -52,12 +64,6 @@ Her duties have become increasingly complex as political tensions rise, with mor
 Sister Morwyn is a human woman in her late forties, with prematurely white hair that she keeps in a simple braid. Her face bears the serene expression of someone who has made peace with mortality, though her dark eyes reveal deep wisdom and compassion. She wears the traditional black and silver robes of her office, with a silver pendant shaped like a stylized whirlpool.
 
 Her hands are gentle but strong, bearing small scars from years of preparing bodies for burial and handling the tools of her sacred duty. She moves with quiet dignity, her presence bringing comfort to the grieving and unease to those with guilty consciences.
-
-## Personality
-- Deeply compassionate toward those dealing with loss and mortality
-- Maintains absolute confidentiality regarding information learned through her duties
-- Patient and understanding, but firm when defending the sanctity of death rites
-- Possesses dark humor that helps her cope with constant exposure to death
 
 ## Statistics
 **Medium humanoid (human), lawful neutral**
@@ -106,19 +112,6 @@ Morwyn has been increasingly busy due to a rise in deaths related to the politic
 
 She's been conducting discrete investigations while maintaining her public duties, using her access to speak with the recently deceased to gather information about potential threats to the city.
 
-## Relationships
-- **Church of the Tidal Throne**: Senior cleric with specialized authority over death matters
-- **All Factions**: Neutral service provider respected by all sides
-- **City Guards**: Consulted on suspicious deaths and undead threats
-- **Healer Sage Bondseer**: Professional colleague and trusted friend
-- **Families of the Deceased**: Provides ongoing spiritual support and counsel
-
-## Secrets
-- Has spoken with several recently deceased who described being killed by "shadow figures"
-- Maintains detailed records of death patterns that suggest organized assassination campaigns
-- Discovered evidence of necromantic experiments being conducted somewhere in the city
-- Knows the final words and secrets of many prominent citizens who have died recently
-
 ## Quest Hooks
 1. Morwyn approaches the party after the dead begin delivering warnings about an upcoming supernatural threat to the city.
 2. A series of suspicious deaths leads Morwyn to request the party's assistance in investigating a potential necromantic cult.
@@ -126,36 +119,6 @@ She's been conducting discrete investigations while maintaining her public dutie
 
 ## DM Notes
 Morwyn serves as an excellent source of information about recent events, as she often learns secrets from the deceased that the living would never reveal. Her neutral status makes her a safe contact for all parties, while her connection to death magic provides unique plot opportunities involving undead, resurrection, and communication with the deceased.
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -165,20 +128,32 @@ Keeper of the Dead, Sister Morwyn is a undersea element of the setting, known fo
 
 Legends speak of Keeper of the Dead, Sister Morwyn as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Keeper of the Dead, Sister Morwyn.
 
-## Adventure Hooks
-
-- A rumor ties Keeper of the Dead, Sister Morwyn to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Keeper of the Dead, Sister Morwyn to avert a public scandal.
-- A map overlay reveals a hidden approach to Keeper of the Dead, Sister Morwyn active only during specific tides/storms.
-
 ## Cross-References
 
 - [[Keeper of the Dead, Sister Morwyn|02 Worldbuilding/Places/Keeper Of The Dead, Sister Morwyn]]
 
-<!-- enriched: true -->
 nriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

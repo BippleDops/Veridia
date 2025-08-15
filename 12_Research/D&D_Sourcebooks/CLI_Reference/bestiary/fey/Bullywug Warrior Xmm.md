@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.516890+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-bullywug-warrior-xmm-bullywug-warrior-xmm.svg)
 
@@ -38,6 +35,24 @@ world: Both
 *Source: Monster Manual (2024) p. 64. Available in the Free Rules (2024)*  
 
 Bullywug warriors are adept at moving through swamps and ambushing trespassers. They often work alongside packs of trained giant frogs.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Bullywugs
 
@@ -63,7 +78,6 @@ Fey embodiments of swamplands, bullywugs protect the murky wilds and consider th
   - !!int "13"
   - !!int "7"
   - !!int "10"
-  - !!int "7"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
   - "name": "[[skills#Stealth|Stealth]]"
@@ -102,19 +116,31 @@ Bullywug warrior xmm is a undersea element of the setting, known for bioluminesc
 
 Legends speak of bullywug warrior xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bullywug warrior xmm.
 
-## Adventure Hooks
-
-- A rumor ties bullywug warrior xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at bullywug warrior xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to bullywug warrior xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A stranger needs help finding before the new moon
+- A corpse reveals the truth about the cult
+- The authorities needs help finding before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

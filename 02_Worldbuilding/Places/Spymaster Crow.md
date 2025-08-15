@@ -1,4 +1,5 @@
 ---
+
 title: Spymaster Crow
 type: Location
 tags:
@@ -27,6 +28,8 @@ danger_level: Moderate
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.215118+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -34,21 +37,86 @@ world: Aquabyssos
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-spymaster-crow-spymaster-crow.svg]]
 
-
 # The Crow's Perch - Spymaster's Sanctum
 
 *A hidden network of safe houses, information brokers, and covert meeting places controlled by the enigmatic Spymaster known only as "Crow"*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
 
 ## Overview
 
 The Crow's Perch isn't a single location but rather an interconnected web of safe houses, hidden chambers, and secret meeting spots throughout Aquabyssos. Named after its mysterious leader, this intelligence network serves as neutral ground for information brokers, double agents, and those who trade in secrets. Despite its shadowy nature, the Crow's Perch maintains a reputation for reliability and discretion that spans both the depths of Aquabyssos and extends to contacts on the surface.
 
-## Primary Locations
-
 ### The Central Rookery
 *Hidden within the old Parliament Building's abandoned sections*
 
-The main headquarters of the Crow's Perch is concealed within the forgotten upper levels of Aquabyssos's Parliament Building. Access is gained through a series of maintenance tunnels and hidden passages that most inhabitants don't know exist.
+The main headquarters of the Crow's Perch is concealed within the forgotten upper levels of Aquabyssos's Parliament Building. Access is gained through a series of maintece tunnels and hidden passages that most inhabitants don't know exist.
 
 **Physical Description:**
 - A circular chamber with a domed ceiling covered in mirrors and periscopes
@@ -87,8 +155,6 @@ The Crow maintains at least a dozen safe houses across the city, each serving di
 **Market District Hideout**: Information gathering hub focused on commercial intelligence
 **Residential Bloc Shelter**: Emergency accommodation for assets needing protection
 **Industrial Sector Base**: Technical operations including forgery and encryption
-
-## Key Personnel and Assets
 
 ### Spymaster Crow
 *The Enigmatic Leader*
@@ -143,8 +209,6 @@ Nobody knows Crow's true identity, gender, or even species. They communicate thr
 - Paid well for information and treated fairly
 - Fiercely loyal due to protection from more exploitative organizations
 
-## Services Offered
-
 ### Information Brokerage
 The Crow's Perch trades in various types of intelligence:
 - **Political Intelligence**: Government plans, policy changes, corruption scandals
@@ -172,8 +236,6 @@ The Crow's Perch trades in various types of intelligence:
 **Investigation Services**: Private inquiries into specific individuals or events
 **Negotiation Facilitation**: Neutral ground for sensitive diplomatic exchanges
 
-## Rules and Protocols
-
 ### The Crow's Code
 1. **Neutrality**: The network serves no single faction or government
 2. **Discretion**: Client confidentiality is absolute
@@ -181,21 +243,12 @@ The Crow's Perch trades in various types of intelligence:
 4. **Self-Preservation**: The network's survival takes priority over any single operation
 5. **No Innocents**: Operations never target children or the genuinely helpless
 
-### Membership Requirements
-- Demonstration of valuable skills or information
-- Sponsorship by an existing member
-- Completion of a probationary assignment
-- Oath of loyalty to the network's principles
-- Regular contribution of intelligence or services
-
 ### Punishment for Betrayal
 Those who betray the network face:
 - Complete exposure of all personal secrets
 - Blacklisting from all legitimate business in Aquabyssos
 - Active campaign to destroy reputation and relationships
 - In extreme cases, permanent removal from the city
-
-## Plot Hooks and Adventure Opportunities
 
 ### The Missing Spymaster
 **Level**: 6-10
@@ -217,8 +270,6 @@ A rival organization is attempting to expose and blackmail prominent citizens us
 **Level**: 10-15
 The Crow offers the party an impossible job: steal something from the most secure location in Aquabyssos. Success would gain them a powerful ally and valuable information, but failure would make them enemies of forces too dangerous to ignore.
 
-## Secrets and Hidden Elements
-
 ### Crow's True Identity
 Spymaster Crow is actually Lady Vivienne Deepcurrent, a presumed-dead noble who faked her own death to escape an arranged marriage. She now lives multiple identities while coordinating the intelligence network from the shadows.
 
@@ -230,8 +281,6 @@ One of the network's most valuable assets is a deep-cover agent operating in a m
 
 ### The Shard Information
 The Crow possesses detailed intelligence about the locations and capabilities of several of the Seven Shards but has kept this information secret due to its dangerous implications for the balance of power.
-
-## Mechanical Elements
 
 ### Network Resources
 The Crow's network provides mechanical benefits to those who gain their favor:
@@ -256,8 +305,6 @@ The network operates on a favor-based economy:
 **Exposure Risk**: Characters associating with the network may be targeted by rival organizations
 **Information Overload**: Access to too much sensitive information can make characters targets for elimination
 **Moral Compromise**: Network missions may require actions that conflict with character values
-
-## Treasure and Resources
 
 ### The Crow's Vault
 Hidden within the Central Rookery:
@@ -301,14 +348,6 @@ The Crow's network connects to numerous other locations and organizations:
 
 *The Crow's Perch represents the shadowy underbelly of diplomacy and politics in Aquabyssos. In a world where information can be more valuable than gold and secrets can topple governments, the network serves as both a vital service and a constant reminder that someone is always watching from the shadows.*
 
-
-## Connections
-
-- [[Investigation Procedures]]
-- [[Admiral Thorne Blackwater]]
-- [[Memory Merchant Zephyr Mindweaver]]
-- [[Pressure's End]]
-
 ## Player-Facing Summary
 
 Spymaster Crow is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -317,16 +356,6 @@ Spymaster Crow is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Spymaster Crow as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Spymaster Crow.
 
-## Adventure Hooks
-
-- A rumor ties Spymaster Crow to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Spymaster Crow to avert a public scandal.
-- A map overlay reveals a hidden approach to Spymaster Crow active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -334,37 +363,9 @@ Legends speak of Spymaster Crow as a nexus where past and present converge. Loca
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Spymaster Crow]]
-
-<!-- enriched: true -->
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-traditional-elder-wisdom-keeper-v1-traditional-elder-wisdom-keeper.svg]]
-- [[04_Resources_Assets_Locations_location-city-whisper-touched-william-whisper-touched-william.svg]]
-- [[04_Resources_Assets_Locations_location-city-noble-quarter-noble-quarter.svg]]
-
 
 ## Sensory Details
 
@@ -374,7 +375,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: Incense mingles with the scent of exotic spices
 
-
 ## Description
 
 Spymaster Crow is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -382,47 +382,10 @@ Spymaster Crow is a notable location characterized by its unique features and st
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Spymaster Crow
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
-
-## History
+**Goverce**: Local authority structure
 
 ### Founding
 Spymaster Crow was established in the distant past, growing from humble beginnings to its current state.
-
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
-
 
 ## Current Events
 
@@ -435,15 +398,58 @@ Ongoing situations affecting Spymaster Crow:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Spymaster Crow
+## Plot Hooks
 
-### Whispered Rumors
-- Stories that may or may not be true
+- Strange accidents suggest ancient magic
+- Someone is hunting an heir for power
+- Strange sightings suggest a conspiracy
+- Strange accidents suggest a curse
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

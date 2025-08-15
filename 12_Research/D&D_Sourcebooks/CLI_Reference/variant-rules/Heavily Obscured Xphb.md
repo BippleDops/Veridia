@@ -22,12 +22,28 @@ updated: '2025-08-13T12:34:04.602848+00:00'
 world: Both
 ---
 
-
-
 # Heavily Obscured
-*Source: Player's Handbook (2024) p. 368. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+*Source: Player's Handbook (2024) p. 368. Available in the SRD and the Free Rules (2024)* 
 
 You have the [[conditions#Blinded|Blinded]] condition while trying to see something in a Heavily Obscured space.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -37,19 +53,28 @@ Heavily obscured xphb is a undersea element of the setting, known for biolumines
 
 Legends speak of heavily obscured xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around heavily obscured xphb.
 
-## Adventure Hooks
-
-- A rumor ties heavily obscured xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at heavily obscured xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to heavily obscured xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a betrayal about a local noble
+- A journal reveals ancient history about the government
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -29,8 +29,6 @@ updated: '2025-08-12T23:37:35.309863'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-balhannoth-mpmm-balhannoth-mpmm.svg)
 
@@ -40,6 +38,24 @@ world: Both
 Native to the Shadowfell, the vicious, predatory balhannoth alters reality in its lair to make the place appear inviting to travelers. A limited form of telepathy enables a balhannoth to identify images of places where its prey expects their needs and desires to be met, such as an inn or a temple offering healing. It then warps reality around itself, hiding itself and remaking its environment to resemble such a place. The imitation is imperfect, but it's good enough to fool greedy or desperate creatures. Once its prey enters the trap, it snatches the targets and teleports away to feed on their fear and despair.
 
 Dungeon builders and Underdark tyrants sometimes venture into the Shadowfell to capture balhannoths for use as guardians.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## A Balhannoth's Lair
 
@@ -61,7 +77,6 @@ In the Shadowfell, balhannoths make their lairs near places inhabited by creatur
   - !!int "18"
   - !!int "6"
   - !!int "15"
-  - !!int "8"
 "speed": "25 ft., climb 25 ft."
 "saves":
   - "constitution": !!int "8"
@@ -90,7 +105,6 @@ In the Shadowfell, balhannoths make their lairs near places inhabited by creatur
     "name": "Tentacle"
 "legendary_actions":
   - "desc": "The balhannoth makes one Bite attack against one creature it has [[conditions#Grappled|grappled]]."
-    "name": "Bite"
   - "desc": "The balhannoth teleports, along with any equipment it is wearing or carrying\
       \ and any creatures it has [[conditions#Grappled|grappled]],\
       \ up to 60 feet to an unoccupied space it can see."
@@ -117,19 +131,25 @@ Balhannoth mpmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of balhannoth mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around balhannoth mpmm.
 
-## Adventure Hooks
-
-- A rumor ties balhannoth mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at balhannoth mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to balhannoth mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.408690'
 world: Both
 ---
 
-
 # Halfling Names – Male
 *Source: Xanathar's Guide to Everything p. 179* 
 
@@ -45,7 +44,7 @@ world: Both
 | 23-24 | Eldon |
 | 25-26 | Errich |
 | 27-28 | Fildo |
-| 29-30 | Finnan |
+| 29-30 | Fin |
 | 31-32 | Franklin |
 | 33-34 | Garret |
 | 35-36 | Garth |
@@ -83,6 +82,24 @@ world: Both
 | 99-00 | Wes |
 ^halfling-names-male
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Halfling names male xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -91,19 +108,25 @@ Halfling names male xge is a undersea element of the setting, known for biolumin
 
 Legends speak of halfling names male xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around halfling names male xge.
 
-## Adventure Hooks
-
-- A rumor ties halfling names male xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at halfling names male xge to avert a public scandal.
-- A map overlay reveals a hidden approach to halfling names male xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and chaos spreads
+- A corpse reveals the truth about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

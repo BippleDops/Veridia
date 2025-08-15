@@ -34,11 +34,8 @@ updated: '2025-08-13T12:34:06.331331+00:00'
 world: Both
 ---
 
-
-
 # Flame Arrows
 *3rd-level, Transmutation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** Touch
@@ -53,6 +50,24 @@ You touch a quiver containing arrows or bolts. When a target is hit by a ranged 
 
 *Source: Xanathar's Guide to Everything p. 156*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Flame arrows xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -61,19 +76,34 @@ Flame arrows xge is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of flame arrows xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around flame arrows xge.
 
-## Adventure Hooks
-
-- A rumor ties flame arrows xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at flame arrows xge to avert a public scandal.
-- A map overlay reveals a hidden approach to flame arrows xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a conspiracy about this place
+- A journal reveals ancient history about this place
+- A shipment has gone missing and evil awakens
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

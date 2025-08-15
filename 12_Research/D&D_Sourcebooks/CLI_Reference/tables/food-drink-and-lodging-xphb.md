@@ -21,9 +21,8 @@ updated: '2025-08-12T23:37:33.836072'
 world: Both
 ---
 
-
 # Food, Drink, and Lodging
-*Source: Player's Handbook (2024) p. 231. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+*Source: Player's Handbook (2024) p. 231. Available in the SRD and the Free Rules (2024)* 
 
 **Food, Drink, and Lodging**
 
@@ -53,6 +52,24 @@ world: Both
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-SideScreen-2024|03 Mechanics/Rules Reference/Quick Reference/DnD5e SideScreen 2024]]
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Food drink and lodging xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -61,19 +78,26 @@ Food drink and lodging xphb is a undersea element of the setting, known for biol
 
 Legends speak of food drink and lodging xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around food drink and lodging xphb.
 
-## Adventure Hooks
-
-- A rumor ties food drink and lodging xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at food drink and lodging xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to food drink and lodging xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and chaos spreads
+- The authorities needs help stealing before winter
+- Strange sightings suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

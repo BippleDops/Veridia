@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.831468+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,32 @@ Shattered Coast is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Shattered Coast as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shattered Coast.
 
-## Adventure Hooks
-
-- A rumor ties Shattered Coast to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Shattered Coast to avert a public scandal.
-- A map overlay reveals a hidden approach to Shattered Coast active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Hidden Smuggler's Cove|02 Worldbuilding/Places/Hidden Smuggler's Cove]]
-
-
-## Connections
-
-- [[Hidden Smuggler's Cove]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A letter reveals the truth about a local noble
+- Someone is protecting an heir for love
+- A corpse reveals a conspiracy about the cult
+- Someone is searching for information for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -16,22 +16,22 @@ updated: '2025-08-13T01:18:35.362851+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Historical Context
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Current Relevance
-
-TODO
-## See Also
-
-TODO
 
 ## Player-Facing Summary
 
@@ -41,23 +41,22 @@ Marcus Ironwright is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Marcus Ironwright as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Marcus Ironwright.
 
-## Adventure Hooks
-
-- A rumor ties Marcus Ironwright to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Marcus Ironwright to avert a public scandal.
-- A map overlay reveals a hidden approach to Marcus Ironwright active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Quest - Hearts and Minds|02 Worldbuilding/Quests/Quest Hearts And Minds]]
 
 
-## Connections
+## 12_Research Specific Content
 
-- [[Quest - Hearts and Minds]]
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:05.546347+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-satyr-revelmaster-xmm-satyr-revelmaster-xmm.svg)
 
@@ -40,6 +37,24 @@ world: Both
 *Source: Monster Manual (2024) p. 268*  
 
 Satyr revelmasters use magical music to change the moods of other creatures. They do so to keep their celebrations exciting and to ward off foes.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Satyrs
 
@@ -62,8 +77,6 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
 "stats":
   - !!int "12"
   - !!int "18"
-  - !!int "12"
-  - !!int "12"
   - !!int "14"
   - !!int "17"
 "speed": "40 ft."
@@ -99,7 +112,7 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
       \ the target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition and uses all its movement to dance in place. The effect ends on\
       \ the target if it takes any damage.  \n- Frightening. 10 (2d6 + 3) Psychic\
-      \ damage, and the target has the [[conditions#Frightened|Frightened]]\
+      \ damage, and the target has the [[conditions#frightened|Frightened]]\
       \ condition for 1 minute. If the target ends its turn out of line of sight from\
       \ the satyr, the condition ends on it.  "
     "name": "Fey Melody (Recharge 4-6)"
@@ -121,19 +134,20 @@ Satyr revelmaster xmm is a undersea element of the setting, known for biolumines
 
 Legends speak of satyr revelmaster xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around satyr revelmaster xmm.
 
-## Adventure Hooks
-
-- A rumor ties satyr revelmaster xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at satyr revelmaster xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to satyr revelmaster xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Depths
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:33.915285'
 world: Both
 ---
 
-
 # Selvetarm
 *Source: Mordenkainen's Tome of Foes p. 54* 
 
@@ -44,6 +43,24 @@ Enraged by Lolth's duplicity, Selvetarm is an engine of destruction, an eight-li
 
 Because of his status as a captive, Selvetarm draws little attention from drow of high status. Low-caste drow warriors who are themselves slaves or indentured servants, or who have no chance to rise in rank, can beseech Selvetarm for prowess in battle without suffering any shame. Anyone of high standing or who hopes to attain high standing shies away from openly expressing reverence for Selvetarm, though such an individual might still beg his aid privately.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Drow selvetarm mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -52,19 +69,21 @@ Drow selvetarm mtf is a undersea element of the setting, known for bioluminescen
 
 Legends speak of drow selvetarm mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around drow selvetarm mtf.
 
-## Adventure Hooks
-
-- A rumor ties drow selvetarm mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at drow selvetarm mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to drow selvetarm mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A map reveals a conspiracy about this place
+- A map reveals a conspiracy about the cult

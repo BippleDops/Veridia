@@ -23,11 +23,9 @@ updated: '2025-08-12T23:37:37.618003'
 world: Both
 ---
 
-
 # Deck of Many Things
 *Wondrous item, legendary*  
 ![](/03_Mechanics/CLI/items/img/deck-of-many-things.webp#right)
-
 
 Usually found in a box or pouch, this deck contains a number of cards made of ivory or vellum. Most (75 percent) of these decks have thirteen cards, but some have twenty-two. Use the appropriate column of the Deck of Many Things table when randomly determining cards drawn from the deck.
 
@@ -65,6 +63,24 @@ Once a card is drawn, it disappears. Unless the card is the Fool or Jester, the 
 
 Each card's effect is described below.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Balance
 
 You can increase one of your ability scores by 2, to a maximum of 22, provided you also decrease another one of your ability scores by 2. You can't decrease an ability that has a score of 5 or lower. Alternatively, you can choose not to adjust your ability scores, in which case this card has no effect.
@@ -92,7 +108,6 @@ A powerful devil becomes your enemy. The devil seeks your ruin and torments you,
 > [!note] A Question of Enmity
 > 
 > Two of the cards in the Deck of Many Things can earn a character the enmity of another being. With the Flames card, the enmity is overt. The character should experience the devil's malevolent efforts on multiple occasions. Seeking out the fiend shouldn't be a simple task, and the adventurer should clash with the devil's allies and followers a few times before being able to confront the devil.
-> 
 > In the case of the Rogue card, the enmity is secret and should come from someone thought to be a friend or an ally. As Dungeon Master, you should wait for a dramatically appropriate moment to reveal this enmity, leaving the adventurer guessing who is likely to become a betrayer.
 ^a-question-of-enmity
 
@@ -160,7 +175,7 @@ You gain proficiency and [[expertise-xphb|Expertise]] in your choice of [[skills
 
 Your soul is drawn from your body and contained in an object in a place of the DM's choice. One or more powerful beings guard the place. While your soul is trapped in this way, your body is inert, ceases aging, and requires no food, air, or water. A [[wish-xphb|Wish]] spell can't return your soul to your body, but the spell reveals the location of the object that holds your soul. You draw no more cards.
 
-*Source: Dungeon Master's Guide (2024) p. 250. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Mysterious Deck") and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 250. Available in the SRD (as "Mysterious Deck") and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -170,19 +185,22 @@ Deck of many things xdmg is a undersea element of the setting, known for biolumi
 
 Legends speak of deck of many things xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around deck of many things xdmg.
 
-## Adventure Hooks
-
-- A rumor ties deck of many things xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at deck of many things xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to deck of many things xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- A document has gone missing and war looms
+- A prisoner has gone missing and war looms
+- Someone is searching for an heir for power

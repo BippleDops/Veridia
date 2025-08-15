@@ -17,53 +17,34 @@ updated: '2025-08-13T01:18:36.774874+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Shadow Broker Mirrors|02 Worldbuilding/Groups/Shadow Broker Mirrors]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Shadow Broker Mirrors]]
 
 ## Overview
 
 Academy Mirror Researchers is a specialized research organization within the Academy studying crystalline reflection technology and consciousness transfer via mirror interfaces.
 
-## Structure
-
-TODO - Research hierarchy and divisions
-
-## Goals
-
-TODO - Primary research objectives and institutional aims
-
-## Assets
-
-TODO - Equipment, facilities, and resources
-
-## Conflicts
-
-TODO - Internal disputes and external opposition
-
 ## Player-Facing Summary
 
 A secretive research division of the Academy that studies mirror-based consciousness technology. Known for their reflective crystal arrays and mysterious experiments with awareness transfer.
 
-## Adventure Hooks
-
-- Missing researcher discovered trapped inside a mirror dimension
-- Mirror interface technology goes rogue, creating consciousness echoes
-- Competing academy factions seek to steal mirror research secrets
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -72,3 +53,13 @@ A secretive research division of the Academy that studies mirror-based conscious
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

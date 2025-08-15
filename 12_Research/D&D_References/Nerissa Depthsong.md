@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.834205+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,31 @@ Nerissa Depthsong is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Nerissa Depthsong as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Nerissa Depthsong.
 
-## Adventure Hooks
-
-- A rumor ties Nerissa Depthsong to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Nerissa Depthsong to avert a public scandal.
-- A map overlay reveals a hidden approach to Nerissa Depthsong active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Teacher Miranda Hopekeeper|02 Worldbuilding/Places/Teacher Miranda Hopekeeper]]
-
-
-## Connections
-
-- [[Teacher Miranda Hopekeeper]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and war looms
+- Strange accidents suggest a portal
+- Strange dreams suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

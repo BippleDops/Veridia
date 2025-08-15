@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.247031+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-current-innovator-current-innovator.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[The Free Current|02 Worldbuilding/Places/The Free Current]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[The Free Current]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,15 @@ Current Innovator is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Current Innovator as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Current Innovator.
 
-## Adventure Hooks
-
-- A rumor ties Current Innovator to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Current Innovator to avert a public scandal.
-- A map overlay reveals a hidden approach to Current Innovator active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

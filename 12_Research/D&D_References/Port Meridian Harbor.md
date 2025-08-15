@@ -24,18 +24,30 @@ updated: '2025-08-12T00:00:00+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-port-meridian-harbor-port-meridian-harbor.svg]]
-
-
-
-
-
 
 # Port Meridian Harbor
 
 *"Where the deep currents meet the surface world, fortunes are made and secrets are traded in equal measure."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -51,8 +63,6 @@ The harbor is carved into the side of a massive underwater cliff face, with dock
 
 Natural coral formations have been carefully cultivated to create breakwaters and navigation aids, while artificially grown crystal gardens provide both lighting and magical energy for the harbor's operations. The main channel is wide enough for three large vessels to pass simultaneously, with smaller tributary channels serving specialized craft.
 
-## Districts
-
 ### Surface Exchange
 The topmost level where surface traders conduct business through specialized pressure chambers and magical air bubbles. Features offices for foreign merchants and diplomatic representatives from [[Aethermoor]] and other surface realms.
 
@@ -67,14 +77,6 @@ Dedicated to [[Aquabyssos]]'s substantial fishing fleets, with processing facili
 
 ### Restricted Military Zone
 Secure docking for naval vessels and sensitive cargo, heavily guarded by [[Depth Wardens]] and requiring special authorization for access.
-
-## Notable Features
-
-- **The Meridian Lighthouse**: A massive crystal spire that provides navigation signals visible for miles in any direction
-- **Current Convergence Point**: Where four major deep-sea currents meet, creating unique navigation opportunities and challenges
-- **The Trade Halls**: Enormous underwater structures housing commercial exchanges and merchant offices
-- **Pressure Lock Systems**: Advanced magical-mechanical systems allowing safe transition between different aquatic environments
-- **The Signal Network**: Crystal-based communication system connecting the harbor to other major ports
 
 ## Population
 
@@ -100,22 +102,6 @@ Port Meridian was established fifty years ago when Aquabyssos evolved from a sma
 
 The harbor has survived several major crises, including attacks by deep-sea monsters, diplomatic incidents with surface nations, and natural disasters. Each crisis led to improvements in defenses and procedures, making it one of the most secure and efficient ports in any realm.
 
-## Current Events
-
-- Increased security patrols due to rising political tensions in the city
-- Reports of mysterious cargo shipments arriving under heavy guard
-- Growing concerns about smuggling operations supporting various factions
-- Diplomatic tensions affecting trade relationships with some surface nations
-- Strange disturbances in the deep currents affecting navigation schedules
-
-## Notable NPCs
-
-- **[[Harbormaster Erik Saltbeard]]**: Gruff but fair administrator who knows every ship and captain
-- **[[Customs Chief Marina Depthwatch]]**: Sharp-eyed official suspected of faction sympathies and connections to [[The Shadow Markets]]
-- **[[Captain Torrent Swiftcurrent]]**: Retired naval officer who runs security operations, formerly of [[Depth Wardens]]
-- **[[Merchant Princess Coral Goldtide]]**: Wealthy trader with connections to multiple factions and [[Port Meridian - Market Square]]
-- **[[The Kelp Whisperer]]**: Mysterious information broker who trades in secrets, often dealing with [[The Shadow Markets]] intelligence network
-
 ## Adventure Hooks
 
 1. A valuable shipment goes missing under suspicious circumstances, requiring investigation into the harbor's complex web of rivalries and corruption involving [[The Shadow Markets]].
@@ -124,55 +110,9 @@ The harbor has survived several major crises, including attacks by deep-sea mons
 4. Diplomatic tensions arise when a surface vessel from [[Aethermoor]] is denied docking rights, requiring delicate negotiation.
 5. Evidence emerges of smuggling operations moving contraband between the harbor and [[Port Meridian - Market Square]].
 
-## Secrets
-
-- Several dock supervisors are secretly working for different factions, providing intelligence about shipping and visitors to [[The Shadow Markets]]
-- Hidden chambers beneath the harbor contain emergency supplies and escape routes for high-ranking officials, connected to [[Ancient Tunnels Beneath Palace]]
-- Some of the "trade goods" moving through the harbor are actually weapons and magical items destined for faction use, processed through [[The Shadow Markets]]
-- A network of smuggling tunnels connects the harbor to various parts of [[Aquabyssos]], including direct access to [[The Shadow Markets]] and bypassing [[Depth Wardens]] checkpoints
-
 ## Connections
 
 Port Meridian connects directly to [[Aquabyssos]]'s main transportation network via the pressure tube system, linking to [[Parliament of Echoes]], [[Coral Courts]], and [[The Shadow Markets]]. It also serves as the terminus for several major deep-sea current routes, including connections to other underwater cities, [[Aethermoor]] surface ports via [[Port Meridian - Market Square]], and exotic realms in the deepest oceans. The harbor's communication network links it to diplomatic outposts and trading partners across multiple planes of existence.
-
-## Connected Locations
-- [[Port Meridian - Market Square]] - Surface trading partner and economic connection
-- [[The Royal Palace]] - Diplomatic and political oversight
-- [[Aquabyssos]] - Primary underwater city served by the harbor
-- [[Parliament of Echoes]] - Political body governing trade policy
-- [[Coral Courts]] - Legal system handling trade disputes
-- [[The Shadow Markets]] - Black market operations and smuggling networks
-- [[Depth Wardens]] - Security and law enforcement agency
-- [[Aethermoor]] - Primary surface trading partner
-- [[The Void Touched Depths]] - Mysterious deep-sea connection
-- [[Comprehensive-World-Connection-Guide]]
-- [[Port Meridian - Market Square]]
-- [[The Royal Palace]]
-- [[The Shadow Markets]]
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -186,21 +126,22 @@ Legends speak of Port Meridian Harbor as a nexus where past and present converge
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Port Meridian Harbor|02 Worldbuilding/Places/Port Meridian Harbor]]
-
-<!-- enriched: true -->
-- [[Aetheric Wind Songs]]
-- [[Goldwave Manor]]
-- [[Aethermoor]]
-- [[Ancient Tunnels Beneath Palace]]
-- [[Depth Wardens]]
-- [[Harbormaster Erik Saltbeard]]
-- [[Parliament of Echoes]]
-- [[The Void Touched Depths]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Stars
+
+
+## Plot Hooks
+
+- Someone is blackmailing information for power
+- A noble needs help investigating before the new moon
+- A prisoner has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

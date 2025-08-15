@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.995422+00:00'
 world: Both
 ---
 
-
-
 # Chapter 9: Mantol-Derith
 *Source: Out of the Abyss, p. 132* 
 
@@ -36,6 +34,24 @@ Upon arrival, however, the characters discover there is no safe haven anywhere i
 The characters must navigate and overcome the madness dominating Mantol-Derith in order to find their Zhentarim contact, [[/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota|Ghazrim DuLoc]]. He has the means for them to reach the stone giant library of Gravenhollow (see chapter 11), whose vast lore might provide some clue as to what has brought the demon lords to the Underdark.
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/070-ooa09-01.webp#center)
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Fraz-Urb'luu's Gem
 
@@ -54,9 +70,7 @@ If the characters destroy Fraz-Urb'luu's gem, award each of them 1,000 XP.
 > [!note] Mantol-Derith: General Features
 > 
 > Characters encounter the following features inside Mantol-Derith.
-> 
 > **Climate.** Mantol-Derith is chilly and damp thanks to the waterfalls and streams flowing through the cavern and into the Darklake.
-> 
 > **Light.** Mantol-Derith is brightly lit by continual flame spells and crystals in the walls that reflect the light. A network of walkways and small plazas crisscross the rocky ground of the outpost, paved with crushed crystals that also reflect light.
 ^mantol-derith-general-features
 
@@ -71,7 +85,6 @@ Mantol-Derith abuts the Darklake and is roughly six days' travel from Blingdenst
 ## Mantol-Derith
 
 > [!note] 
-> 
 > - **Population**: Approximately 140 (drow, duergar, humans, and svirfneblin)  
 > - **Government**: Informal council comprised of four chief negotiators (one per enclave), recently dissolved  
 > - **Defense**: Private guards  
@@ -85,7 +98,7 @@ Few of Mantol-Derith's denizens are permanent residents. Even the chief negotiat
 
 The arrival of Fraz-Urb'luu has upset the balance of power in Mantol-Derith (see "Fraz-Urb'luu's Gem"), resulting in open conflict between the duergar and svirfneblin. The drow are poised to eliminate both, thus reducing by two the number of enclaves in Mantol-Derith. The drow are simultaneously hoping to preserve the truce with their Zhentarim neighbors. However, a delusional drow assassin threatens to turn the drow and Zhentarim enclaves against one another.
 
-The location of Mantol-Derith is a well-guarded secret, and the influence and power merchants gain from access to it isn't something they want to share. Normally, life in Mantol-Derith is regulated by three simple covenants: no stealing of goods from fellow merchants, no disguising of goods by any means, and no use of magic during negotiations and haggling. The punishment for breaking any covenant is equally straightforward: the violator is wrapped in chains and tossed into the Darklake. Recent events in Mantol-Derith have rendered these rules moot.
+The location of Mantol-Derith is a well-guarded secret, and the influence and power merchants gain from access to it isn't something they want to share. Normally, life in Mantol-Derith is regulated by three simple covets: no stealing of goods from fellow merchants, no disguising of goods by any means, and no use of magic during negotiations and haggling. The punishment for breaking any covet is equally straightforward: the violator is wrapped in chains and tossed into the Darklake. Recent events in Mantol-Derith have rendered these rules moot.
 
 ## Important NPCs
 
@@ -133,7 +146,6 @@ The password to open this secret door is "belaern," a drow word meaning "wealth.
 This secret door stands at the back of a naturally formed ledge overlooking the Darklake. The password to open it is "ssussun," a drow word meaning "light." When the characters first gaze upon the ledge, read the following boxed text to the players.
 
 > [!readaloud] 
-> 
 > An elf with long red hair and a backpack sits on a ledge overlooking a vast, water-filled cavern. The elf is dressed in the finest attire and is dipping his bare feet in the murky water. "Care to join me?" he asks with a wry smile.
 ^35d
 
@@ -165,8 +177,6 @@ This secret door to Mantol-Derith lies halfway down a dead-end tunnel stemming f
 
 When the characters first gaze upon the shore, read the following boxed text to the players.
 
-> [!readaloud] 
-> 
 > Someone has pitched a small tent on this pebbled beach overlooking a vast underground lake. Above the sound of water lapping at the shoreline, you hear a soft, feminine voice humming an unfamiliar tune. The voice comes from inside the tent, which is illuminated from within.
 ^361
 
@@ -204,8 +214,6 @@ The trench's walls sport numerous handholds and can be climbed with a successful
 
 When the characters exit the trench, they find the normally quiet outpost in chaos.
 
-> [!readaloud] 
-> 
 > The trench bisects an enormous cavern with a 30-foot-high ceiling supported by naturally formed stone columns. [[continual-flame-xphb|Continual flame]] spells cast on stone lampposts reflect off crystals embedded in the walls and ceiling, illuminating myriad fountains, waterfalls, streams, and pools. Water drips from stalactites onto leather tarps covering clusters of merchant stalls west and east of the trench. Beyond these marketplaces are well-tended gardens of mold and fungi, crystal walkways, and stone bridges. The tranquil beauty of Mantol-Derith is undone by sounds of combat to the northeast, where you hear the thunderous boom of metal against stone and see panicked svirfneblin running from 8-foot-tall duergar.
 ^368
 
@@ -311,16 +319,10 @@ A 20-foot-high stone building stands in the northeast corner of the warehouse. I
 
 Yantha is the leader of the Stoneheart Enclave based in Blingdenstone (see chapter 6). She is bound with rope and spinning an elaborate lie about how the drow must've [[conditions#Charmed|charmed]] her and taken Krimgol's gem. She has an Intelligence of 16 (+3) and the following additional feature:
 
-> [!note] 
-> 
 > **Spellcasting.** Yantha is a 5th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 13). She has the following wizard spells prepared:
-> 
 > Cantrips (at will): [[dancing-lights-xphb|dancing lights]], [[friends-xphb|friends]], [[mending-xphb|mending]], [[prestidigitation-xphb|prestidigitation]]
-> 
 > 1st level (4 slots): [[comprehend-languages-xphb|comprehend languages]], [[detect-magic-xphb|detect magic]], [[tensers-floating-disk-xphb|Tenser's floating disk]]
-> 
 > 2nd level (3 slots): [[detect-thoughts-xphb|detect thoughts]], [[hold-person-xphb|hold person]]
-> 
 > 3rd level (2 slots): [[sending-xphb|sending]]
 ^378
 
@@ -441,8 +443,6 @@ A secret door in the west wall opens to reveal a wide tunnel beyond (area 1e). T
 
 The contents of the twelve storage sheds are described below:
 
-> [!note] 
-> 
 > - **Shed 1** contains the Zhents' supplies, consisting of `2d10 × 10` pounds of food in the form of dried meats, plucked chickens, fresh fruit and vegetables, and loaves of baked bread. There are also six casks of wine worth 50 gp each.  
 > - **Shed 2** holds `d10` backpacks, `2d10` bedrolls, `2d10` blankets, `2d6` climber's kits, and `2d6` healer's kits.  
 > - **Shed 3** contains `3d6` hooded lanterns, `3d6` flasks of oil, `3d6` 50-foot coils of hempen rope, `3d6` grappling hooks, and `3d6` tinderboxes.  
@@ -468,7 +468,6 @@ If [[/03_Mechanics/CLI/bestiary/npc/ghazrim-duloc-oota|Ghazrim DuLoc]] dies, cha
 If the characters deduce that Kinyel's gem is responsible for the havoc in Mantol-Derith and inform the chief negotiators of this fact, the ones who are still alive are thankful enough to share disturbing news from their home settlements of Blingdenstone, Gracklstugh, and Menzoberranzan, respectively (see chapter 10, "Descent into the Depths").
 
 > [!note] Beholder Eyestalks
-> 
 > If [[/03_Mechanics/CLI/bestiary/npc/lorthuun-oota|Lorthuun]] is killed, `d4` of its eyestalks survive intact. Should [[/03_Mechanics/CLI/bestiary/npc/peebles-oota|Peebles]] the svirfneblin happen upon the beholder's remains, he uses a flint knife to remove the intact eyestalks, then tucks them in his bag for safe delivery to Xazaz the Eyemonger (see "Follow-Up Encounters").
 ^beholder-eyestalks
 
@@ -525,20 +524,25 @@ At the bottom of the beholder's shaft, buried among the shattered remains of [[c
 
 Legends speak of 09 chapter 9 mantol derith as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 09 chapter 9 mantol derith.
 
-## Adventure Hooks
-
-- A rumor ties 09 chapter 9 mantol derith to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 09 chapter 9 mantol derith to avert a public scandal.
-- A map overlay reveals a hidden approach to 09 chapter 9 mantol derith active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

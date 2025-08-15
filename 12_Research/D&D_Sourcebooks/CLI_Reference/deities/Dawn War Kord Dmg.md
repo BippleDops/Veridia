@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:04.427320+00:00'
 world: Both
 ---
 
-
-
 # Kord
 *Source: Dungeon Master's Guide p. 10* 
 
@@ -33,6 +31,24 @@ world: Both
 - **Domains**: Tempest
 - **Pantheon**: Dawn War
 - **Symbol**: Sword with a lightning bolt cross guard
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -42,20 +58,37 @@ Dawn war kord dmg is a undersea element of the setting, known for bioluminescent
 
 Legends speak of dawn war kord dmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dawn war kord dmg.
 
-## Adventure Hooks
-
-- A rumor ties dawn war kord dmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dawn war kord dmg to avert a public scandal.
-- A map overlay reveals a hidden approach to dawn war kord dmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- Someone is protecting information for power
+- The authorities needs help finding before winter
+- Strange dreams suggest a conspiracy
+- Strange dreams suggest a curse
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

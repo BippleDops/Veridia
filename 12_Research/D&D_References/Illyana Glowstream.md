@@ -26,19 +26,30 @@ updated: '2025-08-13T01:18:36.040944+00:00'
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-illyana-glowstream-illyana-glowstream.svg]]
-
-
-
-
-
 
 # Illyana Glowstream
 
 *"Light is not merely illumination - it is hope made manifest, and in these dark times, hope is the most powerful magic of all."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -53,12 +64,6 @@ Beyond her technical duties, Illyana serves as an informal counselor and mediato
 Illyana is a striking water genasi in her early thirties, with skin that shifts between deep blue and bright silver depending on the light around her. Her hair appears to be made of flowing water infused with tiny points of light, creating a constantly shifting aurora effect. Her eyes glow with a gentle golden light that intensifies when she's using her magical abilities.
 
 She wears robes woven from bioluminescent fibers that pulse gently with her heartbeat, creating an aura of warmth and comfort around her. Her staff, carved from crystallized sea foam, serves as both a focus for her magic and a portable light source.
-
-## Personality
-- Eternally optimistic despite the challenges facing the city
-- Deeply empathetic and skilled at helping others find hope
-- Perfectionist in her magical work but patient with others' mistakes
-- Believes strongly in the power of cooperation and shared illumination
 
 ## Statistics
 **Medium humanoid (water genasi), neutral good**
@@ -109,20 +114,6 @@ As political tensions rise, Illyana has noticed increased stress on the city's l
 
 She's also been providing informal counseling services, using her light magic to help lift the depression and despair that's spreading throughout the city alongside the political unrest.
 
-## Relationships
-- **All Factions**: Neutral service provider essential to city operations
-- **Engineering Corps**: Valued colleague and technical innovator
-- **Citizens**: Beloved figure who literally brightens their daily lives
-- **Bioluminescent Cultivators**: Professional network managing the city's living light sources
-- **Clerics and Healers**: Collaborates on therapeutic applications of light magic
-
-## Secrets
-- Has detected magical interference with the city's lighting that suggests coordinated sabotage
-- Maintains emergency light sources that could illuminate the entire city if needed
-- Her light magic allows her to see through illusions and deceptions
-- Keeps detailed records of power fluctuations that could reveal patterns of faction activity
-- Possesses an ancient artifact that could create permanent daylight underwater
-
 ## Quest Hooks
 1. Mysterious darkness is spreading through sections of the city, and Illyana needs the party's help to investigate its supernatural source.
 2. The party requires specialized light magic for a mission, leading them to seek Illyana's assistance and expertise.
@@ -130,41 +121,6 @@ She's also been providing informal counseling services, using her light magic to
 
 ## DM Notes
 Illyana serves as both a technical resource and an emotional anchor for the party and other NPCs. Her light magic can provide creative solutions to various challenges while her optimistic outlook offers hope during dark campaign moments. Use her illumination network to provide information and her healing abilities to support party recovery. Her neutral status makes her a safe contact regardless of factional allegiances.
-
-
-## Connections
-
-- [[Pearl_Harbor_City|Pearl Harbor City]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -174,19 +130,33 @@ Illyana Glowstream is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Illyana Glowstream as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Illyana Glowstream.
 
-## Adventure Hooks
-
-- A rumor ties Illyana Glowstream to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Illyana Glowstream to avert a public scandal.
-- A map overlay reveals a hidden approach to Illyana Glowstream active only during specific tides/storms.
-
-## Cross-References
-
-- [[Illyana Glowstream|02 Worldbuilding/Places/Illyana Glowstream]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## Plot Hooks
+
+- A noble needs help delivering before dawn
+- An heirloom has gone missing and truth emerges
+- Strange disappearances suggest a portal
+- A shipment has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

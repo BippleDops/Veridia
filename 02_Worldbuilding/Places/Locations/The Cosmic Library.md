@@ -1,4 +1,5 @@
 ---
+
 title: The Cosmic Library
 type: location
 tags:
@@ -7,42 +8,101 @@ tags:
 - place
 - active
 - location
+- conspiracy
 created: 2025-08-14
 modified: '2025-08-14'
 status: placeholder
 region: Unknown
 population: Unknown
 updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
 
 
 # 02_Worldbuilding/Locations/The Cosmic Library
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
 
-## Description
-
 ### Atmosphere
 
 The atmosphere of this location shifts throughout the day. Mornings see sacred groves, while dusk transforms the area with quiet contemplation.
-
 
 ### Atmosphere
 
 The atmosphere of this location shifts throughout the day. Dawn brings vibrant festivals, while evening transforms the area with increased activity.
 
-
 *[To be filled in]*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
 
 ## Details
 
 *[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[The Void Watchers]]
-- [[02_Worldbuilding/Groups/The Void Watchers]]
 
 ## Notes
 
@@ -54,44 +114,8 @@ The atmosphere of this location shifts throughout the day. Dawn brings vibrant f
 ---
 *Placeholder generated: 2025-08-14*
 
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of The Cosmic Library
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
-
-## History
-
 ### Founding
 The Cosmic Library was established in the distant past, growing from humble beginnings to its current state.
-
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
-
 
 ## Current Events
 
@@ -103,21 +127,6 @@ Ongoing situations affecting The Cosmic Library:
 - External threats
 - Opportunities arising
 
-
-## Secrets & Rumors
-
-### Common Knowledge
-- What everyone knows about The Cosmic Library
-
-### Whispered Rumors
-- Stories that may or may not be true
-
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
-
-
 ## Adventure Hooks
 
 1. **The Missing Person**: Someone important has disappeared in The Cosmic Library
@@ -125,7 +134,6 @@ Ongoing situations affecting The Cosmic Library:
 3. **The Growing Threat**: A danger that threatens The Cosmic Library
 4. **The Political Intrigue**: Power struggles affecting the location
 5. **The Ancient Mystery**: Old secrets beginning to surface
-
 
 ## Sensory Details
 
@@ -137,26 +145,12 @@ Ongoing situations affecting The Cosmic Library:
 
 **Atmosphere**: The overall feeling is one of mysterious allure.
 
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
-
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 
 ## DM Notes
 

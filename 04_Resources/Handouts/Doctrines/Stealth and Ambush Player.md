@@ -39,15 +39,9 @@ Crew tips
 Risks
 - If caught, you’re up close and already moving
 
-## Cross-References
-
-- [[Doctrine Quick Reference]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

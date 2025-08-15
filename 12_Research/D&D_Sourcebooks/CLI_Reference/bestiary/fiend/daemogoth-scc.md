@@ -26,7 +26,6 @@ updated: '2025-08-12T23:37:35.520336'
 world: Both
 ---
 
-
 # [[daemogoth-scc|Daemogoth]]
 *Source: Strixhaven: A Curriculum of Chaos p. 189*  
 
@@ -49,7 +48,6 @@ Daemogoths are alien-looking in the extreme. Their eyes are insectile or smooth 
 "stats":
   - !!int "19"
   - !!int "15"
-  - !!int "19"
   - !!int "21"
   - !!int "14"
   - !!int "18"
@@ -68,7 +66,7 @@ Daemogoths are alien-looking in the extreme. Their eyes are insectile or smooth 
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
 "damage_immunities": "psychic"
-"condition_immunities": "[[conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#frightened|frightened]]"
 "senses": "truesight 120 ft., passive Perception 16"
 "languages": "Abyssal, Infernal, telepathy 120 ft."
 "cr": "10"
@@ -95,10 +93,10 @@ Daemogoths are alien-looking in the extreme. Their eyes are insectile or smooth 
     "name": "Agonizing Burst"
   - "desc": "The daemogoth targets one creature it can see within 120 feet of itself.\
       \ The target must make a DC 17 Wisdom saving throw. On a failed save, the target\
-      \ takes 33 (6d10) psychic damage and is [[conditions#Frightened|frightened]]\
+      \ takes 33 (6d10) psychic damage and is [[conditions#frightened|frightened]]\
       \ of the daemogoth until the end of the daemogoth's next turn, and the daemogoth\
       \ regains 5 hit points. On a successful save, the target takes half as much\
-      \ damage and isn't [[conditions#Frightened|frightened]],\
+      \ damage and isn't [[conditions#frightened|frightened]],\
       \ and the daemogoth doesn't heal."
     "name": "Terrify (Recharge 4-6)"
 "source":
@@ -106,6 +104,24 @@ Daemogoths are alien-looking in the extreme. Their eyes are insectile or smooth 
 "image": "/03_Mechanics/CLI/bestiary/fiend/token/daemogoth-scc.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -115,19 +131,26 @@ Daemogoth scc is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of daemogoth scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around daemogoth scc.
 
-## Adventure Hooks
-
-- A rumor ties daemogoth scc to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at daemogoth scc to avert a public scandal.
-- A map overlay reveals a hidden approach to daemogoth scc active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and truth emerges
+- The authorities needs help investigating before dawn
+- A document has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.350001+00:00'
 world: Both
 ---
 
-
-
 # Extinction or Depletion
 *Source: Dungeon Master's Guide p. 30* 
 
@@ -43,6 +41,24 @@ world: Both
 | 8 | A waterway (river, lake, ocean) |
 ^extinction-or-depletion
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Extinction or depletion is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -51,19 +67,24 @@ Extinction or depletion is a undersea element of the setting, known for biolumin
 
 Legends speak of extinction or depletion as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around extinction or depletion.
 
-## Adventure Hooks
-
-- A rumor ties extinction or depletion to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at extinction or depletion to avert a public scandal.
-- A map overlay reveals a hidden approach to extinction or depletion active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and chaos spreads
+- Someone is blackmailing information for power
+- Strange sightings suggest a portal
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

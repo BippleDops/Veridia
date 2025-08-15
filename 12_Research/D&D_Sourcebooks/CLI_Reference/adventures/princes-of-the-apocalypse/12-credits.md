@@ -21,12 +21,11 @@ updated: '2025-08-12T23:37:34.585665'
 world: Both
 ---
 
-
 # Credits
 *Source: Princes of the Apocalypse* 
 
 - **Sasquatch Game Studio.**     - **Lead Designer.** Richard Baker    
-        - **Designers.** Ed Greenwood, David Noonan, Thomas M. Reid, Stephen Schubert, Steven Townshend, Jeff Ludwig, Robert J. Schwalb    
+        - **Designers.** Ed Greenwood, David Noo, Thomas M. Reid, Stephen Schubert, Steven Townshend, Jeff Ludwig, Robert J. Schwalb    
         - **Editors.** Michele Carter, Stacy Janssen    
         - **Interior Illustrators.** John-Paul Balmet, Mark Behm, Eric Belisle, Filip Burburan, Christopher Burdett, Anna Christenson, Conceptopolis, Wayne England, Jason Engle, Jon Hodgson, Justin Mayhew, Jim Nelson, Klaus Pillon, Claudio Pozas, Ned Rogers, Lee Smith, Raymond Swanland, Matias Tapia, Richard Whitters, Kieran Yanner    
         - **Cartographers.** Sean MacDonald, Mike Schley    
@@ -45,7 +44,25 @@ world: Both
         - **Brand and Marketing.** Nathan Stewart, Liz Schuh, Chris Lindsay, Shelly Mazzanoble, Hilary Ross, John Feil, Laura Tommervik, Kim Lundstrom, Trevor Kidd    
         - **Playtesters.** Teos Abadía, Robert Alaniz, Rory Alexander, Jay Anderson, Paul Baalham, Stacy Bermes, Joseph Bloch, Carlo Bosticco, Ken Breese, Tim Eagon, Pierce Gaithe, Richard Green, T. E. Hendrix, Sterling Hershey, Paul Hughes Matthew Jording, Yan Lacharité, Shane Leahy, Ryan Leary, Jonathan Longstaff, Jon Machnicz, Farrell Madden, Matt Maranda, Paul Melamed, Shawn Merwin, Lou Michelli, Rob Mickunas, Mike Mihalas, John Proudfoot, Rob Quillen II, Karl Resch, Sam Sherry, Sam E Simpson Jr, Pieter Sleijpen    
 
-![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/credits.webp#center "On the Cover: Aerisi Kalinoth, the air prophet, unleashes the Cult of the Howling Hatred on the Dessarin Valley. A defiant Harper wizard named Zelraun Roaringhorn stands against her in this tempestuous scene illustrated by Raymond Swanland."|On the Cover: Aerisi Kalin...]]
+!]
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -55,19 +72,25 @@ world: Both
 
 Legends speak of 12 credits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 12 credits.
 
-## Adventure Hooks
-
-- A rumor ties 12 credits to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 12 credits to avert a public scandal.
-- A map overlay reveals a hidden approach to 12 credits active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

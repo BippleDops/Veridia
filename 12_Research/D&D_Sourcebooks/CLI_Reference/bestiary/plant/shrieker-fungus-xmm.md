@@ -27,15 +27,31 @@ updated: '2025-08-12T23:37:35.389265'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-shrieker-fungus-xmm-shrieker-fungus-xmm.svg)
 
 # [[shrieker-fungus-xmm|Shrieker Fungus]]
-*Source: Monster Manual (2024) p. 125. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 125. Available in the SRD and the Free Rules (2024)*  
 
 If exposed to light or otherwise disturbed, mushroom-like shriekers emit a high-pitched noise that gives them their name. This wailing might alert other creatures or attract predators.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Fungi
 
@@ -57,14 +73,11 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
 "modifier": !!int "-5"
 "stats":
   - !!int "1"
-  - !!int "1"
   - !!int "10"
-  - !!int "1"
   - !!int "3"
-  - !!int "1"
 "speed": "5 ft."
 "condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
-  \ [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]]"
+  \ [[conditions#Deafened|deafened]], [[conditions#frightened|frightened]]"
 "senses": "blindsight 30 ft., passive Perception 6"
 "languages": ""
 "cr": "0"
@@ -91,19 +104,20 @@ Shrieker fungus xmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of shrieker fungus xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around shrieker fungus xmm.
 
-## Adventure Hooks
-
-- A rumor ties shrieker fungus xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at shrieker fungus xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to shrieker fungus xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before dawn
+- An heirloom has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

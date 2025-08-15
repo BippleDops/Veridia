@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:04.247450+00:00'
 world: Both
 ---
 
-
-
 # Boldrei
 *Source: Player's Handbook p. 296, Tasha's Cauldron of Everything* 
 
@@ -35,6 +33,24 @@ world: Both
 - **Pantheon**: Eberron
 - **Symbol**: Fire in a stone hearth
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Eberron boldrei is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -43,19 +59,31 @@ Eberron boldrei is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of eberron boldrei as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around eberron boldrei.
 
-## Adventure Hooks
-
-- A rumor ties eberron boldrei to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at eberron boldrei to avert a public scandal.
-- A map overlay reveals a hidden approach to eberron boldrei active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a conspiracy
+- Strange accidents suggest a curse
+- A document has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

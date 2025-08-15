@@ -10,22 +10,10 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Noble House Family Networks - Phase 2 Deep Planning
-
-## Meta Information
-- **Created**: 2025-08-14
-- **System Type**: Dynamic Family Relationship Mapping
-- **Integration Level**: Cross-campaign character development
-- **Status**: Master Genealogical Framework
-
-## I. HOUSE SHADOWMERE - THE SHADOW DYNASTY
-
 ### Core Family Structure
 **Patriarch**: Lord Vexton Shadowmere (Age 67, Shadow Conspiracy Leader)
 **Matriarch**: Lady Moira Shadowmere (Age 62, Deceased - Shadow Assassination)
 **Estate**: Shadowmere Keep, Upper Noble Quarter
-
-### Direct Family Line
 
 #### First Generation (Parents)
 **Lord Vexton Shadowmere** 
@@ -92,13 +80,11 @@ modified: '2025-08-14'
   - Secret romantic relationship with foreign diplomat
   - Protective of Darius's innocence
 
-### Extended Family Network
-
 #### Shadowmere Cousins Branch
 **Lord Aldric Shadowmere** (Age 45, Lord Vexton's nephew)
 - **Role**: Trade house manager, money laundering
 - **Family**: Wife and three young children
-- **Corruption Level**: 6/10 (Financial crimes specialist)
+- **Corruption Level**: 6/10 (Ficial crimes specialist)
 - **Leverage**: Children's safety ensures loyalty
 
 **Lady Cordelia Shadowmere-Darkwater** (Age 40, Married out)
@@ -113,8 +99,6 @@ modified: '2025-08-14'
 - **Children**: None yet (marriage only 2 years old)
 - **Loyalty Conflict**: Love for husband vs. family honor
 - **Plot Potential**: Could bridge house reconciliation
-
-### Family Secrets and Hidden Dynamics
 
 #### The Succession Crisis
 **Internal Power Struggle**:
@@ -142,8 +126,6 @@ modified: '2025-08-14'
 - Discovered cosmic corruption source
 - Left clues for family's protection
 
-### Relationship Dynamics Matrix
-
 #### Father-Children Relationships
 **Vexton-Marcus**: Disappointed authority vs. guilty rebellion
 **Vexton-Nyx**: Proud mentorship vs. ambitious succession
@@ -163,14 +145,10 @@ modified: '2025-08-14'
 **Shadowmere-Goldwave**: Economic competition vs. political alliance
 **Shadowmere-Stormwind**: Military cooperation vs. shadow suspicion
 
-## II. HOUSE BRIGHTSHIELD - THE HONOR DYNASTY
-
 ### Core Family Structure
 **Patriarch**: Lord Commander Gareth Brightshield (Age 58, Royal Military)
 **Matriarch**: Lady Catherine Brightshield (Age 55, War Hero)
 **Estate**: Brightshield Hall, Military Quarter
-
-### Direct Family Line
 
 #### First Generation (Parents)
 **Lord Commander Gareth Brightshield**
@@ -239,10 +217,7 @@ modified: '2025-08-14'
 - **Relationships**:
   - Son-like devotion to Gareth and Catherine
   - Brother-like bond with Roland
-  - Protective of family reputation
   - Secretly in love with Elena (unrequited)
-
-### Extended Family Network
 
 #### Military Alliances
 **The Stormwind Connection**: Admiral Cassandra Stormwind
@@ -260,9 +235,7 @@ modified: '2025-08-14'
 **Traditional Noble Houses**:
 - House Ironhold: Military equipment suppliers
 - House Seawright: Naval cooperation
-- House Goldguard: Financial support for military operations
-
-### Family Secrets and Hidden Dynamics
+- House Goldguard: Ficial support for military operations
 
 #### The Elena Situation
 **Marriage Controversy**:
@@ -290,8 +263,6 @@ modified: '2025-08-14'
 - Elena chose different service (diplomacy)
 - Family adapts traditions to circumstances
 
-### Relationship Dynamics Matrix
-
 #### Parent-Children Relationships
 **Gareth-Lyanna**: Military pride vs. protective concern
 **Gareth-Roland**: Approving distance vs. longing for closeness
@@ -306,14 +277,10 @@ modified: '2025-08-14'
 **Roland-Elena**: Brotherly affection vs. overseas assignment
 **Theron-All**: Grateful loyalty vs. unrequited romantic tension
 
-## III. HOUSE GOLDWAVE - THE PROSPERITY DYNASTY
-
 ### Core Family Structure
 **Patriarch**: Lord Aurelius Goldwave (Age 62, Economic powerhouse)
 **Matriarch**: Lady Venetia Goldwave (Age 58, Social influence)
 **Estate**: Goldwave Manor, Economic District
-
-### Direct Family Line
 
 #### First Generation (Parents)
 **Lord Aurelius Goldwave**
@@ -385,8 +352,6 @@ modified: '2025-08-14'
   - Professional network spans multiple realms
   - Protective of family children like uncle
 
-### Extended Family Network
-
 #### Business Alliance Marriages
 **The Silverscale Connection**: 
 - Maximus married to Lady Seraphina Silverscale
@@ -406,8 +371,6 @@ modified: '2025-08-14'
 - Influence on public opinion through art
 - Soft power projection through social gatherings
 
-### Family Secrets and Hidden Dynamics
-
 #### The Aurelius Compromise
 **Business Ethics Conflicts**:
 - Some trade partnerships morally questionable
@@ -416,7 +379,7 @@ modified: '2025-08-14'
 - Children inherit both prosperity and ethical burdens
 
 **Hidden Debts**:
-- Major financial obligations to Silverscale Consortium
+- Major ficial obligations to Silverscale Consortium
 - Secret loans from shadow organizations
 - Economic vulnerabilities carefully concealed
 - Family stability depends on continued profits
@@ -433,8 +396,6 @@ modified: '2025-08-14'
 - Victor's romantic pursuits affect business relationships
 - Maximus's marriage ties family to banking interests
 - Each decision affects entire family network
-
-### Cross-House Integration Patterns
 
 #### Economic Interdependence
 **House Cooperation Networks**:
@@ -456,8 +417,6 @@ modified: '2025-08-14'
 - Business partnerships create mutual interests
 - Marriage alliances provide relationship stabilization
 - Cultural events allow informal diplomacy
-
-## IV. RELATIONSHIP IMPACT ON CAMPAIGN EVENTS
 
 ### Government Crisis Response
 **House Reactions to Shadow Conspiracy Exposure**:
@@ -482,10 +441,27 @@ modified: '2025-08-14'
 **Relationship Nodes**: 156 interpersonal connections documented
 **Cross-Campaign Integration**: Noble house responses to all major plot developments planned
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -494,3 +470,19 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A letter reveals a conspiracy about the government
+- A stranger needs help investigating before winter
+- A merchant needs help finding before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

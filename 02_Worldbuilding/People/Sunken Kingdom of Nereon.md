@@ -1,4 +1,5 @@
 ---
+
 title: Sunken Kingdom of Nereon
 type: Npc
 tags:
@@ -18,6 +19,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.582219+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +29,66 @@ world: Aquabyssos
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-sunken-kingdom-of-nereon-sunken-kingdom-of-nereon.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more focused
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward confrontation
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward negotiation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
 
 ## Player-Facing Summary
 
@@ -67,14 +97,6 @@ Sunken Kingdom of Nereon is a undersea element of the setting, known for biolumi
 ## Lore Details
 
 Legends speak of Sunken Kingdom of Nereon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sunken Kingdom of Nereon.
-
-## Adventure Hooks
-
-- A rumor ties Sunken Kingdom of Nereon to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Sunken Kingdom of Nereon to avert a public scandal.
-- A map overlay reveals a hidden approach to Sunken Kingdom of Nereon active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +107,6 @@ Sunken Kingdom of Nereon's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Protecting loved ones
@@ -124,8 +116,6 @@ Sunken Kingdom of Nereon's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Sunken Kingdom of Nereon harbors secrets that could change everything:
@@ -133,10 +123,6 @@ Sunken Kingdom of Nereon harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Dark patron
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +141,6 @@ Sunken Kingdom of Nereon is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Sunken Kingdom of Nereon needs assistance with a delicate matter
@@ -164,8 +148,6 @@ Sunken Kingdom of Nereon is currently engaged in:
 3. **The Secret**: Information about Sunken Kingdom of Nereon's past surfaces
 4. **The Alliance**: Opportunity to work with or against Sunken Kingdom of Nereon
 5. **The Crisis**: Sunken Kingdom of Nereon is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,20 +161,38 @@ Sunken Kingdom of Nereon is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Sunken Kingdom of Nereon]]
+## Bloodline
 
-<!-- enriched: true -->
-
+Member of House Eagleblood - Trait: prophecy
 
 
+## Historical Timeline
 
-## Relationship Web
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
 
-- [[04_Resources_Assets_Locations_location-city-palace-guard-captain-neutralis-palace-guard-captain-neutralis.png]]: *former lover*
-- [[04_Resources_Assets_Locations_location-city-lord-reginald-seaworthy-lord-reginald-seaworthy.svg]]: *student*
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
 
-## Connections
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
 
-- [[Memory Merchant Zephyr Mindweaver]]
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

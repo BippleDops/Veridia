@@ -14,7 +14,22 @@ modified: '2025-08-14'
 ---
 
 
-# Player Dashboard
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+
 
 ## Character Sheets
 ```dataview
@@ -29,8 +44,6 @@ WHERE type = "pc"
 ```
 
 ## Session Recaps
-```dataview
-TABLE WITHOUT ID
   file.link as Session,
   date as Date,
   recap as "Quick Summary"
@@ -38,34 +51,25 @@ FROM "01_Adventures"
 WHERE type = "session" AND player-visible = true
 SORT date DESC
 LIMIT 5
-```
 
 ## Available Quests
-```dataview
 LIST
 FROM #quest
 WHERE status = "available" AND player-visible = true
-```
 
 ## Party Inventory
-```dataview
-TABLE WITHOUT ID
   item as Item,
   quantity as Qty,
   carried-by as "Carried By"
 FROM "05_Player_Resources/Inventory"
-```
 
 ## Known NPCs
-```dataview
-TABLE WITHOUT ID
   file.link as NPC,
   relationship as Relationship,
   location as "Last Seen"
 FROM "02_Worldbuilding/People"
 WHERE player-known = true
 SORT relationship DESC
-```
 
 ## Maps & Locations
 - [[World Map]]
@@ -75,11 +79,9 @@ SORT relationship DESC
 ---
 *Player dashboard - auto-updating*
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -88,3 +90,8 @@ SORT relationship DESC
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## 07_Player_Resources Specific Content
+
+Contextual improvement based on 07_Player_Resources

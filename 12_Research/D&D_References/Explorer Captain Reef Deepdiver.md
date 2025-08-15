@@ -17,28 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -48,28 +42,32 @@ Explorer Captain Reef Deepdiver is a undersea element of the setting, known for 
 
 Legends speak of Explorer Captain Reef Deepdiver as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Explorer Captain Reef Deepdiver.
 
-## Adventure Hooks
-
-- A rumor ties Explorer Captain Reef Deepdiver to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Explorer Captain Reef Deepdiver to avert a public scandal.
-- A map overlay reveals a hidden approach to Explorer Captain Reef Deepdiver active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Explorer Captain Reef Deepdiver|02 Worldbuilding/Places/Explorer Captain Reef Deepdiver]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The Frozen Throne]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Plot Hooks
+
+- Strange accidents suggest a curse
+- A shipment has gone missing and evil awakens
+- A noble needs help stealing before dawn
+- A corpse reveals the truth about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

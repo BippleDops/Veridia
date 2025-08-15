@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.620482+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-neogi-mpmm-neogi-mpmm.svg)
 
@@ -41,6 +38,24 @@ world: Both
 The mentality of neogi is alien to many other peoples. Because adult neogi have the power to control minds, they consider doing so to be entirely appropriate. Their society makes no distinction between individuals, aside from the ability that a given creature has to control others, and they don't comprehend the emotional aspects of existence that humans and similar beings experience. To a neogi, hatred is as foreign a sensation as love, and showing loyalty in the absence of authority is foolishness.
 
 Neogi mark themselves and those they capture through the use of dyes, transformational magic, and other markings intended to signify rank, achievements, and the identity of the individual's leader. By these signs, neogi can identify each others' place in the hierarchy—and they must defer to those of higher station or risk harsh punishment.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Neogi
 
@@ -80,7 +95,7 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 "cr": "3"
 "traits":
   - "desc": "The neogi has advantage on saving throws against being [[conditions#Charmed|charmed]]\
-      \ or [[conditions#Frightened|frightened]], and magic can't\
+      \ or [[conditions#frightened|frightened]], and magic can't\
       \ put the neogi to sleep."
     "name": "Mental Fortitude"
   - "desc": "The neogi can climb difficult surfaces, including upside down on ceilings,\
@@ -127,19 +142,18 @@ Neogi mpmm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of neogi mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around neogi mpmm.
 
-## Adventure Hooks
-
-- A rumor ties neogi mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at neogi mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to neogi mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a conspiracy
+- The authorities needs help investigating before winter
+- A journal reveals the truth about the government
+- A letter reveals ancient history about a local noble

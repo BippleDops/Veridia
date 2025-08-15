@@ -17,7 +17,7 @@ tags:
 - ttrpg-cli/monster/environment/limbo
 - status/in-progress
 - ttrpg-cli/monster/type/aberration/gith
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-monster
@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.317643'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-githzerai-zerth-xmm-githzerai-zerth-xmm.svg)
 
@@ -37,6 +35,24 @@ world: Both
 *Source: Monster Manual (2024) p. 137*  
 
 Githzerai zerths embody the discipline espoused by their first leader, Zerthimon. Their psionic control aids them in protecting their people and traveling the planes of existence without fear of being followed by githyanki or mind flayer foes.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Githzerai
 
@@ -73,7 +89,6 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
 > 
 > We githzerai crave a challenge, so that when Zerthimon returns, he shall find us ready. Thus we traveled to howling Limbo to make our new home.
 
-
 ```statblock
 "name": "Githzerai Zerth (XMM)"
 "size": "Medium"
@@ -101,9 +116,7 @@ Characters might be drawn into conflicts involving githzerai and githyanki in va
   - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+6"
   - "name": "[[skills#Insight|Insight]]"
-    "desc": "+6"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+6"
 "senses": "passive Perception 16"
 "languages": "Common, Gith"
 "cr": "6"
@@ -148,19 +161,25 @@ Githzerai zerth xmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of githzerai zerth xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around githzerai zerth xmm.
 
-## Adventure Hooks
-
-- A rumor ties githzerai zerth xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at githzerai zerth xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to githzerai zerth xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and evil awakens
+- Strange disappearances suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.577969+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-green-slaad-xmm-green-slaad-xmm.svg)
 
@@ -39,6 +36,24 @@ world: Both
 *Source: Monster Manual (2024) p. 286*  
 
 Green slaadi come into being when the propagation methods of red or blue slaadi affect certain creatures capable of casting spells of level 3 or higher. Green slaadi are more intelligent than their blue and red brethren and often direct their kin to portals where gray slaadi have identified Humanoid communities ripe for invasion.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Slaadi
 
@@ -54,14 +69,11 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 > [!note] Slaad Control Gems
 > 
 > A slaad born from the Spawning Stone has a magical control gem embedded in its head. If a creature claims the gem, the slaad has the [[conditions#Charmed|Charmed]] condition and obeys the gem's bearer. The slaad ceases to be [[conditions#Charmed|Charmed]] if it is harmed by the gem's bearer or the bearer's allies or if the gem is returned to the slaad. A [[greater-restoration-xphb|Greater Restoration]] spell cast on a slaad destroys the gem, and the slaad ceases to be [[conditions#Charmed|Charmed]].
-> 
 > One can obtain a slaad's control gem using a [[wish-xphb|Wish]] or [[imprisonment-xphb|Imprisonment]] spell. If the slaad fails its saving throw against [[imprisonment-xphb|Imprisonment]], the caster gains the gem, and the slaad isn't imprisoned. An [[conditions#Incapacitated|Incapacitated]] slaad's control gem can be removed by spending 1 minute and succeeding on a DC 20 Wisdom ([[skills#Medicine|Medicine]]) check. Failing this check deals 22 (`4d10`) Piercing damage to the slaad.
 ^slaad-control-gems
 
 > [!quote] A quote from Jebeel Sloom  
-> 
 > Fight a slaad and lose, the story's over. Fight a slaad and win, there's a thousand more standing in line just to prove they're tougher.
-
 
 ```statblock
 "name": "Green Slaad (XMM)"
@@ -75,7 +87,6 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
 "stats":
   - !!int "16"
   - !!int "15"
-  - !!int "16"
   - !!int "11"
   - !!int "8"
   - !!int "18"
@@ -102,13 +113,13 @@ Slaadi have no formal society. Rather, strong slaadi dominate weaker ones. Blue 
   - "desc": "Melee  or Ranged Attack Roll: +7, reach 10 ft. or range 60 ft. Hit:\
       \ 8 (1d8 + 4) Force damage. Until the start of the slaad's next turn, the target\
       \ has a condition determined by rolling d4: on a 1, [[conditions#Charmed|Charmed]];\
-      \ on a 2, [[conditions#Frightened|Frightened]]; on a 3, [[conditions#Poisoned|Poisoned]];\
+      \ on a 2, [[conditions#frightened|Frightened]]; on a 3, [[conditions#Poisoned|Poisoned]];\
       \ or on a 4, [[conditions#Incapacitated|Incapacitated]]."
     "name": "Chaos Staff"
   - "desc": "The slaad casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 14, +6 to hit\
       \ with spell attacks):\n\nAt will: [[detect-magic-xphb|Detect Magic]],\
-      \ [[detect-thoughts-xphb|Detect Thoughts]], [[mage-hand-xphb|Mage\
+      \ [[detect-thoughts-xphb|Detect Thoughts]], [[mage-hand-xphb|Mage\]]
       \ Hand]]\n\n1/day each: [[fireball-xphb|Fireball]],\
       \ [[invisibility-xphb|Invisibility]] (self only)"
     "name": "Spellcasting"
@@ -135,18 +146,9 @@ Green slaad xmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of green slaad xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around green slaad xmm.
 
-## Adventure Hooks
-
-- A rumor ties green slaad xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at green slaad xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to green slaad xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

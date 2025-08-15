@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.997796+00:00'
 world: Both
 ---
 
-
-
 # Chapter 7: Escape from the Underdark
 *Source: Out of the Abyss, p. 116* 
 
@@ -34,6 +32,24 @@ If they survive this final confrontation, the characters reach the surface in a 
 By the time they reach this point, the characters should be at least 7th level, having overcome countless challenges in their wild and dangerous journey through the locations described in chapters 1 through 6. They should also have reached a terrible conclusion: multiple demon lords of the Abyss are at large in the Underdark and could soon threaten the surface world.
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/062-ooa07-01.webp#center)
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## The Way Out
 
@@ -180,13 +196,13 @@ If you'd rather skip the encounters and jump ahead to chapter 8, assume that the
 | dice: d20 | Complication |
 |-----------|--------------|
 | 1 | Uneven ground threatens to slow your progress. Make a DC 10 Dexterity ([[skills#Acrobatics|Acrobatics]]) check to navigate the area. On a failed check, the ground counts as 10 feet of difficult terrain. |
-| 2 | A fissure, rocky outcropping, or debris threatens to trip you up. Make a DC 10 Dexterity ([[skills#Acrobatics|Acrobatics]]) check. On a failure, you fall [[conditions#Prone|prone]]. |
+| 2 | A fissure, rocky outcropping, or debris threatens to trip you up. Make a DC 10 Dexterity ([[skills#Acrobatics|Acrobatics]]) check. On a failure, you fall [[conditions#prone|prone]]. |
 | 3 | You disturb a [[swarm-of-bats-xmm|swarm of bats]] that makes one attack against you before quickly scattering. |
 | 4 | A colony of [[piercer-xmm|piercers]] hangs 20 feet overhead. As you pass, one of them drops and makes an attack against you. |
 | 5 | You have to dodge around stalagmites and columns. Make a DC 10 Dexterity ([[skills#Acrobatics|Acrobatics]]) check. On a failure, you take `d4` bludgeoning damage from running into an obstacle. |
 | 6 | A mass of webbing blocks your path. Avoiding it requires a successful DC 12 Dexterity ([[skills#Acrobatics|Acrobatics]]) check. On a failure, you are caught in the web and [[conditions#Restrained|restrained]]. As an action, you can make a DC 12 Strength check, bursting the webbing on a success. The webbing can also be attacked (AC 10; hp 5; vulnerability to fire damage; immunity to poison and psychic damage). |
 | 7 | A patch of green slime drops from the ceiling, requiring a successful DC 10 Dexterity saving throw to avoid. On a failure, you are struck and take 5 (`d10`) acid damage. You take 5 (`d10`) acid damage again at the start of each of your turns until the slime is scraped off or destroyed (see ""Dungeon Hazards"" in chapter 5 of the *Dungeon Master's Guide*). |
-| 8 | The floor beneath you is smooth and slick with moisture, requiring a successful DC 10 Dexterity saving throw to navigate. On a failed save, you fall [[conditions#Prone|prone]]. |
+| 8 | The floor beneath you is smooth and slick with moisture, requiring a successful DC 10 Dexterity saving throw to navigate. On a failed save, you fall [[conditions#prone|prone]]. |
 | 9 | The floor beneath you is littered with sharp rocks and debris, and you must succeed on a DC 10 Dexterity saving throw to cross it. On a failure, you take `d4` piercing damage and the ground counts as 10 feet of difficult terrain. |
 | 10 | The chase kicks up a cloud of dust, sand, or spores. You must succeed on a DC 10 Constitution saving throw to pass through the cloud. On a failure, you are [[conditions#Blinded|blinded]] until the end of your turn. While [[conditions#Blinded|blinded]] in this way, your speed is reduced by half. |
 | 11–20 | No complication. |
@@ -200,19 +216,11 @@ If you'd rather skip the encounters and jump ahead to chapter 8, assume that the
 
 Legends speak of 07 chapter 7 escape from the underdark as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 07 chapter 7 escape from the underdark.
 
-## Adventure Hooks
-
-- A rumor ties 07 chapter 7 escape from the underdark to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 07 chapter 7 escape from the underdark to avert a public scandal.
-- A map overlay reveals a hidden approach to 07 chapter 7 escape from the underdark active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 

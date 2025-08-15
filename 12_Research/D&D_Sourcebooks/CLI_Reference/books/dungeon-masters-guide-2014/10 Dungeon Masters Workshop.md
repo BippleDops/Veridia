@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:05.186871+00:00'
 world: Both
 ---
 
-
-
 # Dungeon Master's Workshop
 *Source: Dungeon Master's Guide (2014), p. 263* 
 
@@ -39,6 +37,24 @@ Before you add a new rule to your campaign, ask yourself two questions:
 If you're confident that the answer to both questions is yes, then you have nothing to lose by giving it a try. Urge your players to provide feedback. If the rule or game element isn't functioning as intended or isn't adding much to your game, you can refine it or ditch it. No matter what a rule's source, a rule serves you, not the other way around.
 
 Beware of adding anything to your game that allows a character to concentrate on more than one effect at a time, use more than one reaction or bonus action per round, or attune to more than three magic items at a time. Rules and game elements that override the rules for concentration, reactions, bonus actions, and magic item attunement can seriously unbalance or overcomplicate your game.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Ability Options
 
@@ -178,7 +194,7 @@ The rules for fear and horror can help you sustain an atmosphere of dread in a d
 
 #### Fear
 
-When adventurers confront threats they have no hope of overcoming, you can call for them to make a Wisdom saving throw. Set the DC according to the circumstances. A character who fails the save becomes [[conditions#Frightened|frightened]] for 1 minute. The character can repeat the saving throw at the end of each of his or her turns, ending the effect on the character on a successful save.
+When adventurers confront threats they have no hope of overcoming, you can call for them to make a Wisdom saving throw. Set the DC according to the circumstances. A character who fails the save becomes [[conditions#frightened|frightened]] for 1 minute. The character can repeat the saving throw at the end of each of his or her turns, ending the effect on the character on a successful save.
 
 #### Horror
 
@@ -307,23 +323,19 @@ A character who has seen an item used or has operated a similar item has advanta
 
 | Modern Item | Cost | Damage | Weight | Properties |
 |-------------|------|--------|--------|------------|
-| *Martial Ranged Weapons* |  |  |  |  |
 | &emsp;Pistol, automatic | — | `2d6` piercing | 3 lb. | Ammunition (range 50/150), reload (15 shots) |
 | &emsp;Revolver | — | `2d8` piercing | 3 lb. | Ammunition (range 40/120), reload (6 shots) |
 | &emsp;Rifle, hunting | — | `2d10` piercing | 8 lb. | Ammunition (range 80/240), reload (5 shots), two-handed |
 | &emsp;Rifle, automatic | — | `2d8` piercing | 8 lb. | Ammunition (range 80/240), burst fire, reload (30 shots), two-handed |
 | &emsp;Shotgun | — | `2d8` piercing | 7 lb. | Ammunition (range 30/90), reload (2 shots), two-handed |
-| *Ammunition* |  |  |  |  |
 | &emsp;Bullets (10) | — | — | 1 lb. | — |
 ^modern-item-cost-damage-weight-properties
 
 | Futuristic Item | Cost | Damage | Weight | Properties |
 |-----------------|------|--------|--------|------------|
-| *Martial Ranged Weapons* |  |  |  |  |
 | &emsp;Laser pistol | — | `3d6` radiant | 2 lb. | Ammunition (range 40/120), reload (50 shots) |
 | &emsp;Antimatter rifle | — | `6d8` necrotic | 10 lb. | Ammunition (range 120/360), reload (2 shots), two-handed |
 | &emsp;Laser rifle | — | `3d8` radiant | 7 lb. | Ammunition (range 100/300), reload (30 shots), two-handed |
-| *Ammunition* |  |  |  |  |
 | &emsp;Energy cell | — | — | 5 oz. | — |
 ^futuristic-item-cost-damage-weight-properties
 
@@ -709,7 +721,6 @@ When calculating a monster's damage output, also account for special off-turn da
 > [!note] Attack Riders
 > 
 > Many monsters have attacks that do more than deal damage. Some effects that can be added to an attack to give it a flavorful twist include:
-> 
 > - Adding damage of a different type to the attack  
 > - Having the monster grapple the target on a hit  
 > - Allowing the monster to knock the target prone on a hit  
@@ -855,8 +866,6 @@ You can use different damage dice than the ones in the table, provided that the 
 ### Healing Spells
 
 You can also use the Spell Damage table to determine how many hit points a healing spell restores. A cantrip shouldn't offer healing.
-
-## Creating a Magic Item
 
 ### Creating a Magic Item
 
@@ -1084,19 +1093,25 @@ The best background features give characters a reason to strike out on quests, t
 
 Legends speak of 10 dungeon masters workshop as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 10 dungeon masters workshop.
 
-## Adventure Hooks
-
-- A rumor ties 10 dungeon masters workshop to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 10 dungeon masters workshop to avert a public scandal.
-- A map overlay reveals a hidden approach to 10 dungeon masters workshop active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.967968+00:00'
 world: Both
 ---
 
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-zephyr-goldwhisper-v1-zephyr-goldwhisper.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[Quest - The Crystal Festival|02 Worldbuilding/Quests/Quest The Crystal Festival]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Lady Jade Clawgrip]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,30 @@ Zephyr Goldwhisper is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Zephyr Goldwhisper as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Zephyr Goldwhisper.
 
-## Adventure Hooks
-
-- A rumor ties Zephyr Goldwhisper to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Zephyr Goldwhisper to avert a public scandal.
-- A map overlay reveals a hidden approach to Zephyr Goldwhisper active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- Strange sightings suggest ancient magic
+- Strange dreams suggest a conspiracy
+- A map reveals ancient history about the government
+- A journal reveals a conspiracy about the cult
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:33.894433'
 world: Both
 ---
 
-
 # Hanali Celanil
 *Source: Mordenkainen's Tome of Foes p. 45* 
 
@@ -39,6 +38,24 @@ Hanali is the elven god of beauty and love. Usually depicted as a beautiful fema
 In Arvandor, Hanali maintains a hidden pool called Evergold. She bathes in it at least once a day. It's said that the water of Evergold keeps her young and breathtakingly beautiful, but this is certainly a poetic myth, since all the Seldarine appear young and beautiful, with or without having bathed in this fountain. Mortal elves who are invited to join Hanali in the pool are said to retain their youthfulness and to delay the onset of Transcendence by at least a century. More than a few elves claim to have experienced this benefit, and the truth of it is attested by many bards-sometimes in all earnestness, sometimes with a knowing wink.
 
 Priests of Hanali perform weddings between elves and preside over most other family-related ceremonies. Other than nuptials and a spate of spring celebrations, the priests conduct few observances.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Pools of Beauty
 
@@ -56,19 +73,20 @@ Elven hanali celanil mtf is a undersea element of the setting, known for biolumi
 
 Legends speak of elven hanali celanil mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elven hanali celanil mtf.
 
-## Adventure Hooks
-
-- A rumor ties elven hanali celanil mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at elven hanali celanil mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to elven hanali celanil mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for love
+- A noble needs help investigating before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

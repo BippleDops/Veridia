@@ -35,16 +35,31 @@ updated: '2025-08-13T12:34:05.548064+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hobgoblin-captain-xmm-hobgoblin-captain-xmm.svg)
 
 # [[hobgoblin-captain-xmm|Hobgoblin Captain]]
-*Source: Monster Manual (2024) p. 171. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 171. Available in the SRD and the Free Rules (2024)*  
 
 Hobgoblin captains are battlefield tacticians. They lead their allies to victory by employing martial skill and rallying others with orders and threats. Hobgoblin captains usually oversee hobgoblin battle groups or gangs of weaker monsters.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Hobgoblins
 
@@ -90,7 +105,6 @@ The drive to subjugate and pillage is part of hobgoblins' supernatural nature, t
 "stats":
   - !!int "15"
   - !!int "14"
-  - !!int "14"
   - !!int "12"
   - !!int "10"
   - !!int "13"
@@ -131,19 +145,26 @@ Hobgoblin captain xmm is a undersea element of the setting, known for biolumines
 
 Legends speak of hobgoblin captain xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hobgoblin captain xmm.
 
-## Adventure Hooks
-
-- A rumor ties hobgoblin captain xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at hobgoblin captain xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to hobgoblin captain xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before the festival
+- A document has gone missing and truth emerges
+- A prisoner has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -41,11 +41,9 @@ Possible outcomes
 - The song falters
 - A dream gets loose
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

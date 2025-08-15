@@ -1,4 +1,5 @@
 ---
+
 title: Customs House
 type: Lore
 tags:
@@ -19,6 +20,7 @@ tags:
 - merged-reality
 - shadow-touched
 - crystal-enhanced
+- prophecy
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
@@ -27,6 +29,8 @@ category: Border Facility
 significance: Major Location
 created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -34,18 +38,80 @@ updated: '2025-08-11T00:00:00+00:00'
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-harbor-district-customs-house-harbor-district-customs-house.svg]]
 
-
 # Customs House
 
 *Gateway Between Worlds*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
 
 ## Overview
 
 The Customs House stands as one of the most unusual and important buildings in either world—a facility that exists simultaneously in both [[Aethermoor]] and [[Aquabyssos]], serving as the primary checkpoint for the growing trade between realities. Located at a stable [[Merged Reality Zones]], this imposing structure facilitates legal commerce while serving as the front line against interdimensional smuggling, illegal immigration, and the spread of dangerous artifacts.
 
 Originally built as separate facilities on both sides of a dimensional weak point, the buildings gradually merged as reality barriers weakened, creating a unique architectural marvel where crystal spires extend underwater while coral formations grow in open air. The Customs House has become a symbol of cooperation between worlds, even as political tensions rise and [[The Convergence Point]] approaches.
-
-## Physical Description
 
 ### Dual Architecture
 
@@ -82,8 +148,6 @@ The primary passage between worlds:
 - **Reality Stabilization**: Prevents dimensional storms from affecting passage
 - **Emergency Sealing**: Can be closed instantly in case of threats
 - **Dual Jurisdiction**: Staffed by officers from both worlds
-
-## Operations and Functions
 
 ### Trade Facilitation
 
@@ -132,8 +196,6 @@ The Customs House serves as an intelligence hub:
 - **Technology Transfer**: Observing what innovations move between worlds
 - **Cultural Intelligence**: Understanding social changes and attitudes
 - **Threat Assessment**: Early warning system for potential conflicts
-
-## Staff and Personnel
 
 ### Administrative Leadership
 
@@ -195,9 +257,7 @@ The Customs House serves as an intelligence hub:
 - Security technicians operating detection and screening equipment
 - Medical personnel treating dimensional adaptation sickness
 - Communications operators maintaining contact with both world governments
-- Maintenance crews keeping dual-reality facilities functional
-
-## Trade Goods and Commerce
+- Maintece crews keeping dual-reality facilities functional
 
 ### Major Trade Categories
 
@@ -238,8 +298,6 @@ The Customs House serves as an intelligence hub:
 - Cultural exchange accelerating through commercial contact
 - Political pressure increasing as economic interdependence grows
 
-## Smuggling and Illegal Activities
-
 ### Common Contraband
 
 **Dangerous Artifacts:**
@@ -273,7 +331,7 @@ The Customs House serves as an intelligence hub:
 - **Consciousness Riding**: Hiding illegal personalities in legitimate minds
 
 **Corruption of Officials:**
-- **Financial Bribery**: Traditional monetary corruption of customs officers
+- **Ficial Bribery**: Traditional monetary corruption of customs officers
 - **Memory Alteration**: Illegal modification of official memories
 - **Possession Influence**: Crystal consciousness affecting decision-making
 - **Family Threats**: Coercion using kidnapping and intimidation
@@ -284,7 +342,7 @@ The Customs House serves as an intelligence hub:
 **Detection Systems:**
 - **Reality Scanners**: Equipment detecting dimensional anomalies
 - **Memory Probes**: Devices reading consciousness for hidden information
-- **Crystal Resonance**: Technology identifying possessed or enhanced individuals
+- **Crystal Resoce**: Technology identifying possessed or enhanced individuals
 - **Pressure Analysis**: Systems detecting items stored under unusual conditions
 - **Temporal Tracking**: Methods following objects across time distortions
 
@@ -294,8 +352,6 @@ The Customs House serves as an intelligence hub:
 - **Asset Seizure**: Confiscation of illegal goods and trafficking profits
 - **Diplomatic Pressure**: Government-to-government cooperation on major cases
 - **Public Trials**: High-profile prosecutions deterring other smugglers
-
-## Political Tensions and Challenges
 
 ### Governmental Conflicts
 
@@ -328,8 +384,6 @@ The Customs House serves as an intelligence hub:
 - **Personnel Loyalty**: Staff divided by increasing political tensions
 - **Information Security**: Difficulty protecting sensitive data in mixed environment
 - **Physical Security**: Challenge of defending facility existing in multiple realities
-
-## Connection to Campaign Elements
 
 ### [[The Convergence Point]]
 
@@ -367,24 +421,6 @@ The Customs House serves as primary defense against corruption spread:
 - **Treatment Centers**: Early intervention for corruption exposure
 - **Intelligence Sharing**: Tracking corruption spread patterns
 
-## Adventure Hooks and Campaign Integration
-
-### Early Campaign
-
-- Help investigate mysterious smuggling operations
-- Navigate complex customs procedures while transporting sensitive materials
-- Protect facility from corruption outbreak or dimensional instability
-- Mediate disputes between customs officials from different worlds
-- Assist in refugee processing and integration services
-
-### Mid Campaign
-
-- Infiltrate major smuggling organization using customs facility
-- Investigate corruption among customs officials and security personnel
-- Manage diplomatic crisis threatening to close interdimensional trade
-- Use facility as base for operations requiring access to both worlds
-- Prevent hostile takeover of facility by extremist factions
-
 ### Late Campaign
 
 - Defend facility during major convergence-related crisis
@@ -398,13 +434,6 @@ The Customs House serves as primary defense against corruption spread:
 *"Where two worlds meet, opportunity and danger walk hand in hand through the same door."*
 *- Chief Inspector Dual-Current Thane*
 
-
-## Connections
-
-- [[Desperate Plague Victim]]
-- [[Port Meridian - Merchant Quarter]]
-- [[Aethermoor - Session 01 Blood in the Harbor]]
-
 ## Player-Facing Summary
 
 Customs House is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -413,53 +442,21 @@ Customs House is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of Customs House as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Customs House.
 
-## Adventure Hooks
-
-- A rumor ties Customs House to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Customs House to avert a public scandal.
-- A map overlay reveals a hidden approach to Customs House active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Convergence Point|02 Worldbuilding/Lore/The Convergence Point]]
-- [[Merged Reality Zones]]
-- [[The Convergence Point]]
-- [[The Crimson Hand]]
-- [[The Seven Shards]]
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
-- [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]
-- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
-- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
-
-
 ## Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
-
 
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
 
-## Game Applications
 
-### Adventure Hooks
-- Discovery of related artifacts or texts
-- Conflicts arising from different interpretations
-- Prophecies beginning to manifest
+## Plot Hooks
 
-### Character Connections
-- Scholarly interest
-- Personal involvement in events
-- Hereditary knowledge or curse
+- Strange disappearances suggest a curse
+- Someone is blackmailing information for revenge

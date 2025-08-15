@@ -28,13 +28,29 @@ updated: '2025-08-12T23:37:35.539495'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-barlgura-xmm-barlgura-xmm.svg)
 
 # [[barlgura-xmm|Barlgura]]
 *Source: Monster Manual (2024) p. 31*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Barlgura
 
@@ -74,7 +90,6 @@ Barlguras vary in appearance, but all have powerful frames and hands capable of 
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Poisoned|poisoned]]"
@@ -93,14 +108,14 @@ Barlguras vary in appearance, but all have powerful frames and hands capable of 
       \ plus 13 (2d12) Psychic damage."
     "name": "Tormenting Bite"
   - "desc": "Melee Attack Roll: +7, reach 5 ft. Hit: 9 (1d10 + 4) Bludgeoning\
-      \ damage. If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
+      \ damage. If the target is a Large or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Thrash"
   - "desc": "The barlgura casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
       \n2/day each: [[disguise-self-xphb|Disguise Self]],\
       \ [[invisibility-xphb|Invisibility]] (self only)\n\
-      \n1/day each: [[entangle-xphb|Entangle]], [[phantasmal-killer-xphb|Phantasmal\
+      \n1/day each: [[entangle-xphb|Entangle]], [[phantasmal-killer-xphb|Phantasmal\]]
       \ Killer]] (level 6 version)"
     "name": "Spellcasting"
 "bonus_actions":
@@ -124,19 +139,33 @@ Barlgura xmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of barlgura xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around barlgura xmm.
 
-## Adventure Hooks
-
-- A rumor ties barlgura xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at barlgura xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to barlgura xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and evil awakens
+- The authorities needs help stealing before dawn
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

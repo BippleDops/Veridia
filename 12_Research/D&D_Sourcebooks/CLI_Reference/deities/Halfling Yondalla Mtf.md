@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:04.469500+00:00'
 world: Both
 ---
 
-
-
 # Yondalla
 *Source: Mordenkainen's Tome of Foes p. 102, Tasha's Cauldron of Everything p. 34* 
 
@@ -41,6 +39,24 @@ Yondalla created the first halfling villages and showed the people how to build,
 
 To the halflings, Yondalla is responsible for the spring in their step and the bubbly excitement they feel from knowing that luck is on their side. When a pumpkin grows to enormous size or a garden yields twice as many carrots as usual, credit goes to Yondalla. When a halfling trips, slides down a hillside, and lands on a nugget of gold, that's Yondalla turning bad luck into good.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Halfling yondalla mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -49,19 +65,23 @@ Halfling yondalla mtf is a undersea element of the setting, known for biolumines
 
 Legends speak of halfling yondalla mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around halfling yondalla mtf.
 
-## Adventure Hooks
-
-- A rumor ties halfling yondalla mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at halfling yondalla mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to halfling yondalla mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

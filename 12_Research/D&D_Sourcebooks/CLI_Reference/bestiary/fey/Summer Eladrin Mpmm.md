@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.529136+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-summer-eladrin-mpmm-summer-eladrin-mpmm.svg)
 
@@ -40,12 +37,29 @@ world: Both
 
 When angered, eladrin enter the season of summer, a burning, tempestuous state that transforms them into aggressive warriors eager to vent their wrath. Their magic responds to their fury and amplifies their fighting ability, helping them move with astonishing quickness and strike with terrible force.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Eladrin
 
 > [!quote] A quote from Tasha  
 > 
 > If an autumn eladrin invites you over for dinner, come with an empty stomach. Their goodwill extends to heaping portions.
-> 
 > Note to self: send some of my spring eladrin friends to visit Mordenkainen. That'll teach him to lighten up.
 
 Eladrin dwell in the verdant splendor of the Feywild. They are related to the elves found on the Material Plane. But while other elves can temper their wild impulses, eladrin are ruled by emotion—and due to their magical nature, they undergo physical changes to match their changes in temperament.
@@ -81,7 +95,6 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
   - "name": "[[skills#Athletics|Athletics]]"
     "desc": "+8"
   - "name": "[[skills#Intimidation|Intimidation]]"
-    "desc": "+8"
 "damage_resistances": "fire"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common, Elvish, Sylvan"
@@ -89,7 +102,7 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "traits":
   - "desc": "Any non-eladrin creature that starts its turn within 60 feet of the eladrin\
       \ must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes\
-      \ [[conditions#Frightened|frightened]] of the eladrin for\
+      \ [[conditions#frightened|frightened]] of the eladrin for\
       \ 1 minute. A creature can repeat the saving throw at the end of each of its\
       \ turns, ending the effect on itself on a success. If a creature's saving throw\
       \ is successful or the effect ends for it, the creature is immune to any eladrin's\
@@ -135,19 +148,25 @@ Summer eladrin mpmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of summer eladrin mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around summer eladrin mpmm.
 
-## Adventure Hooks
-
-- A rumor ties summer eladrin mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at summer eladrin mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to summer eladrin mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

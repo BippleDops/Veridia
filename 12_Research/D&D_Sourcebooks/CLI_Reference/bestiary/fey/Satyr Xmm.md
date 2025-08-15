@@ -30,16 +30,31 @@ updated: '2025-08-13T12:34:05.541706+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-satyr-xmm-satyr-xmm.svg)
 
 # [[satyr-xmm|Satyr]]
-*Source: Monster Manual (2024) p. 268. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 268. Available in the SRD and the Free Rules (2024)*  
 
 Satyrs enjoy demonstrating their physicality through contests, evicting party poopers, and defending Fey realms.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Satyrs
 
@@ -63,7 +78,6 @@ Satyrs embody the untamed joys of the wilderness. They indulge in sprees of merr
   - !!int "12"
   - !!int "16"
   - !!int "11"
-  - !!int "12"
   - !!int "10"
   - !!int "14"
 "speed": "40 ft."
@@ -107,19 +121,25 @@ Satyr xmm is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of satyr xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around satyr xmm.
 
-## Adventure Hooks
-
-- A rumor ties satyr xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at satyr xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to satyr xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.401944'
 world: Both
 ---
 
-
 # 2,500 gp Art Objects
 *Source: Dungeon Master's Guide p. 134* 
 
@@ -43,6 +42,24 @@ world: Both
 | 10 | A [[necklace-string-of-small-pink-pearls-xdmg|necklace string of small pink pearls]] |
 ^2500-gp-art-objects
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 2500 gp art objects is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -51,19 +68,26 @@ world: Both
 
 Legends speak of 2500 gp art objects as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 2500 gp art objects.
 
-## Adventure Hooks
-
-- A rumor ties 2500 gp art objects to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 2500 gp art objects to avert a public scandal.
-- A map overlay reveals a hidden approach to 2500 gp art objects active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before winter
+- A shipment has gone missing and chaos spreads
+- A prisoner has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

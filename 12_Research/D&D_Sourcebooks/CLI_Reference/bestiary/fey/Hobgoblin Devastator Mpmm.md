@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:05.533074+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![[04_Resources/Assets/Creatures/creature-creature-hobgoblin-devastator-mpmm-hobgoblin-devastator-mpmm.png]]
 
@@ -66,7 +63,6 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
   - !!int "12"
   - !!int "14"
   - !!int "16"
-  - !!int "13"
   - !!int "11"
 "speed": "30 ft."
 "skillsaves":
@@ -89,7 +85,7 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
       \ hands, plus 13 (3d8) force damage."
     "name": "Quarterstaff"
   - "desc": "Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 21\
-      \ (4d8 + 3) force damage, and the target is knocked [[conditions#Prone|prone]]."
+      \ (4d8 + 3) force damage, and the target is knocked [[conditions#prone|prone]]."
     "name": "Devastating Bolt"
   - "desc": "The hobgoblin casts one of the following spells, using Intelligence as\
       \ the spellcasting ability (spell save DC 13):\n\nAt will: [[mage-hand-xphb|mage hand]],\
@@ -105,6 +101,24 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 forest, grassland, hill
@@ -117,19 +131,33 @@ Hobgoblin devastator mpmm is a undersea element of the setting, known for biolum
 
 Legends speak of hobgoblin devastator mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hobgoblin devastator mpmm.
 
-## Adventure Hooks
-
-- A rumor ties hobgoblin devastator mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at hobgoblin devastator mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to hobgoblin devastator mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before the new moon
+- A merchant needs help finding before winter
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

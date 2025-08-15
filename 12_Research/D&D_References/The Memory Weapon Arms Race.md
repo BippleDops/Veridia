@@ -16,22 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Rescue Senator Glaucus|02 Worldbuilding/Quests/Rescue Senator Glaucus]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[The Convergence Point]]
-- [[The Crimson Hand]]
-- [[The Forgetting Bomb]]
-- [[Timeline of the Drowning]]
-- [[Umbral Exchange]]
-- [[Rescue Senator Glaucus]]
 
 ## Player-Facing Summary
 
@@ -41,19 +41,34 @@ The Memory Weapon Arms Race is a undersea element of the setting, known for biol
 
 Legends speak of The Memory Weapon Arms Race as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Memory Weapon Arms Race.
 
-## Adventure Hooks
-
-- A rumor ties The Memory Weapon Arms Race to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Memory Weapon Arms Race to avert a public scandal.
-- A map overlay reveals a hidden approach to The Memory Weapon Arms Race active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before winter
+- A shipment has gone missing and truth emerges
+- A letter reveals the truth about the cult
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

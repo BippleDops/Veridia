@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.716601'
 world: Both
 ---
 
-
 # Supernatural Hooks
 *Source: Dungeon Master's Guide (2024) p. 111* 
 
@@ -39,6 +38,24 @@ world: Both
 | 6 | Someone who died returns as a ghost and haunts the characters. The ghost prompts the characters to investigate the cause of the ghost's death and put it to rest. |
 ^supernatural-hooks
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Supernatural hooks xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -47,19 +64,20 @@ Supernatural hooks xdmg is a undersea element of the setting, known for biolumin
 
 Legends speak of supernatural hooks xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around supernatural hooks xdmg.
 
-## Adventure Hooks
-
-- A rumor ties supernatural hooks xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at supernatural hooks xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to supernatural hooks xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -1,4 +1,5 @@
 ---
+
 title: Synthesis Healing Pods
 type: item
 tags:
@@ -6,18 +7,83 @@ tags:
 - needs-content
 - item
 - active
+- conspiracy
+- bloodline
+- prophecy
 created: 2025-08-14
 modified: '2025-08-14'
 status: placeholder
 rarity: Unknown
 value: Unknown
 updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
 
 
 # 02_Worldbuilding/Items/Synthesis Healing Pods
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
 
 ## Description
 
@@ -26,12 +92,6 @@ updated: 2025-08-14
 ## Details
 
 *[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[The Shadow-Crystal Synthesis]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow-Crystal Synthesis]]
 
 ## Notes
 
@@ -49,22 +109,6 @@ updated: 2025-08-14
 **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 **Attunement**: Required/Not Required
 **Value**: 100-10,000 gp
-
-
-## Mechanics
-
-### Base Properties
-- Standard item statistics
-
-### Magical Effects
-- Primary power
-- Secondary benefits
-- Activation requirements
-
-### Limitations
-- Usage restrictions
-- Recharge requirements
-
 
 ## DM Notes
 

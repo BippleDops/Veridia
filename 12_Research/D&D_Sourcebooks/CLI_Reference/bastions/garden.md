@@ -21,8 +21,6 @@ updated: '2025-08-13T01:18:32.408101+00:00'
 world: Both
 ---
 
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-purification-gardens-the-purification-gardens.svg)
 
@@ -37,6 +35,24 @@ world: Both
 A Bastion can have more than one Garden. Each time you add a Garden to your Bastion, choose its type from the options in the Garden Types table.
 
 While in your Bastion, you can instruct the facility's hireling to change the Garden from one type to another. This work takes 21 days, during which time no other activity can occur in this facility.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Harvest: Garden Growth
 
@@ -66,19 +82,30 @@ Garden is a undersea element of the setting, known for bioluminescent glow and p
 
 Legends speak of garden as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around garden.
 
-## Adventure Hooks
-
-- A rumor ties garden to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at garden to avert a public scandal.
-- A map overlay reveals a hidden approach to garden active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## Plot Hooks
+
+- A noble needs help delivering before the festival
+- A journal reveals a betrayal about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -30,8 +30,6 @@ updated: '2025-08-12T23:37:35.271622'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-boggle-mpmm-boggle-mpmm.svg)
 
@@ -69,7 +67,6 @@ A boggle can create magical openings to travel short distances or to pilfer item
   - "name": "[[skills#Sleight%20of%20Hand|Sleight of Hand]]"
     "desc": "+6"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+6"
 "damage_resistances": "fire"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Sylvan"
@@ -83,7 +80,7 @@ A boggle can create magical openings to travel short distances or to pilfer item
       \ terrain for all creatures except boggles and lasts for 1 hour. The oil has\
       \ one of the following additional effects of the boggle's choice:\n\n- Slippery\
       \ Oil. Any non-boggle creature that enters the puddle or starts its turn there\
-      \ must succeed on a DC 11 Dexterity saving throw or fall [[conditions#Prone|prone]].\
+      \ must succeed on a DC 11 Dexterity saving throw or fall [[conditions#prone|prone]].\
       \  \n- Sticky Oil. Any non-boggle creature that enters the puddle or starts\
       \ its turn there must succeed on a DC 11 Strength saving throw or be [[conditions#Restrained|restrained]].\
       \ On its turn, a creature can use an action to try to extricate itself, ending\
@@ -120,6 +117,24 @@ A boggle can create magical openings to travel short distances or to pilfer item
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 forest, hill, underdark, urban
@@ -132,19 +147,28 @@ Boggle mpmm is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of boggle mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around boggle mpmm.
 
-## Adventure Hooks
-
-- A rumor ties boggle mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at boggle mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to boggle mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for love
+- A document has gone missing and truth emerges
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

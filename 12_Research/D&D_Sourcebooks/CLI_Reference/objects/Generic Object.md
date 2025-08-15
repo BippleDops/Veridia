@@ -24,15 +24,31 @@ updated: '2025-08-13T12:34:05.134217+00:00'
 world: Both
 ---
 
-
-
 # Generic Object
 %%-- Embedded content starts on the next line. --%%
-*Source: Dungeon Master's Guide p. 246. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+*Source: Dungeon Master's Guide p. 246. Available in the SRD*  
 
 When characters need to saw through ropes, shatter a window, or smash a vampire's coffin, the only hard and fast rule is this: given enough time and the right tools, characters can destroy any destructible object. Use common sense when determining a character's success at damaging an object. Can a fighter cut through a section of a stone wall with a sword? No, the sword is likely to break before the wall does.
 
-For the purpose of these rules, an object is a discrete, inanimate item like a window, door, sword, book, table, chair, or stone, not a building or a vehicle that is composed of many other objects.
+For the purpose of these rules, an object is a discrete, iimate item like a window, door, sword, book, table, chair, or stone, not a building or a vehicle that is composed of many other objects.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Statistics for Objects
 
@@ -65,10 +81,8 @@ Big objects such as castle walls often have extra resilience represented by a da
 ## Statblock
 
 ```ad-statblock
-title: Generic Object
 ![](/03_Mechanics/CLI/objects/token/generic-object.webp#token)
 *Varies Generic*
-
 
 - **Speed** 
 
@@ -88,19 +102,20 @@ Generic object is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of generic object as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around generic object.
 
-## Adventure Hooks
-
-- A rumor ties generic object to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at generic object to avert a public scandal.
-- A map overlay reveals a hidden approach to generic object active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -14,23 +14,38 @@ modified: '2025-08-14'
 
 %% Use reading mode for visual gallery %%
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## vehicle-ship-abyssal-scout-submarine-abyssal-scout-submarine
 ![[04_Resources/Assets/Vehicles/vehicle-ship-abyssal-scout-submarine-abyssal-scout-submarine.png]]
 
 ## vehicle-ship-abyssal-scout-submarine-abyssal-scout-submarine
-![[04_Resources/Assets/Vehicles/vehicle-ship-abyssal-scout-submarine-abyssal-scout-submarine.png]]
 
 ## vehicle-ship-abyssal-scout-submarine-v1-abyssal-scout-submarine
 ![[04_Resources/Assets/Vehicles/vehicle-ship-abyssal-scout-submarine-v1-abyssal-scout-submarine.png]]
 
 ## vehicle-ship-abyssal-scout-submarine-v1-abyssal-scout-submarine
-![[04_Resources/Assets/Vehicles/vehicle-ship-abyssal-scout-submarine-v1-abyssal-scout-submarine.png]]
 
 ## vehicle-ship-abyssal-scout-submarine-v2-abyssal-scout-submarine
 ![[04_Resources/Assets/Vehicles/vehicle-ship-abyssal-scout-submarine-v2-abyssal-scout-submarine.png]]
 
 ## vehicle-ship-abyssal-scout-submarine-v2-abyssal-scout-submarine
-![[04_Resources/Assets/Vehicles/vehicle-ship-abyssal-scout-submarine-v2-abyssal-scout-submarine.png]]
 
 ## vehicle-ship-aether-sail-testbed-aether-sail-testbed
 ![[04_Resources/Assets/Vehicles/vehicle-ship-aether-sail-testbed-aether-sail-testbed.svg]]
@@ -45,19 +60,16 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Vehicles/vehicle-ship-aethermoor-courier-class-airship-aethermoor-courier-class-airship.png]]
 
 ## vehicle-ship-aethermoor-courier-class-airship-aethermoor-courier-class-airship
-![[04_Resources/Assets/Vehicles/vehicle-ship-aethermoor-courier-class-airship-aethermoor-courier-class-airship.png]]
 
 ## vehicle-ship-aethermoor-courier-class-airship-v1-aethermoor-courier-class-airship
 ![[04_Resources/Assets/Vehicles/vehicle-ship-aethermoor-courier-class-airship-v1-aethermoor-courier-class-airship.png]]
 
 ## vehicle-ship-aethermoor-courier-class-airship-v1-aethermoor-courier-class-airship
-![[04_Resources/Assets/Vehicles/vehicle-ship-aethermoor-courier-class-airship-v1-aethermoor-courier-class-airship.png]]
 
 ## vehicle-ship-aethermoor-courier-class-airship-v2-aethermoor-courier-class-airship
 ![[04_Resources/Assets/Vehicles/vehicle-ship-aethermoor-courier-class-airship-v2-aethermoor-courier-class-airship.png]]
 
 ## vehicle-ship-aethermoor-courier-class-airship-v2-aethermoor-courier-class-airship
-![[04_Resources/Assets/Vehicles/vehicle-ship-aethermoor-courier-class-airship-v2-aethermoor-courier-class-airship.png]]
 
 ## vehicle-ship-altitude-tuned-skiff-altitude-tuned-skiff
 ![[04_Resources/Assets/Vehicles/vehicle-ship-altitude-tuned-skiff-altitude-tuned-skiff.svg]]
@@ -135,19 +147,16 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Vehicles/vehicle-ship-hybrid-rift-runner-sloop-hybrid-rift-runner-sloop.png]]
 
 ## vehicle-ship-hybrid-rift-runner-sloop-hybrid-rift-runner-sloop
-![[04_Resources/Assets/Vehicles/vehicle-ship-hybrid-rift-runner-sloop-hybrid-rift-runner-sloop.png]]
 
 ## vehicle-ship-hybrid-rift-runner-sloop-v1-hybrid-rift-runner-sloop
 ![[04_Resources/Assets/Vehicles/vehicle-ship-hybrid-rift-runner-sloop-v1-hybrid-rift-runner-sloop.png]]
 
 ## vehicle-ship-hybrid-rift-runner-sloop-v1-hybrid-rift-runner-sloop
-![[04_Resources/Assets/Vehicles/vehicle-ship-hybrid-rift-runner-sloop-v1-hybrid-rift-runner-sloop.png]]
 
 ## vehicle-ship-hybrid-rift-runner-sloop-v2-hybrid-rift-runner-sloop
 ![[04_Resources/Assets/Vehicles/vehicle-ship-hybrid-rift-runner-sloop-v2-hybrid-rift-runner-sloop.png]]
 
 ## vehicle-ship-hybrid-rift-runner-sloop-v2-hybrid-rift-runner-sloop
-![[04_Resources/Assets/Vehicles/vehicle-ship-hybrid-rift-runner-sloop-v2-hybrid-rift-runner-sloop.png]]
 
 ## vehicle-ship-kelp-weave-patrol-boat-kelp-weave-patrol-boat
 ![[04_Resources/Assets/Vehicles/vehicle-ship-kelp-weave-patrol-boat-kelp-weave-patrol-boat.svg]]
@@ -176,14 +185,14 @@ modified: '2025-08-14'
 ## vehicle-ship-pressure-lifter-barge-v2-pressure-lifter-barge
 ![[04_Resources/Assets/Vehicles/vehicle-ship-pressure-lifter-barge-v2-pressure-lifter-barge.svg]]
 
-## vehicle-ship-resonance-drive-yacht-resonance-drive-yacht
-![[04_Resources/Assets/Vehicles/vehicle-ship-resonance-drive-yacht-resonance-drive-yacht.svg]]
+## vehicle-ship-resoce-drive-yacht-resoce-drive-yacht
+![[04_Resources/Assets/Vehicles/vehicle-ship-resoce-drive-yacht-resoce-drive-yacht.svg]]
 
-## vehicle-ship-resonance-drive-yacht-v1-resonance-drive-yacht
-![[04_Resources/Assets/Vehicles/vehicle-ship-resonance-drive-yacht-v1-resonance-drive-yacht.svg]]
+## vehicle-ship-resoce-drive-yacht-v1-resoce-drive-yacht
+![[04_Resources/Assets/Vehicles/vehicle-ship-resoce-drive-yacht-v1-resoce-drive-yacht.svg]]
 
-## vehicle-ship-resonance-drive-yacht-v2-resonance-drive-yacht
-![[04_Resources/Assets/Vehicles/vehicle-ship-resonance-drive-yacht-v2-resonance-drive-yacht.svg]]
+## vehicle-ship-resoce-drive-yacht-v2-resoce-drive-yacht
+![[04_Resources/Assets/Vehicles/vehicle-ship-resoce-drive-yacht-v2-resoce-drive-yacht.svg]]
 
 ## vehicle-ship-sky-cutter-interceptor-sky-cutter-interceptor
 ![[04_Resources/Assets/Vehicles/vehicle-ship-sky-cutter-interceptor-sky-cutter-interceptor.svg]]
@@ -221,11 +230,9 @@ modified: '2025-08-14'
 ## vehicle-ship-void-skimmer-cutter-void-skimmer-cutter
 ![[04_Resources/Assets/Vehicles/vehicle-ship-void-skimmer-cutter-void-skimmer-cutter.svg]]
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -234,3 +241,15 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and evil awakens
+- A shipment has gone missing and war looms
+- Someone is searching for a artifact for power
+- Strange accidents suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

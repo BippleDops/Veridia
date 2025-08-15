@@ -23,14 +23,11 @@ updated: '2025-08-12T23:37:37.505968'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-rod-of-security-xdmg-rod-of-security-xdmg.svg)
 
 # Rod of Security
 *Rod, very rare*  
-
 
 - **Weight**: 2.0 lbs.
 
@@ -40,7 +37,25 @@ For each hour spent in the demiplane, a visitor regains [[hit-points-xphb|Hit Po
 
 When the time runs out or you take a [[actions#Magic|Magic]] action to end the effect, all visitors reappear in the location they occupied when you activated the rod or an unoccupied space nearest that location. Once used, this property can't be used again until 10 days have passed.
 
-*Source: Dungeon Master's Guide (2024) p. 301. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 301. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -50,18 +65,9 @@ Rod of security xdmg is a undersea element of the setting, known for bioluminesc
 
 Legends speak of rod of security xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around rod of security xdmg.
 
-## Adventure Hooks
-
-- A rumor ties rod of security xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at rod of security xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to rod of security xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

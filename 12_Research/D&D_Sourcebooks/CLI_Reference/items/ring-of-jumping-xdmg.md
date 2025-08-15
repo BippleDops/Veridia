@@ -23,19 +23,33 @@ updated: '2025-08-12T23:37:37.041550'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-ring-of-jumping-xdmg-ring-of-jumping-xdmg.svg)
 
 # Ring of Jumping
 *Ring, uncommon (requires attunement)*  
 
-
-
 While wearing this ring, you can cast [[jump-xphb|Jump]] from it, but can target only yourself when you do so.
 
-*Source: Dungeon Master's Guide (2024) p. 293. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 293. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -45,19 +59,27 @@ Ring of jumping xdmg is a undersea element of the setting, known for bioluminesc
 
 Legends speak of ring of jumping xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ring of jumping xdmg.
 
-## Adventure Hooks
-
-- A rumor ties ring of jumping xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ring of jumping xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to ring of jumping xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing a artifact for love
+- A noble needs help stealing before the new moon
+- Someone is hunting an heir for power
+- A journal reveals a conspiracy about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

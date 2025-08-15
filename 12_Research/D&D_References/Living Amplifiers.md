@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.648075+00:00'
 world: Both
 ---
 
-
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-living-amplifiers-living-amplifiers.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Cult of Screams|02 Worldbuilding/Groups/Cult Of Screams]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Cult of Screams]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,17 @@ Living Amplifiers is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Living Amplifiers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Living Amplifiers.
 
-## Adventure Hooks
-
-- A rumor ties Living Amplifiers to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Living Amplifiers to avert a public scandal.
-- A map overlay reveals a hidden approach to Living Amplifiers active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals the truth about a local noble
+- A noble needs help delivering before winter
+- Strange sightings suggest a portal

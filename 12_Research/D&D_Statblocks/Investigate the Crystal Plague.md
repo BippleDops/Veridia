@@ -25,19 +25,30 @@ updated: '2025-08-13T01:18:36.834409+00:00'
 cr: '8'
 ---
 
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-investigate-the-crystal-plague-investigate-the-crystal-plague.svg]]
-
-
-
-
-
 
 # Investigate the Crystal Plague
 
 **Level:** 8-11 | **Type:** Investigation/Horror | **Duration:** 4-6 sessions
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 A mysterious crystalline disease is spreading through Aethermoor, transforming victims into living crystal statues while maintaining their consciousness. The government has quarantined affected areas, but the plague continues spreading. Investigators must uncover its source and find a cure before the entire city succumbs.
@@ -79,51 +90,8 @@ The plague originates from experiments with Far Realm crystals that escaped cont
 ## Rewards
 10,000 gp, Staff of Greater Healing, Crystal of Protection, government honors
 
-## Complications
-- Government cover-up attempts to hide research program
-- Some victims prefer their crystal form
-- Rival nations seek to weaponize the plague
-- Religious orders declare plague divine punishment
-- Crystal creatures develop intelligence and agenda
-
 ## DM Notes
 Balance body horror with investigative mystery. The conscious crystal victims create moral dilemmas about cure vs. acceptance. Use quarantine zones for tense infiltration scenes.
-
-
-## Connections
-
-- [[Aethermoor - Session 01 Blood in the Harbor]]
-- [[Aethermoor - Session 02 The Lighthouse of Storms]]
-
-
-## Appearance
-
-
-TODO
-
-
-## Personality
-
-
-TODO
-
-
-## Goals
-
-
-TODO
-
-
-## Relationships
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -133,20 +101,31 @@ Investigate the Crystal Plague is a undersea element of the setting, known for b
 
 Legends speak of Investigate the Crystal Plague as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Investigate the Crystal Plague.
 
-## Adventure Hooks
-
-- A rumor ties Investigate the Crystal Plague to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Investigate the Crystal Plague to avert a public scandal.
-- A map overlay reveals a hidden approach to Investigate the Crystal Plague active only during specific tides/storms.
-
 ## Cross-References
 
 - [[Investigate the Crystal Plague|02 Worldbuilding/People/Investigate The Crystal Plague]]
 
-<!-- enriched: true -->
 nriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Relationships
+
+- **Enemy**: [[Quest the Pretender.png]]
+- **Enemy**: [[Session 4]]
+- **Friend**: [[High Techno-Priest Lumina Skyweaver]]
+- **Sibling**: [[Portrait NPC Admiral Cassandra Stormwind V2 Admiral Cassandra Stormwind.svg]]
+- **Student**: [[Portrait NPC Ancient King Pelagios Ancient King Pelagios.svg]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,12 +22,26 @@ updated: '2025-08-12T23:37:35.724716'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-annis-hag-vgm-annis-hag-vgm.svg)
 
-# Hag
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Volo's Guide to Monsters_
@@ -40,7 +54,6 @@ On initiative count 20 (losing initiative ties), the hag can take a lair action 
 - The hag targets any number of doors and windows that she can see, causing each one to either open or close as she wishes. Closed doors can be magically locked (requiring a successful DC 20 Strength check to force open) until she chooses to make them unlocked, or until she uses this lair action again to open them.  
 
 ## Regional effects
-_Source: Volo's Guide to Monsters_
 
 Each hag's lair is the source of three to five regional effects; the home of a grandmother, an auntie, or a coven has more effects than the lair of a single hag, including some that can directly harm intruders. Any regional effect that requires a creature to make a saving throw uses the save DC of the hag's most powerful ability. These effects either end immediately if the hag dies or abandons the lair, or take up to `2d10` days to fade away.
 
@@ -58,19 +71,27 @@ Hag vgm is a undersea element of the setting, known for bioluminescent glow and 
 
 Legends speak of hag vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hag vgm.
 
-## Adventure Hooks
-
-- A rumor ties hag vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at hag vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to hag vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and chaos spreads
+- A prisoner has gone missing and war looms
+- A letter reveals a conspiracy about the cult
+- A journal reveals ancient history about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

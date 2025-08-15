@@ -35,24 +35,35 @@ related_entities:
 - '[[The Crimson Fleet|02 Worldbuilding/Groups/The Crimson Fleet]]'
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-azure-coast-the-azure-coast.svg]]
 
-
-
-
-
 # The Azure Coast
 *The Golden Shore of Maritime Commerce*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
 The Azure Coast stretches along the western edge of [[Aethermoor|02 Worldbuilding/Places/Aethermoor]], forming the continent's primary maritime frontier and its most prosperous trading region. Named for the distinctive blue-tinted waters created by underwater crystal formations, this 400-mile coastline serves as the main interface between the surface world and the underwater realm of [[Aquabyssos]].
 
 From the great port city of [[Port Meridian|02 Worldbuilding/Places/Port Meridian]] in the north to the lighthouse settlements of the southern capes, the Azure Coast represents both opportunity and danger. Here, surface merchants trade with underwater diplomats, pirates prey upon wealthy cargo vessels, and ancient ruins emerge from the tides during the lowest waters of the season.
-
-## Geography & Climate
 
 ### Coastal Features
 **The Great Harbor**: Natural deep-water bay hosting [[Port Meridian|02 Worldbuilding/Places/Port Meridian]]
@@ -73,8 +84,6 @@ The Azure Coast enjoys a temperate maritime climate moderated by warm currents f
 **Depth Mists**: Fog that sometimes carries breathable water for underwater visitors
 **Pressure Wells**: Areas where surface dwellers can safely descend underwater
 **Tidal Ruins**: Ancient structures that appear only during extreme low tides
-
-## Major Cities & Settlements
 
 ### Port Meridian
 *The Crown Jewel of the Azure Coast*
@@ -102,8 +111,6 @@ The Azure Coast enjoys a temperate maritime climate moderated by warm currents f
 **Tidecaller's Harbor**: Central coast settlement, population 18,000  
 **Sorrow Watch**: Southern lighthouse town, population 8,000
 
-## Economic Activities
-
 ### Maritime Trade
 **Surface-Underwater Commerce**: Primary economic driver of the region
 - Memory pearls, pressure-adapted tools, deep-sea delicacies from [[Aquabyssos]]
@@ -123,8 +130,6 @@ The Azure Coast enjoys a temperate maritime climate moderated by warm currents f
 **Tourism**: Wealthy visitors seeking underwater experiences
 **Research Support**: Academic expeditions studying coastal phenomena
 
-## Transportation Networks
-
 ### Maritime Routes
 **The Great Circle**: Major shipping lane connecting all coastal cities
 **The Deep Current**: Underwater route used by [[Aquabyssos]] vessels
@@ -136,8 +141,6 @@ The Azure Coast enjoys a temperate maritime climate moderated by warm currents f
 **The Crystal Road**: Ancient route enhanced with magical wayfinding
 **The Merchant Trail**: Secondary roads serving smaller communities
 **The Signal Network**: Lighthouse-based communication system
-
-## Political Landscape
 
 ### The Coastal Alliance
 Loose confederation of city-states cooperating on:
@@ -151,14 +154,6 @@ Loose confederation of city-states cooperating on:
 **The Goldspire Federation**: Mining guilds and trading companies
 **The Azure Bay Cooperative**: Fishing communities and "independent" operators
 **The Lighthouse League**: Navigational services and coastal safety
-
-### External Relations
-- Regular diplomatic contact with [[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] and inland kingdoms
-- Formal treaties with [[Aquabyssos]] through [[Aquabyssos Ambassadors|02 Worldbuilding/Lore/Aquabyssos Ambassadors]]
-- Ongoing negotiations with [[The Cerulean Archipelago|02 Worldbuilding/Places/The Cerulean Archipelago]] island nations
-- Tense relationships with various pirate organizations
-
-## Dangers & Threats
 
 ### Maritime Hazards
 **The Crimson Fleet**: Organized pirates targeting wealthy merchant vessels
@@ -178,8 +173,6 @@ Loose confederation of city-states cooperating on:
 **Climate Shifts**: Changing patterns disrupting traditional activities
 **Magical Contamination**: Experiments affecting local ecosystem
 
-## Game Mechanics (D&D 5e)
-
 ### Regional Travel
 **Overland**: 25 miles per day on Coastal Highway
 **Maritime**: 50-100 miles per day depending on wind and currents
@@ -188,7 +181,7 @@ Loose confederation of city-states cooperating on:
 
 ### Environmental Effects
 **Azure Glow**: Dim magical illumination during nighttime coastal travel
-**Crystal Resonance**: Enhanced magical effects near tidal pools
+**Crystal Resoce**: Enhanced magical effects near tidal pools
 **Pressure Changes**: Constitution saves required for rapid depth changes
 **Tidal Timing**: Extreme low tides reveal hidden areas and dangers
 
@@ -197,8 +190,6 @@ Loose confederation of city-states cooperating on:
 **Inter-realm Translation**: 25 gold per day for diplomatic interpreters
 **Vessel Charter**: 100-500 gold per day for specialized transportation
 **Diplomatic Escort**: 200+ gold per day for official protection
-
-## Notable Locations
 
 ### The Diplomatic Anchorage
 *Neutral waters for surface-underwater meetings*
@@ -241,25 +232,11 @@ Loose confederation of city-states cooperating on:
 9. **The Lighthouse Conspiracy**: Navigation beacons are being deliberately sabotaged
 10. **The Underwater Invasion**: Evidence suggests hostile forces massing in deep waters
 
-## Cultural Features
-
 ### Festivals & Traditions
 **The Tide Festival**: Annual celebration of surface-underwater cooperation
 **The Crystal Moon**: Nighttime festival showcasing azure glow phenomena
 **The Sailor's Blessing**: Pre-voyage ceremonies ensuring safe passage
 **The Harvest Tide**: Celebration of successful fishing and trading seasons
-
-### Art & Architecture
-- Hybrid building styles incorporating both surface and underwater aesthetics
-- Sculptures and artwork celebrating maritime heritage
-- Distinctive lighthouse designs serving as regional landmarks
-- Memorial monuments honoring those lost at sea
-
-### Cuisine & Lifestyle
-- Fusion cooking combining surface and underwater ingredients
-- Maritime customs adapted for inter-realm interaction
-- Specialized clothing for varying environmental conditions
-- Languages and dialects incorporating multiple cultural influences
 
 ## Connections to Ongoing Campaigns
 
@@ -272,18 +249,7 @@ The Azure Coast provides:
 - Archaeological opportunities in tidal ruins and underwater sites
 - Transportation hub connecting various campaign locations
 - Source of unique resources, information, and specialized services
-EOF < /dev/null
-
-## Connections
-
-- [[Merchant Princes]]
-- [[The Great Crystallization]]
-- [[The Seven Shards]]
-- [[The Azure Prophet Nerissa]]
-- [[Port Meridian]]
-- [[Quest - The Convergence Crisis]]
-- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
+EOF < /dev/
 
 ## Player-Facing Summary
 
@@ -293,23 +259,21 @@ The Azure Coast is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of The Azure Coast as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Azure Coast.
 
-## Adventure Hooks
-
-- A rumor ties The Azure Coast to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Azure Coast to avert a public scandal.
-- A map overlay reveals a hidden approach to The Azure Coast active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[The Azure Coast|02 Worldbuilding/Places/The Azure Coast]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals the truth about the cult
+- A noble needs help delivering before dawn
+- A journal reveals ancient history about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

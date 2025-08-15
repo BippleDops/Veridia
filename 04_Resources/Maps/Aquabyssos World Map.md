@@ -52,15 +52,9 @@ Notes
 - Edit markers above to add more locations. Coordinates are illustrative.
 - You can switch to an image overlay map if you add a local image and specify bounds.
 
-## Cross-References
-
-- [[Aquabyssos Vault Readme]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

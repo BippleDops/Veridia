@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.282000'
 world: Both
 ---
 
-
 # Monsters by Habitat; Forest Monsters
 *Source: Monster Manual (2024) p. 375* 
 
@@ -37,18 +36,36 @@ world: Both
 | 2 | [[ankheg-xmm|Ankheg]], [[awakened-tree-xmm|Awakened Tree]], [[centaur-trooper-xmm|Centaur Trooper]], [[ettercap-xmm|Ettercap]], [[faerie-dragon-adult-xmm|Faerie Dragon Adult]], [[giant-boar-xmm|Giant Boar]], [[giant-constrictor-snake-xmm|Giant Constrictor Snake]], [[giant-elk-xmm|Giant Elk]], [[gnoll-pack-lord-xmm|Gnoll Pack Lord]], [[green-dragon-wyrmling-xmm|Green Dragon Wyrmling]], [[grick-xmm|Grick]], [[lizardfolk-geomancer-xmm|Lizardfolk Geomancer]], [[ogre-xmm|Ogre]], [[pegasus-xmm|Pegasus]], [[swarm-of-stirges-xmm|Swarm of Stirges]], [[swarm-of-venomous-snakes-xmm|Swarm of Venomous Snakes]], [[wererat-xmm|Wererat]], [[will-o-wisp-xmm|Will-o'-Wisp]] |
 | 3 | [[bugbear-stalker-xmm|Bugbear Stalker]], [[displacer-beast-xmm|Displacer Beast]], [[goblin-hexer-xmm|Goblin Hexer]], [[gold-dragon-wyrmling-xmm|Gold Dragon Wyrmling]], [[green-hag-xmm|Green Hag]], [[hobgoblin-captain-xmm|Hobgoblin Captain]], [[owlbear-xmm|Owlbear]], [[phase-spider-xmm|Phase Spider]], [[werewolf-xmm|Werewolf]], [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|Yuan-ti Malison (Type 1)]]/[[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-2-xmm|Yuan-ti Malison (Type 2)]]/[[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-3-xmm|Yuan-ti Malison (Type 3)]] |
 | 4 | [[couatl-xmm|Couatl]], [[gnoll-fang-of-yeenoghu-xmm|Gnoll Fang of Yeenoghu]], [[hippopotamus-xmm|Hippopotamus]], [[lizardfolk-sovereign-xmm|Lizardfolk Sovereign]], [[wereboar-xmm|Wereboar]], [[weretiger-xmm|Weretiger]] |
-| 5 | [[gorgon-xmm|Gorgon]], [[pixie-wonderbringer-xmm|Pixie Wonderbringer]], [[revenant-xmm|Revenant]], [[shambling-mound-xmm|Shambling Mound]], [[troll-xmm|Troll]], [[unicorn-xmm|Unicorn]], [[werebear-xmm|Werebear]] |
+| 5 | [[gorgon-xmm|Gorgon]], [[pixie-wonderbringer-xmm|Pixie Wonderbringer]], [[revet-xmm|Revet]], [[shambling-mound-xmm|Shambling Mound]], [[troll-xmm|Troll]], [[unicorn-xmm|Unicorn]], [[werebear-xmm|Werebear]] |
 | 6 | [[drider-xmm|Drider]], [[hobgoblin-warlord-xmm|Hobgoblin Warlord]], [[satyr-revelmaster-xmm|Satyr Revelmaster]] |
-| 7 | [[centaur-warden-xmm|Centaur Warden]], [[giant-ape-xmm|Giant Ape]], [[graveyard-revenant-xmm|Graveyard Revenant]], [[grick-ancient-xmm|Grick Ancient]], [[oni-xmm|Oni]], [[primeval-owlbear-xmm|Primeval Owlbear]], [[tree-blight-xmm|Tree Blight]], [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|Yuan-ti Abomination]] |
+| 7 | [[centaur-warden-xmm|Centaur Warden]], [[giant-ape-xmm|Giant Ape]], [[graveyard-revet-xmm|Graveyard Revet]], [[grick-ancient-xmm|Grick Ancient]], [[oni-xmm|Oni]], [[primeval-owlbear-xmm|Primeval Owlbear]], [[tree-blight-xmm|Tree Blight]], [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-abomination-xmm|Yuan-ti Abomination]] |
 | 8 | [[gnoll-demoniac-xmm|Gnoll Demoniac]], [[young-green-dragon-xmm|Young Green Dragon]] |
 | 9 | [[brazen-gorgon-xmm|Brazen Gorgon]], [[treant-xmm|Treant]] |
-| 10 | [[dire-worg-xmm|Dire Worg]], [[guardian-naga-xmm|Guardian Naga]], [[haunting-revenant-xmm|Haunting Revenant]], [[young-gold-dragon-xmm|Young Gold Dragon]] |
+| 10 | [[dire-worg-xmm|Dire Worg]], [[guardian-naga-xmm|Guardian Naga]], [[haunting-revet-xmm|Haunting Revet]], [[young-gold-dragon-xmm|Young Gold Dragon]] |
 | 15 | [[adult-green-dragon-xmm|Adult Green Dragon]] |
 | 16 | [[gulthias-blight-xmm|Gulthias Blight]] |
 | 17 | [[adult-gold-dragon-xmm|Adult Gold Dragon]] |
 | 22 | [[ancient-green-dragon-xmm|Ancient Green Dragon]] |
 | 24 | [[ancient-gold-dragon-xmm|Ancient Gold Dragon]] |
 ^forest-monsters
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -58,19 +75,30 @@ Monsters by habitat forest monsters xmm is a undersea element of the setting, kn
 
 Legends speak of monsters by habitat forest monsters xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around monsters by habitat forest monsters xmm.
 
-## Adventure Hooks
-
-- A rumor ties monsters by habitat forest monsters xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at monsters by habitat forest monsters xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to monsters by habitat forest monsters xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a betrayal about the government
+- Strange accidents suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

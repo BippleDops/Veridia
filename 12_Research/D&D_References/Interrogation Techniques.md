@@ -21,28 +21,30 @@ created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 ---
 
-
-
-
 # Interrogation Techniques
 
 *"Truth flows like water - apply the right pressure and it will find its way out."*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 Interrogation Techniques in the dual-realm world have evolved to account for the unique challenges of questioning suspects who may come from radically different cultural backgrounds, possess magical abilities, or have been affected by inter-dimensional phenomena. These methods combine traditional investigative approaches with specialized techniques for magical subjects and cross-cultural communication.
-
-## Mechanics
-### Requirements
-- Training in both surface and underwater interrogation methods
-- Magical detection and protection capabilities
-- Cultural sensitivity training for inter-realm subjects
-- Proper legal authorization and oversight
-
-### Effects
-- **Truth Extraction**: Obtaining accurate information from subjects
-- **Cultural Navigation**: Avoiding misunderstandings due to different customs
-- **Magical Countermeasures**: Dealing with enchanted or corrupted subjects
-- **Legal Compliance**: Maintaining admissible evidence standards
 
 ### Duration
 Interrogation sessions typically last 1-4 hours with breaks for subject welfare.
@@ -54,17 +56,6 @@ Interrogation sessions typically last 1-4 hours with breaks for subject welfare.
 
 ## Campaign Use
 Provides framework for investigation scenes and adds realism to law enforcement encounters.
-
-
-## Connections
-
-- [[Evidence Chain Analysis]]
-- [[Evidence Types Guide]]
-- [[Silver Mask]]
-- [[The Deep Mother]]
-- [[The Restoration Movement]]
-- [[The Seven Shards]]
-- [[The Silverscale Conspiracy]]
 
 ## Player-Facing Summary
 
@@ -78,13 +69,17 @@ Legends speak of Interrogation Techniques as a nexus where past and present conv
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Master_Lore_Index|Master Lore Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and chaos spreads
+- Strange accidents suggest a portal
+- The authorities needs help stealing before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

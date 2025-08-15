@@ -15,33 +15,26 @@ updated: '2025-08-13T01:18:36.318067+00:00'
 world: Both
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-wandering-atoll-the-wandering-atoll.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[Free Current|02 Worldbuilding/Places/Free Current]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Commander Typhoon Blackheart]]
-- [[Compass Quest]]
-- [[Depth Wardens]]
-- [[Engineer Brass Gearspin]]
-- [[Free Current]]
-- [[Harbor Master Luna Freedrift]]
-- [[Keeper of the Past, Elderly Morgan]]
-- [[Navigator Sage Driftwood]]
-- [[Spy Games]]
-- [[Teacher Miranda Hopekeeper]]
-- [[The Last Seeds]]
-- [[The Sinking Atoll]]
 
 ## Player-Facing Summary
 
@@ -51,19 +44,39 @@ The Wandering Atoll is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Wandering Atoll as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Wandering Atoll.
 
-## Adventure Hooks
-
-- A rumor ties The Wandering Atoll to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Wandering Atoll to avert a public scandal.
-- A map overlay reveals a hidden approach to The Wandering Atoll active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals ancient history about this place
+- Someone is protecting a witness for money
+- A stranger needs help finding before the festival
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

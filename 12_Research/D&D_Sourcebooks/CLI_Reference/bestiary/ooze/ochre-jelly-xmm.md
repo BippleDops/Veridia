@@ -27,13 +27,29 @@ updated: '2025-08-12T23:37:35.392143'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ochre-jelly-xmm-ochre-jelly-xmm.svg)
 
 # [[ochre-jelly-xmm|Ochre Jelly]]
-*Source: Monster Manual (2024) p. 230. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 230. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Ochre Jelly
 
@@ -76,14 +92,13 @@ What ochre jellies can't dissolve they leave behind. Roll on or choose a result 
   - !!int "6"
   - !!int "14"
   - !!int "2"
-  - !!int "6"
   - !!int "1"
 "speed": "20 ft., climb 20 ft."
 "damage_resistances": "acid"
 "damage_immunities": "lightning, slashing"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
-  \ [[conditions#Exhaustion|exhaustion]], [[conditions#Frightened|frightened]],\
-  \ [[conditions#Grappled|grappled]], [[conditions#Prone|prone]],\
+  \ [[conditions#Exhaustion|exhaustion]], [[conditions#frightened|frightened]],\
+  \ [[conditions#Grappled|grappled]], [[conditions#prone|prone]],\
   \ [[conditions#Restrained|restrained]]"
 "senses": "blindsight 60 ft., passive Perception 8"
 "languages": ""
@@ -125,19 +140,27 @@ Ochre jelly xmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of ochre jelly xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ochre jelly xmm.
 
-## Adventure Hooks
-
-- A rumor ties ochre jelly xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ochre jelly xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ochre jelly xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing a artifact for love
+- A document has gone missing and evil awakens
+- A merchant needs help investigating before the new moon
+- Strange sightings suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

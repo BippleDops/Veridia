@@ -21,9 +21,8 @@ updated: '2025-08-12T23:37:33.764854'
 world: Both
 ---
 
-
 # The Norse Pantheon; Norse Deities
-*Source: Player's Handbook p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+*Source: Player's Handbook p. 298. Available in the SRD* 
 
 **Norse Deities**
 
@@ -51,6 +50,24 @@ world: Both
 | [[norse-uller|Uller]], god of hunting and winter | CN | Nature | Longbow |
 ^norse-deities
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 The norse pantheon norse deities phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -59,19 +76,27 @@ The norse pantheon norse deities phb is a undersea element of the setting, known
 
 Legends speak of the norse pantheon norse deities phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around the norse pantheon norse deities phb.
 
-## Adventure Hooks
-
-- A rumor ties the norse pantheon norse deities phb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at the norse pantheon norse deities phb to avert a public scandal.
-- A map overlay reveals a hidden approach to the norse pantheon norse deities phb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before the festival
+- A prisoner has gone missing and evil awakens
+- Strange disappearances suggest a curse
+- A noble needs help delivering before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

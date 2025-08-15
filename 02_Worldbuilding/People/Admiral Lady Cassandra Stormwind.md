@@ -1,4 +1,5 @@
 ---
+
 title: Admiral Lady Cassandra Stormwind
 type: Npc
 tags:
@@ -18,6 +19,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.740884+00:00'
 world: Aethermoor
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +29,69 @@ world: Aethermoor
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-admiral-lady-cassandra-stormwind-admiral-lady-cassandra-stormwind.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward manipulation
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more focused
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward negotiation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
 
 ## Player-Facing Summary
 
@@ -67,14 +100,6 @@ Admiral Lady Cassandra Stormwind is a undersea element of the setting, known for
 ## Lore Details
 
 Legends speak of Admiral Lady Cassandra Stormwind as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Admiral Lady Cassandra Stormwind.
-
-## Adventure Hooks
-
-- A rumor ties Admiral Lady Cassandra Stormwind to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Admiral Lady Cassandra Stormwind to avert a public scandal.
-- A map overlay reveals a hidden approach to Admiral Lady Cassandra Stormwind active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +110,6 @@ Admiral Lady Cassandra Stormwind's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Seeking redemption
@@ -124,8 +119,6 @@ Admiral Lady Cassandra Stormwind's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Admiral Lady Cassandra Stormwind harbors secrets that could change everything:
@@ -133,10 +126,6 @@ Admiral Lady Cassandra Stormwind harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Stolen identity
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +144,6 @@ Admiral Lady Cassandra Stormwind is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Admiral Lady Cassandra Stormwind needs assistance with a delicate matter
@@ -164,8 +151,6 @@ Admiral Lady Cassandra Stormwind is currently engaged in:
 3. **The Secret**: Information about Admiral Lady Cassandra Stormwind's past surfaces
 4. **The Alliance**: Opportunity to work with or against Admiral Lady Cassandra Stormwind
 5. **The Crisis**: Admiral Lady Cassandra Stormwind is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,30 +164,33 @@ Admiral Lady Cassandra Stormwind is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Admiral Lady Cassandra Stormwind]]
+## Prophecy Connection
 
-<!-- enriched: true -->
-
+Mentioned in The First Prophecy of Depths
 
 
+## Cultural Practices
 
-## Relationship Web
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
 
-- [[04_Resources_Assets_Symbols_symbol-heraldry-the-stellar-confluence-the-stellar-confluence.svg]]: *student*
-- [[04_Resources_Assets_Locations_location-city-crystal-master-prism-lightweaver-v1-crystal-master-prism-lightweaver.svg]]: *secret ally*
-- [[04_Resources_Assets_Locations_location-city-scout-captain-vera-deepwatch-v1-scout-captain-vera-deepwatch.svg]]: *mentor*
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
 
-## Connections
 
-### Home
-- [[04_Resources_Assets_Locations_location-city-fresh-cleanwave-v1-fresh-cleanwave.svg]]
+## Religious Observances
 
-### Affiliations
-- [[Template-Group]]
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
 
-### Known Associates
-- [[04_Resources_Assets_Locations_location-city-forge-master-korax-hammerdeep-v1-forge-master-korax-hammerdeep.svg]] (friend)
-- [[Master Artificer Chaos-Crystal]] (colleague)
-- [[Generate Campaign NPCs]] (colleague)
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

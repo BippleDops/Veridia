@@ -1,4 +1,5 @@
 ---
+
 title: The Tidal Council
 type: Npc
 tags:
@@ -25,6 +26,8 @@ created_by: auto-stub
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.616083+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -32,10 +35,77 @@ world: Aquabyssos
 > [!figure] Portrait
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-tidal-council-the-tidal-council.svg]]
 
-
 # The Tidal Council
 
-*"As the tides turn, so must governance adapt to changing currents." - Tidemaster Elena*
+*"As the tides turn, so must goverce adapt to changing currents." - Tidemaster Elena*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
 
 ## Overview
 The Tidal Council serves as Aquabyssos's environmental and maritime regulatory body, managing the complex interactions between the city's needs and the ocean's natural cycles. They coordinate tidal predictions, water current management, and environmental protection while balancing competing interests.
@@ -46,7 +116,7 @@ The Tidal Council serves as Aquabyssos's environmental and maritime regulatory b
 **Environmental Protection:** Preserving marine ecosystems
 **Resource Allocation:** Distributing water-based resources fairly
 **Emergency Response:** Coordinating disaster relief during tidal events
-**Harbor Management:** Overseeing port operations and dock maintenance
+**Harbor Management:** Overseeing port operations and dock maintece
 
 ## Council Structure
 **Tidemaster:** Chief coordinator (currently Elena Deepcurrent)
@@ -56,27 +126,12 @@ The Tidal Council serves as Aquabyssos's environmental and maritime regulatory b
 **Environmental Advocates:** Members protecting natural resources
 **Emergency Coordinators:** Disaster response specialists
 
-## Current Challenges
-- Increasing unpredictability in traditional tidal patterns
-- Pollution affecting marine life and water quality
-- Competing demands between development and conservation
-- Climate changes disrupting established cycles
-- Political pressure from various commercial interests
-- Resource scarcity during extreme tidal events
-
 ## Major Projects
 **The Great Current Map:** Comprehensive charting of all water flows
 **Tidal Barrier System:** Infrastructure protecting against extreme events
 **Marine Sanctuary Initiative:** Preserved areas for ecosystem recovery
 **Emergency Response Network:** Rapid deployment system for disasters
 **Public Education Campaign:** Teaching citizens about tidal safety
-
-## Recent Decisions
-- Implementation of new fishing quotas to protect spawning areas
-- Approval of controversial deep-water mining project
-- Emergency protocols for Crystal Plague contamination cleanup
-- Restrictions on surface vessel traffic during breeding seasons
-- Investment in magical weather prediction enhancement
 
 ## Political Relationships
 **Royal Court:** Formal cooperation with occasional policy conflicts
@@ -91,13 +146,6 @@ The Tidal Council serves as Aquabyssos's environmental and maritime regulatory b
 **Educational Programs:** Teaching sustainable ocean practices
 **Consultation Services:** Expert advice for marine projects
 **Research Grants:** Funding for environmental studies
-
-## Controversies
-- Accused of favoritism toward certain commercial interests
-- Criticized for insufficient environmental protection measures
-- Disputes over traditional fishing rights versus conservation
-- Questions about scientific accuracy of some predictions
-- Political appointments allegedly compromising expertise
 
 ## Adventure Hooks
 1. Council requests investigation into mysterious tidal anomalies
@@ -114,8 +162,6 @@ The Tidal Council serves as Aquabyssos's environmental and maritime regulatory b
 **Information Archives:** Comprehensive historical records
 **Scientific Equipment:** Advanced tools for environmental measurement
 
-
-
 ## Background
 
 The Tidal Council's path to their current position involved:
@@ -124,36 +170,6 @@ The Tidal Council's path to their current position involved:
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
 
 ## Motivations
 
@@ -164,8 +180,6 @@ The Tidal Council's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 The Tidal Council harbors secrets that could change everything:
@@ -173,10 +187,6 @@ The Tidal Council harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Divine mission
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -195,8 +205,6 @@ The Tidal Council is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: The Tidal Council needs assistance with a delicate matter
@@ -205,8 +213,6 @@ The Tidal Council is currently engaged in:
 4. **The Alliance**: Opportunity to work with or against The Tidal Council
 5. **The Crisis**: The Tidal Council is caught in a situation requiring intervention
 
-
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -214,8 +220,6 @@ The Tidal Council is currently engaged in:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
 
 ## Statistics (D&D 5e)
 
@@ -242,64 +246,6 @@ cr: 1/4
 ## DM Notes
 The Tidal Council provides excellent opportunities for environmental adventures, political intrigue, and maritime challenges. Use them as quest givers for ocean-based missions or obstacles when party actions conflict with environmental regulations.
 
-
-
-
-## Relationship Web
-
-- [[Marcus Shardbreaker Grimm]]: *bitter rival*
-- [[The Leviathan Prophets]]: *mentor*
-- [[04_Resources_Assets_Locations_location-city-lord-reginald-seaworthy-lord-reginald-seaworthy.svg]]: *business partner*
-- [[04_Resources_Assets_Art_Places_Master_Smith_Coral-Hammer.png]]: *childhood friend*
-
-## Connections
-
-- [[The Emperor's Gambit]]
-- [[The Current Merchants]]
-- [[The Tidecaller]]
-
-
-## Appearance
-
-
-TODO
-
-
-## Personality
-
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward negotiation
-
-
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward avoidance
-
-
-
-TODO
-
-
-## Goals
-
-
-TODO
-
-
-## Relationships
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 The Tidal Council is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -308,8 +254,51 @@ The Tidal Council is a undersea element of the setting, known for bioluminescent
 
 Legends speak of The Tidal Council as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Tidal Council.
 
-## Cross-References
 
-- [[The Tidal Council]]
+## Economic Structure
 
-<!-- enriched: true -->
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
+
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

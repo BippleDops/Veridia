@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.667683'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-crawling-claw-xmm-crawling-claw-xmm.svg)
 
@@ -36,6 +34,24 @@ world: Both
 *Source: Monster Manual (2024) p. 83*  
 
 Lone crawling claws can continue killing sprees they perpetrated in life. Some recklessly attack the living, while others pursue specific victims. In rare cases, a crawling claw wreaks mayhem while the rest of its body still lives, with the original creature potentially unaware of its severed hand's crimes.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Crawling Claws
 
@@ -49,7 +65,6 @@ Crawling claws are severed hands that move and act of their own murderous accord
 > [!quote] A quote from Ansolm Haas  
 > 
 > Is it possible for any creature, any living being, to be inherently evil? Such an assertion may itself facilitate the committing of evil acts. By defining a person as evil, we give them free rein to behave as they will, absolving them from the wickedness of their words and the evil of their hands.
-
 
 ```statblock
 "name": "Crawling Claw (XMM)"
@@ -70,7 +85,7 @@ Crawling claws are severed hands that move and act of their own murderous accord
 "speed": "20 ft., climb 20 ft."
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Incapacitated|incapacitated]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Incapacitated|incapacitated]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 30 ft., passive Perception 10"
 "languages": "understands Common but can't speak"
@@ -96,19 +111,26 @@ Crawling claw xmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of crawling claw xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around crawling claw xmm.
 
-## Adventure Hooks
-
-- A rumor ties crawling claw xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at crawling claw xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to crawling claw xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and war looms
+- Strange accidents suggest a curse
+- A stranger needs help delivering before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

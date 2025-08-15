@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.255988+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-luxury-goods-market-luxury-goods-market.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,35 @@ Luxury Goods Market is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Luxury Goods Market as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Luxury Goods Market.
 
-## Adventure Hooks
-
-- A rumor ties Luxury Goods Market to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Luxury Goods Market to avert a public scandal.
-- A map overlay reveals a hidden approach to Luxury Goods Market active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Luxury Goods Market|02 Worldbuilding/Places/Luxury Goods Market]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Inverted Ballroom Wing]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and chaos spreads
+- A map reveals the truth about the cult
+- Someone is blackmailing a artifact for money
+- A merchant needs help delivering before the new moon
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

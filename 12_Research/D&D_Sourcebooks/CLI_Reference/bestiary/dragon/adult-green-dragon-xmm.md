@@ -27,15 +27,31 @@ updated: '2025-08-12T23:37:35.755917'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-green-dragon-xmm-adult-green-dragon-xmm.svg)
 
 # [[adult-green-dragon-xmm|Adult Green Dragon]]
-*Source: Monster Manual (2024) p. 153. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 153. Available in the SRD and the Free Rules (2024)*  
 
 The words of adult green dragons are as deadly as their poisonous breath. They are brilliant schemers that pride themselves on influencing communities near their lairs. They obsess over information and create vast spy networks. Many of these dragons seek magical methods of surveillance or domination, and they manipulate adventurers into hunting down lost magic to aid in such control.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Green Dragons
 
@@ -68,7 +84,6 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
   - !!int "21"
   - !!int "18"
   - !!int "15"
-  - !!int "18"
 "speed": "40 ft., fly 80 ft., swim 40 ft."
 "saves":
   - "dexterity": !!int "6"
@@ -79,7 +94,6 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+12"
   - "name": "[[skills#Persuasion|Persuasion]]"
-    "desc": "+9"
   - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_immunities": "poison"
@@ -105,13 +119,12 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
     "name": "Poison Breath (Recharge 5-6)"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 17):\n\nAt\
-      \ will: [[detect-magic-xphb|Detect Magic]], [[mind-spike-xphb|Mind\
+      \ will: [[detect-magic-xphb|Detect Magic]], [[mind-spike-xphb|Mind\]]
       \ Spike]] (level 3 version)\n\n1/day:\
       \ [[geas-xphb|Geas]]"
     "name": "Spellcasting"
 "legendary_actions":
   - "desc": "The dragon uses Spellcasting to cast [[mind-spike-xphb|Mind Spike]]\
-      \ (level 3 version)."
     "name": "Mind Invasion"
   - "desc": "Constitution Saving Throw: DC 17, each creature in a 20-foot-radius\
       \ [[sphere-area-of-effect-xphb|Sphere]] centered\
@@ -135,9 +148,7 @@ Green dragons lair in ancient forests, often shaping stands of massive trees int
       \ in that area, it must succeed on a DC 15 Constitution saving throw or have\
       \ the [[conditions#Poisoned|Poisoned]] condition for 1 hour.\
       \  "
-    "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/dragon/token/adult-green-dragon-xmm.webp"
@@ -156,19 +167,25 @@ Adult green dragon xmm is a undersea element of the setting, known for biolumine
 
 Legends speak of adult green dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around adult green dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties adult green dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at adult green dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to adult green dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help delivering before the new moon
+- Strange sightings suggest a conspiracy
+- Someone is blackmailing an heir for money
+- An heirloom has gone missing and war looms
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

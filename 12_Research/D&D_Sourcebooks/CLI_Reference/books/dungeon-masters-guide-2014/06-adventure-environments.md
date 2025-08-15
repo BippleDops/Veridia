@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.800671'
 world: Both
 ---
 
-
 # Adventure Environments
 *Source: Dungeon Master's Guide (2014), p. 99* 
 
@@ -34,6 +33,24 @@ Within a dungeon, adventurers are constrained by walls and doors around them, bu
 Villages, towns, and cities are cradles of civilization in a dangerous world, but they too offer opportunities for adventure. Encounters with monsters might seem unlikely within a city's walls, but urban settings have their own villains and perils. Evil, after all, takes many forms, and urban settings aren't always the safe havens they seem to be.
 
 This chapter provides an overview of these three environments plus a few unusual environments, taking you through the process of creating an adventure location, with plenty of random tables to inspire you.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Dungeons
 
@@ -324,7 +341,7 @@ In addition to settlements, a province might contain ruined villages and towns t
 
 #### Strongholds
 
-Strongholds provide the local population with protection in times of trouble. The number of strongholds in an area depends on the dominant society, the population, the strategic importance or vulnerability of the region, and the wealth of the land.
+Strongholds provide the local population with protection in times of trouble. The number of strongholds in an area depends on the domit society, the population, the strategic importance or vulnerability of the region, and the wealth of the land.
 
 #### Weird Locales
 
@@ -406,7 +423,7 @@ When a creature comes into direct contact with razorvine for the first time on a
 
 #### Slippery Ice
 
-Slippery ice is difficult terrain. When a creature moves onto slippery ice for the first time on a turn, it must succeed on a DC 10 Dexterity ([[skills#Acrobatics|Acrobatics]]) check or fall [[conditions#Prone|prone]].
+Slippery ice is difficult terrain. When a creature moves onto slippery ice for the first time on a turn, it must succeed on a DC 10 Dexterity ([[skills#Acrobatics|Acrobatics]]) check or fall [[conditions#prone|prone]].
 
 #### Thin Ice
 
@@ -450,7 +467,7 @@ The following tables allow you to quickly create a settlement. They assume that 
 
 ![[random-settlements-notable-traits|Random Settlements; Notable Traits]]
 
-![[random-settlements-known-for-its|Random Settlements; Known For Its...]]
+!]
 
 ![[random-settlements-current-calamity|Random Settlements; Current Calamity]]
 
@@ -480,7 +497,7 @@ When you draw a map for a settlement in your game, don't worry about the placeme
 
 For a village, sketch out the roads, including trade routes leading beyond the village and roads that connect outlying farms to the village center. Note the location of the village center. If the adventurers visit specific places in the village, mark those spots on your map.
 
-For towns and cities, note major roads and waterways as well as surrounding terrain. Outline the walls and mark the locations of features you know will be important: the lord's keep, significant temples, and the like. For cities, add internal walls and think about the personality of each ward. Give the wards names reflecting their personalities, which also identify the kinds of trades that dominate the neighborhood (Tannery Square, Temple Row), a geographical characteristic (Hilltop, Riverside), or a dominant site (the Lords' Quarter).
+For towns and cities, note major roads and waterways as well as surrounding terrain. Outline the walls and mark the locations of features you know will be important: the lord's keep, significant temples, and the like. For cities, add internal walls and think about the personality of each ward. Give the wards names reflecting their personalities, which also identify the kinds of trades that dominate the neighborhood (Tannery Square, Temple Row), a geographical characteristic (Hilltop, Riverside), or a domit site (the Lords' Quarter).
 
 ## Urban Encounters
 
@@ -627,9 +644,7 @@ Use the Wilderness Navigation table below to determine whether a ship veers off 
 > [!note] Shipwrecks
 > 
 > A shipwreck is a plot device that can be used sparingly to great effect, particularly if you want the characters to be washed ashore on some monster-infested island or (in the case of an airship) dropped in the middle of some exotic land. There aren't rules for determining when a shipwreck happens; it happens when you want or need it to happen.
-> 
 > Even the strongest seafaring ship can founder in a storm, run aground on rocks or reefs, sink during a pirate attack, or be dragged underwater by a sea monster. A storm or hungry dragon can lay waste to an airship just as easily. A shipwreck has the potential to change the direction of a campaign. It isn't, however, a particularly good way to kill off characters or end a campaign.
-> 
 > If you and your campaign conspire to wreck a ship on which the characters are traveling, it is assumed that the characters survive with the equipment they were wearing or carrying still in their possession. The fate of any NPCs and cargo aboard the wrecked ship is entirely up to you.
 ^shipwrecks
 
@@ -729,7 +744,7 @@ The effects of traps can range from inconvenient to deadly, making use of elemen
 
 The attack bonus of a trap, the save DC to resist its effects, and the damage it deals can vary depending on the trap's severity. Use the Trap Save DCs and Attack Bonuses table and the Damage Severity by Level table for suggestions based on three levels of trap severity.
 
-A trap intended to be a **setback** is unlikely to kill or seriously harm characters of the indicated levels, whereas a **dangerous** trap is likely to seriously injure (and potentially kill) characters of the indicated levels. A *deadly* trap is likely to kill characters of the indicated levels.
+A trap intended to be a **seck** is unlikely to kill or seriously harm characters of the indicated levels, whereas a **dangerous** trap is likely to seriously injure (and potentially kill) characters of the indicated levels. A *deadly* trap is likely to kill characters of the indicated levels.
 
 ![[trap-effects-trap-save-dcs-and-attack-bonuses|Trap Effects; Trap Save DCs and Attack Bonuses]]
 
@@ -745,8 +760,6 @@ For example, a trap that causes a room to slowly flood works best as a complex t
 
 ### Sample Traps
 
-See the traps and hazards page for more information.
-
 ## Player-Facing Summary
 
 06 adventure environments is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -755,20 +768,27 @@ See the traps and hazards page for more information.
 
 Legends speak of 06 adventure environments as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 06 adventure environments.
 
-## Adventure Hooks
-
-- A rumor ties 06 adventure environments to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 06 adventure environments to avert a public scandal.
-- A map overlay reveals a hidden approach to 06 adventure environments active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

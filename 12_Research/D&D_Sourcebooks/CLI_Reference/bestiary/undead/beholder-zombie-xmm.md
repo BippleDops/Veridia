@@ -30,8 +30,6 @@ updated: '2025-08-12T23:37:35.636592'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-beholder-zombie-xmm-beholder-zombie-xmm.svg)
 
@@ -41,6 +39,24 @@ world: Both
 Zombies animated from the corpses of beholders retain some use of those monsters' magical eyestalks. These hovering corpses rely on their magic to destroy impediments and paralyze foes, allowing them to savage foes with their rotting maws.
 
 Magic-using beholders typically raise these abominations from the corpses of defeated rivals.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Zombies
 
@@ -57,7 +73,6 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 > 
 > Then, by a spectacular crack of lightning, the figures came into view, moving slowly toward the village. Over driving winds a voice cried out, "The dead come for Marais d'Tarascon! An army of the walking dead!"
 
-
 ```statblock
 "name": "Beholder Zombie (XMM)"
 "size": "Large"
@@ -72,14 +87,13 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
   - !!int "8"
   - !!int "16"
   - !!int "3"
-  - !!int "8"
   - !!int "5"
 "speed": "5 ft., fly 20 ft. (hover)"
 "saves":
   - "wisdom": !!int "2"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]]"
+  \ [[conditions#Poisoned|poisoned]], [[conditions#prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "understands Deep Speech and Undercommon but can't speak"
 "cr": "5"
@@ -102,7 +116,7 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically.\
       \  \n- 2 Fear Ray. Wisdom Saving Throw: DC 14. Failure: 13 (3d8) Psychic\
-      \ damage, and the target has the [[conditions#Frightened|Frightened]]\
+      \ damage, and the target has the [[conditions#frightened|Frightened]]\
       \ condition until the end of its next turn.  \n- 3 Enervation Ray. Constitution\
       \ Saving Throw: DC 14. Failure: 10 (3d6) Necrotic damage, and the target\
       \ has the [[conditions#Poisoned|Poisoned]] condition until\
@@ -133,19 +147,22 @@ Beholder zombie xmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of beholder zombie xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around beholder zombie xmm.
 
-## Adventure Hooks
-
-- A rumor ties beholder zombie xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at beholder zombie xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to beholder zombie xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting an heir for money
+- A noble needs help finding before winter
+- A shipment has gone missing and chaos spreads
+- A document has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

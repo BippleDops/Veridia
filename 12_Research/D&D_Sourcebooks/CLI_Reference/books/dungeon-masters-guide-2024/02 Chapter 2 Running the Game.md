@@ -22,14 +22,30 @@ updated: '2025-08-13T12:34:05.170088+00:00'
 world: Both
 ---
 
-
-
 # Chapter 2: Running the Game
 *Source: Dungeon Master's Guide (2024), p. 21* 
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/006-01-001-scrying-venger.webp#center "The fiendish villain Venger uses a Crystal Ball to scry on his nemesis, Tiamat"|The fiendish villain Venge...]]
+!]
 
 Building on the basics laid out in "chapter 1", this chapter goes into more depth on running a D&D game as Dungeon Master.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Know Your Players
 
@@ -118,8 +134,6 @@ Engage players who like storytelling by...
 - Giving NPCs characteristics and connections that the adventurers can explore to uncover new adventure opportunities.  
 - Including plot elements that call back to decisions the adventurers made earlier.  
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/007-01-002-traveling-party.webp#center "Different players enjoy different aspects of playing D&D"|Different players enjoy di...]]
-
 ## Group Size
 
 D&D's rules and published adventures generally assume four to six players plus the DM. The following advice helps you adjust adventures to work for smaller or larger groups.
@@ -179,8 +193,6 @@ Display the Initiative order to your players so they each know when their charac
 ##### Roll Handfuls of Dice
 
 Encourage players to roll the dice for their attack rolls and their damage at the same time. You can do the same.
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/008-01-003-party-infiltration.webp#center "Adventures requiring stealth, like this infiltration, are ideal for some small parties of adventurers"|Adventures requiring steal...]]
 
 ### Absent Players
 
@@ -287,8 +299,6 @@ Sometimes, though, you'll want to give information to just one player. It might 
 - **Aside to Player.** Pull the player into another room, or have the other players leave the room. This approach is best if there's a whole scene that plays out with just one character involved. Try to keep these scenes brief so other players don't get bored or feel left out.  
 - **Secret Message.** If you just have a simple piece of information to convey, you can whisper to the player, pass a note to them, or send them a text or a direct message.  
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/010-01-005-old-office.webp#center "A dungeon room offers plenty of details for adventurers to explore"|A dungeon room offers plen...]]
-
 ## Resolving Outcomes
 
 You decide when a player makes a [[d20-test-xphb|D20 Test]] based on what the character is trying to do. Players shouldn't just roll ability checks without context; they should tell you what their characters are trying to achieve, and make ability checks only if you ask them to.
@@ -368,7 +378,7 @@ If you're setting the DC for a saving throw, don't go lower than 10 or higher th
 
 For some ability checks and most saving throws, the rules default to the following formula:
 
-<span class='abilityGeneric'>**DC.**</span>
+**DC.**
 
 This formula often sets the saving throw DC when a creature is casting a spell or using a special ability, but it can also apply to ability checks that are contests between two creatures. For example, if one creature is holding a door shut, use its Strength modifier and Proficiency Bonus to set the DC for opening the door. When another creature tries to force the door open, the creature makes a Strength ([[skills#Athletics|Athletics]]) check against that DC.
 
@@ -408,10 +418,10 @@ As a DM, you can use a variety of approaches when adjudicating success and failu
 When a character fails a [[d20-test-xphb|D20 Test]] by only 1 or 2, you can offer to let the character succeed at the cost of a complication or hindrance. Such complications can run along any of the following lines:
 
 - A character gets her sword past an enemy's defenses and turns a near miss into a hit, but she then drops the sword.  
-- A character narrowly escapes the full brunt of a [[fireball-xphb|Fireball]] spell but has the [[conditions#Prone|Prone]] condition.  
+- A character narrowly escapes the full brunt of a [[fireball-xphb|Fireball]] spell but has the [[conditions#prone|Prone]] condition.  
 - A character fails to intimidate a kobold prisoner, but the kobold reveals its secrets anyway while shrieking at the top of its lungs, alerting other nearby monsters.  
 
-By putting the choice of success at a cost in the players' hands, and even letting them choose the setbacks, you can give players more agency in crafting the story of their characters' deeds.
+By putting the choice of success at a cost in the players' hands, and even letting them choose the secks, you can give players more agency in crafting the story of their characters' deeds.
 
 #### Degrees of Failure
 
@@ -461,8 +471,6 @@ When you need to make up something on the spot—say, a mages' guild in a town w
 - "Random tables" (such as the ones in the ""Settlements"" section of "chapter 3")  
 - "Campaign Journal" (described in "chapter 5")  
 - Maps (see "appendix B")  
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/011-01-006-falling-fortress.webp#center "When a flying fortress crashes to the ground, unfortunate adventurers in its path might take `18d10` damage or more!"|When a flying fortress cra...]]
 
 ## Running Social Interaction
 
@@ -545,8 +553,6 @@ A map can help you or your players visualize a location or region that the chara
 
 Often a map is intended for the DM's eyes only. You can copy portions of a DM's map to share with your players as a visual aid while omitting details that should remain hidden from them. Virtual tabletops often use "fog of war" and similar effects to obscure areas and features on the map that you want to keep hidden from the players.
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/012-01-007-exploring-party.webp#center "Exploration draws adventurers into all sorts of unusual environments"|Exploration draws adventur...]]
-
 Maps designed for use with miniatures (see ""Miniatures"" in this chapter) tend to be player facing, revealing nothing that would spoil the adventure.
 
 ### Tracking Time
@@ -588,8 +594,6 @@ When a character tries to do something during exploration, you decide whether th
 Certain situations might call for a balance between ability checks and roleplaying. For example, puzzles are an opportunity for players to do some problem-solving, but players can also lean on their characters' talents and attributes to provide direction. A character who succeeds on an Intelligence ([[skills#Investigation|Investigation]]) check might notice a clue that gives the players a hint to the puzzle's solution.
 
 ### Perception
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/013-01-008-monster-courtyard.webp#center "In a courtyard full of monsters, will characters even notice that the tree has eyes?"|In a courtyard full of mon...]]
 
 As the DM, you're the interface between your players and the world of the game. You tell them what their characters perceive, so it's important to make sure you're telling them important information about their surroundings. The Perception skill and Wisdom checks made using it are key tools for you. This section offers guidance to help you use the [[skills#Perception|Perception]] rules in the "Player's Handbook".
 
@@ -649,7 +653,7 @@ You decide how to break up the journey, though your decision can be shaped by th
 
 You can use the accompanying [Travel Planner](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/pdf/XDMG/010-travel-planner.pdf) sheet to plan the stages of a journey. (Use multiple copies of the Travel Planner for a journey with more than three stages.)
 
-For each stage, note where it starts and ends, the distance covered, and the predominant terrain. Choose or randomly determine the weather on that stage (see ""Weather"" later in this chapter). Plan one or more challenges for each stage, such as an encounter, an obstacle, a search for something hidden, or a chance of getting lost, as described under "Journey Stage Challenges."
+For each stage, note where it starts and ends, the distance covered, and the predomit terrain. Choose or randomly determine the weather on that stage (see ""Weather"" later in this chapter). Plan one or more challenges for each stage, such as an encounter, an obstacle, a search for something hidden, or a chance of getting lost, as described under "Journey Stage Challenges."
 
 ##### Running the Stages
 
@@ -665,12 +669,9 @@ Depending on how you planned the stages, the end of a stage might mean the chara
 > [!note] Journeys without Destinations
 > 
 > Sometimes, characters travel without a clear path to follow or a clear destination in mind. In such a case, use the grid of your map (squares or hexes) to define the stages of the journey, however many miles each square or hex might be. (This style of play is sometimes called "hex crawling.")
-> 
 > In this kind of wilderness exploration, you can take one of two approaches to travel challenges:
-> 
 > - **Sandbox Approach.** Your map of the area determines what characters find when they enter any particular hex on the map. You might have encounters or obstacles in place for every hex, or they could be spread farther apart.  
 > - **Random Approach.** Use tables to randomly determine encounters or obstacles in each hex the characters enter.  
-> 
 > Whichever approach you use, running a journey otherwise works the same as described in the rest of the "Travel" section.
 ^journeys-without-destinations
 
@@ -688,7 +689,7 @@ Weather has no significant game effect most of the time, but see ""Environmental
 
 #### Travel Pace
 
-A group of characters can travel overland at a Normal, Fast, or Slow pace, as described in the "Player's Handbook". During any journey stage, the predominant terrain determines the characters' maximum travel pace, as shown in the Maximum Pace column of the "Travel Terrain" table. Certain factors can affect a group's travel pace.
+A group of characters can travel overland at a Normal, Fast, or Slow pace, as described in the "Player's Handbook". During any journey stage, the predomit terrain determines the characters' maximum travel pace, as shown in the Maximum Pace column of the "Travel Terrain" table. Certain factors can affect a group's travel pace.
 
 ##### Good Roads
 
@@ -706,13 +707,13 @@ Characters can push themselves to travel for more than 8 hours per day, at the r
 
 If a party can travel at a high Speed for an extended time, as with a spell such as [[wind-walk-xphb|Wind Walk]] or a magic item such as a [[carpet-of-flying-xdmg|Carpet of Flying]], translate the party's Speed into travel rates using these rules:
 
-<span class='abilityGeneric'>**Miles per hour.**</span>
+**Miles per hour.**
 
-<span class='abilityGeneric'>**Miles per day (Normal pace).**</span>
+**Miles per day (Normal pace).**
 
-<span class='abilityGeneric'>**Fast pace.**</span>
+**Fast pace.**
 
-<span class='abilityGeneric'>**Slow pace.**</span>
+**Slow pace.**
 
 If the characters are flying or their special movement allows them to ignore [[difficult-terrain-xphb|Difficult Terrain]], they can move at a Fast pace regardless of the terrain.
 
@@ -723,8 +724,6 @@ Characters traveling in a vehicle use the vehicle's speed in miles per hour (as 
 ![[travel-terrain-xdmg|Travel Terrain]]
 
 #### Narration during Travel
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/015-01-010-fantastical-landscapes.webp#center "Traveling through fantastical landscapes can be a fun and interesting part of any adventure"|Traveling through fantasti...]]
 
 Just as movies use travel montages to convey long and arduous journeys in a matter of seconds, you can use a few sentences of descriptive text to paint a picture of a journey in your players' minds before moving on. Describe the journey as vividly as you like, but keep momentum by focusing on the most notable details that reinforce the desired mood.
 
@@ -753,11 +752,8 @@ Characters without water and [[rations-xphb|Rations]] can stave off [[dehydratio
 A foraging character finds nothing on a failed check. On a successful check, roll `d6` and add the character's Wisdom modifier to determine how much food (in pounds) the character finds per day of the journey stage, then repeat the roll for water (in gallons).
 
 > [!note] Do Players Need to Track Rations?
-> 
 > You might decide that tracking [[rations-xphb|Rations]] is unnecessary in your game. Even if the characters are in a desert, you can assume that a character with proficiency in the [[skills#Survival|Survival]] skill can find enough food and water to sustain the party. Make sure you work that into your narration of the journey so the player feels good about choosing that skill proficiency. You can also assume the characters can load their mounts with enough Rations for their journey, or they can use magic (such as the [[create-food-and-water-xphb|Create Food and Water]] spell) to sustain them.
-> 
 > On the other hand, having players track Rations seems appropriate for a more realistic campaign. Characters in such a campaign should approach a long wilderness journey as a challenge in logistics: how many pack animals do they need to carry the food for the journey, and how do they feed the animals?
-> 
 > As always, communicate your expectations about these rules to the players ahead of time. If you don't plan on tracking Rations, tell your players that before they spend an hour purchasing supplies for their journey.
 ^do-players-need-to-track-rations
 
@@ -805,8 +801,6 @@ The DC for the check depends on how well the ground shows signs of a creature's 
 Use the Search DC column of the "Travel Terrain" table as a starting point for setting the DC for tracking. If you prefer, you can choose a DC based on your assessment of the difficulty—higher if days have elapsed since the creature passed, lower if the creature is leaving an obvious trail such as blood. You can also grant [[advantage-xphb|Advantage]] on the check if there's more than one set of tracks to follow or [[disadvantage-xphb|Disadvantage]] if the trail passes through a busy area.
 
 On a failed check, the character loses the trail but can attempt to find it again by carefully searching the area. It takes 10 minutes to find a trail in a confined area, such as a series of caverns, or 1 hour outdoors.
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/016-01-011-river-party.webp#center "A river presents an obstacle to characters traveling through the wilderness"|A river presents an obstac...]]
 
 ## Running Combat
 
@@ -962,13 +956,9 @@ Although it's important that the players understand what's going on in terms of 
 As the characters fight monsters, you can reveal information to help the players make good choices, as described in the sections that follow.
 
 > [!note] Awarding Heroic Inspiration
-> 
 > As discussed in the "Player's Handbook", [[heroic-inspiration-xphb|Heroic Inspiration]] is a reward you can give to characters when their players make the game more fun, exciting, and memorable for everyone at the table. Any player who makes the whole table erupt in laughter, cheers, or howls of surprise probably deserves Heroic Inspiration.
-> 
 > You can also use [[heroic-inspiration-xphb|Heroic Inspiration]] to reward roleplaying, immersion in the game, and heroism. Use it to incentivize the kind of behavior you want to see in your game, such as acting in character, taking risks, thinking strategically, cooperating well, or embracing the tropes of a particular genre. Make sure your use of [[heroic-inspiration-xphb|Heroic Inspiration]] is aligned with the expectations you set out at the start of your game (see ""Ensuring Fun for All"" in "chapter 1").
 ^awarding-heroic-inspiration
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/020-01-016-dragon-arrives.webp#center "A dragon's arrival makes a simple fight against zombies much more interesting"|A dragon's arrival makes a...]]
 
 #### Loss of Hit Points
 
@@ -1035,7 +1025,7 @@ If you can't decide whether a creature is willing to fight, have it make a DC 10
 When creatures that are already engaged in battle realize they're likely to lose, they usually try to exit that battle. A monster is likely to flee if either of the following is true:
 
 - The monster starts its turn [[bloodied-xphb|Bloodied]] and more than half its allies are dead or have the [[conditions#Incapacitated|Incapacitated]] condition, while no one is dead or Incapacitated on the other side.  
-- The monster starts its turn Bloodied and has the [[conditions#Frightened|Frightened]] condition.  
+- The monster starts its turn Bloodied and has the [[conditions#frightened|Frightened]] condition.  
 
 In those circumstances, you can decide the monster flees, or you can have it make a DC 10 Wisdom saving throw and flee or parley on a failed save. In general, if it is obvious to you that a creature is going to lose, assume it's obvious to that creature as well.
 
@@ -1114,20 +1104,36 @@ Rather than having characters gain a level after a certain number of sessions, y
 
 Legends speak of 02 chapter 2 running the game as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 02 chapter 2 running the game.
 
-## Adventure Hooks
-
-- A rumor ties 02 chapter 2 running the game to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 02 chapter 2 running the game to avert a public scandal.
-- A map overlay reveals a hidden approach to 02 chapter 2 running the game active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a portal
+- Strange dreams suggest a portal
+- Someone is blackmailing a witness for revenge
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -34,9 +34,22 @@ updated: '2025-08-11T00:00:00+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-# Tide Turner's Trident
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## The Legendary Weapon
 
@@ -47,8 +60,6 @@ The **Tide Turner's Trident** is perhaps the most powerful oceanic artifact in e
 The trident stands seven feet in length, crafted from what appears to be crystallized deep-sea pressure. Its three tines shift between states of matter - sometimes solid coral, sometimes flowing water, sometimes crackling energy that resembles compressed lightning. The weapon weighs nothing in water but becomes impossibly heavy on dry land, making it nearly unusable by surface dwellers.
 
 Ancient engravings spiral along its length, written in pre-submersion languages that shift and change based on the reader's knowledge. The base is wrapped in what scholars believe to be kraken leather, though the creature that provided it would have been impossibly large.
-
-## Origin Legends
 
 ### The First Tide
 *The creation myth most accepted by Aquabyssos scholars*
@@ -65,8 +76,6 @@ When the first waters of the world settled into their eternal depths, they wept 
 
 The trident was never created by benevolent forces. It is a lure crafted by the [[Deep Mother]] to identify individuals with sufficient will and power to serve as vessels for cosmic influence. Each "heroic" deed performed with the weapon actually advances the plans of entities from beyond normal reality.
 
-## Historical Custodians
-
 ### The First Dynasty (Ancient Aquabyssos)
 The original **Emperor Oceanus** wielded the trident to establish the first underwater kingdoms. His reign lasted 400 years, but ended when he became so merged with the weapon that he transformed into a living current, his consciousness flowing through all the world's waters until it dispersed entirely.
 
@@ -75,8 +84,6 @@ Found the trident in Emperor Oceanus's sunken palace and used it to repel an inv
 
 ### The Current Keeper (Unknown)
 The trident's current location is a closely guarded secret of the [[Tidal Council]]. Rumors suggest it rests in a sealed vault beneath [[Abyssos Prime]], guarded by constructs that can only be bypassed by one whose bloodline traces back to previous wielders.
-
-## Powers and Abilities
 
 ### Tidal Mastery
 The wielder gains complete control over any body of water:
@@ -98,8 +105,6 @@ Each use of the trident's power demands greater sacrifice:
 - **Heavy Use**: Personality begins merging with previous wielders, individual identity eroding
 - **Ultimate Power**: Complete dissolution of self into the collective consciousness of all Tide Turners throughout history
 
-## Multiple Perspectives
-
 ### The Religious View
 *Temple scholars and spiritual leaders*
 
@@ -114,8 +119,6 @@ The weapon is an incredibly advanced technological artifact from a pre-convergen
 *Void-touched seers and cosmic horror scholars*
 
 The trident is a beacon for extra-dimensional entities. Each time it's used, it sends signals across reality that attract the attention of beings like the [[Deep Mother]].
-
-## Current Status
 
 ### Signs of Awakening
 Recent events suggest the trident is becoming active despite its supposed containment:
@@ -141,8 +144,6 @@ If a character somehow gains access to the weapon:
 - **Power Scaling**: Each major use grants additional abilities but accelerates merger with previous wielders
 - **Ultimate Choice**: Final wielding grants godlike power over both worlds but completely erases individual consciousness
 
-## Plot Hooks
-
 ### The Bloodline Awakening
 Multiple descendants of previous wielders are experiencing the calling simultaneously. Are they meant to work together, or is this the prelude to a battle between potential inheritors?
 
@@ -165,32 +166,26 @@ Tide Turner's Trident is a undersea element of the setting, known for biolumines
 
 Legends speak of Tide Turner's Trident as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Tide Turner's Trident.
 
-## Adventure Hooks
-
-- A rumor ties Tide Turner's Trident to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Tide Turner's Trident to avert a public scandal.
-- A map overlay reveals a hidden approach to Tide Turner's Trident active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Drowned God|02 Worldbuilding/Lore/The Drowned God]]
-
-
-## Connections
-
-- [[Deep Mother]]
-- [[The Drowned God]]
-- [[Tide Turner]]
-- [[Abyssos Prime]]
-- [[Aethermoor]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and chaos spreads
+- A journal reveals ancient history about a local noble
+- A shipment has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

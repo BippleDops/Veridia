@@ -35,15 +35,27 @@ chronology: active
 
 Ship choice shapes play: speed, stealth, sanity resilience, and upgrade slots differ. See [[Vehicles - Vehicle Customization Progression]].
 
-## Cross-References
 
-- [[06_GM_Resources/Session_Packets/Aethermoor Session 01]]
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

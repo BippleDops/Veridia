@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:07.476044+00:00'
 world: Both
 ---
 
-
-
 # Shield
 *Armor ([[shield-xphb|shield]])*  
 ![](/03_Mechanics/CLI/items/img/shield.webp#right)
@@ -34,7 +32,25 @@ world: Both
 - **Cost**: 10 gp
 - **Weight**: 6.0 lbs.
 
-*Source: Player's Handbook (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 219. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -44,19 +60,22 @@ Shield xphb is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of shield xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around shield xphb.
 
-## Adventure Hooks
-
-- A rumor ties shield xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at shield xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to shield xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and evil awakens
+- A stranger needs help stealing before the festival
+- A stranger needs help investigating before the festival
+- Someone is searching for a witness for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

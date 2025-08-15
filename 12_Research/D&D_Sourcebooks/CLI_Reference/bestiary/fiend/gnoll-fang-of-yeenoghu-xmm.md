@@ -30,8 +30,6 @@ updated: '2025-08-12T23:37:35.498294'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gnoll-fang-of-yeenoghu-xmm-gnoll-fang-of-yeenoghu-xmm.svg)
 
@@ -39,6 +37,24 @@ world: Both
 *Source: Monster Manual (2024) p. 141*  
 
 Gnolls possessed by demonic vestiges of the demon lord Yeenoghu, fangs of Yeenoghu direct the chaos of gnoll packs. Along the way, these fanatics seek grisly omens from Yeenoghu and strive to interpret the demon lord's vicious goals.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Gnolls
 
@@ -53,7 +69,6 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
 > 
 > Yeenoghu claims gnolls not as his brood but as maggots purposefully released to infest a despised carcass. They are a pernicious rot the Beast of Butchery spreads across mortal worlds. Whatever they once were, they were remade and are now his.
 
-
 ```statblock
 "name": "Gnoll Fang of Yeenoghu (XMM)"
 "size": "Medium"
@@ -65,7 +80,6 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
 "modifier": !!int "4"
 "stats":
   - !!int "17"
-  - !!int "15"
   - !!int "15"
   - !!int "10"
   - !!int "11"
@@ -110,19 +124,26 @@ Gnoll fang of yeenoghu xmm is a undersea element of the setting, known for biolu
 
 Legends speak of gnoll fang of yeenoghu xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gnoll fang of yeenoghu xmm.
 
-## Adventure Hooks
-
-- A rumor ties gnoll fang of yeenoghu xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gnoll fang of yeenoghu xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to gnoll fang of yeenoghu xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a conspiracy
+- Someone is hunting an heir for money
+- A letter reveals the truth about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

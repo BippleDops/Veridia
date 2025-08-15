@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:05.421508+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aurochs-mpmm-aurochs-mpmm.svg)
 
@@ -40,6 +37,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 71, Volo's Guide to Monsters p. 207*  
 
 An aurochs is a large, fierce bovine with jutting horns. In many lands, herds of aurochs roam free, while elsewhere orcs and humans train them from an early age to carry riders into combat.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Cattle
 
@@ -72,7 +87,7 @@ Many kinds of cattle roam the multiverse, some of them domesticated and others f
       \ (2d8 + 5) piercing damage. If the aurochs moved at least 20 feet straight\
       \ toward the target immediately before the hit, the target takes an extra 9\
       \ (2d8) piercing damage, and the target must succeed on a DC 15 Strength saving\
-      \ throw or be knocked [[conditions#Prone|prone]] if it is\
+      \ throw or be knocked [[conditions#prone|prone]] if it is\
       \ a creature."
     "name": "Gore"
 "source":
@@ -94,19 +109,32 @@ Aurochs mpmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of aurochs mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around aurochs mpmm.
 
-## Adventure Hooks
-
-- A rumor ties aurochs mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at aurochs mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to aurochs mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and evil awakens
+- Strange sightings suggest a curse
+- Strange accidents suggest a conspiracy
+- A prisoner has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

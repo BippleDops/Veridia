@@ -21,11 +21,28 @@ updated: '2025-08-12T23:37:34.796659'
 world: Both
 ---
 
-
 # A World of Your Own
 *Source: Dungeon Master's Guide (2014), p. 9* 
 
 Your world is the setting for your campaign, the place where adventures happen. Even if you use an existing setting, such as the Forgotten Realms, it becomes yours as you set your adventures there, create characters to inhabit it, and make changes to it over the course of your campaign. This chapter is all about building your world and then creating a campaign to take place in it.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## The Big Picture
 
@@ -138,17 +155,11 @@ The cult's ritual of initiation follows the pattern of its foundation myth. Neop
 > [!note] Divine Rank
 > 
 > The divine beings of the multiverse are often categorized according to their cosmic power. Some gods are worshiped on multiple worlds and have a different rank on each world, depending on their influence there.
-> 
 > **Greater deities** are beyond mortal understanding. They can't be summoned, and they are almost always removed from direct involvement in mortal affairs. On very rare occasions they manifest avatars similar to lesser deities, but slaying a greater god's avatar has no effect on the god itself.
-> 
 > **Lesser deities** are embodied somewhere in the planes. Some lesser deities live in the Material Plane, as does the unicorn-goddess Lurue of the Forgotten Realms and the titanic shark-god Sekolah revered by the sahuagin. Others live on the Outer Planes, as Lolth does in the Abyss. Such deities can be encountered by mortals.
-> 
 > **Quasi-deities** have a divine origin, but they don't hear or answer prayers, grant spells to clerics, or control aspects of mortal life. They are still immensely powerful beings, and in theory they could ascend to godhood if they amassed enough worshipers. Quasi-deities fall into three subcategories: demigods, titans, and vestiges.
-> 
 > *Demigods* are born from the union of a deity and a mortal being. They have some divine attributes, but their mortal parentage makes them the weakest quasi-deities.
-> 
 > *Titans* are the divine creations of deities. They might be birthed from the union of two deities, manufactured on a divine forge, born from the blood spilled by a god, or otherwise brought about through divine will or substance.
-> 
 > *Vestiges* are deities who have lost nearly all their worshipers and are considered dead, from a mortal perspective. Esoteric rituals can sometimes contact these beings and draw on their latent power.
 ^divine-rank
 
@@ -208,7 +219,7 @@ When creating the world where your campaign takes place, you'll want a map. You 
 
 For the most detailed areas of your world, use a province scale where each hex represents 1 mile. A full-page map at this scale represents an area that can be covered in one day's travel in any direction from the center of the map, assuming clear terrain. As such, province scale is a useful scale for mapping a campaign's starting area (see "Creating a Campaign," later in this chapter) or any location where you expect to track the adventurers' movement in hours rather than days.
 
-The ground cover of an area this size will include broad stretches of one predominant terrain type, broken up by other isolated terrain types.
+The ground cover of an area this size will include broad stretches of one predomit terrain type, broken up by other isolated terrain types.
 
 A settled region mapped at this scale might have one town and eight to twelve villages or farming hamlets. A wilder region might have only a single keep, or no settlements at all. You can also indicate the extent of the cleared farmland that surrounds each city or town. On a province-scale map, this will show as a belt a few hexes wide surrounding each town or village. Even small villages farm most of the arable land within a mile or two.
 
@@ -511,40 +522,26 @@ Choosing a symbol and a motto for the organization is a way of summing up the wo
 Finally, think about the ways that player characters might come into contact with the organization. Who are the important members-not just the leaders, but the agents in the field that the adventurers might encounter? Where are they active, and where do they have headquarters or strongholds? If adventurers do join, what kind of missions might they be sent on? What rewards can they gain?
 
 > [!note] Sample Faction: The Harpers
-> 
 > The Harpers is a scattered network of spellcasters and spies who advocate equality and covertly oppose the abuse of power, magical or otherwise.
-> 
 > The organization has risen, been shattered, and risen again several times. Its longevity and resilience are largely due to its decentralized, grassroots, secretive nature, and the autonomy of its various members. The Harpers have small cells and lone operatives throughout the Forgotten Realms, although they interact and share information with one another from time to time as needs warrant. The Harpers' ideology is noble, and its members pride themselves on their ingenuity and incorruptibility. Harpers don't seek power or glory, only fair and equal treatment for all.
-> 
 > **Motto.** Down with tyranny. Fairness and equality for all.
-> 
 > **Beliefs.** The Harpers' beliefs can be summarized as follows:
-> 
 > - One can never have too much information or arcane knowledge.  
 > - Too much power leads to corruption, and the abuse of magic in particular must be closely monitored.  
 > - No one should be powerless.  
-> 
 > **Goals.** Gather information throughout Faerûn, discern the political dynamics within each region, and promote fairness and equality by covert means. Act openly as a last resort. Thwart tyrants and any leader, government, or group that grows too powerful. Aid the weak, the poor, and the oppressed.
-> 
 > **Typical Quests.** Typical Harper quests include securing an artifact that would upset the balance of power in a region, gathering information on a powerful individual or organization, and determining the true intentions of an ambitious political figure or evil spellcaster.
 ^sample-faction-the-harpers
 
 > [!note] Sample Faction: The Zhentarim
-> 
 > The Zhentarim (also known as the Black Network) is an unscrupulous shadow network that seeks to expand its influence and power throughout the Forgotten Realms. The public face of the Black Network appears relatively benign. It offers the best and cheapest goods and services, both legal and illicit, thus destroying its competitors and making everyone dependent on it.
-> 
 > A member of the Zhentarim thinks of himself or herself as a member of a very large family and relies on the Black Network for resources and security. However, members are granted the autonomy to pursue their own interests and gain some measure of personal wealth and influence. As a whole, the Zhentarim promises "the best of the best," although in truth the organization is more interested in spreading its own propaganda and influence than investing in the improvement of its individual members.
-> 
 > **Motto.** Join us and prosper. Oppose us and suffer.
-> 
 > **Beliefs.** The Zhentarim's beliefs can be summarized as follows:
-> 
 > - The Zhentarim is your family. You watch out for it, and it watches out for you.  
 > - You are the master of your own destiny. Never be less than what you deserve to be.  
 > - Everything and everyone has a price.  
-> 
 > **Goals.** Amass wealth, power, and influence, and thereby dominate Faerûn.
-> 
 > **Typical Quests.** Typical Zhentarim quests include plundering or stealing a treasure hoard, powerful magic item, or artifact; securing a lucrative business contract or enforcing a preexisting one; and establishing a foothold in a place where the Zhentarim holds little sway.
 ^sample-faction-the-zhentarim
 
@@ -815,7 +812,7 @@ Now consider these other aspects of the conflict:
 
 #### 5. Rebellion, Revolution, Overthrow
 
-Dissatisfied with the current order, a person or group of people overturns the dominant regime and takes over-or fails to take over. Regardless of the result, a revolution (even an attempted one) can shape the destiny of nations.
+Dissatisfied with the current order, a person or group of people overturns the domit regime and takes over-or fails to take over. Regardless of the result, a revolution (even an attempted one) can shape the destiny of nations.
 
 The scale of a revolution need not involve the common masses against the nobility. A revolution can be as small as a merchants' guild revolting against its leadership or a temple overthrowing its priesthood in favor of a new creed. The spirits of the forest might attempt to overthrow the forces of civilization in a nearby city that cut down trees for timber. Alternatively, the scale can be as dramatic as humanity rising to overthrow the gods.
 
@@ -932,9 +929,7 @@ Since your setting is a fantasy world and not a mundane medieval society, add in
 Extraordinary events, such as the approach of a comet or a lunar eclipse, make good adventure elements, and you can drop them in your calendar wherever you want. Your calendar can tell you when there's a full moon for a lunar eclipse, but you can always fudge the date for a particular effect.
 
 > [!note] The Calendar of Harptos
-> 
 > The world of the Forgotten Realms uses the Calendar of Harptos, named after the long-dead wizard who invented it. Each year of 365 days is divided into twelve months of thirty days each, which roughly correspond to months in the real-world Gregorian calendar. Each month is divided into three tendays. Five special holidays fall between the months and mark the seasons. Another special holiday, Shieldmeet, is inserted into the calendar after Midsummer every four years, much like leap years in the modern Gregorian calendar.
-> 
 > ![[the-calendar-of-harptos|The Calendar of Harptos]]
 ^the-calendar-of-harptos
 
@@ -979,9 +974,7 @@ Think about your preferred style of play by considering these questions:
 - Are you comfortable with moral ambiguity, such as allowing the characters to explore whether the end justifies the means? Or are you happier with straightforward heroic principles, such as justice, sacrifice, and helping the downtrodden?  
 
 > [!note] A World to Explore
-> 
 > Much of a campaign involves the adventurers traveling from place to place, exploring the environment, and learning about the fantasy world. This exploration can take place in any environment, including a vast wilderness, a labyrinthine dungeon, the shadowy passages of the Underdark, the crowded streets of a city, and the undulating waters of the sea. Determining a way around an obstacle, finding a hidden object, investigating a strange feature of a dungeon, deciphering clues, solving puzzles, and bypassing or disabling traps can all be part of exploration.
-> 
 > Sometimes exploration is an incidental part of the game. For instance, you might gloss over an unimportant journey by telling the players that they spend three uneventful days on the road before moving along to the next point of interest. Other times exploration is the focus, a chance to describe a wondrous part of the world or story that increases the players' feeling of immersion. Similarly, you should consider playing up exploration if your players enjoy solving puzzles, finding their way around obstacles, and searching dungeon corridors for secret doors.
 ^a-world-to-explore
 
@@ -1174,19 +1167,30 @@ Deep in D&D's roots are elements of science fiction and science fantasy, and you
 
 Legends speak of 02 a world of your own as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 02 a world of your own.
 
-## Adventure Hooks
-
-- A rumor ties 02 a world of your own to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 02 a world of your own to avert a public scandal.
-- A map overlay reveals a hidden approach to 02 a world of your own active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A noble needs help stealing before winter
+- Someone is searching for an heir for revenge
+- Someone is blackmailing information for love
+- A merchant needs help delivering before dawn
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

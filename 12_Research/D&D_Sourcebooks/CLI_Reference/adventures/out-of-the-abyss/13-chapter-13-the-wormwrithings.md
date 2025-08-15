@@ -21,13 +21,30 @@ updated: '2025-08-12T23:37:34.654220'
 world: Both
 ---
 
-
 # Chapter 13: The Wormwrithings
 *Source: Out of the Abyss, p. 166* 
 
 Two of the components that Vizeran needs to craft the talisman for his ritual (see chapter 12) can be found relatively close to the archmage's tower. The Wormwrithings are a honeycomb of tunnels spanning hundreds of miles in the northern reaches of the Underdark, carved from the rock by enormous purple worms. A purple worm nest in the Wormwrithings is an ideal place to find an unhatched purple worm egg. Additionally, Vizeran has heard rumors of a beholder living in the Vast Oblivium, a chasm deep within the Wormwrithings. If the characters didn't obtain the central eye from [[/03_Mechanics/CLI/bestiary/npc/lorthuun-oota|Lorthuun]] or Xazax (the beholders in chapter 9), they can search the Vast Oblivium for the beholder believed to lair there.
 
 ![](/03_Mechanics/CLI/adventures/out-of-the-abyss/img/093-ooa13-01.webp#center)
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## The Worm Tunnels
 
@@ -128,7 +145,6 @@ Approximately half way between Araj and the worm nursery, the characters' route 
 > [!readaloud] 
 > 
 > A foul stench and a cacophony of faint, hissing voices rises from ahead. The tunnel plunges sharply downward into a vast, open cavern dimly lit by luminous fungi and bisected by an underground stream. Tall reptilian humanoids stand on either side of the stream, waving makeshift weapons and howling threats at each other in a hissing language.
-> 
 > The group of creatures closest to you has a captive lashed between two stalagmites atop a low rise in the cavern floor. That floor is some twenty feet below you, down a steep but navigable tunnel whose walls are piled high with rubble. The creatures are preoccupied with their conflict and haven't noticed you yet.
 ^43d
 
@@ -141,13 +157,9 @@ The disagreement blossomed into a full-fledged conflict, and the other troglodyt
 The characters can turn back without being spotted and find an alternate route bypassing the troglodytes, but doing so adds forty-eight miles (and an increased chance of random encounters) to the distance they must travel before they reach the purple worm nursery. If the characters simply watch the standoff unfold, see "Resolving the Standoff" later in this section.
 
 > [!note] Troglodyte Lair: General Features
-> 
 > Characters notice commonly recurring features as they explore the troglodyte lair.
-> 
 > **Light.** Nightlights (see "Fungi of the Underdark" in chapter 2) and other luminous fungi dimly illuminate the caves and tunnels throughout the troglodyte lair.
-> 
 > **Ceilings.** The main cavern has a 90-foot-high ceiling. Smaller side caverns have 60-foot-high ceilings. Unless noted otherwise, all ceilings have stalactites hanging from them.
-> 
 > **Stench.** The troglodytes' foul musk can be smelled throughout the lair, although the stench is not strong enough to have any detrimental effect on visitors.
 ^troglodyte-lair-general-features
 
@@ -180,7 +192,6 @@ This upthrust section of the cavern floor is edged by a steep slope to the south
 Five [[troglodyte-xmm|troglodytes]] loyal to H'slaat are stationed here. In addition to their regular attacks, they are armed with javelins that they throw from a pile of twenty-five javelins on the cavern floor near them.
 
 > [!note] 
-> 
 > **Javelin.** *Melee or Ranged Weapon Attack*: +4 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit*: 3 (`d6`) piercing damage.
 ^446
 
@@ -192,8 +203,6 @@ The area north of the stream is dominated by a 5-foot-deep basin. A 10-foot-wide
 
 The troglodyte chieftain has arrayed his forces along the narrow strip of high ground between the basin and the stream. Chieftain S'slaar is a [[troglodyte-xmm|troglodyte]] with 20 hit points and a [[2-weapon-xdmg|+2 longsword]]. While he wields the sword, S'slaar gains the following action option:
 
-> [!note] 
-> 
 > **+2 Longsword.** *Ranged Weapon Attack*: +6 to hit, reach 5 ft., one target. *Hit*: 8 (`1d8 + 4`) slashing damage, or 9 (`1d10 + 4`) slashing damage if used with two hands.
 ^449
 
@@ -296,9 +305,7 @@ As tense as the standoff between H'slaat and S'slaar might be, the troglodytes q
 
 After dealing with or avoiding the troglodytes, the adventurers can continue on toward the purple worm nursery. However, within six miles of the nursery they come across an unexpected presence in the darkness.
 
-> [!readaloud] 
-> 
-> The remnants of a rockfall have opened up a small vaulted cavern along the passageway. Apart from the occasional glowing insect scuttling along the walls, the cavern is dark. Suddenly, a loud voice booms out all around you in Undercommon: "Turn back or suffer a death so horrible you cannot imagine! You have been warned!"
+> The remts of a rockfall have opened up a small vaulted cavern along the passageway. Apart from the occasional glowing insect scuttling along the walls, the cavern is dark. Suddenly, a loud voice booms out all around you in Undercommon: "Turn back or suffer a death so horrible you cannot imagine! You have been warned!"
 ^45d
 
 The voice is actually a [[minor-illusion-xphb|minor illusion]] cantrip. If no one in the party understands Undercommon, the dire warning is just loud gibberish to them. The cantrip was cast by [[/03_Mechanics/CLI/bestiary/npc/hanne-hallen-oota|Hanne Hallen]], a young drow allied with House Mizzrym. Hanne has the statistics of a [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]], with the following modifications:
@@ -310,12 +317,8 @@ The voice is actually a [[minor-illusion-xphb|minor illusion]] cantrip. If no on
 
 Hanne also has the following Spellcasting feature:
 
-> [!note] 
-> 
 > **Spellcasting.** Hanne is a 1st-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). She has the following wizard spells prepared:
-> 
 > Cantrips (at will): [[minor-illusion-xphb|minor illusion]], [[ray-of-frost-xphb|ray of frost]]
-> 
 > 1st Level (2 slots): [[shield-xphb|shield]], [[mage-armor-xphb|mage armor]]
 ^45e
 
@@ -331,14 +334,11 @@ If the characters attack Hanne, she fights to the best of her ability. If the ad
 
 As the characters near the nursery, they get a view of one of its guardians—and might take an unexpected fall.
 
-> [!readaloud] 
-> 
 > As you make your way through a long tunnel, everything around you begins to shake and rumble. Suddenly, the tunnel floor gives way at your feet.
 ^461
 
 The tunnel through which the characters travel is directly above area 1 of the nursery. The burrowing of a nearby purple worm weakens the tunnel floor, causing a 10-foot section of it to break apart and collapse. Any character in the area must make a successful DC 15 Dexterity saving throw or fall 25 feet into area 1 below.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/096-13-02.webp#gallery|Map 13.2: The Worm Nursery]]
 > ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/097-worm-nursery-player-version.webp#gallery|Player Version]]
 
@@ -353,17 +353,12 @@ A variety of fungi blankets this dark, 15-foot-high cavern. Every 10 minutes spe
 The passage to area 3 is a steep slope leading 10 feet upward, and covered in small rocks and gravel. Moving up the slope requires a successful DC 12 Dexterity ([[skills#Acrobatics|Acrobatics]]) check. On a failed check, a character slips and tumbles down to the bottom of the slope, taking no damage. If someone at the top of the slope lowers a rope to help other characters climb, no check is necessary.
 
 > [!note] Worm Nursery: General Features
-> 
 > The characters encounter the following features in the purple worm nursery.
-> 
 > **Light.** All tunnels and chambers are dark unless the text states otherwise.
-> 
 > **Purple Worm Tunnels.** The tunnels marked T1, T2, and T3 on the map do not exist when the characters first enter the nursery. They are created by purple worms after the party arrives, as noted here:
-> 
 > - Fifteen minutes after the party enters area 1, a purple worm digs into area 1, then travels through area 3 and creates tunnel T1 to enter area 8.  
 > - Ten minutes after the first worm arrives, a second purple worm enters through the tunnel in area 7. It makes its way through the adjoining echo chamber, then into area 8. Then it digs tunnel T2 into the eastern echo chamber before exiting through the worm tunnel in area 14.  
 > - Fifteen minutes after the second worm arrives, another purple worm enters through the tunnel in area 7, digs tunnel T3 from the southern echo chamber into the eastern echo chamber, then exits through the worm tunnel in area 14.  
-> 
 > Visiting worms are heralded by a low rumbling sound 2 minutes before they appear. (The bats in area 9 also swarm and flee their roost 1 minute before a purple worm appears.) Purple worms ignore intruders except those in areas 5 or 8, but they won't pursue anyone fleeing from those areas.
 ^worm-nursery-general-features
 
@@ -397,7 +392,7 @@ If the adventurers set off a humming in one of these echo chambers, a distant ru
 
 Phosphorescent lichen clings to the walls of this 30-foot-high cavern. Stronk, a brutish [[fomorian-xmm|fomorian]], lairs here. Somehow the giant formed a bond with the purple worms, becoming a caretaker of their eggs. He regularly checks the eggs, brushes fungus off them, and defends them against predators.
 
-Stronk is sleeping on a pile of skins and loudly snoring when the adventurers arrive. Characters looking around the room can see the remnants of the fomorian's grim meals—travelers lost in the Wormwrithings or egg-hunting adventurers.
+Stronk is sleeping on a pile of skins and loudly snoring when the adventurers arrive. Characters looking around the room can see the remts of the fomorian's grim meals—travelers lost in the Wormwrithings or egg-hunting adventurers.
 
 Venturing into Stronk's lair without waking him requires a successful DC 12 Dexterity ([[skills#Stealth|Stealth]]) check. If awakened, the fomorian shouts out about "killing egg thieves" and "protecting my precious ones," then fights to defend the nesting area and protect the eggs. If Stronk is reduced to half his hit points or fewer, he charges into the adjoining echo chamber (area 5) and bellows to summon a [[purple-worm-xmm|purple worm]] before rejoining the battle.
 
@@ -414,7 +409,6 @@ This cavern rises to a height of 50 feet and contains many stalagmites and stala
 Zhora Hallen and her Dark Hunters enter the purple worm nursery by scaling down the rock wall here shortly after the adventurers arrive (see "Dark Hunters," below). Characters can also leave the nursery and return to the Wormwrithings via this route.
 
 > [!note] Hanne's Help
-> 
 > Educated by her mother, [[/03_Mechanics/CLI/bestiary/npc/hanne-hallen-oota|Hanne Hallen]] (see "Voice in the Dark") knows quite a bit about purple worms. If she's traveling with the characters, she realizes that they are in a worm nursery as soon as she enters area 8. She also recognizes the echo chambers (area 5) and understands their function. Hanne won't want to leave the nursery without an egg of her own. If necessary, she'll sneak away from the rest of the party to try to obtain one.
 ^hannes-help
 
@@ -430,14 +424,9 @@ For every five minutes the adventurers spend in this room, check for a random en
 
 #### Egg Chamber Encounters
 
-`dice: [](13-chapter-13-the-wormwrithings.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1–15 | No encounter |
 | 16–18 | 1 [[giant-spider-xmm|giant spider]] from area 11 |
 | 19–20 | 1 [[purple-worm-xmm|purple worm]] |
-^encounter
 
 The giant spider walks on the ceiling and surprises the adventurers unless someone in the party has a passive Wisdom ([[skills#Perception|Perception]]) score of 14 or higher.
 
@@ -526,15 +515,10 @@ One hundred slaves of various humanoid races serve the beholder. Some were captu
 All of the slaves fear Karazikar, and the notion of acting against the beholder seems impossible to them. However, witnessing the bravery of the adventurers has a chance to sway them. If the characters demonstrate their willingness to challenge the beholder (including by killing Shedrak), surviving slaves can be convinced to aid them with a successful DC 16 Charisma ([[skills#Persuasion|Persuasion]]) check. On a failed check, slaves either attack the characters or hide from them, waiting for Karazikar to deal with them.
 
 > [!note] The Vast Oblivium: General Features
-> 
 > The characters encounter the following features in the alien landscape of the Vast Oblivium.
-> 
 > **Light.** The tunnels and chambers of the Vast Oblivium are dimly lit by glowing fungi and lichen.
-> 
 > **Bridges.** The central chasm of Karazikar's Maw is 100 feet across, spanned by bridges made of gut and zurkhwood that are anchored to metal rings in the rock walls of the tunnel entrances. The tunnels are staggered so that the bridges cross over each other at different points. From any bridge, a character can climb or drop 10 feet to reach a bridge leading to a tunnel on an adjacent level.
-> 
 > **Chasm.** The chasm of Karazikar's Maw extends some five hundred feet below the lowest bridged tunnels, plunging into darkness. A fall into the chasm deals `20d6` bludgeoning damage.
-> 
 > **Shafts.** The ten vertical shafts around the perimeter of the chasm are each 30 feet wide and 100 feet from top to bottom. They're located 100 feet from the edge of the chasm and connected to it by tunnels. Each shaft features side chambers and small caverns, and has rope ladders for Karazikar's slaves to move up and down them.
 ^the-vast-oblivium-general-features
 
@@ -596,7 +580,6 @@ The slaves know several intriguing bits of information:
 Any slaves that don't join the party are anxious to make their way to the nearest peaceful Underdark settlement. The drow are eager to return to Menzoberranzan, the deep gnomes to Blingdenstone. If the characters urge the slaves to leave the Vast Oblivium and make their own way home, they are all killed while trying to escape from the Wormwrithings. If the characters assign members of their expeditionary force to lead the slaves out of the Wormwrithings, the slaves stand a much better chance of making it to safety.
 
 > [!note] Lost Friends
-> 
 > The liberation of the Vast Oblivium makes a useful bit of backstory for introducing or reintroducing a character into the party. If an adventurer or NPC was lost in the Underdark, or if you want an NPC left behind at a settlement to put in a reappearance, have that character appear as a slave taken by Karazikar. Depending on the circumstances, the character might even join up with the adventurers during the final battle to defeat the beholder. Similarly, a new player character joining the party might start out as a prisoner of the beholder, now freed.
 ^lost-friends
 
@@ -621,20 +604,17 @@ The beholder used its disintegration eye ray to carve a rough likeness of itself
 
 Legends speak of 13 chapter 13 the wormwrithings as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 13 chapter 13 the wormwrithings.
 
-## Adventure Hooks
-
-- A rumor ties 13 chapter 13 the wormwrithings to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 13 chapter 13 the wormwrithings to avert a public scandal.
-- A map overlay reveals a hidden approach to 13 chapter 13 the wormwrithings active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

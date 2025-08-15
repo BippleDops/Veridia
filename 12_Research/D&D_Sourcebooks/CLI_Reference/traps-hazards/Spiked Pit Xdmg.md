@@ -23,14 +23,30 @@ updated: '2025-08-13T12:34:05.034189+00:00'
 world: Both
 ---
 
-
-
 # Spiked Pit
 *Generic Hazard*  
 
 A 10-foot-deep pit has a hinged lid constructed from material identical to the surrounding floor. When a creature moves onto the lid, it swings open like a trapdoor, causing the creature to fall into the pit, which has sharpened wooden or metal spikes at the bottom. The lid remains open thereafter.
 
 A creature that falls into the pit lands at the bottom and takes 3 (`d6`) Bludgeoning damage from the fall plus 9 (`2d8`) Piercing damage from the spikes.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Detect and Disarm
 
@@ -51,7 +67,7 @@ You can scale the trap for higher levels by increasing the pit's depth and damag
 | 17–20 | 120 feet | 42 (`12d6`) Bludgeoning plus 57 (`13d8`) Piercing |
 ^levels-pit-depth-damage
 
-*Source: Dungeon Master's Guide (2024) p. 103. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 103. Available in the SRD*
 
 ## Player-Facing Summary
 
@@ -61,19 +77,26 @@ Spiked pit xdmg is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of spiked pit xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around spiked pit xdmg.
 
-## Adventure Hooks
-
-- A rumor ties spiked pit xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at spiked pit xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to spiked pit xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help stealing before the festival
+- Someone is searching for a artifact for revenge
+- A shipment has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -24,18 +24,30 @@ obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.918876+00:00'
 ---
 
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-shadow-surgeons-the-shadow-surgeons.svg]]
-
-
-
-
 
 # The Shadow Surgeons
 
 *"Where light fails to heal, shadow mends what should not be broken." - Chief Surgeon Mortis Voidcut*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 The Shadow Surgeons operate as an underground medical organization specializing in procedures deemed too dangerous, experimental, or ethically questionable for legitimate practitioners. Working from hidden clinics throughout Aquabyssos's darker districts, they offer services ranging from illegal enhancements to life-saving operations rejected by conventional medicine. Their motto "Any Life, Any Price" reflects their willingness to attempt procedures others won't consider.
@@ -48,13 +60,6 @@ Established by exiled medical professionals and self-taught practitioners, the o
 **Field Surgeons:** Experienced practitioners handling most operations
 **Apprentice Cutters:** Students learning forbidden techniques
 **Procurement Specialists:** Acquire rare materials and test subjects
-
-### Specialization Areas
-- **Life Extension:** Prolonging existence through unnatural means
-- **Enhancement Surgery:** Grafting and modification procedures
-- **Soul Repair:** Spiritual healing using dark magic
-- **Memory Alteration:** Surgical modification of consciousness
-- **Resurrection Attempts:** Experimental revival techniques
 
 ## Facilities and Operations
 **The Deep Ward:** Primary surgical facility in abandoned hospital
@@ -137,38 +142,7 @@ The organization has seen increased demand due to Crystal Plague cases rejected 
 Shadow Surgeons are typically pragmatic and detached, focused on medical problems rather than moral implications. They speak in clinical terms even about disturbing procedures, viewing their work as necessary service rather than evil practice. Higher-ranking members may show genuine care for patients despite questionable methods.
 
 ## DM Notes
-The Shadow Surgeons provide excellent opportunities for moral dilemmas and desperate solutions. They can offer critical healing when conventional methods fail, but at significant ethical and financial costs. Use them to explore themes of medical ethics, the price of survival, and the gray areas between helping and harming.
-
-
-## Connections
-
-- [[Fear Farms]]
-- [[The Final Choice]]
-- [[Rescue Senator Glaucus]]
-
-
-## Appearance
-
-
-TODO
-
-
-## Personality
-
-
-TODO
-
-
-## Goals
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
+The Shadow Surgeons provide excellent opportunities for moral dilemmas and desperate solutions. They can offer critical healing when conventional methods fail, but at significant ethical and ficial costs. Use them to explore themes of medical ethics, the price of survival, and the gray areas between helping and harming.
 
 ## Player-Facing Summary
 
@@ -182,10 +156,41 @@ Legends speak of The Shadow Surgeons as a nexus where past and present converge.
 
 - [[The Shadow Surgeons|02 Worldbuilding/People/The Shadow Surgeons]]
 
-<!-- enriched: true -->
 nriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

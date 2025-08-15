@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.658868'
 world: Both
 ---
 
-
 # Chapter 14: The Labyrinth
 *Source: Out of the Abyss, p. 178* 
 
@@ -39,6 +38,24 @@ Abandoned settlements within the Labyrinth are common, marked out by rusting iro
 
 Characters in the Labyrinth can easily become lost. Traveling through this area follows the rules under "Navigating" in chapter 2, but it takes a successful DC 12 Wisdom ([[skills#Survival|Survival]]) check to avoid becoming lost, rather than a DC 10 check. Spellcasters must contend with the effects of the *faerzress* for as long as they are in the Labyrinth, also as discussed in chapter 2.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Labyrinth Encounters
 
 This chapter features a number of set encounters. Either as the characters journey to the Labyrinth or return to Vizeran's tower, you can run the "Adamantine Tower" encounter. Once the characters reach the edge of the Labyrinth, go to the "Spiral of the Horned Lord" encounter.
@@ -52,13 +69,9 @@ Twice each day that the party spends in the Labyrinth (whether traveling or rest
 > [!note] Random Encounter Locations
 > 
 > Random encounters in the Labyrinth take place in one of the following environments, modified as you wish to suit the creatures in the encounter.
-> 
 > **Caves.** Most caves in the Labyrinth are small (up to 30 feet in diameter), with uneven floors featuring stalagmites, columns, or pools of standing water. A cave has a 10 percent chance of featuring luminescent growth on the walls that fill it with dim light. In addition to the tunnel through which the characters enter, there are `d3` additional tunnels leading out. These tunnels can exit the cave through the floor, ceiling, or at odd angles.
-> 
 > **Tunnels.** Most tunnels in the Labyrinth are 5 to 10 feet wide, with ceilings `1d8 + 3` feet high. A tunnel follows a straight path for no more than `2d4 × 10` feet before it turns.
-> 
 > **Rifts.** The Labyrinth is shot through with rifts and chasms formed by upheavals in the earth. Blocks of stone thrust up in some places to hinder movement through passages and caverns, while other areas drop off suddenly, forming escarpments hundreds of feet high. In some places, the earth has shifted horizontally, creating tunnels that end suddenly only to continue hundreds of feet away.
-> 
 > Any rift the characters encounter has a 75 percent chance of featuring a bridge or staircase constructed to navigate it.
 ^random-encounter-locations
 
@@ -136,9 +149,7 @@ The [[shrieker-fungus-xmm|shriekers]] sound off when bright light or a creature 
 The adventurers come across a tower haunted by forces of darkness.
 
 > [!readaloud] 
-> 
 > Vaulted chambers bristle with stalactites and stalagmites, slowing your passage as you wend your way across uneven floors. Moving through a narrow passage, you enter a cavern dimly lit by phosphorescent fungi—and are met by the sight of a dark metal tower perched on the edge of a cliff that drops away into darkness.
-> 
 > The square tower is twenty feet on a side and thirty feet high, with arrow slits in each wall. A battlement crowns its top, with a stone gargoyle peering over each side. Set into the middle of the wall facing you is a sturdy-looking door made of the same dark metal as the rest of the tower.
 ^4a1
 
@@ -172,8 +183,6 @@ The top of the tower features an open space surrounded by a crenelated wall. If 
 
 Minotaurs have roamed the tunnels of the Labyrinth for ages, but as Baphomet's influence grows, so too has the ferocity of his chosen servants. The waxing of Baphomet's power has not gone unnoticed by the packs of gnolls rampaging through the Underdark. The gnolls have begun making inroads into minotaur territory. The latest battlefield in the ancient feud between Baphomet and Yeenoghu is a maze of passages that grant access to the deeper passages of the Labyrinth.
 
-> [!readaloud] 
-> 
 > The tunnel you have been following gradually widens until it opens into a cave with a high ceiling overhead. Patches of glowing fungi cling to the walls and fill the chamber with dim light. Columns of stone support the ceiling, the rock marbled with veins of glittering crystal. Across the chamber, a great cleft is ringed by a profusion of sigils and glyphs. Stacked to either side of the opening are two mounds of severed heads.
 ^4a7
 
@@ -187,8 +196,6 @@ The minotaurs tear off their victims' heads, then leave them to "watch" the entr
 
 Minutes after the characters arrive, they hear the sounds of footsteps approaching. A few moments later, a gnoll slinks from the tunnel ahead.
 
-> [!readaloud] 
-> 
 > A gnoll creeps out of the shadows, glancing cautiously at the piles of heads to either side of it. Its filthy body is bent and covered with tatters of clothing and scraps of blood-crusted armor. The creature looks you over with one good eye, the other lost in a mass of scar tissue.
 ^4a9
 
@@ -202,8 +209,6 @@ This wretched gnoll is named [[/03_Mechanics/CLI/bestiary/npc/gash-oota|Gash]]. 
 
 Cringing and mewling, [[/03_Mechanics/CLI/bestiary/npc/gash-oota|Gash]] approaches the party with arms out and head down. He speaks in both Gnoll and Abyssal. If the characters can't understand him, he pantomimes helpful gestures and beckons them to follow him.
 
-> [!readaloud] 
-> 
 > "Powerful masters," the gnoll whines. "You honor us by your presence. Seek you passage through the maze? The Spiral of the Great Horned King? I can help. Yes. Trust [[/03_Mechanics/CLI/bestiary/npc/gash-oota|Gash]] and he will see you through the maze, he will."
 ^4aa
 
@@ -229,16 +234,10 @@ If [[/03_Mechanics/CLI/bestiary/npc/gash-oota|Gash]] was attacked by the charact
 
 #### Maze Encounters
 
-`dice: [](14-chapter-14-the-labyrinth.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
-| 1–10 | No encounter |
 | 11–12 | Corpse |
 | 13–14 | Gnawed bones |
 | 15–17 | `2d4` [[gnoll-warrior-xmm|gnolls]] |
 | 18–20 | `d6` [[minotaur-of-baphomet-xmm|minotaurs]] |
-^encounter
 
 #### Corpse
 
@@ -270,12 +269,8 @@ Yeenoghu and his pack moved on, but [[/03_Mechanics/CLI/bestiary/npc/grisha-oota
 
 Filthriddens lies 48 miles from the Spiral of the Horned King, deeper in the Labyrinth. [[/03_Mechanics/CLI/bestiary/npc/kurr-oota|Kurr]] (see "Random Encounters") or [[/03_Mechanics/CLI/bestiary/npc/gash-oota|Gash]] (see "Gash the Gnoll") might lead the characters here if they don't find it on their own.
 
-> [!readaloud] 
-> 
 > The cavern that opens up ahead looks like a settlement, with tents and crudely built shanties lining its irregular walls. It appears deserted except for a lone human male kneeling within a circle of burning torchstalk mushrooms in the center of the cave and two ragged figures lurking near a zurkhwood door set into a wall thirty feet distant. The figure in the circle is praying over a rotting minotaur head but stands when he sees you. He's a thin human, and his face and arms are streaked with dry blood.
-> 
 > "Friends," he says, "I have heard the call and I hope you have too. With my own eyes, I saw our Great Lord Yeenoghu slaughter the minotaurs that had plagued us. Now we are free and strong with his blessings. We feast while we live, and thanks to our lord, we will also feast when we are dead. If you've heard the call, come. Join my pack and feel the strength of Yeenoghu."
-> 
 > The figure smiles as he speaks, revealing teeth filed to sharp points.
 ^4b4
 
@@ -291,8 +286,6 @@ The Labyrinth is aptly named, for even the most resolute of explorers can become
 
 As the party travels deeper into the Labyrinth, any character with a passive Wisdom ([[skills#Perception|Perception]]) score of 15 or higher hears the sounds of marching feet off in the distance. To investigate the source of the noise, the characters must travel for 15 minutes through cramped tunnels requiring as much climbing as crawling. At the end of this time, the adventurers emerge onto a shelf 15 feet up the wall of a broad, straight tunnel some 20 feet high.
 
-> [!readaloud] 
-> 
 > A curious procession of creatures marches along the tunnel below your position. Twelve of the creatures are identical. Each has a round body, spindly arms and legs, a pair of fluttering wings rising above its arms, and a single eye staring out over a wide, smiling mouth. At the column's head stands a creature that looks like an inverted pyramid held up by six legs. It scuttles like a crab. On each side of its body, an eye is set above a mouth. Under the mouth, a single arm grips a spear in its hand.
 ^4b6
 
@@ -301,15 +294,13 @@ Twelve [[modron-monodrone-xmm|monodrones]] and a [[modron-tridrone-xmm|tridrone]
 The extended march has taxed the modrons to their limit. Most show signs of the frustration of being unable to fulfill their mission. The tridrone has managed to keep the group together, but it feels responsible for their collective fate and their failure to return home. Even if the characters have the ability to communicate with the modrons, the monodrones' ability to communicate is all but spent (see the "Roleplaying the Modrons" sidebar).
 
 > [!note] Roleplaying the Modrons
-> 
 > Modrons have no sense of individuality. They are a collective and refer to themselves as "we" or "us." As a result, modrons don't understand individuality in others. When speaking to a group, the tridrone might focus its attention on the adventurer it believes to be at the top of the party's hierarchy even while talking to another.
-> 
 > Monodrones can normally relay messages up to forty-eight words long. However, years of wandering have degraded these creatures so that they can speak only a few words or phrases before sputtering off into clicking and popping noises. Among the words the monodrones repeat are "march," "Mechanus," "seventeen" (the number of cycles of the plane of Mechanus that mark the Great Modron March), and "lost."
 ^roleplaying-the-modrons
 
 The tridrone can be very communicative—provided the characters have a way to speak with it and can allay its suspicions. A character can persuade the tridrone of the party's good intentions with a successful DC 15 Charisma ([[skills#Persuasion|Persuasion]]) check. They have advantage on the check if the party includes one or more modrons.
 
-Once convinced of the characters' friendly intentions, the tridrone tells them that it and its fellows are on a mission of supreme importance, though it doesn't reveal the nature of that mission. A character can puzzle out the reason why the modrons might be here by making a DC 20 Intelligence ([[skills#Arcana|Arcana]]) check. Success indicates that the character recalls stories about the Great Modron March, which occurs every 289 years and sees a vast army of modrons marching across the Outer Planes. If the check succeeds by 5 or more, the character also knows the last march happened over two hundred years ago, and that these modrons are likely remnants of that march. The tridrone doesn't admit this (not wanting to acknowledge its failure), though it might be convinced to follow the characters if they offer to lead the modrons out of the Labyrinth. Additionally, the tridrone knows the Labyrinth well, and befriending the modrons grants characters a +5 bonus to Wisdom ([[skills#Survival|Survival]]) checks made to navigate the region.
+Once convinced of the characters' friendly intentions, the tridrone tells them that it and its fellows are on a mission of supreme importance, though it doesn't reveal the nature of that mission. A character can puzzle out the reason why the modrons might be here by making a DC 20 Intelligence ([[skills#Arcana|Arcana]]) check. Success indicates that the character recalls stories about the Great Modron March, which occurs every 289 years and sees a vast army of modrons marching across the Outer Planes. If the check succeeds by 5 or more, the character also knows the last march happened over two hundred years ago, and that these modrons are likely remts of that march. The tridrone doesn't admit this (not wanting to acknowledge its failure), though it might be convinced to follow the characters if they offer to lead the modrons out of the Labyrinth. Additionally, the tridrone knows the Labyrinth well, and befriending the modrons grants characters a +5 bonus to Wisdom ([[skills#Survival|Survival]]) checks made to navigate the region.
 
 The tridrone warns the characters to avoid the center of the Labyrinth, explaining that a malfunctioning "Orderer" is there. The characters might know the device by its other name: the Maze Engine. Because the device was built on Mechanus, its magical energy resonates with the modrons. The tridrone explains that an Orderer is designed to bring order to chaos by altering reality. A malfunctioning Orderer can be very dangerous, however, altering reality in unexpected ways. The tridrone knows exactly how far it is from the device. Because its knowledge of magic is limited and its focus on rejoining the Great Modron March is all-consuming, the tridrone has never thought about whether the Orderer might provide a solution to the modrons' predicament. If the characters express an interest in investigating this possibility, the tridrone leads the party to the center of the Labyrinth where the Maze Engine is found.
 
@@ -319,16 +310,10 @@ About twelve miles from their encounter with the modrons, as they travel through
 
 Eventually, the characters enter a smaller tunnel leading upward. As they move forward, they can clearly hear the sound of fighting ahead. Bestial howls and yips can be heard, along with deeper roaring. A successful DC 13 Intelligence check recognizes the language of the battle cries as Gnoll. The characters can retreat away from the sounds of combat, but doing so means backtracking for six miles to find another route. If they continue ahead, they are confronted with a grisly scene. Though the characters likely have no firsthand experience of a goristro, they recognize the creature from the information provided to them by [[/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota|Vizeran DeVir]].
 
-> [!readaloud] 
-> 
 > As you move forward, the sounds of furious battle grow louder. The tunnel ends at a ledge twenty feet above the floor of a large cavern, giving you a perfect view of the conflict below.
-> 
 > On the shores of an underground lake, a pack of frenzied gnolls and hyenas surrounds a demon standing nearly twenty feet tall, with massive arms, clawed hands, cloven hooves, and the head of a bull. This is a goristro, whose heart [[/03_Mechanics/CLI/bestiary/npc/vizeran-devir-oota|Vizeran DeVir]] has instructed you to claim.
-> 
-> Leading the gnolls is a figure of fearful countenance, twelve feet tall with the head of a snarling, amber-eyed hyena. He wields a massive triple flail, whose whirling heads smash into the larger goristro. The gnolls howl their master's name as he strikes swiftly, again and again: "Yeenoghu! Yeenoghu!"
-> 
+> Leading the gnolls is a figure of fearful countece, twelve feet tall with the head of a snarling, amber-eyed hyena. He wields a massive triple flail, whose whirling heads smash into the larger goristro. The gnolls howl their master's name as he strikes swiftly, again and again: "Yeenoghu! Yeenoghu!"
 > The larger demon roars, slashing with its bull's horns and flailing with its claws, but to no avail. Yeenoghu evades or shrugs off its attacks, even as gnoll archers pepper it with arrows. Then the gnolls swarm the goristro as it begins to falter, bringing it crashing to the ground.
-> 
 > In less than a minute, the battle is won. The demon lord Yeenoghu pulls back the goristro's head by the horns and rips out its throat with his teeth. He throws back his head and his howl of triumph echoes through the chamber, shaking the stones themselves. Several hyenas nipping at Yeenoghu's heels leap onto the goristro's corpse and begin feasting on its flesh. As you watch, these hyenas transform into gnolls.
 ^4b9
 
@@ -341,11 +326,8 @@ If the characters stay hidden and observe, Yeenoghu leaves in short order. He is
 If the characters want to continue forward, the gnolls and hyenas need to be dealt with. Alternatively, if the characters are indecisive or spend too long debating the best course of action, the gnoll pack lord sniffs out the intruders. When it realizes that enemies are present, the pack lord howls to draw the attention of its followers.
 
 > [!note] Hunted by Yeenoghu
-> 
 > If you'd like Yeenoghu to play more of a role in this chapter of the adventure, it's easy to do so. When the gnolls killed by the characters do not rejoin the hunt, the demon lord circles back to the site of the goristro's demise and discovers his slain minions—and also picks up the scent of the adventurers.
-> 
 > Later in the adventure, Yeenoghu hunts down the characters to make them pay for their impudence (ideally when they are much higher in level). Before the final confrontation, give the characters hints that they have become the demon lord's prey. They might face an increasing number of gnoll ambushes, for example. One or more of their attackers might refer to them as "prey of Yeenoghu," or otherwise taunt them by speaking of their impending doom.
-> 
 > The characters should have time to prepare for the fight they know is coming, and to think about tactics other than facing Yeenoghu in straight-up combat. For example, becoming the demon lord's quarry might work to their advantage later in the campaign, making them the perfect bait to lure Yeenoghu into a trap in chapter 17, "Against the Demon Lords."
 ^hunted-by-yeenoghu
 
@@ -361,8 +343,6 @@ The second component takes the form of a few spatters of a demon lord's blood. A
 
 This cavern lies deep inside the Labyrinth and contains another ritual component that Vizeran needs.
 
-> [!readaloud] 
-> 
 > The passage you follow climbs upward as it corkscrews through stone, finally emerging through the floor of a large cavern. The ceiling arches sixty feet overhead, bristling with stalactites that drip water onto stalagmites rising from the uneven and broken floor. Here and there between the stalagmites, several statues of winged humanoids are set in poses of suffering and anguish. Some cover their faces, while others claw at them. Others reach toward the ceiling, their faces twisted into expressions of longing.
 ^4bd
 
@@ -518,20 +498,35 @@ If you want to add tension to the end of this encounter, have the Maze Engine tr
 
 Legends speak of 14 chapter 14 the labyrinth as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 14 chapter 14 the labyrinth.
 
-## Adventure Hooks
-
-- A rumor ties 14 chapter 14 the labyrinth to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 14 chapter 14 the labyrinth to avert a public scandal.
-- A map overlay reveals a hidden approach to 14 chapter 14 the labyrinth active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

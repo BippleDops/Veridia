@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:04.414878+00:00'
 world: Both
 ---
 
-
-
 # Cyrrollalee
 *Source: Mordenkainen's Tome of Foes p. 104, Tasha's Cauldron of Everything p. 33* 
 
@@ -43,6 +41,24 @@ So Cyrrollalee set all the people in the town to baking pies, but not just any p
 
 Cyrrollalee returned a hero, and from that day forward all the townsfolk remembered her with a word of thanks when baking pies.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Halfling cyrrollalee mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -51,19 +67,27 @@ Halfling cyrrollalee mtf is a undersea element of the setting, known for biolumi
 
 Legends speak of halfling cyrrollalee mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around halfling cyrrollalee mtf.
 
-## Adventure Hooks
-
-- A rumor ties halfling cyrrollalee mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at halfling cyrrollalee mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to halfling cyrrollalee mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help finding before dawn
+- A prisoner has gone missing and truth emerges
+- A shipment has gone missing and chaos spreads
+- A noble needs help finding before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

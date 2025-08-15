@@ -1,6 +1,6 @@
 {
   "title": "Instructor Combat Shadow",
-  "prompt": "Instructor combat shadow, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting",
+  "prompt": "Instructor combat shadow, high fantasy, medieval, magical, enchanted, vibrant, natural colors, magical auras, mystical lighting, shadow",
   "negative": "low quality, amateur, blurry",
   "settings": {
     "width": 512,
@@ -8,6 +8,6 @@
     "steps": 20,
     "cfg": 7
   },
-  "generated": "2025-08-14T23:35:19.307Z",
+  "generated": "2025-08-15T00:44:59.134Z",
   "sourceFile": "/02_Worldbuilding/Groups/Criminal_Organizations/Instructor Combat Shadow.md"
 }

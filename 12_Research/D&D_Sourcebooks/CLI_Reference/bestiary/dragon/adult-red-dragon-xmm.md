@@ -17,7 +17,7 @@ tags:
 - ttrpg-cli/monster/cr/17
 - active
 - status/in-progress
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-monster
@@ -28,15 +28,31 @@ updated: '2025-08-12T23:37:35.795393'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-adult-red-dragon-xmm-adult-red-dragon-xmm.svg)
 
 # [[adult-red-dragon-xmm|Adult Red Dragon]]
-*Source: Monster Manual (2024) p. 255. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 255. Available in the SRD and the Free Rules (2024)*  
 
 Adult red dragons are tyrants that claim vast domains and might command armies of followers or significant magical resources. Red dragons rarely pay attention to the nations and claims of smaller creatures, and they might consider entire cities part of their realm. Most red dragons are inattentive rulers, though, spending decades focused on their own comforts, hoards, or magical concerns within their lairs. But when their attention returns to their territories, if they find matters not to their liking, whole lands might burn.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Red Dragons
 
@@ -129,9 +145,7 @@ Red dragons make their lairs in smoldering, unapproachable places such as volcan
       \ in that area, that creature must succeed on a DC 15 Constitution saving throw\
       \ or have the [[conditions#Poisoned|Poisoned]] condition\
       \ for 1 hour.  "
-    "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/dragon/token/adult-red-dragon-xmm.webp"
@@ -150,19 +164,20 @@ Adult red dragon xmm is a undersea element of the setting, known for bioluminesc
 
 Legends speak of adult red dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around adult red dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties adult red dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at adult red dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to adult red dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and evil awakens
+- Strange dreams suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

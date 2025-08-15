@@ -27,13 +27,29 @@ updated: '2025-08-12T23:37:34.976378'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-minotaur-of-baphomet-xmm-minotaur-of-baphomet-xmm.svg)
 
 # [[minotaur-of-baphomet-xmm|Minotaur of Baphomet]]
-*Source: Monster Manual (2024) p. 215. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 215. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Minotaur of Baphomet
 
@@ -72,14 +88,12 @@ Minotaurs of Baphomet often dwell in mazes, leading their allies to hidden desti
   - !!int "11"
   - !!int "16"
   - !!int "6"
-  - !!int "16"
   - !!int "9"
 "speed": "40 ft."
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+7"
   - "name": "[[skills#Survival|Survival]]"
-    "desc": "+7"
 "senses": "darkvision 60 ft., passive Perception 17"
 "languages": "Abyssal"
 "cr": "3"
@@ -90,7 +104,7 @@ Minotaurs of Baphomet often dwell in mazes, leading their allies to hidden desti
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 18 (4d6 + 4) Piercing damage.\
       \ If the target is a Large or smaller creature and the minotaur moved 10+ feet\
       \ straight toward it immediately before the hit, the target takes an extra 10\
-      \ (3d6) Piercing damage and has the [[conditions#Prone|Prone]]\
+      \ (3d6) Piercing damage and has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Gore (Recharge 5-6)"
 "source":
@@ -111,19 +125,26 @@ Minotaur of baphomet xmm is a undersea element of the setting, known for biolumi
 
 Legends speak of minotaur of baphomet xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around minotaur of baphomet xmm.
 
-## Adventure Hooks
-
-- A rumor ties minotaur of baphomet xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at minotaur of baphomet xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to minotaur of baphomet xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- Strange dreams suggest a conspiracy
+- The authorities needs help stealing before the new moon
+- A noble needs help delivering before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

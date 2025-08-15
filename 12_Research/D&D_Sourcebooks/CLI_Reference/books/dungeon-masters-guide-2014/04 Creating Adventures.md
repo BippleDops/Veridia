@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:05.184180+00:00'
 world: Both
 ---
 
-
-
 # Creating Adventures
 *Source: Dungeon Master's Guide (2014), p. 71* 
 
@@ -34,6 +32,24 @@ Fundamentally, adventures are stories. An adventure shares many of the features 
 Whether you're creating your own adventures or using published adventures, you'll find advice in this chapter to help you create a fun and memorable experience for your players.
 
 Creating an adventure involves blending scenes of exploration, social interaction, and combat into a unified whole that meets the needs of your players and your campaign. But it's more than that. The basic elements of good storytelling should guide you throughout this process, so your players experience the adventure as a story and not a disjointed series of encounters.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Elements of a Great Adventure
 
@@ -249,9 +265,7 @@ Looking over the Adventure Climax table, you might decide to have the adventurer
 
 #### 8. Plan Encounters
 
-After you've created the overall story of the adventure, it's time to plan out the encounters on which the events of that adventure will hang. In an event-based adventure, encounters occur when the villain's agenda intersects the path of the characters. You can't always anticipate exactly when or where that will happen, but you can create a list of possible encounters that the adventurers might experience. This can take the form of general descriptions of the villain's forces, details of its lieutenants and minions, as well as encounters tied to the key locations of the adventure.
-
-See "Creating Encounters" later in this chapter for guidance on crafting individual encounters.
+After you've created the overall story of the adventure, it's time to plan out the encounters on which the events of that adventure will hang. In an event-based adventure, encounters occur when the villain's agenda intersects the path of the characters. You can't always anticipate exactly when or where that will happen, but you can create a list of possible encounters that the adventurers might experience. This can take the form of general descriptions of the villain's forces, details of its lieutets and minions, as well as encounters tied to the key locations of the adventure.
 
 ### Mysteries
 
@@ -303,7 +317,7 @@ Some intrigue adventures revolve around the exchange of favors in the absence of
 
 ##### Many Villains
 
-Some intrigue adventures feature a whole cast of villains, each with its own goals, motivations, and methods. The adventurers might be drawn into the struggle of a court full of nobles vying for the throne in the wake of the king's sudden death, or could find themselves negotiating the end to a deadly turf war among thieves' guilds. In this scenario, you'll spend a lot of time on steps 1 and 2, developing each of the major NPCs as a distinct villain with an agenda. In step 5, you'll need to develop each villain's reactions to the potential setbacks they face during the adventure.
+Some intrigue adventures feature a whole cast of villains, each with its own goals, motivations, and methods. The adventurers might be drawn into the struggle of a court full of nobles vying for the throne in the wake of the king's sudden death, or could find themselves negotiating the end to a deadly turf war among thieves' guilds. In this scenario, you'll spend a lot of time on steps 1 and 2, developing each of the major NPCs as a distinct villain with an agenda. In step 5, you'll need to develop each villain's reactions to the potential secks they face during the adventure.
 
 However, you don't need to put equal effort into detailing the reactions of every villain, since many will likely echo each other or cancel each other out. Whenever the adventurers foil one villain's plans, it might let another villain's schemes move forward, advancing the adventure whether the foiled villain reacts or not.
 
@@ -442,7 +456,6 @@ A deadly encounter could be lethal for one or more player characters. Survival o
 > [!note] Challenge Rating
 > 
 > When putting together an encounter or adventure, especially at lower levels, exercise caution when using monsters whose challenge rating is higher than the party's average level. Such a creature might deal enough damage with a single action to take out adventurers of a lower level. For example, an ogre has a challenge rating of 2, but it can kill a 1st-level wizard with a single blow.
-> 
 > In addition, some monsters have features that might be difficult or impossible for lower-level characters to overcome. For example, a rakshasa has a challenge rating of 13 and is immune to spells of 6th level and lower. Spellcasters of 12th level or lower have no spells higher than 6th level, meaning that they won't be able to affect the rakshasa with their magic, putting the adventurers at a serious disadvantage. Such an encounter would be significantly tougher for the party than the monster's challenge rating might suggest.
 ^challenge-rating
 
@@ -625,20 +638,17 @@ Not all random encounters with monsters need to be resolved through combat. A 1s
 
 Legends speak of 04 creating adventures as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 04 creating adventures.
 
-## Adventure Hooks
-
-- A rumor ties 04 creating adventures to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 04 creating adventures to avert a public scandal.
-- A map overlay reveals a hidden approach to 04 creating adventures active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

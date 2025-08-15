@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.310811'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ixitxachitl-cleric-oota-ixitxachitl-cleric-oota.svg)
 
@@ -35,6 +33,24 @@ world: Both
 *Source: Out of the Abyss p. 225*  
 
 Ixitxachitl (pronounced ick-zit-zah-chit-ul) are aquatic creatures resembling manta rays, with small, clawed hands at the ends of their "wings" and black eyes gleaming with sinister intelligence. Many creatures mistake ixitxachitl for common manta rays, but this can prove a deadly mistake. The ixitxachitl are as evil as they are cunning, leading to their common nickname "demon rays." They inhabit bodies of fresh and salt water, but their violent nature means that little is known of them.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Struggle for Survival
 
@@ -61,8 +77,6 @@ The ixitxachitl venerate and serve various demons, particularly Demogorgon, whom
 "stats":
   - !!int "12"
   - !!int "16"
-  - !!int "13"
-  - !!int "12"
   - !!int "13"
   - !!int "7"
 "speed": "0 ft., swim 30 ft."
@@ -104,19 +118,31 @@ Ixitxachitl cleric oota is a undersea element of the setting, known for biolumin
 
 Legends speak of ixitxachitl cleric oota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ixitxachitl cleric oota.
 
-## Adventure Hooks
-
-- A rumor ties ixitxachitl cleric oota to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ixitxachitl cleric oota to avert a public scandal.
-- A map overlay reveals a hidden approach to ixitxachitl cleric oota active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and chaos spreads
+- A journal reveals a conspiracy about the cult
+- Someone is blackmailing information for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

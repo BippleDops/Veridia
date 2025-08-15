@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:05.194722+00:00'
 world: Both
 ---
 
-
-
 # Dungeon Master's Tools
 *Source: Xanathar's Guide to Everything, p. 77* 
 
@@ -33,13 +31,31 @@ The chapter opens with optional rules meant to help you run certain parts of the
 
 The material in this chapter is meant to make your life easier. Ignore anything you find here that doesn't help you, and don't hesitate to customize the things that you do use. The game's rules exist to serve you and the games you run. As always, make them your own.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Simultaneous Effects
 
 Most effects in the game happen in succession, following an order set by the rules or the DM. In rare cases, effects can happen at the same time, especially at the start or end of a creature's turn. If two or more things happen at the same time on a character or monster's turn, the person at the game table-whether player or DM-who controls that creature decides the order in which those things happen. For example, if two effects occur at the end of a player character's turn, the player decides which of the two effects happens first.
 
 ## Falling
 
-Falling from a great height is a significant risk for adventurers and their foes. The rule given in the player's handbook is simple: at the end of a fall, you take `d6` bludgeoning damage for every 10 feet you fell, to a maximum of `20d6`. You also land [[conditions#Prone|prone]], unless you somehow avoid taking damage from the fall. Here are two optional rules that expand on that simple rule.
+Falling from a great height is a significant risk for adventurers and their foes. The rule given in the player's handbook is simple: at the end of a fall, you take `d6` bludgeoning damage for every 10 feet you fell, to a maximum of `20d6`. You also land [[conditions#prone|prone]], unless you somehow avoid taking damage from the fall. Here are two optional rules that expand on that simple rule.
 
 ### Rate of Falling
 
@@ -49,11 +65,11 @@ When you fall from a great height, you instantly descend up to 500 feet. If you'
 
 ### Flying Creatures and Falling
 
-A flying creature in flight falls if it is knocked [[conditions#Prone|prone]], if its speed is reduced to 0 feet, or if it otherwise loses the ability to move, unless it can hover or it is being held aloft by magic, such as the [[fly-xphb|fly]] spell.
+A flying creature in flight falls if it is knocked [[conditions#prone|prone]], if its speed is reduced to 0 feet, or if it otherwise loses the ability to move, unless it can hover or it is being held aloft by magic, such as the [[fly-xphb|fly]] spell.
 
-If you'd like a flying creature to have a better chance of surviving a fall than a non-flying creature does, use this rule: subtract the creature's current flying speed from the distance it fell before calculating falling damage. This rule is helpful to a flier that is knocked [[conditions#Prone|prone]] but is still conscious and has a current flying speed that is greater than 0 feet. The rule is designed to simulate the creature flapping its wings furiously or taking similar measures to slow the velocity of its fall.
+If you'd like a flying creature to have a better chance of surviving a fall than a non-flying creature does, use this rule: subtract the creature's current flying speed from the distance it fell before calculating falling damage. This rule is helpful to a flier that is knocked [[conditions#prone|prone]] but is still conscious and has a current flying speed that is greater than 0 feet. The rule is designed to simulate the creature flapping its wings furiously or taking similar measures to slow the velocity of its fall.
 
-If you use the rule for rate of falling in the previous section, a flying creature descends 500 feet on the turn when it falls, just as other creatures do. But if that creature starts any of its later turns still falling and is [[conditions#Prone|prone]], it can halt the fall on its turn by spending half its flying speed to counter the [[conditions#Prone|prone]] condition (as if it were standing up in midair).
+If you use the rule for rate of falling in the previous section, a flying creature descends 500 feet on the turn when it falls, just as other creatures do. But if that creature starts any of its later turns still falling and is [[conditions#prone|prone]], it can halt the fall on its turn by spending half its flying speed to counter the [[conditions#prone|prone]] condition (as if it were standing up in midair).
 
 ## Sleep
 
@@ -349,10 +365,7 @@ The tables also include entries for what the dungeon master's guide calls "encou
 
 See the Encounter Generator for a complete list of all the tables available.
 
-> [!quote] A quote from Xanathar  
-> 
 > Danger is everywhere. Always keep one eye open.
-> 
 > That's much easier for me than it is for you.
 
 ## Traps Revisited
@@ -398,11 +411,8 @@ If the characters discover a trap, be open to adjudicating their ideas for defea
 To make it easier for you to describe what happens next, the players should be specific about how they want to defeat the trap. Simply stating the desire to make a check isn't helpful for you. Ask the players where their characters are positioned and what they intend to do to defeat the trap.
 
 > [!note] Making Traps Meaningful
-> 
 > If you want to improve the chance that the characters will come up against the traps you've set for them in an encounter or an adventure, it can be tempting to use a large number of traps. Doing so ensures that the characters will have to deal with at least one or two of them, but it's better to fight that urge.
-> 
 > If your encounters or adventures are sown with too many traps, and if the characters are victimized over and over again as a result, they are likely to take steps to prevent further bad things from happening. Because of their recent experience, the characters can become overly cautious, and you run the risk of the action grinding to a halt as the players search every square inch of the dungeon for trip wires and pressure plates.
-> 
 > Traps are most effective when their presence comes as a surprise, not when they appear so often that the characters spend all their effort watching out for the next one.
 ^making-traps-meaningful
 
@@ -420,10 +430,7 @@ The following simple traps can be used to populate your adventures or as models 
 - [[scything-blade-trap-xge|Scything Blade Trap]]  
 - [[sleep-of-ages-trap-xge|Sleep of Ages Trap]]  
 
-> [!quote] A quote from Xanathar  
-> 
 > Pit traps are hilarious! Because when one of you walking things steps on one, you fall down!
-> 
 > And you get hurt! That's the best part.
 
 ![](/03_Mechanics/CLI/books/xanathars-guide-to-everything/img/c2022.webp#center)
@@ -696,9 +703,7 @@ It takes time to disable a complex trap. Three characters can't make checks in r
 Not all of the characters' options need to be focused on stopping a trap from operating. Think of what characters can do to mitigate or avoid a trap's effects. Making the trap vulnerable to this sort of effort is a way to engage characters who might be ill-suited to confront the trap directly. A successful Intelligence ([[skills#Religion|Religion]]) check might provide insight into the imagery displayed by a trap in a temple or shrine, giving other characters a clue about how and where to direct their efforts. A character could stand in front of a dart trap while holding a shield that the darts can target harmlessly, while other characters trigger that element as they work to disable it.
 
 > [!note] Complex Traps and Legendary Monsters
-> 
 > A complex trap is like a legendary monster in some ways. It has several tricks it can use on its turn, and it remains a threat throughout the round, not just on its turn. The trap's active elements are like a legendary creature's normal actions, and its constant elements are equivalent to legendary actions-except they are tied to specific areas in the trapped room.
-> 
 > Although a legendary creature can move, improvise actions, and so forth, a trap is set to a specific script-an aspect that has the potential to make a complex trap stale and predictable. That's where dynamic elements come in. They keep the players on their toes and make dealing with a complex trap feel like a challenging, evolving situation.
 ^complex-traps-and-legendary-monsters
 
@@ -712,12 +717,8 @@ Downtime rules also provide ways for characters to spend—or be relieved of—t
 
 The system presented here consists of two elements. First, it introduces the concept of rivals. Second, it details a number of downtime activities that characters can undertake.
 
-> [!quote] A quote from Xanathar  
-> 
 > When minions come back from a mission, sometimes I send them shopping.
-> 
 > Shopping is this thing where minions give away their stuff to other people, and other people give them different stuff.
-> 
 > It's so strange.
 
 ### Rivals
@@ -1161,14 +1162,11 @@ The Magic Items Awarded by Rarity table takes the numbers from the Magic Items A
 Both tables in this section make a distinction between minor magic items and major magic items. This distinction exists in the Dungeon Master's Guide, yet those terms aren't used there. In that book, the minor items are those listed on Magic Item Tables A through E, and the major items are on Magic Item Tables F through I. As you can see from the Treasure Hoard tables in that book, major magic items are meant to be handed out much less frequently than minor items, even at higher levels of play.
 
 > [!note] Behind the Design: Magic Item Distribution
-> 
 > The dungeon master's guide assumes a certain amount of treasure will be found over the course of a campaign. Over twenty levels of typical play, the game expects forty-five rolls on the Treasure Hoard tables, distributed as follows:
-> 
 > - Seven rolls on the Challenge 0-4 table  
 > - Eighteen rolls on the Challenge 5-10 table  
 > - Twelve rolls on the Challenge 11-16 table  
 > - Eight rolls on the Challenge 17+ table  
-> 
 > Because many of the table results call for more than one magic item, those forty-five rolls will result in the characters obtaining roughly one hundred items. The optional system described here yields the same number of items, distributed properly throughout the spectrum of rarity, while enabling you to control exactly which items the characters have a chance of acquiring.
 ^behind-the-design-magic-item-distribution
 
@@ -1197,9 +1195,7 @@ If you prefer a more free-form method of choosing magic items, simply select eac
 The magic item tables in this section are based on the number of items the characters are expected to receive, not the number of items that are available in an adventure. When creating or modifying an adventure, assume that the characters won't find all the items you place in it, unless most of the loot is in easy-to-find locations. Here's a good rule of thumb: an adventure can include a number of items that's 25 percent higher than the numbers in the tables (round up). For example, an adventure designed to take characters from 1st to 4th level might include fourteen items rather than eleven, in the expectation that three of those items won't be found.
 
 > [!note] Are Magic Items Necessary in a Campaign?
-> 
 > The D&D game is built on the assumption that magic items appear sporadically and that they are always a boon, unless an item bears a curse. Characters and monsters are built to face each other without the help of magic items, which means that having a magic item always makes a character more powerful or versatile than a generic character of the same level. As DM, you never have to worry about awarding magic items just so the characters can keep up with the campaign's threats. Magic items are truly prizes. Are they useful? Absolutely. Are they necessary? No.
-> 
 > Magic items can go from nice to necessary in the rare group that has no spellcasters, no monk, and no NPCs capable of casting magic weapon. Having no magic makes it extremely difficult for a party to overcome monsters that have resistances or immunity to nonmagical damage. In such a game, you'll want to be generous with magic weapons or else avoid using such monsters.
 ^are-magic-items-necessary-in-a-campaign
 
@@ -1215,16 +1211,11 @@ The magic items are presented in alphabetical order.
 > The items in the Items page are classified as major or minor according to tables originally found in this section.
 
 > [!note] Recharging without a Dawn
-> 
 > Some magic items can be used a limited number of times but are recharged by the arrival of dawn. What if you're on a plane of existence that lacks anything resembling dawn? The DM should choose a time every 24 hours when such magic items recharge on that plane of existence.
-> 
 > Even on a world that experiences dawn each day, the DM is free to choose a different time-perhaps noon, sunset, or midnight-when certain magic items recharge.
 ^recharging-without-a-dawn
 
-> [!quote] A quote from Xanathar  
-> 
 > So why can't people who use magic do it all the time?
-> 
 > I can disintegrate things whenever I want. Like now. And now. And now. And now... Hey, where'd everybody go?
 
 ## Player-Facing Summary
@@ -1235,19 +1226,31 @@ The magic items are presented in alphabetical order.
 
 Legends speak of 3 dungeon masters tools as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 3 dungeon masters tools.
 
-## Adventure Hooks
-
-- A rumor ties 3 dungeon masters tools to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 3 dungeon masters tools to avert a public scandal.
-- A map overlay reveals a hidden approach to 3 dungeon masters tools active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals a conspiracy about the government
+- A noble needs help investigating before the festival
+- Someone is hunting a witness for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

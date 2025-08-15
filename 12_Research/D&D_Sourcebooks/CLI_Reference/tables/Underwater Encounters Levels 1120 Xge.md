@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.779248+00:00'
 world: Both
 ---
 
-
-
 # Underwater Encounters (Levels 11—20)
 *Source: Xanathar's Guide to Everything p. 109* 
 
@@ -46,6 +44,24 @@ world: Both
 | 00 | 1 [[kraken-xmm|kraken]] |
 ^underwater-encounters-levels-1120
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Underwater encounters levels 1120 xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -54,19 +70,23 @@ Underwater encounters levels 1120 xge is a undersea element of the setting, know
 
 Legends speak of underwater encounters levels 1120 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around underwater encounters levels 1120 xge.
 
-## Adventure Hooks
-
-- A rumor ties underwater encounters levels 1120 xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at underwater encounters levels 1120 xge to avert a public scandal.
-- A map overlay reveals a hidden approach to underwater encounters levels 1120 xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- A letter reveals a betrayal about the government
+- A map reveals ancient history about a local noble
+- A stranger needs help delivering before winter

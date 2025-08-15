@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:35.772205+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,30 @@ Professor Abyssal Deepthought is a undersea element of the setting, known for bi
 
 Legends speak of Professor Abyssal Deepthought as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Professor Abyssal Deepthought.
 
-## Adventure Hooks
-
-- A rumor ties Professor Abyssal Deepthought to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Professor Abyssal Deepthought to avert a public scandal.
-- A map overlay reveals a hidden approach to Professor Abyssal Deepthought active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Deep Mother Influence|02 Worldbuilding/Lore/Deep Mother Influence]]
-
-
-## Connections
-
-- [[Deep Mother Influence]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Depths
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

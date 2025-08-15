@@ -36,21 +36,32 @@ updated: '2025-08-13T12:34:29.362905+00:00'
 world: Aethermoor
 ---
 
-
-
-
-
-
 # Continental War
 *The Conflict That Shaped Modern Aethermoor*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
 The Continental War (892-901, Third Age) stands as the most devastating military conflict in [[Aethermoor]]'s recorded history, fundamentally reshaping the political, technological, and magical landscape of the entire continent. What began as a succession dispute in the ancient Kingdom of Drakmoor escalated into a nine-year struggle that drew in every major power, introduced revolutionary military technologies, and ultimately established the modern balance of power between [[Crystalhaven]], [[Ironhold]], [[Port Meridian]], and [[Sylvanheart]].
 
 The war is remembered not only for its unprecedented scale and brutality but also for the innovations it produced: the [[Ancient Siege Tunnels]], crystal-powered weaponry, organized military intelligence networks, and the first systematic use of magical warfare on a continental scale.
-
-## Causes & Origins
 
 ### The Drakmoor Succession Crisis
 The immediate cause of the war was the death of King Valorian the Great of Drakmoor without a clear heir:
@@ -74,8 +85,6 @@ As the crisis deepened, major powers chose sides:
 **The Southern Coalition**: Drakmoor loyalists, several city-states, mercenary companies
 **The Eastern Powers**: Foreign kingdoms seeking to exploit Aethermoor's weakness
 **The Neutral Bloc**: [[Sylvanheart]] and forest communities (initially)
-
-## Major Phases of the War
 
 ### Phase One: The Conventional War (Years 892-894)
 Traditional military campaigns with established tactics:
@@ -122,8 +131,6 @@ Final phase marked by mutual exhaustion and civilian suffering:
 - Famine and disease spreading across the continent
 - Popular uprisings demanding peace
 
-## Military Innovations
-
 ### The Tunnel System Revolution
 The development of [[Ancient Siege Tunnels]] changed warfare permanently:
 - **Strategic Mobility**: Armies could move undetected across vast distances
@@ -145,8 +152,6 @@ The first systematic use of organized espionage and intelligence:
 - **Disinformation**: Coordinated campaigns to mislead enemy forces
 - **Sabotage Operations**: Systematic destruction of enemy infrastructure and supplies
 
-## Key Figures
-
 ### Northern Alliance Leaders
 **Lord Commander Gareth Steelborn**: Master strategist who developed combined arms tactics
 **Archmage Celestia Starweaver**: Pioneered military applications of crystal magic
@@ -163,8 +168,6 @@ The first systematic use of organized espionage and intelligence:
 **Elder Whisperwind of [[Sylvanheart]]**: Eventually mediated peace negotiations
 **Emperor Thalassius of [[Aquabyssos]]**: Provided crucial diplomatic pressure for peace
 **The Merchant Princes**: Trade guilds whose economic pressure helped end the war
-
-## Major Battles & Campaigns
 
 ### The Siege of Drakmoor (Year 893)
 18-month siege that introduced tunnel warfare:
@@ -194,8 +197,6 @@ Most controversial action of the entire war:
 - International condemnation from neutral powers
 - Marked beginning of peace negotiations
 
-## The Peace of Silverbrook
-
 ### Negotiation Process
 Mediated by [[Sylvanheart]] druids at neutral location:
 - Year-long negotiations involving all major powers
@@ -216,8 +217,6 @@ The original succession dispute resolved through compromise:
 - Duke Mordain exiled, foreign supporters expelled
 - Royal treasury distributed among Alliance powers
 - Ancient capital city rebuilt as neutral diplomatic center
-
-## Consequences & Legacy
 
 ### Political Transformation
 **City-State System**: Large kingdoms fragmented into smaller, more manageable units
@@ -242,8 +241,6 @@ The original succession dispute resolved through compromise:
 **Industrial Development**: Military innovations adapted for civilian use
 **Labor Movements**: Worker organizations gained power during reconstruction
 **International Commerce**: New trade relationships formed across former battle lines
-
-## Game Mechanics (D&D 5e)
 
 ### Historical Research
 **Intelligence (History) DC 15**: Basic knowledge of major battles and outcomes
@@ -276,26 +273,6 @@ Characters might discover:
 9. **The Military Innovation**: Reverse-engineer lost technology from wartime records
 10. **The Diplomatic Crisis**: Prevent renewal of hostilities over unresolved territorial disputes
 
-## Ongoing Relevance
-
-### Modern Politics
-- Current alliance structures trace back to wartime partnerships
-- Territorial disputes from the war continue to create tensions
-- Military doctrines still based on Continental War innovations
-- Veteran families maintain political influence in major cities
-
-### Cultural Memory
-- War memorials and monuments throughout [[Aethermoor]]
-- Annual remembrance ceremonies and peace festivals
-- Literature, art, and music commemorating war experiences
-- Family histories and personal collections of wartime artifacts
-
-### Military Doctrine
-- [[Ancient Siege Tunnels]] remain strategically important
-- Crystal military technology continues development
-- Intelligence services evolved from wartime organizations
-- International military cooperation based on wartime alliances
-
 ## Connections to Ongoing Campaigns
 
 The Continental War provides:
@@ -307,12 +284,7 @@ The Continental War provides:
 - Framework for understanding current alliance structures and diplomatic protocols
 - Background for family histories, inherited obligations, and generational conflicts
 - Inspiration for large-scale conflict scenarios and military campaign elements
-EOF < /dev/null
-
-## Connections
-
-- [[Eastern Kingdoms]]
-- [[Aquabyssos - Session 04 - High Tide Horror]]
+EOF < /dev/
 
 ## Player-Facing Summary
 
@@ -322,23 +294,25 @@ Continental War is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Continental War as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Continental War.
 
-## Adventure Hooks
-
-- A rumor ties Continental War to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Continental War to avert a public scandal.
-- A map overlay reveals a hidden approach to Continental War active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Master_Lore_Index|Master Lore Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before the festival
+- Strange accidents suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

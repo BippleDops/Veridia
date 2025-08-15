@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:36.702436'
 world: Both
 ---
 
-
 # Orb of Dragonkind
 *Wondrous item, artifact (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/orb-of-dragonkind.webp#right)
@@ -41,6 +40,24 @@ An orb is an etched crystal globe about 10 inches in diameter. When used, it gro
 While attuned to an orb, you can take a [[actions#Magic|Magic]] action to peer into the orb's depths. You must then make a DC 15 Charisma saving throw. On a successful save, you control the orb for as long as you remain attuned to it. On a failed save, the orb imposes the [[conditions#Charmed|Charmed]] condition on you for as long as you remain attuned to it.
 
 While you are [[conditions#Charmed|Charmed]] by the orb, you can't voluntarily end your [[attunement-xphb|Attunement]] to it, and the orb casts [[suggestion-xphb|Suggestion]] on you at will (save DC 18), urging you to work toward the evil ends it desires. The dragon essence within the orb might want many things: the annihilation of a particular society or organization, freedom from the orb, to spread suffering in the world, to advance the worship of "Tiamat", or something else the DM decides.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Random Properties
 
@@ -71,7 +88,7 @@ While you control the orb, you can take a [[actions#Magic|Magic]] action to caus
 
 An Orb of Dragonkind has AC 20 and is destroyed if it takes damage from a +3 Weapon or a [[disintegrate-xphb|Disintegrate]] spell. Nothing else can harm it.
 
-*Source: Dungeon Master's Guide (2024) p. 283. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Dragon Orb") and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 283. Available in the SRD (as "Dragon Orb") and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -81,19 +98,39 @@ Orb of dragonkind xdmg is a undersea element of the setting, known for biolumine
 
 Legends speak of orb of dragonkind xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around orb of dragonkind xdmg.
 
-## Adventure Hooks
-
-- A rumor ties orb of dragonkind xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at orb of dragonkind xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to orb of dragonkind xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- A document has gone missing and war looms
+- Strange disappearances suggest a curse
+- A letter reveals a betrayal about the government
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.825800+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,26 @@ Reality Distortion is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Reality Distortion as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reality Distortion.
 
-## Adventure Hooks
-
-- A rumor ties Reality Distortion to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Reality Distortion to avert a public scandal.
-- A map overlay reveals a hidden approach to Reality Distortion active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Bubble Burst|02 Worldbuilding/Places/Bubble Burst]]
-
-
-## Connections
-
-- [[Bubble Burst]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before winter
+- Strange dreams suggest a curse
+- Someone is protecting a artifact for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

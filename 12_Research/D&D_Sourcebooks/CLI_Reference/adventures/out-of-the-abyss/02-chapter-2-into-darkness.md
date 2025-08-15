@@ -21,13 +21,30 @@ updated: '2025-08-12T23:37:34.656935'
 world: Both
 ---
 
-
 # Chapter 2: Into Darkness
 *Source: Out of the Abyss, p. 17* 
 
 Once the adventurers escape from Velkynvelve, they'll want to escape the Underdark. Already miles beneath the surface, they must make their way through an endless maze of passages and caverns, avoid pursuit by the drow, and find a route to the world above—all the while dealing with the dangers of the Underdark and struggling to find the resources they need to survive.
 
 This chapter presents guidelines for the characters' travels between the various Underdark locales detailed in the other chapters of *Out of the Abyss*. Specific areas (including the Darklake region in chapter 3) offer modifications to these guidelines to suit those areas' particular qualities. This chapter also offers guidelines for the drow pursuit of the escaped prisoners, along with additional encounters you can place along the adventurers' route as they travel.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Where to Go?
 
@@ -128,7 +145,7 @@ A character not focused on any other task—including watching for danger while 
 
 ### Foraging
 
-Unless they obtain a supply of food and water, the adventurers must forage to survive on their journey. Finding sustenance in the Underdark is difficult but not impossible. Characters can gather food and water if the party travels at a normal or slow pace. A foraging character makes a Wisdom ([[skills#Survival|Survival]]) check. The DC is typically 15, but might be as high as 20 in some parts of the Underdark. Food and water requirements for characters are described in chapter 8, ""Adventuring"," of the *Player's Handbook*.
+Unless they obtain a supply of food and water, the adventurers must forage to survive on their journey. Finding sustece in the Underdark is difficult but not impossible. Characters can gather food and water if the party travels at a normal or slow pace. A foraging character makes a Wisdom ([[skills#Survival|Survival]]) check. The DC is typically 15, but might be as high as 20 in some parts of the Underdark. Food and water requirements for characters are described in chapter 8, ""Adventuring"," of the *Player's Handbook*.
 
 In addition to foraging, spells such as [[create-food-and-water-xphb|create food and water]] and [[goodberry-xphb|goodberry]] can help provision the party, and there's always a chance for the characters to encounter others from whom they can buy or steal provisions. Additionally, many creatures the adventurers might meet and kill can be butchered, but the meat they yield spoils after a single day if uneaten. Eating spoiled meat might require a Constitution saving throw to keep the meal down, a Wisdom saving throw to avoid acquiring a level of madness from the awful experience (see "Madness" later in this chapter), or both.
 
@@ -328,11 +345,8 @@ If the adventurers flee and successfully escape, they lower the pursuit level to
 If the adventurers lower the pursuit level to 0, the drow lose the trail unless circumstances allow them to locate the characters again. This might include the characters spending a day or more in a place where they are recognized, or where they talk openly about their escape from Velkynvelve. If the characters pass through an area watched over by drow scouts or spies, Ilvara will inevitably hear word of the characters' location. When this occurs, increase the pursuit level to 1 and begin tracking it again as the drow pick up the trail once more.
 
 > [!note] Narrow Escapes
-> 
 > If an encounter with the drow is going badly and you don't want the characters recaptured, you can always have fate intercede on their behalf with another encounter or event offering a distraction.
-> 
 > For example, a wandering stone giant, a purple worm, or a pack of savage gnolls whipped into a frenzy by Yeenoghu might show up just as the drow have the characters cornered, giving them a chance to run. Likewise, a minor earthquake (caused by instability from the demonic incursion or a wild magic surge) might cause a cave-in, cutting off a tunnel between the party and their pursuers, and dropping the pursuit level by 1 or 2.
-> 
 > Don't do this so often that the players feel they haven't earned it, but use it as an option to keep the pursuit going rather than coming to an anticlimactic conclusion.
 ^narrow-escapes
 
@@ -362,10 +376,6 @@ Any random encounter that occurs while the party is camped is automatically a cr
 
 The Underdark contains dangerous hazards and wondrous terrain. Special terrain rules are explained after the table.
 
-`dice: [](02-chapter-2-into-darkness.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1 | Boneyard |
 | 2 | Cliff and ladder |
 | 3 | Crystal clusters |
@@ -386,7 +396,6 @@ The Underdark contains dangerous hazards and wondrous terrain. Special terrain r
 | 18 | Underground stream |
 | 19 | Warning sign |
 | 20 | Webs |
-^encounter
 
 #### Boneyard
 
@@ -396,14 +405,9 @@ When the party enters a boneyard, roll a `d20` and consult the table to determin
 
 #### Boneyard Encounter
 
-`dice: [](02-chapter-2-into-darkness.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1–14 | No encounter |
 | 15–18 | `3d4` [[skeleton-xmm|skeletons]] |
 | 19–20 | `d3` [[minotaur-skeleton-xmm|minotaur skeleton]] |
-^encounter
 
 #### Cliff and Ladder
 
@@ -471,14 +475,11 @@ As the adventurers pass through a small cavern, they encounter a patch of slime 
 
 #### Slime or Mold Encounter
 
-`dice: [](02-chapter-2-into-darkness.md#^encounter)`
-
 | dice: d6 | Encounter |
 |----------|-----------|
 | 1–3 | Patch of green slime |
 | 4–5 | Patch of yellow mold |
 | 6 | Patch of brown mold |
-^encounter
 
 #### Steam Vent
 
@@ -500,15 +501,9 @@ If the characters take a long rest within one mile of the warning sign, roll a `
 
 #### Warning Sign Encounter
 
-`dice: [](02-chapter-2-into-darkness.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
-| 1–14 | No encounter |
 | 15–16 | 1 [[conditions#Invisible|invisible]] [[barlgura-xmm|barlgura]] |
 | 17–18 | `3d4` [[dretch-xmm|dretches]] |
 | 19–20 | `d2` [[shadow-demon-xmm|shadow demons]] |
-^encounter
 
 #### Webs
 
@@ -520,10 +515,6 @@ Check for an encounter when the party enters the webs. On a roll of 1–2 on a `
 
 Keep the party's level in mind when fleshing out these encounters, and allow the characters to retreat from or avoid an encounter that is too great a challenge. Escape should come at a cost, however. Characters fleeing their camp to avoid a creature encounter might be forced to abandon food and water supplies, for example.
 
-`dice: [](02-chapter-2-into-darkness.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1–2 | Ambushers; reroll this encounter if the characters are resting |
 | 3 | Carrion crawler |
 | 4–5 | Escaped slaves |
@@ -537,16 +528,11 @@ Keep the party's level in mind when fleshing out these encounters, and allow the
 | 17 | Society of Brilliance |
 | 18 | Spore servants |
 | 19–20 | Traders |
-^encounter
 
 #### Ambushers
 
 One or more creatures attempt to ambush the party as it makes its way through the Underdark. Roll a `d20` and consult the table to determine what the characters encounter.
 
-`dice: [](02-chapter-2-into-darkness.md#^encounter)`
-
-| dice: d20 | Encounter |
-|-----------|-----------|
 | 1–2 | 1 [[chuul-xmm|chuul]] lurking in a pool of water |
 | 3 | `d6` [[giant-spider-xmm|giant spiders]] clinging to the walls or ceiling |
 | 4–5 | 1 [[grell-xmm|grell]] floating near the high ceiling |
@@ -554,7 +540,6 @@ One or more creatures attempt to ambush the party as it makes its way through th
 | 10–15 | `d4` [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|orogs]] perching on ledges |
 | 16–17 | `d6` [[piercer-xmm|piercers]] masquerading as stalactites |
 | 18–20 | 1 [[umber-hulk-xmm|umber hulk]] bursting out of a nearby wall |
-^encounter
 
 If the ambush occurs in the monster's lair, there is a chance that characters searching the area find something of interest or value. Roll a `d20` and consult the table below to see what, if anything, they find.
 
@@ -563,7 +548,6 @@ If the ambush occurs in the monster's lair, there is a chance that characters se
 `dice: [](02-chapter-2-into-darkness.md#^discovery)`
 
 | dice: d20 | Discovery |
-|-----------|-----------|
 | 1–10 | None |
 | 11–12 | A humanoid skeleton or corpse clutching a salvageable, nonmagical weapon (your choice) |
 | 13–14 | A humanoid skeleton or corpse wearing a salvageable suit of nonmagical armor (your choice) |
@@ -582,28 +566,19 @@ There is a 25 percent chance that the crawler is domesticated and outfitted with
 
 These slaves have been wandering the Underdark since their escape from Gracklstugh or Menzoberranzan. They are scrounging for food and water. Roll a `d4` and consult the table to determine what the characters encounter. Elf, dwarf, and human slaves are friendly; if given food and water they'll join the party. Goblin slaves are hostile and likely to attack.
 
-`dice: [](02-chapter-2-into-darkness.md#^encounter)`
-
 | dice: d4 | Encounter |
-|----------|-----------|
 | 1 | `d2` moon elf [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]] |
 | 2 | `d3` shield dwarf [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]] |
 | 3 | `d4` human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]] |
 | 4 | `d6` [[goblin-warrior-xmm|goblins]] |
-^encounter
 
 #### Fungi
 
 Roll a `d6` and consult the table to determine what kinds of fungi the characters encounter.
 
-`dice: [](02-chapter-2-into-darkness.md#^encounter)`
-
-| dice: d6 | Encounter |
-|----------|-----------|
 | 1–2 | `d4` [[gas-spore-fungus-xmm|gas spores]] |
 | 3–4 | `d4` [[shrieker-fungus-xmm|shriekers]] |
 | 5–6 | `d4` [[violet-fungus-xmm|violet fungi]] |
-^encounter
 
 There's a 25 percent chance that a gas spore carries a memory fragment from a dead beholder in its spores (see the gas spore's description in the "Fungi" entry of *Monster Manual*). This memory can be of anything you wish, or you can roll a `d4` and consult the Beholder Memories table.
 
@@ -635,15 +610,10 @@ The octopus has advantage on Dexterity ([[skills#Stealth|Stealth]]) checks.
 
 The party encounters a creature driven insane by the influence of the demon lords. Roll a `d4` and consult the table to determine what appears. Then roll on the [[indefinite-madness|Indefinite Madness]] table in chapter 8 of the *Dungeon Master's Guide* to determine the nature of the creature's madness. If cured of its madness, the creature behaves in accordance with its alignment.
 
-`dice: [](02-chapter-2-into-darkness.md#^encounter)`
-
-| dice: d4 | Encounter |
-|----------|-----------|
 | 1 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin|deep gnome]] |
 | 2 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] |
 | 3 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] |
 | 4 | 1 [[stone-giant-xmm|stone giant]] |
-^encounter
 
 There is a chance that the mad creature has something of interest or value in its possession. Roll a `d20` and consult the table below to see what, if anything, it has. The creature doesn't part with the item willingly.
 
@@ -653,7 +623,6 @@ There is a chance that the mad creature has something of interest or value in it
 
 | dice: d20 | Possession |
 |-----------|------------|
-| 1–10 | None |
 | 11–13 | A 10 gp gem |
 | 14–15 | A gold ring worth 25 gp |
 | 16–17 | An obsidian statuette of Lolth worth 100 gp |
@@ -669,43 +638,28 @@ As the characters move through a series of caves, they attract the attention of 
 
 This group of raiders from the surface ventured into the Underdark looking for riches and got lost. Roll a `d6` and consult the table to determine what appears. The raiders are initially hostile toward the party, though clever characters might try bribing them for safe passage or information.
 
-`dice: [](02-chapter-2-into-darkness.md#^encounter)`
-
-| dice: d6 | Encounter |
-|----------|-----------|
 | 1–2 | `d6` human [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandits]] and 1 human [[/03_Mechanics/CLI/bestiary/humanoid/bandit-captain-xmm|bandit captain]] |
 | 3–4 | `2d4` [[goblin-warrior-xmm|goblins]] and 1 [[goblin-boss-xmm|goblin boss]] |
 | 5–6 | `d6` [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|orcs]] and 1 [[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|orc Eye of Gruumsh]] |
-^encounter
 
 There is a chance that the leader of the group has something of interest or value. Roll a `d20` and consult the table below to see what, if anything, the leader of the raiders has in its possession.
 
 #### Raider Leader Possessions
 
-`dice: [](02-chapter-2-into-darkness.md#^possession)`
-
-| dice: d20 | Possession |
-|-----------|------------|
 | 1–5 | None |
 | 6–10 | `2d6` 10 gp gemstones in a pouch |
 | 11–14 | `2d6` 50 gp gemstones in a pouch |
 | 15–17 | `d4` torchstalks (see "Fungi of the Underdark") |
 | 18–19 | `d4` waterorbs (see "Fungi of the Underdark") |
 | 20 | A random magic item (roll on Magic Item Table B in "chapter 7" of the *Dungeon Master's Guide*) |
-^possession
 
 #### Scouts
 
 Each of these groups is in the Underdark on a secret mission. Roll a `d6` and consult the table to determine what appears.
 
-`dice: [](02-chapter-2-into-darkness.md#^encounter)`
-
-| dice: d6 | Encounter |
-|----------|-----------|
 | 1–2 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] |
 | 3–4 | `d4` [[myconid-adult-xmm|myconid adults]] |
 | 5–6 | `d6` shield dwarf [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|scouts]] |
-^encounter
 
 The [[/03_Mechanics/CLI/bestiary/humanoid/drow-scout-oota|drow scout]] is searching for escaped slaves. If he spots the party, he'll attempt to avoid notice and take away information regarding the group's location (see "Drow Pursuit").
 
@@ -717,16 +671,12 @@ Shield dwarf scouts are friendly if the party includes one or more surface dwell
 
 The characters stumble upon a member of the Society of Brilliance, a sect of highly intelligent monsters that have banded together to solve all of the Underdark's problems. The society is investigating areas suffused with *faerzress* to ascertain whether it has something to do with what the society fears is some kind of "demonic incursion." Roll a `d10` to determine which society member the characters encounter.
 
-`dice: [](02-chapter-2-into-darkness.md#^encounter)`
-
 | dice: d10 | Encounter |
-|-----------|-----------|
 | 1–2 | [[/03_Mechanics/CLI/bestiary/npc/y-oota|Y]] the [[derro-savant-mpmm|derro savant]] (see appendix C) |
 | 3–4 | [[/03_Mechanics/CLI/bestiary/npc/blurg-oota|Blurg]] the [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|orog]] |
 | 5–6 | [[/03_Mechanics/CLI/bestiary/npc/grazilaxx-oota|Grazilaxx]] the [[mind-flayer-xmm|mind flayer]] |
 | 7–8 | [[/03_Mechanics/CLI/bestiary/npc/skriss-oota|Skriss]] the [[troglodyte-xmm|troglodyte]] |
 | 9–10 | [[/03_Mechanics/CLI/bestiary/npc/sloopidoop-oota|Sloopidoop]] the [[kuo-toa-archpriest-xmm|kuo-toa archpriest]] |
-^encounter
 
 Every member of the Society of Brilliance has an alignment of neutral, an Intelligence of 18 (+4), and fluency in multiple languages including Dwarvish, Elvish, and Undercommon (although [[/03_Mechanics/CLI/bestiary/npc/grazilaxx-oota|Grazilaxx]] prefers to communicate using telepathy). Its statistics are unchanged otherwise. Members are erudite and talkative, preferring diplomacy and debate over violence (though they defend themselves if attacked).
 
@@ -740,29 +690,19 @@ Members of the Society of Brilliance are aware that paths to the surface world e
 
 One or more creatures killed and reanimated by Zuggtmoy's spores observe the characters as they pass by. The spore servants don't communicate and don't attack except in self-defense. Roll a `d10` and consult the table to determine what the characters encounter.
 
-`dice: [](02-chapter-2-into-darkness.md#^encounter)`
-
-| dice: d10 | Encounter |
-|-----------|-----------|
 | 1–3 | `d4` [[drow-spore-servant-oota|drow spore servants]] (see appendix C) |
 | 4–6 | `d6` [[duergar-spore-servant-oota|duergar spore servants]] (see appendix C) |
 | 7–8 | `d4` [[hook-horror-spore-servant-oota|hook horror spore servants]] (see appendix C) |
 | 9–10 | `d8` [[myconid-spore-servant-xmm|quaggoth spore servants]] |
-^encounter
 
 #### Traders
 
 These traders ply the tunnels of the Underdark, traveling from settlement to settlement. Roll a `d4` and consult the table to determine what appears.
 
-`dice: [](02-chapter-2-into-darkness.md#^encounter)`
-
-| dice: d4 | Encounter |
-|----------|-----------|
 | 1 | `2d4` [[/03_Mechanics/CLI/bestiary/humanoid/deep-gnome-svirfneblin|deep gnomes]] |
 | 2 | `2d4` [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] |
 | 3 | `2d4` [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|duergar]] |
 | 4 | `2d4` [[kuo-toa-xmm|kuo-toa]] |
-^encounter
 
 Deep gnome and drow traders have a 50 percent chance of having half their number in [[giant-lizard-xmm|giant lizards]] as mounts and pack animals. Duergar traders have a 50 percent chance of having half their number in [[male-steeder-mpmm|male steeders]] (see appendix C) as pack animals. If there are male steeders present, there is a 50 percent chance that the traders are escorted by a [[/03_Mechanics/CLI/bestiary/humanoid/duergar-kavalrachni-mpmm|duergar kavalrachni]] astride a [[female-steeder-mpmm|female steeder]] (see appendix C for both).
 
@@ -803,15 +743,10 @@ The Web Runners are as good as their word when it comes to their services, and t
 If the adventurers make a good impression on the Web Runners and if the party's goals appear to offer interesting opportunities to do new and dangerous things, the goblins offer to stay on after crossing the Silken Paths, and to help guide the characters through the Underdark. The two won't leave the Underdark, however. [[/03_Mechanics/CLI/bestiary/npc/yuk-yuk-oota|Yuk Yuk]] will try to negotiate a suitable fee, but the goblins might simply tag along, content to earn any fair share of whatever the party acquires.
 
 > [!note] Silken Paths: General Features
-> 
 > As characters traverse the Silken Paths, keep in mind the following features.
-> 
 > **Difficult Terrain.** Any creature with a climbing speed can walk along the webs at that speed. For all other creatures, the webs are difficult terrain. Any creature that falls can potentially become entangled in the webs (see "Falling").
-> 
 > **Falling.** Whenever a creature takes damage while traversing the Silken Paths, or whenever the webs upon which it is walking break, the creature must make a DC 15 Dexterity saving throw. On a successful save, the creature manages to avoid a fall by grabbing nearby web strands. On a failure, the creature falls `1d10 × 10` feet. If the distance fallen is less than the distance to the chasm floor, the creature becomes entangled in webs and [[conditions#Restrained|restrained]]; otherwise, it hits the floor and takes damage from the fall as normal. A [[conditions#Restrained|restrained]] creature can make a DC 12 Strength saving throw at the end of each of its turns, freeing itself and ending the [[conditions#Restrained|restrained]] condition on a success. Another creature can use its action to help a [[conditions#Restrained|restrained]] creature within its reach, granting advantage on that creature's next saving throw to end the effect.
-> 
 > **Light.** The chasm is dark. Carrying a light source attracts hostile creatures, increasing the chance of an encounter to 1–3 on a `d6`.
-> 
 > **Fire.** Webs burn away when exposed to any attack or effect that deals fire damage. This causes several strands to break, and all creatures within 30 feet of the affected area must make a saving throw to avoid falling (see "Falling").
 ^silken-paths-general-features
 
@@ -819,10 +754,7 @@ If the adventurers make a good impression on the Web Runners and if the party's 
 
 For every 500 feet the party travels through the webs, check for a random encounter by rolling a `d6`. An encounter occurs on a roll of 1 unless one or more party members are carrying light sources, in which case an encounter occurs on a roll of 1–3. Roll on the Silken Paths Encounters table or choose a suitable encounter when one occurs.
 
-`dice: [](02-chapter-2-into-darkness.md#^encounter)`
-
 | dice: d12 | Encounter |
-|-----------|-----------|
 | 1 | Cocooned lightfoot halfling |
 | 2 | `d4` [[darkmantle-xmm|darkmantles]] |
 | 3 | `d4` [[/03_Mechanics/CLI/bestiary/humanoid/priest-acolyte-xmm|drow]] and `d4` [[quaggoth-xmm|quaggoth]] slaves |
@@ -830,7 +762,6 @@ For every 500 feet the party travels through the webs, check for a random encoun
 | 9 | 1 [[mimic-xmm|mimic]] |
 | 10 | 1 [[spectator-xmm|spectator]] |
 | 11–12 | Web break |
-^encounter
 
 #### Cocooned Halfling
 
@@ -871,11 +802,8 @@ The characters enter an area where a band of gnolls lured to the Underdark by th
 The adventurers wander into the area from a second entrance to the caverns (area 1) and become embroiled in the hunt. Whether they choose to avoid the hunting party, aid the hook horrors, or negotiate their way out of the situation is up to the players.
 
 > [!note] Hook Horror Lair: General Features
-> 
 > As characters explore the hook horror lair, keep in mind the following features.
-> 
 > **Light.** The tunnels are completely dark, which doesn't hinder either the gnolls or the hook horrors.
-> 
 > **Tight Passages.** Tunnels marked "P" on the map are narrow enough that Large creatures such as the hook horrors must squeeze through them, spending 1 extra foot of movement for every foot of passage. Medium or smaller creatures can move through such areas normally.
 ^hook-horror-lair-general-features
 
@@ -940,21 +868,14 @@ Three [[gnoll-warrior-xmm|gnolls]] guard the camp and attack any creatures emerg
 A tremor causes a cave-in and traps the adventurers in a maze of tunnels with no obvious way out. With a dwindling air supply and water rising in the tunnels, the characters are forced to find a means of escape. Complicating matters, part of the maze belongs to a forgotten temple that now serves as the lair of servants of the demon lord Juiblex.
 
 > [!note] The Oozing Temple: General Features
-> 
 > As characters explore the Oozing Temple, keep in mind the following features.
-> 
 > **Light.** Except where specified otherwise, the tunnels and chambers are dark.
-> 
 > **Air.** The air is stale and perceptibly thin. The temple contains enough air for the oozes, plus 160 hours of breathable air for one creature, divided by the number of creatures present. For example, a party of four adventurers has 40 hours of air. Characters who are at rest and not undertaking activities such as moving or fighting consume half as much air.
-> 
 > Once half of the breathable air is consumed, the characters suffer one level of [[conditions#Exhaustion|exhaustion]] (see "appendix A" of the *Player's Handbook*). For each additional 10 percent of the air used up, the characters suffer one additional level of [[conditions#Exhaustion|exhaustion]]. At 90 percent, the characters are unable to move. When the air is used up, they die. Once the first level of [[conditions#Exhaustion|exhaustion]] sets in, the characters become aware that they are running out of air, and know roughly how much they have left.
-> 
 > A lit torch or its equivalent uses up air as a character does. Briefer but hotter magical effects consume 1 hour of air per die of fire damage per round. For example, a [[fireball-xphb|fireball]] spell that deals `8d6` fire damage consumes 8 hours of air, while a [[fire-bolt-xphb|fire bolt]] that deals `d10` fire damage consumes 1 hour of air per use.
-> 
 > **Water.** In addition to running low on air, the characters become aware that the tunnels and chambers are filling with water flowing in from area 6. The water rises at a rate of 1 foot per hour, meaning most of the tunnels and chambers will be completely flooded within 10 hours. Areas filled with waist-deep water are difficult terrain for the characters. Once the water is over their heads, they have to swim.
 ^the-oozing-temple-general-features
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/016-02-07.webp#gallery|Map 2.3: The Oozing Temple]]
 > ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/017-oozing-temple-player-version.webp#gallery|Player Version]]
 
@@ -1027,26 +948,19 @@ In ages past, at the height of Faerûn's great empires of magic, the half-elf so
 The adventurers might discover the tomb by accident or with the aid of Fargas Rumblefoot, the halfling from the Silken Paths encounter. Either way, when they're nearby, read the following to the players:
 
 > [!readaloud] 
-> 
 > A soft feminine voice sounds out in your mind suddenly, faint and distant. "Hello? Is someone there... ? Oh please, I need your help! I have been trapped in the dark for so long... so very long. Please, won't you help to free me?"
 ^0da
 
 The characters receive an impression of the direction to the entrance of the tomb, but the mysterious voice doesn't respond to any queries. As they follow the voice, a narrow side passage takes them to a dirty marble wall with a deep-set door made of bronze-encased stone, green with age (see the "Lost Tomb of Khaem: General Features" sidebar).
 
 > [!note] Lost Tomb of Khaem: General Features
-> 
 > As characters explore the Lost Tomb of Khaem, keep in mind the following features.
-> 
 > **Ceilings.** Room ceilings are 15 feet high. The hallways connecting them are 10 feet high.
-> 
 > **Doors.** Each door in the tomb is a 10-foot-by-10-foot slab of solid marble encased in a thin layer of beaten bronze. The bronze has turned green with age. The door pivots on a central axis, creating narrow openings on either side while open. The door is also heavy and tight-fitting, requiring a DC 15 Strength ([[skills#Athletics|Athletics]]) check to open or close.
-> 
 > **Light.** Except as otherwise noted, the interior of the tomb is dark.
-> 
 > **Chaotic Magic.** The tomb was crafted during an age of high magic, and it has become suffused with *faerzress*. The ancient and chaotic energy now permeating the structure causes any spell cast within the tomb to trigger a roll on the Wild Magic Surge table in chapter 3, "[[wild-magic-surge-phb|Classes]]," of the *Player's Handbook*.
 ^lost-tomb-of-khaem-general-features
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/019-02-08.webp#gallery|Map 2.4: The Lost Tomb]]
 > ![[/03_Mechanics/CLI/adventures/out-of-the-abyss/img/020-the-lost-tomb-player-version.webp#gallery|Player Version]]
 
@@ -1074,7 +988,7 @@ A character inspecting the northeast sarcophagus and succeeding on a DC 15 Wisdo
 
 #### Treasure
 
-Each sarcophagus contains mummified remains, the tattered remnants of ancient burial garments, and treasure of Netherese origin.
+Each sarcophagus contains mummified remains, the tattered remts of ancient burial garments, and treasure of Netherese origin.
 
 The northeast sarcophagus contains two gold bracelets worth 50 gp each and a ceremonial wand (nonmagical) made of chiseled ivory worth 25 gp.
 
@@ -1120,20 +1034,32 @@ The stone chest is unlocked and contains the other treasures Brysis took with he
 
 Legends speak of 02 chapter 2 into darkness as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 02 chapter 2 into darkness.
 
-## Adventure Hooks
-
-- A rumor ties 02 chapter 2 into darkness to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 02 chapter 2 into darkness to avert a public scandal.
-- A map overlay reveals a hidden approach to 02 chapter 2 into darkness active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

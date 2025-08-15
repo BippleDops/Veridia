@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:34.783911+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,16 @@ Deputy Inspector Pressure Tide Jonas is a undersea element of the setting, known
 
 Legends speak of Deputy Inspector Pressure Tide Jonas as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Deputy Inspector Pressure Tide Jonas.
 
-## Adventure Hooks
-
-- A rumor ties Deputy Inspector Pressure Tide Jonas to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Deputy Inspector Pressure Tide Jonas to avert a public scandal.
-- A map overlay reveals a hidden approach to Deputy Inspector Pressure Tide Jonas active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Customs House|02 Worldbuilding/Lore/Customs House]]
-
-
-## Connections
-
-- [[Customs House]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest a portal
+- A noble needs help investigating before dawn

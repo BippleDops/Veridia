@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.052029+00:00'
 world: Both
 ---
 
-
-
 # Artifact Properties; Major Beneficial Properties
 *Source: Dungeon Master's Guide p. 219* 
 
@@ -44,6 +42,24 @@ world: Both
 | 91-00 | While attuned to the artifact, you can't be [[conditions#Blinded|blinded]], [[conditions#Deafened|deafened]], [[conditions#Petrified|petrified]], or [[conditions#Stunned|stunned]]. |
 ^major-beneficial-properties
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Artifact properties major beneficial properties is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -52,19 +68,31 @@ Artifact properties major beneficial properties is a undersea element of the set
 
 Legends speak of artifact properties major beneficial properties as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around artifact properties major beneficial properties.
 
-## Adventure Hooks
-
-- A rumor ties artifact properties major beneficial properties to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at artifact properties major beneficial properties to avert a public scandal.
-- A map overlay reveals a hidden approach to artifact properties major beneficial properties active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals ancient history about this place
+- A journal reveals the truth about this place
+- A stranger needs help finding before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

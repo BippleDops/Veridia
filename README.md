@@ -1,11 +1,5 @@
-# Obsidian TTRPG Vault - Complete Directory Guide
-
 ## Vault Purpose
 This is a comprehensive D&D 5e campaign world featuring two interconnected realms (Aquabyssos and Aethermoor) with multiple ongoing campaigns, extensive worldbuilding, and integrated game mechanics.
-
-## Directory Structure & Purpose
-
-### Core Content Directories (00-04)
 
 #### 📁 00_Indexes/
 **Purpose**: Master navigation and cross-references for the entire vault
@@ -84,8 +78,6 @@ This is a comprehensive D&D 5e campaign world featuring two interconnected realm
 
 ---
 
-### Player & GM Support (05-07)
-
 #### 📁 05_Player_Resources/
 **Purpose**: Materials specifically for players
 - `Character_Sheets/` - PC records
@@ -122,8 +114,6 @@ This is a comprehensive D&D 5e campaign world featuring two interconnected realm
 **Current Status**: ❌ Empty - Needs templates
 
 ---
-
-### Reference & Archive (08-13)
 
 #### 📁 08_Archive/
 **Purpose**: Version history and deprecated content
@@ -203,8 +193,6 @@ This is a comprehensive D&D 5e campaign world featuring two interconnected realm
 
 ---
 
-### Support Directories
-
 #### 📁 backups/
 **Purpose**: Temporary backup storage
 **Issue**: ⚠️ Contains unzipped content - should be compressed
@@ -235,8 +223,6 @@ This is a comprehensive D&D 5e campaign world featuring two interconnected realm
 
 ---
 
-## Critical Issues to Address
-
 ### 🔴 High Priority
 1. **08_Archive/** has 10,912 unzipped files - needs compression
 2. **backups/** directory contains unzipped content
@@ -264,30 +250,6 @@ This is a comprehensive D&D 5e campaign world featuring two interconnected realm
 
 ---
 
-## Vault Statistics
-- **Total Markdown Files**: ~30,000
-- **Total Size**: ~2.4 GB
-- **D&D 5e Content**: 15,406 files
-- **Worldbuilding Content**: 3,597 files
-- **Active Campaigns**: 5
-- **NPCs**: 494+ documented
-- **Locations**: 200+ detailed
-- **Factions**: 50+ organizations
-
----
-
-## Usage Guidelines
-
-### For Players
-- Start with `00_Indexes/Vault_Navigation_Hub.md`
-- Check `05_Player_Resources/` for your materials
-- Reference `04_Resources/Handouts/` for in-game documents
-
-### For GMs
-- Use `00_Indexes/Master_*` files for overview
-- Check `06_GM_Resources/` for tools
-- Run Python scripts from `scripts/` for maintenance
-
 ### For Contributors
 - Follow existing naming conventions
 - Place content in appropriate directories
@@ -301,7 +263,7 @@ This is a comprehensive D&D 5e campaign world featuring two interconnected realm
 ## Semantic Connections
 *Related concepts and locations:*
 - [[wizard-xphb-school-of-enchantment]]
-- [[visibility-underwater-underwater-encounter-distance-xdmg]]
+- [[Visibility Underwater Underwater Encounter Distance Xdmg]]
 - [[Aquabyssos_Submarines_Catalog]]
 - [[Ocean Ecosystem Management]]
 - [[Border Territories]]
@@ -311,11 +273,9 @@ This is a comprehensive D&D 5e campaign world featuring two interconnected realm
 - [[Border Fortresses]]
 - [[scroll-of-protection-undead-xdmg]]
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

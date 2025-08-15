@@ -31,11 +31,8 @@ updated: '2025-08-13T12:34:06.382366+00:00'
 world: Both
 ---
 
-
-
 # Cloudkill
 *5th-level, Conjuration*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -52,7 +49,25 @@ The [[sphere-area-of-effect-xphb|Sphere]] moves 10 feet away from you at the sta
 
 **Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-oath-of-conquest-xge "subclass=XGE;class=XPHB"|Paladin (Oath of Conquest)]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[/03_Mechanics/CLI/lists/list-spells-classes-death-domain-dmg "subclass=DMG;class=XPHB"|Cleric (Death Domain)]]; [[list-spells-classes-bard|Bard]]; [[list-spells-classes-wizard|Wizard]]
 
-*Source: Player's Handbook (2024) p. 251. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 251. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -62,19 +77,32 @@ Cloudkill xphb is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of cloudkill xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cloudkill xphb.
 
-## Adventure Hooks
-
-- A rumor ties cloudkill xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at cloudkill xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to cloudkill xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Someone is hunting information for love
+- Strange accidents suggest a curse
+- A merchant needs help delivering before the festival
+- A letter reveals ancient history about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

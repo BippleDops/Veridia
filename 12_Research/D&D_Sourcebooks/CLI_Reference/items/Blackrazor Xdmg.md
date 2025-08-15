@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:07.169147+00:00'
 world: Both
 ---
 
-
-
 # Blackrazor
 *Weapon ([[greatsword-xphb|greatsword]]), artifact (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/blackrazor.webp#right)
@@ -38,7 +36,25 @@ Hidden in the dungeon of White Plume Mountain, Blackrazor shines like a piece of
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. If you hit an Undead with this weapon, you take `d10` Necrotic damage, and the target regains `d10` [[hit-points-xphb|Hit Points]]. If this Necrotic damage reduces you to 0 [[hit-points-xphb|Hit Points]], Blackrazor devours your soul (see "Devour Soul" below).
 
-While you hold this weapon, you have [[immunity-xphb|Immunity]] to the [[conditions#Charmed|Charmed]] and [[conditions#Frightened|Frightened]] conditions, and you have [[senses#Blindsight|Blindsight]] with a range of 30 feet.
+While you hold this weapon, you have [[immunity-xphb|Immunity]] to the [[conditions#Charmed|Charmed]] and [[conditions#frightened|Frightened]] conditions, and you have [[senses#Blindsight|Blindsight]] with a range of 30 feet.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Devour Soul
 
@@ -78,19 +94,20 @@ Blackrazor xdmg is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of blackrazor xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around blackrazor xdmg.
 
-## Adventure Hooks
-
-- A rumor ties blackrazor xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at blackrazor xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to blackrazor xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

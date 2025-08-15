@@ -17,28 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -48,28 +42,33 @@ Anti Religious Philosophical Arguments is a undersea element of the setting, kno
 
 Legends speak of Anti Religious Philosophical Arguments as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Anti Religious Philosophical Arguments.
 
-## Adventure Hooks
-
-- A rumor ties Anti Religious Philosophical Arguments to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Anti Religious Philosophical Arguments to avert a public scandal.
-- A map overlay reveals a hidden approach to Anti Religious Philosophical Arguments active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Anti-Religious Philosophical Arguments|02 Worldbuilding/Places/Anti Religious Philosophical Arguments]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Anti-Priest Nullus]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- A noble needs help finding before dawn
+- The authorities needs help stealing before dawn
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

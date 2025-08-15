@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:05.731488+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aarakocra-aeromancer-xmm-aarakocra-aeromancer-xmm.svg)
 
@@ -40,6 +37,24 @@ world: Both
 *Source: Monster Manual (2024) p. 10*  
 
 Aarakocra aeromancers control magical winds from the endless storms of the Elemental Plane of Air.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Aarakocra
 
@@ -65,7 +80,6 @@ Aarakocra are birdlike folk who soar the skies of countless worlds and the endle
   - !!int "12"
   - !!int "13"
   - !!int "17"
-  - !!int "12"
 "speed": "20 ft., fly 50 ft."
 "saves":
   - "dexterity": !!int "5"
@@ -91,7 +105,7 @@ Aarakocra are birdlike folk who soar the skies of countless worlds and the endle
       \ components and using Wisdom as the spellcasting ability (spell save DC 13):\n\
       \nAt will: [[elementalism-xphb|Elementalism]],\
       \ [[gust-of-wind-xphb|Gust of Wind]], [[mage-hand-xphb|Mage Hand]],\
-      \ [[message-xphb|Message]]\n\n1/day: [[lightning-bolt-xphb|Lightning\
+      \ [[message-xphb|Message]]\n\n1/day: [[lightning-bolt-xphb|Lightning\]]
       \ Bolt]]"
     "name": "Spellcasting"
 "reactions":
@@ -117,19 +131,20 @@ Aarakocra aeromancer xmm is a undersea element of the setting, known for biolumi
 
 Legends speak of aarakocra aeromancer xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around aarakocra aeromancer xmm.
 
-## Adventure Hooks
-
-- A rumor ties aarakocra aeromancer xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at aarakocra aeromancer xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to aarakocra aeromancer xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

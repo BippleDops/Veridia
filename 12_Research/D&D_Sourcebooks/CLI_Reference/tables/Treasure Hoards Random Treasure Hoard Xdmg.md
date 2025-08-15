@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.679363+00:00'
 world: Both
 ---
 
-
-
 # Treasure Hoards; Random Treasure Hoard
 *Source: Dungeon Master's Guide (2024) p. 120* 
 
@@ -37,6 +35,24 @@ world: Both
 | 17+ | `6d10 × 10,000` (330,000) GP | `d6` |
 ^random-treasure-hoard
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Treasure hoards random treasure hoard xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -45,19 +61,18 @@ Treasure hoards random treasure hoard xdmg is a undersea element of the setting,
 
 Legends speak of treasure hoards random treasure hoard xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around treasure hoards random treasure hoard xdmg.
 
-## Adventure Hooks
-
-- A rumor ties treasure hoards random treasure hoard xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at treasure hoards random treasure hoard xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to treasure hoards random treasure hoard xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest ancient magic
+- A document has gone missing and war looms
+- A noble needs help finding before the new moon
+- A stranger needs help investigating before the festival

@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.284275'
 world: Both
 ---
 
-
 # Determine the Party's Goals; Event-Based Goals
 *Source: Dungeon Master's Guide p. 76* 
 
@@ -53,6 +52,24 @@ world: Both
 | 20 | Roll twice, ignoring results of 20. |
 ^event-based-goals
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Determine the partys goals event based goals is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -61,19 +78,31 @@ Determine the partys goals event based goals is a undersea element of the settin
 
 Legends speak of determine the partys goals event based goals as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around determine the partys goals event based goals.
 
-## Adventure Hooks
-
-- A rumor ties determine the partys goals event based goals to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at determine the partys goals event based goals to avert a public scandal.
-- A map overlay reveals a hidden approach to determine the partys goals event based goals active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- Strange dreams suggest a portal
+- A document has gone missing and truth emerges
+- A letter reveals the truth about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

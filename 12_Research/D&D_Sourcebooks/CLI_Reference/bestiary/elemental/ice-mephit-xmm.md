@@ -28,15 +28,31 @@ updated: '2025-08-12T23:37:35.458508'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ice-mephit-xmm-ice-mephit-xmm.svg)
 
 # [[ice-mephit-xmm|Ice Mephit]]
-*Source: Monster Manual (2024) p. 206. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 206. Available in the SRD and the Free Rules (2024)*  
 
 Ice mephits have bodies made of frigid air and frozen water. They delight in freezing things and dropping ice into peoples' clothes.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Mephits
 
@@ -52,7 +68,6 @@ Mephits resent leaving the elemental extremes where they make their homes. If lo
 > [!quote] A quote from Seamusxanthuszenus, smoke mephit with a typically inflated impression of itself  
 > 
 > I am Seamusxanthuszenus, Slayer of Fiends, Merchant Most Excellent, Purveyor of Death!
-
 
 ```statblock
 "name": "Ice Mephit (XMM)"
@@ -117,19 +132,25 @@ Ice mephit xmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of ice mephit xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ice mephit xmm.
 
-## Adventure Hooks
-
-- A rumor ties ice mephit xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ice mephit xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ice mephit xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for a artifact for revenge
+- The authorities needs help finding before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

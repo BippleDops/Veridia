@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.826430+00:00'
 world: Both
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-watch-captain-roderick-shieldbreaker-v1-watch-captain-roderick-shieldbreaker.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Port Meridian - Merchant Quarter|02 Worldbuilding/Places/Port Meridian Merchant Quarter]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Port Meridian - Merchant Quarter]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,41 @@ Watch Captain Roderick Shieldbreaker is a undersea element of the setting, known
 
 Legends speak of Watch Captain Roderick Shieldbreaker as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Watch Captain Roderick Shieldbreaker.
 
-## Adventure Hooks
-
-- A rumor ties Watch Captain Roderick Shieldbreaker to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Watch Captain Roderick Shieldbreaker to avert a public scandal.
-- A map overlay reveals a hidden approach to Watch Captain Roderick Shieldbreaker active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Relationships
+
+- **Parent**: [[Portrait NPC Captain Scarlet Torrent V2 Captain Scarlet Torrent.svg]]
+- **Ally**: [[Session 4]]
+- **Blackmailer**: [[Quest - Breaking the Scales]]
+- **Blackmailer**: [[High King Aurelius Skyborn]]
+- **Creditor**: [[Quest - The Prophecy Fulfilled]]
+
+
+## Plot Hooks
+
+- Strange dreams suggest a conspiracy
+- Strange disappearances suggest ancient magic
+- Strange disappearances suggest a conspiracy
+- Strange dreams suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

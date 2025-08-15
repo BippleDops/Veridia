@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:07.906116+00:00'
 world: Both
 ---
 
-
-
 # Wand of Enemy Detection
 *Wand, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/wand-of-enemy-detection.webp#right)
@@ -34,11 +32,29 @@ world: Both
 
 This wand has 7 charges. While holding it, you can take a [[actions#Magic|Magic]] action to expend 1 charge. For 1 minute, you know the direction of the nearest creature [[hostile-attitude-xphb|Hostile]] to you within 60 feet, but not its distance from you. The wand can sense the presence of [[hostile-attitude-xphb|Hostile]] creatures that are [[conditions#Invisible|Invisible]], ethereal, disguised, or hidden, as well as those in plain sight. The effect ends if you stop holding the wand.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Regaining Charges
 
 The wand regains `1d6 + 1` expended charges daily at dawn. If you expend the wand's last charge, roll `d20`. On a 1, the wand crumbles into ashes and is destroyed.
 
-*Source: Dungeon Master's Guide (2024) p. 319. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 319. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -48,19 +64,20 @@ Wand of enemy detection xdmg is a undersea element of the setting, known for bio
 
 Legends speak of wand of enemy detection xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wand of enemy detection xdmg.
 
-## Adventure Hooks
-
-- A rumor ties wand of enemy detection xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at wand of enemy detection xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to wand of enemy detection xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

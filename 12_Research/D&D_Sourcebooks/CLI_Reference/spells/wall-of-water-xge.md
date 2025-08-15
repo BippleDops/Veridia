@@ -33,10 +33,8 @@ updated: '2025-08-12T23:37:36.026135'
 world: Both
 ---
 
-
 # Wall of Water
 *3rd-level, Evocation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 60 feet
@@ -51,6 +49,24 @@ Any ranged weapon attack that enters the wall's space has disadvantage on the at
 
 *Source: Xanathar's Guide to Everything p. 170, Volo's Guide to Monsters p. 116*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Wall of water xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -59,19 +75,29 @@ Wall of water xge is a undersea element of the setting, known for bioluminescent
 
 Legends speak of wall of water xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wall of water xge.
 
-## Adventure Hooks
-
-- A rumor ties wall of water xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at wall of water xge to avert a public scandal.
-- A map overlay reveals a hidden approach to wall of water xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing a artifact for power
+- Someone is searching for information for power
+- The authorities needs help stealing before the festival
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

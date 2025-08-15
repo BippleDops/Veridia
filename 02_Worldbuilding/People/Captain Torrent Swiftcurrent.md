@@ -1,4 +1,5 @@
 ---
+
 title: Captain Torrent Swiftcurrent
 type: Npc
 tags:
@@ -10,6 +11,7 @@ tags:
 - active
 - complete
 - status/in-progress
+- bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +20,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.555348+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +30,69 @@ world: Aquabyssos
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-torrent-swiftcurrent-captain-torrent-swiftcurrent.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward avoidance
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more focused
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward confrontation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
 
 ## Player-Facing Summary
 
@@ -67,14 +101,6 @@ Captain Torrent Swiftcurrent is a undersea element of the setting, known for bio
 ## Lore Details
 
 Legends speak of Captain Torrent Swiftcurrent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Torrent Swiftcurrent.
-
-## Adventure Hooks
-
-- A rumor ties Captain Torrent Swiftcurrent to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Captain Torrent Swiftcurrent to avert a public scandal.
-- A map overlay reveals a hidden approach to Captain Torrent Swiftcurrent active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +111,6 @@ Captain Torrent Swiftcurrent's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Accumulating wealth
@@ -124,8 +120,6 @@ Captain Torrent Swiftcurrent's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Captain Torrent Swiftcurrent harbors secrets that could change everything:
@@ -133,10 +127,6 @@ Captain Torrent Swiftcurrent harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Forbidden knowledge
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +145,6 @@ Captain Torrent Swiftcurrent is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Captain Torrent Swiftcurrent needs assistance with a delicate matter
@@ -164,8 +152,6 @@ Captain Torrent Swiftcurrent is currently engaged in:
 3. **The Secret**: Information about Captain Torrent Swiftcurrent's past surfaces
 4. **The Alliance**: Opportunity to work with or against Captain Torrent Swiftcurrent
 5. **The Crisis**: Captain Torrent Swiftcurrent is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,22 +165,15 @@ Captain Torrent Swiftcurrent is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Captain Torrent Swiftcurrent]]
+## Cultural Practices
 
-<!-- enriched: true -->
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
 
-
-
-
-## Relationship Web
-
-- [[04_Resources_Assets_Symbols_symbol-heraldry-the-deepwatch-guard-the-deepwatch-guard.svg]]: *sworn enemy*
-- [[Mayor's Manor]]: *mentor*
-- [[Lord Bathysmal]]: *debt holder*
-- [[Draft_Content]]: *debt holder*
-
-## Connections
-
-- [[Port Meridian Harbor]]
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon

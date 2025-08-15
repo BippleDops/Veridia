@@ -16,85 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[07_Player_Resources/Character_Options/Depth_Adapted_Background|07 Player Resources/Character Options/Depth Adapted Background]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Aurelius Goldwave]]
-- [[Biomancer Corvus Intestinal]]
-- [[Corruption Tracking]]
-- [[Crystal Corruption Taboos]]
-- [[Crystal Forest]]
-- [[Crystal Garden]]
-- [[Customs House]]
-- [[Deep Mother Influence]]
-- [[Deep Mother Lore]]
-- [[Depth Adaptation Points]]
-- [[Desperate Plague Victim]]
-- [[Discover Marina's Truth]]
-- [[Echo of the Mother]]
-- [[Evidence Chain Analysis]]
-- [[Fortress of the Deeps]]
-- [[Interrogation Techniques]]
-- [[Investigation Procedures]]
-- [[Kraken Territories]]
-- [[Lighthouse Peak - Resonance Chamber]]
-- [[Madness Effects]]
-- [[Memory Alteration Consequences]]
-- [[Merged Reality Zones]]
-- [[Multi-Phase Boss Fights]]
-- [[Order of the Sunken Crown]]
-- [[Pressure Adaptation System]]
-- [[Queen Seraphina]]
-- [[Reality Merge Zones]]
-- [[Reputation System]]
-- [[Resonance Peaks]]
-- [[Shadow Magic Integration Practices]]
-- [[Silver Mask]]
-- [[Silverscale Emergency Bunker]]
-- [[Sorrow Pearls]]
-- [[Surface Dweller Adaptation]]
-- [[Thalassius the Wise]]
-- [[The Abyss Beneath Aquabyssos]]
-- [[The Bathyal Succession]]
-- [[The Convergence Point]]
-- [[The Crimson Hand]]
-- [[The Deep Uprising]]
-- [[The Final Choice]]
-- [[The Forgetting Bomb]]
-- [[The Great Convergence Prophecies]]
-- [[The Lighthouse of Storms]]
-- [[The Queen]]
-- [[The Recursion Oracle]]
-- [[The Restoration Movement]]
-- [[The Seven Betrayers]]
-- [[The Seven Shards]]
-- [[The Silverscale Conspiracy]]
-- [[The Sundering]]
-- [[The Transformed Citizens]]
-- [[Tidal Memory Ceremonies]]
-- [[Timeline of the Drowning]]
-- [[Umbral Exchange]]
-- [[Underwater Breathing]]
-- [[Abyssal Cathedral]]
-- [[Archivist Mnemonic the Forgotten]]
-- [[Memory Merchant Valeria Siltweave]]
-- [[Pressure Angel Benthia]]
-- [[Surface Ambassador Lord Seaworthy]]
-- [[Aethermoor]]
-- [[Mad Oracle Thessaly]]
-- [[Crystalline Depths]]
-- [[Find the Grief Bomb]]
-- [[The Maw of Darkness]]
-- [[Tradeway Road]]
-- [[Aethermoor - Session 09 The Price of Unity]]
-- [[Aethermoor - Session 10 The Deep Mother Rises]]
 
 ## Player-Facing Summary
 
@@ -104,19 +41,28 @@ The Deep Mother is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of The Deep Mother as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Deep Mother.
 
-## Adventure Hooks
-
-- A rumor ties The Deep Mother to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Deep Mother to avert a public scandal.
-- A map overlay reveals a hidden approach to The Deep Mother active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

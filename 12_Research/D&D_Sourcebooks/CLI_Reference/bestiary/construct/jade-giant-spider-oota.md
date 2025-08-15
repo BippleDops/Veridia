@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.869432'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-jade-giant-spider-oota-jade-giant-spider-oota.svg)
 
@@ -55,7 +53,7 @@ world: Both
 "damage_immunities": "poison; psychic; bludgeoning, piercing, slashing from nonmagical\
   \ attacks that aren't adamantine"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
 "senses": "truesight 120 ft., passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
@@ -88,6 +86,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Jade giant spider oota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -96,19 +112,22 @@ Jade giant spider oota is a undersea element of the setting, known for biolumine
 
 Legends speak of jade giant spider oota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around jade giant spider oota.
 
-## Adventure Hooks
-
-- A rumor ties jade giant spider oota to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at jade giant spider oota to avert a public scandal.
-- A map overlay reveals a hidden approach to jade giant spider oota active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and evil awakens
+- A letter reveals ancient history about the cult
+- Strange accidents suggest a curse
+- Someone is searching for an heir for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

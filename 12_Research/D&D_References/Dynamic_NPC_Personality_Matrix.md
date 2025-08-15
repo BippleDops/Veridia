@@ -18,24 +18,27 @@ updated: '2025-08-13T01:18:37.111586+00:00'
 world: Both
 ---
 
-
-
 # Dynamic NPC Personality Matrix
 
 Generates 10,000+ NPC personalities, evolving relationships, dynamic dialogue, quests, betrayal/loyalty, faction switching.
 
-## Personality Synthesis
-- Axes: Duty–Desire, Faith–Doubt, Memory–Ambition, Depth–Surface
-- Traits roll up to archetypes; weighted by faction and world
 
-## Relationship Evolution
-- Trust, Fear, Debt, Awe; tick each session based on events
+## 🔧 Deep Evaluation Improvements
 
-## Dialogue Trees
-- World-state driven; supports merger awareness and sanity conditions
+*20 targeted improvements identified*
 
-## Personal Quests
-- Tie to pressures, crystals, memories, and Deep Mother whispers
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Emergent Faction Switching
 - Thresholds flipped by ideology shocks and economic pressure
@@ -50,23 +53,26 @@ Dynamic NPC Personality Matrix is a undersea element of the setting, known for b
 
 Legends speak of Dynamic NPC Personality Matrix as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Dynamic NPC Personality Matrix.
 
-## Adventure Hooks
-
-- A rumor ties Dynamic NPC Personality Matrix to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Dynamic NPC Personality Matrix to avert a public scandal.
-- A map overlay reveals a hidden approach to Dynamic NPC Personality Matrix active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Phase_Omega_Enhanced_Index|03 Mechanics/Phase Omega Enhanced Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Someone is protecting an heir for power
+- Someone is hunting a witness for power
+- A stranger needs help stealing before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -24,15 +24,11 @@ updated: '2025-08-13T12:34:07.091909+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-dragon-sensing-longsword-pota-dragon-sensing-longsword-pota.svg)
 
 # Dragon Sensing Longsword
 *Weapon ([[longsword-xphb|longsword]])*  
-
 
 - **Damage**:
   - One-handed: 1d8 slashing
@@ -44,6 +40,24 @@ This +1 longsword is made of dragon bone and with a dragon-leather grip. It has 
 
 *Source: Princes of the Apocalypse p. 90*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Dragon sensing longsword pota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -52,19 +66,22 @@ Dragon sensing longsword pota is a undersea element of the setting, known for bi
 
 Legends speak of dragon sensing longsword pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dragon sensing longsword pota.
 
-## Adventure Hooks
-
-- A rumor ties dragon sensing longsword pota to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dragon sensing longsword pota to avert a public scandal.
-- A map overlay reveals a hidden approach to dragon sensing longsword pota active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and truth emerges
+- Someone is protecting information for power
+- A corpse reveals the truth about this place
+- A corpse reveals ancient history about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

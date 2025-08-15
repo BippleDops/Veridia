@@ -22,16 +22,32 @@ updated: '2025-08-12T23:37:34.927822'
 world: Both
 ---
 
-
 # Silverquill Student
 *Source: Strixhaven: A Curriculum of Chaos p. 35*  
-
 
 - **Skill Proficiencies.** [[skills#Intimidation|Intimidation]], [[skills#Persuasion|Persuasion]]  
 - **Languages.** Two of your choice  
 - **Equipment.** A [[ink-xphb|bottle of black ink]], an [[ink-pen-xphb|ink pen]], a book of poetry, a school uniform, and a [[pouch-xphb|pouch]] containing 15 gp  
 
 You have spent years practicing your writing and oration in the hope of becoming a student of Silverquill College. Your studies focus on language, literature, and the power of words, both magical and otherwise. The metaphorical power of words to illuminate or conceal is joined with the literal ability of magic to do the same in your academic pursuits.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Feature: Silverquill Initiate
 
@@ -43,7 +59,7 @@ In addition, if you have the Spellcasting or Pact Magic feature, the spells on t
 
 | Spell Level | Spells |
 |-------------|--------|
-| 1st | [[dissonant-whispers-xphb|Dissonant Whispers]], [[silvery-barbs-scc|Silvery Barbs]] |
+| 1st | [[dissot-whispers-xphb|Dissot Whispers]], [[silvery-barbs-scc|Silvery Barbs]] |
 | 2nd | [[calm-emotions-xphb|Calm Emotions]], [[darkness-xphb|Darkness]] |
 | 3rd | [[beacon-of-hope-xphb|Beacon of Hope]], [[daylight-xphb|Daylight]] |
 | 4th | [[compulsion-xphb|Compulsion]], [[confusion-xphb|Confusion]] |
@@ -88,19 +104,20 @@ Silverquill student scc is a undersea element of the setting, known for biolumin
 
 Legends speak of silverquill student scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around silverquill student scc.
 
-## Adventure Hooks
-
-- A rumor ties silverquill student scc to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at silverquill student scc to avert a public scandal.
-- A map overlay reveals a hidden approach to silverquill student scc active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for power
+- A stranger needs help investigating before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

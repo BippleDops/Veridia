@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.397142'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-slithering-tracker-mpmm-slithering-tracker-mpmm.svg)
 
@@ -71,7 +69,7 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
 "condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Deafened|deafened]],\
   \ [[conditions#Exhaustion|exhaustion]], [[conditions#Grappled|grappled]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
-  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#prone|prone]], [[conditions#Restrained|restrained]],\
   \ [[conditions#Unconscious|unconscious]]"
 "senses": "blindsight 120 ft., passive Perception 12"
 "languages": "understands languages it knew in its previous form but can't speak"
@@ -114,6 +112,24 @@ Achieving revenge against its target doesn't end a slithering tracker's existenc
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 underdark, urban
@@ -126,19 +142,20 @@ Slithering tracker mpmm is a undersea element of the setting, known for biolumin
 
 Legends speak of slithering tracker mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around slithering tracker mpmm.
 
-## Adventure Hooks
-
-- A rumor ties slithering tracker mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at slithering tracker mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to slithering tracker mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

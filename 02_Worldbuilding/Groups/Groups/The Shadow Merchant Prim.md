@@ -1,4 +1,5 @@
 ---
+
 title: The Shadow Merchant Prim
 type: faction
 tags:
@@ -13,15 +14,82 @@ status: placeholder
 headquarters: Unknown
 membership: Unknown
 updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
+
+
 ![02_Worldbuilding/Groups/The Shadow Merchant Prim](../../../../04_Resources/Assets/Generated/Misc/02_worldbuilding_groups_the_shadow_merchant_prim.png)
-
-
 
 # 02_Worldbuilding/Groups/The Shadow Merchant Prim
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
 
 ## Description
 
@@ -30,14 +98,6 @@ updated: 2025-08-14
 ## Details
 
 *[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[The Shadow Trade Network]]
-- [[Campaign_Relationship_Matrix]]
-- [[Campaign_Relationship_Matrix]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Trade Network]]
 
 ## Notes
 
@@ -49,14 +109,6 @@ updated: 2025-08-14
 ---
 *Placeholder generated: 2025-08-14*
 
-## Known Members
-
-- [[The Parasite Priests]]
-- [[Siren]]
-- [[04_Resources_Assets_Locations_location-city-dock-master-anchor-holdfast-v1-dock-master-anchor-holdfast.svg]]
-- [[Lord Marcus Goldweaver]]
-
-
 ## Overview
 
 The Shadow Merchant Prim operates as an influential organization with specific goals and methods. Their reach extends throughout their sphere of influence.
@@ -66,14 +118,6 @@ The Shadow Merchant Prim operates as an influential organization with specific g
 **Membership**: Dozens to thousands
 **Secrecy**: Public/Semi-secret/Secret
 
-
-## Structure
-
-### Leadership
-- **Supreme Leader**: Ultimate authority
-- **Council/Board**: Decision makers
-- **Department Heads**: Operational leaders
-
 ### Ranks
 1. Initiate level
 2. Member level
@@ -81,100 +125,11 @@ The Shadow Merchant Prim operates as an influential organization with specific g
 4. Officer level
 5. Leadership level
 
-
-## Members
-
-### Notable Members
-- [[Leader Name]] - Current head
-- [[Key Officer]] - Important figure
-- [[Rising Star]] - Ambitious member
-
-### Membership Requirements
-- Skills or qualities needed
-- Initiation process
-- Ongoing obligations
-
-
-## Goals
-
 ### Public Mission
 What they claim to pursue
 
-### True Objectives
-- Primary goal
-- Secondary objectives
-- Long-term vision
-
-### Current Projects
-- Active operations
-- Research efforts
-- Political maneuvers
-
-
-## Resources
-
-### Financial
-- Funding sources
-- Wealth level
-- Economic influence
-
-### Physical Assets
-- Properties owned
-- Equipment available
-- Special resources
-
-### Human Resources
-- Member skills
-- Allies and contacts
-- Information networks
-
-
-## Operations
-
-### Regular Activities
-- Day-to-day operations
-- Revenue generation
-- Member services
-
-### Special Operations
-- Covert activities
-- Major projects
-- Crisis responses
-
-
-## Relationships
-
-### Allies
-- Aligned organizations
-- Political supporters
-- Business partners
-
-### Enemies
-- Rival organizations
-- Opposed factions
-- Active threats
-
-### Neutral Parties
-- Potential allies or enemies
-- Trade partners
-- Watching parties
-
-
-## Secrets
-
 ### Open Secrets
 Things widely suspected
-
-### Hidden Truths
-- Real leadership
-- True funding sources
-- Secret objectives
-
-### Deep Mysteries
-- Ancient connections
-- Forbidden knowledge
-- Ultimate goals
-
 
 ## DM Notes
 
@@ -183,3 +138,27 @@ Things widely suspected
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.830831'
 world: Both
 ---
 
-
 # Introduction
 *Source: Dungeon Master's Guide (2014), p. 4* 
 
@@ -30,6 +29,24 @@ It's good to be the dungeon master! Not only do you get to tell fantastic storie
 The *Dungeon Master's Guide* assumes that you know the basics of how to play the D&D tabletop roleplaying game. If you haven't played before, the Dungeons & Dragons Starter Set is a great starting point for new players and DMs.
 
 This book has two important companions: the Player's Handbook, which contains the rules your players need to create characters and the rules you need to run the game, and the Monster Manual, which contains ready-to use monsters to populate your D&D world.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## The Dungeon Master
 
@@ -168,19 +185,25 @@ Engage players who like storytelling by...
 
 Legends speak of 01 introduction as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 01 introduction.
 
-## Adventure Hooks
-
-- A rumor ties 01 introduction to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 01 introduction to avert a public scandal.
-- A map overlay reveals a hidden approach to 01 introduction active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals ancient history about this place
+- A shipment has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

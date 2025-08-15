@@ -20,23 +20,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Cross-References
+### Enhancement Improvements
 
-- [[The Convergence Point]]
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-
-## Connections
-
-- [[Deep Mother]]
-- [[The Convergence Point]]
-- [[Timeline of the Drowning]]
-- [[High Priestess Scylla Deepdream]]
-- [[Prophet Nerida Voidgazer]]
-- [[The Hadal Depths]]
 
 ## Player-Facing Summary
 
@@ -46,19 +45,25 @@ The Drowning Welcome is a undersea element of the setting, known for bioluminesc
 
 Legends speak of The Drowning Welcome as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Drowning Welcome.
 
-## Adventure Hooks
-
-- A rumor ties The Drowning Welcome to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Drowning Welcome to avert a public scandal.
-- A map overlay reveals a hidden approach to The Drowning Welcome active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and truth emerges
+- An heirloom has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

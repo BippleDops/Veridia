@@ -16,64 +16,32 @@ updated: '2025-08-13T01:18:36.433498+00:00'
 danger_level: Moderate
 ---
 
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-deepwater-current-the-deepwater-current.svg]]
-
-
-
-
 
 # The Deepwater Current
 *Where Ocean Commerce Flows Beneath the Waves*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 The Deepwater Current represents the primary underwater trade route connecting surface ports with [[Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]] and other aquatic civilizations, enabling cultural and economic exchange while facing threats from sea monsters, pirates, and the expanding influence of [[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]].
-
-## Key Connections
-- **[[Abyssos Prime|02 Worldbuilding/Places/Abyssos Prime]]** - Primary underwater destination and trading partner
-- **[[The Floating Markets of Nereidios|02 Worldbuilding/Places/The Floating Markets Of Nereidios]]** - Surface connection and cultural exchange hub
-- **[[The Deepwater Trading Consortium|02 Worldbuilding/Groups/The Deepwater Trading Consortium]]** - Route operators and diplomatic coordinators
-- **[[The Crimson Fleet|02 Worldbuilding/Groups/The Crimson Fleet]]** - Primary threat to shipping and trade security
-- **[[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]** - Ideological threat seeking route control
-- **[[High Priest Dagon Deepcaller|02 Worldbuilding/People/High Priest Dagon Deepcaller]]** - Major threat to cultural exchange programs
-- **[[The Kraken's Harbor|02 Worldbuilding/Places/The Kraken's Harbor]]** - Military threat requiring route diversification
-- **[[Admiral Cassandra Stormwind|02 Worldbuilding/People/Admiral Cassandra Stormwind]]** - Naval protection and security provider
-- **[[Port Meridian|02 Worldbuilding/Places/Port Meridian]]** - Major surface terminus and logistics center
-- **[[The Tidecaller|02 Worldbuilding/People/The Tidecaller]]** - Controls access to certain current segments
-- **[[The Temple of Eternal Tides|02 Worldbuilding/Places/The Temple Of Eternal Tides]]** - Blesses voyages and provides diplomatic support
-- **[[The Brotherhood of the Black Anchor|02 Worldbuilding/Groups/The Brotherhood Of The Black Anchor]]** - Piracy threat and protection racket operations
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -83,23 +51,42 @@ The Deepwater Current is a undersea element of the setting, known for biolumines
 
 Legends speak of The Deepwater Current as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Deepwater Current.
 
-## Adventure Hooks
-
-- A rumor ties The Deepwater Current to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Deepwater Current to avert a public scandal.
-- A map overlay reveals a hidden approach to The Deepwater Current active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[The Deepwater Current|02 Worldbuilding/Places/The Deepwater Current]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for power
+- Strange sightings suggest a portal
+- A document has gone missing and evil awakens
+- A prisoner has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

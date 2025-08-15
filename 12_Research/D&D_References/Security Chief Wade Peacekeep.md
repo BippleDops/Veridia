@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.134678+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-security-chief-wade-peacekeep-security-chief-wade-peacekeep.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,22 @@ Security Chief Wade Peacekeep is a undersea element of the setting, known for bi
 
 Legends speak of Security Chief Wade Peacekeep as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Security Chief Wade Peacekeep.
 
-## Adventure Hooks
-
-- A rumor ties Security Chief Wade Peacekeep to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Security Chief Wade Peacekeep to avert a public scandal.
-- A map overlay reveals a hidden approach to Security Chief Wade Peacekeep active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Security Chief Wade Peacekeep|02 Worldbuilding/Places/Security Chief Wade Peacekeep]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Smuggler's Cove]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help stealing before the festival
+- Someone is blackmailing information for power
+- Someone is protecting a artifact for money
+- Someone is blackmailing information for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

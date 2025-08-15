@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.842633+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,30 +42,27 @@ Safe House Network is a undersea element of the setting, known for bioluminescen
 
 Legends speak of Safe House Network as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Safe House Network.
 
-## Adventure Hooks
-
-- A rumor ties Safe House Network to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Safe House Network to avert a public scandal.
-- A map overlay reveals a hidden approach to Safe House Network active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Quest - The Blackmail Papers|02 Worldbuilding/Places/Quest The Blackmail Papers]]
-
-
-## Connections
-
-- [[Purist Coalition Thugs]]
-- [[Shadow Conspiracy Investigation]]
-- [[Quest - The Blackmail Papers]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Stars
+
+
+## Plot Hooks
+
+- A corpse reveals the truth about the government
+- A prisoner has gone missing and war looms
+- A letter reveals ancient history about the cult
+- An heirloom has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

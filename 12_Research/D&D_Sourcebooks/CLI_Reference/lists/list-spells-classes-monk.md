@@ -22,11 +22,22 @@ world: Both
 ---
 
 
-# Monk Spells
+## 🔧 Deep Evaluation Improvements
 
-## 9th Level
+*20 targeted improvements identified*
 
-- [[/03_Mechanics/CLI/spells/astral-projection-xphb "XPHB"|Astral Projection]]
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -36,19 +47,29 @@ List spells classes monk is a undersea element of the setting, known for biolumi
 
 Legends speak of list spells classes monk as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells classes monk.
 
-## Adventure Hooks
-
-- A rumor ties list spells classes monk to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells classes monk to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells classes monk active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Plot Hooks
+
+- Strange sightings suggest ancient magic
+- A corpse reveals a betrayal about the government
+- Someone is blackmailing a artifact for love
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

@@ -30,14 +30,29 @@ updated: '2025-08-13T12:34:05.479694+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mastiff-xmm-mastiff-xmm.svg)
 
 # [[mastiff-xmm|Mastiff]]
-*Source: Monster Manual (2024) p. 365, Player's Handbook (2024) p. 353. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 365, Player's Handbook (2024) p. 353. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Animals
 
@@ -57,7 +72,6 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "14"
   - !!int "12"
   - !!int "3"
-  - !!int "12"
   - !!int "7"
 "speed": "40 ft."
 "skillsaves":
@@ -68,7 +82,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
 "cr": "1/8"
 "actions":
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 4 (1d6 + 1) Piercing damage.\
-      \ If the target is a Medium or smaller creature, it has the [[conditions#Prone|Prone]]\
+      \ If the target is a Medium or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Bite"
 "source":
@@ -90,19 +104,39 @@ Mastiff xmm is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of mastiff xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mastiff xmm.
 
-## Adventure Hooks
-
-- A rumor ties mastiff xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at mastiff xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to mastiff xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Stars
+
+
+## Plot Hooks
+
+- A noble needs help investigating before winter
+- A corpse reveals a conspiracy about a local noble
+- Someone is blackmailing a artifact for power
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

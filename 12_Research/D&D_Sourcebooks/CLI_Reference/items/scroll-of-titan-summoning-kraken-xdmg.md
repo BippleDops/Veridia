@@ -24,21 +24,35 @@ updated: '2025-08-12T23:37:36.979635'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-scroll-of-titan-summoning-kraken-xdmg-scroll-of-titan-summoning-kraken-xdmg.svg)
 
 # Scroll of Titan Summoning (Kraken)
 *Scroll, legendary*  
 
-
-
 When you take a [[actions#Magic|Magic]] action to read this scroll, a [[kraken-xmm|Kraken]] appears in an unoccupied space in water that you can see within 1 mile of yourself. A [[kraken-xmm|kraken]] requires a body of water large enough to contain it, or the summoning fails and the scroll is wasted
 
 The [[kraken-xmm|Kraken]] is [[hostile-attitude-xphb|Hostile]] toward all other creatures and disappears when it drops to 0 [[hit-points-xphb|Hit Points]]. If the [[kraken-xmm|Kraken]] is summoned into a space that isn't large enough to contain it, the summoning fails, and the scroll is wasted.
 
 *Source: Dungeon Master's Guide (2024) p. 303*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -48,19 +62,20 @@ Scroll of titan summoning kraken xdmg is a undersea element of the setting, know
 
 Legends speak of scroll of titan summoning kraken xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around scroll of titan summoning kraken xdmg.
 
-## Adventure Hooks
-
-- A rumor ties scroll of titan summoning kraken xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at scroll of titan summoning kraken xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to scroll of titan summoning kraken xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

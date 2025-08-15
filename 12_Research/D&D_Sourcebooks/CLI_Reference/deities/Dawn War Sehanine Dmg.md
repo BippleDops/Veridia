@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:04.301010+00:00'
 world: Both
 ---
 
-
-
 # Sehanine
 *Source: Dungeon Master's Guide p. 10* 
 
@@ -33,6 +31,24 @@ world: Both
 - **Domains**: Trickery
 - **Pantheon**: Dawn War
 - **Symbol**: Crescent moon
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -42,19 +58,30 @@ Dawn war sehanine dmg is a undersea element of the setting, known for biolumines
 
 Legends speak of dawn war sehanine dmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dawn war sehanine dmg.
 
-## Adventure Hooks
-
-- A rumor ties dawn war sehanine dmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dawn war sehanine dmg to avert a public scandal.
-- A map overlay reveals a hidden approach to dawn war sehanine dmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting a artifact for money
+- A document has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

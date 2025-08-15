@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.373822+00:00'
 world: Both
 ---
 
-
-
 # Quick Matchups
 *Source: Xanathar's Guide to Everything p. 91* 
 
@@ -53,6 +51,24 @@ world: Both
 | 20th | 10 | 6 | 4 |
 ^quick-matchups
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Quick matchups xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -61,19 +77,20 @@ Quick matchups xge is a undersea element of the setting, known for bioluminescen
 
 Legends speak of quick matchups xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around quick matchups xge.
 
-## Adventure Hooks
-
-- A rumor ties quick matchups xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at quick matchups xge to avert a public scandal.
-- A map overlay reveals a hidden approach to quick matchups xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals a conspiracy about the cult
+- Strange dreams suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

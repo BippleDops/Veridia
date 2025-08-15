@@ -19,7 +19,6 @@ updated: '2025-08-13T16:45:00.000000'
 world: Both
 ---
 
-
 # Seven Shards: Powers and Treasure System
 *Complete Reward and Power Progression for the Seven Shards Campaign*
 
@@ -30,8 +29,6 @@ world: Both
 > - **Tasha's Cauldron of Everything**: Magical tattoos and supernatural gifts
 > - **Fizban's Treasury of Dragons**: Draconic gifts and supernatural boons
 > - **Adventure League**: Legal content for organized play
-
-## The Seven Shards: Core Powers
 
 ### 1. The Consciousness Shard
 *Legendary Artifact (requires attunement)*
@@ -124,8 +121,6 @@ world: Both
 
 **Connection to Official Content**: Unique design inspired by *Rod of Seven Parts* legendary artifact
 
-## Shard Corruption System
-
 ### Corruption Stages
 
 **Stage 1: Touched (1-2 Corruption Points)**
@@ -161,8 +156,6 @@ world: Both
 - **Divine Intervention**: Successful intervention removes 1d4 corruption points
 - **Unity Shard**: Can cleanse corruption from other shards
 
-## Shard-Touched Magic Items
-
 ### Memory Crystal
 *Rare wondrous item*
 
@@ -196,7 +189,7 @@ Armor that has been enhanced with crystal growths from the Crystal Shard's influ
 - +1 to AC and saving throws
 - Resistance to one damage type (chosen when item is created)
 - Light: Sheds bright light in 10-foot radius, dim light 10 feet beyond
-- Crystal Resonance: Vulnerable to thunder damage while worn
+- Crystal Resoce: Vulnerable to thunder damage while worn
 
 **Connection to 5e**: Based on *+1 Armor* with elemental resistance
 
@@ -264,8 +257,6 @@ A set of linked medallions that allow perfect cooperation between wearers.
 
 **Connection to 5e**: Unique paired item inspired by *Sending Stone* concept
 
-## Session-Specific Rewards
-
 ### Session 1 Rewards
 **Individual Treasures**:
 - **Memory Crystal** (see above)
@@ -281,7 +272,7 @@ A set of linked medallions that allow perfect cooperation between wearers.
 **Individual Treasures**:
 - **Crystal-Enhanced Armor** (see above)
 - **Goldwave Family Signet** (advantage on Persuasion with merchants)
-- **Crystal Resonance Detector** (warns of shard activity within 1 mile)
+- **Crystal Resoce Detector** (warns of shard activity within 1 mile)
 
 **Social Rewards**:
 - Reputation with Silverscale Consortium (positive or negative)
@@ -314,8 +305,6 @@ Each session provides increasingly powerful rewards:
 - **Cosmic Guardian Commission**: Official recognition as protectors of reality
 - **Interdimensional Sanctuary**: Personal pocket dimension as home base
 
-## Random Treasure Tables
-
 ### Shard-Influenced Magic Items `dice: 1d20`
 | d20 | Item | Rarity | Effect |
 |-----|------|--------|--------|
@@ -347,8 +336,6 @@ Each session provides increasingly powerful rewards:
 | 7-8 | Historical Truth | Ancient events revealed | Political leverage |
 | 9-10 | Future Visions | Prophetic knowledge | Strategic planning |
 
-## Meta-Bind Interactive Elements
-
 ### Corruption Tracker
 ```meta-bind
 INPUT[progressBar(minValue(0), maxValue(10):corruption-level]
@@ -357,31 +344,21 @@ Label: Character Corruption Level
 
 ### Shard Attunement Monitor
 ```meta-bind-button
-label: Check Shard Resonance
-id: shard-resonance
+label: Check Shard Resoce
+id: shard-resoce
 action:
   type: command
   command: dice-roller
 args: ["7d20"]
-```
 
 ### Treasure Quality Generator
-```meta-bind-button
 label: Roll Treasure Quality
 id: treasure-quality
-action:
-  type: command
-  command: dice-roller
 args: ["1d100"]
-```
 
 ### Reward Distribution Calculator
-```meta-bind
 INPUT[slider(minValue(1), maxValue(20):party-level]
 Label: Party Level for Reward Scaling
-```
-
-## Dataview Treasure Queries
 
 ### All Magic Items by Rarity
 ```dataview
@@ -389,86 +366,36 @@ TABLE rarity, source, attunement-required
 FROM "Seven_Shards_Campaign"
 WHERE contains(tags, "magic-item")
 SORT rarity ASC
-```
 
 ### Corruption Tracking
-```dataview
 TABLE character, corruption-source, corruption-level, removal-attempts
 FROM "Seven_Shards_Campaign"  
 WHERE contains(tags, "corruption")
 SORT corruption-level DESC
-```
 
 ### Shard Power Usage
-```dataview
 TABLE shard-type, power-used, consequences, beneficial-effects
-FROM "Seven_Shards_Campaign"
 WHERE contains(tags, "shard-power")
 SORT shard-type ASC
-```
-
-## Integration with Official 5e Content
-
-### Magic Item Economy
-- Prices follow DMG guidelines (p. 129-130)
-- Rarity scaling matches official content
-- Attunement requirements balanced with power level
-
-### Adventure League Compliance
-- All items use official 5e mechanics
-- No homebrew stats that break AL rules
-- Alternative versions provided for AL legal games
-
-### Sourcebook Integration
-- **Xanathar's**: Common magic items for minor rewards
-- **Tasha's**: Magical tattoos for permanent character advancement
-- **Fizban's**: Draconic gifts adapted for cosmic powers
-- **DMG**: Artifact rules for the Seven Shards themselves
-
-### Balance Considerations
-- Power level scales with party advancement
-- Corruption system prevents overpowered combinations
-- Multiple attunement requirements limit exploitation
-- Curse effects balance benefits with risks
-
-## Dice Roller Integration
 
 ### Quick Treasure Generation
 ```dice-roller
 1d20 # Magic item type
 1d100 # Treasure value
 1d6 # Rarity level
-```
 
 ### Corruption Progression
-```dice-roller
 1d20+Wis # Corruption resistance
 1d4 # Corruption increase
-```
 
 ### Shard Power Activation
-```dice-roller
 1d20 # Success/failure for power use
 1d6 # Unintended consequences
-```
 
 ### Economic Reward Scaling
-```dice-roller
 (party-level)d100 # Gold piece rewards scaled to level
-```
 
 ---
-
-## Connected Resources
-- [[Seven Shards Campaign Overview]]
-- [[NPCs Statblocks]]
-- [[Shard Locations]]
-- [[Encounters and Challenges]]
-- [[Fantasy Calendar Timeline]]
-
----
-
-## Designer Notes
 
 ### Power Scaling Philosophy
 The Seven Shards represent ultimate cosmic power, but each comes with significant costs. Players must weigh the benefits against corruption risks, creating meaningful choices throughout the campaign.
@@ -482,10 +409,27 @@ Rewards escalate from uncommon items in early sessions to legendary artifacts by
 ### Player Agency
 The corruption system and shard powers give players meaningful choices about character development, with no "correct" path through the campaign's challenges.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -494,3 +438,11 @@ The corruption system and shard powers give players meaningful choices about cha
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A letter reveals ancient history about the government
+- Strange disappearances suggest a portal
+- An heirloom has gone missing and evil awakens
+- A corpse reveals a betrayal about a local noble

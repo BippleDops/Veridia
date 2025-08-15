@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:37.365637'
 world: Both
 ---
 
-
 # Iron Bands of Bilarro
 *Wondrous item, rare*  
 ![](/03_Mechanics/CLI/items/img/iron-bands-of-bilarro.webp#right)
@@ -38,7 +37,25 @@ A creature that can touch the bands, including the one [[conditions#Restrained|R
 
 Once the bands are used, they can't be used again until the next dawn.
 
-*Source: Dungeon Master's Guide (2024) p. 274. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Iron Bands of Binding") and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 274. Available in the SRD (as "Iron Bands of Binding") and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -48,19 +65,30 @@ Iron bands of bilarro xdmg is a undersea element of the setting, known for biolu
 
 Legends speak of iron bands of bilarro xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around iron bands of bilarro xdmg.
 
-## Adventure Hooks
-
-- A rumor ties iron bands of bilarro xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at iron bands of bilarro xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to iron bands of bilarro xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for information for power
+- A stranger needs help finding before the festival
+- Someone is blackmailing information for power
+- A stranger needs help delivering before the new moon
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

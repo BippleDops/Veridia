@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.939653+00:00'
 world: Both
 ---
 
-
-
 # Chapter 2: The Lands of Barovia
 *Source: Curse of Strahd, p. 23* 
 
@@ -40,6 +38,24 @@ Native Barovians have been terrorized for centuries by the one they call "the de
 > [!quote] A quote from Tome of Strahd  
 > 
 > My army settled in the valley of Barovia and took power over the people in the name of a just god, but with none of a god's grace or justice.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lay of the Land
 
@@ -74,33 +90,19 @@ While in Barovia, characters who receive spells from deities or otherworldly pat
 At your discretion, a spell can be modified cosmetically to enhance the horrific atmosphere. Here are examples:
 
 > [!note] 
-> 
 > [[alarm-xphb|Alarm]]: Instead of hearing a mental ping when the alarm is triggered, the caster hears a scream.
-> 
 > [[bigbys-hand-xphb|Bigby's hand]]: The conjured hand is skeletal.
-> 
 > [[find-familiar-xphb|Find familiar]]: The familiar is undead—not a celestial, fey, or fiend—and is immune to features that turn undead.
-> 
 > [[find-steed-xphb|Find steed]]: The summoned steed is undead—not a celestial, fey, or fiend—and is immune to features that turn undead.
-> 
 > [[find-the-path-xphb|Find the path]]: A child's spirit appears and guides the caster to the desired location. The spirit can't be harmed and doesn't speak.
-> 
 > [[fog-cloud-xphb|Fog cloud]]: Misty, harmless claws form in the fog.
-> 
 > [[gust-of-wind-xphb|Gust of wind]]: A ghastly moan accompanies the summoned wind.
-> 
 > [[mage-hand-xphb|Mage hand]]: The summoned hand is skeletal.
-> 
 > [[maze-xphb|Maze]]: The surfaces of the demiplane's maze are made of mortared skulls and bones.
-> 
 > [[phantom-steed-xphb|Phantom steed]]: The steed resembles a skeletal horse.
-> 
 > [[rarys-telepathic-bond-xphb|Rary's telepathic bond]]: Characters linked together by the spell can't shake the feeling that something vile is telepathically eavesdropping on them.
-> 
 > [[revivify-xphb|Revivify]]: A creature restored to life by a [[revivify-xphb|revivify]] spell screams upon regaining consciousness, as though waking from some horrible nightmare.
-> 
 > [[spirit-guardians-xphb|Spirit guardians]]: The spirits appear as ghostly, skeletal warriors.
-> 
 > [[wall-of-stone-xphb|Wall of stone]]: A wall created by the spell has ghastly faces sculpted into it, as though tortured spirits were somehow trapped within the stone.
 ^0a7
 
@@ -127,9 +129,7 @@ Barovian adults eke out modest livings. With no new wealth pouring into the vall
 Barovians live within a closed ecosystem. Every Barovian adult is expected to learn a trade or serve a function. Barovians stitch their own clothing, craft their own furniture, grow their own food, and make their own wine. With fewer than three thousand people living in the entire valley, finding the perfect mate isn't easy, so Barovians have learned to settle for what they can get.
 
 > [!note] Barovian Names
-> 
 > You can use the following lists to create Barovian NPC names on the fly.
-> 
 > - **Male Names.** Alek, Andrej, Anton, Balthazar, Bogan, Boris, Dargos, Darzin, Dragomir, Emeric, Falkon, Frederich, Franz, Gargosh, Gorek, Grygori, Hans, Harkus, Ivan, Jirko, Kobal, Korga, Krystofor, Lazlo, Livius, Marek, Miroslav, Nikolaj, Nimir, Oleg, Radovan, Radu, Seraz, Sergei, Stefan, Tural, Valentin, Vasily, Vladislav, Waltar, Yesper, Zsolt  
 > - **Female Names.** Alana, Clavdia, Danya, Dezdrelda, Diavola, Dorina, Drasha, Drilvia, Elisabeta, Fatima, Grilsha, Isabella, Ivana, Jarzinka, Kala, Katerina, Kereza, Korina, Lavinia, Magda, Marta, Mathilda, Minodora, Mirabel, Miruna, Nimira, Nyanka, Olivenka, Ruxandra, Sorina, Tereska, Valentina, Vasha, Victoria, Wensencia, Zondra  
 > - **Family Names.** Alastroi, Antonovich/Antonova, Barthos, Belasco, Cantemir, Dargovich/Dargova, Diavolov, Diminski, Dilisnya, Drazkoi, Garvinski, Grejenko, Groza, Grygorovich/Grygorova, Ivanovich/Ivanova, Janek, Karushkin, Konstantinovich/Konstantinova, Krezkov/Krezkova, Krykski, Lansten, Lazarescu, Lukresh, Lipsiege, Martikov/Martikova, Mironovich/Mironovna, Moldovar, Nikolovich/Nikolova, Nimirovich/Nimirova, Oronovich/Oronova, Petrovich/Petrovna, Polensky, Radovich/Radova, Rilsky, Stefanovich/Stefanova, Strazni, Swilovich/Swilova, Taltos, Targolov/Targolova, Tyminski, Ulbrek, Ulrich, Vadu, Voltanescu, Zalenski, Zalken  
@@ -185,9 +185,7 @@ Barovians know the following facts about their homeland:
 - A mad wizard of great power haunts the foothills of Mount Baratok. He is an outsider and no friend of the vampire's.  
 
 > [!note] Barovian Calendar
-> 
 > Barovia has its own calendar, and Barovians are accustomed to measuring the passage of time in "moons" instead of months. As a measurement of time, each moon begins on the first night of a full moon and lasts a full lunar cycle. A year consists of twelve moons, or twelve lunar cycles.
-> 
 > Strahd was born in 306. In 346, he inherited his father's crown, lands, and army. Strahd conquered the valley in 347, finished construction of Castle Ravenloft in 350, and died and became a vampire in 351. The current year is 735.
 ^barovian-calendar
 
@@ -197,7 +195,7 @@ Barovians have deep-rooted religious beliefs and superstitions that they pass do
 
 - Two divine forces watch over the Barovian people: the Morninglord and Mother Night.  
 - Before the curse of Strahd befell the land, the Morninglord watched over the Barovian people from sunrise until sundown. Now, the sun has not shone unobscured for centuries, and the Morninglord no longer answers their prayers.  
-- The presence of Mother Night is felt most strongly between dusk and dawn, although nighttime prayers to her go unanswered. It is widely believed that she has forsaken the Barovian people and sent the devil Strahd to punish them for their ancestors' offenses.  
+- The presence of Mother Night is felt most strongly between dusk and dawn, although nighttime prayers to her go uswered. It is widely believed that she has forsaken the Barovian people and sent the devil Strahd to punish them for their ancestors' offenses.  
 - Spirits drift along the Old Svalich Road toward Castle Ravenloft in the dead of night. These phantoms are all that remain of Strahd's enemies, and this damnable fate awaits anyone who opposes him.  
 - The Vistani serve the devil Strahd. They alone are allowed to leave Barovia.  
 - Never harm a raven, lest ill fortune befall you!  
@@ -311,20 +309,17 @@ If an encounter occurs, roll on the daytime or the nighttime encounter table, de
 | 17 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/druid-xmm|druid]] with `2d6` [[twig-blight-xmm|twig blights]] |
 | 18 | `2d4` [[needle-blight-xmm|needle blights]] |
 | 19 | `d6` [[scarecrow-xmm|scarecrows]] |
-| 20 | 1 [[revenant-xmm|revenant]] |
+| 20 | 1 [[revet-xmm|revet]] |
 ^daytime-random-encounters-in-barovia
 
 **Nighttime Random Encounters in Barovia**
 
-| d12 + d8 | Encounter |
-|----------|-----------|
 | 2 | 1 [[ghost-xmm|ghost]] |
 | 3 | Hunting trap |
 | 4 | Grave |
 | 5 | Trinket |
 | 6 | Corpse |
 | 7 | Hidden bundle |
-| 8 | Skeletal rider |
 | 9 | `d8` [[swarm-of-bats-xmm|swarm of bats]] |
 | 10 | `d6` [[dire-wolf-xmm|dire wolves]] |
 | 11 | `3d6` [[wolf-xmm|wolves]] |
@@ -336,7 +331,6 @@ If an encounter occurs, roll on the daytime or the nighttime encounter table, de
 | 17 | `d6` [[scarecrow-xmm|scarecrows]] |
 | 18 | `d8` [[strahd-zombie-cos|Strahd zombies]] (see appendix D) |
 | 19 | 1 [[will-o-wisp-xmm|will-o'-wisp]] |
-| 20 | 1 [[revenant-xmm|revenant]] |
 ^nighttime-random-encounters-in-barovia
 
 Use the descriptions that follow to help run each random encounter. The table entries are presented in alphabetical order.
@@ -344,7 +338,6 @@ Use the descriptions that follow to help run each random encounter. The table en
 ### Barovian Commoners
 
 > [!readaloud] 
-> 
 > The sound of snapping twigs draws your attention to several dark shapes in the fog. They carry torches and pitchforks.
 ^0bf
 
@@ -356,8 +349,6 @@ If the characters are moving quietly and not carrying light sources, they can tr
 
 If at least one character has a passive Wisdom ([[skills#Perception|Perception]]) score of 16 or higher, read:
 
-> [!readaloud] 
-> 
 > You see a dark figure crouched low and perfectly still, aiming a crossbow in your direction.
 ^0c1
 
@@ -366,9 +357,7 @@ If more than one scout is present, the others are spread out over a 100-foot-squ
 These [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|scouts]] are Barovian hunters or trappers searching for a missing villager or townsperson. Once they realize the characters aren't out to kill them, they lower their weapons and request help in finding their missing person. If the characters decline, the scouts point them in the direction of the nearest settlement and depart without so much as a farewell. They wield light crossbows (+4 to hit, range 80/320 ft.) instead of longbows, dealing 6 (`1d8 + 2`) piercing damage on a hit.
 
 > [!note] Strahd's Spies
-> 
 > As the undisputed master of Barovia, Strahd has many spies, from swarms of bats to wandering Vistani, who report to him at dawn and dusk each day. These agents constantly patrol the land of Barovia and report everything they see to him.
-> 
 > Every day and night that the characters remain in Barovia, one or more of the vampire's spies check on them and attempt to return to Strahd with a report. When a spy appears, characters who have a passive Wisdom ([[skills#Perception|Perception]]) score equal to or greater than the spy's Dexterity ([[skills#Stealth|Stealth]]) check notice it. A spy does not constitute an encounter if the characters are unaware of its presence. If they do notice it, the spy's goal is usually escape, not combat. A secondary goal for a spy might be to acquire some physical object—a possession, an article of clothing, or even some part of a character's body such as a lock of hair—that Strahd can use to improve the efficacy of his [[scrying-xphb|scrying]] spell. If one of Strahd's spies is confronted by the party, the spy attempts to grab some accessible item from a character before fleeing. If Strahd acquires such an item, he uses his [[scrying-xphb|scrying]] spell to learn as much as he can about the party before planning his next attack, and to verify what his spies have already told him.
 ^strahds-spies
 
@@ -378,8 +367,6 @@ These wild mountain folk are covered head to toe in thick gray mud, which makes 
 
 If someone spots the berserker, read:
 
-> [!readaloud] 
-> 
 > You startle a wild-looking figure caked in gray mud and clutching a crude stone axe. Whether it's a man or a woman, you can't tell.
 ^0c4
 
@@ -389,15 +376,11 @@ The berserkers shun civilized folk. They try to remain hidden and withdraw if th
 
 This encounter occurs only if the characters are traveling; otherwise, treat the result as no encounter.
 
-> [!readaloud] 
-> 
 > You find a corpse.
 ^0c6
 
 Roll a `d6` to determine the nature of the corpse:
 
-> [!note] 
-> 
 > - **1–2.** The corpse belonged to a wolf killed by spears and crossbow bolts.  
 > - **3–5.** The corpse belongs to a Barovian man, woman, or child who was clearly torn to pieces by dire wolves. If the party is accompanied by Barovian scouts (see above), the scouts recognize the corpse as the person they were searching for.  
 > - **6.** The corpse looks like one of the characters (determined randomly) but has been stripped of armor, weapons, and valuables. If moved, its flesh melts away until only the skeleton remains.  
@@ -405,17 +388,13 @@ Roll a `d6` to determine the nature of the corpse:
 
 ### Dire Wolves
 
-> [!readaloud] 
-> 
 > A snarling wolf the size of a grizzly bear steps out of the fog.
 ^0c9
 
-The area is lightly obscured by fog. If more than one dire wolf is present, the others aren't far behind and can be seen as dark shadows in the fog. The [[dire-wolf-xmm|dire wolves]] of Barovia are cruel, overgrown wolves and Strahd's loyal servants. They can't be [[conditions#Charmed|charmed]] or [[conditions#Frightened|frightened]].
+The area is lightly obscured by fog. If more than one dire wolf is present, the others aren't far behind and can be seen as dark shadows in the fog. The [[dire-wolf-xmm|dire wolves]] of Barovia are cruel, overgrown wolves and Strahd's loyal servants. They can't be [[conditions#Charmed|charmed]] or [[conditions#frightened|frightened]].
 
 ### Druid and Twig Blights
 
-> [!readaloud] 
-> 
 > A gaunt figure with wild hair and bare feet bounds toward you on all fours, wearing a tattered gown of stitched animal skins. You can't tell whether it's a man or a woman. It stops, sniffs the air, and laughs like a lunatic. The ground nearby is crawling with tiny twig monsters.
 ^0cb
 
@@ -423,10 +402,6 @@ The Barovian wilderness is home to [[/03_Mechanics/CLI/bestiary/humanoid/druid-x
 
 ### False Trail
 
-This encounter occurs only if the characters are traveling; otherwise, treat the result as no encounter.
-
-> [!readaloud] 
-> 
 > You discover a foot trail that cuts through the wilderness.
 ^0cd
 
@@ -434,8 +409,6 @@ Evil druids left this trail. Following it in either direction leads to a spiked 
 
 ### Ghost
 
-> [!readaloud] 
-> 
 > A baleful apparition appears before you, its hollow eyes dark with anger.
 ^0cf
 
@@ -443,10 +416,6 @@ Many ghosts haunt this land. This particular ghost is all that remains of a pers
 
 ### Grave
 
-This encounter occurs only if the characters are traveling; otherwise, treat the result as no encounter.
-
-> [!readaloud] 
-> 
 > You stumble upon an old grave.
 ^0d1
 
@@ -456,12 +425,8 @@ If the grave isn't intact, it has been violated. The characters find a shallow, 
 
 ### Hidden Bundle
 
-This encounter occurs only if the characters are traveling; otherwise, treat the result as no encounter.
-
 The characters find a leather-wrapped bundle hidden in the underbrush, stuffed inside a hollow log, or nestled in the boughs of a tree. If they open the bundle, read:
 
-> [!readaloud] 
-> 
 > The bundle contains one set of common clothes sized for a human adult.
 ^0d3
 
@@ -469,12 +434,8 @@ The [[common-clothes|clothes]] have a drab Barovian style to them. They belong t
 
 ### Hunting Trap
 
-This encounter occurs only if the characters are traveling; otherwise, treat the result as no encounter.
-
 Have each of the characters in the front rank of the party's marching order make a DC 15 Wisdom ([[skills#Survival|Survival]]) check. If one or more of them succeeds, read:
 
-> [!readaloud] 
-> 
 > You spot a wolf trap, its steel jaws caked with rust. Someone has carefully hidden the trap under a thin layer of pine needles and detritus.
 ^0d5
 
@@ -482,34 +443,28 @@ Barovian hunters and trappers set these traps hoping to thin out the wolf popula
 
 ### Needle Blights
 
-> [!readaloud] 
-> 
 > Hunched figures lurch through the mist, their gaunt bodies covered in needles.
 ^0d7
 
 The woods crawl with [[needle-blight-xmm|needle blights]] that serve the evil druids of Barovia. If the characters are moving quietly and not carrying light sources, they can try to hide from these blights.
 
-### Revenant
+### Revet
 
-> [!readaloud] 
-> 
 > A figure walks alone with the stride and bearing of one who knows no fear. Clad in rusty armor, it clutches a gleaming longsword in its pale hand and looks ready for a fight.
 ^0d9
 
-From a distance, the [[revenant-xmm|revenant]] looks like a zombie and might be mistaken for such. A character within 30 feet of the revenant who succeeds on a DC 10 Wisdom ([[skills#Insight|Insight]]) check can see the intelligence and hate in its sunken eyes. The revenant is clad in tattered chain mail that affords the same protection as leather armor.
+From a distance, the [[revet-xmm|revet]] looks like a zombie and might be mistaken for such. A character within 30 feet of the revet who succeeds on a DC 10 Wisdom ([[skills#Insight|Insight]]) check can see the intelligence and hate in its sunken eyes. The revet is clad in tattered chain mail that affords the same protection as leather armor.
 
-The revenant was a [[knight-of-the-order-cos|knight of the Order]] of the Silver Dragon, which was annihilated defending the valley against Strahd's armies more than four centuries ago. The revenant no longer remembers its name and wanders the land in search of Strahd's wolves and other minions, slaying them on sight. If the characters attack it, the revenant assumes they are in league with Strahd and fights them until destroyed.
+The revet was a [[knight-of-the-order-cos|knight of the Order]] of the Silver Dragon, which was annihilated defending the valley against Strahd's armies more than four centuries ago. The revet no longer remembers its name and wanders the land in search of Strahd's wolves and other minions, slaying them on sight. If the characters attack it, the revet assumes they are in league with Strahd and fights them until destroyed.
 
-As an action, the revenant can attack twice with its longsword, wielding the weapon with both hands and dealing 15 (`2d10 + 4`) slashing damage on each hit.
+As an action, the revet can attack twice with its longsword, wielding the weapon with both hands and dealing 15 (`2d10 + 4`) slashing damage on each hit.
 
-If the characters present themselves as enemies of Strahd, the revenant urges them to travel to Argynvostholt (chapter 7) and convince [[/03_Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos|Vladimir Horngaard]], the leader of the Order of the Silver Dragon, to help them. The revenant would like nothing more than to kill Strahd, but it will not venture to Castle Ravenloft unless it receives orders to do so from Vladimir. If the characters ask the revenant to lead them to Horngaard in Argynvostholt, it does so while avoiding contact with Barovian settlements.
+If the characters present themselves as enemies of Strahd, the revet urges them to travel to Argynvostholt (chapter 7) and convince [[/03_Mechanics/CLI/bestiary/npc/vladimir-horngaard-cos|Vladimir Horngaard]], the leader of the Order of the Silver Dragon, to help them. The revet would like nothing more than to kill Strahd, but it will not venture to Castle Ravenloft unless it receives orders to do so from Vladimir. If the characters ask the revet to lead them to Horngaard in Argynvostholt, it does so while avoiding contact with Barovian settlements.
 
 ### Scarecrows
 
 If at least one character has a passive Wisdom ([[skills#Perception|Perception]]) score of 11 or higher, read:
 
-> [!readaloud] 
-> 
 > A scarecrow lurches into view. Its sackcloth eyes and rictus are ripe with malevolence, and its gut is stuffed with dead ravens. It has long, rusted knives for claws.
 ^0db
 
@@ -519,8 +474,6 @@ If more than one [[scarecrow-xmm|scarecrow]] is present, the others are close by
 
 ### Skeletal Rider
 
-> [!readaloud] 
-> 
 > Through the mist comes a skeletal warhorse and rider, both clad in ruined chainmail. The skeletal rider holds up a rusted lantern that sheds no light.
 ^0dd
 
@@ -530,8 +483,6 @@ If both the rider and its mount are destroyed, this encounter can't occur again.
 
 ### Strahd Zombies
 
-> [!readaloud] 
-> 
 > Not even the cloying fog can hide the stench of death that descends upon you. Something evil approaches, its footsteps betrayed by snapping twigs.
 ^0df
 
@@ -539,8 +490,6 @@ If the characters are moving quietly and not carrying light sources, they can tr
 
 ### Swarms of Bats
 
-> [!readaloud] 
-> 
 > The stillness of the night is shattered by the shriek of bats and the flapping of tiny black wings.
 ^0e1
 
@@ -548,15 +497,11 @@ These [[swarm-of-bats-xmm|bats]] are the servants of Strahd. They attack the cha
 
 ### Swarms of Ravens
 
-> [!readaloud] 
-> 
 > Your presence in this dreary land has not gone unnoticed. A raven follows you for several minutes while keeping a respectful distance.
 ^0e3
 
 The raven doesn't caw or try to communicate with the characters. If they leave it alone, read:
 
-> [!readaloud] 
-> 
 > More ravens begin to take an interest in you. Before long, their numbers swell, and soon hundreds of them are watching you.
 ^0e4
 
@@ -564,8 +509,6 @@ The ravens fly away if attacked. If they are left alone, they watch over the par
 
 ### Trinket
 
-> [!readaloud] 
-> 
 > You find something on the ground.
 ^0e6
 
@@ -573,8 +516,6 @@ A random character finds a lost trinket. Roll on the [[trinket-cos|Trinkets tabl
 
 ### Vistani Bandits
 
-> [!readaloud] 
-> 
 > You catch a whiff of pipe smoke in the cold air and hear laughter through the fog.
 ^0e8
 
@@ -590,8 +531,6 @@ This [[/03_Mechanics/CLI/bestiary/humanoid/wereraven-vrgr|wereraven]] in raven f
 
 If one or more characters spot the creature, read:
 
-> [!readaloud] 
-> 
 > Through the mist, you see a black bird circling overhead. When it feels your eyes upon it, the raven flies away, but it's back before long, keeping its distance.
 ^0eb
 
@@ -603,15 +542,11 @@ If the party has a second random encounter with a wereraven, this one presents i
 
 If the werewolves are in human form, read:
 
-> [!readaloud] 
-> 
 > A deep voice calls out, "Who goes there?" Through the chill mist you see a large man in drab clothing wearing a tattered gray cloak. He has shaggy, black hair and thick muttonchops. He leans heavily on a spear and has a small bundle of animal pelts slung over his shoulder.
 ^0ed
 
 If the werewolves are in wolf form, read:
 
-> [!readaloud] 
-> 
 > You hear the howl of a wolf some distance away.
 ^0ee
 
@@ -633,15 +568,11 @@ The werewolves' lair is a cave complex that overlooks Lake Baratok (area Z). If 
 
 This random encounter occurs only once. If it comes up again, treat the result as no encounter.
 
-> [!readaloud] 
-> 
 > Several hundred yards away, through the fog, you see a flickering torchlight.
 ^0f2
 
 If the characters follow the flickering light, read:
 
-> [!readaloud] 
-> 
 > The torchlight flutters as it moves away from you, but you never lose sight of it. You make your way quickly yet cautiously through the fog until you come upon the shell of a ruined tower. The upper floors of the structure have collapsed, leaving heaps of rubble and shattered timber around the tower's base. The feeble light moves through an open doorway on the ground floor, then flickers and goes out.
 ^0f3
 
@@ -653,17 +584,13 @@ If the characters disturb the chest, `3d6` [[zombie-xmm|zombies]] erupt from the
 
 ### Wolves
 
-> [!readaloud] 
-> 
 > This land is home to many wolves, their howls at the moment too close for comfort.
 ^0f5
 
-Characters have a few minutes to steel themselves before these [[wolf-xmm|wolves]] attack. They heed the will of Strahd and can't be [[conditions#Charmed|charmed]] or [[conditions#Frightened|frightened]].
+Characters have a few minutes to steel themselves before these [[wolf-xmm|wolves]] attack. They heed the will of Strahd and can't be [[conditions#Charmed|charmed]] or [[conditions#frightened|frightened]].
 
 ### Zombies
 
-> [!readaloud] 
-> 
 > The ungodly stench of rotting flesh hangs in the air. Up ahead, the walking, moaning corpses of dead men and women lumber about.
 ^0f7
 
@@ -679,8 +606,6 @@ The following areas correspond to labels on the map of Barovia below and on the 
 
 ### A. Old Svalich Road
 
-> [!readaloud] 
-> 
 > Black pools of water stand like dark mirrors in and around the muddy roadway. Giant trees loom on both sides of the road, their branches clawing at the mist.
 ^0fa
 
@@ -690,8 +615,6 @@ If the characters are walking along the road, they arrive at area B after 5 hour
 
 Two sets of these gates exist: one west of the village of Barovia and one east of the village.
 
-> [!readaloud] 
-> 
 > The fog spills out of the forest to swallow up the road behind you. Ahead, jutting from the impenetrable woods on both sides of the road, are high stone buttresses looming gray in the fog. Huge iron gates hang on the stonework. Dew clings with cold tenacity to the rusted bars. Two headless statues of armed guardians flank the gate, their heads now lying among the weeds at their feet. They greet you only with silence.
 ^0fc
 
@@ -704,22 +627,15 @@ The eastern gates don't open for people trying to leave Strahd's domain unless t
 If Strahd is defeated, the gates of Barovia swing open, and the road east becomes clear of fog.
 
 > [!note] The Lands of Barovia: Common Features
-> 
 > Unless the text says otherwise, the following rules apply to doors, secret doors, locks, and webs in these lands.
-> 
 > **Doors.** A wooden door can be forced open with a successful DC 10 Strength check, or DC 15 if the door is barred or reinforced in some other manner. Increase the DC by 5 if the door is made of stone, or by 10 if it is made of iron. Decrease the DC by 5 if the door is made of glass or amber, or if the door is weakened in some manner (such as by rot or corrosion).
-> 
 > **Secret Doors.** If there are obvious clues to a secret door's presence, such as scratch marks on a nearby wall or footprints leading to it, a character with a passive Wisdom ([[skills#Perception|Perception]]) score of 15 or higher notices the secret door. Otherwise, finding a secret door requires a search of the area and a successful DC 15 Wisdom ([[skills#Perception|Perception]]) check.
-> 
 > **Locks.** A creature proficient with thieves' tools can use them to pick a typical lock with a successful DC 15 Dexterity check. A typical padlock can be broken by smashing it with a bludgeoning or slashing weapon and succeeding on a DC 20 Strength check.
-> 
 > **Webs.** Characters can pass through ordinary webs, including thick cobwebs, without fear of being [[conditions#Restrained|restrained]] or slowed down. A character can clear away the cobwebs from a 10-foot square as an action. Webs woven by giant spiders are a different matter; see ""Dungeon Hazards"" in chapter 5 in the "Dungeon Master's Guide" for rules on giant spider webs.
 ^the-lands-of-barovia-common-features
 
 ### C. Svalich Woods
 
-> [!readaloud] 
-> 
 > Towering trees, whose tops are lost in heavy gray mist, block out all but a death-gray light. The tree trunks are unnaturally close to one another, and the woods have the silence of a forgotten grave, yet exude the feeling of an unvoiced scream.
 ^103
 
@@ -727,15 +643,11 @@ If the characters are traveling in Vistani wagons, they can continue on to the v
 
 If the characters are following the road on foot, the party member who has the highest passive Wisdom ([[skills#Perception|Perception]]) score notices something:
 
-> [!readaloud] 
-> 
 > You catch the scent of death on the air.
 ^104
 
 The character can follow the stench to its source:
 
-> [!readaloud] 
-> 
 > The foul scent leads you to a human corpse half-buried in the underbrush about fifteen feet from the road. The young man appears to be a commoner. His muddy clothes are torn and raked with claw marks. Crows have been at the body, which is surrounded by the paw prints. The man has obviously been dead for several days. He holds a crumpled envelope in one hand.
 ^105
 
@@ -751,8 +663,6 @@ If the characters linger in the woods, they hear a lone wolf howl far off in the
 
 When the characters come within sight of this river for the first time, read:
 
-> [!readaloud] 
-> 
 > This river flows as clear as a blue winter sky through the valley.
 ^107
 
@@ -766,8 +676,6 @@ Chapter 3 describes the village of Barovia and the gloomy folk who reside there.
 
 Check for a random encounter whenever the characters reach area F, unless they are accompanied by Vistani.
 
-> [!readaloud] 
-> 
 > An old wooden gallows creaks in a chill wind that blows down from the high ground to the west. A frayed length of rope dances from its beam. The well-worn road splits here, and a signpost opposite the gallows points off in three directions: Barovia Village to the east, Tser Pool to the northwest, and Ravenloft/Vallaki to the southwest.The northwest fork slants down and disappears into the trees, while the southwest fork clings to an upward slope. Across from the gallows, a low wall, crumbling in places, partially encloses a small plot of graves shrouded in fog.
 ^10a
 
@@ -781,8 +689,6 @@ Eleven graves are here with blank gravestones. The forgotten people buried here 
 
 As the characters leave the area, read:
 
-> [!readaloud] 
-> 
 > You hear a creaking noise behind you, coming from the gallows. Where there was nothing before now hangs a lifeless, gray body. The breeze turns the hanged figure slowly, so that it can fix its dead eyes upon you.
 ^10c
 
@@ -794,12 +700,8 @@ If your card reading reveals that a treasure is here, it is buried in one of the
 
 ### G. Tser Pool Encampment
 
-> [!readaloud] 
-> 
 > The road gradually disappears and is replaced by a twisted, muddy path through the trees. Deep ruts in the earth are evidence of the comings and goings of wagons.
-> 
 > The canopy of mist and branches suddenly gives way to black clouds boiling far above. There is a clearing here, next to a river that widens to form a small lake several hundred feet across. Five colorful round tents, each ten feet in diameter, are pitched outside a ring of four barrel-topped wagons. A much larger tent stands near the shore of the lake, its sagging form lit from within. Near this tent, eight unbridled horses drink from the river.
-> 
 > The mournful strains of an accordion clash with the singing of several brightly clad figures around bonfire. A footpath continues beyond this encampment, meandering north between the river and the forest's edge.
 ^10f
 
@@ -813,7 +715,6 @@ Although the Vistani in this camp are in league with Strahd, they attack only if
 
 If the characters linger at the camp, continue with "A Vistana's Tale" below. If they seem in a hurry to leave, one of the Vistani tells them, "It was fated that you would visit our humble camp. [[/03_Mechanics/CLI/bestiary/npc/madam-eva-cos|Madam Eva]] foretold your coming. She awaits you." The Vistana then points to the largest tent. If the characters head that way, continue with "[[/03_Mechanics/CLI/bestiary/npc/madam-eva-cos|Madam Eva]]'s Tent."
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/010-cos02-06.webp#gallery|Map 2.2: Tser Pool Encampment]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/011-cos202.webp#gallery|Player Version]]
 
@@ -821,10 +722,7 @@ If the characters linger at the camp, continue with "A Vistana's Tale" below. If
 
 If the characters linger by the fire, one of the Vistani recounts the following tale:
 
-> [!readaloud] 
-> 
 > A mighty wizard came to this land over a year ago. I remember him like it was yesterday. He stood exactly where you're standing. A very charismatic man, he was. He thought he could rally the people of Barovia against the devil Strahd. He stirred them with thoughts of revolt and bore them to the castle en masse. "When the vampire appeared, the wizard's peasant army fled in terror. A few stood their ground and were never seen again.
-> 
 > "The wizard and the vampire cast spells at each other. Their battle flew from the courtyards of Ravenloft to a precipice overlooking the falls. I saw the battle with my own eyes. Thunder shook the mountainside, and great rocks tumbled down upon the wizard, yet by his magic he survived. Lightning from the heavens struck the wizard, and again he stood his ground. But when the devil Strahd fell upon him, the wizard's magic couldn't save him. I saw him thrown a thousand feet to his death. I climbed down to the river to search for the wizard's body, to see if, you know, he had anything of value, but the River Ivlis had already spirited him away."
 ^111
 
@@ -834,8 +732,6 @@ The Vistana storyteller doesn't remember the wizard's name, but recalls that it 
 
 If the characters decide to see [[/03_Mechanics/CLI/bestiary/npc/madam-eva-cos|Madam Eva]], read:
 
-> [!readaloud] 
-> 
 > Magic flames cast a reddish glow over the interior of this tent, revealing a low table covered in a black velvet cloth. Glints of light seem to flash from a crystal ball on the table as a hunched figure peers into its depths. As the crone speaks, her voice crackles like dry weeds. "At last you have arrived!" Cackling laughter bursts like mad lightning from her withered lips.
 ^113
 
@@ -866,15 +762,11 @@ If your card reading reveals that a treasure is here, it is hidden in one of the
 
 If the characters reach area H by following the footpath from the Vistani encampment (area G), read:
 
-> [!readaloud] 
-> 
 > You follow the river to the base of a canyon, at the far end of which a great waterfall spills into a pool, billowing forth clouds of cold mist. A great stone bridge spans the canyon nearly one thousand feet overhead.
 ^117
 
 If the characters are on the high road instead, read:
 
-> [!readaloud] 
-> 
 > You follow the dirt road as it clings to the side of a mountain and ends before an arching bridge of mold-encrusted stone that spans a natural chasm. Gargoyles cloaked in black moss perch on the corners of the bridge, their frowns weatherworn. On the mountainous side of the bridge, a waterfall spills into a misty pool nearly a thousand feet below. The pool feeds a river that meanders into the fog-shrouded pines that blanket the valley.
 ^118
 
@@ -886,15 +778,11 @@ The gargoyles on the bridge are harmless sculptures.
 
 ### I. Black Carriage
 
-> [!readaloud] 
-> 
 > Even here, in the mountains, the forest and the fog are inescapable. Ahead, the dirt road splits in two, widening toward the east. There you see patches of cobblestone, suggesting that the eastern branch was once an important thoroughfare.
 ^11a
 
 If Strahd has invited the characters to Castle Ravenloft or otherwise wants to steer them in his direction, add:
 
-> [!readaloud] 
-> 
 > Parked at the fork in the road, pointed east, is a large black carriage drawn by two black horses. The horses snort puffs of steamy breath into the chill mountain air. The side door of the carriage swings open silently.
 ^11b
 
@@ -906,10 +794,7 @@ Characters who don't want to travel east in the carriage can follow the road nor
 
 The following text assumes that the characters arrive here in the carriage from area I. Modify the text as needed if the characters arrive by another means.
 
-> [!readaloud] 
-> 
 > After winding through the forest and craggy mountain peaks, the road takes a sudden turn to the east, and the startling, awesome presence of Castle Ravenloft towers before you. The carriage comes to a dead stop before twin turrets of stone, broken from years of exposure. Beyond these guard towers is the precipice of a fifty-foot-wide, fog-filled chasm that disappears into unknown depths.
-> 
 > A lowered drawbridge of old, shored-up wooden beams stretches across the chasm, between you and the archway to the courtyard. The chains of the drawbridge creak in the wind, their rust-eaten iron straining under the weight. From atop the high walls, stone gargoyles stare at you out of their hollow eye sockets and grin hideously. A rotting wooden portcullis, green with growth, hangs above the entry tunnel. Beyond this location, the main doors of Ravenloft stand open. A rich, warm light spills from within, flooding the courtyard. Torches flutter sadly in sconces on both sides of the open doors.
 ^11e
 
@@ -925,19 +810,15 @@ Chapter 4 explores Castle Ravenloft, lair of the vampire [[strahd-von-zarovich-c
 
 ### L. Lake Zarovich
 
-> [!readaloud] 
-> 
 > At the foot of a mountain, nestled in the misty forest, is a large lake. The water is perfectly still and dark, reflecting the black clouds overhead like a monstrous mirror.
 ^122
 
 If the characters arrive along the shore north of Vallaki in the daytime, add:
 
-> [!readaloud] 
-> 
 > Pulled up along the south shore are three small rowboats. A fourth boat can be seen in the middle of the lake, with a lone figure sitting in it, fishing pole in hand.
 ^123
 
-Each rowboat can safely hold five people. The person fishing on the lake is [[/03_Mechanics/CLI/bestiary/npc/bluto-krogarov-cos|Bluto Krogarov]] (NE male human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]), a resident of Vallaki. He is in a trance and doesn't respond to anything or anyone unless attacked. His boat is 400 feet from the nearest shore. Tied up in the boat is a seven-year-old Vistana named [[/03_Mechanics/CLI/bestiary/npc/arabelle-cos|Arabelle]] (LN female human [[/03_Mechanics/CLI/bestiary/humanoid/vistana-commoner-cos|commoner]] with 2 hit points and no effective attacks). She is bound with hempen rope, wrapped in a burlap sack, and lying [[conditions#Prone|prone]] so that she can't be seen or heard from the shore.
+Each rowboat can safely hold five people. The person fishing on the lake is [[/03_Mechanics/CLI/bestiary/npc/bluto-krogarov-cos|Bluto Krogarov]] (NE male human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]), a resident of Vallaki. He is in a trance and doesn't respond to anything or anyone unless attacked. His boat is 400 feet from the nearest shore. Tied up in the boat is a seven-year-old Vistana named [[/03_Mechanics/CLI/bestiary/npc/arabelle-cos|Arabelle]] (LN female human [[/03_Mechanics/CLI/bestiary/humanoid/vistana-commoner-cos|commoner]] with 2 hit points and no effective attacks). She is bound with hempen rope, wrapped in a burlap sack, and lying [[conditions#prone|prone]] so that she can't be seen or heard from the shore.
 
 #### Roleplaying Bluto
 
@@ -959,10 +840,7 @@ A descendant of [[/03_Mechanics/CLI/bestiary/npc/madam-eva-cos|Madam Eva]] with 
 
 This encounter can occur anywhere along the base of Mount Baratok.
 
-> [!readaloud] 
-> 
 > North of the mountain lake, the trees begin their steady climb up the slopes of Mount Baratok, its monolithic presence oppressive at this distance. The ground here is rocky, uneven, and tiring to navigate. Even the wolves avoid this neck of the woods. Soon, you climb above the blanket of fog that engulfs the valley. Dark thunderclouds roll overhead.
-> 
 > You see an elk standing on a rocky spur about sixty feet away. Suddenly, it assumes the form of a man in tattered black robes. His hair and beard are long, black, and streaked with gray, and his eyes crackle with eldritch power.
 ^127
 
@@ -976,26 +854,15 @@ Under normal circumstances, a [[greater-restoration-xphb|greater restoration]] s
 
 The Mad Mage has a different spell list from that of the [[/03_Mechanics/CLI/bestiary/humanoid/archmage-xmm|archmage]] in the "Monster Manual", and he has already used one 1st-level spell slot to cast [[mage-armor-xphb|mage armor]] on himself, one 4th-level spell slot to cast [[polymorph-xphb|polymorph]] on himself, one 7th-level spell slot to cast [[mordenkainens-magnificent-mansion-xphb|Mordenkainen's magnificent mansion]] (see "The Mad Mage's Mansion"), and one 8th-level spell slot to cast [[mind-blank-xphb|mind blank]] on himself.
 
-> [!note] 
-> 
 > Cantrips (at will): [[fire-bolt-xphb|fire bolt]], [[light-xphb|light]], [[mage-hand-xphb|mage hand]], [[prestidigitation-xphb|prestidigitation]], [[shocking-grasp-xphb|shocking grasp]]
-> 
 > 1st level (4 slots): [[detect-magic-xphb|detect magic]], [[mage-armor-xphb|mage armor]], [[magic-missile-xphb|magic missile]], [[shield-xphb|shield]]
-> 
 > 2nd level (3 slots): [[mirror-image-xphb|mirror image]], [[misty-step-xphb|misty step]], [[web-xphb|web]]
-> 
 > 3rd level (3 slots): [[counterspell-xphb|counterspell]], [[fly-xphb|fly]], [[lightning-bolt-xphb|lightning bolt]]
-> 
 > 4th level (3 slots): [[mordenkainens-faithful-hound-xphb|Mordenkainen's faithful hound]], [[polymorph-xphb|polymorph]], [[stoneskin-xphb|stoneskin]]
-> 
 > 5th level (3 slots): [[bigbys-hand-xphb|Bigby's hand]], [[cone-of-cold-xphb|cone of cold]], [[scrying-xphb|scrying]]
-> 
 > 6th level (1 slot): [[true-seeing-xphb|true seeing]]
-> 
 > 7th level (1 slot): [[mordenkainens-magnificent-mansion-xphb|Mordenkainen's magnificent mansion]]
-> 
 > 8th level (1 slot): [[mind-blank-xphb|mind blank]]
-> 
 > 9th level (1 slot): [[time-stop-xphb|time stop]]
 ^128
 
@@ -1027,8 +894,6 @@ Chapter 6 details Old Bonegrinder, a decrepit windmill occupied by hags.
 
 Always check for a random encounter when the characters reach area P in their travels.
 
-> [!readaloud] 
-> 
 > The road comes to an X intersection, with branches to the northwest, northeast, southwest, and southeast. The lower half of a snapped wooden signpost thrusts upward at an angle near the eastern elbow of the intersection. The top half of the sign, featuring arms pointing in four directions, lies in the weeds nearby.
 ^12e
 
@@ -1050,8 +915,6 @@ This stretch of the Old Svalich Road has multiple branches. One branch heads nor
 
 Standing at the intersection of the Old Svalich Road and the road to the winery is a signpost:
 
-> [!readaloud] 
-> 
 > You see a weatherworn signpost next to the road. The three arms of the sign point along the three branches of the road. The arm pointing north reads Krezk, and through the woods you can see an arching stone bridge spanning a river. The arm pointing east reads Vallaki, and the road slopes up gradually in that direction. The arm pointing southwest reads The Wizard of Wines. The road slopes gently downward in that direction.
 ^131
 
@@ -1095,19 +958,16 @@ Chapter 15 delves into the cave complex that is the main den of Barovia's werewo
 
 Legends speak of 04 chapter 2 the lands of barovia as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 04 chapter 2 the lands of barovia.
 
-## Adventure Hooks
-
-- A rumor ties 04 chapter 2 the lands of barovia to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 04 chapter 2 the lands of barovia to avert a public scandal.
-- A map overlay reveals a hidden approach to 04 chapter 2 the lands of barovia active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before the new moon
+- A prisoner has gone missing and evil awakens

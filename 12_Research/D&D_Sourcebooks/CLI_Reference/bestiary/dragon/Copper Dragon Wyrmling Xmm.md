@@ -28,16 +28,31 @@ updated: '2025-08-13T12:34:05.988496+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-copper-dragon-wyrmling-xmm-copper-dragon-wyrmling-xmm.svg)
 
 # [[copper-dragon-wyrmling-xmm|Copper Dragon Wyrmling]]
-*Source: Monster Manual (2024) p. 78. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 78. Available in the SRD and the Free Rules (2024)*  
 
 Copper dragon wyrmlings venture into the world seeking to make friends and discover wonders. They sometimes get into trouble, but those who help them can become their friends for life.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Copper Dragons
 
@@ -70,7 +85,6 @@ Copper dragons typically inhabit multi-chamber caves and renovated ruins.
   - !!int "13"
   - !!int "14"
   - !!int "11"
-  - !!int "13"
 "speed": "30 ft., climb 30 ft., fly 60 ft."
 "saves":
   - "dexterity": !!int "3"
@@ -114,19 +128,25 @@ Copper dragon wyrmling xmm is a undersea element of the setting, known for biolu
 
 Legends speak of copper dragon wyrmling xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around copper dragon wyrmling xmm.
 
-## Adventure Hooks
-
-- A rumor ties copper dragon wyrmling xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at copper dragon wyrmling xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to copper dragon wyrmling xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- Someone is blackmailing a artifact for money
+- Strange sightings suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -1,4 +1,5 @@
 ---
+
 title: Coral Throne Syndicate HQ
 type: Location
 tags:
@@ -27,11 +28,13 @@ difficulty: Levels 8-15
 related_entities:
 - '[[Coral Throne Syndicate|02 Worldbuilding/Groups/Coral Throne Syndicate]]'
 - '[[Coral Empress Scarletina]]'
-- '[[02_Worldbuilding/Places/The Crimson Reef|02 Worldbuilding/Places/The Crimson
+- '[[02_Worldbuilding/Places/The Crimson Reef|02 Worldbuilding/Places/The Crimson]]
   Reef]]'
 ruler: '[[Coral Empress Scarletina]]'
 updated: '2025-08-13T12:34:17.255195+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -39,9 +42,73 @@ world: Aquabyssos
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-coral-throne-syndicate-hq-coral-throne-syndicate-hq.svg]]
 
-
 # Coral Throne Syndicate HQ
 *The Crimson Fortress - Where Blood Coral Reigns Supreme*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
 
 ## Overview
 
@@ -50,10 +117,6 @@ The Coral Throne Syndicate Headquarters stands as one of the most formidable and
 Located in the depths of [[02_Worldbuilding/Places/The Crimson Reef|02 Worldbuilding/Places/The Crimson Reef]], the headquarters is simultaneously hidden in plain sight and openly defiant. From the outside, it appears to be a legitimate coral research facility and cultivation center, complete with scientific equipment, marine biologists, and official government permits. However, this facade conceals a sprawling criminal complex that extends deep into the reef's living structure, with secret passages, hidden chambers, and defensive systems that rival any military installation.
 
 The headquarters represents the perfect synthesis of natural beauty and criminal pragmatism. The syndicate has learned to work with the living coral rather than against it, creating a fortress that grows and adapts over time, healing from damage and expanding to meet operational needs. This symbiotic relationship between criminal organization and living reef has created something unprecedented in the criminal underworld - a truly living stronghold.
-
-## Physical Description & Architecture
-
-### Exterior Appearance
 
 #### The Legitimate Facade
 From approaching vessels, the headquarters presents itself as the **Crimson Heart Marine Research Institute**, a prestigious academic facility:
@@ -77,10 +140,6 @@ Beneath the scientific veneer lies the true nature of the complex:
 
 **Adaptive Architecture**: Passages and chambers that can reshape themselves based on defensive needs, operational requirements, or the Empress's whims.
 
-### Interior Layout & Levels
-
-#### Level 1: The Academic Cover (Surface to 50 feet depth)
-
 ##### Reception & Administration
 **The Welcome Chambers**: Elegantly appointed offices where legitimate researchers and government officials are received:
 - **Visitor Reception**: Coral-carved furniture with pearl inlays
@@ -101,8 +160,6 @@ Beneath the scientific veneer lies the true nature of the complex:
 - [[Dr. Reef Brightwater]] - Unknowing researcher whose work aids smuggling operations
 - [[Lab Supervisor Kelp Naturalist]] - Secret syndicate member managing dual-purpose research
 
-#### Level 2: The Transition Zone (50-100 feet depth)
-
 ##### Security Checkpoints
 **The Verification Chambers**: Where visitors are screened for true purposes:
 - **Identity Verification**: Magical and technological systems to confirm visitor authorization
@@ -112,17 +169,15 @@ Beneath the scientific veneer lies the true nature of the complex:
 
 ##### Administrative Nexus
 **The Coordination Center**: Hub for managing the syndicate's legitimate front operations:
-- **Financial Offices**: Managing both legitimate research funding and money laundering
+- **Ficial Offices**: Managing both legitimate research funding and money laundering
 - **Communication Center**: Encrypted messaging systems disguised as academic networks
 - **Legal Department**: Lawyers maintaining the facility's official status
 - **Supply Coordination**: Managing dual-purpose equipment and materials
 
 **Key Figures**:
-- [[Administrator Ledger Goldcount]] - Financial wizard managing complex money flows
+- [[Administrator Ledger Goldcount]] - Ficial wizard managing complex money flows
 - [[Legal Counsel Slyph Wordweaver]] - Protects syndicate interests through legitimate channels
 - [[Supply Master Cargo Deephaul]] - Coordinates smuggling operations through legitimate shipping
-
-#### Level 3: The Criminal Operations Center (100-150 feet depth)
 
 ##### Command & Control
 **The Strategic Operations Room**: Where syndicate leadership plans and coordinates criminal activities:
@@ -143,8 +198,6 @@ Beneath the scientific veneer lies the true nature of the complex:
 - **Threat Assessment**: Analysis of government crackdowns, rival gangs, and market disruptions
 - **Future Planning**: Long-term strategies for syndicate growth and evolution
 
-#### Level 4: The Living Quarters (150-200 feet depth)
-
 ##### Officers' Residences
 **Luxury Accommodations**: Where syndicate leadership lives in comfort and security:
 - **Executive Suites**: Spacious quarters with coral-carved furniture and pearl decorations
@@ -153,7 +206,7 @@ Beneath the scientific veneer lies the true nature of the complex:
 - **Personal Security**: Each suite includes magical wards and emergency escape routes
 
 **Notable Residents**:
-- [[Lieutenant Bloodcoral Vex Tidebreaker]] - Enforcement specialist with trophy collection
+- [[Lieutet Bloodcoral Vex Tidebreaker]] - Enforcement specialist with trophy collection
 - [[Navigator Slyph Currentwhisper]] - Maritime operations coordinator with maps room
 - [[Harvester Keth Reefrender]] - Coral cultivation expert with personal greenhouse
 
@@ -161,10 +214,8 @@ Beneath the scientific veneer lies the true nature of the complex:
 **Functional Housing**: Accommodations for essential syndicate personnel:
 - **Security Barracks**: Guards, enforcers, and specialized combat personnel
 - **Technical Staff Housing**: Engineers, artificers, and magical specialists
-- **Service Personnel Quarters**: Cooks, cleaners, and maintenance workers
+- **Service Personnel Quarters**: Cooks, cleaners, and maintece workers
 - **Guest Facilities**: Temporary housing for visiting criminals and business partners
-
-#### Level 5: The Coral Throne Chamber (200+ feet depth)
 
 ##### The Empress's Domain
 **The Living Throne Room**: The magnificent heart of syndicate power:
@@ -188,14 +239,12 @@ Beneath the scientific veneer lies the true nature of the complex:
 - **Alchemical Laboratory**: Personal workspace for coral experimentation and magical research
 - **Treasure Vault**: Personal collection of the most valuable syndicate acquisitions
 
-#### Level 6: The Deep Vaults (250+ feet depth)
-
 ##### The Syndicate Treasury
 **The Crimson Vault**: Where the syndicate's vast wealth is stored:
 - **Currency Storage**: Massive quantities of traditional money in secure containers
 - **Artifact Collection**: Magical items acquired through theft, trade, and conquest
 - **Coral Specimens**: Rare and valuable coral varieties worth fortunes to collectors
-- **Investment Records**: Documentation of syndicate assets and financial holdings
+- **Investment Records**: Documentation of syndicate assets and ficial holdings
 
 **Security Measures**:
 - **Living Guardians**: Coral creatures that attack unauthorized intruders
@@ -214,8 +263,6 @@ Beneath the scientific veneer lies the true nature of the complex:
 - [[Master Cultivator Polyp Growe|02 Worldbuilding/Groups/Master Cultivator Polyp Growe]] - Expert in coral biology and selective breeding
 - [[Toxin Specialist Venom Reef]] - Develops coral-based poisons and paralytic agents
 - [[Architect Coral Builder]] - Designs living structures that grow themselves
-
-#### Level 7: The Prison Complex (300+ feet depth)
 
 ##### Detention Facilities
 **The Coral Cells**: Where the syndicate holds prisoners, hostages, and traitors:
@@ -242,10 +289,6 @@ Beneath the scientific veneer lies the true nature of the complex:
 - [[Pain-Artist Cruelty Refined]] - Expert in physical persuasion techniques
 - [[Memory Thief Recall Stealer]] - Specialized in magical memory extraction and manipulation
 
-## Security Systems & Defenses
-
-### Biological Defenses
-
 #### Living Coral Guardians
 The fortress employs various coral creatures as security:
 
@@ -268,8 +311,6 @@ The fortress employs various coral creatures as security:
 - **Adaptive Barriers**: Walls that can reshape themselves based on threat assessment
 - **Regenerative Repairs**: Structures that heal damage automatically over time
 
-### Magical Protections
-
 #### Enchanted Coral Networks
 **Spell-Infused Defenses**: The coral has been magically enhanced for security:
 - **Divination Wards**: Prevent magical scrying and location spells
@@ -280,11 +321,9 @@ The fortress employs various coral creatures as security:
 #### Active Magical Defenses
 **Offensive Enchantments**: Systems that actively attack intruders:
 - **Lightning Corals**: Generate electrical discharges when triggered
-- **Sonic Resonance**: Create destructive sound waves that can shatter equipment
+- **Sonic Resoce**: Create destructive sound waves that can shatter equipment
 - **Illusion Fields**: Create false passages and phantom threats to confuse intruders
 - **Temporal Traps**: Slow time around intruders to make them easy targets
-
-### Technological Security
 
 #### Surveillance Networks
 **Advanced Monitoring**: The syndicate employs cutting-edge detection technology:
@@ -300,10 +339,6 @@ The fortress employs various coral creatures as security:
 - **External Coordination**: Secure links to syndicate operations throughout [[Aquabyssos]]
 - **Information Sharing**: Real-time intelligence updates from informants and spies
 
-## Personnel & Inhabitants
-
-### Leadership Hierarchy
-
 #### Coral Empress Scarletina
 *The undisputed ruler of the syndicate and master of the fortress*
 - **Command Authority**: Absolute control over all syndicate operations
@@ -312,9 +347,9 @@ The fortress employs various coral creatures as security:
 - **Magical Power**: Formidable sorcerer specializing in coral-based magic
 
 #### The Inner Circle
-**Trusted Lieutenants**: Scarletina's most capable and loyal subordinates:
+**Trusted Lieutets**: Scarletina's most capable and loyal subordinates:
 
-**[[Lieutenant Bloodcoral Vex Tidebreaker]]**: Enforcement and intimidation specialist
+**[[Lieutet Bloodcoral Vex Tidebreaker]]**: Enforcement and intimidation specialist
 - **Responsibilities**: Discipline, debt collection, elimination of threats
 - **Reputation**: Known throughout criminal underworld for creative cruelty
 - **Resources**: Personal squad of elite enforcers, torture specialists
@@ -332,8 +367,6 @@ The fortress employs various coral creatures as security:
 - **Facilities**: Advanced laboratories, breeding chambers, experimental zones
 - **Ambition**: Dreams of creating coral-based weapons of mass destruction
 
-### Operational Staff
-
 #### Security Personnel
 **The Coral Guard**: Elite fighters sworn to protect the fortress:
 - **Coral Marines** (50+): Front-line security troops with coral-enhanced equipment
@@ -350,12 +383,10 @@ The fortress employs various coral creatures as security:
 
 #### Service Staff
 **Daily Operations**: Personnel who keep the fortress functioning:
-- **Maintenance Workers** (75+): Keep facilities clean, repaired, and operational
+- **Maintece Workers** (75+): Keep facilities clean, repaired, and operational
 - **Food Service** (40+): Provide meals for hundreds of residents and visitors
 - **Medical Staff** (20+): Treat injuries and provide healthcare for syndicate members
 - **Transportation Crew** (60+): Operate vehicles and manage logistics
-
-### Special Populations
 
 #### Prisoners & Hostages
 **Involuntary Residents**: Individuals held against their will:
@@ -370,10 +401,6 @@ The fortress employs various coral creatures as security:
 - **Captured Rivals** (50+): Members of defeated criminal organizations
 - **Voluntary Indenture** (75+): Individuals who chose servitude over death
 - **Family Obligations** (25+): Relatives paying for others' debts
-
-## Operations & Services
-
-### Criminal Activities
 
 #### Smuggling Operations
 **Maritime Traffic Control**: The syndicate manages illegal goods movement:
@@ -396,14 +423,12 @@ The fortress employs various coral creatures as security:
 - **Dispute Resolution**: Mediation services with heavy enforcement backing
 - **Market Access**: Permission to operate in syndicate-controlled areas
 
-#### Financial Crimes
-**Economic Manipulation**: Large-scale financial criminal activities:
+#### Ficial Crimes
+**Economic Manipulation**: Large-scale ficial criminal activities:
 - **Money Laundering**: Converting criminal profits into legitimate assets
 - **Market Manipulation**: Artificial price changes to benefit syndicate investments
 - **Loan Sharking**: High-interest lending with violent collection methods
 - **Fraud Operations**: Complex schemes to steal from individuals and organizations
-
-### Support Services
 
 #### Intelligence Gathering
 **Information Networks**: Comprehensive knowledge acquisition systems:
@@ -425,10 +450,6 @@ The fortress employs various coral creatures as security:
 - **Safe Houses**: Secure locations throughout syndicate territory
 - **Transportation Services**: Moving personnel and materials safely
 - **Communication Networks**: Maintaining secure contact between operations
-
-## Environmental Hazards & Challenges
-
-### Natural Dangers
 
 #### Pressure Variations
 **Depth-Related Risks**: The fortress spans multiple depth zones:
@@ -456,8 +477,6 @@ The fortress employs various coral creatures as security:
 - Antidotes available but expensive and closely guarded
 - Immunity develops over time with regular controlled exposure
 
-### Artificial Dangers
-
 #### Security System Hazards
 **Defensive Mechanisms**: The fortress actively threatens intruders:
 - **Crushing Walls**: Coral barriers that can compress passages
@@ -472,10 +491,6 @@ The fortress employs various coral creatures as security:
 - **Biological Contamination**: Diseased coral can spread infection
 - **Unpredictable Changes**: The fortress may reshape itself without warning
 
-## Adventure Hooks & Opportunities
-
-### Infiltration Missions (Levels 8-12)
-
 #### The Inside Job
 **Hook**: A syndicate member offers to help the party infiltrate in exchange for protection
 **Challenge**: Navigate the facility's defenses while maintaining cover
@@ -488,8 +503,6 @@ The fortress employs various coral creatures as security:
 **Opposition**: Advanced security systems and patrol schedules to avoid
 **Twist**: The coral is sentient and may negotiate for its own freedom
 
-### Investigation Scenarios (Levels 6-10)
-
 #### The Missing Persons Case
 **Background**: Several citizens have vanished, all last seen near legitimate research facilities
 **Investigation**: Trail leads to the fortress's cover operation
@@ -501,8 +514,6 @@ The fortress employs various coral creatures as security:
 **Research**: Tracking bribes and communications leads to the fortress
 **Revelation**: The syndicate has infiltrated multiple levels of government
 **Challenge**: Gather proof without alerting corrupt officials to investigation
-
-### Direct Assault (Levels 10-15)
 
 #### The Fortress War
 **Background**: Syndicate activities have escalated to threaten regional stability
@@ -517,8 +528,6 @@ The fortress employs various coral creatures as security:
 **Stakes**: Control of vast criminal empire and its resources
 **Outcome**: Victory could make party new crime lords or destroy organization entirely
 
-### Political Intrigue (Levels 8-14)
-
 #### The Alliance Proposal
 **Situation**: Government officials secretly negotiate with syndicate leadership
 **Role**: Party serves as intermediaries or witnesses to covert discussions
@@ -527,11 +536,9 @@ The fortress employs various coral creatures as security:
 
 #### The Succession Crisis
 **Event**: [[Coral Empress Scarletina]] disappears, creating power vacuum
-**Conflict**: Multiple lieutenants compete for control of syndicate
+**Conflict**: Multiple lieutets compete for control of syndicate
 **Opportunity**: Party could influence outcome or exploit chaos
 **Dangers**: Criminal war could spill over into civilian areas
-
-### Rescue Operations (Levels 5-12)
 
 #### The Prisoner Exchange
 **Hook**: Important ally captured and held in fortress prison complex
@@ -544,10 +551,6 @@ The fortress employs various coral creatures as security:
 **Challenge**: Free prisoners without triggering mass executions
 **Politics**: Some governments profit from indentured servant system
 **Solution**: Expose system publicly or destroy records of debts
-
-## Connected Elements & Relationships
-
-### Direct Connections
 
 #### The Coral Throne Syndicate
 **Organizational Relationship**: The fortress serves as headquarters for:
@@ -562,8 +565,6 @@ The fortress employs various coral creatures as security:
 - Resource extraction from surrounding biological environment
 - Defensive advantages from natural maze of coral structures
 - Environmental impact from criminal activities
-
-### Secondary Connections
 
 #### Government Entities
 **Political Relationships**: Various official organizations interact with fortress:
@@ -585,36 +586,6 @@ The fortress employs various coral creatures as security:
 - **Economic Systems**: Criminal activities impact local and regional economics
 - **Victim Families**: Personal connections to those harmed by syndicate operations
 - **Community Leaders**: Potential allies or enemies depending on syndicate policies
-
-## DM Guidance & Campaign Integration
-
-### Scaling for Different Levels
-
-#### Low Level (1-5): Peripheral Involvement
-- **Approach**: Party encounters syndicate operations without discovering headquarters
-- **Challenges**: Lower-level criminal activities and corrupt officials
-- **Goals**: Build reputation and gather intelligence about larger organization
-- **Restrictions**: Direct assault on fortress would be suicidal
-
-#### Mid Level (6-10): Investigation and Infiltration
-- **Opportunities**: Party has skills and resources to investigate syndicate seriously
-- **Missions**: Infiltration operations, intelligence gathering, limited confrontations
-- **Discoveries**: Learn about fortress location and basic layout
-- **Relationships**: Develop contacts within and around criminal organization
-
-#### High Level (11-15): Direct Confrontation
-- **Capabilities**: Party can challenge syndicate operations directly
-- **Objectives**: Major operations against fortress and leadership
-- **Stakes**: Regional consequences from success or failure
-- **Resources**: Access to allies, magical items, and organizational support
-
-#### Epic Level (16-20): Structural Change
-- **Impact**: Party actions reshape criminal landscape permanently
-- **Scope**: Fortress becomes base for broader campaigns
-- **Consequences**: Success creates power vacuum requiring management
-- **Legacy**: Long-term effects on [[Aquabyssos]] society
-
-### Running Fortress Encounters
 
 #### Atmosphere and Tone
 **Environmental Description**:
@@ -641,8 +612,6 @@ The fortress employs various coral creatures as security:
 - Use coral growth and movement to create dynamic encounter environments
 - Incorporate the fortress itself as a character with goals and reactions
 - Provide opportunities for characters to interact with or manipulate the living structure
-
-### Campaign Integration Opportunities
 
 #### Long-term Storylines
 **Generational Conflicts**: The syndicate's influence spans decades, allowing for:
@@ -678,16 +647,6 @@ Coral Throne Syndicate HQ is a undersea element of the setting, known for biolum
 
 Legends speak of Coral Throne Syndicate HQ as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Coral Throne Syndicate HQ.
 
-## Adventure Hooks
-
-- A rumor ties Coral Throne Syndicate HQ to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Coral Throne Syndicate HQ to avert a public scandal.
-- A map overlay reveals a hidden approach to Coral Throne Syndicate HQ active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -695,37 +654,9 @@ Legends speak of Coral Throne Syndicate HQ as a nexus where past and present con
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Coral Throne Syndicate HQ]]
-
-<!-- enriched: true -->
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-the-thornfield-district-the-thornfield-district.svg]]
-- [[04_Resources_Assets_Locations_location-city-ancient-treasury-of-tides-ancient-treasury-of-tides.svg]]
-- [[04_Resources_Assets_Locations_location-city-high-hierophant-meridius-high-hierophant-meridius.svg]]
-
 
 ## Sensory Details
 
@@ -735,7 +666,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: The tang of salt air permeates everything
 
-
 ## Description
 
 Coral Throne Syndicate HQ is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -743,47 +673,10 @@ Coral Throne Syndicate HQ is a notable location characterized by its unique feat
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Coral Throne Syndicate HQ
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
-
-## History
+**Goverce**: Local authority structure
 
 ### Founding
 Coral Throne Syndicate HQ was established in the distant past, growing from humble beginnings to its current state.
-
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
-
 
 ## Current Events
 
@@ -796,22 +689,50 @@ Ongoing situations affecting Coral Throne Syndicate HQ:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Coral Throne Syndicate HQ
+## Historical Timeline
 
-### Whispered Rumors
-- Stories that may or may not be true
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
 
 
-## Connections
+## Cultural Practices
 
-- See also: [[Central Index]]
-- Related: [[Recent Events]]
-- Connected to: [[Side Adventures]]
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

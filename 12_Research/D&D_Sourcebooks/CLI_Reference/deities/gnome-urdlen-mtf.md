@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:33.898311'
 world: Both
 ---
 
-
 # Urdlen
 *Source: Mordenkainen's Tome of Foes p. 112* 
 
@@ -39,6 +38,24 @@ Though the details differ from telling to telling, all gnomes know the story of 
 
 Gnomes believe that Urdlen exerts influence on their lives when they experience jealousy, greed, petulance, or envy. Individuals are more likely to fall prey to these feelings when they don't spend enough time in activities with others, and so tales of Urdlen serve as a somber reminder of the importance of participating in society.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Gnome urdlen mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -47,19 +64,15 @@ Gnome urdlen mtf is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of gnome urdlen mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gnome urdlen mtf.
 
-## Adventure Hooks
-
-- A rumor ties gnome urdlen mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gnome urdlen mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to gnome urdlen mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

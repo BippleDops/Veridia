@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:35.771459+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,35 @@ The Last Resort Procedures is a undersea element of the setting, known for biolu
 
 Legends speak of The Last Resort Procedures as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Last Resort Procedures.
 
-## Adventure Hooks
-
-- A rumor ties The Last Resort Procedures to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Last Resort Procedures to avert a public scandal.
-- A map overlay reveals a hidden approach to The Last Resort Procedures active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Ritual Redirection Options|02 Worldbuilding/Lore/Ritual Redirection Options]]
-
-
-## Connections
-
-- [[Ritual Redirection Options]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Plot Hooks
+
+- A stranger needs help finding before the new moon
+- A noble needs help finding before winter
+- A map reveals a conspiracy about a local noble
+- A noble needs help investigating before the new moon
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

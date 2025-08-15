@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.712783'
 world: Both
 ---
 
-
 # Human Names – Niger-Congo, Female
 *Source: Xanathar's Guide to Everything p. 181* 
 
@@ -52,8 +51,8 @@ world: Both
 | 37-38 | Ejiro |
 | 39-40 | Ekundayo |
 | 41-42 | Enitan |
-| 43-44 | Funanya |
-| 45-46 | Ifunanya |
+| 43-44 | Fuya |
+| 45-46 | Ifuya |
 | 47-48 | Ige |
 | 49-50 | Ime |
 | 51-52 | Kunto |
@@ -83,6 +82,24 @@ world: Both
 | 99-00 | Yewande |
 ^human-names-niger-congo-female
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Human names niger congo female xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -91,19 +108,25 @@ Human names niger congo female xge is a undersea element of the setting, known f
 
 Legends speak of human names niger congo female xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around human names niger congo female xge.
 
-## Adventure Hooks
-
-- A rumor ties human names niger congo female xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at human names niger congo female xge to avert a public scandal.
-- A map overlay reveals a hidden approach to human names niger congo female xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

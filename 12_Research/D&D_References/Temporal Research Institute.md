@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:35.167684+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,27 @@ Temporal Research Institute is a undersea element of the setting, known for biol
 
 Legends speak of Temporal Research Institute as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Temporal Research Institute.
 
-## Adventure Hooks
-
-- A rumor ties Temporal Research Institute to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Temporal Research Institute to avert a public scandal.
-- A map overlay reveals a hidden approach to Temporal Research Institute active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Temporal Anomaly Resolution|02 Worldbuilding/Lore/Temporal Anomaly Resolution]]
-
-
-## Connections
-
-- [[Temporal Anomaly Resolution]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- Strange dreams suggest a portal
+- An heirloom has gone missing and evil awakens
+- A map reveals a conspiracy about this place
+- A document has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

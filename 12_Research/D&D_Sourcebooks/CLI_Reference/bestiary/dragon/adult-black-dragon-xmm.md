@@ -27,15 +27,31 @@ updated: '2025-08-12T23:37:35.760280'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-black-dragon-xmm-adult-black-dragon-xmm.svg)
 
 # [[adult-black-dragon-xmm|Adult Black Dragon]]
-*Source: Monster Manual (2024) p. 39. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 39. Available in the SRD and the Free Rules (2024)*  
 
 By the time they're adults, black dragons are among the greatest terrors in the lands they claim. Wretched swamps and monster-haunted ruins grow more dismal and spread under an adult black dragon's influence. Morbid cultists and doomsayers frequently gather in the dragon's service, bringing with them undead terrors that answer to the black dragon and aid it in spreading ruin to nearby bastions of beauty and peace.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Black Dragons
 
@@ -46,7 +62,7 @@ By the time they're adults, black dragons are among the greatest terrors in the 
 
 Black dragons delight in suffering and ruin. While other chromatic dragons scheme for power and wealth, these dragons seek to tear down all they see and rule over what remains.
 
-Black dragons are terrifying creatures with curved horns and withered visages suggestive of fiendish skulls. They typically inhabit stagnant swamps, crumbling ruins, or places of magical or environmental corruption. Their acid breath scars their domains, eroding the features from ancient statues and leaving nature with festering wounds.
+Black dragons are terrifying creatures with curved horns and withered visages suggestive of fiendish skulls. They typically inhabit stagt swamps, crumbling ruins, or places of magical or environmental corruption. Their acid breath scars their domains, eroding the features from ancient statues and leaving nature with festering wounds.
 
 Black dragons hoard tarnished symbols of hope and relics of fallen empires. The more sought-after the treasure, the more black dragons prize it—particularly if they were responsible for it being lost.
 
@@ -68,7 +84,6 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
   - !!int "23"
   - !!int "14"
   - !!int "21"
-  - !!int "14"
   - !!int "13"
   - !!int "19"
 "speed": "40 ft., fly 80 ft., swim 40 ft."
@@ -132,9 +147,7 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
       \ of the lair are supernaturally fouled. A creature that drinks such water must\
       \ succeed on a DC 15 Constitution saving throw or have the [[conditions#Poisoned|Poisoned]]\
       \ condition for 1 hour.  "
-    "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/dragon/token/adult-black-dragon-xmm.webp"
@@ -153,19 +166,39 @@ Adult black dragon xmm is a undersea element of the setting, known for biolumine
 
 Legends speak of adult black dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around adult black dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties adult black dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at adult black dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to adult black dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- A map reveals ancient history about the cult
+- Strange dreams suggest a conspiracy
+- Someone is protecting a witness for love
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

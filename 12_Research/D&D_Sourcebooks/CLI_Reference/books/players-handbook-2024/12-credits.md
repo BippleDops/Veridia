@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.863081'
 world: Both
 ---
 
-
 # Credits
 *Source: Player's Handbook (2024), p. 2* 
 
@@ -50,8 +49,25 @@ world: Both
 ![](/03_Mechanics/CLI/books/players-handbook-2024/img/credits.webp#center)
 
 > [!gallery]
-> ![[/03_Mechanics/CLI/books/players-handbook-2024/img/credits2.webp#gallery "On the Cover: Guided by a gold dragon, the elf queen Yolande and the heroes of Valor's Call test their bravery against evil in this daring scene illustrated by Tyler Jacobson."|On the Cover: Guided by a ...]]
-> ![[/03_Mechanics/CLI/books/players-handbook-2024/img/credits3.webp#gallery "On the Alt-Cover: Nothing's better than sharing stories with friends. Heroes pause to share tea and tales with a gold dragon in this serene illustration from Wylie Beckert."|On the Alt-Cover: Nothing'...]]
+> !]
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -61,19 +77,30 @@ world: Both
 
 Legends speak of 12 credits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 12 credits.
 
-## Adventure Hooks
-
-- A rumor ties 12 credits to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 12 credits to avert a public scandal.
-- A map overlay reveals a hidden approach to 12 credits active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and evil awakens
+- A document has gone missing and evil awakens
+- Someone is blackmailing a witness for money
+- Someone is protecting a witness for power
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

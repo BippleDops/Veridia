@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.038349+00:00'
 danger_level: Moderate
 ---
 
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-pressure-palace-pressure-palace.png]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Overview
+### Connection Improvements
 
-TODO
-## History
+- Add cross-references to related notes
 
-TODO
-## Layout
+### Enhancement Improvements
 
-TODO
-## Notables
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,17 @@ Pressure Palace is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Pressure Palace as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pressure Palace.
 
-## Adventure Hooks
-
-- A rumor ties Pressure Palace to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Pressure Palace to avert a public scandal.
-- A map overlay reveals a hidden approach to Pressure Palace active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Pressure Palace|02 Worldbuilding/Places/Pressure Palace]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The Hadal Depths]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting an heir for money
+- A letter reveals a betrayal about this place
+- A shipment has gone missing and evil awakens

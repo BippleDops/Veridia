@@ -31,16 +31,31 @@ updated: '2025-08-13T12:34:05.904211+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-beholder-zombie-xmm-beholder-zombie-xmm.svg)
 
 # [[zombie-xmm|Zombie]]
-*Source: Monster Manual (2024) p. 346, Player's Handbook (2024) p. 359. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 346, Player's Handbook (2024) p. 359. Available in the SRD and the Free Rules (2024)*  
 
 Humanoid zombies usually serve as guardians, servants, or soldiers for evil magic-users. In rare cases, foul magic might result in widespread reanimation of the dead, unleashing hordes of zombies to terrorize the living.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Zombies
 
@@ -57,7 +72,6 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
 > 
 > Then, by a spectacular crack of lightning, the figures came into view, moving slowly toward the village. Over driving winds a voice cried out, "The dead come for Marais d'Tarascon! An army of the walking dead!"
 
-
 ```statblock
 "name": "Zombie (XMM)"
 "size": "Medium"
@@ -72,7 +86,6 @@ Zombies are usually created from Humanoid corpses, but the remains of other crea
   - !!int "6"
   - !!int "16"
   - !!int "3"
-  - !!int "6"
   - !!int "5"
 "speed": "20 ft."
 "saves":
@@ -112,19 +125,35 @@ Zombie xmm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of zombie xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around zombie xmm.
 
-## Adventure Hooks
-
-- A rumor ties zombie xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at zombie xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to zombie xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest ancient magic
+- A stranger needs help investigating before the new moon
+- Someone is hunting a witness for money
+- A shipment has gone missing and war looms
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -1,4 +1,5 @@
 ---
+
 title: Pier 7
 type: Lore
 tags:
@@ -10,6 +11,7 @@ tags:
 - active
 - complete
 - aethermoor
+- conspiracy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -24,6 +26,8 @@ accessibility:
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:16.470145+00:00'
 world: Aethermoor
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -32,33 +36,74 @@ world: Aethermoor
 
 ![[04_Resources/Assets/Art/Lore/Pier_7.png|Pier 7 Portrait]]
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+
 ## Summary
 
 Pier 7 describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
-
-## Historical Context
-
-- Origin: Scribal disputes escalated into pressure-lock conflicts.
-- Spread: Merchant routes adopted secret signs to bypass tariffs; songs encoded depth-keys.
-- Present: Competing narratives justify new taxes, oaths, and contraband routes.
-
-## What It Means at the Table
-
-- Investigation: On a lead toward old tariffs, players can extract schedules that reduce travel risks for a session.
-- Social: Reciting the chapel oath grants advantage on one Persuasion check if honored afterward.
-- Exploration: Recognizing encoded waystones reduces the chance of getting lost by one step.
-
-## Threads and Revelations
-
-- Records implicate agents tied to [[The Lighthouse of Storms]].
-- A rite echoes the activation cadence needed for [[12_Research/D&D_Statblocks/The Whispering Expanse]].
-- Testimony suggests [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]] financed a pivotal bribe.
-
-## Cross-References
-
-- [[The Lighthouse of Storms]]
-- [[12_Research/D&D_Statblocks/The Whispering Expanse]]
-- [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]]
 
 ## Player-Facing Summary
 
@@ -68,46 +113,66 @@ Pier 7 is a undersea element of the setting, known for bioluminescent glow and p
 
 Legends speak of Pier 7 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pier 7.
 
-## Adventure Hooks
-
-- A rumor ties Pier 7 to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Pier 7 to avert a public scandal.
-- A map overlay reveals a hidden approach to Pier 7 active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Aethermoor - Session 01 Blood in the Harbor]]
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
-
-
 ## Overview
 
 Pier 7 represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
-
 
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
 
-## Game Applications
 
-### Adventure Hooks
-- Discovery of related artifacts or texts
-- Conflicts arising from different interpretations
-- Prophecies beginning to manifest
+## Plot Hooks
 
-### Character Connections
-- Scholarly interest
-- Personal involvement in events
-- Hereditary knowledge or curse
+- Someone is searching for an heir for love
+- A merchant needs help delivering before dawn
+- Someone is protecting a witness for money
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
+
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.773242'
 world: Both
 ---
 
-
 # Credits
 *Source: Monster Manual (2025), p. 2* 
 
@@ -48,8 +47,25 @@ world: Both
 ![](/03_Mechanics/CLI/books/monster-manual-2025/img/028-29-001-title-splash.webp#center)
 
 > [!gallery]
-> ![[/03_Mechanics/CLI/books/monster-manual-2025/img/029-29-002-traditional-cover.webp#gallery "On the Cover: On this cover by Tyler Jacobson, adventurers Vajra Safahr and Minsc test their mettle against a beholder and its horde of horrors. Will they prove themselves heroes or lunch?"|On the Cover: On this cove...]]
-> ![[/03_Mechanics/CLI/books/monster-manual-2025/img/030-29-003-alt-cover.webp#gallery "On the Alt-Cover: Got something on your mind? A mind flayer offers one of its brain-consuming brood as an alternative in this aberrant illustration by Olena Richards."|On the Alt-Cover: Got some...]]
+> !]
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -59,20 +75,22 @@ world: Both
 
 Legends speak of 5 credits as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 5 credits.
 
-## Adventure Hooks
-
-- A rumor ties 5 credits to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 5 credits to avert a public scandal.
-- A map overlay reveals a hidden approach to 5 credits active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Winds
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

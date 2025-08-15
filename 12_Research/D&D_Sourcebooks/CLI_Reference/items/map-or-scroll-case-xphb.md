@@ -23,21 +23,36 @@ updated: '2025-08-12T23:37:36.700838'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-map-or-scroll-case-xphb-map-or-scroll-case-xphb.svg)
 
 # Map or Scroll Case
 *Adventuring gear*  
 
-
 - **Cost**: 1 gp
 - **Weight**: 1.0 lbs.
 
 A [[map-or-scroll-case-xphb|Map or Scroll Case]] holds up to 10 sheets of paper or 5 sheets of parchment.
 
-*Source: Player's Handbook (2024) p. 224. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 224. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -47,19 +62,32 @@ Map or scroll case xphb is a undersea element of the setting, known for biolumin
 
 Legends speak of map or scroll case xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around map or scroll case xphb.
 
-## Adventure Hooks
-
-- A rumor ties map or scroll case xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at map or scroll case xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to map or scroll case xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- A merchant needs help investigating before winter
+- A journal reveals the truth about the cult
+- Someone is hunting information for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

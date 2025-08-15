@@ -1,4 +1,5 @@
 ---
+
 title: Captain Hadal Voidwright
 type: Npc
 tags:
@@ -18,12 +19,81 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.619112+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
 > [!figure] Portrait
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-captain-hadal-voidwright-captain-hadal-voidwright.svg]]
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
 
 
 ## Player-Facing Summary
@@ -34,14 +104,6 @@ Captain Hadal Voidwright is a void-touched element of the setting, known for imp
 
 Legends speak of Captain Hadal Voidwright as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Hadal Voidwright.
 
-## Adventure Hooks
-
-- A rumor ties Captain Hadal Voidwright to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Captain Hadal Voidwright to avert a public scandal.
-- A map overlay reveals a hidden approach to Captain Hadal Voidwright active only during specific tides/storms.
-
-
-
 ## Appearance
 
 Captain Hadal Voidwright presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
@@ -50,8 +112,6 @@ Captain Hadal Voidwright presents a distinctive figure. Their bearing suggests b
 - **Distinguishing Marks**: [Describe unique features]
 - **Typical Attire**: Professional garments suited to their role
 - **Mannerisms**: [Describe habits and gestures]
-
-
 
 ## Personality
 
@@ -63,8 +123,6 @@ Captain Hadal Voidwright presents a distinctive figure. Their bearing suggests b
 
 **Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
 
-
-
 ## Background
 
 Captain Hadal Voidwright's path to their current position involved:
@@ -73,51 +131,6 @@ Captain Hadal Voidwright's path to their current position involved:
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-## Relationships
-
-### Allies
-- Professional colleagues and supporters
-- Political or business connections
-
-### Rivals
-- Competitors in their field
-- Ideological opponents
-
-### Neutral Parties
-- Those who could be swayed either way
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
 
 ## Motivations
 
@@ -128,8 +141,6 @@ Captain Hadal Voidwright's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Captain Hadal Voidwright harbors secrets that could change everything:
@@ -137,10 +148,6 @@ Captain Hadal Voidwright harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Divine mission
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -159,8 +166,6 @@ Captain Hadal Voidwright is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Captain Hadal Voidwright needs assistance with a delicate matter
@@ -169,8 +174,6 @@ Captain Hadal Voidwright is currently engaged in:
 4. **The Alliance**: Opportunity to work with or against Captain Hadal Voidwright
 5. **The Crisis**: Captain Hadal Voidwright is caught in a situation requiring intervention
 
-
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -178,8 +181,6 @@ Captain Hadal Voidwright is currently engaged in:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
 
 ## Statistics (D&D 5e)
 
@@ -207,35 +208,26 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Captain Hadal Voidwright]]
+## Bloodline
 
-<!-- enriched: true -->
-
+Member of House Dragonblood - Trait: divine blood
 
 
+## Economic Structure
 
-## Relationship Web
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
 
-- [[04_Resources_Assets_Locations_location-city-court-herald-master-proclamation-crownvoice-court-herald-master-proclamation-crownvoice.svg]]: *business partner*
-- [[04_Resources_Assets_Locations_location-city-terminal-director-admiral-current-swiftflow-terminal-director-admiral-current-swiftflow.svg]]: *competitor*
-- [[04_Resources_Assets_Locations_location-city-freedrift-network-v1-freedrift-network.svg]]: *bitter rival*
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
 
-## Connections
-
-### Home
-- [[Pressure Palace]]
-
-### Frequently Visits
-- [[04_Resources_Assets_Locations_location-city-the-threshold-chambers-v1-the-threshold-chambers.svg]]
-- [[Surface Contact Prohibition]]
-- [[04_Resources_Assets_Locations_location-city-port-meridian-harbor-district-port-meridian-harbor-district.svg]]
-
-### Affiliations
-- [[Order of the Eternal Current]]
-
-### Known Associates
-- [[04_Resources_Assets_Locations_location-city-cathedral-of-light-v1-cathedral-of-light.png]] (enemy)
-- [[Quest - The Tide War]] (colleague)
-- [[04_Resources_Assets_Locations_location-city-pool-of-sacred-drowning-pool-of-sacred-drowning.svg]] (colleague)
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

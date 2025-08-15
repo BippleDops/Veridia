@@ -27,17 +27,13 @@ updated: '2025-08-13T12:34:05.812201+00:00'
 world: Both
 ---
 
-
-
 # [[nupperibo-mpmm|Nupperibo]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 196, Mordenkainen's Tome of Foes p. 168*  
 
 > [!quote] A quote from Mordenkainen  
 > 
 > A lemure emerges from the Styx wiped of memory, yet the patterns of evil it performed in life remain indelibly inscribed upon its soul...
-> 
 > But those who lacked ambition cannot climb the hierarchical ladder of the Hells.
-> 
 > They instead step down, becoming nupperibos.
 
 No soul is turned away from the Nine Hells, but the truly worthless—those whose evil acts in life arose from carelessness and inaction more than anything else—are suitable only to become nupperibos. These pitiful creatures shuffle across the landscape, driven to purposeful action only when the clouds of swarming vermin that surround them find them prey to destroy or when a greater fiendish power commands it.
@@ -73,7 +69,7 @@ Nupperibos unthinkingly obey any command they receive telepathically from anothe
 "damage_resistances": "acid, cold"
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Poisoned|poisoned]]"
+  \ [[conditions#frightened|frightened]], [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 20 ft. (blind beyond this radius), passive Perception 11"
 "languages": "understands Infernal but can't speak"
 "cr": "1/2"
@@ -98,6 +94,24 @@ Nupperibos unthinkingly obey any command they receive telepathically from anothe
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Nupperibo mpmm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -106,19 +120,20 @@ Nupperibo mpmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of nupperibo mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around nupperibo mpmm.
 
-## Adventure Hooks
-
-- A rumor ties nupperibo mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at nupperibo mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to nupperibo mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

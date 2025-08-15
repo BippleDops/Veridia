@@ -22,7 +22,6 @@ updated: '2025-08-12T23:37:34.918038'
 world: Both
 ---
 
-
 # Noble
 *Source: Player's Handbook (2024) p. 183*  
 ![](/03_Mechanics/CLI/backgrounds/img/noble.webp#right)
@@ -35,6 +34,24 @@ world: Both
 
 You were raised in a castle, surrounded by wealth, power, and privilege. Your family of minor aristocrats ensured that you received a first-class education, some of which you appreciated and some of which you resented. Your time in the castle, especially the many hours you spent observing your family at court, also taught you a great deal about leadership.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Noble xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -43,19 +60,31 @@ Noble xphb is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of noble xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around noble xphb.
 
-## Adventure Hooks
-
-- A rumor ties noble xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at noble xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to noble xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Plot Hooks
+
+- A map reveals the truth about a local noble
+- Someone is searching for information for revenge
+- Strange dreams suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

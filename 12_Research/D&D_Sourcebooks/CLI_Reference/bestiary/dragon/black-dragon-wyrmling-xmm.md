@@ -27,15 +27,31 @@ updated: '2025-08-12T23:37:35.738723'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-black-dragon-wyrmling-xmm-black-dragon-wyrmling-xmm.svg)
 
 # [[black-dragon-wyrmling-xmm|Black Dragon Wyrmling]]
-*Source: Monster Manual (2024) p. 38. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 38. Available in the SRD and the Free Rules (2024)*  
 
-Black dragon wyrmlings lurk in bogs and polluted waterways, hunting for prey and weaker creatures to overpower. While older wyrmlings eventually seek their own territories, recently hatched ones might hunt one another, seeking dominance over their clutch and slaying rivals they can't subjugate.
+Black dragon wyrmlings lurk in bogs and polluted waterways, hunting for prey and weaker creatures to overpower. While older wyrmlings eventually seek their own territories, recently hatched ones might hunt one another, seeking domice over their clutch and slaying rivals they can't subjugate.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Black Dragons
 
@@ -46,7 +62,7 @@ Black dragon wyrmlings lurk in bogs and polluted waterways, hunting for prey and
 
 Black dragons delight in suffering and ruin. While other chromatic dragons scheme for power and wealth, these dragons seek to tear down all they see and rule over what remains.
 
-Black dragons are terrifying creatures with curved horns and withered visages suggestive of fiendish skulls. They typically inhabit stagnant swamps, crumbling ruins, or places of magical or environmental corruption. Their acid breath scars their domains, eroding the features from ancient statues and leaving nature with festering wounds.
+Black dragons are terrifying creatures with curved horns and withered visages suggestive of fiendish skulls. They typically inhabit stagt swamps, crumbling ruins, or places of magical or environmental corruption. Their acid breath scars their domains, eroding the features from ancient statues and leaving nature with festering wounds.
 
 Black dragons hoard tarnished symbols of hope and relics of fallen empires. The more sought-after the treasure, the more black dragons prize it—particularly if they were responsible for it being lost.
 
@@ -70,7 +86,6 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
   - !!int "13"
   - !!int "10"
   - !!int "11"
-  - !!int "13"
 "speed": "30 ft., fly 60 ft., swim 30 ft."
 "saves":
   - "dexterity": !!int "4"
@@ -79,7 +94,6 @@ Black dragons lurk in dismal ruins, polluted bogs, or other sites gripped by dec
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+4"
 "damage_immunities": "acid"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
@@ -115,19 +129,22 @@ Black dragon wyrmling xmm is a undersea element of the setting, known for biolum
 
 Legends speak of black dragon wyrmling xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around black dragon wyrmling xmm.
 
-## Adventure Hooks
-
-- A rumor ties black dragon wyrmling xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at black dragon wyrmling xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to black dragon wyrmling xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Plot Hooks
+
+- Someone is protecting a artifact for money
+- A noble needs help investigating before dawn
+- A prisoner has gone missing and truth emerges

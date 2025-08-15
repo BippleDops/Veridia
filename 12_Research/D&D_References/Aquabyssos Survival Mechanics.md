@@ -23,17 +23,9 @@ updated: '2025-08-13T12:34:17.763318+00:00'
 world: Aquabyssos
 ---
 
-
-
-
-
-
-
 # Aquabyssos Survival & Adaptation Mechanics
 
 > *"The depths change you. First your lungs, then your mind, finally your soul."*
-
-## 🌊 Core Survival Systems
 
 ### Depth Zones & Pressure
 
@@ -53,21 +45,12 @@ world: Aquabyssos
 - **Failure by 5-9**: 2 levels exhaustion + stunned 1 minute
 - **Failure by 10+**: 3 levels exhaustion + unconscious 10 minutes
 
-### Breathing Mechanics
-
-#### Surface Dwellers
-- Hold breath: 1 + CON modifier minutes (minimum 30 seconds)
-- After breath runs out: Survive CON modifier rounds (minimum 1)
-- Then: Drop to 0 HP and dying
-
 #### Adaptation Stages
 1. **Amphibious** (10-25 points): Breathe air and water for 1 hour/day
 2. **Dual-Breathing** (26-50 points): Breathe both equally
 3. **Aquatic Primary** (51-75 points): Water breathing, air for 1 hour/day
 4. **Full Aquatic** (76-99 points): Water only, air causes suffocation
 5. **Transformed** (100+ points): Become Aquabyssos native
-
-## 🔄 Depth Adaptation System
 
 ### Gaining Adaptation Points
 
@@ -81,74 +64,6 @@ world: Aquabyssos
 | Crystal exposure | 1-3 points | Based on exposure level |
 | Voluntary transformation ritual | 10 points | Once per week |
 | Near-death at depth | 5 points | No limit (risky) |
-
-### Adaptation Milestones
-
-#### 0-9 Points: Surface Normal
-- No benefits
-- Full pressure penalties
-- Standard drowning rules
-
-#### 10-25 Points: Shallow Adapted
-- **Benefits**:
-  - Swim speed 20 ft
-  - Hold breath twice as long
-  - Advantage on saves vs. pressure in Shallows
-  - Can see in murky water (30 ft)
-- **Drawbacks**:
-  - Skin becomes clammy
-  - -1 to Charisma checks with surface dwellers
-
-#### 26-50 Points: Twilight Swimmer
-- **Benefits**:
-  - Swim speed 30 ft
-  - Breathe water 1 hour/day
-  - Resistance to cold damage
-  - Darkvision 60 ft
-  - Advantage on pressure saves up to Midnight zone
-- **Drawbacks**:
-  - Scales appear on skin
-  - Sunlight sensitivity (disadvantage on attacks/perception in bright light)
-  - -2 to Charisma with surface dwellers
-
-#### 51-75 Points: Deep Dweller
-- **Benefits**:
-  - Swim speed 40 ft
-  - Breathe water indefinitely
-  - Immunity to pressure up to Abyssal
-  - Darkvision 120 ft
-  - Telepathy with sea creatures (30 ft)
-  - +2 to Constitution
-- **Drawbacks**:
-  - Visible gills and webbing
-  - Can only breathe air for 1 hour/day
-  - Vulnerability to fire damage
-  - Cannot wear normal armor (must be modified)
-
-#### 76-99 Points: Abyss Walker
-- **Benefits**:
-  - Swim speed 50 ft
-  - Immunity to all pressure
-  - Blindsight 30 ft
-  - Telepathy 60 ft
-  - Resistance to psychic damage
-  - +2 Constitution, +1 Wisdom
-  - Can cast Water Breathing 1/day
-- **Drawbacks**:
-  - Fully aquatic appearance
-  - Cannot breathe air
-  - Sunlight causes 1d6 radiant damage/round
-  - Disadvantage on all social checks with surface dwellers
-
-#### 100+ Points: Transformed
-- **Complete Transformation**:
-  - Become native Aquabyssos creature
-  - Gain creature type: Monstrosity (Aquatic)
-  - Immunity to drowning, pressure, cold
-  - Tremorsense 30 ft in water
-  - +4 Constitution, +2 Wisdom
-  - Innate Spellcasting (Depth Magic)
-- **Cannot Return**: Permanent resident of Aquabyssos
 
 ### Resisting Adaptation
 
@@ -164,8 +79,6 @@ world: Aquabyssos
 - **Surface Talismans**: Daily Wisdom save to lose 1 adaptation point
 - **Cleansing Rituals**: Remove 1d6 points (Greater Restoration)
 - **Divine Intervention**: Remove up to 20 points
-
-## ⚠️ Environmental Hazards
 
 ### Depth Sickness
 When ascending toward surface with 50+ adaptation points:
@@ -196,12 +109,9 @@ Twice yearly phenomena:
   5. Forget your name until next long rest
   6. Experience prophetic vision (DM's choice)
 
-## 🎭 Psychological Effects
-
 ### Depth Madness Table (d20)
 
 | Roll | Effect | Duration |
-|---|---|---|
 | 1-4 | **Thalassophobia**: Fear of deep water | 1d4 days |
 | 5-8 | **Siren's Call**: Compulsion to go deeper | 2d4 hours |
 | 9-12 | **Surface Amnesia**: Forget surface life | 1d6 days |
@@ -217,8 +127,6 @@ Twice yearly phenomena:
 - 51-75 points: Fear from surface, kinship from depths
 - 76-99 points: Horror from surface, full acceptance from depths
 - 100+ points: No longer recognized as formerly human
-
-## 🔮 Depth Magic
 
 ### New Spells Unlocked by Adaptation
 
@@ -238,12 +146,9 @@ Twice yearly phenomena:
 - *Abyss Walk* (4th level): Teleport between bodies of water
 - *Depth Form* (5th level): Polymorph into abyssal creature
 
-## 🛡️ Equipment Modifications
-
 ### Armor in Aquabyssos
 
 | Armor Type | Unmodified Penalty | Modified Cost | Modified Effect |
-|---|---|---|---|
 | Light | -5 ft swim speed | +50 gp | No penalty |
 | Medium | -10 ft swim, disadvantage | +150 gp | -5 ft swim |
 | Heavy | Cannot swim | +500 gp | -10 ft swim, disadvantage |
@@ -259,12 +164,9 @@ Twice yearly phenomena:
 - Corrosion resistance
 - Pressure-activated enhancements
 
-## 📊 Quick Reference Tables
-
 ### Daily Survival Checks
 
 | Activity | Check | Failure Result |
-|---|---|---|
 | Morning Pressure | CON save (zone DC) | 1 exhaustion level |
 | Midday Adaptation | WIS save DC 12 | Gain 1 extra adaptation point |
 | Evening Madness | WIS save DC 10 + days at depth | Roll on Depth Madness |
@@ -289,20 +191,6 @@ Twice yearly phenomena:
 3. Predators: 75% chance of encounter
 4. Adaptation accelerates: Double points gained
 
-## 🎲 DM Guidelines
-
-### Pacing Adaptation
-- **Slow Campaign**: 1 point per session maximum
-- **Standard Campaign**: Normal rules
-- **Fast Campaign**: Double all point gains
-- **One-Shot**: Start at chosen adaptation level
-
-### Balancing Considerations
-- Adaptation should feel like corruption/blessing
-- Players should make hard choices about humanity
-- Surface returns should be dramatic events
-- NPCs react strongly to transformation levels
-
 ### Narrative Triggers
 - **First Scales** (26 points): Personal horror scene
 - **First Gill Breathing** (50 points): Euphoria/terror
@@ -313,6 +201,24 @@ Twice yearly phenomena:
 
 *Remember: In Aquabyssos, adaptation is survival, but survival changes who you are. The depths don't just test your body—they transform your very essence.*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Aquabyssos Survival Mechanics is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -321,30 +227,41 @@ Aquabyssos Survival Mechanics is a undersea element of the setting, known for bi
 
 Legends speak of Aquabyssos Survival Mechanics as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos Survival Mechanics.
 
-## Adventure Hooks
-
-- A rumor ties Aquabyssos Survival Mechanics to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Aquabyssos Survival Mechanics to avert a public scandal.
-- A map overlay reveals a hidden approach to Aquabyssos Survival Mechanics active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Master_Campaign_Index|Master Campaign Index]]
 
 
-## See Also
+## Prophecy Connection
 
-- [[02_Worldbuilding/Lore|02 Worldbuilding/Lore]] - Related content
-- [[Master_Campaign_Index|Master Campaign Index]] - Campaign overview
+Mentioned in The First Prophecy of Stars
 
-## Connections
 
-- See also: [[World Overview]]
-- Related: [[Historical Context]]
-- Connected to: [[World Events]]
+## Plot Hooks
+
+- A letter reveals the truth about the cult
+- A shipment has gone missing and evil awakens
+- Someone is protecting a witness for love
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,17 +22,33 @@ updated: '2025-08-13T12:34:05.200951+00:00'
 world: Both
 ---
 
-
-
 # Rules Glossary
 *Source: Player's Handbook (2024), p. 360* 
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Glossary Conventions
 
 The glossary uses the following conventions:
 
 - **Tags in Brackets.** Some entries have a tag in brackets after the entry's name, as in "Attack [Action]." A tag—Action, Area of Effect, Attitude, Condition, or Hazard—indicates that a rule is part of a family of rules. The tags also have glossary entries.  
-- **"You.** " The game's rules—in this glossary and elsewhere—often talk about something happening to you in the game world. That "you" refers to the creature or object that the rule applies to in a particular moment of play. For example, the "you" in the [[conditions#Prone|Prone]] condition is a creature that currently has that condition.  
+- **"You.** " The game's rules—in this glossary and elsewhere—often talk about something happening to you in the game world. That "you" refers to the creature or object that the rule applies to in a particular moment of play. For example, the "you" in the [[conditions#prone|Prone]] condition is a creature that currently has that condition.  
 - **"See Also.** " Some glossary entries include a See also section that points to other entries in the glossary, to chapters in this book, or both.  
 - **No Obsolete Terms.** The glossary contains definitions of current rules terms only. If you're looking for a term from an earlier version of the fifth edition rules, consult the index.  
 - **Abbreviations.** The abbreviations listed below appear in this glossary and elsewhere in the rules.  
@@ -253,7 +269,7 @@ Here are definitions of various rules.
 > ![[friendly-attitude-xphb|Friendly ]]
 
 > [!embed-condition]- Frightened
-> ![[conditions#Frightened|Frightened]]
+> ![[conditions#frightened|Frightened]]
 
 > [!embed-condition]- Grappled
 > ![[conditions#Grappled|Grappled]]
@@ -385,7 +401,7 @@ Here are definitions of various rules.
 > ![[proficiency-xphb|Proficiency]]
 
 > [!embed-condition]- Prone
-> ![[conditions#Prone|Prone]]
+> ![[conditions#prone|Prone]]
 
 > [!embed-variantrule]- Reaction
 > ![[reaction-xphb|Reaction]]
@@ -515,19 +531,21 @@ Here are definitions of various rules.
 
 Legends speak of 11 rules glossary as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 11 rules glossary.
 
-## Adventure Hooks
-
-- A rumor ties 11 rules glossary to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 11 rules glossary to avert a public scandal.
-- A map overlay reveals a hidden approach to 11 rules glossary active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and truth emerges
+- A merchant needs help investigating before dawn
+- A map reveals ancient history about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

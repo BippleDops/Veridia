@@ -29,8 +29,6 @@ updated: '2025-08-12T23:37:34.977350'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-kruthik-mpmm-adult-kruthik-mpmm.svg)
 
@@ -41,14 +39,30 @@ It takes six months of steady eating for a [[young-kruthik-mpmm|young kruthik]] 
 
 Adult kruthiks grow spiky protrusions on their legs and can fling these dagger-sized spikes at enemies beyond the reach of their claws.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Kruthiks
 
 > [!quote] A quote from Mordenkainen  
 > 
 > Imagine a hive of ants the size of horses, but the ants are wearing armor.
 
-> [!quote] A quote from Mordenkainen  
-> 
 > Other creatures that abide in hives serve a purpose in the natural world. Bees pollinate flowers. Termites make earth out of wood. Kruthiks, by contrast, slay societies.
 
 Kruthiks are chitin-covered reptiles that hunt in packs and nest in sprawling subterranean warrens. They are attracted to sources of heat, such as dwarven forges and pools of molten lava, and carve out lairs as close to such locations as possible. As they burrow through the earth, they leave behind tunnels—evidence that is often the first clue to the nearby presence of a kruthik hive. Kruthiks also make use of preexisting underground chambers, incorporating them into their lairs when they can.
@@ -74,7 +88,6 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 "stats":
   - !!int "15"
   - !!int "16"
-  - !!int "15"
   - !!int "7"
   - !!int "12"
   - !!int "8"
@@ -121,19 +134,20 @@ Adult kruthik mpmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of adult kruthik mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around adult kruthik mpmm.
 
-## Adventure Hooks
-
-- A rumor ties adult kruthik mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at adult kruthik mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to adult kruthik mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

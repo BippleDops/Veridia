@@ -37,15 +37,9 @@ Crew tips
 Risks
 - A deal can turn with the wind
 
-## Cross-References
-
-- [[Doctrine Quick Reference]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

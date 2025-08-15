@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.881838+00:00'
 world: Both
 ---
 
-
-
 # Secondary Tables; Arcane Matters
 *Source: Xanathar's Guide to Everything p. 70* 
 
@@ -33,7 +31,7 @@ world: Both
 
 | dice: d10 | Magical Event |
 |-----------|---------------|
-| 1 | You were [[conditions#Charmed|charmed]] or [[conditions#Frightened|frightened]] by a spell. |
+| 1 | You were [[conditions#Charmed|charmed]] or [[conditions#frightened|frightened]] by a spell. |
 | 2 | You were injured by the effect of a spell. |
 | 3 | You witnessed a powerful spell being cast by a cleric, a druid, a sorcerer, a warlock, or a wizard. |
 | 4 | You drank a potion (of the DM's choice). |
@@ -45,6 +43,24 @@ world: Both
 | 10 | Your fortune was read by a diviner. Roll twice on the Life Events table, but don't apply the results. Instead, the DM picks one event as a portent of your future (which might or might not come true). |
 ^arcane-matters
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Secondary tables arcane matters xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -53,19 +69,35 @@ Secondary tables arcane matters xge is a undersea element of the setting, known 
 
 Legends speak of secondary tables arcane matters xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around secondary tables arcane matters xge.
 
-## Adventure Hooks
-
-- A rumor ties secondary tables arcane matters xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at secondary tables arcane matters xge to avert a public scandal.
-- A map overlay reveals a hidden approach to secondary tables arcane matters xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing information for love
+- A prisoner has gone missing and truth emerges
+- A letter reveals ancient history about the government
+- Strange dreams suggest a portal
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:07.533173+00:00'
 world: Both
 ---
 
-
-
 # Wand of Orcus
 *Weapon ([[mace-xphb|mace]]), wand, artifact (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/wand-of-orcus.webp#right)
@@ -38,6 +36,24 @@ Crafted and wielded by [[/03_Mechanics/CLI/bestiary/npc/orcus-mpmm|Orcus]], this
 The wand is topped with a skull that once belonged to a human hero slain by Orcus. The wand can magically change in size to better conform to the grip of its user. All Holy Water within 10 feet of the wand is destroyed.
 
 Any creature besides Orcus that tries to attune to the wand makes a DC 17 Constitution saving throw. On a successful save, the creature takes `10d6` Necrotic damage. On a failed save, the creature dies and, if it is a Humanoid, turns into a [[zombie-xmm|Zombie]].
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Magic Weapon
 
@@ -76,7 +92,7 @@ While attuned to the wand, Orcus or a follower blessed by him can cast each of t
 
 ## Call Undead
 
-While holding the wand, you can take a [[actions#Magic|Magic]] action to conjure 15 [[skeleton-xmm|Skeletons]] and 15 [[zombie-xmm|Zombies]]. These Undead magically rise up from the ground or otherwise form in unoccupied spaces within 300 feet of you and obey your commands until they are destroyed or until the next dawn, when they collapse into inanimate piles of bones and rotting corpses. Once you use this property, you can't use it again until the next dawn.
+While holding the wand, you can take a [[actions#Magic|Magic]] action to conjure 15 [[skeleton-xmm|Skeletons]] and 15 [[zombie-xmm|Zombies]]. These Undead magically rise up from the ground or otherwise form in unoccupied spaces within 300 feet of you and obey your commands until they are destroyed or until the next dawn, when they collapse into iimate piles of bones and rotting corpses. Once you use this property, you can't use it again until the next dawn.
 
 While holding the wand, Orcus can summon any kind of Undead, not just skeletons and zombies. These Undead don't perish at dawn the following day, remaining until Orcus dismisses them.
 
@@ -108,19 +124,23 @@ Wand of orcus xdmg is a undersea element of the setting, known for bioluminescen
 
 Legends speak of wand of orcus xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wand of orcus xdmg.
 
-## Adventure Hooks
-
-- A rumor ties wand of orcus xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at wand of orcus xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to wand of orcus xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

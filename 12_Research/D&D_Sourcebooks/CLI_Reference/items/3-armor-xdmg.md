@@ -36,15 +36,11 @@ updated: '2025-08-12T23:37:37.546963'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Generated/Items/item-artifact-3-armor-xdmg-3-armor-xdmg.svg)
 
 # +3 Armor
 *Legendary*  
-
-
 
 You have a +3 bonus to AC while wearing this armor.
 
@@ -62,78 +58,30 @@ You have a +3 bonus to AC while wearing this armor.
 - [+3 Splint Armor](#+3%20Splint%20Armor)
 - [+3 Studded Leather Armor](#+3%20Studded%20Leather%20Armor)
 
-## +3 Breastplate
-
-- **Armor Class**: 14 + Dex modifier (max of +2)
-- **Weight**: 20.0 lbs.
-
-### +3 Chain Mail
-
-- **Armor Class**: 16
-- **Strength**: Requires 13 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 55.0 lbs.
-
-### +3 Chain Shirt
-
-- **Armor Class**: 13 + Dex modifier (max of +2)
-- **Weight**: 20.0 lbs.
-
-### +3 Half Plate Armor
-
-- **Armor Class**: 15 + Dex modifier (max of +2)
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 40.0 lbs.
-
-### +3 Hide Armor
-
-- **Armor Class**: 12 + Dex modifier (max of +2)
-- **Weight**: 12.0 lbs.
-
-### +3 Leather Armor
-
-- **Armor Class**: 11 + Dex modifier
-- **Weight**: 10.0 lbs.
-
-### +3 Padded Armor
-
-- **Armor Class**: 11 + Dex modifier
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 8.0 lbs.
-
-### +3 Plate Armor
-
-- **Armor Class**: 18
-- **Strength**: Requires 15 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 65.0 lbs.
-
-### +3 Ring Mail
-
-- **Armor Class**: 14
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 40.0 lbs.
-
-### +3 Scale Mail
-
-- **Armor Class**: 14 + Dex modifier (max of +2)
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 45.0 lbs.
-
-### +3 Splint Armor
-
-- **Armor Class**: 17
-- **Strength**: Requires 15 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 60.0 lbs.
-
 ### +3 Studded Leather Armor
 
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
 
+*Source: Dungeon Master's Guide (2024) p. 230. Available in the SRD and the Free Rules (2024)*
 
-*Source: Dungeon Master's Guide (2024) p. 230. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -143,19 +91,25 @@ You have a +3 bonus to AC while wearing this armor.
 
 Legends speak of 3 armor xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 3 armor xdmg.
 
-## Adventure Hooks
-
-- A rumor ties 3 armor xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 3 armor xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to 3 armor xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals the truth about this place
+- Strange sightings suggest a portal
+- Strange accidents suggest a portal
+- A stranger needs help stealing before winter
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

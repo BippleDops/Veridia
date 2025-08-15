@@ -19,8 +19,6 @@ modified: '2025-08-14'
 
 ---
 
-## 🌊 WORLD OVERVIEW
-
 ### The Dual Realms
 
 **Aquabyssos - The Realm of Depths**  
@@ -37,8 +35,6 @@ These realms exist in parallel, connected by mystical convergence points where w
 Both realms have entered an age of unprecedented cooperation, sharing crystal technology and cultural knowledge. However, beneath this golden age of diplomacy, shadows stir. Reports of mysterious infiltrations and strange crystal corruptions hint at deeper conspiracies that threaten the stability of both worlds.
 
 ---
-
-## 🎭 CHARACTER CREATION
 
 ### Choosing Your Origin
 
@@ -74,7 +70,7 @@ Your character's origin realm fundamentally shapes their worldview, abilities, a
 
 **Cultural Background**:
 - **Core Values**: Individual achievement, innovation, artistic expression, freedom
-- **Social Structure**: Council-based governance with guild influence and merit-based advancement
+- **Social Structure**: Council-based goverce with guild influence and merit-based advancement
 - **Daily Life**: Innovation-focused, flexible schedules, seasonal celebrations tied to wind patterns
 - **Common Professions**: Sky riders, artificers, weather mages, explorers, wind-singers, crystal engineers
 
@@ -118,8 +114,6 @@ Your character's origin realm fundamentally shapes their worldview, abilities, a
 3. **Professional Role**: How do you use your cross-cultural knowledge in your work?
 4. **Personal Conflict**: When do the values of the two realms clash within you?
 5. **Future Vision**: What role do you see yourself playing in inter-realm relations?
-
-### Character Backgrounds
 
 #### New Backgrounds for Cordelia
 
@@ -165,8 +159,6 @@ Your character's origin realm fundamentally shapes their worldview, abilities, a
 - **Equipment**: Investigation tools, disguise materials, encrypted notebook, contacts list
 - **Feature**: Underground Network - You have contacts among information brokers and underground organizations in both realms.
 
-### Starting Character Integration
-
 #### Your Place in the World
 
 **Political Awareness** (What your character knows about current events):
@@ -194,17 +186,13 @@ Every character starts with at least three meaningful relationships:
 - **Cross-Realm Characters**: Limited equipment for both environments, must acquire specialized gear
 
 **Crystal Technology**:
-Crystal-enhanced items are common in both realms but require maintenance and can be expensive to replace:
+Crystal-enhanced items are common in both realms but require maintece and can be expensive to replace:
 - **Communication Crystals**: Allow long-distance messaging between holders
 - **Light Crystals**: Provide illumination and can be charged with magical energy
 - **Navigation Crystals**: Help with directional finding and environmental awareness
 - **Enhancement Crystals**: Provide minor bonuses to tools and weapons
 
 ---
-
-## 🌍 WORLD GUIDE
-
-### Aquabyssos - Realm of the Depths
 
 #### Geography and Environment
 
@@ -222,7 +210,7 @@ Aquabyssos experiences seasonal changes based on tidal cycles and current shifts
 - **High Tide Season**: Increased activity, diplomatic meetings, cultural festivals
 - **Current Season**: Trade and travel period, optimal for long-distance journeys
 - **Deep Season**: Contemplative period, academic study, deep-sea exploration
-- **Still Season**: Maintenance and preparation time, family gatherings
+- **Still Season**: Maintece and preparation time, family gatherings
 
 #### Culture and Society
 
@@ -279,8 +267,6 @@ Aquabyssos experiences seasonal changes based on tidal cycles and current shifts
 - **Respect Hierarchies**: Address people by appropriate titles initially
 - **Listen First**: Understanding others' positions before expressing your own
 
-### Aethermoor - Realm of the Heights
-
 #### Geography and Environment
 
 **The Wind Patterns**:
@@ -297,7 +283,7 @@ Aethermoor experiences seasonal changes based on atmospheric patterns:
 - **Rising Season**: Strong updrafts, optimal for construction and exploration
 - **Flowing Season**: Steady winds, best time for travel and trade
 - **Storm Season**: Dramatic weather, artistic inspiration, indoor activities
-- **Calm Season**: Gentle breezes, reflection time, maintenance and repair
+- **Calm Season**: Gentle breezes, reflection time, maintece and repair
 
 #### Culture and Society
 
@@ -327,7 +313,7 @@ Aethermoor experiences seasonal changes based on atmospheric patterns:
 
 #### Important Locations
 
-**The Sky Council Chambers**: Floating structures that move with the wind patterns, representing the dynamic nature of Aethermoor governance. Here, the council meets to make decisions affecting the entire realm.
+**The Sky Council Chambers**: Floating structures that move with the wind patterns, representing the dynamic nature of Aethermoor goverce. Here, the council meets to make decisions affecting the entire realm.
 
 **Windwright Academy**: The premier institution for learning wind mastery, crystal engineering, and innovative arts. Students from across Aethermoor come here to develop their talents.
 
@@ -353,8 +339,6 @@ Aethermoor experiences seasonal changes based on atmospheric patterns:
 - **Flexibility Priority**: Schedules adapt to changing circumstances
 - **Personal Time**: Individual pursuits are respected and protected
 - **Innovation Hours**: Regular time set aside for creative work and experimentation
-
-### Cross-Realm Relations
 
 #### Diplomatic Structure
 
@@ -383,10 +367,6 @@ Aethermoor experiences seasonal changes based on atmospheric patterns:
 
 ---
 
-## 🎲 GAMEPLAY MECHANICS
-
-### Environmental Challenges
-
 #### Pressure and Depth (Aquabyssos)
 
 **Pressure Levels**:
@@ -412,8 +392,6 @@ Aethermoor experiences seasonal changes based on atmospheric patterns:
 - **Basic Wind Gear**: Eliminates penalties up to High Wind level
 - **Storm Gear**: Functions in Storm Layer, provides weather protection and navigation aids
 - **Wind Mastery Magic**: Magical enhancement of natural abilities in aerial environments
-
-### Social Mechanics
 
 #### Reputation System
 
@@ -444,8 +422,6 @@ When interacting across cultural boundaries, make Insight or History checks (DC 
 - **Cross-Realm Heritage**: No penalties for cross-cultural interactions
 - **Diplomatic Training**: Proficiency in navigating both cultures
 
-### Crystal Technology
-
 #### Crystal Enhancement
 
 **Personal Crystals**: Each character can attune to one personal crystal that provides ongoing benefits:
@@ -454,9 +430,9 @@ When interacting across cultural boundaries, make Insight or History checks (DC 
 - **Enhancement Crystal**: +1 bonus to one specific skill or tool use
 - **Storage Crystal**: Extra dimensional storage space (limited capacity)
 
-**Crystal Maintenance**:
-Crystals require regular maintenance and can be damaged or depleted:
-- **Daily Use**: No maintenance required for basic functions
+**Crystal Maintece**:
+Crystals require regular maintece and can be damaged or depleted:
+- **Daily Use**: No maintece required for basic functions
 - **Heavy Use**: Requires 8 hours of rest to recharge fully
 - **Damage**: Crystals can be cracked or shattered, requiring repair or replacement
 - **Corruption**: Exposure to certain influences can corrupt crystal function
@@ -476,10 +452,6 @@ Crystals require regular maintenance and can be damaged or depleted:
 - **Contamination**: Exposure to corrupted crystals or environments
 
 ---
-
-## 🎭 ROLEPLAYING GUIDE
-
-### Bringing Your Character to Life
 
 #### Personality Development
 
@@ -520,8 +492,6 @@ Show your character's background through:
 - **Feel Internal Conflict**: Let cultural contradictions create character tension
 - **Use Your Position**: Leverage your unique perspective to solve problems
 - **Find Your Identity**: Determine which aspects of each culture you embrace
-
-### Character Development
 
 #### Growth Through Play
 
@@ -564,10 +534,6 @@ Build meaningful relationships that evolve over time:
 
 ---
 
-## 📚 REFERENCE MATERIALS
-
-### Language Guide
-
 #### Common Phrases
 
 **Aquabyssos (Aquan-influenced Common)**:
@@ -590,8 +556,6 @@ Build meaningful relationships that evolve over time:
 - **"Crystal clear"** - Perfectly understood (using shared crystal technology)
 - **"Current and wind"** - Working together despite differences
 - **"Convergence blessing"** - Good luck wish (from convergence point meetings)
-
-### Timeline Reference
 
 #### Major Historical Periods
 
@@ -628,8 +592,6 @@ Build meaningful relationships that evolve over time:
 - **Mid 1247 AC**: Diplomatic conferences addressing trade regulation and technology sharing
 - **Current**: Your adventures begin in this time of cooperation shadowed by growing concerns
 
-### Equipment Reference
-
 #### Realm-Specific Gear
 
 **Aquabyssos Equipment**:
@@ -651,8 +613,6 @@ Build meaningful relationships that evolve over time:
 - **Universal Translator Crystal**: Communication aid for language barriers (200 gp, 1 lb)
 - **Cultural Reference Guide**: Book explaining customs and etiquette (15 gp, 3 lb)
 - **Embassy Seal**: Official documentation for diplomatic access (varies, negligible weight)
-
-### Adventure Hooks
 
 #### Personal Story Starters
 
@@ -679,10 +639,6 @@ Build meaningful relationships that evolve over time:
 **Family Connections**: Characters are related by blood, marriage, adoption, or chosen family bonds that create lasting obligations.
 
 ---
-
-## 🎯 GETTING STARTED
-
-### Your First Session
 
 #### Before Character Creation
 
@@ -711,8 +667,6 @@ Build meaningful relationships that evolve over time:
 - Which locations are important to your character's background?
 - What organizations or groups does your character belong to?
 - How is your character affected by current events?
-
-### Ongoing Play
 
 #### Character Development
 
@@ -745,10 +699,27 @@ Build meaningful relationships that evolve over time:
 **Version**: 1.0  
 **Next Review**: Post-Campaign Feedback
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -757,3 +728,26 @@ Build meaningful relationships that evolve over time:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Depths
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

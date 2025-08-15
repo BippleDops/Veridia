@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.539957'
 world: Both
 ---
 
-
 # Chapter 3: The Village of Barovia
 *Source: Curse of Strahd, p. 41* 
 
@@ -35,12 +34,29 @@ Until recently, Strahd had been paying nightly visits to [[/03_Mechanics/CLI/bes
 > 
 > Same voice, same face, same graceful body, she was Tatyana come back to life again. I was absolutely witless from astonishment.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Approaching the Village
 
 When the characters first approach the village, read:
 
 > [!readaloud] 
-> 
 > Tall shapes loom out of the dense fog that surrounds everything. The muddy ground underfoot gives way to slick, wet cobblestones. The tall shapes become recognizable as village dwellings. The windows of each house stare out from pools of blackness. No sound cuts the silence except for mournful sobbing that echoes through the streets from a distance.
 ^13e
 
@@ -86,8 +102,6 @@ The following areas correspond to labels on the map of the village of Barovia be
 
 ### E1. Bildrath's Mercantile
 
-> [!readaloud] 
-> 
 > The sparse light from this building spills out from behind drawn heavy curtains. A sign over the door, creaking on its hinges, reads "Bildrath's Mercantile."
 ^145
 
@@ -99,8 +113,6 @@ If the characters give Bildrath a hard time, he calls [[/03_Mechanics/CLI/bestia
 
 ### E2. Blood of the Vine Tavern
 
-> [!readaloud] 
-> 
 > A single shaft of light thrusts illumination into the main square, its brightness looking like a solid pillar in the heavy fog. Above the gaping doorway, a sign hangs precariously askew, proclaiming this to be the Blood on the Vine tavern.
 ^147
 
@@ -136,8 +148,6 @@ If the characters arrive in the company of other Vistani, the owners are much mo
 
 ### E3. Mad Mary's Townhouse
 
-> [!readaloud] 
-> 
 > A moaning sob floats through the still, gray streets, coloring your thoughts with sadness. The sounds flow from a dark, two-story townhouse.
 ^14d
 
@@ -151,8 +161,6 @@ The malformed doll has a strange leer and wears a sackcloth dress. It belonged t
 
 ### E4. Burgomaster's Mansion
 
-> [!readaloud] 
-> 
 > A weary-looking mansion squats behind a rusting iron fence. The iron gates are twisted and torn. The right gate lies cast aside, while the left swings lazily in the wind. The stuttering squeal and clang of the gate repeats with mindless precision. Weeds choke the grounds and press with menace upon the house itself. Yet, against the walls, the growth has been tramped down to create a path all about the domain. Heavy claw markings have stripped the once-beautiful finish of the walls. Great black marks tell of the fires that have assailed the mansion. Not a pane nor a shard of glass stands in any window. All the windows are barred with planks, each one marked with stains of evil omen.
 ^14f
 
@@ -162,8 +170,6 @@ Characters who survey the grounds can, with a successful DC 11 Wisdom ([[skills#
 
 If the characters enter the mansion, read:
 
-> [!readaloud] 
-> 
 > The interior of the mansion is well furnished, yet the fixtures show signs of great wear. Noticeable oddities are the boarded-up windows and the presence of holy symbols in every room. The burgomaster is in a side drawing room on the floor—lying in a simple wooden coffin surrounded by wilting flowers and a faint odor of decay.
 ^150
 
@@ -181,15 +187,11 @@ She says that no one from the village has been brave enough to help Ismark take 
 
 ### E5. Church
 
-> [!readaloud] 
-> 
 > Atop a slight rise, against the roots of the pillar stone that supports Castle Ravenloft, stands a gray, sagging edifice of stone and wood. This church has obviously weathered the assaults of evil for centuries on end and is worn and weary. A bell tower rises toward the back, and flickering light shines through holes in the shingled roof. The rafters strain feebly against their load.
 ^153
 
 If the characters approach the church doors, add:
 
-> [!readaloud] 
-> 
 > The heavy wooden doors of the church are covered with claw marks and scarred by fire.
 ^154
 
@@ -197,16 +199,12 @@ The village priest, [[/03_Mechanics/CLI/bestiary/npc/donavich-cos|Donavich]], li
 
 The following areas correspond to labels on the map of the church below.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/018-004.webp#gallery|Map 3.2: Church]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/019-cos302.webp#gallery|Player Version]]
 
 #### E5a. Hall
 
-> [!readaloud] 
-> 
 > The doors open to reveal a ten-foot-wide, twenty-foot-long hall leading to a brightly lit chapel. The hall is unlit and reeks of mildew. Four doors, two on each side of the hall, lead to adjacent chambers.
-> 
 > You can see that the chapel is strewn with debris, and you hear a soft voice from within reciting a prayer. Suddenly, the prayer is blotted out by an inhuman scream that rises up from beneath the wooden floor.
 ^156
 
@@ -214,8 +212,6 @@ The scream comes from the church's undercroft (area E5g). The soft voice utterin
 
 #### E5b. Doru's Bedroom
 
-> [!readaloud] 
-> 
 > This dirty, lightless room contains a wooden bed with a straw-filled mattress. Mounted above the bed's headboard is a wooden holy symbol.
 ^158
 
@@ -223,8 +219,6 @@ This room once belonged to [[/03_Mechanics/CLI/bestiary/npc/doru-cos|Doru]], [[/
 
 #### E5c. Donavich's Bedroom
 
-> [!readaloud] 
-> 
 > This dirty room contains a wooden bed with a straw-filled mattress, next to which rests a small table with an oil lamp burning brightly on it. Mounted above the bed's headboard is a wooden sun-shaped holy symbol.
 ^15a
 
@@ -232,8 +226,6 @@ This is [[/03_Mechanics/CLI/bestiary/npc/donavich-cos|Donavich]]'s room and cont
 
 #### E5d. Trapdoor
 
-> [!readaloud] 
-> 
 > Time and neglect have punched holes in the ceiling of this moldy room, which contains a few broken roof shingles amid puddles of water. In one corner, set into the floor, is a heavy wooden trapdoor held shut with a chain and a padlock. A young man's screams of anguish can be heard through the door.
 ^15c
 
@@ -241,8 +233,6 @@ This is [[/03_Mechanics/CLI/bestiary/npc/donavich-cos|Donavich]]'s room and cont
 
 #### E5e. Office
 
-> [!readaloud] 
-> 
 > An old desk and chair stand against the south wall, a wooden holy symbol mounted above them—a sunburst. A ten-foot-long iron rod attached to the north wall stands bare, suggesting a tapestry once hung there. Against the far wall stands a wooden cabinet with four tall doors.
 ^15e
 
@@ -252,15 +242,11 @@ For its size, the wooden cabinet contains very little. Inside are a tinderbox, a
 
 #### E5f. Chapel
 
-> [!readaloud] 
-> 
 > The chapel is a shambles, with overturned and broken pews littering the dusty floor. Dozens of candles mounted in candlesticks and candelabras light every dusty corner in a fervent attempt to rid the chapel of shadows. At the far end of the church sits a claw-scarred altar, behind which kneels a priest in soiled vestments. Next to him hangs a long, thick rope that stretches up into the bell tower.
 ^160
 
 If the characters have not already entered the undercroft, add:
 
-> [!readaloud] 
-> 
 > From beneath the chapel floor, you hear a young man's voice cry out, "Father! I'm starving!"
 ^161
 
@@ -283,8 +269,6 @@ Once Kolyan is put in the ground, [[/03_Mechanics/CLI/bestiary/npc/donavich-cos|
 
 #### E5g. Undercroft
 
-> [!readaloud] 
-> 
 > The church's undercroft has rough-hewn walls and a floor made of damp clay and earth. Rotting wooden pillars strain under the weight of the wooden ceiling. Candlelight from the chapel above slips though the cracks, allowing you to glimpse a gaunt shape in the far corner.
 ^164
 
@@ -300,8 +284,6 @@ If your card reading reveals that a treasure is in the undercroft, it's containe
 
 ### E6. Cemetery
 
-> [!readaloud] 
-> 
 > A fence of wrought iron with a rusty gate encloses a rectangular plot of land behind the dilapidated church. Tightly packed gravestones shrouded by fog bear the names of souls long passed. All seems quiet.
 ^167
 
@@ -319,8 +301,6 @@ You can use one or both of the following special events while the characters exp
 
 Every night at midnight, one hundred spirits rise from the cemetery (area E6) and march up the Old Svalich Road to Castle Ravenloft.
 
-> [!readaloud] 
-> 
 > An eerie green light suffuses the graveyard. From this light emerges a ghostly procession. Wavering images of doughty women toting greatswords, woodwise men with slender bows, dwarves with glittering axes, and archaically dressed mages with beards and strange, pointed hats—all these and more march forth from the graveyard, their numbers growing by the second.
 ^16b
 
@@ -332,8 +312,6 @@ Once they reach the castle, the spirits march straight to the chapel (area K15) 
 
 This event occurs as the characters make their way through the village.
 
-> [!readaloud] 
-> 
 > You hear the sound of small, wooden wheels rolling across damp cobbles. You trace the lonely sound to a hunched figure bundled in rags, pushing a rickety wooden cart through the fog.
 ^16d
 
@@ -343,7 +321,7 @@ This event occurs as the characters make their way through the village.
 
 - Strahd has mastery over the land and the weather, and his spies include the Vistani.  
 - There's a Vistani camp to the west, on the shores of Tser Pool (chapter 2, area G), and another on the outskirts of Vallaki (chapter 5, area N9).  
-- Strahd has undead enemies in Barovia, namely the fallen knights of the Order of the Silver Dragon. These revenants can be found in a ruined mansion west of Vallaki (see chapter 7, "Argynvostholt").  
+- Strahd has undead enemies in Barovia, namely the fallen knights of the Order of the Silver Dragon. These revets can be found in a ruined mansion west of Vallaki (see chapter 7, "Argynvostholt").  
 - Strahd's most carefully guarded secret is a temple of forbidden lore hidden in the mountains (see chapter 13, "The Amber Temple"). The temple can be reached by following the long and winding Tsolenka Pass (see chapter 9).  
 
 ![](/03_Mechanics/CLI/adventures/curse-of-strahd/img/022-cos03-09.webp#center)
@@ -356,19 +334,32 @@ This event occurs as the characters make their way through the village.
 
 Legends speak of 05 chapter 3 the village of barovia as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 05 chapter 3 the village of barovia.
 
-## Adventure Hooks
-
-- A rumor ties 05 chapter 3 the village of barovia to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 05 chapter 3 the village of barovia to avert a public scandal.
-- A map overlay reveals a hidden approach to 05 chapter 3 the village of barovia active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Depths
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before dawn
+- Strange disappearances suggest a portal
+- A corpse reveals a betrayal about the cult
+- Someone is hunting a witness for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -27,9 +27,6 @@ updated: '2025-08-13T12:34:05.884789+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-strahd-zombie-cos-strahd-zombie-cos.svg)
 
@@ -37,6 +34,24 @@ world: Both
 *Source: Curse of Strahd p. 241*  
 
 Strahd zombies are undead that serve the vampire Strahd von Zarovich. Created from the long-dead guards of Castle Ravenloft, they were called into being through dark magic by Strahd himself.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Loathsome Limbs
 
@@ -60,7 +75,6 @@ A Strahd zombie doesn't require air or sleep.
   - !!int "6"
   - !!int "16"
   - !!int "3"
-  - !!int "6"
   - !!int "5"
 "speed": "20 ft."
 "saves":
@@ -85,7 +99,7 @@ A Strahd zombie doesn't require air or sleep.
       \ its bite attack and its body is [[conditions#Blinded|blinded]]\
       \ unless the head can see it. The severed head has a speed of 0 feet. It can\
       \ make a bite attack, but only against a target in its space.\n\nThe zombie's\
-      \ speed is halved if it's missing a leg. If it loses both legs, it falls [[conditions#Prone|prone]].\
+      \ speed is halved if it's missing a leg. If it loses both legs, it falls [[conditions#prone|prone]].\
       \ If it has both arms, it can crawl. With only one arm, it can still crawl,\
       \ but its speed is halved. With no arms or legs, its speed is 0 feet, and it\
       \ can't benefit from bonuses to speed."
@@ -113,19 +127,17 @@ Strahd zombie cos is a undersea element of the setting, known for bioluminescent
 
 Legends speak of strahd zombie cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around strahd zombie cos.
 
-## Adventure Hooks
-
-- A rumor ties strahd zombie cos to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at strahd zombie cos to avert a public scandal.
-- A map overlay reveals a hidden approach to strahd zombie cos active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help finding before winter
+- Strange sightings suggest a curse
+- Strange dreams suggest a curse

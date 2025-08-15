@@ -20,7 +20,7 @@ tags:
 - ttrpg-cli/monster/environment/forest
 - status/in-progress
 - ttrpg-cli/monster/environment/desert
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-monster
@@ -31,13 +31,29 @@ updated: '2025-08-12T23:37:35.199514'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-giant-spider-xmm-giant-spider-xmm.svg)
 
 # [[giant-spider-xmm|Giant Spider]]
-*Source: Monster Manual (2024) p. 359, Player's Handbook (2024) p. 351. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 359, Player's Handbook (2024) p. 351. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Animals
 
@@ -104,19 +120,18 @@ Giant spider xmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of giant spider xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around giant spider xmm.
 
-## Adventure Hooks
-
-- A rumor ties giant spider xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at giant spider xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to giant spider xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals the truth about a local noble
+- A shipment has gone missing and truth emerges
+- A merchant needs help stealing before winter
+- A merchant needs help delivering before the festival

@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:05.217076+00:00'
 world: Both
 ---
 
-
-
 # Adventuring
 *Source: Player's Handbook (2014), p. 181* 
 
@@ -42,6 +40,24 @@ Typically, the DM uses a map as an outline of the adventure, tracking the charac
 The DM's notes, including a key to the map, describe what the adventurers find as they enter each new area. Sometimes, the passage of time and the adventurers' actions determine what happens, so the DM might use a time line or a flowchart to track their progress instead of a map.
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/ch8.webp#center)
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Time
 
@@ -109,7 +125,7 @@ When you make a long jump, you cover a number of feet up to your Strength score 
 
 This rule assumes that the height of your jump doesn't matter, such as a jump across a stream or chasm. At your DM's option, you must succeed on a DC 10 Strength ([[skills#Athletics|Athletics]]) check to clear a low obstacle (no taller than a quarter of the jump's distance), such as a hedge or low wall. Otherwise, you hit it.
 
-When you land in difficult terrain, you must succeed on a DC 10 Dexterity ([[skills#Acrobatics|Acrobatics]]) check to land on your feet. Otherwise, you land [[conditions#Prone|prone]].
+When you land in difficult terrain, you must succeed on a DC 10 Dexterity ([[skills#Acrobatics|Acrobatics]]) check to land on your feet. Otherwise, you land [[conditions#prone|prone]].
 
 ##### High Jump
 
@@ -176,7 +192,6 @@ The character can keep an eye out for ready sources of food and water, making a 
 > [!note] Splitting Up the Party
 > 
 > Sometimes, it makes sense to split an adventuring party, especially if you want one or more characters to scout ahead. You can form multiple parties, each moving at a different speed. Each group has its own front, middle, and back ranks.
-> 
 > The drawback to this approach is that the party will be split into several smaller groups in the event of an attack. The advantage is that a small group of stealthy characters moving slowly might be able to sneak past enemies that clumsier characters would alert. A pair of rogues moving at a slow pace are much harder to detect when they leave their dwarf fighter friend behind.
 ^splitting-up-the-party
 
@@ -188,7 +203,7 @@ By its nature, adventuring involves delving into places that are dark, dangerous
 
 A fall from a great height is one of the most common hazards facing an adventurer.
 
-At the end of a fall, a creature takes `d6` bludgeoning damage for every 10 feet it fell, to a maximum of `20d6`. The creature lands [[conditions#Prone|prone]], unless it avoids taking damage from the fall.
+At the end of a fall, a creature takes `d6` bludgeoning damage for every 10 feet it fell, to a maximum of `20d6`. The creature lands [[conditions#prone|prone]], unless it avoids taking damage from the fall.
 
 #### Suffocating
 
@@ -402,8 +417,6 @@ The training lasts for 250 days and costs 1 gp per day. After you spend the requ
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014|03 Mechanics/Rules Reference/Quick Reference/DnD5e DM Screen 2014]]
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014|03 Mechanics/Rules Reference/Quick Reference/DnD5e DM Screen 2014]]
-
 ## Player-Facing Summary
 
 09 adventuring is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -412,19 +425,20 @@ The training lasts for 250 days and costs 1 gp per day. After you spend the requ
 
 Legends speak of 09 adventuring as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 09 adventuring.
 
-## Adventure Hooks
-
-- A rumor ties 09 adventuring to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 09 adventuring to avert a public scandal.
-- A map overlay reveals a hidden approach to 09 adventuring active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

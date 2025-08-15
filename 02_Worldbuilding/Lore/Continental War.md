@@ -1,4 +1,5 @@
 ---
+
 title: Continental War
 type: Lore
 tags:
@@ -17,6 +18,7 @@ tags:
 - aethermoor
 - shadow-touched
 - crystal-enhanced
+- prophecy
 created: '2025-08-09'
 modified: '2025-08-14'
 status: draft
@@ -34,6 +36,8 @@ related_entities:
 - '[[Crystalhaven]]'
 - '[[Ironhold]]'
 - '[[Port Meridian]]'
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -42,13 +46,70 @@ related_entities:
 
 *The Conflict That Shaped Modern Aethermoor*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+
 ## Overview
 
 The Continental War (892-901, Third Age) stands as the most devastating military conflict in [[Aethermoor]]'s recorded history, fundamentally reshaping the political, technological, and magical landscape of the entire continent. What began as a succession dispute in the ancient Kingdom of Drakmoor escalated into a nine-year struggle that drew in every major power, introduced revolutionary military technologies, and ultimately established the modern balance of power between [[Crystalhaven]], [[Ironhold]], [[Port Meridian]], and [[Sylvanheart]].
 
 The war is remembered not only for its unprecedented scale and brutality but also for the innovations it produced: the [[Ancient Siege Tunnels]], crystal-powered weaponry, organized military intelligence networks, and the first systematic use of magical warfare on a continental scale.
-
-## Causes & Origins
 
 ### The Drakmoor Succession Crisis
 
@@ -75,8 +136,6 @@ As the crisis deepened, major powers chose sides:
 **The Southern Coalition**: Drakmoor loyalists, several city-states, mercenary companies
 **The Eastern Powers**: Foreign kingdoms seeking to exploit Aethermoor's weakness
 **The Neutral Bloc**: [[Sylvanheart]] and forest communities (initially)
-
-## Major Phases of the War
 
 ### Phase One: The Conventional War (Years 892-894)
 
@@ -127,8 +186,6 @@ Final phase marked by mutual exhaustion and civilian suffering:
 - Famine and disease spreading across the continent
 - Popular uprisings demanding peace
 
-## Military Innovations
-
 ### The Tunnel System Revolution
 
 The development of [[Ancient Siege Tunnels]] changed warfare permanently:
@@ -153,8 +210,6 @@ The first systematic use of organized espionage and intelligence:
 - **Disinformation**: Coordinated campaigns to mislead enemy forces
 - **Sabotage Operations**: Systematic destruction of enemy infrastructure and supplies
 
-## Key Figures
-
 ### Northern Alliance Leaders
 
 **Lord Commander Gareth Steelborn**: Master strategist who developed combined arms tactics
@@ -174,8 +229,6 @@ The first systematic use of organized espionage and intelligence:
 **Elder Whisperwind of [[Sylvanheart]]**: Eventually mediated peace negotiations
 **Emperor Thalassius of [[Aquabyssos]]**: Provided crucial diplomatic pressure for peace
 **The Merchant Princes**: Trade guilds whose economic pressure helped end the war
-
-## Major Battles & Campaigns
 
 ### The Siege of Drakmoor (Year 893)
 
@@ -209,8 +262,6 @@ Most controversial action of the entire war:
 - International condemnation from neutral powers
 - Marked beginning of peace negotiations
 
-## The Peace of Silverbrook
-
 ### Negotiation Process
 
 Mediated by [[Sylvanheart]] druids at neutral location:
@@ -234,8 +285,6 @@ The original succession dispute resolved through compromise:
 - Duke Mordain exiled, foreign supporters expelled
 - Royal treasury distributed among Alliance powers
 - Ancient capital city rebuilt as neutral diplomatic center
-
-## Consequences & Legacy
 
 ### Political Transformation
 
@@ -264,8 +313,6 @@ The original succession dispute resolved through compromise:
 **Industrial Development**: Military innovations adapted for civilian use
 **Labor Movements**: Worker organizations gained power during reconstruction
 **International Commerce**: New trade relationships formed across former battle lines
-
-## Game Mechanics (D&D 5e)
 
 ### Historical Research
 
@@ -301,29 +348,6 @@ Characters might discover:
 9. **The Military Innovation**: Reverse-engineer lost technology from wartime records
 10. **The Diplomatic Crisis**: Prevent renewal of hostilities over unresolved territorial disputes
 
-## Ongoing Relevance
-
-### Modern Politics
-
-- Current alliance structures trace back to wartime partnerships
-- Territorial disputes from the war continue to create tensions
-- Military doctrines still based on Continental War innovations
-- Veteran families maintain political influence in major cities
-
-### Cultural Memory
-
-- War memorials and monuments throughout [[Aethermoor]]
-- Annual remembrance ceremonies and peace festivals
-- Literature, art, and music commemorating war experiences
-- Family histories and personal collections of wartime artifacts
-
-### Military Doctrine
-
-- [[Ancient Siege Tunnels]] remain strategically important
-- Crystal military technology continues development
-- Intelligence services evolved from wartime organizations
-- International military cooperation based on wartime alliances
-
 ## Connections to Ongoing Campaigns
 
 The Continental War provides:
@@ -335,12 +359,7 @@ The Continental War provides:
 - Framework for understanding current alliance structures and diplomatic protocols
 - Background for family histories, inherited obligations, and generational conflicts
 - Inspiration for large-scale conflict scenarios and military campaign elements
-EOF < /dev/null
-
-## Connections
-
-- [[Eastern Kingdoms]]
-- [[Aquabyssos - Session 04 - High Tide Horror]]
+EOF < /dev/
 
 ## Player-Facing Summary
 
@@ -350,46 +369,65 @@ Continental War is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Continental War as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Continental War.
 
-## Adventure Hooks
-
-- A rumor ties Continental War to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Continental War to avert a public scandal.
-- A map overlay reveals a hidden approach to Continental War active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Master_Lore_Index|Master Lore Index]]
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
-
-
 ## Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
-
 
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
 
-## Game Applications
 
-### Adventure Hooks
-- Discovery of related artifacts or texts
-- Conflicts arising from different interpretations
-- Prophecies beginning to manifest
+## Historical Timeline
 
-### Character Connections
-- Scholarly interest
-- Personal involvement in events
-- Hereditary knowledge or curse
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
+
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

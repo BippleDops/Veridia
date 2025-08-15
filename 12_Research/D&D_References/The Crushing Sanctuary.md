@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Pressure Angel Benthia|02 Worldbuilding/People/Pressure Angel Benthia]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Pressure Angel Benthia]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,22 @@ The Crushing Sanctuary is a undersea element of the setting, known for biolumine
 
 Legends speak of The Crushing Sanctuary as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crushing Sanctuary.
 
-## Adventure Hooks
-
-- A rumor ties The Crushing Sanctuary to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Crushing Sanctuary to avert a public scandal.
-- A map overlay reveals a hidden approach to The Crushing Sanctuary active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- Strange accidents suggest ancient magic
+- Someone is searching for a witness for revenge
+- A corpse reveals ancient history about this place

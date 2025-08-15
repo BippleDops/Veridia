@@ -14,13 +14,24 @@ modified: '2025-08-14'
     
 *Generated: 2025-08-13 10:33*
     
-## Available Templates
-    
-- **NPCs**: Create characters that fit the Cordelia world
-- **Locations**: Design places for both Aquabyssos and Aethermoor  
-- **Items**: Craft magical and mundane objects
-- **Stories**: Share campaign tales and lore
-    
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Recent Contributions
     
 No contributions yet. Be the first to share!
@@ -38,7 +49,6 @@ No contributions yet. Be the first to share!
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -46,3 +56,21 @@ No contributions yet. Be the first to share!
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

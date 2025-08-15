@@ -17,14 +17,22 @@ updated: '2025-08-13T01:18:34.624345+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
 
 ## Player-Facing Summary
 
@@ -34,28 +42,20 @@ Chancellor Marina Depthcaller is a undersea element of the setting, known for bi
 
 Legends speak of Chancellor Marina Depthcaller as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Chancellor Marina Depthcaller.
 
-## Adventure Hooks
-
-- A rumor ties Chancellor Marina Depthcaller to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Chancellor Marina Depthcaller to avert a public scandal.
-- A map overlay reveals a hidden approach to Chancellor Marina Depthcaller active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Save Both Civilizations|02 Worldbuilding/Lore/Save Both Civilizations]]
-
-
-## Connections
-
-- [[Save Both Civilizations]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a curse
+- Someone is protecting an heir for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

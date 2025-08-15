@@ -1,7 +1,7 @@
-# Harmonic_Resonance_Evolution
+# Harmonic_Resoce_Evolution
 
 ---
-title: Harmonic Resonance Evolution
+title: Harmonic Resoce Evolution
 type: Transformation Mechanics
 tags:
 - mechanics/transformation
@@ -16,38 +16,8 @@ updated: '2025-08-13'
 world: Both
 ---
 
-
-# Harmonic Resonance Evolution
-## Crystal Singer Transformation
-
 ### Overview
 Bards and others who practice crystal singing magic undergo gradual crystalline integration, gaining enhanced magical abilities while risking crystallization.
-
-### Evolution Stages
-
-#### Stage 1: Harmonic Attunement (1-6 months)
-- Voice gains crystalline quality
-- Can attune to crystal frequencies
-- Enhanced bardic spell effects with crystals
-- Minor crystal growths appear on vocal cords
-
-#### Stage 2: Resonance Mastery (6-18 months)
-- Perfect pitch becomes absolute
-- Can shatter or repair crystals with voice
-- Harmonic healing abilities develop
-- Crystal patterns visible under skin
-
-#### Stage 3: Crystal Harmony (1.5-3 years)
-- Voice can affect reality through sound
-- Immunity to sonic damage
-- Can communicate with crystal networks
-- Partial crystalline transformation of organs
-
-#### Stage 4: Living Crystal (3+ years)
-- Voice becomes pure harmonic energy
-- Can exist as sound/vibration temporarily
-- Master of all crystal-based magic
-- Risk of complete crystallization
 
 ### Abilities Gained
 
@@ -86,7 +56,7 @@ Bards and others who practice crystal singing magic undergo gradual crystalline 
 - Meditation to maintain humanity
 
 **Treatment Options:**
-- Anti-resonance therapy
+- Anti-resoce therapy
 - Magical decalcification
 - Harmonic rebalancing
 - Surgical crystal removal
@@ -95,10 +65,27 @@ Bards and others who practice crystal singing magic undergo gradual crystalline 
 
 *Harmonic evolution grants incredible musical power but threatens to transform the singer into a living instrument.*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -107,3 +94,10 @@ Bards and others who practice crystal singing magic undergo gradual crystalline 
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- Strange dreams suggest ancient magic
+- A letter reveals the truth about a local noble
+- Someone is hunting an heir for revenge

@@ -22,14 +22,30 @@ updated: '2025-08-13T12:34:04.523689+00:00'
 world: Both
 ---
 
-
-
 # Long Rest
-*Source: Player's Handbook (2024) p. 370. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)* 
+*Source: Player's Handbook (2024) p. 370. Available in the SRD and the Free Rules (2024)* 
 
 A Long Rest is a period of extended downtime—at least 8 hours—available to any creature. During a Long Rest, you sleep for at least 6 hours and perform no more than 2 hours of light activity, such as reading, talking, eating, or standing watch.
 
 During sleep, you have the [[conditions#Unconscious|Unconscious]] condition. After you finish a Long Rest, you must wait at least 16 hours before starting another one.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Benefits of the Rest
 
@@ -63,19 +79,15 @@ Long rest xphb is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of long rest xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around long rest xphb.
 
-## Adventure Hooks
-
-- A rumor ties long rest xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at long rest xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to long rest xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

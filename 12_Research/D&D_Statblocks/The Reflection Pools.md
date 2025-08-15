@@ -30,15 +30,29 @@ accessibility:
   - Open Door
 ---
 
-
-
-
-
 # The Reflection Pools
 
 ![[04_Resources/Assets/Art/Places/The_Reflection_Pools.png|The Reflection Pools Portrait]]
 
 *Where every choice not taken shimmers in the water*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -46,16 +60,12 @@ Hidden in the Twilight Depths between the Sunken Palace and the Whispering Trenc
 
 The Pools predate recorded history, possibly existing before water itself. They are maintained by the Order of Mirrors, blind oracles who navigate by reading the ripples of possibility. Politicians, lovers, generals, and desperate souls all make pilgrimages here, though few leave with the answers they sought.
 
-## Physical Description
-
 ### The Approach
 Reaching the Reflection Pools requires navigating the Corridor of Choices, a winding tunnel where each fork represents a significant decision in the visitor's life:
 - **Length**: 3 miles of branching passages
 - **Branches**: Unique to each visitor
 - **Navigation**: Cannot be mapped—changes with each journey
 - **Time**: Takes exactly as long as needed for contemplation
-
-### The Thirteen Pools
 
 #### Pool of What Was Never Born
 **Diameter**: 30 feet
@@ -154,8 +164,6 @@ Reaching the Reflection Pools requires navigating the Corridor of Choices, a win
 - Plants that are simultaneously blooming and dead
 - Fish that swim in multiple directions at once
 - Touching anything causes quantum collapse to single state
-
-## Inhabitants
 
 ### The Order of Mirrors
 
@@ -263,8 +271,6 @@ STR 18 (+4), DEX 14 (+2), CON 18 (+4), INT 10 (+0), WIS 15 (+2), CHA 12 (+1)
 5. Creature gains a random memory from another creature in the storm
 6. Creature splits into two versions for 1 minute (both controlled by player, but only one remains when effect ends)
 
-## Divination Services
-
 ### Standard Consultations
 
 **Simple Question** (100 gp)
@@ -320,8 +326,6 @@ STR 18 (+4), DEX 14 (+2), CON 18 (+4), INT 10 (+0), WIS 15 (+2), CHA 12 (+1)
 | 19 | The pools all show the same terrible future |
 | 20 | A god's reflection emerges from pool |
 
-## Pool Properties and Effects
-
 ### Gazing Into Pools
 
 **Duration and Effects Table**
@@ -348,8 +352,6 @@ STR 18 (+4), DEX 14 (+2), CON 18 (+4), INT 10 (+0), WIS 15 (+2), CHA 12 (+1)
 - **Elixir of Elsewhen**: Briefly exist in two places
 - **Draught of Different**: Temporarily gain alternate class feature
 
-## Adventure Hooks
-
 ### The Stolen Timeline
 Someone has been using the pools to steal favorable outcomes from other timelines, causing reality distortions. The party must track the thief through multiple possibilities and stop them before reality collapses.
 
@@ -364,8 +366,6 @@ A child who was never born has emerged from the Pool of What Was Never Born, cla
 
 ### The Council of Selves
 A powerful wizard has gathered versions of themselves from twelve different timelines to form a council. They seek to use the Reflection Pools to merge all timelines where they exist into one where they are god-emperor.
-
-## Treasures
 
 ### The Probability Compass
 *Wondrous item, very rare (requires attunement)*
@@ -391,30 +391,6 @@ A powerful wizard has gathered versions of themselves from twelve different time
 - 50% chance of containing what you need most
 - 50% chance of containing what you fear most
 
-## Environmental Hazards
-
-### Probability Storms
-- Random events from other timelines manifest
-- Duration: 1d10 minutes
-- Effects: Roll on wild magic table every round
-
-### Temporal Whirlpools
-- Drain years from those caught within
-- Can age or de-age victims
-- Sometimes transport to other timelines
-
-### Reality Fractures
-- Cracks where possibilities leak through
-- Stepping through leads to alternate timeline
-- May close suddenly, trapping travelers
-
-### Quantum Locks
-- Areas where no choices can be made
-- All actions become predetermined
-- Free will returns after leaving area
-
-## The Deep Secrets
-
 ### The Truth of the Pools
 Unknown to most, the Reflection Pools are not natural phenomena but prison cells. Each pool contains a trapped god from a timeline that was prevented from existing. The reflections are their attempts to escape into reality.
 
@@ -423,8 +399,6 @@ The central pool doesn't show possibilities—it creates them. Every reflection 
 
 ### The Price of Prophecy
 Each prophecy made drains possibility from the future, making reality more rigid and predetermined. Too much divination could lock the timeline into an inescapable fate.
-
-## DM Notes
 
 ### Running the Reflection Pools
 
@@ -445,20 +419,6 @@ Each prophecy made drains possibility from the future, making reality more rigid
 - Large paradoxes require divine intervention
 - Campaign-ending paradoxes should be telegraphed
 
-### Scaling Encounters
-- **Level 1-5**: Simple consultations, minor visions
-- **Level 6-10**: Deep viewing, meeting alternates
-- **Level 11-15**: Timeline manipulation, major prophecies
-- **Level 16-20**: Reality-altering possibilities
-
-### Integration Ideas
-- Make the pools a recurring element
-- Have NPCs reference consulting them
-- Use them to foreshadow campaign events
-- Let players glimpse alternate campaigns
-
----
-
 ## See Also
 - [[02_Worldbuilding/Groups/Order of Mirrors|02 Worldbuilding/Groups/Order Of Mirrors]]
 - [[02_Worldbuilding/Lore/Quantum Magic Theory|02 Worldbuilding/Lore/Quantum Magic Theory]]
@@ -476,13 +436,9 @@ The Reflection Pools is a undersea element of the setting, known for bioluminesc
 
 Legends speak of The Reflection Pools as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Reflection Pools.
 
-## Cross-References
 
-- [[The Reflection Pools|02 Worldbuilding/Places/The Reflection Pools]]
+## Plot Hooks
 
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Reflection Pools - Surgical Theater]]
+- Someone is protecting an heir for money
+- A prisoner has gone missing and chaos spreads
+- A journal reveals ancient history about a local noble

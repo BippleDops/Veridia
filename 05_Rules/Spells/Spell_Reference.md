@@ -1,4 +1,5 @@
 ---
+
 title: Spell Reference
 type: spell-reference
 tags:
@@ -9,31 +10,80 @@ tags:
 - 5e
 created: '2025-08-14'
 modified: '2025-08-14'
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
-# Spell Quick Reference
 
-## Cantrips
-- [[Fire Bolt]] - 1d10 fire, 120ft
-- [[Eldritch Blast]] - 1d10 force, 120ft
-- [[Sacred Flame]] - 1d8 radiant, DEX save
-- [[Guidance]] - 1d4 to ability check
 
-## Level 1
-- [[Shield]] - +5 AC reaction
-- [[Magic Missile]] - 3x 1d4+1 auto-hit
-- [[Healing Word]] - Bonus action heal
-- [[Bless]] - 1d4 to attacks/saves
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Clarification Improvements
+
+- Add 3 examples of increasing complexity
+
+### Completeness Improvements
+
+- Address unusual situations and corner cases
+
+### Balance Improvements
+
+- Include mathematical analysis and comparisons
+
+### Usability Improvements
+
+- Create quick reference table
+
+### Abuse_Prevention Improvements
+
+- Add guidelines to prevent exploitation
+- Add guidelines to prevent exploitation
+
+### Narrative_Triggers Improvements
+
+- Suggest story moments to introduce rule
+- Suggest story moments to introduce rule
+- Suggest story moments to introduce rule
+- Suggest story moments to introduce rule
+
+### Variant Improvements
+
+- Add 'gritty realism' variant of rule
+- Add 'gritty realism' variant of rule
+- Add 'gritty realism' variant of rule
+- Add 'gritty realism' variant of rule
+
+### Heroic Improvements
+
+- Add 'heroic fantasy' variant of rule
+- Add 'heroic fantasy' variant of rule
+
+### Automated Improvements
+
+- Add macro/code for VTT implementation
+
+### Monster_Use Improvements
+
+- Explain if/how monsters use this rule
+
+### Interaction Improvements
+
+- Clarify interaction with multiclassing
+
+### Session_Zero Improvements
+
+- Include session zero discussion points
+
 
 ## Auto-Linking Active
 Spell mentions are automatically linked to descriptions.
 
-
 ## Rule Summary
 
 Spell_Reference provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay.
-
 
 ## When to Use
 
@@ -41,9 +91,6 @@ Apply this rule when:
 - Specific trigger conditions are met
 - Players request this type of action
 - The situation calls for additional detail
-
-
-## Examples
 
 ### Example 1: Basic Application
 *Scenario*: Simple use case
@@ -55,7 +102,6 @@ Apply this rule when:
 *Resolution*: Step-by-step process
 *Outcome*: Various possibilities
 
-
 ## Quick Reference
 
 1. Trigger condition occurs
@@ -64,14 +110,6 @@ Apply this rule when:
 4. Apply results
 5. Narrate outcome
 
-
-## Connections
-
-- See also: [[Central Index]]
-- Related: [[Recent Events]]
-- Connected to: [[World Events]]
-
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -79,3 +117,20 @@ Apply this rule when:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Winds
+
+
+## Edge Cases & Rulings
+
+### Q: What if a player has multiple inspiration sources?
+A: Maximum of 2 inspiration dice, must declare which before rolling
+
+### Q: Can this stack with similar abilities?
+A: No, use the higher bonus only
+
+### Q: What about antimagic fields?
+A: Supernatural abilities suppressed, mundane portions still function

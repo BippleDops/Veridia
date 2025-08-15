@@ -23,12 +23,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# Spells for Way of the Sun Soul
+*20 targeted improvements identified*
 
-## 1st Level
+### Connection Improvements
 
-- [[/03_Mechanics/CLI/spells/burning-hands-xphb "XPHB"|Burning Hands]] at class level 6
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -38,19 +48,16 @@ List spells classes way of the sun soul xge is a undersea element of the setting
 
 Legends speak of list spells classes way of the sun soul xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells classes way of the sun soul xge.
 
-## Adventure Hooks
-
-- A rumor ties list spells classes way of the sun soul xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells classes way of the sun soul xge to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells classes way of the sun soul xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help investigating before the festival
+- A stranger needs help finding before the festival

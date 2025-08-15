@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:34.971490'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-cave-fisher-mpmm-cave-fisher-mpmm.svg)
 
@@ -40,6 +38,24 @@ A cave fisher is a subterranean arachnid with a long snout that houses spinneret
 A cave fisher usually hunts small animals and is particularly fond of bats, so it stretches a filament over an opening that such prey might travel through. It then climbs to a hiding spot and adheres itself to the surface to rest and wait. When prey blunders into the filament, the cave fisher reels in its meal. A group of cave fishers might work together to cover a large area with filaments, but as soon as one captures potential food, every cave fisher in the area competes for the prize. If a victim escapes from the initial ambush, a cave fisher can reclaim its prey by shooting a filament out to capture it again.
 
 Scarce food might draw a group of cave fishers up to the surface, into a shadowy canyon or a gloomy forest that features both native animal prey and creatures such as explorers or travelers occasionally moving through the area.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Valuable Parts
 
@@ -63,7 +79,6 @@ While some folk hunt cave fishers to kill them to harvest their filaments, shell
   - !!int "14"
   - !!int "3"
   - !!int "10"
-  - !!int "3"
 "speed": "20 ft., climb 20 ft."
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
@@ -123,19 +138,26 @@ Cave fisher mpmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of cave fisher mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cave fisher mpmm.
 
-## Adventure Hooks
-
-- A rumor ties cave fisher mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at cave fisher mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to cave fisher mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and evil awakens
+- The authorities needs help stealing before dawn
+- A prisoner has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

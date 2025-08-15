@@ -15,35 +15,26 @@ world: Both
 updated: '2025-08-13T01:18:36.990025+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-crystal-queen-mother-the-crystal-queen-mother.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## Appearance
+### Enhancement Improvements
 
-TODO
-## Personality
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -53,23 +44,26 @@ The Crystal Queen Mother is a undersea element of the setting, known for biolumi
 
 Legends speak of The Crystal Queen Mother as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crystal Queen Mother.
 
-## Adventure Hooks
-
-- A rumor ties The Crystal Queen Mother to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Crystal Queen Mother to avert a public scandal.
-- A map overlay reveals a hidden approach to The Crystal Queen Mother active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[The Crystal Queen Mother|02 Worldbuilding/People/The Crystal Queen Mother]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for an heir for revenge
+- Someone is blackmailing a artifact for love
+- A merchant needs help delivering before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

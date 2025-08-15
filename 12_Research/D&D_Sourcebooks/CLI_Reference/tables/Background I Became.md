@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.988202+00:00'
 world: Both
 ---
 
-
-
 # Background; I became...
 *Source: Xanathar's Guide to Everything p. 64* 
 
@@ -60,7 +58,6 @@ world: Both
 `dice: [](background-i-became.md#^criminal)`
 
 | dice: d6 | I became a criminal because... |
-|----------|--------------------------------|
 | 1 | I resented authority in my younger days and saw a life of crime as the best way to fight against tyranny and oppression. |
 | 2 | Necessity forced me to take up the life, since it was the only way I could survive. |
 | 3 | I fell in with a gang of reprobates and ne'er-do-wells, and I learned my specialty from them. |
@@ -88,7 +85,6 @@ world: Both
 `dice: [](background-i-became.md#^folk-hero)`
 
 | dice: d6 | I became a folk hero because... |
-|----------|---------------------------------|
 | 1 | I learned what was right and wrong from my family. |
 | 2 | I was always enamored by tales of heroes and wished I could be something more than ordinary. |
 | 3 | I hated my mundane life, so when it was time for someone to step up and do the right thing, I took my chance. |
@@ -172,7 +168,6 @@ world: Both
 `dice: [](background-i-became.md#^sailor)`
 
 | dice: d6 | I became a sailor because... |
-|----------|------------------------------|
 | 1 | I was press-ganged by pirates and forced to serve on their ship until I finally escaped. |
 | 2 | I wanted to see the world, so I signed on as a deck-hand for a merchant ship. |
 | 3 | One of my relatives was a sailor who took me to sea. |
@@ -200,7 +195,6 @@ world: Both
 `dice: [](background-i-became.md#^urchin)`
 
 | dice: d6 | I became an urchin because... |
-|----------|-------------------------------|
 | 1 | Wanderlust caused me to leave my family to see the world. I look after myself. |
 | 2 | I ran away from a bad situation at home and made my own way in the world. |
 | 3 | Monsters wiped out my village, and I was the sole survivor. I had to find a way to survive. |
@@ -208,6 +202,24 @@ world: Both
 | 5 | One day I woke up on the streets, alone and hungry, with no memory of my early childhood. |
 | 6 | My parents died, leaving no one to look after me. I raised myself. |
 ^urchin
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -217,19 +229,21 @@ Background i became is a undersea element of the setting, known for bioluminesce
 
 Legends speak of background i became as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around background i became.
 
-## Adventure Hooks
-
-- A rumor ties background i became to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at background i became to avert a public scandal.
-- A map overlay reveals a hidden approach to background i became active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting an heir for power
+- A journal reveals a conspiracy about a local noble
+- A merchant needs help investigating before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

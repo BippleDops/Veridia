@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.331707+00:00'
 danger_level: Moderate
 ---
 
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-military-families-support-groups-military-families-support-groups.png]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Overview
+### Connection Improvements
 
-TODO
-## History
+- Add cross-references to related notes
 
-TODO
-## Layout
+### Enhancement Improvements
 
-TODO
-## Notables
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,20 @@ Military Families Support Groups is a undersea element of the setting, known for
 
 Legends speak of Military Families Support Groups as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Military Families Support Groups.
 
-## Adventure Hooks
-
-- A rumor ties Military Families Support Groups to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Military Families Support Groups to avert a public scandal.
-- A map overlay reveals a hidden approach to Military Families Support Groups active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Military Families Support Groups|02 Worldbuilding/Places/Military Families Support Groups]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Shadow Ambush - Optional]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

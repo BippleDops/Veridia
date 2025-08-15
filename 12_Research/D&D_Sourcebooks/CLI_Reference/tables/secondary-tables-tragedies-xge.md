@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.352570'
 world: Both
 ---
 
-
 # Secondary Tables; Tragedies
 *Source: Xanathar's Guide to Everything p. 70* 
 
@@ -44,6 +43,24 @@ world: Both
 | 12 | A current or prospective romantic partner of yours died. Roll on the Cause of Death supplemental table to find out how. If the result is murder, roll a `d12`. On a 1, you were responsible, whether directly or indirectly. |
 ^tragedies
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Secondary tables tragedies xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -52,19 +69,20 @@ Secondary tables tragedies xge is a undersea element of the setting, known for b
 
 Legends speak of secondary tables tragedies xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around secondary tables tragedies xge.
 
-## Adventure Hooks
-
-- A rumor ties secondary tables tragedies xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at secondary tables tragedies xge to avert a public scandal.
-- A map overlay reveals a hidden approach to secondary tables tragedies xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Winds
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

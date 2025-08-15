@@ -1,4 +1,5 @@
 ---
+
 title: Party Shadows
 type: Faction
 tags:
@@ -43,13 +44,14 @@ officers:
 primary_contact: Shadow Broker Mist
 updated: '2025-08-13T12:34:17.385866+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-party-shadows-party-shadows.svg)
-
 
 # Party Shadows
 
@@ -58,6 +60,74 @@ world: Aquabyssos
 The **Party Shadows** represent the darkest evolution of Aquabyssos political machinery - a secretive network of shadow-touched individuals who have learned to weaponize the very nature of their condition. Operating from within the [[Parliament of Echoes]], this faction has transformed from outcasts into puppet masters, using their unique relationship with shadows and memory to influence the deepest currents of Aquabyssos society.
 
 Unlike conventional political organizations, the Party Shadows operate through layers of plausible deniability and memory modification. Their members exist in a state of controlled shadow-integration, maintaining enough humanity to navigate society while possessing enough shadow-nature to access the realm's darker powers. They are the whispered rumors made manifest, the forgotten votes that change everything, the shadows behind the throne that cast no reflection.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
 
 ## Organizational Structure
 
@@ -75,25 +145,8 @@ The most disturbing aspect of Party Shadows operations, headed by [[The Silhouet
 ### The Mirror Network
 A surveillance and intelligence arm consisting of [[Shadow Broker Mirrors]] - individuals who have undergone procedures to become living spy networks. Each Mirror can share consciousness with their handler, creating an information web that spans Aquabyssos society. They appear as ordinary citizens but report everything they witness to the collective shadow consciousness.
 
-## Goals and Objectives
-
-### Public Goals
-- Advocating for shadow-touched rights within Aquabyssos society
-- Promoting research into shadow integration and memory science
-- Supporting parliamentary reforms that increase representation
-- Facilitating cultural exchange between surface and deep communities
-
-### Private Goals
-- Establishing shadow-touched individuals in key positions throughout Aquabyssos
-- Creating a shadow-based parallel government that can override standard democracy
-- Developing technology to mass-produce shadow integration procedures
-- Eliminating or converting individuals who oppose shadow influence expansion
-- Preparing Aquabyssos for eventual merger with shadow realm governance
-
 ### Hidden Agenda: The Shadow Parliament
 The ultimate objective involves replacing the [[Parliament of Echoes]] entirely with a [[Parliament of Shadows]] where decisions are made through shadow consensus rather than democratic debate. This new system would eliminate the messiness of public opinion by directly manipulating the collective unconscious of Aquabyssos citizens.
-
-## Membership and Recruitment
 
 ### Recruitment Criteria
 Candidates are typically selected from three pools:
@@ -108,13 +161,6 @@ The joining process, known as "Shadow Binding," involves multiple stages:
 **Stage 2: Testing** - Potential recruits undergo memory modification procedures to test compatibility
 **Stage 3: Integration** - Successful candidates receive limited shadow-touching, granting enhanced abilities
 **Stage 4: Assignment** - New members are placed within existing cells based on skills and connections
-
-### Member Benefits
-- **Rank 1**: Access to shadow memory markets, political whisper networks, and basic identity modification
-- **Rank 2**: Shadow surgery consultation, advanced memory trading privileges, and cell leadership opportunities
-- **Rank 3**: Direct communication with Shadow Broker Mist, parliamentary influence operations, and high-level assignment authority
-
-## Operations and Methods
 
 ### Memory Market Manipulation
 Party Shadows operates sophisticated networks within Aquabyssos memory trading systems. Members can:
@@ -137,30 +183,6 @@ Systematic placement of members within legitimate institutions:
 - Security positions enabling protection of shadow operations
 - Diplomatic posts facilitating inter-realm shadow coordination
 
-## Allies and Enemies
-
-### Allied Organizations
-- **[[The Shadow Conspiracy]]**: Shares intelligence and resources for mutual benefit
-- **[[Shadow Surgeons Collective]]**: Provides medical and modification services
-- **[[The Parliament of Nobody]]**: Philosophical alliance around alternative governance
-- **[[Shadowhaven Smugglers Ring]]**: Transportation and logistics support
-- **[[The Void Watchers]]**: Intelligence sharing regarding void-realm activities
-
-### Enemy Organizations
-- **[[Purist Coalition]]**: Actively opposes shadow integration in society
-- **[[The Crown Authority]]**: Represents traditional power structures being undermined
-- **[[Crystal Wardens]]**: Law enforcement dedicated to exposing shadow operations
-- **[[The Deepwatch Guard]]**: Military opposition to shadow realm infiltration
-- **[[Temple of Divine Order]]**: Religious opposition to shadow-touched activities
-
-### Neutral but Monitored
-- **[[The Crimson Fleet]]**: Potential recruitment source among pirates and outcasts
-- **[[Merchant Princes]]**: Economic influence makes them valuable but dangerous
-- **[[The Seekers' Guild]]**: Their investigations could expose shadow activities
-- **[[Ancient Mer-Folk Empire]]**: Traditional power base with unclear shadow policies
-
-## Territory and Resources
-
 ### Operational Areas
 **Primary Territories:**
 - [[Parliament of Echoes]] - Shadow Chamber operations and political influence
@@ -176,14 +198,12 @@ Systematic placement of members within legitimate institutions:
 - Communication networks spanning multiple dimensional planes
 
 ### Economic Operations
-The Party Shadows maintains financial stability through:
+The Party Shadows maintains ficial stability through:
 - **Memory Trading**: Controlling significant portions of Aquabyssos memory markets
 - **Information Brokerage**: Selling political intelligence to the highest bidders
 - **Shadow Services**: Providing identity modification and memory adjustment services
 - **Political Consulting**: Advising candidates on campaign strategy (while manipulating outcomes)
 - **Artifact Trading**: Dealing in shadow realm items and supernatural commodities
-
-## Internal Politics and Factions
 
 ### The Moderate Wing
 Led by [[Ambassador Nerida Deepcurrent]], this faction believes in gradual shadow integration through legitimate political processes. They favor working within existing systems rather than overthrowing them entirely.
@@ -196,8 +216,6 @@ Paradoxically, this faction believes shadow-touched individuals should remain se
 
 ### The Convergence Theorists
 Influenced by [[The Convergence Seekers]], this group believes the shadow realm and material plane should merge completely, creating a new hybrid reality governed by shadow-touched principles.
-
-## Adventure Hooks
 
 ### Political Intrigue Scenarios
 1. **The Memory Vote**: Party Shadows plans to modify key memories before crucial parliamentary vote
@@ -216,8 +234,6 @@ Influenced by [[The Convergence Seekers]], this group believes the shadow realm 
 10. **The Parliamentary Heist**: Stealing evidence of shadow manipulation from government archives
 11. **Shadow Surgery Rescue**: Extracting someone before they undergo forced identity modification
 12. **The Broker's Gambit**: Direct confrontation with Shadow Broker Mist in their shadow realm domain
-
-## Services Offered
 
 ### Public Services
 | Service | Cost | Availability |
@@ -248,8 +264,6 @@ Party Shadows operates on principles of pragmatic opportunism disguised as ideal
 
 The culture celebrates successful infiltration, elegant manipulation, and surgical precision in operations. Members who achieve significant positions in legitimate society while advancing shadow goals are held as heroes within the organization.
 
-## Notable Operations
-
 ### The Great Forgetting
 A mass memory modification event that erased public knowledge of early shadow incursions, allowing Party Shadows to operate without historical precedent working against them.
 
@@ -262,14 +276,7 @@ An intelligence operation gone wrong that nearly exposed the entire surveillance
 ### Shadow Integration Act
 Successful passage of legislation legitimizing shadow-touched individuals, achieved through a combination of political pressure and selective memory adjustment of opposing voters.
 
-The Party Shadows represents the dark evolution of political power in Aquabyssos - an organization that has learned to turn the realm's unique properties into tools of control and influence. They are simultaneously the greatest threat to democratic governance and the most sophisticated political organization in the realm's history, making them ideal antagonists for campaigns exploring themes of identity, democracy, and the price of power.
-
-
-## Connections
-
-- [[Shadow Independence Levels]]
-- [[Stop the Shadow Harvest]]
-- [[The Shadow War Coalition]]
+The Party Shadows represents the dark evolution of political power in Aquabyssos - an organization that has learned to turn the realm's unique properties into tools of control and influence. They are simultaneously the greatest threat to democratic goverce and the most sophisticated political organization in the realm's history, making them ideal antagonists for campaigns exploring themes of identity, democracy, and the price of power.
 
 ## Player-Facing Summary
 
@@ -283,36 +290,6 @@ Legends speak of Party Shadows as a nexus where past and present converge. Local
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Parliament of Echoes]]
-- [[Ancient Mer-Folk Empire]]
-- [[Crystal Wardens]]
-- [[Merchant Princes]]
-- [[Purist Coalition]]
-- [[Shadow Broker Mirrors]]
-- [[Shadow Marina]]
-- [[Shadow Surgeon Apprentice]]
-- [[Shadow Surgeons Collective]]
-- [[Shadow Vale]]
-- [[Temple of Divine Order]]
-- [[The Crown Authority]]
-- [[The Deepwatch Guard]]
-- [[The Parliament of Nobody]]
-- [[The Seekers' Guild]]
-- [[The Shadow Conspiracy]]
-- [[The Void Watchers]]
-- [[Ambassador Nerida Deepcurrent]]
-- [[Shadow Broker Mist]]
-- [[Tribune Cassia Deepcurrent]]
-- [[Vex Shadowthorn's Apprentices]]
-- [[New Thalassopolis]]
-- [[Parliament of Echoes]]
-- [[The Bathyal Palace]]
-
-
 ## Overview
 
 Party Shadows operates as an influential organization with specific goals and methods. Their reach extends throughout their sphere of influence.
@@ -322,14 +299,6 @@ Party Shadows operates as an influential organization with specific goals and me
 **Membership**: Dozens to thousands
 **Secrecy**: Public/Semi-secret/Secret
 
-
-## Structure
-
-### Leadership
-- **Supreme Leader**: Ultimate authority
-- **Council/Board**: Decision makers
-- **Department Heads**: Operational leaders
-
 ### Ranks
 1. Initiate level
 2. Member level
@@ -337,54 +306,61 @@ Party Shadows operates as an influential organization with specific goals and me
 4. Officer level
 5. Leadership level
 
-
-## Resources
-
-### Financial
-- Funding sources
-- Wealth level
-- Economic influence
-
-### Physical Assets
-- Properties owned
-- Equipment available
-- Special resources
-
-### Human Resources
-- Member skills
-- Allies and contacts
-- Information networks
-
-
-## Relationships
-
-### Allies
-- Aligned organizations
-- Political supporters
-- Business partners
-
-### Enemies
-- Rival organizations
-- Opposed factions
-- Active threats
-
-### Neutral Parties
-- Potential allies or enemies
-- Trade partners
-- Watching parties
-
-
-## Secrets
-
 ### Open Secrets
 Things widely suspected
 
-### Hidden Truths
-- Real leadership
-- True funding sources
-- Secret objectives
 
-### Deep Mysteries
-- Ancient connections
-- Forbidden knowledge
-- Ultimate goals
+## Plot Hooks
+
+- Strange accidents suggest a portal
+- A corpse reveals ancient history about the cult
+- A letter reveals the truth about this place
+- The authorities needs help investigating before winter
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

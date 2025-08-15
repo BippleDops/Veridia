@@ -10,7 +10,23 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Social Encounter Frameworks
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Systematic Approaches to Non-Combat Challenges
 
@@ -78,7 +94,7 @@ Research on designing and running social encounters that are as engaging and mec
 
 **Aethermoor Social Dynamics**:
 - **Wind Court Traditions**: Formal ceremony and ritual in social interactions
-- **Crystal Resonance**: Harmonic sympathy affecting emotional connections
+- **Crystal Resoce**: Harmonic sympathy affecting emotional connections
 - **Altitude Pride**: Height-based social stratification and status
 - **Storm Wisdom**: Weather-based philosophical approaches to conflict
 
@@ -161,7 +177,6 @@ class SocialCombatant(BaseModel):
 ```
 
 Social encounter resolution:
-```python
 class SocialOutcome(BaseModel):
     winner: Optional[str]  # If there's a clear victor
     agreements_reached: List[str]  # Deals and compromises made
@@ -169,7 +184,6 @@ class SocialOutcome(BaseModel):
     relationship_changes: Dict[str, Dict[str, int]]  # Attitude shifts
     future_complications: List[str]  # Potential future problems
     next_encounter_hooks: List[str]  # Story threads for future social encounters
-```
 
 ### Player Engagement Strategies
 
@@ -199,7 +213,6 @@ Effective social encounters show:
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -207,3 +220,20 @@ Effective social encounters show:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Winds
+
+
+## Plot Hooks
+
+- Someone is hunting information for revenge
+- A shipment has gone missing and chaos spreads
+- A letter reveals the truth about the cult

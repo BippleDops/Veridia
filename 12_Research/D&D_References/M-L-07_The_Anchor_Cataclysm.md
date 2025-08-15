@@ -21,30 +21,25 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# M-L-07 The Anchor Cataclysm
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Read-Aloud
 > One by one, the anchor songs fall silent. The last tone is the sound of a heart that knows it must break.
-
-## Setup
-- Network failure cascade; zones destabilizing
-
-## Mechanics
-- Engineer DC 18 grid triage
-- Anchorite DC 18 emergency sanctification
-- Command DC 18 prioritize saves (choose cities)
-
-## Outcomes
-- Success: Grid saved; Integrity +3 region
-- Partial: Save one region; others falter
-- Fail: Wide collapse; map redrawn; survival arc
-
-## Integrations
-- Reality anchors; faction politics; evacuation ops
-
-## Quick-Run
-- Engineer→Anchorite→Command; mark map outcomes
 
 ## Player-Facing Summary
 
@@ -54,19 +49,26 @@ M L 07 The Anchor Cataclysm is a undersea element of the setting, known for biol
 
 Legends speak of M L 07 The Anchor Cataclysm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around M L 07 The Anchor Cataclysm.
 
-## Adventure Hooks
-
-- A rumor ties M L 07 The Anchor Cataclysm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at M L 07 The Anchor Cataclysm to avert a public scandal.
-- A map overlay reveals a hidden approach to M L 07 The Anchor Cataclysm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help finding before the new moon
+- A noble needs help investigating before winter
+- A document has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

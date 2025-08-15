@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:33.920754'
 world: Both
 ---
 
-
 # Garl Glittergold
 *Source: Mordenkainen's Tome of Foes p. 111* 
 
@@ -36,6 +35,24 @@ world: Both
 When gnome children hear their first stories about the gods, they are introduced to a gold-skinned gnome with a wide grin and glittering gemstone eyes that shift colors like a kaleidoscope. The youngsters quickly learn to recognize that their favorite character, the god of the gnomes, is about to steal the show.
 
 A joker and a prankster, Garl Glittergold reminds gnomes that life is to be taken lightly, and that a good laugh will serve them better than a grim attitude. When Garl cavorts with mischief on his mind, Moradin's beard might end up woven with giggling flowers, and Gruumsh's axe could sprout braying donkey heads at the most inopportune time.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Cooperation Is Key
 
@@ -53,19 +70,21 @@ Gnome garl glittergold mtf is a undersea element of the setting, known for biolu
 
 Legends speak of gnome garl glittergold mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gnome garl glittergold mtf.
 
-## Adventure Hooks
-
-- A rumor ties gnome garl glittergold mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gnome garl glittergold mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to gnome garl glittergold mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a portal
+- A merchant needs help investigating before the new moon

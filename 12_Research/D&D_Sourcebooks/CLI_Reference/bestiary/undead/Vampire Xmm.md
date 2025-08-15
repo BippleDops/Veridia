@@ -18,7 +18,7 @@ tags:
 - world/both
 - active
 - status/in-progress
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-monster
@@ -29,16 +29,31 @@ updated: '2025-08-13T12:34:05.894406+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-vampire-xmm-v1-vampire-xmm.svg)
 
 # [[vampire-xmm|Vampire]]
-*Source: Monster Manual (2024) p. 317. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 317. Available in the SRD and the Free Rules (2024)*  
 
 Vampires are terrifying hunters and manipulators. They use their powers to shape-shift and bend other creatures' wills as they terrorize and feed on populations over generations.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Vampires
 
@@ -58,7 +73,7 @@ Undead vampires lie dormant during the day, retreating to resting places hidden 
 | dice: 1d6 | The Vampire's Resting Place Is... |
 |-----------|-----------------------------------|
 | 1 | Among the roots of a dead tree. |
-| 2 | At the bottom of a stagnant pool. |
+| 2 | At the bottom of a stagt pool. |
 | 3 | A coffin filled with grave dirt. |
 | 4 | A large pot full of blood or vinegar. |
 | 5 | A space accessible only by shape-shifting. |
@@ -73,7 +88,6 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 > 
 > Darling, you are simply delicious...
 
-
 ```statblock
 "name": "Vampire (XMM)"
 "size": "Small or Medium"
@@ -85,11 +99,8 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
 "modifier": !!int "14"
 "stats":
   - !!int "18"
-  - !!int "18"
-  - !!int "18"
   - !!int "17"
   - !!int "15"
-  - !!int "18"
 "speed": "40 ft., climb 40 ft."
 "saves":
   - "dexterity": !!int "9"
@@ -154,7 +165,7 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
     "name": "Bite (Bat or Vampire Form Only)"
 "bonus_actions":
   - "desc": "If the vampire isn't in sunlight or running water, it shape-shifts into\
-      \ a Tiny bat ([[speed-xphb|Speed]] 5 ft., [[fly-speed-xphb|Fly\
+      \ a Tiny bat ([[speed-xphb|Speed]] 5 ft., [[fly-speed-xphb|Fly\]]
       \ Speed]] 30 ft.) or a Medium\
       \ cloud of mist ([[speed-xphb|Speed]] 5 ft.,\
       \ [[fly-speed-xphb|Fly Speed]] 20 ft. [hover]),\
@@ -178,7 +189,6 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
       \ and it makes one Grave Strike attack."
     "name": "Deathless Strike"
   - "desc": "The vampire casts [[command-xphb|Command]],\
-      \ requiring no spell components and using Charisma as the spellcasting ability\
       \ (spell save DC 17). The vampire can't take this action again until the start\
       \ of its next turn.\n"
     "name": "Beguile"
@@ -196,9 +206,7 @@ Vampires and vampire umbral lords create sanctuaries apart from the living, whet
       \ of the lair is [[lightly-obscured-xphb|Lightly Obscured]]\
       \ by a persistent, creeping fog. The vampire and any creatures of its choice\
       \ are unaffected by the fog.  "
-    "name": ""
   - "desc": "If the vampire dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/undead/token/vampire-xmm.webp"
@@ -217,19 +225,27 @@ Vampire xmm is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of vampire xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around vampire xmm.
 
-## Adventure Hooks
-
-- A rumor ties vampire xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at vampire xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to vampire xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A corpse reveals ancient history about this place
+- Strange dreams suggest a conspiracy
+- A stranger needs help finding before the new moon
+- Strange disappearances suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

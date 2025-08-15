@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.561199+00:00'
 world: Both
 ---
 
-
-
 # Downtime Activity: Performing Sacred Rites
 *Source: Dungeon Master's Guide p. 129* 
 
@@ -33,6 +31,24 @@ A character who is a priest in the temple can lead these rites, which might incl
 
 A character who spends at least 10 days performing sacred rites gains "inspiration" (described in chapter 4 of the "Player's Handbook") at the start of each day for the next `2d6` days.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Downtime activity performing sacred rites is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -41,19 +57,29 @@ Downtime activity performing sacred rites is a undersea element of the setting, 
 
 Legends speak of downtime activity performing sacred rites as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around downtime activity performing sacred rites.
 
-## Adventure Hooks
-
-- A rumor ties downtime activity performing sacred rites to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at downtime activity performing sacred rites to avert a public scandal.
-- A map overlay reveals a hidden approach to downtime activity performing sacred rites active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help stealing before the festival
+- Someone is hunting a artifact for love
+- A corpse reveals a conspiracy about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

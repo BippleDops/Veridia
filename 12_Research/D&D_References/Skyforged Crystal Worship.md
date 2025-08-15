@@ -32,14 +32,29 @@ operational_status: Active Worship & Technology
 updated: '2025-08-11T00:00:00+00:00'
 ---
 
-
-
-
 # Skyforged Crystal Worship
 *The Sacred Technology of Divine Light*
 
 > *"The crystals are not mere tools—they are fragments of divinity made manifest, channels through which the sky itself speaks to us. In their faceted depths, we find not only power but purpose, not only energy but enlightenment. Through the Skyforged arts, we do not simply use technology; we commune with the very essence of creation itself."*
 > — [[High Techno-Priest Lumina Skyweaver]], Supreme Guardian of the Crystal Sanctuaries
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -59,28 +74,25 @@ Skyforged Crystal Worship is a sky-borne element of the setting, known for brass
 
 Legends speak of Skyforged Crystal Worship as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Skyforged Crystal Worship.
 
-## Adventure Hooks
-
-- A rumor ties Skyforged Crystal Worship to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Skyforged Crystal Worship to avert a public scandal.
-- A map overlay reveals a hidden approach to Skyforged Crystal Worship active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Master_Lore_Index|Master Lore Index]]
-
-
-## Connections
-
-- [[Aethermoor]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

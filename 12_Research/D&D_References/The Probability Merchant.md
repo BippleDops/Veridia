@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.332789+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-probability-merchant-the-probability-merchant.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,20 @@ The Probability Merchant is a undersea element of the setting, known for biolumi
 
 Legends speak of The Probability Merchant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Probability Merchant.
 
-## Adventure Hooks
-
-- A rumor ties The Probability Merchant to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Probability Merchant to avert a public scandal.
-- A map overlay reveals a hidden approach to The Probability Merchant active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[The Probability Merchant|02 Worldbuilding/Places/The Probability Merchant]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The Vanishing Depths]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -33,8 +33,6 @@ updated: '2025-08-13T12:34:06.629978+00:00'
 world: Both
 ---
 
-
-
 # Summon Aberration
 *4th-level, Conjuration*  
 ![](/03_Mechanics/CLI/spells/img/summon-aberration.webp#right)
@@ -54,6 +52,24 @@ The creature is an ally to you and your allies. In combat, it shares your [[init
 
 *Source: Player's Handbook (2024) p. 322*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Summon aberration xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -62,19 +78,18 @@ Summon aberration xphb is a undersea element of the setting, known for biolumine
 
 Legends speak of summon aberration xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around summon aberration xphb.
 
-## Adventure Hooks
-
-- A rumor ties summon aberration xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at summon aberration xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to summon aberration xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

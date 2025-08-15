@@ -23,21 +23,36 @@ updated: '2025-08-12T23:37:36.708903'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-lolths-sting-xdmg-lolths-sting-xdmg.svg)
 
 # Lolth's Sting
 *Adventuring gear, poison (injury)*  
 
-
 - **Properties**: [[item-properties#Poison|Poison]]
 - **Cost**: 200 gp
 
 A creature subjected to Lolth's Sting must succeed on a DC 13 Constitution saving throw or have the [[conditions#Poisoned|Poisoned]] condition for 1 hour. If the creature fails the save by 5 or more, the creature also has the [[conditions#Unconscious|Unconscious]] condition while [[conditions#Poisoned|Poisoned]] in this way. The creature wakes up if it takes damage or if another creature takes an action to shake it awake.
 
-*Source: Dungeon Master's Guide (2024) p. 91. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 91. Available in the SRD*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -47,19 +62,25 @@ Lolths sting xdmg is a undersea element of the setting, known for bioluminescent
 
 Legends speak of lolths sting xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around lolths sting xdmg.
 
-## Adventure Hooks
-
-- A rumor ties lolths sting xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at lolths sting xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to lolths sting xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help investigating before the festival
+- A shipment has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

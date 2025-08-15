@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.367099+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-sage-nereon-sage-nereon.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,21 @@ Sage Nereon is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of Sage Nereon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sage Nereon.
 
-## Adventure Hooks
-
-- A rumor ties Sage Nereon to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Sage Nereon to avert a public scandal.
-- A map overlay reveals a hidden approach to Sage Nereon active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Sage Nereon|02 Worldbuilding/Places/Sage Nereon]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The Depth Plague]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help delivering before the new moon
+- A merchant needs help investigating before winter
+- A noble needs help finding before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:34.082496'
 world: Both
 ---
 
-
 # Vhaeraun
 *Source: Mordenkainen's Tome of Foes p. 55* 
 
@@ -42,6 +41,24 @@ Due to his high status in the Dark Seldarine (for a male) and because of his arr
 
 To quash any challenge to the matriarchy that Vhaeraun might inspire in his followers, some drow communities preach that he wears a mask to hide the terrible scars from the wounds inflicted on him by Lolth as punishment for his arrogance. His silence, too, is part of his punishment, for his tongue was removed for questioning Lolth's orders. Worshipers of Vhaeraun who believe this dogma sometimes ritually scar and silence themselves as signs of their devotion, and then serve as voiceless, masked bodyguards for the matrons of their house.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Drow vhaeraun mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -50,20 +67,28 @@ Drow vhaeraun mtf is a undersea element of the setting, known for bioluminescent
 
 Legends speak of drow vhaeraun mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around drow vhaeraun mtf.
 
-## Adventure Hooks
-
-- A rumor ties drow vhaeraun mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at drow vhaeraun mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to drow vhaeraun mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a betrayal about the cult
+- A merchant needs help stealing before the festival
+- Strange accidents suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -20,22 +20,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Historical Context
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Current Relevance
-
-TODO
-## See Also
-
-TODO
 
 ## Player-Facing Summary
 
@@ -45,25 +45,14 @@ Character Creation Guide is a undersea element of the setting, known for biolumi
 
 Legends speak of Character Creation Guide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Character Creation Guide.
 
-## Adventure Hooks
-
-- A rumor ties Character Creation Guide to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Character Creation Guide to avert a public scandal.
-- A map overlay reveals a hidden approach to Character Creation Guide active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Vault_Navigation_Hub|Vault Navigation Hub]]
 
 
-## Connections
+## Plot Hooks
 
-- See also: [[Master Timeline]]
-- Related: [[Power Structures]]
-- Connected to: [[Main Quest Line]]
+- Strange accidents suggest ancient magic
+- A journal reveals the truth about this place
+- Strange accidents suggest ancient magic

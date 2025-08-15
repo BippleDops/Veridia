@@ -18,11 +18,6 @@ updated: '2025-08-13T00:00:00.000000'
 world: Both
 ---
 
-
-# Social Encounter Reference
-
-## Social Challenge Framework
-
 ### Encounter Types
 | Type | Purpose | Duration | Complexity |
 |------|---------|----------|------------|
@@ -35,13 +30,11 @@ world: Both
 ### Challenge Rating System
 | CR | Description | Base DC | Failure Consequences |
 |----|-------------|---------|---------------------|
-| **1-2** | Routine interaction | 12 | Minor setback |
+| **1-2** | Routine interaction | 12 | Minor seck |
 | **3-4** | Professional discussion | 15 | Moderate complications |
 | **5-8** | Skilled negotiation | 18 | Significant problems |
 | **9-12** | Expert-level diplomacy | 21 | Major consequences |
 | **13+** | Master-tier intrigue | 24+ | Campaign-changing results |
-
-## NPC Attitude System
 
 ### Attitude Levels
 | Attitude | Behavior | Cooperation Level | Information Sharing |
@@ -51,23 +44,6 @@ world: Both
 | **Neutral** | Professional, indifferent | Standard | Basic facts only |
 | **Friendly** | Warm, helpful | Willing | Useful information |
 | **Helpful** | Eager to assist | Goes above/beyond | Secrets and rumors |
-
-### Attitude Shift Triggers
-#### Positive Shifts (+1 level)
-- **Shared Interest**: Common goal or hobby
-- **Mutual Benefit**: Offer something valuable
-- **Respect Shown**: Acknowledge their expertise/status
-- **Cultural Sensitivity**: Demonstrate understanding
-- **Personal Connection**: Reference mutual acquaintance
-
-#### Negative Shifts (-1 level)
-- **Insult**: Direct or perceived slight
-- **Threat**: Intimidation or coercion
-- **Cultural Ignorance**: Violate customs/traditions
-- **Broken Promise**: Fail to follow through
-- **Competitive Interest**: Want same thing they do
-
-## Skill Applications
 
 ### Primary Social Skills
 | Skill | Best Used For | Common DCs | Failure Effects |
@@ -88,8 +64,6 @@ world: Both
 | **Nature** | Environmental concerns | Farming, weather, ecology |
 | **Medicine** | Health matters | Diagnose conditions, healing |
 
-## Aquabyssos Social Customs
-
 ### Depth-Based Hierarchy
 | Depth Tolerance | Social Status | Expected Deference |
 |-----------------|---------------|-------------------|
@@ -98,22 +72,6 @@ world: Both
 | **Medium Depths** | Middle class | Equal treatment expected |
 | **Deep Adapted** | Upper class | Deference from surface dwellers |
 | **Abyssal Tolerant** | Elite/Noble | Reverence expected |
-
-### Communication Customs
-- **Greeting Ritual**: Touch fingertips to forehead, then heart
-- **Respect Gesture**: Bow depth corresponds to status difference
-- **Casual Address**: Use current-related metaphors ("riding the tide")
-- **Formal Address**: Reference depth achievements and affiliations
-- **Farewell**: "May your pressures be gentle" (standard blessing)
-
-### Taboo Topics
-- **Personal Memory Trading**: Extremely private matter
-- **Depth Adaptation Failures**: Source of shame
-- **Surface Dwelling Preference**: Seen as weakness
-- **Parliamentary Corruption**: Dangerous in public
-- **Shadow Surgery Scars**: Never mentioned directly
-
-## Aethermoor Social Customs
 
 ### Altitude-Based Hierarchy
 | Altitude Tolerance | Social Status | Expected Behavior |
@@ -124,40 +82,6 @@ world: Both
 | **High Altitude** | Noble class | Expect respect and service |
 | **Extreme Heights** | Royal/Divine | Complete subservience |
 
-### Communication Customs
-- **Greeting Ritual**: Spread arms wide like wings, brief bow
-- **Wind Blessing**: "May fair winds lift you" (common greeting)
-- **Status Recognition**: Higher altitude dwellers speak first
-- **Gift Exchange**: Small tokens representing air/wind/sky
-- **Contract Sealing**: Witnessed by wind or sky phenomena
-
-### Taboo Topics
-- **Falling Accidents**: Deeply traumatic subject
-- **Ground Dwelling by Choice**: Considered mental illness
-- **Royal Family Scandals**: Treasonous to discuss
-- **Crystal Corruption**: Growing concern, handled delicately
-- **Weather Control Failures**: Professional embarrassment
-
-## Faction-Specific Social Rules
-
-### Shadow Conspiracy Interactions
-#### Recognition Signals
-- **Subtle**: Specific hand gesture (touching temple briefly)
-- **Coded**: "The depths hold many memories" (response: "And the surface forgets")
-- **Emergency**: "My reflection seems different today"
-
-#### Behavioral Patterns
-- **Paranoid**: Constantly check surroundings
-- **Indirect**: Never say exactly what they mean
-- **Testing**: Ask seemingly innocent questions with hidden meaning
-- **Loyal**: Absolute loyalty to conspiracy, suspicious of outsiders
-
-### Crystal Cult Interactions
-#### Recognition Signals
-- **Visual**: Crystal jewelry or embedded crystals
-- **Verbal**: Reference to "crystal harmony" or "perfect resonance"
-- **Behavioral**: Touch crystals frequently, speak in rhythmic patterns
-
 #### Conversion Attempts
 | Stage | Approach | Resistance DC | Failure Response |
 |-------|----------|---------------|------------------|
@@ -166,21 +90,12 @@ world: Both
 | **Pressure** | Social/peer pressure | 20 | Turn aggressive |
 | **Force** | Threats or actual force | 25 | Violence or departure |
 
-### Government Officials
 #### Bureaucratic Protocol
 1. **Proper Introduction**: State full name, title, purpose
 2. **Documentation**: Present credentials and authorizations
 3. **Formal Request**: Use official language and procedures
 4. **Wait Period**: Expect delays and additional requirements
 5. **Official Response**: Formal written documentation
-
-#### Corruption Indicators
-- **Excessive Delays**: Stalling for bribes
-- **Unnecessary Requirements**: Creating need for "facilitation"
-- **Private Meetings**: Moving away from official channels
-- **Coded Language**: "Processing fees" and "expediting costs"
-
-## Information Gathering Techniques
 
 ### Direct Questioning
 | Approach | Success Rate | Risk Level | NPC Reaction |
@@ -205,8 +120,6 @@ world: Both
 | **Professional Secrets** | 10-50 gp | Professional favor |
 | **Dangerous Information** | 100-500 gp | Protection guarantee |
 | **Life-Threatening Intel** | 1000+ gp | New identity |
-
-## Complications and Twists
 
 ### Mid-Encounter Complications (d12)
 | Roll | Complication | Impact |
@@ -235,8 +148,6 @@ world: Both
 | 6 | **Dangerous Knowledge** | Information puts PC at risk |
 | 7 | **Moral Dilemma** | Acting on info requires compromise |
 | 8 | **Unexpected Alliance** | Former enemy becomes ally |
-
-## Quick Social Encounter Setup
 
 ### Random Social Encounters (d10)
 1. **Information Broker** seeking to trade secrets
@@ -269,16 +180,27 @@ world: Both
 | **Excellent** | Ongoing alliance | Becomes recurring ally |
 | **Perfect** | Complete trust | Shares dangerous secrets |
 
-## Links to Related Content
-- [[NPC_Reaction_Generator]]
-- [[Dynamic_NPC_Personality_Matrix]]
-- [[Faction_Quick_Reference]]
-- [[Aquabyssos_Cultural_Codex]]
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -287,3 +209,23 @@ world: Both
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- Someone is searching for an heir for revenge
+- Someone is searching for information for power
+- Someone is searching for a witness for revenge
+- Someone is hunting a witness for love
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

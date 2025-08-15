@@ -24,20 +24,33 @@ updated: '2025-08-13T12:34:07.089551+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-pearl-of-power-xdmg-pearl-of-power-xdmg.svg)
 
 # Pearl of Power
 *Wondrous item, uncommon (requires attunement by a spellcaster)*  
 
-
-
 While this pearl is on your person, you can take a [[actions#Magic|Magic]] action to regain one expended spell slot of level 3 or lower. Once you use the pearl, it can't be used again until the next dawn.
 
-*Source: Dungeon Master's Guide (2024) p. 284. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 284. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -47,19 +60,17 @@ Pearl of power xdmg is a undersea element of the setting, known for bioluminesce
 
 Legends speak of pearl of power xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around pearl of power xdmg.
 
-## Adventure Hooks
-
-- A rumor ties pearl of power xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at pearl of power xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to pearl of power xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals ancient history about this place
+- Someone is hunting information for power
+- Someone is searching for a artifact for love

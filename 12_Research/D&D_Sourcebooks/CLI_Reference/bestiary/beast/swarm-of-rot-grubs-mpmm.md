@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.242216'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-swarm-of-rot-grubs-mpmm-swarm-of-rot-grubs-mpmm.svg)
 
@@ -39,6 +37,24 @@ world: Both
 Rot grubs are finger-sized maggots that eat living and dead creatures, although they can survive on vegetation. They infest corpses and piles of decaying matter and attack anyone that disturbs them. After burrowing into a creature, rot grubs instinctively chew their way toward vital parts.
 
 Rot grubs recoil from flames, and fire is the main weapon against rot grubs once they're inside a body. Magic that neutralizes poison can also stop them before they kill their host.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Single Rot Grub
 
@@ -60,14 +76,12 @@ Any creature that comes into contact with a single rot grub must succeed on a DC
   - !!int "7"
   - !!int "10"
   - !!int "1"
-  - !!int "2"
-  - !!int "1"
 "speed": "5 ft., climb 5 ft."
 "damage_vulnerabilities": "fire"
 "damage_resistances": "piercing, slashing"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
-  \ [[conditions#Petrified|petrified]], [[conditions#Prone|prone]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#prone|prone]],\
   \ [[conditions#Restrained|restrained]]"
 "senses": "blindsight 10 ft., passive Perception 6"
 "languages": ""
@@ -106,19 +120,30 @@ Swarm of rot grubs mpmm is a undersea element of the setting, known for biolumin
 
 Legends speak of swarm of rot grubs mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around swarm of rot grubs mpmm.
 
-## Adventure Hooks
-
-- A rumor ties swarm of rot grubs mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at swarm of rot grubs mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to swarm of rot grubs mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Depths
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

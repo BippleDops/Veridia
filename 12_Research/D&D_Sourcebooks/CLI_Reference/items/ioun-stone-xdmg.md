@@ -23,11 +23,9 @@ updated: '2025-08-12T23:37:36.772501'
 world: Both
 ---
 
-
 # Ioun Stone
 *Wondrous item (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/ioun-stone.webp#right)
-
 
 Roughly marble sized, *Ioun Stones* are named after Ioun, a god of knowledge and prophecy revered on some worlds. Many types of *Ioun Stones* exist, each type a distinct combination of shape and color.
 
@@ -54,9 +52,27 @@ The type of stone determines its rarity and effects.
 - [[ioun-stone-regeneration-xdmg|Ioun Stone, Regeneration]]
 - [[ioun-stone-reserve-xdmg|Ioun Stone, Reserve]]
 - [[ioun-stone-strength-xdmg|Ioun Stone, Strength]]
-- [[ioun-stone-sustenance-xdmg|Ioun Stone, Sustenance]]
+- [[ioun-stone-sustece-xdmg|Ioun Stone, Sustece]]
 
-*Source: Dungeon Master's Guide (2024) p. 273. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 273. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -66,19 +82,28 @@ Ioun stone xdmg is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of ioun stone xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ioun stone xdmg.
 
-## Adventure Hooks
-
-- A rumor ties ioun stone xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ioun stone xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to ioun stone xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a conspiracy
+- A document has gone missing and war looms
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

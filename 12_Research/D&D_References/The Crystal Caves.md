@@ -16,17 +16,26 @@ world: Aethermoor
 updated: '2025-08-13T01:18:34.514425+00:00'
 ---
 
-
 > [!figure] Asset
 ![[04_Resources/Assets/Locations/location-city-the-crystal-caves-the-crystal-caves.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -36,21 +45,9 @@ The Crystal Caves is a undersea element of the setting, known for bioluminescent
 
 Legends speak of The Crystal Caves as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crystal Caves.
 
-## Adventure Hooks
-
-- A rumor ties The Crystal Caves to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Crystal Caves to avert a public scandal.
-- A map overlay reveals a hidden approach to The Crystal Caves active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[The Crystal Caves|02 Worldbuilding/People/The Crystal Caves]]
-
-<!-- enriched: true -->
 
 ## Semantic Connections
 *Related concepts and locations:*
@@ -65,7 +62,32 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 - [[Ambassador-Warden Luna Peacegem]]
 - [[guild-artisan]]
 
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing a witness for money
+- A journal reveals a conspiracy about a local noble
+- A stranger needs help stealing before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

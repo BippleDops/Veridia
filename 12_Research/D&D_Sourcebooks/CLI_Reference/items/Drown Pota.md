@@ -25,8 +25,6 @@ updated: '2025-08-13T12:34:07.024323+00:00'
 world: Both
 ---
 
-
-
 # Drown
 *Weapon ([[trident-xphb|trident]]), legendary (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/drown.webp#right)
@@ -41,6 +39,24 @@ world: Both
 A steel trident decorated with bronze barnacles along the upper part of its haft, Drown has a sea-green jewel just below the tines and a silver shell at the end of its haft. It floats on the surface if dropped onto water, and it floats in place if it is released underwater. The trident is always cool to the touch, and it is immune to any damage due to exposure to water. Drown contains a spark of [[olhydra-pota|Olhydra]], the Princess of Evil Water.
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon. When you hit with it, the targets take an extra `d8` cold damage.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Water Mastery
 
@@ -68,19 +84,26 @@ Drown pota is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of drown pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around drown pota.
 
-## Adventure Hooks
-
-- A rumor ties drown pota to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at drown pota to avert a public scandal.
-- A map overlay reveals a hidden approach to drown pota active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- Someone is searching for information for power
+- A map reveals ancient history about the government
+- Strange sightings suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

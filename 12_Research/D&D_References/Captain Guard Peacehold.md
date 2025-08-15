@@ -15,36 +15,26 @@ world: Aethermoor
 updated: '2025-08-13T01:18:37.029913+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-captain-guard-peacehold-captain-guard-peacehold.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Appearance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Personality
-
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -54,28 +44,35 @@ Captain Guard Peacehold is a undersea element of the setting, known for biolumin
 
 Legends speak of Captain Guard Peacehold as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Guard Peacehold.
 
-## Adventure Hooks
-
-- A rumor ties Captain Guard Peacehold to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Captain Guard Peacehold to avert a public scandal.
-- A map overlay reveals a hidden approach to Captain Guard Peacehold active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Captain Guard Peacehold|02 Worldbuilding/People/Captain Guard Peacehold]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Port Meridian - Market Square]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

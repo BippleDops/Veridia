@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:05.861264+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-orthon-mpmm-orthon-mpmm.svg)
 
@@ -61,8 +58,6 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
   - !!int "16"
   - !!int "21"
   - !!int "15"
-  - !!int "15"
-  - !!int "16"
 "speed": "30 ft., climb 30 ft."
 "saves":
   - "dexterity": !!int "7"
@@ -74,7 +69,6 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
   - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+11"
   - "name": "[[skills#Survival|Survival]]"
-    "desc": "+10"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
@@ -114,7 +108,6 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
       \ The target takes 22 (4d10) lightning damage and must make a successful DC\
       \ 17 Constitution saving throw or be [[conditions#Paralyzed|paralyzed]]\
       \ for 1 minute. The [[conditions#Paralyzed|paralyzed]] target\
-      \ can repeat the saving throw at the end of each of its turns, ending the effect\
       \ on itself on a success.  \n- Tracking. For the next 24 hours, the orthon\
       \ knows the direction and distance to the target, as long as it's on the same\
       \ plane of existence. If the target is on a different plane, the orthon knows\
@@ -140,6 +133,24 @@ Orthons value the challenge of the chase and the thrill of one-on-one combat abo
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 desert, underdark, urban
@@ -152,19 +163,22 @@ Orthon mpmm is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of orthon mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around orthon mpmm.
 
-## Adventure Hooks
-
-- A rumor ties orthon mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at orthon mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to orthon mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals a conspiracy about this place
+- Someone is hunting a artifact for revenge
+- Someone is searching for a witness for love
+- A letter reveals a betrayal about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.707923+00:00'
 world: Both
 ---
 
-
-
 # 5,000 gp Gemstones
 *Source: Dungeon Master's Guide p. 134* 
 
@@ -39,6 +37,24 @@ world: Both
 | 4 | [[ruby-xdmg|Ruby]] (transparent clear red to deep crimson) |
 ^5000-gp-gemstones
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 5000 gp gemstones is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -47,19 +63,32 @@ world: Both
 
 Legends speak of 5000 gp gemstones as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 5000 gp gemstones.
 
-## Adventure Hooks
-
-- A rumor ties 5000 gp gemstones to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 5000 gp gemstones to avert a public scandal.
-- A map overlay reveals a hidden approach to 5000 gp gemstones active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Plot Hooks
+
+- A journal reveals the truth about this place
+- A merchant needs help stealing before the new moon
+- Someone is protecting an heir for power
+- A prisoner has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

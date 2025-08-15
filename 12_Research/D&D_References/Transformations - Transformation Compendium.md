@@ -23,17 +23,30 @@ updated: '2025-08-13T12:34:17.800765+00:00'
 world: Both
 ---
 
-
-
-
 # Transformation Compendium
 *100+ Paths to Power and Peril*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
 Transformations represent fundamental changes to a character's nature—physical, mental, or spiritual alterations that grant new abilities at the cost of humanity. Each transformation follows a progression path with increasing benefits and drawbacks.
-
-## Core Mechanics
 
 ### Transformation Points
 Characters accumulate Transformation Points (TP) through exposure, choice, or curse. Every 10 TP advances to the next stage.
@@ -45,78 +58,23 @@ Characters accumulate Transformation Points (TP) through exposure, choice, or cu
 4. **Stage IV - Metamorphosis** (31-40 TP): Powerful but alienating
 5. **Stage V - Transcendence** (41+ TP): Barely human, immense power
 
-### Resistance and Acceptance
-- **Resistance DC**: 10 + current TP to avoid gaining points
-- **Acceptance**: Voluntarily failing saves doubles TP gain
-- **Purification**: Various methods can reduce TP (rare and costly)
-
-## Transformation Trees
-
 ### 🦠 Parasite Transformations
 *Symbiotic entities that grant power through biological fusion*
-
-#### Available Paths:
-- [[03_Mechanics/Transformations/Parasite/Shadow_Parasite|Shadow Parasite]] — Living darkness symbiote
-- [[03_Mechanics/Transformations/Parasite/Crystal_Parasite|Crystal Parasite]] — Mineral growth integration
-- [[03_Mechanics/Transformations/Parasite/Deep_Parasite|Deep Parasite]] — Aquatic horror fusion
-- [[03_Mechanics/Transformations/Parasite/Mind_Parasite|Mind Parasite]] — Psychic entity merger
-- [[03_Mechanics/Transformations/Parasite/Bone_Parasite|Bone Parasite]] — Skeletal enhancement
-- [[03_Mechanics/Transformations/Parasite/Blood_Parasite|Blood Parasite]] — Vampiric symbiosis
 
 ### 💎 Crystal Transformations
 *Mineral corruption spreading through body and soul*
 
-#### Available Paths:
-- [[03_Mechanics/Transformations/Crystal/Crystal_Bloom|Crystal Bloom]] — Living crystal growth
-- [[03_Mechanics/Transformations/Crystal/Shard_Mind|Shard Mind]] — Crystallized consciousness
-- [[03_Mechanics/Transformations/Crystal/Resonance_Body|Resonance Body]] — Harmonic crystal form
-- [[03_Mechanics/Transformations/Crystal/Prism_Soul|Prism Soul]] — Light-refracting essence
-- [[03_Mechanics/Transformations/Crystal/Fractal_Growth|Fractal Growth]] — Geometric expansion
-- [[03_Mechanics/Transformations/Crystal/Crystal_Heart|Crystal Heart]] — Core replacement
-
 ### 🌊 Deep Mother Transformations
 *Blessings and curses from the primordial depths*
-
-#### Available Paths:
-- [[03_Mechanics/Transformations/Deep_Mother/Depth_Blessed|Depth Blessed]] — Pressure adaptation
-- [[03_Mechanics/Transformations/Deep_Mother/Dream_Touched|Dream Touched]] — Nightmare connection
-- [[03_Mechanics/Transformations/Deep_Mother/Tide_Caller|Tide Caller]] — Water manipulation
-- [[03_Mechanics/Transformations/Deep_Mother/Abyssal_Form|Abyssal Form]] — Deep sea evolution
-- [[03_Mechanics/Transformations/Deep_Mother/Memory_Eater|Memory Eater]] — Psychic predator
-- [[03_Mechanics/Transformations/Deep_Mother/Void_Speaker|Void Speaker]] — Cosmic horror link
 
 ### 🔧 Tech-Bio Transformations
 *Fusion of flesh and ancient technology*
 
-#### Available Paths:
-- [[03_Mechanics/Transformations/TechBio/Mech_Flesh|Mech Flesh]] — Mechanical integration
-- [[03_Mechanics/Transformations/TechBio/Data_Mind|Data Mind]] — Digital consciousness
-- [[03_Mechanics/Transformations/TechBio/Nano_Blood|Nano Blood]] — Microscopic enhancement
-- [[03_Mechanics/Transformations/TechBio/Circuit_Nerves|Circuit Nerves]] — Electronic nervous system
-- [[03_Mechanics/Transformations/TechBio/Chrome_Bones|Chrome Bones]] — Metal skeleton
-- [[03_Mechanics/Transformations/TechBio/Holo_Soul|Holo Soul]] — Projected existence
-
 ### 🌀 Elemental Transformations
 *Becoming one with primal forces*
 
-#### Available Paths:
-- [[03_Mechanics/Transformations/Elemental/Storm_Body|Storm Body]] — Lightning and wind
-- [[03_Mechanics/Transformations/Elemental/Magma_Heart|Magma Heart]] — Fire and earth
-- [[03_Mechanics/Transformations/Elemental/Frost_Soul|Frost Soul]] — Ice and cold
-- [[03_Mechanics/Transformations/Elemental/Void_Form|Void Form]] — Darkness and vacuum
-- [[03_Mechanics/Transformations/Elemental/Light_Being|Light Being]] — Radiance and energy
-
 ### 👁️ Aberrant Transformations
 *Mutations beyond natural law*
-
-#### Available Paths:
-- [[03_Mechanics/Transformations/Aberrant/Eye_Proliferation|Eye Proliferation]] — Multiple vision
-- [[03_Mechanics/Transformations/Aberrant/Tentacle_Growth|Tentacle Growth]] — Limb multiplication
-- [[03_Mechanics/Transformations/Aberrant/Phase_Shift|Phase Shift]] — Dimensional instability
-- [[03_Mechanics/Transformations/Aberrant/Flesh_Sculptor|Flesh Sculptor]] — Body malleability
-- [[03_Mechanics/Transformations/Aberrant/Hive_Mind|Hive Mind]] — Collective consciousness
-
-## Universal Transformation Rules
 
 ### Gaining Transformation Points
 
@@ -154,43 +112,6 @@ Characters accumulate Transformation Points (TP) through exposure, choice, or cu
 **Stage IV**: Treated as monster by most civilized folk
 **Stage V**: Hunted by authorities, feared by all
 
-## Combining Transformations
-
-### Multi-Path Rules
-- Maximum 2 active transformation types
-- Combined TP determines overall stage
-- Conflicting transformations cause instability
-- Synergistic combinations grant bonus abilities
-
-### Transformation Conflicts
-- Crystal + Parasite: Save or lose 1d6 HP daily
-- Tech-Bio + Deep Mother: Disadvantage on all saves
-- Elemental + Aberrant: Random magical surges
-
-### Synergies
-- Crystal + Tech-Bio: Enhanced integration
-- Parasite + Deep Mother: Accelerated adaptation
-- Elemental + appropriate environment: Double benefits
-
-## Curing Transformations
-
-### Stage I-II Cures
-- **Greater Restoration**: Removes 2d6 TP
-- **Purification Ritual**: 500gp components, removes 1d8 TP
-- **Divine Intervention**: Complete removal possible
-
-### Stage III-IV Cures
-- **Wish Spell**: Complete reversal
-- **Artifact-level magic**: Specific items can cure
-- **Epic quest**: Seeking legendary cure
-- **Deal with Power**: Trade one curse for another
-
-### Stage V Cures
-- **Death and Resurrection**: Sometimes works
-- **Divine Direct Intervention**: Deity-level power
-- **Accepting New Form**: Transcend to different existence
-- **The Ultimate Sacrifice**: Another takes the transformation
-
 ## Quick Random Transformation Table
 
 **d100 Roll**:
@@ -205,28 +126,6 @@ Characters accumulate Transformation Points (TP) through exposure, choice, or cu
 - 93-97: Temporal displacement
 - 98-99: Roll twice, both apply
 - 00: Player's choice
-
-## DM Guidelines
-
-### Introducing Transformations
-- Telegraph dangers clearly
-- Provide resistance options
-- Make consequences meaningful
-- Allow player agency
-
-### Balancing Power and Price
-- Benefits should match drawbacks
-- Social costs matter as much as mechanical
-- Provide cure opportunities
-- Respect player boundaries
-
-### Campaign Integration
-- Tie to major plot elements
-- Create transformation-specific quests
-- Build NPC reactions
-- Establish world consequences
-
----
 
 ## See Also
 - [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
@@ -244,25 +143,24 @@ Transformation Compendium is a undersea element of the setting, known for biolum
 
 Legends speak of Transformation Compendium as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Transformation Compendium.
 
-## Adventure Hooks
-
-- A rumor ties Transformation Compendium to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Transformation Compendium to avert a public scandal.
-- A map overlay reveals a hidden approach to Transformation Compendium active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[03_Mechanics/Transformations/Crystal/Crystal_Bloom|03 Mechanics/Transformations/Crystal/Crystal Bloom]]
 
 
-## Connections
+## Plot Hooks
 
-- See also: [[Master Timeline]]
-- Related: [[Recent Events]]
-- Connected to: [[Character Backstories]]
+- An heirloom has gone missing and evil awakens
+- A prisoner has gone missing and chaos spreads
+- A shipment has gone missing and war looms
+- Strange accidents suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

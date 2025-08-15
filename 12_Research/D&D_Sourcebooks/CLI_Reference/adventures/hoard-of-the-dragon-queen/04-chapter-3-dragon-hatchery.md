@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.629731'
 world: Both
 ---
 
-
 # Chapter 3: Dragon Hatchery
 *Source: Hoard of the Dragon Queen, p. 36* 
 
@@ -32,13 +31,30 @@ After his experience in captivity, Leosin needs several days to recover. When he
 > [!readaloud] 
 > 
 > "After all you've done already for me personally and for the people of Greenest, I hate to ask anything more from you. But the need is great, and I dare to hope that you can aid me one time more. I need you to return to the cultists' camp. You know your way around it now. If the cultists are preparing to conduct another raid, or a large body of them marches away, or if anything substantial is carried into or out of that cave, I need to know. If you have a chance to get into the camp and look around again, that would be the ideal way to spot anything that's changed.
-> 
 > "I don't recommend letting yourselves get captured," he adds with a wry smile.
 ^0a5
 
 If the characters were working as caravan guards, Leosin offers to match whatever their previous employer was paying them plus 20 percent. If they are currently unemployed, he offers them 150 gp apiece. He's willing to haggle; this mission is important, and no one else is available who Leosin believes can handle it. If the characters accept, he tells them to find him at the city of Elturel afterward, both to report and to collect their pay. If he has moved on before they reach the city, they can speak to the paladin [[/03_Mechanics/CLI/bestiary/npc/ontharr-frume-hotdq|Ontharr Frume]] instead.
 
 The monk doesn't believe it's essential that the characters head back to the camp immediately. He doesn't expect the cultists to make any sudden changes in their plans or mode of operation. Leosin is wrong about this, because he doesn't realize how much his presence in Greenest alarmed the wyrmspeaker. [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] knows that Leosin is investigating the Cult of the Dragon, but she doesn't know whether the monk's appearance in Greenest was a coincidence, a good guess, or a sign that the cult's whole plan has been compromised. She isn't willing to take chances: she's heading north with the accumulated treasure immediately.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Abandoned Camp
 
@@ -55,8 +71,6 @@ A thorough search of the camp takes about ten man-hours. Allow characters to mak
 ## Dragon Hatchery
 
 The only thing of interest remaining in the camp is the cave itself (area 4 on the map of the camp), which characters can see from the camp. There, characters find the cultists who stayed behind, a clutch of dragon eggs, the special cadre of kobolds who tend the eggs—and the many traps the kobolds set to defend their home. These eggs are important to the cult, but they were deemed too near to hatching to be moved safely. [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] left them with what she believed was an adequate guard force under [[/03_Mechanics/CLI/bestiary/npc/frulam-mondath-hotdq|Frulam Mondath]] and [[/03_Mechanics/CLI/bestiary/npc/langdedrosa-cyanwrath-hotdq|Langdedrosa Cyanwrath]].
-
-### General Features
 
 #### Ceilings
 
@@ -110,8 +124,6 @@ The stairs down to area 3 are trapped. See that area's description for details.
 
 The kobolds cultivate fungus in this cavern to supplement the meat brought in by the hunters. Mixed in among the mundane fungi are [[violet-fungus-xmm|violet fungi]]. The drop-off from area 2 is 10 feet high. The stairs are trapped; see below.
 
-> [!readaloud] 
-> 
 > The entrance to the cave ends here at a 10-foot drop-off. To your right, broad steps are roughly hewn into a natural stone ramp. The cavern below is carpeted with a profusion of fungi ranging from a few inches high to nearly as tall as a human adult. Two paths lead through the fungi: one on the right and one on the left.
 ^0b2
 
@@ -147,15 +159,11 @@ A thorough search of the trash heap, taking 10 minutes, does find one worthwhile
 
 The curtain across the entrance to this cavern is trapped. See "Trapped Curtain" below for details.
 
-> [!readaloud] 
-> 
 > At the base of these steeply descending steps, a curtain hangs across the passage. It is made from hundreds of heavy leather strips, each about the width of a human hand. The strips are fixed to the ceiling and are long enough to drag on the floor. The curtain extends from wall to wall. The leather comes from a variety of local animals and is badly cured. The curtain is several layers thick with no gaps, so you can't see through it at all.
 ^0b8
 
 This cavern is naturally cold. It hovers a few degrees above freezing year round, regardless of the season. Much of the meat brought in by the hunters feeds the cultists and the kobolds, but the extra is stored here for eventual use when the dragon eggs hatch and the ravenous hatchlings emerge. The carcasses range from very fresh to several months old. The meat is only cold, not frozen, so the older items are slowly going bad.
 
-> [!readaloud] 
-> 
 > The smell of old blood assaults your nose. The floor is covered with dried puddles of it. Four floor-to-ceiling columns are spaced across the chamber, and chains have been strung between them like clothesline. Animal carcasses hang on hooks from the chains. You see gutted and skinned antelope, deer, goats, what might be big cats, and even a few small bears. Some of this meat has been here for a while if the smell is a reliable indicator.
 ^0b9
 
@@ -187,8 +195,6 @@ A portion of the floor between areas 4 and 7 has been replaced with a sheet of p
 
 The steps down from area 7 are trapped; see "Collapsing Trap" below for details. Area 8 is the kobolds' living quarters. It was a natural cavern, but it has been enlarged and smoothed in a crude manner. Unless they already responded to noise in area 7, this area contains six [[kobold-warrior-xmm|kobolds]] and six [[winged-kobold-xmm|winged kobolds]]. They are off duty, so they aren't being especially alert. Use their passive Wisdom ([[skills#Perception|Perception]]) scores to determine whether they react to noises. Flickering oil lamps provide dim illumination.
 
-> [!readaloud] 
-> 
 > Thin mattresses of straw covered with badly cured furs form small beds that are haphazardly positioned around the chamber. Rats and small lizards scurry through the food scraps and moldy wine skins littering the floor.
 ^0be
 
@@ -210,8 +216,6 @@ This cave is a shrine to Tiamat, but with an emphasis on her black dragon head a
 
 [[/03_Mechanics/CLI/bestiary/npc/langdedrosa-cyanwrath-hotdq|Langdedrosa Cyanwrath]] occupies the shrine, and he is joined by two human [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|berserkers]]. (If the adventuring party contains more than four characters, add one more berserker for each additional character. If Langdedrosa was killed, then replace him with another half-dragon with the same statistics.) If Cyanwrath fought any of the characters one-on-one in Greenest, he immediately singles out that person to address as follows.
 
-> [!readaloud] 
-> 
 > "You survived! I don't know whether to be disappointed or pleased. It's a mix of both, I think."
 ^0c2
 
@@ -219,8 +223,6 @@ If the character beat the odds in Greenest and won the fight, you can paraphrase
 
 If none of the characters fought Cyanwrath during the raid but spent time in the cultists' camp, read this.
 
-> [!readaloud] 
-> 
 > "You look familiar... I've seen you around the camp. If you came looking for trouble, I am the trouble you seek."
 ^0c3
 
@@ -228,8 +230,6 @@ Then he attacks, and his guards join in immediately.
 
 The creatures in area 10 are not drawn to this fight. They hide and wait to see who wins. When the fight is over, characters have time to investigate the room.
 
-> [!readaloud] 
-> 
 > This chamber has been enlarged and reshaped from its original form. The floor and three of the walls are smooth, and stalactites and stalagmites have been polished into gleaming columns. Every surface glistens with moisture, and the air is warm and humid. The flat walls of the chamber are decorated with shallow abstract carvings of dragons. Dragons' tails coil into intricate patterns and knots that flow across the walls. The creature portrayed in the northwest corner stands out: a five-headed dragon, rising from an erupting volcano. Other dragons, which seem dwarfed by the five-headed monstrosity, flock to its side. A small, wooden chest with silver and mother-of-pearl inlays sits on the floor in the corner, in front of the monstrous dragon carving.
 ^0c4
 
@@ -245,8 +245,6 @@ A passage in the southwest corner of the shrine chamber leads to a chute that ri
 
 The holes in the dragons' mouths are nozzles for a trap that sprays acidic mist. The trap has two triggers. The first is under the chest in the northwest corner. If the chest is moved, the trap goes off. The second is in the chest. If it is forced open, or if the lock is inexpertly picked (a Dexterity result of 14 or less), the trap goes off.
 
-> [!readaloud] 
-> 
 > You hear a snap from beneath the chest, followed by a hissing sound like dozens of angry snakes—or like liquid moving through open tubes. A moment later, liquid sprays out from dozens of tiny holes in the walls and ceiling. Wherever it splashes onto the floor, the moisture on the stone bubbles and smokes. Within moments, the chamber is filled with acidic mist.
 ^0c6
 
@@ -260,8 +258,6 @@ The chest contains a few of the choicest items seized during the cult's recent t
 
 This chamber holds three eggs that [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] hoped to hatch into a new brood of dragons. They have not hatched yet but they will very soon, which is why [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] was unwilling to move them when the camp packed up and left. Instead, she left them under the care of Mondath and the kobolds. The chamber is dark; the kobolds extinguished their lights when they heard fighting in area 9.
 
-> [!readaloud] 
-> 
 > The chamber that opens at the bottom of the stairs is immense. A wide ledge runs along the left wall and drops away to a pit on the right. Many stalactites descend from the ceiling, and the sound of dripping water echoes continuously.
 ^0c9
 
@@ -303,8 +299,6 @@ If all else fails, the kobolds scramble up their makeshift ladder and attack wit
 
 The chamber contains a writing desk and stool, several tables with books and papers, and a mirror on a floor stand. Light comes from two oil lamps. Thick rugs completely cover the floor, including an open chute that drops down to area 9. A rope ladder is fixed in the chute for climbing up and down, but nothing marks the position of the open, 3-foot-wide hole when it is covered by rugs. The slight depression it causes in the rug can be noticed with a successful DC 10 Wisdom ([[skills#Perception|Perception]]) check. If someone steps on the chute without knowing it's there, the character must make a DC 10 Dexterity saving throw. Success means the character hops off the rug before it collapses through the hole, or grabs the top of ladder as he or she falls; failure means the character plunges 30 feet down the chute into area 9, taking `3d6` bludgeoning damage from the fall.
 
-> [!readaloud] 
-> 
 > Spread open on one of the tables is a simple map of the Greenfields area showing the villages the cult attacked and looted. An arrow is sketched in from the Greenfields toward the west and the town of Beregost on the Trade Way, where the arrow turns north. A separate sheet of paper that is covered with numerals in columns contains the note, "Everything must be freighted north to Naerytar. [[/03_Mechanics/CLI/bestiary/npc/rezmir-hotdq|Rezmir]] allowed us to keep some pearls, a ring, and a handful of small stones." Other papers are of less interest; most of them have bad poetry about dragons.
 ^0cf
 
@@ -347,19 +341,20 @@ With the dragon hatchery destroyed and the cultists all gone, characters should 
 
 Legends speak of 04 chapter 3 dragon hatchery as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 04 chapter 3 dragon hatchery.
 
-## Adventure Hooks
-
-- A rumor ties 04 chapter 3 dragon hatchery to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 04 chapter 3 dragon hatchery to avert a public scandal.
-- A map overlay reveals a hidden approach to 04 chapter 3 dragon hatchery active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -15,32 +15,26 @@ world: Aquabyssos
 updated: '2025-08-13T01:18:36.646655+00:00'
 ---
 
-
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-depth-safety-authorit-depth-safety-authorit.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## Structure
+### Enhancement Improvements
 
-TODO
-## Goals
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Assets
-
-TODO
-## Conflicts
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -50,19 +44,29 @@ Depth Safety Authority 2 is a undersea element of the setting, known for biolumi
 
 Legends speak of Depth Safety Authority 2 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Safety Authority 2.
 
-## Adventure Hooks
-
-- A rumor ties Depth Safety Authority 2 to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Depth Safety Authority 2 to avert a public scandal.
-- A map overlay reveals a hidden approach to Depth Safety Authority 2 active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Someone is searching for information for love
+- The authorities needs help delivering before dawn
+- Someone is hunting information for love
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

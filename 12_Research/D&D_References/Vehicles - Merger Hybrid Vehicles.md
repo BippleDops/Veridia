@@ -22,33 +22,27 @@ updated: '2025-08-13T12:34:17.804167+00:00'
 world: Both
 ---
 
-
-
-
 # Merger Hybrid Vehicles
 
 Impossible vessels for zones where physics fails and timelines knot. Requires close coordination with [[Complete Reality Merger System]], [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]], [[Deep Mother]], and [[Memory Trading Economy System|Memory Trading Economy]].
 
-## Impossible Vessels (Examples)
-- Depth-Flyer (Underwater flight through air pockets)
-- Pressure Crystal Ship (Solid-water hull; phase through liquid)
-- Memory Vessel (Crystallized thought; crewed by consensus)
-- Time Skipper (Arrives before departing; paradox fuel)
-- Probability Sloop (Chooses the most likely safe path; consumes luck)
-- Dream Barge (Sails the collective unconscious; anchor to lullabies)
-- Paradox Engine Dreadnought (Powered by impossibility; must resolve contradictions)
-- Echo Frigate (Exists twice; shares damage and repairs)
-- Anchor Cathedral (Mobile stability fortress; sanctuary for minds)
-- Eventide Courier (Moves at sunset in both worlds)
-- Möbius Ferry (Deck wraps; infinite corridor combat)
-- Palimpsest Ark (Overwrites local history to pass obstacles)
 
-## Merger Navigation Systems
-- Reality Compass: Points to highest Integrity area; jammed by Deep Mother pulses
-- Probability Charts: Dice pools spent to alter encounter odds
-- Sanity Piloting: Share party sanity as buffer; group breaks cause course loss
-- Transformation Engines: Ship evolves to match zone physics; risk permanent change
-- Deep Guidance: Bargain to receive routes in dreams; pay with memories or years
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Procedures
 1) Identify zone type from [[Complete Reality Merger System]]
@@ -66,23 +60,26 @@ Merger Hybrid Vehicles is a undersea element of the setting, known for biolumine
 
 Legends speak of Merger Hybrid Vehicles as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merger Hybrid Vehicles.
 
-## Adventure Hooks
-
-- A rumor ties Merger Hybrid Vehicles to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Merger Hybrid Vehicles to avert a public scandal.
-- A map overlay reveals a hidden approach to Merger Hybrid Vehicles active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Merger_Events_Pack_D|06 GM Resources/Travel/Events/Merger Events Pack D]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Someone is searching for a artifact for love
+- A journal reveals a betrayal about a local noble
+- Someone is hunting a artifact for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

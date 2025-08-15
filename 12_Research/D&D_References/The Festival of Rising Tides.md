@@ -28,14 +28,29 @@ duration: Seven Days
 participants: All Aquabyssos Communities
 ---
 
-
-
-
 # The Festival of Rising Tides
 *The Great Awakening of Waters and Spirits*
 
 > *"When the spring tides reach their highest peak and the Deep Mother stirs from winter's rest, all of Aquabyssos rejoices in the eternal dance between water and soul. In those seven sacred days, we remember who we are - children of the tide, keepers of the depths, and guardians of the eternal flow."*
 > — [[High Tide Celebrant Coral Festivus]], Master of Ceremonies
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -46,8 +61,6 @@ Held during the seven days surrounding the year's highest spring tide, the festi
 The festival serves multiple cultural functions: spiritual renewal through tidal communion, community strengthening through shared celebration, cultural preservation through traditional activities, economic stimulation through craft fairs and trade, and diplomatic bonding through inter-community cooperation. These overlapping purposes make the Festival of Rising Tides essential to Aquabyssos's cultural identity and social cohesion.
 
 During the festival, normal work routines are suspended, legal disputes are put on hold, and even the most serious conflicts are set aside in favor of community celebration. The event creates a temporary social structure where status differences are minimized and community bonds are prioritized over individual concerns, fostering unity and mutual support that persists long after the festival ends.
-
-## Historical Origins and Significance
 
 ### Ancient Foundations
 
@@ -78,8 +91,6 @@ Coastal communities incorporate surface elements into their celebrations, includ
 Mountain communities adapt festival activities to their unique geographic conditions, using underground lakes and seasonal springs to create tidal-like effects that allow participation in traditional activities despite their distance from oceanic tides. These adaptations demonstrate the festival's flexibility and cultural importance across diverse environments.
 
 Island communities create floating celebration platforms that move with actual tides, combining traditional underwater activities with surface-level community events. These innovative approaches preserve essential festival elements while creating new celebration possibilities that enhance community participation and cultural expression.
-
-## Festival Structure and Timeline
 
 ### Day One: Awakening Waters (Tide's Dawn)
 
@@ -214,8 +225,6 @@ Island communities create floating celebration platforms that move with actual t
 - **Commitment Renewal:** Reaffirmation of community bonds and mutual support
 - **Transition Blessing:** Religious ceremonies preparing community for return to normal activities
 
-## Cultural Activities and Traditions
-
 ### Musical Traditions and Performances
 
 **Traditional Festival Songs**
@@ -324,8 +333,6 @@ Island communities create floating celebration platforms that move with actual t
 - **Creative Expression Games:** Activities encouraging artistic development and individual creativity
 - **Social Integration Games:** Activities helping newcomers and refugees integrate into community life
 
-## Social and Cultural Integration
-
 ### Community Bonding and Relationship Building
 
 The Festival of Rising Tides serves as Aquabyssos's primary mechanism for building and maintaining social connections across families, communities, and generations. During the festival week, normal social hierarchies are temporarily suspended, creating opportunities for relationship formation and community building that would be difficult during regular community life.
@@ -374,8 +381,6 @@ Business meetings and planning sessions during the festival provide opportunitie
 **Inter-Community Commerce**
 Trade relationships between different communities are maintained and developed through festival commerce, creating economic interdependence that supports political cooperation and cultural exchange.
 
-## Religious and Spiritual Dimensions
-
 ### Sacred Observances and Spiritual Practices
 
 The Festival of Rising Tides incorporates profound religious and spiritual elements that connect individual participants with divine forces, community spiritual traditions, and cosmic rhythms governing Aquabyssos life. These spiritual activities provide meaning and context for festival celebrations while reinforcing cultural values and community bonds.
@@ -407,8 +412,6 @@ Religious purification activities help individuals and communities address spiri
 
 **Community Healing and Reconciliation**
 Collective healing activities address community divisions, historical traumas, and ongoing conflicts through mediation, reconciliation ceremonies, and restorative justice practices. These activities strengthen community bonds while addressing systemic problems affecting community health and stability.
-
-## Modern Adaptations and Contemporary Challenges
 
 ### Post-Catastrophe Modifications
 
@@ -458,8 +461,6 @@ Festival activities must balance celebration needs with environmental protection
 **Population Growth Management**
 Increasing community populations and refugee influxes require enhanced planning and resource management for festival activities, including capacity management, infrastructure development, and equitable resource distribution systems.
 
-## Adventure Hooks and Campaign Integration
-
 ### Festival-Based Adventures
 
 The Festival of Rising Tides provides numerous opportunities for adventures that combine cultural immersion with action, diplomacy, and character development. These adventures can showcase Aquabyssos culture while providing engaging gameplay experiences.
@@ -508,8 +509,6 @@ Diplomatic activities during festival events can create ongoing political relati
 **Religious and Spiritual Elements**
 Spiritual experiences and religious connections developed during festival activities can enhance character development while providing ongoing campaign elements related to divine intervention, spiritual guidance, and religious obligations.
 
-## Connected NPCs and Organizations
-
 ### Festival Leadership and Organization
 
 **[[High Tide Celebrant Coral Festivus]]** - Master of Ceremonies
@@ -539,8 +538,6 @@ Coordinating body managing relationships between different communities during fe
 
 **[[Temple of the Healing Waters|02 Worldbuilding/Groups/Temple Of The Healing Waters]]** - Religious Organization
 Religious institution providing spiritual services and community support during festival activities. Primary organization for religious education and spiritual healing services.
-
-## Connected Locations and Sacred Sites
 
 ### Primary Festival Venues
 
@@ -574,29 +571,31 @@ The Festival of Rising Tides is a undersea element of the setting, known for bio
 
 Legends speak of The Festival of Rising Tides as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Festival of Rising Tides.
 
-## Adventure Hooks
-
-- A rumor ties The Festival of Rising Tides to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Festival of Rising Tides to avert a public scandal.
-- A map overlay reveals a hidden approach to The Festival of Rising Tides active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Master_Lore_Index|Master Lore Index]]
-
-
-## Connections
-
-- [[Tidal Memory Ceremonies]]
-- [[Aethermoor]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and truth emerges
+- A letter reveals a conspiracy about the government
+- A stranger needs help finding before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

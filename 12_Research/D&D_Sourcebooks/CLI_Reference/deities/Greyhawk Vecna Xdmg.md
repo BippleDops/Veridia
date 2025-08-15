@@ -23,14 +23,30 @@ updated: '2025-08-13T12:34:04.482913+00:00'
 world: Both
 ---
 
-
-
 # Vecna
 *Source: Dungeon Master's Guide (2024) p. 148* 
 
 - **Alignment**: Unaligned
 - **Pantheon**: Greyhawk
 - **Symbol**: An eye in the palm of a left hand
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -40,20 +56,35 @@ Greyhawk vecna xdmg is a undersea element of the setting, known for bioluminesce
 
 Legends speak of greyhawk vecna xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around greyhawk vecna xdmg.
 
-## Adventure Hooks
-
-- A rumor ties greyhawk vecna xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at greyhawk vecna xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to greyhawk vecna xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- A journal reveals a betrayal about a local noble
+- A journal reveals a conspiracy about the cult
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

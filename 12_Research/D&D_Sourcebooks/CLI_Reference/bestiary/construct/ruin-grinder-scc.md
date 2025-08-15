@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.875801'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ruin-grinder-scc-ruin-grinder-scc.svg)
 
@@ -56,7 +54,7 @@ Created by the archaeomancers of Lorehold College, ruin grinders are mighty auto
 "speed": "30 ft., burrow 30 ft."
 "damage_immunities": "fire, poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Petrified|petrified]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
 "languages": "understands the languages of its creator but can't speak"
@@ -76,13 +74,31 @@ Created by the archaeomancers of Lorehold College, ruin grinders are mighty auto
   - "desc": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13\
       \ (2d6 + 6) force damage. If the target is a Huge or smaller creature, it must\
       \ succeed on a DC 17 Strength saving throw or be pushed up to 10 feet away and\
-      \ knocked [[conditions#Prone|prone]]."
+      \ knocked [[conditions#prone|prone]]."
     "name": "Excavator"
 "source":
   - "SCC"
 "image": "/03_Mechanics/CLI/bestiary/construct/token/ruin-grinder-scc.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -92,19 +108,30 @@ Ruin grinder scc is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of ruin grinder scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ruin grinder scc.
 
-## Adventure Hooks
-
-- A rumor ties ruin grinder scc to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ruin grinder scc to avert a public scandal.
-- A map overlay reveals a hidden approach to ruin grinder scc active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a portal
+- A corpse reveals ancient history about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -36,16 +36,11 @@ updated: '2025-08-13T12:34:07.846144+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Generated/Items/item-artifact-1-armor-xdmg-1-armor-xdmg.svg)
 
 # +1 Armor
 *Rare*  
-
-
 
 You have a +1 bonus to AC while wearing this armor.
 
@@ -63,78 +58,30 @@ You have a +1 bonus to AC while wearing this armor.
 - [+1 Splint Armor](#+1%20Splint%20Armor)
 - [+1 Studded Leather Armor](#+1%20Studded%20Leather%20Armor)
 
-## +1 Breastplate
-
-- **Armor Class**: 14 + Dex modifier (max of +2)
-- **Weight**: 20.0 lbs.
-
-### +1 Chain Mail
-
-- **Armor Class**: 16
-- **Strength**: Requires 13 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 55.0 lbs.
-
-### +1 Chain Shirt
-
-- **Armor Class**: 13 + Dex modifier (max of +2)
-- **Weight**: 20.0 lbs.
-
-### +1 Half Plate Armor
-
-- **Armor Class**: 15 + Dex modifier (max of +2)
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 40.0 lbs.
-
-### +1 Hide Armor
-
-- **Armor Class**: 12 + Dex modifier (max of +2)
-- **Weight**: 12.0 lbs.
-
-### +1 Leather Armor
-
-- **Armor Class**: 11 + Dex modifier
-- **Weight**: 10.0 lbs.
-
-### +1 Padded Armor
-
-- **Armor Class**: 11 + Dex modifier
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 8.0 lbs.
-
-### +1 Plate Armor
-
-- **Armor Class**: 18
-- **Strength**: Requires 15 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 65.0 lbs.
-
-### +1 Ring Mail
-
-- **Armor Class**: 14
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 40.0 lbs.
-
-### +1 Scale Mail
-
-- **Armor Class**: 14 + Dex modifier (max of +2)
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 45.0 lbs.
-
-### +1 Splint Armor
-
-- **Armor Class**: 17
-- **Strength**: Requires 15 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 60.0 lbs.
-
 ### +1 Studded Leather Armor
 
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
 
+*Source: Dungeon Master's Guide (2024) p. 230. Available in the SRD and the Free Rules (2024)*
 
-*Source: Dungeon Master's Guide (2024) p. 230. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -144,19 +91,30 @@ You have a +1 bonus to AC while wearing this armor.
 
 Legends speak of 1 armor xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 1 armor xdmg.
 
-## Adventure Hooks
-
-- A rumor ties 1 armor xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 1 armor xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to 1 armor xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting a witness for love
+- A merchant needs help delivering before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

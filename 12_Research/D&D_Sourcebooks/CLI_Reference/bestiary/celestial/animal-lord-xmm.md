@@ -17,7 +17,7 @@ tags:
 - active
 - status/in-progress
 - ttrpg-cli/monster/cr/20
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-monster
@@ -28,13 +28,29 @@ updated: '2025-08-12T23:37:35.816722'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-animal-lord-xmm-animal-lord-xmm.svg)
 
 # [[animal-lord-xmm|Animal Lord]]
 *Source: Monster Manual (2024) p. 15*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Animal Lord
 
@@ -54,7 +70,6 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
 > While I don't deny the compliment, I assure you, I'm more akin to a god than a "pretty kitty."
 
 > [!quote] A quote from Wind and Moon, Wolf Lord  
-> 
 > You call yourself hunter, but your fear makes you smell like prey.
 
 **Forager Animal Lord Appearances**
@@ -79,8 +94,6 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
 
 `dice: [](animal-lord-xmm.md#^hunter-animal-lord-appearances)`
 
-| dice: 1d10 | Bestial Shape |
-|------------|---------------|
 | 1 | Alligator |
 | 2 | Badger |
 | 3 | Bat |
@@ -97,8 +110,6 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
 
 `dice: [](animal-lord-xmm.md#^sage-animal-lord-appearances)`
 
-| dice: 1d10 | Bestial Shape |
-|------------|---------------|
 | 1 | Coyote |
 | 2 | Crow |
 | 3 | Elephant |
@@ -135,13 +146,11 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
   - "name": "[[skills#Acrobatics|Acrobatics]]"
     "desc": "+13"
   - "name": "[[skills#Athletics|Athletics]]"
-    "desc": "+13"
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+18"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+13"
 "damage_resistances": "cold, fire, necrotic, psychic, radiant"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Stunned|stunned]]"
 "senses": "truesight 120 ft., passive Perception 28"
 "languages": "all"
@@ -159,7 +168,7 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
       \ [[conditions#Charmed|Charmed]] condition until the end\
       \ of its next turn. While [[conditions#Charmed|Charmed]],\
       \ the target has the [[conditions#Incapacitated|Incapacitated]]\
-      \ condition.  \n- Fearful (Hunter Only). The target has the [[conditions#Frightened|Frightened]]\
+      \ condition.  \n- Fearful (Hunter Only). The target has the [[conditions#frightened|Frightened]]\
       \ condition until the end of its next turn.  \n- Mired (Sage Only). The\
       \ target takes 10 (3d6) Psychic damage, and the target is magically bewildered\
       \ until the end of its next turn. While bewildered, the target subtracts d4\
@@ -191,7 +200,7 @@ Among the best-known animal lords are those that represent cats, hawks, lizards,
   - "desc": "The animal lord casts one of the following spells, requiring no Material\
       \ components and using Wisdom as the spellcasting ability (spell save DC 20):\n\
       \nAt will: [[animal-friendship-xphb|Animal Friendship]],\
-      \ [[animal-messenger-xphb|Animal Messenger]], [[speak-with-animals-xphb|Speak\
+      \ [[animal-messenger-xphb|Animal Messenger]], [[speak-with-animals-xphb|Speak\]]
       \ with Animals]]\n\n2/day\
       \ each: [[awaken-xphb|Awaken]], [[greater-restoration-xphb|Greater Restoration]]\n\
       \n1/day each: [[animal-shapes-xphb|Animal Shapes]],\
@@ -228,19 +237,20 @@ Animal lord xmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of animal lord xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around animal lord xmm.
 
-## Adventure Hooks
-
-- A rumor ties animal lord xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at animal lord xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to animal lord xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

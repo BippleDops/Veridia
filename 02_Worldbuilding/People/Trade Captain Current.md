@@ -1,4 +1,5 @@
 ---
+
 title: Trade Captain Current
 type: Npc
 tags:
@@ -10,6 +11,7 @@ tags:
 - complete
 - status/in-progress
 - aethermoor
+- bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +20,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.479829+00:00'
 world: Aethermoor
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +30,66 @@ world: Aethermoor
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-trade-captain-current-trade-captain-current.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward confrontation
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward confrontation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
 
 ## Player-Facing Summary
 
@@ -67,14 +98,6 @@ Trade Captain Current is a undersea element of the setting, known for biolumines
 ## Lore Details
 
 Legends speak of Trade Captain Current as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Trade Captain Current.
-
-## Adventure Hooks
-
-- A rumor ties Trade Captain Current to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Trade Captain Current to avert a public scandal.
-- A map overlay reveals a hidden approach to Trade Captain Current active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +108,6 @@ Trade Captain Current's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Accumulating wealth
@@ -124,8 +117,6 @@ Trade Captain Current's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Trade Captain Current harbors secrets that could change everything:
@@ -134,13 +125,9 @@ Trade Captain Current harbors secrets that could change everything:
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Divine mission
 
-
-
-
-
 ## Voice & Mannerisms
 
-**Voice**: Deep and resonant
+**Voice**: Deep and resot
 
 **Speech Pattern**: Formal and elaborate
 
@@ -155,8 +142,6 @@ Trade Captain Current is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Trade Captain Current needs assistance with a delicate matter
@@ -164,8 +149,6 @@ Trade Captain Current is currently engaged in:
 3. **The Secret**: Information about Trade Captain Current's past surfaces
 4. **The Alliance**: Opportunity to work with or against Trade Captain Current
 5. **The Crisis**: Trade Captain Current is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,39 +162,29 @@ Trade Captain Current is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Trade Captain Current]]
-
-<!-- enriched: true -->
-
-
-
-
-## Relationship Web
-
-- [[04_Resources_Assets_Symbols_symbol-heraldry-purist-coalition-thugs-purist-coalition-thugs.svg]]: *debt holder*
-- [[04_Resources_Assets_Locations_location-city-master-gardener-sage-harmony-bloomtender-master-gardener-sage-harmony-bloomtender.svg]]: *patron*
-
-## Connections
-
-- [[Quest - The Missing Fleet]]
-
-
-## Character Arc
-
-### Starting Point
-- **Current State**: Ambitious
-- **Core Desire**: Power
-- **Major Flaw**: Pride
-
 ### Development Triggers
 1. **Catalyst Event**: Personal loss
 2. **Challenge**: Must overcome moral dilemma
 3. **Growth Moment**: Learns truth
 
-### Potential Endings
-- **Redemption**: Overcomes flaw and finds peace
-- **Tragedy**: Succumbs to flaw with consequences  
-- **Transformation**: Becomes someone entirely new
-- **Stasis**: Refuses to change despite opportunities
+
+## Relationships
+
+- **Creditor**: [[Portrait NPC High Priest Dagon Deepcaller High Priest Dagon Deepcaller.svg]]
+- **Mentor**: [[Portrait NPC Captain Threshold Captain Threshold.svg]]
+- **Mentor**: [[Assets Locations Location City Master Trader Abyss Currentbinder V1 Master Trader Abyss Currentbinder.svg]]
+- **Victim**: [[Merchant Lord Cornelius Generous]]
+- **Sibling**: [[Portrait NPC Keeper of the Shattered Crown Marcus Crystalvein Keeper of the Shattered Crown Marcus Crystalvein.svg]]
+
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon

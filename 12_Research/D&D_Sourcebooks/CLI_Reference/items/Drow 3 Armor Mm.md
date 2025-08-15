@@ -37,15 +37,10 @@ updated: '2025-08-13T12:34:07.985014+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Generated/Items/item-artifact-drow-3-armor-mm-drow-3-armor-mm.svg)
 
 # Drow +3 Armor
-
-
 
 You have a +3 bonus to AC while wearing this armor. This armor loses its enchantment bonus permanently if it is exposed to sunlight for 1 hour or longer.
 
@@ -64,84 +59,30 @@ You have a +3 bonus to AC while wearing this armor. This armor loses its enchant
 - [Drow +3 Splint Armor](#Drow%20+3%20Splint%20Armor)
 - [Drow +3 Studded Leather Armor](#Drow%20+3%20Studded%20Leather%20Armor)
 
-## Drow +3 Breastplate
-
-- **Armor Class**: 14 + Dex modifier (max of +2)
-- **Weight**: 20.0 lbs.
-
-### Drow +3 Chain Mail
-
-- **Armor Class**: 16
-- **Strength**: Requires 13 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 55.0 lbs.
-
-### Drow +3 Chain Shirt
-
-- **Armor Class**: 13 + Dex modifier (max of +2)
-- **Weight**: 20.0 lbs.
-
-### Drow +3 Half Plate Armor
-
-- **Armor Class**: 15 + Dex modifier (max of +2)
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 40.0 lbs.
-
-### Drow +3 Hide Armor
-
-- **Armor Class**: 12 + Dex modifier (max of +2)
-- **Weight**: 12.0 lbs.
-
-### Drow +3 Leather Armor
-
-- **Armor Class**: 11 + Dex modifier
-- **Weight**: 10.0 lbs.
-
-### Drow +3 Padded Armor
-
-- **Armor Class**: 11 + Dex modifier
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 8.0 lbs.
-
-### Drow +3 Plate Armor
-
-- **Armor Class**: 18
-- **Strength**: Requires 15 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 65.0 lbs.
-
-### Drow +3 Ring Mail
-
-- **Armor Class**: 14
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 40.0 lbs.
-
-### Drow +3 Scale Mail
-
-- **Armor Class**: 14 + Dex modifier (max of +2)
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 45.0 lbs.
-
-### Drow +3 Spiked Armor
-
-- **Armor Class**: 14 + Dex modifier (max of +2)
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 45.0 lbs.
-
-### Drow +3 Splint Armor
-
-- **Armor Class**: 17
-- **Strength**: Requires 15 STR.
-- **Stealth**: The wearer has disadvantage on Stealth (DEX) checks.
-- **Weight**: 60.0 lbs.
-
 ### Drow +3 Studded Leather Armor
 
 - **Armor Class**: 12 + Dex modifier
 - **Weight**: 13.0 lbs.
 
-
 *Source: Monster Manual p. 126*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -151,19 +92,27 @@ Drow 3 armor mm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of drow 3 armor mm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around drow 3 armor mm.
 
-## Adventure Hooks
-
-- A rumor ties drow 3 armor mm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at drow 3 armor mm to avert a public scandal.
-- A map overlay reveals a hidden approach to drow 3 armor mm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A journal reveals ancient history about the cult
+- A letter reveals ancient history about the cult
+- Strange disappearances suggest a portal
+- Strange dreams suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

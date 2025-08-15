@@ -1,4 +1,5 @@
 ---
+
 title: Kingdom of Luminal Peaks
 type: Npc
 tags:
@@ -10,6 +11,7 @@ tags:
 - complete
 - status/in-progress
 - aethermoor
+- bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,43 +20,82 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.546669+00:00'
 world: Aethermoor
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
-## Overview
 
-TODO
-## Appearance
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Personality
+*20 targeted improvements identified*
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward confrontation
+### History Improvements
 
+- Add three historical eras with major events
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward manipulation
+### Culture Improvements
 
+- Define unique cultural practices and taboos
 
-TODO
-## Goals
+### Economy Improvements
 
-TODO
-## Relationships
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Hooks
+### Religion Improvements
 
-TODO
-## Stat Block
+- Create detailed religious observances
 
-TODO
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
 
 ## Player-Facing Summary
 
@@ -63,14 +104,6 @@ Kingdom of Luminal Peaks is a undersea element of the setting, known for biolumi
 ## Lore Details
 
 Legends speak of Kingdom of Luminal Peaks as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Kingdom of Luminal Peaks.
-
-## Adventure Hooks
-
-- A rumor ties Kingdom of Luminal Peaks to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Kingdom of Luminal Peaks to avert a public scandal.
-- A map overlay reveals a hidden approach to Kingdom of Luminal Peaks active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -81,36 +114,6 @@ Kingdom of Luminal Peaks's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Pursuing knowledge
@@ -120,8 +123,6 @@ Kingdom of Luminal Peaks's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Kingdom of Luminal Peaks harbors secrets that could change everything:
@@ -129,10 +130,6 @@ Kingdom of Luminal Peaks harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Divine mission
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -151,8 +148,6 @@ Kingdom of Luminal Peaks is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Kingdom of Luminal Peaks needs assistance with a delicate matter
@@ -160,8 +155,6 @@ Kingdom of Luminal Peaks is currently engaged in:
 3. **The Secret**: Information about Kingdom of Luminal Peaks's past surfaces
 4. **The Alliance**: Opportunity to work with or against Kingdom of Luminal Peaks
 5. **The Crisis**: Kingdom of Luminal Peaks is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -175,21 +168,34 @@ Kingdom of Luminal Peaks is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Kingdom of Luminal Peaks]]
+## Cultural Practices
 
-<!-- enriched: true -->
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
 
 
+## Economic Structure
 
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
 
-## Relationship Web
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
 
-- [[04_Resources_Assets_Locations_location-city-master-chef-coral-seasweaver-v1-master-chef-coral-seasweaver.svg]]: *mentor*
-- [[04_Resources_Assets_Locations_location-city-the-crystalline-foundry-the-crystalline-foundry.svg]]: *patron*
-- [[Memory Manipulation]]: *debt holder*
-
-## Connections
-
-- [[The Queen]]
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

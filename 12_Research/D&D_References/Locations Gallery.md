@@ -14,6 +14,24 @@ modified: '2025-08-14'
 
 %% Use reading mode for visual gallery %%
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## location-city-aboleth-adjunct-yzz-aboleth-adjunct-yzz
 ![[04_Resources/Assets/Locations/location-city-aboleth-adjunct-yzz-aboleth-adjunct-yzz.svg]]
 
@@ -69,13 +87,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-abyssos-prime-upper-districts-abyssos-prime-upper-districts.png]]
 
 ## location-city-abyssos-prime-upper-districts-abyssos-prime-upper-districts
-![[04_Resources/Assets/Locations/location-city-abyssos-prime-upper-districts-abyssos-prime-upper-districts.png]]
 
 ## location-city-abyssos-prime-upper-districts-v1-abyssos-prime-upper-districts
 ![[04_Resources/Assets/Locations/location-city-abyssos-prime-upper-districts-v1-abyssos-prime-upper-districts.png]]
 
 ## location-city-abyssos-prime-upper-districts-v1-abyssos-prime-upper-districts
-![[04_Resources/Assets/Locations/location-city-abyssos-prime-upper-districts-v1-abyssos-prime-upper-districts.png]]
 
 ## location-city-abyssos-prime-v1-abyssos-prime
 ![[04_Resources/Assets/Locations/location-city-abyssos-prime-v1-abyssos-prime.svg]]
@@ -312,13 +328,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-archivist-vera-glowmind-archivist-vera-glowmind.png]]
 
 ## location-city-archivist-vera-glowmind-archivist-vera-glowmind
-![[04_Resources/Assets/Locations/location-city-archivist-vera-glowmind-archivist-vera-glowmind.png]]
 
 ## location-city-archivist-vera-glowmind-v1-archivist-vera-glowmind
 ![[04_Resources/Assets/Locations/location-city-archivist-vera-glowmind-v1-archivist-vera-glowmind.png]]
 
 ## location-city-archivist-vera-glowmind-v1-archivist-vera-glowmind
-![[04_Resources/Assets/Locations/location-city-archivist-vera-glowmind-v1-archivist-vera-glowmind.png]]
 
 ## location-city-archkeeper-nereon-archkeeper-nereon
 ![[04_Resources/Assets/Locations/location-city-archkeeper-nereon-archkeeper-nereon.svg]]
@@ -534,13 +548,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-builder-coral-architect-builder-coral-architect.png]]
 
 ## location-city-builder-coral-architect-builder-coral-architect
-![[04_Resources/Assets/Locations/location-city-builder-coral-architect-builder-coral-architect.png]]
 
 ## location-city-builder-coral-architect-v1-builder-coral-architect
 ![[04_Resources/Assets/Locations/location-city-builder-coral-architect-v1-builder-coral-architect.png]]
 
 ## location-city-builder-coral-architect-v1-builder-coral-architect
-![[04_Resources/Assets/Locations/location-city-builder-coral-architect-v1-builder-coral-architect.png]]
 
 ## location-city-calm-soothingwave-calm-soothingwave
 ![[04_Resources/Assets/Locations/location-city-calm-soothingwave-calm-soothingwave.svg]]
@@ -576,13 +588,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-cathedral-of-light-cathedral-of-light.png]]
 
 ## location-city-cathedral-of-light-cathedral-of-light
-![[04_Resources/Assets/Locations/location-city-cathedral-of-light-cathedral-of-light.png]]
 
 ## location-city-cathedral-of-light-v1-cathedral-of-light
 ![[04_Resources/Assets/Locations/location-city-cathedral-of-light-v1-cathedral-of-light.png]]
 
 ## location-city-cathedral-of-light-v1-cathedral-of-light
-![[04_Resources/Assets/Locations/location-city-cathedral-of-light-v1-cathedral-of-light.png]]
 
 ## location-city-causality-shadow-causality-shadow
 ![[04_Resources/Assets/Locations/location-city-causality-shadow-causality-shadow.png]]
@@ -1044,13 +1054,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-crystal-speak-crystal-speak.png]]
 
 ## location-city-crystal-speak-crystal-speak
-![[04_Resources/Assets/Locations/location-city-crystal-speak-crystal-speak.png]]
 
 ## location-city-crystal-speak-v1-crystal-speak
 ![[04_Resources/Assets/Locations/location-city-crystal-speak-v1-crystal-speak.png]]
 
 ## location-city-crystal-speak-v1-crystal-speak
-![[04_Resources/Assets/Locations/location-city-crystal-speak-v1-crystal-speak.png]]
 
 ## location-city-crystal-storm-barriers-crystal-storm-barriers
 ![[04_Resources/Assets/Locations/location-city-crystal-storm-barriers-crystal-storm-barriers.svg]]
@@ -1092,13 +1100,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-crystallization-process-crystallization-process.png]]
 
 ## location-city-crystallization-process-crystallization-process
-![[04_Resources/Assets/Locations/location-city-crystallization-process-crystallization-process.png]]
 
 ## location-city-crystallization-process-v1-crystallization-process
 ![[04_Resources/Assets/Locations/location-city-crystallization-process-v1-crystallization-process.png]]
 
 ## location-city-crystallization-process-v1-crystallization-process
-![[04_Resources/Assets/Locations/location-city-crystallization-process-v1-crystallization-process.png]]
 
 ## location-city-crystals-curiosities-crystals-curiosities
 ![[04_Resources/Assets/Locations/location-city-crystals-curiosities-crystals-curiosities.svg]]
@@ -1452,13 +1458,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-dr-siphon-gillwater-dr-siphon-gillwater.png]]
 
 ## location-city-dr-siphon-gillwater-dr-siphon-gillwater
-![[04_Resources/Assets/Locations/location-city-dr-siphon-gillwater-dr-siphon-gillwater.png]]
 
 ## location-city-dr-siphon-gillwater-v1-dr-siphon-gillwater
 ![[04_Resources/Assets/Locations/location-city-dr-siphon-gillwater-v1-dr-siphon-gillwater.png]]
 
 ## location-city-dr-siphon-gillwater-v1-dr-siphon-gillwater
-![[04_Resources/Assets/Locations/location-city-dr-siphon-gillwater-v1-dr-siphon-gillwater.png]]
 
 ## location-city-dr-vera-spectrumseeker-dr-vera-spectrumseeker
 ![[04_Resources/Assets/Locations/location-city-dr-vera-spectrumseeker-dr-vera-spectrumseeker.svg]]
@@ -1524,13 +1528,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-economic-planning-economic-planning.png]]
 
 ## location-city-economic-planning-economic-planning
-![[04_Resources/Assets/Locations/location-city-economic-planning-economic-planning.png]]
 
 ## location-city-economic-planning-v1-economic-planning
 ![[04_Resources/Assets/Locations/location-city-economic-planning-v1-economic-planning.png]]
 
 ## location-city-economic-planning-v1-economic-planning
-![[04_Resources/Assets/Locations/location-city-economic-planning-v1-economic-planning.png]]
 
 ## location-city-education-department-education-department
 ![[04_Resources/Assets/Locations/location-city-education-department-education-department.svg]]
@@ -1670,11 +1672,11 @@ modified: '2025-08-14'
 ## location-city-feast-saltyflavor-v1-feast-saltyflavor
 ![[04_Resources/Assets/Locations/location-city-feast-saltyflavor-v1-feast-saltyflavor.svg]]
 
-## location-city-financial-institutions-financial-institutions
-![[04_Resources/Assets/Locations/location-city-financial-institutions-financial-institutions.svg]]
+## location-city-ficial-institutions-ficial-institutions
+![[04_Resources/Assets/Locations/location-city-ficial-institutions-ficial-institutions.svg]]
 
-## location-city-financial-institutions-v1-financial-institutions
-![[04_Resources/Assets/Locations/location-city-financial-institutions-v1-financial-institutions.svg]]
+## location-city-ficial-institutions-v1-ficial-institutions
+![[04_Resources/Assets/Locations/location-city-ficial-institutions-v1-ficial-institutions.svg]]
 
 ## location-city-finn-deepmarket-finn-deepmarket
 ![[04_Resources/Assets/Locations/location-city-finn-deepmarket-finn-deepmarket.svg]]
@@ -1938,13 +1940,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-guildmaster-harwick-guildmaster-harwick.png]]
 
 ## location-city-guildmaster-harwick-guildmaster-harwick
-![[04_Resources/Assets/Locations/location-city-guildmaster-harwick-guildmaster-harwick.png]]
 
 ## location-city-guildmaster-harwick-v1-guildmaster-harwick
 ![[04_Resources/Assets/Locations/location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]
 
 ## location-city-guildmaster-harwick-v1-guildmaster-harwick
-![[04_Resources/Assets/Locations/location-city-guildmaster-harwick-v1-guildmaster-harwick.png]]
 
 ## location-city-hadrian-depthbridge-hadrian-depthbridge
 ![[04_Resources/Assets/Locations/location-city-hadrian-depthbridge-hadrian-depthbridge.svg]]
@@ -2610,13 +2610,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-living-reef-living-reef.png]]
 
 ## location-city-living-reef-living-reef
-![[04_Resources/Assets/Locations/location-city-living-reef-living-reef.png]]
 
 ## location-city-living-reef-v1-living-reef
 ![[04_Resources/Assets/Locations/location-city-living-reef-v1-living-reef.png]]
 
 ## location-city-living-reef-v1-living-reef
-![[04_Resources/Assets/Locations/location-city-living-reef-v1-living-reef.png]]
 
 ## location-city-living-stone-living-stone
 ![[04_Resources/Assets/Locations/location-city-living-stone-living-stone.svg]]
@@ -2750,11 +2748,11 @@ modified: '2025-08-14'
 ## location-city-magnus-ledgerkeep-v1-magnus-ledgerkeep
 ![[04_Resources/Assets/Locations/location-city-magnus-ledgerkeep-v1-magnus-ledgerkeep.svg]]
 
-## location-city-maintenance-tech-reef-fixwright-maintenance-tech-reef-fixwright
-![[04_Resources/Assets/Locations/location-city-maintenance-tech-reef-fixwright-maintenance-tech-reef-fixwright.svg]]
+## location-city-maintece-tech-reef-fixwright-maintece-tech-reef-fixwright
+![[04_Resources/Assets/Locations/location-city-maintece-tech-reef-fixwright-maintece-tech-reef-fixwright.svg]]
 
-## location-city-maintenance-tech-reef-fixwright-v1-maintenance-tech-reef-fixwright
-![[04_Resources/Assets/Locations/location-city-maintenance-tech-reef-fixwright-v1-maintenance-tech-reef-fixwright.svg]]
+## location-city-maintece-tech-reef-fixwright-v1-maintece-tech-reef-fixwright
+![[04_Resources/Assets/Locations/location-city-maintece-tech-reef-fixwright-v1-maintece-tech-reef-fixwright.svg]]
 
 ## location-city-manta-ray-manta-ray
 ![[04_Resources/Assets/Locations/location-city-manta-ray-manta-ray.svg]]
@@ -2874,13 +2872,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-master-archivist-thomas-scrollkeeper-master-archivist-thomas-scrollkeeper.png]]
 
 ## location-city-master-archivist-thomas-scrollkeeper-master-archivist-thomas-scrollkeeper
-![[04_Resources/Assets/Locations/location-city-master-archivist-thomas-scrollkeeper-master-archivist-thomas-scrollkeeper.png]]
 
 ## location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper
 ![[04_Resources/Assets/Locations/location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]
 
 ## location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper
-![[04_Resources/Assets/Locations/location-city-master-archivist-thomas-scrollkeeper-v1-master-archivist-thomas-scrollkeeper.png]]
 
 ## location-city-master-archivist-valdric-stonewhisper-master-archivist-valdric-stonewhisper
 ![[04_Resources/Assets/Locations/location-city-master-archivist-valdric-stonewhisper-master-archivist-valdric-stonewhisper.svg]]
@@ -3030,13 +3026,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-memorial-current-memorial-current.png]]
 
 ## location-city-memorial-current-memorial-current
-![[04_Resources/Assets/Locations/location-city-memorial-current-memorial-current.png]]
 
 ## location-city-memorial-current-v1-memorial-current
 ![[04_Resources/Assets/Locations/location-city-memorial-current-v1-memorial-current.png]]
 
 ## location-city-memorial-current-v1-memorial-current
-![[04_Resources/Assets/Locations/location-city-memorial-current-v1-memorial-current.png]]
 
 ## location-city-memorial-district-of-abyssos-prime-memorial-district-of-abyssos-prime
 ![[04_Resources/Assets/Locations/location-city-memorial-district-of-abyssos-prime-memorial-district-of-abyssos-prime.svg]]
@@ -3060,13 +3054,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-memorial-wall-of-names-memorial-wall-of-names.png]]
 
 ## location-city-memorial-wall-of-names-memorial-wall-of-names
-![[04_Resources/Assets/Locations/location-city-memorial-wall-of-names-memorial-wall-of-names.png]]
 
 ## location-city-memorial-wall-of-names-v1-memorial-wall-of-names
 ![[04_Resources/Assets/Locations/location-city-memorial-wall-of-names-v1-memorial-wall-of-names.png]]
 
 ## location-city-memorial-wall-of-names-v1-memorial-wall-of-names
-![[04_Resources/Assets/Locations/location-city-memorial-wall-of-names-v1-memorial-wall-of-names.png]]
 
 ## location-city-memoriam-keeper-marcus-remembrance-memoriam-keeper-marcus-remembrance
 ![[04_Resources/Assets/Locations/location-city-memoriam-keeper-marcus-remembrance-memoriam-keeper-marcus-remembrance.svg]]
@@ -3213,13 +3205,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-merchant-prince-akula-merchant-prince-akula.png]]
 
 ## location-city-merchant-prince-akula-merchant-prince-akula
-![[04_Resources/Assets/Locations/location-city-merchant-prince-akula-merchant-prince-akula.png]]
 
 ## location-city-merchant-prince-akula-v1-merchant-prince-akula
 ![[04_Resources/Assets/Locations/location-city-merchant-prince-akula-v1-merchant-prince-akula.png]]
 
 ## location-city-merchant-prince-akula-v1-merchant-prince-akula
-![[04_Resources/Assets/Locations/location-city-merchant-prince-akula-v1-merchant-prince-akula.png]]
 
 ## location-city-merchant-prince-aldric-goldcurrent-merchant-prince-aldric-goldcurrent
 ![[04_Resources/Assets/Locations/location-city-merchant-prince-aldric-goldcurrent-merchant-prince-aldric-goldcurrent.svg]]
@@ -3282,13 +3272,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-military-families-support-groups-military-families-support-groups.png]]
 
 ## location-city-military-families-support-groups-military-families-support-groups
-![[04_Resources/Assets/Locations/location-city-military-families-support-groups-military-families-support-groups.png]]
 
 ## location-city-military-families-support-groups-v1-military-families-support-groups
 ![[04_Resources/Assets/Locations/location-city-military-families-support-groups-v1-military-families-support-groups.png]]
 
 ## location-city-military-families-support-groups-v1-military-families-support-groups
-![[04_Resources/Assets/Locations/location-city-military-families-support-groups-v1-military-families-support-groups.png]]
 
 ## location-city-military-intelligence-military-intelligence
 ![[04_Resources/Assets/Locations/location-city-military-intelligence-military-intelligence.svg]]
@@ -3390,25 +3378,21 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-noble-council-noble-council.png]]
 
 ## location-city-noble-council-noble-council
-![[04_Resources/Assets/Locations/location-city-noble-council-noble-council.png]]
 
 ## location-city-noble-council-v1-noble-council
 ![[04_Resources/Assets/Locations/location-city-noble-council-v1-noble-council.png]]
 
 ## location-city-noble-council-v1-noble-council
-![[04_Resources/Assets/Locations/location-city-noble-council-v1-noble-council.png]]
 
 ## location-city-noble-district-noble-district
 ![[04_Resources/Assets/Locations/location-city-noble-district-noble-district.png]]
 
 ## location-city-noble-district-noble-district
-![[04_Resources/Assets/Locations/location-city-noble-district-noble-district.png]]
 
 ## location-city-noble-district-v1-noble-district
 ![[04_Resources/Assets/Locations/location-city-noble-district-v1-noble-district.png]]
 
 ## location-city-noble-district-v1-noble-district
-![[04_Resources/Assets/Locations/location-city-noble-district-v1-noble-district.png]]
 
 ## location-city-noble-house-noble-house
 ![[04_Resources/Assets/Locations/location-city-noble-house-noble-house.svg]]
@@ -3420,13 +3404,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-noble-palatemaster-noble-palatemaster.png]]
 
 ## location-city-noble-palatemaster-noble-palatemaster
-![[04_Resources/Assets/Locations/location-city-noble-palatemaster-noble-palatemaster.png]]
 
 ## location-city-noble-palatemaster-v1-noble-palatemaster
 ![[04_Resources/Assets/Locations/location-city-noble-palatemaster-v1-noble-palatemaster.png]]
 
 ## location-city-noble-palatemaster-v1-noble-palatemaster
-![[04_Resources/Assets/Locations/location-city-noble-palatemaster-v1-noble-palatemaster.png]]
 
 ## location-city-noble-quarter-council-chambers-noble-quarter-council-chambers
 ![[04_Resources/Assets/Locations/location-city-noble-quarter-council-chambers-noble-quarter-council-chambers.svg]]
@@ -3528,13 +3510,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-parliament-of-echoes-public-gallery-parliament-of-echoes-public-gallery.png]]
 
 ## location-city-parliament-of-echoes-public-gallery-parliament-of-echoes-public-gallery
-![[04_Resources/Assets/Locations/location-city-parliament-of-echoes-public-gallery-parliament-of-echoes-public-gallery.png]]
 
 ## location-city-parliament-of-echoes-public-gallery-v1-parliament-of-echoes-public-gallery
 ![[04_Resources/Assets/Locations/location-city-parliament-of-echoes-public-gallery-v1-parliament-of-echoes-public-gallery.png]]
 
 ## location-city-parliament-of-echoes-public-gallery-v1-parliament-of-echoes-public-gallery
-![[04_Resources/Assets/Locations/location-city-parliament-of-echoes-public-gallery-v1-parliament-of-echoes-public-gallery.png]]
 
 ## location-city-patrol-boundaryrider-patrol-boundaryrider
 ![[04_Resources/Assets/Locations/location-city-patrol-boundaryrider-patrol-boundaryrider.svg]]
@@ -3600,13 +3580,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-plague-crisis-plague-crisis.png]]
 
 ## location-city-plague-crisis-plague-crisis
-![[04_Resources/Assets/Locations/location-city-plague-crisis-plague-crisis.png]]
 
 ## location-city-plague-crisis-v1-plague-crisis
 ![[04_Resources/Assets/Locations/location-city-plague-crisis-v1-plague-crisis.png]]
 
 ## location-city-plague-crisis-v1-plague-crisis
-![[04_Resources/Assets/Locations/location-city-plague-crisis-v1-plague-crisis.png]]
 
 ## location-city-planning-director-victor-visionkeeper-planning-director-victor-visionkeeper
 ![[04_Resources/Assets/Locations/location-city-planning-director-victor-visionkeeper-planning-director-victor-visionkeeper.svg]]
@@ -3636,13 +3614,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-political-leader-reef-crown-political-leader-reef-crown.png]]
 
 ## location-city-political-leader-reef-crown-political-leader-reef-crown
-![[04_Resources/Assets/Locations/location-city-political-leader-reef-crown-political-leader-reef-crown.png]]
 
 ## location-city-political-leader-reef-crown-v1-political-leader-reef-crown
 ![[04_Resources/Assets/Locations/location-city-political-leader-reef-crown-v1-political-leader-reef-crown.png]]
 
 ## location-city-political-leader-reef-crown-v1-political-leader-reef-crown
-![[04_Resources/Assets/Locations/location-city-political-leader-reef-crown-v1-political-leader-reef-crown.png]]
 
 ## location-city-pool-of-sacred-drowning-pool-of-sacred-drowning
 ![[04_Resources/Assets/Locations/location-city-pool-of-sacred-drowning-pool-of-sacred-drowning.svg]]
@@ -3738,13 +3714,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-portal-commander-marina-bridgewright-portal-commander-marina-bridgewright.png]]
 
 ## location-city-portal-commander-marina-bridgewright-portal-commander-marina-bridgewright
-![[04_Resources/Assets/Locations/location-city-portal-commander-marina-bridgewright-portal-commander-marina-bridgewright.png]]
 
 ## location-city-portal-commander-marina-bridgewright-v1-portal-commander-marina-bridgewright
 ![[04_Resources/Assets/Locations/location-city-portal-commander-marina-bridgewright-v1-portal-commander-marina-bridgewright.png]]
 
 ## location-city-portal-commander-marina-bridgewright-v1-portal-commander-marina-bridgewright
-![[04_Resources/Assets/Locations/location-city-portal-commander-marina-bridgewright-v1-portal-commander-marina-bridgewright.png]]
 
 ## location-city-portal-mirror-mage-portal-mirror-mage
 ![[04_Resources/Assets/Locations/location-city-portal-mirror-mage-portal-mirror-mage.svg]]
@@ -3768,13 +3742,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-portal-terminal-central-portal-terminal-central.png]]
 
 ## location-city-portal-terminal-central-portal-terminal-central
-![[04_Resources/Assets/Locations/location-city-portal-terminal-central-portal-terminal-central.png]]
 
 ## location-city-portal-terminal-central-v1-portal-terminal-central
 ![[04_Resources/Assets/Locations/location-city-portal-terminal-central-v1-portal-terminal-central.png]]
 
 ## location-city-portal-terminal-central-v1-portal-terminal-central
-![[04_Resources/Assets/Locations/location-city-portal-terminal-central-v1-portal-terminal-central.png]]
 
 ## location-city-poseidon-poseidon
 ![[04_Resources/Assets/Locations/location-city-poseidon-poseidon.svg]]
@@ -3822,13 +3794,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-pressure-palace-pressure-palace.png]]
 
 ## location-city-pressure-palace-pressure-palace
-![[04_Resources/Assets/Locations/location-city-pressure-palace-pressure-palace.png]]
 
 ## location-city-pressure-palace-v1-pressure-palace
 ![[04_Resources/Assets/Locations/location-city-pressure-palace-v1-pressure-palace.png]]
 
 ## location-city-pressure-palace-v1-pressure-palace
-![[04_Resources/Assets/Locations/location-city-pressure-palace-v1-pressure-palace.png]]
 
 ## location-city-pressure-point-settlement-pressure-point-settlement
 ![[04_Resources/Assets/Locations/location-city-pressure-point-settlement-pressure-point-settlement.svg]]
@@ -4226,11 +4196,11 @@ modified: '2025-08-14'
 ## location-city-representative-coral-youngcurrent-v1-representative-coral-youngcurrent
 ![[04_Resources/Assets/Locations/location-city-representative-coral-youngcurrent-v1-representative-coral-youngcurrent.svg]]
 
-## location-city-resonance-roses-resonance-roses
-![[04_Resources/Assets/Locations/location-city-resonance-roses-resonance-roses.svg]]
+## location-city-resoce-roses-resoce-roses
+![[04_Resources/Assets/Locations/location-city-resoce-roses-resoce-roses.svg]]
 
-## location-city-resonance-roses-v1-resonance-roses
-![[04_Resources/Assets/Locations/location-city-resonance-roses-v1-resonance-roses.svg]]
+## location-city-resoce-roses-v1-resoce-roses
+![[04_Resources/Assets/Locations/location-city-resoce-roses-v1-resoce-roses.svg]]
 
 ## location-city-restorative-justice-restorative-justice
 ![[04_Resources/Assets/Locations/location-city-restorative-justice-restorative-justice.svg]]
@@ -4680,13 +4650,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-silver-threadweaver-silver-threadweaver.png]]
 
 ## location-city-silver-threadweaver-silver-threadweaver
-![[04_Resources/Assets/Locations/location-city-silver-threadweaver-silver-threadweaver.png]]
 
 ## location-city-silver-threadweaver-v1-silver-threadweaver
 ![[04_Resources/Assets/Locations/location-city-silver-threadweaver-v1-silver-threadweaver.png]]
 
 ## location-city-silver-threadweaver-v1-silver-threadweaver
-![[04_Resources/Assets/Locations/location-city-silver-threadweaver-v1-silver-threadweaver.png]]
 
 ## location-city-singing-coral-singing-coral
 ![[04_Resources/Assets/Locations/location-city-singing-coral-singing-coral.svg]]
@@ -4890,13 +4858,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-surge-mixmaster-surge-mixmaster.png]]
 
 ## location-city-surge-mixmaster-surge-mixmaster
-![[04_Resources/Assets/Locations/location-city-surge-mixmaster-surge-mixmaster.png]]
 
 ## location-city-surge-mixmaster-v1-surge-mixmaster
 ![[04_Resources/Assets/Locations/location-city-surge-mixmaster-v1-surge-mixmaster.png]]
 
 ## location-city-surge-mixmaster-v1-surge-mixmaster
-![[04_Resources/Assets/Locations/location-city-surge-mixmaster-v1-surge-mixmaster.png]]
 
 ## location-city-surgeon-coral-seamender-surgeon-coral-seamender
 ![[04_Resources/Assets/Locations/location-city-surgeon-coral-seamender-surgeon-coral-seamender.svg]]
@@ -5004,13 +4970,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-temple-of-shadows-temple-of-shadows.png]]
 
 ## location-city-temple-of-shadows-temple-of-shadows
-![[04_Resources/Assets/Locations/location-city-temple-of-shadows-temple-of-shadows.png]]
 
 ## location-city-temple-of-shadows-v1-temple-of-shadows
 ![[04_Resources/Assets/Locations/location-city-temple-of-shadows-v1-temple-of-shadows.png]]
 
 ## location-city-temple-of-shadows-v1-temple-of-shadows
-![[04_Resources/Assets/Locations/location-city-temple-of-shadows-v1-temple-of-shadows.png]]
 
 ## location-city-temple-of-the-dawn-temple-of-the-dawn
 ![[04_Resources/Assets/Locations/location-city-temple-of-the-dawn-temple-of-the-dawn.svg]]
@@ -5112,13 +5076,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-thalassa-lightbringer-thalassa-lightbringer.png]]
 
 ## location-city-thalassa-lightbringer-thalassa-lightbringer
-![[04_Resources/Assets/Locations/location-city-thalassa-lightbringer-thalassa-lightbringer.png]]
 
 ## location-city-thalassa-lightbringer-v1-thalassa-lightbringer
 ![[04_Resources/Assets/Locations/location-city-thalassa-lightbringer-v1-thalassa-lightbringer.png]]
 
 ## location-city-thalassa-lightbringer-v1-thalassa-lightbringer
-![[04_Resources/Assets/Locations/location-city-thalassa-lightbringer-v1-thalassa-lightbringer.png]]
 
 ## location-city-thalassa-the-deepmother-thalassa-the-deepmother
 ![[04_Resources/Assets/Locations/location-city-thalassa-the-deepmother-thalassa-the-deepmother.svg]]
@@ -5178,13 +5140,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-the-bone-palace-of-sorrows-the-bone-palace-of-sorrows.png]]
 
 ## location-city-the-bone-palace-of-sorrows-the-bone-palace-of-sorrows
-![[04_Resources/Assets/Locations/location-city-the-bone-palace-of-sorrows-the-bone-palace-of-sorrows.png]]
 
 ## location-city-the-bone-palace-of-sorrows-v1-the-bone-palace-of-sorrows
 ![[04_Resources/Assets/Locations/location-city-the-bone-palace-of-sorrows-v1-the-bone-palace-of-sorrows.png]]
 
 ## location-city-the-bone-palace-of-sorrows-v1-the-bone-palace-of-sorrows
-![[04_Resources/Assets/Locations/location-city-the-bone-palace-of-sorrows-v1-the-bone-palace-of-sorrows.png]]
 
 ## location-city-the-cerulean-archipelago-the-cerulean-archipelago
 ![[04_Resources/Assets/Locations/location-city-the-cerulean-archipelago-the-cerulean-archipelago.svg]]
@@ -5214,25 +5174,21 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-the-conductor-the-conductor.png]]
 
 ## location-city-the-conductor-the-conductor
-![[04_Resources/Assets/Locations/location-city-the-conductor-the-conductor.png]]
 
 ## location-city-the-conductor-v1-the-conductor
 ![[04_Resources/Assets/Locations/location-city-the-conductor-v1-the-conductor.png]]
 
 ## location-city-the-conductor-v1-the-conductor
-![[04_Resources/Assets/Locations/location-city-the-conductor-v1-the-conductor.png]]
 
 ## location-city-the-constellation-mystery-the-constellation-mystery
 ![[04_Resources/Assets/Locations/location-city-the-constellation-mystery-the-constellation-mystery.png]]
 
 ## location-city-the-constellation-mystery-the-constellation-mystery
-![[04_Resources/Assets/Locations/location-city-the-constellation-mystery-the-constellation-mystery.png]]
 
 ## location-city-the-constellation-mystery-v1-the-constellation-mystery
 ![[04_Resources/Assets/Locations/location-city-the-constellation-mystery-v1-the-constellation-mystery.png]]
 
 ## location-city-the-constellation-mystery-v1-the-constellation-mystery
-![[04_Resources/Assets/Locations/location-city-the-constellation-mystery-v1-the-constellation-mystery.png]]
 
 ## location-city-the-contract-archive-the-contract-archive
 ![[04_Resources/Assets/Locations/location-city-the-contract-archive-the-contract-archive.svg]]
@@ -5466,13 +5422,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-the-forgotten-one-the-forgotten-one.png]]
 
 ## location-city-the-forgotten-one-the-forgotten-one
-![[04_Resources/Assets/Locations/location-city-the-forgotten-one-the-forgotten-one.png]]
 
 ## location-city-the-forgotten-one-v1-the-forgotten-one
 ![[04_Resources/Assets/Locations/location-city-the-forgotten-one-v1-the-forgotten-one.png]]
 
 ## location-city-the-forgotten-one-v1-the-forgotten-one
-![[04_Resources/Assets/Locations/location-city-the-forgotten-one-v1-the-forgotten-one.png]]
 
 ## location-city-the-forgotten-representative-the-forgotten-representative
 ![[04_Resources/Assets/Locations/location-city-the-forgotten-representative-the-forgotten-representative.svg]]
@@ -5658,13 +5612,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-the-lighthouse-keeper-s-ghost-the-lighthouse-keeper-s-ghost.png]]
 
 ## location-city-the-lighthouse-keeper-s-ghost-the-lighthouse-keeper-s-ghost
-![[04_Resources/Assets/Locations/location-city-the-lighthouse-keeper-s-ghost-the-lighthouse-keeper-s-ghost.png]]
 
 ## location-city-the-lighthouse-keeper-s-ghost-v1-the-lighthouse-keeper-s-ghost
 ![[04_Resources/Assets/Locations/location-city-the-lighthouse-keeper-s-ghost-v1-the-lighthouse-keeper-s-ghost.png]]
 
 ## location-city-the-lighthouse-keeper-s-ghost-v1-the-lighthouse-keeper-s-ghost
-![[04_Resources/Assets/Locations/location-city-the-lighthouse-keeper-s-ghost-v1-the-lighthouse-keeper-s-ghost.png]]
 
 ## location-city-the-lighthouse-keepers-the-lighthouse-keepers
 ![[04_Resources/Assets/Locations/location-city-the-lighthouse-keepers-the-lighthouse-keepers.svg]]
@@ -5786,11 +5738,11 @@ modified: '2025-08-14'
 ## location-city-the-noble-quarter-market-v1-the-noble-quarter-market
 ![[04_Resources/Assets/Locations/location-city-the-noble-quarter-market-v1-the-noble-quarter-market.svg]]
 
-## location-city-the-null-cathedral-the-null-cathedral
-![[04_Resources/Assets/Locations/location-city-the-null-cathedral-the-null-cathedral.svg]]
+## location-city-the--cathedral-the--cathedral
+![[04_Resources/Assets/Locations/location-city-the--cathedral-the--cathedral.svg]]
 
-## location-city-the-null-cathedral-v1-the-null-cathedral
-![[04_Resources/Assets/Locations/location-city-the-null-cathedral-v1-the-null-cathedral.svg]]
+## location-city-the--cathedral-v1-the--cathedral
+![[04_Resources/Assets/Locations/location-city-the--cathedral-v1-the--cathedral.svg]]
 
 ## location-city-the-observatory-the-observatory
 ![[04_Resources/Assets/Locations/location-city-the-observatory-the-observatory.svg]]
@@ -5832,13 +5784,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-the-phosphor-markets-the-phosphor-markets.png]]
 
 ## location-city-the-phosphor-markets-the-phosphor-markets
-![[04_Resources/Assets/Locations/location-city-the-phosphor-markets-the-phosphor-markets.png]]
 
 ## location-city-the-phosphor-markets-v1-the-phosphor-markets
 ![[04_Resources/Assets/Locations/location-city-the-phosphor-markets-v1-the-phosphor-markets.png]]
 
 ## location-city-the-phosphor-markets-v1-the-phosphor-markets
-![[04_Resources/Assets/Locations/location-city-the-phosphor-markets-v1-the-phosphor-markets.png]]
 
 ## location-city-the-plague-ward-the-plague-ward
 ![[04_Resources/Assets/Locations/location-city-the-plague-ward-the-plague-ward.svg]]
@@ -5904,13 +5854,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-the-recursion-cult-the-recursion-cult.png]]
 
 ## location-city-the-recursion-cult-the-recursion-cult
-![[04_Resources/Assets/Locations/location-city-the-recursion-cult-the-recursion-cult.png]]
 
 ## location-city-the-recursion-cult-v1-the-recursion-cult
 ![[04_Resources/Assets/Locations/location-city-the-recursion-cult-v1-the-recursion-cult.png]]
 
 ## location-city-the-recursion-cult-v1-the-recursion-cult
-![[04_Resources/Assets/Locations/location-city-the-recursion-cult-v1-the-recursion-cult.png]]
 
 ## location-city-the-reef-communities-the-reef-communities
 ![[04_Resources/Assets/Locations/location-city-the-reef-communities-the-reef-communities.svg]]
@@ -5924,17 +5872,17 @@ modified: '2025-08-14'
 ## location-city-the-reflection-pools-v1-the-reflection-pools
 ![[04_Resources/Assets/Locations/location-city-the-reflection-pools-v1-the-reflection-pools.svg]]
 
-## location-city-the-resonance-cathedral-the-resonance-cathedral
-![[04_Resources/Assets/Locations/location-city-the-resonance-cathedral-the-resonance-cathedral.svg]]
+## location-city-the-resoce-cathedral-the-resoce-cathedral
+![[04_Resources/Assets/Locations/location-city-the-resoce-cathedral-the-resoce-cathedral.svg]]
 
-## location-city-the-resonance-cathedral-v1-the-resonance-cathedral
-![[04_Resources/Assets/Locations/location-city-the-resonance-cathedral-v1-the-resonance-cathedral.svg]]
+## location-city-the-resoce-cathedral-v1-the-resoce-cathedral
+![[04_Resources/Assets/Locations/location-city-the-resoce-cathedral-v1-the-resoce-cathedral.svg]]
 
-## location-city-the-resonant-hermit-the-resonant-hermit
-![[04_Resources/Assets/Locations/location-city-the-resonant-hermit-the-resonant-hermit.svg]]
+## location-city-the-resot-hermit-the-resot-hermit
+![[04_Resources/Assets/Locations/location-city-the-resot-hermit-the-resot-hermit.svg]]
 
-## location-city-the-resonant-hermit-v1-the-resonant-hermit
-![[04_Resources/Assets/Locations/location-city-the-resonant-hermit-v1-the-resonant-hermit.svg]]
+## location-city-the-resot-hermit-v1-the-resot-hermit
+![[04_Resources/Assets/Locations/location-city-the-resot-hermit-v1-the-resot-hermit.svg]]
 
 ## location-city-the-royal-palace-the-royal-palace
 ![[04_Resources/Assets/Locations/location-city-the-royal-palace-the-royal-palace.svg]]
@@ -6210,13 +6158,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-the-void-tears-the-void-tears.png]]
 
 ## location-city-the-void-tears-the-void-tears
-![[04_Resources/Assets/Locations/location-city-the-void-tears-the-void-tears.png]]
 
 ## location-city-the-void-tears-v1-the-void-tears
 ![[04_Resources/Assets/Locations/location-city-the-void-tears-v1-the-void-tears.png]]
 
 ## location-city-the-void-tears-v1-the-void-tears
-![[04_Resources/Assets/Locations/location-city-the-void-tears-v1-the-void-tears.png]]
 
 ## location-city-the-vote-vault-mystery-the-vote-vault-mystery
 ![[04_Resources/Assets/Locations/location-city-the-vote-vault-mystery-the-vote-vault-mystery.svg]]
@@ -6234,13 +6180,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-the-whisper-island-mystery-the-whisper-island-mystery.png]]
 
 ## location-city-the-whisper-island-mystery-the-whisper-island-mystery
-![[04_Resources/Assets/Locations/location-city-the-whisper-island-mystery-the-whisper-island-mystery.png]]
 
 ## location-city-the-whisper-island-mystery-v1-the-whisper-island-mystery
 ![[04_Resources/Assets/Locations/location-city-the-whisper-island-mystery-v1-the-whisper-island-mystery.png]]
 
 ## location-city-the-whisper-island-mystery-v1-the-whisper-island-mystery
-![[04_Resources/Assets/Locations/location-city-the-whisper-island-mystery-v1-the-whisper-island-mystery.png]]
 
 ## location-city-the-whispering-caverns-the-whispering-caverns
 ![[04_Resources/Assets/Locations/location-city-the-whispering-caverns-the-whispering-caverns.svg]]
@@ -6288,13 +6232,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-thorek-crystalhammer-thorek-crystalhammer.png]]
 
 ## location-city-thorek-crystalhammer-thorek-crystalhammer
-![[04_Resources/Assets/Locations/location-city-thorek-crystalhammer-thorek-crystalhammer.png]]
 
 ## location-city-thorek-crystalhammer-v1-thorek-crystalhammer
 ![[04_Resources/Assets/Locations/location-city-thorek-crystalhammer-v1-thorek-crystalhammer.png]]
 
 ## location-city-thorek-crystalhammer-v1-thorek-crystalhammer
-![[04_Resources/Assets/Locations/location-city-thorek-crystalhammer-v1-thorek-crystalhammer.png]]
 
 ## location-city-throne-room-heart-of-palace-throne-room-heart-of-palace
 ![[04_Resources/Assets/Locations/location-city-throne-room-heart-of-palace-throne-room-heart-of-palace.svg]]
@@ -6396,13 +6338,11 @@ modified: '2025-08-14'
 ![[04_Resources/Assets/Locations/location-city-trader-grimm-voidheart-trader-grimm-voidheart.png]]
 
 ## location-city-trader-grimm-voidheart-trader-grimm-voidheart
-![[04_Resources/Assets/Locations/location-city-trader-grimm-voidheart-trader-grimm-voidheart.png]]
 
 ## location-city-trader-grimm-voidheart-v1-trader-grimm-voidheart
 ![[04_Resources/Assets/Locations/location-city-trader-grimm-voidheart-v1-trader-grimm-voidheart.png]]
 
 ## location-city-trader-grimm-voidheart-v1-trader-grimm-voidheart
-![[04_Resources/Assets/Locations/location-city-trader-grimm-voidheart-v1-trader-grimm-voidheart.png]]
 
 ## location-city-traditional-craft-districts-traditional-craft-districts
 ![[04_Resources/Assets/Locations/location-city-traditional-craft-districts-traditional-craft-districts.svg]]
@@ -6566,11 +6506,11 @@ modified: '2025-08-14'
 ## location-city-vault-keeper-eternal-vault-keeper-eternal
 ![[04_Resources/Assets/Locations/location-city-vault-keeper-eternal-vault-keeper-eternal.svg]]
 
-## location-city-vault-maintenance-checklist-v1-vault-maintenance-checklist
-![[04_Resources/Assets/Locations/location-city-vault-maintenance-checklist-v1-vault-maintenance-checklist.svg]]
+## location-city-vault-maintece-checklist-v1-vault-maintece-checklist
+![[04_Resources/Assets/Locations/location-city-vault-maintece-checklist-v1-vault-maintece-checklist.svg]]
 
-## location-city-vault-maintenance-checklist-vault-maintenance-checklist
-![[04_Resources/Assets/Locations/location-city-vault-maintenance-checklist-vault-maintenance-checklist.svg]]
+## location-city-vault-maintece-checklist-vault-maintece-checklist
+![[04_Resources/Assets/Locations/location-city-vault-maintece-checklist-vault-maintece-checklist.svg]]
 
 ## location-city-veiled-hierophant-v1-veiled-hierophant
 ![[04_Resources/Assets/Locations/location-city-veiled-hierophant-v1-veiled-hierophant.svg]]
@@ -6608,17 +6548,17 @@ modified: '2025-08-14'
 ## location-city-void-currents-void-currents
 ![[04_Resources/Assets/Locations/location-city-void-currents-void-currents.svg]]
 
-## location-city-void-keeper-null-v1-void-keeper-null
-![[04_Resources/Assets/Locations/location-city-void-keeper-null-v1-void-keeper-null.svg]]
+## location-city-void-keeper--v1-void-keeper-
+![[04_Resources/Assets/Locations/location-city-void-keeper--v1-void-keeper-.svg]]
 
-## location-city-void-keeper-null-void-keeper-null
-![[04_Resources/Assets/Locations/location-city-void-keeper-null-void-keeper-null.svg]]
+## location-city-void-keeper--void-keeper-
+![[04_Resources/Assets/Locations/location-city-void-keeper--void-keeper-.svg]]
 
-## location-city-void-keeper-sister-nyx-nullspace-v1-void-keeper-sister-nyx-nullspace
-![[04_Resources/Assets/Locations/location-city-void-keeper-sister-nyx-nullspace-v1-void-keeper-sister-nyx-nullspace.svg]]
+## location-city-void-keeper-sister-nyx-space-v1-void-keeper-sister-nyx-space
+![[04_Resources/Assets/Locations/location-city-void-keeper-sister-nyx-space-v1-void-keeper-sister-nyx-space.svg]]
 
-## location-city-void-keeper-sister-nyx-nullspace-void-keeper-sister-nyx-nullspace
-![[04_Resources/Assets/Locations/location-city-void-keeper-sister-nyx-nullspace-void-keeper-sister-nyx-nullspace.svg]]
+## location-city-void-keeper-sister-nyx-space-void-keeper-sister-nyx-space
+![[04_Resources/Assets/Locations/location-city-void-keeper-sister-nyx-space-void-keeper-sister-nyx-space.svg]]
 
 ## location-city-void-krakens-v1-void-krakens
 ![[04_Resources/Assets/Locations/location-city-void-krakens-v1-void-krakens.svg]]
@@ -6626,11 +6566,11 @@ modified: '2025-08-14'
 ## location-city-void-krakens-void-krakens
 ![[04_Resources/Assets/Locations/location-city-void-krakens-void-krakens.svg]]
 
-## location-city-void-prophet-nullus-the-erased-v1-void-prophet-nullus-the-erased
-![[04_Resources/Assets/Locations/location-city-void-prophet-nullus-the-erased-v1-void-prophet-nullus-the-erased.svg]]
+## location-city-void-prophet-us-the-erased-v1-void-prophet-us-the-erased
+![[04_Resources/Assets/Locations/location-city-void-prophet-us-the-erased-v1-void-prophet-us-the-erased.svg]]
 
-## location-city-void-prophet-nullus-the-erased-void-prophet-nullus-the-erased
-![[04_Resources/Assets/Locations/location-city-void-prophet-nullus-the-erased-void-prophet-nullus-the-erased.svg]]
+## location-city-void-prophet-us-the-erased-void-prophet-us-the-erased
+![[04_Resources/Assets/Locations/location-city-void-prophet-us-the-erased-void-prophet-us-the-erased.svg]]
 
 ## location-city-void-touched-pilgrims-v1-void-touched-pilgrims
 ![[04_Resources/Assets/Locations/location-city-void-touched-pilgrims-v1-void-touched-pilgrims.svg]]
@@ -6804,33 +6744,6 @@ modified: '2025-08-14'
 
 Life in Locations Gallery follows the rhythms of mixed culture, with the community's large scale creating diverse professional specializations and complex social hierarchies.
 
-### Daily Rhythms
-
-- **Multi-Cultural Activities**: Multi-cultural education programs for community integration
-- **Cultural Activities**: Cultural exchange activities between world representatives
-- **Trade Activities**: Trade good inspection and valuation by certified assessors
-
-### Cultural Practices
-
-- **Art**: Art exhibitions showcasing techniques from both worlds
-- **Cultural**: Cultural fusion ceremonies blending aquabyssos and aethermoor customs
-
-### Economic Life
-
-- **Cultural**: Cultural goods production requiring techniques from both worlds
-- **Inter-World**: Inter-world trade negotiations during stable portal conditions
-- **Diplomatic**: Diplomatic escort services for inter-world delegations
-
-### Social Organization
-
-- **Community Interaction**: Celebration planning incorporating traditions from both worlds
-- **Community Interaction**: Mixed community councils with representation from both worlds
-
-### Environmental Adaptation
-
-- **Survival Practice**: Multi-environment safety training for diverse conditions
-- **Survival Practice**: Transition facility management for world-crossing individuals
-
 ### Community Calendar
 
 **Daily Cycle**: Community activities follow natural rhythms with peak activity periods and rest times
@@ -6838,11 +6751,9 @@ Life in Locations Gallery follows the rhythms of mixed culture, with the communi
 **Seasonal Celebrations**: Traditional festivals and ceremonies marking significant periods
 **Special Events**: Unique local celebrations and important community milestones
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -6851,3 +6762,24 @@ Life in Locations Gallery follows the rhythms of mixed culture, with the communi
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a curse
+- A letter reveals ancient history about a local noble
+- A document has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

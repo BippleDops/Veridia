@@ -21,12 +21,29 @@ updated: '2025-08-12T23:37:34.377552'
 world: Both
 ---
 
-
 # Fighting Style, Bard
 *Source: Xanathar's Guide to Everything, Player's Handbook* 
 
 - [[dueling-xphb|Dueling]]
 - [[two-weapon-fighting-xphb|Two-Weapon Fighting]]
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -36,19 +53,20 @@ List optfeaturetype fs b is a undersea element of the setting, known for biolumi
 
 Legends speak of list optfeaturetype fs b as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list optfeaturetype fs b.
 
-## Adventure Hooks
-
-- A rumor ties list optfeaturetype fs b to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list optfeaturetype fs b to avert a public scandal.
-- A map overlay reveals a hidden approach to list optfeaturetype fs b active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -1,4 +1,5 @@
 ---
+
 title: Related Quest
 type: quest
 tags:
@@ -7,17 +8,86 @@ tags:
 - needs-content
 - quest
 - active
+- conspiracy
 created: 2025-08-14
 modified: '2025-08-14'
 status: placeholder
 level: 1-5
 updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
 
 
 # Related Quest
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Combat Improvements
+
+- Add encounter scaling table for parties of 3-6 players, levels 1-20
+
+### Rewards Improvements
+
+- Create treasure parcels for each major encounter
+
+### Structure Improvements
+
+- Add three-act structure with rising action
+
+### Choices Improvements
+
+- Add meaningful decision points with consequences
+
+### Roleplay Improvements
+
+- Include ethical challenges without clear answers
+
+### Variants Improvements
+
+- Add horror, intrigue, and comedy tone variants
+- Add horror, intrigue, and comedy tone variants
+- Add horror, intrigue, and comedy tone variants
+
+### Session_Zero Improvements
+
+- Add session zero integration questions
+- Add session zero integration questions
+- Add session zero integration questions
+- Add session zero integration questions
+
+### Worldbuilding Improvements
+
+- Connect to three other adventures in the vault
+- Connect to three other adventures in the vault
+- Connect to three other adventures in the vault
+
+### Spotlight Improvements
+
+- Include spotlight moment for each character class
+
+### Backup Improvements
+
+- Add 'What if players skip this?' contingency
+
+### Art Improvements
+
+- Add AI art prompts for key scenes
+
+### Level_Range Improvements
+
+- Provide scaling for different level ranges
+
+### Accessibility Improvements
+
+- Include content warnings and safety tools
+
 
 ## Description
 
@@ -26,11 +96,6 @@ updated: 2025-08-14
 ## Details
 
 *[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[07_Templates/Quest_Template]]
 
 ## Notes
 
@@ -42,22 +107,6 @@ updated: 2025-08-14
 ---
 *Placeholder generated: 2025-08-14*
 
-## Key NPCs
-
-- [[04_Resources_Assets_Locations_location-city-master-cultivator-reef-growstone-v1-master-cultivator-reef-growstone.svg]]
-- [[The Pearl Heist]]
-- [[Quest - The Blackmail Papers]]
-- [[The Bloodline Carrier]]
-- [[Lord Magistrate Aldrich Thornwick]]
-
-
-## Important Locations
-
-- [[Luminar the Builder]]
-- [[Twilight Depths]]
-- [[Living Reef]]
-
-
 ## Synopsis
 
 This adventure involves the party in a series of challenges and discoveries. The stakes are significant, and the outcomes will shape future events.
@@ -66,11 +115,9 @@ This adventure involves the party in a series of challenges and discoveries. The
 **Expected Duration**: 2-4 sessions
 **Themes**: Mystery, Combat, Exploration
 
-
 ## Background
 
 The events leading to this adventure have been building for some time. Forces are in motion that the party must confront or redirect.
-
 
 ## Locations
 
@@ -79,64 +126,8 @@ The events leading to this adventure have been building for some time. Forces ar
 3. **Challenge Areas**: Combat or puzzle locations
 4. **Climax Location**: Where everything comes together
 
-
-## Encounters
-
-### Combat Encounters
-- Easy: CR appropriate to party -2
-- Medium: CR appropriate to party
-- Hard: CR appropriate to party +2
-
-### Social Encounters
-- Information gathering
-- Negotiation opportunities
-- Deception challenges
-
-### Exploration Challenges
-- Environmental hazards
-- Puzzles and riddles
-- Skill challenges
-
-
-## Treasures
-
-### Monetary Rewards
-- Gold and valuables appropriate to level
-
-### Magic Items
-- Minor items (consumables)
-- Permanent items (if appropriate)
-
-### Story Rewards
-- Information gained
-- Allies made
-- Reputation changes
-
-
-## Plot Hooks
-
 ### Primary Hook
 The main reason parties get involved
-
-### Alternative Hooks
-- Personal connection
-- Professional interest
-- Coincidental involvement
-
-
-## Scaling Notes
-
-### For Lower Level Parties
-- Reduce enemy numbers
-- Lower DCs by 2-3
-- Provide more healing opportunities
-
-### For Higher Level Parties
-- Add minions to encounters
-- Increase DCs by 2-3
-- Add time pressure
-- Include legendary actions
-
 
 ## DM Notes
 

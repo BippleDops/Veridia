@@ -19,8 +19,6 @@ modified: '2025-08-14'
 
 ---
 
-## 🎭 CAMPAIGN OVERVIEW
-
 ### The Core Concept
 
 **"Shadows Beneath the Crown"** is a political intrigue campaign set in the dual realms of Cordelia, where players uncover a conspiracy that threatens both Aquabyssos and Aethermoor. This example campaign demonstrates all major vault systems and provides a complete template for running Cordelia adventures.
@@ -56,15 +54,11 @@ Act III: Crown in Crisis (Sessions 7-9)
 ├── Session 7: The Queen's Dilemma
 ├── Session 8: Cross-Realm Alliance
 └── Session 9: Resolution & Consequences
-```
 
 ---
 
-## 🗂️ VAULT ORGANIZATION EXAMPLE
-
 ### Campaign File Structure
 
-```
 📁 01_Adventures/
 ├── 📁 Shadows_Beneath_the_Crown/
 │   ├── 📄 Campaign_Overview.md
@@ -98,13 +92,8 @@ Act III: Crown in Crisis (Sessions 7-9)
     ├── 📄 Shadow_Surgery_Facility_Beta.md (new)
     ├── 📄 Diplomatic_Quarter_Safe_House.md (new)
     └── 📄 Aethermoor_Council_Chambers.md (existing, enhanced)
-```
 
 ---
-
-## 👥 KEY NPCS & RELATIONSHIPS
-
-### Primary NPCs (Detailed Examples)
 
 #### Queen Seraphina Lumengarde
 ```markdown
@@ -117,20 +106,29 @@ campaign_role: primary
 relationship_complexity: high
 ---
 
-# Queen Seraphina Lumengarde
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Basic Information
 **Title**: Sovereign Ruler of Aquabyssos
 **Age**: 34 | **Race**: Human (Depth-Adapted)
 **Location**: [[Crystal Palace Throne Room]]
 **Current Status**: Increasingly concerned about crystal corruption symptoms
-
-## Personality Core
-- **Primary Motivation**: Protecting her realm while maintaining diplomatic relations
-- **Core Trait**: Intelligent and perceptive, but hiding growing paranoia from crystal exposure
-- **Hidden Flaw**: Early-stage crystal corruption affecting judgment
-- **Public Persona**: Composed, diplomatic, forward-thinking leader
-- **Private Reality**: Struggling with disturbing thoughts and physical changes
 
 ## The Crystal Corruption Secret
 **Physical Symptoms** (Known only to her):
@@ -199,20 +197,14 @@ relationship_complexity: high
 - Shadow Conspiracy gains foothold in government
 - Cross-realm relations deteriorate
 - Alternative leadership must be found
-```
 
 #### Ambassador Lysandra Silvertongue
-```markdown
 ---
-type: NPC
 world: Both
-status: complete
 tags: [npc, both-worlds, diplomat, investigation, double-agent]
 campaign_role: secondary-primary
 relationship_complexity: very-high
 ---
-
-# Ambassador Lysandra Silvertongue
 
 ## Basic Information  
 **Title**: Cross-Realm Diplomatic Liaison
@@ -300,12 +292,8 @@ Lysandra is caught in an increasingly dangerous web:
 - Gradually reveals personal concerns and stress
 - Eventually must choose whether to trust party with truth
 - Becomes either valuable ally or dangerous enemy
-```
 
 ### Relationship Network Example
-
-```markdown
-# Campaign Relationship Web
 
 ## Primary Tensions
 **Queen Seraphina** ⟷ **Parliament** (Strain: 6/10)
@@ -340,13 +328,8 @@ Lysandra is caught in an increasingly dangerous web:
 **Session 3 → 4**: Open conflict begins
 **Session 4 → 6**: Allegiances tested and reformed  
 **Session 6 → 9**: New political order established
-```
 
 ---
-
-## 🎯 SESSION-BY-SESSION BREAKDOWN
-
-### Session 1: Diplomatic Tensions
 
 #### Setup & Objectives
 **Timeline**: Campaign Day 1, Month 3, 1247 AC
@@ -363,7 +346,6 @@ Lysandra is caught in an increasingly dangerous web:
 - Create first relationship dynamics
 
 #### Opening Scene
-```markdown
 ## The Royal Summons
 
 The crystal-carved corridors of the Palace echo with unusual activity. Royal Guards move in formation, their traditional ceremonial pace replaced by urgent efficiency. You've been summoned by Queen Seraphina herself - an honor that comes with dangerous implications.
@@ -376,14 +358,13 @@ The crystal-carved corridors of the Palace echo with unusual activity. Royal Gua
 
 **Queen Seraphina's Entrance**:
 She enters with measured steps, but perceptive characters (Insight DC 13) notice:
-- Slight tremor in her dominant hand  
+- Slight tremor in her domit hand  
 - Brief pause as she adjusts to the throne room's lighting
 - A small crystalline formation visible at her collar line
 - Her advisors watch her with barely concealed concern
 
 **The Royal Request**:
 "Honored citizens, we face delicate circumstances requiring... discrete investigation. Our diplomatic relations with Aethermoor show signs of strain. Ambassador Lysandra reports concerning developments in recent negotiations. We require individuals of your capabilities to assess the situation and report directly to the Crown."
-```
 
 #### Investigation Opportunities
 
@@ -482,8 +463,6 @@ She enters with measured steps, but perceptive characters (Insight DC 13) notice
 - **Day 1, Evening**: Initial findings and planning session
 - **Day 2**: Follow-up leads established for Session 2
 
-### Session 2: The Corrupted Ambassador
-
 #### Setup & Development
 **Timeline**: Campaign Day 2-3, Month 3, 1247 AC
 **Primary Focus**: Deep investigation into Ambassador Lysandra's behavior and the growing evidence of infiltration
@@ -504,7 +483,6 @@ Lysandra is actually a triple agent - recruited by Shadow Conspiracy through fam
 #### Investigation Scenes
 
 **Scene 1: The Private Meeting**
-```markdown
 Ambassador Lysandra's office feels different than yesterday. The formal diplomatic decorations seem staged, and she keeps glancing toward the door.
 
 "I need your help with something... delicate. There are forces moving that threaten everything we've built between our realms. But I can't tell you everything - not here, not yet. Can you meet me tonight at the Meridian Dock? Alone, and tell no one."
@@ -514,7 +492,6 @@ Ambassador Lysandra's office feels different than yesterday. The formal diplomat
 - Search her office while she's distracted (risky but informative)
 - Follow her after the meeting to see where she goes
 - Check her appointment schedule and correspondence
-```
 
 **Scene 2: The Secret Meeting**
 The midnight meeting at Meridian Dock can go several directions based on party approach:
@@ -540,24 +517,20 @@ The midnight meeting at Meridian Dock can go several directions based on party a
 #### Major NPCs This Session
 
 **Lysandra's Handler - Agent Blackwater**:
-```markdown
 A career intelligence professional who recruited Lysandra for the counter-operation. Appears if the party proves trustworthy or if the situation becomes critical.
 
 **Personality**: Pragmatic, experienced, tired
 **Information**: Complete picture of Shadow infiltration scope
 **Resources**: Safe houses, communication networks, other undercover agents
 **Stakes**: Entire counter-intelligence operation depends on maintaining Lysandra's cover
-```
 
 **Shadow Contact - "The Broker"**:
-```markdown
 The party may encounter or observe Lysandra's supposed Shadow handler, a sophisticated operative who believes Lysandra is their asset.
 
 **Personality**: Cold, professional, threatening
 **Methods**: Psychological manipulation, family threats, blackmail
 **Information**: Shadow Conspiracy structure and methods (limited)
 **Challenge**: Extremely dangerous if confronted directly
-```
 
 #### Revelations & Consequences
 
@@ -596,8 +569,6 @@ The party may encounter or observe Lysandra's supposed Shadow handler, a sophist
 
 ---
 
-## 🎮 AUTOMATION INTEGRATION EXAMPLES
-
 ### Pre-Session Automation Commands
 
 ```bash
@@ -612,77 +583,35 @@ python scripts/timeline_alignment_checker.py --vault-path . --campaign "Shadows_
 
 # Update quest status
 python scripts/dynamic_quest_tracker.py --vault-path . create "Investigation: Diplomatic Tensions" --description "Investigate strain in Aquabyssos-Aethermoor relations" --giver "Queen Seraphina"
-```
 
 ### During Session Automation
 
-```bash
 # Quick NPC generation during play
 python scripts/ai_content_generator.py --vault-path . generate quick_npc --input role="Palace Guard" --input loyalty="Queen" --input concern="royal_health"
 
-# Update relationship after social encounter
-# (This would be built into the session tracking system)
-
 # Generate quick location if PCs go somewhere unexpected
 python scripts/ai_content_generator.py --vault-path . generate location_description --input type="Safe House" --input world="Aquabyssos" --input atmosphere="Secretive"
-```
 
 ### Post-Session Processing
 
-```bash
 # Update campaign timeline
 python scripts/timeline_alignment_checker.py --vault-path . add-event "Month 3, Day 2" "Ambassador Lysandra reveals triple-agent status" --impact "Major revelation about Shadow Conspiracy"
-
-# Update faction relationships based on session
-# (Automated based on session file parsing)
 
 # Run quality check on new content
 python scripts/content_validator.py --vault-path . --recent --report
 
 # Backup campaign state
 python scripts/backup_automation.py --vault-path . backup --type incremental --tag "post_session_2"
-```
 
 ---
 
-## 📊 CAMPAIGN METRICS & TRACKING
-
 ### Progress Tracking Template
-
-```markdown
-# Campaign Progress Dashboard
-
-## Session Completion Status
-- [x] Session 1: Diplomatic Tensions (Completed 2025-08-13)
-- [x] Session 2: Corrupted Ambassador (Completed 2025-08-20)  
-- [ ] Session 3: First Shadows (Scheduled 2025-08-27)
-- [ ] Session 4: Shadow Surgery (Planned)
-- [ ] Session 5: Political Maneuvering (Planned)
-
-## Player Character Development
-### Character Relationships
-- **Queen Seraphina**: Cautiously Trusted (+2)
-- **Ambassador Lysandra**: Trusted Ally (+3)  
-- **Admiral Marina**: Professional Respect (+1)
-- **Shadow Conspiracy**: Active Enemies (-4)
-
-### Quest Progress
-- **Main Quest: Shadow Investigation**: 35% Complete
-- **Side Quest: Royal Health Mystery**: 60% Complete
-- **Side Quest: Family Protection**: 25% Complete
-
-## World State Changes
-- **Political Tension Level**: Moderate → High
-- **Security Alert Status**: Normal → Elevated
-- **Cross-Realm Relations**: Strained → Cooperative (with PC help)
-- **Public Awareness**: Unaware → Concerned
 
 ## Automation Usage Statistics
 - **NPCs Generated**: 7
 - **Content Validation Runs**: 12
 - **Backup Operations**: 4
 - **Link Suggestions Applied**: 23
-```
 
 ### Relationship Tracking Example
 
@@ -710,20 +639,15 @@ python scripts/backup_automation.py --vault-path . backup --type incremental --t
         "reputation": 6,
         "status": "trusted_investigators",
         "access_level": "confidential"
-      },
       "Shadow_Conspiracy": {
         "reputation": 2,
         "status": "active_enemies",
         "threat_level": "high"
-      }
     }
   }
 }
-```
 
 ---
-
-## 🏆 CAMPAIGN SUCCESS METRICS
 
 ### Player Engagement Indicators
 
@@ -792,7 +716,6 @@ This example campaign demonstrates how the Cordelia Vault's systems work togethe
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -800,3 +723,20 @@ This example campaign demonstrates how the Cordelia Vault's systems work togethe
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- A merchant needs help delivering before winter
+- A letter reveals a betrayal about a local noble
+- The authorities needs help stealing before dawn
+- A stranger needs help investigating before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

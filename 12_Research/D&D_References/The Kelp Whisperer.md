@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.145440+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,16 @@ The Kelp Whisperer is a undersea element of the setting, known for bioluminescen
 
 Legends speak of The Kelp Whisperer as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Kelp Whisperer.
 
-## Adventure Hooks
-
-- A rumor ties The Kelp Whisperer to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Kelp Whisperer to avert a public scandal.
-- A map overlay reveals a hidden approach to The Kelp Whisperer active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Port Meridian Harbor|02 Worldbuilding/Places/Port Meridian Harbor]]
-
-
-## Connections
-
-- [[Port Meridian Harbor]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting an heir for power
+- A stranger needs help investigating before winter

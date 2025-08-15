@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:05.187644+00:00'
 world: Both
 ---
 
-
-
 # Appendix A: Random Dungeons
 *Source: Dungeon Master's Guide (2014), p. 290* 
 
@@ -32,6 +30,24 @@ This appendix helps you quickly generate a dungeon. The tables work in an iterat
 Following these instructions can lead to sprawling complexes that more than fill a single sheet of graph paper. If you want to constrain the dungeon, establish limits ahead of time on how far it can grow. The most obvious limit to a dungeon's size is the graph paper it's drawn on. If a feature would exceed the boundaries of the page, curtail it. A corridor might turn or come to a dead end at the map's edge, or you can make a chamber smaller to fit the available space.
 
 Alternatively, you can decide that passages leading off the edge of the map are additional dungeon entrances. Stairs, shafts, and other features that would normally lead to levels you don't plan to map can serve a similar purpose.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Starting Area
 
@@ -129,7 +145,7 @@ If a dungeon has a tumultuous history, you can roll to determine the current con
 
 Once you have a sense of the purpose of the various dungeon chambers, you can think about the contents of those areas. The Dungeon Chamber Contents table allows you to randomly roll contents for a chamber, or you can choose contents for specific areas. If you choose contents, be sure to include an interesting, colorful assortment of things. In addition to the contents shown on this table, refer to "Dungeon Dressing" later in this appendix for additional items and elements to fill rooms.
 
-In the Dungeon Chamber Contents table, a "dominant inhabitant" is a creature that controls an area. Pets and allied creatures are subservient to the dominant inhabitant. "Random creatures" are scavengers or nuisances, usually lone monsters or small groups passing through the area. They include such creatures as carrion crawlers, dire rats, gelatinous cubes, and rust monsters. See chapter 3, "Creating Adventures," for more information on random encounters.
+In the Dungeon Chamber Contents table, a "domit inhabitant" is a creature that controls an area. Pets and allied creatures are subservient to the domit inhabitant. "Random creatures" are scavengers or nuisances, usually lone monsters or small groups passing through the area. They include such creatures as carrion crawlers, dire rats, gelatinous cubes, and rust monsters. See chapter 3, "Creating Adventures," for more information on random encounters.
 
 ![[dungeon-chamber-contents|Dungeon Chamber Contents]]
 
@@ -223,19 +239,11 @@ To generate dungeon dressing at random, roll once on each of the following table
 
 Legends speak of 11 appendix a random dungeons as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 11 appendix a random dungeons.
 
-## Adventure Hooks
-
-- A rumor ties 11 appendix a random dungeons to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 11 appendix a random dungeons to avert a public scandal.
-- A map overlay reveals a hidden approach to 11 appendix a random dungeons active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 

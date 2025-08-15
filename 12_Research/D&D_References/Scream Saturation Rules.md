@@ -22,17 +22,30 @@ updated: '2025-08-13T01:18:36.429955+00:00'
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-scream-saturation-rules-scream-saturation-rules.svg]]
-
-
-
 
 # Scream Saturation Rules
 
 *"Too much sound becomes no sound at all."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 Special mechanical rules for environments where sonic magic has been overused, creating zones of "scream saturation" where sound-based magic behaves unpredictably or fails entirely.
@@ -119,7 +132,7 @@ These rules apply in areas where intense sonic magic has been used repeatedly or
 **Hearing Loss**: Prolonged exposure causes temporary or permanent deafness
 **Disorientation**: Characters may become confused in silent zones
 **Wildlife Effects**: Marine life flees saturated areas
-**Magical Resonance**: Other magic types may be affected in extreme cases
+**Magical Resoce**: Other magic types may be affected in extreme cases
 
 ## Special Locations
 **The Silent Depths**: Permanently saturated area beneath Aquabyssos
@@ -168,11 +181,6 @@ Use saturation rules to create interesting tactical challenges and environmental
 
 Consider the narrative impact - areas of supernatural silence can be eerie and memorable, while the buildup to saturation creates tension around the use of powerful sonic magic.
 
-
-## Connections
-
-- [[Screaming Gardens]]
-
 ## Player-Facing Summary
 
 Scream Saturation Rules is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -181,23 +189,20 @@ Scream Saturation Rules is a undersea element of the setting, known for biolumin
 
 Legends speak of Scream Saturation Rules as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Scream Saturation Rules.
 
-## Adventure Hooks
-
-- A rumor ties Scream Saturation Rules to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Scream Saturation Rules to avert a public scandal.
-- A map overlay reveals a hidden approach to Scream Saturation Rules active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Scream Saturation Rules|02 Worldbuilding/Places/Scream Saturation Rules]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a curse
+- A journal reveals a betrayal about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

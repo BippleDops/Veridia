@@ -77,16 +77,11 @@ updated: '2025-08-13T12:34:07.573794+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-enspelled-weapon-cantrip-xdmg-enspelled-weapon-cantrip-xdmg.svg)
 
 # Enspelled Weapon (Cantrip)
 *Uncommon (requires attunement)*  
-
-
 
 Bound into this weapon is a cantrip. The cantrip is determined when the weapon is created and must belong to the Conjuration, Divination, Evocation, Necromancy, or Transmutation school of magic. The weapon has 6 charges and regains `d6` expended charges daily at dawn. While holding the weapon, you can expend 1 charge to cast its spell.
 
@@ -147,358 +142,6 @@ The spell's saving throw DC is 13, and its attack bonus is `+5`.
 - [Enspelled (Cantrip) Wooden Staff](#Enspelled%20(Cantrip)%20Wooden%20Staff)
 - [Enspelled (Cantrip) Yklwa](#Enspelled%20(Cantrip)%20Yklwa)
 
-## Enspelled (Cantrip) Antimatter Rifle
-
-- **Damage**: 6d8 necrotic
-- **Range**: 120/360
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 10.0 lbs.
-
-### Enspelled (Cantrip) Automatic Rifle
-
-- **Damage**: 2d8 piercing
-- **Range**: 80/240
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Burst%20Fire|Burst Fire]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 8.0 lbs.
-
-### Enspelled (Cantrip) Battleaxe
-
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: [[item-properties#Versatile|Versatile]]
-- **Weight**: 4.0 lbs.
-
-### Enspelled (Cantrip) Blowgun
-
-- **Damage**: 1 piercing
-- **Range**: 25/100
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]]
-- **Weight**: 1.0 lbs.
-
-### Enspelled (Cantrip) Club
-
-- **Damage**: 1d4 bludgeoning
-- **Properties**: [[item-properties#Light|Light]]
-- **Weight**: 2.0 lbs.
-
-### Enspelled (Cantrip) Dagger
-
-- **Damage**: 1d4 piercing
-- **Range**: 20/60
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
-- **Weight**: 1.0 lbs.
-
-### Enspelled (Cantrip) Dart
-
-- **Damage**: 1d4 piercing
-- **Range**: 20/60
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Thrown|Thrown]]
-- **Weight**: 0.25 lbs.
-
-### Enspelled (Cantrip) Double-Bladed Scimitar
-
-- **Damage**: 2d4 slashing
-- **Properties**: [[item-properties#Two-Handed|Two-Handed]], [[item-properties#Special%20Weapons|special]]
-- **Weight**: 6.0 lbs.
-
-### Enspelled (Cantrip) Flail
-
-- **Damage**: 1d8 bludgeoning
-- **Weight**: 2.0 lbs.
-
-### Enspelled (Cantrip) Glaive
-
-- **Damage**: 1d10 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 6.0 lbs.
-
-### Enspelled (Cantrip) Greataxe
-
-- **Damage**: 1d12 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 7.0 lbs.
-
-### Enspelled (Cantrip) Greatclub
-
-- **Damage**: 1d8 bludgeoning
-- **Properties**: [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 10.0 lbs.
-
-### Enspelled (Cantrip) Greatsword
-
-- **Damage**: 2d6 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 6.0 lbs.
-
-### Enspelled (Cantrip) Halberd
-
-- **Damage**: 1d10 slashing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 6.0 lbs.
-
-### Enspelled (Cantrip) Hand Crossbow
-
-- **Damage**: 1d6 piercing
-- **Range**: 30/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Light|Light]], [[item-properties#Loading|Loading]]
-- **Weight**: 3.0 lbs.
-
-### Enspelled (Cantrip) Handaxe
-
-- **Damage**: 1d6 slashing
-- **Range**: 20/60
-- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
-- **Weight**: 2.0 lbs.
-
-### Enspelled (Cantrip) Heavy Crossbow
-
-- **Damage**: 1d10 piercing
-- **Range**: 100/400
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Heavy|Heavy]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 18.0 lbs.
-
-### Enspelled (Cantrip) Hooked Shortspear
-
-- **Damage**: 1d4 piercing
-- **Properties**: [[item-properties#Light|Light]]
-- **Weight**: 2.0 lbs.
-
-### Enspelled (Cantrip) Hoopak
-
-- **Damage**: 1d6 piercing
-- **Range**: 40/160
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Finesse|Finesse]], [[item-properties#Two-Handed|Two-Handed]], [[item-properties#Special%20Weapons|special]]
-- **Weight**: 2.0 lbs.
-
-### Enspelled (Cantrip) Hunting Rifle
-
-- **Damage**: 2d10 piercing
-- **Range**: 80/240
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 8.0 lbs.
-
-### Enspelled (Cantrip) Javelin
-
-- **Damage**: 1d6 piercing
-- **Range**: 30/120
-- **Properties**: [[item-properties#Thrown|Thrown]]
-- **Weight**: 2.0 lbs.
-
-### Enspelled (Cantrip) Lance
-
-- **Damage**: 1d10 piercing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]]
-- **Weight**: 6.0 lbs.
-
-### Enspelled (Cantrip) Laser Pistol
-
-- **Damage**: 3d6 radiant
-- **Range**: 40/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]]
-- **Weight**: 2.0 lbs.
-
-### Enspelled (Cantrip) Laser Rifle
-
-- **Damage**: 3d8 radiant
-- **Range**: 100/300
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 7.0 lbs.
-
-### Enspelled (Cantrip) Light Crossbow
-
-- **Damage**: 1d8 piercing
-- **Range**: 80/320
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 5.0 lbs.
-
-### Enspelled (Cantrip) Light Hammer
-
-- **Damage**: 1d4 bludgeoning
-- **Range**: 20/60
-- **Properties**: [[item-properties#Light|Light]], [[item-properties#Thrown|Thrown]]
-- **Weight**: 2.0 lbs.
-
-### Enspelled (Cantrip) Light Repeating Crossbow
-
-- **Damage**: 1d8 piercing
-- **Range**: 40/160
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 5.0 lbs.
-
-### Enspelled (Cantrip) Longbow
-
-- **Damage**: 1d8 piercing
-- **Range**: 150/600
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 2.0 lbs.
-
-### Enspelled (Cantrip) Longsword
-
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: [[item-properties#Versatile|Versatile]]
-- **Weight**: 3.0 lbs.
-
-### Enspelled (Cantrip) Mace
-
-- **Damage**: 1d6 bludgeoning
-- **Weight**: 4.0 lbs.
-
-### Enspelled (Cantrip) Maul
-
-- **Damage**: 2d6 bludgeoning
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 10.0 lbs.
-
-### Enspelled (Cantrip) Morningstar
-
-- **Damage**: 1d8 piercing
-- **Weight**: 4.0 lbs.
-
-### Enspelled (Cantrip) Musket
-
-- **Damage**: 1d12 piercing
-- **Range**: 40/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 10.0 lbs.
-
-### Enspelled (Cantrip) Pike
-
-- **Damage**: 1d10 piercing
-- **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 18.0 lbs.
-
-### Enspelled (Cantrip) Pistol
-
-- **Damage**: 1d10 piercing
-- **Range**: 30/90
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Loading|Loading]]
-- **Weight**: 3.0 lbs.
-
-### Enspelled (Cantrip) Quarterstaff
-
-- **Damage**:
-  - One-handed: 1d6 bludgeoning
-  - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
-- **Weight**: 4.0 lbs.
-
-### Enspelled (Cantrip) Rapier
-
-- **Damage**: 1d8 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]]
-- **Weight**: 2.0 lbs.
-
-### Enspelled (Cantrip) Revolver
-
-- **Damage**: 2d8 piercing
-- **Range**: 40/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]]
-- **Weight**: 3.0 lbs.
-
-### Enspelled (Cantrip) Scimitar
-
-- **Damage**: 1d6 slashing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
-- **Weight**: 3.0 lbs.
-
-### Enspelled (Cantrip) Semiautomatic Pistol
-
-- **Damage**: 2d6 piercing
-- **Range**: 50/150
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]]
-- **Weight**: 3.0 lbs.
-
-### Enspelled (Cantrip) Shortbow
-
-- **Damage**: 1d6 piercing
-- **Range**: 80/320
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 2.0 lbs.
-
-### Enspelled (Cantrip) Shortsword
-
-- **Damage**: 1d6 piercing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Light|Light]]
-- **Weight**: 2.0 lbs.
-
-### Enspelled (Cantrip) Shotgun
-
-- **Damage**: 2d8 piercing
-- **Range**: 30/90
-- **Properties**: [[item-properties#Ammunition|Ammunition]], [[item-properties#Reload|Reload]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 7.0 lbs.
-
-### Enspelled (Cantrip) Sickle
-
-- **Damage**: 1d4 slashing
-- **Properties**: [[item-properties#Light|Light]]
-- **Weight**: 2.0 lbs.
-
-### Enspelled (Cantrip) Sling
-
-- **Damage**: 1d4 bludgeoning
-- **Range**: 30/120
-- **Properties**: [[item-properties#Ammunition|Ammunition]]
-
-### Enspelled (Cantrip) Spear
-
-- **Damage**:
-  - One-handed: 1d6 piercing
-  - Two-handed: 1d8 piercing
-- **Range**: 20/60
-- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
-- **Weight**: 3.0 lbs.
-
-### Enspelled (Cantrip) Staff
-
-- **Damage**:
-  - One-handed: 1d6 bludgeoning
-  - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
-- **Weight**: 4.0 lbs.
-
-### Enspelled (Cantrip) Trident
-
-- **Damage**:
-  - One-handed: 1d8 piercing
-  - Two-handed: 1d10 piercing
-- **Range**: 20/60
-- **Properties**: [[item-properties#Thrown|Thrown]], [[item-properties#Versatile|Versatile]]
-- **Weight**: 4.0 lbs.
-
-### Enspelled (Cantrip) War Pick
-
-- **Damage**:
-  - One-handed: 1d8 piercing
-  - Two-handed: 1d10 piercing
-- **Properties**: [[item-properties#Versatile|Versatile]]
-- **Weight**: 2.0 lbs.
-
-### Enspelled (Cantrip) Warhammer
-
-- **Damage**:
-  - One-handed: 1d8 bludgeoning
-  - Two-handed: 1d10 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
-- **Weight**: 5.0 lbs.
-
-### Enspelled (Cantrip) Whip
-
-- **Damage**: 1d4 slashing
-- **Properties**: [[item-properties#Finesse|Finesse]], [[item-properties#Reach|Reach]]
-- **Weight**: 3.0 lbs.
-
-### Enspelled (Cantrip) Wooden Staff
-
-- **Damage**:
-  - One-handed: 1d6 bludgeoning
-  - Two-handed: 1d8 bludgeoning
-- **Properties**: [[item-properties#Versatile|Versatile]]
-- **Weight**: 4.0 lbs.
-
 ### Enspelled (Cantrip) Yklwa
 
 - **Damage**: 1d8 piercing
@@ -506,8 +149,25 @@ The spell's saving throw DC is 13, and its attack bonus is `+5`.
 - **Properties**: [[item-properties#Thrown|Thrown]]
 - **Weight**: 3.0 lbs.
 
-
 *Source: Dungeon Master's Guide (2024) p. 258*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -517,19 +177,20 @@ Enspelled weapon cantrip xdmg is a undersea element of the setting, known for bi
 
 Legends speak of enspelled weapon cantrip xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around enspelled weapon cantrip xdmg.
 
-## Adventure Hooks
-
-- A rumor ties enspelled weapon cantrip xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at enspelled weapon cantrip xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to enspelled weapon cantrip xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

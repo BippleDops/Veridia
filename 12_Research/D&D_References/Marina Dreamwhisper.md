@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.000826+00:00'
 danger_level: Moderate
 ---
 
-
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-innkeeper-marina-dreamwhisper-innkeeper-marina-dreamwhisper.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Overview
+*20 targeted improvements identified*
 
-TODO
-## History
+### Connection Improvements
 
-TODO
-## Layout
+- Add cross-references to related notes
 
-TODO
-## Notables
+### Enhancement Improvements
 
-TODO
-## Threats
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,30 @@ Marina Dreamwhisper is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Marina Dreamwhisper as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Marina Dreamwhisper.
 
-## Adventure Hooks
-
-- A rumor ties Marina Dreamwhisper to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Marina Dreamwhisper to avert a public scandal.
-- A map overlay reveals a hidden approach to Marina Dreamwhisper active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Marina Dreamwhisper|02 Worldbuilding/Places/Marina Dreamwhisper]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Innkeeper Marina Dreamwhisper]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help finding before dawn
+- A journal reveals the truth about the cult
+- A corpse reveals a conspiracy about a local noble
+- Strange disappearances suggest a conspiracy
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

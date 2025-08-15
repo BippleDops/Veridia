@@ -1,4 +1,5 @@
 ---
+
 title: Lady Elena the Eternal
 type: Npc
 tags:
@@ -18,6 +19,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.684374+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +29,60 @@ world: Aquabyssos
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-lady-elena-the-eternal-lady-elena-the-eternal.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward manipulation
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more focused
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward negotiation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
 
 ## Player-Facing Summary
 
@@ -67,14 +91,6 @@ Lady Elena the Eternal is a undersea element of the setting, known for biolumine
 ## Lore Details
 
 Legends speak of Lady Elena the Eternal as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lady Elena the Eternal.
-
-## Adventure Hooks
-
-- A rumor ties Lady Elena the Eternal to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Lady Elena the Eternal to avert a public scandal.
-- A map overlay reveals a hidden approach to Lady Elena the Eternal active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +101,6 @@ Lady Elena the Eternal's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Finding purpose
@@ -124,8 +110,6 @@ Lady Elena the Eternal's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Lady Elena the Eternal harbors secrets that could change everything:
@@ -133,10 +117,6 @@ Lady Elena the Eternal harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Hidden past
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +135,6 @@ Lady Elena the Eternal is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Lady Elena the Eternal needs assistance with a delicate matter
@@ -164,8 +142,6 @@ Lady Elena the Eternal is currently engaged in:
 3. **The Secret**: Information about Lady Elena the Eternal's past surfaces
 4. **The Alliance**: Opportunity to work with or against Lady Elena the Eternal
 5. **The Crisis**: Lady Elena the Eternal is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,21 +155,15 @@ Lady Elena the Eternal is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Lady Elena the Eternal]]
+## Religious Observances
 
-<!-- enriched: true -->
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
 
-
-
-
-## Relationship Web
-
-- [[Quest - The Deep Alliance]]: *secret ally*
-- [[Pilgrim Guide Samuel Walkingfaith]]: *student*
-- [[04_Resources_Assets_Locations_location-city-commander-reef-shadowstrike-v1-commander-reef-shadowstrike.svg]]: *patron*
-
-## Connections
-
-- [[The Whispering Peaks]]
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

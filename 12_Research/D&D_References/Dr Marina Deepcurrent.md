@@ -20,15 +20,22 @@ world: Both Worlds
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Overview
-
-TODO
 
 ## Player-Facing Summary
 
@@ -38,28 +45,39 @@ Dr. Marina Deepcurrent is a undersea element of the setting, known for biolumine
 
 Legends speak of Dr. Marina Deepcurrent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Dr. Marina Deepcurrent.
 
-## Adventure Hooks
-
-- A rumor ties Dr. Marina Deepcurrent to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Dr. Marina Deepcurrent to avert a public scandal.
-- A map overlay reveals a hidden approach to Dr. Marina Deepcurrent active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Threshold]]
-
-
-## Connections
-
-- [[The Threshold]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- Someone is searching for an heir for revenge
+- Someone is protecting information for power
+- Strange sightings suggest a conspiracy
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

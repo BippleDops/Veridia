@@ -23,8 +23,6 @@ updated: '2025-08-13T12:34:04.932327+00:00'
 world: Both
 ---
 
-
-
 # Medium Armor Master
 *Source: Player's Handbook (2024) p. 205*  
 
@@ -36,6 +34,24 @@ You gain the following benefits.
 
 **Dexterous Wearer.** While you're wearing Medium armor, you can add 3, rather than 2 to your AC if you have a Dexterity score of 16 or higher.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Medium armor master xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -44,19 +60,17 @@ Medium armor master xphb is a undersea element of the setting, known for biolumi
 
 Legends speak of medium armor master xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around medium armor master xphb.
 
-## Adventure Hooks
-
-- A rumor ties medium armor master xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at medium armor master xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to medium armor master xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting a artifact for revenge
+- A corpse reveals the truth about the government
+- A document has gone missing and chaos spreads

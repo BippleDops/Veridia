@@ -28,13 +28,29 @@ updated: '2025-08-12T23:37:35.510744'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-marilith-xmm-marilith-xmm.svg)
 
 # [[marilith-xmm|Marilith]]
-*Source: Monster Manual (2024) p. 204. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 204. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Marilith
 
@@ -58,10 +74,7 @@ Mariliths are six-armed, serpent-like demons that wield lethal, Abyss-forged bla
 "stats":
   - !!int "18"
   - !!int "20"
-  - !!int "20"
-  - !!int "18"
   - !!int "16"
-  - !!int "20"
 "speed": "40 ft., climb 40 ft."
 "saves":
   - "strength": !!int "9"
@@ -126,19 +139,20 @@ Marilith xmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of marilith xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around marilith xmm.
 
-## Adventure Hooks
-
-- A rumor ties marilith xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at marilith xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to marilith xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

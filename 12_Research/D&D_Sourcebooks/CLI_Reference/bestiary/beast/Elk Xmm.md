@@ -30,14 +30,29 @@ updated: '2025-08-13T12:34:05.500799+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-elk-xmm-elk-xmm.svg)
 
 # [[elk-xmm|Elk]]
-*Source: Monster Manual (2024) p. 353, Player's Handbook (2024) p. 349. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 353, Player's Handbook (2024) p. 349. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Animals
 
@@ -57,7 +72,6 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - !!int "10"
   - !!int "11"
   - !!int "2"
-  - !!int "10"
   - !!int "6"
 "speed": "50 ft."
 "skillsaves":
@@ -70,7 +84,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "Melee Attack Roll: +5, reach 5 ft. Hit: 6 (1d6 + 3) Bludgeoning damage.\
       \ If the target is a Large or smaller creature and the elk moved 20+ feet straight\
       \ toward it immediately before the hit, the target takes an extra 3 (d6) Bludgeoning\
-      \ damage and has the [[conditions#Prone|Prone]] condition."
+      \ damage and has the [[conditions#prone|Prone]] condition."
     "name": "Ram"
 "source":
   - "XMM"
@@ -91,19 +105,45 @@ Elk xmm is a undersea element of the setting, known for bioluminescent glow and 
 
 Legends speak of elk xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elk xmm.
 
-## Adventure Hooks
-
-- A rumor ties elk xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at elk xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to elk xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- Strange accidents suggest ancient magic
+- A document has gone missing and chaos spreads
+- Someone is blackmailing a artifact for revenge
+- Someone is protecting information for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

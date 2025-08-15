@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.625875+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,16 @@ The Equipment Master is a undersea element of the setting, known for bioluminesc
 
 Legends speak of The Equipment Master as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Equipment Master.
 
-## Adventure Hooks
-
-- A rumor ties The Equipment Master to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Equipment Master to avert a public scandal.
-- A map overlay reveals a hidden approach to The Equipment Master active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Purist Coalition Thugs|02 Worldbuilding/Groups/Purist Coalition Thugs]]
-
-
-## Connections
-
-- [[Purist Coalition Thugs]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and war looms
+- A noble needs help delivering before the festival

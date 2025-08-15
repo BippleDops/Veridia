@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.527087'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-red-abishai-mpmm-red-abishai-mpmm.svg)
 
@@ -37,6 +35,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 40, Mordenkainen's Tome of Foes p. 160*  
 
 Red abishais have no equals among the abishais when it comes to leadership ability and raw power. Red abishais lead other devils into battle or take charge of troublesome cults to ensure that they continue to carry out Tiamat's commands. A red abishai cuts a fearsome figure, and that sight can be inspiring to the abishai's allies, filling them with a fanatical willingness to fight.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Abishais
 
@@ -63,7 +79,6 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - !!int "19"
   - !!int "14"
   - !!int "15"
-  - !!int "19"
 "speed": "30 ft., fly 50 ft."
 "saves":
   - "strength": !!int "12"
@@ -77,7 +92,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "fire, poison"
-"condition_immunities": "[[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#frightened|frightened]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 18"
 "languages": "Draconic, Infernal, telepathy 120 ft."
@@ -99,7 +114,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
       \ (2d10 + 6) force damage plus 11 (2d10) fire damage."
     "name": "Claw"
   - "desc": "Each creature of the abishai's choice that is within 120 feet and aware\
-      \ of the abishai must succeed on a DC 18 Wisdom saving throw or become [[conditions#Frightened|frightened]]\
+      \ of the abishai must succeed on a DC 18 Wisdom saving throw or become [[conditions#frightened|frightened]]\
       \ of it for 1 minute. A creature can repeat the saving throw at the end of each\
       \ of its turns, ending the effect on itself on a success. If a creature's saving\
       \ throw is successful or the effect ends for it, the creature is immune to the\
@@ -107,7 +122,7 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
     "name": "Frightful Presence"
   - "desc": "The abishai chooses up to four other creatures within 60 feet of it that\
       \ can see it. Until the start of the abishai's next turn, each of those creatures\
-      \ makes attack rolls with advantage and can't be [[conditions#Frightened|frightened]]."
+      \ makes attack rolls with advantage and can't be [[conditions#frightened|frightened]]."
     "name": "Incite Fanaticism"
   - "desc": "The abishai targets one Dragon it can see within 120 feet of it. The\
       \ Dragon must make a DC 18 Charisma saving throw. A chromatic dragon makes this\
@@ -137,19 +152,32 @@ Red abishai mpmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of red abishai mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around red abishai mpmm.
 
-## Adventure Hooks
-
-- A rumor ties red abishai mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at red abishai mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to red abishai mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- Strange accidents suggest a curse
+- Someone is protecting an heir for power
+- Someone is blackmailing information for money
+- A letter reveals a betrayal about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

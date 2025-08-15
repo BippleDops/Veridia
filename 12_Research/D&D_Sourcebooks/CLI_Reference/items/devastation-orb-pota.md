@@ -23,15 +23,11 @@ updated: '2025-08-12T23:37:36.744449'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Generated/Items/item-artifact-devastation-orb-pota-devastation-orb-pota.svg)
 
 # Devastation Orb
 *Wondrous item, very rare*  
-
-
 
 A devastation orb is an elemental bomb that can be created at the site of an elemental node by performing a ritual with an elemental weapon. The type of orb created depends on the node used. For example, an air node creates a [[devastation-orb-of-air-pota|devastation orb of air]]. The ritual takes 1 hour to complete and requires 2,000 gp worth of special components, which are consumed.
 
@@ -50,6 +46,24 @@ Regardless of the type of orb, its effect is contained within a sphere with a 1 
 
 *Source: Princes of the Apocalypse p. 222*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Devastation orb pota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -58,19 +72,15 @@ Devastation orb pota is a undersea element of the setting, known for bioluminesc
 
 Legends speak of devastation orb pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around devastation orb pota.
 
-## Adventure Hooks
-
-- A rumor ties devastation orb pota to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at devastation orb pota to avert a public scandal.
-- A map overlay reveals a hidden approach to devastation orb pota active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

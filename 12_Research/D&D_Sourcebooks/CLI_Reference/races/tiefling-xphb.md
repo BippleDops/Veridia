@@ -22,9 +22,8 @@ updated: '2025-08-12T23:37:37.707123'
 world: Both
 ---
 
-
 # Tiefling
-*Source: Player's Handbook (2024) p. 197. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Player's Handbook (2024) p. 197. Available in the SRD and the Free Rules (2024)*  
 ![](/03_Mechanics/CLI/races/img/tiefling.webp#right)
 
 - **Ability Scores**: None
@@ -32,8 +31,6 @@ world: Both
 - **Size**: Small or Medium
 - **Speed**: 30 ft.
 - **Spellcasting**: Choose one of Intelligence, Wisdom, Charisma
-
-## Traits
 
 ### Darkvision
 
@@ -58,6 +55,24 @@ When you reach character levels 3 and 5, you learn a higher-level spell, as show
 
 You know the [[thaumaturgy-xphb|Thaumaturgy]] cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy Trait.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Description
 
 Tieflings are either born in the Lower Planes or have fiendish ancestors who originated there. A tiefling (pronounced TEE-fling) is linked by blood to a devil, a demon, or some other Fiend. This connection to the Lower Planes is the tiefling's fiendish legacy, which comes with the promise of power yet has no effect on the tiefling's moral outlook.
@@ -76,9 +91,8 @@ Tieflings who have the chthonic legacy feel not only the tug of Carceri but also
 
 The infernal legacy connects tieflings not only to Gehenna but also the Nine Hells and the raging battlefields of Acheron. Horns, spines, tails, golden eyes, and a faint odor of sulfur or smoke are common physical features of such tieflings, most of whom trace their ancestry to devils.
 
-
 > [!gallery]
-![[/03_Mechanics/CLI/races/img/156-05-029-infernal-chthonic-abyssal.webp "Infernal Tiefling, Chthonic Tiefling, Abyssal Tiefling"|Infernal Tiefling, Chthoni...]]
+!]
 ![[12_Research/D&D_Sourcebooks/CLI_Reference/races/img/157-05-028-armored-tiefling.webp]]
 
 ## Player-Facing Summary
@@ -89,19 +103,44 @@ Tiefling xphb is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of tiefling xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tiefling xphb.
 
-## Adventure Hooks
-
-- A rumor ties tiefling xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at tiefling xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to tiefling xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A merchant needs help investigating before dawn
+- A merchant needs help investigating before dawn
+- A map reveals ancient history about this place
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

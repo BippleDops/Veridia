@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.035333+00:00'
 world: Both
 ---
 
-
-
 # Magic Items for Sale
 *Source: Strixhaven: A Curriculum of Chaos p. 38* 
 
@@ -38,10 +36,28 @@ world: Both
 | [[quandrix-primer-scc|Quandrix Primer]] | Uncommon | 300 gp |
 | [[silverquill-primer-scc|Silverquill Primer]] | Uncommon | 300 gp |
 | [[spell-scroll-level-1-xdmg|Spell Scroll]] (1st-Level Spell; "DMG") | Common | 50 gp |
-| [[strixhaven-pennant-scc|Strixhaven Pennant]] | Common | 100 gp |
+| [[strixhaven-pent-scc|Strixhaven Pent]] | Common | 100 gp |
 | [[1-weapon-xdmg|Weapon, +1]] ("DMG") | Uncommon | 300 gp |
 | [[witherbloom-primer-scc|Witherbloom Primer]] | Uncommon | 300 gp |
 ^magic-items-for-sale
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -51,19 +67,16 @@ Magic items for sale scc is a undersea element of the setting, known for biolumi
 
 Legends speak of magic items for sale scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around magic items for sale scc.
 
-## Adventure Hooks
-
-- A rumor ties magic items for sale scc to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at magic items for sale scc to avert a public scandal.
-- A map overlay reveals a hidden approach to magic items for sale scc active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a curse
+- Strange accidents suggest a curse

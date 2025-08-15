@@ -17,7 +17,23 @@ world: Both
 ---
 
 
-# Quick Reference: Combat Actions
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player Action Economy Chart
 
 ```
@@ -27,76 +43,53 @@ world: Both
 ┃ • Weapon attack (melee/ranged)               ┃
 ┃ • Spell attack (cantrip/1st+ level)          ┃
 ┃ • Grapple/Shove attempt                      ┃
-┃                                                ┃
 ┃ ✨ CAST A SPELL                                ┃
 ┃ • 1st level or higher                        ┃
 ┃ • Ritual spells (extended time)              ┃
-┃                                                ┃
 ┃ ⚙️ USE MAGIC ITEM                              ┃
 ┃ • Activate charged item                      ┃
 ┃ • Command word activation                    ┃
-┃                                                ┃
 ┃ 🏃 DASH                                        ┃
 ┃ • Move extra distance (speed x2)             ┃
-┃                                                ┃
 ┃ 🛡️ DODGE                                       ┃
 ┃ • Attackers have disadvantage                ┃
-┃                                                ┃
 ┃ 🔍 SEARCH                                      ┃
 ┃ • Perception/Investigation check             ┃
-┃                                                ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 ┏━━━━━━━━━━━━ BONUS ACTIONS ━━━━━━━━━━━━┓
-┃                                                ┃
 ┃ ⚔️ OFF-HAND ATTACK                            ┃
 ┃ • Light weapons only                         ┃
 ┃ • No ability modifier to damage             ┃
-┃                                                ┃
 ┃ ✨ SPECIFIC SPELLS                             ┃
 ┃ • Healing Word, Misty Step, etc.            ┃
-┃                                                ┃
 ┃ 🎯 CLASS FEATURES                             ┃
 ┃ • Rage (Barbarian)                          ┃
 ┃ • Cunning Action (Rogue)                    ┃
 ┃ • Flurry of Blows (Monk)                    ┃
-┃                                                ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 ┏━━━━━━━━━━━━━ REACTIONS ━━━━━━━━━━━━━┓
-┃                                                ┃
 ┃ ⚔️ OPPORTUNITY ATTACK                         ┃
 ┃ • Enemy moves out of reach                  ┃
-┃                                                ┃
 ┃ ✨ COUNTERSPELL                               ┃
 ┃ • Interrupt enemy spellcasting              ┃
-┃                                                ┃
 ┃ 🛡️ SHIELD SPELL                               ┃
 ┃ • +5 AC against one attack                  ┃
-┃                                                ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 ┏━━━━━━━━━━━━ FREE ACTIONS ━━━━━━━━━━━━┓
-┃                                                ┃
 ┃ 🗺️ MOVE                                        ┃
 ┃ • Up to your speed                          ┃
 ┃ • Can split before/after action             ┃
-┃                                                ┃
 ┃ 💬 SPEAK                                       ┃
 ┃ • Brief communication                       ┃
 ┃ • Simple gestures                           ┃
-┃                                                ┃
 ┃ 📄 OBJECT INTERACTION                         ┃
 ┃ • Draw/sheathe weapon                       ┃
 ┃ • Open/close door                           ┃
 ┃ • Pick up/drop item                         ┃
-┃                                                ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
 
 ### Aquabyssos Combat Modifiers
 
-```
 PRESSURE EFFECTS:
 
 Depth 0-200 fathoms:    No modifier
@@ -110,11 +103,9 @@ UNDERWATER COMBAT:
 • Fire spells: Automatically fail
 • Lightning spells: Extra damage in water
 • Movement: Swimming speed or half normal speed
-```
 
 ### Aethermoor Combat Modifiers
 
-```
 ALTITUDE EFFECTS:
 
 Altitude 0-4,000 ft:    No modifier
@@ -128,11 +119,9 @@ AIRBORNE COMBAT:
 • Fall damage: Potentially lethal
 • Wind effects: May affect projectiles
 • Movement: Flying speed required for aerial combat
-```
 
 ### Condition Quick Reference
 
-```
 🩸 BLINDED       • Auto-fail sight-based checks
                  • Attacks have disadvantage
                  • Attacks against you have advantage
@@ -155,24 +144,18 @@ AIRBORNE COMBAT:
 
 🙵 UNCONSCIOUS   • Incapacitated, can't move/speak
                  • Drop everything, fall prone
-                 • Auto-fail Str and Dex saves
-                 • Attacks have advantage, crits within 5 ft
-```
 
 ### Crystal Corruption Combat Effects
 
-```
 CORRUPTION LEVEL    COMBAT MODIFIER
 
 Stage 1 (Mild):     No combat effect
 Stage 2 (Moderate): -1 to all attack rolls
 Stage 3 (Severe):   -2 attack rolls, disadvantage on saves
 Stage 4 (Critical): Disadvantage on all rolls, madness effects
-```
 
 ### Emergency Combat Actions
 
-```
 🏃‍♂️ RETREAT OPTIONS:
 
 • Dash action (double movement)
@@ -196,7 +179,6 @@ Stage 4 (Critical): Disadvantage on all rolls, madness effects
 • Environmental hazards too dangerous
 • Mission objective requires survival
 • Corruption effects spreading
-```
 
 ### Combat Tips by Environment
 
@@ -224,7 +206,6 @@ Stage 4 (Critical): Disadvantage on all rolls, madness effects
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

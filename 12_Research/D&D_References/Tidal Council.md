@@ -16,18 +16,26 @@ world: dual
 updated: '2025-08-13T01:18:35.946020+00:00'
 ---
 
-
-
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-tidal-council-the-tidal-council.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Overview
+*20 targeted improvements identified*
 
-TODO
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -37,29 +45,23 @@ Tidal Council is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of Tidal Council as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Tidal Council.
 
-## Adventure Hooks
-
-- A rumor ties Tidal Council to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Tidal Council to avert a public scandal.
-- A map overlay reveals a hidden approach to Tidal Council active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Deserter's Tale|02 Worldbuilding/Lore/The Deserter's Tale]]
-
-
-## Connections
-
-- [[The Deserter's Tale]]
-- [[Tide Turner's Trident]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

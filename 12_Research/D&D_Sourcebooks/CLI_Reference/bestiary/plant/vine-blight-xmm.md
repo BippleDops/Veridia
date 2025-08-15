@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.375143'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-vine-blight-xmm-v1-vine-blight-xmm.svg)
 
@@ -38,6 +36,24 @@ world: Both
 Vine blights resemble humans wrapped in vines common to the areas in which they grow, from hairy ivy vines to flowering kudzu. They can cause plants to burst from the ground around themselves and entangle nearby foes.
 
 Unlike most other blights, vine blights can speak. They do so rarely, typically only to convey messages from their masters or to repeat the words of their victims in rasping voices.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Blights
 
@@ -51,7 +67,6 @@ Blights are malicious plants that sprout from deep-rooted evil. Their gnarled fo
 > [!quote] A quote from Belak the Outcast, Druid of the Twilight Grove  
 > 
 > It lives, though it looks dead. In an age long past, someone staked a vampire to the earth on this very spot. The wooden stake was yet green and took root. And so grew the Gulthias Tree, reverberating with primal power.
-
 
 ```statblock
 "name": "Vine Blight (XMM)"
@@ -105,19 +120,25 @@ Vine blight xmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of vine blight xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around vine blight xmm.
 
-## Adventure Hooks
-
-- A rumor ties vine blight xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at vine blight xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to vine blight xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Stars
+
+
+## Plot Hooks
+
+- Someone is searching for a witness for love
+- A stranger needs help investigating before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

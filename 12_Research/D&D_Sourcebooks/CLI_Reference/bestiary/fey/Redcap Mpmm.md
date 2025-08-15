@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:05.552770+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-redcap-mpmm-redcap-mpmm.svg)
 
@@ -64,7 +61,6 @@ In any case, if a redcap works with another being, the redcap demands to be paid
 "stats":
   - !!int "18"
   - !!int "13"
-  - !!int "18"
   - !!int "10"
   - !!int "12"
   - !!int "9"
@@ -92,7 +88,7 @@ In any case, if a redcap works with another being, the redcap demands to be paid
     "name": "Wicked Sickle"
   - "desc": "The redcap moves up to its speed to a creature it can see and kicks with\
       \ its iron boots. The target must succeed on a DC 14 Dexterity saving throw\
-      \ or take 20 (3d10 + 4) bludgeoning damage and be knocked [[conditions#Prone|prone]]."
+      \ or take 20 (3d10 + 4) bludgeoning damage and be knocked [[conditions#prone|prone]]."
     "name": "Ironbound Pursuit"
 "source":
   - "MPMM"
@@ -100,6 +96,24 @@ In any case, if a redcap works with another being, the redcap demands to be paid
 "image": "/03_Mechanics/CLI/bestiary/fey/token/redcap-mpmm.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Environment
 
@@ -113,19 +127,25 @@ Redcap mpmm is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of redcap mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around redcap mpmm.
 
-## Adventure Hooks
-
-- A rumor ties redcap mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at redcap mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to redcap mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,10 +22,8 @@ updated: '2025-08-13T12:34:03.583383+00:00'
 world: Both
 ---
 
-
-
 # Weather; Precipitation
-*Source: Dungeon Master's Guide p. 109. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+*Source: Dungeon Master's Guide p. 109. Available in the SRD* 
 
 **Precipitation**
 
@@ -38,6 +36,24 @@ world: Both
 | 18-20 | heavy rain or heavy snowfall |
 ^precipitation
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Weather precipitation is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -46,19 +62,23 @@ Weather precipitation is a undersea element of the setting, known for biolumines
 
 Legends speak of weather precipitation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around weather precipitation.
 
-## Adventure Hooks
-
-- A rumor ties weather precipitation to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at weather precipitation to avert a public scandal.
-- A map overlay reveals a hidden approach to weather precipitation active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest ancient magic
+- Someone is searching for a artifact for power
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

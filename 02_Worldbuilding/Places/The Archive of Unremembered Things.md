@@ -20,18 +20,11 @@ updated: '2025-08-13T12:34:17.244959+00:00'
 world: Both
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-archive-of-unremembered-things-the-archive-of-unremembered-things.svg]]
 
-
-# The Archive of Unremembered Things
-
 ## Overview
 Deep within the darkest reaches of [[Aquabyssos]], where pressure and shadow converge, lies the Archive of Unremembered Things - a vast underwater library containing every memory, fact, name, and experience that has been forgotten by the living world. Built by unknown architects in chambers that defy physics, the Archive exists as both sanctuary and prison for lost knowledge. Those who enter risk losing themselves entirely, their own memories joining the collection.
-
-## Physical Structure
 
 ### The Floating Halls
 The Archive consists of seven massive chambers connected by coral bridges, each suspended in a pocket of breathable water that allows both air-breathers and water-dwellers to navigate. The halls rotate slowly around a central axis, their positions shifting according to unknown patterns that seem to correspond to the tides of forgetting in the world above.
@@ -41,8 +34,6 @@ At the heart of each hall sits a deep well filled with liquid memory - a phospho
 
 ### The Coral Shelves
 Living coral formations serve as shelving, growing in impossible spirals and formations to accommodate the Archive's ever-expanding collection. The coral itself has developed a form of consciousness, able to locate and retrieve specific memories when properly asked.
-
-## The Collection
 
 ### Categories of Forgotten Things
 
@@ -74,8 +65,6 @@ Living coral formations serve as shelving, growing in impossible spirals and for
 - Enchanted items whose purposes were lost
 - Binding rituals for creatures that no longer exist
 
-## The Librarians
-
 ### The Nameless Scribes
 Former scholars, researchers, and knowledge-seekers who spent too long in the Archive and forgot their own identities. They continue their work, methodically cataloguing and organizing memories they can no longer comprehend. Each wears a coral mask that serves as their face, since they've forgotten what they originally looked like.
 
@@ -90,8 +79,6 @@ Aquatic beings who tend to the Memory Wells, ensuring the liquid memory remains 
 
 ### The Coral Consciousness
 The living shelf system has developed its own form of awareness through exposure to countless memories. It can speak, but only in phrases and words that have been forgotten by their original speakers. The coral serves as both librarian and guardian, protecting the collection from those who would abuse it.
-
-## Inhabitants and Encounters
 
 ### The Lost Researchers
 Scholars from various civilizations who came seeking forbidden knowledge and became trapped. They retain some of their original memories but are slowly forgetting more each day. Some try to warn newcomers, while others have become obsessed with specific forgotten subjects.
@@ -110,8 +97,6 @@ Entities composed entirely of lost memories, these beings are the accumulated co
 ### The Memory Thieves
 Twisted creatures that feed on memories, growing larger and more powerful with each forgotten thing they consume. They appear as shadowy forms with multiple reaching tendrils that can drain memories through touch.
 
-## Dangers and Hazards
-
 ### Memory Drain
 The longer one remains in the Archive, the more their own memories begin to fade. Visitors must make Constitution saves every hour (DC 15, increasing by 1 each hour) or lose a random memory permanently.
 
@@ -124,8 +109,6 @@ The temptation to seek forbidden or lost knowledge can become overwhelming. Wisd
 ### Coral Entanglement
 The living shelves occasionally try to "catalogue" living beings, growing around them to preserve their memories forever. Strength saves (DC 16) are needed to break free before becoming permanently incorporated into the collection.
 
-## Treasures and Artifacts
-
 ### The Index of All Things Lost
 A massive coral formation containing the location and nature of everything forgotten in the known world. Reading it grants temporary knowledge of anything the party seeks, but requires a successful Intelligence save (DC 20) to avoid forgetting something equally important.
 
@@ -137,27 +120,6 @@ Artifact that allows the wearer to access any memory in the Archive without risk
 
 ### The Last Map
 Chart showing the location of all forgotten places, including lost continents, vanished cities, and hidden realms. The map changes constantly as new places are forgotten and others are remembered.
-
-## D&D 5e Mechanics
-
-### Memory Loss Mechanics
-- **Minor Loss**: Forget a skill proficiency for 24 hours
-- **Moderate Loss**: Lose a language or tool proficiency permanently
-- **Major Loss**: Forget a close relationship or significant life event
-- **Severe Loss**: Lose class features or ability score points
-- **Complete Loss**: Become a Nameless Scribe (effective character death)
-
-### Restoration Methods
-- **Greater Restoration**: Can recover recently lost memories (within 7 days)
-- **Wish**: Can restore any lost memory but risks the caster forgetting something equally important
-- **Memory Trading**: Exchange memories with the Archive to recover lost ones
-
-### Environmental Effects
-- All Wisdom and Intelligence-based checks have advantage due to ambient knowledge
-- Spells that affect memory or knowledge are enhanced (+2 to save DCs)
-- Divination magic has a 25% chance of revealing forgotten information instead of the intended target
-
-## Quest Hooks and Adventures
 
 ### The Missing Scholar
 **Level**: 9-12  
@@ -174,8 +136,6 @@ The key witness to a major conspiracy has had their memories stolen. The party m
 ### The Unremembered War
 **Level**: 13-16  
 An ancient conflict is about to repeat because all knowledge of how it was previously resolved has been forgotten. The party must delve deep into the Archive to find the memories of the original peace treaty.
-
-## Connected Locations
 
 ### [[New Tethys]]
 Many of the memories in the Archive come from this city's residents, particularly from the [[Conservatory of Memory]]. The two locations have a complex relationship - New Tethys tries to preserve memories while the Archive collects those that slip away.
@@ -211,19 +171,6 @@ Surface dwellers who die from memory-related magical accidents sometimes find th
 > - The Archive is slowly rising toward the surface as the weight of forgotten things increases
 > - There's a secret chamber containing memories that will be forgotten in the future - a glimpse of prophecy through temporal amnesia
 
-
-## Connections
-
-- [[Archivist Mnemonic the Forgotten]]
-- [[The Forgotten One]]
-- [[The Living Weapon]]
-- [[Crystalline Depths]]
-- [[Find the Grief Bomb]]
-- [[Rescue Senator Glaucus]]
-- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[The Maw of Darkness]]
-- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-
 ## Player-Facing Summary
 
 The Archive of Unremembered Things is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -232,16 +179,6 @@ The Archive of Unremembered Things is a undersea element of the setting, known f
 
 Legends speak of The Archive of Unremembered Things as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Archive of Unremembered Things.
 
-## Adventure Hooks
-
-- A rumor ties The Archive of Unremembered Things to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Archive of Unremembered Things to avert a public scandal.
-- A map overlay reveals a hidden approach to The Archive of Unremembered Things active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -249,40 +186,9 @@ Legends speak of The Archive of Unremembered Things as a nexus where past and pr
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[The Archive of Unremembered Things]]
-
-<!-- enriched: true -->
-- [[Emperor Thalassius]]
-- [[The Scattered Emperor]]
-- [[Archivist Vera Glowmind]]
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-pressure-lock-systems-v1-pressure-lock-systems.svg]]
-- [[04_Resources_Assets_Portraits_portrait-npc-quest-the-crown-s-return-quest-the-crown-s-return.svg]]
-- [[04_Resources_Assets_Locations_location-city-crystalhaven-v1-crystalhaven.svg]]
-
 
 ## Sensory Details
 
@@ -292,7 +198,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: The aroma of fresh bread wafts from bakeries
 
-
 ## Description
 
 The Archive of Unremembered Things is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -300,34 +205,10 @@ The Archive of Unremembered Things is a notable location characterized by its un
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of The Archive of Unremembered Things
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## History
+**Goverce**: Local authority structure
 
 ### Founding
 The Archive of Unremembered Things was established in the distant past, growing from humble beginnings to its current state.
-
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
-
 
 ## Current Events
 
@@ -339,16 +220,3 @@ Ongoing situations affecting The Archive of Unremembered Things:
 - External threats
 - Opportunities arising
 
-
-## Secrets & Rumors
-
-### Common Knowledge
-- What everyone knows about The Archive of Unremembered Things
-
-### Whispered Rumors
-- Stories that may or may not be true
-
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers

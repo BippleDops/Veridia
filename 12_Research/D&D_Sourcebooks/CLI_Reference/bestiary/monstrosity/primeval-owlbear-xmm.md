@@ -27,11 +27,28 @@ updated: '2025-08-12T23:37:34.952322'
 world: Both
 ---
 
-
 # [[primeval-owlbear-xmm|Primeval Owlbear]]
 *Source: Monster Manual (2024) p. 234*  
 
 Ancient forests and Feywild demesnes steeped in magic can give rise to particularly large and vicious owlbears. These primeval specimens can fly—albeit poorly—and emit thunderous screeches that can rattle foes and even tear them asunder.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Owlbears
 
@@ -92,7 +109,7 @@ Owlbears dwell in distinctive dens. Roll on or choose a result from the Owlbear 
   - "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 15 (2d8 + 6) Slashing damage.\
       \ If the target is a Huge or smaller creature and the owlbear moved 20+ feet\
       \ straight toward it immediately before the hit, the target takes an extra 9\
-      \ (2d8) Slashing damage and has the [[conditions#Prone|Prone]]\
+      \ (2d8) Slashing damage and has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Ravage"
   - "desc": "Constitution Saving Throw: DC 15, each creature in a 30-foot [[emanation-area-of-effect-xphb|Emanation]]\
@@ -118,19 +135,27 @@ Primeval owlbear xmm is a undersea element of the setting, known for bioluminesc
 
 Legends speak of primeval owlbear xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around primeval owlbear xmm.
 
-## Adventure Hooks
-
-- A rumor ties primeval owlbear xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at primeval owlbear xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to primeval owlbear xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a conspiracy
+- A merchant needs help investigating before winter
+- A shipment has gone missing and war looms
+- A letter reveals a conspiracy about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

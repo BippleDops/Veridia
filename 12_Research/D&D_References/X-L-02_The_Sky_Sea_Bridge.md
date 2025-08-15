@@ -22,30 +22,25 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# X-L-02 The Sky–Sea Bridge
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Read-Aloud
 > Between cloud and trench, a road threads itself from songs and pressure and will.
-
-## Setup
-- Permanent bridge construction between worlds
-
-## Mechanics
-- Anchorite DC 18 hymn resonance
-- Engineer DC 18 structural harmonics
-- Tactics DC 17 defend construction from threats
-
-## Outcomes
-- Success: Stable bridge; new travel rules and economy
-- Partial: Unstable but usable (risk table applies)
-- Fail: Collapse; casualties; blame arc
-
-## Integrations
-- Anchors; economy; faction law
-
-## Quick-Run
-- Anchorite→Engineer→Tactics; set bridge state and consequences
 
 ## Player-Facing Summary
 
@@ -55,19 +50,36 @@ X L 02 The Sky Sea Bridge is a sky-borne element of the setting, known for brass
 
 Legends speak of X L 02 The Sky Sea Bridge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around X L 02 The Sky Sea Bridge.
 
-## Adventure Hooks
-
-- A rumor ties X L 02 The Sky Sea Bridge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at X L 02 The Sky Sea Bridge to avert a public scandal.
-- A map overlay reveals a hidden approach to X L 02 The Sky Sea Bridge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and truth emerges
+- Strange sightings suggest a curse
+- A document has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

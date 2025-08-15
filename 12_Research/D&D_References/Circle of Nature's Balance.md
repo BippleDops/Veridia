@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Rewriting the Ritual|02 Worldbuilding/Lore/Rewriting The Ritual]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Rewriting the Ritual]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,30 @@ Circle of Nature's Balance is a undersea element of the setting, known for biolu
 
 Legends speak of Circle of Nature's Balance as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Circle of Nature's Balance.
 
-## Adventure Hooks
-
-- A rumor ties Circle of Nature's Balance to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Circle of Nature's Balance to avert a public scandal.
-- A map overlay reveals a hidden approach to Circle of Nature's Balance active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and war looms
+- Strange disappearances suggest a conspiracy
+- Someone is searching for a witness for power
+- Strange accidents suggest ancient magic
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.531367+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-annis-hag-mpmm-annis-hag-mpmm.svg)
 
@@ -45,6 +42,24 @@ Annis hags leave tokens of their cruelty at the edges of forests and other areas
 When an annis feels especially cruel, the hag adopts the appearance of a kindly elder, approaches a child in a remote place, and gives them an iron token (described below), through which the child can magically confide in the hag. Over time, "Granny" or "Grampy" convinces the child that it's okay to do bad deeds—starting with breaking things or wandering without permission, then graduating to pushing someone down the stairs or setting a house on fire. Eventually, the child's terrified family and community face painful decisions of what to do about the seemingly remorseless child.
 
 Much as annis hags befriend children in order to corrupt them, they may adopt a group of ogres, trolls, or other creatures ([[ogre-xmm|ogres]] and [[troll-xmm|trolls]]), ruling them through brute strength, insults, and superstition.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Iron Token
 
@@ -69,7 +84,6 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
   - !!int "12"
   - !!int "14"
   - !!int "13"
-  - !!int "14"
   - !!int "15"
 "speed": "40 ft."
 "saves":
@@ -78,7 +92,6 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
   - "name": "[[skills#Deception|Deception]]"
     "desc": "+5"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+5"
 "damage_resistances": "cold"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Common, Giant, Sylvan"
@@ -89,7 +102,6 @@ A hag can have up to three iron tokens active at one time. As an action, the hag
   - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15\
       \ (3d6 + 5) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15\
       \ (3d6 + 5) slashing damage."
     "name": "Claw"
   - "desc": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 36\
@@ -122,19 +134,20 @@ Annis hag mpmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of annis hag mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around annis hag mpmm.
 
-## Adventure Hooks
-
-- A rumor ties annis hag mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at annis hag mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to annis hag mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

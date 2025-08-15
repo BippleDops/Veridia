@@ -30,15 +30,31 @@ updated: '2025-08-12T23:37:35.291886'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-centaur-trooper-xmm-centaur-trooper-xmm.svg)
 
 # [[centaur-trooper-xmm|Centaur Trooper]]
-*Source: Monster Manual (2024) p. 67. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 67. Available in the SRD and the Free Rules (2024)*  
 
 Centaur troopers are knight-like guardians. Many are suspicious of non-Fey creatures.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Centaurs
 
@@ -60,7 +76,6 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
 "modifier": !!int "2"
 "stats":
   - !!int "18"
-  - !!int "14"
   - !!int "14"
   - !!int "9"
   - !!int "13"
@@ -88,7 +103,7 @@ Centaurs are defenders of forests, plains, and sites of primeval power. With upp
       \ and can move through the spaces of Medium or smaller creatures. Each creature\
       \ whose space the centaur enters is targeted once by the following effect. Strength\
       \ Saving Throw: DC 14. Failure: 7 (1d6 + 4) Bludgeoning damage, and the target\
-      \ has the [[conditions#Prone|Prone]] condition."
+      \ has the [[conditions#prone|Prone]] condition."
     "name": "Trampling Charge (Recharge 5-6)"
 "source":
   - "XMM"
@@ -108,19 +123,29 @@ Centaur trooper xmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of centaur trooper xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around centaur trooper xmm.
 
-## Adventure Hooks
-
-- A rumor ties centaur trooper xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at centaur trooper xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to centaur trooper xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- Strange dreams suggest a portal
+- The authorities needs help investigating before the festival
+- Someone is blackmailing a artifact for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

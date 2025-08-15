@@ -21,9 +21,8 @@ updated: '2025-08-12T23:37:33.783002'
 world: Both
 ---
 
-
 # Travel Pace
-*Source: Player's Handbook p. 181. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 
+*Source: Player's Handbook p. 181. Available in the SRD and the Basic Rules (2014)* 
 
 **Travel Pace**
 
@@ -34,6 +33,24 @@ world: Both
 | Slow | 200 feet | 2 miles | 18 miles | Able to use stealth |
 ^travel-pace
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Travel pace phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -42,19 +59,23 @@ Travel pace phb is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of travel pace phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around travel pace phb.
 
-## Adventure Hooks
-
-- A rumor ties travel pace phb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at travel pace phb to avert a public scandal.
-- A map overlay reveals a hidden approach to travel pace phb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A map reveals ancient history about this place
+- Strange accidents suggest a portal
+- Strange accidents suggest a curse
+- A letter reveals ancient history about the cult

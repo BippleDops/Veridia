@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.286419+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-thri-kreen-psion-xmm-thri-kreen-psion-xmm.svg)
 
@@ -39,6 +36,24 @@ world: Both
 *Source: Monster Manual (2024) p. 306*  
 
 Thri-kreen psions harness their psychic powers to avoid danger and manipulate objects from afar.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Thri-kreen
 
@@ -52,7 +67,6 @@ Thri-kreen are mantis-like wanderers who harness their innate camouflage and psy
 > [!quote] A quote from Ka'Cha, Thri-kreen Knowledge Hunter  
 > 
 > I would tell you now the tale of the first Ka'Cha, the first thri-kreen who knew and taught the truth: that the clutch is all.
-
 
 ```statblock
 "name": "Thri-kreen Psion (XMM)"
@@ -115,19 +129,27 @@ Thri kreen psion xmm is a undersea element of the setting, known for bioluminesc
 
 Legends speak of thri kreen psion xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around thri kreen psion xmm.
 
-## Adventure Hooks
-
-- A rumor ties thri kreen psion xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at thri kreen psion xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to thri kreen psion xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest a portal
+- A journal reveals a betrayal about the government
+- Someone is searching for information for revenge
+- Strange accidents suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.005863'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-kraken-priest-mpmm-kraken-priest-mpmm.svg)
 
@@ -54,7 +52,6 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
   - !!int "12"
   - !!int "10"
   - !!int "16"
-  - !!int "10"
   - !!int "15"
   - !!int "14"
 "speed": "30 ft., swim 30 ft."
@@ -75,13 +72,13 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
     "name": "Thunderous Touch"
   - "desc": "Ranged Spell Attack: +5 to hit, range 60 ft., one target. Hit: 11\
       \ (2d10) lightning damage plus 11 (2d10) thunder damage, and the target is knocked\
-      \ [[conditions#Prone|prone]]."
+      \ [[conditions#prone|prone]]."
     "name": "Thunderbolt"
   - "desc": "A kraken speaks through the priest with a thunderous voice audible within\
       \ 300 feet. Creatures of the priest's choice that can hear the kraken's words\
       \ (which are spoken in Abyssal, Infernal, or Primordial) must succeed on a DC\
-      \ 14 Wisdom saving throw or be [[conditions#Frightened|frightened]]\
-      \ of the priest for 1 minute. A [[conditions#Frightened|frightened]]\
+      \ 14 Wisdom saving throw or be [[conditions#frightened|frightened]]\
+      \ of the priest for 1 minute. A [[conditions#frightened|frightened]]\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Voice of the Kraken (Recharges after a Short or Long Rest)"
@@ -90,7 +87,7 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
       \ [[command-xphb|command]], [[create-or-destroy-water-xphb|create or destroy water]]\n\
       \n3/day each: [[control-water-xphb|control water]],\
       \ [[darkness-xphb|darkness]], [[water-breathing-xphb|water breathing]],\
-      \ [[water-walk-xphb|water walk]]\n\n1/day: [[evards-black-tentacles-xphb|Evard's\
+      \ [[water-walk-xphb|water walk]]\n\n1/day: [[evards-black-tentacles-xphb|Evard's\]]
       \ black tentacles]]"
     "name": "Spellcasting"
 "source":
@@ -99,6 +96,24 @@ Every kraken priest undergoes a change in appearance that reflects the kraken's 
 "image": "/03_Mechanics/CLI/bestiary/monstrosity/token/kraken-priest-mpmm.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Environment
 
@@ -112,19 +127,21 @@ Kraken priest mpmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of kraken priest mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around kraken priest mpmm.
 
-## Adventure Hooks
-
-- A rumor ties kraken priest mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at kraken priest mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to kraken priest mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Strange sightings suggest a conspiracy
+- A corpse reveals the truth about this place

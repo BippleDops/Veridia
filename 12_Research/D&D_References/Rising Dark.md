@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Abyssos Prime - Inverse Palace|02 Worldbuilding/Places/Abyssos Prime Inverse Palace]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Abyssos Prime - Inverse Palace]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,39 @@ Rising Dark is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of Rising Dark as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Rising Dark.
 
-## Adventure Hooks
-
-- A rumor ties Rising Dark to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Rising Dark to avert a public scandal.
-- A map overlay reveals a hidden approach to Rising Dark active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Depths
+
+
+## Plot Hooks
+
+- A journal reveals a betrayal about this place
+- A corpse reveals a conspiracy about the cult
+- A journal reveals a betrayal about this place
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

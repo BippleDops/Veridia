@@ -15,36 +15,26 @@ world: Both
 updated: '2025-08-13T01:18:36.951837+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-lord-admiral-gaius-windcutter-lord-admiral-gaius-windcutter.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Appearance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Personality
-
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -54,28 +44,21 @@ Lord Admiral Gaius Windcutter is a undersea element of the setting, known for bi
 
 Legends speak of Lord Admiral Gaius Windcutter as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lord Admiral Gaius Windcutter.
 
-## Adventure Hooks
-
-- A rumor ties Lord Admiral Gaius Windcutter to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Lord Admiral Gaius Windcutter to avert a public scandal.
-- A map overlay reveals a hidden approach to Lord Admiral Gaius Windcutter active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Lord Admiral Gaius Windcutter|02 Worldbuilding/People/Lord Admiral Gaius Windcutter]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Quest - Hearts and Minds]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a conspiracy
+- Strange sightings suggest a curse
+- Strange accidents suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

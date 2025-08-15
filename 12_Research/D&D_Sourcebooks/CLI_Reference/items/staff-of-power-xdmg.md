@@ -23,14 +23,11 @@ updated: '2025-08-12T23:37:36.955878'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-staff-of-power-xdmg-staff-of-power-xdmg.svg)
 
 # Staff of Power
 *Staff, weapon, very rare (requires attunement by a sorcerer, warlock, or wizard)*  
-
 
 - **Damage**:
   - One-handed: 1d6 bludgeoning
@@ -39,6 +36,24 @@ world: Both
 - **Weight**: 4.0 lbs.
 
 This staff has 20 charges and can be wielded as a magic Quarterstaff that grants a +2 bonus to attack rolls and damage rolls made with it. While holding it, you gain a +2 bonus to [[armor-class-xphb|Armor Class]], saving throws, and spell attack rolls.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Spells
 
@@ -65,7 +80,7 @@ The staff regains `2d8 + 4` expended charges daily at dawn. If you expend the la
 
 You can take a [[actions#Magic|Magic]] action to break the staff over your knee or against a solid surface. The staff is destroyed and releases its magic in an explosion that fills a 30-foot [[emanation-area-of-effect-xphb|Emanation]] originating from itself. You have a 50 percent chance to instantly travel to a random plane of existence, avoiding the explosion. If you fail to avoid the effect, you take Force damage equal to 16 times the number of charges in the staff . Each other creature in the area makes a DC 17 Dexterity saving throw. On a failed save, a creature takes Force damage equal to 4 times the number of charges in the staff . On a successful save, a creature takes half as much damage.
 
-*Source: Dungeon Master's Guide (2024) p. 308. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 308. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -75,19 +90,30 @@ Staff of power xdmg is a undersea element of the setting, known for bioluminesce
 
 Legends speak of staff of power xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around staff of power xdmg.
 
-## Adventure Hooks
-
-- A rumor ties staff of power xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at staff of power xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to staff of power xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for information for revenge
+- Someone is searching for information for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

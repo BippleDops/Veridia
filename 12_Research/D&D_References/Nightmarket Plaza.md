@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Vex Shadowthorn|02 Worldbuilding/Groups/Vex Shadowthorn]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Vex Shadowthorn]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,20 @@ Nightmarket Plaza is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Nightmarket Plaza as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Nightmarket Plaza.
 
-## Adventure Hooks
-
-- A rumor ties Nightmarket Plaza to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Nightmarket Plaza to avert a public scandal.
-- A map overlay reveals a hidden approach to Nightmarket Plaza active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

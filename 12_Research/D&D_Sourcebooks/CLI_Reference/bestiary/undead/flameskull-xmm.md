@@ -27,13 +27,29 @@ updated: '2025-08-12T23:37:35.600024'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-flameskull-xmm-flameskull-xmm.svg)
 
 # [[flameskull-xmm|Flameskull]]
 *Source: Monster Manual (2024) p. 120*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Flameskull
 
@@ -64,7 +80,6 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
 > 
 > I never cared for warmth. I never needed a body. My will is enough, and my work will be the legacy that makes my every sacrifice worthwhile!
 
-
 ```statblock
 "name": "Flameskull (XMM)"
 "size": "Tiny"
@@ -89,8 +104,8 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
     "desc": "+2"
 "damage_immunities": "fire, necrotic, poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
-  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]]"
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Common plus two other languages"
 "cr": "4"
@@ -103,7 +118,7 @@ Flameskulls take various forms, from skulls with humanlike features to ones with
       \ on saving throws against spells and other magical effects."
     "name": "Magic Resistance"
   - "desc": "If the flameskull is destroyed, it regains all its [[hit-points-xphb|Hit Points]]\
-      \ in 1 hour unless Holy Water is sprinkled on its remains or the [[dispel-evil-and-good-xphb|Dispel Evil\
+      \ in 1 hour unless Holy Water is sprinkled on its remains or the [[dispel-evil-and-good-xphb|Dispel Evil\]]
       \ and Good]] spell is cast\
       \ on them."
     "name": "Undead Restoration"
@@ -137,19 +152,27 @@ Flameskull xmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of flameskull xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around flameskull xmm.
 
-## Adventure Hooks
-
-- A rumor ties flameskull xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at flameskull xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to flameskull xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and war looms
+- Someone is protecting information for revenge
+- Strange sightings suggest a portal
+- A stranger needs help investigating before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

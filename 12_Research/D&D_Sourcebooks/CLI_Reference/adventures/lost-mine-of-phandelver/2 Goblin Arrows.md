@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:05.015276+00:00'
 world: Both
 ---
 
-
-
 # Goblin Arrows
 *Source: Lost Mine of Phandelver, p. 6* 
 
@@ -34,9 +32,7 @@ Read the boxed text when you're ready to start. If you create a different advent
 > [!readaloud] 
 > 
 > In the city of Neverwinter, a dwarf named [[/03_Mechanics/CLI/bestiary/npc/gundren-rockseeker-lmop|Gundren Rockseeker]] asked you to bring a wagonload of provisions to the rough-and-tumble settlement of Phandalin, a couple of days' travel southeast of the city. Gundren was clearly excited and more than a little secretive about his reasons for the trip, saying only that he and his brothers had found "something big," and that he'd pay you ten gold pieces each for escorting his supplies safely to Barthen's Provisions, a trading post in Phandalin. He then set out ahead of you on horse, along with a warrior escort named [[/03_Mechanics/CLI/bestiary/npc/sildar-hallwinter-lmop|Sildar Hallwinter]], claiming he needed to arrive early to "take care of business."
-> 
 > You've spent the last few days following the High Road south from Neverwinter, and you've just recently veered east along the Triboar Trail.
-> 
 > You've encountered no trouble so far, but this territory can be dangerous. Bandits and outlaws have been known to lurk along the trail.
 ^00d
 
@@ -54,19 +50,33 @@ The wagon is packed full of an assortment of mining supplies and food. This incl
 
 When you're ready, continue with the "Goblin Ambush" section.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Goblin Ambush
 
 Read the following boxed text to start the encounter:
 
-> [!readaloud] 
-> 
 > You've been on the Triboar Trail for about half a day. As you come around a bend, you spot two dead horses sprawled about fifty feet ahead of you, blocking the path. Each has several black-feathered arrows sticking out of it. The woods press close to the trail here, with a steep embankment and dense thickets on either side.
 ^00f
 
 If you are using the "Meet Me in Phandalin" adventure hook, then any character who approaches to make a closer investigation can identify the horses as belonging to [[/03_Mechanics/CLI/bestiary/npc/gundren-rockseeker-lmop|Gundren Rockseeker]] and [[/03_Mechanics/CLI/bestiary/npc/sildar-hallwinter-lmop|Sildar Hallwinter]]. They've been dead about a day, and it's clear that arrows killed the horses. When the characters inspect the scene closer, read the following:
 
-> [!readaloud] 
-> 
 > The saddlebags have been looted. Nearby lies an empty leather map case.
 ^010
 
@@ -119,17 +129,11 @@ The leader of the Cragmaw bandits lairing here is a bugbear named Klarg, who has
 > ![[/03_Mechanics/CLI/adventures/lost-mine-of-phandelver/img/cragmaw-hideout-player.webp#gallery|Player Version]]
 
 > [!note] Adventure Maps
-> 
 > Maps that appear in this adventure are for the DM's eyes only.
-> 
 > A map not only shows an adventure location in its entirety but also shows secret doors, hidden traps, and other elements the players aren't meant to see—hence the need for secrecy.
-> 
 > Maps are best used to show multi-room lairs and other locations that have many places to explore. Therefore, not every location needs a map.
-> 
 > When the players arrive at a location marked on a map, you can either rely on a verbal description to give them a clear mental picture of the location, or you can draw what they see on a separate piece of graph paper, copying what's on your map while omitting details as appropriate.
-> 
 > **Scale and Grid.** A scale allows you to measure distances and dimensions accurately, which is important for combat encounters, magical effects, and light sources, among other things. Indoor maps use grid squares that are either 5 feet on a side or 10 feet on a side.
-> 
 > **Compass Rose.** A compass rose comes in handy when you're describing locations. For instance, you might need to tell players about "barrels along the north wall" or "the staircase descending to the west."
 ^adventure-maps
 
@@ -162,9 +166,7 @@ These upthrust spires of rock can provide cover (see "Cover" in the rulebook).
 The stream that flows through the complex is only 2 feet deep, cold, and slow moving, allowing creatures to easily wade through it.
 
 > [!note] What the Goblins Know
-> 
 > If the characters capture or charm any of the goblins here, the goblins can be persuaded to divulge some useful information:
-> 
 > - About fifteen goblins currently dwell in the lair.  
 > - Their leader is a bugbear named Klarg. He answers to King Grol, chief of the Cragmaw tribe, who dwells in Cragmaw Castle. (The goblins can provide basic directions to Cragmaw Castle. It's about twenty miles northeast of the Cragmaw hideout, in Neverwinter Wood.)  
 > - Klarg received a messenger goblin from King Grol a few days ago. The messenger told him that someone named the Black Spider was paying the Cragmaws to watch out for the dwarf [[/03_Mechanics/CLI/bestiary/npc/gundren-rockseeker-lmop|Gundren Rockseeker]], capture him, and send him and anything he was carrying back to King Grol. Klarg followed his orders. Gundren was ambushed and taken along with his personal effects, including a map.  
@@ -175,8 +177,6 @@ The stream that flows through the complex is only 2 feet deep, cold, and slow mo
 
 The trail from the goblin ambush site leads to the entrance of the Cragmaw hideout.
 
-> [!readaloud] 
-> 
 > Following the goblins' trail, you come across a large cave in a hillside five miles from the scene of the ambush. A shallow stream flows out of the cave mouth, which is screened by dense briar thickets. A narrow dry path leads into the cave on the right-hand side of the stream.
 ^01c
 
@@ -190,8 +190,6 @@ The goblins in 2 are supposed to be keeping watch on this area, but they are not
 
 When the characters cross to the east side of the stream, they can see around the screening thickets to 2. This is a goblin guard post, though the goblins here are bored and inattentive.
 
-> [!readaloud] 
-> 
 > On the east side of the stream flowing from the cave mouth, a small area in the briar thickets has been hollowed out to form a lookout post or blind. Wooden planks flatten out the briars and provide room for guards to lie hidden and watch the area—including a pair of goblins lurking there right now!
 ^01f
 
@@ -207,8 +205,6 @@ The thickets around the clearing are difficult terrain, but they aren't dangerou
 
 The Cragmaws keep a kennel of foul-tempered wolves that they are training for battle.
 
-> [!readaloud] 
-> 
 > Just inside the cave mouth, a few uneven stone steps lead up to a small, dank chamber on the east side of the passage. The cave narrows to a steep fissure at the far end, and is filled with the stench of animals. Savage snarls and the sounds of rattling chains greet your ears where three wolves are chained up just inside the opening. Each wolf's chain leads to an iron rod driven into the base of a stalagmite.
 ^022
 
@@ -218,7 +214,7 @@ A character who tries to calm the animals can attempt a DC 15 Wisdom ([[skills#A
 
 #### Fissure
 
-A narrow opening in the east wall leads to a natural chimney that climbs 30 feet to 8. At the base of the fissure is rubbish that's been discarded through the opening above. A character attempting to ascend or descend the chimney shaft must make a DC 10 Strength ([[skills#Athletics|Athletics]]) check. If the check succeeds, the character moves at half speed up or down the shaft, as desired. On a check result of 6-9, the character neither gains nor loses ground; on a result of 5 or less, the character falls and takes `d6` bludgeoning damage per 10 feet fallen, landing [[conditions#Prone|prone]] at the base of the shaft.
+A narrow opening in the east wall leads to a natural chimney that climbs 30 feet to 8. At the base of the fissure is rubbish that's been discarded through the opening above. A character attempting to ascend or descend the chimney shaft must make a DC 10 Strength ([[skills#Athletics|Athletics]]) check. If the check succeeds, the character moves at half speed up or down the shaft, as desired. On a check result of 6-9, the character neither gains nor loses ground; on a result of 5 or less, the character falls and takes `d6` bludgeoning damage per 10 feet fallen, landing [[conditions#prone|prone]] at the base of the shaft.
 
 #### Developments
 
@@ -230,15 +226,11 @@ A goblin or bugbear can use its action to release one wolf from its chain.
 
 From this point on, characters without [[senses#Darkvision|darkvision]] will need light to see their surroundings.
 
-> [!readaloud] 
-> 
 > The main passage from the cave mouth climbs steeply upward, the stream plunging and splashing down its west side. In the shadows, a side passage leads west across the other side of the stream.
 ^026
 
 Characters using light or [[senses#Darkvision|darkvision]] to look farther up the passage spot the bridge at 5. Add:
 
-> [!readaloud] 
-> 
 > In the shadows of the ceiling to the north, you can just make out the dim shape of a rickety bridge of wood and rope crossing over the passage ahead of you. Another passage intersects this one, twenty feet above the floor.
 ^027
 
@@ -250,21 +242,17 @@ The goblin notices the characters if they carry any light or don't use stealth a
 
 This passage is choked with rubble and has steep escarpments. Treat the area as difficult terrain (see "Difficult Terrain" in the rulebook).
 
-The ledge between the two escarpments is fragile. Any weight in excess of 100 pounds loosens the whole mass and sends it tumbling down to the east. Any creature on the ledge when it falls must make a DC 10 Dexterity saving throw, taking `2d6` bludgeoning damage on a failure, or half as much damage on a success. The creature also falls [[conditions#Prone|prone]] on a failed save (see "Being Prone" in the rulebook).
+The ledge between the two escarpments is fragile. Any weight in excess of 100 pounds loosens the whole mass and sends it tumbling down to the east. Any creature on the ledge when it falls must make a DC 10 Dexterity saving throw, taking `2d6` bludgeoning damage on a failure, or half as much damage on a success. The creature also falls [[conditions#prone|prone]] on a failed save (see "Being Prone" in the rulebook).
 
 ### 5. Overpass
 
 Where a high tunnel passes through the larger tunnel cavern below, the goblins have set up a bridge guard post.
 
-> [!readaloud] 
-> 
 > The stream passage continues up beyond another set of uneven steps ahead, bending eastward as it goes. A waterfall sounds out from a larger cavern somewhere ahead of you.
 ^02a
 
 If the characters didn't spot the bridge while navigating 4, they spot it now. Add:
 
-> [!readaloud] 
-> 
 > A rickety bridge spans the passage, connecting two tunnels that are 20 feet above the stream.
 ^02b
 
@@ -276,18 +264,16 @@ If the goblin spots the adventurers, it signals the goblins in 7 to release a fl
 
 This bridge spans the passage 20 feet above the stream. It's possible to climb up the cavern walls from the lower passage to the bridge. The 20-foot-high walls are rough but slick with spray, requiring a successful DC 15 Strength ([[skills#Athletics|Athletics]]) check to climb.
 
-The bridge has an Armor Class (AC) of 5 and 10 hit points. If the bridge is reduced to 0 hit points, it collapses. Creatures on the collapsing bridge must succeed on a DC 10 Dexterity saving throw or fall, taking `2d6` bludgeoning damage and landing [[conditions#Prone|prone]] (see "Being Prone" in the rulebook). Those who succeed hold onto the bridge and must climb it to safety.
+The bridge has an Armor Class (AC) of 5 and 10 hit points. If the bridge is reduced to 0 hit points, it collapses. Creatures on the collapsing bridge must succeed on a DC 10 Dexterity saving throw or fall, taking `2d6` bludgeoning damage and landing [[conditions#prone|prone]] (see "Being Prone" in the rulebook). Those who succeed hold onto the bridge and must climb it to safety.
 
 #### Flood!
 
 The large pools in 7 have collapsible walls that can be yanked out of place to release a surge of water down the main passage of the lair. In the round after the goblins in 7 are signaled by the lookout in 5, they start knocking away the supports. In the following round on the goblins' initiative count, a water surge pours from 7 down to 1.
 
-> [!readaloud] 
-> 
 > The passage is suddenly filled with a mighty roar, as a huge surge of rushing water pours down from above!
 ^02e
 
-The flood threatens all creatures in the tunnel. (Creatures on the bridge at 5 are out of danger, as are any characters successfully climbing the cavern walls.) Any creature within 10 feet of the disused passage at 4 or the steps leading up to 3 can attempt a DC 10 Dexterity saving throw to avoid being swept away. A creature that fails to get out of the way can attempt a DC 15 Strength saving throw to hold on. On a failed save, the character is knocked [[conditions#Prone|prone]] and washed down to 1, taking `d6` bludgeoning damage along the way.
+The flood threatens all creatures in the tunnel. (Creatures on the bridge at 5 are out of danger, as are any characters successfully climbing the cavern walls.) Any creature within 10 feet of the disused passage at 4 or the steps leading up to 3 can attempt a DC 10 Dexterity saving throw to avoid being swept away. A creature that fails to get out of the way can attempt a DC 15 Strength saving throw to hold on. On a failed save, the character is knocked [[conditions#prone|prone]] and washed down to 1, taking `d6` bludgeoning damage along the way.
 
 The goblins in 7 can release a second flood by opening the second pool, but they don't do this unless the goblin on the bridge tells them to. The goblin on the bridge waits to see if the first flood got rid of all the intruders before calling for the second to be released.
 
@@ -295,8 +281,6 @@ The goblins in 7 can release a second flood by opening the second pool, but they
 
 The Cragmaw raiders stationed in the hideout use this area as a common room and barracks.
 
-> [!readaloud] 
-> 
 > This large cave is divided in half by a ten-foot-high escarpment. A steep natural staircase leads from the lower portion to the upper ledge. The air is hazy with the smoke of a cooking fire, and pungent from the smell of poorly cured hides and unwashed goblins.
 ^030
 
@@ -350,8 +334,6 @@ An NPC might join the party, if only for a short time. Here are some tips to hel
 
 If the goblins have drained either pool to flood the passage, adjust the following boxed text accordingly.
 
-> [!readaloud] 
-> 
 > This cavern is half filled with two large pools of water. A narrow waterfall high in the eastern wall feeds the pool, which drains out the western end of the chamber to form the stream that flows out of the cave mouth below. Low fieldstone walls serve as dams holding the water in. A wide exit stands to the south, while two smaller passages lead west. The sound of the waterfall echoes through the cavern, making it difficult to hear.
 ^035
 
@@ -365,8 +347,6 @@ The goblins built simple dams to control the flow of water through the heart of 
 
 The leader of the goblinoids insists on keeping the bulk of the raiders' stolen goods in his den. The Cragmaws' plunder from the last month of raiding and ambushing caravans is here.
 
-> [!readaloud] 
-> 
 > Sacks and crates of looted provisions are piled up in the south end of this large cave. To the west, the floor slopes toward a narrow opening that descends into darkness. A larger opening leads north down a set of natural stone steps, the roar of falling water echoing from beyond. In the middle of the cavern, the coals of a large fire smolder.
 ^038
 
@@ -374,7 +354,7 @@ Klarg the [[bugbear-warrior-xmm|bugbear]] shares this cave with his mangy pet [[
 
 #### Fire Pit
 
-The hot coals in the central fire pit deal 1 fire damage to any creature that enters the fire pit, or `d6` fire damage to any creature that falls [[conditions#Prone|prone]] there. A creature can take each type of damage only once per round.
+The hot coals in the central fire pit deal 1 fire damage to any creature that enters the fire pit, or `d6` fire damage to any creature that falls [[conditions#prone|prone]] there. A creature can take each type of damage only once per round.
 
 #### Natural Chimney
 
@@ -424,20 +404,25 @@ If the adventurers come up with a nonviolent way to neutralize the threat that a
 
 Legends speak of 2 goblin arrows as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 2 goblin arrows.
 
-## Adventure Hooks
-
-- A rumor ties 2 goblin arrows to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 2 goblin arrows to avert a public scandal.
-- A map overlay reveals a hidden approach to 2 goblin arrows active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- Strange sightings suggest a portal
+- A document has gone missing and evil awakens
+- Someone is hunting information for money
+- A letter reveals a betrayal about the government

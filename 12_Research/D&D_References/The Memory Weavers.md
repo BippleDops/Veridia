@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:35.464408+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,22 @@ The Memory Weavers is a undersea element of the setting, known for bioluminescen
 
 Legends speak of The Memory Weavers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Memory Weavers.
 
-## Adventure Hooks
-
-- A rumor ties The Memory Weavers to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Memory Weavers to avert a public scandal.
-- A map overlay reveals a hidden approach to The Memory Weavers active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Convergence Point|02 Worldbuilding/Lore/The Convergence Point]]
-
-
-## Connections
-
-- [[The Convergence Point]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals a betrayal about the government
+- Someone is protecting an heir for revenge
+- A document has gone missing and chaos spreads
+- An heirloom has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -1,20 +1,87 @@
 ---
+
 title: Ley Line Network
 type: lore
 tags:
 - lore
 - active
+- prophecy
 created: '2025-08-14'
 modified: '2025-08-14'
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
-# Ley Line Network
+
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
 
 ## Overview
 
 Ley Line Network represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
-
-## Description
 
 ### Basic Information
 Ley Line Network can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
@@ -25,8 +92,6 @@ Ley Line Network can be understood as a multifaceted element that intersects wit
 
 ### Detailed Explanation
 The full nature of Ley Line Network involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
-
-## Context & Connections
 
 ### Historical Context
 The origins and development of Ley Line Network trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
@@ -45,8 +110,6 @@ Different groups view Ley Line Network through their own cultural lenses:
 - Regional variations
 - Conflicting perspectives
 
-## Characteristics
-
 ### Defining Features
 What makes Ley Line Network unique:
 - Specific attributes or qualities
@@ -60,8 +123,6 @@ Different forms or interpretations:
 - Historical evolution
 - Cultural adaptations
 - Individual variations
-
-## Practical Information
 
 ### How It Works
 The functional aspects of Ley Line Network:
@@ -84,8 +145,6 @@ How one might encounter or utilize Ley Line Network:
 - Requirements for interaction
 - Restrictions or taboos
 
-## Impact & Influence
-
 ### Direct Effects
 Immediate consequences of Ley Line Network:
 - On individuals
@@ -107,8 +166,6 @@ Future implications:
 - Possible endpoints
 - Cyclical patterns
 
-## Current Status
-
 ### Present Situation
 The current state of Ley Line Network:
 - Active developments
@@ -123,11 +180,9 @@ How Ley Line Network has been involved recently:
 - New discoveries
 - Shifts in control or access
 
-## Mysteries & Questions
-
 ### Unknown Aspects
 What remains unclear about Ley Line Network:
-- Unanswered questions
+- Uswered questions
 - Conflicting information
 - Hidden dimensions
 - Lost knowledge
@@ -138,8 +193,6 @@ Current efforts to understand:
 - Methods being employed
 - Recent discoveries
 - Obstacles to understanding
-
-## Game Applications
 
 ### Adventure Hooks
 Ways to incorporate Ley Line Network into gameplay:
@@ -163,8 +216,6 @@ How Ley Line Network fits into narratives:
 - As character motivation
 - As campaign theme
 
-## Additional Notes
-
 ### Variations by Campaign
 How to adjust for different games:
 - Tone adjustments
@@ -178,8 +229,6 @@ Ways Ley Line Network might evolve:
 - Via story progression
 - Based on world events
 - Through discovery
-
-## References
 
 ### Sources
 Where information comes from:
@@ -201,8 +250,6 @@ Where to learn more:
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
-
-## DM Notes
 
 ### True Nature
 [Hidden information for DM only]
@@ -227,3 +274,27 @@ Adapt as needed for:
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Plot Hooks
+
+- Strange dreams suggest ancient magic
+- The authorities needs help finding before dawn
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

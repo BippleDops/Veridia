@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.285361+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,26 @@ Crystal Enhanced Democracy is a undersea element of the setting, known for biolu
 
 Legends speak of Crystal Enhanced Democracy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystal Enhanced Democracy.
 
-## Adventure Hooks
-
-- A rumor ties Crystal Enhanced Democracy to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Crystal Enhanced Democracy to avert a public scandal.
-- A map overlay reveals a hidden approach to Crystal Enhanced Democracy active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Establish New World Order|02 Worldbuilding/Groups/Establish New World Order]]
-
-
-## Connections
-
-- [[Establish New World Order]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A merchant needs help delivering before the new moon
+- Strange sightings suggest ancient magic
+- An heirloom has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

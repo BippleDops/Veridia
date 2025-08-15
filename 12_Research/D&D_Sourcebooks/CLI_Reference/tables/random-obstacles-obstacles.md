@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.606130'
 world: Both
 ---
 
-
 # Random Obstacles; Obstacles
 *Source: Dungeon Master's Guide p. 296* 
 
@@ -45,6 +44,24 @@ world: Both
 | 20 | [[wall-of-force-xphb|Wall of force]] blocks passage |
 ^obstacles
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Random obstacles obstacles is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -53,19 +70,31 @@ Random obstacles obstacles is a undersea element of the setting, known for biolu
 
 Legends speak of random obstacles obstacles as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random obstacles obstacles.
 
-## Adventure Hooks
-
-- A rumor ties random obstacles obstacles to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at random obstacles obstacles to avert a public scandal.
-- A map overlay reveals a hidden approach to random obstacles obstacles active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Stars
+
+
+## Plot Hooks
+
+- A corpse reveals the truth about the cult
+- A corpse reveals a conspiracy about a local noble
+- A document has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

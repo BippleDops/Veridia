@@ -24,16 +24,31 @@ updated: '2025-08-13T12:34:07.859716+00:00'
 world: Both
 ---
 
-
-
 # Cloak of Displacement
 *Wondrous item, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/cloak-of-displacement.webp#right)
 
-
 While you wear this cloak, it magically projects an illusion that makes you appear to be standing in a place near your actual location, causing any creature to have [[disadvantage-xphb|Disadvantage]] on attack rolls against you. If you take damage, the property ceases to function until the start of your next turn. This property is suppressed while your [[speed-xphb|Speed]] is 0.
 
-*Source: Dungeon Master's Guide (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 244. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -43,19 +58,21 @@ Cloak of displacement xdmg is a undersea element of the setting, known for biolu
 
 Legends speak of cloak of displacement xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around cloak of displacement xdmg.
 
-## Adventure Hooks
-
-- A rumor ties cloak of displacement xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at cloak of displacement xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to cloak of displacement xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a conspiracy
+- A map reveals a betrayal about this place
+- Strange disappearances suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

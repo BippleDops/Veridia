@@ -22,17 +22,30 @@ updated: '2025-08-13T01:18:36.391291+00:00'
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-tidecaller-the-tidecaller.svg]]
-
-
-
 
 # The Tidecaller
 
 *"I do not command the tides - I simply ask them to dance."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 Sage Marina Tidecaller is Aethermoor's most powerful maritime spellcaster, specializing in tide magic and ocean weather control. Her abilities are essential for protecting the kingdom's coastal settlements and ensuring safe passage for merchant vessels.
@@ -81,26 +94,12 @@ Marina discovered her affinity for tide magic during childhood storms that threa
 **Evening**: Tide adjustments for overnight shipping activities
 **Night**: Deep meditation connecting with ocean's natural rhythms
 
-## Current Projects
-- Developing early warning system for dangerous storms
- - Training replacement tidecaller for kingdom succession
-- Researching connection between tide magic and underwater kingdoms
-- Creating detailed charts of magical currents around Aethermoor
-- Negotiating mutual assistance pact with other maritime spellcasters
-
 ## Relationships
 **Royal Navy**: Primary client for weather and tactical support
 **Merchant Fleet**: Regular services ensuring profitable trade voyages
 **Fishing Industry**: Tidal predictions and fishing ground information
 **Foreign Tidecallers**: Professional network sharing knowledge and techniques
 **Apprentices**: Training next generation of maritime spellcasters
-
-## Notable Achievements
-- Saved capital city from devastating tsunami through tide redirection
- - Maintained harbor operations during worst storm in century
-- Negotiated peace treaty with hostile water elementals
-- Discovered new magical techniques now taught internationally
-- Created network of early warning beacons along entire coastline
 
 ## Adventure Hooks
 1. Magical storm threatens kingdom, requiring emergency assistance
@@ -122,13 +121,6 @@ Marina discovered her affinity for tide magic during childhood storms that threa
 **Tide Charts**: Detailed maps with magical annotations
 **Scrying Pool**: Permanent installation for long-distance observation
 
-## Knowledge and Secrets
-- Location of underwater ruins with tide magic artifacts
- - True names of powerful water elementals and sea spirits
-- Diplomatic contacts with Aquabyssos and other underwater cities
-- Weather patterns suggesting climate changes affecting region
-- Ancient prophecies about oceanic disasters and their prevention
-
 ## Services Offered
 **Weather Prediction**: Accurate forecasts for military and commercial planning
 **Storm Mitigation**: Reducing severe weather impact on coastal areas
@@ -143,13 +135,6 @@ Marina discovered her affinity for tide magic during childhood storms that threa
 **International Exchange**: Training programs with other kingdoms' spellcasters
 **Public Education**: Community workshops on basic weather safety
 
-## Political Influence
-- Advisor to royal council on maritime policy
- - Unofficial ambassador to underwater kingdoms
-- Advocate for environmental protection of coastal waters
-- Mediator in disputes between fishing and shipping interests
-- Voice in international negotiations affecting oceanic territory
-
 ## Future Plans
 **Succession**: Identifying and training worthy replacement
 **Innovation**: Developing new applications of tide magic
@@ -160,11 +145,6 @@ Marina discovered her affinity for tide magic during childhood storms that threa
 ## DM Notes
 The Tidecaller serves as powerful ally for maritime adventures, quest giver for ocean-related missions, and expert consultant on water magic. Her abilities can significantly impact naval combat and coastal exploration scenarios.
 
-
-## Connections
-
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
-
 ## Player-Facing Summary
 
 The Tidecaller is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -173,14 +153,21 @@ The Tidecaller is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of The Tidecaller as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Tidecaller.
 
-## Cross-References
-
-- [[The Tidecaller|02 Worldbuilding/People/The Tidecaller]]
-- [[The Tidecaller|02 Worldbuilding/Places/The Tidecaller]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.396975+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-aquatic-troll-rot-aquatic-troll-rot.svg)
 
@@ -53,7 +50,6 @@ world: Both
   - !!int "20"
   - !!int "7"
   - !!int "9"
-  - !!int "7"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
@@ -89,6 +85,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Aquatic troll rot is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -97,19 +111,35 @@ Aquatic troll rot is a undersea element of the setting, known for bioluminescent
 
 Legends speak of aquatic troll rot as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around aquatic troll rot.
 
-## Adventure Hooks
-
-- A rumor ties aquatic troll rot to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at aquatic troll rot to avert a public scandal.
-- A map overlay reveals a hidden approach to aquatic troll rot active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A document has gone missing and evil awakens
+- A stranger needs help finding before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

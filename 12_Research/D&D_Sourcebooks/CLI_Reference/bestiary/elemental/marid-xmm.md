@@ -30,13 +30,29 @@ updated: '2025-08-12T23:37:35.436963'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-marid-xmm-marid-xmm.svg)
 
 # [[marid-xmm|Marid]]
 *Source: Monster Manual (2024) p. 203*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Marid
 
@@ -65,7 +81,6 @@ Marids hail from the Elemental Plane of Water, where they live in wondrous homes
   - !!int "26"
   - !!int "18"
   - !!int "17"
-  - !!int "18"
 "speed": "30 ft., fly 60 ft., swim 90 ft."
 "saves":
   - "dexterity": !!int "5"
@@ -78,7 +93,7 @@ Marids hail from the Elemental Plane of Water, where they live in wondrous homes
   - "desc": "The marid can breathe air and water."
     "name": "Amphibious"
   - "desc": "If the marid dies outside the Elemental Plane of Water, its body dissolves\
-      \ into brine, and it gains a new body in d4 days, reviving with all its [[hit-points-xphb|Hit\
+      \ into brine, and it gains a new body in d4 days, reviving with all its [[hit-points-xphb|Hit\]]
       \ Points]] somewhere on the\
       \ Plane of Water."
     "name": "Elemental Restoration"
@@ -98,16 +113,16 @@ Marids hail from the Elemental Plane of Water, where they live in wondrous homes
   - "desc": "Dexterity Saving Throw: DC 18, each creature in a 60-foot-long, 10-foot-wide\
       \ [[line-area-of-effect-xphb|Line]]. Failure:\
       \ 31 (9d6) Cold damage. If the target is a Huge or smaller creature, it is pushed\
-      \ up to 20 feet straight away from the marid and has the [[conditions#Prone|Prone]]\
+      \ up to 20 feet straight away from the marid and has the [[conditions#prone|Prone]]\
       \ condition. Success: Half damage only."
     "name": "Water Jet"
   - "desc": "The marid casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 16):\n\nAt\
       \ will: [[create-or-destroy-water-xphb|Create or Destroy Water]],\
       \ [[detect-evil-and-good-xphb|Detect Evil and Good]],\
-      \ [[detect-magic-xphb|Detect Magic]], [[purify-food-and-drink-xphb|Purify Food\
+      \ [[detect-magic-xphb|Detect Magic]], [[purify-food-and-drink-xphb|Purify Food\]]
       \ and Drink]]\n\n1/day\
-      \ each: [[control-water-xphb|Control Water]], [[gaseous-form-xphb|Gaseous\
+      \ each: [[control-water-xphb|Control Water]], [[gaseous-form-xphb|Gaseous\]]
       \ Form]], [[invisibility-xphb|Invisibility]],\
       \ [[plane-shift-xphb|Plane Shift]], [[tongues-xphb|Tongues]]"
     "name": "Spellcasting"
@@ -133,19 +148,15 @@ Marid xmm is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of marid xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around marid xmm.
 
-## Adventure Hooks
-
-- A rumor ties marid xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at marid xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to marid xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

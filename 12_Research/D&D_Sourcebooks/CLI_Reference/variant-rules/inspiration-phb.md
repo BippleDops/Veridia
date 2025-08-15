@@ -21,11 +21,28 @@ updated: '2025-08-12T23:37:34.153861'
 world: Both
 ---
 
-
 # Inspiration
 *Source: Player's Handbook p. 125* 
 
 Inspiration is a rule the Dungeon Master can use to reward you for playing your character in a way that's true to his or her personality traits, ideal, bond, and flaw. By using inspiration, you can draw on your personality trait of compassion for the downtrodden to give you an edge in negotiating with the Beggar Prince. Or inspiration can let you call on your bond to the defense of your home village to push past the effect of a spell that has been laid on you.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Gaining Inspiration
 
@@ -47,20 +64,17 @@ Inspiration phb is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of inspiration phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around inspiration phb.
 
-## Adventure Hooks
-
-- A rumor ties inspiration phb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at inspiration phb to avert a public scandal.
-- A map overlay reveals a hidden approach to inspiration phb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

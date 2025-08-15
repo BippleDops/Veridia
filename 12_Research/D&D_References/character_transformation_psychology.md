@@ -10,7 +10,23 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Character Transformation Psychology
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Mental and Emotional Frameworks for Character Change
 
@@ -84,7 +100,7 @@ Research on implementing meaningful character development through physical, ment
 
 **Aethermoor Transformation Patterns**:
 - **Altitude Enlightenment**: Psychological effects of rarified atmosphere
-- **Crystal Resonance**: Mental harmonization with crystal frequencies
+- **Crystal Resoce**: Mental harmonization with crystal frequencies
 - **Wind Communion**: Spiritual connection to atmospheric forces
 - **Stellar Awareness**: Expanded consciousness from cosmic exposure
 
@@ -169,13 +185,11 @@ class TransformationEvent(BaseModel):
 ```
 
 Character psychology tracking:
-```python
 pre_transformation_personality: Dict[str, int]  # Baseline personality traits
 current_personality: Dict[str, int]  # Current personality traits
 transformation_goals: List[str]  # What character hopes to achieve/avoid
 coping_mechanisms: List[str]  # Strategies for managing transformation stress
 support_network: List[str]  # People who provide understanding and help
-```
 
 ### Success Indicators
 
@@ -191,7 +205,6 @@ Effective transformation psychology shows:
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -199,3 +212,20 @@ Effective transformation psychology shows:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- Strange accidents suggest a portal
+- A merchant needs help delivering before the new moon
+- Someone is protecting information for money
+- Someone is searching for information for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

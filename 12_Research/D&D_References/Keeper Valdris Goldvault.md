@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.181428+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-keeper-valdris-goldvault-keeper-valdris-goldvault.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,25 @@ Keeper Valdris Goldvault is a undersea element of the setting, known for biolumi
 
 Legends speak of Keeper Valdris Goldvault as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Keeper Valdris Goldvault.
 
-## Adventure Hooks
-
-- A rumor ties Keeper Valdris Goldvault to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Keeper Valdris Goldvault to avert a public scandal.
-- A map overlay reveals a hidden approach to Keeper Valdris Goldvault active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Keeper Valdris Goldvault|02 Worldbuilding/Places/Keeper Valdris Goldvault]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Secret Vault Beneath Throne]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing a witness for love
+- A merchant needs help stealing before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

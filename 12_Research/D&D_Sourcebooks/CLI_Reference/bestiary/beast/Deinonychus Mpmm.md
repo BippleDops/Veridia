@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:05.447978+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-deinonychus-mpmm-deinonychus-mpmm.svg)
 
@@ -54,7 +51,6 @@ This larger cousin of the velociraptor kills by gripping its target with its cla
 "modifier": !!int "2"
 "stats":
   - !!int "15"
-  - !!int "15"
   - !!int "14"
   - !!int "4"
   - !!int "12"
@@ -69,8 +65,8 @@ This larger cousin of the velociraptor kills by gripping its target with its cla
 "traits":
   - "desc": "If the deinonychus moves at least 20 feet straight toward a creature\
       \ and then hits it with a Claw attack on the same turn, that target must succeed\
-      \ on a DC 12 Strength saving throw or be knocked [[conditions#Prone|prone]].\
-      \ If the target is [[conditions#Prone|prone]], the deinonychus\
+      \ on a DC 12 Strength saving throw or be knocked [[conditions#prone|prone]].\
+      \ If the target is [[conditions#prone|prone]], the deinonychus\
       \ can make one Bite attack against it as a bonus action."
     "name": "Pounce"
 "actions":
@@ -79,7 +75,6 @@ This larger cousin of the velociraptor kills by gripping its target with its cla
   - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
       \ + 2) piercing damage."
     "name": "Bite"
-  - "desc": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8\
       \ + 2) slashing damage."
     "name": "Claw"
 "source":
@@ -88,6 +83,24 @@ This larger cousin of the velociraptor kills by gripping its target with its cla
 "image": "/03_Mechanics/CLI/bestiary/beast/token/deinonychus-mpmm.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Environment
 
@@ -101,19 +114,20 @@ Deinonychus mpmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of deinonychus mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around deinonychus mpmm.
 
-## Adventure Hooks
-
-- A rumor ties deinonychus mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at deinonychus mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to deinonychus mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

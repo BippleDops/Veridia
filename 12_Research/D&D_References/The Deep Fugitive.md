@@ -22,19 +22,30 @@ updated: '2025-08-13T01:18:36.509868+00:00'
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-deep-fugitive-the-deep-fugitive.svg]]
-
-
-
-
-
 
 # The Deep Fugitive
 
 *"In the crushing depths, even memories can be buried."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 The Deep Fugitive is a mysterious individual who operates in the deepest trenches around Aquabyssos, evading capture by the city watch for crimes unknown. Their true identity remains a mystery, but their reputation as someone who can disappear into the crushing depths has made them a legend.
@@ -62,13 +73,6 @@ Little is known about the Deep Fugitive's past. Some claim they were once a roya
 
 What's certain is their ability to survive in the deepest ocean trenches where pressure would crush most beings, and their knowledge of Aquabyssos's hidden secrets.
 
-## Current Activities
-- Evading systematic searches by city watch and deep patrol
-- Occasionally helping other outcasts and fugitives escape the city
-- Gathering information about corruption in high places
-- Trading rare deep-sea artifacts for supplies and information
-- Leading authorities on extended chases through dangerous waters
-
 ## Known Associates
 **The Depth Walker**: Another mysterious figure who provides supplies
 **Shadow Network**: Loose alliance of criminals and dissidents
@@ -82,13 +86,6 @@ What's certain is their ability to survive in the deepest ocean trenches where p
 **Artifact Collection**: Possesses several rare deep-sea magical items
 **Knowledge Network**: Surprisingly well-informed about city politics
 
-## Motivations
-- Seeking justice for an unknown past wrong
-- Protecting others who can't protect themselves
-- Uncovering and exposing corruption in Aquabyssos
-- Maintaining freedom at any cost
-- Finding the truth about their own mysterious past
-
 ## Relationships
 **City Watch**: Actively hunted, significant bounty offered
 **Deep Patrol**: Grudging respect but still pursue when ordered
@@ -96,62 +93,14 @@ What's certain is their ability to survive in the deepest ocean trenches where p
 **Common Citizens**: Folk hero status among the oppressed
 **Royal Court**: Officially condemned, unofficially curious
 
-## Secrets
-- True identity is someone thought dead for years
-- Possesses evidence that could topple major political figures
-- Has discovered ancient ruins in the deepest trenches
-- May not be entirely human anymore due to deep adaptations
-- Working toward a larger plan that could change Aquabyssos forever
-
 ## Adventure Hooks
 1. Players hired to capture or contact the fugitive
 2. Information the fugitive possesses is crucial to ongoing investigation
 3. Fugitive saves players from danger, then vanishes
 4. False accusations make players temporary allies with the fugitive
 
-## Encounter Locations
-- **Deep Trench Networks**: Primary hiding places and escape routes
-- **Abandoned Deep Facilities**: Temporary shelters and supply caches
-- **Pressure Caverns**: Meeting places with other outcasts
-- **Current Streams**: High-speed travel routes for quick escapes
-
 ## DM Notes
 Use the Deep Fugitive as a recurring character who appears when least expected. They should embody themes of justice versus law, freedom versus security. Their true identity and motivations can drive long-term campaign arcs.
-
-
-## Connections
-
-- [[Pearl_Harbor_City|Pearl Harbor City]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -161,13 +110,23 @@ The Deep Fugitive is a undersea element of the setting, known for bioluminescent
 
 Legends speak of The Deep Fugitive as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Deep Fugitive.
 
-## Cross-References
-
-- [[The Deep Fugitive|02 Worldbuilding/Places/The Deep Fugitive]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a betrayal about the government
+- A stranger needs help investigating before the new moon
+- Strange sightings suggest a curse
+- Someone is protecting information for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

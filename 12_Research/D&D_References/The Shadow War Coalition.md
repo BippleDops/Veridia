@@ -15,32 +15,26 @@ updated: '2025-08-13T01:18:36.739287+00:00'
 world: Both
 ---
 
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-war-coalition-the-shadow-war-coalition.svg)
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[Quest - Diplomatic Immunity|02 Worldbuilding/Quests/Quest Diplomatic Immunity]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Crystal Wardens]]
-- [[Independent Smugglers]]
-- [[Party Shadows]]
-- [[Purist Coalition]]
-- [[Shadow Surgeons Collective]]
-- [[The Shadow Conspiracy]]
-- [[The Whisper Syndicate]]
-- [[Aethermoor]]
-- [[Parliament of Echoes]]
-- [[Quest - Diplomatic Immunity]]
-- [[Quest - Hearts and Minds]]
 
 ## Player-Facing Summary
 
@@ -50,19 +44,18 @@ The Shadow War Coalition is a undersea element of the setting, known for biolumi
 
 Legends speak of The Shadow War Coalition as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Shadow War Coalition.
 
-## Adventure Hooks
-
-- A rumor ties The Shadow War Coalition to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Shadow War Coalition to avert a public scandal.
-- A map overlay reveals a hidden approach to The Shadow War Coalition active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

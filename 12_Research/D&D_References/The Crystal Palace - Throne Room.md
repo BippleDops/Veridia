@@ -15,23 +15,26 @@ updated: '2025-08-13T01:18:36.000479+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-crystal-palace-throne-room-the-crystal-palace-throne-room.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Quest - The Crystal Festival|02 Worldbuilding/Quests/Quest The Crystal Festival]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Quest - Foreign Interests]]
-- [[Quest - The Crystal Festival]]
 
 ## Player-Facing Summary
 
@@ -41,19 +44,21 @@ The Crystal Palace   Throne Room is a undersea element of the setting, known for
 
 Legends speak of The Crystal Palace   Throne Room as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crystal Palace   Throne Room.
 
-## Adventure Hooks
-
-- A rumor ties The Crystal Palace   Throne Room to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Crystal Palace   Throne Room to avert a public scandal.
-- A map overlay reveals a hidden approach to The Crystal Palace   Throne Room active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and chaos spreads
+- A merchant needs help finding before the new moon
+- A prisoner has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

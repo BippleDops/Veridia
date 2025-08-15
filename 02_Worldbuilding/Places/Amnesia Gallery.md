@@ -1,4 +1,5 @@
 ---
+
 title: Amnesia Gallery
 type: Location
 tags:
@@ -21,6 +22,7 @@ tags:
 - place
 - active
 - world/aquabyssos
+- prophecy
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
@@ -37,6 +39,8 @@ obsidianUIMode: preview
 owner: '[[12_Research/D&D_Statblocks/Keeper Elara Mindwell]]'
 updated: '2025-08-13T12:34:16.856563+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -44,10 +48,77 @@ world: Aquabyssos
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-amnesia-gallery-amnesia-gallery.svg]]
 
-
 # Amnesia Gallery
 
 *Where Memories Dance in Crystal and Shadow, Where Forgetting is Art*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
 
 ## Overview
 
@@ -56,8 +127,6 @@ The Amnesia Gallery stands as one of [[Aquabyssos]]'s most enigmatic and dangero
 Visitors come to experience memories that are not their own, to lose unwanted thoughts, or to witness the strange beauty that emerges when consciousness is given physical form. The gallery exists in a state of controlled temporal flux, where past, present, and future memories intermingle in displays that shift and evolve with each viewer's psyche.
 
 The establishment operates under the patronage of the [[02_Worldbuilding/Groups/The Memory Merchants Guild|02 Worldbuilding/Groups/The Memory Merchants Guild]], serving both as entertainment venue and research facility for the study of consciousness and temporal memory. However, beneath its artistic facade lies a deeper purpose: the systematic collection and cataloging of significant memories from across [[Aquabyssos]] for unknown ends.
-
-## Physical Description & Atmosphere
 
 ### Exterior Architecture
 
@@ -70,18 +139,6 @@ The sphere's surface is carved with flowing script in the ancient [[Deep Script]
 Upon entering through the main portal (a sphincter-like opening that reads visitors' intentions), guests find themselves in the **Reception Abyss**—a circular chamber with walls that display constantly shifting previews of the current exhibitions. The floor is made of memory-glass, allowing visitors to peer down into the gallery's lower levels where archived memories swim in containment pools like luminous jellyfish.
 
 The gallery space itself defies conventional architecture, with exhibition areas that phase in and out of existence based on the collective consciousness of current visitors. Viewing platforms connected by bridges of crystallized thought allow movement between exhibits, while the central void serves as the main display space for large-scale memory installations.
-
-### Atmospheric Effects
-
-- **Memory Mist**: A faint, opalescent fog that carries echoes of displayed memories
-- **Temporal Echoes**: Sounds from past and future exhibitions occasionally bleed through
-- **Empathic Resonance**: Emotional atmospheres from memories affect room temperature and lighting
-- **Chronological Drift**: Time moves slightly differently in various exhibition areas
-- **Psychic Pressure**: Sensitive individuals may experience mild telepathic feedback
-
-## Areas and Exhibitions
-
-### The Welcome Wing - Entrance Level
 
 #### Reception Abyss
 
@@ -100,8 +157,6 @@ Small alcoves where visitors can undergo mental preparation for memory viewing. 
 - **Consciousness anchors** to maintain personal identity
 - **Temporal stabilizers** to prevent chronological displacement
 - **Warning systems** that alert to dangerous memory exposure
-
-### The Primary Gallery - Main Exhibition Floors
 
 #### Hall of Borrowed Dreams
 
@@ -138,8 +193,6 @@ A restricted section displaying traumatic memories, heavily regulated:
 - Constant monitoring by trained psychic healers
 - Features memories of war, loss, and existential horror
 
-### The Research Levels - Upper Floors
-
 #### The Extraction Laboratories
 
 Behind reinforced crystal walls, visitors can observe the memory extraction process:
@@ -156,8 +209,6 @@ Storage areas containing the gallery's vast collection:
 - **Artistic Memories**: Curated collections from renowned artists and creators
 - **Restricted Vaults**: Dangerous or politically sensitive memories
 
-### The Depths - Lower Levels
-
 #### The Collective Pool
 
 A vast chamber containing a pool of liquid memory where fragments of consciousness merge and separate:
@@ -173,8 +224,6 @@ The gallery's deepest level where memories deemed too dangerous or painful are s
 - Contains memories of pre-Drowning civilizations
 - Houses fragments of divine consciousness
 - Rumored to connect to [[12_Research/D&D_Statblocks/The Deepmind]]'s neural networks
-
-## Key NPCs
 
 ### Keeper Elara Mindwell
 
@@ -241,33 +290,6 @@ Former visitors who volunteered to undergo partial memory integration with the g
 
 Elite guards trained to handle psychic threats and memory-based emergencies. They wear helmets that protect against memory intrusion and carry tridents that can dispel hostile memory constructs.
 
-## Services & Offerings
-
-### For Visitors
-
-#### Standard Services
-
-- **Memory Viewing** (5-50 gp per exhibition): Experience curated memory displays
-- **Guided Tours** (25 gp): Expert-led exploration with safety guarantees
-- **Memory Consultation** (10 gp): Advice on memory-related issues
-- **Identity Anchoring** (15 gp): Temporary protection against memory confusion
-
-#### Premium Services
-
-- **Private Exhibitions** (200 gp): Exclusive viewing of rare or restricted memories
-- **Memory Therapy** (100-500 gp): Professional treatment using therapeutic memories
-- **Custom Experiences** (300-1000 gp): Personalized memory installations
-- **Memory Authentication** (50 gp): Verify the authenticity of personal memories
-
-#### Exclusive Services
-
-- **Memory Extraction** (100-1000 gp): Professional removal of unwanted memories
-- **Memory Implantation** (500-2000 gp): Install new memories or skills
-- **Consciousness Backup** (5000 gp): Create a copy of your entire memory set
-- **Deep Archive Access** (1000 gp + special permit): View restricted historical memories
-
-## Environmental Hazards & Challenges
-
 ### Memory Bleed
 
 Prolonged exposure to multiple memories can cause personal memories to become confused with exhibited ones.
@@ -308,8 +330,6 @@ Occasionally, hostile memory fragments attempt to attach to visitors.
 - **Symptoms**: Gradual personality changes, false memories, compulsions
 - **Treatment**: Specialized exorcism requiring Remove Curse or similar
 
-## Hidden Secrets & Areas
-
 ### The Black Collection
 
 Behind a secret panel in [[12_Research/D&D_Statblocks/Keeper Elara Mindwell]]'s office lies access to the gallery's most dangerous memories:
@@ -347,8 +367,6 @@ Deep beneath the main gallery, a spherical chamber where the memories of willing
 - Potential creation of hostile collective entities
 - Unknown long-term effects on contributors
 - Possible connection to otherworldly consciousness networks
-
-## Adventure Hooks
 
 ### The Stolen Childhood (Levels 3-5)
 
@@ -400,22 +418,6 @@ The gallery's Collective Consciousness Chamber has begun spontaneously creating 
 - Exploration of multiverse concepts and timeline mechanics
 - Potential cooperation or conflict with entities from other realities
 
-## Connected Locations & Plot Threads
-
-### Direct Connections
-
-- **[[12_Research/D&D_Statblocks/The Deepmind]]**: May be secretly influencing or drawing from the gallery's archives
-- **[[02_Worldbuilding/Groups/The Memory Merchants Guild|02 Worldbuilding/Groups/The Memory Merchants Guild]]**: Primary patrons and oversight organization
-- **[[The Phosphor Markets]]**: Memories are traded here as commodities
-- **[[Parliament of Echoes]]**: Politicians may use the gallery to manipulate public memory
-
-### Indirect Connections
-
-- **[[12_Research/D&D_Statblocks/Scholar Vivienne the Chronicler]]**: Potential researcher or consultant
-- **[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Competing repository of knowledge and memories
-- **[[Abyssos Prime]]**: Many visitors and donors come from the capital
-- **[[Memory Meadows]]**: Natural memory phenomenon that may supply raw materials
-
 ### Regional Impact
 
 The Amnesia Gallery serves as a cultural and research hub for memory-related activities throughout [[Aquabyssos]]. Its influence extends into:
@@ -429,10 +431,6 @@ The Amnesia Gallery serves as a cultural and research hub for memory-related act
 *"In the depths of forgetting, we sometimes find who we truly are."*  
 — Keeper Elara Mindwell, Gallery Director
 
-## Connections
-
-- [[Aquabyssos - Session 02 - The Parliament's Paradox]]
-
 ## Player-Facing Summary
 
 Amnesia Gallery is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -441,10 +439,6 @@ Amnesia Gallery is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Amnesia Gallery as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Amnesia Gallery.
 
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -452,49 +446,9 @@ Legends speak of Amnesia Gallery as a nexus where past and present converge. Loc
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Amnesia Gallery]]
-
-<!-- enriched: true -->
-- [[12_Research/D&D_Statblocks/Scholar Vivienne the Chronicler]]
-- [[Abyssos Prime]]
-- [[12_Research/D&D_Statblocks/Keeper Elara Mindwell]]
-- [[Parliament of Echoes]]
-- [[12_Research/D&D_Statblocks/The Deepmind]]
-- [[The Phosphor Markets]]
-- [[The Sunken Library of Thalassius]]
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-- [[02_Worldbuilding/Groups/Government_and_Parliament/Parliament of Echoes]]
-
-
-## Notable Residents
-
-- [[Quest - Syndicate Shadows]]
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-wandering-prophet-coral-stormrider-v1-wandering-prophet-coral-stormrider.svg]]
-- [[Chancellor Octavius]]
-- [[04_Resources_Assets_Locations_location-city-chronos-tidekeep-v1-chronos-tidekeep.svg]]
-
 
 ## Sensory Details
 
@@ -504,7 +458,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: The tang of salt air permeates everything
 
-
 ## Description
 
 Amnesia Gallery is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -512,47 +465,10 @@ Amnesia Gallery is a notable location characterized by its unique features and s
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Amnesia Gallery
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
-
-## History
+**Goverce**: Local authority structure
 
 ### Founding
 Amnesia Gallery was established in the distant past, growing from humble beginnings to its current state.
-
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
-
 
 ## Current Events
 
@@ -565,15 +481,85 @@ Ongoing situations affecting Amnesia Gallery:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Amnesia Gallery
+## Prophecy Connection
 
-### Whispered Rumors
-- Stories that may or may not be true
+Mentioned in The Hidden Prophecy of Winds
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+
+## Trade Importance
+
+Key stop on spices trade route
+
+
+## Plot Hooks
+
+- Someone is hunting a witness for revenge
+- Someone is blackmailing information for revenge
+- A shipment has gone missing and war looms
+
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
+
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

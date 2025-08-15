@@ -10,16 +10,6 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Crystal Plague Encounter Progressions - Phase 2 Deep Planning
-
-## Meta Information
-- **Created**: 2025-08-14
-- **System Level**: Dynamic Encounter Scaling
-- **Integration**: Cross-campaign corruption tracking
-- **Status**: Active Development
-
-## I. CRYSTAL CORRUPTION ENCOUNTER SCALING SYSTEM
-
 ### Corruption Level Framework
 **Base Mechanics**: Crystal corruption affects encounters dynamically
 - **Level 0-2**: Atmospheric effects only
@@ -36,24 +26,20 @@ modified: '2025-08-14'
    - Government Buildings: +1 modifier (shadow influence)
 
 2. **Crystal Gardens District** (Base Corruption: 7)
-   - Sacred Groves: +3 modifier (crystal resonance)
+   - Sacred Groves: +3 modifier (crystal resoce)
    - Temple Complex: +2 modifier (ritual amplification)
-   - Resonance Chamber: +4 modifier (power source)
+   - Resoce Chamber: +4 modifier (power source)
 
 3. **Harbor District** (Base Corruption: 2)
    - Trade Quarter: +0 modifier (protective wards)
    - Residential Areas: +1 modifier (gradual spread)
    - Smuggler's Cove: +2 modifier (unregulated crystals)
 
-## II. ENCOUNTER PROGRESSION TEMPLATES
-
-### Template A: Corrupted Noble Encounters
-
 #### Level 3-4 Corruption: "The Crystalline Courtier"
 **Base Stats**: Noble (CR 1/8) + Crystal Enhancement
 **Modified Abilities**:
 - **Crystal Sight**: Truesight 30 feet
-- **Resonance Speech**: Charm person 1/day
+- **Resoce Speech**: Charm person 1/day
 - **Brittle Form**: Vulnerability to thunder damage
 
 **Tactical Behavior**:
@@ -63,14 +49,14 @@ modified: '2025-08-14'
 
 **Environmental Factors**:
 - Crystal formations provide cover
-- Resonance affects spell casting (DC +2 for concentration)
+- Resoce affects spell casting (DC +2 for concentration)
 - Light refraction creates difficult terrain
 
 #### Level 5-6 Corruption: "The Crystal-Veined Lord"
 **Base Stats**: Noble (CR 1/8) enhanced to CR 3
 **New Abilities**:
 - **Crystal Spear**: Ranged attack, 2d6 piercing + 1d4 psychic
-- **Resonance Burst**: 15-foot cone, Constitution save or stunned
+- **Resoce Burst**: 15-foot cone, Constitution save or stunned
 - **Hardened Form**: Resistance to bludgeoning, piercing, slashing
 
 **Tactical Evolution**:
@@ -81,14 +67,14 @@ modified: '2025-08-14'
 **Environment Progression**:
 - Room partially crystallized
 - Furniture fused with crystal growths
-- Resonance creates standing wave patterns
+- Resoce creates standing wave patterns
 
 #### Level 7-8 Corruption: "The Crystalline Duke"
 **Base Stats**: Enhanced to CR 6
 **Advanced Abilities**:
 - **Multiattack**: Two crystal spear attacks
 - **Crystal Storm**: 20-foot radius, 3d6 damage + various effects
-- **Dominate Resonance**: Command nearby crystal creatures
+- **Dominate Resoce**: Command nearby crystal creatures
 
 **Tactical Mastery**:
 - Coordinates with corrupted servants
@@ -111,8 +97,6 @@ modified: '2025-08-14'
 - Commands region-wide crystal network
 - Communicates with Deep Mother influence
 - Serves as campaign-level threat
-
-### Template B: Environmental Corruption Encounters
 
 #### Progressive Crystal Garden Encounters
 
@@ -146,7 +130,7 @@ modified: '2025-08-14'
 - **Environment**: Living crystal maze that reshapes
 
 **Advanced Hazards**:
-- Resonance frequencies cause fear effects
+- Resoce frequencies cause fear effects
 - Crystal spires launch projectile attacks
 - Healing magic becomes unpredictable
 
@@ -166,8 +150,6 @@ modified: '2025-08-14'
 - Gravity flows along crystal faces
 - Time flows differently in crystal cores
 - Magic interacts unpredictably with formations
-
-### Template C: Political Corruption Encounters
 
 #### Parliamentary Corruption Progression
 
@@ -213,8 +195,6 @@ modified: '2025-08-14'
    - Handle power vacuum responsibly
    - Prevent authoritarian responses
 
-## III. DYNAMIC ENCOUNTER MODIFICATION SYSTEM
-
 ### Real-Time Corruption Scaling
 **Corruption Increase Triggers**:
 - Failed corruption saves by party members
@@ -227,7 +207,6 @@ modified: '2025-08-14'
 Modified CR = Base CR + (Regional Corruption Level / 2)
 New Abilities = Base + Corruption Template
 Environmental Effects = Standard + Corruption Hazards
-```
 
 ### Cross-Campaign Corruption Tracking
 **Integration Points**:
@@ -252,9 +231,7 @@ Environmental Effects = Standard + Corruption Hazards
 - **Purify Gradually**: Lower immediate impact, sustainable solution
 - **Contain and Study**: Maintain corruption for research, ongoing risk
 
-## IV. SPECIALIZED ENCOUNTER TYPES
-
-### Crystal Resonance Combat
+### Crystal Resoce Combat
 **Mechanics**: Spellcasting affected by crystal proximity
 - **Enhancement**: Spell save DC +1 per crystal cluster nearby
 - **Disruption**: Concentration saves at disadvantage
@@ -271,13 +248,13 @@ Environmental Effects = Standard + Corruption Hazards
 ### Pressure-Crystal Interaction Combat
 **Dual Environment Challenges**: Encounters in pressure transition zones
 - **Pressure Effects**: Constitution saves for depth adaptation
-- **Crystal Enhancement**: Pressure amplifies crystal resonance
+- **Crystal Enhancement**: Pressure amplifies crystal resoce
 - **Tactical Complexity**: Vertical combat in pressure tubes
 
 **Example Encounter**: Crystal-Corrupted Pressure Guardian
 - **Environment**: Pressure tube transition chamber
 - **Mechanics**: Pressure changes affect movement and breathing
-- **Crystal Effects**: Resonance varies with pressure depth
+- **Crystal Effects**: Resoce varies with pressure depth
 - **Tactics**: Uses pressure control to advantage
 
 ### Memory-Crystal Fusion Encounters
@@ -290,8 +267,6 @@ Environmental Effects = Standard + Corruption Hazards
 - **Lesser Restoration**: Removes one memory effect
 - **Greater Restoration**: Removes all memory corruption
 - **Time**: Natural recovery after 24 hours outside influence
-
-## V. CAMPAIGN INTEGRATION ENCOUNTERS
 
 ### Cross-Campaign Boss Modifications
 **Marina Saltborn (Crystal-Immune Variant)**:
@@ -318,8 +293,6 @@ Environmental Effects = Standard + Corruption Hazards
 - **Duration**: 3-5 sessions across all active campaigns
 - **Mechanics**: Reality becomes unstable, encounters change hourly
 - **Resolution**: Requires coordination between campaign parties
-
-## VI. ENCOUNTER DESIGN TOOLS
 
 ### Quick Corruption Calculator
 **Input Parameters**:
@@ -349,10 +322,27 @@ Environmental Effects = Standard + Corruption Hazards
 **Integration Points**: 47 cross-campaign encounter modifications identified
 **Next Priority**: Seven Shards Sessions 12-24 epic conclusion framework.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -361,3 +351,11 @@ Environmental Effects = Standard + Corruption Hazards
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

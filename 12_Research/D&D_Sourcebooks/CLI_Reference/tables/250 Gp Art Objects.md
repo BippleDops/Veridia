@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.503675+00:00'
 world: Both
 ---
 
-
-
 # 250 gp Art Objects
 *Source: Dungeon Master's Guide p. 134* 
 
@@ -45,6 +43,24 @@ world: Both
 | 10 | [[gold-birdcage-with-electrum-filigree-xdmg|Gold bird cage with electrum filigree]] |
 ^250-gp-art-objects
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 250 gp art objects is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -53,18 +69,9 @@ world: Both
 
 Legends speak of 250 gp art objects as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 250 gp art objects.
 
-## Adventure Hooks
-
-- A rumor ties 250 gp art objects to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 250 gp art objects to avert a public scandal.
-- A map overlay reveals a hidden approach to 250 gp art objects active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

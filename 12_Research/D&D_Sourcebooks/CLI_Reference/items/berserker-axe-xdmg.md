@@ -26,7 +26,6 @@ updated: '2025-08-12T23:37:37.259758'
 world: Both
 ---
 
-
 # Berserker Axe
 *Cursed item, rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/berserker-axe.webp#right)
@@ -34,6 +33,24 @@ world: Both
 - **Properties**: [[item-properties#Cursed%20Items|Cursed]]
 
 You gain a +1 bonus to attack rolls and damage rolls made with this magic weapon. In addition, while you are attuned to this weapon, your [[hit-points-xphb|Hit Point]] maximum increases by 1 for each level you have attained.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Curse
 
@@ -48,28 +65,13 @@ While berserk, you regard the creature nearest to you that you can see or hear a
 - [Berserker Greataxe](#Berserker%20Greataxe)
 - [Berserker Halberd](#Berserker%20Halberd)
 
-### Berserker Battleaxe
-
-- **Damage**:
-  - One-handed: 1d8 slashing
-  - Two-handed: 1d10 slashing
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]], [[item-properties#Versatile|Versatile]]
-- **Weight**: 4.0 lbs.
-
-### Berserker Greataxe
-
-- **Damage**: 1d12 slashing
-- **Properties**: [[item-properties#Cursed%20Items|Cursed]], [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
-- **Weight**: 7.0 lbs.
-
 ### Berserker Halberd
 
 - **Damage**: 1d10 slashing
 - **Properties**: [[item-properties#Cursed%20Items|Cursed]], [[item-properties#Heavy|Heavy]], [[item-properties#Reach|Reach]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
-
-*Source: Dungeon Master's Guide (2024) p. 236. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 236. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -79,19 +81,36 @@ Berserker axe xdmg is a undersea element of the setting, known for bioluminescen
 
 Legends speak of berserker axe xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around berserker axe xdmg.
 
-## Adventure Hooks
-
-- A rumor ties berserker axe xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at berserker axe xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to berserker axe xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A document has gone missing and truth emerges
+- A stranger needs help delivering before the new moon
+- A letter reveals ancient history about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

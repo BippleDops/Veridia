@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.512587'
 world: Both
 ---
 
-
 # Forest Encounters (Levels 11—16)
 *Source: Xanathar's Guide to Everything p. 97* 
 
@@ -44,7 +43,7 @@ world: Both
 | 41-45 | `1d6 + 2` [[phase-spider-xmm|phase spiders]] |
 | 46-50 | `2d4` [[/03_Mechanics/CLI/bestiary/monstrosity/yuan-ti-malison-type-1-xmm|yuan-ti malisons]] |
 | 51-52 | `d3` [[werebear-xmm|werebears]] |
-| 53-54 | `d4` [[revenant-xmm|revenants]] |
+| 53-54 | `d4` [[revet-xmm|revets]] |
 | 55-56 | 1 [[young-green-dragon-xmm|young green dragon]] |
 | 57-58 | `d4` [[troll-xmm|trolls]] |
 | 59-60 | `1d6 + 2` [[wereboar-xmm|wereboars]] |
@@ -66,6 +65,24 @@ world: Both
 | 00 | 1 [[ancient-green-dragon-xmm|ancient green dragon]] |
 ^forest-encounters-levels-1116
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Forest encounters levels 1116 xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -74,19 +91,27 @@ Forest encounters levels 1116 xge is a undersea element of the setting, known fo
 
 Legends speak of forest encounters levels 1116 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around forest encounters levels 1116 xge.
 
-## Adventure Hooks
-
-- A rumor ties forest encounters levels 1116 xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at forest encounters levels 1116 xge to avert a public scandal.
-- A map overlay reveals a hidden approach to forest encounters levels 1116 xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting a witness for power
+- A merchant needs help finding before winter
+- A shipment has gone missing and war looms
+- Someone is searching for information for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

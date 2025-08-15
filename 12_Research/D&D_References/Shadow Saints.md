@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Deep Mother]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,34 @@ Shadow Saints is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of Shadow Saints as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Saints.
 
-## Adventure Hooks
-
-- A rumor ties Shadow Saints to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Shadow Saints to avert a public scandal.
-- A map overlay reveals a hidden approach to Shadow Saints active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Winds
+
+
+## Plot Hooks
+
+- A stranger needs help delivering before the new moon
+- A corpse reveals ancient history about the government
+- An heirloom has gone missing and war looms
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

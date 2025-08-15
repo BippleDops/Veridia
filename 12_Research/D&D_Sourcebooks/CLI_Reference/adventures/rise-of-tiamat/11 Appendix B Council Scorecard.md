@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.980819+00:00'
 world: Both
 ---
 
-
-
 # Appendix B: Council Scorecard
 *Source: Rise of Tiamat, p. 177* 
 
@@ -33,9 +31,27 @@ This scorecard helps track various factions' support for the struggle against th
 
 A printable scorecard is available at DungeonsandDragons.com (http://media.wizards.com/2014/downloads/dnd/risetiamat_councilscorecard.pdf).
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## First Council (Hoard of the Dragon Queen)
 
-| Harpers | Order of the Gauntlet | Emerald Enclave | Lady Laeral Silverhand | Dagult Neverember | Connerad Brawnanvil | King Melandrach | Ulder Ravengard | Taern Hornblade | Sir Isteval | Event |
+| Harpers | Order of the Gauntlet | Emerald Enclave | Lady Laeral Silverhand | Dagult Neverember | Connerad Brawvil | King Melandrach | Ulder Ravengard | Taern Hornblade | Sir Isteval | Event |
 |---------|-----------------------|-----------------|------------------------|-------------------|---------------------|-----------------|-----------------|-----------------|-------------|-------|
 | +/+ | +/+ | + | + | +/+ | + | + | +/+ | + | + | Kept possession of Skyreach Castle |
 | + | + | + | + | + | -/- | + | + | + | + | Skyreach Castle returned to giants |
@@ -47,34 +63,26 @@ A printable scorecard is available at DungeonsandDragons.com (http://media.wizar
 | + | + | + | + | + | + | + | + | + | + | Captured Rezmir |
 | — | + | + | + | + | + | + | + | + | + | Killed Rath Modar |
 | + | + | + | + | + | + | + | + | + | + | Captured Rath Modar |
-^harpers-order-of-the-gauntlet-emerald-enclave-lady-laeral-silverhand-dagult-neverember-connerad-brawnanvil-king-melandrach-ulder-ravengard-taern-hornblade-sir-isteval-event
+^harpers-order-of-the-gauntlet-emerald-enclave-lady-laeral-silverhand-dagult-neverember-connerad-brawvil-king-melandrach-ulder-ravengard-taern-hornblade-sir-isteval-event
 
 ## Second Council
 
-| Harpers | Order of the Gauntlet | Emerald Enclave | Lady Laeral Silverhand | Dagult Neverember | Connerad Brawnanvil | King Melandrach | Ulder Ravengard | Taern Hornblade | Sir Isteval | Event |
-|---------|-----------------------|-----------------|------------------------|-------------------|---------------------|-----------------|-----------------|-----------------|-------------|-------|
 | — | + | + | + | + | — | + | + | — | + | Killed [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]] |
 | + | + | — | + | + | + | + | + | + | + | Captured [[/03_Mechanics/CLI/bestiary/npc/varram-rot|Varram]] |
 | + | — | + | + | + |  | + | + | + | + | Arcane Brotherhood joins alliance |
 | + | + | + | + | + | +/+ | + | + | + | + | Arauthator killed or driven from lair |
-^harpers-order-of-the-gauntlet-emerald-enclave-lady-laeral-silverhand-dagult-neverember-connerad-brawnanvil-king-melandrach-ulder-ravengard-taern-hornblade-sir-isteval-event
 
 ## Third Council
 
-| Harpers | Order of the Gauntlet | Emerald Enclave | Lady Laeral Silverhand | Dagult Neverember | Connerad Brawnanvil | King Melandrach | Ulder Ravengard | Taern Hornblade | Sir Isteval | Event |
-|---------|-----------------------|-----------------|------------------------|-------------------|---------------------|-----------------|-----------------|-----------------|-------------|-------|
 | — | + | + | + | + | — | + | + | — | + | Killed [[/03_Mechanics/CLI/bestiary/npc/neronvain-rot|Neronvain]] |
 | + | + | — | + | + | + | + | + | + | + | Captured Neronvein |
 | + | + | + | + | + | +/+ | +/+ | + | + | + | Chuth killed or driven from lair |
 | + | +/+ | +/+ | + | + | +/+ | +/+ | + | + | + | Rallied metallic dragons |
 | — | — |  | — | — | -/- | -/- | — | — | + | Made concessions to metallic dragons |
 | + | + | + | + | + | + | + | + | + | + | Metallic dragons aid faction territory |
-^harpers-order-of-the-gauntlet-emerald-enclave-lady-laeral-silverhand-dagult-neverember-connerad-brawnanvil-king-melandrach-ulder-ravengard-taern-hornblade-sir-isteval-event
 
 ## Fourth Council
 
-| Harpers | Order of the Gauntlet | Emerald Enclave | Lady Laeral Silverhand | Dagult Neverember | Connerad Brawnanvil | King Melandrach | Ulder Ravengard | Taern Hornblade | Sir Isteval | Event |
-|---------|-----------------------|-----------------|------------------------|-------------------|---------------------|-----------------|-----------------|-----------------|-------------|-------|
 | + | + | + | + | + | + | + | + | + | + | Defeated cultists at Xonthal's Tower |
 | +/+ | + | + | + | + | + | + | + | + | + | Donated Xonthal's Tower to faction |
 | — | -/- | — | — | — | — | — | — | — | — | Sold Xonthal's Tower to Zhentarim |
@@ -82,14 +90,10 @@ A printable scorecard is available at DungeonsandDragons.com (http://media.wizar
 |  |  | — | — | — |  | — | — | — |  | No draconic aid gained at second council |
 | + | + | + | + | + | + | + | + | + |  | Supported by Isteval |
 | + | + | + |  | + | + | + | + | + | + | Supported by Laeral Silverhand |
-^harpers-order-of-the-gauntlet-emerald-enclave-lady-laeral-silverhand-dagult-neverember-connerad-brawnanvil-king-melandrach-ulder-ravengard-taern-hornblade-sir-isteval-event
 
 ## Final Tally
 
-| Harpers | Order of the Gauntlet | Emerald Enclave | Lady Laeral Silverhand | Dagult Neverember | Connerad Brawnanvil | King Melandrach | Ulder Ravengard | Taern Hornblade | Sir Isteval | Event |
-|---------|-----------------------|-----------------|------------------------|-------------------|---------------------|-----------------|-----------------|-----------------|-------------|-------|
 | 5 | 7 | 5 | 7 | 5 | 7 | 6 | 7 | 6 | 6 | Score Needed for Support |
-^harpers-order-of-the-gauntlet-emerald-enclave-lady-laeral-silverhand-dagult-neverember-connerad-brawnanvil-king-melandrach-ulder-ravengard-taern-hornblade-sir-isteval-event
 
 ## Player-Facing Summary
 
@@ -99,19 +103,29 @@ A printable scorecard is available at DungeonsandDragons.com (http://media.wizar
 
 Legends speak of 11 appendix b council scorecard as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 11 appendix b council scorecard.
 
-## Adventure Hooks
-
-- A rumor ties 11 appendix b council scorecard to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 11 appendix b council scorecard to avert a public scandal.
-- A map overlay reveals a hidden approach to 11 appendix b council scorecard active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting a witness for money
+- A merchant needs help stealing before dawn
+- An heirloom has gone missing and chaos spreads
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

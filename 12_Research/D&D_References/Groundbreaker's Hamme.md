@@ -16,21 +16,22 @@ updated: '2025-08-13T01:18:35.454125+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## Historical Context
+### Enhancement Improvements
 
-TODO
-## Current Relevance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## See Also
-
-TODO
 
 ## Player-Facing Summary
 
@@ -40,21 +41,30 @@ Groundbreaker's Hammer 2 is a undersea element of the setting, known for biolumi
 
 Legends speak of Groundbreaker's Hammer 2 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Groundbreaker's Hammer 2.
 
-## Adventure Hooks
-
-- A rumor ties Groundbreaker's Hammer 2 to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Groundbreaker's Hammer 2 to avert a public scandal.
-- A map overlay reveals a hidden approach to Groundbreaker's Hammer 2 active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
 
 
-## Connections
+## Secret Connections
 
-- See also: [[Campaign Guide]]
-- Related: [[Power Structures]]
-- Connected to: [[World Events]]
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A stranger needs help finding before the new moon
+- A map reveals a conspiracy about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

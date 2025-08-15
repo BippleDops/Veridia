@@ -1,4 +1,5 @@
 ---
+
 title: The Slave Markets of Tethys
 type: Location
 tags:
@@ -18,6 +19,8 @@ population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.962765+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -25,55 +28,72 @@ world: Both
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-slave-markets-of-tethys-the-slave-markets-of-tethys.svg]]
 
-
 # The Slave Markets of Tethys
 *Where Human Lives Become Currency*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+
 ## Overview
 The Slave Markets of Tethys serve as the primary hub for human trafficking operations controlled by [[The Crimson Fleet]], supplying forced labor to [[The Iron Pits of Malachar]], [[The Crimson Foundries]], and [[The Bone Colosseum]].
-
-## Key Connections
-- **[[The Crimson Fleet]]** - Primary operators and slave raiders
-- **[[Captain Marrow Drinker]]** - Ultimate authority over operations
-- **[[The Iron Pits of Malachar]]** - Major destination for mining slaves
-- **[[The Bone Colosseum]]** - Supplies gladiators and fighters
-- **[[The Kraken's Harbor]]** - Staging point for slave raids
-- **[[Enforcer Chief Mako Ironjaw]]** - Oversees slave transportation
-- **[[The Leviathan Cult|02 Worldbuilding/Groups/The Leviathan Cult]]** - Provides "volunteers" for conversion
-- **[[Nereidios]]** - Target for fishing community raids
-- **[[Admiral Cassandra Stormwind]]** - Leading opposition forces
-- **[[Captain Lyanna Brightshield]]** - Investigating trafficking networks
-- **[[Independent Smugglers|02 Worldbuilding/Groups/Independent Smugglers]]** - Some oppose, others profit
-- **[[Crystal Wardens]]** - Moral opposition to slave trade operations
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -83,16 +103,6 @@ The Slave Markets of Tethys is a undersea element of the setting, known for biol
 
 Legends speak of The Slave Markets of Tethys as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Slave Markets of Tethys.
 
-## Adventure Hooks
-
-- A rumor ties The Slave Markets of Tethys to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Slave Markets of Tethys to avert a public scandal.
-- A map overlay reveals a hidden approach to The Slave Markets of Tethys active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -100,42 +110,9 @@ Legends speak of The Slave Markets of Tethys as a nexus where past and present c
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[The Slave Markets of Tethys]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Crystal Wardens]]
-
-
-## Notable Residents
-
-- [[04_Resources_Assets_Locations_location-city-commander-drake-pressureborn-commander-drake-pressureborn.svg]]
-
-## Trade Routes
-
-- [[Memory Farmers]]
-- [[Registrar Cornelius Scrollkeeper]]
-- [[04_Resources_Assets_Locations_location-city-the-lighthouse-keeper-s-ghost-the-lighthouse-keeper-s-ghost.png]]
-
 
 ## Sensory Details
 
@@ -145,7 +122,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: Incense mingles with the scent of exotic spices
 
-
 ## Description
 
 The Slave Markets of Tethys is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -153,35 +129,7 @@ The Slave Markets of Tethys is a notable location characterized by its unique fe
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of The Slave Markets of Tethys
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -194,15 +142,32 @@ Ongoing situations affecting The Slave Markets of Tethys:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about The Slave Markets of Tethys
+## Trade Importance
 
-### Whispered Rumors
-- Stories that may or may not be true
+Key stop on magic items trade route
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- A merchant needs help delivering before dawn
+- A noble needs help delivering before the festival
+- A merchant needs help investigating before winter
+
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established

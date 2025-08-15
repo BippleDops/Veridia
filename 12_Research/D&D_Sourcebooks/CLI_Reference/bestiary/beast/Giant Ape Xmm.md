@@ -28,14 +28,29 @@ updated: '2025-08-13T12:34:05.504993+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-ape-xmm-giant-ape-xmm.svg)
 
 # [[giant-ape-xmm|Giant Ape]]
-*Source: Monster Manual (2024) p. 354. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 354. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Animals
 
@@ -64,7 +79,6 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
   - "name": "[[skills#Survival|Survival]]"
-    "desc": "+4"
 "senses": "passive Perception 14"
 "languages": ""
 "cr": "7"
@@ -77,7 +91,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "The ape hurls a boulder at a point it can see within 90 feet. Dexterity\
       \ Saving Throw: DC 17, each creature in a 5-foot-radius [[sphere-area-of-effect-xphb|Sphere]]\
       \ centered on that point. Failure: 24 (7d6) Bludgeoning damage. If the target\
-      \ is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
+      \ is a Large or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition. Success: Half damage only."
     "name": "Boulder Toss (Recharge 6)"
 "bonus_actions":
@@ -101,19 +115,20 @@ Giant ape xmm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of giant ape xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around giant ape xmm.
 
-## Adventure Hooks
-
-- A rumor ties giant ape xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at giant ape xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to giant ape xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

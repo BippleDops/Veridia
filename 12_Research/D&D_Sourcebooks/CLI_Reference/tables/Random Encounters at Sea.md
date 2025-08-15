@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.361194+00:00'
 world: Both
 ---
 
-
-
 # Random Encounters at Sea
 *Source: Dungeon Master's Guide p. 118* 
 
@@ -48,6 +46,24 @@ world: Both
 | 20 | Sea monster (such as a [[dragon-turtle-xmm|dragon turtle]] or [[kraken-xmm|kraken]]) |
 ^random-encounters-at-sea
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Random encounters at sea is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -56,19 +72,31 @@ Random encounters at sea is a undersea element of the setting, known for biolumi
 
 Legends speak of random encounters at sea as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random encounters at sea.
 
-## Adventure Hooks
-
-- A rumor ties random encounters at sea to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at random encounters at sea to avert a public scandal.
-- A map overlay reveals a hidden approach to random encounters at sea active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- A noble needs help delivering before the new moon
+- The authorities needs help investigating before winter
+- A corpse reveals a conspiracy about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

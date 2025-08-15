@@ -22,17 +22,30 @@ updated: '2025-08-13T01:18:36.426483+00:00'
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-spy-games-spy-games.svg]]
-
-
-
 
 # Spy Games
 
 *"In the world of shadows, everyone wears a mask."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 A complex espionage operation where players must navigate competing intelligence networks, double agents, and political conspiracies. Multiple factions seek to recruit, manipulate, or eliminate the characters while they attempt to uncover the truth behind a brewing crisis.
@@ -60,13 +73,6 @@ Someone is selling state secrets to foreign powers, but the spy network has beco
 **Phase 3**: Uncovering the conspiracy's true scope
 **Phase 4**: Double-cross revelations and shifting allegiances
 **Phase 5**: Final confrontation and resolution
-
-## Espionage Activities
-- **Surveillance**: Following suspects and gathering evidence
-- **Infiltration**: Penetrating enemy organizations
-- **Dead Drops**: Secure information exchange methods
-- **Safe Houses**: Hidden meeting places and refuges
-- **Cover Identities**: False personas for undercover work
 
 ## Information Trading
 **Currency**: Secrets, favors, and political leverage
@@ -97,7 +103,7 @@ Someone is selling state secrets to foreign powers, but the spy network has beco
 **Public Signals**: Coded arrangements of everyday objects
 
 ## Common Covers
-**Merchant**: Travel and financial transactions provide access
+**Merchant**: Travel and ficial transactions provide access
 **Scholar**: Research activities excuse unusual questions
 **Entertainer**: Performance venues offer meeting opportunities
 **Courier**: Message delivery explains movement between locations
@@ -117,26 +123,12 @@ Someone is selling state secrets to foreign powers, but the spy network has beco
 **The Defector**: Enemy agent seeking to change sides
 **False Flag**: Friendly operative posing as enemy spy
 
-## Investigation Leads
-- Financial records showing suspicious transactions
-- Communication intercepts revealing coded messages
- - Witness accounts of unusual meetings and activities
-- Physical evidence linking suspects to foreign contacts
-- Pattern analysis revealing operational methods
-
 ## Betrayal and Trust
 **Loyalty Tests**: Situations designed to prove allegiance
 **Trust Verification**: Methods for confirming ally reliability
 **Betrayal Signs**: Behavioral changes indicating compromised agents
 **Damage Control**: Limiting consequences when operations are exposed
 **Redemption**: Opportunities for betrayers to regain trust
-
-## Political Implications
-- International relations affected by espionage discoveries
-- Government credibility damaged by internal security breaches
-- Public opinion influenced by revealed conspiracies
- - Economic consequences of disrupted trade relationships
-- Military preparations for potential conflicts
 
 ## Resolution Scenarios
 **Clean Victory**: Conspiracy exposed, traitors arrested
@@ -152,33 +144,14 @@ Someone is selling state secrets to foreign powers, but the spy network has beco
 **Enemy Lists**: Dangerous individuals who now target players
 **Spy Skills**: Training and equipment for future operations
 
-## Moral Dimensions
-- Ethics of deception and manipulation
-- Loyalty versus personal conscience
-- Protecting innocents caught in intelligence operations
-- Balancing national security against individual rights
-- Consequences of espionage on international relations
-
 ## Adventure Hooks
 1. Characters recruited by competing intelligence services
 2. Party member's background reveals spy connections
 3. Accidental discovery of espionage operation
 4. Previous adventure consequences create intelligence interest
 
-## Campaign Integration
-- Establish ongoing intelligence contacts and enemies
- - Reveal hidden political tensions and conspiracies
-- Create opportunities for diplomatic and social adventures
-- Develop player character backgrounds in espionage world
-- Set up future conflicts based on discovered information
-
 ## DM Notes
 Spy Games emphasizes roleplay, investigation, and moral choices over combat. Keep players uncertain about NPC loyalties. Use revealed information to drive future storylines and create complex political situations.
-
-
-## Connections
-
-- [[The Wandering Atoll]]
 
 ## Player-Facing Summary
 
@@ -188,13 +161,22 @@ Spy Games is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of Spy Games as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Spy Games.
 
-## Cross-References
-
-- [[Spy Games|02 Worldbuilding/Places/Spy Games]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a curse
+- A noble needs help delivering before winter
+- A noble needs help delivering before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

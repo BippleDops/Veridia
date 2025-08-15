@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.194851+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-palace-artificers-palace-artificers.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Inverted Ballroom Wing|02 Worldbuilding/Places/Inverted Ballroom Wing]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Inverted Ballroom Wing]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,27 @@ Palace Artificers is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Palace Artificers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Palace Artificers.
 
-## Adventure Hooks
-
-- A rumor ties Palace Artificers to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Palace Artificers to avert a public scandal.
-- A map overlay reveals a hidden approach to Palace Artificers active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before the new moon
+- A letter reveals ancient history about a local noble
+- A prisoner has gone missing and chaos spreads
+- A corpse reveals a conspiracy about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

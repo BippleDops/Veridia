@@ -22,14 +22,30 @@ updated: '2025-08-13T12:34:05.182316+00:00'
 world: Both
 ---
 
-
-
 # Creating a Multiverse
 *Source: Dungeon Master's Guide (2014), p. 43* 
 
 When Adventurers reach higher levels their path extends to other dimensions of reality: the planes of existence that form the multiverse. The characters might be called on to rescue a friend from the horrific depths of the Abyss or to sail the shining waters of the River Oceanus. They can hoist a tankard with the friendly giants of Ysgard or face the chaos of Limbo to contact a wizened githzerai sage.
 
 Planes of existence define the extremes of strange and often dangerous environments. The most bizarre locations present settings undreamed of in the natural world. Planar adventures offer unprecedented dangers and wonders. Adventurers walk on streets made of solid fire, or test their mettle on a battlefield where the fallen are resurrected with each dawn.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## The Planes
 
@@ -141,11 +157,8 @@ When adventurers travel to other planes of existence, they undertake a legendary
 ### Planar Portals
 
 > [!quote] A quote from Margaret Weis and Tracy Hickman  
-> 
 > [Raistlin's] eyes studied the Portal, studied every detail intently-although it was not really necessary. He had seen it myriad times in dreams both sleeping and waking. The spells to open it were simple, nothing elaborate or complex.
-> 
 > Each of the five dragon heads surrounding and guarding the Portal must be propitiated with the correct phrase. Each must be spoken to in the proper order. But, once that was done and the White Robed Cleric had exhorted Paladine to intercede and hold the Portal open, they would enter. It would close behind them.
-> 
 > And he would face his greatest challenge.
 
 "Portal" is a general term for a stationary interplanar connection that links a specific location on one plane to a specific location on another. Some portals function like doorways, appearing as a clear window or a fog-shrouded passage, and interplanar travel is as simple as stepping through the doorway. Other portals are locations-circles of standing stones, soaring towers, sailing ships, or even whole towns-that exist in multiple planes at once or flicker from one plane to another. Some are vortices, joining an Elemental Plane with a very similar location on the Material Plane, such as the heart of a volcano (leading to the Plane of Fire) or the depths of the ocean (to the Plane of Water).
@@ -169,11 +182,8 @@ Learning and meeting a portal's requirements can draw characters into further ad
 ### Spells
 
 > [!quote] A quote from Richard Baker  
-> 
 > Sarya raised her hands and began to declaim the words of a very powerful spell, one of the most dangerous she knew, a spell designed to breach the barriers between the planes and create a magical bridge into another realm of existence. The mythal thrummed in response, the intangible pulse of the old device taking on a new and different note. Sarya ignored the mythal stone's change and pressed on, finishing her gate spell with skill and confidence.
-> 
 > "The gate is open!" she cried. "Malkizid, come forth!"
-> 
 > Before Sarya a great ring or hoop of golden magic coalesced from the air. Through it she glimpsed the realm of Malkizid, an infernal wasteland of parched desert, windswept rifts, and black, angry skies torn by crimson lightning. Then, through the gate, the archdevil Malkizid appeared. With one smooth step he crossed from his infernal plane into the mythal chamber.
 
 A number of spells allow direct or indirect access to other planes of existence. *Plane shift* and *gate* can directly transport adventurers to any other plane, with different degrees of precision. Etherealness allows adventurers to enter the Ethereal Plane. And the *astral projection* spell lets adventurers project themselves into the Astral Plane and from there travel to the Outer Planes.
@@ -192,10 +202,7 @@ The [[gate-xphb|gate]] spell is powerful, but not infallible. A deity, demon lor
 
 ## Astral Plane
 
-> [!quote] A quote from Richard Baker  
-> 
 > Halisstra opened her eyes and found herself drifting in an endless silver sea. Soft gray clouds moved slowly in the distance, while strange dark streaks twisted violently through the sky, anchored in ends so distant she couldn't perceive them, their middle parts revolving angrily like pieces of string rolled between a child's fingertips. She glanced down, wondering what supported her, and saw nothing but more of the strange pearly sky beneath her feet and all around her.
-> 
 > She drew in a sudden breath, surprised by the sight, and felt her lungs fill with something sweeter and perhaps a little more solid than air, but instead of gagging or drowning on the stuff she seemed perfectly acclimated to it. An electric thrill raced through her limbs as she found herself mesmerized by the simple act of respiration.
 
 The Astral Plane is the realm of thought and dream, where visitors travel as disembodied souls to reach the Outer Planes. It is a great silvery sea, the same above and below, with swirling wisps of white and gray streaking among motes of light like distant stars. Most of the Astral Sea is a vast, empty expanse. Visitors occasionally stumble upon the petrified corpse of a dead god or other chunks of rock drifting forever in the silvery void. Much more commonplace are color pools—magical pools of colored light that flicker like radiant, spinning coins.
@@ -237,7 +244,6 @@ Planar travelers and refugees from other planes wander the expanses of the Astra
 ## Ethereal Plane
 
 > [!quote] A quote from Paul S. Kemp  
-> 
 > Tamlin felt a hand on him, felt his body shimmer into mist. The screams and shouts sounded far off. The walls around him appeared to be only gray shadows. Rivalen and Brennus stood beside him. "The ethereal plane," Rivalen said. "The dragon's breath cannot affect us here."
 
 The Ethereal Plane is a misty, fog-bound dimension. Its "shores," called the Border Ethereal, overlap the Material Plane and the Inner Planes, so that every location on those planes has a corresponding location on the Ethereal Plane. Visibility in the Border Ethereal is limited to 60 feet. The plane's depths comprise a region of swirling mist and fog called the Deep Ethereal, where visibility is limited to 30 feet.
@@ -279,7 +285,6 @@ In the Deep Ethereal, most encounters are with other travelers, particularly one
 ## Feywild
 
 > [!quote] A quote from James Wyatt  
-> 
 > Stepping into the portal was like settling into a warm bath, though the chill didn't fade from the air. At first everything muted-the roar of the river around the rocks below, the chirping of frogs and crickets on shore, the evening bustle of the town behind him....A moment later, the world erupted into vibrant life. Frogs and night birds sang a chorus; the air was awash with autumn scents; the moonlight painted the flowers in iridescent blue, silver, and violet; and the rushing of the river became a complex symphony.
 
 The Feywild, also called the Plane of Faerie, is a land of soft lights and wonder, a place of music and death. It is a realm of everlasting twilight, with glittering faerie lights bobbing in the gentle breeze and fat fireflies buzzing through groves and fields. The sky is alight with the faded colors of an ever-setting sun, which never truly sets (or rises for that matter); it remains stationary, dusky and low in the sky. Away from the settled areas ruled by the seelie fey that compose the Summer Court, the land is a tangle of sharp-toothed brambles and syrupy fens-perfect territory for the unseelie fey to hunt their prey.
@@ -289,11 +294,8 @@ The Feywild exists in parallel to the Material Plane, an alternate dimension tha
 The Feywild is inhabited by sylvan creatures, such as elves, dryads, satyrs, pixies, and sprites, as well as centaurs and magical creatures such as blink dogs, faerie dragons, treants, and unicorns. The darker regions of the plane are home to such malevolent creatures as hags, blights, goblins, ogres, and giants.
 
 > [!note] Seelie and Unseelie Fey
-> 
 > Two queens hold court in the Feywild, and most fey owe allegiance to one or the other. Queen Titania and her Summer Court lead the seelie fey, and the Queen of Air and Darkness, ruler of the Gloaming Court, leads the unseelie fey.
-> 
 > Seelie and unseelie do not directly correlate with good and evil, though many mortals make that equation. Many seelie fey are good, and many unseelie are evil, but their opposition to each other stems from their queens' jealous rivalry, not abstract moral concerns. Ugly denizens of the Feywild, such as fomorians and hags, are almost never members of either court, and fey of independent spirit reject the courts entirely.
-> 
 > The courts have warred at times, but they also compete in more-or-less friendly contests and even ally with one another in small and secret ways.
 ^seelie-and-unseelie-fey
 
@@ -321,8 +323,6 @@ Whenever a creature or group of creatures leaves the Feywild after spending at l
 
 ## Shadowfell
 
-> [!quote] A quote from Paul S. Kemp  
-> 
 > Riven stood in the uppermost room of the central tower of his citadel-a fortress of shadows and dark stone carved in relief into the sheer face of a jagged peak.... The starless black vault of the plane's sky hung over a landscape of gray and black, where lived the dark simulacra of actual things. Shadows and wraiths and specters and ghosts and other undead hung in the air around the citadel, or prowled the foothills and plains near it, so numerous their glowing eyes looked like swarms of fireflies. He felt the darkness in everything he could see, felt it as an extension of himself, and the feeling made him too big by half.
 
 The Shadowfell, also called the Plane of Shadow, is a dimension of black, gray, and white where most other color has been leached from everything. It is a place of darkness that hates the light, where the sky is a black vault with neither sun nor stars. The Shadowfell overlaps the Material Plane in much the same way as the Feywild. Aside from the colorless landscape, it appears similar to the Material Plane.
@@ -352,31 +352,26 @@ If a character is already suffering a despair effect and fails the saving throw,
 A [[calm-emotions-xphb|calm emotions]] spell removes despair, as does any spell or other magical effect that removes a curse.
 
 > [!note] Evernight
-> 
 > The city of Neverwinter in the world of the Forgotten Realms has a dark reflection on the Shadowfell: the city of Evernight. Evernight is a city of cracked stone edifices and homes of rotten wood. Its roads are made mostly of trampled grave dust, and its few cobbled streets are missing enough stones that they appear pockmarked. The sky is corpse gray, and the breeze blows cold and humid, bringing a chill to the skin.
-> 
 > The city's living residents include mad necromancers, corrupt purveyors of human flesh, worshipers of evil deities, and others who are able to make themselves useful and crazy enough to want to live here. But the living are a minority in Evernight, for the bulk of the population consists of the shambling dead. Zombies, wights, vampires, and other undead make the city their home, all under the watchful eyes of the ruling caste: intelligent, flesh-eating ghouls.
-> 
 > Rumors abound that this foul place mirrors one city on every world.
 ^evernight
 
 ## Inner Planes
 
 > [!quote] A quote from Thomas M. Reid  
-> 
 > He was lying on his back upon baked and smoldering stone, staring up at a smoky gray sky lit from distant and unseen fires. Around him, a sea of lava burped gouts of gas and jets of flame. The Elemental Plane of Fire.
-> 
 > Thank the fell ones, Vhok thought. I never thought I'd be so happy to be here.
 
 The Inner Planes surround and enfold the Material Plane and its echoes, providing the raw elemental substance from which all worlds were made. The four Elemental Planes-Air, Earth, Fire, and Water-form a ring around the Material Plane, suspended within a churning realm known as the Elemental Chaos. These planes are all connected, and the border regions between them are sometimes described as distinct planes in their own right.
 
-At their innermost edges, where they are closest to the Material Plane (in a conceptual if not a literal geographical sense), the four Elemental Planes resemble places in the Material Plane. The four elements mingle together as they do in the Material Plane, forming land, sea, and sky. But the dominant element exerts a strong influence on the environment, reflecting its fundamental qualities.
+At their innermost edges, where they are closest to the Material Plane (in a conceptual if not a literal geographical sense), the four Elemental Planes resemble places in the Material Plane. The four elements mingle together as they do in the Material Plane, forming land, sea, and sky. But the domit element exerts a strong influence on the environment, reflecting its fundamental qualities.
 
 The inhabitants of this inner ring include aarakocra, azers, dragon turtles, gargoyles, genies, mephits, salamanders, and xorn. Some originated on the Material Plane, and all can travel to the Material Plane (if they have access to the magic required) and survive there.
 
 As they extend farther from the Material Plane, the Elemental Planes become increasingly alien and hostile. Here, in the outermost regions, the elements exist in their purest form: great expanses of solid earth, blazing fire, crystal-clear water, and unsullied air. Any foreign substance is extremely rare; little air can be found in the outermost reaches of the Plane of Earth, and earth is all but impossible to find in the outermost reaches of the Plane of Fire. These areas are much less hospitable to travelers from the Material Plane than the border regions are. Such regions are little-known, so when discussing the Plane of Fire, for example, a speaker usually means the border region.
 
-The outermost regions are largely the domains of elemental spirits barely recognizable as creatures. The creatures usually called elementals dwell here, including the Elemental Princes of Evil (primordial beings of pure elemental fury) and elemental spirits that spellcasters can bind into galeb duhrs, golems, invisible stalkers, magmin, and water weirds. These elemental creatures don't need food or other sustenance on their home planes, because they are sustained by the elemental energies that saturate those planes.
+The outermost regions are largely the domains of elemental spirits barely recognizable as creatures. The creatures usually called elementals dwell here, including the Elemental Princes of Evil (primordial beings of pure elemental fury) and elemental spirits that spellcasters can bind into galeb duhrs, golems, invisible stalkers, magmin, and water weirds. These elemental creatures don't need food or other sustece on their home planes, because they are sustained by the elemental energies that saturate those planes.
 
 ### Elemental Chaos
 
@@ -386,7 +381,7 @@ At the farthest extents of the Elemental Planes, the pure elements dissolve and 
 
 The essential nature of air is movement, animation, and inspiration. Air is the breath of life, the winds of change, the fresh breeze that clears away the fog of ignorance and the stuffiness of old ideas.
 
-The Plane of Air is an open expanse with constant winds of varying strength. Here and there, chunks of earth drift in the openness-the remnants of failed invasions by denizens of the Plane of Earth. These earth motes serve as homes for the creatures of elemental air, and many motes are covered with lush vegetation. Other creatures live on cloud banks infused with enough magic to become solid surfaces, strong enough to support towns and castles.
+The Plane of Air is an open expanse with constant winds of varying strength. Here and there, chunks of earth drift in the openness-the remts of failed invasions by denizens of the Plane of Earth. These earth motes serve as homes for the creatures of elemental air, and many motes are covered with lush vegetation. Other creatures live on cloud banks infused with enough magic to become solid surfaces, strong enough to support towns and castles.
 
 Drifting cloud banks can obscure visibility in any direction in the plane. Storms are frequent, mostly on par with a strong thunderstorm but occasionally more like fierce tornadoes or mighty hurricanes. The air is mild, except near the Plane of Water (where it is biting cold) and the Plane of Fire (where it is searing hot). Rain and snow fall only in the part of the plane nearest to the Plane of Water.
 
@@ -412,7 +407,7 @@ The largest cavern beneath the mountains, called the Great Dismal Delve or the S
 
 The mountains nearest the Fountains of Creation (on the Plane of Fire) are called the **Furnaces**. Lava seeps through their caverns, and the air reeks of sulfur. The dao have great forges and smelting furnaces here to process their ores and shape their precious metals.
 
-The border region between the planes of Water and Earth is a horrid swamp where twisted, gnarled trees and thick, stinging vines grow from the dense muck and slime. Here and there within the **Swamp of Oblivion** (also called the Plane of Ooze), stagnant lakes and pools play host to thickets of weeds and monstrous swarms of mosquitoes. The few settlements here consist of wooden structures suspended above the muck. Most are built on platforms between trees, but a few stand on stilts driven deep into the muck. No solid earth underlies the mud of the swamp, so houses built on poles eventually sink down into it.
+The border region between the planes of Water and Earth is a horrid swamp where twisted, gnarled trees and thick, stinging vines grow from the dense muck and slime. Here and there within the **Swamp of Oblivion** (also called the Plane of Ooze), stagt lakes and pools play host to thickets of weeds and monstrous swarms of mosquitoes. The few settlements here consist of wooden structures suspended above the muck. Most are built on platforms between trees, but a few stand on stilts driven deep into the muck. No solid earth underlies the mud of the swamp, so houses built on poles eventually sink down into it.
 
 It is said that any object cast into the Swamp of Oblivion can't be found again for at least a century. Now and then, a desperate soul casts an artifact of power into this place, removing it from the multiverse for a time. The promise of powerful magic lures adventurers to brave the monstrous insects and hags of the swamp in search of these treasures.
 
@@ -428,7 +423,7 @@ The weather on the plane is marked by fierce winds and thick ash. Although the a
 
 The heat in the Plane of Fire is comparable to a hot desert on the Material Plane, and poses a similar threat to travelers (see "Extreme Heat" in chapter 5, "Adventure Environments"). The deeper one goes into the plane, the rarer water becomes. Beyond a point, the plane holds no sources of water, so travelers must carry their own supplies or produce water by magic.
 
-The Plane of Fire is dominated by the vast **Cinder Wastes**, a great expanse of black cinders and embers crossed by rivers of lava. Roving bands of salamanders battle each other, raid azer outposts, and avoid the efreet. Ancient ruins dot the desert-remnants of forgotten civilizations.
+The Plane of Fire is dominated by the vast **Cinder Wastes**, a great expanse of black cinders and embers crossed by rivers of lava. Roving bands of salamanders battle each other, raid azer outposts, and avoid the efreet. Ancient ruins dot the desert-remts of forgotten civilizations.
 
 A great range of volcanic mountains called the **Fountains of Creation** is home to azers. These rocky peaks curl from the edge of the Plane of Earth around the Cinder Wastes toward the fiery heart of the plane. At the edge of the plane, the mountains are also called the Plane of Magma. Fire giants and red dragons make their homes here, as well as creatures from the neighboring planes.
 
@@ -473,7 +468,6 @@ Its dangerous monsters and bitter cold make the Frostfell a dangerous place to t
 ## Outer Planes
 
 > [!quote] A quote from Ed Greenwood  
-> 
 > Streamers of noxious gas streaked that crimson dome like dirty clouds. They whirled to form what looked like giant eyes staring down, eyes that were swept away before they could focus, only to form anew, again and again. Beneath the ruby glow lay a dark nightmare land of bare rock and flumes of sparks and gouting flame, where things slithered and scrambled half-seen in the shadows. Mountains clawed the ruby sky. The Land of Teeth, Azuth had once aptly called it, surveying the endless jagged rocks. This was the Greeting Ground, the realm of horror that had claimed the lives of countless mortals. He was whirling along above Avernus, uppermost of the Nine Hells.
 
 If the Inner Planes are the raw matter and energy that makes up the multiverse, the Outer Planes provide the direction, thought, and purpose for its construction. Accordingly, many sages refer to the Outer Planes as divine planes, spiritual planes, or godly planes, for the Outer Planes are best known as the homes of deities.
@@ -488,7 +482,7 @@ The default Outer Planes are a group of sixteen planes that correspond to the ei
 
 ![[the-outer-planes|The Outer Planes]]
 
-The planes with an element of good in their nature are called the **Upper Planes**, while those with an element of evil are the **Lower Planes**. A plane's alignment is its essence, and a character whose alignment doesn't match the plane's alignment experiences a sense of dissonance there. When a good creature visits Elysium, for example, it feels in tune with the plane, but an evil creature feels out of tune and more than a little uncomfortable.
+The planes with an element of good in their nature are called the **Upper Planes**, while those with an element of evil are the **Lower Planes**. A plane's alignment is its essence, and a character whose alignment doesn't match the plane's alignment experiences a sense of dissoce there. When a good creature visits Elysium, for example, it feels in tune with the plane, but an evil creature feels out of tune and more than a little uncomfortable.
 
 The Upper Planes are the home of celestial creatures, including angels, couatls, and pegasi. The Lower Planes are the home of fiends: demons, devils, yugoloths, and their ilk. The planes in between host their own unique denizens: the construct race of modrons inhabit Mechanus, and the aberrations called slaadi thrive in Limbo.
 
@@ -522,9 +516,9 @@ Doors to the Infinite Staircase are often tucked away in dusty, half-forgotten p
 
 Each of the Outer Planes has peculiar characteristics that make traveling through it a unique experience. A plane's influence can affect visitors in various ways, such as causing them to take on personality traits or flaws that reflect the disposition of the plane, or even shift alignment to more closely match the native inhabitants of the plane. Each plane's description includes one or more optional rules that you can use to help make the adventurers' experiences on that plane memorable.
 
-#### Optional Rule: Psychic Dissonance
+#### Optional Rule: Psychic Dissoce
 
-Each of the Outer Planes emanates a psychic dissonance that affects visitors of an incompatible alignment-good creatures on the Lower Planes, evil ones on the Upper Planes-if they spend too much time on the plane. You can reflect this dissonance with this optional rule. At the end of a long rest spent on an incompatible plane, a visitor must make a DC 10 Constitution saving throw. On a failed save, the creature gains one level of [[conditions#Exhaustion|exhaustion]]. Incompatibility between lawful and chaotic alignments doesn't have the same effect, so Mechanus and Limbo lack this quality.
+Each of the Outer Planes emanates a psychic dissoce that affects visitors of an incompatible alignment-good creatures on the Lower Planes, evil ones on the Upper Planes-if they spend too much time on the plane. You can reflect this dissoce with this optional rule. At the end of a long rest spent on an incompatible plane, a visitor must make a DC 10 Constitution saving throw. On a failed save, the creature gains one level of [[conditions#Exhaustion|exhaustion]]. Incompatibility between lawful and chaotic alignments doesn't have the same effect, so Mechanus and Limbo lack this quality.
 
 ### Mount Celestia
 
@@ -532,7 +526,7 @@ The single sacred mountain of Mount Celestia rises from a shining Silver Sea to 
 
 #### Optional Rule: Blessed Beneficence
 
-In contrast to the dissonance experienced by evil creatures here, good creatures are literally blessed by the pervasive beneficence of the plane. Creatures of good alignment gain the benefit of the *bless* spell as long as they remain on the plane. In addition, finishing a long rest on the plane grants a good creature the benefit of a lesser restoration spell.
+In contrast to the dissoce experienced by evil creatures here, good creatures are literally blessed by the pervasive beneficence of the plane. Creatures of good alignment gain the benefit of the *bless* spell as long as they remain on the plane. In addition, finishing a long rest on the plane grants a good creature the benefit of a lesser restoration spell.
 
 ### Bytopia
 
@@ -862,20 +856,37 @@ On **Mystara** (a heroic-fantasy world born out of the earliest editions of the 
 
 Legends speak of 03 creating a multiverse as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 03 creating a multiverse.
 
-## Adventure Hooks
-
-- A rumor ties 03 creating a multiverse to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 03 creating a multiverse to avert a public scandal.
-- A map overlay reveals a hidden approach to 03 creating a multiverse active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals ancient history about a local noble
+- Someone is searching for a witness for money
+- Someone is blackmailing an heir for money
+- Someone is hunting information for love
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

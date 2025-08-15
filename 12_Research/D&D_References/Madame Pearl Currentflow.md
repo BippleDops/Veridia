@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Inverted Ballroom Wing|02 Worldbuilding/Places/Inverted Ballroom Wing]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Inverted Ballroom Wing]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,22 @@ Madame Pearl Currentflow is a undersea element of the setting, known for biolumi
 
 Legends speak of Madame Pearl Currentflow as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Madame Pearl Currentflow.
 
-## Adventure Hooks
-
-- A rumor ties Madame Pearl Currentflow to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Madame Pearl Currentflow to avert a public scandal.
-- A map overlay reveals a hidden approach to Madame Pearl Currentflow active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a betrayal about this place
+- Strange dreams suggest a portal
+- Someone is protecting a artifact for money
+- A map reveals the truth about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

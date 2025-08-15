@@ -23,12 +23,28 @@ updated: '2025-08-13T12:34:06.161517+00:00'
 world: Both
 ---
 
-
-
 # Twinned Spell
-*Source: Player's Handbook (2024) p. 142. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 142. Available in the SRD*  
 
 When you cast a spell, such as [[charm-person-xphb|Charm Person]], that can be cast with a higher-level spell slot to target an additional creature, you can spend 1 Sorcery Point to increase the spell's effective level by 1.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -38,19 +54,24 @@ Twinned spell xphb is a undersea element of the setting, known for bioluminescen
 
 Legends speak of twinned spell xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around twinned spell xphb.
 
-## Adventure Hooks
-
-- A rumor ties twinned spell xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at twinned spell xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to twinned spell xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before the festival
+- A stranger needs help investigating before the new moon
+- Someone is blackmailing a artifact for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

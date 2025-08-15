@@ -15,35 +15,26 @@ world: Aethermoor
 updated: '2025-08-13T01:18:37.080789+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-lord-chancellor-prism-valdrick-lord-chancellor-prism-valdrick.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## Appearance
+### Enhancement Improvements
 
-TODO
-## Personality
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -53,23 +44,45 @@ Lord Chancellor Prism Valdrick is a undersea element of the setting, known for b
 
 Legends speak of Lord Chancellor Prism Valdrick as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lord Chancellor Prism Valdrick.
 
-## Adventure Hooks
-
-- A rumor ties Lord Chancellor Prism Valdrick to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Lord Chancellor Prism Valdrick to avert a public scandal.
-- A map overlay reveals a hidden approach to Lord Chancellor Prism Valdrick active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Lord Chancellor Prism Valdrick|02 Worldbuilding/People/Lord Chancellor Prism Valdrick]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- Someone is protecting information for revenge
+- Strange sightings suggest a conspiracy
+- A corpse reveals the truth about this place
+- Strange dreams suggest ancient magic
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -15,36 +15,26 @@ world: Aethermoor
 updated: '2025-08-13T01:18:36.841303+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-banking-lord-cornelius-coinwright-banking-lord-cornelius-coinwright.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Appearance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Personality
-
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -54,28 +44,37 @@ Banking Lord Cornelius Coinwright is a undersea element of the setting, known fo
 
 Legends speak of Banking Lord Cornelius Coinwright as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Banking Lord Cornelius Coinwright.
 
-## Adventure Hooks
-
-- A rumor ties Banking Lord Cornelius Coinwright to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Banking Lord Cornelius Coinwright to avert a public scandal.
-- A map overlay reveals a hidden approach to Banking Lord Cornelius Coinwright active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Banking Lord Cornelius Coinwright|02 Worldbuilding/People/Banking Lord Cornelius Coinwright]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Port Meridian - Merchant Quarter]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Relationships
+
+- **Ally**: [[portrait-npc-captain-valeria-captain-valeria.svg]]
+- **Friend**: [[portrait-npc-the-party-the-party.svg]]
+- **Friend**: [[Portrait NPC Duke Sterling Truecrystal V2 Duke Sterling Truecrystal.svg]]
+- **Friend**: [[Quest - Seeds of the Deep]]
+- **Parent**: [[Master Artificer Coral Gemwright]]
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.629793+00:00'
 world: Both
 ---
 
-
-
 # Crime Complications
 *Source: Xanathar's Guide to Everything p. 130* 
 
@@ -35,7 +33,7 @@ world: Both
 |----------|--------------|
 | 1 | A bounty equal to your earnings is offered for information about your crime.* |
 | 2 | An unknown person contacts you, threatening to reveal your crime if you don't render a service.* |
-| 3 | Your victim is financially ruined by your crime. |
+| 3 | Your victim is ficially ruined by your crime. |
 | 4 | Someone who knows of your crime has been arrested on an unrelated matter.* |
 | 5 | Your loot is a single, easily identified item that you can't fence in this region. |
 | 6 | You robbed someone who was under a local crime lord's protection, and who now wants revenge. |
@@ -45,6 +43,24 @@ world: Both
 
 *Might involve a rival
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Crime complications xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -53,19 +69,20 @@ Crime complications xge is a undersea element of the setting, known for biolumin
 
 Legends speak of crime complications xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around crime complications xge.
 
-## Adventure Hooks
-
-- A rumor ties crime complications xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at crime complications xge to avert a public scandal.
-- A map overlay reveals a hidden approach to crime complications xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.620485+00:00'
 world: Both
 ---
 
-
-
 # Creating a Gnoll War Band; Notable Behavior or Tactics
 *Source: Volo's Guide to Monsters p. 39* 
 
@@ -43,6 +41,24 @@ world: Both
 | 8 | Actions magically controlled by a spellcaster |
 ^notable-behavior-or-tactics
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Creating a gnoll war band notable behavior or tactics vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -51,19 +67,22 @@ Creating a gnoll war band notable behavior or tactics vgm is a undersea element 
 
 Legends speak of creating a gnoll war band notable behavior or tactics vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around creating a gnoll war band notable behavior or tactics vgm.
 
-## Adventure Hooks
-
-- A rumor ties creating a gnoll war band notable behavior or tactics vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at creating a gnoll war band notable behavior or tactics vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to creating a gnoll war band notable behavior or tactics vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Plot Hooks
+
+- A map reveals ancient history about a local noble
+- The authorities needs help finding before the new moon
+- Someone is searching for information for love

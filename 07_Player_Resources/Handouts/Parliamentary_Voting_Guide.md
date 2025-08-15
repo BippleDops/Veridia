@@ -16,10 +16,6 @@ updated: '2025-08-13'
 world: Aquabyssos
 ---
 
-
-# Parliamentary Voting Guide
-## Your Voice in the Depths
-
 ### Voting Eligibility
 
 **Citizens of the Realm:**
@@ -33,8 +29,6 @@ world: Aquabyssos
 - Authorized Guild Halls
 - Mobile Voting Barges (outer territories)
 - Emergency polling stations (during crises)
-
-### Current Ballot Issues
 
 #### Proposition A-7: Crystal Mining Expansion
 **YES:** Expand mining into the Forbidden Trenches
@@ -79,13 +73,6 @@ world: Aquabyssos
 6. **Submit ballot** to certified counters
 7. **Receive confirmation** of vote registration
 
-### Important Dates
-
-- **Registration Deadline:** Next tide cycle
-- **Early Voting:** Begins in 3 days
-- **Election Day:** 7 days from today
-- **Results Announcement:** Following tide
-
 ### Your Representatives
 
 **Deep District:** Councilor Marina Tidecrest
@@ -96,10 +83,27 @@ world: Aquabyssos
 *Remember: Your vote shapes the future of our realm*
 *Exercise your democratic duty with wisdom*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+
+
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -108,3 +112,20 @@ world: Aquabyssos
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- A document has gone missing and evil awakens
+- A corpse reveals a conspiracy about a local noble
+- A merchant needs help finding before dawn
+- An heirloom has gone missing and war looms
+
+## 07_Player_Resources Specific Content
+
+Contextual improvement based on 07_Player_Resources

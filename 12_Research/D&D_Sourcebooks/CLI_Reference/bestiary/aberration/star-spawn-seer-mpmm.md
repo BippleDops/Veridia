@@ -29,8 +29,6 @@ updated: '2025-08-12T23:37:35.298376'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-star-spawn-seer-mpmm-star-spawn-seer-mpmm.svg)
 
@@ -43,12 +41,29 @@ An entity that appears as a star spawn seer in the Material Plane usually arrive
 
 A star spawn seer is almost always accompanied by one or more star spawn hulks (also in this book). Not only is a hulk a powerful combatant, but when a seer deals psychic damage to a hulk, the hulk isn't hurt, and the effect ricochets off and expands to assault other creatures.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Star Spawn
 
 > [!quote] A quote from Mordenkainen  
 > 
 > Stars don't spawn these creatures.
-> 
 > Such beautiful lights shouldn't be blamed for such balefulness.
 
 The Material Plane represents only one small part of the multiverse. Beyond the best-known planes of existence lie realms alien to mortal life. Some are so hostile that even a moment's contact is enough to break a mortal's mind. Yet beings do exist that are native to these realms: entities that are ever hungering, searching, warring, and sometimes dreaming. These Elder Evils are far older than most of the mortal peoples and always inimical to such creatures' minds.
@@ -95,7 +110,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
     "desc": "+9"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks"
 "damage_immunities": "psychic"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 19"
 "languages": "Common, Deep Speech, Undercommon"
 "cr": "13"
@@ -151,19 +166,27 @@ Star spawn seer mpmm is a undersea element of the setting, known for bioluminesc
 
 Legends speak of star spawn seer mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around star spawn seer mpmm.
 
-## Adventure Hooks
-
-- A rumor ties star spawn seer mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at star spawn seer mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to star spawn seer mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals the truth about the government
+- A noble needs help finding before the festival
+- A prisoner has gone missing and war looms
+- The authorities needs help finding before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

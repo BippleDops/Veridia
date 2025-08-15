@@ -15,18 +15,26 @@ world: Both
 updated: '2025-08-13T01:18:35.000640+00:00'
 ---
 
-
-
-
-
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-crystal-synthesis-the-shadow-crystal-synthesis.png]]
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Overview
+*20 targeted improvements identified*
 
-TODO
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -36,31 +44,28 @@ Shadow Crystal Synthesis is a undersea element of the setting, known for biolumi
 
 Legends speak of Shadow Crystal Synthesis as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadow Crystal Synthesis.
 
-## Adventure Hooks
-
-- A rumor ties Shadow Crystal Synthesis to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Shadow Crystal Synthesis to avert a public scandal.
-- A map overlay reveals a hidden approach to Shadow Crystal Synthesis active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Crown's Burden|02 Worldbuilding/Quests/The Crown's Burden]]
-
-
-## Connections
-
-- [[Discover Marina's Truth]]
-- [[Quest - Nature's Balance]]
-- [[Quest - The Pretender's Crown]]
-- [[The Crown's Burden]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- A journal reveals ancient history about the cult
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

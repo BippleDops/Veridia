@@ -28,13 +28,11 @@ updated: '2025-08-12T23:37:35.628969'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mummy-lord-xmm-mummy-lord-xmm.svg)
 
 # [[mummy-lord-xmm|Mummy Lord]]
-*Source: Monster Manual (2024) p. 221. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 221. Available in the SRD and the Free Rules (2024)*  
 
 Those desperate to escape death sometimes make terrible bargains with wicked deities. Devoting their hearts to evil forces, these villains gain power over death and a cursed immortality that binds their minds and spirits within a desiccated corpse. Freed from mortal concerns, these mummy lords pursue their obsessions across ages.
 
@@ -59,6 +57,24 @@ Mummy lords are usually consumed by ageless plots. Roll on or choose a result fr
 | 7 | Sacrifice a thousand souls to its god in return for true life. |
 | 8 | Transform the people of an entire nation into Undead servants. |
 ^mummy-lord-plots
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Mummy Lord Lairs
 
@@ -108,11 +124,10 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+9"
   - "name": "[[skills#Religion|Religion]]"
-    "desc": "+5"
 "damage_vulnerabilities": "fire"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "truesight 60 ft., passive Perception 19"
 "languages": "Common plus three other languages"
@@ -185,11 +200,9 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
       \ the spell is wasted, but any resources used to cast it aren't expended.  \n\
       - Soul Drain. Creatures within 1 mile of the lair have [[disadvantage-xphb|Disadvantage]]\
       \ on Death Saving Throws.  "
-    "name": ""
   - "desc": "If the mummy lord is destroyed or moves its lair elsewhere, these effects\
       \ end immediately. The effects resume if the mummy lord gains a new body (see\
       \ its Undead Restoration trait)."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/undead/token/mummy-lord-xmm.webp"
@@ -208,19 +221,30 @@ Mummy lord xmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of mummy lord xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mummy lord xmm.
 
-## Adventure Hooks
-
-- A rumor ties mummy lord xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at mummy lord xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to mummy lord xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

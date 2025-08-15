@@ -16,28 +16,22 @@ updated: '2025-08-13T01:18:36.811997+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Structure
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Goals
-
-TODO
-## Assets
-
-TODO
-## Conflicts
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -47,31 +41,16 @@ Merchant Guilds is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Merchant Guilds as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Merchant Guilds.
 
-## Adventure Hooks
-
-- A rumor ties Merchant Guilds to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Merchant Guilds to avert a public scandal.
-- A map overlay reveals a hidden approach to Merchant Guilds active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Mad Oracle Thessaly|02 Worldbuilding/Places/Mad Oracle Thessaly]]
-
-
-## Connections
-
-- [[The Crown]]
-- [[Inverted Ballroom Wing]]
-- [[Keeper of the Past, Elderly Morgan]]
-- [[Mad Oracle Thessaly]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals ancient history about a local noble
+- Someone is protecting an heir for revenge

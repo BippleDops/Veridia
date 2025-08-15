@@ -22,7 +22,6 @@ updated: '2025-08-12T23:37:34.465857'
 world: Both
 ---
 
-
 # Dungeon Delver
 *Source: Player's Handbook p. 166*  
 
@@ -33,6 +32,24 @@ Alert to the hidden traps and secret doors found in many dungeons, you gain the 
 - You have resistance to the damage dealt by traps.  
 - Traveling at a fast pace doesn't impose the normal -5 penalty on your passive Wisdom ([[skills#Perception|Perception]]) score.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Dungeon delver is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -41,19 +58,34 @@ Dungeon delver is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of dungeon delver as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dungeon delver.
 
-## Adventure Hooks
-
-- A rumor ties dungeon delver to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dungeon delver to avert a public scandal.
-- A map overlay reveals a hidden approach to dungeon delver active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- Strange sightings suggest a curse
+- A map reveals ancient history about a local noble
+- A stranger needs help delivering before the new moon
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

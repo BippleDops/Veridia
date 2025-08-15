@@ -1,4 +1,5 @@
 ---
+
 title: GM Improvement Tracker
 type: lore
 tags:
@@ -6,15 +7,83 @@ tags:
 - active
 created: '2025-08-14'
 modified: '2025-08-14'
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
-# GM_Improvement_Tracker
+
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
 
 ## Overview
 
 GM_Improvement_Tracker represents an important concept, event, or element within the world. Its significance extends beyond simple definition, touching multiple aspects of the setting and potentially influencing various storylines.
-
-## Description
 
 ### Basic Information
 GM_Improvement_Tracker can be understood as a multifaceted element that intersects with various aspects of the world. Its nature may be:
@@ -25,8 +94,6 @@ GM_Improvement_Tracker can be understood as a multifaceted element that intersec
 
 ### Detailed Explanation
 The full nature of GM_Improvement_Tracker involves several interconnected components. It exists within the broader context of the world's systems, whether magical, political, social, or natural. Understanding its place requires considering both its immediate characteristics and its wider implications.
-
-## Context & Connections
 
 ### Historical Context
 The origins and development of GM_Improvement_Tracker trace back through history, influenced by and influencing major events. Its current form results from various historical pressures and developments.
@@ -45,8 +112,6 @@ Different groups view GM_Improvement_Tracker through their own cultural lenses:
 - Regional variations
 - Conflicting perspectives
 
-## Characteristics
-
 ### Defining Features
 What makes GM_Improvement_Tracker unique:
 - Specific attributes or qualities
@@ -60,8 +125,6 @@ Different forms or interpretations:
 - Historical evolution
 - Cultural adaptations
 - Individual variations
-
-## Practical Information
 
 ### How It Works
 The functional aspects of GM_Improvement_Tracker:
@@ -84,8 +147,6 @@ How one might encounter or utilize GM_Improvement_Tracker:
 - Requirements for interaction
 - Restrictions or taboos
 
-## Impact & Influence
-
 ### Direct Effects
 Immediate consequences of GM_Improvement_Tracker:
 - On individuals
@@ -107,8 +168,6 @@ Future implications:
 - Possible endpoints
 - Cyclical patterns
 
-## Current Status
-
 ### Present Situation
 The current state of GM_Improvement_Tracker:
 - Active developments
@@ -123,11 +182,9 @@ How GM_Improvement_Tracker has been involved recently:
 - New discoveries
 - Shifts in control or access
 
-## Mysteries & Questions
-
 ### Unknown Aspects
 What remains unclear about GM_Improvement_Tracker:
-- Unanswered questions
+- Uswered questions
 - Conflicting information
 - Hidden dimensions
 - Lost knowledge
@@ -138,8 +195,6 @@ Current efforts to understand:
 - Methods being employed
 - Recent discoveries
 - Obstacles to understanding
-
-## Game Applications
 
 ### Adventure Hooks
 Ways to incorporate GM_Improvement_Tracker into gameplay:
@@ -163,8 +218,6 @@ How GM_Improvement_Tracker fits into narratives:
 - As character motivation
 - As campaign theme
 
-## Additional Notes
-
 ### Variations by Campaign
 How to adjust for different games:
 - Tone adjustments
@@ -178,8 +231,6 @@ Ways GM_Improvement_Tracker might evolve:
 - Via story progression
 - Based on world events
 - Through discovery
-
-## References
 
 ### Sources
 Where information comes from:
@@ -201,8 +252,6 @@ Where to learn more:
 - Knowledgeable individuals
 - Relevant texts
 - Practical experience
-
-## DM Notes
 
 ### True Nature
 [Hidden information for DM only]
@@ -227,3 +276,26 @@ Adapt as needed for:
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established

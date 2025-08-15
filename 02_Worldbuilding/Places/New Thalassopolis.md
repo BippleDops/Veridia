@@ -1,4 +1,5 @@
 ---
+
 title: New Thalassopolis
 type: Location
 tags:
@@ -6,6 +7,7 @@ tags:
 - both
 - active
 - location
+- bloodline
 created: null
 modified: '2025-08-14'
 status: active
@@ -13,6 +15,8 @@ region: Unknown
 population: Unknown
 updated: '2025-08-13T12:34:17.030292+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -20,55 +24,77 @@ world: Both
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-new-thalassopolis-new-thalassopolis.svg]]
 
-
 # New Thalassopolis
 
 *"We built our new city in the corpse of the old, and sometimes, in the deep night, you can still hear it breathing."*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+
 ## Overview
 New Thalassopolis, the de facto capital of [[Aquabyssos]], is a haunting merger of drowned architecture and new construction, built within and around the sunken ruins of the original surface metropolis. The city exists in the Twilight Depth, where the last rays of sunlight create an eternal blue-green dusk, and bioluminescent organisms provide additional illumination.
 
-## City Structure
-
 ### The Rings of Depth
 The city is organized in concentric rings, each deeper than the last:
-
-#### The Air Ring (Outermost)
-- Contains precious air pockets maintained by magic
-- Embassy quarter for surface dwellers
-- Transformation chambers for new arrivals
-- Markets for surface goods
-- The Breathing Gardens (air-filled domes with surface plants)
-
-#### The Twilight Ring
-- Main residential areas for the Pelagic class
-- Grand marketplace and trade centers
-- Temple of Drowning Truths
-- Academy of Deep Magic
-- Memory Exchange banks
-
-#### The Pressure Ring
-- Military districts and training grounds
-- Forges that use pressure instead of heat
-- Benthic class workshops and homes
-- The Depth Guard barracks
-- Coral farms and kelp plantations
-
-#### The Shadow Ring
-- Government buildings and noble estates
-- The Tidal Council chambers
-- Ancient libraries from the original city
-- Restricted magical research facilities
-- Entrances to the Midnight Depth
-
-#### The Core (Center)
-- The Obsidian Palace (when Empress is visiting)
-- The Original Sin monument
-- The Depth Clock tower
-- Portal to other parts of Aquabyssos
-- The Memory Vaults
-
-## Notable Locations
 
 ### The Drowned Cathedral
 Once Thalassopolis's greatest temple, now a center of dark worship:
@@ -108,22 +134,6 @@ Where the transformed learn to manipulate reality:
 - Transformation labs for voluntary subjects
 - Exchange program with surface mages (who rarely return unchanged)
 
-## Population & Demographics
-- **Total Population**: ~500,000 transformed beings
-- **Pelagic Class**: 10% - Least transformed, maintain human appearance
-- **Benthic Class**: 60% - Partially transformed, functional
-- **Abyssal Class**: 25% - Heavily transformed, labor force
-- **Hadean Touched**: 5% - Barely sentient, used for dangerous work
-
-### Notable Residents
-- **High Priestess Scylla Voidsworn**: Leads the Resurgent Tide faction
-- **Lord Admiral Pelagios Clearwater**: Commands the Depth Guard
-- **The Memory Merchant**: Unknown identity, trades impossible memories
-- **Doctor Marius Lastbreath**: Researches transformation reversal
-- **The Whisper Choir**: Collective consciousness in the Shadow Ring
-
-## Current Events & Intrigue
-
 ### The Depth Clock Conspiracy
 The massive clock in the Core is counting down to something. Different factions have different theories:
 - Return of the Things That Dwell Beneath
@@ -162,93 +172,12 @@ Some citizens are transforming beyond even Hadean levels:
 > [!info] The Memory Core
 > Deep beneath the city is a crystallized mass of all memories from the original drowning. If accessed, it would grant godlike knowledge but would also overwhelm any mind, creating a new Thing That Dwells Beneath.
 
-## Districts in Detail
-
-### The Pearl Quarter (Trade District)
-- Surface goods command extreme prices
-- Memory brokers and experience traders
-- Transformation services for newcomers
-- Deep cuisine restaurants (best not to ask what's served)
-- Hotels with pressure-adjustment chambers
-
-### The Barnacle Slums (Lower Class)
-- Heavily transformed beings struggling to maintain sentence
-- Black market for surface contraband
-- Underground (underwater?) resistance movements
-- Cheap transformation reversals (usually fatal)
-- Recruitment ground for dangerous expeditions
-
-### The Kelp Gardens (Agricultural)
-- Vast underwater farms
-- Bioluminescent orchards
-- Meat farms (disturbing hybridized creatures)
-- Memory cultivation (growing experiences like crops)
-- Experimental agriculture mixing surface and depth techniques
-
-### The Depth Gate (Military)
-- Massive fortress guarding descent to Midnight Depth
-- Training grounds for pressure magic
-- Void swimmer corps headquarters
-- Prison for surface captives
-- Weapons forged from crystallized water
-
-## Laws and Customs
-
 ### The Depth Codes
 1. **Transformation is Sacred**: Resisting transformation is punishable by forced rapid change
 2. **Memory as Currency**: Stealing memories equals theft, creating false memories equals counterfeiting
 3. **Depth Respect**: Lower depths have authority over higher
 4. **The Drowning Truth**: Speaking of the surface as superior is heresy
 5. **Pressure Rights**: Claiming space based on pressure resistance
-
-### Cultural Practices
-- **Drowning Day**: Celebrating one's transformation anniversary
-- **Memory Meals**: Consuming experiences instead of food
-- **Depth Dancing**: Movement that only works underwater
-- **Pressure Singing**: Songs that require water in lungs
-- **The Daily Death**: Symbolic drowning at dawn to honor the Empress
-
-## Connections to Aethermoor
-- [[The Drowned Embassy]] recruits agents here
-- [[Ambassador Korvin Blacktide]] returns monthly for instructions
-- Smuggling routes to [[Port Meridian]] originate here
-- Several [[Crystalhaven]] nobles have hidden relatives here
-- The [[The Seven Shards]] are being actively sought by multiple factions
-
-## Resources & Trade
-
-### Exports to Surface
-- Deep pearls (grant water breathing temporarily)
-- Memory crystals (store experiences)
-- Pressure-forged weapons
-- Transformed coral (magical building material)
-- Void silk (phase through matter)
-
-### Imports from Surface
-- Air (most precious commodity)
-- Surface food (delicacy)
-- Untransformed humans (for various purposes)
-- Crystal samples from Aethermoor
-- Written records (water doesn't preserve well)
-
-## Plot Hooks
-- Infiltrate the Memory Exchange to steal/plant information
-- Investigate the Depth Clock's countdown
-- Rescue captured surface dwellers before transformation
-- Navigate political intrigue between factions
-- Explore the original drowned city beneath
-- Stop/assist the Second Drowning preparations
-- Find the resistance movement helping people escape
-- Discover what the city itself is dreaming
-
-
-## Connections
-
-- [[Party Shadows]]
-- [[Shadow Independence Levels]]
-- [[Stop the Shadow Harvest]]
-- [[Forge of War]]
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -258,16 +187,6 @@ New Thalassopolis is a undersea element of the setting, known for bioluminescent
 
 Legends speak of New Thalassopolis as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around New Thalassopolis.
 
-## Adventure Hooks
-
-- A rumor ties New Thalassopolis to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at New Thalassopolis to avert a public scandal.
-- A map overlay reveals a hidden approach to New Thalassopolis active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -275,26 +194,9 @@ Legends speak of New Thalassopolis as a nexus where past and present converge. L
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[New Thalassopolis]]
-
-<!-- enriched: true -->
-
 
 ## Sensory Details
 
@@ -304,7 +206,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: Wood smoke curls from countless chimneys
 
-
 ## Description
 
 New Thalassopolis is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -312,57 +213,38 @@ New Thalassopolis is a notable location characterized by its unique features and
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of New Thalassopolis
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
-
-## History
+**Goverce**: Local authority structure
 
 ### Founding
 New Thalassopolis was established in the distant past, growing from humble beginnings to its current state.
 
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
 
 
-## Secrets & Rumors
+## Plot Hooks
 
-### Common Knowledge
-- What everyone knows about New Thalassopolis
+- The authorities needs help delivering before the new moon
+- Strange disappearances suggest a curse
+- A corpse reveals a betrayal about the cult
+- A shipment has gone missing and war looms
 
-### Whispered Rumors
-- Stories that may or may not be true
+## Economic Structure
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

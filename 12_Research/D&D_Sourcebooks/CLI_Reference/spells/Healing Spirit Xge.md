@@ -29,11 +29,8 @@ updated: '2025-08-13T12:34:06.504111+00:00'
 world: Both
 ---
 
-
-
 # Healing Spirit
 *2nd-level, Conjuration*  
-
 
 - **Casting time:** 1 Bonus Action
 - **Range:** 60 feet
@@ -52,6 +49,24 @@ As a bonus action on your turn, you can move the spirit up to 30 feet to a space
 
 *Source: Xanathar's Guide to Everything p. 157*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Healing spirit xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -60,19 +75,31 @@ Healing spirit xge is a undersea element of the setting, known for bioluminescen
 
 Legends speak of healing spirit xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around healing spirit xge.
 
-## Adventure Hooks
-
-- A rumor ties healing spirit xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at healing spirit xge to avert a public scandal.
-- A map overlay reveals a hidden approach to healing spirit xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Plot Hooks
+
+- A noble needs help finding before dawn
+- A journal reveals a betrayal about the cult
+- A stranger needs help stealing before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

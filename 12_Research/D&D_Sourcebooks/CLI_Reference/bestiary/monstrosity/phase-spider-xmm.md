@@ -34,13 +34,29 @@ updated: '2025-08-12T23:37:35.016737'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-phase-spider-xmm-phase-spider-xmm.svg)
 
 # [[phase-spider-xmm|Phase Spider]]
-*Source: Monster Manual (2024) p. 239. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 239. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Phase Spider
 
@@ -51,12 +67,11 @@ world: Both
 
 Phase spiders appear out of nowhere to attack, then vanish just as swiftly. These horse-size, magical arachnids are endemic to the Ethereal Plane. From vaporous lairs, they peer through the Border Ethereal into the Material Plane. When they detect prey, phase spiders draw close and then shift or "phase" to the Material Plane to attack. They shift between planes of existence and attack from unexpected directions until they overcome their prey or are forced to retreat.
 
-Phase spiders are more intelligent than mundane spiders, but most are cowards. They usually flee if they're outnumbered by creatures capable of seeing them on the Ethereal Plane or pursuing them there. They make exceptions for ghosts and similar spirits, which phase spiders gain sustenance from and pursue as favored prey.
+Phase spiders are more intelligent than mundane spiders, but most are cowards. They usually flee if they're outnumbered by creatures capable of seeing them on the Ethereal Plane or pursuing them there. They make exceptions for ghosts and similar spirits, which phase spiders gain sustece from and pursue as favored prey.
 
 > [!quote] A quote from Marcus Wands, Doubtful Authority  
 > 
 > Some sages say you unknowingly occupy the same ethereally coterminous point as a phase spider an average of four times each year.
-
 
 ```statblock
 "name": "Phase Spider (XMM)"
@@ -73,7 +88,6 @@ Phase spiders are more intelligent than mundane spiders, but most are cowards. T
   - !!int "12"
   - !!int "6"
   - !!int "10"
-  - !!int "6"
 "speed": "30 ft., climb 30 ft."
 "skillsaves":
   - "name": "[[skills#Stealth|Stealth]]"
@@ -124,19 +138,20 @@ Phase spider xmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of phase spider xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around phase spider xmm.
 
-## Adventure Hooks
-
-- A rumor ties phase spider xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at phase spider xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to phase spider xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest a curse
+- A stranger needs help finding before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

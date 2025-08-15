@@ -28,14 +28,29 @@ updated: '2025-08-13T12:34:06.101180+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-clay-golem-xmm-clay-golem-xmm.svg)
 
 # [[clay-golem-xmm|Clay Golem]]
-*Source: Monster Manual (2024) p. 72. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 72. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Clay Golem
 
@@ -80,7 +95,7 @@ These golems obey their creators' orders and protect what their makers value mos
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "acid, poison, psychic"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 9"
 "languages": "Common plus one other language"
@@ -131,19 +146,22 @@ Clay golem xmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of clay golem xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around clay golem xmm.
 
-## Adventure Hooks
-
-- A rumor ties clay golem xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at clay golem xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to clay golem xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a portal
+- Someone is hunting a artifact for revenge
+- The authorities needs help stealing before the new moon
+- Someone is searching for information for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

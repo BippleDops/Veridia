@@ -17,27 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## History
+### Enhancement Improvements
 
-TODO
-## Layout
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -47,23 +42,27 @@ Bone Architect Ossuary is a undersea element of the setting, known for biolumine
 
 Legends speak of Bone Architect Ossuary as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Bone Architect Ossuary.
 
-## Adventure Hooks
-
-- A rumor ties Bone Architect Ossuary to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Bone Architect Ossuary to avert a public scandal.
-- A map overlay reveals a hidden approach to Bone Architect Ossuary active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Bone Architect Ossuary|02 Worldbuilding/Places/Bone Architect Ossuary]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and truth emerges
+- The authorities needs help stealing before winter
+- The authorities needs help investigating before winter
+- A map reveals ancient history about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

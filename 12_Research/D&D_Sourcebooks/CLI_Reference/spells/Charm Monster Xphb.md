@@ -15,7 +15,7 @@ tags:
 - campaign/arc
 - status/in-progress
 - ttrpg-cli/compendium/src/5e/xphb
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 classes:
@@ -33,11 +33,8 @@ updated: '2025-08-13T12:34:06.417263+00:00'
 world: Both
 ---
 
-
-
 # Charm Monster
 *4th-level, Enchantment*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -50,7 +47,25 @@ One creature you can see within range makes a Wisdom saving throw. It does so wi
 
 **Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[list-spells-classes-warlock|Warlock]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[list-spells-classes-wizard|Wizard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-draconic-sorcery-xphb "subclass=XPHB;class=XPHB"|Sorcerer (Draconic Sorcery)]]
 
-*Source: Player's Handbook (2024) p. 249. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 249. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -60,19 +75,23 @@ Charm monster xphb is a undersea element of the setting, known for bioluminescen
 
 Legends speak of charm monster xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around charm monster xphb.
 
-## Adventure Hooks
-
-- A rumor ties charm monster xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at charm monster xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to charm monster xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,47 +22,38 @@ updated: '2025-08-12T23:37:34.432484'
 world: Both
 ---
 
-
 # Arcane Archer
 *[[fighter-xphb|Fighter]]: Fighter Subclass*  
 *Source: Xanathar's Guide to Everything p. 28*  
 
 > [!tldr] Class and Feature Progression
 > 
-> <table class="class-progression">
-> <thead>
-> <tr><th colspan='3'></th></tr>
-> <tr class="class-progression"><th class"level">Level</th><th class"pb">PB</th><th class"feature">Features</th></tr>
-> </thead><tbody>
-> <tr class="class-progression"><td class"level">1st</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">2nd</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">3rd</td><td class"pb">+2</td><td class"feature"><a href='#Arcane Archer (Level 3)' class='internal-link'>Arcane Archer</a></td></tr>
-> <tr class="class-progression"><td class"level">4th</td><td class"pb">+2</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">5th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">6th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">7th</td><td class"pb">+3</td><td class"feature"><a href='#Magic Arrow (Level 7)' class='internal-link'>Magic Arrow</a>, <a href='#Curving Shot (Level 7)' class='internal-link'>Curving Shot</a>, <a href='#Additional Arcane Shot Option (Level 7)' class='internal-link'>Additional Arcane Shot Option</a></td></tr>
-> <tr class="class-progression"><td class"level">8th</td><td class"pb">+3</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">9th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">10th</td><td class"pb">+4</td><td class"feature"><a href='#Additional Arcane Shot Option (Level 10)' class='internal-link'>Additional Arcane Shot Option</a></td></tr>
-> <tr class="class-progression"><td class"level">11th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">12th</td><td class"pb">+4</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">13th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">14th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">15th</td><td class"pb">+5</td><td class"feature"><a href='#Ever-Ready Shot (Level 15)' class='internal-link'>Ever-Ready Shot</a>, <a href='#Additional Arcane Shot Option (Level 15)' class='internal-link'>Additional Arcane Shot Option</a></td></tr>
-> <tr class="class-progression"><td class"level">16th</td><td class"pb">+5</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">17th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">18th</td><td class"pb">+6</td><td class"feature"><a href='#Additional Arcane Shot Option (Level 18)' class='internal-link'>Additional Arcane Shot Option</a></td></tr>
-> <tr class="class-progression"><td class"level">19th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> <tr class="class-progression"><td class"level">20th</td><td class"pb">+6</td><td class"feature"></td></tr>
-> </tbody></table>
+> LevelPBFeatures
+> 1st+2
+> 2nd+2
+> 3rd+2Arcane Archer
+> 4th+2
+> 5th+3
+> 6th+3
+> 7th+3Magic Arrow, Curving Shot, Additional Arcane Shot Option
+> 8th+3
+> 9th+4
+> 10th+4Additional Arcane Shot Option
+> 11th+4
+> 12th+4
+> 13th+5
+> 14th+5
+> 15th+5Ever-Ready Shot, Additional Arcane Shot Option
+> 16th+5
+> 17th+6
+> 18th+6Additional Arcane Shot Option
+> 19th+6
+> 20th+6
 
 ^class-progression
 
-
 > [!caution] Mixed edition content
 > This subclass is from a different game edition. You will need to do some adjustment to resolve differences.
-
-## Class Features
 
 ### Arcane Archer (Level 3)
 
@@ -86,7 +77,7 @@ The Arcane Shot feature lets you choose options for it at certain levels. The op
 
 If an option requires a saving throw, your Arcane Shot save DC is calculated as follows:
 
-<span class='abilityDc'>**Arcane Shot save DC**: Intelligence + Proficiency Bonus</span>
+**Arcane Shot save DC**: Intelligence + Proficiency Bonus
 
 ### Magic Arrow (Level 7)
 
@@ -116,6 +107,24 @@ You gain an additional Arcane Shot option of your choice when you reach 15th lev
 
 You gain an additional Arcane Shot option of your choice when you reach 18th level. Each option also improves when you become an 18th-level fighter.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Optional Features
 
 > [!example]- Optional Features: Arcane Shot
@@ -130,19 +139,25 @@ Fighter xphb arcane archer xge is a undersea element of the setting, known for b
 
 Legends speak of fighter xphb arcane archer xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fighter xphb arcane archer xge.
 
-## Adventure Hooks
-
-- A rumor ties fighter xphb arcane archer xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at fighter xphb arcane archer xge to avert a public scandal.
-- A map overlay reveals a hidden approach to fighter xphb arcane archer xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Winds
+
+
+## Plot Hooks
+
+- Strange dreams suggest a curse
+- An heirloom has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

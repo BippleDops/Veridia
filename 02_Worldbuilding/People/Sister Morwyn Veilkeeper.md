@@ -1,4 +1,5 @@
 ---
+
 title: Sister Morwyn Veilkeeper
 type: NPC
 tags:
@@ -6,6 +7,7 @@ tags:
 - both
 - active
 - npc
+- bloodline
 created: null
 modified: '2025-08-14'
 status: active
@@ -14,6 +16,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.601545+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -22,35 +26,69 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-sister-morwyn-veilkeeper-sister-morwyn-veilkeeper.svg]]
 
 
-# Sister Morwyn Veilkeeper
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
 
 ## Overview
 A enigmatic member of the Order of the Shattered Crown who serves as the order's primary researcher into the Shadow Shard's properties. Sister Morwyn operates from a hidden sanctum within [[The Shadowmere]], where the boundary between reality and shadow grows thin.
-
-## Appearance
-- Age: 47 (appears younger due to shadow exposure)
-- Pale violet eyes that seem to see through multiple planes
-- Silver-white hair with streaks of living shadow
-- Wears layered robes of grey and black that shift between material and immaterial
-- Carries a staff topped with a fragment of crystallized shadow
-
-## Personality
-
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward negotiation
-
-
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward avoidance
-
-- Speaks in riddles and half-truths
-- Genuinely caring but emotionally distant
-- Obsessed with understanding the true nature of the Shards
-- Believes balance between light and shadow is essential
 
 ## Abilities & Stats
 **AC:** 14 (Shadow Ward)
@@ -60,25 +98,6 @@ A enigmatic member of the Order of the Shattered Crown who serves as the order's
 **STR:** 10 (+0) **DEX:** 14 (+2) **CON:** 14 (+2)
 **INT:** 18 (+4) **WIS:** 20 (+5) **CHA:** 16 (+3)
 
-### Special Abilities
-- **Shadow Sight:** Can see through darkness and illusions
-- **Planar Whispers:** Can commune with entities from the Shadowfell
-- **Veil Walking:** Can step partially into the Shadow Plane (3/day)
-- **Oracle's Burden:** Suffers random visions of possible futures
-
-### Spells (Save DC 16)
-- Cantrips: Guidance, Thaumaturgy, Minor Illusion
-- 1st-5th level: Shadow spells and divination magic
-
-## Relationships
-- **[[The Crimson Sage]]**: Suspects his true identity, exchanges cryptic warnings
-- **[[High Inquisitor Maltheos]]**: Mutual distrust; she knows he possesses the Amber Shard
-- **[[Vex Shadowthorn]]**: Uneasy alliance; trades information for safe passage through Shadowmere
-- **[[Queen Seraphina Lumengarde]]**: Has prophetic visions about the Queen's corruption
-- **Ambassador Nerida Deepcurrent**: Secret correspondence about underwater omens
-
-
-
 ## Voice & Mannerisms
 
 **Voice**: Soft and measured
@@ -86,12 +105,6 @@ A enigmatic member of the Order of the Shattered Crown who serves as the order's
 **Speech Pattern**: Carefully chosen words
 
 **Physical Habits**: Gestures expressively
-
-## Current Activities
-- Researching connection between Shadow Shard and the drowned civilizations
-- Maintaining shadow barriers that keep Shadowmere's worst entities contained
-- Secretly documenting visions of a "Great Drowning" yet to come
-- Training apprentices in shadow magic while testing their corruption resistance
 
 ## Secrets
 > [!warning] DM Only
@@ -106,13 +119,6 @@ A enigmatic member of the Order of the Shattered Crown who serves as the order's
 2. Needs protection while performing a dangerous ritual to stabilize a Shadow Anchor
 3. Offers cryptic prophecies in exchange for information about other Shard locations
 
-## Quotes
-- "The shadow remembers what the light forgets."
-- "Seven shards, seven sins, seven salvations. But which is which?"
-- "You seek answers in the depths? Be careful—some depths seek you in return."
-
-
-
 ## Background
 
 Sister Morwyn Veilkeeper's path to their current position involved:
@@ -121,8 +127,6 @@ Sister Morwyn Veilkeeper's path to their current position involved:
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
 
 ## Motivations
 
@@ -133,8 +137,6 @@ Sister Morwyn Veilkeeper's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -142,8 +144,6 @@ Sister Morwyn Veilkeeper's path to their current position involved:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
 
 ## Statistics (D&D 5e)
 
@@ -170,18 +170,6 @@ cr: 1/4
 ## DM Notes
 Sister Morwyn serves as a bridge between the material and shadow planes, offering both mystical guidance and practical warnings. She can provide crucial information about the Shards but always at a price—usually in the form of unsettling revelations or dangerous tasks in the Shadowmere.
 
-
-## Goals
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 Sister Morwyn Veilkeeper is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -190,35 +178,21 @@ Sister Morwyn Veilkeeper is a undersea element of the setting, known for biolumi
 
 Legends speak of Sister Morwyn Veilkeeper as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sister Morwyn Veilkeeper.
 
-## Adventure Hooks
 
-- A rumor ties Sister Morwyn Veilkeeper to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Sister Morwyn Veilkeeper to avert a public scandal.
-- A map overlay reveals a hidden approach to Sister Morwyn Veilkeeper active only during specific tides/storms.
+## Economic Structure
 
-## Cross-References
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
 
-- [[Sister Morwyn Veilkeeper]]
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
 
-<!-- enriched: true -->
-
-
-
-
-## Relationship Web
-
-- [[04_Resources_Assets_Symbols_symbol-heraldry-the-echo-succession-the-echo-succession.svg]]: *sworn enemy*
-- [[Quest - The Shadow Fleet]]: *mentor*
-
-## Connections
-
-### Home
-- [[04_Resources_Assets_Locations_location-city-crystallium-crystallium.svg]]
-
-### Affiliations
-- [[Quest - Cultural Exchang]]
-
-### Known Associates
-- [[Captain Truth Ironwill]] (rival)
-- [[Create New NPC]] (rival)
-- [[04_Resources_Assets_Symbols_symbol-heraldry-foreman-prime-salvage-maste-foreman-prime-salvage-maste.svg]] (ally)
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

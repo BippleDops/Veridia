@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.666659'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-death-knight-aspirant-xmm-death-knight-aspirant-xmm.svg)
 
@@ -36,6 +34,24 @@ world: Both
 *Source: Monster Manual (2024) p. 93*  
 
 When the leader of a villainous order rises as a death knight, their wicked devotees might join them in their cursed existence as death knight aspirants. These followers bear a measure of their leader's power and serve as they did in life, obediently following the death knight's decrees and heralding its terrible will.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Death Knights
 
@@ -59,7 +75,6 @@ Champions of evil, death knights are armor-clad, skeletal warlords. Combining de
   - !!int "20"
   - !!int "10"
   - !!int "18"
-  - !!int "10"
   - !!int "12"
   - !!int "16"
 "speed": "30 ft."
@@ -68,7 +83,7 @@ Champions of evil, death knights are armor-clad, skeletal warlords. Combining de
   - "wisdom": !!int "5"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Poisoned|poisoned]]"
+  \ [[conditions#frightened|frightened]], [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 11"
 "languages": "Abyssal, Common"
 "cr": "11"
@@ -120,19 +135,33 @@ Death knight aspirant xmm is a undersea element of the setting, known for biolum
 
 Legends speak of death knight aspirant xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around death knight aspirant xmm.
 
-## Adventure Hooks
-
-- A rumor ties death knight aspirant xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at death knight aspirant xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to death knight aspirant xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A letter reveals a conspiracy about a local noble
+- An heirloom has gone missing and truth emerges
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

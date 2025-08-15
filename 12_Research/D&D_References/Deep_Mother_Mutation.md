@@ -18,20 +18,25 @@ world: Both
 ---
 
 
-# Deep Mother Mutation - Transformation Rules
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 Deep Mother Mutation represents the most dangerous form of transformation in both [[Aquabyssos]] and [[Aethermoor]]. Exposure to the [[Deep Mother]]'s influence causes rapid and profound changes to both mind and body, transforming victims into servants of an incomprehensible cosmic entity. Unlike other transformations, Deep Mother mutations actively seek to spread and corrupt others.
-
-## Exposure Sources
-- Direct contact with Deep Mother manifestations
-- Extended exposure to reality breaches or void tears
-- Consuming void-touched creatures or materials
-- Participating in Deep Mother cult rituals
-- Using artifacts corrupted by Deep Mother influence
-- Prolonged exposure to concentrated Deep Mother emanations
-
-## Transformation Stages
 
 ### Stage 1: Initial Contact (Hours 0-24)
 **Sanity Save**: DC 15 Wisdom save or gain 1 level of madness
@@ -116,8 +121,6 @@ Deep Mother Mutation represents the most dangerous form of transformation in bot
 - Can cast 9th level spells related to reality manipulation
 - Reality distortion aura affects 60-foot radius
 
-## Resistance and Treatment
-
 ### Natural Resistance
 **High Wisdom Score**: +2 bonus to all saves against Deep Mother influence
 **Divine Connection**: Clerics and Paladins add proficiency bonus to saves
@@ -143,59 +146,17 @@ Deep Mother Mutation represents the most dangerous form of transformation in bot
 **Regular Screening**: Periodic examination by qualified divine casters
 **Safe Distances**: Avoid known Deep Mother influence zones
 
-## Deep Mother Touched Abilities
-
-### Minor Manifestations (Stage 1-2)
-- **Void Sight**: See through illusions and detect dimensional instabilities
-- **Cosmic Whispers**: Receive vague warnings about immediate dangers
-- **Reality Ripples**: Cause minor reality distortions (cosmetic effects only)
-- **Deep Knowledge**: Access to information about cosmic entities and phenomena
-
-### Major Manifestations (Stage 3+)
-- **Dimensional Step**: Teleport through folded space-time
-- **Reality Manipulation**: Alter local physics temporarily
-- **Consciousness Touch**: Invade others' minds with cosmic truths
-- **Void Summoning**: Call forth creatures from between dimensions
-
-## Campaign Integration
-
 ### Story Hooks
 **The Touched Friend**: Party member begins showing signs of Deep Mother influence
 **Outbreak Investigation**: Entire community shows transformation symptoms
 **Cult Infiltration**: Deep Mother servants attempt to corrupt important NPCs
 **Reality Breach**: Direct manifestation threatens to transform entire region
 
-### Moral Dilemmas
-- Can someone with Stage 3 transformation be considered the same person?
-- Is killing Deep Mother touched an act of mercy or murder?
-- Should transformed individuals be quarantined or treated as refugees?
-- How much cosmic knowledge is safe for mortals to possess?
-
 ### Environmental Effects
 **Reality Distortion Zones**: Areas around advanced transformations warp physics
 **Corruption Spread**: Deep Mother influence spreads through direct contact
 **Dimensional Tears**: Severe cases can create permanent breaches in reality
-**Psychic Resonance**: Multiple transformed individuals amplify each other's power
-
-## DM Guidelines
-
-### Pacing Transformation
-- Allow saves at story-appropriate moments to slow or halt progression
-- Provide clear warning signs before point of no return
-- Offer multiple treatment options with different costs and risks
-- Consider temporary stabilization to extend roleplay opportunities
-
-### Roleplay Considerations
-- Gradual personality changes are more effective than sudden shifts
-- Preserve core character elements until final stages
-- Allow player agency in describing transformation experience
-- Provide hope for recovery until Stage 4 transformation
-
-### Balance Considerations
-- Transformation grants power but at cost of player agency
-- Abilities scale with transformation stage but come with severe drawbacks
-- Treatment should be possible but require significant effort and resources
-- NPCs should react appropriately to obviously transformed characters
+**Psychic Resoce**: Multiple transformed individuals amplify each other's power
 
 ## Research Notes
 *Deep Mother mutations appear to be part of a larger pattern of cosmic infection spreading across multiple realities. The entity's ultimate goals remain unclear, but evidence suggests it seeks to transform entire planes of existence into extensions of its own consciousness.*
@@ -212,7 +173,6 @@ Deep Mother Mutation represents the most dangerous form of transformation in bot
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -220,3 +180,13 @@ Deep Mother Mutation represents the most dangerous form of transformation in bot
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

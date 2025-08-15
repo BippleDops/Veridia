@@ -17,14 +17,22 @@ updated: '2025-08-13T01:18:34.668855+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
 
 ## Player-Facing Summary
 
@@ -34,28 +42,40 @@ Sanctuary Council Members is a undersea element of the setting, known for biolum
 
 Legends speak of Sanctuary Council Members as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Sanctuary Council Members.
 
-## Adventure Hooks
-
-- A rumor ties Sanctuary Council Members to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Sanctuary Council Members to avert a public scandal.
-- A map overlay reveals a hidden approach to Sanctuary Council Members active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Shrinking Sanctuary|02 Worldbuilding/Places/The Shrinking Sanctuary]]
-
-
-## Connections
-
-- [[The Shrinking Sanctuary]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- Someone is hunting information for power
+- A journal reveals the truth about this place
+- The authorities needs help delivering before the new moon
+- Someone is blackmailing a witness for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

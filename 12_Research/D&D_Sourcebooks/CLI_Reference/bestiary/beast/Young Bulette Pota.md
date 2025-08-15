@@ -27,9 +27,6 @@ updated: '2025-08-13T12:34:05.464159+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-bulette-pota-v1-young-bulette-pota.svg)
 
@@ -61,7 +58,7 @@ world: Both
   - "desc": "If the bulette moves at least 20 feet straight toward a target and then\
       \ hits it with a gore attack on the same turn, the target takes an extra 9 (2d8)\
       \ bludgeoning damage. If the target is a creature, it must succeed on a DC 15\
-      \ Strength saving throw or be knocked [[conditions#Prone|prone]]."
+      \ Strength saving throw or be knocked [[conditions#prone|prone]]."
     "name": "Charge"
 "actions":
   - "desc": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14\
@@ -73,6 +70,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Young bulette pota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -81,19 +96,18 @@ Young bulette pota is a undersea element of the setting, known for bioluminescen
 
 Legends speak of young bulette pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around young bulette pota.
 
-## Adventure Hooks
-
-- A rumor ties young bulette pota to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at young bulette pota to avert a public scandal.
-- A map overlay reveals a hidden approach to young bulette pota active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

@@ -1,5 +1,6 @@
 ---
-title: Financial Corruption
+
+title: Ficial Corruption
 type: Npc
 tags:
 - aquabyssos
@@ -10,6 +11,7 @@ tags:
 - active
 - complete
 - status/in-progress
+- prophecy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,102 +20,93 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.583037+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
 > [!figure] Portrait
-![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-financial-corruption-financial-corruption.svg]]
+![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-ficial-corruption-ficial-corruption.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more focused
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward avoidance
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward avoidance
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
 
 ## Player-Facing Summary
 
-Financial Corruption is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+Ficial Corruption is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of Financial Corruption as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Financial Corruption.
-
-## Adventure Hooks
-
-- A rumor ties Financial Corruption to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Financial Corruption to avert a public scandal.
-- A map overlay reveals a hidden approach to Financial Corruption active only during specific tides/storms.
-
-
+Legends speak of Ficial Corruption as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ficial Corruption.
 
 ## Background
 
-Financial Corruption's path to their current position involved:
+Ficial Corruption's path to their current position involved:
 
 - **Early Life**: Formative experiences that shaped their worldview
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
 
 ## Motivations
 
@@ -124,23 +117,17 @@ Financial Corruption's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
-Financial Corruption harbors secrets that could change everything:
+Ficial Corruption harbors secrets that could change everything:
 
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Forbidden knowledge
 
-
-
-
-
 ## Voice & Mannerisms
 
-**Voice**: Deep and resonant
+**Voice**: Deep and resot
 
 **Speech Pattern**: Direct and concise
 
@@ -148,24 +135,20 @@ Financial Corruption harbors secrets that could change everything:
 
 ## Current Activities
 
-Financial Corruption is currently engaged in:
+Ficial Corruption is currently engaged in:
 
 - Managing their regular responsibilities
 - Pursuing a specific objective
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
-1. **The Request**: Financial Corruption needs assistance with a delicate matter
-2. **The Opposition**: Someone wants Financial Corruption stopped or removed
-3. **The Secret**: Information about Financial Corruption's past surfaces
-4. **The Alliance**: Opportunity to work with or against Financial Corruption
-5. **The Crisis**: Financial Corruption is caught in a situation requiring intervention
-
-
+1. **The Request**: Ficial Corruption needs assistance with a delicate matter
+2. **The Opposition**: Someone wants Ficial Corruption stopped or removed
+3. **The Secret**: Information about Ficial Corruption's past surfaces
+4. **The Alliance**: Opportunity to work with or against Ficial Corruption
+5. **The Crisis**: Ficial Corruption is caught in a situation requiring intervention
 
 ## Notable Quotes
 
@@ -179,21 +162,25 @@ Financial Corruption is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Financial Corruption]]
+## Prophecy Connection
 
-<!-- enriched: true -->
-
+Mentioned in The Second Prophecy of Stars
 
 
+## Historical Timeline
 
-## Relationship Web
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
 
-- [[04_Resources_Assets_Symbols_symbol-heraldry-quest-the-crystal-innovatio-quest-the-crystal-innovatio.svg]]: *childhood friend*
-- [[Deep Mother Cultist Profiles]]: *business partner*
-- [[Master Artificer Korvin Gearwright]]: *family member*
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
 
-## Connections
-
-- [[Aurelius Goldwave]]
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established

@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.950696+00:00'
 world: Both
 ---
 
-
-
 # Chapter 4: Castle Ravenloft
 *Source: Curse of Strahd, p. 49* 
 
@@ -36,6 +34,24 @@ The poster map that accompanies this book displays the castle in its entirety. M
 > [!quote] A quote from Tome of Strahd  
 > 
 > I called for my family, long unseated from their ancient thrones, and brought them here to settle in the castle Ravenloft.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Random Encounters
 
@@ -70,12 +86,9 @@ In most circumstances, a random encounter occurs on a roll of 18 or higher on a 
 
 Use the descriptions that follow to run each encounter.
 
-### Random Encounters
-
 #### Barovian Commoners
 
 > [!readaloud] 
-> 
 > A loud clamor fills the unhallowed halls of Ravenloft. Cries of "Kill the vampire!" are mixed with bold voices shouting, "Never again!" and "To the crypts!"
 ^175
 
@@ -83,10 +96,7 @@ Angry [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|villagers]] who have en
 
 #### Barovian Witch
 
-> [!readaloud] 
-> 
 > You hear a woman's scratchy voice calling out a name. "Grizzlegut! Grizzlegut, where are you? A pox on you, you mangy cat!"
-> 
 > Through the darkness comes a crone wearing a pointed black hat and a burlap gown stained with soot.
 ^177
 
@@ -96,8 +106,6 @@ This encounter happens only once. If this result comes up again, treat it as no 
 
 #### Black Cat
 
-> [!readaloud] 
-> 
 > The darkness lets out a demonic hiss as a black cat darts out of the shadows, trying its best to avoid you.
 ^179
 
@@ -109,8 +117,6 @@ If the characters capture or kill the [[cat-xmm|cat]], this encounter doesn't oc
 
 A Blinsky toy is encountered only if the characters are moving about the castle (not resting); otherwise, treat this result as no encounter.
 
-> [!readaloud] 
-> 
 > You find a discarded toy—something no child could love.
 ^17b
 
@@ -130,8 +136,6 @@ The toy has a slogan stitched or printed on it in tiny letters: "Is No Fun, Is N
 
 #### Broom of Animated Attack
 
-> [!readaloud] 
-> 
 > You hear a scratching noise. Out of the shadows comes a broom, sweeping its way toward you as though held by invisible hands.
 ^17d
 
@@ -139,8 +143,6 @@ When it gets within 5 feet of a party member, the [[broom-of-animated-attack-cos
 
 #### Crawling Claws
 
-> [!readaloud] 
-> 
 > A mob of severed hands, their mummified flesh black with soot, skitters out of the darkness across the dusty floor.
 ^17f
 
@@ -148,8 +150,6 @@ The [[crawling-claw-xmm|crawling claws]] gang up on one party member. During the
 
 #### Crawling Strahd Zombie
 
-> [!readaloud] 
-> 
 > You hear the deathly groans of something vile.
 ^181
 
@@ -161,8 +161,6 @@ If the characters are moving quietly and not using light sources, they can try t
 
 [[/03_Mechanics/CLI/bestiary/npc/ezmerelda-davenir-cos|Ezmerelda]] has cast a [[greater-invisibility-xphb|greater invisibility]] spell on herself and is stealthily exploring the castle. Choose one character in the back rank of the party's marching order, and read the following text to that character's player:
 
-> [!readaloud] 
-> 
 > You feel a gentle tap on your shoulder but see nothing behind you.
 ^184
 
@@ -174,8 +172,6 @@ This random encounter happens only once. If this result comes up again, treat it
 
 #### Flying Swords
 
-> [!readaloud] 
-> 
 > Out of the gloom flies a rusty blade, followed by another!
 ^186
 
@@ -185,8 +181,6 @@ If more than two [[animated-flying-sword-xmm|flying swords]] are encountered, th
 
 A giant spider cocoon is encountered only if the characters are moving about the castle (not resting); otherwise, reroll.
 
-> [!readaloud] 
-> 
 > A white cocoon is suspended from the ceiling amid thick webs and appears to hold something human-like.
 ^188
 
@@ -208,8 +202,6 @@ A giant spider made this cocoon. Characters who can reach it can cut it open to 
 
 If [[/03_Mechanics/CLI/bestiary/npc/rahadin-cos|Rahadin]] was killed or captured in a previous encounter, this encounter doesn't occur. Otherwise, Strahd's mysterious chamberlain approaches quietly. A character whose passive Wisdom ([[skills#Perception|Perception]]) score meets or exceeds [[/03_Mechanics/CLI/bestiary/npc/rahadin-cos|Rahadin]]'s Dexterity ([[skills#Stealth|Stealth]]) check hear him.
 
-> [!readaloud] 
-> 
 > "The master wishes to see you," intones a grim voice in the darkness.
 ^18a
 
@@ -235,8 +227,6 @@ If the characters ask [[/03_Mechanics/CLI/bestiary/npc/rahadin-cos|Rahadin]] to 
 
 If one or more characters have a passive Wisdom ([[skills#Perception|Perception]]) score of 16 or higher, read:
 
-> [!readaloud] 
-> 
 > You can't shake the feeling that something is behind you. When you look back, you see a shadow, tall and still, but nothing of its dimensions that could cast it.
 ^18c
 
@@ -246,8 +236,6 @@ If more than one [[shadow-xmm|shadow]] is present, the others are close by but h
 
 [[strahd-von-zarovich-cos|Strahd]] makes a surprise appearance.
 
-> [!readaloud] 
-> 
 > A crack of thunder shakes the castle, stirring the dust and cobwebs. You hear a voice: "Good evening."
 ^18e
 
@@ -255,8 +243,6 @@ Any character who has a passive Wisdom ([[skills#Perception|Perception]]) score 
 
 #### Swarms of Bats
 
-> [!readaloud] 
-> 
 > You hear a peal of thunder, followed by the flapping of tiny black wings. Suddenly, a dark cloud of bats descends upon you!
 ^190
 
@@ -266,8 +252,6 @@ These [[swarm-of-bats-xmm|bats]] are the servants of Strahd. They attack the cha
 
 One random character finds a lost trinket. Read the following text to the player of that character:
 
-> [!readaloud] 
-> 
 > You kick something—a trinket buried in the dust.
 ^193
 
@@ -275,8 +259,6 @@ To determine what the character finds, roll on the [[trinket-cos|Trinkets table]
 
 #### Unseen Servant
 
-> [!readaloud] 
-> 
 > A curious object drifts into view, as though held aloft by an invisible force.
 ^195
 
@@ -298,8 +280,6 @@ This unseen servant was created by Strahd and is permanent until destroyed (see 
 
 If any character has a passive Wisdom ([[skills#Perception|Perception]]) score of 16 or higher, the party isn't [[conditions#Surprised|surprised]]. In that case, read:
 
-> [!readaloud] 
-> 
 > Creatures with pale flesh scuttle across the ceiling like spiders, their red eyes glowing in the dark. As they draw near, their cracked and bloodstained lips open wide, revealing sharp fangs.
 ^197
 
@@ -307,8 +287,6 @@ These minions of Strahd—former adventurers all—creep along ceilings and drop
 
 #### Vistani Thugs
 
-> [!readaloud] 
-> 
 > You hear voices with thick accents.
 ^199
 
@@ -320,8 +298,6 @@ One Vistani thug carries a pouch that holds `2d8` small gemstones (50 gp each).
 
 #### Wights
 
-> [!readaloud] 
-> 
 > The air grows much colder, and you can hear the march of footsteps drawing near.
 ^19c
 
@@ -339,7 +315,6 @@ Refer to map 2 of the castle for areas K1 through K6.
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/024-005.webp#gallery|Map 2: Walls of Ravenloft]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/024-005-player.webp#gallery|Player Version]]
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-02-walls.webp#gallery|Walls of Ravenloft (Battlemap; DM Version)]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-02-walls-player.webp#gallery|Walls of Ravenloft (Battlemap; Player Version)]]
 
@@ -347,8 +322,6 @@ Refer to map 2 of the castle for areas K1 through K6.
 
 As the characters enter the castle, the weather worsens. Dismal rain starts to fall, becoming a torrent within the hour. Lightning routinely lights the sky, followed by peals of thunder that make the castle shudder.
 
-> [!readaloud] 
-> 
 > Thick, cold fog swirls in this courtyard. Sporadic flashes of lightning lance the weeping clouds overhead as thunder shakes the ground. Through the drizzle, you see torch flames fluttering on each side of the keep's open main doors. Warm light spills out of the entrance, flooding the courtyard. High above the entrance is a round window with shards of broken glass lodged in its iron frame.
 ^1a0
 
@@ -366,8 +339,6 @@ Characters who enter a gate tower find themselves on a flagstone floor with a ho
 
 Two gates, one north of the keep and one to the south, prevent easy access to what lies beyond them.
 
-> [!readaloud] 
-> 
 > A massive wall juts out to connect the outer walls of the castle with the keep. A twenty-foot-wide, twenty-foot-tall archway offers passage through the connecting wall but is blocked by a rusting iron portcullis.
 ^1a3
 
@@ -375,8 +346,6 @@ The portcullis is unlocked and can be lifted with a successful DC 15 Strength ch
 
 ### K3. Servants' Courtyard
 
-> [!readaloud] 
-> 
 > This courtyard northeast of the keep is enclosed by towering walls. A stone carriage house with hinged wooden doors stands silent in the corner where the outer walls meet. Across from the carriage house, a slender wooden door reinforced with iron bands leads into the keep.
 ^1a5
 
@@ -386,15 +355,11 @@ The carriage house is described in area K4. The wooden door, which leads to area
 
 Read the following text if the characters open the carriage house doors:
 
-> [!readaloud] 
-> 
 > The double doors swing open to reveal a sleek, black carriage fitted with glass windows and brass lanterns.
 ^1a7
 
 ### K5. Chapel Garden
 
-> [!readaloud] 
-> 
 > At the back of the keep, behind towering buttresses and tall, boarded-up stained-glass windows, a small garden struggles to survive. Small flowers press skyward against the gloom. A pair of large iron gates blocks the way to some kind of overlook.
 ^1a9
 
@@ -402,22 +367,16 @@ The large iron gates squeal loudly on rusted hinges when opened. Beyond them lie
 
 ### K6. Overlook
 
-> [!readaloud] 
-> 
 > Dark clouds overhead drizzle constantly. A flagstone avenue passes between empty outbuildings, leading to a stone-paved overlook. The overlook has a low stone wall adorned with outward-facing gargoyle carvings.
 ^1ab
 
 If a character peers over the balcony, read:
 
-> [!readaloud] 
-> 
 > A flash of lightning illuminates the dismal village of Barovia, its rooftops visible above a smothering blanket of fog one thousand feet below.
 ^1ac
 
 If a character who has a passive Wisdom ([[skills#Perception|Perception]]) score of 15 or higher peers over the wall, add:
 
-> [!readaloud] 
-> 
 > Underneath the platform on which you stand, about one hundred feet down, a stone construction protrudes from the cliff face. Three dirt-caked windows are set into it.
 ^1ad
 
@@ -433,11 +392,9 @@ If your card reading indicates an encounter with [[strahd-von-zarovich-cos|Strah
 
 Refer to map 3 of the castle for areas K7 through K24.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/025-006.webp#gallery|Map 3: Main Floor]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/025-006-player.webp#gallery|Player Version]]
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-03-main-floor.webp#gallery|Main Floor (Battlemap; DM Version)]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-03-main-floor-player.webp#gallery|Main Floor (Battlemap; Player Version)]]
 
@@ -445,29 +402,21 @@ Refer to map 3 of the castle for areas K7 through K24.
 
 Read the following text if the characters approach from the courtyard (area K1):
 
-> [!readaloud] 
-> 
 > The ornate outer doors of the castle hang open, flanked by fluttering torches in iron sconces. Twenty feet inside the castle is a second set of doors.
 ^1b1
 
 If one or more characters approach from area K1 and come within 10 feet of the double doors, read:
 
-> [!readaloud] 
-> 
 > The doors in front of you suddenly swing open, revealing a grand hall filled with the sound of organ music.
 ^1b2
 
 If the characters approach from area K8 and have not yet visited this area, read:
 
-> [!readaloud] 
-> 
 > A set of double doors to the west appears to be, or to lead to, an exit from the castle.
 ^1b3
 
 If the characters enter from either direction, read:
 
-> [!readaloud] 
-> 
 > Overhead, in the vaulted entry foyer, four statues of dragons glare down, their eyes flickering in the torchlight.
 ^1b4
 
@@ -475,8 +424,6 @@ If anyone except Strahd enters this area through the doors that adjoin area K8, 
 
 ### K8. Great Entry
 
-> [!readaloud] 
-> 
 > Cobwebs stretch between the columns that support the vaulted ceiling of a great, dusty hall dimly lit by sputtering torches in iron sconces. The torches cast odd shadows across the faces of eight stone gargoyles squatting motionlessly on the rim of the domed ceiling. Cracked and faded ceiling frescoes are covered by decay. Double doors of bronze stand closed to the east. To the north, a wide staircase climbs into darkness. A lit hallway to the south contains another set of bronze doors, through which you hear sad and majestic organ tones.
 ^1b6
 
@@ -484,8 +431,6 @@ The southern hallway is described in area K9. The wide staircase leads up to are
 
 If the characters are here by invitation, add the following:
 
-> [!readaloud] 
-> 
 > An elf with brown skin and long black hair descends the wide staircase, quiet as a cat. He wears a gray cloak over black studded leather armor and has a polished scimitar hanging from his belt. "My master is expecting you," he says.
 ^1b7
 
@@ -497,8 +442,6 @@ After all the characters leave this room, the eight [[gargoyle-xmm|gargoyles]] a
 
 ### K9. Guests' Hall
 
-> [!readaloud] 
-> 
 > Torchlight flutters against the walls of this vaulted hall. To the east, an arched hallway stretches for twenty feet, ending at a spiral staircase that goes up and down. Next to the hallway, a suit of armor, oiled and glistening, stands at attention in a shallow alcove. To the west, large double doors hang slightly open, and a steady bright light escapes through the opening. Swells of organ music come from behind the doors, spilling their melody of power and defeat into the hall.
 ^1ba
 
@@ -510,10 +453,7 @@ The staircase leads down to area K61 and up to area K30. The double doors provid
 
 The first time the characters enter this room, read:
 
-> [!readaloud] 
-> 
 > Three enormous crystal chandeliers brilliantly illuminate this magnificent chamber. Pillars of stone stand against dull white marble walls, supporting the ceiling. In the center of the room, a long, heavy table is covered with a fine white satin cloth. The table is laden with many delectable foods: roasted beast basted in a savory sauce, roots and herbs of every taste, and sweet fruits and vegetables. Places are set for each of you with fine, delicate china and silver. At each place is a crystal goblet filled with an amber liquid with a delicate, tantalizing fragrance.
-> 
 > At the center of the far west wall, between floor-to-ceiling mirrors, stands a massive organ. Its pipes blare out a thunderous melody that speaks in its tone of greatness and despair. Seated at the organ, facing away from you, a single caped figure pounds the keys in raptured ecstasy. The figure suddenly stops, and as a deep silence falls over the dining hall, it slowly turns toward you.
 ^1bc
 
@@ -529,8 +469,6 @@ The food on the table is tasty, the wine delicious.
 
 ### K11. South Archers' Post
 
-> [!readaloud] 
-> 
 > The castle courtyard is visible through arrow slits in the north and west walls. Leaning against the walls are mirrors of various sizes, some as tall as a human and others small enough to fit in a backpack.
 ^1be
 
@@ -540,8 +478,6 @@ A secret door in the east wall can be pulled open to reveal the back of the pipe
 
 ### K12. Turret Post
 
-> [!readaloud] 
-> 
 > A high, domed ceiling caps the thirty-foot-wide octagonal room before you. Frescoes faded with age adorn the ceiling, but their images are impossible to make out. Tall, thin arrow slits look out over the courtyard.
 ^1c0
 
@@ -549,15 +485,11 @@ Each arrow slit is 2½ feet tall and 4 inches wide.
 
 ### K13. Turret Post Access Hall
 
-> [!readaloud] 
-> 
 > This long, narrow corridor runs east to west. Cobwebs fill the hall, obstructing sight beyond a few feet.
 ^1c2
 
 ### K14. Hall of Faith
 
-> [!readaloud] 
-> 
 > This grand hall is choked with dust and stretches into darkness ahead. Webs hang from the arched ceiling like drapes, and life-sized statues of knights line the hallway on both sides, their eyes seeming to watch you.
 ^1c4
 
@@ -567,10 +499,7 @@ Double doors stand at both ends of the hall. Above the doors leading to area K15
 
 ### K15. Chapel
 
-> [!readaloud] 
-> 
 > Dim, colored light filters through tall, broken, and boarded-up windows of stained glass, illuminating the ancient chapel of Ravenloft. A few bats flutter about near the top of the ninety-foot-high domed ceiling. A balcony runs the length of the west wall, fifty feet above the floor. In the center of the balcony, two dark shapes are slumped in tall chairs.
-> 
 > Benches coated with centuries of dust lie about the floor in jumbled disarray. Beyond this debris, lit by a piercing shaft of light, an altar stands upon a stone platform. The sides of the altar are carved with bas-reliefs of angelic figures entwined with grape vines. The light from above falls directly on a silver statuette. A cloaked figure is draped over the altar, and a black mace lies on the floor near its feet.
 ^1c6
 
@@ -592,8 +521,6 @@ If your card reading indicates an encounter with [[strahd-von-zarovich-cos|Strah
 
 ### K16. North Chapel Access
 
-> [!readaloud] 
-> 
 > This arched room connects a vast chamber to the east and a staircase that rises to the west. Alcoves in the north and south walls hold eight-foot-tall sculptures of helmed knights with muscular builds. Black shadows fall across their faces.
 ^1ca
 
@@ -601,8 +528,6 @@ The statues are harmless. The vast chamber to the east is the chapel (area K15).
 
 ### K17. South Chapel Access
 
-> [!readaloud] 
-> 
 > This arched room connects a vast chamber to the east and the landing of a staircase to the west. To the left of the landing, the stairs curl down into darkness. To the right, the stairs climb into thick drapes of cobwebs. Alcoves in the north and south walls hold eight-foot-tall sculptures of helmed knights with bright blades. Black shadows obscure their faces.
 ^1cc
 
@@ -610,8 +535,6 @@ The statues are harmless. The vast chamber to the east is the chapel (area K15).
 
 ### K18. High Tower Staircase
 
-> [!readaloud] 
-> 
 > The large flagstones of this spiraling staircase lead up and down around a twenty-foot-wide stone core. Cobwebs fill the staircase, making it difficult to see even the ceiling. Heavy beams sag overhead from centuries of supporting weight.
 ^1ce
 
@@ -633,10 +556,7 @@ The bats in the catacombs (area K84) fly up the shaft at night, exiting Castle R
 
 ### K19. Grand Landing
 
-> [!readaloud] 
-> 
 > Massive stairs rise to a landing twenty feet wide by forty feet long. Stone arches support a ceiling covered with frescoes twenty feet overhead. The frescoes depict armored knights on horseback, their finer features faded beyond recognition.
-> 
 > Dust floats in the air here. At each end of the south wall, a staircase rises into darkness. Between the staircases are twin alcoves, each one containing a standing suit of armor covered with dark stains. Each suit of armor clutches a mace, the "business end" of which is shaped like a dragon's head. Words engraved on the arches above the suits of armor have been scratched out.
 ^1d1
 
@@ -650,8 +570,6 @@ The suits of armor act much like metal puppets—a little joke intended to spook
 
 ### K20. Heart of Sorrow
 
-> [!readaloud] 
-> 
 > A mosaic floor adds a touch of color to the otherwise dark, cold, empty tower that rises above you. A spiral staircase rises slowly into darkness, hugging the outer wall. In the center of the room, another set of stairs leads down.
 ^1d3
 
@@ -665,8 +583,6 @@ The stairs ascend another 40 feet to another landing (shown on map 5), with arch
 
 The tower, including the spiral staircase, is alive. When the characters set foot on the staircase for the first time, read:
 
-> [!readaloud] 
-> 
 > As you step onto the spiral staircase, a reddish light flares high overhead, then settles into a dull, pulsing red glow. You now see the full immensity of this tower. The spiral staircase circles up the tower's full height. The tower, sixty feet wide at its base, becomes narrower as it climbs. At the pinnacle of the hollow tower, a large crystal heart pulsates with red light. Above the heart, the stairs continue upward.
 ^1d5
 
@@ -674,7 +590,7 @@ The tower, including the spiral staircase, is alive. When the characters set foo
 
 Have the characters and the Heart of Sorrow roll initiative. If the characters leave the tower and later return, they can reroll initiative, but the heart's initiative count doesn't change.
 
-The awakened tower shakes and pitches on the Heart of Sorrow's initiative count. Any creature on the stairs or hanging on a tower wall at the start of the heart's turn must succeed on a DC 10 Dexterity saving throw or fall to the base of the tower. Characters who are crawling on the staircase or who lie [[conditions#Prone|prone]] on the stairs succeed automatically.
+The awakened tower shakes and pitches on the Heart of Sorrow's initiative count. Any creature on the stairs or hanging on a tower wall at the start of the heart's turn must succeed on a DC 10 Dexterity saving throw or fall to the base of the tower. Characters who are crawling on the staircase or who lie [[conditions#prone|prone]] on the stairs succeed automatically.
 
 The Heart of Sorrow is a 10-foot-diameter red crystal heart that floats near the top of the tower. Characters standing on the nearby stairs can make melee attacks against the heart, provided their weapons have a reach of at least 10 feet. The glass heart has AC 15 and 50 hit points. If the heart is reduced to 0 hit points, it shatters, and its crystal shards transform into blood, which rains down on the tower interior and staircase. The destruction of the Heart of Sorrow causes the tower to stop shuddering, and the interior of the tower becomes dark. Destroying the heart earns the characters 1,500 XP.
 
@@ -696,8 +612,6 @@ This stairway connects areas K20 and K71.
 
 ### K21. South Tower Stair
 
-> [!readaloud] 
-> 
 > Fluttering torches in iron sconces illuminate this spiral staircase. A chill wind rushes down the circling stairway, seeming to kill the very heat of the torches.
 ^1da
 
@@ -705,17 +619,11 @@ These stairs start at area K73 and go up through areas K61, K9, K30, and K35 bef
 
 ### K22. North Archers' Post
 
-> [!readaloud] 
-> 
 > The castle courtyard is visible through arrow slits in the walls.
 ^1dc
 
-Each arrow slit is 2½ feet tall and 4 inches wide.
-
 ### K23. Servants' Entrance
 
-> [!readaloud] 
-> 
 > Dim light filters in through a dust-caked window in the east wall. A door next to the window leads to the castle's northeast courtyard.Everything in this room is coated with dust, including a large, heavy table in the center of the floor. A thick book lies open on a desk, with an inkwell and a quill next to it. There is a broken door in the north wall, and a staircase in the south wall plunges into darkness. On each side of the staircase, a skeletal figure draped in gleaming chain mail stands sagging at attention, holding a rusty halberd.
 ^1de
 
@@ -727,8 +635,6 @@ The ancient book is weathered and brittle, but the ink in the well is fresh. At 
 
 ### K24. Servants' Quarters
 
-> [!readaloud] 
-> 
 > Broken furniture and torn cloth are strewn about this twenty-by-forty-foot room. Dim light comes from a pair of dirt-caked windows in the northeast corner. A narrow staircase with no railing ascends along the north wall.
 ^1e0
 
@@ -738,20 +644,15 @@ The stairs lead to area K34.
 
 Refer to map 4 of the castle for areas K25 through K34.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/028-007.webp#gallery|Map 4: Court of the Count]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/028-007-player.webp#gallery|Player Version]]
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-04-court-revised.webp#gallery|Court of the Count (Battlemap; DM Version)]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-04-court-player-revised.webp#gallery|Court of the Count (Battlemap; Player Version)]]
 
 ### K25. Audience Hall
 
-> [!readaloud] 
-> 
 > Dim light from the courtyard falls into this great hall through the broken glass and iron latticework of a large window in the west wall. This immense room is a place of chilly, brooding darkness. Empty iron sconces dot the walls. Hundreds of dust-laden cobwebs drape the hall, hiding the ceiling from view. Directly across from the window stand a set of double doors in the east wall. Farther south, a single door also leads from the east wall. Staircases at both ends of the north wall lead down.
-> 
 > At the far southern end of the hall, a large wooden throne stands atop a marble dais. The high-backed throne faces south, away from most of the room.
 ^1e3
 
@@ -769,8 +670,6 @@ If your card reading indicates an encounter with [[strahd-von-zarovich-cos|Strah
 
 If the characters enter this hall through either set of double doors, read:
 
-> [!readaloud] 
-> 
 > The doors open to reveal another set of double doors ten feet ahead. Between these doors, a ten-foot-wide corridor stretches north to south. At each end of the hall, floating in the darkness, is a human skeleton clad in the rusted armor and tattered livery of a castle guard.
 ^1e6
 
@@ -780,8 +679,6 @@ If the characters enter this hall by way of the secret door that adjoins area K3
 
 ### K27. King's Hall
 
-> [!readaloud] 
-> 
 > This twenty-foot-high hall has a dark, vaulted ceiling draped with cobwebs. A low moan seems to travel the length of the corridor as it rises and falls, intoning sadness and despair.
 ^1e8
 
@@ -797,8 +694,6 @@ Hidden in a compartment above the western set of double doors is a dressed woode
 
 When one or more characters reach the midpoint of the hall from either direction, read:
 
-> [!readaloud] 
-> 
 > You hear a scraping sound of stone against stone, followed by the squeaking of a bat. In the direction of the noise, you see the fanged visage, outstretched claws, and flapping black cape of a vampire bearing down on you from above! A deep, throaty chuckle fills the hall.
 ^1ea
 
@@ -810,8 +705,6 @@ A character who attacks the mannequin from the floor needs a range of at least 1
 
 ### K28. King's Balcony
 
-> [!readaloud] 
-> 
 > A sculpted stone railing encloses this long balcony, which overlooks Ravenloft's chapel. Two ornate thrones stand side by side in the center of the balcony, covered with dust and strung with cobwebs. The thrones face away from the double doors that give access to the balcony.
 ^1ec
 
@@ -821,8 +714,6 @@ The balcony is 50 feet above the floor of the chapel (area K15). A staircase nor
 
 ### K29. Creaky Landing
 
-> [!readaloud] 
-> 
 > This staircase is made of old wood that strains underfoot, creaking and groaning.
 ^1ee
 
@@ -830,10 +721,7 @@ The staircase climbs from area K16 to area K28. It seems unstable but is sturdy.
 
 ### K30. King's Accountant
 
-> [!readaloud] 
-> 
 > Dusty scrolls and tomes line the walls of this room. More scrolls and books lie scattered on the floor, around four heavy wooden chests fitted with study iron locks. The only unobstructed floor space is directly in front of the doors on the east and west walls.
-> 
 > In the center of this clutter stands a great black desk. A figure crouches atop a tall stool, scratching on a seemingly endless scroll of paper with a dry quill pen. Nearby a tasseled rope hangs from a hole in the ceiling.
 ^1f0
 
@@ -846,7 +734,6 @@ Pulling the rope requires an action. When the rope is pulled, a tremendously lou
 `dice: [](06-chapter-4-castle-ravenloft.md#^creature)`
 
 | dice: d4 | Creature |
-|----------|----------|
 | 1 | `d6` [[shadow-xmm|shadows]] |
 | 2 | `d4` [[vampire-spawn-xmm|vampire spawn]] |
 | 3 | `d4` [[wight-xmm|wights]] |
@@ -867,8 +754,6 @@ Two of the locked chests contain 10,000 cp each. A third chest contains 1,000 gp
 
 ### K31. Trapworks
 
-> [!readaloud] 
-> 
 > The aromas of grease and well-oiled wood hit your nostrils as you pull open the door. This ten-by-twenty-foot room is filled with intricate machinery, except for small spaces between the stone gears and the iron chains and pulleys. On the other side of the machinery, to the south, is a rectangular shaft that rises up from the darkness and continues past this room. Attached to the west wall is a steel plate that has an iron lever protruding downward.
 ^1f3
 
@@ -886,8 +771,6 @@ A secret door in the north wall is easy to spot from this side (no ability check
 
 ### K31a. Elevator Shaft
 
-> [!readaloud] 
-> 
 > Cold air fills this rectangular shaft, the walls of which are coated with mildew and worn smooth. Taut iron chains extend up and down the shaft. The links of the chains are thick and covered with grease.
 ^1f5
 
@@ -899,8 +782,6 @@ Set into the roof of the shaft is a 5-foot-square stone trapdoor that can be pus
 
 ### K31b. Shaft Access
 
-> [!readaloud] 
-> 
 > This ten-foot-square room overlooks a vertical shaft to the south that plunges into darkness and continues upward.
 ^1f7
 
@@ -910,8 +791,6 @@ A door in the north wall is easy to spot from this side (no ability check requir
 
 ### K32. Maid in Hell
 
-> [!readaloud] 
-> 
 > Oil lamps illuminate this long, rectangular chamber with oak-paneled walls. Stained, yellowed lace hangs neatly from eight canopied beds. The figure of a woman moves lithely about the room, dusting furniture and humming quietly. Around her pale, slender neck is a gold necklace with a ruby pendant.
 ^1f9
 
@@ -929,8 +808,6 @@ Helga's gold necklace with its ruby pendant is a gift from Strahd. The necklace 
 
 This dark hall is concealed behind two secret doors.
 
-> [!readaloud] 
-> 
 > This arched corridor has been swept clean. Oak paneling decorates the walls to a height of four feet. Mounted on the east wall above the wood paneling are three unlit oil lamps spaced ten feet apart. A plain wooden door is set into the west wall, and light seeps through its cracks. A staircase at the north end of the west wall ascends into darkness.
 ^1fc
 
@@ -938,15 +815,11 @@ The staircase climbs 40 feet to area K45. The door in the west wall opens into a
 
 ### K34. Servants' Upper Floor
 
-> [!readaloud] 
-> 
 > Dirt-caked windows allow little light to enter this upstairs room. Broken bed frames and torn bits of mattress litter the floors. A tall, dusty wardrobe roughly shaped like a coffin, its black doors painted with fey creatures, stands between two cracked, full-length mirrors hanging on the south wall. A staircase descends along the north wall.
 ^1fe
 
 If someone opens the wardrobe, read:
 
-> [!readaloud] 
-> 
 > A plain white dress yellowed with age flies out of the wardrobe and begins to dance in the middle of the room. The dress flaps around to the music of the storm.
 ^1ff
 
@@ -960,18 +833,14 @@ The staircase leads down to area K24.
 
 Refer to map 5 of the castle for areas K35 through K46.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/030-008.webp#gallery|Map 5: Rooms of Weeping]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/030-008-player.webp#gallery|Player Version]]
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-05-weeping.webp#gallery|Rooms of Weeping (Battlemap; DM Version)]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-05-weeping-player.webp#gallery|Rooms of Weeping (Battlemap; Player Version)]]
 
 ### K35. Guardian Vermin
 
-> [!readaloud] 
-> 
 > A door of delicately engraved steel stands at the west end of this short, dark hallway. Intricate details stand out clearly on the door's surface. The door seems to shine with a light of its own, untouched by time. Flanking the door are two alcoves in shadow. A dark, vaguely man-shaped figure stands in each alcove.
 ^202
 
@@ -981,8 +850,6 @@ The steel door is engraved with images of a human king in armor astride a horse,
 
 ### K36. Dining Hall of the Count
 
-> [!readaloud] 
-> 
 > Dust assaults your lungs. A sweet yet pungent smell of decay fills this room, in the center of which stands a long oak table. A blanket of dust covers the tabletop and its fine china and silverware. In the center of the table, a large, tiered cake leans heavily to one side. The once white frosting has turned green with age. Cobwebs hang like dusty lace down every side of the cake. A single doll figure of a well-dressed woman adorns the crest of the cake. Suspended above is a web-shrouded chandelier of forged iron. An arched window in the south wall is draped with heavy curtains. Resting in a wooden stand by the window is a dusty lute, and standing quietly in the southwest corner is a tall harp shrouded in cobwebs.
 ^204
 
@@ -990,8 +857,6 @@ The wedding cake is over four centuries old, kept in its current rotten state by
 
 If the characters take the groom figurine out of the room, read the following if they return to the room at a later time:
 
-> [!readaloud] 
-> 
 > Billowing drapes draw your eye to the window, which has been broken outward. Scattered about the floor are chunks of the moldy cake, as if something had burst out of it.
 ^205
 
@@ -1014,8 +879,6 @@ The lute, though old and covered in dust, has survived the passage of time. It i
 
 ### K37. Study
 
-> [!readaloud] 
-> 
 > A blazing hearth fire fills this room with rolling waves of red and amber light. The walls are lined with ancient books and tomes, their leather covers well oiled and preserved through careful use. All is in order here. The stone floor is concealed beneath a thick, luxurious rug. In the center of the room is a large, low table, waxed and polished to a mirrored finish. Even the poker in its stand next to the blazing fireplace is polished. Large, overstuffed divans and couches are arranged about the room. Two chairs of burgundy-colored wood with padded leather seats and back cushions face the hearth. A huge painting hangs over the mantelpiece in a heavy, gilded frame. The rolling firelight illuminates the carefully rendered portrait. It is an exact likeness of [[/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos|Ireena Kolyana]].
 ^208
 
@@ -1065,10 +928,7 @@ If your card reading indicates an encounter with [[strahd-von-zarovich-cos|Strah
 
 ### K38. False Treasury
 
-> [!readaloud] 
-> 
 > Resting on the floor of this smoke-filled room is a closed chest surrounded by piles of gold, silver, and copper coins. The fittings and clawed feet on the chest are evidence of great workmanship.
-> 
 > Attached to the east wall are two torch sconces. The southernmost one holds a torch with an intricate metal base. The other is empty. A skeleton in broken plate armor lies against the wall. The skeleton's right hand is on its throat, and its left hand holds the matching torch from the empty sconce.
 ^20d
 
@@ -1086,8 +946,6 @@ The secret door at the northern end of the east wall is sealed shut. If the torc
 
 ### K39. Hall of Webs
 
-> [!readaloud] 
-> 
 > This ancient hall is choked with spider webs broken by a single clear path down its center.
 ^210
 
@@ -1105,8 +963,6 @@ A narrow secret door at the western end of the south wall is hidden behind a mas
 
 ### K40. Belfry
 
-> [!readaloud] 
-> 
 > You can hear the rain and thunder outside, and the air here is cold and damp. Veils and curtains of webbing fill the room, making it hard to gauge its width and depth. A single, narrow path leads to the dark center of the room, where a rope dangles from high above.
 ^213
 
@@ -1118,8 +974,6 @@ At the west end of the north wall, behind thick webs, is a secret door that open
 
 ### K41. Treasury
 
-> [!readaloud] 
-> 
 > This octagonal vault is free of dust and cobwebs. The domed ceiling forty feet above is painted black and sparkles with a display of stars in unfamiliar constellations. Barely contained within this vault is a square tower, twenty feet on a side and thirty feet high, with arrow slits on all sides and a battlemented roof.
 ^215
 
@@ -1143,10 +997,7 @@ If your card reading indicates an encounter with [[strahd-von-zarovich-cos|Strah
 
 ### K42. King's Bedchamber
 
-> [!readaloud] 
-> 
 > Sweet smells waft from this delicately lit room. A great arched window along the west wall is covered by heavy red draperies, their golden tassels glinting in the light of three candelabras sitting atop small tables about the room. Tall white candles burn with bright, steady light.
-> 
 > A large bed, canopied by silk curtains, sits with its headboard against the north wall. Carved into the headboard with great skill is a large "Z." Lying amid the velvet and satin sheets and bedclothes is a young woman in a nightgown. One of her dainty slippers has fallen to the floor at the bed's foot.
 ^219
 
@@ -1164,8 +1015,6 @@ Next to the bed, set into the north wall, is a secret door. It can be pushed ope
 
 ### K43. Bath Chamber
 
-> [!readaloud] 
-> 
 > Red satin curtains hang in archways at both ends of the south wall in this dark room. Between them, in the center of the chamber, stands a large, ornate iron tub with clawed feet. The tub is full of blood.
 ^21b
 
@@ -1177,8 +1026,6 @@ The spirit of Varushka, a maid, haunts this chamber. She took her own life when 
 
 The blood in the tub isn't real, but rather a manifestation of Varushka's tormented spirit. If the blood is disturbed in any way, read:
 
-> [!readaloud] 
-> 
 > A blood-drenched creature explodes out of the tub and attaches to the ceiling, cackling maniacally. Blood pours off its pale flesh, bony limbs, and stringy hair as it scuttles away.
 ^21d
 
@@ -1186,8 +1033,6 @@ The creature that erupts from the tub is no more real than the blood. It can't b
 
 ### K44. Closet
 
-> [!readaloud] 
-> 
 > The walls here are lined with iron hooks, upon which hang black capes and formal wear. Two arched windows in the south wall are covered by heavy curtains.
 ^21f
 
@@ -1195,8 +1040,6 @@ Twenty-eight capes and sixteen sets of fine clothes are stored here. Red satin d
 
 ### K45. Hall of Heroes
 
-> [!readaloud] 
-> 
 > Dark alcoves line the walls of this long hall. The ceiling has fallen here, leaving rubble strewn across the floor. Overhead, the beams of Ravenloft's roof are exposed. Lightning from the dark clouds above sporadically illuminates the hall, lighting the faces of life-sized human statues in the alcoves. Each visage is frozen in terror.
 ^221
 
@@ -1208,8 +1051,6 @@ The stairs at the west end of the hall descend 40 feet to area K33. An open arch
 
 ### K46. Parapets
 
-> [!readaloud] 
-> 
 > You stand on a ten-foot-wide walkway that encircles most of the keep. The drizzle of rain continues, punctuated by the occasional clap of thunder or stroke of lightning. Far below these parapets are the shining wet cobblestones of the courtyard.
 ^223
 
@@ -1223,20 +1064,14 @@ The armor can't be salvaged if it is reduced to 0 hit points.
 
 Refer to maps 6 through 10 of Castle Ravenloft for areas K47 through K60.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/033-009.webp#gallery|Map 6: Spires of Ravenloft]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/033-009-player.webp#gallery|Player Version]]
 
-> [!gallery]
-> ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-06-spires12.webp#gallery "Spires and Tower of Ravenloft (Battlemap; DM Version|Spires and Tower of Ravenl...]]")
-> ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-06-spires12-player.webp#gallery "Spires and Tower of Ravenloft (Battlemap; Player Version|Spires and Tower of Ravenl...]]")
+> !]")
 
 ### K47. Portrait of Strahd
 
-> [!readaloud] 
-> 
 > You come to a dark landing ten feet wide and twenty feet long. A cold draft of wind rushes down the spiral staircase at the north end of the east wall and whistles mournfully through the room before streaming down the stairs to the south.
-> 
 > An ornate, square rug covers the floor to the south. Set into the west wall is an ironbound wooden door with a wooden trapdoor set into the floor in front of it. Hanging on the north wall above the trapdoor is a framed portrait of a handsome, well-dressed man with a serene yet penetrating gaze.
 ^226
 
@@ -1252,8 +1087,6 @@ If the characters attack the rug or the picture, or if they attempt to remove ei
 
 ### K48. Offstair
 
-> [!readaloud] 
-> 
 > This spiraling staircase is dark and dusty.
 ^228
 
@@ -1261,8 +1094,6 @@ This stairway rises from area K47, past area K54, to area K57.
 
 ### K49. Lounge
 
-> [!readaloud] 
-> 
 > As thunder shakes the tower, heavy beams groan under the weight of the ceiling. Three ornate lanterns hang by chains from these beams, each casting a dim glow. The curved west wall is fitted with three windows of leaded glass in steel latticework. A bookcase sits on the east wall between two doors. Plush, overstuffed chairs and couches are placed about the room. The fabric has faded with age, and the patterns it depicts are nearly gone. Lounging on one couch is a handsome young man whose attire, while elegant, is worn and faded.
 ^22a
 
@@ -1282,8 +1113,6 @@ On the third finger of his left hand, [[/03_Mechanics/CLI/bestiary/npc/escher-co
 
 ### K50. Guest Room
 
-> [!readaloud] 
-> 
 > A large bed sits in the center of this room, its four corner posts supporting a black canopy trimmed with gold tassels. Several comfortable divans are placed about the room. There is a banded door in the west wall and a smaller unbanded door in the east wall.
 ^22d
 
@@ -1291,8 +1120,6 @@ There is no danger in this area during the day. But if the characters try to tak
 
 ### K51. Closet
 
-> [!readaloud] 
-> 
 > This small, wood-paneled room reeks of mildew and has a ten-foot-high ceiling. Iron hooks line the walls, and a dusty black cloak hangs from one hook in the center of the south wall.
 ^22f
 
@@ -1302,8 +1129,6 @@ The trapdoor can be found after a search of the room and a successful DC 13 Wisd
 
 ### K52. Smokestack
 
-> [!readaloud] 
-> 
 > Jutting from the steeply sloping rooftop of the castle, a spindly smokestack, five feet in diameter at the top, rises thirty feet above the roof's peak. Smoke belches from its iron-pronged capstone.
 ^231
 
@@ -1311,15 +1136,11 @@ The chimney leads down 60 feet to the blazing fireplace in area K37. A creature 
 
 ### K53. Rooftop
 
-> [!readaloud] 
-> 
 > Rain splashes against the sagging, sloping rooftop. Flashes of lightning illuminate gargoyles perched on the roof's end peaks, their hideous stares forever fixed on the courtyard some one hundred thirty feet below.
 ^233
 
 If a character tries to traverse the rooftop, read:
 
-> [!readaloud] 
-> 
 > Some of the ancient roof tiles slide easily underfoot, easily dropping into the fog-shrouded darkness. Each falling tile resounds with a hollow click as it hits the flagstones of the parapet or courtyard below.
 ^234
 
@@ -1327,8 +1148,6 @@ A character must succeed on a DC 15 Dexterity ([[skills#Acrobatics|Acrobatics]])
 
 ### K54. Familiar Room
 
-> [!readaloud] 
-> 
 > The low ceiling of this twenty-foot-square room presses down on you. Torn and broken couches lie in heaps, haphazardly strewn about. Deep claw marks cover the hardwood furniture, and the once lush upholstery has been sliced to shreds. From the dark shadows amid the rubble, three pairs of green eyes stare back at you.
 ^236
 
@@ -1336,8 +1155,6 @@ The three [[cat-xmm|cats]] are familiars of the witches in area K56. If the fami
 
 ### K55. Element Room
 
-> [!readaloud] 
-> 
 > Heavy beams support the ceiling of this large room, the outer wall of which curves to follow the shape of the tower. Dim light filters into the room through the steel lattice squares of two leaded glass windows. Several tables stand throughout the room, weighed down by stacks of glass jars and bottles, all of them bearing labels.
 ^238
 
@@ -1351,7 +1168,6 @@ There is a secret trapdoor in the northeast corner of the floor. Because of the 
 
 ### K56. Cauldron
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/036-010.webp#gallery|Maps 7-10: Spires and Tower of Ravenloft]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/036-010-player.webp#gallery|Player Version]]
 
@@ -1359,15 +1175,11 @@ Characters who stand outside the door to this room can smell a pungent odor comi
 
 If the witches in this room have not been warned that the characters are coming, the characters can hear their horrid cackling. If the characters open the door slightly, they witness the scene described below:
 
-> [!readaloud] 
-> 
 > Green-glowing wisps of steam bubble up from a fat, black cauldron in the center of this dark, oppressive room. Surrounding the cauldron are several gaunt women in soiled black robes. These witches sit hunched on tall wooden stools, their tangled hair tucked under black, pointed hats. They take turns tossing ingredients into the cauldron, uttering fell incantations, and cackling maniacally.
 ^23a
 
 If the witches know the characters are coming, read the following text instead:
 
-> [!readaloud] 
-> 
 > Green-glowing wisps of steam bubble up from a fat, black cauldron in the center of this dark, oppressive room. Surrounding the cauldron are seven tall wooden stools.
 ^23b
 
@@ -1384,16 +1196,12 @@ Each witch carries a [[potion-of-healing-xdmg|potion of healing]] that she made 
 Not visible from the entrance is a small table behind the cauldron on which sits an opened spellbook, seemingly on the verge of falling apart. The book is evil. Any non-evil creature that touches it or starts its turn with the book in its possession takes 5 (`d10`) psychic damage. The book contains the following spells:
 
 > [!note] 
-> 
 > 1st level: [[burning-hands-xphb|burning hands]], [[charm-person-xphb|charm person]], [[detect-magic-xphb|detect magic]], [[find-familiar-xphb|find familiar]], [[fog-cloud-xphb|fog cloud]], [[mage-armor-xphb|mage armor]], [[protection-from-evil-and-good-xphb|protection from evil and good]], [[ray-of-sickness-xphb|ray of sickness]], [[sleep-xphb|sleep]], [[tashas-hideous-laughter-xphb|Tasha's hideous laughter]], [[unseen-servant-xphb|unseen servant]], [[witch-bolt-xphb|witch bolt]]
-> 
 > 2nd level: [[alter-self-xphb|alter self]], [[arcane-lock-xphb|arcane lock]], [[cloud-of-daggers-xphb|cloud of daggers]], [[darkness-xphb|darkness]], [[enlarge-reduce-xphb|enlarge/reduce]], [[invisibility-xphb|invisibility]], [[knock-xphb|knock]], [[misty-step-xphb|misty step]]
 ^23d
 
 ### K57. Tower Roof
 
-> [!readaloud] 
-> 
 > The sixty-foot-diameter tower roof is rimmed with battlements. A slender stone bridge with no railing spans the gap between this tower and the slightly taller tower to the north. To the east, the high tower of Ravenloft thrusts skyward with no apparent opening at this level. Black, boiling clouds hurl rain down from above.
 ^23f
 
@@ -1401,8 +1209,6 @@ The courtyard is 190 feet below, the roof of the keep 80 feet below. A stone rai
 
 ### K58. Bridge
 
-> [!readaloud] 
-> 
 > A strong wind blows across this slender bridge of stone and masonry. The bridge's old iron railings have rusted away years ago, leaving the bridge without handholds.
 ^241
 
@@ -1412,8 +1218,6 @@ The bridge connects areas K20 and K57. The wind isn't strong enough to knock cre
 
 If the characters climb the stairs to reach the tower peak, read:
 
-> [!readaloud] 
-> 
 > The spiral staircase finally ends at a five-foot-wide stone walkway that circles the shaft. In the center of the tower's highest floor, a fifteen-foot-diameter hole drops into the cold heart of Ravenloft itself. Cold air rushes up out of the shaft, sending a chill through you. Arrow slits line the walls, and aging beams support a steep, cone-shaped roof. One beam and part of the roof have fallen away, leaving a gaping hole open to the stormy sky.
 ^243
 
@@ -1423,8 +1227,6 @@ The hole in the floor forms the mouth of an enclosed shaft (area K18a) that desc
 
 Hiding in the rafters is [[/03_Mechanics/CLI/bestiary/npc/pidlwick-ii-cos|Pidlwick II]] (see appendix D). A character spots [[/03_Mechanics/CLI/bestiary/npc/pidlwick-ii-cos|Pidlwick II]] with a passive Wisdom ([[skills#Perception|Perception]]) score that meets or exceeds its Dexterity ([[skills#Stealth|Stealth]]) check. If [[/03_Mechanics/CLI/bestiary/npc/pidlwick-ii-cos|Pidlwick II]] is spotted, read:
 
-> [!readaloud] 
-> 
 > Something lurks among the rafters—a small, spindly man not much larger than a child. A flash of lightning illuminates his face, which is painted like a grinning jack-o'-lantern.
 ^245
 
@@ -1432,8 +1234,6 @@ Although he appears to be a petite man wearing face paint and a fool's costume, 
 
 If the characters see [[/03_Mechanics/CLI/bestiary/npc/pidlwick-ii-cos|Pidlwick II]] in bright light, read:
 
-> [!readaloud] 
-> 
 > It's obvious that you're looking not at a small man, but a mockery of one. This thing is not a creature of flesh and bone, but a construct made of dyed leather stitched and tightly wrapped over an articulated frame. You hear the soft tumbling and clicking of gears.
 ^246
 
@@ -1447,10 +1247,7 @@ If one or more characters are mean toward [[/03_Mechanics/CLI/bestiary/npc/pidlw
 
 If the characters climb the stairs to this area, read:
 
-> [!readaloud] 
-> 
 > The stairs end at a dark and dreary room with manacles attached to the walls. In the middle of the room is a wood-framed bed fitted with leather restraints. At the foot of the bed rests a closed iron chest, is lid sculpted with an emblem.
-> 
 > A wooden ladder leads up to a trapdoor in the ceiling. Thin streams of water drip through the trapdoor's rotting wood, forming a puddle around the base of the ladder.
 ^248
 
@@ -1476,8 +1273,6 @@ If your card reading indicates an encounter with [[strahd-von-zarovich-cos|Strah
 
 ### K60a. North Tower Rooftop
 
-> [!readaloud] 
-> 
 > A cold wind greets you atop the tower roof, its rain-slicked flagstones surrounded by a twenty-foot-diameter ring of stone battlements. The thunderclouds above suddenly coalesce into the terrible visage of Strahd. The face utters a ghastly moan as thousands of bats fly out of its gaping maw and descend upon the tower.
 ^24d
 
@@ -1489,15 +1284,12 @@ The courtyard lies 260 feet below, and the roof of the keep is 130 feet below.
 
 Refer to map 11 of the castle for areas K61 through K72.
 
-> [!gallery]
-> ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/038-011.webp#gallery "Map 11: Larders of Ill Omen & Map 12: Dungeon and Catacombs"|Map 11: Larders of Ill Ome...]]
+> !]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/038-011-player.webp#gallery|Player Version]]
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-08-larders.webp#gallery|Larders of Ill Omen (Battlemap; DM Version)]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-08-larders-player.webp#gallery|Larders of Ill Omen (Battlemap; Player Version)]]
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-09-dungeons-and-catacombs.webp#gallery|Dungeon and Catacombs (Battlemap; DM Version)]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/map-4-09-dungeons-and-catacombs-player.webp#gallery|Dungeon and Catacombs (Battlemap; Player Version)]]
 
@@ -1505,12 +1297,9 @@ Refer to map 11 of the castle for areas K61 through K72.
 
 See area K31 and the accompanying Elevator Trap diagram before running this encounter.
 
-> [!readaloud] 
-> 
 > This dusty, ten-foot-wide, thirty-foot-long corridor has a flat ceiling ten feet overhead. To the south, a web-filled stairway spirals down into darkness. The north end of the hall ends at a wooden door.
 ^250
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/039-012.webp#gallery|Map: Elevator Trap]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/040-cos401.webp#gallery|Player Version]]
 
@@ -1538,8 +1327,6 @@ The sound of the elevator moving can be heard throughout the castle. Characters 
 
 ### K62. Servants' Hall
 
-> [!readaloud] 
-> 
 > This hall stands in deadly silence. Heavy beams support a sagging, ten-foot-high ceiling. Fog clings to the floor, obscuring everything that lies less than three feet above it. A giant shadow lurches across the ceiling as a dark figure shuffles purposefully down the corridor toward you.
 ^253
 
@@ -1565,8 +1352,6 @@ The double doors at the west end of the hall are made of heavy planks banded wit
 
 ### K63. Wine Cellar
 
-> [!readaloud] 
-> 
 > Arched frames of stone form a low, wet ceiling over this wine cellar. Great casks line the walls, their bands rusting and their contents long since spilled onto the floor. A few hungry rats make their home here, but upon your sudden arrival, they retreat to the shadows.
 ^255
 
@@ -1596,8 +1381,6 @@ If your card reading reveals that a treasure is here, it is inside one of the em
 
 ### K64. Guards' Stair
 
-> [!readaloud] 
-> 
 > The long, hollow sigh of the wind breathes a semblance of life into this otherwise featureless staircase.
 ^25c
 
@@ -1605,8 +1388,6 @@ The stairway starts at area K68 and goes up past area K13 to area K46.
 
 ### K65. Kitchen
 
-> [!readaloud] 
-> 
 > A horrible odor of decay fills this steaming hot room. A huge pot bubbles over a blazing fire pit in the center of the room, its green, muddy contents churning. The far wall is lined with pegs, hanging from which are numerous large cooking implements—some of which could easily double as implements of torture.
 ^25e
 
@@ -1614,8 +1395,6 @@ If a character looks into the pot, three human [[zombie-xmm|zombies]] rise up fr
 
 ### K66. Butler's Quarters
 
-> [!readaloud] 
-> 
 > This twenty-foot-square room is filled wall to wall with clutter. A long, sagging bed sits to one side under a huge faded tapestry that depicts Castle Ravenloft. Dusty lanterns sit in various places, and bright curtains are draped haphazardly about the room. Thousands of pieces of junk cover the floor. Broken swords, crumpled shields, and helmets lie in piles all about.
 ^260
 
@@ -1627,12 +1406,8 @@ If Cyrus is with the party, the characters notice that he is caressing their equ
 
 Once a mess hall for the castle guards, this room is now [[desecrated-ground|desecrated ground]] (see ""Wilderness Hazards"" in chapter 5, "Adventure Environments," of the "Dungeon Master's Guide").
 
-> [!readaloud] 
-> 
 > Dark stains cover the floor of this area. Large oak tables, scarred and beaten, lay scattered like toys about the room, their wood crushed and splintered. Replacing them are furnishings made entirely of human bones.
-> 
 > The walls and the twenty-foot-high vaulted ceiling are a sickly yellow color, not because of faded or timeworn plaster but because they are adorned with bones and skulls arranged in a morbidly decorative fashion, giving the room a cathedral-like quality. Four enormous mounds of bones occupy the corners of this ossuary, and garlands of skulls extend from these mounds to a chandelier of bones that hangs from the ceiling above a long table constructed of bones in the center of the room. Ten chairs made of bones and festooned with decorative skulls surround the table, resting atop which is an ornate, bowl-shaped vessel made of yet more bones.
-> 
 > The doors to the north and south are sheathed in bone, but the steel-banded double doors in the center of the east wall are not. Above these eastern doors is mounted the skull of a dragon.
 ^262
 
@@ -1648,8 +1423,6 @@ If your card reading indicates an encounter with [[strahd-von-zarovich-cos|Strah
 
 ### K68. Guards' Run
 
-> [!readaloud] 
-> 
 > This ten-foot-wide arched corridor is cold and moist. The cold seems to emanate from an open archway in the west wall.
 ^265
 
@@ -1657,8 +1430,6 @@ The archway leads to area K69. A door at the north end of the hall opens into ar
 
 ### K69. Guards' Quarters
 
-> [!readaloud] 
-> 
 > Sickly, yellow lichen covers the ceiling of this cold, damp, ten-foot-wide passage running east and west. Opening off both sides of this passage are ten-foot-square alcoves that contain rotting cots, rags, and the skeletal remains of castle guards. A deathly silence fills the hall.
 ^267
 
@@ -1666,10 +1437,7 @@ The yellow lichen is harmless. When one or more characters reach the midpoint of
 
 ### K70. Kingsmen Hall
 
-> [!readaloud] 
-> 
 > This thirty-foot-square room is a shambles. Scattered furniture lies in heaps near the walls. Broken bones lie scattered amid crumpled and crushed plate armor. Shields and swords jut from the walls as if driven into them by some tremendous force.
-> 
 > Two doors stand opposite one another in the center of the north wall and the south wall. A dark archway leads out through the east wall.
 ^269
 
@@ -1677,8 +1445,6 @@ After Strahd was transformed into a vampire, several of the castle guards retrea
 
 ### K71. Kingsmen Quarters
 
-> [!readaloud] 
-> 
 > This dark passage runs for twenty feet, connecting an archway to the west with an ascending stone staircase to the east. To the north and south are four ten-foot-square alcoves cluttered with rotting cots and dirty rags. The ceilings here are covered with yellow lichen.
 ^26b
 
@@ -1690,8 +1456,6 @@ Three of the alcoves contain nothing of value. A loose flagstone in the southeas
 
 ### K72. Chamberlain's Office
 
-> [!readaloud] 
-> 
 > This shadowy room is in perfect order. A great table stands here with its chair, inkwell, and quill set carefully in place. Lances, swords, and shields that bear the Barovian crest are hung neatly on the dark, oak-paneled walls.
 ^26e
 
@@ -1709,8 +1473,6 @@ Refer to map 12 of the castle for areas K73 through K88.
 
 The following boxed text assumes that the characters arrive by way of the staircase to the east (area K21). Adjust as needed if the characters enter this hall from another direction.
 
-> [!readaloud] 
-> 
 > The stairs descend into black, still water that fills an arched hallway before you. The water's surface is like dark, mirrored glass, disturbed only occasionally by the "thwick" of a drop falling from the ceiling. Twenty feet ahead, arched doorways lead downward from each side of the hallway. In each arched doorway, an iron door stands closed and partially submerged. You hear a weak cry for help from beyond the south door.
 ^271
 
@@ -1728,8 +1490,6 @@ Characters who fall victim to the teleport traps are transported to dungeon cell
 
 The rusty iron door connecting this hall to area K73 is submerged in 5 feet of water and requires a successful DC 10 Strength ([[skills#Athletics|Athletics]]) check to open.
 
-> [!readaloud] 
-> 
 > A mold-covered ceiling hangs three feet above the still, black water that fills this dungeon corridor. The water is five feet deep. Ten-foot-square cells, their entrances blocked by iron bars, line both sides of the hall. One of the cells is dimly lit.
 ^273
 
@@ -1751,8 +1511,6 @@ Scattered across the floor of this cell are 3,000 ep. The coins have the profile
 
 #### K74b. Forgotten Treasure
 
-> [!readaloud] 
-> 
 > The rusted door to this cell hangs open slightly.
 ^277
 
@@ -1764,8 +1522,6 @@ Scattered across the floor of this cell are 300 pp. The coins have the profiled 
 
 #### K74c. Rotting Corpse
 
-> [!readaloud] 
-> 
 > Clinging to the bars of this otherwise empty cell is the rotting corpse of a male half-elf dressed in leather armor.
 ^27a
 
@@ -1781,15 +1537,11 @@ This cell contains nothing of interest.
 
 #### K74e. End of the Ride
 
-This cell is linked to a teleport trap in area K73.
-
 ##### Secret Door
 
 A secret door is 5 feet up from the floor on the north wall of this cell. The secret door can't be opened from this side without the use of a [[knock-xphb|knock]] spell or similar magic. Behind the secret door is a chute of polished black marble that slants upward (area K82).
 
 #### K74f. Empty Cell
-
-This cell contains nothing of interest.
 
 #### K74g. Gray Ooze
 
@@ -1797,12 +1549,8 @@ Clinging to the floor of this cell is a [[gray-ooze-xmm|gray ooze]] that attacks
 
 #### K74h. Lost Sword
 
-> [!readaloud] 
-> 
 > A glowing blade can be seen beneath the water near the back of the cell.
 ^282
-
-This cell is linked to a teleport trap in area K73.
 
 ##### Treasure
 
@@ -1816,10 +1564,6 @@ The sword's purpose is to fight evil. The sword has the following additional pro
 
 ### K75. South Dungeon
 
-The rusty iron door connecting this hall to area K73 is submerged in 5 feet of water and requires a successful DC 10 Strength ([[skills#Athletics|Athletics]]) check to open.
-
-> [!readaloud] 
-> 
 > A mold-covered ceiling hangs three feet above the still, black water that fills this dungeon corridor. The water is five feet deep. Ten-foot-square cells, their entrances blocked by iron bars, line both sides of the hall. From one of the cells, you hear a gruff voice ask, "Who's there?"
 ^285
 
@@ -1827,8 +1571,6 @@ The corridor is 40 feet long. Branching off it are eight cells, four along each 
 
 #### K75a. Prisoner
 
-> [!readaloud] 
-> 
 > A strong young man clutches the bars of his cell while struggling to keep his teeth from chattering. His clothes are shredded, and he is soaked from head to toe.
 ^287
 
@@ -1840,15 +1582,11 @@ In truth, Strahd locked Emil here as punishment for causing a schism in his were
 
 #### K75b. Forgotten Treasure
 
-Characters who enter the cell can feel coins shifting beneath their feet.
-
 ##### Treasure
 
 Scattered across the floor of this cell are 2,100 ep. The coins have the profiled visage of [[strahd-von-zarovich-cos|Strahd von Zarovich]] stamped on them. A character can scoop up one hundred coins every minute.
 
 #### K75c. Empty Cell
-
-This cell contains nothing of interest.
 
 #### K75d. Dead Dwarf
 
@@ -1856,12 +1594,8 @@ This cell is linked to a teleport trap in area K73. The skeletal remains of a dw
 
 #### K75e. Empty Cell
 
-This cell contains nothing of interest.
-
 #### K75f. Dead Wizard
 
-> [!readaloud] 
-> 
 > Shackled to the back wall of this cell is an emaciated figure in a blue robe, its spindly arms spread wide and its head tilted forward. Long, gray hair hangs down in front of the dead man's face.
 ^28e
 
@@ -1869,8 +1603,6 @@ The skeletal figure is all that remains of a human wizard whom Strahd captured a
 
 #### K75g. Hanging Bard
 
-> [!readaloud] 
-> 
 > Pounded into the roof of this cell is a rusted iron pulley, strung through which is a rope that is tied to one of the crossbeams of the barred door. Dangling upside down from the pulley is a man, flabby and stout of build, in tight-fitting leather armor. His boots are bound with rope just below the pulley, his fleshy hands are tied behind his back, and his head is underwater. He isn't moving.
 ^290
 
@@ -1878,12 +1610,8 @@ Strahd had this human bard suspended from the ceiling as a test to see how long 
 
 #### K75h. Empty Cell
 
-This cell contains nothing of interest.
-
 ### K76. Torture Chamber
 
-> [!readaloud] 
-> 
 > Dark, low shapes thrust up out of the still, brackish water that fills this fifty-foot-square room, the ceiling of which is festooned with hanging chains that look like thick, black web strands. A balcony set into the north wall overlooks the room and has two large thrones atop it, with a red velvet curtain behind them.
 ^293
 
@@ -1891,8 +1619,6 @@ The ceiling is 17 feet above the surface of the water, which is 3 feet deep. The
 
 If the characters approach the "dark, low shapes" in the water, read:
 
-> [!readaloud] 
-> 
 > The dark shapes in the water are racks, iron maidens, stocks, and other instruments of torture. The skeletons of their last victims lie within them, their jaws seemingly frozen open in silent screams.
 ^294
 
@@ -1902,8 +1628,6 @@ As soon as one or more characters move more than 10 feet into the room, six [[st
 
 ### K77. Observation Balcony
 
-> [!readaloud] 
-> 
 > Two large, wooden thrones rest on this balcony. Behind the thrones hangs a red velvet curtain thirty feet long. The ceiling here is ten feet high.
 ^296
 
@@ -1911,12 +1635,8 @@ The room continues behind the curtain an additional 10 feet to a wall that has a
 
 ### K78. Brazier Room
 
-> [!readaloud] 
-> 
 > This room is thirty feet square, rising to a twenty-foot-tall flat ceiling. A stone brazier burns fiercely in the center of the room, but its tall white flame produces no heat. The rim of the brazier is carved with seven cup-shaped indentations spaced evenly around the circumference. Within each indentation is a spherical stone, twice the diameter of a human eyeball and made of a colored crystal. No two stones are the same color.
-> 
 > Overhead, a wood-framed hourglass as tall and wide as a dwarf hangs ten feet above the brazier, suspended from the ceiling by thick iron chains. All the sand is stuck in the upper portion of the hourglass, seemingly unable to run down into the bottom. Written in glowing script on the base of the hourglass is a verse in Common.
-> 
 > Two nine-foot-tall iron statues of knights on horseback, poised to charge with swords drawn, stand in deep alcoves facing each other. The brazier sits between them.
 ^298
 
@@ -1924,22 +1644,13 @@ The two statues are [[iron-golem-xmm|iron golems]]. Each horse and rider is cons
 
 The hourglass has AC 12, 20 hit points, immunity to poison and psychic damage, and vulnerability to thunder damage. If the hourglass is reduced to 0 hit points, its glass shatters, causing the sand within it to fall to the floor. The magic writing on the base of the hourglass reads as follows:
 
-> [!note] 
-> 
 > *Cast a stone into the fire:*
-> 
 > *Violet leads to the mountain spire*
-> 
 > *Orange to the castle's peak*
-> 
 > *Red if lore is what you seek*
-> 
 > *Green to where the coffins hide*
-> 
 > *Indigo to the master's bride*
-> 
 > *Blue to ancient magic's womb*
-> 
 > *Yellow to the master's tomb*
 ^299
 
@@ -1966,8 +1677,6 @@ If the brazier, the hourglass, or either [[iron-golem-xmm|golem]] is attacked, t
 
 ### K79. Western Stair
 
-> [!readaloud] 
-> 
 > This staircase of ancient stone is worn smooth. Thick dust covers its steps, and cobwebs choke the passage.
 ^29c
 
@@ -1979,8 +1688,6 @@ Inscribed on the landing, hidden under years of dust, is a [[glyph-of-warding-xp
 
 The glyph triggers the first time a living creature passes over it. Triggering it activates a [[major-image-xphb|major image]] spell, conjuring an illusion of [[strahd-von-zarovich-cos|Strahd von Zarovich]] that appears either halfway up the stairs leading to area K72 or halfway down the stairs leading to area K78, so that the vampire appears in front of the triggering character. When "Strahd" appears, read:
 
-> [!readaloud] 
-> 
 > A sickly mist fills the stairway ahead, then coalesces into the form of the vampire Strahd, his eyes burning red with anger. "You have worn out your welcome," he says. "Whatever gods you believe in cannot save you now!"
 ^29e
 
@@ -1990,15 +1697,11 @@ Have the characters roll initiative. Any attack or spell that hits "Strahd" pass
 
 If the characters enter this area through the door at the bottom of the stairs, read:
 
-> [!readaloud] 
-> 
 > The door creaks open to reveal a stone staircase between rough masonry walls. There is little dust on the steps, but light fog tumbles down the steps from above.
 ^2a0
 
 If the characters enter this area at the top of the staircase, read:
 
-> [!readaloud] 
-> 
 > The rough-hewn corridor ends at a stone staircase that descends to the south. Flanked by walls of rough masonry and relatively free of dust, these stairs descend before ending at a lonely door.
 ^2a1
 
@@ -2006,8 +1709,6 @@ The stairs slope at a 45-degree angle for a distance of 20 feet horizontally, co
 
 ### K81. Tunnel
 
-> [!readaloud] 
-> 
 > This tunnel is cut into the Pillarstone of Ravenloft itself. Its surface is slick, and its ceiling is barely 6 feet high. A lingering fog limits visibility to a few feet.
 ^2a3
 
@@ -2019,8 +1720,6 @@ Near the midpoint of the tunnel is a trapdoor hidden under a layer of fog. Chara
 
 If one or more characters fall through the trapdoor in area K81, read:
 
-> [!readaloud] 
-> 
 > You fall into a chute of polished black marble and slide into the darkness.
 ^2a5
 
@@ -2028,8 +1727,6 @@ The chute plunges from the trapdoor in area K81 through a one-way secret door in
 
 ### K83. Spiral Stair
 
-> [!readaloud] 
-> 
 > Behind the door lies a dark spiral staircase.
 ^2a7
 
@@ -2039,8 +1736,6 @@ The staircase starts at area K78, climbs to a landing at area K83a, and continue
 
 An extension of area K83, this landing is shown on map 11.
 
-> [!readaloud] 
-> 
 > This forty-foot-long corridor connects two spiral stairways, one leading up and the other descending into the depths of Castle Ravenloft. Hanging from an iron rod bolted to the eastern wall is a dusty, ten-foot-square tapestry depicting knights on horseback charging across a battlefield under a bloodred sky. The lead knight rides a black horse and wears a fur-lined black cloak, dark gray armor, and a visored helm shaped like a wolf's head. His sword glows with the light of the sun.
 ^2a9
 
@@ -2052,8 +1747,6 @@ The tapestry depicts Strahd's father, King Barov, leading his fearsome knights i
 
 ### K84. Catacombs
 
-> [!readaloud] 
-> 
 > Buried deep beneath the keep of Ravenloft lie ancient catacombs, with arched ceilings supported by wide, hollow columns that double as crypts. Cobwebs hang limp in the musty air. A thick fog clings to the floor, which is covered in putrid waste. The black ceiling is moving.
 ^2ac
 
@@ -2089,8 +1782,6 @@ The stone door connects not with a crypt, but with a hewn tunnel of stone (area 
 
 *Artista DeSlop—Court Ceiling Painter*
 
-> [!readaloud] 
-> 
 > The domed ceiling of this crypt is painted with an image of imps holding bouquets of colorful flowers. A skeleton draped in rags lies atop a marble slab in the center of the crypt. A wooden box is tucked under one bony hand.
 ^2b0
 
@@ -2100,8 +1791,6 @@ The box is unlocked. It contains seven wood-handled paintbrushes and seven small
 
 *Lady Isolde Yunk (Isolde the Incredible): Purveyor of antiques and imports*
 
-> [!readaloud] 
-> 
 > A skeleton draped in rags lies atop a marble slab in the center of the crypt. Piled all around it, covering the floor, are heaps of old baskets, braziers, bundled tapestries, candlesticks, chairs, chests, cooking utensils, cressets, curtain rods, decanters, dishes, jugs, lamps, scroll cases, tankards, and tinderboxes. None of the junk looks valuable. An old chandelier hangs from the domed ceiling.
 ^2b2
 
@@ -2113,8 +1802,6 @@ Characters could spend hours searching the crypt. Though the antiques here might
 
 If the characters open the door to this crypt, read:
 
-> [!readaloud] 
-> 
 > The apparition of a large, rotund man forms within the dark crypt, its eyes wild with insanity. Large, artificial wings unfold from its back.
 ^2b4
 
@@ -2124,8 +1811,6 @@ Prince Ariel was a terrible man who longed to fly. He attached artificial wings 
 
 *Artank Swilovich: Friend and member of the Barovian Wine Distillers Guild*
 
-> [!readaloud] 
-> 
 > You are greeted by the faint smell of wine. A skeleton draped in rags lies atop a marble slab in the center of the crypt. Heaped around it, covering the entire floor, are thousands of empty wine bottles.
 ^2b6
 
@@ -2143,15 +1828,11 @@ The 10-foot-square section of floor in front of this crypt is a pressure plate t
 
 If the door to the crypt is opened, read:
 
-> [!readaloud] 
-> 
 > This crypt smells of roses. The remains atop its marble slab have disintegrated, except for one thighbone.
 ^2b9
 
 If the characters disturb Saint Markovia's remains, add:
 
-> [!readaloud] 
-> 
 > A ghostly form appears above the dust, so faint that you can barely discern more than part of a face. From this apparition comes the faintest of whispers: "The vampire must be destroyed. Use me as your weapon." With that, it fades away.
 ^2ba
 
@@ -2161,8 +1842,6 @@ A [[detect-magic-xphb|detect magic]] spell reveals that the thighbone radiates a
 
 #### Crypt 7
 
-> [!readaloud] 
-> 
 > The stone door of this crypt lies on the floor, its inscription obscured by fog. The crypt gapes open. A skull, some bones, and a few bits of rusted armor lie atop a marble slab with a leering stone gargoyle squatting at each end.
 ^2bd
 
@@ -2180,8 +1859,6 @@ If your card reading reveals that a treasure is here, it is contained in a secre
 
 *Duchess Dorfniya Dilisnya*
 
-> [!readaloud] 
-> 
 > A skeleton draped in rags lies atop a marble slab in the center of the crypt. Hanging on the back wall is a handsome quilt that depicts a royal feast.
 ^2c0
 
@@ -2191,8 +1868,6 @@ The quilt is magically preserved but not valuable.
 
 *Pidlwick—Fool of Dorfniya*
 
-> [!readaloud] 
-> 
 > A small skeleton wearing the remains of a fool's costume lies atop a stumpy marble slab in the center of the crypt.
 ^2c2
 
@@ -2206,8 +1881,6 @@ If the characters explore this crypt after summoning the ghost of Pidlwick in ar
 
 *Sir Leonid Krushkin (Sir Lee the Crusher): Bigger than life, he loved his jewelry*
 
-> [!readaloud] 
-> 
 > An oversized skeleton draped in jewelry and rags lies atop an elongated marble slab in the center of the crypt. Leaning against the slab is a bloodstained maul strung with cobwebs.
 ^2c5
 
@@ -2221,8 +1894,6 @@ Three jeweled necklaces (worth 750 gp each) are lying across Sir Lee's skeleton.
 
 *Tasha Petrovna—Healer of Kings, Light unto the West, Servant, Companion*
 
-> [!readaloud] 
-> 
 > A skeleton wearing tattered priestly vestments lies atop a marble slab in the center of the crypt. The domed ceiling overhead is painted with a glorious sun mural.
 ^2c8
 
@@ -2232,8 +1903,6 @@ Creatures that would take damage from exposure to sunlight (such as vampires) ha
 
 Draped around the neck of the skeleton is a sun-shaped holy symbol (worth 25 gp). A good-aligned character who picks up the holy symbol hears a ghostly female voice. It whispers the following message:
 
-> [!readaloud] 
-> 
 > "There is a grave to the west, with roses that never die, in a place built by healers, in a village called Krezk. When all turns to darkness, touch this holy symbol to the grave to summon the light and find a treasure long lost."
 ^2ca
 
@@ -2243,8 +1912,6 @@ The message refers to a gravestone in the Abbey of Saint Markovia (chapter 8, ar
 
 *King Troisky—The Three-Faced King*
 
-> [!readaloud] 
-> 
 > There are no bones atop the marble slab in this crypt, only a steel helm with a visor shaped like an angry face.
 ^2cc
 
@@ -2258,8 +1925,6 @@ A creature in the crypt when the gas is released must make a DC 14 Constitution 
 
 *King Katsky (Katsky the Bright): Ruler, inventor, and self-proclaimed time traveler*
 
-> [!readaloud] 
-> 
 > A skeleton draped in rags lies atop a marble slab in the center of the crypt. Lying amid the bones is a stoppered drinking horn, a fat pouch, and a weird-looking scepter made of metal and wood. Above the bones, hanging from the domed ceiling by wires, is a wooden flying contraption that looks like a set of folding dragon wings fitted with leather straps, metal buckles, and taut leather wing flaps.
 ^2ce
 
@@ -2277,10 +1942,6 @@ The glider has AC 12, 1 hit point, and a 15-foot wingspan. Any damage causes it 
 
 *Stahbal Indi-Bhak: A truer friend no ruler ever had. Here lies his family in honor*.
 
-If the characters open the door to this crypt, read:
-
-> [!readaloud] 
-> 
 > A ten-foot-square shaft plunges into darkness. The sound of slowly dripping water echoes up the shaft.
 ^2d1
 
@@ -2290,15 +1951,11 @@ Characters who have [[senses#Darkvision|darkvision]] or a sufficient light sourc
 
 When the characters reach the bottom of the shaft, read:
 
-> [!readaloud] 
-> 
 > At the bottom of the shaft is a dank vault with a ten-foot-high ceiling. The room is awkwardly shaped and smells of rotten meat. Fifteen stone coffins are scattered throughout the vault, all oriented with their heads pointed north. The floor is covered with human bones and rusty swords.
 ^2d3
 
 If a character teleports into a coffin from one of the teleport traps that protect Strahd's tomb (area K86), read the following to that character's player:
 
-> [!readaloud] 
-> 
 > A flash of light explodes around you, and then you are plunged into absolute darkness, suddenly lying in a confined space choked with dust.
 ^2d4
 
@@ -2312,8 +1969,6 @@ The bones and rusty swords cover the floor to a depth of 6 inches, and are the r
 
 *Khazan: His word was power*
 
-> [!readaloud] 
-> 
 > A skeleton draped in rags lies atop a marble slab in the center of the crypt. The skull has black opals set in its eye sockets and shards of amber where its teeth should be.
 ^2d6
 
@@ -2329,8 +1984,6 @@ Any creature that stands inside the crypt and boldly speaks the name "Khazan" ca
 
 *Elsa Fallona von Twitterberg (Beloved Actor): She had many followers*
 
-> [!readaloud] 
-> 
 > A skeleton draped in rags lies atop a marble slab in the center of the crypt. Nine shallow alcoves are carved into the surrounding walls. The back wall of each alcove is painted with a full-body image of a handsome man. Some of the men wear fine clothes; others wear armor. At the feet of each painting rests a skull atop a pile of bones.
 ^2d9
 
@@ -2340,8 +1993,6 @@ The bones in the niches belong to Elsa's nine consorts. There is nothing of valu
 
 *Sir Sedrik Spinwitovich (Admiral Spinwitovich): Confused though he was, he built the greatest naval force ever assembled in a landlocked country*
 
-> [!readaloud] 
-> 
 > An eleven-foot-long funeral barge dominates this crypt, wedged diagonally into the available space. Lying in the boat is a skeleton draped in rags, with hundreds of gold coins piled around it.
 ^2db
 
@@ -2357,8 +2008,6 @@ The crypt is empty and has been swept clean. This is where Strahd intends to kee
 
 *Artimus (Builder of the Keep): Thou standest amidst the monument to his life*
 
-> [!readaloud] 
-> 
 > A skeleton draped in rags lies atop a marble slab in the center of the crypt.
 ^2de
 
@@ -2368,12 +2017,8 @@ This crypt contains nothing of interest.
 
 *Sasha Ivliskova—Wife*
 
-> [!readaloud] 
-> 
 > Webs as thick and pale as linen cover a shapely female form lying atop a marble slab in the center of this dusty, web-filled crypt. You hear a voice issue from the darkness.
-> 
 > "My love, have you come to set me free?"
-> 
 > The woman rises, the shroud of webs clinging to her in a ghastly fashion.
 ^2e0
 
@@ -2385,8 +2030,6 @@ This [[vampire-spawn-xmm|vampire spawn]] is an old wife of Strahd's. Once she re
 
 The creature inside this crypt attacks as soon as the door is opened.
 
-> [!readaloud] 
-> 
 > From the darkness comes a horrifying visage, a spectral elf maiden twisted by the horror of her undead existence. She wails, and the very sound claws at your soul.
 ^2e2
 
@@ -2400,8 +2043,6 @@ Reducing the banshee to 0 hit points causes it to discorporate. Patrina's spirit
 
 Read the following text when the characters investigate Patrina's crypt:
 
-> [!readaloud] 
-> 
 > In the center of the crypt, a skeleton draped in rags lies atop a marble slab, surrounded by thousands of coins.
 ^2e4
 
@@ -2415,8 +2056,6 @@ If she is restored to life by her brother (see "Kasimir's Dark Gift" in the "Spe
 
 *Sir Erik Vonderbucks*
 
-> [!readaloud] 
-> 
 > A gilded man lies atop a marble slab in the center of this otherwise barren crypt.
 ^2e7
 
@@ -2434,19 +2073,13 @@ The first time the characters happen upon this crypt, they see one of their name
 
 *Ivan Ivliskovich, Champion of Winter Dog Racing: The race may go to the swift, but vengeance is for the loser's relatives*
 
-> [!readaloud] 
-> 
 > A skeleton draped in bits of fur lies atop a marble slab in the center of the crypt. The walls and ceiling are covered with plaster painted to make the crypt seem as if it stands in an evergreen forest, surrounded by snow. The plaster has peeled and fallen away in many places, shattering the illusion.
 ^2eb
-
-This crypt contains nothing of interest.
 
 #### Crypt 25
 
 *Stefan Gregorovich: First Counselor to King Barov von Zarovich*
 
-> [!readaloud] 
-> 
 > A skeleton draped in rags lies atop a marble slab in the center of the crypt. Most of the bones appear dusty and neglected, but the skull is well polished.
 ^2ed
 
@@ -2456,17 +2089,12 @@ A [[detect-magic-xphb|detect magic]] spell cast here reveals that Stefan's skull
 
 *Intree Sik-Valoo: He spurned wealth for the knowledge he could take to heaven*
 
-> [!readaloud] 
-> 
-> A skeleton draped in rags lies atop a marble slab in the center of the crypt. Most of the bones appear dusty and neglected, but the skull is well polished.
 ^2ef
 
 A [[detect-magic-xphb|detect magic]] spell cast here reveals that Intree's skull radiates a faint aura of necromancy magic. As long as the skull remains in the crypt, it will answer up to five questions put to it, as though a [[speak-with-dead-xphb|speak with dead]] spell had been cast on it. This property recharges each day at dawn. Unlike Stefan Gregorovich in crypt 25, Intree was well educated and astute. If the skull is questioned about Strahd or the castle, the information it provides is true.
 
 #### Crypt 27
 
-> [!readaloud] 
-> 
 > This crypt is missing its door.
 ^2f1
 
@@ -2476,8 +2104,6 @@ Three [[giant-wolf-spider-xmm|giant wolf spiders]] infest this otherwise empty c
 
 *Bascal Ofenheiss—Chef Deluxe*
 
-> [!readaloud] 
-> 
 > A skeleton draped in white linen lies atop a marble slab in the center of the crypt, clutching a bell to its sunken chest. Fitted over its skull is a tall chef's hat.
 ^2f3
 
@@ -2491,8 +2117,6 @@ Tucked under the chef's hat is an electrum spork with a bejeweled handle (worth 
 
 *Baron Eisglaze Drüf*
 
-> [!readaloud] 
-> 
 > Opening the door causes the air around you to turn as cold as the coldest hell you can imagine. Every surface inside the crypt is covered with thick, brownish mold.
 ^2f6
 
@@ -2508,8 +2132,6 @@ Hidden under the brown mold next to the baron's bones is a [[luck-blade-xdmg|luc
 
 *Prefect Ciril Romulich (Beloved of King Barov and Queen Ravenovia): High Priest of the Most Holy Order*
 
-> [!readaloud] 
-> 
 > A marble slab in the center of the crypt displays a skeleton draped in red vestments, a golden holy symbol clutched in one bony hand. The domed ceiling fifteen feet above is painted to look like a canopy of trees with bright autumn leaves. A narrow stone ledge encircles the crypt ten feet above the floor. Perched on it are dozens of stone ravens, their eyes fixed on the marble slab.
 ^2f9
 
@@ -2523,8 +2145,6 @@ The prefect's gold holy symbol is festooned with tiny gemstones and is worth 750
 
 *We knew him only by his wealth*
 
-> [!readaloud] 
-> 
 > This crypt is empty. Its walls are painted to depict mountains of gold coins.
 ^2fc
 
@@ -2542,8 +2162,6 @@ If your card reading reveals that a treasure is here, it is lying next to the sk
 
 The door to this crypt has no name or epitaph on it.
 
-> [!readaloud] 
-> 
 > This crypt is empty except for two alcoves in the back wall. Above the alcoves are carved the following words: Pass Not These Portals Ye Foolish Mortals
 ^300
 
@@ -2555,8 +2173,6 @@ Creatures that enter the eastern alcove of this crypt are teleported to the east
 
 *Sir Klutz Tripalotsky: He fell on his own sword*
 
-> [!readaloud] 
-> 
 > In the center of this crypt, atop a marble slab, human bones lie amid the empty shell of a suit of rusty plate armor. Plunged through the armor's breastplate is a longsword.
 ^302
 
@@ -2568,8 +2184,6 @@ If the sword is pulled from the armor, Sir Klutz appears as a [[phantom-warrior-
 
 *King Dostron the Hellborn*
 
-> [!readaloud] 
-> 
 > Resting in the center of this crypt is a seven-foot-long gilded sarcophagus, its lid painted with the likeness of a screaming king wearing a crown of horns. Looming behind the sarcophagus is a stuffed owlbear frozen in a roar, with claws outstretched.
 ^304
 
@@ -2585,8 +2199,6 @@ Characters who take the time to pry the gold from the sarcophagus can amass 500 
 
 *Sir Jarnwald the Trickster: The joke was on him*
 
-> [!readaloud] 
-> 
 > A charnel stench fills this empty crypt.
 ^307
 
@@ -2600,19 +2212,12 @@ Sir Jarnwald was "entombed" here, so far as he was pushed into the crypt and dev
 
 Claw marks obliterate the name on this crypt's door.
 
-> [!readaloud] 
-> 
-> A skeleton draped in rags lies atop a marble slab in the center of the crypt.
 ^30a
-
-This crypt contains nothing of interest.
 
 #### Crypt 37
 
 *Gralmore Nimblenobs—Wizard Ordinaire*
 
-> [!readaloud] 
-> 
 > Lying on a marble slab in the center of this crypt is the corpse of a man with a long white beard. His skin clings tightly to his skull and bones, and he wears dusty red robes. Clutched to his chest is a wooden staff that has a brass knob on one end and a marble knob on the other.
 ^30c
 
@@ -2634,15 +2239,11 @@ If your card reading reveals that a treasure is here, it is in the compartment w
 
 When the characters open the door to this crypt, read:
 
-> [!readaloud] 
-> 
 > The stench of brimstone and burnt fur spills from this crypt. In its darkness are three pairs of glowing red eyes.
 ^310
 
 Three [[hell-hound-xmm|hell hounds]] lunge forth and attack, fighting to the death. In the round after they attack, General Grislek's [[wraith-xmm|wraith]] emerges from the crypt, uttering commands to the hounds in Infernal. Once these evil creatures are slain, the characters can inspect the crypt more closely.
 
-> [!readaloud] 
-> 
 > Bits of incinerated bone lie strewn atop a marble slab in the center of the crypt. Lying amid the bones are fragments of a shattered spear with a silvered head. The walls and domed ceiling of the crypt are covered with scorched murals that depict legions of infantry and cavalry clashing on battlefields.
 ^311
 
@@ -2658,8 +2259,6 @@ If your card reading reveals that a treasure is here, it is in a secret compartm
 
 The door to this crypt is larger than all the others, 6 feet wide by 8 feet tall. Removing or resetting the slab requires a successful DC 20 Strength check. When the door is opened, read:
 
-> [!readaloud] 
-> 
 > Dry, hot air and smoke billow from the crypt as a black horse with a flaming mane and fiery hooves emerges. Smoke billows from its nostrils as it rears up to attack.
 ^314
 
@@ -2669,8 +2268,6 @@ The [[nightmare-xmm|nightmare]], [[/03_Mechanics/CLI/bestiary/npc/beucephalus-co
 
 *Tatsaul Eris—Last of the Line*
 
-> [!readaloud] 
-> 
 > A skeleton draped in rags lies atop a marble slab in the center of the crypt. Mounted on the north, east, and south walls are three unlit torches in iron brackets.
 ^316
 
@@ -2682,8 +2279,6 @@ Examination of the skull and bones reveals that they are plaster facsimiles.
 
 A portcullis is closed in the archway into this tomb. Lifting it requires a successful DC 25 Strength check.
 
-> [!readaloud] 
-> 
 > White marble steps descend to a tomb that has a vaulted ceiling thirty feet overhead. A stillness—a calm amid the storm—is felt here. In the center of the tomb, a white marble slab supports an intricately inlaid coffin. Chiseled into the slab is a name: Sergei von Zarovich. To the north, behind the coffin, are three alcoves. A beautifully carved statue stands in each alcove—a stunning young man flanked by two angels—looking as polished and new as the day each was placed there. An iron lever protrudes from the south wall, west of the tomb's entrance.
 ^318
 
@@ -2705,12 +2300,8 @@ If your card reading indicates an encounter with [[strahd-von-zarovich-cos|Strah
 
 A heavy portcullis stands closed in the archway leading to this tomb. Lifting it requires a successful DC 25 Strength check.
 
-> [!readaloud] 
-> 
 > Black marble steps descend to a dark tomb that has a vaulted ceiling thirty feet overhead. The essence of evil permeates the very air. The smell of freshly turned earth is here. Settled into the dirt on the floor is a shining black coffin of finely waxed wood. The coffin's fittings are of brilliant brass, and the lid is closed. South of the coffin are three gloomy alcoves. An iron lever protrudes from the north wall, east of the tomb's entrance.
 ^31c
-
-Raising the lever lifts the portcullis at the top of the stairs. Pulling it down lowers the portcullis.
 
 Lying under the earth near the east wall of the tomb are three [[vampire-spawn-xmm|vampire spawn]] brides dressed in soiled gowns and wearing dirt-encrusted jewelry (see "Treasure" below). They rise to attack anyone who approaches Strahd's coffin.
 
@@ -2742,8 +2333,6 @@ If your card reading indicates an encounter with [[strahd-von-zarovich-cos|Strah
 
 The following text assumes that the characters are approaching from area K84. If they approach this area from area K88, references to descending stairs should be changed to ascending stairs.
 
-> [!readaloud] 
-> 
 > Wide steps descend to a landing flanked by two alcoves. Within each alcove, taking up the full thirty-foot height of the ceiling, is a bronze statue of a warrior holding a spear. A soft blue curtain of light flows between the two alcoves. Dimly visible on the other side of the curtain are more descending stairs.
 ^321
 
@@ -2753,8 +2342,6 @@ A creature of lawful good alignment that moves west to east through the curtain 
 
 ### K88. Tomb of King Barov and Queen Ravenovia
 
-> [!readaloud] 
-> 
 > This tomb rests in hushed silence. Tall, stained glass windows dominate the eastern walls, allowing dim light to fall on two coffins resting atop white marble slabs. The one against the north wall is marked King Barov von Zarovich, and the one against the south wall is marked Queen Ravenovia van Roeyen. The vaulted ceiling thirty feet overhead is inlaid with a beautiful gold mosaic.
 ^323
 
@@ -2782,20 +2369,32 @@ If your card reading indicates an encounter with [[strahd-von-zarovich-cos|Strah
 
 Legends speak of 06 chapter 4 castle ravenloft as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 06 chapter 4 castle ravenloft.
 
-## Adventure Hooks
-
-- A rumor ties 06 chapter 4 castle ravenloft to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 06 chapter 4 castle ravenloft to avert a public scandal.
-- A map overlay reveals a hidden approach to 06 chapter 4 castle ravenloft active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Stars
+
+
+## Plot Hooks
+
+- A journal reveals a betrayal about the cult
+- Someone is hunting an heir for money
+- A stranger needs help investigating before the festival
+- A noble needs help delivering before the new moon
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

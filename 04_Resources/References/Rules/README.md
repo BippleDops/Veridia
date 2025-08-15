@@ -8,11 +8,9 @@ Rule references
 
 This document contains information about README.
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

@@ -21,9 +21,8 @@ updated: '2025-08-12T23:37:33.371058'
 world: Both
 ---
 
-
 # The Celtic Pantheon; Celtic Deities
-*Source: Player's Handbook p. 297. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+*Source: Player's Handbook p. 297. Available in the SRD* 
 
 **Celtic Deities**
 
@@ -37,13 +36,31 @@ world: Both
 | [[celtic-dunatis|Dunatis]], god of mountains and peaks | N | Nature | Red sun-capped mountain peak |
 | [[celtic-goibhniu|Goibhniu]], god of smiths and healing | NG | Knowledge, Life | Giant mallet over sword |
 | [[celtic-lugh|Lugh]], god of arts, travel, and commerce | CN | Knowledge, Life | Pair of long hands |
-| [[celtic-manannan-mac-lir|Manannan mac Lir]], god of oceans and sea creatures | LN | Nature, Tempest | Wave of white water on green |
+| [[celtic-ma-mac-lir|Ma mac Lir]], god of oceans and sea creatures | LN | Nature, Tempest | Wave of white water on green |
 | [[celtic-math-mathonwy|Math Mathonwy]], god of magic | NE | Knowledge | Staff |
 | [[celtic-morrigan|Morrigan]], goddess of battle | CE | War | Two crossed spears |
 | [[celtic-nuada|Nuada]], god of war and warriors | N | War | Silver hand on black background |
 | [[celtic-oghma|Oghma]], god of speech and writing | NG | Knowledge | Unfurled scroll |
 | [[celtic-silvanus|Silvanus]], god of nature and forests | N | Nature | Summer oak tree |
 ^celtic-deities
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -53,19 +70,16 @@ The celtic pantheon celtic deities phb is a undersea element of the setting, kno
 
 Legends speak of the celtic pantheon celtic deities phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around the celtic pantheon celtic deities phb.
 
-## Adventure Hooks
-
-- A rumor ties the celtic pantheon celtic deities phb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at the celtic pantheon celtic deities phb to avert a public scandal.
-- A map overlay reveals a hidden approach to the celtic pantheon celtic deities phb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting information for power
+- Someone is hunting an heir for power

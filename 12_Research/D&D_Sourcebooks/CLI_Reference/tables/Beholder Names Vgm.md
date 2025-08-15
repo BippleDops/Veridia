@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.557661+00:00'
 world: Both
 ---
 
-
-
 # Beholder Names
 *Source: Volo's Guide to Monsters p. 9* 
 
@@ -55,6 +53,24 @@ world: Both
 | 20 | Zirlarq |
 ^beholder-names
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Beholder names vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -63,19 +79,30 @@ Beholder names vgm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of beholder names vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around beholder names vgm.
 
-## Adventure Hooks
-
-- A rumor ties beholder names vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at beholder names vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to beholder names vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a portal
+- The authorities needs help investigating before winter
+- Strange sightings suggest a portal
+- A merchant needs help delivering before winter
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

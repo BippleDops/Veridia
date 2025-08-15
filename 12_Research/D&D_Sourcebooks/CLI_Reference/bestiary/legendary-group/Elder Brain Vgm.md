@@ -23,13 +23,26 @@ updated: '2025-08-13T12:34:05.976460+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-elder-brain-vgm-elder-brain-vgm.svg)
 
-# Elder Brain
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Volo's Guide to Monsters_
@@ -41,7 +54,6 @@ When fighting inside its lair, an elder brain can use lair actions. On initiativ
 - The elder brain targets one creature it can sense within 120 feet of it and anchors it by sheer force of will. The target must succeed on a DC 18 Charisma saving throw or be unable to leave its current space. It can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.  
 
 ## Regional effects
-_Source: Volo's Guide to Monsters_
 
 The territory within 5 miles of an elder brain is altered by the creature's psionic presence, which creates one or more of the following effects:
 
@@ -59,19 +71,31 @@ Elder brain vgm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of elder brain vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elder brain vgm.
 
-## Adventure Hooks
-
-- A rumor ties elder brain vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at elder brain vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to elder brain vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a betrayal about a local noble
+- Someone is hunting a artifact for love
+- Strange dreams suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

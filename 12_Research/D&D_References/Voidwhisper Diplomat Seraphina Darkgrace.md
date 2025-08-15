@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.402024+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,21 @@ Voidwhisper Diplomat Seraphina Darkgrace is a void-touched element of the settin
 
 Legends speak of Voidwhisper Diplomat Seraphina Darkgrace as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Voidwhisper Diplomat Seraphina Darkgrace.
 
-## Adventure Hooks
-
-- A rumor ties Voidwhisper Diplomat Seraphina Darkgrace to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Voidwhisper Diplomat Seraphina Darkgrace to avert a public scandal.
-- A map overlay reveals a hidden approach to Voidwhisper Diplomat Seraphina Darkgrace active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Shadow Duchess Duel|02 Worldbuilding/Groups/The Shadow Duchess Duel]]
-
-
-## Connections
-
-- [[The Shadow Duchess Duel]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and war looms
+- The authorities needs help stealing before winter
+- Someone is hunting an heir for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

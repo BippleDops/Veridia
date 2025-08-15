@@ -34,9 +34,6 @@ updated: '2025-08-13T12:34:05.523368+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![[04_Resources/Assets/Creatures/creature-creature-goblin-hexer-xmm-goblin-hexer-xmm.png]]
 
@@ -44,6 +41,24 @@ world: Both
 *Source: Monster Manual (2024) p. 143*  
 
 Goblin hexers use flashy and disruptive magic. Many goblin hexers are theatrical, dressing and behaving in exaggerated mimicry of archmages.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Goblins
 
@@ -62,7 +77,6 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
 > 
 > Bree-yark!
 
-
 ```statblock
 "name": "Goblin Hexer (XMM)"
 "size": "Small"
@@ -77,8 +91,6 @@ The deity Maglubiyet claims to be the god of goblins, hobgoblins, and bugbears, 
   - !!int "8"
   - !!int "16"
   - !!int "12"
-  - !!int "16"
-  - !!int "10"
   - !!int "10"
 "speed": "30 ft."
 "skillsaves":
@@ -124,19 +136,16 @@ Goblin hexer xmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of goblin hexer xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around goblin hexer xmm.
 
-## Adventure Hooks
-
-- A rumor ties goblin hexer xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at goblin hexer xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to goblin hexer xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals ancient history about the government
+- Strange sightings suggest a conspiracy

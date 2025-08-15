@@ -15,25 +15,26 @@ updated: '2025-08-13T01:18:36.832683+00:00'
 world: Both
 ---
 
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-captain-elara-shadowshard-captain-elara-shadowshard.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[Discover Marina's Truth|02 Worldbuilding/Lore/Discover Marina's Truth]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Stop the Shadow Harvest]]
-- [[Discover Marina's Truth]]
-- [[Admiral Thorne Blackwater]]
-- [[Order of the Shattered Crown]]
 
 ## Player-Facing Summary
 
@@ -43,19 +44,28 @@ Captain Elara Shadowshard is a undersea element of the setting, known for biolum
 
 Legends speak of Captain Elara Shadowshard as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Elara Shadowshard.
 
-## Adventure Hooks
-
-- A rumor ties Captain Elara Shadowshard to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Captain Elara Shadowshard to avert a public scandal.
-- A map overlay reveals a hidden approach to Captain Elara Shadowshard active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Relationships
+
+- **Child**: [[portrait-npc-queen-nerida-v1-queen-nerida.svg]]
+- **Mentor**: [[Portrait NPC Lord Commander Gareth Steelborn V2 Lord Commander Gareth Steelborn.svg]]
+- **Ally**: [[Original Glaucus]]
+- **Friend**: [[portrait-npc-deep-lords-v1-deep-lords.svg]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

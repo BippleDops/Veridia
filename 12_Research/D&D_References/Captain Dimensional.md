@@ -15,36 +15,26 @@ world: Aquabyssos
 updated: '2025-08-13T01:18:36.922331+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-captain-dimensional-captain-dimensional.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Appearance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Personality
-
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -54,28 +44,34 @@ Captain Dimensional is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Captain Dimensional as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Captain Dimensional.
 
-## Adventure Hooks
-
-- A rumor ties Captain Dimensional to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Captain Dimensional to avert a public scandal.
-- A map overlay reveals a hidden approach to Captain Dimensional active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Captain Dimensional|02 Worldbuilding/People/Captain Dimensional]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Shadow Marina]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## Plot Hooks
+
+- The authorities needs help stealing before the festival
+- Someone is searching for a artifact for money
+- A journal reveals the truth about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

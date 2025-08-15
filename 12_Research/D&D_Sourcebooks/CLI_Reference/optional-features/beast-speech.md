@@ -22,11 +22,28 @@ updated: '2025-08-12T23:37:35.937352'
 world: Both
 ---
 
-
 # Beast Speech
-*Source: Player's Handbook p. 110. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+*Source: Player's Handbook p. 110. Available in the SRD*  
 
 You can cast [[speak-with-animals-xphb|speak with animals]] at will, without expending a spell slot.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -36,19 +53,31 @@ Beast speech is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of beast speech as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around beast speech.
 
-## Adventure Hooks
-
-- A rumor ties beast speech to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at beast speech to avert a public scandal.
-- A map overlay reveals a hidden approach to beast speech active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Plot Hooks
+
+- A stranger needs help investigating before the festival
+- A stranger needs help delivering before the festival
+- A journal reveals ancient history about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

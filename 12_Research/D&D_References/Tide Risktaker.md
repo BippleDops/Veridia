@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.451778+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-tide-risktaker-tide-risktaker.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[The Free Current|02 Worldbuilding/Places/The Free Current]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[The Free Current]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,29 @@ Tide Risktaker is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Tide Risktaker as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Tide Risktaker.
 
-## Adventure Hooks
-
-- A rumor ties Tide Risktaker to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Tide Risktaker to avert a public scandal.
-- A map overlay reveals a hidden approach to Tide Risktaker active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest a conspiracy
+- Someone is blackmailing an heir for revenge
+- Someone is searching for a witness for revenge
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

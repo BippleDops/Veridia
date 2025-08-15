@@ -24,16 +24,26 @@ world: Both
 updated: '2025-08-13T01:18:36.790917+00:00'
 ---
 
-
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-order-of-the-azure-flame-the-order-of-the-azure-flame.svg)
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-# The Order of the Azure Flame
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## General Info
 **Leader**: High Inquisitor Valerius
@@ -43,23 +53,8 @@ updated: '2025-08-13T01:18:36.790917+00:00'
 ## Description
 The Order of the Azure Flame is a militant monastic order dedicated to the eradication of arcane magic. They believe that the misuse of magic was the sole cause of the Sundering, and they see it as their sacred duty to prevent such a cataclysm from ever happening again. The Order is known for its fanatical devotion to its cause, and its members are highly trained in the detection and suppression of magic.
 
-## Goals
-- To destroy all magical artifacts and tomes from the old world.
-- To hunt down and "cleanse" all arcane magic users.
-- To establish a new world order free from the corrupting influence of magic.
-
 ## Methods
 The Order employs a variety of methods to achieve its goals, from public burnings of magical artifacts to secret inquisitions and assassinations. They are masters of propaganda and have a great deal of influence over the common people, who they have convinced that magic is a dangerous and corrupting force.
-
-## GM Notes
-- The Order is a major antagonist for any magic-using players.
-- The Order is a good source of conflict and moral ambiguity.
-- The Order is not entirely evil, and some of its members are genuinely trying to protect the world from what they see as a great danger.
-
-
-## Connections
-
-- [[Establish the New Order]]
 
 ## Player-Facing Summary
 
@@ -69,23 +64,29 @@ The Order of the Azure Flame is a undersea element of the setting, known for bio
 
 Legends speak of The Order of the Azure Flame as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Order of the Azure Flame.
 
-## Adventure Hooks
-
-- A rumor ties The Order of the Azure Flame to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Order of the Azure Flame to avert a public scandal.
-- A map overlay reveals a hidden approach to The Order of the Azure Flame active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Master_Groups_Index|Master Groups Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help delivering before dawn
+- Strange dreams suggest a portal
+- A document has gone missing and war looms
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

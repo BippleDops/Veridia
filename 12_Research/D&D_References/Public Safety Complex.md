@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.995680+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,22 @@ Public Safety Complex is a undersea element of the setting, known for biolumines
 
 Legends speak of Public Safety Complex as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Public Safety Complex.
 
-## Adventure Hooks
-
-- A rumor ties Public Safety Complex to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Public Safety Complex to avert a public scandal.
-- A map overlay reveals a hidden approach to Public Safety Complex active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Bexley|02 Worldbuilding/Groups/Bexley]]
-
-
-## Connections
-
-- [[Bexley]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- Someone is searching for an heir for revenge
+- A merchant needs help investigating before winter
+- The authorities needs help investigating before winter

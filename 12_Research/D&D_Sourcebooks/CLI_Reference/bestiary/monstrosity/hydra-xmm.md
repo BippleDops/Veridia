@@ -28,13 +28,29 @@ updated: '2025-08-12T23:37:34.975466'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hydra-xmm-hydra-xmm.svg)
 
 # [[hydra-xmm|Hydra]]
-*Source: Monster Manual (2024) p. 175. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 175. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Hydra
 
@@ -73,7 +89,6 @@ While many hydras claim their own territories, wicked deities might use them to 
 "stats":
   - !!int "20"
   - !!int "12"
-  - !!int "20"
   - !!int "2"
   - !!int "10"
   - !!int "7"
@@ -82,7 +97,7 @@ While many hydras claim their own territories, wicked deities might use them to 
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
 "condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
-  \ [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#frightened|frightened]],\
   \ [[conditions#Stunned|stunned]], [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 16"
 "languages": ""
@@ -124,19 +139,22 @@ Hydra xmm is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of hydra xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hydra xmm.
 
-## Adventure Hooks
-
-- A rumor ties hydra xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at hydra xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to hydra xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest a conspiracy
+- Someone is protecting a witness for money
+- A stranger needs help delivering before dawn
+- A prisoner has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

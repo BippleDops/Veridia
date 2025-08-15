@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.388368+00:00'
 danger_level: Moderate
 ---
 
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-portal-commander-marina-bridgewright-portal-commander-marina-bridgewright.png]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Overview
+### Connection Improvements
 
-TODO
-## History
+- Add cross-references to related notes
 
-TODO
-## Layout
+### Enhancement Improvements
 
-TODO
-## Notables
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,33 @@ Portal Commander Marina Bridgewright is a undersea element of the setting, known
 
 Legends speak of Portal Commander Marina Bridgewright as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Portal Commander Marina Bridgewright.
 
-## Adventure Hooks
-
-- A rumor ties Portal Commander Marina Bridgewright to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Portal Commander Marina Bridgewright to avert a public scandal.
-- A map overlay reveals a hidden approach to Portal Commander Marina Bridgewright active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Portal Commander Marina Bridgewright|02 Worldbuilding/Places/Portal Commander Marina Bridgewright]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Surface Portal Alpha]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

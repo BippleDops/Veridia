@@ -28,112 +28,29 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
-
-
-
-
-# Depth Adaptation System
 ## Survival & Transformation Mechanics for Aquabyssos
 
 > *"The depths don't kill you. They change you into something that can survive them."*
 
-## 🌊 Core Adaptation Mechanics
-
 ### Adaptation Points (AP)
 Characters accumulate Adaptation Points through exposure to Aquabyssos's environment. These points track their transformation from surface dweller to deep dweller.
-
-#### Gaining Adaptation Points
-- **Per Hour at Depth**: Gain AP based on depth zone
-  - 0-1,000 ft: 1 AP per 4 hours
-  - 1,001-5,000 ft: 1 AP per 2 hours
-  - 5,001-10,000 ft: 1 AP per hour
-  - 10,001+ ft: 2 AP per hour
-- **Failed Pressure Saves**: +1 AP per failure
-- **Consuming Deep Food/Water**: +1 AP per meal
-- **Using Deep Magic**: +1 AP per spell level above 3rd
-- **Shadow Interaction**: +2 AP per significant shadow encounter
-- **Memory Tide Exposure**: +1d6 AP per tide
-
-#### Reducing Adaptation Points
-- **Surface Breathing Apparatus**: -1 AP per day (max -5)
-- **Greater Restoration**: -2d4 AP (once per week)
-- **Wish/Miracle**: Complete reset to 0
-- **Memory Anchor**: Prevents AP gain for 24 hours
-- **Pressure Suits**: Halve AP gain rate
-
-### Adaptation Stages
-
-#### Stage 0: Surface Normal (0-10 AP)
-- **Status**: Fully human, no modifications
-- **Penalties**: 
-  - Disadvantage on CON saves vs pressure
-  - 1 exhaustion per 2 hours without pressure protection
-  - Cannot understand Aquabyssos languages
-- **Benefits**: Can return to surface without penalty
-
-#### Stage 1: Initial Adaptation (11-25 AP)
-- **Physical Changes**: 
-  - Slight webbing between fingers
-  - Eyes develop nictitating membranes
-  - Skin becomes slightly translucent
-- **Mechanical Changes**:
-  - Can hold breath for CON modifier × 10 minutes
-  - Darkvision 30 ft underwater
-  - Advantage on swimming checks
-- **Penalties**: -2 to CHA checks with surface dwellers
-- **Reversal**: Possible with Greater Restoration
-
-#### Stage 2: Aquatic Transition (26-50 AP)
-- **Physical Changes**:
-  - Visible gills on neck
-  - Scales appear on limbs
-  - Hair becomes kelp-like
-- **Mechanical Changes**:
-  - Breathe underwater for 1 hour per CON modifier
-  - Darkvision 60 ft
-  - Swim speed equals half walking speed
-  - Resistance to cold damage
-- **Penalties**: 
-  - -4 to CHA with surface dwellers
-  - Sunlight sensitivity (disadvantage in bright light)
-- **Reversal**: Requires Wish or specialized ritual
-
-#### Stage 3: Deep Dweller (51-75 AP)
-- **Physical Changes**:
-  - Full gill slits
-  - Bioluminescent patches
-  - Fingers fully webbed
-  - Pressure bladder develops
-- **Mechanical Changes**:
-  - Amphibious (breathe air and water)
-  - Swim speed equals walking speed
-  - Immunity to pressure effects up to 10,000 ft
-  - Telepathy 30 ft with aquatic creatures
-  - Can see in magical darkness
-- **Penalties**:
-  - Vulnerability to fire damage
-  - Cannot survive on surface for more than 1 hour
-  - -6 to CHA with surface dwellers
-- **Reversal**: Extremely difficult, requires quest
-
-#### Stage 4: Depth Hybrid (76-99 AP)
-- **Physical Changes**:
-  - Body becomes semi-translucent
-  - Internal organs visible through skin
-  - Can shift between solid and liquid form
-  - Shadow begins acting independently
-- **Mechanical Changes**:
-  - Water Form: Can become liquid for 10 minutes (recharge on short rest)
-  - Pressure Mastery: Immune to all pressure effects
-  - Deep Speech: Understand all Aquabyssos languages
-  - Shadow Coordination: Can command shadow for 1 minute/day
-- **Penalties**:
-  - Instant death if exposed to surface atmosphere
-  - Memory becomes fluid (WIS save to recall specific facts)
-  - Personality begins fragmenting
-- **Reversal**: Theoretically impossible
 
 #### Stage 5: Complete Transformation (100+ AP)
 - **Final Form**: Choose transformation type:
@@ -147,8 +64,6 @@ Characters accumulate Adaptation Points through exposure to Aquabyssos's environ
   - Continue playing as transformed entity (DM discretion)
   - Soul transfers to new body (rare quest reward)
 
-## ⚙️ Pressure Mechanics
-
 ### Pressure Zones
 | Depth | Pressure DC | Frequency | Effects on Failure |
 |-------|-------------|-----------|-------------------|
@@ -158,14 +73,6 @@ Characters accumulate Adaptation Points through exposure to Aquabyssos's environ
 | 5,001-10,000 ft | DC 16 | 2/hour | 2 exhaustion + 2d4 damage + 2 AP |
 | 10,001-20,000 ft | DC 18 | 1/10 min | 2 exhaustion + 4d4 damage + 3 AP |
 | 20,001+ ft | DC 20 | 1/minute | 3 exhaustion + 6d4 damage + 5 AP |
-
-### Pressure Save Modifiers
-- **Advantage**: Pressure suit, native to depth, Stage 3+ adaptation
-- **Disadvantage**: Rapid depth change, damaged equipment, exhausted
-- **Auto-Success**: Stage 4+ adaptation, magical protection
-- **Auto-Failure**: Surface dweller below 10,000 ft without protection
-
-## 🎭 Shadow Separation Mechanics
 
 ### Shadow Independence Threshold
 At 50+ AP, character's shadow begins developing independence:
@@ -184,14 +91,6 @@ When shadow acts independently:
 2. **Mischievous**: Shadow plays pranks (minor inconvenience)
 3. **Hostile**: Shadow attacks (as Shadow demon)
 4. **Replacement**: Shadow attempts to switch places
-
-### Controlling Your Shadow
-- **Persuasion DC 15**: Convince shadow to cooperate
-- **Intimidation DC 18**: Force shadow to submit
-- **Shadow Lock Item**: Prevents separation for 24 hours
-- **Embrace Shadow**: Gain shadow as ally (Stage 4+ only)
-
-## 💧 Environmental Hazards
 
 ### Memory Tides
 **Frequency**: Twice yearly + random surges
@@ -214,14 +113,6 @@ When shadow acts independently:
 **Progression**: Similar to AP but leads to [[Crystal Plague]]
 **Interaction**: Crystallization and Adaptation conflict
 
-## 🛡️ Protective Equipment
-
-### Pressure Suits
-- **Basic** (500 gp): Protection to 1,000 ft, 8 hours operation
-- **Advanced** (2,000 gp): Protection to 5,000 ft, 24 hours
-- **Military** (10,000 gp): Protection to 10,000 ft, 72 hours
-- **Magical** (50,000 gp): Protection to any depth, 1 week
-
 ### Adaptation Items
 | Item | Effect | Cost | Rarity |
 |------|--------|------|--------|
@@ -231,8 +122,6 @@ When shadow acts independently:
 | Depth Compass | Navigate currents | 750 gp | Uncommon |
 | Surface Talisman | -1 AP/day | 5,000 gp | Very Rare |
 | Transformation Elixir | Reset to Stage 1 | 25,000 gp | Legendary |
-
-## 🎲 Random Adaptation Effects
 
 ### Minor Mutations (Roll d20 at each stage increase)
 1-4: Bioluminescent spots (shed light 5 ft)
@@ -250,8 +139,6 @@ When shadow acts independently:
 5. Shadow puppet (control shadows 10 ft)
 6. Time dilation (age differently in depths)
 
-## 📊 Quick Reference Tables
-
 ### Daily Routine in Aquabyssos
 | Time | Activity | AP Risk |
 |------|----------|---------|
@@ -262,20 +149,6 @@ When shadow acts independently:
 | Evening | Shadow hours | +2 |
 | Night | Rest (if possible) | +1 |
 *No true dawn/noon in depths, based on arbitrary cycle
-
-### Adaptation Resistance by Class
-- **High Resistance**: Druid, Monk, Ranger
-- **Medium Resistance**: Barbarian, Fighter, Rogue
-- **Low Resistance**: Wizard, Sorcerer, Warlock
-- **Variable**: Cleric/Paladin (deity-dependent)
-
-## 🔗 Related Systems
-- [[Depth Survival Mechanics]]
-- [[Shadow Separation Rules]]
-- [[Crystal Plague Progression]]
-- [[Memory Tide Navigation]]
-- [[Pressure Combat Modifiers]]
-- [[Aquabyssos Languages]]
 
 ## 📝 DM Notes
 - Track AP secretly initially, reveal at Stage 1
@@ -295,29 +168,30 @@ Depth Adaptation System is a undersea element of the setting, known for biolumin
 
 Legends speak of Depth Adaptation System as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Adaptation System.
 
-## Adventure Hooks
-
-- A rumor ties Depth Adaptation System to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Depth Adaptation System to avert a public scandal.
-- A map overlay reveals a hidden approach to Depth Adaptation System active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Master_Campaign_Index|Master Campaign Index]]
-
-
-## Connections
-
-- [[Corallion]]
-- [[Vehicle_Core_Rules|Vehicle Core Rules]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

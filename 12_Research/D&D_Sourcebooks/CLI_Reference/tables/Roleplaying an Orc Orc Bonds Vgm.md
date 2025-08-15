@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.346560+00:00'
 world: Both
 ---
 
-
-
 # Roleplaying an Orc; Orc Bonds
 *Source: Volo's Guide to Monsters p. 87* 
 
@@ -41,6 +39,24 @@ world: Both
 | 6 | I owe my survival to a non-orc. |
 ^orc-bonds
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Roleplaying an orc orc bonds vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -49,19 +65,40 @@ Roleplaying an orc orc bonds vgm is a undersea element of the setting, known for
 
 Legends speak of roleplaying an orc orc bonds vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around roleplaying an orc orc bonds vgm.
 
-## Adventure Hooks
-
-- A rumor ties roleplaying an orc orc bonds vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at roleplaying an orc orc bonds vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to roleplaying an orc orc bonds vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a curse
+- The authorities needs help delivering before the new moon
+- Someone is protecting a artifact for love
+- A journal reveals a betrayal about the government
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

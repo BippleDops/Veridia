@@ -1,4 +1,5 @@
 ---
+
 title: Memoriam   The Forgotten Continent
 type: Location
 tags:
@@ -20,6 +21,8 @@ population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:16.641569+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -27,17 +30,82 @@ world: Both
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-memoriam-the-forgotten-continent-memoriam-the-forgotten-continent.svg]]
 
-
 # Memoriam - The Forgotten Continent
 
 > *"I know I've written about this place before, but I can't find my notes. Each time I investigate, I discover evidence of previous attempts. How many times have I been here?"*
 > — Journal found with no author identification
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+
 ## Overview
 
 Memoriam is a continental paradox—a landmass the size of Abyssos Prime that everyone forgets exists the moment they stop directly observing it. Civilizations have risen and fallen here, leaving behind ruins no one remembers building. Maps show empty ocean where Memoriam sits, yet ships that sail through it arrive at their destinations with missing time and confused crews.
-
-## The Antimemetic Properties
 
 ### The Forgetting Field
 
@@ -62,8 +130,6 @@ Methods discovered (and rediscovered) to maintain some awareness:
 - **Paradox Loops**: Creating logical impossibilities that can't be forgotten
 - **The Forgetting of Forgetting**: Forgetting that you forget sometimes works
 
-## Geographic Mysteries
-
 ### The Uncertain City
 
 A massive metropolis that may or may not exist. Buildings phase in and out of reality based on observation. Streets lead to different destinations each time they're walked.
@@ -80,8 +146,6 @@ Beaches where the same wave breaks eternally because the ocean forgets it alread
 ### The Interior Void
 
 The continent's center is a perfect nothing—not empty space, but the absence of space itself. Travelers who enter emerge from random edges with no time having passed, but aged years.
-
-## Inhabitants (Maybe)
 
 ### The Unremembered Citizens
 
@@ -114,8 +178,6 @@ Rare individuals who somehow remember Memoriam exists. They're cursed with being
 - Journals self-censor mentions of the continent
 - Eventually doubt their own memories
 
-## Economic Paradoxes
-
 ### The Impossible Trade
 
 Ships arrive at ports with cargo they don't remember loading, payment for goods they don't recall selling. Memoriam's economy functions through unconscious transactions.
@@ -128,9 +190,7 @@ Ships arrive at ports with cargo they don't remember loading, payment for goods 
 
 ### The Bank of Unrecorded Wealth
 
-A financial institution that manages accounts no one remembers opening, paying interest on deposits that were never made, funding ventures that won't be remembered.
-
-## Environmental Hazards
+A ficial institution that manages accounts no one remembers opening, paying interest on deposits that were never made, funding ventures that won't be remembered.
 
 ### Memory Storms
 
@@ -149,8 +209,6 @@ Areas where the antimemetic field conflicts with reality:
 - People who are present but were never born
 - Conversations happening in reverse causality
 
-## Quest Hooks
-
 ### "The Persistent Map"
 
 A map that shows Memoriam has appeared, resisting the antimemetic field. Following it leads to the source of the forgetting—and possibly a way to end it.
@@ -162,8 +220,6 @@ A child from Memoriam somehow exists in regular memory. Everyone remembers them,
 ### "The Accumulating Evidence"
 
 The party keeps finding evidence of previous visits to Memoriam they don't remember. Journal entries in their handwriting, contracts they signed, even scars from battles they never fought.
-
-## Hidden Truths
 
 ### The Origin of Forgetting
 
@@ -181,8 +237,6 @@ Memoriam might be where all forgotten things go—every lost memory, abandoned t
 
 Perhaps Memoriam forgets visitors to protect them. Those who fully remember the continent go catastrophically insane from knowledge they weren't meant to have.
 
-## Integration with Campaigns
-
 ### The Parliament of Shadows
 
 Several Shadow Senators come from Memoriam, explaining why no one remembers electing them. They're trying to make the rest of Aquabyssos forgettable too.
@@ -195,42 +249,12 @@ Memoriam is the ultimate weapon—an entire continent that can be strategically 
 
 The eighth shard, the one no one remembers, is hidden in Memoriam. It's the Shard of Forgetting, and it's been actively erasing itself from the prophecy.
 
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
 3. Important buildings/features
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
-
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
-## DM Notes
-
-### Running Memoriam
-
-- Give players incomplete information constantly
-- Have them find evidence of actions they don't remember taking
-- NPCs should be confused about their own existence
-- Use flashbacks to events that never happened
-
-### Memory Management
-
-- Keep secret notes about what happens in Memoriam
-- Reveal these events later as "discovered evidence"
-- Have players make WIS saves to remember crucial information
-- Create paradoxes where players must act on information they've forgotten
 
 ### The Ultimate Mystery
 
@@ -246,11 +270,6 @@ The truth about Memoriam should remain uncertain. Even the DM shouldn't be entir
 *"This journal entry is the only proof I have that Memoriam exists. By the time you read this, you'll have forgotten where you found it. By the time I reread it, I'll have forgotten I wrote it. But somewhere, nowhere, and everywhere, an entire continent of people lives, dies, and forgets, and forgetting, forgets to forget."*
 — Found carved into ...
 
-
-## Connections
-
-- [[The Forgotten One]]
-
 ## Player-Facing Summary
 
 Memoriam   The Forgotten Continent is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -258,35 +277,6 @@ Memoriam   The Forgotten Continent is a undersea element of the setting, known f
 ## Lore Details
 
 Legends speak of Memoriam   The Forgotten Continent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memoriam   The Forgotten Continent.
-
-## Adventure Hooks
-
-- A rumor ties Memoriam   The Forgotten Continent to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Memoriam   The Forgotten Continent to avert a public scandal.
-- A map overlay reveals a hidden approach to Memoriam   The Forgotten Continent active only during specific tides/storms.
-
-## Cross-References
-
-- [[12_Research/D&D_Statblocks/Memoriam - The Forgotten Continent]]
-
-<!-- enriched: true -->
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-quest-the-harbor-war-quest-the-harbor-war.svg]]
-- [[04_Resources_Assets_Locations_location-city-gravity-anomaly-mechanics-v1-gravity-anomaly-mechanics.svg]]
-- [[Pressure Palace]]
-
 
 ## Sensory Details
 
@@ -296,7 +286,6 @@ Legends speak of Memoriam   The Forgotten Continent as a nexus where past and pr
 
 **Smells**: Incense mingles with the scent of exotic spices
 
-
 ## Description
 
 Memoriam - The Forgotten Continent is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -304,34 +293,10 @@ Memoriam - The Forgotten Continent is a notable location characterized by its un
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Memoriam - The Forgotten Continent
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## History
+**Goverce**: Local authority structure
 
 ### Founding
 Memoriam - The Forgotten Continent was established in the distant past, growing from humble beginnings to its current state.
-
-### Major Events
-- **The Foundation**: Original establishment
-- **The Growth**: Period of expansion
-- **The Crisis**: Defining challenge
-- **The Modern Era**: Current situation
-
 
 ## Current Events
 
@@ -344,15 +309,21 @@ Ongoing situations affecting Memoriam - The Forgotten Continent:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Memoriam - The Forgotten Continent
+## Plot Hooks
 
-### Whispered Rumors
-- Stories that may or may not be true
+- A shipment has gone missing and evil awakens
+- A shipment has gone missing and truth emerges
+- Someone is searching for an heir for money
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

@@ -1,4 +1,5 @@
 ---
+
 title: Department of Underwater Transit Authority
 type: Faction
 tags:
@@ -17,31 +18,81 @@ headquarters: Unknown
 membership: Unknown
 updated: '2025-08-13T12:34:17.407657+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
+
 
 ![Department of Underwater Transit Authority](../../../04_Resources/Assets/Generated/Misc/department_of_underwater_transit_authority.png)
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Overview
+### History Improvements
 
-TODO
-## Structure
+- Add three historical eras with major events
 
-TODO
-## Goals
+### Culture Improvements
 
-TODO
-## Assets
+- Define unique cultural practices and taboos
 
-TODO
-## Conflicts
+### Economy Improvements
 
-TODO
-## Hooks
+- Detail currency, trade goods, and wealth distribution
 
-TODO
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
 
 ## Player-Facing Summary
 
@@ -51,101 +102,32 @@ Department of Underwater Transit Authority is a undersea element of the setting,
 
 Legends speak of Department of Underwater Transit Authority as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Department of Underwater Transit Authority.
 
-## Adventure Hooks
-
-- A rumor ties Department of Underwater Transit Authority to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Department of Underwater Transit Authority to avert a public scandal.
-- A map overlay reveals a hidden approach to Department of Underwater Transit Authority active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Pressure Tubes]]
-
-
-## Connections
-
-- [[Pressure Tubes]]
-
-
-## Members
-
-### Notable Members
-- [[Leader Name]] - Current head
-- [[Key Officer]] - Important figure
-- [[Rising Star]] - Ambitious member
-
-### Membership Requirements
-- Skills or qualities needed
-- Initiation process
-- Ongoing obligations
-
-
-## Resources
-
-### Financial
-- Funding sources
-- Wealth level
-- Economic influence
-
-### Physical Assets
-- Properties owned
-- Equipment available
-- Special resources
-
-### Human Resources
-- Member skills
-- Allies and contacts
-- Information networks
-
-
-## Operations
-
-### Regular Activities
-- Day-to-day operations
-- Revenue generation
-- Member services
-
-### Special Operations
-- Covert activities
-- Major projects
-- Crisis responses
-
-
-## Relationships
-
-### Allies
-- Aligned organizations
-- Political supporters
-- Business partners
-
-### Enemies
-- Rival organizations
-- Opposed factions
-- Active threats
-
-### Neutral Parties
-- Potential allies or enemies
-- Trade partners
-- Watching parties
-
-
-## Secrets
-
 ### Open Secrets
 Things widely suspected
 
-### Hidden Truths
-- Real leadership
-- True funding sources
-- Secret objectives
 
-### Deep Mysteries
-- Ancient connections
-- Forbidden knowledge
-- Ultimate goals
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A journal reveals a conspiracy about this place
+- A journal reveals a betrayal about this place
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

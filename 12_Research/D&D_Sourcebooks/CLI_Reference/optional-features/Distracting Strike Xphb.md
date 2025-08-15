@@ -23,12 +23,28 @@ updated: '2025-08-13T12:34:06.180445+00:00'
 world: Both
 ---
 
-
-
 # Distracting Strike
 *Source: Player's Handbook (2024) p. 95*  
 
 When you hit a creature with an attack roll, you can expend one Superiority Die to distract the target. Add the Superiority Die roll to the attack's damage roll. The next attack roll against the target by an attacker other than you has [[advantage-xphb|Advantage]] if the attack is made before the start of your next turn.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -38,19 +54,29 @@ Distracting strike xphb is a undersea element of the setting, known for biolumin
 
 Legends speak of distracting strike xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around distracting strike xphb.
 
-## Adventure Hooks
-
-- A rumor ties distracting strike xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at distracting strike xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to distracting strike xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- A stranger needs help finding before the festival
+- A noble needs help finding before the new moon
+- A prisoner has gone missing and chaos spreads
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

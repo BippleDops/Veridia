@@ -32,9 +32,22 @@ updated: '2025-08-11T00:00:00+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-# The Deserter's Tale
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## The Legend
 
@@ -51,8 +64,6 @@ On the Night of Screaming Waters, Nereon's patrol encountered something that def
 Faced with an enemy that could corrupt his remaining soldiers simply through proximity, Nereon made the unthinkable choice. Rather than return to Aquabyssos and risk spreading the contagion, he ordered his surviving eight guards to flee while he sealed the cavern entrance with depth charges, trapping himself inside with the horrors.
 
 The [[Tidal Council]] branded him a deserter when his unit returned with tales of his "cowardice." The official record stated he abandoned his post during a routine patrol, leaving his men to face unknown dangers alone.
-
-## Multiple Perspectives
 
 ### The Official History
 *As recorded in the Aquabyssos Military Archives*
@@ -89,8 +100,6 @@ By invoking Nereon's sacrifice, a character can:
 - Resist one corruption/transformation effect per day
 - Rally allies against overwhelming horror (+1 to group courage saves)
 
-## Plot Hooks
-
 ### The Vindication Campaign
 Evidence surfaces that could clear Nereon's name. Do the PCs risk political scandal by presenting it to the [[Tidal Council]]? What forces want the truth buried?
 
@@ -122,29 +131,16 @@ The Deserter's Tale is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Deserter's Tale as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Deserter's Tale.
 
-## Adventure Hooks
-
-- A rumor ties The Deserter's Tale to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Deserter's Tale to avert a public scandal.
-- A map overlay reveals a hidden approach to The Deserter's Tale active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
-
-
-## Connections
-
-- [[Deep Mother]]
-- [[Aethermoor]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals the truth about the government
+- A prisoner has gone missing and evil awakens

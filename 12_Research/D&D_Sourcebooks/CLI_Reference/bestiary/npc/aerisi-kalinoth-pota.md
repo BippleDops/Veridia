@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.796304'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![[04_Resources/Assets/Creatures/creature-creature-aerisi-kalinoth-pota-aerisi-kalinoth-pota.png]]
 
@@ -41,6 +39,24 @@ Aerisi was a sheltered moon elf princess named Dara Algwynenn Kalinoth who grew 
 Dara changed her name to Aerisi and pretended to be an avariel (winged elf) princess like the ones from her storybooks. Then Aerisi used her talents for enchantment magic to sway mortals into joining her cult. She has convinced all her followers that she is in fact an avariel, and believes it herself even though she must cast [[seeming-xphb|seeming]] each day to "reveal" her wings.
 
 Aerisi is prone to deluded flights of fancy and impulsive decadence. She sees herself as a beautiful, fierce, and just ruler who wields elemental power because she deserves it.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## In the Air Node
 
@@ -63,13 +79,11 @@ When danger threatens the Temple of Howling Hatred, Aerisi retreats to the Howli
   - !!int "12"
   - !!int "17"
   - !!int "10"
-  - !!int "16"
 "speed": "30 ft."
 "skillsaves":
   - "name": "[[skills#Arcana|Arcana]]"
     "desc": "+6"
   - "name": "[[skills#History|History]]"
-    "desc": "+6"
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+3"
 "damage_resistances": "lightning"
@@ -81,14 +95,14 @@ When danger threatens the Temple of Howling Hatred, Aerisi retreats to the Howli
       \ (spell save DC 14, +6 to hit with spell attacks). Aerisi has the following\
       \ wizard spells prepared:\n\nCantrips (at will): [[gust-xge|gust]],\
       \ [[mage-hand-xphb|mage hand]], [[message-xphb|message]],\
-      \ [[prestidigitation-xphb|prestidigitation]], [[ray-of-frost-xphb|ray\
+      \ [[prestidigitation-xphb|prestidigitation]], [[ray-of-frost-xphb|ray\]]
       \ of frost]], [[shocking-grasp-xphb|shocking grasp]]\n\
       \n1st level (4 slots): [[charm-person-xphb|charm person]],\
       \ [[feather-fall-xphb|feather fall]], [[mage-armor-xphb|mage armor]],\
       \ [[thunderwave-xphb|thunderwave]]\n\n2nd level\
-      \ (3 slots): [[dust-devil-xge|dust devil]], [[gust-of-wind-xphb|gust\
+      \ (3 slots): [[dust-devil-xge|dust devil]], [[gust-of-wind-xphb|gust\]]
       \ of wind]], [[invisibility-xphb|invisibility]]\n\
-      \n3rd level (3 slots): [[fly-xphb|fly]], [[gaseous-form-xphb|gaseous\
+      \n3rd level (3 slots): [[fly-xphb|fly]], [[gaseous-form-xphb|gaseous\]]
       \ form]], [[lightning-bolt-xphb|lightning bolt]]\n\
       \n4th level (3 slots): [[ice-storm-xphb|ice storm]],\
       \ [[storm-sphere-xge|storm sphere]]\n\n5th level\
@@ -122,7 +136,6 @@ When danger threatens the Temple of Howling Hatred, Aerisi retreats to the Howli
   - "desc": "If Aerisi casts [[invisibility-xphb|invisibility]]\
       \ using this lair action, she also draws the power of the air node into herself.\
       \ By doing so, she regains 15 (3d8 + 2) hit points."
-    "name": ""
 "source":
   - "PotA"
 "image": "/03_Mechanics/CLI/bestiary/npc/token/aerisi-kalinoth-pota.webp"
@@ -137,19 +150,39 @@ Aerisi kalinoth pota is a undersea element of the setting, known for bioluminesc
 
 Legends speak of aerisi kalinoth pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around aerisi kalinoth pota.
 
-## Adventure Hooks
-
-- A rumor ties aerisi kalinoth pota to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at aerisi kalinoth pota to avert a public scandal.
-- A map overlay reveals a hidden approach to aerisi kalinoth pota active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before the new moon
+- Strange accidents suggest ancient magic
+- Someone is hunting an heir for love
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

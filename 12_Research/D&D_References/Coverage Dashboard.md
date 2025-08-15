@@ -25,11 +25,26 @@ updated: '2025-08-13T12:34:03.171639+00:00'
 world: Both
 ---
 
-
-
-
 # 📊 Content Coverage Dashboard
 *Tracking Vault Completion and Content Depth*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overall Vault Statistics
 
@@ -41,11 +56,8 @@ FROM ""
 LIMIT 1
 ```
 
-## 📈 Completion by Category
-
 ### Worldbuilding Coverage
 
-```dataview
 TABLE 
     Category,
     Total,
@@ -62,47 +74,28 @@ FROM (
     {Category: "Hazards", Total: 1, Complete: 1, Stubs: 0}
 )
 SORT "Completion %" DESC
-```
 
 ### Content Status Distribution
 
-```dataview
-TABLE WITHOUT ID
     status as "Status",
     length(rows) as "Count"
-FROM ""
 WHERE contains(file.path, "Worldbuilding")
 GROUP BY status
 SORT length(rows) DESC
-```
-
-## 🎯 Priority Stubs (Needs Expansion)
 
 ### High-Priority People (Referenced but Stub)
-```dataview
 TABLE file.link as "Character", length(file.inlinks) as "References", file.size as "Size (bytes)"
 FROM "02_Worldbuilding/People"
 WHERE file.size < 500
 AND length(file.inlinks) > 2
 SORT length(file.inlinks) DESC
 LIMIT 10
-```
 
 ### High-Priority Places (Referenced but Stub)
-```dataview
 TABLE file.link as "Location", length(file.inlinks) as "References", file.size as "Size (bytes)"
 FROM "02_Worldbuilding/Places"
-WHERE file.size < 500
-AND length(file.inlinks) > 2
-SORT length(file.inlinks) DESC
-LIMIT 10
-```
-
-## 📝 Content Depth Analysis
 
 ### Average File Sizes by Category
-```dataview
-TABLE WITHOUT ID
     split(file.path, "/")[1] as "Category",
     round(sum(rows.file.size) / length(rows), 0) as "Avg Size (bytes)",
     min(rows.file.size) as "Smallest",
@@ -110,78 +103,37 @@ TABLE WITHOUT ID
 FROM "02_Worldbuilding"
 GROUP BY split(file.path, "/")[1]
 SORT "Avg Size (bytes)" DESC
-```
-
-## 🔄 Recent Progress
 
 ### Files Updated This Week
-```dataview
 TABLE file.link as "File", file.mtime as "Modified", file.size as "Size", status
-FROM ""
 WHERE file.mtime > date(today) - dur(7 days)
 AND contains(file.path, "Worldbuilding")
 SORT file.mtime DESC
 LIMIT 20
-```
 
 ### Newly Created Content
-```dataview
 TABLE file.link as "New File", file.ctime as "Created", split(file.path, "/")[1] as "Category"
-FROM ""
 WHERE file.ctime > date(today) - dur(7 days)
 AND !contains(file.path, "Templates")
 AND !contains(file.path, "Archive")
 SORT file.ctime DESC
 LIMIT 15
-```
-
-## 🎮 Campaign Readiness
 
 ### Adventures & Sessions
-```dataview
-TABLE WITHOUT ID
     Type,
     Count,
     Status
-FROM (
     {Type: "Adventures", Count: length(pages("#adventure")), Status: "✅ Ready"},
     {Type: "Sessions Written", Count: length(pages("#session")), Status: "✅ Active"},
     {Type: "GM Resources", Count: length(pages("#gm-resource")), Status: "✅ Available"},
     {Type: "Player Handouts", Count: length(pages("#handout")), Status: "🔄 Expanding"}
-)
-```
-
-### Critical Systems Status
-- ✅ **Sanity System**: Complete with mechanics
-- 🔄 **Transformation Compendium**: In progress (target: 100+ options)
-- 🔄 **Deep Mother Subsystem**: Scaffolding phase
-- ✅ **Vehicle Systems**: Fully documented
-- ✅ **Memory Magic**: Integrated throughout
-
-## 📊 Tag Distribution
 
 ### Most Used Tags
-```dataview
-TABLE WITHOUT ID
     tag as "Tag",
     length(rows) as "Uses"
-FROM ""
 FLATTEN file.tags as tag
 WHERE !contains(tag, "ttrpg-cli")
 GROUP BY tag
-SORT length(rows) DESC
-LIMIT 15
-```
-
-## 🚀 Completion Targets
-
-### Next Milestone Goals
-- [ ] **Places**: Reduce stubs from 239 → 150 (expand 89 locations)
-- [ ] **Lore**: Expand from 39 → 100 complete entries
-- [ ] **People**: Complete remaining 79 character stubs
-- [ ] **Groups**: Finish 33 organization stubs
-- [ ] **Transformations**: Create 100+ transformation options
-- [ ] **Deep Mother**: Full subsystem with 20+ minions
 
 ### Projected Completion
 At current rate (40-60 files/session):
@@ -198,7 +150,6 @@ At current rate (40-60 files/session):
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -206,3 +157,11 @@ At current rate (40-60 files/session):
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

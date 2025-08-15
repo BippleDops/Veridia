@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:35.195853+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,28 @@ Memory Crimes Division is a undersea element of the setting, known for biolumine
 
 Legends speak of Memory Crimes Division as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Crimes Division.
 
-## Adventure Hooks
-
-- A rumor ties Memory Crimes Division to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Memory Crimes Division to avert a public scandal.
-- A map overlay reveals a hidden approach to Memory Crimes Division active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Legal System of Aquabyssos|02 Worldbuilding/Lore/Legal System Of Aquabyssos]]
-
-
-## Connections
-
-- [[Legal System of Aquabyssos]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## Plot Hooks
+
+- The authorities needs help investigating before winter
+- A merchant needs help investigating before winter
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

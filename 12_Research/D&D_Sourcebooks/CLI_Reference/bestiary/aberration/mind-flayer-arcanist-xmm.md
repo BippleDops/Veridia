@@ -16,7 +16,7 @@ tags:
 - active
 - ttrpg-cli/monster/cr/11
 - status/in-progress
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 cssclasses: json5e-monster
@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.350533'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Generated/Creatures/creature-creature-mind-flayer-arcanist-xmm-mind-flayer-arcanist-xmm.svg)
 
@@ -36,6 +34,24 @@ world: Both
 *Source: Monster Manual (2024) p. 214*  
 
 Mind flayer arcanists enhance their psionic abilities with magic. Other mind flayers view those that undertake such experiments with disgust and fear.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Mind Flayers
 
@@ -81,7 +97,6 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
   - !!int "13"
   - !!int "20"
   - !!int "17"
-  - !!int "17"
 "speed": "30 ft., fly 30 ft. (hover)"
 "saves":
   - "dexterity": !!int "6"
@@ -94,11 +109,10 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
   - "name": "[[skills#Insight|Insight]]"
     "desc": "+7"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+7"
   - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+6"
 "damage_immunities": "psychic"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]]"
 "senses": "darkvision 120 ft., passive Perception 17"
 "languages": "Deep Speech, Undercommon; telepathy 120 ft."
 "cr": "11"
@@ -124,7 +138,7 @@ Mind flayers work as lone schemers, in mysterious cabals, or as part of worlds-s
   - "desc": "The mind flayer casts one of the following spells, requiring no spell\
       \ components and using Intelligence as the spellcasting ability (spell save\
       \ DC 17):\n\nAt will: [[detect-magic-xphb|Detect Magic]],\
-      \ [[detect-thoughts-xphb|Detect Thoughts]], [[disguise-self-xphb|Disguise\
+      \ [[detect-thoughts-xphb|Detect Thoughts]], [[disguise-self-xphb|Disguise\]]
       \ Self]], [[mage-hand-xphb|Mage Hand]]\
       \ (the hand is Invisible)\n\n1/day each: [[clairvoyance-xphb|Clairvoyance]],\
       \ [[dimension-door-xphb|Dimension Door]], [[fireball-xphb|Fireball]]\
@@ -155,19 +169,37 @@ Mind flayer arcanist xmm is a undersea element of the setting, known for biolumi
 
 Legends speak of mind flayer arcanist xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mind flayer arcanist xmm.
 
-## Adventure Hooks
-
-- A rumor ties mind flayer arcanist xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at mind flayer arcanist xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to mind flayer arcanist xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Winds
+
+
+## Plot Hooks
+
+- A journal reveals a conspiracy about the government
+- Strange dreams suggest ancient magic
+- A map reveals the truth about this place
+- Someone is hunting information for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

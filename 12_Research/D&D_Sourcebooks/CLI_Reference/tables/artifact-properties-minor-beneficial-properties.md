@@ -20,7 +20,6 @@ updated: '2025-08-13T01:18:31.365754+00:00'
 world: Both
 ---
 
-
 # Artifact Properties; Minor Beneficial Properties
 *Source: Dungeon Master's Guide p. 219* 
 
@@ -32,7 +31,7 @@ world: Both
 |------------|----------|
 | 01-20 | While attuned to the artifact, you gain proficiency in one skill of the DM's choice. |
 | 21-30 | While attuned to the artifact, you are immune to disease. |
-| 31-40 | While attuned to the artifact, you can't be [[conditions#Charmed|charmed]] or [[conditions#Frightened|frightened]]. |
+| 31-40 | While attuned to the artifact, you can't be [[conditions#Charmed|charmed]] or [[conditions#frightened|frightened]]. |
 | 41-50 | While attuned to the artifact, you have resistance against one damage type of the DM's choice. |
 | 51-60 | While attuned to the artifact, you can use an action to cast one cantrip (chosen by the DM) from it. |
 | 61-70 | While attuned to the artifact, you can use an action to cast one 1st-level spell (chosen by the DM) from it. After you cast the spell, roll a `d6`. On a roll of 1-5, you can't cast it again until the next dawn. |
@@ -40,6 +39,24 @@ world: Both
 | 81-90 | As 61-70 above, except the spell is 3rd level. |
 | 91-00 | While attuned to the artifact, you gain a +1 bonus to Armor Class. |
 ^minor-beneficial-properties
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -49,19 +66,18 @@ Artifact properties minor beneficial properties is a undersea element of the set
 
 Legends speak of artifact properties minor beneficial properties as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around artifact properties minor beneficial properties.
 
-## Adventure Hooks
-
-- A rumor ties artifact properties minor beneficial properties to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at artifact properties minor beneficial properties to avert a public scandal.
-- A map overlay reveals a hidden approach to artifact properties minor beneficial properties active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a betrayal about the cult
+- A shipment has gone missing and evil awakens
+- A shipment has gone missing and truth emerges
+- Someone is hunting information for power

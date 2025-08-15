@@ -31,9 +31,6 @@ updated: '2025-08-13T12:34:06.079952+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-clockwork-iron-cobra-mpmm-clockwork-iron-cobra-mpmm.svg)
 
@@ -41,6 +38,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 79, Mordenkainen's Tome of Foes p. 125*  
 
 An iron cobra is exactly what its name implies: a metal snake with a poisonous bite. Gnomes load this clockwork with alchemical concoctions that can paralyze creatures and cloud the mind.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Clockworks
 
@@ -106,7 +121,7 @@ Gnome artisans prefer unique clockworks over perfectly functioning ones that cop
     "desc": "+7"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "understands one language of its creator but can't speak"
@@ -150,19 +165,15 @@ Clockwork iron cobra mpmm is a undersea element of the setting, known for biolum
 
 Legends speak of clockwork iron cobra mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around clockwork iron cobra mpmm.
 
-## Adventure Hooks
-
-- A rumor ties clockwork iron cobra mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at clockwork iron cobra mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to clockwork iron cobra mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

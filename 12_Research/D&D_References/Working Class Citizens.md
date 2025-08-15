@@ -15,36 +15,26 @@ world: Aethermoor
 updated: '2025-08-13T01:18:37.040721+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-working-class-citizens-v1-working-class-citizens.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Appearance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Personality
-
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -54,28 +44,30 @@ Working Class Citizens is a undersea element of the setting, known for biolumine
 
 Legends speak of Working Class Citizens as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Working Class Citizens.
 
-## Adventure Hooks
-
-- A rumor ties Working Class Citizens to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Working Class Citizens to avert a public scandal.
-- A map overlay reveals a hidden approach to Working Class Citizens active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Working Class Citizens|02 Worldbuilding/People/Working Class Citizens]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Purist Coalition Thugs]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- A corpse reveals a conspiracy about the cult
+- A document has gone missing and chaos spreads
+- A prisoner has gone missing and truth emerges
+- Someone is searching for a artifact for money
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

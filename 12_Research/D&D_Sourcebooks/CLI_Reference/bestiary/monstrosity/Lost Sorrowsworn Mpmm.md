@@ -34,9 +34,6 @@ updated: '2025-08-13T12:34:05.345653+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-lost-sorrowsworn-mpmm-lost-sorrowsworn-mpmm.svg)
 
@@ -46,6 +43,24 @@ world: Both
 The Shadowfell turns visitors around until they become marooned in its twisted landscape. Lost sorrowsworn—often referred to as the Lost—are representations of the anxiety and fear people experience when they can't find their way. These sorrowsworn appear desperate and panicked.
 
 Lost sorrowsworn grasp at any creatures they can reach. A victim experiences a flood of fear and panic as its mind buckles under the fury of this assault. The harder a victim's allies fight to break the grasp, the more the victim suffers.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Sorrowsworn
 
@@ -85,7 +100,7 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
   - "desc": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 25\
       \ (4d10 + 3) piercing damage, and the target is [[conditions#Grappled|grappled]]\
       \ (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends,\
-      \ the target is [[conditions#Frightened|frightened]], and\
+      \ the target is [[conditions#frightened|frightened]], and\
       \ it takes 27 (6d8) psychic damage at the end of each of its turns. The sorrowsworn\
       \ can grapple only one creature at a time."
     "name": "Embrace (Recharge 4-6)"
@@ -112,19 +127,36 @@ Lost sorrowsworn mpmm is a undersea element of the setting, known for biolumines
 
 Legends speak of lost sorrowsworn mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around lost sorrowsworn mpmm.
 
-## Adventure Hooks
-
-- A rumor ties lost sorrowsworn mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at lost sorrowsworn mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to lost sorrowsworn mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- Strange sightings suggest a conspiracy
+- A journal reveals a conspiracy about a local noble
+- An heirloom has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

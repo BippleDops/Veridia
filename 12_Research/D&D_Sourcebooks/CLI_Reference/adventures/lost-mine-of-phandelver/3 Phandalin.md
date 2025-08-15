@@ -16,11 +16,7 @@ updated: '2025-08-13T12:34:05.016766+00:00'
 world: Both
 ---
 
-
-
-
 te
-tags:
 - ttrpg-cli/compendium/src/5e/lmop
 aliases:
 - Phandalin
@@ -40,16 +36,12 @@ When the characters first arrive in Phandalin, read:
 > [!readaloud] 
 > 
 > The rutted track emerges from a wooded hillside, and you catch your first glimpse of Phandalin. The town consists of forty or fifty simple log buildings, some built on old fieldstone foundations. More old ruins—crumbling stone walls covered in ivy and briars—surround the newer houses and shops, showing how this must have been a much larger town in centuries past. Most of the newer buildings are set on the sides of the cart track, which widens into a muddy main street of sorts as it climbs toward a ruined manor house on a hillside at the east side of town.
-> 
 > As you approach, you see children playing on the town green and townsfolk tending to chores or running errands at shops. Many people look up as you approach, but all return to their business as you go by.
 ^041
 
 If [[/03_Mechanics/CLI/bestiary/npc/sildar-hallwinter-lmop|Sildar Hallwinter]] is with the party, add:
 
-> [!readaloud] 
-> 
 > Sildar seems much more at ease.
-> 
 > "My friends," he says, "let us secure lodgings. I'm told the local inn is very quaint."
 ^042
 
@@ -62,6 +54,24 @@ Some locales the characters should visit include the following:
 - **Barthen's Provisions.** If the characters have the wagonload of supplies from the "Meet Me in Phandalin" adventure hook, they are meant to deliver it to this shop.  
 - **Lionshield Coster.** If the characters retrieved the stolen goods from the Cragmaw hideout, they might want to return them to the rightful owner.  
 - **Stonehill Inn.** If the characters have [[/03_Mechanics/CLI/bestiary/npc/sildar-hallwinter-lmop|Sildar Hallwinter]] with them, the knight suggests heading for this inn to find lodgings. If the characters are otherwise looking for a place to eat and sleep, they discover that the Stonehill appears to be the best available option.  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Encounters in Phandalin
 
@@ -121,8 +131,6 @@ The following sections detail specific locations in town.
 
 ## Stonehill Inn
 
-> [!readaloud] 
-> 
 > In the center of town stands a large, newly built roadhouse of fieldstone and rough-hewn timbers. The common room is filled with locals nursing mugs of ale or cider, all of them eyeing you with curiosity.
 ^04b
 
@@ -135,42 +143,36 @@ The proprietor is a short, friendly young human male named Toblen Stonehill. Tob
 Spending a little time in the common room and chatting up the townspeople can provide the characters with a number of good leads to explore in and around town. NPCs present in the Stonehill Inn and the rumors they pass on include:
 
 > [!note] Narth, an old farmer
-> 
 > "Sister Garaele, who oversees the Shrine of Luck, recently left town for a few days, then returned wounded and exhausted."
 ^narth-an-old-farmer
 
 (See the "Shrine of Luck" section for more information.)
 
 > [!note] Elsa, a gossipy barmaid
-> 
 > "Daran Edermath, the orchard keeper, is a former adventurer."
 ^elsa-a-gossipy-barmaid
 
 (See the "Edermath Orchard" section for more information.)
 
 > [!note] Lanar, a miner
-> 
 > "Orc raiders have been seen on the east end of Triboar Trail. The townmaster is looking for someone to run them off."
 ^lanar-a-miner
 
 (See the "Townmaster's Hall" section for more information.)
 
 > [!note] Trilena, the innkeeper's wife
-> 
 > "Thel Dendrar, a local woodcarver, stood up to the Redbrands a tenday ago when they came by his shop and leered at his wife. The ruffians murdered him. Several townsfolk saw it happen. The Redbrands grabbed his body, and now his wife, daughter, and son have gone missing too."
 ^trilena-the-innkeepers-wife
 
 (Unknown to Trilena and the other townsfolk, the Redbrands took Thel's wife and children to their secret hideout.)
 
 > [!note] Pip, Toblen's young son
-> 
 > "Qelline Alderleaf's son Carp said he found a secret tunnel in the woods, but Redbrands almost caught him."
 ^pip-toblens-young-son
 
 (See the "Alderleaf Farm" section for more information.)
 
 > [!note] Freda, a weaver
-> 
 > "The Redbrands hassle every business in town, except for the Phandalin Miner's Exchange. They don't want trouble with Halia Thornton, who runs it."
 ^freda-a-weaver
 
@@ -212,8 +214,6 @@ If the party deals with the Redbrands and investigates Old Owl Well, Daran Ederm
 
 ## Lionshield Coster
 
-> [!readaloud] 
-> 
 > Hanging above the front door of this modest trading post is a sign shaped like a wooden shield with a blue lion painted on it.
 ^05a
 
@@ -277,8 +277,6 @@ This rundown tap house is a dirty, dangerous watering hole at the end of Phandal
 
 ## Townmaster's Hall
 
-> [!readaloud] 
-> 
 > The townmaster's hall has sturdy stone walls, a pitched wooden roof, and a bell tower at the back. Posted on a board next to the front door is a notice written in Common. It reads: "REWARD—Orcs near Wyvern Tor! Those of a mind to face the orc menace should inquire within." The notice bears the town's seal and an indecipherable signature.
 ^067
 
@@ -323,26 +321,19 @@ Within a day or so of the adventurers' arrival in Phandalin, a confrontation wit
 If the characters confront the Redbrands at the Sleeping Giant, read:
 
 > [!note] 
-> 
 > The Sleeping Giant is a ramshackle taproom at the east end of town. Four human ruffians linger on the covered porch, perched on empty ale barrels or leaning against the wall. They all wear grimy scarlet cloaks, their sullen stares fixed on you as you approach.
 ^06f
 
 > [!note] Redbrand Ruffian
-> 
 > One of the thugs spits on the ground. Well, well," he snarls. "Here's a whole pack of little puppies. What do you want, puppies? Come here to bark at us?"
 ^redbrand-ruffian
 
 If the Redbrands confront the characters in the street, read:
 
-> [!note] 
-> 
 > As you head back into the street, you see four armed ruffians waiting for you. All of them are humans wearing grimy red cloaks, their hands on their weapons as they watch you. One of the ruffians spits on the ground.
 ^071
 
-> [!note] Redbrand Ruffian
-> 
 > "Time for you to move on, strangers. Give us your stuff, and be on your way."
-^redbrand-ruffian
 
 Continue the insults and baiting as long as you like. The Redbrands attack in a round or two if the characters don't. Neither side is [[conditions#Surprised|surprised]], because it's obvious that a fight is brewing.
 
@@ -368,7 +359,6 @@ The Redbrands' base in Phandalin is a dungeon complex under Tresendar Manor. Bef
 
 If the characters begin their search at Tresendar Manor, they enter the dungeon in 1. If they instead follow Carp Alderleaf to the secret tunnel the lad found, they enter the dungeon by way of 8.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/lost-mine-of-phandelver/img/redbrand-hideout.webp#gallery|Redbrand Hideout]]
 > ![[/03_Mechanics/CLI/adventures/lost-mine-of-phandelver/img/redbrand-hideout-player.webp#gallery|Player Version]]
 
@@ -411,8 +401,6 @@ Any exploration of the manor grounds finds it deserted, but with plenty of track
 
 When the characters open the door, read the following:
 
-> [!readaloud] 
-> 
 > The door opens onto a five-foot-wide landing fifteen feet above a large cellar, with stone steps descending to the floor in two short flights. Another door stands beneath the stairs to the north. A large stone cistern occupies the western part of the room, whose walls are lined with kegs and barrels.
 ^07c
 
@@ -442,8 +430,6 @@ The satchel hidden in the cistern is waterproof and contains a [[potion-of-heali
 
 Most of the Redbrands' human members have lodgings in Phandalin. This barracks is a good place to lie low after shaking down local miners and fur traders.
 
-> [!readaloud] 
-> 
 > This appears to be a storeroom pressed into service as living quarters. Two double bunks stand against the wall near the door, while barrels and crates fill the southern half of the chamber.
 ^082
 
@@ -463,14 +449,12 @@ Divide 300 XP equally among the characters if the party defeats the ruffians.
 
 This area was part of Tresendar Manor's original cellars. The Redbrands dug out the dirt beneath the stone floor, creating a hidden pit trap.
 
-> [!readaloud] 
-> 
 > Thick dust covers the flagstones of this somber hallway. The walls are decorated with faux columns every ten feet, and the double doors at the west end of the hall are sheathed in copper plate, now green with age. A relief carving of a mournful angel graces the doors.
 ^086
 
 The pit trap in the middle of the hallway is hidden under a false floor consisting of loose stone tiles laid atop breakaway timbers. The tiles and timbers collapse under 100 or more pounds of weight. A character searching the hall for traps can spot the covered pit with a successful DC 15 Wisdom ([[skills#Perception|Perception]]) check. A successful check also reveals narrow ledges on the north and south sides of the pit. A creature attempting to skirt around the pit using one of these ledges must succeed on a DC 10 Dexterity ([[skills#Acrobatics|Acrobatics]]) check.
 
-A creature that triggers the trap or fails the Dexterity check to skirt around the edge of the pit must attempt a DC 15 Dexterity saving throw to catch the edge. On a failed save, the creature falls 20 feet to the dirt floor of the pit, taking `2d6` bludgeoning damage and landing [[conditions#Prone|prone]].
+A creature that triggers the trap or fails the Dexterity check to skirt around the edge of the pit must attempt a DC 15 Dexterity saving throw to catch the edge. On a failed save, the creature falls 20 feet to the dirt floor of the pit, taking `2d6` bludgeoning damage and landing [[conditions#prone|prone]].
 
 ### Awarding Experience Points
 
@@ -480,8 +464,6 @@ Divide 100 XP equally among the characters if the party avoids or survives the p
 
 The elders of the long-gone Tresendar family were once laid to rest in this mausoleum.
 
-> [!readaloud] 
-> 
 > Three large stone sarcophagi stand within this dusty crypt, and propped up against each sarcophagus is a human skeleton clad in bits of rusty mail. False columns along the walls are carved in the image of spreading oak trees. The double doors in the southeast corner are sheathed in tarnished copper plate.
 ^089
 
@@ -505,10 +487,7 @@ Divide 150 XP equally among the characters if the party defeats the skeletons.
 
 For the past two months, the Redbrands have been capturing travelers in the area and holding them in these pens until they can be sold into slavery.
 
-> [!readaloud] 
-> 
 > This long room is partitioned into three areas, with iron bars walling off the north and south. Filthy straw lines the floors of those cells, the hinged doors of which are secured by chains and padlocks. A pair of disheveled human women are held in the cell to the south, while a human boy is confined to the north. All are dressed in plain gray tunics and have iron collars fitted around their necks.
-> 
 > A heap of discarded clothing is piled carelessly against the far wall.
 ^08e
 
@@ -538,8 +517,6 @@ Divide 200 XP equally among the characters if the party defeats the ruffians. Di
 
 The door to this room is locked from the outside. Across from the locked door is a secret door that leads to 7. For more information on locked doors and secret doors, see the "General Features" section (page 20).
 
-> [!readaloud] 
-> 
 > Racks of weapons line the walls of this chamber, including spears, swords, crossbows, and bolts. A dozen dirty red cloaks hang from hooks by the door.
 ^094
 
@@ -551,10 +528,7 @@ The weapon racks hold twelve spears, six shortswords, four longswords, six light
 
 In this chamber, the Redbrands take stock of their stolen wares, either shipping them out through the cavern to the south or packaging them for storage in the stronghold.
 
-> [!readaloud] 
-> 
 > This area is the north end of a large natural cavern, but it has been finished with dressed stone block walls and a flagstone floor. Several barrels are stored against the walls here, along with a number of empty crates, straw for packing, hammers, pry bars, and nails.
-> 
 > The cavern continues for some distance to the south. You can make out several passages that open up off the larger cavern, and what looks like a deep pit or crevasse in the floor.
 ^096
 
@@ -568,8 +542,6 @@ Most of the provisions and goods here aren't valuable, but lying among them are 
 
 The characters arrive here by one of three routes: the tunnel from 1, the storeroom at 7, or the roughhewn passage to the south, which continues off the map for about one hundred feet and emerges from a tunnel in the woods south of Tresendar Manor. The passage is an excellent way to smuggle people or goods in and out of Phandalin without being seen, and is thus perfect for a gang of slavers and thieves.
 
-> [!readaloud] 
-> 
 > A cold breeze fills this large natural cavern, carrying with it the faint scent of decaying flesh. A crevasse divides the cavern and is flanked by two rough stone columns that support the twenty-foot-high ceiling. Two arched wooden bridges span the chasm.
 ^099
 
@@ -585,7 +557,7 @@ These bridges are made of wooden planks and have no rails. The south one is rigg
 
 ### Crevasse
 
-This steep-sided fissure is 5 to 10 feet wide and 20 feet deep. Its rough walls are easily climbed without an ability check. A creature that falls into the crevasse takes `2d6` bludgeoning damage and lands [[conditions#Prone|prone]] in a jumble of rubble that is difficult terrain (see "Difficult Terrain" in the rulebook).
+This steep-sided fissure is 5 to 10 feet wide and 20 feet deep. Its rough walls are easily climbed without an ability check. A creature that falls into the crevasse takes `2d6` bludgeoning damage and lands [[conditions#prone|prone]] in a jumble of rubble that is difficult terrain (see "Difficult Terrain" in the rulebook).
 
 The bottom of the crevasse feels unnaturally cold. When viewed with a [[detect-magic-xphb|detect magic]] spell, the area emanates a faint necromantic aura. The magic causes all organic matter in the crevasse to age and decompose at half the normal rate.
 
@@ -607,8 +579,6 @@ Divide 450 XP equally among the characters if the party defeats the nothic or ne
 
 A character who listens at this door with a successful DC 10 Wisdom ([[skills#Perception|Perception]]) check hears several gruff voices issuing demeaning commands in the Goblin tongue. Examples include "Lick the floor!" and "Roll like a dog!" The bugbears here are bullying their goblin slave.
 
-> [!readaloud] 
-> 
 > This barracks contains four roughly built wooden bunks, with heaped-up blankets and dirty dishes scattered about. A strong smell of unwashed bodies and rotten meat fills the air. Three tall, furry humanoids are lounging among the mess, barking orders at a sad little goblin that demeans itself for their amusement. Your sudden appearance causes the goblin to faint.
 ^09f
 
@@ -650,10 +620,7 @@ This area serves as the headquarters and meeting room for the Redbrands. When th
 
 A character who listens at the door with a successful DC 10 Wisdom ([[skills#Perception|Perception]]) check hears the villains within engaged in a game of knucklebones. This makes for a mysterious rattling sound, followed by shouts and groans and a sudden gabble of voices as wagers are paid. If the characters burst into the room, they automatically surprise its occupants.
 
-> [!readaloud] 
-> 
 > Several worn tables and chairs are scattered around this large room. Wooden benches are drawn up against walls decorated with draperies of brown and red, and several ale kegs are propped up and tapped.
-> 
 > Four tough-looking human warriors wearing scarlet cloaks are gathered around one of the tables. A stack of coins and trinkets is heaped upon the tabletop between them.
 ^0a5
 
@@ -673,8 +640,6 @@ Divide 400 XP equally among the characters if the party defeats the Redbrands in
 
 Faint bubbling and dripping sounds can be heard through either door of this room with a successful DC 15 Wisdom ([[skills#Perception|Perception]]) check.
 
-> [!readaloud] 
-> 
 > This room appears to be a wizard's workshop. A rat scurries across the floor and takes refuge under a large worktable set up with alembics, retorts, distillation coils, and other alchemical devices, all of it stewing and bubbling away. Bookshelves are crowded with sheaves of parchment and strange-looking tomes.
 ^0a9
 
@@ -700,15 +665,11 @@ Most of the materials in this room have no value, but three small bottles hold r
 
 If the characters approach this room through the secret passage from 7, they can surprise the leader of the Redbrands—Iarno "Glasstaff" Albrek. Otherwise, his rat familiar warns him of any who approach through 11, and he flees before the characters arrive.
 
-> [!readaloud] 
-> 
 > The walls of this bedchamber are covered with drapes of scarlet cloth. The furnishings include a small writing desk with matching chair, a comfortable-looking bed, and a wooden chest at the foot of the bed.
 ^0ae
 
 If Iarno is [[conditions#Surprised|surprised]], add the following paragraph:
 
-> [!readaloud] 
-> 
 > Sitting at the desk is a short, dark-bearded human male in robes, studying a tome. He wears a princely mantle of ermine. A beautiful glass staff leans against his chair, within easy reach.
 ^0af
 
@@ -740,13 +701,9 @@ If he is questioned while in captivity, Iarno relates the following information,
 Various papers and notes are stacked neatly on the desk, mostly consisting of Iarno's written orders to apothecaries and alchemists in nearby settlements for more materials for his workshop. The characters also find a letter signed with the Black Spider's symbol.
 
 > [!note] Iarno
-> 
 > Lord Albrek,
-> 
 > My spies in Neverwinter tell me that strangers are due to arrive in Phandalin. They could be working for the dwarves.
-> 
 > Capture them if you can, kill them if you must, but don't allow them to upset our plans. See that any dwarven maps in their possession are delivered to me with haste.
-> 
 > I'm counting on you, Iarno. Don't disappoint me.
 ^iarno
 
@@ -774,19 +731,25 @@ The next stage of the adventure continues with part 3, "The Spider's Web," in wh
 
 Legends speak of 3 phandalin as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 3 phandalin.
 
-## Adventure Hooks
-
-- A rumor ties 3 phandalin to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 3 phandalin to avert a public scandal.
-- A map overlay reveals a hidden approach to 3 phandalin active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

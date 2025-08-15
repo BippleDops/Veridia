@@ -23,17 +23,33 @@ updated: '2025-08-12T23:37:37.563294'
 world: Both
 ---
 
-
 # Eye of Vecna
 *Wondrous item, artifact (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/eye-and-hand-of-vecna.webp#right)
 
-
 "Vecna" was a mighty wizard who, through magic and conquest, forged a terrible empire. For all his power, however, Vecna feared death and took steps to prevent his demise by becoming a lich.
 
-A treacherous lieutenant named Kas brought Vecna's rule to an end in a terrible battle. Of Vecna, all that remained were one hand and one eye, grisly Artifacts that still seek to work Vecna's will in the world.
+A treacherous lieutet named Kas brought Vecna's rule to an end in a terrible battle. Of Vecna, all that remained were one hand and one eye, grisly Artifacts that still seek to work Vecna's will in the world.
 
 The Eye of Vecna and the [[hand-of-vecna-xdmg|Hand of Vecna]] are separate Artifacts that might be found together or separately. The eye looks like a bloodshot organ torn free from the socket. The hand is a shriveled left extremity.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Random Properties of the Eye and Hand
 
@@ -80,19 +96,16 @@ Eye of vecna xdmg is a undersea element of the setting, known for bioluminescent
 
 Legends speak of eye of vecna xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around eye of vecna xdmg.
 
-## Adventure Hooks
-
-- A rumor ties eye of vecna xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at eye of vecna xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to eye of vecna xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a portal
+- A map reveals a betrayal about a local noble

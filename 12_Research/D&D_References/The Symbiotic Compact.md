@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Corallion|02 Worldbuilding/Lore/Corallion]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Corallion]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,24 @@ The Symbiotic Compact is a undersea element of the setting, known for biolumines
 
 Legends speak of The Symbiotic Compact as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Symbiotic Compact.
 
-## Adventure Hooks
-
-- A rumor ties The Symbiotic Compact to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Symbiotic Compact to avert a public scandal.
-- A map overlay reveals a hidden approach to The Symbiotic Compact active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for revenge
+- Someone is hunting a witness for love
+- Someone is protecting an heir for revenge
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

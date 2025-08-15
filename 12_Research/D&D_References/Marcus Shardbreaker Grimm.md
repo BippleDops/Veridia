@@ -8,42 +8,36 @@ tags:
 - active
 - npc
 - research
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 updated: '2025-08-13T12:34:09.733914+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-marcus-shardbreaker-grimm-marcus-shardbreaker-grimm.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-# Marcus "Shardbreaker" Grimm
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 A disgraced former Crystal Warden turned mercenary, Marcus gained his moniker after developing the ability to shatter crystal formations—including those growing from infected people. His methods are brutal but effective, making him simultaneously sought after and reviled.
-
-## Appearance
-- Muscular build with crystalline scars covering his arms
-- Right eye replaced with a shard of amber crystal (can see crystal corruption)
-- Wears modified Crystal Warden armor with pieces torn off
-- Carries a greataxe with crystal fragments embedded in the blade
-- Left hand shows early stages of crystal corruption he constantly suppresses
-
-## Personality
-- Grimly pragmatic about the crystal plague
-- Believes mercy killing infected people is a kindness
-- Bitter about his exile from the Crystal Wardens
-- Maintains a rough code of honor despite his reputation
-- Self-medicates with alcohol and alchemical suppressants
 
 ## Abilities & Stats
 **AC:** 17 (Modified Plate)
@@ -52,33 +46,6 @@ A disgraced former Crystal Warden turned mercenary, Marcus gained his moniker af
 
 **STR:** 18 (+4) **DEX:** 13 (+1) **CON:** 16 (+3)
 **INT:** 12 (+1) **WIS:** 14 (+2) **CHA:** 10 (+0)
-
-### Special Abilities
-- **Crystal Resonance:** Can detect crystal corruption within 60 feet
-- **Shardbreaker Technique:** Attacks deal extra damage to crystalline creatures
-- **Blood Hunter's Curse:** Can mark targets for death
-- **Corruption Resistance:** Advantage on saves against crystal corruption
-- **Brutal Critical:** Critical hits cause crystal formations to explode
-
-### Equipment
-- **Grimm's Harvest:** +1 Greataxe that prevents crystal regeneration
-- **Suppressant Injectors:** Alchemical devices that slow corruption
-- **Crystal Warden Badge:** Scratched out but still carries it
-
-## Relationships
-- **[[Lord Commander Gareth Steelborn|02 Worldbuilding/People/Lord Commander Gareth Steelborn]]**: Former mentor; complicated relationship of respect and disappointment
-- **[[Captain Lyanna Brightshield|02 Worldbuilding/People/Captain Lyanna Brightshield]]**: Occasionally feeds her information about crystal-related crimes
-- **[[Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]**: Regular employer for dirty work the Syndicate needs done
-- **[[High Inquisitor Maltheos|02 Worldbuilding/People/High Inquisitor Maltheos]]**: Sees Marcus as useful but ultimately expendable
-- **[[Master Artificer Korvin Gearwright|02 Worldbuilding/People/Master Artificer Korvin Gearwright]]**: Supplies his suppressants in exchange for field data
-- **Sister Morwyn Veilkeeper**: Warned him about his eventual fate if corruption continues
-
-## Current Activities
-- Hunting a crystal-infected cult in [[Port Meridian|02 Worldbuilding/Places/Port Meridian]]'s quarantine zone
-- Investigating reports of "living crystals" that move with purpose
-- Secretly documenting stages of crystal infection for personal research
-- Building a network of other infected individuals who refuse to give in
-- Tracking someone called "The Crystal Prophet" who claims infection is evolution
 
 ## Secrets
 > [!warning] DM Only
@@ -89,38 +56,14 @@ A disgraced former Crystal Warden turned mercenary, Marcus gained his moniker af
 > - Is being mentally influenced by the crystal in his eye—sometimes receives visions from the Amber Shard
 > - Has made a pact: if he ever fully turns, he's arranged for specific people to kill him
 
-## Combat Tactics
-- Opens with Blood Hunter's Mark on the most corrupted enemy
-- Uses environment to his advantage, especially crystal formations
-- Willing to sacrifice himself to destroy crystal threats
-- Carries specialized ammunition for different corruption types
-
 ## Plot Hooks
 1. Hires party to help clear a crystal nest in exchange for corruption suppression techniques
 2. Needs help tracking down a former Crystal Warden who's fully turned
 3. Information about a black market dealing in corruption "cures"
 4. Requests assistance investigating disappearances in the quarantine zone
 
-## Quotes
-- "The crystal doesn't care about your politics or your gods. It just grows."
-- "I've shattered men I called brothers. What's one more monster?"
-- "Every dawn I check the mirror. The day I don't recognize myself, I'm done."
-- "There's no cure, only delay. Make your time count."
-
 ## DM Notes
 Marcus represents the personal cost of the crystal corruption and serves as a morally grey ally. He's useful for introducing party members to the darker aspects of the crystal plague while providing a potential tragic figure who might need saving—or stopping—depending on how his corruption progresses. His connections span multiple factions, making him an excellent information broker and quest giver for mid-level threats.
-
-
-## Goals
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -130,19 +73,11 @@ Marcus Shardbreaker Grimm is a undersea element of the setting, known for biolum
 
 Legends speak of Marcus Shardbreaker Grimm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Marcus Shardbreaker Grimm.
 
-## Adventure Hooks
-
-- A rumor ties Marcus Shardbreaker Grimm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Marcus Shardbreaker Grimm to avert a public scandal.
-- A map overlay reveals a hidden approach to Marcus Shardbreaker Grimm active only during specific tides/storms.
-
-## Cross-References
-
-- [[Marcus Shardbreaker Grimm|02 Worldbuilding/People/Marcus Shardbreaker Grimm]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

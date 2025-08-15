@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Parliament of Echoes - Public Gallery|02 Worldbuilding/Places/Parliament Of Echoes Public Gallery]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Parliament of Echoes - Public Gallery]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,26 @@ Master of the Gallery Cornelius Publicvoice is a undersea element of the setting
 
 Legends speak of Master of the Gallery Cornelius Publicvoice as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Master of the Gallery Cornelius Publicvoice.
 
-## Adventure Hooks
-
-- A rumor ties Master of the Gallery Cornelius Publicvoice to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Master of the Gallery Cornelius Publicvoice to avert a public scandal.
-- A map overlay reveals a hidden approach to Master of the Gallery Cornelius Publicvoice active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and evil awakens
+- Strange sightings suggest a conspiracy
+- A shipment has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

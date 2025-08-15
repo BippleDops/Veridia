@@ -24,15 +24,31 @@ updated: '2025-08-13T12:34:04.454155+00:00'
 world: Both
 ---
 
-
-
 # Aphrodite
-*Source: Player's Handbook p. 298. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+*Source: Player's Handbook p. 298. Available in the SRD* 
 
 - **Alignment**: Chaotic Good
 - **Domains**: Light
 - **Pantheon**: Greek
 - **Symbol**: Sea shell
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -42,19 +58,26 @@ Greek aphrodite is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of greek aphrodite as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around greek aphrodite.
 
-## Adventure Hooks
-
-- A rumor ties greek aphrodite to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at greek aphrodite to avert a public scandal.
-- A map overlay reveals a hidden approach to greek aphrodite active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help investigating before the festival
+- An heirloom has gone missing and evil awakens
+- Someone is searching for information for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

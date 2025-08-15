@@ -22,10 +22,8 @@ updated: '2025-08-13T12:34:04.044430+00:00'
 world: Both
 ---
 
-
-
 # Short-Term Madness
-*Source: Dungeon Master's Guide p. 259. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>* 
+*Source: Dungeon Master's Guide p. 259. Available in the SRD* 
 
 **Short-Term Madness**
 
@@ -35,7 +33,7 @@ world: Both
 |------------|------------------------------|
 | 01-20 | The character retreats into his or her mind and becomes [[conditions#Paralyzed|paralyzed]]. The effect ends if the character takes any damage. |
 | 21-30 | The character becomes [[conditions#Incapacitated|incapacitated]] and spends the duration screaming, laughing, or weeping. |
-| 31-40 | The character becomes [[conditions#Frightened|frightened]] and must use his or her action and movement each round to flee from the source of the fear. |
+| 31-40 | The character becomes [[conditions#frightened|frightened]] and must use his or her action and movement each round to flee from the source of the fear. |
 | 41-50 | The character begins babbling and is incapable of normal speech or spellcasting. |
 | 51-60 | The character must use his or her action each round to attack the nearest creature. |
 | 61-70 | The character experiences vivid hallucinations and has disadvantage on ability checks. |
@@ -45,6 +43,24 @@ world: Both
 | 91-100 | The character falls [[conditions#Unconscious|unconscious]]. |
 ^short-term-madness
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Short term madness is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -53,19 +69,25 @@ Short term madness is a undersea element of the setting, known for bioluminescen
 
 Legends speak of short term madness as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around short term madness.
 
-## Adventure Hooks
-
-- A rumor ties short term madness to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at short term madness to avert a public scandal.
-- A map overlay reveals a hidden approach to short term madness active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

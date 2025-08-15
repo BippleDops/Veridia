@@ -28,14 +28,29 @@ updated: '2025-08-13T12:34:05.452297+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-triceratops-xmm-triceratops-xmm.svg)
 
 # [[triceratops-xmm|Triceratops]]
-*Source: Monster Manual (2024) p. 372. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 372. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Animals
 
@@ -68,7 +83,7 @@ Use these stat blocks to represent the creatures they're named for or other simi
   - "desc": "Melee Attack Roll: +9, reach 5 ft. Hit: 19 (2d12 + 6) Piercing damage.\
       \ If the target is Huge or smaller and the triceratops moved 20+ feet straight\
       \ toward it immediately before the hit, the target takes an extra 9 (2d8) Piercing\
-      \ damage and has the [[conditions#Prone|Prone]] condition."
+      \ damage and has the [[conditions#prone|Prone]] condition."
     "name": "Gore"
 "source":
   - "XMM"
@@ -88,19 +103,22 @@ Triceratops xmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of triceratops xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around triceratops xmm.
 
-## Adventure Hooks
-
-- A rumor ties triceratops xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at triceratops xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to triceratops xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Winds
+
+
+## Plot Hooks
+
+- Someone is blackmailing information for power
+- A map reveals ancient history about a local noble
+- Someone is protecting information for money

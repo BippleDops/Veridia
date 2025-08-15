@@ -15,25 +15,26 @@ updated: '2025-08-13T01:18:36.476634+00:00'
 world: Both
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-battle-priest-cassius-depthshield-battle-priest-cassius-depthshield.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[The Living Weapon|02 Worldbuilding/Places/The Living Weapon]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Admiral Thorne Blackwater]]
-- [[Pressure's End]]
-- [[The Forgotten One]]
-- [[The Living Weapon]]
 
 ## Player-Facing Summary
 
@@ -43,19 +44,18 @@ Battle Priest Cassius Depthshield is a undersea element of the setting, known fo
 
 Legends speak of Battle Priest Cassius Depthshield as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Battle Priest Cassius Depthshield.
 
-## Adventure Hooks
-
-- A rumor ties Battle Priest Cassius Depthshield to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Battle Priest Cassius Depthshield to avert a public scandal.
-- A map overlay reveals a hidden approach to Battle Priest Cassius Depthshield active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

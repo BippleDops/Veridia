@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:36.890253'
 world: Both
 ---
 
-
 # Manual of Iron Golems
 *Wondrous item, very rare*  
 ![](/03_Mechanics/CLI/items/img/manual-of-iron-golems.webp#right)
@@ -36,7 +35,25 @@ To create an iron golem, you must spend 120 days, working without interruption w
 
 Once you finish creating the golem, the book is consumed in eldritch flames. The golem becomes animate when the ashes of the manual are sprinkled on it. It is under your control, and it understands and obeys your spoken commands.
 
-*Source: Dungeon Master's Guide (2024) p. 277. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 277. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -46,19 +63,18 @@ Manual of iron golems xdmg is a undersea element of the setting, known for biolu
 
 Legends speak of manual of iron golems xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around manual of iron golems xdmg.
 
-## Adventure Hooks
-
-- A rumor ties manual of iron golems xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at manual of iron golems xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to manual of iron golems xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

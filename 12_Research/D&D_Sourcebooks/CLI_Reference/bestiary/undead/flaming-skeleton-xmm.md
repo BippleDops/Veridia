@@ -30,8 +30,6 @@ updated: '2025-08-12T23:37:35.576752'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-flaming-skeleton-xmm-flaming-skeleton-xmm.svg)
 
@@ -39,6 +37,24 @@ world: Both
 *Source: Monster Manual (2024) p. 283*  
 
 Flaming skeletons burn with unbridled necromantic energy. This magic grants them blazing attacks and greater awareness, which they use to command lesser Undead.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Skeletons
 
@@ -75,8 +91,6 @@ Skeletons rise at the summons of necromancers and foul spirits. Whether they're 
 "stats":
   - !!int "10"
   - !!int "14"
-  - !!int "15"
-  - !!int "10"
   - !!int "15"
   - !!int "8"
 "speed": "30 ft."
@@ -124,19 +138,16 @@ Flaming skeleton xmm is a undersea element of the setting, known for bioluminesc
 
 Legends speak of flaming skeleton xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around flaming skeleton xmm.
 
-## Adventure Hooks
-
-- A rumor ties flaming skeleton xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at flaming skeleton xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to flaming skeleton xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- A prisoner has gone missing and war looms

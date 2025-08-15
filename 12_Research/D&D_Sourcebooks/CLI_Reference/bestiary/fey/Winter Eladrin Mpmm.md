@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.519606+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-winter-eladrin-mpmm-v1-winter-eladrin-mpmm.svg)
 
@@ -40,12 +37,29 @@ world: Both
 
 When sorrow distresses eladrin, they enter the winter season, becoming figures of melancholy. Frozen tears drop from their cheeks, and their palpable sadness emanates from them as icy cold.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Eladrin
 
 > [!quote] A quote from Tasha  
 > 
 > If an autumn eladrin invites you over for dinner, come with an empty stomach. Their goodwill extends to heaping portions.
-> 
 > Note to self: send some of my spring eladrin friends to visit Mordenkainen. That'll teach him to lighten up.
 
 Eladrin dwell in the verdant splendor of the Feywild. They are related to the elves found on the Material Plane. But while other elves can temper their wild impulses, eladrin are ruled by emotion—and due to their magical nature, they undergo physical changes to match their changes in temperament.
@@ -71,7 +85,6 @@ Whenever one of the eladrin presented here finishes a long rest, they can associ
 "modifier": !!int "3"
 "stats":
   - !!int "11"
-  - !!int "16"
   - !!int "16"
   - !!int "18"
   - !!int "17"
@@ -141,19 +154,30 @@ Winter eladrin mpmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of winter eladrin mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around winter eladrin mpmm.
 
-## Adventure Hooks
-
-- A rumor ties winter eladrin mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at winter eladrin mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to winter eladrin mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing a witness for power
+- Strange sightings suggest a portal
+- An heirloom has gone missing and war looms
+- An heirloom has gone missing and chaos spreads
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

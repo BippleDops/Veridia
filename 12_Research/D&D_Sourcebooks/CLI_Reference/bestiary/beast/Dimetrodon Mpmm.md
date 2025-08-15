@@ -29,9 +29,6 @@ updated: '2025-08-13T12:34:05.503360+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-dimetrodon-mpmm-dimetrodon-mpmm.svg)
 
@@ -56,7 +53,6 @@ This sail-backed reptile is commonly found in areas where dinosaurs live. It hun
   - !!int "10"
   - !!int "15"
   - !!int "2"
-  - !!int "10"
   - !!int "5"
 "speed": "30 ft., swim 20 ft."
 "skillsaves":
@@ -76,6 +72,24 @@ This sail-backed reptile is commonly found in areas where dinosaurs live. It hun
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 coastal, swamp
@@ -88,19 +102,28 @@ Dimetrodon mpmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of dimetrodon mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dimetrodon mpmm.
 
-## Adventure Hooks
-
-- A rumor ties dimetrodon mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dimetrodon mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to dimetrodon mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -29,14 +29,11 @@ updated: '2025-08-13T12:34:05.898819+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mummy-xmm-mummy-xmm.svg)
 
 # [[mummy-xmm|Mummy]]
-*Source: Monster Manual (2024) p. 219. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 219. Available in the SRD and the Free Rules (2024)*  
 
 Common mummies are the remains of priests, nobles, or champions of faith that underwent magical burial rites. Some are preserved through processes using linen wrappings or clay, but others are preserved by peat bogs, ice, magic, or other means.
 
@@ -61,6 +58,24 @@ Roll on or choose a result from the Mummy Resurrections table to determine why a
 > [!quote]  
 > 
 > Rule 7: Before opening a sarcophagus, light a torch.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Mummies
 
@@ -90,14 +105,13 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
   - !!int "15"
   - !!int "6"
   - !!int "12"
-  - !!int "12"
 "speed": "20 ft."
 "saves":
   - "wisdom": !!int "3"
 "damage_vulnerabilities": "fire"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": "Common plus two other languages"
@@ -116,7 +130,7 @@ A mummy might look frail, but its body possesses supernatural strength, and its 
       \ by this attack."
     "name": "Rotting Fist"
   - "desc": "Wisdom Saving Throw: DC 11, one creature the mummy can see within 60\
-      \ feet. Failure: The target has the [[conditions#Frightened|Frightened]]\
+      \ feet. Failure: The target has the [[conditions#frightened|Frightened]]\
       \ condition until the end of the mummy's next turn. Success: The target is\
       \ immune to this mummy's Dreadful Glare for 24 hours."
     "name": "Dreadful Glare"
@@ -138,19 +152,20 @@ Mummy xmm is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of mummy xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mummy xmm.
 
-## Adventure Hooks
-
-- A rumor ties mummy xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at mummy xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to mummy xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

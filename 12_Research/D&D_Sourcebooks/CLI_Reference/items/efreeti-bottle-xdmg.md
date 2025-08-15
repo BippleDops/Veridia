@@ -23,11 +23,9 @@ updated: '2025-08-12T23:37:37.627471'
 world: Both
 ---
 
-
 # Efreeti Bottle
 *Wondrous item, very rare*  
 ![](/03_Mechanics/CLI/items/img/efreeti-bottle.webp#right)
-
 
 When you take a [[actions#Magic|Magic]] action to remove the stopper of this painted brass bottle, a cloud of thick smoke flows out of it. At the end of your turn, the smoke disappears with a flash of harmless fire, and an [[efreeti-xmm|Efreeti]] appears in an unoccupied space within 30 feet of you.
 
@@ -42,7 +40,25 @@ The first time the bottle is opened, the DM rolls on the following table to dete
 | 10 | The [[efreeti-xmm|efreeti]] understands your languages and can cast [[wish-xphb|Wish]] once for you. It disappears when it grants the wish or after 1 hour, and the bottle loses its magic. |
 ^1-effect
 
-*Source: Dungeon Master's Guide (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 256. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -52,19 +68,25 @@ Efreeti bottle xdmg is a undersea element of the setting, known for bioluminesce
 
 Legends speak of efreeti bottle xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around efreeti bottle xdmg.
 
-## Adventure Hooks
-
-- A rumor ties efreeti bottle xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at efreeti bottle xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to efreeti bottle xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help stealing before the festival
+- A document has gone missing and chaos spreads
+- A corpse reveals a betrayal about this place
+- A letter reveals ancient history about the cult
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

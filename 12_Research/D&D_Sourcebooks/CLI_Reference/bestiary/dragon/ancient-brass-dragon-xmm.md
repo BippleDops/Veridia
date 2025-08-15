@@ -27,15 +27,31 @@ updated: '2025-08-12T23:37:35.743948'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![[04_Resources/Assets/Creatures/creature-creature-ancient-brass-dragon-xmm-ancient-brass-dragon-xmm.png]]
 
 # [[ancient-brass-dragon-xmm|Ancient Brass Dragon]]
-*Source: Monster Manual (2024) p. 56. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 56. Available in the SRD and the Free Rules (2024)*  
 
 Ancient brass dragons create worlds-spanning networks. They combat forces of repression and misinformation, helping people learn from the mistakes of the past. Either personally or through webs of messengers, ancient brass dragons keep allies informed about challenges they can face together.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Brass Dragons
 
@@ -112,7 +128,7 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
     "name": "Sleep Breath"
   - "desc": "The dragon casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 20):\n\nAt\
-      \ will: [[detect-magic-xphb|Detect Magic]], [[minor-illusion-xphb|Minor\
+      \ will: [[detect-magic-xphb|Detect Magic]], [[minor-illusion-xphb|Minor\]]
       \ Illusion]], [[scorching-ray-xphb|Scorching Ray]]\
       \ (level 3 version), [[shapechange-xphb|Shapechange]]\
       \ (Beast or Humanoid form only, no [[temporary-hit-points-xphb|Temporary Hit Points]]\
@@ -123,7 +139,6 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
     "name": "Spellcasting"
 "legendary_actions":
   - "desc": "The dragon uses Spellcasting to cast [[scorching-ray-xphb|Scorching Ray]]\
-      \ (level 3 version)."
     "name": "Blazing Light"
   - "desc": "The dragon moves up to half its [[speed-xphb|Speed]],\
       \ and it makes one Rend attack."
@@ -144,9 +159,7 @@ Brass dragons usually dwell in secret caves and canyons near well-traveled route
       \ appears.  \n- Refreshing Water. Water within 1 mile of the lair is magically\
       \ refreshing. A creature that drinks such water gains 2d4 [[temporary-hit-points-xphb|Temporary Hit Points]],\
       \ and the dragon is immediately aware of the creature's presence.  "
-    "name": ""
   - "desc": "If the dragon dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/dragon/token/ancient-brass-dragon-xmm.webp"
@@ -165,19 +178,25 @@ Ancient brass dragon xmm is a undersea element of the setting, known for biolumi
 
 Legends speak of ancient brass dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ancient brass dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties ancient brass dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ancient brass dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ancient brass dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

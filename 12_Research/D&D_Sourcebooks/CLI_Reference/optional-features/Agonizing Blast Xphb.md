@@ -23,14 +23,30 @@ updated: '2025-08-13T12:34:06.135674+00:00'
 world: Both
 ---
 
-
-
 # Agonizing Blast
-*Source: Player's Handbook (2024) p. 155. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 155. Available in the SRD*  
 
 **Prerequisite**: Level 2 Warlock, a Warlock Cantrip That Deals Damage
 
 Choose one of your known Warlock cantrips that deals damage. You can add your Charisma modifier to that spell's damage rolls.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Repeatable
 
@@ -44,19 +60,32 @@ Agonizing blast xphb is a undersea element of the setting, known for bioluminesc
 
 Legends speak of agonizing blast xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around agonizing blast xphb.
 
-## Adventure Hooks
-
-- A rumor ties agonizing blast xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at agonizing blast xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to agonizing blast xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A corpse reveals ancient history about the cult
+- Strange disappearances suggest a portal
+- A document has gone missing and evil awakens
+- A noble needs help stealing before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

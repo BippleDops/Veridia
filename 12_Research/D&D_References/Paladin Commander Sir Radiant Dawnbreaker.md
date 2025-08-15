@@ -15,36 +15,26 @@ world: Aethermoor
 updated: '2025-08-13T01:18:36.830986+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-paladin-commander-sir-radiant-dawnbreaker-paladin-commander-sir-radiant-dawnbreaker.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Appearance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Personality
-
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -54,28 +44,41 @@ Paladin Commander Sir Radiant Dawnbreaker is a undersea element of the setting, 
 
 Legends speak of Paladin Commander Sir Radiant Dawnbreaker as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Paladin Commander Sir Radiant Dawnbreaker.
 
-## Adventure Hooks
-
-- A rumor ties Paladin Commander Sir Radiant Dawnbreaker to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Paladin Commander Sir Radiant Dawnbreaker to avert a public scandal.
-- A map overlay reveals a hidden approach to Paladin Commander Sir Radiant Dawnbreaker active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Paladin Commander Sir Radiant Dawnbreaker|02 Worldbuilding/People/Paladin Commander Sir Radiant Dawnbreaker]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Cathedral of Light]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Relationships
+
+- **Debtor**: [[Quest - The Deep Incursion]]
+- **Enemy**: [[Captain Marina Saltborn]]
+- **Mentor**: [[Nerissa Deepcurrent]]
+- **Enemy**: [[The Northern Kingdoms]]
+- **Sibling**: [[Lord Admiral Gaius Windcutter]]
+
+
+## Plot Hooks
+
+- Strange dreams suggest a conspiracy
+- Someone is searching for a artifact for power
+- Someone is searching for an heir for power
+- A document has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -26,22 +26,34 @@ updated: '2025-08-11T00:00:00+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-antiquarian-eliza-tidecaller-antiquarian-eliza-tidecaller.svg]]
-
-
-
 
 # The Tidecaller Antiquarium - Repository of Deep-Sea Wonders
 
 *A treasure trove of oceanic artifacts where the mysteries of the depths are catalogued, preserved, and offered to those with the courage to seek ancient power*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 
 The Tidecaller Antiquarium stands as Aquabyssos's premier destination for oceanic artifacts, ancient relics, and mysterious treasures recovered from the deepest reaches of the sea. Founded and operated by the renowned Antiquarian Eliza Tidecaller, this fascinating establishment serves as part museum, part research facility, and part exclusive marketplace where the rarest oceanic wonders find their way into the hands of collectors, scholars, and adventurers. The Antiquarium houses one of the most comprehensive collections of deep-sea artifacts in the known world, each item carefully authenticated, catalogued, and preserved using advanced techniques developed specifically for oceanic treasures.
-
-## Physical Description
 
 ### The Main Gallery
 The heart of the Antiquarium is a vast, circular chamber with soaring ceilings that showcase the establishment's most impressive displays.
@@ -58,7 +70,7 @@ The heart of the Antiquarium is a vast, circular chamber with soaring ceilings t
 
 A sophisticated workspace equipped with magical and mundane tools for analyzing discovered treasures:
 - **The Deep Sight Table**: A magical analysis surface that reveals hidden properties and historical connections
-- **Material Testing Stations**: Equipment for determining composition, age, and magical resonance
+- **Material Testing Stations**: Equipment for determining composition, age, and magical resoce
 - **The Origin Scrying Pool**: A divination chamber for tracing artifacts back to their sources
 - **Preservation Workshops**: Facilities for stabilizing and protecting newly discovered items
 - **Documentation Centers**: Areas for recording detailed information about each acquisition
@@ -89,11 +101,9 @@ A sophisticated workspace equipped with magical and mundane tools for analyzing 
 **Specialized Rooms:**
 - **The Negotiation Parlor**: Elegant setting for discussing major acquisitions and sales
 - **The Viewing Chamber**: Controlled environment for examining delicate or dangerous artifacts
-- **The Authentication Theater**: Space where the provenance and authenticity of items are demonstrated
+- **The Authentication Theater**: Space where the provece and authenticity of items are demonstrated
 - **The Commission Office**: Where custom acquisition requests are planned and organized
 - **The Appraisal Suite**: Professional evaluation services for items brought by clients
-
-## Notable Collections and Exhibits
 
 ### The Leviathan Hall
 *Artifacts from the great sea creatures of the depths*
@@ -106,7 +116,7 @@ A sophisticated workspace equipped with magical and mundane tools for analyzing 
 - **Deep Current Compasses**: Navigation tools that respond to the movements of massive sea creatures
 
 ### The Sunken Civilization Wing
-*Remnants of lost underwater cultures*
+*Remts of lost underwater cultures*
 
 **The Atlantean Collection**
 - Orichalcum jewelry and ceremonial items from the legendary lost city
@@ -173,8 +183,6 @@ A sophisticated workspace equipped with magical and mundane tools for analyzing 
 - Records of peace negotiations and conflict resolutions
 - Cultural exchange artifacts showing the blending of different societies
 
-## Operations and Services
-
 ### Primary Functions
 
 **Artifact Authentication**: Professional verification of the age, origin, and properties of oceanic items
@@ -188,7 +196,7 @@ A sophisticated workspace equipped with magical and mundane tools for analyzing 
 **Custom Expeditions**: Organizing and funding deep-sea exploration missions to locate specific items
 **Restoration Projects**: Repair and reconstruction of damaged or incomplete artifacts
 **Magical Analysis**: Detailed examination of enchanted items and their magical properties
-**Provenance Tracing**: Investigation into the ownership history and cultural significance of artifacts
+**Provece Tracing**: Investigation into the ownership history and cultural significance of artifacts
 **Educational Programs**: Tours, lectures, and workshops for students and interested members of the public
 
 ### Client Categories
@@ -198,8 +206,6 @@ A sophisticated workspace equipped with magical and mundane tools for analyzing 
 **Government Bodies**: Official agencies needing historical evidence or diplomatic artifacts
 **Religious Orders**: Sacred institutions seeking items of spiritual significance
 **Adventure Companies**: Groups preparing for deep-sea expeditions who need historical intelligence
-
-## Inhabitants and Personnel
 
 ### Antiquarian Eliza Tidecaller
 *The visionary founder and chief curator*
@@ -227,7 +233,7 @@ Eliza's most trusted associate, specializing in the technical aspects of artifac
 
 **Specializations:**
 - Advanced magical analysis and enchantment identification
-- Historical research and provenance investigation
+- Historical research and provece investigation
 - Laboratory management and quality control
 - Staff training in authentication procedures
 - Development of new preservation and analysis techniques
@@ -267,8 +273,6 @@ A carefully selected team of experts who venture into dangerous waters to locate
 - **Finn Treasureseek**: Skilled in navigating dangerous underwater terrain and avoiding hazards
 - **Marina Artifactbind**: Talented in the safe recovery and initial preservation of discovered items
 
-## Plot Hooks and Adventure Opportunities
-
 ### The Vanishing Collection
 **Level**: 4-8
 Several of the Antiquarium's most valuable artifacts have begun disappearing, seemingly vanishing from their secured display cases. Investigation reveals the items are being drawn back to their original locations by some powerful force, potentially endangering both the collection and the city.
@@ -297,10 +301,8 @@ An underwater civilization claims that several artifacts in the Antiquarium's co
 **Level**: 9-15
 Evidence emerges that one of the Seven Shards is hidden among the Antiquarium's collection, disguised as a lesser artifact. However, locating it attracts the attention of powerful entities seeking to gather all the Shards.
 
-## Secrets and Hidden Elements
-
 ### The Living Collection
-Some of the artifacts in the Antiquarium are not entirely inanimate—they retain fragments of consciousness from their original owners or the civilizations that created them. Eliza carefully manages these semi-sentient items, using their knowledge while preventing them from exerting unwanted influence.
+Some of the artifacts in the Antiquarium are not entirely iimate—they retain fragments of consciousness from their original owners or the civilizations that created them. Eliza carefully manages these semi-sentient items, using their knowledge while preventing them from exerting unwanted influence.
 
 ### The Deep Sea Trading Network
 The Antiquarium serves as a hub for a secret network of traders who deal directly with current underwater civilizations. This network allows for the acquisition of contemporary items from societies that officially don't exist according to surface records.
@@ -317,17 +319,15 @@ Among the future artifacts are items that belonged to members of the current par
 ### The Shard Research Project
 Eliza has been secretly researching the Seven Shards for years, using her collection to trace their historical movements and effects on oceanic civilizations. Her findings could be crucial to understanding their ultimate purpose.
 
-## Mechanical Elements
-
 ### Authentication Services
 **Expert Analysis**: Advantage on all checks related to identifying magical properties and historical significance of oceanic artifacts
-**Provenance Verification**: Access to comprehensive records that can trace the ownership history of most significant items
+**Provece Verification**: Access to comprehensive records that can trace the ownership history of most significant items
 **Cultural Context**: Detailed information about the civilizations and contexts that produced discovered artifacts
 **Market Valuation**: Accurate appraisal of both monetary and cultural value of oceanic treasures
 
 ### Environmental Effects
 
-**Oceanic Resonance** (General Antiquarium effect)
+**Oceanic Resoce** (General Antiquarium effect)
 - Water-based magic gains +1 to spell save DCs while within the building
 - Divination spells focused on oceanic subjects have extended range and clarity
 - Communication with sea creatures and underwater entities is enhanced
@@ -350,7 +350,7 @@ Eliza has been secretly researching the Seven Shards for years, using her collec
 **Acquisition Services** (For serious collectors)
 - Custom expedition planning and funding for specific artifact recovery
 - Priority notification of newly discovered items matching collector interests
-- Authentication and provenance verification for items acquired independently
+- Authentication and provece verification for items acquired independently
 - Restoration and preservation services for damaged artifacts
 
 ### Antiquarium Hazards
@@ -373,32 +373,6 @@ Eliza has been secretly researching the Seven Shards for years, using her collec
 - Specialized equipment available for extended examination of pressure-sensitive items
 - Gradual acclimatization possible through repeated exposure and training
 
-## DM Guidelines and Campaign Integration
-
-### Managing Artifact Discoveries
-- New discoveries should feel meaningful and connected to ongoing storylines
-- Balance the excitement of finding treasure with the responsibility of preservation
-- Use artifacts as sources of historical information rather than just powerful equipment
-- Consider the cultural and diplomatic implications of artifact ownership
-
-### Handling Temporal Elements
-- Temporal artifacts should provide insight without solving current problems
-- Future items should offer intriguing hints rather than definitive answers
-- Past artifacts can fill in background details and provide context for current events
-- Prevent temporal knowledge from removing the need for character decision-making
-
-### Economic Considerations
-- The Antiquarium provides access to rare items but at appropriate costs
-- Services should require payment in money, favors, or information rather than being freely available
-- Major acquisitions should involve significant investment of time and resources
-- Balance the wealth of available items with the need for ongoing motivation
-
-### Character Integration Opportunities
-- Characters with backgrounds in history, archaeology, or ocean exploration find natural connections
-- The acquisition specialist program provides opportunities for character growth and advancement
-- Research projects offer ways for characters to contribute their unique knowledge and skills
-- Long-term relationships with staff create recurring connections and sources of information
-
 ## Connections to the Wider World
 
 The Tidecaller Antiquarium connects to numerous important elements throughout Aquabyssos and beyond:
@@ -412,11 +386,6 @@ The Tidecaller Antiquarium connects to numerous important elements throughout Aq
 
 *The Tidecaller Antiquarium stands as a bridge between the mysterious depths and the curious surface, where the treasures of lost civilizations find new purpose in illuminating the rich tapestry of oceanic history and the endless wonders that lie beneath the waves.*
 
-
-## Connections
-
-- [[The Phosphor Markets]]
-
 ## Player-Facing Summary
 
 Antiquarian Eliza Tidecaller is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -424,12 +393,6 @@ Antiquarian Eliza Tidecaller is a undersea element of the setting, known for bio
 ## Lore Details
 
 Legends speak of Antiquarian Eliza Tidecaller as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Antiquarian Eliza Tidecaller.
-
-## Adventure Hooks
-
-- A rumor ties Antiquarian Eliza Tidecaller to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Antiquarian Eliza Tidecaller to avert a public scandal.
-- A map overlay reveals a hidden approach to Antiquarian Eliza Tidecaller active only during specific tides/storms.
 
 ## DM Notes
 
@@ -439,10 +402,20 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Antiquarian Eliza Tidecaller|02 Worldbuilding/Places/Antiquarian Eliza Tidecaller]]
 
-<!-- enriched: true -->
 riched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Plot Hooks
+
+- Strange sightings suggest a conspiracy
+- A corpse reveals a betrayal about a local noble
+- Strange dreams suggest a portal

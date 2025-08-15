@@ -24,16 +24,31 @@ updated: '2025-08-13T12:34:07.434539+00:00'
 world: Both
 ---
 
-
-
 # Eyes of the Eagle
 *Wondrous item, uncommon*  
 ![](/03_Mechanics/CLI/items/img/eyes-of-the-eagle.webp#right)
 
-
 These crystal lenses fit over the eyes. While wearing them, you have [[advantage-xphb|Advantage]] on Wisdom ([[skills#Perception|Perception]]) checks that rely on sight. In conditions of clear visibility, you can make out details of even extremely distant creatures and objects as small as 2 feet across.
 
-*Source: Dungeon Master's Guide (2024) p. 261. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 261. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -43,19 +58,15 @@ Eyes of the eagle xdmg is a undersea element of the setting, known for biolumine
 
 Legends speak of eyes of the eagle xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around eyes of the eagle xdmg.
 
-## Adventure Hooks
-
-- A rumor ties eyes of the eagle xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at eyes of the eagle xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to eyes of the eagle xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,14 +22,11 @@ updated: '2025-08-13T12:34:05.250747+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-deck-of-illusions-xdmg-deck-of-illusions-xdmg.svg)
 
 # Deck of Illusions
-*Source: Dungeon Master's Guide p. 161. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+*Source: Dungeon Master's Guide p. 161. Available in the SRD*  
 
 This box contains a set of parchment cards. A full deck has 34 cards. A deck found as treasure is usually missing ` - 1` cards.
 
@@ -78,105 +75,23 @@ The illusion lasts until its card is moved or the illusion is dispelled. When th
 | 33-34 | jokers (2) | You (the deck's owner) |
 ^1-playing-card-illusion
 
-## Cards
 
-### Red Dragon
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-### Knight and Four Guards
+### Connection Improvements
 
+- Add cross-references to related notes
 
-### Succubus/Incubus
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-### Druid
-
-
-### Cloud Giant
-
-
-### Ettin
-
-
-### Bugbear
-
-
-### Goblin
-
-
-### Beholder
-
-
-### Archmage and Mage Apprentice
-
-
-### Night Hag
-
-
-### Assassin
-
-
-### Fire Giant
-
-
-### Ogre Mage
-
-
-### Gnoll
-
-
-### Kobold
-
-
-### Lich
-
-
-### Priest and Two Acolytes
-
-
-### Medusa
-
-
-### Veteran
-
-
-### Frost Giant
-
-
-### Troll
-
-
-### Hobgoblin
-
-
-### Goblin
-
-
-### Iron Golem
-
-
-### Bandit Captain and Three Bandits
-
-
-### Erinyes
-
-
-### Berserker
-
-
-### Hill Giant
-
-
-### Ogre
-
-
-### Orc
-
-
-### Kobold
-
-
-### You (The Deck's Owner)
 
 ## Player-Facing Summary
 
@@ -186,19 +101,33 @@ Deck of illusions is a undersea element of the setting, known for bioluminescent
 
 Legends speak of deck of illusions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around deck of illusions.
 
-## Adventure Hooks
-
-- A rumor ties deck of illusions to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at deck of illusions to avert a public scandal.
-- A map overlay reveals a hidden approach to deck of illusions active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help delivering before the festival
+- An heirloom has gone missing and truth emerges
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

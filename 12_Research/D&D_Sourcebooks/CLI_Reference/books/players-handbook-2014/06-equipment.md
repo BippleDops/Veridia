@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.869082'
 world: Both
 ---
 
-
 # Equipment
 *Source: Player's Handbook (2014), p. 143* 
 
@@ -30,6 +29,24 @@ The marketplace of a large city teems with buyers and sellers of many sorts: dwa
 For an adventurer, the availability of armor, weapons, backpacks, rope, and similar goods is of paramount importance, since proper equipment can mean the difference between life and death in a dungeon or the untamed wilds. This chapter details the mundane and exotic merchandise that adventurers commonly find useful in the face of the threats that the worlds of D&D present.
 
 ![](/03_Mechanics/CLI/books/players-handbook-2014/img/ch5.webp#center)
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Starting Equipment
 
@@ -41,7 +58,7 @@ You decide how your character came by this starting equipment. It might have bee
 
 ## Wealth
 
-Wealth appears in many forms in a D&D world. Coins, gemstones, trade goods, art objects, animals, and property can reflect your character's financial well-being. Members of the peasantry trade in goods, bartering for what they need and paying taxes in grain and cheese. Members of the nobility trade in legal rights, such as the rights to mine, a port, or farmland, or in gold bars, measuring gold by the pound rather than by the coin. Only merchants, adventurers, and those offering professional services for hire deal in coins.
+Wealth appears in many forms in a D&D world. Coins, gemstones, trade goods, art objects, animals, and property can reflect your character's ficial well-being. Members of the peasantry trade in goods, bartering for what they need and paying taxes in grain and cheese. Members of the nobility trade in legal rights, such as the rights to mine, a port, or farmland, or in gold bars, measuring gold by the pound rather than by the coin. Only merchants, adventurers, and those offering professional services for hire deal in coins.
 
 ### Coinage
 
@@ -116,9 +133,7 @@ A shield is made from wood or metal and is carried in one hand. Wielding a shiel
 > [!note] Variant: Equipment Sizes
 > 
 > In most campaigns, you can use or wear any equipment that you find on your adventures, within the bounds of common sense. For example, a burly half-orc won't fit in a halfling's leather armor, and a gnome would be swallowed up in a cloud giant's elegant robe.
-> 
 > The DM can impose more realism. For example, a suit of plate armor made for one human might not fit another one without significant alterations, and a guard's uniform might be visibly ill-fitting when an adventurer tries to wear it as a disguise.
-> 
 > Using this variant, when adventurers find armor, clothing, and similar items that are made to be worn, they might need to visit an armorsmith, tailor, leatherworker, or similar expert to make the item wearable. The cost for such work varies from 10 to 40 percent of the market price of the item. The DM can either roll 1d4 × 10 or determine the increase in cost based on the extent of the alterations required.
 ^variant-equipment-sizes
 
@@ -316,7 +331,7 @@ An arcane focus is a special item—an orb, a crystal, a rod, a specially constr
 
 ### Ball Bearings
 
-As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall [[conditions#Prone|prone]]. A creature moving through the area at half speed doesn't need to make this save.
+As an action, you can spill these tiny metal balls from their pouch to cover a level, square area that is 10 feet on a side. A creature moving across the covered area must succeed on a DC 10 Dexterity saving throw or fall [[conditions#prone|prone]]. A creature moving through the area at half speed doesn't need to make this save.
 
 ### Block and Tackle
 
@@ -479,21 +494,13 @@ A torch burns for 1 hour, providing bright light in a 20-foot radius and dim lig
 ![[adventuring-gear-container-capacity-phb|Adventuring Gear; Container Capacity]]
 
 > [!note] Equipment Packs
-> 
 > The starting equipment you get from your class includes a collection of useful adventuring gear, put together in a pack. The contents of these packs are listed here. If you are buying your starting equipment, you can purchase a pack for the price shown, which might be cheaper than buying the items individually.
-> 
 > **Burglar's Pack (16 gp).** Includes a backpack, a bag of 1,000 ball bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days of rations, a tinderbox, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
-> 
 > **Diplomat's Pack (39 gp).** Includes a chest, 2 cases for maps and scrolls, a set of fine clothes, a bottle of ink, an ink pen, a lamp, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
-> 
 > **Dungeoneer's Pack (12 gp).** Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
-> 
 > **Entertainer's Pack (40 gp).** Includes a backpack, a bedroll, 2 costumes, 5 candles, 5 days of rations, a waterskin, and a disguise kit.
-> 
 > **Explorer's Pack (10 gp).** Includes a backpack, a bedroll, a mess kit, a tinderbox, 10 torches, 10 days of rations, and a waterskin. The pack also has 50 feet of hempen rope strapped to the side of it.
-> 
 > **Priest's Pack (19 gp).** Includes a backpack, a blanket, 10 candles, a tinderbox, an alms box, 2 blocks of incense, a censer, vestments, 2 days of rations, and a waterskin.
-> 
 > **Scholar's Pack (40 gp).** Includes a backpack, a book of lore, a bottle of ink, an ink pen, 10 sheets of parchment, a little bag of sand, and a small knife.
 ^equipment-packs
 
@@ -587,7 +594,7 @@ Guilds, nobles, and royalty regulate trade. Chartered companies are granted righ
 
 ## Expenses
 
-When not descending into the depths of the earth, exploring ruins for lost treasures, or waging war against the encroaching darkness, adventurers face more mundane realities. Even in a fantastical world, people require basic necessities such as shelter, sustenance, and clothing. These things cost money, although some lifestyles cost more than others.
+When not descending into the depths of the earth, exploring ruins for lost treasures, or waging war against the encroaching darkness, adventurers face more mundane realities. Even in a fantastical world, people require basic necessities such as shelter, sustece, and clothing. These things cost money, although some lifestyles cost more than others.
 
 ### Lifestyle Expenses
 
@@ -607,7 +614,7 @@ You live in inhumane conditions. With no place to call home, you shelter whereve
 
 #### Squalid
 
-You live in a leaky stable, a mud-floored hut just outside town, or a vermin-infested boarding house in the worst part of town. You have shelter from the elements, but you live in a desperate and often violent environment, in places rife with disease, hunger, and misfortune. You are beneath the notice of most people, and you have few legal protections. Most people at this lifestyle level have suffered some terrible setback. They might be disturbed, marked as exiles, or suffer from disease.
+You live in a leaky stable, a mud-floored hut just outside town, or a vermin-infested boarding house in the worst part of town. You have shelter from the elements, but you live in a desperate and often violent environment, in places rife with disease, hunger, and misfortune. You are beneath the notice of most people, and you have few legal protections. Most people at this lifestyle level have suffered some terrible seck. They might be disturbed, marked as exiles, or suffer from disease.
 
 #### Poor
 
@@ -638,9 +645,7 @@ The Food, Drink, and Lodging table gives prices for individual food items and a 
 ![[food-drink-and-lodging-phb|Food, Drink, and Lodging]]
 
 > [!note] Self-Sufficiency
-> 
 > The expenses and lifestyles described in this chapter assume that you are spending your time between adventures in town, availing yourself of whatever services you can afford—paying for food and shelter, paying townspeople to sharpen your sword and repair your armor, and so on. Some characters, though, might prefer to spend their time away from civilization, sustaining themselves in the wild by hunting, foraging, and repairing their own gear.
-> 
 > Maintaining this kind of lifestyle doesn't require you to spend any coin, but it is time-consuming. If you spend your time between adventures practicing a profession, as described in chapter 8, you can eke out the equivalent of a poor lifestyle. Proficiency in the [[skills#Survival|Survival]] skill lets you live at the equivalent of a comfortable lifestyle.
 ^self-sufficiency
 
@@ -672,8 +677,6 @@ When you make your character, you can roll once on the [[trinket-xphb|Trinkets]]
 
 [[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014|03 Mechanics/Rules Reference/Quick Reference/DnD5e DM Screen 2014]]
 
-[[03_Mechanics/Rules_Reference/Quick_Reference/DnD5e-DM Screen-2014|03 Mechanics/Rules Reference/Quick Reference/DnD5e DM Screen 2014]]
-
 ## Player-Facing Summary
 
 06 equipment is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -682,19 +685,30 @@ When you make your character, you can roll once on the [[trinket-xphb|Trinkets]]
 
 Legends speak of 06 equipment as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 06 equipment.
 
-## Adventure Hooks
-
-- A rumor ties 06 equipment to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 06 equipment to avert a public scandal.
-- A map overlay reveals a hidden approach to 06 equipment active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- A journal reveals ancient history about the government
+- Strange sightings suggest ancient magic
+- A prisoner has gone missing and chaos spreads
+- A prisoner has gone missing and war looms
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

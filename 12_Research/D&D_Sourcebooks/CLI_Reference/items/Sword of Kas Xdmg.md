@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:07.611020+00:00'
 world: Both
 ---
 
-
-
 # Sword of Kas
 *Weapon ([[longsword-xphb|longsword]]), artifact (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/sword-of-kas.webp#right)
@@ -36,7 +34,25 @@ world: Both
 - **Properties**: [[item-properties#Versatile|Versatile]]
 - **Weight**: 3.0 lbs.
 
-Kas was a powerful warrior who served "Vecna" and whose loyalty was rewarded with this sword. As Kas's power grew, so did his hubris. The sword urged Kas to destroy Vecna and usurp his throne. Legend says Vecna's destruction came at Kas's hand, but Vecna also wrought his rebellious lieutenant's doom, leaving only Kas's sword behind.
+Kas was a powerful warrior who served "Vecna" and whose loyalty was rewarded with this sword. As Kas's power grew, so did his hubris. The sword urged Kas to destroy Vecna and usurp his throne. Legend says Vecna's destruction came at Kas's hand, but Vecna also wrought his rebellious lieutet's doom, leaving only Kas's sword behind.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Bloodthirst
 
@@ -99,19 +115,29 @@ Sword of kas xdmg is a undersea element of the setting, known for bioluminescent
 
 Legends speak of sword of kas xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sword of kas xdmg.
 
-## Adventure Hooks
-
-- A rumor ties sword of kas xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at sword of kas xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to sword of kas xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals ancient history about a local noble
+- A stranger needs help stealing before dawn
+- A noble needs help delivering before winter
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

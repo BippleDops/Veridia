@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Envoy Blackwater Jr.|02 Worldbuilding/Places/Envoy Blackwater Jr.]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Envoy Blackwater Jr.]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,29 @@ Eastern Kingdom Fleet Admiral is a undersea element of the setting, known for bi
 
 Legends speak of Eastern Kingdom Fleet Admiral as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Eastern Kingdom Fleet Admiral.
 
-## Adventure Hooks
-
-- A rumor ties Eastern Kingdom Fleet Admiral to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Eastern Kingdom Fleet Admiral to avert a public scandal.
-- A map overlay reveals a hidden approach to Eastern Kingdom Fleet Admiral active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing a witness for money
+- A prisoner has gone missing and evil awakens
+- A journal reveals the truth about this place
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

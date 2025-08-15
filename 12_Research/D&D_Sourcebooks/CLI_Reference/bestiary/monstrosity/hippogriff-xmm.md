@@ -29,13 +29,29 @@ updated: '2025-08-12T23:37:34.946490'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-hippogriff-xmm-hippogriff-xmm.svg)
 
 # [[hippogriff-xmm|Hippogriff]]
-*Source: Monster Manual (2024) p. 169. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 169. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Hippogriff
 
@@ -74,7 +90,6 @@ Hippogriff migrations might take months or years, and sages frequently predict t
 "stats":
   - !!int "17"
   - !!int "13"
-  - !!int "13"
   - !!int "2"
   - !!int "12"
   - !!int "8"
@@ -112,19 +127,21 @@ Hippogriff xmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of hippogriff xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hippogriff xmm.
 
-## Adventure Hooks
-
-- A rumor ties hippogriff xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at hippogriff xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to hippogriff xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Plot Hooks
+
+- A corpse reveals a conspiracy about a local noble
+- Strange disappearances suggest a conspiracy

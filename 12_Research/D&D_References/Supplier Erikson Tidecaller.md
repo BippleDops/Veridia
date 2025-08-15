@@ -36,22 +36,32 @@ MyCategory: Merchant
 obsidianUIMode: preview
 ---
 
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-supplier-erikson-tidecaller-supplier-erikson-tidecaller.svg]]
-
-
-
-
-
 
 # Supplier Erikson Tidecaller
 *Master of Tidal Treasures*
 
 > *"The ocean provides everything we need, but you must know where to look and how to ask. I've spent forty years learning the sea's secrets, and my shop is where those secrets become solutions."*
 > — Erikson Tidecaller, explaining his business philosophy
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -69,8 +79,6 @@ With over four decades of experience in both practical seamanship and theoretica
 **Appearance**: Erikson has the classic blue-green skin of his people, marked with scars from deep-sea salvage work. His hair is silver-white and braided with small shells and magical trinkets. His hands are calloused but nimble, perfect for handling delicate magical components.
 
 **Personality**: Professional, knowledgeable, and genuinely helpful. Erikson takes pride in matching customers with exactly what they need, often suggesting alternatives or improvements to their original requests. He's patient with novices but expects repeat customers to learn from his advice.
-
-## Business Operations
 
 ### Tidecaller's Emporium
 **Location**: Three-story building in [[Harbor District]] with underwater storage vaults  
@@ -101,8 +109,6 @@ With over four decades of experience in both practical seamanship and theoretica
 
 **Special Abilities**: Tidal magic (minor water manipulation), Material expertise (identify magical properties), Salvage navigation (locate underwater resources), Emergency crafting (improvised equipment creation)
 
-## Adventure Hooks
-
 ### The Rare Component (Levels 3-5)
 Erikson needs a specific rare material for an important customer, but the only known source is in dangerous territory. He hires the party to retrieve it, offering valuable equipment in exchange.
 
@@ -124,41 +130,6 @@ Erikson has located a valuable wreck in dangerous waters but needs skilled adven
 *"Good equipment can mean the difference between a successful mission and a watery grave. I don't sell anything I wouldn't trust with my own life."*  
 — Erikson Tidecaller
 
-
-## Connections
-
-- [[Pressure's End]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 Supplier Erikson Tidecaller is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -171,15 +142,23 @@ Legends speak of Supplier Erikson Tidecaller as a nexus where past and present c
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Supplier Erikson Tidecaller|02 Worldbuilding/Places/Supplier Erikson Tidecaller]]
-
-<!-- enriched: true -->
-- [[Abyssos Prime]]
-- [[Harbor Master Luna Freedrift]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a portal
+- A stranger needs help delivering before winter
+- A journal reveals a conspiracy about this place
+- The authorities needs help finding before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

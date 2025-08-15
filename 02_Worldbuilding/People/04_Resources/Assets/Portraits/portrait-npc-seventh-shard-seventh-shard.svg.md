@@ -1,4 +1,5 @@
 ---
+
 title: portrait npc seventh shard seventh shard.svg
 aliases:
 - portrait npc seventh shard seventh shardsvg
@@ -9,6 +10,7 @@ tags:
 - npc
 - character
 - active
+- bloodline
 created: 2025-08-14
 modified: '2025-08-14'
 status: placeholder
@@ -16,12 +18,80 @@ race: Unknown
 class: Unknown
 location: Unknown
 updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
 
 
 # 04_Resources/Assets/Portraits/portrait-npc-seventh-shard-seventh-shard.svg
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
 
 ## Description
 
@@ -30,13 +100,6 @@ updated: 2025-08-14
 ## Details
 
 *[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[NPC_Portraits_Gallery 2]]
-- [[Seventh Shard]]
-- [[Npc Portraits Gallery]]
 
 ## Notes
 
@@ -57,7 +120,6 @@ portrait-npc-seventh-shard-seventh-shard.svg presents a distinctive figure. Thei
 - **Typical Attire**: Professional garments suited to their role
 - **Mannerisms**: [Describe habits and gestures]
 
-
 ## Personality
 
 **Traits**: Creative, curious, cautious
@@ -68,7 +130,6 @@ portrait-npc-seventh-shard-seventh-shard.svg presents a distinctive figure. Thei
 
 **Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
 
-
 ## Background
 
 portrait-npc-seventh-shard-seventh-shard.svg's path to their current position involved:
@@ -77,48 +138,6 @@ portrait-npc-seventh-shard-seventh-shard.svg's path to their current position in
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-## Relationships
-
-### Allies
-- Professional colleagues and supporters
-- Political or business connections
-
-### Rivals
-- Competitors in their field
-- Ideological opponents
-
-### Neutral Parties
-- Those who could be swayed either way
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
 
 ## Motivations
 
@@ -129,7 +148,6 @@ portrait-npc-seventh-shard-seventh-shard.svg's path to their current position in
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
 ## Secrets
 
 portrait-npc-seventh-shard-seventh-shard.svg harbors secrets that could change everything:
@@ -137,9 +155,6 @@ portrait-npc-seventh-shard-seventh-shard.svg harbors secrets that could change e
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Lost memory
-
-
-
 
 ## Voice & Mannerisms
 
@@ -158,7 +173,6 @@ portrait-npc-seventh-shard-seventh-shard.svg is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
 ## Plot Hooks
 
 1. **The Request**: portrait-npc-seventh-shard-seventh-shard.svg needs assistance with a delicate matter
@@ -167,7 +181,6 @@ portrait-npc-seventh-shard-seventh-shard.svg is currently engaged in:
 4. **The Alliance**: Opportunity to work with or against portrait-npc-seventh-shard-seventh-shard.svg
 5. **The Crisis**: portrait-npc-seventh-shard-seventh-shard.svg is caught in a situation requiring intervention
 
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -175,9 +188,6 @@ portrait-npc-seventh-shard-seventh-shard.svg is currently engaged in:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
-
 
 ## Statistics (D&D 5e)
 
@@ -201,14 +211,26 @@ languages: Common
 cr: 1/4
 ```
 
-## DM Notes
 
-### Usage Tips
-- portrait-npc-seventh-shard-seventh-shard.svg works best as a recurring NPC
-- Can serve as quest giver, information source, or obstacle
-- Personality should be consistent but can evolve
+## Prophecy Connection
 
-### Scaling
-- Adjust capabilities to party level
-- Influence can grow or wane with story
-- Secrets can be revealed gradually
+Mentioned in The Hidden Prophecy of Winds
+
+
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

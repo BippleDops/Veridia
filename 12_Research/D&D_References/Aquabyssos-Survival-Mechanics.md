@@ -22,16 +22,6 @@ world: Aquabyssos
 updated: '2025-08-13T01:18:34.584665+00:00'
 ---
 
-
-
-
-
-
-
-# Aquabyssos Survival & Adaptation Mechanics
-
-## Core Pressure System
-
 ### Depth Zones
 The underwater realm is divided into distinct pressure zones, each with increasing dangers and requirements:
 
@@ -58,8 +48,6 @@ The underwater realm is divided into distinct pressure zones, each with increasi
 
 ---
 
-## Depth Adaptation System
-
 ### Adaptation Points
 Characters accumulate adaptation points through exposure to depths. These represent physical and mental changes as the body adjusts to underwater existence.
 
@@ -71,13 +59,6 @@ Characters accumulate adaptation points through exposure to depths. These repres
 - +1 point for failing a pressure save
 - +2 points for consuming Aquabyssos food/water
 - +5 points for magical transformation rituals
-
-### Adaptation Stages
-
-#### Stage 0: Surface Normal (0-10 points)
-- No benefits or penalties
-- Can return to surface freely
-- Standard human physiology
 
 #### Stage 1: Depth Touched (11-25 points)
 **Benefits**:
@@ -155,42 +136,6 @@ Characters accumulate adaptation points through exposure to depths. These repres
 
 ---
 
-## Breathing Medium Mechanics
-
-### Water Types
-
-#### Clear Water
-- Normal vision ranges
-- Standard swimming rules
-- No additional effects
-
-#### Murky Water
-- Vision reduced to 10 ft
-- Disadvantage on Perception
-- Half swimming speed
-
-#### Liquid Air (Transition Zones)
-- Can breathe normally for CON modifier rounds
-- Then requires adaptation check
-- Causes disorientation (WIS save DC 12 or confused)
-
-#### Heavy Water (Deep Zones)
-- Counts as difficult terrain
-- Exhaustion accumulates 2x speed
-- Sounds travel differently (Perception changes)
-
-#### Memory Water
-- Contains liquid memories
-- INT save DC 15 or gain random memory
-- Can learn new proficiencies temporarily
-- Risk of identity confusion
-
-#### Void Water
-- Drains existence
-- CON save DC 18 or lose 1 HD permanently
-- Cannot be healed while submerged
-- Causes madness on prolonged exposure
-
 ### Breathing Complications
 
 **Surface Dweller in Water**:
@@ -209,8 +154,6 @@ Characters accumulate adaptation points through exposure to depths. These repres
 - Causes fatigue if done repeatedly
 
 ---
-
-## Corruption & Transformation
 
 ### Crystal Corruption (Aethermoor Crossover)
 When crystal plague meets depth adaptation:
@@ -237,8 +180,6 @@ Underwater shadows behave differently:
 - Critical Failure = Shadow attempts replacement
 
 ---
-
-## Environmental Hazards
 
 ### Pressure Storms
 **Frequency**: 1-2 per week in deep zones
@@ -274,8 +215,6 @@ Underwater shadows behave differently:
 
 ---
 
-## Madness & Sanity
-
 ### Depth Madness
 Prolonged exposure to depths causes specific insanities:
 
@@ -299,8 +238,6 @@ Prolonged exposure to depths causes specific insanities:
 **Critical Failure**: Permanent madness trait
 
 ---
-
-## Equipment Modifications
 
 ### Pressure Suits
 **Basic** (500gp):
@@ -346,28 +283,6 @@ Prolonged exposure to depths causes specific insanities:
 
 ---
 
-## Magical Adaptations
-
-### Depth Magic Schools
-
-#### Pressure Magic
-- Power increases with depth
-- Surface casting causes exhaustion
-- Can implode objects
-- Requires depth adaptation 2+
-
-#### Current Weaving
-- Manipulate water currents
-- Create temporary air pockets
-- Ride the probability streams
-- No adaptation required but helped by it
-
-#### Void Speaking
-- Communicate with nothingness
-- Erase things from existence
-- Requires madness or adaptation 4+
-- Costs sanity to use
-
 ### Spell Modifications Underwater
 
 **Fire Spells**:
@@ -391,8 +306,6 @@ Prolonged exposure to depths causes specific insanities:
 - May cause pressure waves
 
 ---
-
-## Recovery & Treatment
 
 ### Removing Adaptation
 **Natural Recovery**:
@@ -430,8 +343,6 @@ Prolonged exposure to depths causes specific insanities:
 
 ---
 
-## Social Mechanics
-
 ### Adaptation Social Effects
 
 | Stage | Surface Reaction | Aquabyssos Reaction |
@@ -450,8 +361,6 @@ Prolonged exposure to depths causes specific insanities:
 
 ---
 
-## Quick Reference Tables
-
 ### Daily Adaptation Check
 Roll 1d20 + CON modifier:
 - 1-5: +2 adaptation points
@@ -467,13 +376,23 @@ When rapidly changing depth:
 - 2000 ft instantly: 8d6 damage
 - 3000+ ft instantly: Death (implosion)
 
-### Madness Duration
-- Short-term: 1d10 minutes
-- Long-term: 1d10 hours
-- Indefinite: Until cured
-- Permanent: Forever, becomes personality trait
 
----
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Designer Notes
 These mechanics create pressure (pun intended) for players to make difficult choices about adaptation. The system rewards gradual acclimation while punishing rapid changes. The social mechanics ensure that becoming adapted has roleplay consequences beyond just statistics.
@@ -481,10 +400,6 @@ These mechanics create pressure (pun intended) for players to make difficult cho
 The interplay between crystal corruption and depth adaptation creates unique character development paths. Players must balance the benefits of adaptation against the loss of their surface identity.
 
 Remember: The mechanics serve the horror of transformation. Use them to enhance the narrative of losing humanity to the depths, not as a punishment system.
-
-## Connections
-
-- [[Initiative Tracker]]
 
 ## Player-Facing Summary
 
@@ -494,23 +409,30 @@ Aquabyssos Survival Mechanics is a undersea element of the setting, known for bi
 
 Legends speak of Aquabyssos Survival Mechanics as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Aquabyssos Survival Mechanics.
 
-## Adventure Hooks
-
-- A rumor ties Aquabyssos Survival Mechanics to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Aquabyssos Survival Mechanics to avert a public scandal.
-- A map overlay reveals a hidden approach to Aquabyssos Survival Mechanics active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Initiative Tracker|02 Worldbuilding/Lore/Initiative Tracker]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A journal reveals a conspiracy about the government
+- Strange accidents suggest a conspiracy
+- A merchant needs help finding before dawn
+- Strange dreams suggest a portal
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

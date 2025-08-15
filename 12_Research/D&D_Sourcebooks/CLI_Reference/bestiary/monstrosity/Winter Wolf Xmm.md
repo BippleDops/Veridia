@@ -28,14 +28,29 @@ updated: '2025-08-13T12:34:05.361593+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-winter-wolf-xmm-v1-winter-wolf-xmm.svg)
 
 # [[winter-wolf-xmm|Winter Wolf]]
-*Source: Monster Manual (2024) p. 334. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 334. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Winter Wolf
 
@@ -46,14 +61,12 @@ world: Both
 
 Winter wolves are horse-size, supernatural predators that prowl frigid wildernesses in deadly packs. With their great size and chilling breath, winter wolves pursue megafauna, arctic travelers, and any other creatures they catch on the tundra.
 
-Winter wolves are more intelligent than natural wolves and can speak. Most are predominantly concerned with their next meal, and while they might converse with other creatures in exchange for food, few concern themselves with long-term bargains or keeping their word unless they have something to gain. Winter wolves often hunt alongside frost giants that indulge them with frequent hunts and reliable meals.
+Winter wolves are more intelligent than natural wolves and can speak. Most are predomitly concerned with their next meal, and while they might converse with other creatures in exchange for food, few concern themselves with long-term bargains or keeping their word unless they have something to gain. Winter wolves often hunt alongside frost giants that indulge them with frequent hunts and reliable meals.
 
 > [!quote] A quote from Koran, Winter Wolf  
 > 
 > Snowdrifts, driving hail, and wind fierce enough to strip the hairless skin off your bones—you lot have been through it all. But good news, there's a town full of warm hearths right over this rise.
-> 
 > You'll never reach it, but at least your last thoughts will be warm.
-
 
 ```statblock
 "name": "Winter Wolf (XMM)"
@@ -76,7 +89,6 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+5"
 "damage_immunities": "cold"
 "senses": "passive Perception 15"
 "languages": "Common, Giant"
@@ -89,8 +101,7 @@ Winter wolves are more intelligent than natural wolves and can speak. Most are p
     "name": "Pack Tactics"
 "actions":
   - "desc": "Melee Attack Roll: +6, reach 5 ft. Hit: 11 (2d6 + 4) Piercing damage.\
-      \ If the target is a Large or smaller creature, it has the [[conditions#Prone|Prone]]\
-      \ condition."
+      \ If the target is a Large or smaller creature, it has the [[conditions#prone|Prone]]\
     "name": "Bite"
   - "desc": "Constitution Saving Throw: DC 12, each creature in a 15-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: 18 (4d8) Cold damage. Success: Half damage."
@@ -113,19 +124,35 @@ Winter wolf xmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of winter wolf xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around winter wolf xmm.
 
-## Adventure Hooks
-
-- A rumor ties winter wolf xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at winter wolf xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to winter wolf xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals a betrayal about this place
+- Strange dreams suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

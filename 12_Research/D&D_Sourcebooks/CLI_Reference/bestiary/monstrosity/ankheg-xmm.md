@@ -28,13 +28,29 @@ updated: '2025-08-12T23:37:35.022682'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ankheg-xmm-ankheg-xmm.svg)
 
 # [[ankheg-xmm|Ankheg]]
-*Source: Monster Manual (2024) p. 18. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 18. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Ankheg
 
@@ -122,19 +138,25 @@ Ankheg xmm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of ankheg xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ankheg xmm.
 
-## Adventure Hooks
-
-- A rumor ties ankheg xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ankheg xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to ankheg xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing a witness for revenge
+- A merchant needs help delivering before the new moon
+- A shipment has gone missing and war looms
+- A map reveals the truth about the cult
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

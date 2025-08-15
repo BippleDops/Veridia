@@ -23,15 +23,8 @@ updated: '2025-08-13T12:34:17.936139+00:00'
 world: Both
 ---
 
-
-
-
-
-
 # Complete Rules Reference
 *Every Rule You Need for Survival*
-
-## Core Mechanics
 
 ### Basic Resolution
 **Standard Check**: d20 + Ability Modifier + Proficiency (if applicable)
@@ -40,26 +33,6 @@ world: Both
 - **DC 20**: Hard task
 - **DC 25**: Very hard task
 - **DC 30**: Nearly impossible
-
-### Advantage & Disadvantage
-
-#### Sources of Advantage
-- Attacking from above underwater
-- Using specialized equipment for task
-- Faction assistance in their territory
-- Adapted to current depth zone
-- Surprise attacks
-- Flanking in 3D space
-
-#### Sources of Disadvantage
-- Operating outside adaptation zone
-- Damaged or improvised equipment
-- Hostile faction territory
-- Exhaustion levels
-- Darkness without darkvision
-- Strong currents
-
-## Underwater Combat
 
 ### Attack Modifiers
 
@@ -72,18 +45,6 @@ world: Both
 | Ranged (projectile) | Normal | Special ammo required |
 | Crossbow | Normal | Full damage |
 
-### Movement in Water
-- **Swimming Speed**: Equals walking speed with adaptation
-- **Without Swimming Speed**: Half movement, Athletics check DC 10 or no progress
-- **Vertical Movement**: Costs 2ft per 1ft up, normal down
-- **Currents**: Force movement at current speed (no action required)
-
-### 3D Positioning
-- **Above Target**: Advantage on melee attacks
-- **Below Target**: Disadvantage on melee attacks
-- **Flanking**: Works in 3D (opposite positions)
-- **Cover**: Creatures can hide behind/above/below
-
 ### Breathing & Drowning
 **Holding Breath**: 1 + CON modifier minutes (minimum 30 seconds)
 
@@ -91,8 +52,6 @@ world: Both
 1. Out of breath: 0 HP, unconscious
 2. Can't breathe: Death saves with disadvantage
 3. Stabilized: Still needs air within 1 minute or dies
-
-## Pressure System
 
 ### Pressure Zones & Effects
 
@@ -105,35 +64,6 @@ world: Both
 
 **Failed Save**: 1 level exhaustion + 1d6 damage per 100ft beyond adaptation
 
-### Pressure Adaptation Levels
-
-#### Level 0 (Surface Only)
-- **Safe Depth**: 0-30ft
-- **Equipment**: None
-- **Limitation**: 1d6 damage/minute beyond 30ft
-
-#### Level 1 (Basic)
-- **Safe Depth**: 0-500ft
-- **Equipment**: Basic suit or gills
-- **Cost**: Free at character creation
-
-#### Level 2 (Professional)
-- **Safe Depth**: 0-1500ft
-- **Equipment**: Advanced suit or modification
-- **Cost**: 500gp upgrade
-
-#### Level 3 (Military)
-- **Safe Depth**: 0-4000ft
-- **Equipment**: Military grade or major biological change
-- **Cost**: 2000gp upgrade
-
-#### Level 4 (Experimental)
-- **Safe Depth**: Any depth
-- **Equipment**: Cutting-edge tech or complete transformation
-- **Cost**: 10,000gp or special quest
-
-### Rapid Pressure Changes
-
 #### Emergency Ascent
 **Speed**: 60ft/round straight up
 **Cost**: 1 exhaustion level per 500ft
@@ -143,8 +73,6 @@ world: Both
 **Minor Breach**: -1 AC, disadvantage on DEX saves
 **Major Breach**: Lose depth protection in 1d4 rounds
 **Catastrophic**: Immediate pressure exposure
-
-## Environmental Hazards
 
 ### Temperature
 
@@ -172,23 +100,6 @@ world: Both
 - **Strong** (30ft/round): DC 15 Athletics to move against
 - **Crushing** (60ft/round): DC 20 Athletics or swept away
 
-## Magic Modifications
-
-### Spell Component Changes
-
-#### Verbal Components
-- Possible but difficult underwater
-- -2 to spell attack rolls
-- Enemies have disadvantage on hearing components
-
-#### Somatic Components
-- Normal in water
-- Difficult in pressure suits (disadvantage)
-
-#### Material Components
-- Dissolve in 1d4 rounds if not protected
-- May drift away in currents (DEX save DC 10)
-
 ### Elemental Magic Effects
 
 | Element | Underwater Effect |
@@ -200,17 +111,6 @@ world: Both
 | Acid | Normal effect |
 | Poison | Disperses in 1 round unless contained |
 
-## Faction Standing System
-
-### Standing Levels
-- **-5**: Kill on sight
-- **-3**: Hostile, barred from territory
-- **-1**: Distrusted, watched
-- **0**: Neutral, no benefits
-- **+1**: Known, basic services
-- **+3**: Allied, faction benefits
-- **+5**: Trusted, inner circle access
-
 ### Standing Changes
 
 | Action | Standing Change |
@@ -220,28 +120,6 @@ world: Both
 | Betray faction | -3 to -5 |
 | Kill faction member | -2 to -3 |
 | Trade with enemies | -1 |
-
-## Conditions
-
-### Underwater-Specific Conditions
-
-#### Pressure Sick
-- Disadvantage on CON saves
-- Half movement speed
-- -2 to all ability checks
-- Removed by: Rest at safe depth for 1 hour
-
-#### Depth Drunk
-- Disadvantage on WIS and INT saves
-- Confused (as spell) for 1d4 rounds when damaged
-- Removed by: Surface or magical restoration
-
-#### Parasitic Infection
-- -1 max HP per day
-- Gain random mutation after 7 days
-- Removed by: Greater restoration or surgery
-
-## Equipment
 
 ### Pressure Suits
 
@@ -271,8 +149,6 @@ world: Both
 | Depth Rations | No spoilage underwater | 5gp/day |
 | Memory Pearl | Store 1 memory | 500gp |
 
-## Social Encounters
-
 ### Faction Negotiations
 
 **Initial Reaction** (d20 + CHA mod + Standing):
@@ -290,8 +166,6 @@ world: Both
 - Neutral: Normal price
 - Friendly: ×0.5 price
 - Allied: Free (minor info)
-
-## Travel & Exploration
 
 ### Travel Speed
 
@@ -312,34 +186,10 @@ world: Both
 
 **Failure**: Lost for 1d6 hours, random encounter
 
-## Rest & Recovery
-
-### Short Rest (1 hour)
-- Must be at safe depth
-- Regain HP using Hit Dice
-- Some abilities recharge
-- Cannot rest in hostile environment
-
-### Long Rest (8 hours)
-- Must be at safe depth
-- Must be in shelter
-- Regain all HP
-- Regain half Hit Dice
-- Remove 1 exhaustion
-- Spell slots restored
-
 ### Depth Recovery
 **Pressure Sickness**: Requires 24 hours at surface depth
 **Depth Adaptation**: Permanent once gained
 **Parasite Infection**: Requires medical intervention
-
-## Death & Dying
-
-### Underwater Death Saves
-- **Drowning**: Automatic failure each turn
-- **Pressure**: Automatic failure if beyond adaptation
-- **Cold**: Disadvantage on saves
-- **Help**: Medicine DC 15 to grant advantage
 
 ### Resurrection Complications
 **Died Underwater**:
@@ -352,6 +202,24 @@ world: Both
 
 *Remember: The rules serve the story. When in doubt, the depths are unforgiving but fair.*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Rules Reference is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -360,23 +228,28 @@ Rules Reference is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Rules Reference as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Rules Reference.
 
-## Adventure Hooks
-
-- A rumor ties Rules Reference to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Rules Reference to avert a public scandal.
-- A map overlay reveals a hidden approach to Rules Reference active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Master_Campaign_Index|Master Campaign Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

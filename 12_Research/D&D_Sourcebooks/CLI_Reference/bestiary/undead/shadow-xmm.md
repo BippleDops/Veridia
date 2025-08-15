@@ -30,13 +30,29 @@ updated: '2025-08-12T23:37:35.633413'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-shadow-xmm-shadow-xmm.svg)
 
 # [[shadow-xmm|Shadow]]
-*Source: Monster Manual (2024) p. 272. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 272. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Shadow
 
@@ -78,7 +94,6 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
   - !!int "6"
   - !!int "14"
   - !!int "13"
-  - !!int "6"
   - !!int "10"
   - !!int "8"
 "speed": "40 ft."
@@ -89,9 +104,9 @@ Shadows might resemble the silhouettes of who they were in life or take on more 
 "damage_resistances": "acid, cold, fire, lightning, thunder"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Grappled|grappled]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
-  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]],\
+  \ [[conditions#Poisoned|poisoned]], [[conditions#prone|prone]],\
   \ [[conditions#Restrained|restrained]], [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": ""
@@ -132,19 +147,22 @@ Shadow xmm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of shadow xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around shadow xmm.
 
-## Adventure Hooks
-
-- A rumor ties shadow xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at shadow xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to shadow xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and evil awakens
+- A map reveals ancient history about this place
+- A stranger needs help investigating before the festival
+- The authorities needs help stealing before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

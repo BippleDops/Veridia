@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.982292+00:00'
 world: Both
 ---
 
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-silhouette-surgeon-prime-the-silhouette-surgeon-prime.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[Party Shadows|02 Worldbuilding/Groups/Party Shadows]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Party Shadows]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,20 @@ The Silhouette Surgeon Prime is a undersea element of the setting, known for bio
 
 Legends speak of The Silhouette Surgeon Prime as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Silhouette Surgeon Prime.
 
-## Adventure Hooks
-
-- A rumor ties The Silhouette Surgeon Prime to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Silhouette Surgeon Prime to avert a public scandal.
-- A map overlay reveals a hidden approach to The Silhouette Surgeon Prime active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -10,8 +10,6 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Random Encounters
-
 ## Road Encounters
 1. Merchant caravan
 2. Bandits
@@ -25,7 +23,6 @@ modified: '2025-08-14'
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

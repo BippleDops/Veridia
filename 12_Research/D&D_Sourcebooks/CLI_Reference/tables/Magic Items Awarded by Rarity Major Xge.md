@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.787614+00:00'
 world: Both
 ---
 
-
-
 # Magic Items Awarded by Rarity - Major
 *Source: Xanathar's Guide to Everything p. 135* 
 
@@ -38,6 +36,24 @@ world: Both
 | Total | 8 | 4 | 4 | 4 |
 ^magic-items-awarded-by-rarity-major
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Magic items awarded by rarity major xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -46,19 +62,27 @@ Magic items awarded by rarity major xge is a undersea element of the setting, kn
 
 Legends speak of magic items awarded by rarity major xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around magic items awarded by rarity major xge.
 
-## Adventure Hooks
-
-- A rumor ties magic items awarded by rarity major xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at magic items awarded by rarity major xge to avert a public scandal.
-- A map overlay reveals a hidden approach to magic items awarded by rarity major xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and war looms
+- Strange accidents suggest a portal
+- Strange disappearances suggest a portal
+- A prisoner has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

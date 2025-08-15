@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.671654+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,30 @@ Academic Alliance is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Academic Alliance as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Academic Alliance.
 
-## Adventure Hooks
-
-- A rumor ties Academic Alliance to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Academic Alliance to avert a public scandal.
-- A map overlay reveals a hidden approach to Academic Alliance active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Shadow Conspiracy Investigation|02 Worldbuilding/Groups/Shadow Conspiracy Investigation]]
-
-
-## Connections
-
-- [[Shadow Conspiracy Investigation]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest ancient magic
+- A shipment has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

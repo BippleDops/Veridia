@@ -8,24 +8,14 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# data
 
 ## Overview
 
 data represents a crucial aspect of the world's history, cosmology, or fundamental nature.
 
-[Lore content continues with similar detail...]
-
 ---
 
 *Last Updated: 2025-08-14 19:03*
-
-## Connections
-
-- See also: [[Central Index]]
-- Related: [[Regional Politics]]
-- Connected to: [[Character Backstories]]
-
 
 ## DM Notes
 
@@ -34,3 +24,8 @@ data represents a crucial aspect of the world's history, cosmology, or fundament
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows

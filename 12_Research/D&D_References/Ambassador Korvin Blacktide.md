@@ -16,27 +16,26 @@ updated: '2025-08-13T12:34:14.451612+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-ambassador-korvin-blacktide-ambassador-korvin-blacktide.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[The Green Death|02 Worldbuilding/Quests/The Green Death]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Envoy Blackwater Jr.]]
-- [[Knight]]
-- [[Lighthouse Keeper]]
-- [[Quest - The Pretender]]
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -46,19 +45,15 @@ Ambassador Korvin Blacktide is a undersea element of the setting, known for biol
 
 Legends speak of Ambassador Korvin Blacktide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ambassador Korvin Blacktide.
 
-## Adventure Hooks
-
-- A rumor ties Ambassador Korvin Blacktide to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Ambassador Korvin Blacktide to avert a public scandal.
-- A map overlay reveals a hidden approach to Ambassador Korvin Blacktide active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

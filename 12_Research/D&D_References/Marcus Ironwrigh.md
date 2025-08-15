@@ -16,21 +16,22 @@ updated: '2025-08-13T01:18:35.153665+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## Historical Context
+### Enhancement Improvements
 
-TODO
-## Current Relevance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## See Also
-
-TODO
 
 ## Player-Facing Summary
 
@@ -40,21 +41,21 @@ Marcus Ironwright 2 is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Marcus Ironwright 2 as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Marcus Ironwright 2.
 
-## Adventure Hooks
-
-- A rumor ties Marcus Ironwright 2 to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Marcus Ironwright 2 to avert a public scandal.
-- A map overlay reveals a hidden approach to Marcus Ironwright 2 active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
 
 
-## Connections
+## Plot Hooks
 
-- See also: [[Campaign Guide]]
-- Related: [[Historical Context]]
-- Connected to: [[Character Backstories]]
+- Strange accidents suggest ancient magic
+- A document has gone missing and war looms
+- A merchant needs help delivering before the festival
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

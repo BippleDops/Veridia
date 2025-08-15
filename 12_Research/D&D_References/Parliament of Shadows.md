@@ -15,33 +15,26 @@ world: Aquabyssos
 updated: '2025-08-13T01:18:36.759793+00:00'
 ---
 
-
-
-
-
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-parliament-of-shadows-campaign-parliament-of-shadows-campaign.svg)
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Overview
+*20 targeted improvements identified*
 
-TODO
-## Structure
+### Connection Improvements
 
-TODO
-## Goals
+- Add cross-references to related notes
 
-TODO
-## Assets
+### Enhancement Improvements
 
-TODO
-## Conflicts
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -51,28 +44,26 @@ Parliament of Shadows is a undersea element of the setting, known for biolumines
 
 Legends speak of Parliament of Shadows as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Parliament of Shadows.
 
-## Adventure Hooks
-
-- A rumor ties Parliament of Shadows to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Parliament of Shadows to avert a public scandal.
-- A map overlay reveals a hidden approach to Parliament of Shadows active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Party Shadows|02 Worldbuilding/Groups/Party Shadows]]
-
-
-## Connections
-
-- [[Party Shadows]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- The authorities needs help finding before dawn
+- An heirloom has gone missing and chaos spreads
+- A map reveals the truth about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

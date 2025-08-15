@@ -27,14 +27,29 @@ updated: '2025-08-13T12:34:05.739240+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-air-elemental-myrmidon-mpmm-air-elemental-myrmidon-mpmm.svg)
 
 # [[air-elemental-myrmidon-mpmm|Air Elemental Myrmidon]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 122, Mordenkainen's Tome of Foes p. 202*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Elemental Myrmidons
 
@@ -53,16 +68,14 @@ Elemental myrmidons are Elementals conjured and bound by magic into ritually cre
 "stats":
   - !!int "18"
   - !!int "14"
-  - !!int "14"
   - !!int "9"
-  - !!int "10"
   - !!int "10"
 "speed": "30 ft., fly 30 ft. (hover)"
 "damage_resistances": "lightning; thunder; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
-  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]]"
+  \ [[conditions#Poisoned|poisoned]], [[conditions#prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 10"
 "languages": "Auran, one language of its creator's choice"
 "cr": "7"
@@ -92,19 +105,20 @@ Air elemental myrmidon mpmm is a undersea element of the setting, known for biol
 
 Legends speak of air elemental myrmidon mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around air elemental myrmidon mpmm.
 
-## Adventure Hooks
-
-- A rumor ties air elemental myrmidon mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at air elemental myrmidon mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to air elemental myrmidon mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and chaos spreads
+- Strange accidents suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

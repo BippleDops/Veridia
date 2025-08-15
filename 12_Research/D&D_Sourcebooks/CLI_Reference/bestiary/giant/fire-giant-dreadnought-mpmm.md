@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.094280'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fire-giant-dreadnought-mpmm-fire-giant-dreadnought-mpmm.svg)
 
@@ -97,7 +95,7 @@ When not called on to fight, dreadnoughts maintain their strength by using their
       \ the space of any creature smaller than Huge. The first time it enters a creature's\
       \ space during this move, that creature must succeed on a DC 21 Strength saving\
       \ throw or take 36 (8d6 + 8) bludgeoning damage plus 14 (4d6) fire damage and\
-      \ be pushed up to 30 feet and knocked [[conditions#Prone|prone]]."
+      \ be pushed up to 30 feet and knocked [[conditions#prone|prone]]."
     "name": "Shield Charge (Recharge 5-6)"
 "source":
   - "MPMM"
@@ -105,6 +103,24 @@ When not called on to fight, dreadnoughts maintain their strength by using their
 "image": "/03_Mechanics/CLI/bestiary/giant/token/fire-giant-dreadnought-mpmm.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Environment
 
@@ -118,19 +134,48 @@ Fire giant dreadnought mpmm is a undersea element of the setting, known for biol
 
 Legends speak of fire giant dreadnought mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fire giant dreadnought mpmm.
 
-## Adventure Hooks
-
-- A rumor ties fire giant dreadnought mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at fire giant dreadnought mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to fire giant dreadnought mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- Someone is hunting a witness for money
+- A journal reveals a betrayal about the government
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

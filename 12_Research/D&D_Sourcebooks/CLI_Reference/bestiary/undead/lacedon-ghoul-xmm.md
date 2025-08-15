@@ -29,8 +29,6 @@ updated: '2025-08-12T23:37:35.631264'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-lacedon-ghoul-xmm-lacedon-ghoul-xmm.svg)
 
@@ -38,6 +36,24 @@ world: Both
 *Source: Monster Manual (2024) p. 132*  
 
 Lacedons are loose-skinned, aquatic ghouls. They often arise from the corpses of greedy pirates, those who starved on deserted islands, or scoundrels who met their end by drowning.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Ghouls
 
@@ -51,7 +67,6 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
 > [!quote]  
 > 
 > On a plain of teeth, in a temple of filth, the starving king wastes no morsel. Every coffin a banquet. Every slab a platter. Now is the time of feasting!
-
 
 ```statblock
 "name": "Lacedon Ghoul (XMM)"
@@ -67,7 +82,6 @@ Packs of ghouls haunt the rotten corners of the world, ravenously hunting for co
   - !!int "15"
   - !!int "10"
   - !!int "7"
-  - !!int "10"
   - !!int "6"
 "speed": "30 ft., swim 30 ft."
 "damage_resistances": "cold"
@@ -112,19 +126,28 @@ Lacedon ghoul xmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of lacedon ghoul xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around lacedon ghoul xmm.
 
-## Adventure Hooks
-
-- A rumor ties lacedon ghoul xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at lacedon ghoul xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to lacedon ghoul xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

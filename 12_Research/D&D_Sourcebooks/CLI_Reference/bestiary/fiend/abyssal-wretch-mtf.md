@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.491604'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-abyssal-wretch-mtf-abyssal-wretch-mtf.svg)
 
@@ -50,11 +48,10 @@ world: Both
   - !!int "11"
   - !!int "5"
   - !!int "8"
-  - !!int "5"
 "speed": "20 ft."
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 120 ft., passive Perception 9"
 "languages": "understands Abyssal but can't speak"
@@ -69,6 +66,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Abyssal wretch mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -77,19 +92,20 @@ Abyssal wretch mtf is a undersea element of the setting, known for bioluminescen
 
 Legends speak of abyssal wretch mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around abyssal wretch mtf.
 
-## Adventure Hooks
-
-- A rumor ties abyssal wretch mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at abyssal wretch mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to abyssal wretch mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

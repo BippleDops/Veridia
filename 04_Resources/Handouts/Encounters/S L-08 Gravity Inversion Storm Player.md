@@ -22,9 +22,6 @@ updated: '2025-08-13T12:34:32.392941+00:00'
 world: Both
 ---
 
-
-
-
 # Gravity Inversion Storm
 
 Up and down change places. Your stomach forgets how to fall.
@@ -42,15 +39,9 @@ Possible outcomes
 - You come out banged up but smiling
 - You hit hard
 
-## Cross-References
-
-- [[06_GM_Resources/Session_Packets/Aethermoor Session 01]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

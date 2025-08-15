@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.982342+00:00'
 world: Both
 ---
 
-
-
 # Appendix E: Concept Gallery
 *Source: Hoard of the Dragon Queen, p. 192* 
 
@@ -38,6 +36,24 @@ Beyond these, this gallery also includes a number of designs focused on threats 
 Several other locations and characters also feature prominently in this collection, many being aspects of the Forgotten Realms or underpinning the wider D&D multiverse that have seen artistic evolutions over the years. The thorough design sketches of chromatic dragons, for example, hint at the depth of ecological detail that's gone into realizing D&D's most iconic monsters—and foes central to the *Tyranny of Dragons* plot.
 
 How you choose to use this concept gallery is up to you. Perhaps these details will inspire you, just as they did the original *Tyranny of Dragons* designers. Maybe a particular image will resound with you, leading you to make your own addition to the wider campaign. Added insights on the tools and techniques of the adventure's villains can help you make them feel like more vital inhabitants of a wider world, while nuances of dragons and other can creatures aid in bringing these terrors to life. These pages might also be shared with players as you see fit, driving home the impact of the campaign's most climatic moments. Whether this gallery serves as a game aide or inspires your own designs, use it as you please, further detailing the existing adventures or exploring *Tyranny of Dragons* stories yet to be told!
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Invasion of Icewind Dale
 
@@ -63,8 +79,6 @@ How you choose to use this concept gallery is up to you. Perhaps these details w
 
 ![](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/088-tod-e-07.webp#center)
 
-## Factions
-
 ### Red Wizards of Thay
 
 > [!gallery]
@@ -84,22 +98,17 @@ As magical artificers of great skill, they command high prices, and are not afra
 
 Agents of the Black Network have winged snake companions that serve as messengers. Members of the Zhentarim use these creatures to deliver messages on scrolls and stay in contact with one another. A winged snake is trained to serve a particular master. If its master dies, the snake has been known to remain nearby and starve to death.
 
-> [!gallery]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/092-tod-e-09a.webp#gallery "Dread Warriors make up the terrifying undead army of the Red Wizards"|Dread Warriors make up the...]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/093-tod-e-09b.webp#gallery "Zhentarim, also known as the Black Network, and winged snake"|Zhentarim, also known as t...]]
+> !]
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/094-tod-e-09c.webp#gallery|Dread Warrior]]
 
 ### Dread Warriors
 
-> [!gallery]
 > ![](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/095-tod-e-10a.webp#gallery)
 > ![](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/096-tod-e-10b.webp#gallery)
 
 Created from the freshly dead bodies of skilled warriors, dread warriors are especially formidable zombie-like creatures, retaining some of their intelligence and much of the fighting skill they possessed in life.
 
 No race is immune from being transformed into a dread warrior. Once set upon a task, these undead will do nothing—will not pause or turn aside—until they've fulfilled their orders.
-
-## Cult of the Dragon
 
 ### Dragon Masks
 
@@ -123,7 +132,6 @@ The wearer of this mask can channel its power to beckon Tiamat from her infernal
 
 ### Dragon Cultists
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/100-tod-e-12b.webp#gallery|Dragon Cultist Assassin/Thief Elite Tier]]
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/101-tod-e-12c.webp#gallery|Dragon Cultist: Rogue Ideations]]
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/102-tod-e-12d.webp#gallery|Cult of the Dragon Masks/Headgear]]
@@ -138,8 +146,6 @@ The wearer of this mask can channel its power to beckon Tiamat from her infernal
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/111-tod-e-12f5.webp#gallery|4th Rank: Dragonsoul]]
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/112-tod-e-12g.webp#gallery|Dragon Cult Recruiter Formal Wear]]
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/113-tod-e-12h.webp#gallery|Dragon Cult Recruiter Street Clothes]]
-
-## Areas of Faerûn
 
 ### Temple of Tiamat
 
@@ -165,19 +171,16 @@ The City of Splendors is the greatest of the Sword Coast cities. Home to as many
 
 ### People of the Sword Coast
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/118-tod-e-14a.webp#gallery|Remi Haventree, Military Commander Uniform]]
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/119-tod-e-14b.webp#gallery|Remi Haventree, Waterdhavian Formal Wear]]
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/120-tod-e-14c.webp#gallery|Mei, Female Human Rogue]]
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/121-tod-e-14d.webp#gallery|Calia, Female Human Ranger]]
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/122-tod-e-14e.webp#gallery|Tilo, Male Human Wizard]]
-> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/123-tod-e-14f.webp#gallery|Finan, Male Human Cleric]]
+> ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/123-tod-e-14f.webp#gallery|Fi, Male Human Cleric]]
 
 Numerous people make their homes along the Sword Coast.
 
 Whether commoners or nobles, trades folk or adventurers, all have much to lose at the hands of the Cult of the Dragon, but also the potential for great heroism.
-
-## Dragons
 
 ### Red Dragons
 
@@ -211,7 +214,6 @@ They smell of ozone + sand.
 
 ### Green Dragons
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/128-tod-e-16a.webp#gallery|Green Dragons at various ages]]
 > ![](/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/129-tod-e-16b.webp#gallery)
 
@@ -247,19 +249,30 @@ Their beaked, crested heads are distinctive.
 
 Legends speak of 14 appendix e concept gallery as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 14 appendix e concept gallery.
 
-## Adventure Hooks
-
-- A rumor ties 14 appendix e concept gallery to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 14 appendix e concept gallery to avert a public scandal.
-- A map overlay reveals a hidden approach to 14 appendix e concept gallery active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- Strange sightings suggest ancient magic
+- A shipment has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

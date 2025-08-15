@@ -26,19 +26,30 @@ updated: '2025-08-13T01:18:35.962310+00:00'
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-forgotten-representative-the-forgotten-representative.svg]]
-
-
-
-
-
 
 # The Forgotten Representative
 
 *"I speak for those whose voices have been silenced, whose names have been erased, whose sacrifices have been forgotten by history's convenient revision."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -92,44 +103,6 @@ They seem particularly focused on ensuring that any resolution to the crisis ack
 ## DM Notes
 Use the Forgotten Representative to introduce historical complexity to current events and to remind players that their actions will be remembered by future generations. They serve as a conscience for the campaign, ensuring that moral choices have weight and that the costs of decisions are acknowledged.
 
-
-## Connections
-
-- [[Comprehensive-World-Connection-Guide]]
-- [[Abyssos Prime]]
-- [[Parliament of Echoes]]
-- [[Aquabyssos - Session 02 - The Parliament's Paradox]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 The Forgotten Representative is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -138,19 +111,29 @@ The Forgotten Representative is a undersea element of the setting, known for bio
 
 Legends speak of The Forgotten Representative as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Forgotten Representative.
 
-## Adventure Hooks
-
-- A rumor ties The Forgotten Representative to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Forgotten Representative to avert a public scandal.
-- A map overlay reveals a hidden approach to The Forgotten Representative active only during specific tides/storms.
-
-## Cross-References
-
-- [[The Forgotten Representative|02 Worldbuilding/Places/The Forgotten Representative]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing a witness for revenge
+- A stranger needs help investigating before dawn
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

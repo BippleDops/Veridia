@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:05.148175+00:00'
 world: Both
 ---
 
-
-
 # Gith and Their Endless War
 *Source: Mordenkainen's Tome of Foes, p. 85* 
 
@@ -36,6 +34,24 @@ The githyanki were motivated by revenge and convinced that they deserved to take
 The githzerai believed that the path to an enlightened civilization lay in seclusion, not conflict. Their dedication to the principles of order is so strong that they can manipulate the stuff of chaos and use it to their benefit; thus, they have carved out a stronghold for themselves on the plane of Limbo that is virtually impervious. Though the githzerai are pacifists by nature, they share the githyanki's racial hatred for mind flayers, and from time to time they send out squads to destroy illithid outposts.
 
 If the two races were ever to team up against the illithids, a combined force of gith could conceivably tip the balance in their favor. But as long as the githyanki and githzerai stay at each other's throats, their goal of ultimate victory over their original common enemy will likely remain unachieved.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Githyanki
 
@@ -76,7 +92,6 @@ All attempts to learn about Gith through divine magic return utter silence. Thos
 ### Born to Serve
 
 > [!quote] A quote from Adaka Fell Hand, githzerai monk  
-> 
 > Under the illithids, we and the githyanki fought and died across a thousand worlds for implacable masters. Under Vlaakith, our kin fight and die across a thousand words for an implacable master. And they call that liberation?
 
 From birth, githyanki are conditioned to fight and die for their queen. Children endure a brutal upbringing that constantly preaches devotion to Vlaakith. Each of the fortified settlements where young githyanki are raised and trained is a combination of military academy and cult headquarters.
@@ -130,17 +145,11 @@ Vlaakith, of course, stands atop the githyanki military hierarchy. Under her ser
 ### Knights: A Breed Apart
 
 > [!quote] A quote from Battle hymn of the githyanki knights  
-> 
 > I am her will made manifest.
-> 
 > I am her unsheathed sword.
-> 
 > I am a master of dragons.
-> 
 > I am the fate of all worlds.
-> 
 > I am a knight of Vlaakith.
-> 
 > Ever may she reign.
 
 Githyanki knights are warriors, spellcasters, and scouts of exceptional ability devoted to the unflagging service of Vlaakith. Knights report directly to the queen and aren't part of the military hierarchy. The personnel for any important mission includes at least one knight, and every githyanki fortress or outpost across the multiverse is administered by at least one knight in residence. Knights are selected for their roles based on their martial and psionic potential, and young githyanki who pass muster are inducted into service soon after they enter Tu'narath for the first time.
@@ -148,9 +157,7 @@ Githyanki knights are warriors, spellcasters, and scouts of exceptional ability 
 Knights are always involved in important decisions, and it is forbidden to keep secrets from them. They act as commissars and enforcers of Vlaakith's will. They are the rough equivalent of religious figures in githyanki culture, although the githyanki have no priests or clerics of normal sort.
 
 > [!note] The Spoils of War
-> 
 > An individual githyanki's weapons and armor are ornate and decorated with trophies taken on raids. With each new victory, a warrior brings home a token to serve as a memento. Anything might strike a githyanki's fancy, from a jewel taken from the pommel of a fallen opponent's sword to colorful banners taken from a plundered castle that, preserved by the timeless nature of the Astral Plane, keep their original vibrant hue for centuries. The more baroque and ostentatious a raid token is, the more likely it is to be admired by one's fellow warriors.
-> 
 > Two aspects of their nature set knights apart from other githyanki. Each knight wields a cherished silver greatsword that imparts special powers to its owner, and the knights are among the few githyanki who can not only travel psionically between planes, but can also take allies along with them. Knights often emerge from planar travel astride the backs of red dragons, which have been serving the githyanki as allies ever since their time of enslavement under the mind flayers.
 ^the-spoils-of-war
 
@@ -177,7 +184,6 @@ The dragons that are bound to serve githyanki consider their assignment an irrit
 ### Terror from the Sky
 
 > [!quote] A quote from Lord Kedrek Thoroden, Marshal of the Eastern Reach  
-> 
 > We praised Pelor when we realized the shapes above us were not dragons. We cursed him when we saw they were the airships of the githyanki.
 
 During the great war between the mind flayers and the gith, one of the githyanki's greatest achievements was their discovery of the magic that mind flayers used to produce and propel the flying vessels that the illithids used to travel between worlds.
@@ -209,16 +215,13 @@ The astral brig is the standard githyanki military vessel. It requires a crew of
 The largest of the githyanki ships, the planar raider serves as a mobile headquarters during a major attack on the githyanki's enemies. It needs a crew of ten and can carry more than a hundred passengers. A planar raider can travel up to 12 miles per hour. It is 40 feet wide and 120 feet long, with two levels below decks, and is equipped with three ballistae and a catapult.
 
 > [!note] The Gith Alphabet
-> 
 > The gith use a written language composed of alphabetic symbols arranged in circular clusters called tir'su. Each "spoke" on the wheel corresponds to a letter of the alphabet. Each cluster of characters represents a single word, and multiple tir'su connect to form phrases and sentences.
-> 
 > Githyanki and githzerai both speak Gith, but each race has a distinct dialect and accent. Similarly, the two races of gith differentiate their language by how they write it. Githyanki write a tir'su clockwise, starting at the top. Githzerai use the same letter symbols but write their tir'su counterclockwise, starting from the bottom.
 ^the-gith-alphabet
 
 ### Tu'narath
 
 > [!quote] A quote from Gimble, gnome bard  
-> 
 > They call it the City of Death. I would mock such a tired excuse for a name, but if it fits, who am I to argue?
 
 When the githyanki fled from the illithids, Vlaakith led them to safety on the Astral Plane inside the floating corpse of a six-armed deity. This being's body long ago calcified into a great slab of rock, its lower half smashed by some ancient disaster. A trail of debris, some of the stones larger than a castle, extends from the corpse's lower end.
@@ -238,15 +241,10 @@ Often, these prizes don't remain intact for long. When residents become bored or
 Nonetheless, the city does have a great number of permanent structures, and a system of districts in which particular functions or activities are concentrated.
 
 > [!note] Tu'narath in Brief
-> 
 > Here are some key details of Tu'narath.
-> 
 > **Population.** Roughly one hundred thousand folk dwell in Tu'narath. The vast majority are githyanki, but visitors from other planes aren't uncommon. Individuals who come to deal with the githyanki reside here. Residents also include captives that the githyanki have taken on raids.
-> 
 > **Law and Order.** Warriors patrol above the streets in astral skiffs to keep the peace. Githyanki who cause unwarranted conflict are disciplined, but such punishment is rarely lethal. Any visitor who causes a ruckus, however, is likely to be slain on the spot, unless Vlaakith has specifically forbidden such action.
-> 
 > **Inns.** Tu'narath has no taverns or inns in the traditional sense. The githyanki expect visitors to carve out their own accommodations; they can choose from among any number of abandoned structures. As an alternative, a small troupe of renegade modrons maintains a crumbling citadel called the Iron House that has rooms for rent. Visitors can pay with interesting trinkets from across the planes.
-> 
 > **Markets.** There are no organized markets in Tu'narath. The githyanki don't offer goods for sale to visitors, and they don't purchase items offered to them-they simply take what they want.
 ^tunarath-in-brief
 
@@ -282,7 +280,7 @@ This area passes for an artisan's district. Githyanki engaged in distractions th
 
 ##### Shipyards
 
-The githyanki store and maintain their vessels at docks and outcrops that adjoin the military districts. Those who are assigned to ship maintenance enjoy a high status and are allowed to consider their work as part of their military service. Githyanki warriors provide labor as needed.
+The githyanki store and maintain their vessels at docks and outcrops that adjoin the military districts. Those who are assigned to ship maintece enjoy a high status and are allowed to consider their work as part of their military service. Githyanki warriors provide labor as needed.
 
 ##### Dragon Caves
 
@@ -291,11 +289,8 @@ The shattered lower body of the dead god contains an abundance of natural caves 
 Rumors persist of an enormous dungeon that lies beyond the caves, a hidden fortress occupied by a mighty demigod who claimed The One in the Void as its home before the githyanki occupied it. Coteries of Red Wizards from the land of Thay on Faerûn, accompanied by githyanki knights, have ventured into this area in recent years. Supposedly, the Thayans once emerged with a huge adamantine container that rumbled and shook, as if to the beat of a monstrous heart.
 
 > [!note] Survivor Communities
-> 
-> As befits a society of conquerors, the githyanki have no regard for the victims of their raids. They take lives to assert their dominance, not out of anger or because they feel threatened. From time to time, instead of killing everyone they encounter on a raid, they bring captives back to Tu'narath for various reasons.
-> 
+> As befits a society of conquerors, the githyanki have no regard for the victims of their raids. They take lives to assert their domice, not out of anger or because they feel threatened. From time to time, instead of killing everyone they encounter on a raid, they bring captives back to Tu'narath for various reasons.
 > The githyanki treat prisoners with the same detachment and disdain they show for those they slay. When captives are no longer useful, their masters might end their lives, or they might simply stop caring about their possessions and leave the creatures to fend for themselves.
-> 
 > The hardiest and most elusive of these folk make their way to the District of Discards, where they can take refuge from the threats that face them in other parts of the city and live in relative obscurity. The githyanki care nothing for what goes on in these survivor communities, unless a disruption becomes serious enough to attract their attention. A group of would-be infiltrators might be able to get a foothold in Tu'narath by stealthily entering the district and blending in with a community of survivors.
 ^survivor-communities
 
@@ -310,7 +305,6 @@ Today, under the leadership of the Great Githzerai, Zaerith Menyar-Ag-Gith, the 
 ### Order in a Sea of Chaos
 
 > [!quote] A quote from The Teachings of Menyar-Ag  
-> 
 > We githzerai crave a challenge, so that when Zerthimon returns he shall find us ready. Thus we traveled to howling Limbo to make our new home.
 
 Strong-minded philosophers and austere ascetics, the githzerai pursue lives of rigid order. Their society focuses on enhancing the potential of the mind through meditation, education, and physical tests. The most accomplished among them stand as exemplars of the githzerai's monastic principles, but even those who perform mundane duties in a community have a significant measure of the same mental fortitude.
@@ -343,7 +337,7 @@ The githzerai believe that when Zerthimon returns, he will first gather all the 
 
 The monasteries of the githzerai are massive outposts of stability that sail through the chaos of Limbo. Githzerai anarchs keep the fortresses stable and control their interior design, opening portals to the outside only as needed. Most fortresses drift through Limbo at random, but none of them are ever isolated. When Menyar-Ag sends out a call to them, the anarchs of the other communities can instantly communicate with him.
 
-Aside from its inhabitants, the most well-defended element of a githzerai fortress is its food supply. Because Limbo provides no sustenance, the githzerai rely on crops and livestock they appropriate from elsewhere. Plants are grown in hydroponic chambers, and livestock are raised in pens where light, temperature, and other conditions are tailored to their needs.
+Aside from its inhabitants, the most well-defended element of a githzerai fortress is its food supply. Because Limbo provides no sustece, the githzerai rely on crops and livestock they appropriate from elsewhere. Plants are grown in hydroponic chambers, and livestock are raised in pens where light, temperature, and other conditions are tailored to their needs.
 
 A community's activity is overseen by monks who assign duties to each occupant. Everyone participates in mock combats and ongoing academic instruction, and each fortress allocates personnel and resources as needed. Every fortress is designed to be self-sufficient, even though no two of them are ever out of psychic contact.
 
@@ -359,8 +353,6 @@ Beyond the entrance to the city wait six layers of nested defenses. Each one is 
 
 ### Githzerai in the World
 
-> [!quote] A quote from The Teachings of Menyar-Ag  
-> 
 > Zerthimon does not expect us to wait in patience for his return. Instead, we must pave the way for his efforts, so that we can hasten the coming of our golden age.
 
 It's natural for githzerai to prefer to remain in Limbo. They have carved out a well-ordered civilization in an environment that they can freely manipulate with their minds. When they visit other realms, particularly the Material Plane, githzerai feel sluggish and aren't comfortable functioning in a landscape that they see as being locked in immutability. Despite their disinclination toward travel, the githzerai send groups away from Limbo on a regular basis to keep from giving ground in their battles against the githyanki and the mind flayers.
@@ -402,9 +394,7 @@ As their means of vengeance against the mind flayers, the githzerai send bands o
 ![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/315595_cn_wmask.webp#center)
 
 > [!note] The Sha'sal Khou
-> 
 > The Sha'sal Khou is an organization of githyanki and githzerai radicals working toward the reunification of their peoples. They want to bring about the end of the warfare between the githyanki and githzerai and the creation of a new unified nation of all gith. Members of the Sha'sal Khou work secretly within their respective societies, subtly discouraging attacks on the other gith race while looking for signs of like-minded individuals who might be recruited. The group maintains hidden redoubts on the Material Plane as well.
-> 
 > The goal of the organization is to raise a proper army and establish a fortified enclave where children will grow up calling themselves simply "gith." The group's most high-ranking advocate in the githyanki hierarchy is a powerful warlord named Zetch'r'r. He secretly supports the reunification of the githyanki and the githzerai, and works behind the scenes to turn others toward the cause.
 ^the-shasal-khou
 
@@ -471,8 +461,6 @@ In the tables, a name in bold refers to a stat block in the *Monster Manual.*
 
 Use the following tables to generate a band of githzerai and determine their reason for being away from Limbo. Roll once on each line of the Group Composition table and once on each table that follows it.
 
-In the tables, a name in bold refers to a stat block in the *Monster Manual.*
-
 ![[githzerai-groups-githzerai-group-leader-mtf|Githzerai Groups; Githzerai Group Leader]]
 
 ![[githzerai-groups-githzerai-special-allies-mtf|Githzerai Groups; Githzerai Special Allies]]
@@ -487,19 +475,40 @@ In the tables, a name in bold refers to a stat block in the *Monster Manual.*
 
 Legends speak of 4 gith and their endless war as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 4 gith and their endless war.
 
-## Adventure Hooks
-
-- A rumor ties 4 gith and their endless war to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 4 gith and their endless war to avert a public scandal.
-- A map overlay reveals a hidden approach to 4 gith and their endless war active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and war looms
+- The authorities needs help delivering before dawn
+- A document has gone missing and truth emerges
+- A prisoner has gone missing and evil awakens
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

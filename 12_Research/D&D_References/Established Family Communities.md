@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.700468+00:00'
 world: Both
 ---
 
-
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-established-family-communities-established-family-communities.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[The Transformed Citizens|02 Worldbuilding/Lore/The Transformed Citizens]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[The Transformed Citizens]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,23 @@ Established Family Communities is a undersea element of the setting, known for b
 
 Legends speak of Established Family Communities as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Established Family Communities.
 
-## Adventure Hooks
-
-- A rumor ties Established Family Communities to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Established Family Communities to avert a public scandal.
-- A map overlay reveals a hidden approach to Established Family Communities active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

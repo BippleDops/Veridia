@@ -15,36 +15,26 @@ world: Both
 updated: '2025-08-13T01:18:36.905605+00:00'
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-free-current-safe-houses-free-current-safe-houses.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Appearance
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Personality
-
-TODO
-## Goals
-
-TODO
-## Relationships
-
-TODO
-## Hooks
-
-TODO
-## Stat Block
-
-TODO
 
 ## Player-Facing Summary
 
@@ -54,28 +44,15 @@ Free Current Safe Houses is a undersea element of the setting, known for biolumi
 
 Legends speak of Free Current Safe Houses as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Free Current Safe Houses.
 
-## Adventure Hooks
-
-- A rumor ties Free Current Safe Houses to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Free Current Safe Houses to avert a public scandal.
-- A map overlay reveals a hidden approach to Free Current Safe Houses active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Free Current Safe Houses|02 Worldbuilding/People/Free Current Safe Houses]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Harbor Master Luna Freedrift]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

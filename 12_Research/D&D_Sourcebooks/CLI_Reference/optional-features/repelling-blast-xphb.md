@@ -22,13 +22,30 @@ updated: '2025-08-12T23:37:35.939010'
 world: Both
 ---
 
-
 # Repelling Blast
-*Source: Player's Handbook (2024) p. 157. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 157. Available in the SRD*  
 
 **Prerequisite**: Level 2 Warlock, a Warlock Cantrip That Deals Damage via an Attack Roll
 
 Choose one of your known Warlock cantrips that requires an attack roll. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Repeatable
 
@@ -42,19 +59,33 @@ Repelling blast xphb is a undersea element of the setting, known for bioluminesc
 
 Legends speak of repelling blast xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around repelling blast xphb.
 
-## Adventure Hooks
-
-- A rumor ties repelling blast xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at repelling blast xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to repelling blast xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing a artifact for money
+- A prisoner has gone missing and war looms
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

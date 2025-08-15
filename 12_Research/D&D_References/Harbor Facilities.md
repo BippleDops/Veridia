@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.068850+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-harbor-facilities-harbor-facilities.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,21 @@ Harbor Facilities is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Harbor Facilities as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Harbor Facilities.
 
-## Adventure Hooks
-
-- A rumor ties Harbor Facilities to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Harbor Facilities to avert a public scandal.
-- A map overlay reveals a hidden approach to Harbor Facilities active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Harbor Facilities|02 Worldbuilding/Places/Harbor Facilities]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Bexley]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and chaos spreads
+- A journal reveals ancient history about the cult

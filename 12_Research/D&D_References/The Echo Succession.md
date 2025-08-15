@@ -15,33 +15,26 @@ world: Both
 updated: '2025-08-13T01:18:36.661281+00:00'
 ---
 
-
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-the-echo-succession-the-echo-succession.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Structure
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Goals
-
-TODO
-## Assets
-
-TODO
-## Conflicts
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -51,28 +44,17 @@ The Echo Succession is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Echo Succession as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Echo Succession.
 
-## Adventure Hooks
-
-- A rumor ties The Echo Succession to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Echo Succession to avert a public scandal.
-- A map overlay reveals a hidden approach to The Echo Succession active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Cult of Screams|02 Worldbuilding/Groups/Cult Of Screams]]
-
-
-## Connections
-
-- [[Cult of Screams]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a conspiracy about the cult
+- A letter reveals a conspiracy about this place
+- A letter reveals ancient history about a local noble

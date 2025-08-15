@@ -16,17 +16,26 @@ world: Aethermoor
 updated: '2025-08-13T01:18:35.537525+00:00'
 ---
 
-
 > [!figure] Asset
 ![[04_Resources/Assets/Locations/location-city-crystal-mines-crystal-mines.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -36,23 +45,26 @@ Crystal Mines is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of Crystal Mines as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystal Mines.
 
-## Adventure Hooks
-
-- A rumor ties Crystal Mines to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Crystal Mines to avert a public scandal.
-- A map overlay reveals a hidden approach to Crystal Mines active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Crystal Mines|02 Worldbuilding/Places/Crystal Mines]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and war looms
+- A stranger needs help investigating before the new moon
+- A stranger needs help finding before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

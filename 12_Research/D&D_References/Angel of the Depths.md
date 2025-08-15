@@ -26,15 +26,30 @@ updated: '2025-08-11T00:00:00+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-angel-of-the-depths-angel-of-the-depths.svg)
-
-
 
 # Angel of the Depths
 
 *A massive, corrupted monument standing as both beacon and warning in the deepest waters of Aquabyssos*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -48,29 +63,12 @@ The water around the statue feels heavier, more oppressive. Currents seem to mov
 
 Strange coral formations have grown up the statue's legs and torso, resembling reaching hands or grasping tendrils. These formations pulse with an internal light that mirrors the statue's own corruption, creating a hypnotic pattern that can draw unwary travelers closer.
 
-## Physical Features
-
-### The Statue Itself
-- **Height**: 200 feet from base to wingtip
-- **Material**: Ancient blessed stone, now corrupted
-- **Wings**: Span 150 feet, partially crumbled but still imposing
-- **Base**: 50-foot diameter circular platform with carved prayers
-- **Eyes**: Hollow sockets that seem to track movement
-
 ### The Corruption
 Shadow corruption has seeped deep into the statue's stone, creating:
 - **Weeping Shadows**: Dark ichor that constantly seeps from the statue's eyes and wounds
 - **Twisted Prayers**: The carved inscriptions at the base have been warped into blasphemous text
 - **Living Stone**: Sections of the statue occasionally shift and move as if the angel is slowly awakening
-- **Void Resonance**: The statue hums with an otherworldly frequency that can be felt in one's bones
-
-### Surrounding Area
-- **Radius of Influence**: 500-foot radius around the statue
-- **Corrupted Seabed**: The ocean floor is scarred with geometric patterns
-- **Bone Garden**: Scattered remains of sea creatures and pilgrims
-- **Current Anomalies**: Waters swirl in impossible directions
-
-## Notable Features
+- **Void Resoce**: The statue hums with an otherworldly frequency that can be felt in one's bones
 
 ### The Weeping Chamber
 Within the statue's chest cavity lies a hidden chamber accessible through a crack that appears only during certain tidal conditions. The chamber contains:
@@ -93,8 +91,6 @@ Despite its corruption, the statue still emits a beacon of light from its crown 
 - Pulses in a rhythm that matches no known tidal pattern
 - Grows brighter in the presence of divine magic
 
-## History and Lore
-
 ### Ancient Origins
 The Angel of the Depths was constructed over 1,000 years ago during the Golden Age of Aquabyssos, when the relationship between the surface and depths was more harmonious. Built by a coalition of surface priests and deep-dwelling faithful, it served as:
 - A waypoint for pilgrims traveling to sacred sites
@@ -113,8 +109,6 @@ In the past decade, activity around the statue has increased dramatically:
 - Expeditions from both Aquabyssos and surface nations have investigated the site
 - Several powerful clerics have attempted purification rituals, all ending in failure or worse
 - The statue's whispers have grown more urgent and coherent
-
-## NPCs and Inhabitants
 
 ### Brother Matthias the Penitent
 *Corrupted Human Cleric, Chaotic Good*
@@ -145,8 +139,6 @@ A massive sea creature that has appointed itself the statue's protector. Once bl
 
 **Motivation**: Protects the statue from those it deems unworthy while allowing genuine pilgrims to approach.
 
-## Plot Hooks and Adventure Opportunities
-
 ### The Purification Quest
 **Level**: 8-12
 Brother Matthias believes he has discovered a way to cleanse the statue using artifacts from the Seven Shards. The party must gather these items while avoiding the political implications of their actions.
@@ -163,18 +155,14 @@ A group of surface dwellers seeks to make a pilgrimage to the statue during a ra
 **Level**: 10-15
 Investigation reveals that the statue's corruption didn't occur naturally—it was deliberately caused by agents of the shadow. The party must uncover this conspiracy while preventing the statue from becoming a weapon against both Aquabyssos and the surface world.
 
-## Secrets and Hidden Elements
-
 ### The True Angel
 The statue is not merely a monument but a prison. Sealed within its stone form is an actual celestial being that was captured during the early days of the corruption. Freeing this angel could provide a powerful ally against the shadow, but might also release something that has been driven mad by centuries of imprisonment.
 
 ### The Shard Connection
 One of the Seven Shards lies hidden within the statue's base, its power both sustaining the angel's divine nature and feeding the corruption that torments it. Removing the shard could either cleanse or completely destroy the monument.
 
-### The Deep Covenant
-The statue stands at the center of an ancient magical pact between the surface and the depths. As long as it stands—corrupted or not—this covenant prevents an all-out war between the two realms. Its destruction would have catastrophic political consequences.
-
-## Mechanical Elements
+### The Deep Covet
+The statue stands at the center of an ancient magical pact between the surface and the depths. As long as it stands—corrupted or not—this covet prevents an all-out war between the two realms. Its destruction would have catastrophic political consequences.
 
 ### Environmental Effects
 **Shadow Corruption Aura** (500-foot radius)
@@ -182,7 +170,7 @@ The statue stands at the center of an ancient magical pact between the surface a
 - Spells of 3rd level or lower have a 25% chance of being corrupted
 - Undead creatures gain advantage on all rolls within the aura
 
-**Divine Resonance** (100-foot radius)
+**Divine Resoce** (100-foot radius)
 - Divine magic is enhanced, allowing spells to be cast at +1 level without using higher spell slots
 - Turn Undead attempts gain advantage
 - Corrupted creatures take 1d4 radiant damage each round
@@ -246,12 +234,6 @@ Angel of the Depths is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Angel of the Depths as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Angel of the Depths.
 
-## Adventure Hooks
-
-- A rumor ties Angel of the Depths to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Angel of the Depths to avert a public scandal.
-- A map overlay reveals a hidden approach to Angel of the Depths active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
@@ -260,10 +242,23 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 - [[Angel of the Depths|02 Worldbuilding/Places/Angel Of The Depths]]
 
-<!-- enriched: true -->
 riched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

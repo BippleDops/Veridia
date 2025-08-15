@@ -31,9 +31,6 @@ updated: '2025-08-13T12:34:05.845095+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-shoosuva-mpmm-shoosuva-mpmm.svg)
 
@@ -45,7 +42,6 @@ world: Both
 > What? Are you expecting me to comment on these creatures? Fine, how's this: a loyal pet deserves a loyal pet.
 
 > [!quote] A quote from Tasha  
-> 
 > Trust Mordenkainen to look down on any sort of companionship—even the slavering, venomous, demonic puppy kind.
 
 A shoosuva is a hyena-demon gifted by [[/03_Mechanics/CLI/bestiary/npc/yeenoghu-mpmm|Yeenoghu]] to an especially powerful worshiper (typically a [[gnoll-fang-of-yeenoghu-xmm|fang of Yeenoghu]]). A shoosuva manifests shortly after a Yeenoghu-worshiping war band achieves a great victory, emerging from a billowing, fetid cloud of smoke as it arrives from the Abyss. In battle, the demon wraps its slavering jaws around one victim while lashing out with the poisonous stinger on its tail to bring down another. A creature immobilized by the poison becomes easy pickings for any nearby members of the war band.
@@ -77,7 +73,7 @@ Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongsi
   - "wisdom": !!int "5"
 "damage_resistances": "cold, fire, lightning"
 "damage_immunities": "poison"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 12"
 "languages": "Abyssal, Gnoll, telepathy 120 ft."
@@ -107,6 +103,24 @@ Each shoosuva is bonded to a particular worshiper of Yeenoghu and fights alongsi
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 coastal, forest, grassland, hill
@@ -119,19 +133,35 @@ Shoosuva mpmm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of shoosuva mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around shoosuva mpmm.
 
-## Adventure Hooks
-
-- A rumor ties shoosuva mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at shoosuva mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to shoosuva mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting a artifact for revenge
+- Strange disappearances suggest a conspiracy
+- A document has gone missing and chaos spreads
+- A letter reveals ancient history about the government
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

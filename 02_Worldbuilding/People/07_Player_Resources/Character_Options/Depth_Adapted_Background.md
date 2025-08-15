@@ -1,4 +1,5 @@
 ---
+
 title: Depth Adapted Background
 type: npc
 tags:
@@ -14,12 +15,77 @@ race: Unknown
 class: Unknown
 location: Unknown
 updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
 
 
 # 07_Player_Resources/Character_Options/Depth_Adapted_Background
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
 
 ## Description
 
@@ -28,14 +94,6 @@ updated: 2025-08-14
 ## Details
 
 *[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[The Deep Mother]]
-- [[INDEX]]
-- [[Aquabyssos Depth Caste System]]
-- [[02_Worldbuilding/Lore/Aquabyssos Depth Caste System]]
 
 ## Notes
 
@@ -56,7 +114,6 @@ Depth_Adapted_Background presents a distinctive figure. Their bearing suggests b
 - **Typical Attire**: Professional garments suited to their role
 - **Mannerisms**: [Describe habits and gestures]
 
-
 ## Personality
 
 **Traits**: Clever, clever, ambitious
@@ -67,7 +124,6 @@ Depth_Adapted_Background presents a distinctive figure. Their bearing suggests b
 
 **Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
 
-
 ## Background
 
 Depth_Adapted_Background's path to their current position involved:
@@ -76,48 +132,6 @@ Depth_Adapted_Background's path to their current position involved:
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-## Relationships
-
-### Allies
-- Professional colleagues and supporters
-- Political or business connections
-
-### Rivals
-- Competitors in their field
-- Ideological opponents
-
-### Neutral Parties
-- Those who could be swayed either way
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
 
 ## Motivations
 
@@ -128,7 +142,6 @@ Depth_Adapted_Background's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
 ## Secrets
 
 Depth_Adapted_Background harbors secrets that could change everything:
@@ -136,9 +149,6 @@ Depth_Adapted_Background harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Double agent
-
-
-
 
 ## Voice & Mannerisms
 
@@ -157,7 +167,6 @@ Depth_Adapted_Background is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
 ## Plot Hooks
 
 1. **The Request**: Depth_Adapted_Background needs assistance with a delicate matter
@@ -166,7 +175,6 @@ Depth_Adapted_Background is currently engaged in:
 4. **The Alliance**: Opportunity to work with or against Depth_Adapted_Background
 5. **The Crisis**: Depth_Adapted_Background is caught in a situation requiring intervention
 
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -174,9 +182,6 @@ Depth_Adapted_Background is currently engaged in:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
-
 
 ## Statistics (D&D 5e)
 
@@ -200,14 +205,12 @@ languages: Common
 cr: 1/4
 ```
 
-## DM Notes
 
-### Usage Tips
-- Depth_Adapted_Background works best as a recurring NPC
-- Can serve as quest giver, information source, or obstacle
-- Personality should be consistent but can evolve
+## Secret Connections
 
-### Scaling
-- Adjust capabilities to party level
-- Influence can grow or wane with story
-- Secrets can be revealed gradually
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars

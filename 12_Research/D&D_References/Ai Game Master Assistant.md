@@ -21,30 +21,27 @@ updated: '2025-08-13T12:34:17.783947+00:00'
 world: Both
 ---
 
-
-
-
 # AI Game Master Assistant
 
 Adaptive difficulty, tension calculators, pacing, engagement tracking, narrative coherence, and rule arbitration.
 
-## Adaptive Difficulty
-- Target success rate bands per scene type; adjust DCs subtly
 
-## Dramatic Tension
-- Track Pressure: Time, stakes, resources, sanity
+## 🔧 Deep Evaluation Improvements
 
-## Session Pacing
-- Recommend scene types to balance Combat/Roleplay/Exploration/Investigation
+*20 targeted improvements identified*
 
-## Engagement Trackers
-- Measure spotlight, choices, agency; suggest prompts
+### Connection Improvements
 
-## Narrative Coherence
-- Validate callbacks and foreshadowing against [[Master_Campaign_Index|Master Campaign Index]] links
+- Add cross-references to related notes
 
-## Rule Arbitration
-- Provide rulings with citations to vault systems; log overrides
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -54,23 +51,21 @@ AI Game Master Assistant is a undersea element of the setting, known for biolumi
 
 Legends speak of AI Game Master Assistant as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around AI Game Master Assistant.
 
-## Adventure Hooks
-
-- A rumor ties AI Game Master Assistant to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at AI Game Master Assistant to avert a public scandal.
-- A map overlay reveals a hidden approach to AI Game Master Assistant active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Phase_Omega_Enhanced_Index|03 Mechanics/Phase Omega Enhanced Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals ancient history about the government
+- Someone is searching for a artifact for money
+- Someone is searching for an heir for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

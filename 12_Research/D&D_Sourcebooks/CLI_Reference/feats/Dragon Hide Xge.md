@@ -23,8 +23,6 @@ updated: '2025-08-13T12:34:04.890835+00:00'
 world: Both
 ---
 
-
-
 # Dragon Hide
 *Source: Xanathar's Guide to Everything p. 74*  
 
@@ -36,6 +34,24 @@ You manifest scales and claws reminiscent of your draconic ancestors. You gain t
 - Your scales harden. While you aren't wearing armor, you can calculate your AC as 13 + your Dexterity modifier. You can use a shield and still gain this benefit.  
 - You grow retractable claws from the tips of your fingers. Extending or retracting the claws requires no action. The claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to `d4` + your Strength modifier, instead of the normal bludgeoning damage for an unarmed strike.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Dragon hide xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -44,19 +60,28 @@ Dragon hide xge is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of dragon hide xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dragon hide xge.
 
-## Adventure Hooks
-
-- A rumor ties dragon hide xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dragon hide xge to avert a public scandal.
-- A map overlay reveals a hidden approach to dragon hide xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

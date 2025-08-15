@@ -14,7 +14,6 @@ value: Unknown
 updated: 2025-08-14
 ---
 
-
 # 02_Worldbuilding/Items/Evidence Archive System
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
@@ -26,12 +25,6 @@ updated: 2025-08-14
 ## Details
 
 *[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[Shadow Conspiracy Investigation]]
-- [[02_Worldbuilding/Groups/Criminal_Organizations/Shadow Conspiracy Investigation]]
 
 ## Notes
 
@@ -49,22 +42,6 @@ updated: 2025-08-14
 **Rarity**: Common/Uncommon/Rare/Very Rare/Legendary
 **Attunement**: Required/Not Required
 **Value**: 100-10,000 gp
-
-
-## Mechanics
-
-### Base Properties
-- Standard item statistics
-
-### Magical Effects
-- Primary power
-- Secondary benefits
-- Activation requirements
-
-### Limitations
-- Usage restrictions
-- Recharge requirements
-
 
 ## DM Notes
 

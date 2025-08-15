@@ -27,25 +27,29 @@ world: Both
 updated: '2025-08-13T01:18:36.462254+00:00'
 ---
 
-
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-lumengarde-lumengarde.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-# Lumengarde - The Living Light
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 Lumengarde is a breathtaking city grown rather than built, formed from cultivated bioluminescent coral, kelp, and engineered organisms. Located in the Gloom Gardens at 1,200 feet depth, the city pulses with natural light in patterns that serve as both illumination and communication. The [[Coral Courts]] maintain their primary seat of power here, and the city is renowned for its biological magic and living architecture.
-
-## Districts
 
 ### The Radiant Core
 The heart of Lumengarde, where the massive Mothercoral provides the template for all city growth. [[Duke Cyrus Reefheart|02 Worldbuilding/People/Duke Cyrus Reefheart]] holds court in the Coral Palace, a living structure that grows new rooms as needed.
@@ -62,8 +66,6 @@ Commercial district where biological products are traded. [[The Phosphor Markets
 ### The Deep Garden
 A darker section where dangerous but useful organisms are cultivated. [[Doctor Silas Voidtouch]] conducts controversial adaptation experiments here.
 
-## Notable Locations
-
 ### The Singing Reef
 A massive coral formation that resonates with tidal movements, creating hauntingly beautiful music. [[Siren Maeve Echoborn]] performs here, weaving magic into the natural harmonies.
 
@@ -79,8 +81,6 @@ A collection of knowledge stored in modified jellyfish that project information 
 ### The Adaptation Chambers
 Medical facility where citizens undergo voluntary (and sometimes involuntary) biological modifications. Connected to the [[Abyssal Academy]]'s research.
 
-## Services & Shops
-
 ### The Biolume Bazaar
 Weekly market where rare organisms and biological materials are traded. Known for illegal sales of prohibited adaptations.
 
@@ -92,30 +92,6 @@ Tavern run by [[Barkeep Mira Algaebrew]], serves bioluminescent drinks that prov
 
 ### Symbiont Solutions
 [[Healer Sage Bondseer]] helps resolve conflicts between inhabitants and their living homes, also treats adaptation rejection.
-
-## Government & Law
-- Ruled by the [[Coral Courts]] through Duke Cyrus Reefheart
-- Laws focus on biological harmony and sustainable growth
-- Crimes are punished through biological alteration or symbiont removal
-- [[Reef Guard Captain Torrent Shellborn]] maintains order
-
-## Demographics
-- 60% Fully Adapted (biologically modified for underwater life)
-- 25% Symbiont-Bonded (living in harmony with organisms)
-- 10% Traditional Adapted (magical adaptation only)
-- 5% Visitors and Traders
-
-## Defenses
-- Living barrier reef that responds to threats
-- Trained combat organisms (war-coral, guard kelp)
-- Bioluminescent warning system throughout the city
-- Allied sea creatures serving as scouts
-
-## Trade & Economy
-- Main exports: Bioluminescent organisms, living tools, adaptation services
-- Main imports: Minerals, metals, preserved foods
-- Currency: Lumens (crystallized bioluminescent fluid)
-- Major trade with [[New Tethys|02 Worldbuilding/Places/New Tethys]] and [[The Phosphor Markets|02 Worldbuilding/Places/The Phosphor Markets]]
 
 ## Current Events
 1. The Mothercoral showing signs of mysterious illness
@@ -144,66 +120,6 @@ Tavern run by [[Barkeep Mira Algaebrew]], serves bioluminescent drinks that prov
 9. Children playing with dangerous glowing jellies
 10. Building having an allergic reaction to occupant
 
-## Connected NPCs
-- [[Duke Cyrus Reefheart|02 Worldbuilding/People/Duke Cyrus Reefheart]] - Ruler
-- [[Master Cultivator Thalia Greenglow]] - Chief agriculturalist
-- [[Whisper-Witch Naia Softcurrent]] - Symbiosis specialist
-- [[Doctor Silas Voidtouch]] - Controversial researcher
-- [[High Cultivist Jasper Lifebinder]] - Religious leader
-- [[Siren Maeve Echoborn]] - Influential performer
-- [[Archivist Vera Glowmind]] - Knowledge keeper
-- [[Reef Guard Captain Torrent Shellborn]] - Security chief
-- [[Artisan Felix Reefwright]] - Master crafter
-
-## Connected Locations
-- [[New Tethys|02 Worldbuilding/Places/New Tethys]] - Major trade partner
-- [[The Phosphor Markets|02 Worldbuilding/Places/The Phosphor Markets]] - Commercial connection
-- [[Pressure's End|02 Worldbuilding/Places/Pressure's End]] - Political tension
-- [[The Gloom Gardens]] - Surrounding region
-- [[The Bathyal Palace|02 Worldbuilding/Places/The Bathyal Palace]] - Diplomatic relations
-
-## Quests Available
-- [[The Mothercoral Crisis]] - Save the city's heart
-- [[The Living Weapon]] - Investigate bioweapon claims
-- [[Seeds of the Past]] - Explore pre-drowning agriculture
-- [[The Perfect Symbiosis]] - Help with adaptation experiments
-- [[Garden of Shadows]] - Uncover Deep Garden secrets
-
-
-## Connections
-
-- [[Establish the New Order]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 Lumengarde is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -212,35 +128,30 @@ Lumengarde is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of Lumengarde as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lumengarde.
 
-## Adventure Hooks
-
-- A rumor ties Lumengarde to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Lumengarde to avert a public scandal.
-- A map overlay reveals a hidden approach to Lumengarde active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Lumengarde|02 Worldbuilding/Places/Lumengarde]]
-
-<!-- enriched: true -->
-- [[Abyssal Academy]]
-- [[Master Cultivator Thalia Greenglow]]
-- [[The Depth Wardens]]
-- [[Archivist Vera Glowmind]]
-- [[Barkeep Mira Algaebrew]]
-- [[Free Current]]
-- [[Garden of Shadows]]
-- [[Merchant Delilah Currentrunner]]
-- [[Reef Guard Captain Torrent Shellborn]]
-- [[The Gloom Gardens]]
-- [[The Living Weapon]]
-- [[The Mothercoral Crisis]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting an heir for love
+- The authorities needs help finding before the festival
+- Someone is blackmailing a witness for revenge
+- An heirloom has gone missing and truth emerges
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

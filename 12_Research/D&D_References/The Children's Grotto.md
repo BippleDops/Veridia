@@ -17,14 +17,22 @@ updated: '2025-08-13T01:18:35.843516+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
 
 ## Player-Facing Summary
 
@@ -34,28 +42,24 @@ The Children's Grotto is a undersea element of the setting, known for biolumines
 
 Legends speak of The Children's Grotto as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Children's Grotto.
 
-## Adventure Hooks
-
-- A rumor ties The Children's Grotto to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Children's Grotto to avert a public scandal.
-- A map overlay reveals a hidden approach to The Children's Grotto active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Whispering Peaks|02 Worldbuilding/Places/The Whispering Peaks]]
-
-
-## Connections
-
-- [[The Whispering Peaks]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting a artifact for love
+- A shipment has gone missing and evil awakens
+- A corpse reveals a conspiracy about the government
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

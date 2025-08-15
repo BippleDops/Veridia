@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.368888'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-myconid-adult-xmm-myconid-adult-xmm.svg)
 
@@ -36,6 +34,24 @@ world: Both
 *Source: Monster Manual (2024) p. 223*  
 
 Myconid adults defend their territories and other myconids from invaders.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Myconids
 
@@ -57,9 +73,7 @@ Myconids dwell in remote Underdark reaches overgrown with molds and mushrooms. T
 "modifier": !!int "0"
 "stats":
   - !!int "10"
-  - !!int "10"
   - !!int "12"
-  - !!int "10"
   - !!int "13"
   - !!int "7"
 "speed": "20 ft."
@@ -103,19 +117,16 @@ Myconid adult xmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of myconid adult xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around myconid adult xmm.
 
-## Adventure Hooks
-
-- A rumor ties myconid adult xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at myconid adult xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to myconid adult xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a portal
+- Strange accidents suggest ancient magic

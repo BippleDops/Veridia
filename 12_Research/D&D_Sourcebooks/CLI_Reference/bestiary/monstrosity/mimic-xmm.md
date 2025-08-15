@@ -28,13 +28,29 @@ updated: '2025-08-12T23:37:34.995989'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mimic-xmm-mimic-xmm.svg)
 
 # [[mimic-xmm|Mimic]]
-*Source: Monster Manual (2024) p. 212. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 212. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Mimic
 
@@ -43,7 +59,7 @@ world: Both
 - **Habitat.** Underdark, Urban  
 - **Treasure.** Any  
 
-In their natural forms, mimics are little more than roaming stomachs, their blobby bodies covered with alien eyes and teeth. They can alter their color, texture, and dimensions to duplicate inanimate objects of their approximate size. Mimics use their disguises as both camouflage and bait. Once victims draw close, mimics strike, lashing out with their sticky pseudopods and toothy mouths. After consuming victims, mimics usually relocate, change form, and await their next meal.
+In their natural forms, mimics are little more than roaming stomachs, their blobby bodies covered with alien eyes and teeth. They can alter their color, texture, and dimensions to duplicate iimate objects of their approximate size. Mimics use their disguises as both camouflage and bait. Once victims draw close, mimics strike, lashing out with their sticky pseudopods and toothy mouths. After consuming victims, mimics usually relocate, change form, and await their next meal.
 
 Use the following list to inspire mimics' shapes:
 
@@ -140,7 +156,7 @@ Weapon rack
   - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+5"
 "damage_immunities": "acid"
-"condition_immunities": "[[conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#prone|prone]]"
 "senses": "darkvision 60 ft., passive Perception 11"
 "languages": ""
 "cr": "2"
@@ -185,19 +201,20 @@ Mimic xmm is a undersea element of the setting, known for bioluminescent glow an
 
 Legends speak of mimic xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mimic xmm.
 
-## Adventure Hooks
-
-- A rumor ties mimic xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at mimic xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to mimic xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

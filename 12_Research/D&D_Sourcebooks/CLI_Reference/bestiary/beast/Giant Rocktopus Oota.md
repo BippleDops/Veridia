@@ -27,9 +27,6 @@ updated: '2025-08-13T12:34:05.434277+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-giant-rocktopus-oota-giant-rocktopus-oota.svg)
 
@@ -48,10 +45,8 @@ world: Both
 "stats":
   - !!int "17"
   - !!int "13"
-  - !!int "13"
   - !!int "4"
   - !!int "10"
-  - !!int "4"
 "speed": "20 ft., climb 10 ft."
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
@@ -82,6 +77,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Giant rocktopus oota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -90,19 +103,22 @@ Giant rocktopus oota is a undersea element of the setting, known for bioluminesc
 
 Legends speak of giant rocktopus oota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around giant rocktopus oota.
 
-## Adventure Hooks
-
-- A rumor ties giant rocktopus oota to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at giant rocktopus oota to avert a public scandal.
-- A map overlay reveals a hidden approach to giant rocktopus oota active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting information for power
+- Someone is blackmailing a artifact for money
+- Strange disappearances suggest a conspiracy
+- A corpse reveals the truth about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

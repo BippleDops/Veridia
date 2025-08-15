@@ -23,13 +23,26 @@ updated: '2025-08-13T12:34:05.955962+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-storm-giant-quintessent-vgm-storm-giant-quintessent-vgm.svg)
 
-# Storm Giant Quintessent
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Volo's Guide to Monsters_
@@ -41,7 +54,6 @@ A storm giant quintessent can use lair actions in giant form and while transform
 - The giant creates a 60-foot-long, 10-foot-wide line of strong wind ( or strong current within water) originating from a point anywhere in its lair. Each creature in that line must succeed on a DC 18 Strength saving throw or be pushed 15 feet in the direction the wind is blowing. The gust disperses gas or vapor, and it extinguishes candles, torches, and similar unprotected flames in its area. Protected flames, such as those of lanterns, have a 50 percent chance of being extinguished.  
 
 ## Regional effects
-_Source: Volo's Guide to Monsters_
 
 The region containing a storm giant quintessent's lair is warped by the giant's presence, which creates one or more of the following effects:
 
@@ -59,19 +71,20 @@ Storm giant quintessent vgm is a undersea element of the setting, known for biol
 
 Legends speak of storm giant quintessent vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around storm giant quintessent vgm.
 
-## Adventure Hooks
-
-- A rumor ties storm giant quintessent vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at storm giant quintessent vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to storm giant quintessent vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help delivering before the new moon
+- Strange accidents suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

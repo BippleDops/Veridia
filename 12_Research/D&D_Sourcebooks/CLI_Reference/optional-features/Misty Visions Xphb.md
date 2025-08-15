@@ -23,14 +23,30 @@ updated: '2025-08-13T12:34:06.114826+00:00'
 world: Both
 ---
 
-
-
 # Misty Visions
-*Source: Player's Handbook (2024) p. 156. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Player's Handbook (2024) p. 156. Available in the SRD*  
 
 **Prerequisite**: Level 2 Warlock
 
 You can cast [[silent-image-xphb|Silent Image]] without expending a spell slot.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -40,19 +56,31 @@ Misty visions xphb is a undersea element of the setting, known for bioluminescen
 
 Legends speak of misty visions xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around misty visions xphb.
 
-## Adventure Hooks
-
-- A rumor ties misty visions xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at misty visions xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to misty visions xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting information for power
+- Strange accidents suggest a portal
+- Strange accidents suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

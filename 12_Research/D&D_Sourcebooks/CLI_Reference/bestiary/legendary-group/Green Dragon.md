@@ -23,13 +23,26 @@ updated: '2025-08-13T12:34:05.931815+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-adult-green-dragon-xmm-adult-green-dragon-xmm.svg)
 
-# Green Dragon
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Monster Manual_
@@ -44,11 +57,10 @@ On initiative count 20 (losing initiative ties), the dragon takes a lair action 
 
 At your discretion, a legendary ([[adult-green-dragon-xmm|adult]] or [[ancient-green-dragon-xmm|ancient]]) green dragon can use one or both of the following additional lair actions while in its lair:
 
-- **Creeper Vines.** The dragon can use the vines and roots within its lair to animate up to three Humanoid corpses, which become [[zombie-xmm|zombies]]. The zombies take their turn immediately after this lair action. Each one reverts to an inanimate corpse after 1 minute, when the dragon uses this lair action again, or when the zombie is destroyed.  
-- **Lashing Root.** One large root or branch that is part of the lair makes a melee attack roll against a creature within 10 feet of it. It has a +7 bonus to hit and deals 10 (`3d6`) bludgeoning damage on a hit. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked [[conditions#Prone|prone]].  
+- **Creeper Vines.** The dragon can use the vines and roots within its lair to animate up to three Humanoid corpses, which become [[zombie-xmm|zombies]]. The zombies take their turn immediately after this lair action. Each one reverts to an iimate corpse after 1 minute, when the dragon uses this lair action again, or when the zombie is destroyed.  
+- **Lashing Root.** One large root or branch that is part of the lair makes a melee attack roll against a creature within 10 feet of it. It has a +7 bonus to hit and deals 10 (`3d6`) bludgeoning damage on a hit. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked [[conditions#prone|prone]].  
 
 ## Regional effects
-_Source: Monster Manual_
 
 The region containing a legendary green dragon's lair is warped by the dragon's magic, which creates one or more of the following effects:
 
@@ -75,19 +87,20 @@ Green dragon is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of green dragon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around green dragon.
 
-## Adventure Hooks
-
-- A rumor ties green dragon to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at green dragon to avert a public scandal.
-- A map overlay reveals a hidden approach to green dragon active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

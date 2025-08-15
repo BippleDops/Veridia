@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.444401+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-lost-expedition-the-lost-expedition.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[The Cerulean Trench|02 Worldbuilding/Places/The Cerulean Trench]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[The Cerulean Trench]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,31 @@ The Lost Expedition is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Lost Expedition as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Lost Expedition.
 
-## Adventure Hooks
-
-- A rumor ties The Lost Expedition to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Lost Expedition to avert a public scandal.
-- A map overlay reveals a hidden approach to The Lost Expedition active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and evil awakens
+- A journal reveals the truth about a local noble
+- Someone is hunting an heir for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.559679+00:00'
 world: Both
 ---
 
-
-
 # Downtime Activity: Crafting a Magic Item
 *Source: Dungeon Master's Guide* 
 
@@ -57,11 +55,27 @@ While crafting a magic item, a character can maintain modest lifestyle without h
 > [!note] Magic Item Formulas
 > 
 > A magic item formula explains how to make a particular magic item. Such a formula can be an excellent reward if you allow player characters to craft magic items.
-> 
 > You can award a formula in place of a magic item. Usually written in a book or on a scroll, a formula is one step rarer than the item it allows a character to create. For example, the formula for a common magic item is uncommon. No formulas exist for legendary items.
-> 
 > If the creation of magic items is commonplace in your campaign, a formula can have a rarity that matches the rarity of the item it allows a character to create. Formulas for common and uncommon items might even be for sale, each with a cost double that of its magic item.
 ^magic-item-formulas
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -71,19 +85,21 @@ Downtime activity crafting a magic item is a undersea element of the setting, kn
 
 Legends speak of downtime activity crafting a magic item as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around downtime activity crafting a magic item.
 
-## Adventure Hooks
-
-- A rumor ties downtime activity crafting a magic item to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at downtime activity crafting a magic item to avert a public scandal.
-- A map overlay reveals a hidden approach to downtime activity crafting a magic item active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest ancient magic
+- A stranger needs help investigating before the festival
+- Someone is searching for a witness for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

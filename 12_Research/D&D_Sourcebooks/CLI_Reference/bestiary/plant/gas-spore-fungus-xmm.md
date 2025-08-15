@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.361157'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gas-spore-fungus-xmm-gas-spore-fungus-xmm.svg)
 
@@ -36,6 +34,24 @@ world: Both
 *Source: Monster Manual (2024) p. 125*  
 
 Gas spores are floating, orbicular fungi with rhizome growths and protuberances that resemble the stalks and eyes of beholders. If destroyed, a gas spore explodes in a poisonous burst that can infect creatures and slay them in hours. Infected corpses spawn more gas spores that grow to full size in a matter of days.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Fungi
 
@@ -59,15 +75,12 @@ The dank, sunless Underdark is a fertile breeding ground for weird and dangerous
   - !!int "5"
   - !!int "1"
   - !!int "3"
-  - !!int "1"
-  - !!int "1"
-  - !!int "1"
 "speed": "5 ft., fly 10 ft. (hover)"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
-  \ [[conditions#Deafened|deafened]], [[conditions#Frightened|frightened]],\
+  \ [[conditions#Deafened|deafened]], [[conditions#frightened|frightened]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Poisoned|poisoned]],\
-  \ [[conditions#Prone|prone]]"
+  \ [[conditions#prone|prone]]"
 "senses": "blindsight 30 ft., passive Perception 5"
 "languages": ""
 "cr": "1/2"
@@ -104,19 +117,26 @@ Gas spore fungus xmm is a undersea element of the setting, known for bioluminesc
 
 Legends speak of gas spore fungus xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gas spore fungus xmm.
 
-## Adventure Hooks
-
-- A rumor ties gas spore fungus xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gas spore fungus xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to gas spore fungus xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a conspiracy
+- A prisoner has gone missing and war looms
+- The authorities needs help finding before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

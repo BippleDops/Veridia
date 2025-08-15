@@ -1,4 +1,5 @@
 ---
+
 title: Biomancer Corvus Intestinal
 type: Lore
 tags:
@@ -29,8 +30,9 @@ reputation: Feared and Respected
 specialization: Biological Manipulation and Flesh Magic
 updated: '2025-08-13T12:34:15.943130+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
-
 
 
 # Biomancer Corvus Intestinal
@@ -39,6 +41,71 @@ world: Aquabyssos
 
 > *"Life is but clay in the hands of those who understand its true malleable nature. Corvus doesn't simply study biology - he conducts it like a symphony, with each organ, each cell, each breath following his precise orchestration of living harmony."*
 > — [[Professor Depth Biologist]], Former Colleague at the [[Institute of Living Sciences]]
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
 
 ## Overview
 
@@ -50,8 +117,6 @@ His reputation stems from groundbreaking advances in biological adaptation, rege
 
 Recent developments suggest that Corvus has begun investigating applications of biomancy to [[The Crystal Influence]], seeking to understand whether biological manipulation can provide resistance to or integration with crystal corruption effects, making his current research both potentially invaluable and extraordinarily dangerous.
 
-## Physical Appearance and Biological Modifications
-
 ### Current Physical Form
 
 Corvus Intestinal's appearance reflects centuries of self-modification and biological experimentation. His original humanoid form has been enhanced and altered to the point where he represents an entirely new category of living being, combining the best aspects of multiple species with innovations that exist nowhere in nature.
@@ -60,7 +125,7 @@ His height varies between six and eight feet depending on current configuration,
 
 Multiple additional limbs can extend from his torso when needed for complex manipulation tasks, while his primary hands have been modified with extensible fingers and additional joints that enable impossibly precise control over biological materials. His eyes have been replaced with organs that provide visual perception across multiple spectra while enabling microscopic analysis of observed materials.
 
-His respiratory and circulatory systems have been completely redesigned to function optimally in any environment, from the crushing depths of oceanic trenches to dry surface conditions, while modified organs enable him to derive sustenance from virtually any organic material available in his environment.
+His respiratory and circulatory systems have been completely redesigned to function optimally in any environment, from the crushing depths of oceanic trenches to dry surface conditions, while modified organs enable him to derive sustece from virtually any organic material available in his environment.
 
 ### Biological Enhancement Systems
 
@@ -87,8 +152,6 @@ Extensive modifications enable Corvus to survive and operate effectively in envi
 **Atmospheric Flexibility**: Modified respiratory systems can extract necessary gases from any available atmosphere while filtering out toxic substances and providing optimal oxygenation regardless of environmental conditions.
 
 **Radiation Resistance**: Enhanced cellular repair mechanisms provide immunity to all forms of radiation while enabling safe study of magically active materials that would be deadly to normal individuals.
-
-## Magical Abilities and Specializations
 
 ### Master-Level Biomancy
 
@@ -137,8 +200,6 @@ Corving's experimental work has produced revolutionary advances in biological ma
 **Interspecies Compatibility**: Modifications that enable different species to cooperate biologically while maintaining their distinct characteristics and capabilities.
 
 **Environmental Adaptation**: Rapid biological modifications that enable survival in previously uninhabitable environments while maintaining reproductive compatibility with original populations.
-
-## Research History and Major Experiments
 
 ### Early Career and Foundation Studies
 
@@ -200,8 +261,6 @@ Experimental work has focused on creating biological filters that can separate b
 
 The potential applications of this research could provide crucial defenses against crystal corruption, but the risks associated with experimental exposure to crystal influences have raised serious concerns about the safety and ethics of continuing these studies.
 
-## Notable Achievements and Contributions
-
 ### Medical Revolutionary Applications
 
 Corving's techniques have revolutionized medical practice throughout [[Aquabyssos]], providing treatments for conditions that were previously considered incurable while dramatically improving the success rates of conventional medical procedures.
@@ -243,8 +302,6 @@ Published research has advanced the fundamental understanding of biological magi
 **Biological Magic Integration**: Theoretical foundation for incorporating magical capabilities into biological systems while maintaining both magical effectiveness and biological health.
 
 **Life Force Dynamics**: Comprehensive theory explaining how vital energy flows through living systems and can be manipulated for therapeutic and enhancement purposes.
-
-## Current Research Projects and Investigations
 
 ### Crystal Corruption Integration Studies
 
@@ -294,8 +351,6 @@ Safety testing has focused on ensuring that enhancement techniques remain stable
 
 The potential social and political implications of widespread biological enhancement have prompted collaboration with government officials and social researchers to address implementation challenges and ethical considerations.
 
-## Ethical Concerns and Controversies
-
 ### Human Experimentation Issues
 
 Corving's research methods have attracted criticism from ethics review boards and regulatory authorities due to his willingness to conduct experiments that involve significant risks to research subjects and potentially irreversible modifications.
@@ -344,8 +399,6 @@ Academic collaboration has been limited by Corvus's reluctance to share complete
 
 Public policy discussions have focused on balancing innovation incentives with public benefit while addressing concerns about creating unfair advantages for those who can afford advanced biological enhancements.
 
-## Relationships and Associates
-
 ### Professional Collaborations
 
 [[Professor Depth Biologist]] - Former colleague at the [[Institute of Living Sciences]] who maintains professional correspondence despite philosophical disagreements about research ethics. Their collaboration focuses on theoretical foundations while avoiding direct involvement in experimental work.
@@ -381,8 +434,6 @@ Public policy discussions have focused on balancing innovation incentives with p
 [[Traditional Medicine Spokesman]] - Medical professional who argues that conventional healing techniques are safer and more appropriate than biological enhancement while opposing the adoption of experimental medical treatments.
 
 [[Environmental Protection Specialist]] - Scientist who has raised concerns about the ecological impact of new species creation while advocating for comprehensive environmental impact studies before implementing large-scale biological modification projects.
-
-## Current Location and Activities
 
 ### Mobile Research Operations
 
@@ -421,8 +472,6 @@ Cosmic biology preparation involves intensive biological modifications for volun
 Collective consciousness expansion experiments continue with larger groups while addressing safety concerns and developing techniques for maintaining individual autonomy within group mind systems.
 
 Medical application development focuses on standardizing experimental techniques for wider implementation while ensuring appropriate training and safety measures for practitioners using advanced enhancement technologies.
-
-## Adventure Hooks and Campaign Integration
 
 ### Research Participation Opportunities
 
@@ -480,21 +529,6 @@ Corving's advanced medical techniques provide solutions to medical crises that c
 
 **Species Integration** - Characters facilitate cooperation between different species while utilizing biological modifications that enable perfect cultural and biological compatibility.
 
-## Connected Locations and Organizations
-
-- [[Aquabyssos|02 Worldbuilding/Lore/Aquabyssos]] - Primary realm where Corvus conducts his research
-- [[02_Worldbuilding/Lore/Institute of Living Sciences|02 Worldbuilding/Lore/Institute Of Living Sciences]] - Academic institution where Corvus received his training
-- [[The Crystal Influence]] - Corruption phenomenon studied in current research
-- [[Spell Lists]] - Catalog including biological manipulation spells
-- [[02_Worldbuilding/Lore/Deep Sea Research Facilities|02 Worldbuilding/Lore/Deep Sea Research Facilities]] - Remote locations where advanced experiments are conducted
-- [[Professor Depth Biologist|02 Worldbuilding/People/Professor Depth Biologist]] - Former colleague and current correspondent
-- [[Crystal Corruption Researcher Prime|02 Worldbuilding/People/Crystal Corruption Researcher Prime]] - Current collaborative research partner
-
-
-## Connections
-
-- [[The Deep Mother]]
-
 ## Player-Facing Summary
 
 Biomancer Corvus Intestinal is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -503,46 +537,34 @@ Biomancer Corvus Intestinal is a undersea element of the setting, known for biol
 
 Legends speak of Biomancer Corvus Intestinal as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Biomancer Corvus Intestinal.
 
-## Adventure Hooks
-
-- A rumor ties Biomancer Corvus Intestinal to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Biomancer Corvus Intestinal to avert a public scandal.
-- A map overlay reveals a hidden approach to Biomancer Corvus Intestinal active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[02_Worldbuilding/Lore/Enhancement Ethics Advisor|02 Worldbuilding/Lore/Enhancement Ethics Advisor]]
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
-
-
 ## Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
-
 
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
 
-## Game Applications
 
-### Adventure Hooks
-- Discovery of related artifacts or texts
-- Conflicts arising from different interpretations
-- Prophecies beginning to manifest
+## Economic Structure
 
-### Character Connections
-- Scholarly interest
-- Personal involvement in events
-- Hereditary knowledge or curse
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

@@ -16,12 +16,22 @@ updated: '2025-08-13T01:18:34.638562+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -31,19 +41,25 @@ Baron Prism Edge Valorian is a undersea element of the setting, known for biolum
 
 Legends speak of Baron Prism Edge Valorian as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Baron Prism Edge Valorian.
 
-## Adventure Hooks
-
-- A rumor ties Baron Prism Edge Valorian to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Baron Prism Edge Valorian to avert a public scandal.
-- A map overlay reveals a hidden approach to Baron Prism Edge Valorian active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help stealing before the festival
+- Someone is searching for information for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

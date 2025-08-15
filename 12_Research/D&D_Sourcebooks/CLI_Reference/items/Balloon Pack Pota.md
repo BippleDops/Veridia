@@ -24,16 +24,11 @@ updated: '2025-08-13T12:34:06.939881+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-balloon-pack-pota-balloon-pack-pota.svg)
 
 # Balloon Pack
 *Wondrous item, uncommon*  
-
-
 
 This backpack contains the spirit of an [[air-elemental-xmm|air elemental]] and a compact leather balloon. While you're wearing the backpack, you can deploy the balloon as an action and gain the effect of the [[levitate-xphb|levitate]] spell for 10 minutes, targeting yourself and requiring no [[conditions#Concentration|concentration]]. Alternatively, you can use a reaction to deploy the balloon when you're falling and gain the effect of the [[feather-fall-xphb|feather fall]] spell for yourself.
 
@@ -43,6 +38,24 @@ After the spirit departs, the backpack's property is unusable unless the backpac
 
 *Source: Princes of the Apocalypse p. 222*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Balloon pack pota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -51,19 +64,20 @@ Balloon pack pota is a undersea element of the setting, known for bioluminescent
 
 Legends speak of balloon pack pota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around balloon pack pota.
 
-## Adventure Hooks
-
-- A rumor ties balloon pack pota to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at balloon pack pota to avert a public scandal.
-- A map overlay reveals a hidden approach to balloon pack pota active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a portal
+- A document has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

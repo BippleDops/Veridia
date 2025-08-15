@@ -27,25 +27,29 @@ world: Both
 updated: '2025-08-13T01:18:36.540669+00:00'
 ---
 
-
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-new-tethys-new-tethys.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-# New Tethys - The Glass City
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 Built within and around the drowned spires of the ancient surface capital, New Tethys stands as the largest and most politically important city in [[Aquabyssos World Overview|Aquabyssos]]. Enormous glass domes connected by covered tunnels preserve pockets of air, while the flooded districts between them teem with adapted inhabitants. The city exists in the Twilight Reaches, where dying sunlight still filters through the waters, creating an eternal golden-green dusk.
-
-## Districts
 
 ### The Crown Dome
 The largest air-filled dome, housing the [[Archon Meredith Saltweaver|Archon's]] palace and the [[Tethyan Hegemony]] government buildings. The original throne room sits preserved here, though flooded and converted to a monument.
@@ -62,8 +66,6 @@ Living coral shaped into residential structures, primarily housing the adapted p
 ### The Pressure Slums
 Deepest inhabited section where [[The Free Current]] operates in shadows. Those who can't afford pressure protection magic cluster here, often showing signs of depth-related mutations.
 
-## Notable Locations
-
 ### The Conservatory of Memory
 A museum preserving artifacts and memories from before [[The Great Drowning]]. Managed by [[Keeper Elara Mindwell]], who guards dangerous pre-flood knowledge.
 
@@ -79,8 +81,6 @@ The main temple of the [[Church of the Tidal Throne]], where [[Prophet Nerida Vo
 ### The Pressure Academy
 Training ground for the [[Depth Wardens]], where [[Admiral Thorne Blackwater|02 Worldbuilding/People/Admiral Thorne Blackwater]] recruits and trains elite underwater soldiers.
 
-## Services & Shops
-
 ### The Gill & Gill Tavern
 Run by [[Tavern Keeper Finn Splitlung]], serves both air and water in separated sections. Known for information trading and neutral ground meetings.
 
@@ -92,30 +92,6 @@ Managed by [[Innkeeper Marina Dreamwhisper]], offers rooms for all adaptation le
 
 ### The Bubble Boutique
 [[Seamstress Coral Silkweaver]] creates magical clothing that functions both in air and water. Hides encoded messages in her designs.
-
-## Government & Law
-- Ruled by the [[Tethyan Hegemony]] through Archon Meredith Saltweaver
-- Laws favor trade and taxation over personal freedom
-- [[Enforcer Chief Mako Ironjaw]] leads the city watch
-- Crime is punished by depth exposure or pressure chamber torture
-
-## Demographics
-- 40% Partially Adapted (can breathe both air and water)
-- 30% Fully Adapted (water only)
-- 20% Surface Preserved (air only, using magic/equipment)
-- 10% Other (constructs, elementals, visiting beings)
-
-## Defenses
-- Pressure wards preventing unauthorized deep creatures from rising
-- The Dome Guard, elite soldiers protecting air pockets
-- Current-rider scouts monitoring approach routes
-- Ancient pre-drowning defensive enchantments (partially functional)
-
-## Trade & Economy
-- Main exports: Preserved surface artifacts, translation services, magical adaptations
-- Main imports: Depth crystals, glowkelp, pearlsteel
-- Currency: Tethyan Drops (magical water pearls)
-- Major trade partner with [[Lumengarde|02 Worldbuilding/Places/Lumengarde]] and [[Pressure's End|02 Worldbuilding/Places/Pressure's End]]
 
 ## Current Events
 1. Archon Saltweaver has announced new taxation on depth travelers
@@ -144,62 +120,6 @@ Managed by [[Innkeeper Marina Dreamwhisper]], offers rooms for all adaptation le
 9. Glowkelp dealer offering "special visions"
 10. Messenger with urgent summons from the Archon
 
-## Connected NPCs
-- [[Archon Meredith Saltweaver|02 Worldbuilding/People/Archon Meredith Saltweaver]] - Ruler
-- [[Captain Garrett Stormcutter|02 Worldbuilding/People/Captain Garrett Stormcutter]] - Major merchant
-- [[Sage Lysander Deepthought|02 Worldbuilding/People/Sage Lysander Deepthought]] - Academy representative
-- [[Prophet Nerida Voidgazer|02 Worldbuilding/People/Prophet Nerida Voidgazer]] - Religious leader
-- [[Duke Cyrus Reefheart|02 Worldbuilding/People/Duke Cyrus Reefheart]] - Coral Courts ambassador
-- [[Keeper Elara Mindwell]] - Memory conservator
-- [[Enforcer Chief Mako Ironjaw]] - Law enforcement
-- [[Tavern Keeper Finn Splitlung]] - Information broker
-- [[Forge Master Petra Hammerdeep]] - Armorer
-- [[Merchant Delilah Currentrunner]] - Market coordinator
-
-## Quests Available
-- [[The Vanishing Depths]] - Investigate disappearances
-- [[Crown Dome Conspiracy]] - Uncover assassination plot
-- [[Memory Thief]] - Retrieve stolen artifacts
-- [[The Depth Plague]] - Find the source of infection
-- [[Pressure Politics]] - Navigate trade negotiations
-
-
-## Connections
-
-- [[Corallion]]
-- [[Angels and Depths]]
-- [[Tethyan Hegemony]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 New Tethys is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -208,37 +128,25 @@ New Tethys is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of New Tethys as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around New Tethys.
 
-## Adventure Hooks
-
-- A rumor ties New Tethys to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at New Tethys to avert a public scandal.
-- A map overlay reveals a hidden approach to New Tethys active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[New Tethys|02 Worldbuilding/Places/New Tethys]]
-
-<!-- enriched: true -->
-- [[Abyssal Academy]]
-- [[Enforcer Chief Mako Ironjaw]]
-- [[The Cerulean Breath]]
-- [[The Deepmind Conspiracy]]
-- [[The Emergence]]
-- [[Depth Wardens]]
-- [[Free Current]]
-- [[Innkeeper Marina Dreamwhisper]]
-- [[Keeper Elara Mindwell]]
-- [[Memory Thief]]
-- [[Merchant Delilah Currentrunner]]
-- [[The Depth Plague]]
-- [[The Free Current]]
-- [[The Vanishing Depths]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

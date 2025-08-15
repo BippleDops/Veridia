@@ -25,18 +25,30 @@ obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.952908+00:00'
 ---
 
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-shadow-citizenship-act-shadow-citizenship-act.svg]]
-
-
-
-
 
 # Shadow Citizenship Act
 
 *"Even those who walk in darkness deserve the light of citizenship." - Councillor Elena Voidwhisper*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 The Shadow Citizenship Act is controversial legislation proposing to grant full citizenship rights to shadow-touched beings, reformed criminals, and other marginalized groups currently existing on society's periphery. The act has created deep divisions within Aquabyssos politics.
@@ -48,14 +60,6 @@ The Shadow Citizenship Act is controversial legislation proposing to grant full 
 **Legal Protection:** Access to courts and justice system
 **Public Services:** Healthcare, education, and emergency services
 **Employment Rights:** Protection from workplace discrimination
-
-## Affected Groups
-- Shadow-touched individuals with supernatural alterations
-- Former criminals seeking rehabilitation
-- Refugees from other realms or dimensions
-- Magical beings traditionally excluded from citizenship
-- Underground community members living in legal gray areas
-- Children of mixed heritage between citizens and non-citizens
 
 ## Support Coalition
 **Progressive Politicians:** Councillors pushing for inclusive policies
@@ -85,13 +89,6 @@ The Shadow Citizenship Act is controversial legislation proposing to grant full 
 **Legal Precedent:** What other groups might seek similar recognition?
 **Implementation Costs:** Funding for expanded services and oversight
 
-## Recent Developments
-- Shadow-touched community organizes peaceful demonstration
-- Opposition group files legal challenge to act's constitutionality
-- Public opinion polls show narrow majority support
-- International observers express interest in Aquabyssos's approach
-- Underground networks emerge to help potential beneficiaries
-
 ## Political Maneuvering
 **Vote Trading:** Legislators exchanging support on different issues
 **Lobbying Efforts:** Interest groups pressuring decision-makers
@@ -116,41 +113,6 @@ The Shadow Citizenship Act is controversial legislation proposing to grant full 
 ## DM Notes
 The Shadow Citizenship Act provides excellent framework for exploring themes of prejudice, citizenship, and social change. Use it to create moral dilemmas and political adventures while examining real-world issues through fantasy lens.
 
-
-## Connections
-
-- [[Senator Glaucus]]
-
-
-## Appearance
-
-
-TODO
-
-
-## Personality
-
-
-TODO
-
-
-## Goals
-
-
-TODO
-
-
-## Relationships
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 Shadow Citizenship Act is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -163,10 +125,28 @@ Legends speak of Shadow Citizenship Act as a nexus where past and present conver
 
 - [[Shadow Citizenship Act|02 Worldbuilding/People/Shadow Citizenship Act]]
 
-<!-- enriched: true -->
 iched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

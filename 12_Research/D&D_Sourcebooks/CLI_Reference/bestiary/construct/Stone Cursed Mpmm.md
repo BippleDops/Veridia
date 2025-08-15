@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:06.074507+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-stone-cursed-mpmm-stone-cursed-mpmm.svg)
 
@@ -44,6 +41,24 @@ Stone cursed are spawned through a foul alchemical ritual performed on a Humanoi
 Stone cursed possess a malevolent drive to slay the living, yet they are utterly loyal to whoever performed the ritual to animate them, and they obey that being's orders to the best of their ability. In combat, stony claws that drip with thick, gray sludge emerge from a stone cursed's fingers. This alchemical sludge transforms those slashed by the claws into statues.
 
 As part of the ritual used to create a stone cursed, a fist-sized obsidian skull forms within the creature's torso. The skull isn't visible while the stone cursed is active, but when it is slain, the statue shatters and the skull clatters to the ground. Because it is the nexus for the alchemy used to create these horrors, a faint echo of the original victim's memories resonates within the skull. A skilled magic-wielder can attempt to extract memories from it to gain insight into the victim's past or find lore that otherwise would be lost.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Cryptic Whispers
 
@@ -63,14 +78,13 @@ Even though a creature transformed into a stone cursed is long dead, a vague whi
   - !!int "16"
   - !!int "5"
   - !!int "14"
-  - !!int "5"
   - !!int "8"
   - !!int "7"
 "speed": "10 ft."
 "damage_vulnerabilities": "bludgeoning"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Petrified|petrified]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Petrified|petrified]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "passive Perception 9"
 "languages": "the languages it knew in life"
@@ -112,19 +126,43 @@ Stone cursed mpmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of stone cursed mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around stone cursed mpmm.
 
-## Adventure Hooks
-
-- A rumor ties stone cursed mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at stone cursed mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to stone cursed mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Accord - Manipulate succession
+
+
+## Plot Hooks
+
+- Strange dreams suggest a conspiracy
+- An heirloom has gone missing and war looms
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

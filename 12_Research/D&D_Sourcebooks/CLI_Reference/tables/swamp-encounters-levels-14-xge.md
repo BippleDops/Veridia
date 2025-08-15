@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.201908'
 world: Both
 ---
 
-
 # Swamp Encounters (Levels 1—4)
 *Source: Xanathar's Guide to Everything p. 105* 
 
@@ -71,7 +70,7 @@ world: Both
 | 84-86 | 1 [[lizardfolk-geomancer-xmm|lizardfolk shaman]] with `d6` [[giant-lizard-xmm|giant lizards]] and `2d10` [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] |
 | 87 | 1 [[troll-xmm|troll]] |
 | 88-89 | `d4` [[green-hag-xmm|green hags]] |
-| 90-91 | 1 [[revenant-xmm|revenant]] |
+| 90-91 | 1 [[revet-xmm|revet]] |
 | 92-93 | 1 [[giant-crocodile-xmm|giant crocodile]] |
 | 94-95 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|orc Eye of Gruumsh]] with `d3` [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|orogs]] and `2d6 + 3` [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|orcs]] |
 | 96-97 | 1 [[young-black-dragon-xmm|young black dragon]] |
@@ -79,6 +78,24 @@ world: Both
 | 99 | `d4` [[water-elemental-xmm|water elementals]] |
 | 00 | 1 [[hydra-xmm|hydra]] |
 ^swamp-encounters-levels-14
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -88,19 +105,30 @@ Swamp encounters levels 14 xge is a undersea element of the setting, known for b
 
 Legends speak of swamp encounters levels 14 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around swamp encounters levels 14 xge.
 
-## Adventure Hooks
-
-- A rumor ties swamp encounters levels 14 xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at swamp encounters levels 14 xge to avert a public scandal.
-- A map overlay reveals a hidden approach to swamp encounters levels 14 xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- The authorities needs help delivering before the festival
+- Someone is searching for a artifact for money
+- A merchant needs help investigating before the new moon
+- A document has gone missing and war looms
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

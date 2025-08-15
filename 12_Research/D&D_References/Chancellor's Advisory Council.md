@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.428296+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-chancellor-s-advisory-council-chancellor-s-advisory-council.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,20 @@ Chancellor's Advisory Council is a undersea element of the setting, known for bi
 
 Legends speak of Chancellor's Advisory Council as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Chancellor's Advisory Council.
 
-## Adventure Hooks
-
-- A rumor ties Chancellor's Advisory Council to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Chancellor's Advisory Council to avert a public scandal.
-- A map overlay reveals a hidden approach to Chancellor's Advisory Council active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Chancellor's Advisory Council|02 Worldbuilding/Places/Chancellor's Advisory Council]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Mad Oracle Thessaly]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

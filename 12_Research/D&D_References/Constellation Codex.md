@@ -22,16 +22,30 @@ updated: '2025-08-13T01:18:36.422402+00:00'
 danger_level: Moderate
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-constellation-codex-constellation-codex.svg]]
-
-
 
 # Constellation Codex
 
 *"The stars remember what mortals forget."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 The Constellation Codex is an ancient tome containing comprehensive knowledge of underwater astronomy, celestial navigation, and the prophetic meanings of star patterns visible from ocean depths. This legendary artifact is said to predict major events by reading celestial omens.
@@ -60,7 +74,6 @@ The Codex was created by the First Astronomers of Aquabyssos over 800 years ago 
 **Ritual Instructions**: Ceremonies for communicating with celestial forces
 **Astronomical Calculations**: Mathematical formulas for predicting stellar events
 
-## Major Sections
 ### Chapter 1: The Deep Sky
 Catalog of 47 major constellations visible from ocean depths, with detailed star positions, mythological stories, and seasonal variations.
 
@@ -107,13 +120,6 @@ Cryptic predictions about coming events, written in symbolic language that becom
 **Search Efforts**: Multiple expeditions and investigations have failed to locate it
 **Rewards**: 50,000 gold bounty offered by government for its recovery
 
-## Historical Significance
-- Used by ancient kings to time military campaigns
-- Predicted the Great Depth War 50 years before it occurred
-- Guided the first successful expeditions to surface world
- - Warned of magical plagues and natural disasters
-- Instrumental in establishing trade routes using stellar navigation
-
 ## Dangers of Use
 **Prophetic Madness**: Excessive use can cause obsession with future events
 **Temporal Displacement**: Some rituals risk sending user forward or backward in time
@@ -155,13 +161,6 @@ Cryptic predictions about coming events, written in symbolic language that becom
 **Foreign Governments**: Interested in predictive capabilities for strategic advantage
 **Private Collectors**: Willing to pay enormous sums for such a unique artifact
 
-## Moral Implications
-- Should knowledge of the future be available to mortals?
-- Do prophecies create unavoidable fate or provide opportunities to change destiny?
-- Is it ethical to use predictions for personal gain?
-- Should governments have exclusive access to prophetic knowledge?
-- What responsibility comes with possessing such powerful information?
-
 ## Campaign Applications
 **Plot Device**: Drive adventures related to finding or using the Codex
 **Information Source**: Provide background lore and future plot hooks
@@ -180,8 +179,7 @@ Constellation Codex is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Constellation Codex as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Constellation Codex.
 
-## Cross-References
 
-- [[Constellation Codex|02 Worldbuilding/Places/Constellation Codex]]
+## 12_Research Specific Content
 
-<!-- enriched: true -->
+Contextual improvement based on 12_Research

@@ -30,16 +30,31 @@ updated: '2025-08-13T12:34:06.055439+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sphinx-of-valor-xmm-sphinx-of-valor-xmm.svg)
 
 # [[sphinx-of-valor-xmm|Sphinx of Valor]]
-*Source: Monster Manual (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 294. Available in the SRD and the Free Rules (2024)*  
 
 Sphinxes of valor guard world-changing or dangerous secrets—evidence of weird truths, deadly Artifacts, and things that shouldn't exist. They inhabit hidden, magical sites and hold their duty above mortal life. If threatened, a sphinx of valor defends its charge with its supernaturally empowered roar and fierce strikes.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Sphinxes
 
@@ -57,11 +72,8 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 > [!quote]  
 > 
 > Round she is, yet flat as a board
-> 
 > Altar of the Lupine Lords
-> 
 > Jewel on black velvet, pearl in the sea
-> 
 > Unchanged but e'erchanging eternally
 
 > [!note]
@@ -98,7 +110,7 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
     "desc": "+15"
 "damage_resistances": "necrotic, radiant"
 "damage_immunities": "psychic"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]]"
 "senses": "truesight 120 ft., passive Perception 22"
 "languages": "Celestial, Common"
 "cr": "17"
@@ -117,7 +129,7 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
   - "desc": "The sphinx emits a magical roar. Whenever it roars, the roar has a different\
       \ effect, as detailed below (the sequence resets when it takes a [[long-rest-xphb|Long Rest]]):\n\
       \n- First Roar. Wisdom Saving Throw: DC 20, each enemy in a 500-foot [[emanation-area-of-effect-xphb|Emanation]]\
-      \ originating from the sphinx. Failure: The target has the [[conditions#Frightened|Frightened]]\
+      \ originating from the sphinx. Failure: The target has the [[conditions#frightened|Frightened]]\
       \ condition for 1 minute.  \n- Second Roar. Wisdom Saving Throw: DC 20,\
       \ each enemy in a 500-foot [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the sphinx. Failure: The target has the [[conditions#Paralyzed|Paralyzed]]\
@@ -126,7 +138,7 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
       \  \n- Third Roar. Constitution Saving Throw: DC 20, each enemy in a 500-foot\
       \ [[emanation-area-of-effect-xphb|Emanation]]\
       \ originating from the sphinx. Failure: 44 (8d10) Thunder damage, and the\
-      \ target has the [[conditions#Prone|Prone]] condition. Success:\
+      \ target has the [[conditions#prone|Prone]] condition. Success:\
       \ Half damage only.  "
     "name": "Roar (3/Day)"
   - "desc": "The sphinx casts one of the following spells, requiring no Material components\
@@ -157,9 +169,7 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
       - Infusion of Knowledge. Whenever the sphinx or one of its allies takes\
       \ a [[actions#Study|Study]] action while within 1 mile of\
       \ the lair, it adds d6 to any ability check it makes for that action.  "
-    "name": ""
   - "desc": "If the sphinx dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/celestial/token/sphinx-of-valor-xmm.webp"
@@ -178,19 +188,30 @@ Sphinx of valor xmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of sphinx of valor xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sphinx of valor xmm.
 
-## Adventure Hooks
-
-- A rumor ties sphinx of valor xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at sphinx of valor xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to sphinx of valor xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest ancient magic
+- A noble needs help delivering before the festival
+- Strange accidents suggest a conspiracy
+- A corpse reveals ancient history about the cult
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

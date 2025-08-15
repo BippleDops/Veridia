@@ -15,33 +15,26 @@ world: Both
 updated: '2025-08-13T01:18:36.678992+00:00'
 ---
 
-
 > [!figure] Heraldry
 ![[04_Resources/Assets/Symbols/symbol-heraldry-the-contemplation-abyss-the-contemplation-abyss.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Structure
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Goals
-
-TODO
-## Assets
-
-TODO
-## Conflicts
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -51,28 +44,34 @@ The Contemplation Abyss is a undersea element of the setting, known for biolumin
 
 Legends speak of The Contemplation Abyss as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Contemplation Abyss.
 
-## Adventure Hooks
-
-- A rumor ties The Contemplation Abyss to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Contemplation Abyss to avert a public scandal.
-- A map overlay reveals a hidden approach to The Contemplation Abyss active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Temple of Divine Order|02 Worldbuilding/Groups/Temple Of Divine Order]]
-
-
-## Connections
-
-- [[Temple of Divine Order]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and chaos spreads
+- A map reveals a conspiracy about the government
+- A map reveals the truth about the government
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

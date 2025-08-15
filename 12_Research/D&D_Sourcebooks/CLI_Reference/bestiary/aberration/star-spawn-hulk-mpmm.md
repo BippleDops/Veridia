@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.336289'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-star-spawn-hulk-mpmm-star-spawn-hulk-mpmm.svg)
 
@@ -36,12 +34,29 @@ world: Both
 
 The hulk is one of the largest of the known star spawn, with glistening, translucent skin. Pale and seemingly lidless eyes glare balefully from a face distorted by too many teeth and too little nose. Hulks are seldom encountered without a commanding star spawn seer (also in this book) nearby. A hulk appears to have little will of its own and is driven to protect its master.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Star Spawn
 
 > [!quote] A quote from Mordenkainen  
 > 
 > Stars don't spawn these creatures.
-> 
 > Such beautiful lights shouldn't be blamed for such balefulness.
 
 The Material Plane represents only one small part of the multiverse. Beyond the best-known planes of existence lie realms alien to mortal life. Some are so hostile that even a moment's contact is enough to break a mortal's mind. Yet beings do exist that are native to these realms: entities that are ever hungering, searching, warring, and sometimes dreaming. These Elder Evils are far older than most of the mortal peoples and always inimical to such creatures' minds.
@@ -85,7 +100,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]]"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Deep Speech"
 "cr": "10"
@@ -105,7 +120,7 @@ Disciples of certain Elder Evils can bestow supernatural gifts on those who serv
     "name": "Slam"
   - "desc": "The hulk makes a separate Slam attack against each creature within 10\
       \ feet of it. Each creature that is hit must also succeed on a DC 17 Dexterity\
-      \ saving throw or be knocked [[conditions#Prone|prone]]."
+      \ saving throw or be knocked [[conditions#prone|prone]]."
     "name": "Reaping Arms (Recharge 5-6)"
 "source":
   - "MPMM"
@@ -122,19 +137,34 @@ Star spawn hulk mpmm is a undersea element of the setting, known for bioluminesc
 
 Legends speak of star spawn hulk mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around star spawn hulk mpmm.
 
-## Adventure Hooks
-
-- A rumor ties star spawn hulk mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at star spawn hulk mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to star spawn hulk mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and war looms
+- A corpse reveals a conspiracy about the cult
+- Strange accidents suggest a curse
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

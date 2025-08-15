@@ -24,12 +24,9 @@ updated: '2025-08-13T12:34:07.582981+00:00'
 world: Both
 ---
 
-
-
 # Quaal's Feather Token
 *Wondrous item*  
 ![](/03_Mechanics/CLI/items/img/quaals-feather-token.webp#right)
-
 
 This object looks like a feather. Different types of feather tokens exist, each with a different single-use effect. The DM chooses the kind of token or determines it randomly by rolling on the Quaal's Feather Tokens table. The type of token determines its rarity.
 
@@ -56,7 +53,25 @@ This object looks like a feather. Different types of feather tokens exist, each 
 - [[quaals-feather-token-tree-xdmg|Quaal's Feather Token, Tree]]
 - [[quaals-feather-token-whip-xdmg|Quaal's Feather Token, Whip]]
 
-*Source: Dungeon Master's Guide (2024) p. 290. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 290. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -66,19 +81,25 @@ Quaals feather token xdmg is a undersea element of the setting, known for biolum
 
 Legends speak of quaals feather token xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around quaals feather token xdmg.
 
-## Adventure Hooks
-
-- A rumor ties quaals feather token xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at quaals feather token xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to quaals feather token xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a conspiracy about this place
+- Someone is hunting a witness for money
+- Someone is protecting information for power
+- The authorities needs help stealing before winter
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

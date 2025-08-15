@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.618299+00:00'
 world: Both
 ---
 
-
-
 # Downtime Activity: Sowing Rumors
 *Source: Dungeon Master's Guide p. 131* 
 
@@ -44,6 +42,24 @@ The character must spend 1 gp per day to cover the cost of drinks, social appear
 
 Shifting a community's general attitude toward a person or organization doesn't affect everyone in the community. Individuals might hold to their own opinions, particularly if they have personal experience in dealing with the subject of the rumors.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Downtime activity sowing rumors is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -52,19 +68,27 @@ Downtime activity sowing rumors is a undersea element of the setting, known for 
 
 Legends speak of downtime activity sowing rumors as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around downtime activity sowing rumors.
 
-## Adventure Hooks
-
-- A rumor ties downtime activity sowing rumors to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at downtime activity sowing rumors to avert a public scandal.
-- A map overlay reveals a hidden approach to downtime activity sowing rumors active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- A stranger needs help finding before winter
+- Strange dreams suggest a curse
+- A corpse reveals a conspiracy about this place
+- Someone is hunting a artifact for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

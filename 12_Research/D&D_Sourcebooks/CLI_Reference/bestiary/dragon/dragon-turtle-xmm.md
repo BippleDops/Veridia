@@ -28,9 +28,26 @@ updated: '2025-08-12T23:37:35.756755'
 world: Both
 ---
 
-
 # [[dragon-turtle-xmm|Dragon Turtle]]
-*Source: Monster Manual (2024) p. 103. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 103. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Dragon Turtle
 
@@ -56,8 +73,6 @@ Many dragon turtles live in secluded lairs or ruins deep underwater, and they mi
   - !!int "25"
   - !!int "10"
   - !!int "20"
-  - !!int "10"
-  - !!int "12"
   - !!int "12"
 "speed": "20 ft., swim 50 ft."
 "saves":
@@ -79,13 +94,12 @@ Many dragon turtles live in secluded lairs or ruins deep underwater, and they mi
       \ to this Fire damage."
     "name": "Bite"
   - "desc": "Melee Attack Roll: +13, reach 15 ft. Hit: 18 (2d10 + 7) Bludgeoning\
-      \ damage. If the target is a Huge or smaller creature, it has the [[conditions#Prone|Prone]]\
+      \ damage. If the target is a Huge or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Tail"
   - "desc": "Constitution Saving Throw: DC 19, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: 56 (16d6) Fire damage. Success: Half damage. Failure or Success:\
       \ Being underwater doesn't grant [[resistance-xphb|Resistance]]\
-      \ to this Fire damage."
     "name": "Steam Breath (Recharge 5-6)"
 "source":
   - "XMM"
@@ -105,19 +119,31 @@ Dragon turtle xmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of dragon turtle xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dragon turtle xmm.
 
-## Adventure Hooks
-
-- A rumor ties dragon turtle xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dragon turtle xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to dragon turtle xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Someone is searching for a witness for revenge
+- Strange sightings suggest a curse
+- A map reveals a conspiracy about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

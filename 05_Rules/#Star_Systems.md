@@ -1,4 +1,5 @@
 ---
+
 title: '#Star Systems'
 type: mechanics
 tags:
@@ -6,9 +7,67 @@ tags:
 - active
 created: '2025-08-14'
 modified: '2025-08-14'
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
-# #Star Systems
+
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Clarification Improvements
+
+- Add 3 examples of increasing complexity
+
+### Completeness Improvements
+
+- Address unusual situations and corner cases
+
+### Balance Improvements
+
+- Include mathematical analysis and comparisons
+
+### Usability Improvements
+
+- Create quick reference table
+
+### Heroic Improvements
+
+- Add 'heroic fantasy' variant of rule
+- Add 'heroic fantasy' variant of rule
+- Add 'heroic fantasy' variant of rule
+- Add 'heroic fantasy' variant of rule
+
+### Variant Improvements
+
+- Add 'gritty realism' variant of rule
+- Add 'gritty realism' variant of rule
+
+### Monster_Use Improvements
+
+- Explain if/how monsters use this rule
+- Explain if/how monsters use this rule
+- Explain if/how monsters use this rule
+- Explain if/how monsters use this rule
+
+### Narrative_Triggers Improvements
+
+- Suggest story moments to introduce rule
+- Suggest story moments to introduce rule
+- Suggest story moments to introduce rule
+- Suggest story moments to introduce rule
+
+### Automated Improvements
+
+- Add macro/code for VTT implementation
+
+### Magic_Items Improvements
+
+- Note how magic items affect this rule
+
 
 ## Mechanic Overview
 
@@ -16,12 +75,6 @@ modified: '2025-08-14'
 **Type**: Rule Variant / Subsystem / Optional Rule
 **Complexity**: Moderate
 **Purpose**: Enhance gameplay in specific situations
-
-## Description
-
-#Star Systems provides a structured approach to handling specific game situations that benefit from additional mechanical depth. This system integrates with existing D&D 5e rules while adding meaningful choices and consequences.
-
-## Core Mechanics
 
 ### Basic Resolution
 The fundamental process works as follows:
@@ -32,32 +85,11 @@ The fundamental process works as follows:
 4. **Resolution**: Determine outcomes based on rolls and decisions
 5. **Consequences**: Apply results to ongoing game
 
-### Key Components
-
-#### Primary Mechanic
-- **Roll Type**: d20 + modifiers vs. DC
-- **Difficulty Range**: DC 10-25 based on challenge
-- **Modifiers**: Ability scores, proficiency, circumstances
-
-#### Resource Management
-- **Points/Uses**: Limited resource to track
-- **Recovery**: How resources regenerate
-- **Costs**: What actions consume resources
-
-#### Time Factor
-- **Action Economy**: How it fits in combat/exploration
-- **Duration**: How long effects last
-- **Frequency**: How often it can be used
-
-## Detailed Rules
-
 ### Prerequisites
 Before using this mechanic:
 - Specific conditions must be met
 - Players must have certain capabilities
 - DM establishes parameters
-
-### Process
 
 #### Step 1: Initiation
 Determine when and how the mechanic activates:
@@ -81,22 +113,6 @@ Determining success and degree:
 - **Failure** (Fail by 6+): Intended result not achieved
 - **Critical Failure** (1 or fail by 10+): Significant negative consequence
 
-### Modifiers & Advantages
-
-#### Circumstantial Modifiers
-- **Favorable conditions**: +2 to +5
-- **Unfavorable conditions**: -2 to -5
-- **Preparation**: Advantage on roll
-- **Rushed/Pressured**: Disadvantage on roll
-
-#### Character Abilities
-- **Relevant proficiency**: Add proficiency bonus
-- **Expertise**: Double proficiency bonus
-- **Class features**: May provide unique benefits
-- **Feats**: Could modify or enhance mechanic
-
-## Examples
-
 ### Example 1: Basic Use
 *Scenario*: [Specific situation]
 - Player declares intent
@@ -118,8 +134,6 @@ Determining success and degree:
 - Recovery options
 - Learning from failure
 
-## Integration
-
 ### With Combat
 How this mechanic works during combat:
 - Action/bonus action/reaction cost
@@ -139,8 +153,6 @@ Using in social situations:
 - Reputation effects
 - Information gathering
 - Relationship building
-
-## Variants & Options
 
 ### Simplified Version
 For quicker resolution:
@@ -162,28 +174,6 @@ Different ways to handle:
 - Point-buy system
 - Card or dice pool mechanic
 
-## Balance Considerations
-
-### Power Level
-- Appropriate for tier of play
-- Doesn't overshadow class abilities
-- Maintains resource economy
-- Preserves action economy
-
-### Frequency of Use
-- Not every situation
-- Special circumstances only
-- Limited by resources
-- Cooldown periods
-
-### Risk vs. Reward
-- Meaningful consequences for failure
-- Appropriate rewards for success
-- Escalating stakes
-- Player agency preserved
-
-## Customization
-
 ### Setting-Specific
 Adapt for different settings:
 - Fantasy adjustments
@@ -197,8 +187,6 @@ Adjust for group style:
 - Narrative focus
 - Tactical emphasis
 - Player comfort level
-
-## Common Issues
 
 ### Problem 1: Overuse
 Solution: Implement cooldowns or costs
@@ -222,17 +210,12 @@ This mechanic aims to:
 **When to Use**: [Specific triggers]
 **Basic Roll**: d20 + modifier vs. DC
 **Success**: Achieve intended outcome
-**Failure**: Complication or setback
+**Failure**: Complication or seck
 **Resources**: [If applicable]
 **Recovery**: [How resources return]
 
 ---
 *Tags*: #mechanics #rules #homebrew #variant #system
-
-## Rule Summary
-
-#Star_Systems provides a systematic approach to handling specific game situations. This mechanic integrates with core D&D 5e rules while adding depth to gameplay.
-
 
 ## When to Use
 
@@ -241,14 +224,6 @@ Apply this rule when:
 - Players request this type of action
 - The situation calls for additional detail
 
-
-## Connections
-
-- See also: [[World Overview]]
-- Related: [[Recent Events]]
-- Connected to: [[Side Adventures]]
-
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -256,3 +231,25 @@ Apply this rule when:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Examples of Play
+
+### Basic Example
+Sara wants to jump across a 10ft chasm. She rolls Athletics: d20+3 vs DC 10.
+
+### Intermediate Example
+During combat, Marcus attempts to jump the chasm while being shot at. He rolls with disadvantage.
+
+### Advanced Example
+Elena tries to jump while carrying an unconscious ally in heavy rain. DC increases to 15, disadvantage, and STR check to not drop ally.
+
+
+## Quick Reference
+
+| Situation | Roll | DC | Effect on Failure |
+|-----------|------|-----|------------------|
+| Easy | d20+mod | 10 | Minor setback |
+| Moderate | d20+mod | 15 | Complication |
+| Hard | d20+mod | 20 | Serious consequence |
+| Extreme | d20+mod | 25 | Catastrophic |

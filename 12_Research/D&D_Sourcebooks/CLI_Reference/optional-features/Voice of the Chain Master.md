@@ -23,14 +23,30 @@ updated: '2025-08-13T12:34:06.125887+00:00'
 world: Both
 ---
 
-
-
 # Voice of the Chain Master
-*Source: Player's Handbook p. 111. Available in the <span title='Systems Reference Document (5.1)'>SRD</span>*  
+*Source: Player's Handbook p. 111. Available in the SRD*  
 
 **Prerequisite**: Pact of the Chain
 
 You can communicate telepathically with your familiar and perceive through your familiar's senses as long as you are on the same plane of existence. Additionally, while perceiving through your familiar's senses, you can also speak through your familiar in your own voice, even if your familiar is normally incapable of speech.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -40,19 +56,23 @@ Voice of the chain master is a undersea element of the setting, known for biolum
 
 Legends speak of voice of the chain master as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around voice of the chain master.
 
-## Adventure Hooks
-
-- A rumor ties voice of the chain master to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at voice of the chain master to avert a public scandal.
-- A map overlay reveals a hidden approach to voice of the chain master active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Depths
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

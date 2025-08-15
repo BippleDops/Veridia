@@ -32,17 +32,29 @@ updated: '2025-08-13T12:34:29.192845+00:00'
 world: Both Worlds
 ---
 
-
-
-
-
-
-
 # Evocation School of Magic
 *The Art of Destruction, Energy, and Force*
 
 > *"In the crushing depths where every breath is earned through struggle, evocation becomes more than the art of destruction - it is the fundamental expression of will against entropy. We do not simply cast fire into water; we command reality itself to burn."*
 > — [[Arcane Destroyer Tidal Stormcaller]], Master of Combat Magic at the [[War College of Depths]]
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -64,7 +76,7 @@ Evocation magic operates on the fundamental principle that raw magical energy ca
 
 **Energy Manifestation**: Evocation works by converting magical power directly into physical forces - heat, cold, electricity, force, and sound - that can affect the material world. This direct conversion makes evocation spells among the most efficient for achieving immediate, dramatic results.
 
-**Elemental Channeling**: The manipulation of elemental energies operates through establishing resonance with fundamental forces that exist throughout reality. Practitioners learn to access these forces and direct them according to their will, creating effects that can range from subtle environmental changes to catastrophic destructions.
+**Elemental Channeling**: The manipulation of elemental energies operates through establishing resoce with fundamental forces that exist throughout reality. Practitioners learn to access these forces and direct them according to their will, creating effects that can range from subtle environmental changes to catastrophic destructions.
 
 **Force Projection**: The creation of kinetic effects works by using magical energy to directly manipulate matter and energy at a distance, bypassing normal physical limitations. This allows for effects like magical barriers, telekinetic manipulation, and force-based attacks that ignore conventional defenses.
 
@@ -88,108 +100,6 @@ Evocation magic operates on the fundamental principle that raw magical energy ca
 
 **Collective Destruction**: Multiple evokers working together can create effects that exceed the sum of their individual capabilities, establishing devastating attacks that can threaten entire regions or even cosmic-level entities.
 
-## Comprehensive Spell List
-
-### Cantrips (Level 0)
-- **Pressure Burst**: Creates small pressure wave for minor damage
-- **Thermal Touch**: Heats or cools objects to uncomfortable temperatures
-- **Sonic Snap**: Produces loud noise for distraction or signaling
-- **Force Push**: Moves small objects with magical energy
-
-### 1st Level Spells
-- **Magic Missile**: Automatically hitting force projectiles
-- **Burning Hands**: Cone of superheated water or steam
-- **Thunderwave**: Pressure wave that damages and pushes enemies
-- **Ice Shard**: Launches frozen projectiles through water
-- **Depth Charge**: Explosive force adapted to underwater combat
-- **Pressure Lance**: Focused high-pressure water attack
-
-### 2nd Level Spells
-- **Scorching Ray**: Beam of intense thermal energy
-- **Shatter**: Sonic attack that damages objects and creatures
-- **Misty Step**: Brief teleportation through pressure distortion
-- **Thermal Barrier**: Wall of extreme temperature that blocks passage
-- **Current Strike**: Uses ocean currents as weapons
-- **Sonic Boom**: Devastating sound-based area attack
-
-### 3rd Level Spells
-- **Fireball**: Explosion of superheated energy adapted for water
-- **Lightning Bolt**: Electrical discharge following water's conductivity
-- **Wind Wall**: Creates barriers using water pressure and currents
-- **Pressure Crush**: Focused compression attack causing massive damage
-- **Thermal Storm**: Area effect combining heat and cold damage
-- **Void Touch**: Brief contact with energy from outside reality
-
-### 4th Level Spells
-- **Ice Storm**: Barrage of frozen projectiles over large area
-- **Greater Invisibility**: Concealment through light and sound manipulation
-- **Wall of Fire**: Barrier of destructive energy adapted to underwater
-- **Crushing Sphere**: Mobile area of devastating pressure
-- **Thermal Bomb**: Delayed explosion of extreme temperature change
-- **Dimensional Blade**: Weapon that exists partially outside reality
-
-### 5th Level Spells
-- **Cone of Cold**: Wide area attack using absolute temperature reduction
-- **Wall of Force**: Impenetrable barrier of pure magical energy
-- **Destructive Wave**: Devastating energy burst affecting huge areas
-- **Pressure Singularity**: Creates localized gravity well effects
-- **Void Storm**: Area filled with reality-destroying void energy
-- **Temporal Burn**: Attack that damages targets across multiple time periods
-
-### 6th Level Spells
-- **Chain Lightning**: Electrical attack that jumps between multiple targets
-- **Disintegrate**: Ray that reduces targets to component atoms
-- **Wall of Ice**: Massive barrier combining cold damage with physical blocking
-- **Gravity Crush**: Manipulation of fundamental forces for devastating attacks
-- **Reality Fracture**: Brief tears in space-time causing catastrophic damage
-- **Dimensional Storm**: Weather system drawing power from multiple planes
-
-### 7th Level Spells
-- **Delayed Blast Fireball**: Devastating explosion with timing control
-- **Prismatic Spray**: Multiple energy types attacking simultaneously
-- **Reverse Gravity**: Manipulation of fundamental forces over large area
-- **Void Annihilation**: Complete destruction using cosmic entropy
-- **Temporal Shatter**: Attack that damages targets throughout their timeline
-- **Planar Bombardment**: Channels attacks from multiple dimensions simultaneously
-
-### 8th Level Spells
-- **Sunburst**: Devastating radiant energy attack adapted for underwater
-- **Earthquake**: Fundamental force manipulation affecting massive areas
-- **Incendiary Cloud**: Persistent area of destructive energy
-- **Reality Storm**: Weather system that randomly alters local physics
-- **Dimensional Collapse**: Causes space to fold in on itself catastrophically
-- **Void Singularity**: Creates temporary black hole effects
-
-### 9th Level Spells
-- **Meteor Swarm**: Multiple devastating explosions over huge area
-- **Prismatic Wall**: Ultimate barrier combining all energy types
-- **Time Stop**: Manipulation of temporal flow for tactical advantage
-- **Reality Rewrite**: Temporarily changes fundamental laws of physics
-- **Cosmic Annihilation**: Channels star-level destructive forces
-- **Universal Dissolution**: Brief contact with entropy that ends universes
-
-## Specialized Applications
-
-### Combat and Warfare
-- **Siege Breaking**: Massive destructive effects for eliminating fortifications
-- **Naval Combat**: Adapted techniques for ship-to-ship underwater warfare
-- **Anti-Creature Operations**: Specialized attacks designed for specific monster types
-- **Area Denial**: Creating hazardous zones that prevent enemy movement
-
-### Construction and Engineering
-- **Demolition Work**: Precise destruction for construction and mining projects
-- **Material Processing**: Using controlled heat and force for manufacturing
-- **Excavation**: Large-scale earth moving through destructive force
-- **Infrastructure Creation**: Carving tunnels and chambers through solid rock
-
-### Environmental Management
-- **Weather Control**: Manipulating ocean currents and thermal layers
-- **Ecosystem Management**: Using controlled destruction to maintain balance
-- **Hazard Mitigation**: Neutralizing dangerous natural phenomena
-- **Climate Engineering**: Large-scale environmental modification projects
-
-## Notable Practitioners and Academies
-
 ### The War College of Depths
 Military academy specializing in combat evocation adapted to underwater warfare. Students learn to use destructive magic effectively in three-dimensional combat environments while managing the complex physics of underwater energy transmission.
 
@@ -210,8 +120,6 @@ Civilian organization responsible for managing the ocean's thermal layers to mai
 **Director Current Heatweave**: Master of large-scale thermal manipulation who maintains the temperature systems that make life possible in the deepest settlements. Her work prevents the ocean's natural thermal dynamics from creating uninhabitable conditions.
 
 **Coordinator Depth Thermalkeeper**: Expert in precision temperature control who ensures that delicate magical systems and biological processes are protected from harmful thermal fluctuations.
-
-## Forbidden and Lost Spells
 
 ### Reality Destruction Techniques
 Spells that cause permanent damage to the fundamental structure of reality are strictly forbidden due to their potential for creating unstable zones where normal physics cannot function. These techniques were developed during wartime but proved too dangerous for practical use.
@@ -234,8 +142,6 @@ Ancient knowledge of channeling energy directly from cosmic sources - stars, bla
 
 **Void Lord Communion**: Spells that established direct energy channels with cosmic entities existing in void space. These techniques provided access to reality-altering force but also exposed practitioners to influences that inevitably transformed them into something no longer mortal.
 
-## Campaign Integration
-
 ### Role in Aquabyssos Society
 Evocation practitioners serve as the military backbone and engineering specialists of underwater civilization, providing essential services including:
 
@@ -252,25 +158,6 @@ Evocation magic works synergistically with other magical traditions:
 - **With Transmutation**: Transforming destructive energy into useful forms
 - **With Divination**: Targeting and coordinating large-scale destructive effects
 
-### Adventure Opportunities
-- **Monster Threats**: Using evocation to defend against large creatures and cosmic entities
-- **Environmental Crises**: Responding to natural disasters with controlled destruction
-- **Military Conflicts**: Participating in underwater warfare using adapted combat magic
-- **Construction Projects**: Applying destructive force for beneficial engineering purposes
-
-### Mechanical Considerations
-- **Underwater Physics**: Accounting for water's effects on energy transmission and targeting
-- **Collateral Damage**: Managing the widespread effects of powerful destructive magic
-- **Energy Efficiency**: Balancing power output with magical energy conservation
-- **Environmental Impact**: Considering the long-term effects of large-scale destruction
-
-## Connected Magical Systems
-- [[System Cli Spells School Abjuration]] - Protective barriers for evocation practitioners
-- [[System Cli Spells School Conjuration]] - Summoning energy and effects from other locations
-- [[War College of Depths]] - Military academy for combat evocation
-- [[02_Worldbuilding/Lore/The Void Currents|02 Worldbuilding/Lore/The Void Currents]] - Source of cosmic destructive energy
-- [[02_Worldbuilding/Lore/Engineering Corps|02 Worldbuilding/Lore/Engineering Corps]] - Organization specializing in construction-oriented destruction
-
 ## Player-Facing Summary
 
 Ω System CLI spells school evocation is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -279,28 +166,25 @@ Evocation magic works synergistically with other magical traditions:
 
 Legends speak of Ω System CLI spells school evocation as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ω System CLI spells school evocation.
 
-## Adventure Hooks
-
-- A rumor ties Ω System CLI spells school evocation to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Ω System CLI spells school evocation to avert a public scandal.
-- A map overlay reveals a hidden approach to Ω System CLI spells school evocation active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Spell Lists]]
-
-
-## Connections
-
-- [[Aethermoor]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

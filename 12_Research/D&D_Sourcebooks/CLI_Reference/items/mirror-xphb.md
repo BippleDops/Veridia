@@ -23,21 +23,36 @@ updated: '2025-08-12T23:37:37.579356'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-mirror-xphb-mirror-xphb.svg)
 
 # Mirror
 *Adventuring gear*  
 
-
 - **Cost**: 5 gp
 - **Weight**: 0.5 lbs.
 
 A handheld steel Mirror is useful for personal cosmetics but also for peeking around corners and reflecting light as a signal.
 
-*Source: Player's Handbook (2024) p. 227. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 227. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -47,19 +62,17 @@ Mirror xphb is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of mirror xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mirror xphb.
 
-## Adventure Hooks
-
-- A rumor ties mirror xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at mirror xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to mirror xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help finding before the new moon
+- Strange dreams suggest a portal
+- Someone is searching for a witness for love

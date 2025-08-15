@@ -20,7 +20,6 @@ updated: '2025-08-13T01:18:31.374827+00:00'
 world: Both
 ---
 
-
 # Ideals
 *Source: Dungeon Master's Guide p. 90* 
 
@@ -42,8 +41,6 @@ world: Both
 
 `dice: [](ideals.md#^evil-ideals)`
 
-| dice: d6 | Ideal |
-|----------|-------|
 | 1 | Domination |
 | 2 | Greed |
 | 3 | Might |
@@ -56,8 +53,6 @@ world: Both
 
 `dice: [](ideals.md#^lawful-ideals)`
 
-| dice: d6 | Ideal |
-|----------|-------|
 | 1 | Community |
 | 2 | Fairness |
 | 3 | Honor |
@@ -70,8 +65,6 @@ world: Both
 
 `dice: [](ideals.md#^chaotic-ideals)`
 
-| dice: d6 | Ideal |
-|----------|-------|
 | 1 | Change |
 | 2 | Creativity |
 | 3 | Freedom |
@@ -84,8 +77,6 @@ world: Both
 
 `dice: [](ideals.md#^neutral-ideals)`
 
-| dice: d6 | Ideal |
-|----------|-------|
 | 1 | Balance |
 | 2 | Knowledge |
 | 3 | Live and let live |
@@ -98,8 +89,6 @@ world: Both
 
 `dice: [](ideals.md#^other-ideals)`
 
-| dice: d6 | Ideal |
-|----------|-------|
 | 1 | Aspiration |
 | 2 | Discovery |
 | 3 | Glory |
@@ -107,6 +96,24 @@ world: Both
 | 5 | Redemption |
 | 6 | Self-knowledge |
 ^other-ideals
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -116,18 +123,9 @@ Ideals is a undersea element of the setting, known for bioluminescent glow and p
 
 Legends speak of ideals as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ideals.
 
-## Adventure Hooks
-
-- A rumor ties ideals to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ideals to avert a public scandal.
-- A map overlay reveals a hidden approach to ideals active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

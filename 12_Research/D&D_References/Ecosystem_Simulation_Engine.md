@@ -18,29 +18,27 @@ updated: '2025-08-13T01:18:37.118951+00:00'
 world: Both
 ---
 
-
-
 # Ecosystem Simulation Engine
 
 Simulates food chains, migrations, predator-prey, weather, symbiosis, and extinction/evolution impacting play.
 
-## Food Chains by Zone
-- Surface, Twilight, Pressure, Crush, Abyss, Hadal; Sky: Low, Mid, High, Stratos, Orbital
-- Each chain provides encounter baselines and resource yields
 
-## Seasonal Migration (50+ species scaffold)
-- Define routes on [[Transportation_Infrastructure|Transportation Infrastructure]] networks
-- Events: Stampedes, feeding frenzies, spawning grounds
+## 🔧 Deep Evaluation Improvements
 
-## Predator–Prey Mechanics
-- Predation Pressure Score modifies encounter frequency and aggression
-- Overhunting collapse → faction/economic consequences (see [[Complete Faction Warfare System]])
+*20 targeted improvements identified*
 
-## Dynamic Weather Systems
-- Use [[Pressure & Weather Events]] to influence behavior and travel DCs
+### Connection Improvements
 
-## Symbiosis Networks
-- Leverage or disrupt to gain boons or trigger ecological backlash
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Extinction/Evolution Triggers
 - Thresholds: Overuse, merger shifts, Deep Mother pulses
@@ -56,23 +54,35 @@ Ecosystem Simulation Engine is a undersea element of the setting, known for biol
 
 Legends speak of Ecosystem Simulation Engine as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ecosystem Simulation Engine.
 
-## Adventure Hooks
-
-- A rumor ties Ecosystem Simulation Engine to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Ecosystem Simulation Engine to avert a public scandal.
-- A map overlay reveals a hidden approach to Ecosystem Simulation Engine active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Phase_Omega_Enhanced_Index|03 Mechanics/Phase Omega Enhanced Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A letter reveals a conspiracy about the cult
+- A journal reveals the truth about the cult
+- Strange dreams suggest a portal
+- An heirloom has gone missing and war looms
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

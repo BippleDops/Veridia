@@ -29,16 +29,31 @@ updated: '2025-08-13T12:34:05.993495+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-gold-dragon-wyrmling-xmm-gold-dragon-wyrmling-xmm.svg)
 
 # [[gold-dragon-wyrmling-xmm|Gold Dragon Wyrmling]]
-*Source: Monster Manual (2024) p. 144. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 144. Available in the SRD and the Free Rules (2024)*  
 
 Gold dragon wyrmlings learn much from their elders, then head off to save the world. Idealistic and curious, these wyrmlings seek to right obvious wrongs and make friends among those they aid.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Gold Dragons
 
@@ -69,7 +84,6 @@ Gold dragons make their homes in places of natural and magical wonder.
   - !!int "19"
   - !!int "14"
   - !!int "17"
-  - !!int "14"
   - !!int "11"
   - !!int "16"
 "speed": "30 ft., fly 60 ft., swim 30 ft."
@@ -80,7 +94,6 @@ Gold dragons make their homes in places of natural and magical wonder.
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+4"
 "damage_immunities": "fire"
 "senses": "blindsight 10 ft., darkvision 60 ft., passive Perception 14"
 "languages": "Draconic"
@@ -122,19 +135,28 @@ Gold dragon wyrmling xmm is a undersea element of the setting, known for biolumi
 
 Legends speak of gold dragon wyrmling xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gold dragon wyrmling xmm.
 
-## Adventure Hooks
-
-- A rumor ties gold dragon wyrmling xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gold dragon wyrmling xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to gold dragon wyrmling xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

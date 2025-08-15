@@ -16,31 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Crystal Festival Grounds]]
-- [[Crystal Garden]]
-- [[Customs House]]
-- [[Memory Alteration Consequences]]
-- [[Merged Reality Zones]]
-- [[The Convergence Point]]
-- [[The Crimson Hand]]
-- [[The Forgetting Bomb]]
-- [[The Great Crystallization]]
-- [[The Queen]]
-- [[The Transformed Citizens]]
-- [[Throne Room]]
-- [[Timeline of the Drowning]]
-- [[Aboleth Prime Yoth]]
-- [[Aquabyssos - Session 04 - High Tide Horror]]
 
 ## Player-Facing Summary
 
@@ -50,19 +41,21 @@ The Real Marina is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of The Real Marina as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Real Marina.
 
-## Adventure Hooks
-
-- A rumor ties The Real Marina to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Real Marina to avert a public scandal.
-- A map overlay reveals a hidden approach to The Real Marina active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and evil awakens
+- A document has gone missing and chaos spreads
+- Someone is protecting an heir for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

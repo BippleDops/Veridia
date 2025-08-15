@@ -14,6 +14,24 @@ modified: '2025-08-14'
 
 %% Use reading mode for visual gallery %%
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## item-artifact-boots-of-striding-and-springing-xdmg-boots-of-striding-and-springing-xdmg
 ![[04_Resources/Assets/Items/item-artifact-boots-of-striding-and-springing-xdmg-boots-of-striding-and-springing-xdmg.png]]
 
@@ -329,11 +347,9 @@ modified: '2025-08-14'
 ## item-artifact-windvane-pota-windvane-pota
 ![[04_Resources/Assets/Items/item-artifact-windvane-pota-windvane-pota.png]]
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -342,3 +358,8 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

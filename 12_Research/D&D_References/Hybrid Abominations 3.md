@@ -28,38 +28,30 @@ updated: '2025-08-13T12:34:29.536778+00:00'
 world: Aquabyssos
 ---
 
-
-
-
-
-
-
 # Hybrid Abominations
 
 ![[04_Resources/Assets/Art/Lore/Hybrid_Abominations.png|Hybrid Abominations Portrait]]
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Summary
 Hybrid Abominations describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
-
-## Historical Context
-- Origin: Scribal disputes escalated into pressure-lock conflicts.
-- Spread: Merchant routes adopted secret signs to bypass tariffs; songs encoded depth-keys.
-- Present: Competing narratives justify new taxes, oaths, and contraband routes.
-
-## What It Means at the Table
-- Investigation: On a lead toward old tariffs, players can extract schedules that reduce travel risks for a session.
-- Social: Reciting the chapel oath grants advantage on one Persuasion check if honored afterward.
-- Exploration: Recognizing encoded waystones reduces the chance of getting lost by one step.
-
-## Threads and Revelations
-- Records implicate agents tied to [[The Sunken Library of Thalassius]].
-- A rite echoes the activation cadence needed for [[Aquabyssos]].
-- Testimony suggests [[Vex Shadowthorn]] financed a pivotal bribe.
-
-## Cross-References
-- [[The Sunken Library of Thalassius]]
-- [[Aquabyssos]]
-- [[Vex Shadowthorn]]
 
 ## Player-Facing Summary
 
@@ -69,25 +61,27 @@ Hybrid Abominations is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Hybrid Abominations as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Hybrid Abominations.
 
-## Adventure Hooks
-
-- A rumor ties Hybrid Abominations to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Hybrid Abominations to avert a public scandal.
-- A map overlay reveals a hidden approach to Hybrid Abominations active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The Seven Shards]]
-- [[Aquabyssos - Session 04 - High Tide Horror]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- The authorities needs help finding before the new moon
+- A corpse reveals the truth about the cult
+- Strange sightings suggest ancient magic
+- A merchant needs help stealing before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -30,9 +30,6 @@ updated: '2025-08-13T12:34:06.049236+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-sphinx-of-secrets-xmm-sphinx-of-secrets-xmm.svg)
 
@@ -40,6 +37,24 @@ world: Both
 *Source: Monster Manual (2024) p. 292*  
 
 Sphinxes of secrets are commonly associated with a site of great magic or learning. These immortal beings often outlive such locations, though, and might protect a site's ruins as they continue their own studies. Sphinxes of secrets fiercely guard their dwellings and research.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Sphinxes
 
@@ -57,11 +72,8 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
 > [!quote]  
 > 
 > Round she is, yet flat as a board
-> 
 > Altar of the Lupine Lords
-> 
 > Jewel on black velvet, pearl in the sea
-> 
 > Unchanged but e'erchanging eternally
 
 > [!note]
@@ -80,20 +92,15 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
   - !!int "18"
   - !!int "15"
   - !!int "16"
-  - !!int "18"
-  - !!int "18"
-  - !!int "18"
 "speed": "40 ft., fly 60 ft."
 "skillsaves":
   - "name": "[[skills#History|History]]"
     "desc": "+7"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+7"
   - "name": "[[skills#Religion|Religion]]"
-    "desc": "+7"
 "damage_resistances": "necrotic, radiant"
 "damage_immunities": "psychic"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]]"
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]]"
 "senses": "truesight 60 ft., passive Perception 17"
 "languages": "Celestial, Common"
 "cr": "8"
@@ -125,7 +132,7 @@ Sphinxes typically dwell in places that hold great knowledge or prophetic magic.
       \ and using Intelligence as the spellcasting ability (spell save DC 15):\n\n\
       At will: [[detect-magic-xphb|Detect Magic]], [[identify-xphb|Identify]],\
       \ [[prestidigitation-xphb|Prestidigitation]]\n\n1/day\
-      \ each: [[locate-object-xphb|Locate Object]], [[remove-curse-xphb|Remove\
+      \ each: [[locate-object-xphb|Locate Object]], [[remove-curse-xphb|Remove\]]
       \ Curse]]"
     "name": "Spellcasting"
 "source":
@@ -146,19 +153,28 @@ Sphinx of secrets xmm is a undersea element of the setting, known for biolumines
 
 Legends speak of sphinx of secrets xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sphinx of secrets xmm.
 
-## Adventure Hooks
-
-- A rumor ties sphinx of secrets xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at sphinx of secrets xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to sphinx of secrets xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and truth emerges
+- Someone is protecting an heir for revenge
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

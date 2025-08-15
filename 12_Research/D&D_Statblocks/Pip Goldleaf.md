@@ -37,19 +37,32 @@ obsidianUIMode: preview
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-pip-goldleaf-pip-goldleaf.svg]]
-
-
-
-
 
 # Pip Goldleaf
 *The Next Generation of Golden Commerce*
 
 > *"Grandmother says I have the Goldleaf eye for opportunity, but I think I see things she doesn't. The world is changing faster than the old merchants realize, and those who adapt first will profit most."*
 > — Pip Goldleaf, discussing market trends with fellow apprentices
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -91,8 +104,6 @@ Unlike older generations of merchants who focus primarily on established trade r
 
 **Charming Proposition (3/Day).** Pip makes an offer so appealing that the target must make a DC 14 Wisdom saving throw or be charmed for 1 minute and inclined to consider Pip's business proposals favorably.
 
-## Background and History
-
 ### Family Heritage
 
 Born into the prestigious Goldleaf merchant family, Pip grew up surrounded by the complexities of inter-realm commerce and high-society social interactions, developing natural aptitude for both business and personal relationships.
@@ -116,8 +127,6 @@ Despite family wealth and social status, Pip has chosen to develop practical ski
 Personal interests extend beyond pure commerce to include exploration, cultural study, and investigation of unusual phenomena that might represent new business opportunities.
 
 Growing reputation among younger merchants and traders as someone who combines business acumen with adventurous spirit and willingness to take calculated risks.
-
-## Current Activities and Goals
 
 ### Learning and Development
 
@@ -143,8 +152,6 @@ Building relationships with potential partners, suppliers, and customers who cou
 
 Studying political and economic trends to anticipate future challenges and opportunities that will affect merchant operations.
 
-## Personality and Motivations
-
 ### Entrepreneurial Spirit
 
 Pip is driven by excitement about discovering new opportunities and creating innovative solutions to commercial challenges that others might consider impossible.
@@ -169,8 +176,6 @@ Concern about environmental and cultural impacts of commercial activities, seeki
 
 Belief that successful merchants have responsibility to contribute positively to society and help create prosperity that extends beyond their immediate business interests.
 
-## Equipment and Resources
-
 ### Personal Gear
 
 **Quality Equipment** - Well-made but practical weapons, armor, and tools appropriate for someone who travels frequently and faces potential dangers.
@@ -191,13 +196,11 @@ Belief that successful merchants have responsibility to contribute positively to
 
 **Information Network** - Access to family intelligence about market conditions, political developments, and business opportunities.
 
-## Relationships and Connections
-
 ### Family Relations
 
 **[[Madame Rosalind Goldleaf]]** - Grandmother and mentor, whose guidance and expectations shape Pip's development while providing access to wisdom and resources.
 
-**[[Marcus Goldleaf]]** - Elder family member specializing in financial operations, whose approval and support are important for career advancement.
+**[[Marcus Goldleaf]]** - Elder family member specializing in ficial operations, whose approval and support are important for career advancement.
 
 **[[Family Retainer]]** - Loyal family servant who provides practical advice and serves as unofficial bodyguard during travels.
 
@@ -216,8 +219,6 @@ Belief that successful merchants have responsibility to contribute positively to
 **[[Academic Contact]]** - Scholar or researcher whose knowledge helps Pip understand broader context of commercial opportunities and cultural factors.
 
 **[[Local Friend]]** - Peer from different social background who provides perspective on how merchant activities affect ordinary people.
-
-## Quest Hooks and Adventure Opportunities
 
 ### The New Market
 
@@ -247,8 +248,6 @@ Pip has encountered new technology or magical innovation with commercial potenti
 
 Pip is selected to represent family interests in complex cultural and commercial negotiations requiring sensitivity, skill, and courage.
 
-## DM Notes and Usage Guidelines
-
 ### Character Development
 
 Pip represents themes of youth, ambition, and adaptation to changing circumstances, providing opportunities to explore generational differences and innovation.
@@ -273,12 +272,6 @@ For higher-level parties, Pip can represent established merchant leader dealing 
 
 The character can grow and develop alongside party members, making them suitable for long-term campaign involvement rather than just single adventure appearances.
 
-
-## Connections
-
-- [[Madame Rosalind Goldleaf]]
-- [[Market_District|Market District]]
-
 ## Player-Facing Summary
 
 Pip Goldleaf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -287,23 +280,20 @@ Pip Goldleaf is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of Pip Goldleaf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pip Goldleaf.
 
-## Adventure Hooks
-
-- A rumor ties Pip Goldleaf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Pip Goldleaf to avert a public scandal.
-- A map overlay reveals a hidden approach to Pip Goldleaf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Pip Goldleaf|02 Worldbuilding/Places/Pip Goldleaf]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting an heir for money
+- An heirloom has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

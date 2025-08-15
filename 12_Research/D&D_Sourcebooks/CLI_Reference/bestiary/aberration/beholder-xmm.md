@@ -27,13 +27,29 @@ updated: '2025-08-12T23:37:35.342763'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-beholder-xmm-beholder-xmm.svg)
 
 # [[beholder-xmm|Beholder]]
 *Source: Monster Manual (2024) p. 36*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Beholder
 
@@ -71,7 +87,6 @@ Beholders lurk in cavern complexes they've carved using their eye rays deep in t
   - !!int "18"
   - !!int "17"
   - !!int "15"
-  - !!int "17"
 "speed": "5 ft., fly 40 ft. (hover)"
 "saves":
   - "constitution": !!int "9"
@@ -79,7 +94,7 @@ Beholders lurk in cavern complexes they've carved using their eye rays deep in t
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+12"
-"condition_immunities": "[[conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#prone|prone]]"
 "senses": "darkvision 120 ft., passive Perception 22"
 "languages": "Deep Speech, Undercommon"
 "cr": "13"
@@ -101,7 +116,7 @@ Beholders lurk in cavern complexes they've carved using their eye rays deep in t
       \ condition and repeats the save at the end of each of its turns, ending the\
       \ effect on itself on a success. After 1 minute, it succeeds automatically.\
       \  \n- 3 Fear Ray. Wisdom Saving Throw: DC 16. Failure: 14 (4d6) Psychic\
-      \ damage, and the target has the [[conditions#Frightened|Frightened]]\
+      \ damage, and the target has the [[conditions#frightened|Frightened]]\
       \ condition until the end of its next turn. Success: Half damage only.  \n\
       - 4 Slowing Ray. Constitution Saving Throw: DC 16. Failure: 18 (4d8)\
       \ Necrotic damage. Until the end of the target's next turn, the target's [[speed-xphb|Speed]]\
@@ -141,7 +156,7 @@ Beholders lurk in cavern complexes they've carved using their eye rays deep in t
     "name": "Eye Rays"
 "bonus_actions":
   - "desc": "The beholder's central eye emits an antimagic wave in a 150-foot [[cone-area-of-effect-xphb|Cone]].\
-      \ Until the start of the beholder's next turn, that area acts as an [[antimagic-field-xphb|Antimagic\
+      \ Until the start of the beholder's next turn, that area acts as an [[antimagic-field-xphb|Antimagic\]]
       \ Field]] spell, and that area\
       \ works against the beholder's own Eye Rays."
     "name": "Antimagic Cone"
@@ -161,11 +176,8 @@ Beholders lurk in cavern complexes they've carved using their eye rays deep in t
       \ benefit from that rest.  \n- Warping Terrain. Minor warps in reality occur\
       \ near the lair; any creature (excluding the beholder) within 1 mile of the\
       \ lair that makes a [[d20-test-xphb|D20 Test]]\
-      \ and rolls a 1 has the [[conditions#Prone|Prone]] condition.\
-      \  "
-    "name": ""
+      \ and rolls a 1 has the [[conditions#prone|Prone]] condition.\
   - "desc": "If the beholder dies or moves its lair elsewhere, these effects end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/aberration/token/beholder-xmm.webp"
@@ -184,19 +196,31 @@ Beholder xmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of beholder xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around beholder xmm.
 
-## Adventure Hooks
-
-- A rumor ties beholder xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at beholder xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to beholder xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- Someone is hunting information for money
+- A letter reveals ancient history about the government
+- A noble needs help investigating before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

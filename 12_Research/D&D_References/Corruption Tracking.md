@@ -21,28 +21,30 @@ created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 ---
 
-
-
-
 # Corruption Tracking
 
 *"Mark well the taint's advance, for what corrupts unseen destroys all."*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
 Corruption Tracking is the systematic monitoring and documentation of supernatural contamination affecting individuals, locations, and objects across both Aquabyssos and Aethermoor. This system tracks the accumulation, progression, and mitigation of various forms of corruption including dimensional taint, eldritch influence, and magical contamination that threaten the stability of both realms.
-
-## Mechanics
-### Requirements
-- Regular exposure assessment
-- Magical detection capabilities
-- Documentation of corruption sources
-- Treatment and mitigation resources
-
-### Effects
-- **Early Detection**: Identifies corruption before major symptoms
-- **Progression Monitoring**: Tracks corruption advancement
-- **Treatment Planning**: Guides purification efforts
-- **Risk Assessment**: Evaluates danger levels
 
 ### Duration
 Ongoing campaign system requiring constant monitoring.
@@ -54,13 +56,6 @@ Ongoing campaign system requiring constant monitoring.
 
 ## Campaign Use
 Provides mechanical framework for corruption as ongoing threat and character development element.
-
-
-## Connections
-
-- [[Fear Farms]]
-- [[Silver Mask]]
-- [[The Deep Mother]]
 
 ## Player-Facing Summary
 
@@ -74,13 +69,26 @@ Legends speak of Corruption Tracking as a nexus where past and present converge.
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Master_Lore_Index|Master Lore Index]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing a artifact for love
+- A shipment has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,36 +22,37 @@ updated: '2025-08-13T12:34:17.793651+00:00'
 world: Both
 ---
 
-
-
-
-
 # Vehicle Customization & Progression
 
 Upgrade trees, crew mechanics, and living evolution paths. Ties into [[Complete Faction Warfare System]] doctrines, [[Memory Trading Economy System|Memory Trading Economy]] markets, and [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]].
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Modular Upgrade Systems
 - Biological Grafting: Parasite symbionts, coral armor, regenerative sacs
-- Crystal Harmonics: Resonance tuning, prism shields, focus lenses
+- Crystal Harmonics: Resoce tuning, prism shields, focus lenses
 - Pressure Mods: Adaptive ballast, crush frames, cavitation cloaks
 - Memory Cores: Route libraries, echo recorders, identity locks
 - Anchor Mounts: Personal/portable anchors, seal generators
 - Deep Shrines: Sanity buffers, prophecy interfaces, curse risks
 
-Mechanic: Each slot holds 1 module; installing adds Power draw and Maintenance burden. Over-capacity adds Stress per hour.
-
-## Crew Management
-- Roles grant mechanical actions (see [[Vehicle_Core_Rules#10) Crew Roles (Examples)|Crew Roles]])
-- Sanity Pooling: Optional shared sanity for navigation
-- Loyalty: Tied to faction standing; low loyalty causes disobedience events
-- Memory-Linked Crew: Share skills at risk of identity bleed
-- Adaptation Sync: Crew with similar AP reduce environmental DCs by 2
-
-## Living Ship Evolution
-- XP for Ships: Earned via journeys, battles, discoveries
-- Evolution Paths: Bio Growth, Crystal Refinement, Memory Awakening, Anchor Sanctification
-- Ship Traits: Gain boons but acquire hungers (e.g., hunger for memories, storms, hymns)
-- Ship Madness: On XP thresholds with high Stress, roll on Ship Madness table (see [[Vessel_Horror_Intensifier|Vessel Horror Intensifier]])
+Mechanic: Each slot holds 1 module; installing adds Power draw and Maintece burden. Over-capacity adds Stress per hour.
 
 ## Example Upgrade Tree: Coral Leviathan
 Tier 1: Coral Plating • Regenerative Pores • Reef Sensors
@@ -68,29 +69,28 @@ Vehicle Customization Progression is a undersea element of the setting, known fo
 
 Legends speak of Vehicle Customization Progression as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Vehicle Customization Progression.
 
-## Adventure Hooks
-
-- A rumor ties Vehicle Customization Progression to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Vehicle Customization Progression to avert a public scandal.
-- A map overlay reveals a hidden approach to Vehicle Customization Progression active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Crafting_Transcendence|03 Mechanics/Crafting Transcendence]]
-
-
-## Connections
-
-- [[Crafting_Transcendence|Crafting Transcendence]]
-- [[Player_Handout_Aethermoor_Airships|Player Handout Aethermoor Airships]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

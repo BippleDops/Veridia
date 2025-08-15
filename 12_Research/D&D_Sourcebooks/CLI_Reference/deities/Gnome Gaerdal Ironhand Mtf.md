@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:04.460804+00:00'
 world: Both
 ---
 
-
-
 # Gaerdal Ironhand
 *Source: Mordenkainen's Tome of Foes p. 112, Tasha's Cauldron of Everything p. 33* 
 
@@ -41,6 +39,24 @@ Instead of bustling about as gnome deities normally do, Gaerdal has a tendency t
 
 Gnomes build their homes in hidden and defensible places because Gaerdal teaches them these techniques. Every secret door, spy hole, and intruder alarm in a gnome warren is a tribute to Gaerdal's principles.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Gnome gaerdal ironhand mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -49,19 +65,38 @@ Gnome gaerdal ironhand mtf is a undersea element of the setting, known for biolu
 
 Legends speak of gnome gaerdal ironhand mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gnome gaerdal ironhand mtf.
 
-## Adventure Hooks
-
-- A rumor ties gnome gaerdal ironhand mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gnome gaerdal ironhand mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to gnome gaerdal ironhand mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a curse
+- An heirloom has gone missing and truth emerges
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

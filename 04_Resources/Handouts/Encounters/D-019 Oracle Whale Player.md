@@ -42,15 +42,9 @@ Possible outcomes
 - The meaning slips away
 - The truth is heavier than you hoped
 
-## Cross-References
-
-- [[06_GM_Resources/Session_Packets/Aquabyssos Session 01]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

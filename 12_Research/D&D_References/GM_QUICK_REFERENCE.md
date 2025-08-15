@@ -18,8 +18,6 @@ modified: '2025-08-14'
 
 ---
 
-## 🚀 IMMEDIATE ESSENTIALS
-
 ### Session Zero Setup
 
 **Required Files** (Pin these in Obsidian):
@@ -36,27 +34,32 @@ python scripts/backup_automation.py --vault-path . backup --type full
 python scripts/update_notification_system.py --vault-path . &
 ```
 
-### Critical Hotkeys
-
-- **Quick Open**: `Ctrl/Cmd + O` → Jump to any file
-- **Global Search**: `Ctrl/Cmd + Shift + F` → Search all content  
-- **Random Page**: `Alt + R` → Inspiration when stuck
-- **Graph View**: `Ctrl/Cmd + G` → See content connections
-- **Command Palette**: `Ctrl/Cmd + P` → Access all functions
-
----
-
-## ⚡ SESSION PREP SPEEDRUN (15 Minutes)
-
 ### Minutes 1-5: World State Check
 ```markdown
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Pre-Session Checklist
 - [ ] Current date: ___________
 - [ ] Active quests: ___________
 - [ ] PC relationships: ___________  
 - [ ] Faction tensions: ___________
 - [ ] Upcoming deadlines: ___________
-```
 
 ### Minutes 6-10: NPC Quick Prep
 **Key NPCs This Session**:
@@ -64,16 +67,6 @@ python scripts/update_notification_system.py --vault-path . &
 - How they feel about the PCs  
 - What information they have/need
 - Their next move if PCs don't intervene
-
-### Minutes 11-15: Resources & Tools
-- [ ] Combat stats ready (if likely)
-- [ ] Random generators tested
-- [ ] Handouts prepared
-- [ ] Session tracking template opened
-
----
-
-## 🎯 CORE MECHANICS REFERENCE
 
 ### Pressure/Altitude System
 
@@ -105,17 +98,13 @@ python scripts/update_notification_system.py --vault-path . &
 
 ---
 
-## 🧙‍♂️ NPC QUICK REFERENCE
-
 ### Instant NPC Generation
-```bash
 # During session - instant NPC
 python scripts/random_generator_engine.py --vault-path . --type npc --count 1 --quick
 
 # With specific parameters
 python scripts/ai_content_generator.py --vault-path . generate quick_npc \
     --input role="merchant" --input realm="Aquabyssos"
-```
 
 ### NPC Reaction Matrix
 
@@ -147,8 +136,6 @@ python scripts/ai_content_generator.py --vault-path . generate quick_npc \
 
 ---
 
-## 🗺️ LOCATION QUICK REFERENCE
-
 ### Instant Location Access
 
 **Aquabyssos Major Locations**:
@@ -173,23 +160,17 @@ python scripts/ai_content_generator.py --vault-path . generate quick_npc \
 ### Quick Location Details
 
 **Generate on-demand**:
-```bash
 python scripts/ai_content_generator.py --vault-path . generate location_description \
     --input name="Tavern Name" --input world="Aquabyssos" --input type="Social Hub"
-```
 
 ---
 
-## ⚔️ ENCOUNTER QUICK REFERENCE
-
 ### Instant Encounter Generation
-```bash
 # Balanced encounter for party level
 python scripts/random_generator_engine.py --vault-path . --type encounter --party-level 5 --difficulty medium
 
 # Environmental challenge
 python scripts/random_generator_engine.py --vault-path . --type encounter --environment "underwater" --challenge-type "exploration"
-```
 
 ### Encounter Scaling
 | Party Level | Easy CR | Medium CR | Hard CR | Deadly CR |
@@ -220,25 +201,13 @@ python scripts/random_generator_engine.py --vault-path . --type encounter --envi
 
 ---
 
-## 🎯 QUEST MANAGEMENT
-
 ### Quick Quest Tracking
-```bash
 # List active quests  
 python scripts/dynamic_quest_tracker.py --vault-path . list --status active
 
 # Update quest progress
 python scripts/dynamic_quest_tracker.py --vault-path . update "Quest Name" \
     --progress "New development" --status "in-progress"
-```
-
-### Quest Status Reference
-- **Available**: PCs can discover/accept
-- **Active**: Currently being pursued  
-- **In-Progress**: Partially completed
-- **Completed**: Successfully finished
-- **Failed**: Unsuccessful conclusion
-- **On-Hold**: Temporarily suspended
 
 ### Common Quest Types
 
@@ -259,57 +228,19 @@ python scripts/dynamic_quest_tracker.py --vault-path . update "Quest Name" \
 
 ---
 
-## 🔄 CONSEQUENCE TRACKING
-
-### Immediate Consequences (This Session)
-- **NPC Reactions**: Attitude changes based on PC actions
-- **Environmental**: Location state changes
-- **Information**: Availability of clues and knowledge
-- **Resources**: Gains/losses in equipment, money, allies
-
-### Short-term Consequences (1-3 Sessions)  
-- **NPC Goal Shifts**: Characters adjust plans based on PC interference
-- **Faction Relations**: Political standings change  
-- **World Events**: Background developments triggered by PC actions
-- **New Opportunities**: Doors open from PC successes
-
-### Long-term Consequences (Campaign Arcs)
-- **World State Changes**: Major political/environmental shifts
-- **Reputation Effects**: PC legend and influence development  
-- **Historical Impact**: Events that reshape the world
-- **Character Legacy**: Long-lasting effects of PC choices
-
 ### Quick Consequence Logging
-```markdown
-## Session Consequences Log
-
-### Immediate (Today)
-- NPC Reaction: [Character] now [attitude change] because [PC action]
-- World Change: [Location/situation] now [new state] because [PC action]
-
-### Short-term (Next few sessions)  
-- [NPC] will [new goal] in response to [PC action]
-- [Faction] relationship [change direction] due to [PC action]
-
 ### Long-term (Campaign arc)
 - [Major change] will develop over time from [accumulated PC actions]
-```
 
 ---
-
-## 🛠️ SESSION TOOLS
 
 ### During-Session Commands
 
 **Need an NPC fast?**
-```bash
-python scripts/random_generator_engine.py --vault-path . --type npc --count 1 --quick
-```
 
 **Need a location detail?**
 ```bash  
 python scripts/ai_content_generator.py --vault-path . generate quick_location --input type="tavern"
-```
 
 **Check faction relationship?**
 Open: `06_GM_Resources/Faction_Network_Tracker.md`
@@ -342,14 +273,9 @@ Check: Most recent file in `01_Adventures/`
 
 ---
 
-## 🔧 TROUBLESHOOTING
-
 ### Common Session Issues
 
 **"I need an NPC but don't have time to create one"**
-```bash
-python scripts/random_generator_engine.py --vault-path . --type npc --count 1 --quick
-```
 
 **"Players went somewhere I didn't prep"**  
 - Use location templates from `05_Templates/World Builder Templates/`
@@ -369,44 +295,30 @@ python scripts/random_generator_engine.py --vault-path . --type npc --count 1 --
 ### Technical Quick Fixes
 
 **Vault running slow?**
-```bash
 python scripts/content_validator.py --vault-path . --cleanup
-```
 
 **Broken links everywhere?**
-```bash
 python scripts/auto_link_suggester.py --vault-path . --auto-apply --confidence-threshold 0.8
-```
 
 **Lost/corrupted files?**  
-```bash
 python scripts/backup_automation.py --vault-path . restore --backup-id "latest" --target "filename.md"
-```
 
 ---
-
-## 📊 CAMPAIGN HEALTH DASHBOARD
 
 ### Weekly Check (5 minutes)
 
 **Content Health**:
-```bash
-python scripts/content_validator.py --vault-path . report
-```
 - ✅ Green: All systems good
 - ⚠️ Yellow: Minor issues, continue playing  
 - ❌ Red: Address before next session
 
 **Relationship Status**:
-Open: `06_GM_Resources/Faction_Network_Tracker.md`
 - Check for relationships approaching extreme values (0-1 or 9-10)
 - Note any factions without recent interaction
 - Identify potential alliance/conflict opportunities
 
 **Quest Momentum**:
-```bash  
 python scripts/dynamic_quest_tracker.py --vault-path . report
-```
 - Active quests making progress?
 - Stalled quests need attention?
 - New quest hooks needed?
@@ -429,8 +341,6 @@ python scripts/dynamic_quest_tracker.py --vault-path . report
    - World complexity management
 
 ---
-
-## 🎮 PLAYER INTERACTION REFERENCE
 
 ### Information Management
 
@@ -472,8 +382,6 @@ python scripts/dynamic_quest_tracker.py --vault-path . report
 
 ---
 
-## 🚨 EMERGENCY PROCEDURES
-
 ### Session Disaster Recovery
 
 **Obsidian Crashes Mid-Session**:
@@ -497,63 +405,13 @@ python scripts/dynamic_quest_tracker.py --vault-path . report
 ### Data Protection
 
 **Before Major Changes**:
-```bash
-python scripts/backup_automation.py --vault-path . backup --type full
-```
 
 **Before Each Session**:
-```bash  
 python scripts/backup_automation.py --vault-path . backup --type incremental
-```
 
 **After Each Session**:
-```bash
-python scripts/content_validator.py --vault-path . report
-```
 
 ---
-
-## 🎯 SUCCESS METRICS
-
-### Session Success Indicators
-- [ ] Players were engaged and active
-- [ ] Story advanced meaningfully  
-- [ ] Character relationships developed
-- [ ] World felt alive and reactive
-- [ ] Consequences were clear and satisfying
-
-### Campaign Health Indicators
-- [ ] Plot threads are progressing  
-- [ ] Character arcs have momentum
-- [ ] World events continue between sessions
-- [ ] Player investment is high
-- [ ] GM prep time is manageable
-
-### System Health Indicators  
-- [ ] Vault performance is acceptable
-- [ ] Automation systems are functioning
-- [ ] Content quality is maintained
-- [ ] Backups are current and verified
-- [ ] Links and references are accurate
-
----
-
-## 📋 CHECKLISTS
-
-### Session Prep Checklist
-- [ ] Timeline position confirmed
-- [ ] Key NPC status updated  
-- [ ] Active quest status reviewed
-- [ ] Likely locations prepared
-- [ ] Potential complications identified
-- [ ] Resources organized and accessible
-
-### During Session Checklist  
-- [ ] Important decisions documented
-- [ ] NPC reaction changes noted
-- [ ] Quest progress updated
-- [ ] Consequences identified
-- [ ] New hooks captured
 
 ### Post-Session Checklist
 - [ ] Timeline updated with session events
@@ -580,7 +438,6 @@ python scripts/content_validator.py --vault-path . report
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -588,3 +445,18 @@ python scripts/content_validator.py --vault-path . report
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

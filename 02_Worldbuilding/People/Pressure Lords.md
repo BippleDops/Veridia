@@ -1,4 +1,5 @@
 ---
+
 title: Pressure Lords
 type: Npc
 tags:
@@ -18,6 +19,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.503471+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +29,72 @@ world: Aquabyssos
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-pressure-lords-pressure-lords.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward avoidance
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward confrontation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
 
 ## Player-Facing Summary
 
@@ -67,14 +103,6 @@ Pressure Lords is a undersea element of the setting, known for bioluminescent gl
 ## Lore Details
 
 Legends speak of Pressure Lords as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Pressure Lords.
-
-## Adventure Hooks
-
-- A rumor ties Pressure Lords to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Pressure Lords to avert a public scandal.
-- A map overlay reveals a hidden approach to Pressure Lords active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +113,6 @@ Pressure Lords's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Accumulating wealth
@@ -124,8 +122,6 @@ Pressure Lords's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Pressure Lords harbors secrets that could change everything:
@@ -133,10 +129,6 @@ Pressure Lords harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Divine mission
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +147,6 @@ Pressure Lords is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Pressure Lords needs assistance with a delicate matter
@@ -164,8 +154,6 @@ Pressure Lords is currently engaged in:
 3. **The Secret**: Information about Pressure Lords's past surfaces
 4. **The Alliance**: Opportunity to work with or against Pressure Lords
 5. **The Crisis**: Pressure Lords is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,23 +167,34 @@ Pressure Lords is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Pressure Lords]]
+## Cultural Practices
 
-<!-- enriched: true -->
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
 
 
+## Economic Structure
 
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
 
-## Relationship Web
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
 
-- [[04_Resources_Assets_Locations_location-city-the-null-cathedral-v1-the-null-cathedral.svg]]: *informant*
-- [[Session-4]]: *former lover*
-- [[04_Resources_Assets_Symbols_symbol-heraldry-border-castles-border-castles.svg]]: *debt holder*
-- [[Deep Fortress Network]]: *informant*
-
-## Connections
-
-- [[Abyssos Prime - Inverse Palace]]
-- [[The Pressure Conspiracy]]
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

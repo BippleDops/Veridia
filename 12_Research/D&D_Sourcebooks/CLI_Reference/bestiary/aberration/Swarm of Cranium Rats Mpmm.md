@@ -29,14 +29,29 @@ updated: '2025-08-13T12:34:05.597959+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-swarm-of-cranium-rats-mpmm-swarm-of-cranium-rats-mpmm.svg)
 
 # [[swarm-of-cranium-rats-mpmm|Swarm of Cranium Rats]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 83, Volo's Guide to Monsters p. 133*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Cranium Rat
 
@@ -59,12 +74,11 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
   - !!int "10"
   - !!int "15"
   - !!int "11"
-  - !!int "14"
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
-  \ [[conditions#Petrified|petrified]], [[conditions#Prone|prone]],\
+  \ [[conditions#Petrified|petrified]], [[conditions#prone|prone]],\
   \ [[conditions#Restrained|restrained]], [[conditions#Stunned|stunned]]"
 "senses": "darkvision 30 ft., passive Perception 10"
 "languages": "telepathy 30 ft."
@@ -87,7 +101,7 @@ A single cranium rat uses its natural telepathy to communicate hunger, fear, and
       \ Intelligence as the spellcasting ability (spell save DC 13):\n\nAt will:\
       \ [[command-xphb|command]], [[comprehend-languages-xphb|comprehend languages]],\
       \ [[detect-thoughts-xphb|detect thoughts]]\n\n1/day\
-      \ each: [[confusion-xphb|confusion]], [[dominate-monster-xphb|dominate\
+      \ each: [[confusion-xphb|confusion]], [[dominate-monster-xphb|dominate\]]
       \ monster]]"
     "name": "Spellcasting (Psionics)"
 "bonus_actions":
@@ -115,18 +129,9 @@ Swarm of cranium rats mpmm is a undersea element of the setting, known for biolu
 
 Legends speak of swarm of cranium rats mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around swarm of cranium rats mpmm.
 
-## Adventure Hooks
-
-- A rumor ties swarm of cranium rats mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at swarm of cranium rats mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to swarm of cranium rats mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

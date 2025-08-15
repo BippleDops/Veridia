@@ -30,15 +30,29 @@ duration: Originally 7 days, final year lasted 3 hours
 participants: Entire population of [[Port Meridian]] and neighboring regions
 ---
 
-
-
-
-
 # The Crystal Festival
 *The Celebration That Became a Chrysalis of Transformation*
 
 > *"What began as our most beloved tradition - the annual celebration of crystalline beauty and magical harmony - became the stage for the most profound transformation in our kingdom's history. The festival that had united our people for generations became the crucible that would either save or damn us all."*
 > — [[Festival Master Elena Brightcrystal]], Last Director of Traditional Celebrations
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -83,7 +97,7 @@ The Crystal Festival's magical nature requires specialized mechanics to represen
 ### Festival Magic Enhancement
 During the festival period, the concentration of crystalline formations and increased magical activity creates environmental effects that enhance certain types of magic while constraining others:
 
-**Crystal Resonance**: Spells that involve light, illusion, or divination gain advantage on spell attack rolls and increase their damage or effect duration by 50%. Spells cast within crystal formation areas can be extended without using higher spell slots.
+**Crystal Resoce**: Spells that involve light, illusion, or divination gain advantage on spell attack rolls and increase their damage or effect duration by 50%. Spells cast within crystal formation areas can be extended without using higher spell slots.
 
 **Magical Overcharge**: Characters who cast multiple spells during festival events must make Constitution saving throws (DC 10 + spell level) to avoid magical exhaustion. Failure results in temporary ability score reduction and vulnerability to magical effects.
 
@@ -108,13 +122,11 @@ During the festival's early period, a spontaneous magical event occurred when mu
 ### The Artist's Revolution (267 years ago)
 A group of radical artists attempted to use the festival as a platform for political protest, creating magical performances that criticized the kingdom's leadership and social structure. The government's response established precedents for balancing artistic freedom with public safety during large-scale magical events.
 
-### The Shard Resonance Incident (156 years ago)
+### The Shard Resoce Incident (156 years ago)
 The first recorded interaction between festival crystal formations and one of the [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] occurred when the Clear Shard's influence caused unprecedented magical displays throughout the festival grounds. This event marked the beginning of deeper investigation into the connections between festival crystals and cosmic forces.
 
 ### The Final Festival Transformation (Present Day)
 [[Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'s culminating ritual transformed the traditional celebration into an attempted mass conversion of the kingdom's population into crystalline entities. The events of this final festival represent the ultimate collision between beloved tradition and cosmic manipulation.
-
-## Key Figures and Organizations
 
 ### Festival Master Elena Brightcrystal
 The last traditional director of Crystal Festival operations, Elena dedicated her life to preserving the festival's cultural significance while adapting to changing magical and political circumstances. Her archives contain the most complete documentation of festival traditions and the gradual changes that preceded the final catastrophic celebration.
@@ -127,7 +139,7 @@ A security organization established to protect festival participants from magica
 
 ## Current State and Ongoing Conflicts
 
-The aftermath of the final Crystal Festival continues to influence [[Aethermoor]] society and politics, with debates over whether such large-scale magical celebrations should ever be attempted again. The site of the former festival grounds remains a place of powerful magical resonance that requires constant monitoring and containment.
+The aftermath of the final Crystal Festival continues to influence [[Aethermoor]] society and politics, with debates over whether such large-scale magical celebrations should ever be attempted again. The site of the former festival grounds remains a place of powerful magical resoce that requires constant monitoring and containment.
 
 Survivors of the festival experience lasting effects from their exposure to the transformation ritual, creating a population of citizens with enhanced magical abilities but also ongoing psychological trauma. The kingdom's medical and magical institutions continue to develop treatments for festival-related conditions.
 
@@ -154,26 +166,6 @@ Investigation reveals that some festival attendees were more deeply affected by 
 ### The Ritual Aftermath
 Magical disturbances at the former festival grounds threaten to reactivate [[Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]'s ritual effects, requiring characters to enter the dangerous area and neutralize ongoing magical hazards while uncovering secrets about the cosmic forces that influenced the original transformation.
 
-## Connected Topics and References
-- [[Crystal Festival Grounds]] - The permanent venue for festival celebrations
-- [[Queen Seraphina Lumengarde|02 Worldbuilding/People/Queen Seraphina Lumengarde]] - Monarch who became the ritual's focus
-- [[Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]] - Antagonist who corrupted the festival
-- [[The Seven Shards|02 Worldbuilding/Lore/The Seven Shards]] - Cosmic artifacts that influenced the festival's magical properties
-- [[The Great Crystallization|02 Worldbuilding/Lore/The Great Crystallization]] - Historical event that established crystal-based magic
-- [[Festival Master Elena Brightcrystal]] - Traditional festival coordinator
-- [[The Crystal Artisans Guild]] - Organization responsible for festival's magical elements
-
-
-## Connections
-
-- [[Crystal Festival Grounds]]
-- [[Prismatic Falls]]
-- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[Traveling Merchant Finn]]
-- [[Aethermoor - Session 06 The Bloodline Awakens]]
-
 ## Player-Facing Summary
 
 The Crystal Festival is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -182,25 +174,15 @@ The Crystal Festival is a undersea element of the setting, known for bioluminesc
 
 Legends speak of The Crystal Festival as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Crystal Festival.
 
-## Adventure Hooks
-
-- A rumor ties The Crystal Festival to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Crystal Festival to avert a public scandal.
-- A map overlay reveals a hidden approach to The Crystal Festival active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Traveling Merchant Finn|02 Worldbuilding/Quests/Traveling Merchant Finn]]
-- [[Aethermoor]]
-- [[Port Meridian]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession

@@ -28,11 +28,28 @@ updated: '2025-08-12T23:37:35.828384'
 world: Both
 ---
 
-
 # [[duergar-screamer-mpmm|Duergar Screamer]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 111, Mordenkainen's Tome of Foes p. 190*  
 
 A duergar screamer uses sonic energy to grind rock into dust and to hurl invaders to the ground.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Duergar Constructs
 
@@ -56,12 +73,10 @@ These machines are deployed to assist with construction projects and war. Some d
   - !!int "7"
   - !!int "12"
   - !!int "5"
-  - !!int "5"
-  - !!int "5"
 "speed": "20 ft."
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]]"
 "senses": "darkvision 60 ft., passive Perception 7"
 "languages": "understands Dwarvish but can't speak"
@@ -74,7 +89,7 @@ These machines are deployed to assist with construction projects and war. Some d
     "name": "Drill"
   - "desc": "The screamer emits destructive energy in a 15-foot cube. Each creature\
       \ in that area must succeed on a DC 11 Strength saving throw or take 7 (2d6)\
-      \ thunder damage and be knocked [[conditions#Prone|prone]]."
+      \ thunder damage and be knocked [[conditions#prone|prone]]."
     "name": "Sonic Scream"
 "reactions":
   - "desc": "Immediately after a creature within 5 feet of the screamer hits it with\
@@ -99,19 +114,21 @@ Duergar screamer mpmm is a undersea element of the setting, known for biolumines
 
 Legends speak of duergar screamer mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around duergar screamer mpmm.
 
-## Adventure Hooks
-
-- A rumor ties duergar screamer mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at duergar screamer mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to duergar screamer mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Plot Hooks
+
+- A stranger needs help investigating before the new moon
+- Someone is searching for an heir for revenge

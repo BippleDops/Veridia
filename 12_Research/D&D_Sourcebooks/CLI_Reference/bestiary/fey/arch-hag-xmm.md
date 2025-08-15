@@ -27,13 +27,29 @@ updated: '2025-08-12T23:37:35.267037'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-arch-hag-xmm-arch-hag-xmm.svg)
 
 # [[arch-hag-xmm|Arch-hag]]
 *Source: Monster Manual (2024) p. 21*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Arch-hag
 
@@ -90,7 +106,6 @@ Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop
   - !!int "15"
   - !!int "23"
   - !!int "19"
-  - !!int "19"
   - !!int "25"
 "speed": "40 ft."
 "saves":
@@ -105,7 +120,7 @@ Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop
     "desc": "+21"
 "damage_resistances": "cold, fire, psychic"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]]"
+  \ [[conditions#frightened|frightened]]"
 "senses": "truesight 60 ft., passive Perception 21"
 "languages": "all"
 "cr": "21"
@@ -138,7 +153,7 @@ Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop
     "name": "Multiattack"
   - "desc": "Melee  or Ranged Attack Roll: +14, reach 10 ft. or range 60 ft. Hit:\
       \ 17 (3d6 + 7) Force damage. If the target is a Large or smaller creature, it\
-      \ has the [[conditions#Prone|Prone]] condition."
+      \ has the [[conditions#prone|Prone]] condition."
     "name": "Spectral Claw"
   - "desc": "Dexterity Saving Throw: DC 22, each creature in a 60-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: 32 (5d12) Lightning damage. Success: Half damage. Failure or\
@@ -148,7 +163,7 @@ Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop
   - "desc": "The hag casts one of the following spells, requiring no Material components\
       \ and using Charisma as the spellcasting ability (spell save DC 22):\n\nAt\
       \ will: [[detect-thoughts-xphb|Detect Thoughts]],\
-      \ [[dimension-door-xphb|Dimension Door]], [[dispel-magic-xphb|Dispel\
+      \ [[dimension-door-xphb|Dimension Door]], [[dispel-magic-xphb|Dispel\]]
       \ Magic]], [[hypnotic-pattern-xphb|Hypnotic Pattern]]\n\
       \n2/day each: [[mass-suggestion-xphb|Mass Suggestion]],\
       \ [[modify-memory-xphb|Modify Memory]], [[plane-shift-xphb|Plane Shift]]"
@@ -178,16 +193,14 @@ Each arch-hag creates a magical home, such as a hidden demiplane, a mansion atop
   - "desc": "- Lapsus Linguae. Creatures (excluding the hag and its allies) within\
       \ 1 mile of the lair subtract d10 from any ability check they make when they\
       \ take the [[actions#Influence|Influence]] action.  \n- Meddlesome\
-      \ Magic. Whenever a creature other than the hag or its allies finishes a [[long-rest-xphb|Long\
+      \ Magic. Whenever a creature other than the hag or its allies finishes a [[long-rest-xphb|Long\]]
       \ Rest]] while within 1 mile\
       \ of the lair, the next time that creature casts a spell using a spell slot,\
       \ it also casts [[confusion-xphb|Confusion]] centered\
       \ on itself. The spell uses the creature's spellcasting ability and doesn't\
       \ require [[conditions#Concentration|Concentration]].  "
-    "name": ""
   - "desc": "If the arch-hag is destroyed or moves its lair elsewhere, these effects\
       \ end immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/fey/token/arch-hag-xmm.webp"
@@ -206,19 +219,30 @@ Arch hag xmm is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of arch hag xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around arch hag xmm.
 
-## Adventure Hooks
-
-- A rumor ties arch hag xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at arch hag xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to arch hag xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Winds
+
+
+## Plot Hooks
+
+- Someone is searching for a artifact for revenge
+- Strange sightings suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

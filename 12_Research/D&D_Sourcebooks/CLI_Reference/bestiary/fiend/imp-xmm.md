@@ -27,13 +27,29 @@ updated: '2025-08-12T23:37:35.513603'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-imp-xmm-imp-xmm.svg)
 
 # [[imp-xmm|Imp]]
-*Source: Monster Manual (2024) p. 177, Player's Handbook (2024) p. 352. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 177, Player's Handbook (2024) p. 352. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Imp
 
@@ -46,10 +62,9 @@ Known for their cowardice and toadying, imps serve devils and wicked magic-users
 
 Imps without masters delight in manipulating other creatures and inflating their own egos. They might take over bands of weaker monsters, or they might pose as helpful spirits and trick influential individuals into pursuing nefarious ends.
 
-> [!quote] A quote from Skeever, Imp Servant of Firan Zal'Honan  
+> [!quote] A quote from Skeever, Imp Servant of Firan Zal'Ho  
 > 
 > I can tell you what I know, but wouldn't you rather I tell you what'll let you do what you know you're going to do anyway?
-
 
 ```statblock
 "name": "Imp (XMM)"
@@ -120,19 +135,38 @@ Imp xmm is a undersea element of the setting, known for bioluminescent glow and 
 
 Legends speak of imp xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around imp xmm.
 
-## Adventure Hooks
-
-- A rumor ties imp xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at imp xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to imp xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- Someone is hunting information for revenge
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

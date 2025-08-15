@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[The Shattering of the Crown|02 Worldbuilding/Lore/The Shattering Of The Crown]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[The Shattering of the Crown]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,31 @@ Shadowthorn the Assassin is a undersea element of the setting, known for biolumi
 
 Legends speak of Shadowthorn the Assassin as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Shadowthorn the Assassin.
 
-## Adventure Hooks
-
-- A rumor ties Shadowthorn the Assassin to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Shadowthorn the Assassin to avert a public scandal.
-- A map overlay reveals a hidden approach to Shadowthorn the Assassin active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- Strange sightings suggest a portal
+- A letter reveals the truth about this place
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

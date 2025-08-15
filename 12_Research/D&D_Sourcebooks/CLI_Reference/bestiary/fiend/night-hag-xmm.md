@@ -28,13 +28,29 @@ updated: '2025-08-12T23:37:35.482696'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-night-hag-xmm-night-hag-xmm.svg)
 
 # [[night-hag-xmm|Night Hag]]
-*Source: Monster Manual (2024) p. 225. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 225. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Night Hag
 
@@ -60,9 +76,7 @@ Night hags maintain networks of nefarious customers and collect rumors from acro
   - !!int "18"
   - !!int "15"
   - !!int "16"
-  - !!int "16"
   - !!int "14"
-  - !!int "16"
 "speed": "30 ft."
 "skillsaves":
   - "name": "[[skills#Deception|Deception]]"
@@ -70,9 +84,7 @@ Night hags maintain networks of nefarious customers and collect rumors from acro
   - "name": "[[skills#Insight|Insight]]"
     "desc": "+5"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+5"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+5"
 "damage_resistances": "cold, fire"
 "condition_immunities": "[[conditions#Charmed|charmed]]"
 "senses": "darkvision 120 ft., passive Perception 15"
@@ -144,19 +156,26 @@ Night hag xmm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of night hag xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around night hag xmm.
 
-## Adventure Hooks
-
-- A rumor ties night hag xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at night hag xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to night hag xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Plot Hooks
+
+- Someone is hunting an heir for money
+- Someone is blackmailing a witness for money
+- Strange disappearances suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

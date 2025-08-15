@@ -1,4 +1,5 @@
 ---
+
 title: Mayor's Manor
 type: Npc
 tags:
@@ -10,6 +11,7 @@ tags:
 - active
 - complete
 - status/in-progress
+- bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +20,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.601131+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +30,69 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-mayor-s-manor-mayor-s-manor.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward confrontation
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward manipulation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
 
 ## Player-Facing Summary
 
@@ -67,14 +101,6 @@ Mayor's Manor is a undersea element of the setting, known for bioluminescent glo
 ## Lore Details
 
 Legends speak of Mayor's Manor as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Mayor's Manor.
-
-## Adventure Hooks
-
-- A rumor ties Mayor's Manor to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Mayor's Manor to avert a public scandal.
-- A map overlay reveals a hidden approach to Mayor's Manor active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +111,6 @@ Mayor's Manor's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Serving justice
@@ -124,8 +120,6 @@ Mayor's Manor's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Mayor's Manor harbors secrets that could change everything:
@@ -133,10 +127,6 @@ Mayor's Manor harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Double agent
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +145,6 @@ Mayor's Manor is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Mayor's Manor needs assistance with a delicate matter
@@ -164,8 +152,6 @@ Mayor's Manor is currently engaged in:
 3. **The Secret**: Information about Mayor's Manor's past surfaces
 4. **The Alliance**: Opportunity to work with or against Mayor's Manor
 5. **The Crisis**: Mayor's Manor is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,22 +165,15 @@ Mayor's Manor is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Mayor's Manor]]
+## Religious Observances
 
-<!-- enriched: true -->
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
 
-
-
-
-## Relationship Web
-
-- [[Lich-Queen Morwyn the Deathless]]: *student*
-- [[04_Resources_Assets_Portraits_portrait-npc-merchant-captain-tobias-stormwind-merchant-captain-tobias-stormwind.svg]]: *informant*
-- [[04_Resources_Assets_Symbols_symbol-heraldry-salvage-master-ironwork-salvage-master-ironwork.svg]]: *patron*
-- [[04_Resources_Assets_Locations_location-city-keeper-valdris-goldvault-keeper-valdris-goldvault.svg]]: *student*
-
-## Connections
-
-- [[Mayor Thompson]]
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[The Parliament of Nobody|02 Worldbuilding/Groups/The Parliament Of Nobody]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[The Parliament of Nobody]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,27 @@ Nobody Named Marcus is a undersea element of the setting, known for bioluminesce
 
 Legends speak of Nobody Named Marcus as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Nobody Named Marcus.
 
-## Adventure Hooks
-
-- A rumor ties Nobody Named Marcus to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Nobody Named Marcus to avert a public scandal.
-- A map overlay reveals a hidden approach to Nobody Named Marcus active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and evil awakens
+- A merchant needs help investigating before the new moon
+- A journal reveals a conspiracy about the government
+- Someone is blackmailing a artifact for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

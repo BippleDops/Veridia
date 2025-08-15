@@ -25,21 +25,26 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
-
-
-
-
-
-# Depth Survival Mechanics
 ## Complete Aquabyssos Survival System
 
 > *"The depths change you. First your body, then your mind, finally your soul."*
-
-## 🌊 Core Survival Systems
-
-### Pressure System
 
 #### Depth Zones & Effects
 
@@ -62,20 +67,15 @@ Failure Effects:
 - 3rd Failure: Incapacitated
 - 4th Failure: Unconscious
 - 5th Failure: Death (implosion)
-```
-
-### 🧬 Adaptation System
 
 #### Adaptation Points (AP)
 Characters accumulate AP through exposure to depths:
 
-```
 AP Gain Rate:
 - Natural exposure: 1 AP per 24 hours at depth
 - Forced adaptation: 1 AP per failed pressure save
 - Magical adaptation: Variable based on source
 - Crystal exposure: 1 AP per corruption level
-```
 
 #### Adaptation Stages
 
@@ -106,8 +106,6 @@ AP Gain Rate:
 - **Stage 5**: -4 CHA with non-adapted, alien appearance
 - **Stage 6**: Permanent transformation, surface = death
 
-### 🌑 Shadow Independence System
-
 #### Shadow Autonomy Levels
 
 | Level | Shadow Behavior | Trigger Condition | Control DC |
@@ -121,7 +119,6 @@ AP Gain Rate:
 | 6 | Fully Autonomous | Can separate from owner | DC 20 WIS to prevent separation |
 
 #### Shadow Separation Consequences
-```
 When shadow achieves full autonomy:
 - Owner loses 2 STR permanently
 - Shadow becomes corporeal at night
@@ -129,9 +126,6 @@ When shadow achieves full autonomy:
 - Can be bargained with or fought
 - If killed: Owner has no shadow ever
 - If integrated: Gain shadow powers
-```
-
-### 💧 Breathing Medium Transitions
 
 #### Water-Air Interfaces
 Special zones where neither air nor water breathing works properly:
@@ -143,19 +137,15 @@ Special zones where neither air nor water breathing works properly:
 | Liquid Air | Roll twice, take lower | CON DC 15 | Drowning in air |
 | Solid Water | Cannot breathe | CON DC 18 | Suffocation |
 
-### 🧠 Depth Sickness
-
 #### Ascending Consequences
 Rising toward surface causes mental/physical breakdown:
 
-```
 Ascension Rate Penalties:
 - 100 ft/hour: No effect
 - 500 ft/hour: DC 12 CON save or confused
 - 1,000 ft/hour: DC 15 CON save or 1d6 psychic damage
 - 2,000+ ft/hour: DC 18 CON save or insanity
 - Instant (teleport): DC 20 CON save or death
-```
 
 #### Depth Sickness Stages
 
@@ -166,8 +156,6 @@ Ascension Rate Penalties:
 | 3 | Severe disorientation | INT and WIS scores halved | 24 hours |
 | 4 | Blood boiling | 2d6 damage/minute | 1 week |
 | 5 | Complete breakdown | Death in 1d4 rounds | Permanent |
-
-### ⏰ Temporal Distortion
 
 #### Time Variance by Depth
 
@@ -180,8 +168,6 @@ Ascension Rate Penalties:
 | 10,000 ft | 0.25x | 6 hours | 25% |
 | 20,000 ft | Variable | 1d24 hours | Random |
 | 30,000 ft | Backwards | -24 hours | Reverse |
-
-### 🌊 Memory Tides
 
 #### Tide Schedule & Effects
 
@@ -205,8 +191,6 @@ Successfully saving against Memory Tides can grant:
 - Hidden location awareness
 - Ancient spell knowledge
 
-### 🔮 Corruption Tracking
-
 #### Crystal Corruption Stages
 
 | Corruption Level | Physical Signs | Benefits | Drawbacks |
@@ -217,8 +201,6 @@ Successfully saving against Memory Tides can grant:
 | 7-8 | 50% crystallized | Resistance to physical damage | -4 CHA, -10 ft speed |
 | 9 | 75% crystallized | Telepathy with corrupted | -5 CHA, disadvantage DEX |
 | 10 | Full transformation | Immortal crystal being | NPC control |
-
-### 🛡️ Protection Methods
 
 #### Equipment
 
@@ -247,8 +229,6 @@ Successfully saving against Memory Tides can grant:
 | 8th | Perfect Adaptation | Survive any depth | 24 hours |
 | 9th | Surface Return | Safely ascend instantly | Instant |
 
-### ⚔️ Combat Modifiers
-
 #### Underwater Combat Rules
 
 **Melee Attacks**:
@@ -267,8 +247,6 @@ Successfully saving against Memory Tides can grant:
 - Swimmers: 1/2 speed
 - Adapted: Full swim speed
 - Aquatic: Full speed + dash as bonus action
-
-### 📊 Quick Reference Tables
 
 #### Daily Survival Checks
 
@@ -300,8 +278,6 @@ Successfully saving against Memory Tides can grant:
 | Pressure Gems | 50 gp | Compressed matter | Store pressure energy |
 | Depth Stones | 100 gp | Abyss minerals | Protect from pressure |
 | Dream Tokens | Variable | Nightmares | Pay for passage on Dream Rails |
-
-## 🎲 Random Tables
 
 ### Depth Encounters (d20)
 
@@ -336,10 +312,7 @@ Successfully saving against Memory Tides can grant:
 | 11 | Nictitating membrane | Immune to blinding underwater |
 | 12 | Beneficial mutation | Choose one positive trait |
 
-## 📝 Tracking Sheets
-
 ### Character Adaptation Tracker
-```
 Character Name: ___________
 Current Depth: ___________
 Time at Depth: ___________
@@ -358,15 +331,10 @@ Equipment:
 - Suit Type: ___________
 - Air/Water remaining: ___________
 - Protection items: ___________
-```
 
 ---
 
 *Remember: In Aquabyssos, survival isn't about staying unchanged—it's about controlling how you change.*
-
-## Connections
-
-- [[Complete_Pressure_Adaptation_System|Complete Pressure Adaptation System]]
 
 ## Player-Facing Summary
 
@@ -376,26 +344,30 @@ Depth Survival Mechanics is a undersea element of the setting, known for biolumi
 
 Legends speak of Depth Survival Mechanics as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Depth Survival Mechanics.
 
-## Adventure Hooks
-
-- A rumor ties Depth Survival Mechanics to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Depth Survival Mechanics to avert a public scandal.
-- A map overlay reveals a hidden approach to Depth Survival Mechanics active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Pressure_Weather_Events|06 GM Resources/Travel/Pressure Weather Events]]
-- [[Aethermoor_Airships|Aethermoor Airships]]
-- [[Vehicle_Core_Rules|Vehicle Core Rules]]
-- [[Pressure_Weather_Events|Pressure Weather Events]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Depths
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

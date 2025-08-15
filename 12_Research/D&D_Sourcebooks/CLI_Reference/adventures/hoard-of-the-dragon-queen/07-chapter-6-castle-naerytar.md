@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.639976'
 world: Both
 ---
 
-
 # Chapter 6: Castle Naerytar
 *Source: Hoard of the Dragon Queen, p. 59* 
 
@@ -32,6 +31,24 @@ The tunnel from the roadhouse emerges in a spot nearby that's screened by trees 
 This stout, stone castle was the home of a half-elf wizard, but he abandoned it long ago when the swamp claimed the area. For a time, a group of astrologers called the Academy of Stargazers took over the structure, but they vanished mysteriously after a few years. No one knows what became of them. Before the group's destruction, the members modified the castle by building an observatory into the top floor of the keep. Some of their magical viewing equipment is still there.
 
 Now the Cult of the Dragon has moved people into Castle Naerytar and formed shaky alliances with nearby swamp dwellers, but the surrounding swampland is far from under anyone's control. The cult brought lizardfolk, bullywugs, and a pair of black dragons together in an unstable alliance, but the factions are riven by deep distrust that outsiders can exploit.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Traveling to the Castle
 
@@ -48,7 +65,6 @@ After seven miles of progress, characters reach a campsite at the approximate ha
 > [!readaloud] 
 > 
 > It isn't much of a camp—just a clearing that's slightly drier than the muck you've been wading through—but four wicker lean-tos and a stone platform (for lighting a fire above the soggy ground) command attention in this wilderness. Three dugout canoes are drawn up near one of the lean-tos.
-> 
 > A few dozen yards beyond the campsite in the direction you've been traveling, dry land ends. Other than moss-covered trees, fallen logs, and thick clumps of reeds, nothing rises above the still, black water.
 ^122
 
@@ -257,8 +273,6 @@ The lizardfolk keep their giant lizards penned here. The five-foot-high wall of 
 
 The lizardfolk warriors live in these longhouses.
 
-> [!readaloud] 
-> 
 > The longhouses are made from reeds bound into long, thick bundles and bent into upside-down, U-shaped ribs. The spaces between the ribs are latticed and thatched with more reeds. Each longhouse has a single, woven door in the center of one end wall. The construction technique used in the longhouses is ingenious.
 ^13d
 
@@ -272,8 +286,6 @@ Each of these longhouses could house twenty-five lizardfolk comfortably, and mor
 
 The bullywugs live in huts, which are crudely built.
 
-> [!readaloud] 
-> 
 > A dozen or more huts are placed haphazardly on the boggy ground. Each is shaped like a slightly flattened dome. The doorways are open, but a low, short tunnel forces a creature to crawl into the hut. They are made of reeds woven through a lattice, with a generous layer of mud, grass, and dung smeared over the whole thing. Mud, swamp water, and muck slops between the huts and even flows in and out of the low, open doorways.
 ^13f
 
@@ -294,8 +306,6 @@ This is the only entrance into the castle that's used. When the castle was built
 The castle's exterior walls average 10 feet thick. Interior walls are also stone but only about 1 or 2 feet thick.
 
 Most of the structures inside the castle are more than one story tall. In the descriptions, areas are identified by floor, then letter, so area 1L is on the ground floor, 2L the second floor, and so on. If an area doesn't have an entry for a floor, then it doesn't exist on that floor.
-
-## Ground Floor
 
 ### 1A. Barbican
 
@@ -323,8 +333,6 @@ Originally, the passage between the outer and inner wards could be closed off wi
 
 The door to this tower has been torn off its hinges and lies on the ground. Originally, a wooden floor was at ground level with a pit beneath it for confining prisoners. The wooden floor is completely rotted away, and the pit has been filled nearly to ground level with garbage and mud.
 
-> [!readaloud] 
-> 
 > There must have been a wooden floor in this tower when it was built, to cover the dungeon pit beneath it. Now the floor is gone and the dungeon has been turned into a garbage pit and latrine filled with foul-smelling waste and swamp water to just a few feet below the level of the doorway. The floor above is badly rotted and large portions have collapsed. Through the gaping holes in the second floor, you can see that the third floor is still in good condition. But to reach the stone stairs that circle upward around the outer wall, you must cross 10 feet of indescribable muck.
 ^149
 
@@ -342,8 +350,6 @@ This large structure was built to house the castle's garrison. Pharblex and his 
 
 If characters walk into the barracks during daytime, read the text below aloud. If they sneak in or enter in the middle of the night, adjust and paraphrase accordingly.
 
-> [!readaloud] 
-> 
 > Twelve bullywugs eye you suspiciously from a room that might have been a tidy barracks once. Now it is largely empty of furniture, much of the floor is churned into mud, and the stink of bullywugs permeates everything.
 ^14c
 
@@ -357,8 +363,6 @@ Buried among all the copper and tin in one chest is a small mahogany box contain
 
 Naerytar's builders set up this structure for the blacksmiths who would build and maintain the armor and weapons needed by the castle's defenders.
 
-> [!readaloud] 
-> 
 > A large forge dominates the center of this chamber, which is pleasantly warm thanks to a bed of coals glowing dully in the forge. Half a dozen lizardfolk are working around the forge, but they don't seem to be accomplishing much. Other accouterments of the blacksmith's trade are scattered through the room, and many very poorly made metal items are heaped in the northwest corner.
 ^14e
 
@@ -374,11 +378,11 @@ Like guards elsewhere in the castle, those in this room assume that strangers ar
 
 ### 1J. Lizardfolk Sleeping Room
 
-The ten dominant lizardfolk guards rest in this chamber, because it gets more warmth from the forge (area 1H) than area 1K does. They sleep on reed pallets that are spread across the floor in no apparent pattern, and each keeps meager belongings beneath it's "bed." Despite the lack of order, the room is clean and dry. It is empty during the day, but ten [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] sleep here at night.
+The ten domit lizardfolk guards rest in this chamber, because it gets more warmth from the forge (area 1H) than area 1K does. They sleep on reed pallets that are spread across the floor in no apparent pattern, and each keeps meager belongings beneath it's "bed." Despite the lack of order, the room is clean and dry. It is empty during the day, but ten [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] sleep here at night.
 
 ### 1K. Lizardfolk Sleeping Room
 
-Ten lizardfolk guards sleep in this chamber. They are the less dominant half of Borngray's lizardfolk guards, consigned to this sleeping chamber because it gets less warmth from the forge (area 1H) than area 1J does. They sleep on reed pallets that are spread across the floor in no apparent pattern, and each keeps meager belongings beneath it's "bed." Despite the lack of order, the room is clean and dry. It is empty during the day, but ten [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] sleep here at night.
+Ten lizardfolk guards sleep in this chamber. They are the less domit half of Borngray's lizardfolk guards, consigned to this sleeping chamber because it gets less warmth from the forge (area 1H) than area 1J does. They sleep on reed pallets that are spread across the floor in no apparent pattern, and each keeps meager belongings beneath it's "bed." Despite the lack of order, the room is clean and dry. It is empty during the day, but ten [[/03_Mechanics/CLI/bestiary/humanoid/scout-xmm|lizardfolk]] sleep here at night.
 
 ### 1L. Chapel
 
@@ -446,7 +450,6 @@ Normally, these rooms aren't used, but [[/03_Mechanics/CLI/bestiary/npc/azbara-j
 
 ## Second Floor
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/031-map-6-2-castle-naerytar.webp#gallery|Map 6.2: Castle Naerytar—Level 2]]
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/032-map-6-2-castle-naerytar-player.webp#gallery|Player Version]]
 
@@ -470,7 +473,7 @@ A trapdoor closes off the top of the stairs at the ceiling. The door is latched 
 
 #### Treasure
 
-Across the tower, up against the south wall, is a single, locked trunk. The lock can be opened with a set of [[thieves-tools-xphb|thieves' tools]] and a successful DC 10 Dexterity check. The chest contains 1,825 cp, 54 sp, and a pair of garish gold earrings that would be worth another 10 gp if melted. The chest was left behind when the last tenants of the castle departed, being considered not worth the effort to lug down the stairs.
+Across the tower, up against the south wall, is a single, locked trunk. The lock can be opened with a set of [[thieves-tools-xphb|thieves' tools]] and a successful DC 10 Dexterity check. The chest contains 1,825 cp, 54 sp, and a pair of garish gold earrings that would be worth another 10 gp if melted. The chest was left behind when the last tets of the castle departed, being considered not worth the effort to lug down the stairs.
 
 ### 2F. Stables Loft
 
@@ -548,7 +551,6 @@ In addition to the elf's clothing and personal effects, a small strongbox is hid
 
 Many of the topmost levels of the castle are unused by cultists. Some of them are still home to dangerous creatures that were sealed off instead of being cleared out.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/033-map-6-3-castle-naerytar.webp#gallery|Map 6.3: Castle Naerytar—Level 3]]
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/034-map-6-3-castle-naerytar-player.webp#gallery|Player Version]]
 
@@ -654,7 +656,6 @@ Area 1 is brightly lit by lanterns. All other areas have no light.
 
 The caverns are filled with the faint sounds of dripping water, scratching rodents, and scrabbling lizards. Sound does not carry well; the sound of a fight travels into neighboring chambers and attracts attention if the fight lasts more than three rounds.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/035-map-6-4-castle-naerytar.webp#gallery|Map 6.4: Castle Naerytar—Dungeon]]
 > ![[/03_Mechanics/CLI/adventures/hoard-of-the-dragon-queen/img/036-map-6-4-castle-naerytar-player.webp#gallery|Player Version]]
 
@@ -682,7 +683,7 @@ The steps to the west descend steeply 10 feet to area 4. A lip of stones across 
 
 ### 4. Centipede Lair
 
-This chamber is empty, but swarms of centipedes live in niches and alcoves lining the western wall. They are [[conditions#Frightened|frightened]] away by torches, but lanterns, candles, and [[light-xphb|light]] spells don't bother them. They attack any group that isn't carrying at least one lit torch. There are two [[swarm-of-insects-xmm|swarms of centipedes]] per party member.
+This chamber is empty, but swarms of centipedes live in niches and alcoves lining the western wall. They are [[conditions#frightened|frightened]] away by torches, but lanterns, candles, and [[light-xphb|light]] spells don't bother them. They attack any group that isn't carrying at least one lit torch. There are two [[swarm-of-insects-xmm|swarms of centipedes]] per party member.
 
 ### 5. Empty Chamber
 
@@ -756,19 +757,23 @@ Award standard XP for defeated foes. If you are using the milestone experience r
 
 Legends speak of 07 chapter 6 castle naerytar as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 07 chapter 6 castle naerytar.
 
-## Adventure Hooks
-
-- A rumor ties 07 chapter 6 castle naerytar to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 07 chapter 6 castle naerytar to avert a public scandal.
-- A map overlay reveals a hidden approach to 07 chapter 6 castle naerytar active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

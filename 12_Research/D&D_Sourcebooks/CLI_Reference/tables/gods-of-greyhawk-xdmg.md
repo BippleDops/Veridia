@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.216529'
 world: Both
 ---
 
-
 # Gods of Greyhawk
 *Source: Dungeon Master's Guide (2024) p. 149* 
 
@@ -62,6 +61,24 @@ world: Both
 
 †Demigod
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Gods of greyhawk xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -70,19 +87,32 @@ Gods of greyhawk xdmg is a undersea element of the setting, known for biolumines
 
 Legends speak of gods of greyhawk xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gods of greyhawk xdmg.
 
-## Adventure Hooks
-
-- A rumor ties gods of greyhawk xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gods of greyhawk xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to gods of greyhawk xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A map reveals a conspiracy about this place
+- A prisoner has gone missing and chaos spreads
+- Strange sightings suggest a curse
+- A document has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

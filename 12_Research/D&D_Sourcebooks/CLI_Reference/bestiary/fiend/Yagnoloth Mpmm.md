@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.854427+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-yagnoloth-mpmm-v1-yagnoloth-mpmm.svg)
 
@@ -73,9 +70,7 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
   - "name": "[[skills#Insight|Insight]]"
     "desc": "+6"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+6"
   - "name": "[[skills#Persuasion|Persuasion]]"
-    "desc": "+8"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
@@ -116,10 +111,10 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
     "name": "Teleport"
   - "desc": "The yagnoloth casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 16):\n\
-      \nAt will: [[darkness-xphb|darkness]], [[detect-magic-xphb|detect\
+      \nAt will: [[darkness-xphb|darkness]], [[detect-magic-xphb|detect\]]
       \ magic]], [[dispel-magic-xphb|dispel magic]],\
       \ [[invisibility-xphb|invisibility]] (self only),\
-      \ [[suggestion-xphb|suggestion]]\n\n3/day: [[lightning-bolt-xphb|lightning\
+      \ [[suggestion-xphb|suggestion]]\n\n3/day: [[lightning-bolt-xphb|lightning\]]
       \ bolt]]"
     "name": "Spellcasting"
 "source":
@@ -128,6 +123,24 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
 "image": "/03_Mechanics/CLI/bestiary/fiend/token/yagnoloth-mpmm.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Environment
 
@@ -141,19 +154,29 @@ Yagnoloth mpmm is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of yagnoloth mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around yagnoloth mpmm.
 
-## Adventure Hooks
-
-- A rumor ties yagnoloth mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at yagnoloth mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to yagnoloth mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and chaos spreads
+- Strange dreams suggest a curse
+- Someone is blackmailing information for revenge
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

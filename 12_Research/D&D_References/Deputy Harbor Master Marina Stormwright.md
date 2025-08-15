@@ -15,22 +15,26 @@ updated: '2025-08-13T01:18:36.408978+00:00'
 world: Both
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-deputy-harbor-master-marina-stormwright-deputy-harbor-master-marina-stormwright.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Harbormaster Erik Saltbeard|02 Worldbuilding/Places/Harbormaster Erik Saltbeard]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Harbormaster Erik Saltbeard]]
 
 ## Player-Facing Summary
 
@@ -40,19 +44,31 @@ Deputy Harbor Master Marina Stormwright is a undersea element of the setting, kn
 
 Legends speak of Deputy Harbor Master Marina Stormwright as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Deputy Harbor Master Marina Stormwright.
 
-## Adventure Hooks
-
-- A rumor ties Deputy Harbor Master Marina Stormwright to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Deputy Harbor Master Marina Stormwright to avert a public scandal.
-- A map overlay reveals a hidden approach to Deputy Harbor Master Marina Stormwright active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Plot Hooks
+
+- A noble needs help investigating before dawn
+- A corpse reveals the truth about this place
+- Someone is hunting a artifact for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

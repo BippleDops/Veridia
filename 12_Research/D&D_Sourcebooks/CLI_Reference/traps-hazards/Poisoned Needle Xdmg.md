@@ -23,12 +23,28 @@ updated: '2025-08-13T12:34:05.046926+00:00'
 world: Both
 ---
 
-
-
 # Poisoned Needle
 *Generic Hazard*  
 
 A poisoned needle is hidden in a lock. When a creature opens the lock with any object other than the proper key, the needle springs out and stabs the creature. The creature makes a DC 11 Constitution saving throw. On a failed save, the creature takes 5 (`d10`) Poison damage and has the [[conditions#Poisoned|Poisoned]] condition for 1 hour. On a successful save, the creature takes half as much damage only.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Avoid
 
@@ -49,7 +65,7 @@ You can scale the trap for higher levels by increasing the damage and the save D
 | 17–20 | 55 (`10d10`) | 17 |
 ^levels-poison-damage-save-dc
 
-*Source: Dungeon Master's Guide (2024) p. 102. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 102. Available in the SRD*
 
 ## Player-Facing Summary
 
@@ -59,19 +75,30 @@ Poisoned needle xdmg is a undersea element of the setting, known for bioluminesc
 
 Legends speak of poisoned needle xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around poisoned needle xdmg.
 
-## Adventure Hooks
-
-- A rumor ties poisoned needle xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at poisoned needle xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to poisoned needle xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

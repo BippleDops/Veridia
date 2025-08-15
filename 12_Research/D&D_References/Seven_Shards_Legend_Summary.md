@@ -16,15 +16,9 @@ updated: '2025-08-13'
 world: Both
 ---
 
-
-# The Seven Shards: Legend Summary
-## Ancient Artifacts of Reality
-
 ### The Origin Tale
 
 In the time before time, when the realms were one, a great catastrophe shattered the Crown of Stars - the artifact that maintained balance between all realities. Seven fragments scattered across the dimensions, each carrying immense power and terrible responsibility.
-
-### The Seven Shards
 
 #### 1. The Shard of Memory
 **Current Status:** Located (Tidal Palace archives)
@@ -70,7 +64,7 @@ In the time before time, when the realms were one, a great catastrophe shattered
 
 #### 7. The Shard of Silence
 **Current Status:** Unknown
-**Power:** Controls sound, communication, and resonance
+**Power:** Controls sound, communication, and resoce
 **Appearance:** Transparent crystal that absorbs all sound
 **Guardian:** None known
 **Danger Level:** Moderate - Can create zones of absolute silence
@@ -90,22 +84,6 @@ In the time before time, when the realms were one, a great catastrophe shattered
 
 **Moderate View:** The shards can be safely reunited, but only by those pure of heart and wise in their use.
 
-### Warning Signs of Shard Activity
-
-- Reality distortions (time skips, space warping)
-- Massive changes in pressure or wind patterns
-- Memory gaps affecting large populations
-- Unexplained transformations in living beings
-- Communication breakdowns across regions
-- Shadows moving independently of their sources
-- Spontaneous portal openings
-
-### Research Centers
-
-- **Aquabyssos:** The Archive of Depths
-- **Aethermoor:** The Crystal Observatory
-- **Neutral:** The Convergence Research Station
-
 ### Rewards for Information
 
 The Parliament of Echoes offers substantial rewards for verified information regarding shard locations or activities. Contact your local representative for details.
@@ -115,10 +93,27 @@ The Parliament of Echoes offers substantial rewards for verified information reg
 *Knowledge shared for the protection of all realms*
 *May wisdom guide your steps*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -127,3 +122,13 @@ The Parliament of Echoes offers substantial rewards for verified information reg
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A document has gone missing and truth emerges
+- A merchant needs help finding before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

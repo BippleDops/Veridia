@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.849982+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-merrenoloth-mpmm-merrenoloth-mpmm.svg)
 
@@ -53,7 +50,6 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
   - !!int "8"
   - !!int "17"
   - !!int "10"
-  - !!int "17"
   - !!int "14"
   - !!int "11"
 "speed": "30 ft., swim 40 ft."
@@ -64,11 +60,9 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
   - "name": "[[skills#History|History]]"
     "desc": "+5"
   - "name": "[[skills#Nature|Nature]]"
-    "desc": "+5"
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
   - "name": "[[skills#Survival|Survival]]"
-    "desc": "+4"
 "damage_resistances": "cold; fire; lightning; bludgeoning, piercing, slashing from\
   \ nonmagical attacks"
 "damage_immunities": "acid, poison"
@@ -87,8 +81,8 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
       \ + 3) fire damage."
     "name": "Oar"
   - "desc": "The merrenoloth targets one creature it can see within 60 feet of it.\
-      \ The target must succeed on a DC 13 Wisdom saving throw or become [[conditions#Frightened|frightened]]\
-      \ of the merrenoloth for 1 minute. The [[conditions#Frightened|frightened]]\
+      \ The target must succeed on a DC 13 Wisdom saving throw or become [[conditions#frightened|frightened]]\
+      \ of the merrenoloth for 1 minute. The [[conditions#frightened|frightened]]\
       \ target can repeat the saving throw at the end of each of its turns, ending\
       \ the effect on itself on a success."
     "name": "Fear Gaze"
@@ -110,6 +104,24 @@ The grim captains of the ferries on the River Styx, merrenoloths can navigate sa
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 coastal
@@ -122,19 +134,30 @@ Merrenoloth mpmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of merrenoloth mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around merrenoloth mpmm.
 
-## Adventure Hooks
-
-- A rumor ties merrenoloth mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at merrenoloth mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to merrenoloth mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and evil awakens
+- Someone is protecting a artifact for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

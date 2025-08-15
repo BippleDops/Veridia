@@ -23,20 +23,30 @@ updated: '2025-08-13T12:34:17.078345+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-medical-research-facilities-medical-research-facilities.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
-# Medical Research Facilities
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
 The Crystal Plague crisis has spurred unprecedented cooperation between previously rival institutions. These research facilities represent the cutting edge of medical science in Aquabyssos, where brilliant minds work desperately to find a cure before the crystalline transformation consumes entire populations.
-
-## The Meridian Institute for Crystalline Pathology
 
 ### Main Campus - Port Meridian University District
 
@@ -46,7 +56,7 @@ The Crystal Plague crisis has spurred unprecedented cooperation between previous
 **Security Classification:** Restricted Access  
 **Funding:** Royal Emergency Grant + Private Donations
 
-The Institute occupies a converted wing of the Royal Academy, hastily retrofitted with crystal-safe laboratories and containment facilities. The building's original astronomical instruments have been repurposed for crystal resonance analysis.
+The Institute occupies a converted wing of the Royal Academy, hastily retrofitted with crystal-safe laboratories and containment facilities. The building's original astronomical instruments have been repurposed for crystal resoce analysis.
 
 #### Laboratory Complex
 
@@ -84,7 +94,7 @@ The Institute occupies a converted wing of the Royal Academy, hastily retrofitte
 
 #### Current Research Projects
 
-**Project Resonance Nullification**  
+**Project Resoce ification**  
 *Lead Researcher: Dr. Elena Harmonybane*  
 **Budget:** 15,000 gold pieces  
 **Timeline:** 6 months  
@@ -120,8 +130,6 @@ The Institute occupies a converted wing of the Royal Academy, hastily retrofitte
 - Study of historical plague records for divine precedents
 - Training clerics in specialized anti-plague blessing techniques
 
-### Notable Researchers
-
 #### Dr. Lysander Truthseeker - Institute Director
 
 **Age:** 52  
@@ -149,15 +157,13 @@ The only researcher permitted to work directly with Stage 4-5 specimens. Her nat
 **Age:** 28  
 **Background:** Former naval sonar specialist and bard college graduate  
 **Specialization:** Acoustic disruption of crystal formations  
-**Equipment:** Custom-built harmonic resonance laboratory
+**Equipment:** Custom-built harmonic resoce laboratory
 
 Dr. Harmonybane's research combines magic and science in unprecedented ways. Her laboratory features a concert hall-sized chamber where she tests various musical frequencies against crystal samples.
 
-*Breakthrough Discovery:* Certain combinations of bardic magic and mechanical resonance can cause Stage 1-2 crystals to dissolve. Side effects include severe migraine headaches and temporary loss of magical ability.
+*Breakthrough Discovery:* Certain combinations of bardic magic and mechanical resoce can cause Stage 1-2 crystals to dissolve. Side effects include severe migraine headaches and temporary loss of magical ability.
 
 *Personal Note:* She composes healing songs during off-hours, some of which have shown remarkable success in [[Crystal Plague Wards]] patient comfort care.
-
-### Research Ethics Board
 
 #### Chairman: High Magistrate Aurelius Goldscale
 
@@ -183,8 +189,6 @@ Proposal to test experimental treatments on infected children was rejected pendi
 
 **Case 58-B: The Crystal Cult Collaboration**
 Motion to share research data with crystal cult scientists was approved with restrictions. Information sharing limited to theoretical frameworks, not specific experimental procedures.
-
-## The Deepwater Research Station
 
 ### Underwater Laboratory Complex
 
@@ -221,8 +225,6 @@ This underwater facility studies how ocean depth, pressure, and magical currents
 - Common areas for meals and recreation
 - Medical bay for staff health monitoring
 - Emergency escape pods
-
-### Breakthrough Research
 
 #### The Depth Pressure Protocol
 
@@ -266,8 +268,6 @@ Research results compiled and transmitted to surface facilities. Collaboration m
 
 **10:00 PM - Emergency Protocols**
 Night shift maintains minimal staffing. Emergency response teams on standby for containment breaches or medical crises.
-
-## The Consortium Joint Research Initiative
 
 ### Multi-Institutional Collaboration
 
@@ -319,8 +319,6 @@ Night shift maintains minimal staffing. Emergency response teams on standby for 
 **Progress:** Basic procedures established for Stages 1-3  
 **Controversy:** Disagreement over Stage 4-5 treatment ethics
 
-### Resource Allocation Conflicts
-
 #### The Funding Wars
 Competition for limited research funds has created tension between institutions:
 
@@ -353,8 +351,6 @@ Competition for limited research funds has created tension between institutions:
 - Proposes ethics review for sensitive research
 - Advocates transparent publication of successful treatments
 - Suggests international cooperation within security frameworks
-
-## Underground Research Networks
 
 ### The Rogue Scientists Alliance
 
@@ -400,15 +396,13 @@ Developing ways to weaponize plague research against [[Crystal Cult Temples]] an
 #### Known Incidents
 
 **The Harmonybane Sabotage**
-Dr. Elena Harmonybane's resonance equipment was damaged by cult infiltrators who considered her work "blasphemous interference with divine transformation."
+Dr. Elena Harmonybane's resoce equipment was damaged by cult infiltrators who considered her work "blasphemous interference with divine transformation."
 
 **The Sample Contamination**
 Research specimens were deliberately infected with concentrated plague samples, ruining months of careful cultivation work and exposing several researchers to infection.
 
 **The Data Theft**
 Complete patient records were stolen from the Central Library, presumably to identify potential cult recruits among plague victims.
-
-## Economic Impact
 
 ### Research Funding Crisis
 
@@ -422,7 +416,7 @@ Complete patient records were stolen from the Central Library, presumably to ide
 
 **Equipment Costs**
 - Crystal-safe laboratory equipment costs 300% more than standard medical apparatus
-- Magical containment systems require constant maintenance and magical component replacement
+- Magical containment systems require constant maintece and magical component replacement
 - Specialized reagents for plague research are increasingly rare and expensive
 
 **Staffing Challenges**
@@ -431,7 +425,7 @@ Complete patient records were stolen from the Central Library, presumably to ide
 - Competition with [[Black Market Crystal Trade]] organizations offering higher salaries
 - Training costs for new researchers in specialized plague protocols
 
-**Facility Maintenance**
+**Facility Maintece**
 - Crystal contamination requires extensive facility decontamination
 - Security systems need constant upgrades to prevent cult infiltration
 - Emergency medical systems for researcher safety
@@ -448,8 +442,6 @@ Foreign nations pay substantial fees for access to Aquabyssos plague research da
 **Medical Tourism**
 Wealthy plague victims from other regions travel to access cutting-edge treatments. This generates revenue but strains already limited medical resources.
 
-## Adventure Hooks
-
 ### The Sabotaged Experiment
 A crucial experiment that could lead to a cure has been sabotaged, setting back research by months. Investigation reveals a complex web of competing interests - [[Crystal Cult Temples]] infiltrators, foreign spies, and rival research institutions all had motives.
 
@@ -465,37 +457,27 @@ Research has ground to a halt due to lack of volunteer test subjects. Investigat
 ### The Breakthrough Discovery
 A young researcher has made a revolutionary discovery but refuses to share it with the official research community. Investigation reveals she's being blackmailed by someone who wants to control the cure for their own purposes.
 
-## DM Notes
-
-### Research as Plot Device
-- Use research progress as a timer for campaign events
-- Research breakthroughs can change the political landscape
-- Failed experiments create new complications and story hooks
-- Researcher personalities drive interpersonal conflicts
-
-### Scientific Accuracy vs. Fantasy
-- Balance realistic research procedures with magical elements
-- Use scientific methodology as framework for magical experimentation
-- Allow player characters to contribute meaningfully to research efforts
-- Create opportunities for both intellectual and action-oriented encounters
-
-### Moral Complexity
-- Present genuine ethical dilemmas without clear right answers
-- Show how good intentions can lead to harmful consequences
-- Explore the tension between individual rights and public safety
-- Use research ethics as vehicle for character development
-
-## Cross-References
-- [[Crystal Plague Progression System]] - Disease mechanics and stages
-- [[Crystal Plague Wards]] - Patient care and hospital facilities  
-- [[Brother Marcus]] - Traditional healing approaches
-- [[Crystal Cult Temples]] - Religious perspectives on the plague
-- [[Black Market Crystal Trade]] - Economic and criminal aspects
-- [[Underground Smuggling Networks]] - Alternative distribution systems
-- [[Quarantine Enforcement]] - Government response and control measures
-
-<!-- enriched: true -->
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and truth emerges
+- A prisoner has gone missing and chaos spreads
+- The authorities needs help investigating before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

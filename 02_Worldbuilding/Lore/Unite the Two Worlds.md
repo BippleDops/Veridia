@@ -1,4 +1,5 @@
 ---
+
 title: Unite the Two Worlds
 type: Lore
 tags:
@@ -23,6 +24,8 @@ accessibility:
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:15.822283+00:00'
 world: Aethermoor
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -31,33 +34,74 @@ world: Aethermoor
 
 ![[04_Resources/Assets/Art/Lore/Unite_the_Two_Worlds.png|Unite the Two Worlds Portrait]]
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+
 ## Summary
 
 Unite the Two Worlds describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
-
-## Historical Context
-
-- Origin: Scribal disputes escalated into pressure-lock conflicts.
-- Spread: Merchant routes adopted secret signs to bypass tariffs; songs encoded depth-keys.
-- Present: Competing narratives justify new taxes, oaths, and contraband routes.
-
-## What It Means at the Table
-
-- Investigation: On a lead toward old tariffs, players can extract schedules that reduce travel risks for a session.
-- Social: Reciting the chapel oath grants advantage on one Persuasion check if honored afterward.
-- Exploration: Recognizing encoded waystones reduces the chance of getting lost by one step.
-
-## Threads and Revelations
-
-- Records implicate agents tied to [[The Lighthouse of Storms]].
-- A rite echoes the activation cadence needed for [[12_Research/D&D_Statblocks/The Whispering Expanse]].
-- Testimony suggests [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]] financed a pivotal bribe.
-
-## Cross-References
-
-- [[The Lighthouse of Storms]]
-- [[12_Research/D&D_Statblocks/The Whispering Expanse]]
-- [[02_Worldbuilding/People/Elena Starweaver.md|Elena Starweaver]]
 
 ## Player-Facing Summary
 
@@ -67,41 +111,48 @@ Unite the Two Worlds is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Unite the Two Worlds as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Unite the Two Worlds.
 
-## Adventure Hooks
-
-- A rumor ties Unite the Two Worlds to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Unite the Two Worlds to avert a public scandal.
-- A map overlay reveals a hidden approach to Unite the Two Worlds active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
-
-
 ## Overview
 
 Unite the Two Worlds represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
-
 
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
 
-## Game Applications
 
-### Adventure Hooks
-- Discovery of related artifacts or texts
-- Conflicts arising from different interpretations
-- Prophecies beginning to manifest
+## Plot Hooks
 
-### Character Connections
-- Scholarly interest
-- Personal involvement in events
-- Hereditary knowledge or curse
+- The authorities needs help investigating before winter
+- Strange accidents suggest a curse
+- The authorities needs help delivering before dawn
+- Strange dreams suggest a curse
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

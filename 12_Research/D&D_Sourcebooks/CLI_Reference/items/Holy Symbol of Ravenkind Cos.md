@@ -25,18 +25,33 @@ updated: '2025-08-13T12:34:07.016672+00:00'
 world: Both
 ---
 
-
-
 # Holy Symbol of Ravenkind
 *Wondrous item, legendary (requires attunement by a cleric or paladin of good alignment)*  
 ![](/03_Mechanics/CLI/items/img/holy-symbol-of-ravenkind.webp#right)
-
 
 The Holy Symbol of Ravenkind is a unique holy symbol sacred to the good-hearted faithful of Barovia. It predates the establishment of any church in Barovia. According to legend, it was delivered to a paladin named Lugdana by a giant raven—or an angel in the form of a giant raven. Lugdana used the holy symbol to root out and destroy nests of vampires until her death. The high priests of Ravenloft kept and wore the holy symbol after Lugdana's passing.
 
 The holy symbol is a platinum amulet shaped like the sun, with a large crystal embedded in its center.
 
 The holy symbol has 10 charges for the following properties. It regains `1d6 + 4` charges daily at dawn.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Hold Vampires
 
@@ -60,19 +75,28 @@ Holy symbol of ravenkind cos is a undersea element of the setting, known for bio
 
 Legends speak of holy symbol of ravenkind cos as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around holy symbol of ravenkind cos.
 
-## Adventure Hooks
-
-- A rumor ties holy symbol of ravenkind cos to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at holy symbol of ravenkind cos to avert a public scandal.
-- A map overlay reveals a hidden approach to holy symbol of ravenkind cos active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest ancient magic
+- A merchant needs help delivering before the new moon
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

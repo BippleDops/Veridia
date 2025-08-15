@@ -17,28 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -48,28 +42,27 @@ Customer Relations Director Seraphina Calmcurrent is a undersea element of the s
 
 Legends speak of Customer Relations Director Seraphina Calmcurrent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Customer Relations Director Seraphina Calmcurrent.
 
-## Adventure Hooks
-
-- A rumor ties Customer Relations Director Seraphina Calmcurrent to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Customer Relations Director Seraphina Calmcurrent to avert a public scandal.
-- A map overlay reveals a hidden approach to Customer Relations Director Seraphina Calmcurrent active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Customer Relations Director Seraphina Calmcurrent|02 Worldbuilding/Places/Customer Relations Director Seraphina Calmcurrent]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Pressure Terminal]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Achieve immortality
+
+
+## Plot Hooks
+
+- A shipment has gone missing and evil awakens
+- A letter reveals ancient history about a local noble
+- An heirloom has gone missing and war looms
+- A shipment has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

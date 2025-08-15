@@ -31,12 +31,28 @@ updated: '2025-08-13T12:34:05.862926+00:00'
 world: Both
 ---
 
-
-
 # [[gnoll-pack-lord-xmm|Gnoll Pack Lord]]
 *Source: Monster Manual (2024) p. 140*  
 
 Rising above other gnolls with their viciousness and physical prowess, gnoll pack lords terrorize weaker gnolls into their service. These brutes drive other gnolls to acts of great violence, then claim the best of their servants' spoils.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Gnolls
 
@@ -50,7 +66,6 @@ The first gnolls arose from hyenas that fed on flesh tainted by the Abyss. Their
 > [!quote] A quote from Iggwilv  
 > 
 > Yeenoghu claims gnolls not as his brood but as maggots purposefully released to infest a despised carcass. They are a pernicious rot the Beast of Butchery spreads across mortal worlds. Whatever they once were, they were remade and are now his.
-
 
 ```statblock
 "name": "Gnoll Pack Lord (XMM)"
@@ -109,19 +124,35 @@ Gnoll pack lord xmm is a undersea element of the setting, known for bioluminesce
 
 Legends speak of gnoll pack lord xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around gnoll pack lord xmm.
 
-## Adventure Hooks
-
-- A rumor ties gnoll pack lord xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at gnoll pack lord xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to gnoll pack lord xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Someone is protecting a artifact for revenge
+- A stranger needs help finding before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

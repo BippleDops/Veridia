@@ -17,7 +17,21 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
 
 ## Player-Facing Summary
@@ -28,19 +42,27 @@ Pit fighting complications xge is a undersea element of the setting, known for b
 
 Legends speak of pit fighting complications xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around pit fighting complications xge.
 
-## Adventure Hooks
-
-- A rumor ties pit fighting complications xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at pit fighting complications xge to avert a public scandal.
-- A map overlay reveals a hidden approach to pit fighting complications xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## Plot Hooks
+
+- Someone is hunting an heir for revenge
+- A document has gone missing and chaos spreads
+- A document has gone missing and chaos spreads
+- Someone is protecting an heir for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -1,0 +1,212 @@
+# Campaign_Dashboard
+
+---
+title: Campaign Dashboard - Aquabyssos & Aethermoor
+type: Lore
+tags:
+- dashboard
+- master-control
+- tracking
+- content/lore
+- world/both
+- research
+- active
+- campaign/arc
+- status/in-progress
+created: '2025-08-11'
+modified: '2025-08-14'
+status: complete
+updated: 2025-08-13 07:59:50.494234
+world: Both
+timeline: current_era
+chronology: active
+---
+
+# 🌊🌬️ Campaign Dashboard
+*Master Control Center for the Dual Worlds*
+
+```dataview
+TABLE WITHOUT ID
+  "⚡ " + choice(reality_stability < 25, "**CRITICAL**", 
+         choice(reality_stability < 50, "**UNSTABLE**", 
+         choice(reality_stability < 75, "Wavering", "Stable"))) AC "Reality Status",
+  "📊 " + reality_stability + "/100" AC "Stability",
+  "🌀 " + deep_mother_influence + "/100" AC "Deep Mother",
+  "⏰ Session " + current_session AC "Progress"
+FROM "Campaign_Dashboard"
+WHERE file.name = this.file.name
+```
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
+## 📊 Faction Power Tracker
+
+  faction AC "Faction",
+  "⚔️ " + military AC "Military",
+  "💰 " + economic AC "Economic",
+  "🏛️ " + political AC "Political",
+  "🔍 " + information AC "Information",
+  "✨ " + ideological AC "Ideological",
+  "📈 " + total_power AC "Total"
+FROM "02_Worldbuilding/Groups"
+WHERE contains(tags, "major-faction")
+SORT total_power DESC
+LIMIT 10
+
+### Active Conflicts
+1. **Tidal Council vs Surface Seekers** - Open hostilities
+2. **Crystal Wardens vs Parasite Priests** - Ideological war
+3. **Merchant Guilds vs Everyone** - Economic manipulation
+4. **Deep Mother Cults vs Reality** - Existential threat
+
+### Power Players
+| NPC | Location | Status | Loyalty | Next Action |
+|-----|----------|--------|---------|-------------|
+| **Nerissa Deepcurrent** | Maelstrom Palace | Desperate | Neutral | Seeking allies |
+| **Queen Seraphina** | Crystal Palace | Mad | Unstable | Festival ritual |
+| **Vex Shadowthorn** | Unknown | Active | Hostile | Shadow harvest |
+| **Marina Coralheart** | Multiple | Fractured | Confused | Identity crisis |
+| **Director Silverscale** | Consortium HQ | Plotting | Self | Economic war |
+
+### Rising Threats
+| NPC | Threat Level | Growth Rate | Counter-measures |
+|-----|--------------|-------------|------------------|
+| **Deep Mother** | 8/10 | Exponential | Reality anchors failing |
+| **The Silhouette Prime** | 7/10 | Steady | Shadow detection needed |
+| **Prophet Deepest-Dream** | 6/10 | Accelerating | Prophecy interpretation |
+| **Archive-Prince Mnemonic** | 5/10 | Unknown | Memory protection |
+
+### Potential Allies
+| NPC | Faction | Requirements | Benefits |
+|-----|---------|--------------|----------|
+| **Captain Stormcutter** | Independent | Protection | Military support |
+| **Sage Lysander** | Scholars | Knowledge trade | Ancient secrets |
+| **Merchant Prince Akula** | Guilds | Economic deal | Resources |
+| **Sister Morwyn** | Temple | Religious quest | Divine protection |
+
+### Party Status
+  character_name AC "Character",
+  player AC "Player",
+  adaptation_points AC "AP",
+  faction_standing AC "Primary Faction",
+  sanity AC "Sanity",
+  status AC "Status"
+FROM "Player_Characters"
+WHERE campaign = "Active"
+
+### Instant Encounter Generator
+```button
+name Generate Random Encounter
+type command
+action Dataview: Generate random encounter based on current location and threat level
+color blue
+
+### Faction Action Resolver
+name Resolve Faction Turn
+action Calculate and apply all faction actions for this turn
+color green
+
+### Reality Check
+name Check Reality Stability
+action Roll for reality events and apply changes
+color red
+
+### NPC Reaction
+name Generate NPC Response
+action Create contextual NPC reaction based on current situation
+color yellow
+
+### Player-Facing Encounter Handouts
+LIST FROM "04_Resources/Handouts/Encounters"
+SORT file.name ASC
+
+### GM Encounter Sheets
+LIST FROM "06_GM_Resources/Travel/Encounter_Sheets"
+
+### Convergence Factors
+| Factor | Status | Acceleration |
+|--------|--------|--------------|
+| Surface Seal | Weakening | +2/session |
+| Deep Mother | Awakening | +3/session |
+| Reality Anchors | Failing | +1/session |
+| Adaptation Spread | Increasing | +1/session |
+| Prophecies | Manifesting | +2/session |
+| **Total** | **Critical** | **+9/session** |
+
+### 📝 Notes for Next Session
+Key Focus Areas:
+1. Marina identity crisis resolution scene
+2. Parliament emergency vote on Surface Seal
+3. First major reality merger event
+4. Parasite outbreak containment
+5. Crystal Festival preparations reveal
+
+Remember:
+- Players have reality anchor (2 charges left)
+- Vex Shadowthorn knows party location
+- Memory tide will reveal hidden truths
+- Queen's madness linked to Deep Mother
+- Time loop possibility in Lighthouse
+
+## 🔄 Auto-Update Status
+
+```dataviewjs
+// This would automatically update based on session logs
+const lastUpdate = dv.page("Session Log").file.mtime;
+const daysSinceUpdate = (Date.now() - lastUpdate) / (1000 * 60 * 60 * 24);
+
+if (daysSinceUpdate > 7) {
+  dv.paragraph("⚠️ **Dashboard needs update** - Last updated: " + daysSinceUpdate + " days ago");
+} else {
+  dv.paragraph("✅ Dashboard current - Last updated: " + daysSinceUpdate + " days ago");
+}
+
+---
+
+## Navigation
+- [[Master Index]] - Complete vault navigation
+- [[World Bible]] - Comprehensive lore reference  
+- [[Campaign Index]] - Session archive
+- [[Quick Start Guide]] - New player onboarding
+- [[02_Worldbuilding/Lore/GM Resources]] - Gamemaster tools
+
+---
+
+*Dashboard Version 2.0 - Real-time campaign tracking and management*
+*Auto-refreshes with session updates*
+*Integrated with all major vault systems*
+
+## Related
+
+*Links to related content will be added here.*
+
+## DM Notes
+
+*Private notes for campaign integration:*
+- Can be adapted to fit current story needs
+- Scalable threat/reward based on party level
+- Multiple entry points for different play styles
+- Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A journal reveals a conspiracy about a local noble
+- A shipment has gone missing and evil awakens
+- A letter reveals the truth about the cult

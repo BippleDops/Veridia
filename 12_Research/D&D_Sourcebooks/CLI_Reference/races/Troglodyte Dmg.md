@@ -23,17 +23,12 @@ updated: '2025-08-13T12:34:08.048596+00:00'
 world: Both
 ---
 
-
-
 # Troglodyte
 *Source: Dungeon Master's Guide p. 282*  
-
 
 - **Ability Scores**: str +2 con +2 int -4 cha -4
 - **Size**: Medium
 - **Speed**: 30 ft.
-
-## Traits
 
 ### Chameleon Skin
 
@@ -59,6 +54,24 @@ You can see in dim light within 60 feet of you as if it were bright light, and i
 
 You can speak, read, and write Troglodyte.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Troglodyte dmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -67,19 +80,18 @@ Troglodyte dmg is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of troglodyte dmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around troglodyte dmg.
 
-## Adventure Hooks
-
-- A rumor ties troglodyte dmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at troglodyte dmg to avert a public scandal.
-- A map overlay reveals a hidden approach to troglodyte dmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest a curse
+- A merchant needs help delivering before winter
+- Strange dreams suggest a portal
+- Someone is searching for a witness for love

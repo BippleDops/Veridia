@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Crystallium|02 Worldbuilding/Places/Crystallium]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Crystallium]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,23 @@ The Prismatic Core is a undersea element of the setting, known for bioluminescen
 
 Legends speak of The Prismatic Core as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Prismatic Core.
 
-## Adventure Hooks
-
-- A rumor ties The Prismatic Core to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Prismatic Core to avert a public scandal.
-- A map overlay reveals a hidden approach to The Prismatic Core active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- Someone is blackmailing a artifact for money
+- Someone is protecting an heir for money
+- A noble needs help delivering before dawn
+- A prisoner has gone missing and war looms

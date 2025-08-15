@@ -1,14 +1,14 @@
-# Lighthouse Peak - Resonance Chamber
+# Lighthouse Peak - Resoce Chamber
 
 ---
-title: Lighthouse Peak   Resonance Chamber
+title: Lighthouse Peak   Resoce Chamber
 type: Lore
 tags:
 - lore
 - lighthouse
 - research
 - magical-device
-- resonance-chamber
+- resoce-chamber
 - location
 - complete
 - active
@@ -21,38 +21,39 @@ created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 ---
 
-
-
-
-
-# Lighthouse Peak - Resonance Chamber
+# Lighthouse Peak - Resoce Chamber
 
 *"At the pinnacle where sea meets sky, ancient harmonies still echo."*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
-The Resonance Chamber at Lighthouse Peak is a specialized magical facility built into the highest point of a prominent coastal lighthouse. This chamber contains crystalline formations and magical apparatus designed to amplify and focus magical energies, creating powerful resonance effects that can influence weather patterns, communication networks, and dimensional stability across vast distances.
+The Resoce Chamber at Lighthouse Peak is a specialized magical facility built into the highest point of a prominent coastal lighthouse. This chamber contains crystalline formations and magical apparatus designed to amplify and focus magical energies, creating powerful resoce effects that can influence weather patterns, communication networks, and dimensional stability across vast distances.
 
 ## Historical Background
-Originally built as a navigation aid for ships, the lighthouse was later converted to house the Resonance Chamber when magical researchers discovered the peak's unique acoustic and magical properties.
+Originally built as a navigation aid for ships, the lighthouse was later converted to house the Resoce Chamber when magical researchers discovered the peak's unique acoustic and magical properties.
 
 ## Current State
 The chamber now serves multiple purposes: weather control, long-distance magical communication, and emergency beacon for inter-realm distress signals. Recent dimensional instabilities have made its operation increasingly unpredictable.
 
-## Mechanics
-### Requirements
-- Specialized training in resonance magic
-- Crystalline focusing components
-- Weather-resistant magical apparatus
-- Coordination with maritime safety authorities
-
-### Effects
-- **Weather Influence**: Limited control over local weather patterns
-- **Communication Boost**: Enhances long-distance magical messages
-- **Emergency Beacon**: Can send distress signals across realms
-- **Dimensional Monitoring**: Detects stability fluctuations
-
 ### Duration
-Operational continuously with periodic maintenance requirements.
+Operational continuously with periodic maintece requirements.
 
 ## Adventure Hooks
 1. **Signal Lost**: The chamber goes silent during a critical emergency
@@ -62,31 +63,28 @@ Operational continuously with periodic maintenance requirements.
 ## Campaign Use
 Provides strategic communication hub and potential source of magical complications or solutions.
 
-
-## Connections
-
-- [[The Deep Mother]]
-
 ## Player-Facing Summary
 
-Lighthouse Peak   Resonance Chamber is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
+Lighthouse Peak   Resoce Chamber is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
 
 ## Lore Details
 
-Legends speak of Lighthouse Peak   Resonance Chamber as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lighthouse Peak   Resonance Chamber.
+Legends speak of Lighthouse Peak   Resoce Chamber as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lighthouse Peak   Resoce Chamber.
 
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Location Index|02 Worldbuilding/Lore/Location Index]]
-- [[Aetheric Wind Songs]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

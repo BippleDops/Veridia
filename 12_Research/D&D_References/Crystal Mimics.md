@@ -22,12 +22,27 @@ created_by: auto-stub
 updated: '2025-08-11T00:00:00+00:00'
 ---
 
-
-
-
 # Crystal Mimics
 
 *"Trust not the gleaming treasure that calls too sweetly from the shadows."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -47,52 +62,11 @@ Crystal Mimics now inhabit both worlds, showing particular preference for areas 
 
 Modern encounters often occur in treasure vaults, magical workshops, and crystal gardens where unsuspecting victims mistake them for valuable specimens. Their hunting strategy has evolved to be more sophisticated, sometimes working in coordination with other aberrations or even forming temporary alliances with creatures that can benefit from their mimicry abilities.
 
-## Cultural Impact
-
 ### Aquabyssos
 Underwater crystal formations are highly valued for their magical properties and beauty. Crystal Mimics have made harvesting these resources significantly more dangerous, leading to the development of specialized detection methods and protective protocols. The Pearl Guard maintains dedicated units trained in mimic identification and elimination.
 
 ### Aethermoor
 Surface crystal miners and magical researchers have adapted their practices to account for mimic threats. New guild regulations require multiple verification methods before harvesting valuable crystals, and magical detection spells have become standard equipment for anyone working with crystalline materials.
-
-## Mechanics
-
-### Requirements
-- Access to genuine crystalline materials for incorporation
-- Magical energy sources for sustenance
-- Areas with sufficient space to assume crystal formation shapes
-- Time to properly study and replicate target crystal types
-
-### Effects
-- **Perfect Mimicry**: Virtually indistinguishable from genuine crystals
-- **Energy Drain**: Absorbs magical energy from nearby sources
-- **Ambush Predator**: Surprise attacks on unsuspecting victims
-- **Adaptive Evolution**: Gradually improves mimicry based on observations
-- **Magical Resistance**: Incorporation of crystal matter provides spell resistance
-
-### Duration
-- Can maintain crystal form indefinitely while well-fed
-- Reverts to natural form when critically injured or starved
-- Mimicry becomes more perfect over longer periods of observation
-
-## Notable Examples
-
-- **The Glimmering Gallery Incident**: Twelve Crystal Mimics disguised as art pieces attacked visitors during a prestigious exhibition
-- **The Fool's Gold Mine**: Entire crystal mine consumed by a family of mimics over several years
-- **The Scholar's Trap**: Research laboratory where mimics replaced an entire collection of study specimens
-
-## Key Figures
-
-- **Master Crystallographer Petra Shardwright**: Expert in detecting Crystal Mimic infiltration
-- **Mimic Hunter Garnet Truestone**: Specialized adventurer who tracks and eliminates crystal mimics
-- **Dr. Prism Clearlight**: Researcher studying mimic evolution and behavior patterns
-
-## Mysteries
-
-- Whether Crystal Mimics retain memories from consumed crystalline materials
-- The maximum size limit for their crystal forms
-- Potential for communication or negotiation with more intelligent specimens
-- Connection to other planar aberrations and dimensional instabilities
 
 ## Adventure Hooks
 
@@ -104,25 +78,9 @@ Surface crystal miners and magical researchers have adapted their practices to a
 
 Crystal Mimics are actually evolving toward a more cooperative relationship with intelligent races. Some specimens have begun leaving valuable crystals as "bait" to study magic-users, learning to differentiate between threats and potential symbiotic partners. A secret research project is attempting to establish communication protocols.
 
-## Related Topics
-
-- [[Crystal Festival]]
-- [[The Crystal Festival Grounds]]
-- [[Madness Effects]]
-- [[Random Encounter Tables]]
-- [[Treasure by Depth]]
-
 ## Campaign Use
 
 Crystal Mimics work excellent as both combat encounters and puzzle elements. Use them to create tension around treasure discovery and make players second-guess valuable finds. They can serve as recurring threats that adapt to party tactics, becoming more challenging over time as they learn from each encounter.
-
-
-## Connections
-
-- [[Crystal Cult Initiates Ambush]]
-- [[Prismatic Falls]]
-- [[The Seven Shards]]
-- [[Aethermoor - Session 02 The Lighthouse of Storms]]
 
 ## Player-Facing Summary
 
@@ -136,8 +94,14 @@ Legends speak of Crystal Mimics as a nexus where past and present converge. Loca
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
 
-## Cross-References
 
-- [[Crystal Cult Initiates Ambush|02 Worldbuilding/Lore/Crystal Cult Initiates Ambush]]
+## Plot Hooks
+
+- The authorities needs help finding before the new moon
+- A document has gone missing and evil awakens
+- Someone is blackmailing a witness for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

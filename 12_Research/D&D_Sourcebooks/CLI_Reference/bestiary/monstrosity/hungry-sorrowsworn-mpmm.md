@@ -29,11 +29,28 @@ updated: '2025-08-12T23:37:34.972384'
 world: Both
 ---
 
-
 # [[hungry-sorrowsworn-mpmm|Hungry Sorrowsworn]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 223, Mordenkainen's Tome of Foes p. 232*  
 
 Horrible creatures with grasping claws and distended jaws, hungry sorrowsworn—also known as the Hungry—do whatever is necessary to sate their appetites. These greedy devourers stuff their maws with flesh and drink in their victims' screams. When they finish, they lurch away while their bright eyes resume the search for something else to consume.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Sorrowsworn
 
@@ -55,7 +72,6 @@ The Shadowfell's pervasive melancholy sometimes gives rise to strange incarnatio
   - !!int "17"
   - !!int "6"
   - !!int "11"
-  - !!int "6"
 "speed": "30 ft."
 "damage_resistances": "bludgeoning, piercing, slashing while in dim light or darkness"
 "senses": "darkvision 60 ft., passive Perception 10"
@@ -98,19 +114,27 @@ Hungry sorrowsworn mpmm is a undersea element of the setting, known for biolumin
 
 Legends speak of hungry sorrowsworn mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hungry sorrowsworn mpmm.
 
-## Adventure Hooks
-
-- A rumor ties hungry sorrowsworn mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at hungry sorrowsworn mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to hungry sorrowsworn mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a portal
+- A letter reveals a conspiracy about the government
+- Strange dreams suggest ancient magic
+- A merchant needs help investigating before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

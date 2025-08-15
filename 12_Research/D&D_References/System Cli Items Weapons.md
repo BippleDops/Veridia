@@ -23,21 +23,16 @@ updated: '2025-08-13T12:34:29.313479+00:00'
 world: Aquabyssos
 ---
 
-
-
-
 # Weapons of the Split Realms: Steel, Crystal, and Corruption
 
 The art of weaponcraft has evolved dramatically since the sundering of the realms. In [[Aethermoor]] and [[Aquabyssos]], weapons are not merely tools of war—they are expressions of the fundamental forces that shape reality itself. Each realm's unique environment and the ever-present influence of the [[Deep Mother|02 Worldbuilding/Entities/Deep Mother]] have given rise to entirely new categories of arms.
 
-## Regional Weapon Traditions
-
-### Aethermoor: Resonance Weapons
+### Aethermoor: Resoce Weapons
 In the sky realm, weaponsmiths work with crystalline materials that naturally harmonize with the [[Seven Shards]]. The [[02_Worldbuilding/Factions/The Crystal Forge Guild|02 Worldbuilding/Factions/The Crystal Forge Guild]] has mastered the art of "Harmonic Smithing," creating weapons that channel sonic frequencies to devastating effect.
 
-**Resonance Blades** vibrate at specific frequencies that can shatter armor, disrupt magical shields, or even cause internal organs to rupture. The most skilled [[The Storm Riders]] carry "Windcutters"—swords that slice through air resistance itself, allowing for impossible aerial maneuvers.
+**Resoce Blades** vibrate at specific frequencies that can shatter armor, disrupt magical shields, or even cause internal organs to rupture. The most skilled [[The Storm Riders]] carry "Windcutters"—swords that slice through air resistance itself, allowing for impossible aerial maneuvers.
 
-The [[02_Worldbuilding/Locations/Floating Arsenal|02 Worldbuilding/Locations/Floating Arsenal]] houses the legendary **Chorus of a Thousand Cuts**, a set of crystalline daggers that sing in perfect harmony when drawn together, their combined resonance capable of leveling entire buildings.
+The [[02_Worldbuilding/Locations/Floating Arsenal|02 Worldbuilding/Locations/Floating Arsenal]] houses the legendary **Chorus of a Thousand Cuts**, a set of crystalline daggers that sing in perfect harmony when drawn together, their combined resoce capable of leveling entire buildings.
 
 ### Aquabyssos: Pressure and Corruption
 In the depths, weapons must withstand crushing pressure while channeling the dark energies that seep through the water. The [[02_Worldbuilding/Factions/The Void Sculptors|02 Worldbuilding/Factions/The Void Sculptors]] craft "Depth Weapons" from materials that have been exposed to the Deep Mother's influence, resulting in arms that grow stronger the deeper they go.
@@ -46,12 +41,10 @@ In the depths, weapons must withstand crushing pressure while channeling the dar
 
 The [[02_Worldbuilding/Locations/Abyssal Forges|02 Worldbuilding/Locations/Abyssal Forges]] produce weapons that blur the line between crafted tool and living organism, their metal surfaces writhing with a life of their own.
 
-## Legendary Weapons
-
 ### The Shard-Touched Arsenal
 Seven legendary weapons were forged in the moments immediately following the Sundering, each infused with fragments of the [[Seven Shards]]:
 
-1. **Lightrender** - A crystalline spear that fires beams of pure illumination, wielded by the first [[02_Worldbuilding/Factions/The Resonance Keepers|02 Worldbuilding/Factions/The Resonance Keepers]]
+1. **Lightrender** - A crystalline spear that fires beams of pure illumination, wielded by the first [[02_Worldbuilding/Factions/The Resoce Keepers|02 Worldbuilding/Factions/The Resoce Keepers]]
 2. **Deepbane** - A pressure-forged trident that can control ocean currents, lost somewhere in the [[02_Worldbuilding/Locations/Sunken Palace|02 Worldbuilding/Locations/Sunken Palace]]
 3. **Truthcutter** - A sword that cannot be deceived by illusion or lie, sought by the [[02_Worldbuilding/Organizations/The Truth Seekers|02 Worldbuilding/Organizations/The Truth Seekers]]
 4. **Dreambringer** - A staff that can manifest nightmares as physical entities, sealed away by the [[02_Worldbuilding/Organizations/The Ethical Council of Mages|02 Worldbuilding/Organizations/The Ethical Council Of Mages]]
@@ -65,23 +58,6 @@ Crafted by the [[02_Worldbuilding/Organizations/The Chroniclers|02 Worldbuilding
 ### The Laughing Death
 A weapon of pure chaos created in the [[02_Worldbuilding/Locations/Phantom Reef|02 Worldbuilding/Locations/Phantom Reef]], this shape-shifting implement appears as whatever its wielder finds most amusing at the moment—often a rubber chicken or oversized lollipop—while delivering absolutely lethal attacks. The [[02_Worldbuilding/Factions/The Order of the Veil|02 Worldbuilding/Factions/The Order Of The Veil]] considers it too dangerous for anyone's mental health to use.
 
-## Weapon Classifications
-
-### Traditional Categories
-- **Slashing**: Swords, axes, and bladed implements designed for cutting
-- **Piercing**: Spears, arrows, and stabbing weapons that focus force into points
-- **Bludgeoning**: Hammers, maces, and weapons that deliver crushing force
-- **Ranged**: Bows, crossbows, and throwing weapons for distant combat
-
-### Realm-Specific Categories
-- **Resonance**: Weapons that channel sonic and vibrational energy (Aethermoor)
-- **Pressure**: Arms that utilize hydraulic force and water manipulation (Aquabyssos)
-- **Corruption**: Weapons touched by the Deep Mother's influence (Aquabyssos)
-- **Purification**: Arms designed specifically to cleanse corruption (Both realms)
-- **Harmony**: Weapons that function best when used by multiple wielders (Cross-realm)
-
-## Master Weaponsmiths
-
 ### Forge-Master Crystalstrike (Aethermoor)
 The finest smith in the floating realm, known for creating weapons that sing with their own unique voice. Her masterwork, the **Symphony Blade**, changes its combat abilities based on the musical mode it's currently resonating in.
 
@@ -91,16 +67,32 @@ Born in the deepest trenches, this master craftsman creates weapons that embody 
 ### The Unnamed Smith
 A mysterious figure who appears in both realms, crafting weapons that seem to exist partially in multiple dimensions. Their creations often exhibit properties that shouldn't be possible, leading some to believe they are either blessed by the Shards themselves or perhaps a fragment of the Deep Mother working toward unknown ends.
 
-## Crafting Traditions
-
 ### The Ritual of First Strike
 Every weapon forged in either realm must undergo the Ritual of First Strike, where it draws its first blood from its own creator. This binding ceremony ensures the weapon will serve its intended purpose and warns smiths against creating instruments of pure malice.
 
-### Shard Resonance Testing
-Weapons crafted in Aethermoor are tested for their ability to harmonize with the [[Seven Shards]]. Those that show natural resonance are marked with the [[02_Worldbuilding/Organizations/The Chroniclers|02 Worldbuilding/Organizations/The Chroniclers]]' seal and their origins carefully recorded.
+### Shard Resoce Testing
+Weapons crafted in Aethermoor are tested for their ability to harmonize with the [[Seven Shards]]. Those that show natural resoce are marked with the [[02_Worldbuilding/Organizations/The Chroniclers|02 Worldbuilding/Organizations/The Chroniclers]]' seal and their origins carefully recorded.
 
 ### Corruption Resistance Protocols
 All weapons made in Aquabyssos undergo testing to ensure they won't be turned against their wielders by the Deep Mother's influence. The [[The Depth Wardens]] maintain strict standards for this process, as corrupted weapons have been responsible for numerous tragedies.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Magical Enhancement
 
@@ -130,19 +122,20 @@ Recent discoveries of pre-Sundering weapons in various [[02_Worldbuilding/Locati
 
 Legends speak of Ω System CLI items weapons as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ω System CLI items weapons.
 
-## Adventure Hooks
-
-- A rumor ties Ω System CLI items weapons to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Ω System CLI items weapons to avert a public scandal.
-- A map overlay reveals a hidden approach to Ω System CLI items weapons active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

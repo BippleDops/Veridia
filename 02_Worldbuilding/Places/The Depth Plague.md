@@ -1,4 +1,5 @@
 ---
+
 title: The Depth Plague
 type: Location
 tags:
@@ -10,6 +11,8 @@ tags:
 - location
 - complete
 - status/in-progress
+- conspiracy
+- bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +21,8 @@ population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:17.224424+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -25,10 +30,74 @@ world: Both
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-the-depth-plague-the-depth-plague.svg]]
 
-
 # The Depth Plague
 
 *A supernatural affliction spreading through the deepest trenches of Aquabyssos, transforming the infected into aberrant horrors.*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
 
 ## Physical Description & Atmosphere
 
@@ -45,10 +114,6 @@ The Depth Plague first emerged following the disastrous [[Expedition to the Sunl
 Initial symptoms appeared as enhanced darkvision and resistance to pressure, leading some to view it as an evolutionary advantage. However, as the plague progressed, victims developed horrifying mutations and an insatiable hunger for the life essence of healthy creatures.
 
 The [[Council of Currents]] declared a state of emergency when the plague began spreading through major population centers. Entire settlements in the [[Midnight Reaches]] were abandoned, their inhabitants either fled or transformed into something unrecognizable.
-
-## Current Situation & Inhabitants
-
-### The Transformed
 
 #### Depth Touched
 *Medium humanoid (any race), chaotic evil*
@@ -74,8 +139,6 @@ The [[Council of Currents]] declared a state of emergency when the plague began 
 **Actions**
 - **Multiattack.** The Depth Touched makes two claw attacks.
 - **Infected Claw.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (1d10 + 3) slashing damage plus 4 (1d8) necrotic damage.
-
-### Quarantine Enforcers
 
 #### Depth Warden Korallis
 *Medium humanoid (triton), lawful good*
@@ -105,8 +168,6 @@ The [[Council of Currents]] declared a state of emergency when the plague began 
 - **Multiattack.** Korallis makes two attacks with her purified trident.
 - **Purified Trident.** *Melee or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 7 (1d6 + 4) piercing damage plus 4 (1d8) radiant damage. If the target is diseased, it takes an additional 4 (1d8) radiant damage.
 
-## Notable Features & Hazards
-
 ### The Plague Mechanics (D&D 5e)
 
 **Depth Plague Disease**
@@ -117,8 +178,6 @@ A creature exposed to the Depth Plague must make a DC 15 Constitution saving thr
 
 **Recovery:** At the end of each long rest, an infected creature may make a DC 15 Constitution saving throw. On a success, the disease's progression halts for 24 hours. Three consecutive successful saves cure the disease.
 
-### Quarantine Zones
-
 #### The Writhing Gardens
 Former [[Kelp Forest]] now transformed into a nightmarish maze of mutated vegetation. DC 18 Perception checks reveal safe paths through the corrupted growth.
 
@@ -127,8 +186,6 @@ A deep trench where the plague originated. Strange sounds emerge from its depths
 
 #### The Bone Shelf
 A plateau of calcified remains from plague victims. Undead creatures spawn here during new moon cycles.
-
-## Adventure Hooks & Encounters
 
 ### The Cure Expedition (Level 8-11)
 [[Sage Nereon]] of the [[Academy of Depths]] believes she has discovered a potential cure using rare [[Pristine Pearl]] essence from the [[Crystal Caverns]]. The party must escort her research team through quarantined zones to test the treatment on willing subjects.
@@ -139,26 +196,6 @@ Communication has been lost with [[Haven Reef]], a remote settlement. Investigat
 ### The Spreading Corruption (Level 10-14)
 Plague outbreaks are reported simultaneously in three major cities: [[Port Abyssos]], [[The Twilight Gardens]], and [[Fort Nautilus]]. Evidence suggests deliberate sabotage by plague cultists serving [[Deep Ones]]. A race against time to prevent total contamination of Aquabyssos.
 
-## Environmental Challenges
-
-### Contaminated Water
-- Swimming in plague-infected water requires Constitution saves every 10 minutes
-- Magical water breathing effects have a 25% chance of failure in contaminated zones
-- Healing magic is reduced by half effectiveness in heavily infected areas
-
-### Aberrant Influence
-- Spellcasters must make Wisdom saves when casting in infected zones
-- Wild magic surges occur on a roll of 1-2 on d20 for sorcerers
-- Divination magic provides unreliable information (DM's discretion)
-
-### Quarantine Protocols
-- **Green Zone** - Safe areas with regular patrols
-- **Yellow Zone** - Light contamination, restricted access
-- **Red Zone** - Heavy infection, kill-on-sight orders for the Transformed
-- **Black Zone** - Total contamination, avoid at all costs
-
-## Research & Treatment Facilities
-
 ### The Sanctuary of Deep Healing
 Located in [[Port Abyssos]], this temple to [[Poseidon]] serves as the primary treatment center. High Priestess [[Thalassa Lightbringer]] leads research efforts.
 
@@ -168,14 +205,6 @@ A military outpost on the edge of the [[Midnight Reaches]], staffed by the [[Ord
 ## Connected Threats
 The Depth Plague shows connections to other supernatural threats including the [[Coral Throne Syndicate]]'s smuggling operations, strange artifacts recovered from [[The Sunken Senate]], and the increasing activity of [[Deep Ones]] in the [[Abyssal Territories]].
 
-
-## Connections
-
-- [[Coral Throne Syndicate]]
-- [[Current Riders Guild]]
-- [[Memoriam]]
-- [[New Tethys]]
-
 ## Player-Facing Summary
 
 The Depth Plague is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -184,16 +213,6 @@ The Depth Plague is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of The Depth Plague as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Depth Plague.
 
-## Adventure Hooks
-
-- A rumor ties The Depth Plague to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Depth Plague to avert a public scandal.
-- A map overlay reveals a hidden approach to The Depth Plague active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -201,37 +220,9 @@ Legends speak of The Depth Plague as a nexus where past and present converge. Lo
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[The Depth Plague]]
-
-<!-- enriched: true -->
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[Abyssal Crystals]]
-- [[04_Resources_Assets_Portraits_portrait-npc-quest-the-failing-magic-quest-the-failing-magic.svg]]
-- [[04_Resources_Assets_Locations_location-city-void-krakens-v1-void-krakens.svg]]
-
 
 ## Sensory Details
 
@@ -241,7 +232,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: The tang of salt air permeates everything
 
-
 ## Description
 
 The Depth Plague is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -249,21 +239,7 @@ The Depth Plague is a notable location characterized by its unique features and 
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -276,15 +252,28 @@ Ongoing situations affecting The Depth Plague:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about The Depth Plague
+## Cultural Practices
 
-### Whispered Rumors
-- Stories that may or may not be true
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
+
+
+## Religious Observances
+
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
+
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

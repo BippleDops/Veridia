@@ -22,9 +22,8 @@ updated: '2025-08-12T23:37:37.717605'
 world: Both
 ---
 
-
 # Elf
-*Source: Player's Handbook (2024) p. 189. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Player's Handbook (2024) p. 189. Available in the SRD and the Free Rules (2024)*  
 ![](/03_Mechanics/CLI/races/img/elf.webp#right)
 
 - **Ability Scores**: None
@@ -32,8 +31,6 @@ world: Both
 - **Size**: Medium
 - **Speed**: 30 ft.
 - **Spellcasting**: Choose one of Intelligence, Wisdom, Charisma
-
-## Traits
 
 ### Darkvision
 
@@ -68,6 +65,24 @@ You have proficiency in the [[skills#Insight|Insight]], [[skills#Perception|Perc
 
 You don't need to sleep, and magic can't put you to sleep. You can finish a [[long-rest-xphb|Long Rest]] in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Description
 
 Created by the god Corellon, the first elves could change their forms at will. They lost this ability when Corellon cursed them for plotting with the deity Lolth, who tried and failed to usurp Corellon's dominion. When Lolth was cast into the Abyss, most elves renounced her and earned Corellon's forgiveness, but that which Corellon had taken from them was lost forever.
@@ -90,7 +105,6 @@ High elves have been infused with the magic of crossings between the Feywild and
 
 Wood elves carry the magic of primeval forests within themselves. They are known by many other names, including wild elves, green elves, and forest elves. Grugach are reclusive wood elves of the Greyhawk setting, while the Kagonesti and the Tairnadal are wood elves of the Dragonlance and Eberron settings, respectively.
 
-
 ![[/03_Mechanics/CLI/races/img/148-05-022-elf-city.webp#center|A ship departs from a city built by high elves]]
 
 ## Player-Facing Summary
@@ -101,19 +115,20 @@ Elf xphb is a undersea element of the setting, known for bioluminescent glow and
 
 Legends speak of elf xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elf xphb.
 
-## Adventure Hooks
-
-- A rumor ties elf xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at elf xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to elf xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

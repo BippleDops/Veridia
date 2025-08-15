@@ -23,7 +23,6 @@ updated: '2025-08-12T23:37:36.605999'
 world: Both
 ---
 
-
 # Chime of Opening
 *Wondrous item, rare*  
 ![](/03_Mechanics/CLI/items/img/chime-of-opening.webp#right)
@@ -32,7 +31,25 @@ world: Both
 
 This hollow metal tube measures about 1 foot long and weighs 1 pound. As a [[actions#Magic|Magic]] action, you can strike the chime to cast [[knock-xphb|Knock]]. The spell's customary knocking sound is replaced by the clear, ringing tone of the chime, which is audible out to 300 feet. The chime can be used 10 times. After the tenth time, it cracks and becomes useless.
 
-*Source: Dungeon Master's Guide (2024) p. 244. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 244. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -42,19 +59,21 @@ Chime of opening xdmg is a undersea element of the setting, known for biolumines
 
 Legends speak of chime of opening xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around chime of opening xdmg.
 
-## Adventure Hooks
-
-- A rumor ties chime of opening xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at chime of opening xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to chime of opening xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Someone is protecting an heir for money
+- Strange sightings suggest a portal

@@ -23,13 +23,26 @@ updated: '2025-08-13T12:34:05.966460+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ancient-bronze-dragon-xmm-ancient-bronze-dragon-xmm.svg)
 
-# Bronze Dragon
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Monster Manual_
@@ -45,10 +58,9 @@ At your discretion, a legendary ([[adult-bronze-dragon-xmm|adult]] or [[ancient-
 
 - **Ocean's Call.** The dragon conjures a swarm of spectral dolphins. Each creature in the water within 120 feet of the dragon must succeed on a DC 15 Dexterity saving throw or take 5 (`d10`) slashing damage; then the swarm vanishes.  
 - **Salt Burst.** The dragon chooses a point it can see in the lair. The air in a 20-foot-radius sphere centered on that point bursts with abrasive salt crystals. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take 10 (`3d6`) slashing damage.  
-- **Whelming Water.** The dragon causes a strong current to course through the water in its lair. The dragon chooses any number of creatures it can see that are standing or swimming in water within 120 feet of it. Each chosen creature must succeed on a DC 15 Strength saving throw or be knocked [[conditions#Prone|prone]].  
+- **Whelming Water.** The dragon causes a strong current to course through the water in its lair. The dragon chooses any number of creatures it can see that are standing or swimming in water within 120 feet of it. Each chosen creature must succeed on a DC 15 Strength saving throw or be knocked [[conditions#prone|prone]].  
 
 ## Regional effects
-_Source: Monster Manual_
 
 The region containing a legendary bronze dragon's lair is warped by the dragon's magic.
 
@@ -74,19 +86,23 @@ Bronze dragon is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of bronze dragon as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bronze dragon.
 
-## Adventure Hooks
-
-- A rumor ties bronze dragon to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at bronze dragon to avert a public scandal.
-- A map overlay reveals a hidden approach to bronze dragon active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- Strange accidents suggest ancient magic
+- Someone is hunting a witness for love
+- An heirloom has gone missing and truth emerges
+- An heirloom has gone missing and truth emerges

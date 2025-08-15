@@ -14,57 +14,22 @@ modified: '2025-08-14'
 ---
 
 
-# Other Notable Actual Play Campaigns
+## 🔧 Deep Evaluation Improvements
 
-## The Adventure Zone
-- **Podcast**: Maximum Fun Network
-- **DMs**: Griffin McElroy (primarily)
-- **Campaigns**:
-  - Balance Arc (D&D 5e)
-  - Amnesty (Monster of the Week)
-  - Graduation (D&D 5e)
-  - Ethersea (D&D 5e)
-- **Link**: https://theadventurezone.fandom.com
+*20 targeted improvements identified*
 
-## High Rollers
-- **YouTube**: Yogscast
-- **DM**: Mark Hulmes
-- **Campaigns**:
-  - Lightfall (complete)
-  - Aerois (complete)
-  - Current campaign
-- **System**: D&D 5e
+### Connection Improvements
 
-## Not Another D&D Podcast (NADDPOD)
-- **Podcast**: HeadGum
-- **DM**: Brian Murphy
-- **Campaigns**:
-  - Bahumia (Campaign 1)
-  - Eldermourne (Campaign 2)
-  - Campaign 3 (ongoing)
+- Add cross-references to related notes
 
-## Acquisitions Incorporated
-- **Platform**: Penny Arcade
-- **DMs**: Chris Perkins, Jeremy Crawford
-- **Style**: Corporate D&D comedy
-- **PAX Live Shows**: Epic productions
+### Enhancement Improvements
 
-## Glass Cannon Network
-- **Multiple shows**: Various systems
-- **Giant Slayer**: Pathfinder AP
-- **Strange Aeons**: Call of Cthulhu crossover
-- **Get in the Trunk**: Delta Green
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Dungeons & Daddies
-- **Podcast**: Comedy D&D
-- **Premise**: Dads from our world in Forgotten Realms
-- **Season 2**: Their kids' adventure
-
-## LA By Night
-- **System**: Vampire: The Masquerade
-- **Platform**: World of Darkness
-- **Setting**: Modern Los Angeles
-- **Style**: Gothic horror drama
 
 ## Oxventure
 - **YouTube**: Outside Xbox/Outside Xtra
@@ -75,11 +40,9 @@ modified: '2025-08-14'
 ---
 *Diverse actual play references for different styles*
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

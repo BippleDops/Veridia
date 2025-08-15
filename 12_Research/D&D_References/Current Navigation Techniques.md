@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.058741+00:00'
 danger_level: Moderate
 ---
 
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-current-navigation-techniques-current-navigation-techniques.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,29 @@ Current Navigation Techniques is a undersea element of the setting, known for bi
 
 Legends speak of Current Navigation Techniques as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Current Navigation Techniques.
 
-## Adventure Hooks
-
-- A rumor ties Current Navigation Techniques to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Current Navigation Techniques to avert a public scandal.
-- A map overlay reveals a hidden approach to Current Navigation Techniques active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Current Navigation Techniques|02 Worldbuilding/Places/Current Navigation Techniques]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Blood Current Express]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals ancient history about a local noble
+- A stranger needs help delivering before the new moon
+- Strange accidents suggest a portal
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

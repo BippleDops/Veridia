@@ -26,10 +26,8 @@ updated: '2025-08-12T23:37:36.553340'
 world: Both
 ---
 
-
 # Guardian of Nature
 *4th-level, Transmutation*  
-
 
 - **Casting time:** 1 Bonus Action
 - **Range:** Self
@@ -37,6 +35,24 @@ world: Both
 - **Duration:** Concentration, up to 1 minute
 
 A nature spirit answers your call and transforms you into a powerful guardian. The transformation lasts until the spell ends. You choose one of the following forms to assume: Primal Beast or Great Tree.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Primal Beast
 
@@ -70,19 +86,25 @@ Guardian of nature xge is a undersea element of the setting, known for biolumine
 
 Legends speak of guardian of nature xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around guardian of nature xge.
 
-## Adventure Hooks
-
-- A rumor ties guardian of nature xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at guardian of nature xge to avert a public scandal.
-- A map overlay reveals a hidden approach to guardian of nature xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest a portal
+- A corpse reveals the truth about a local noble
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

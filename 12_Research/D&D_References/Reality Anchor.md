@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:34.636030+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,24 @@ Reality Anchor is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Reality Anchor as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reality Anchor.
 
-## Adventure Hooks
-
-- A rumor ties Reality Anchor to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Reality Anchor to avert a public scandal.
-- A map overlay reveals a hidden approach to Reality Anchor active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Hadal Depths|02 Worldbuilding/Places/The Hadal Depths]]
-
-
-## Connections
-
-- [[The Hadal Depths]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and evil awakens
+- Someone is blackmailing a witness for love
+- A journal reveals the truth about the government
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

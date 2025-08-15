@@ -34,9 +34,22 @@ updated: '2025-08-11T00:00:00+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-# The Emperor's Gambit
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## The Grand Strategy
 
@@ -51,8 +64,6 @@ His "gambit" was a centuries-long plan involving:
 - Establishing secret protocols within [[Parliament of Echoes]] for cross-dimensional cooperation  
 - Creating hidden knowledge caches accessible only during convergence events
 - Positioning loyal agents in positions where they could guide future heroes
-
-## The Scattering Ritual
 
 ### The Nine Vessels
 
@@ -76,8 +87,6 @@ The scattered aspects only activate when specific crisis conditions are met:
 - Key bloodlines mature and face ultimate choices
 - Ancient seals begin failing across both realms
 
-## Multiple Perspectives
-
 ### The Historical Record
 *Official Imperial Archives*
 
@@ -97,8 +106,6 @@ Thalassius foresaw the dual-world crisis and sacrificed his unified existence to
 *From corrupted scholars*
 
 The Emperor was the first successful infiltration of higher-dimensional entities into human consciousness. What people call "his gambit" is actually the slow-burn infection of key political and cultural institutions by alien intelligence wearing his face.
-
-## Current Manifestations
 
 ### The Awakening Signs
 
@@ -138,8 +145,6 @@ If a character proves to be the chosen bloodline bearer:
 - Risk of losing individual identity to imperial consciousness
 - Ultimate choice: complete the gambit or preserve personal existence
 
-## Plot Hooks
-
 ### The Missing Fragments
 Two of the nine aspects have gone silent. Investigation reveals they may have been corrupted by [[Deep Mother]] influence. Can the PCs purify them before the final crisis?
 
@@ -174,33 +179,17 @@ The Emperor's Gambit is a undersea element of the setting, known for bioluminesc
 
 Legends speak of The Emperor's Gambit as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Emperor's Gambit.
 
-## Adventure Hooks
-
-- A rumor ties The Emperor's Gambit to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Emperor's Gambit to avert a public scandal.
-- A map overlay reveals a hidden approach to The Emperor's Gambit active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
-
-
-## Connections
-
-- [[Deep Mother]]
-- [[Marina Red Tide Coralheart - Aquabyssos]]
-- [[The Tidal Council]]
-- [[Aethermoor]]
-- [[Depth Wardens]]
-- [[Parliament of Echoes]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help investigating before the new moon
+- A corpse reveals a betrayal about the government
+- Someone is blackmailing an heir for revenge

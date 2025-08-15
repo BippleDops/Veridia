@@ -1,4 +1,5 @@
 ---
+
 title: conditions#Poisoned
 type: lore
 tags:
@@ -10,12 +11,74 @@ created: 2025-08-14
 modified: '2025-08-14'
 status: placeholder
 updated: 2025-08-14
+evaluated: '2025-08-14'
+improvements: 20
 ---
+
 
 
 # conditions#Poisoned
 
 > *This is a placeholder note created automatically because it was referenced in other notes.*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
 
 ## Description
 
@@ -24,20 +87,6 @@ updated: 2025-08-14
 ## Details
 
 *[To be filled in]*
-
-## Connections
-
-### Referenced In
-- [[12_Research/D&D_Sourcebooks/CLI_Reference/conditions]]
-- [[12_Research/D&D_Sourcebooks/CLI_Reference/tables/artifact-properties-minor-beneficial-properties-xdmg]]
-- [[12_Research/D&D_Sourcebooks/CLI_Reference/tables/wild-magic-surge-phb]]
-- [[12_Research/D&D_Sourcebooks/CLI_Reference/tables/Artifact Properties Minor Beneficial]]
-- [[12_Research/D&D_Sourcebooks/CLI_Reference/tables/Wild Magic Surge Phb]]
-- [[12_Research/D&D_Sourcebooks/CLI_Reference/variant-rules/condition-xphb]]
-- [[12_Research/D&D_Sourcebooks/CLI_Reference/variant-rules/tool-proficiencies-xge]]
-- [[12_Research/D&D_Sourcebooks/CLI_Reference/variant-rules/tool-proficiencies-xge]]
-- [[12_Research/D&D_Sourcebooks/CLI_Reference/variant-rules/Tool Proficiencies Xge]]
-- [[12_Research/D&D_Sourcebooks/CLI_Reference/variant-rules/Tool Proficiencies Xge]]
 
 ## Notes
 
@@ -53,29 +102,13 @@ updated: 2025-08-14
 
 conditions#Poisoned represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-
 ## Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
 
-
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
-
-
-## Game Applications
-
-### Adventure Hooks
-- Discovery of related artifacts or texts
-- Conflicts arising from different interpretations
-- Prophecies beginning to manifest
-
-### Character Connections
-- Scholarly interest
-- Personal involvement in events
-- Hereditary knowledge or curse
-
 
 ## DM Notes
 
@@ -84,3 +117,22 @@ Different cultures interpret this lore through their own lens, creating variatio
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A noble needs help finding before winter
+- Strange accidents suggest a curse
+- A letter reveals ancient history about the cult
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon

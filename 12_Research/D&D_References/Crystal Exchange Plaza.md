@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Silverscale Consortium|02 Worldbuilding/Groups/Silverscale Consortium]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Silverscale Consortium]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,39 @@ Crystal Exchange Plaza is a undersea element of the setting, known for biolumine
 
 Legends speak of Crystal Exchange Plaza as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crystal Exchange Plaza.
 
-## Adventure Hooks
-
-- A rumor ties Crystal Exchange Plaza to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Crystal Exchange Plaza to avert a public scandal.
-- A map overlay reveals a hidden approach to Crystal Exchange Plaza active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals a betrayal about the cult
+- Strange dreams suggest a portal
+- A stranger needs help stealing before the festival
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

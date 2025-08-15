@@ -28,16 +28,31 @@ updated: '2025-08-13T12:34:05.682467+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-psychic-gray-ooze-xmm-psychic-gray-ooze-xmm.svg)
 
 # [[psychic-gray-ooze-xmm|Psychic Gray Ooze]]
-*Source: Monster Manual (2024) p. 151. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*  
+*Source: Monster Manual (2024) p. 151. Available in the SRD*  
 
 Psychic gray oozes exhibit violent psionic abilities. These oozes sometimes result from failed attempts to summon or create creatures linked to the Elemental Plane of Earth, like gargoyles or homunculi.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Gray Oozes
 
@@ -71,8 +86,8 @@ Gray oozes are predatory, corrosive slimes that blend in with stony surroundings
 "damage_resistances": "acid, cold, fire, psychic"
 "condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Charmed|charmed]],\
   \ [[conditions#Deafened|deafened]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
-  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]]"
+  \ [[conditions#frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#prone|prone]], [[conditions#Restrained|restrained]]"
 "senses": "blindsight 60 ft., passive Perception 8"
 "languages": ""
 "cr": "1"
@@ -111,19 +126,37 @@ Psychic gray ooze xmm is a undersea element of the setting, known for biolumines
 
 Legends speak of psychic gray ooze xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around psychic gray ooze xmm.
 
-## Adventure Hooks
-
-- A rumor ties psychic gray ooze xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at psychic gray ooze xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to psychic gray ooze xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Depths
+
+
+## Plot Hooks
+
+- A shipment has gone missing and war looms
+- Someone is hunting an heir for love
+- A stranger needs help finding before the new moon
+- Strange accidents suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

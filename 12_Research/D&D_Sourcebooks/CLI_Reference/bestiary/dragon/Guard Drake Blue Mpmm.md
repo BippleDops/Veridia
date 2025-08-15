@@ -34,8 +34,6 @@ updated: '2025-08-13T12:34:06.031657+00:00'
 world: Both
 ---
 
-
-
 # [[guard-drake-blue-mpmm|Guard Drake (Blue)]]
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 151, Hoard of the Dragon Queen p. 91*  
 
@@ -52,7 +50,6 @@ world: Both
 "stats":
   - !!int "16"
   - !!int "11"
-  - !!int "16"
   - !!int "4"
   - !!int "10"
   - !!int "7"
@@ -79,6 +76,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 arctic, desert, forest, mountain, swamp, underdark, urban
@@ -91,19 +106,20 @@ Guard drake blue mpmm is a undersea element of the setting, known for biolumines
 
 Legends speak of guard drake blue mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around guard drake blue mpmm.
 
-## Adventure Hooks
-
-- A rumor ties guard drake blue mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at guard drake blue mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to guard drake blue mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

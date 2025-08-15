@@ -1,4 +1,5 @@
 ---
+
 title: Surface Traders
 type: Location
 tags:
@@ -23,6 +24,8 @@ created_by: auto-stub
 danger_level: Moderate
 updated: '2025-08-13T12:34:17.070469+00:00'
 world: Aquabyssos
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -30,10 +33,74 @@ world: Aquabyssos
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-surface-traders-surface-traders.svg]]
 
-
 # Surface Traders
 
 *"Profit flows wherever currents carry willing merchants."*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
 
 ## Overview
 The Surface Traders are a consortium of merchants who specialize in the dangerous but lucrative business of trading between Aquabyssos and the surface world. Despite official restrictions and political tensions, they maintain secret trade routes and relationships.
@@ -82,26 +149,12 @@ Operating in legal gray areas, they provide access to surface goods that many in
 **Information**: Maps, political intelligence, cultural knowledge
 **Contraband**: Officially banned items with high black market value
 
-## Challenges and Risks
-- Government crackdowns and inspection raids
-- Piracy attacks on valuable cargo shipments
-- Surface world political instability affecting trade relations
-- Competition from other smuggling organizations
-- Weather and navigational hazards on dangerous routes
-
 ## Government Relations
 **Official Status**: Technically illegal but often tolerated
 **Enforcement**: Periodic raids and confiscations for political show
 **Corruption**: Bribes and favors maintain operational freedom
 **Intelligence**: Some members serve as unofficial diplomatic contacts
 **Politics**: Useful leverage in negotiations with surface kingdoms
-
-## Services Provided
-- Procurement of specific surface world items (high prices)
-- Discrete delivery services for sensitive cargo
-- Intelligence about surface world political developments
-- Currency exchange between different economic systems
-- Transportation for individuals needing surface world travel
 
 ## Client Base
 **Wealthy Nobles**: Luxury goods and status items
@@ -117,43 +170,18 @@ Operating in legal gray areas, they provide access to surface goods that many in
 **Political Extremists**: Oppose any surface world contact
 **Legitimate Merchants**: Resent unfair competition from illegal traders
 
-## Secret Operations
-- Underground railroad helping political refugees
-- Intelligence gathering for both Aquabyssos and surface governments
-- Diplomatic backchannel communications during crises
-- Emergency evacuation routes for VIPs
-- Archaeological artifact smuggling from restricted sites
-
-## Financial Operations
+## Ficial Operations
 **Revenue**: 500,000+ gold annually from all trade activities
-**Overhead**: Ship maintenance, bribes, security, and operational costs
+**Overhead**: Ship maintece, bribes, security, and operational costs
 **Profit Margins**: 300-500% markup on rare or dangerous items
 **Investment**: Constantly upgrading ships and expanding networks
-**Banking**: Discrete financial services for wealthy clients
+**Banking**: Discrete ficial services for wealthy clients
 
 ## Adventure Hooks
 1. Characters need passage to or from surface world
 2. Cargo shipment goes missing, investigation needed
 3. Government crackdown requires emergency evacuation
 4. Surface world conflict affects trade route security
-
-## Future Plans
-- Establish permanent trading posts in neutral territory
-- Develop legitimate business relationships as politics allow
-- Expand into new markets and trade routes
-- Invest in better technology for safer, faster transport
-- Build political influence to change restrictive laws
-
-## Secrets
-- Several government officials are silent partners
-- Hidden alliance with surface world intelligence services
-- Emergency plans for full-scale war evacuation
-- Smuggling network extends to other underwater kingdoms
-- Archaeological discoveries kept secret from both governments
-
-
-
-## Map Notes
 
 ### Key Locations
 1. Main entrance/approach
@@ -162,53 +190,8 @@ Operating in legal gray areas, they provide access to surface goods that many in
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 Surface Traders provide adventure opportunities involving smuggling, diplomacy, and cross-cultural conflict. They can serve as allies, employers, or obstacles depending on campaign needs and player actions.
-
-
-## Connections
-
-- [[Pearl_Harbor_City]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -218,24 +201,6 @@ Surface Traders is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of Surface Traders as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Surface Traders.
 
-## Cross-References
-
-- [[Surface Traders]]
-
-<!-- enriched: true -->
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-the-singing-trenches-v1-the-singing-trenches.svg]]
-- [[04_Resources_Assets_Locations_location-city-veiled-hierophant-v1-veiled-hierophant.svg]]
-- [[Miranda Hopekeeper]]
-
-
 ## Sensory Details
 
 **Sights**: The architecture features sweeping arches and ornate carvings
@@ -244,7 +209,6 @@ Legends speak of Surface Traders as a nexus where past and present converge. Loc
 
 **Smells**: Wood smoke curls from countless chimneys
 
-
 ## Description
 
 Surface Traders is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -252,35 +216,7 @@ Surface Traders is a notable location characterized by its unique features and s
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Notable Features
-
-### Landmarks
-- **Central Structure**: The defining feature of Surface Traders
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
-
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -293,15 +229,27 @@ Ongoing situations affecting Surface Traders:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Surface Traders
+## Prophecy Connection
 
-### Whispered Rumors
-- Stories that may or may not be true
+Mentioned in The Second Prophecy of Shadows
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+
+## Plot Hooks
+
+- A noble needs help stealing before winter
+- The authorities needs help delivering before the festival
+- A shipment has gone missing and chaos spreads
+- A corpse reveals ancient history about this place
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon

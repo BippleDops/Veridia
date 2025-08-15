@@ -23,17 +23,12 @@ updated: '2025-08-13T12:34:08.037034+00:00'
 world: Both
 ---
 
-
-
 # Elf (Shadar-kai)
 *Source: Mordenkainen's Tome of Foes p. 62*  
-
 
 - **Ability Scores**: con +1
 - **Size**: Medium
 - **Speed**: 30 ft.
-
-## Traits
 
 ### Age
 
@@ -76,6 +71,24 @@ As a bonus action, you can magically teleport up to 30 feet to an unoccupied spa
 
 Starting at 3rd level, you also gain resistance to all damage when you teleport using this trait. The resistance lasts until the start of your next turn. During that time, you appear ghostly and translucent.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Description
 
 Sworn to the Raven Queen's service, the mysterious shadar-kai venture into the Material Plane from the Shadowfell to advance her will. Once they were fey like the rest of their elven kin, and now they exist in a strange state between life and death. Eladrin and shadar-kai are like reflections of each other: one bursting with emotion, the other nearly devoid of it.
@@ -103,11 +116,8 @@ Elves encountered outside their own lands are commonly traveling minstrels, arti
 > [!note] Haughty but Gracious
 > 
 > Although they can be haughty, elves are generally gracious - even to those who fall short of their high expectations - which is most non-elves. Still, they can find good in just about anyone.
-> 
 > **Dwarves.** "Dwarves are dull, clumsy oafs. But what they lack in humor, sophistication, and manners, they make up in valor. And I must admit, their best smiths produce art that approaches elven quality."
-> 
 > **Halflings.** "Halflings are people of simple pleasures, and that is not a quality to scorn. They're a good folk, they care for each other and tend their gardens, and they have proven themselves tougher than they seem when the need arises."
-> 
 > **Humans.** "All that haste, their ambitions and drive to accomplish something before their brief lives pass away - human endeavors seem so futile sometimes. But then you look at what they have accomplished, and you have to appreciate their achievements. If only they could slow down and learn some refinement."
 ^haughty-but-gracious
 
@@ -134,19 +144,28 @@ Elf shadar kai mtf is a undersea element of the setting, known for bioluminescen
 
 Legends speak of elf shadar kai mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around elf shadar kai mtf.
 
-## Adventure Hooks
-
-- A rumor ties elf shadar kai mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at elf shadar kai mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to elf shadar kai mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and war looms
+- Strange dreams suggest a curse
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

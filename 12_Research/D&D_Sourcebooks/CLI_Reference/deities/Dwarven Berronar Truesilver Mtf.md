@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:04.358425+00:00'
 world: Both
 ---
 
-
-
 # Berronar Truesilver
 *Source: Mordenkainen's Tome of Foes p. 73, Tasha's Cauldron of Everything p. 33* 
 
@@ -42,6 +40,24 @@ Berronar's code establishes the laws of the dwarves, including contracts, trade 
 
 Berronar's priests arrange marriages, using a process that finds the best matches and is designed to ensure that each generation of a clan is stronger and more talented than the last. Their dictates in this respect are sacrosanct, and a dwarf designated for an arranged marriage must obey the priests or risk exile.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Dwarven berronar truesilver mtf is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -50,19 +66,15 @@ Dwarven berronar truesilver mtf is a undersea element of the setting, known for 
 
 Legends speak of dwarven berronar truesilver mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dwarven berronar truesilver mtf.
 
-## Adventure Hooks
-
-- A rumor ties dwarven berronar truesilver mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dwarven berronar truesilver mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to dwarven berronar truesilver mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

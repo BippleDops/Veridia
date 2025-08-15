@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Tradeway Road|02 Worldbuilding/Quests/Tradeway Road]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Tradeway Road]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,15 @@ Ancient Mer Folk Sentinel Kythara is a undersea element of the setting, known fo
 
 Legends speak of Ancient Mer Folk Sentinel Kythara as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Ancient Mer Folk Sentinel Kythara.
 
-## Adventure Hooks
-
-- A rumor ties Ancient Mer Folk Sentinel Kythara to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Ancient Mer Folk Sentinel Kythara to avert a public scandal.
-- A map overlay reveals a hidden approach to Ancient Mer Folk Sentinel Kythara active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

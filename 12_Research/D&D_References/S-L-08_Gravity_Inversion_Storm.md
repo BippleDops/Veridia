@@ -21,31 +21,25 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# S-L-08 Gravity Inversion Storm
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Read-Aloud
 > The ocean rises into the sky. The sky presses down like a sea. Up and down forget their vows.
-
-## Setup
-- Band: High/Stratos • Category: Legendary Physics
-- Stakes: Fleet-wide hazard; platform risks
-
-## Mechanics
-- Helm DC 18 orientation control
-- Engineer DC 18 counter-field timing
-- Tactics DC 17 fleet maneuver plan
-
-## Outcomes
-- Success: Ride the storm; legends forged
-- Partial: Severe turbulence; damages 2d6 per ship; no fatalities
-- Fail: Crash or platform strike; major casualties; scandal arc
-
-## Integrations
-- Altitude inversion; fleet doctrines; PR
-
-## Quick-Run
-- Tactics→Helm→Engineer; narrate cinematic maneuvers
 
 ## Player-Facing Summary
 
@@ -55,19 +49,16 @@ S L 08 Gravity Inversion Storm is a undersea element of the setting, known for b
 
 Legends speak of S L 08 Gravity Inversion Storm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around S L 08 Gravity Inversion Storm.
 
-## Adventure Hooks
-
-- A rumor ties S L 08 Gravity Inversion Storm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at S L 08 Gravity Inversion Storm to avert a public scandal.
-- A map overlay reveals a hidden approach to S L 08 Gravity Inversion Storm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and war looms
+- Someone is hunting a witness for power

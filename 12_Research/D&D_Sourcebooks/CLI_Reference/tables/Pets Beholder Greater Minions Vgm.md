@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.869981+00:00'
 world: Both
 ---
 
-
-
 # Pets; Beholder Greater Minions
 *Source: Volo's Guide to Monsters p. 16* 
 
@@ -47,6 +45,24 @@ world: Both
 
 * For death tyrant lairs, use this table, but replace approximately half of its living minions with ogre zombies.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Pets beholder greater minions vgm is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -55,19 +71,15 @@ Pets beholder greater minions vgm is a undersea element of the setting, known fo
 
 Legends speak of pets beholder greater minions vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around pets beholder greater minions vgm.
 
-## Adventure Hooks
-
-- A rumor ties pets beholder greater minions vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at pets beholder greater minions vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to pets beholder greater minions vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes

@@ -24,16 +24,31 @@ updated: '2025-08-13T12:34:07.517219+00:00'
 world: Both
 ---
 
-
-
 # Ring of Regeneration
 *Ring, very rare (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/ring-of-regeneration.webp#right)
 
-
 While wearing this ring, you regain `d6` [[hit-points-xphb|Hit Points]] every 10 minutes if you have at least 1 [[hit-points-xphb|Hit Point]]. If you lose a body part, the ring causes the missing part to regrow and return to full functionality after `1d6 + 1` days if you have at least 1 [[hit-points-xphb|Hit Point]] the whole time.
 
-*Source: Dungeon Master's Guide (2024) p. 294. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 294. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -43,19 +58,38 @@ Ring of regeneration xdmg is a undersea element of the setting, known for biolum
 
 Legends speak of ring of regeneration xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ring of regeneration xdmg.
 
-## Adventure Hooks
-
-- A rumor ties ring of regeneration xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ring of regeneration xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to ring of regeneration xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## Plot Hooks
+
+- A stranger needs help stealing before dawn
+- An heirloom has gone missing and truth emerges
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

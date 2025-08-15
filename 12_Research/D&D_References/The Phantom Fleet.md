@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.315254+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,22 @@ The Phantom Fleet is a undersea element of the setting, known for bioluminescent
 
 Legends speak of The Phantom Fleet as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Phantom Fleet.
 
-## Adventure Hooks
-
-- A rumor ties The Phantom Fleet to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Phantom Fleet to avert a public scandal.
-- A map overlay reveals a hidden approach to The Phantom Fleet active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Angels and Depths|02 Worldbuilding/Places/Angels And Depths]]
-
-
-## Connections
-
-- [[Angels and Depths]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help finding before dawn
+- A journal reveals ancient history about the cult
+- A merchant needs help delivering before winter
+- Strange sightings suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

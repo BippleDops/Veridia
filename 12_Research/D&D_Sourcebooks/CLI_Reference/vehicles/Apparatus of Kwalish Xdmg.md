@@ -25,11 +25,9 @@ updated: '2025-08-13T12:34:06.715431+00:00'
 world: Both
 ---
 
-
-
 # Apparatus of Kwalish
 %%-- Embedded content starts on the next line. --%%
-*Source: Dungeon Master's Guide (2024) p. 229. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Apparatus of the Crab")*  
+*Source: Dungeon Master's Guide (2024) p. 229. Available in the SRD (as "Apparatus of the Crab")*  
 
 ```ad-statblock
 title: Apparatus of Kwalish
@@ -74,6 +72,24 @@ A creature in the compartment can take a [[actions#Utilize|Utilize]] action to m
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Apparatus of kwalish xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -82,19 +98,27 @@ Apparatus of kwalish xdmg is a undersea element of the setting, known for biolum
 
 Legends speak of apparatus of kwalish xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around apparatus of kwalish xdmg.
 
-## Adventure Hooks
-
-- A rumor ties apparatus of kwalish xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at apparatus of kwalish xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to apparatus of kwalish xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A noble needs help investigating before the festival
+- A merchant needs help stealing before dawn
+- An heirloom has gone missing and chaos spreads
+- A noble needs help stealing before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -27,15 +27,31 @@ updated: '2025-08-12T23:37:35.600979'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-swarm-of-crawling-claws-xmm-swarm-of-crawling-claws-xmm.svg)
 
 # [[swarm-of-crawling-claws-xmm|Swarm of Crawling Claws]]
-*Source: Monster Manual (2024) p. 83. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 83. Available in the SRD and the Free Rules (2024)*  
 
 Swarms of crawling claws are typically animated by depraved necromancers. Occasionally, these grotesque swarms arise from mass graves or after tragedies, refusing to let their murderers escape their grasp.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Crawling Claws
 
@@ -50,7 +66,6 @@ Crawling claws are severed hands that move and act of their own murderous accord
 > 
 > Is it possible for any creature, any living being, to be inherently evil? Such an assertion may itself facilitate the committing of evil acts. By defining a person as evil, we give them free rein to behave as they will, absolving them from the wickedness of their words and the evil of their hands.
 
-
 ```statblock
 "name": "Swarm of Crawling Claws (XMM)"
 "size": "Medium"
@@ -62,7 +77,6 @@ Crawling claws are severed hands that move and act of their own murderous accord
 "modifier": !!int "2"
 "stats":
   - !!int "14"
-  - !!int "14"
   - !!int "11"
   - !!int "5"
   - !!int "10"
@@ -71,10 +85,10 @@ Crawling claws are severed hands that move and act of their own murderous accord
 "damage_resistances": "bludgeoning, piercing, slashing"
 "damage_immunities": "necrotic, poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Grappled|grappled]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Grappled|grappled]],\
   \ [[conditions#Incapacitated|incapacitated]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
-  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#prone|prone]], [[conditions#Restrained|restrained]],\
   \ [[conditions#Stunned|stunned]]"
 "senses": "blindsight 30 ft., passive Perception 10"
 "languages": "understands Common but can't speak"
@@ -88,7 +102,7 @@ Crawling claws are severed hands that move and act of their own murderous accord
 "actions":
   - "desc": "Melee Attack Roll: +4, reach 5 ft. Hit: 20 (4d8 + 2) Necrotic damage,\
       \ or 11 (2d8 + 2) Necrotic damage if the swarm is [[bloodied-xphb|Bloodied]].\
-      \ If the target is a Medium or smaller creature, it has the [[conditions#Prone|Prone]]\
+      \ If the target is a Medium or smaller creature, it has the [[conditions#prone|Prone]]\
       \ condition."
     "name": "Swarm of Grasping Hands"
 "source":
@@ -109,19 +123,17 @@ Swarm of crawling claws xmm is a undersea element of the setting, known for biol
 
 Legends speak of swarm of crawling claws xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around swarm of crawling claws xmm.
 
-## Adventure Hooks
-
-- A rumor ties swarm of crawling claws xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at swarm of crawling claws xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to swarm of crawling claws xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting a artifact for power
+- A noble needs help delivering before dawn
+- Someone is hunting a artifact for power

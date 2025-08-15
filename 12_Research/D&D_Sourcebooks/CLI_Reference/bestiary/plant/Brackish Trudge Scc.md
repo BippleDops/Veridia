@@ -27,8 +27,6 @@ updated: '2025-08-13T12:34:05.654871+00:00'
 world: Both
 ---
 
-
-
 # [[brackish-trudge-scc|Brackish Trudge]]
 *Source: Strixhaven: A Curriculum of Chaos p. 187*  
 
@@ -52,7 +50,6 @@ While sometimes ill-tempered and territorial, brackish trudges are usually conte
   - !!int "17"
   - !!int "4"
   - !!int "14"
-  - !!int "4"
 "speed": "30 ft., swim 30 ft."
 "skillsaves":
   - "name": "[[skills#Perception|Perception]]"
@@ -69,13 +66,31 @@ While sometimes ill-tempered and territorial, brackish trudges are usually conte
 "actions":
   - "desc": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 16\
       \ (2d10 + 5) piercing damage plus 3 (d6) poison damage. If the target is a creature,\
-      \ it must succeed on a DC 15 Strength saving throw or be knocked [[conditions#Prone|prone]]."
+      \ it must succeed on a DC 15 Strength saving throw or be knocked [[conditions#prone|prone]]."
     "name": "Tusk"
 "source":
   - "SCC"
 "image": "/03_Mechanics/CLI/bestiary/plant/token/brackish-trudge-scc.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -85,19 +100,26 @@ Brackish trudge scc is a undersea element of the setting, known for bioluminesce
 
 Legends speak of brackish trudge scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around brackish trudge scc.
 
-## Adventure Hooks
-
-- A rumor ties brackish trudge scc to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at brackish trudge scc to avert a public scandal.
-- A map overlay reveals a hidden approach to brackish trudge scc active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help delivering before winter
+- A letter reveals ancient history about a local noble
+- Strange dreams suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

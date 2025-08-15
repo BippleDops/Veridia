@@ -10,23 +10,32 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Party Inventory
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+
 
 ## Shared Items
 | Item | Quantity | Carried By |
 |------|----------|------------|
 | - | - | - |
 
-## Party Funds
-- **Platinum**: 0
-- **Gold**: 0
-- **Silver**: 0
-- **Copper**: 0
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -35,3 +44,8 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil

@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.406097'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-empyrean-iota-xmm-empyrean-iota-xmm.svg)
 
@@ -36,6 +34,24 @@ world: Both
 *Source: Monster Manual (2024) p. 112*  
 
 Empyrean iotas are the thoughts, memories, or indirect attentions of deities personified and given a measure of autonomy. Resembling floating glyphs, motes of color, icons of divinity, or stranger shapes, these beings are messengers of the gods and aides to those gods' servants. Iotas have their own knowledge and personalities, though they might know little more than the realms and wishes of their creators.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Empyreans
 
@@ -64,7 +80,6 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
 > 
 > One day I might be the god of storms—mind countless followers, answer prayers, change whole worlds—but, until then, I do what I please.
 
-
 ```statblock
 "name": "Empyrean Iota (XMM)"
 "size": "Medium"
@@ -80,7 +95,6 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
   - !!int "10"
   - !!int "15"
   - !!int "16"
-  - !!int "16"
 "speed": "5 ft., fly 30 ft. (hover)"
 "skillsaves":
   - "name": "[[skills#History|History]]"
@@ -88,9 +102,8 @@ Empyreans are the spawn of deities. While not gods themselves, they possess divi
   - "name": "[[skills#Insight|Insight]]"
     "desc": "+5"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing"
-"condition_immunities": "[[conditions#Prone|prone]]"
+"condition_immunities": "[[conditions#prone|prone]]"
 "senses": "truesight 30 ft., passive Perception 15"
 "languages": "all"
 "cr": "1"
@@ -133,19 +146,16 @@ Empyrean iota xmm is a undersea element of the setting, known for bioluminescent
 
 Legends speak of empyrean iota xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around empyrean iota xmm.
 
-## Adventure Hooks
-
-- A rumor ties empyrean iota xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at empyrean iota xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to empyrean iota xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for revenge
+- A stranger needs help stealing before the new moon

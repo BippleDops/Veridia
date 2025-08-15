@@ -1,4 +1,5 @@
 ---
+
 title: Lumengarde
 aliases:
 - The Living Light
@@ -26,6 +27,8 @@ image: 04_Resources/Assets/Locations/lumengarde.jpg
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:17.093006+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -34,12 +37,72 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-lumengarde-lumengarde.svg]]
 
 
-# Lumengarde - The Living Light
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
 
 ## Overview
 Lumengarde is a breathtaking city grown rather than built, formed from cultivated bioluminescent coral, kelp, and engineered organisms. Located in the Gloom Gardens at 1,200 feet depth, the city pulses with natural light in patterns that serve as both illumination and communication. The [[Coral Courts]] maintain their primary seat of power here, and the city is renowned for its biological magic and living architecture.
-
-## Districts
 
 ### The Radiant Core
 The heart of Lumengarde, where the massive Mothercoral provides the template for all city growth. [[Duke Cyrus Reefheart]] holds court in the Coral Palace, a living structure that grows new rooms as needed.
@@ -56,8 +119,6 @@ Commercial district where biological products are traded. [[The Phosphor Markets
 ### The Deep Garden
 A darker section where dangerous but useful organisms are cultivated. [[Doctor Silas Voidtouch]] conducts controversial adaptation experiments here.
 
-## Notable Locations
-
 ### The Singing Reef
 A massive coral formation that resonates with tidal movements, creating hauntingly beautiful music. [[Siren Maeve Echoborn]] performs here, weaving magic into the natural harmonies.
 
@@ -73,8 +134,6 @@ A collection of knowledge stored in modified jellyfish that project information 
 ### The Adaptation Chambers
 Medical facility where citizens undergo voluntary (and sometimes involuntary) biological modifications. Connected to the [[Abyssal Academy]]'s research.
 
-## Services & Shops
-
 ### The Biolume Bazaar
 Weekly market where rare organisms and biological materials are traded. Known for illegal sales of prohibited adaptations.
 
@@ -87,14 +146,6 @@ Tavern run by [[Barkeep Mira Algaebrew]], serves bioluminescent drinks that prov
 ### Symbiont Solutions
 [[Healer Sage Bondseer]] helps resolve conflicts between inhabitants and their living homes, also treats adaptation rejection.
 
-## Government & Law
-- Ruled by the [[Coral Courts]] through Duke Cyrus Reefheart
-- Laws focus on biological harmony and sustainable growth
-- Crimes are punished through biological alteration or symbiont removal
-- [[Reef Guard Captain Torrent Shellborn]] maintains order
-
-
-
 ## Sensory Details
 
 **Sights**: Sunlight filters through stained glass windows
@@ -102,24 +153,6 @@ Tavern run by [[Barkeep Mira Algaebrew]], serves bioluminescent drinks that prov
 **Sounds**: The clang of hammer on anvil rings from the smithy
 
 **Smells**: The tang of salt air permeates everything
-
-## Demographics
-- 60% Fully Adapted (biologically modified for underwater life)
-- 25% Symbiont-Bonded (living in harmony with organisms)
-- 10% Traditional Adapted (magical adaptation only)
-- 5% Visitors and Traders
-
-## Defenses
-- Living barrier reef that responds to threats
-- Trained combat organisms (war-coral, guard kelp)
-- Bioluminescent warning system throughout the city
-- Allied sea creatures serving as scouts
-
-## Trade & Economy
-- Main exports: Bioluminescent organisms, living tools, adaptation services
-- Main imports: Minerals, metals, preserved foods
-- Currency: Lumens (crystallized bioluminescent fluid)
-- Major trade with [[New Tethys]] and [[The Phosphor Markets]]
 
 ## Current Events
 1. The Mothercoral showing signs of mysterious illness
@@ -148,66 +181,6 @@ Tavern run by [[Barkeep Mira Algaebrew]], serves bioluminescent drinks that prov
 9. Children playing with dangerous glowing jellies
 10. Building having an allergic reaction to occupant
 
-## Connected NPCs
-- [[Duke Cyrus Reefheart]] - Ruler
-- [[Master Cultivator Thalia Greenglow]] - Chief agriculturalist
-- [[Whisper-Witch Naia Softcurrent]] - Symbiosis specialist
-- [[Doctor Silas Voidtouch]] - Controversial researcher
-- [[High Cultivist Jasper Lifebinder]] - Religious leader
-- [[Siren Maeve Echoborn]] - Influential performer
-- [[Archivist Vera Glowmind]] - Knowledge keeper
-- [[Reef Guard Captain Torrent Shellborn]] - Security chief
-- [[Artisan Felix Reefwright]] - Master crafter
-
-## Connected Locations
-- [[New Tethys]] - Major trade partner
-- [[The Phosphor Markets]] - Commercial connection
-- [[Pressure's End]] - Political tension
-- [[The Gloom Gardens]] - Surrounding region
-- [[The Bathyal Palace]] - Diplomatic relations
-
-## Quests Available
-- [[The Mothercoral Crisis]] - Save the city's heart
-- [[The Living Weapon]] - Investigate bioweapon claims
-- [[Seeds of the Past]] - Explore pre-drowning agriculture
-- [[The Perfect Symbiosis]] - Help with adaptation experiments
-- [[Garden of Shadows]] - Uncover Deep Garden secrets
-
-
-## Connections
-
-- [[Establish the New Order]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 Lumengarde is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -216,16 +189,6 @@ Lumengarde is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of Lumengarde as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Lumengarde.
 
-## Adventure Hooks
-
-- A rumor ties Lumengarde to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Lumengarde to avert a public scandal.
-- A map overlay reveals a hidden approach to Lumengarde active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -233,49 +196,9 @@ Legends speak of Lumengarde as a nexus where past and present converge. Locals d
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Lumengarde]]
-
-<!-- enriched: true -->
-- [[Abyssal Academy]]
-- [[Master Cultivator Thalia Greenglow]]
-- [[The Depth Wardens]]
-- [[Archivist Vera Glowmind]]
-- [[Barkeep Mira Algaebrew]]
-- [[Free Current]]
-- [[Garden of Shadows]]
-- [[Merchant Delilah Currentrunner]]
-- [[Reef Guard Captain Torrent Shellborn]]
-- [[The Gloom Gardens]]
-- [[The Living Weapon]]
-- [[The Mothercoral Crisis]]
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-archive-kelpmere-v1-archive-kelpmere.svg]]
-- [[04_Resources_Assets_Locations_location-city-undead-rights-organization-hq-v1-undead-rights-organization-hq.svg]]
-- [[04_Resources_Assets_Locations_location-city-conservatory-of-memory-v1-conservatory-of-memory.svg]]
-
 
 ## Description
 
@@ -284,45 +207,35 @@ Lumengarde is a notable location characterized by its unique features and strate
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
+**Goverce**: Local authority structure
 
 
-## Notable Features
 
-### Landmarks
-- **Central Structure**: The defining feature of Lumengarde
-- **Secondary Sites**: Supporting locations of interest
-- **Natural Features**: Geographic elements of note
+## Secret Connections
 
-### Districts/Areas
-- Commercial quarter
-- Residential areas
-- Administrative center
-- Special purpose zones
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
 
 
-## Inhabitants
+## Plot Hooks
 
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
+- A merchant needs help investigating before the new moon
+- A letter reveals a conspiracy about a local noble
+- Someone is hunting a witness for power
 
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
+## Economic Structure
 
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
 
-## Secrets & Rumors
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
 
-### Common Knowledge
-- What everyone knows about Lumengarde
-
-### Whispered Rumors
-- Stories that may or may not be true
-
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

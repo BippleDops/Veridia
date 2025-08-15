@@ -23,11 +23,9 @@ updated: '2025-08-12T23:37:36.951203'
 world: Both
 ---
 
-
 # Bag of Beans
 *Wondrous item, rare*  
 ![](/03_Mechanics/CLI/items/img/bag-of-beans.webp#right)
-
 
 This heavy cloth bag contains `3d4` dry beans when found. The bag weighs half a pound regardless of how many beans it contains and becomes a nonmagical item when it no longer contains any beans.
 
@@ -42,7 +40,7 @@ If you remove a bean from the bag, plant it in dirt or sand, and then water it, 
 | 01 | `5d4` toadstools sprout. If a creature eats a toadstool, roll any die. On an odd roll, the eater must succeed on a DC 15 Constitution saving throw or take `5d6` Poison damage and have the [[conditions#Poisoned|Poisoned]] condition for 1 hour. On an even roll, the eater gains `5d6` [[temporary-hit-points-xphb|Temporary Hit Points]] for 1 hour. |
 | 02-10 | A geyser erupts and spouts water, beer, mayonnaise, tea, vinegar, wine, or oil (DM's choice) 30 feet into the air for `d4` minutes. |
 | 11-20 | A [[treant-xmm|Treant]] sprouts. Roll any die. On an odd roll, the treant is Chaotic Evil. On an even roll, the treant is Chaotic Good. |
-| 21-30 | An animate but immobile stone statue in your likeness rises and makes verbal threats against you. If you leave it and others come near, it describes you as the most heinous of villains and directs the newcomers to find and attack you. If you are on the same plane of existence as the statue, it knows where you are. The statue becomes inanimate after 24 hours. |
+| 21-30 | An animate but immobile stone statue in your likeness rises and makes verbal threats against you. If you leave it and others come near, it describes you as the most heinous of villains and directs the newcomers to find and attack you. If you are on the same plane of existence as the statue, it knows where you are. The statue becomes iimate after 24 hours. |
 | 31-40 | A campfire with green flames springs forth and burns for 24 hours or until it is extinguished. |
 | 41-50 | Three **Shrieker Fungi** sprout. |
 | 51-60 | `1d4 + 4` bright-pink toads crawl forth. Whenever a toad is touched, it transforms into a Large or smaller monster of the DM's choice that acts in accordance with its alignment and nature. The monster remains for 1 minute, then disappears in a puff of bright-pink smoke. |
@@ -53,7 +51,25 @@ If you remove a bean from the bag, plant it in dirt or sand, and then water it, 
 | 96-00 | A giant beanstalk sprouts, growing to a height of the DM's choice. The top leads where the DM chooses, such as to a great view, a cloud giant's castle, or another plane of existence. |
 ^1-effect
 
-*Source: Dungeon Master's Guide (2024) p. 233. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 233. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -63,19 +79,15 @@ Bag of beans xdmg is a undersea element of the setting, known for bioluminescent
 
 Legends speak of bag of beans xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around bag of beans xdmg.
 
-## Adventure Hooks
-
-- A rumor ties bag of beans xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at bag of beans xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to bag of beans xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds

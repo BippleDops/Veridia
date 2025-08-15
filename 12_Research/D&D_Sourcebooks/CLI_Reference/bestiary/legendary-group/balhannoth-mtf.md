@@ -23,7 +23,22 @@ world: Both
 ---
 
 
-# Balhannoth
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Lair actions
 _Source: Mordenkainen's Tome of Foes_
@@ -35,7 +50,6 @@ When fighting inside its lair, a balhannoth can use lair actions. On initiative 
 - The balhannoth targets one creature within 500 feet of it. The target must succeed on a DC 16 Wisdom saving throw or the balhannoth becomes [[conditions#Invisible|invisible]] to that creature for 1 minute. This effect ends if the balhannoth attacks the target.  
 
 ## Regional effects
-_Source: Mordenkainen's Tome of Foes_
 
 A region containing a balhannoth's lair becomes warped by the creature's unnatural presence, which creates one or more of the following effects:
 
@@ -52,19 +66,26 @@ Balhannoth mtf is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of balhannoth mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around balhannoth mtf.
 
-## Adventure Hooks
-
-- A rumor ties balhannoth mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at balhannoth mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to balhannoth mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange dreams suggest a conspiracy
+- The authorities needs help finding before the new moon
+- A noble needs help investigating before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

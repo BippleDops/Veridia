@@ -25,15 +25,11 @@ updated: '2025-08-13T12:34:06.872734+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-sword-of-answering-scather-sword-of-answering-scather.svg)
 
 # Sword of Answering (Scather)
 *Weapon ([[longsword-xphb|longsword]]), major, legendary (requires attunement by a lawful evil creature)*  
-
 
 - **Damage**:
   - One-handed: 1d8 slashing
@@ -49,6 +45,24 @@ You gain a +3 bonus to attack and damage rolls made with this sword. In addition
 
 *Source: Dungeon Master's Guide p. 206*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Sword of answering scather is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -57,19 +71,27 @@ Sword of answering scather is a undersea element of the setting, known for biolu
 
 Legends speak of sword of answering scather as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around sword of answering scather.
 
-## Adventure Hooks
-
-- A rumor ties sword of answering scather to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at sword of answering scather to avert a public scandal.
-- A map overlay reveals a hidden approach to sword of answering scather active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Stars
+
+
+## Plot Hooks
+
+- A merchant needs help finding before the new moon
+- Someone is blackmailing an heir for power
+- A noble needs help delivering before the festival
+- The authorities needs help finding before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

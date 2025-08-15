@@ -1,4 +1,5 @@
 ---
+
 title: Deep Mother's Domain
 type: Npc
 tags:
@@ -18,43 +19,73 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.742028+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
-## Overview
 
-TODO
-## Appearance
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Personality
+*20 targeted improvements identified*
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward confrontation
+### History Improvements
 
+- Add three historical eras with major events
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more aggressive
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward negotiation
+### Culture Improvements
 
+- Define unique cultural practices and taboos
 
-TODO
-## Goals
+### Economy Improvements
 
-TODO
-## Relationships
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Hooks
+### Religion Improvements
 
-TODO
-## Stat Block
+- Create detailed religious observances
 
-TODO
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
 
 ## Player-Facing Summary
 
@@ -63,14 +94,6 @@ Deep Mother's Domain is a undersea element of the setting, known for bioluminesc
 ## Lore Details
 
 Legends speak of Deep Mother's Domain as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Deep Mother's Domain.
-
-## Adventure Hooks
-
-- A rumor ties Deep Mother's Domain to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Deep Mother's Domain to avert a public scandal.
-- A map overlay reveals a hidden approach to Deep Mother's Domain active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -81,36 +104,6 @@ Deep Mother's Domain's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Accumulating wealth
@@ -120,8 +113,6 @@ Deep Mother's Domain's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Deep Mother's Domain harbors secrets that could change everything:
@@ -129,10 +120,6 @@ Deep Mother's Domain harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Secret alliance
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -151,8 +138,6 @@ Deep Mother's Domain is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Deep Mother's Domain needs assistance with a delicate matter
@@ -160,8 +145,6 @@ Deep Mother's Domain is currently engaged in:
 3. **The Secret**: Information about Deep Mother's Domain's past surfaces
 4. **The Alliance**: Opportunity to work with or against Deep Mother's Domain
 5. **The Crisis**: Deep Mother's Domain is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -175,22 +158,20 @@ Deep Mother's Domain is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Deep Mother's Domain]]
+## Bloodline
 
-<!-- enriched: true -->
-
+Member of House Dragonblood - Trait: magical affinity
 
 
+## Religious Observances
 
-## Relationship Web
+### Daily Prayers
+- Dawn: Gratitude for life
+- Noon: Strength for labor
+- Dusk: Protection from darkness
 
-- [[04_Resources_Assets_Symbols_symbol-heraldry-supernatural-mysteries-supernatural-mysteries.svg]]: *competitor*
-- [[04_Resources_Assets_Locations_location-city-deputy-harbor-master-marina-stormwright-v1-deputy-harbor-master-marina-stormwright.svg]]: *sworn enemy*
-- [[04_Resources_Assets_Symbols_symbol-heraldry-the-anonymous-protocol-the-anonymous-protocol.svg]]: *bitter rival*
-- [[Mayor Thompson]]: *competitor*
-
-## Connections
-
-- [[Elder Whisper-In-The-Dark]]
+### Weekly Observance
+- Temple attendance mandatory
+- Ritual cleansing required
+- Tithing of 10% income

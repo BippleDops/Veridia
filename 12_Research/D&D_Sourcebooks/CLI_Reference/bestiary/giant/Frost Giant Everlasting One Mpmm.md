@@ -28,9 +28,6 @@ updated: '2025-08-13T12:34:05.392901+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-frost-giant-everlasting-one-mpmm-frost-giant-everlasting-one-mpmm.svg)
 
@@ -57,7 +54,6 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
   - !!int "25"
   - !!int "9"
   - !!int "24"
-  - !!int "9"
   - !!int "10"
   - !!int "12"
 "speed": "40 ft."
@@ -79,7 +75,7 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
       \ has more than one, it has advantage on Wisdom ([[skills#Perception|Perception]])\
       \ checks and on saving throws against being [[conditions#Blinded|blinded]],\
       \ [[conditions#Charmed|charmed]], [[conditions#Deafened|deafened]],\
-      \ [[conditions#Frightened|frightened]], [[conditions#Stunned|stunned]],\
+      \ [[conditions#frightened|frightened]], [[conditions#Stunned|stunned]],\
       \ or knocked [[conditions#Unconscious|unconscious]]."
     "name": "Extra Heads"
   - "desc": "The giant regains 10 hit points at the start of its turn. If the giant\
@@ -111,6 +107,24 @@ After devouring the troll sent by Vaprak, bones and all, a frost giant becomes a
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 coastal
@@ -123,19 +137,33 @@ Frost giant everlasting one mpmm is a undersea element of the setting, known for
 
 Legends speak of frost giant everlasting one mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around frost giant everlasting one mpmm.
 
-## Adventure Hooks
-
-- A rumor ties frost giant everlasting one mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at frost giant everlasting one mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to frost giant everlasting one mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

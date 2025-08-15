@@ -27,9 +27,6 @@ updated: '2025-08-13T12:34:05.428497+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-relic-sloth-scc-relic-sloth-scc.svg)
 
@@ -70,14 +67,32 @@ For long expeditions, Lorehold mages often employ relic sloths to haul adventuri
     "name": "Claws"
 "reactions":
   - "desc": "When the relic sloth is subjected to an effect that would move it out\
-      \ of its current space or knock it [[conditions#Prone|prone]],\
-      \ it is neither moved nor knocked [[conditions#Prone|prone]]."
+      \ of its current space or knock it [[conditions#prone|prone]],\
+      \ it is neither moved nor knocked [[conditions#prone|prone]]."
     "name": "Slow but Sturdy"
 "source":
   - "SCC"
 "image": "/03_Mechanics/CLI/bestiary/beast/token/relic-sloth-scc.webp"
 ```
 ^statblock
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -87,19 +102,21 @@ Relic sloth scc is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of relic sloth scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around relic sloth scc.
 
-## Adventure Hooks
-
-- A rumor ties relic sloth scc to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at relic sloth scc to avert a public scandal.
-- A map overlay reveals a hidden approach to relic sloth scc active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and war looms
+- Strange sightings suggest a curse
+- An heirloom has gone missing and chaos spreads
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

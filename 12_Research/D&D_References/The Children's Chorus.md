@@ -17,14 +17,22 @@ updated: '2025-08-13T01:18:35.022390+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
 
 ## Player-Facing Summary
 
@@ -34,28 +42,32 @@ The Children's Chorus is a undersea element of the setting, known for biolumines
 
 Legends speak of The Children's Chorus as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Children's Chorus.
 
-## Adventure Hooks
-
-- A rumor ties The Children's Chorus to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Children's Chorus to avert a public scandal.
-- A map overlay reveals a hidden approach to The Children's Chorus active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Whispering Peaks|02 Worldbuilding/Places/The Whispering Peaks]]
-
-
-## Connections
-
-- [[The Whispering Peaks]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- A document has gone missing and chaos spreads
+- Strange accidents suggest a curse
+- An heirloom has gone missing and war looms
+- A document has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

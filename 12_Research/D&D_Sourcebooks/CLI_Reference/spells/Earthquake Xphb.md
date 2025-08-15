@@ -29,11 +29,8 @@ updated: '2025-08-13T12:34:06.641291+00:00'
 world: Both
 ---
 
-
-
 # Earthquake
 *8th-level, Transmutation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 500 feet
@@ -42,9 +39,27 @@ world: Both
 
 Choose a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 100-foot-radius circle centered on that point. The ground there is [[difficult-terrain-xphb|Difficult Terrain]].
 
-When you cast this spell and at the end of each of your turns for the duration, each creature on the ground in the area makes a Dexterity saving throw. On a failed save, a creature has the [[conditions#Prone|Prone]] condition, and its [[conditions#Concentration|Concentration]] is broken.
+When you cast this spell and at the end of each of your turns for the duration, each creature on the ground in the area makes a Dexterity saving throw. On a failed save, a creature has the [[conditions#prone|Prone]] condition, and its [[conditions#Concentration|Concentration]] is broken.
 
 You can also cause the effects below.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Fissures
 
@@ -54,13 +69,13 @@ A total of `d6` fissures open in the spell's area at the end of the turn you cas
 
 The tremor deals 50 Bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the end of each of your turns until the spell ends. If a structure drops to 0 [[hit-points-xphb|Hit Points]], it collapses.
 
-A creature within a distance from a collapsing structure equal to half the structure's height makes a Dexterity saving throw. On a failed save, the creature takes `12d6` Bludgeoning damage, has the [[conditions#Prone|Prone]] condition, and is buried in the rubble, requiring a DC 20 Strength ([[skills#Athletics|Athletics]]) check as an action to escape. On a successful save, the creature takes half as much damage only.
+A creature within a distance from a collapsing structure equal to half the structure's height makes a Dexterity saving throw. On a failed save, the creature takes `12d6` Bludgeoning damage, has the [[conditions#prone|Prone]] condition, and is buried in the rubble, requiring a DC 20 Strength ([[skills#Athletics|Athletics]]) check as an action to escape. On a successful save, the creature takes half as much damage only.
 
 ## Summary
 
 **Classes**: [[list-spells-classes-druid|Druid]]; [[/03_Mechanics/CLI/lists/list-spells-classes-divine-soul-xge "subclass=XGE;class=XPHB"|Sorcerer (Divine Soul)]]; [[list-spells-classes-cleric|Cleric]]; [[list-spells-classes-sorcerer|Sorcerer]]; [[list-spells-classes-bard|Bard]]
 
-*Source: Player's Handbook (2024) p. 267. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 267. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -70,19 +85,38 @@ Earthquake xphb is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of earthquake xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around earthquake xphb.
 
-## Adventure Hooks
-
-- A rumor ties earthquake xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at earthquake xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to earthquake xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help investigating before the festival
+- Someone is searching for a witness for love
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

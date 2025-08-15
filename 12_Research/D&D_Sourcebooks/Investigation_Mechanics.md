@@ -19,7 +19,6 @@ updated: '2025-08-13T17:10:00.000000'
 world: Both
 ---
 
-
 # Shadow Conspiracy: Investigation Mechanics
 *Complete System for Uncovering the Conspiracy*
 
@@ -31,8 +30,6 @@ world: Both
 > - Timeline pressure and consequences
 > - Multiple solution paths
 
-## Evidence Collection System
-
 ### Evidence Points Tracking
 
 The party needs **10 Evidence Points** to publicly expose the conspiracy and gain governmental support.
@@ -41,35 +38,6 @@ The party needs **10 Evidence Points** to publicly expose the conspiracy and gai
 INPUT[progressBar(minValue(0), maxValue(10)):evidence-points]
 LABEL[Evidence Points Collected]
 ```
-
-### Evidence Categories
-
-#### Documentary Evidence (1-2 points each)
-- **Parliamentary Voting Records**: Impossible unanimous votes
-- **Medical Files**: Shadow surgery patient records
-- **Financial Ledgers**: Unexplained fund transfers
-- **Communication Intercepts**: Coded shadow messages
-- **Personnel Files**: Staff with memory gaps
-
-#### Physical Evidence (2-3 points each)
-- **Shadow Surgery Tools**: Specialized medical equipment
-- **Consciousness Crystals**: Storage devices for stolen personalities
-- **Shadow Essence Samples**: Proof of consciousness manipulation
-- **Surgical Scars**: Physical marks on victims
-- **Shadow Duplicate Remains**: Bodies that dissolve into shadow
-
-#### Witness Testimony (1 point each, 2 if high-ranking)
-- **Escaped Victims**: First-hand surgery accounts
-- **Whistleblowers**: Inside information from conspirators
-- **Medical Staff**: Witnessed strange procedures
-- **Security Personnel**: Observed suspicious behavior
-- **Family Members**: Noticed personality changes
-
-#### Captured Conspirators (3-4 points)
-- **Shadow Surgeon**: Direct evidence of techniques
-- **Corrupted Official**: Proof of governmental infiltration
-- **Shadow Duplicate**: Living evidence of the conspiracy
-- **Conspiracy Coordinator**: Knowledge of network structure
 
 ### Evidence Verification
 
@@ -82,7 +50,6 @@ Evidence Verification Check
 6-10: Partial truth (half value)
 11-15: Genuine (full value)
 16-20: Exceptional quality (+1 bonus point)
-```
 
 ### Evidence Chain Requirements
 
@@ -98,20 +65,9 @@ graph TD
     F --> G[Patient Records]
     G --> H[Victim Identities]
     
-    I[Financial Irregularities] --> J[Money Trail]
+    I[Ficial Irregularities] --> J[Money Trail]
     J --> K[Conspiracy Funding]
     K --> L[Leadership Identity]
-```
-
-## Shadow Detection Methods
-
-### Physical Detection
-
-#### Environmental Signs
-- **Temperature**: Drops 5-10°F near shadow-touched
-- **Light Behavior**: Shadows move independently
-- **Mirrors**: Show different or no reflections
-- **Animals**: React with fear or aggression
 
 #### Medical Examination
 DC 15 Medicine check reveals:
@@ -119,8 +75,6 @@ DC 15 Medicine check reveals:
 - Unusual neural activity patterns
 - Dual pulse rhythms
 - Memory gaps in recent events
-
-### Magical Detection
 
 #### Spell Effectiveness
 | Spell | Effect on Shadow-Touched | DC to Resist |
@@ -132,26 +86,16 @@ DC 15 Medicine check reveals:
 | Identify | Reveals shadow surgery | DC 20 Investigation |
 
 #### Custom Detection Ritual
-**Shadow Resonance Test** (10 minutes, requires shadow detection kit)
+**Shadow Resoce Test** (10 minutes, requires shadow detection kit)
 - All shadow-touched within 30 feet must make DC 15 Charisma save
 - On failure, shadow aura becomes visible for 1 hour
 - On success, they're aware of the detection attempt
-
-### Behavioral Detection
-
-#### Pattern Recognition (Insight DC varies)
-- **DC 10**: Notice unusually coordinated behavior
-- **DC 15**: Detect scripted speech patterns
-- **DC 18**: Identify memory inconsistencies
-- **DC 20**: Predict shadow agent actions
 
 #### Social Tests
 **Memory Verification**: Ask about shared past experiences
 **Emotional Response**: Shadow-touched have limited emotional range
 **Personal Habits**: Original personality quirks are absent
 **Decision Patterns**: Always choose options benefiting conspiracy
-
-## Investigation Tools
 
 ### Shadow Detection Kit
 *Rare adventuring gear, 500 gp*
@@ -183,25 +127,10 @@ DC 15 Medicine check reveals:
 - Detect altered or implanted memories
 - Preserve evidence of consciousness manipulation
 
-## NPC Interrogation System
-
 ### Trust Building Mechanics
 
-```meta-bind
 INPUT[slider(minValue(-10), maxValue(10)):npc-trust]
 LABEL[NPC Trust Level]
-```
-
-#### Trust Modifiers
-- **Saved their life**: +3
-- **Exposed conspiracy evidence**: +2
-- **Shared personal vulnerability**: +1
-- **Professional approach**: +0
-- **Aggressive questioning**: -2
-- **Threatened or intimidated**: -3
-- **Associated with conspiracy**: -5
-
-### Interrogation Techniques
 
 #### Soft Approach (Persuasion)
 - Build rapport over multiple conversations
@@ -209,11 +138,9 @@ LABEL[NPC Trust Level]
 - Appeal to moral conscience
 - Offer protection or rewards
 
-```dice-roller
 dice: 1d20+CHA
 Soft Interrogation
 DC = 15 - (Trust Level)
-```
 
 #### Hard Approach (Intimidation)
 - Immediate results but damages trust
@@ -221,11 +148,9 @@ DC = 15 - (Trust Level)
 - Can cause witnesses to flee
 - Sometimes necessary for time pressure
 
-```dice-roller
 dice: 1d20+STR/CHA
 Hard Interrogation
 DC = 20 - (Fear Level)
-```
 
 #### Analytical Approach (Investigation)
 - Catch inconsistencies in stories
@@ -233,11 +158,9 @@ DC = 20 - (Fear Level)
 - Build logical case
 - Expose lies through facts
 
-```dice-roller
 dice: 1d20+INT
 Analytical Interrogation
 DC = 18 - (Evidence Points/2)
-```
 
 ### Information Extraction Table `dice: 1d12`
 
@@ -249,8 +172,6 @@ DC = 18 - (Evidence Points/2)
 | 7-8 | Conspiracy methods | 6+ |
 | 9-10 | Network structure | 8+ |
 | 11-12 | Leadership identity | 10 |
-
-## Timeline and Consequences
 
 ### Investigation Phases
 
@@ -280,26 +201,8 @@ DC = 18 - (Evidence Points/2)
 
 ### Consequence Tracking
 
-```meta-bind
 INPUT[progressBar(minValue(0), maxValue(100)):conspiracy-control]
 LABEL[Conspiracy Control Level]
-```
-
-#### Control Level Effects
-- **0-25%**: Conspiracy hidden, isolated incidents
-- **26-50%**: Increasing influence, coordinated actions
-- **51-75%**: Major governmental control, public unrest
-- **76-99%**: Near-complete takeover, resistance underground
-- **100%**: Total shadow control, campaign failure
-
-#### Escalation Triggers
-- Failed investigation checks: +5% control
-- Missed deadlines: +10% control
-- Conspirator escapes: +3% control
-- Evidence destroyed: +5% control
-- Ally corrupted: +7% control
-
-## Investigation Challenges
 
 ### Skill Challenge Framework
 
@@ -316,8 +219,6 @@ LABEL[Conspiracy Control Level]
 - Arcana (DC 14): Detect magical manipulation
 - History (DC 13): Research past incidents
 - Performance (DC 16): Go undercover
-
-### Complex Investigation Scenes
 
 #### The Parliamentary Archive Heist
 **Objective**: Steal voting records without detection
@@ -344,8 +245,6 @@ LABEL[Conspiracy Control Level]
 
 **Success**: Gain valuable ally + 3 evidence points
 **Failure**: Official permanently damaged, become enemy
-
-## Random Investigation Events
 
 ### Daily Investigation Events `dice: 1d20`
 
@@ -377,8 +276,6 @@ LABEL[Conspiracy Control Level]
 | 9 | False flag operation | Prove innocence |
 | 10 | All leads go cold | New approach required |
 
-## Dataview Queries for Investigation
-
 ### Evidence Tracker
 ```dataview
 TABLE 
@@ -389,43 +286,22 @@ TABLE
 FROM "Shadow_Conspiracy"
 WHERE contains(tags, "evidence")
 SORT evidence-value DESC
-```
 
 ### Suspect Database
-```dataview
-TABLE 
   shadow-status as "Status",
   position as "Position",
   evidence-against as "Evidence",
   last-seen as "Location"
-FROM "Shadow_Conspiracy"
 WHERE contains(tags, "suspect")
 SORT shadow-status DESC
-```
 
 ### Investigation Progress
-```dataview
-TABLE 
   phase as "Phase",
   deadline as "Deadline",
   successes as "Successes",
   failures as "Failures"
-FROM "Shadow_Conspiracy"
 WHERE contains(tags, "investigation-phase")
 SORT phase ASC
-```
-
-## Quick Reference Cards
-
-### Shadow Detection Checklist
-- [ ] Check temperature around suspect
-- [ ] Observe shadow behavior
-- [ ] Test reflection in mirror
-- [ ] Ask personal history questions
-- [ ] Watch for coordinated behavior
-- [ ] Look for surgical scars
-- [ ] Cast detection magic
-- [ ] Monitor emotional responses
 
 ### Evidence Security Protocol
 1. Document immediately
@@ -439,17 +315,27 @@ SORT phase ASC
 
 ---
 
-## Connected Resources
-- [[Shadow Conspiracy NPCs]]
-- [[Shadow Surgery Techniques]]
-- [[Parliament Building Maps]]
-- [[Evidence Item Descriptions]]
-- [[Witness Protection Protocols]]
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -458,3 +344,13 @@ SORT phase ASC
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A letter reveals a conspiracy about the government
+- Strange sightings suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

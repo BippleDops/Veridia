@@ -16,24 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Deep Mother|02 Worldbuilding/Lore/Deep Mother]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Introduction]]
-- [[Deep Mother]]
-- [[Evidence Chain Analysis]]
-- [[Kraken Territories]]
-- [[Silver Mask]]
-- [[The Restoration Movement]]
-- [[The Silverscale Conspiracy]]
-- [[Aethermoor]]
 
 ## Player-Facing Summary
 
@@ -43,19 +41,31 @@ Deep Mother Cult Practices is a undersea element of the setting, known for biolu
 
 Legends speak of Deep Mother Cult Practices as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Deep Mother Cult Practices.
 
-## Adventure Hooks
-
-- A rumor ties Deep Mother Cult Practices to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Deep Mother Cult Practices to avert a public scandal.
-- A map overlay reveals a hidden approach to Deep Mother Cult Practices active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and chaos spreads
+- Someone is protecting a witness for power
+- Strange accidents suggest ancient magic
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

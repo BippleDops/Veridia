@@ -27,15 +27,31 @@ updated: '2025-08-12T23:37:35.746706'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-bronze-dragon-xmm-v1-young-bronze-dragon-xmm.svg)
 
 # [[young-bronze-dragon-xmm|Young Bronze Dragon]]
-*Source: Monster Manual (2024) p. 58. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 58. Available in the SRD and the Free Rules (2024)*  
 
 Many young bronze dragons become experts in a type of problem, like driving off pirates or protecting communities from storms. Young bronze dragons collect friends with varied expertise, cultivating a community of experts they can rely on.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Bronze Dragons
 
@@ -99,7 +115,7 @@ Bronze dragons usually make their homes near or under the sea.
     "name": "Lightning Breath (Recharge 5-6)"
   - "desc": "Strength Saving Throw: DC 15, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: The target is pushed up to 40 feet straight away from the dragon\
-      \ and has the [[conditions#Prone|Prone]] condition."
+      \ and has the [[conditions#prone|Prone]] condition."
     "name": "Repulsion Breath"
 "source":
   - "XMM"
@@ -119,19 +135,27 @@ Young bronze dragon xmm is a undersea element of the setting, known for biolumin
 
 Legends speak of young bronze dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around young bronze dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties young bronze dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at young bronze dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to young bronze dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting a artifact for love
+- Strange disappearances suggest a conspiracy
+- A prisoner has gone missing and evil awakens
+- Someone is hunting an heir for money
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

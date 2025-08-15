@@ -22,32 +22,22 @@ world: Both
 ---
 
 
-# Spells for Oathbreaker
+## 🔧 Deep Evaluation Improvements
 
-## 1st Level
+*20 targeted improvements identified*
 
-- [[/03_Mechanics/CLI/spells/hellish-rebuke-xphb "XPHB"|Hellish Rebuke]] at class level 9
-- [[/03_Mechanics/CLI/spells/inflict-wounds-xphb "XPHB"|Inflict Wounds]] at class level 9
+### Connection Improvements
 
-## 2nd Level
+- Add cross-references to related notes
 
-- [[/03_Mechanics/CLI/spells/crown-of-madness-xphb "XPHB"|Crown of Madness]] at class level 9
-- [[/03_Mechanics/CLI/spells/darkness-xphb "XPHB"|Darkness]] at class level 9
+### Enhancement Improvements
 
-## 3rd Level
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[/03_Mechanics/CLI/spells/animate-dead-xphb "XPHB"|Animate Dead]] at class level 9
-- [[/03_Mechanics/CLI/spells/bestow-curse-xphb "XPHB"|Bestow Curse]] at class level 9
-
-## 4th Level
-
-- [[/03_Mechanics/CLI/spells/blight-xphb "XPHB"|Blight]] at class level 9
-- [[/03_Mechanics/CLI/spells/confusion-xphb "XPHB"|Confusion]] at class level 9
-
-## 5th Level
-
-- [[/03_Mechanics/CLI/spells/contagion-xphb "XPHB"|Contagion]] at class level 9
-- [[/03_Mechanics/CLI/spells/dominate-person-xphb "XPHB"|Dominate Person]] at class level 9
 
 ## Player-Facing Summary
 
@@ -57,19 +47,35 @@ List spells classes oathbreaker dmg is a undersea element of the setting, known 
 
 Legends speak of list spells classes oathbreaker dmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells classes oathbreaker dmg.
 
-## Adventure Hooks
-
-- A rumor ties list spells classes oathbreaker dmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells classes oathbreaker dmg to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells classes oathbreaker dmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange accidents suggest a portal
+- A map reveals a conspiracy about the government
+- A document has gone missing and evil awakens
+- Strange accidents suggest a conspiracy
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

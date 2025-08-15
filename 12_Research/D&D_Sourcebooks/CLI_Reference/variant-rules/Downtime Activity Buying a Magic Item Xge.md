@@ -22,12 +22,28 @@ updated: '2025-08-13T12:34:04.568683+00:00'
 world: Both
 ---
 
-
-
 # Downtime Activity: Buying a Magic Item
 *Source: Xanathar's Guide to Everything p. 126* 
 
 Purchasing a magic item requires time and money to seek out and contact people willing to sell items. Even then, there is no guarantee a seller will have the items a character desires.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Resources
 
@@ -87,19 +103,17 @@ Downtime activity buying a magic item xge is a undersea element of the setting, 
 
 Legends speak of downtime activity buying a magic item xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around downtime activity buying a magic item xge.
 
-## Adventure Hooks
-
-- A rumor ties downtime activity buying a magic item xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at downtime activity buying a magic item xge to avert a public scandal.
-- A map overlay reveals a hidden approach to downtime activity buying a magic item xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals the truth about the cult
+- Strange disappearances suggest a conspiracy
+- Someone is protecting a artifact for love

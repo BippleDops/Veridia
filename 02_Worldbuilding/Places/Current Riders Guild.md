@@ -1,4 +1,5 @@
 ---
+
 title: Current Riders Guild
 type: Location
 tags:
@@ -10,6 +11,7 @@ tags:
 - location
 - complete
 - status/in-progress
+- bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +20,8 @@ population: Unknown
 danger_level: Moderate
 updated: '2025-08-13T12:34:17.241825+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -25,10 +29,77 @@ world: Both
 > [!figure] View
 ![[04_Resources/Assets/04_Resources/Assets/Locations/location-city-current-riders-guild-current-riders-guild.svg]]
 
-
 # Current Riders Guild
 
 *A prestigious maritime courier and messenger service operating throughout the aquatic realms of Aquabyssos.*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
 
 ## Physical Description & Atmosphere
 
@@ -43,8 +114,6 @@ The atmosphere buzzes with constant activity - riders checking in from distant d
 Founded three centuries ago by the legendary [[Tidal Runner Nerissa]], the Current Riders Guild emerged from the need for reliable communication across Aquabyssos's vast underwater territories. What began as a small collective of [[Triton]] messengers has grown into the realm's most trusted courier service.
 
 The guild played a crucial role during the [[War of Crushing Depths]], maintaining communication lines between allied settlements despite enemy blockades. Their heroic delivery of crucial intelligence to [[Fort Nautilus]] is credited with turning the tide of the war's final battle.
-
-## Current Leadership & Inhabitants
 
 ### Guildmaster Torrino Swiftcurrent
 *Medium humanoid (triton), lawful neutral*
@@ -73,14 +142,6 @@ The guild played a crucial role during the [[War of Crushing Depths]], maintaini
 - **Multiattack.** Torrino makes two trident attacks.
 - **Trident.** *Melee or Ranged Weapon Attack:* +7 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage, or 7 (1d8 + 3) piercing damage if used with two hands.
 
-### Notable Staff
-- **[[Marina Swiftfin]]** - Deputy Guildmaster and Route Coordinator
-- **[[Keeper Brinescale]]** - Master of Mounts and Stable Operations  
-- **[[Courier Pelagic]]** - Senior Rider specializing in dangerous deliveries
-- **[[Navigator Depthseer]]** - Expedition planner for deep-ocean routes
-
-## Notable Features & Services
-
 ### The Great Tide Pool
 A massive circular pool at the guild's heart, magically connected to major waterways across [[Aquabyssos]]. Serves as both mount stable and rapid-transit hub for urgent deliveries.
 
@@ -91,15 +152,6 @@ The guild maintains extensive breeding programs for:
 - **[[Manta Ray]]** - Long-distance cargo transport
 - **[[Electric Eel]]** - Specialized defense and combat support
 
-### Services Offered
-- **Standard Delivery** - 5 gp per 100 miles
-- **Urgent Courier** - 25 gp per 100 miles (arrives in half time)
-- **Dangerous Territory** - 50 gp per 100 miles plus hazard fees
-- **Bulk Cargo Transport** - Negotiated rates for large shipments
-- **Escort Services** - Guild riders accompanying merchant vessels
-
-## Adventure Hooks & Encounters
-
 ### The Missing Courier (Level 3-5)
 [[Courier Ripplestone]] vanished while delivering sensitive documents to [[Port Abyssos]]. Investigation reveals signs of [[Sahuagin]] ambush near the [[Kelp Maze]]. The documents contain intelligence about [[Coral Throne Syndicate]] operations.
 
@@ -108,8 +160,6 @@ During the annual [[Pelagic Cup]] racing competition, several guild mounts fall 
 
 ### Diplomatic Emergency (Level 7-9)
 War threatens between [[Triton]] city-states. The guild needs experienced adventurers to escort their most skilled diplomat through hostile waters controlled by [[Deep Ones]] and deliver peace negotiations to [[The Sunken Senate]].
-
-## D&D 5e Mechanics
 
 ### Guild Membership Benefits
 Characters who join the Current Riders Guild (requires proficiency in Animal Handling and either Athletics or Survival) gain:
@@ -125,57 +175,8 @@ Characters who join the Current Riders Guild (requires proficiency in Animal Han
 3. **Swift Rider** (11-25 renown)
 4. **Master Courier** (26+ renown)
 
-### Environmental Features
-- **Tidal Pools** - Provide water breathing for air-breathers (24 hours)
-- **Current Channels** - Increase swim speed by 20 ft. when following the flow
-- **Emergency Beacons** - Magical sending stones for distress calls
-
 ## Connected Locations
 The Current Riders Guild maintains outposts in [[Port Abyssos]], [[The Twilight Gardens]], [[Fort Nautilus]], and [[The Pearl Markets]], creating a comprehensive network spanning the known regions of Aquabyssos.
-
-
-## Connections
-
-- [[Coral Throne Syndicate]]
-- [[Pearl_Harbor_City]]
-- [[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]
-- [[Rescue Senator Glaucus]]
-
-
-## Overview
-
-
-TODO
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
 
 ## Player-Facing Summary
 
@@ -185,16 +186,6 @@ Current Riders Guild is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Current Riders Guild as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Current Riders Guild.
 
-## Adventure Hooks
-
-- A rumor ties Current Riders Guild to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Current Riders Guild to avert a public scandal.
-- A map overlay reveals a hidden approach to Current Riders Guild active only during specific tides/storms.
-
-
-
-## Map Notes
-
 ### Key Locations
 1. Main entrance/approach
 2. Central gathering area
@@ -202,38 +193,9 @@ Legends speak of Current Riders Guild as a nexus where past and present converge
 4. Defensive positions (if applicable)
 5. Hidden or secret areas
 
-### Travel Times
-- To nearest settlement: varies
-- To regional capital: varies
-- To nearest port/trade route: varies
-
-### Dangers
-- Environmental hazards
-- Hostile creatures
-- Political tensions
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-## Cross-References
-
-- [[Current Riders Guild]]
-
-<!-- enriched: true -->
-- [[The Depth Plague]]
-
-
-## Notable Residents
-
-- Various citizens and travelers
-
-## Trade Routes
-
-- [[04_Resources_Assets_Locations_location-city-brave-depthfixer-brave-depthfixer.svg]]
-- [[04_Resources_Assets_Locations_location-city-senator-s-widow-marcella-senator-s-widow-marcella.svg]]
-- [[Weapon Master Dain Sharpedge]]
-
 
 ## Sensory Details
 
@@ -243,7 +205,6 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 
 **Smells**: Incense mingles with the scent of exotic spices
 
-
 ## Description
 
 Current Riders Guild is a notable location characterized by its unique features and strategic importance. The area serves as a hub for local activity and holds significance in the broader region.
@@ -251,21 +212,7 @@ Current Riders Guild is a notable location characterized by its unique features 
 **Type**: Settlement/Landmark/Region
 **Size**: Appropriate to location type
 **Population**: Varies by type
-**Governance**: Local authority structure
-
-
-## Inhabitants
-
-### Demographics
-- Primary population groups
-- Minority communities
-- Transient populations
-
-### Notable Residents
-- [[Local Leader]] - Governs the area
-- [[Prominent Merchant]] - Economic influence
-- [[Mysterious Figure]] - Subject of local interest
-
+**Goverce**: Local authority structure
 
 ## Current Events
 
@@ -278,15 +225,31 @@ Ongoing situations affecting Current Riders Guild:
 - Opportunities arising
 
 
-## Secrets & Rumors
 
-### Common Knowledge
-- What everyone knows about Current Riders Guild
+## Trade Importance
 
-### Whispered Rumors
-- Stories that may or may not be true
+Key stop on textiles trade route
 
-### Hidden Truths
-- Secrets known only to a few
-- Ancient mysteries
-- Concealed dangers
+
+## Plot Hooks
+
+- A corpse reveals a betrayal about the government
+- A map reveals the truth about the government
+- A journal reveals a betrayal about the cult
+
+## Historical Timeline
+
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established

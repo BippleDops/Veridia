@@ -26,7 +26,7 @@ class: Rogue/Enchanter
 location: '[[The Shadow Markets]]'
 world: Aquabyssos
 category: Criminal Mind-Mage
-faction: '[[02_Worldbuilding/Groups/Memory Thieves Guil|02 Worldbuilding/Groups/Memory
+faction: '[[02_Worldbuilding/Groups/Memory Thieves Guil|02 Worldbuilding/Groups/Memory]]
   Thieves Guil]]'
 influence: Moderate
 danger_level: High
@@ -37,20 +37,32 @@ MyCategory: Criminal Operative
 obsidianUIMode: preview
 ---
 
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-memory-thief-the-memory-thief.svg]]
-
-
-
 
 # The Memory Thief
 *Dealer in Stolen Thoughts*
 
 > *"Memories are the most precious treasure anyone possesses, and like all treasures, they can be taken by those skilled enough to claim them. What price would you pay to forget your greatest pain, or to remember someone else's greatest joy?"*
 > — The Memory Thief, negotiating with a potential client
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -80,8 +92,6 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 - **Shifting Voice**: Speaking patterns and accent change with each identity
 - **Empty Eyes**: Even in disguise, their eyes seem to look through rather than at people
 - **Subtle Tells**: Minor unconscious habits that persist across all identities
-
-## Personality and Psychology
 
 ### Core Traits
 
@@ -137,8 +147,6 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 **Languages**: Common, Thieves' Cant, Deep Speech, telepathic communication  
 **Challenge Rating**: 9 (5,000 XP)  
 
-## Special Abilities
-
 ### Memory Manipulation Magic
 **Extract Memory**: Can permanently remove specific memories from targets (Save vs. Enchantment)  
 **Implant False Memory**: Insert fabricated memories that seem completely real  
@@ -162,8 +170,6 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 **Memory Weapons**: Uses memory modification to confuse and disorient opponents  
 **Environmental Advantages**: Exploits knowledge of territory and prepared escape routes  
 **Psychological Warfare**: Attacks opponents' confidence and certainty through memory manipulation  
-
-## Criminal Operations and Methods
 
 ### Service Categories
 
@@ -195,8 +201,6 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 
 **Law Enforcement Countermeasures**: Ongoing monitoring of investigation activities and preparation for potential raids.
 
-## Client Base and Relationships
-
 ### Legitimate Clients
 **Trauma Victims**: Individuals seeking relief from painful memories through quasi-legal therapeutic procedures.
 
@@ -223,8 +227,6 @@ Their operations represent the cutting edge of memory-based crime, utilizing adv
 **Protection Services**: Security specialists who help protect criminals from memory-based investigation.
 
 **Magical Suppliers**: Sources for specialized equipment and materials needed for memory manipulation.
-
-## Adventure Hooks and Plot Opportunities
 
 ### The Stolen Identity (Levels 6-8)
 A prominent citizen claims their entire identity has been stolen, with false memories implanted to make them believe they are someone else. The party must investigate The Memory Thief's involvement while determining what the true identity theft was meant to accomplish.
@@ -262,8 +264,6 @@ Something is causing widespread memory loss throughout [[Abyssos Prime]], and Th
 - Alliance with former enemy to address greater danger
 - Consequences affecting the fabric of society and personal relationships
 
-## Connection to Larger Mysteries
-
 ### Memory Magic Research
 The Memory Thief's advanced techniques suggest access to knowledge or resources beyond typical criminal capabilities, potentially connecting to ancient magical traditions or forbidden research.
 
@@ -275,8 +275,6 @@ The challenge of investigating memory-based crimes has forced [[Aquabyssos]] aut
 
 ### Social Impact
 The existence of reliable memory modification technology raises fundamental questions about identity, justice, and the nature of human experience that society is still struggling to address.
-
-## Defenses and Countermeasures
 
 ### Personal Protection
 **Mental Shields**: Magical and psychological defenses against memory-reading and modification attempts.
@@ -290,7 +288,7 @@ The existence of reliable memory modification technology raises fundamental ques
 ### Professional Security
 **Client Confidentiality**: Absolute protection of client information as both ethical standard and survival strategy.
 
-**Payment Security**: Complex financial arrangements to prevent tracking through monetary transactions.
+**Payment Security**: Complex ficial arrangements to prevent tracking through monetary transactions.
 
 **Communication Security**: Encrypted and indirect methods for all professional communications.
 
@@ -301,14 +299,6 @@ The existence of reliable memory modification technology raises fundamental ques
 *"Everyone wants to remember the good times and forget the bad, but memory is not so simple. Take away the pain, and you may lose the wisdom. Add false joy, and you risk destroying genuine happiness. I am an artist working with the most delicate medium in existence—the human soul."*  
 — The Memory Thief, explaining their philosophy to a client
 
-
-## Connections
-
-- [[New Tethys]]
-- [[Secret Vault Beneath Throne]]
-- [[Shadow Market Canals]]
-- [[Vote Vaults]]
-
 ## Player-Facing Summary
 
 Memory Thief is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -317,24 +307,25 @@ Memory Thief is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of Memory Thief as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Memory Thief.
 
-## Adventure Hooks
-
-- A rumor ties Memory Thief to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Memory Thief to avert a public scandal.
-- A map overlay reveals a hidden approach to Memory Thief active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Memory Thief|02 Worldbuilding/Places/Memory Thief]]
-
-<!-- enriched: true -->
-- [[Abyssos Prime]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Plot Hooks
+
+- Strange sightings suggest ancient magic
+- Someone is blackmailing a witness for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

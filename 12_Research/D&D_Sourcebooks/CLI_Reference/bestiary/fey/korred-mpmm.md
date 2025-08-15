@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.268988'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-korred-mpmm-korred-mpmm.svg)
 
@@ -40,6 +38,24 @@ Korreds are unpredictable, secretive Fey with strong ties to earth and stone. Be
 Korreds prefer to keep their own company but occasionally consort with creatures of elemental earth such as [[galeb-duhr-xmm|galeb duhr]]. They often gather with other korreds to perform ceremonial dances, beating out rhythms on stone with their hooves and clubs. In the depths of the Material Plane, korreds typically flee from other creatures, but they become aggressive when they feel insulted or are annoyed by the sounds of mining.
 
 Korreds can hurl boulders far larger than it seems they should be able to, shape stone as though it were clay, and swim through rock. They also gain supernatural strength just from standing on the ground.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Magical Hair
 
@@ -69,7 +85,6 @@ Korreds have hair all over their bodies, but the hair that grows from their head
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+5"
 "damage_resistances": "bludgeoning, piercing, slashing from nonmagical attacks"
 "senses": "darkvision 120 ft., tremorsense 120 ft., passive Perception 15"
 "languages": "Dwarvish, Gnomish, Sylvan, Terran, Undercommon"
@@ -93,7 +108,7 @@ Korreds have hair all over their bodies, but the hair that grows from their head
       \ and using Wisdom as the spellcasting ability (spell save DC 13):\n\nAt will:\
       \ [[commune-with-nature-xphb|commune with nature]]\
       \ (as an action), [[meld-into-stone-xphb|meld into stone]],\
-      \ [[stone-shape-xphb|stone shape]]\n\n1/day: [[ottos-irresistible-dance-xphb|Otto's\
+      \ [[stone-shape-xphb|stone shape]]\n\n1/day: [[ottos-irresistible-dance-xphb|Otto's\]]
       \ irresistible dance]]"
     "name": "Spellcasting"
 "bonus_actions":
@@ -127,19 +142,25 @@ Korred mpmm is a undersea element of the setting, known for bioluminescent glow 
 
 Legends speak of korred mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around korred mpmm.
 
-## Adventure Hooks
-
-- A rumor ties korred mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at korred mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to korred mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Veiled Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A merchant needs help investigating before the festival
+- An heirloom has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

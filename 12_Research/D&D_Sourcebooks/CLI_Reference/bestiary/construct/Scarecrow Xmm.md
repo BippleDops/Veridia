@@ -28,10 +28,26 @@ updated: '2025-08-13T12:34:06.079076+00:00'
 world: Both
 ---
 
-
-
 # [[scarecrow-xmm|Scarecrow]]
 *Source: Monster Manual (2024) p. 269*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Scarecrow
 
@@ -72,15 +88,12 @@ Although scarecrows take their name from rural effigies, they might take varied 
 "stats":
   - !!int "11"
   - !!int "13"
-  - !!int "11"
   - !!int "10"
-  - !!int "10"
-  - !!int "13"
 "speed": "30 ft."
 "damage_vulnerabilities": "fire"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
-  \ [[conditions#Frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
+  \ [[conditions#frightened|frightened]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
   \ [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 60 ft., passive Perception 10"
@@ -88,12 +101,12 @@ Although scarecrows take their name from rural effigies, they might take varied 
 "cr": "1"
 "actions":
   - "desc": "Melee Attack Roll: +3, reach 5 ft. Hit: 6 (2d4 + 1) Slashing damage,\
-      \ and the target has the [[conditions#Frightened|Frightened]]\
+      \ and the target has the [[conditions#frightened|Frightened]]\
       \ condition until the end of the scarecrow's next turn."
     "name": "Fearsome Claw"
   - "desc": "Wisdom Saving Throw: DC 11, one creature the scarecrow can see within\
-      \ 30 feet. Failure: The target has the [[conditions#Frightened|Frightened]]\
-      \ condition until the end of the scarecrow's next turn. While [[conditions#Frightened|Frightened]],\
+      \ 30 feet. Failure: The target has the [[conditions#frightened|Frightened]]\
+      \ condition until the end of the scarecrow's next turn. While [[conditions#frightened|Frightened]],\
       \ the target has the [[conditions#Paralyzed|Paralyzed]] condition."
     "name": "Terrifying Glare"
 "source":
@@ -114,19 +127,35 @@ Scarecrow xmm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of scarecrow xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around scarecrow xmm.
 
-## Adventure Hooks
-
-- A rumor ties scarecrow xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at scarecrow xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to scarecrow xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

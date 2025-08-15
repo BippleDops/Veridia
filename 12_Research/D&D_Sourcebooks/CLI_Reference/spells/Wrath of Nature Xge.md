@@ -27,11 +27,8 @@ updated: '2025-08-13T12:34:06.484265+00:00'
 world: Both
 ---
 
-
-
 # Wrath of Nature
 *5th-level, Evocation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 120 feet
@@ -39,6 +36,24 @@ world: Both
 - **Duration:** Concentration, up to 1 minute
 
 You call out to the spirits of nature to rouse them against your enemies. Choose a point you can see within range. The spirits cause trees, rocks, and grasses in a 60-foot cube centered on that point to become animated until the spell ends.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Grasses and Undergrowth
 
@@ -54,7 +69,7 @@ At the end of each of your turns, one creature of your choice that is on the gro
 
 ## Rocks
 
-As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes `3d8` nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall [[conditions#Prone|prone]].
+As a bonus action on your turn, you can cause a loose rock in the cube to launch at a creature you can see in the cube. Make a ranged spell attack against the target. On a hit, the target takes `3d8` nonmagical bludgeoning damage, and it must succeed on a Strength saving throw or fall [[conditions#prone|prone]].
 
 ## Summary
 
@@ -70,19 +85,20 @@ Wrath of nature xge is a undersea element of the setting, known for bioluminesce
 
 Legends speak of wrath of nature xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around wrath of nature xge.
 
-## Adventure Hooks
-
-- A rumor ties wrath of nature xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at wrath of nature xge to avert a public scandal.
-- A map overlay reveals a hidden approach to wrath of nature xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing a artifact for revenge
+- A document has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

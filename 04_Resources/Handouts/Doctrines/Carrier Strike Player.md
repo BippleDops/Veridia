@@ -37,15 +37,9 @@ Crew tips
 Risks
 - A broken cycle costs lives and time
 
-## Cross-References
-
-- [[Doctrine Quick Reference]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

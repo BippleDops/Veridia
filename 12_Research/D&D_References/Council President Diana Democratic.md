@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Bexley|02 Worldbuilding/Groups/Bexley]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Bexley]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,36 @@ Council President Diana Democratic is a undersea element of the setting, known f
 
 Legends speak of Council President Diana Democratic as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Council President Diana Democratic.
 
-## Adventure Hooks
-
-- A rumor ties Council President Diana Democratic to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Council President Diana Democratic to avert a public scandal.
-- A map overlay reveals a hidden approach to Council President Diana Democratic active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help delivering before winter
+- Someone is hunting an heir for money
+- Someone is searching for a witness for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

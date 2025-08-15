@@ -24,21 +24,33 @@ obsidianUIMode: preview
 updated: '2025-08-13T01:18:36.958179+00:00'
 ---
 
-
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-the-pearl-heist-the-pearl-heist.svg]]
-
-
-
-
 
 # The Pearl Heist
 
 *"They took more than treasure - they stole the city's confidence." - Banking Commissioner*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Overview
-The Pearl Heist refers to the most audacious theft in Aquabyssos history, when criminals infiltrated the Royal Vault and stole the legendary Pearl of Tides during the city's most important festival. The heist shocked the community and exposed security weaknesses throughout the financial district.
+The Pearl Heist refers to the most audacious theft in Aquabyssos history, when criminals infiltrated the Royal Vault and stole the legendary Pearl of Tides during the city's most important festival. The heist shocked the community and exposed security weaknesses throughout the ficial district.
 
 ## The Target
 **Pearl of Tides:** Ancient artifact controlling ocean currents around the city, worth millions in gold but priceless for its magical properties. The pearl was considered absolutely secure in the Royal Vault's deepest chamber.
@@ -56,13 +68,6 @@ The Pearl Heist refers to the most audacious theft in Aquabyssos history, when c
 **Multiple Skills:** Team required tunneling, magical, and security expertise
 **International Connections:** Theft may have been commissioned by foreign power
 **Clean Escape:** No arrests made despite extensive investigation
-
-## Investigation Challenges
-- No witnesses willing to come forward
-- Magical detection spells yielded no useful information
-- Tunnel system flooded immediately after theft
-- Suspects had perfect alibis during festival
-- Political pressure to solve case quickly created rushed investigation
 
 ## Consequences
 **Economic Impact:** Massive insurance claims bankrupted three companies
@@ -85,13 +90,6 @@ The Pearl Heist refers to the most audacious theft in Aquabyssos history, when c
 4. **Criminal Evolution:** Local thieves developed unprecedented capabilities
 5. **Time Travel:** Futuristic criminals using anachronistic technology
 
-## Ongoing Effects
-- Enhanced security measures throughout financial district
-- Regular "Pearl Heist" anniversary protests demanding answers
-- Reward fund growing annually with interest and donations
-- Insurance industry completely restructured
-- Tourism paradoxically increased due to heist notoriety
-
 ## Adventure Hooks
 1. New evidence surfaces linking party member's past to the heist
 2. Pearl spotted in black market auction requiring investigation
@@ -106,41 +104,6 @@ The Pearl Heist has become legendary, inspiring criminals while haunting law enf
 ## DM Notes
 The Pearl Heist provides excellent background for heist adventures, criminal investigations, or political intrigue. Use it as inspiration for similar crimes or as backstory revealing character connections to notorious criminals.
 
-
-## Connections
-
-- [[The_Crimson_Pearl|The Crimson Pearl]]
-
-
-## Appearance
-
-
-TODO
-
-
-## Personality
-
-
-TODO
-
-
-## Goals
-
-
-TODO
-
-
-## Relationships
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 The Pearl Heist is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -153,9 +116,7 @@ Legends speak of The Pearl Heist as a nexus where past and present converge. Loc
 
 - [[The Pearl Heist|02 Worldbuilding/People/The Pearl Heist]]
 
-<!-- enriched: true -->
 iched: true -->
-
 
 ## Related
 

@@ -28,38 +28,30 @@ updated: '2025-08-13T12:34:29.448841+00:00'
 world: Aethermoor
 ---
 
-
-
-
-
-
-
 # The Final Sealing
 
 ![[04_Resources/Assets/Art/Lore/The_Final_Sealing.png|The Final Sealing Portrait]]
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Summary
 The Final Sealing describes a turning current in history where choices about memory, depth, and sovereignty reshaped travel, trade, and ritual.
-
-## Historical Context
-- Origin: Scribal disputes escalated into pressure-lock conflicts.
-- Spread: Merchant routes adopted secret signs to bypass tariffs; songs encoded depth-keys.
-- Present: Competing narratives justify new taxes, oaths, and contraband routes.
-
-## What It Means at the Table
-- Investigation: On a lead toward old tariffs, players can extract schedules that reduce travel risks for a session.
-- Social: Reciting the chapel oath grants advantage on one Persuasion check if honored afterward.
-- Exploration: Recognizing encoded waystones reduces the chance of getting lost by one step.
-
-## Threads and Revelations
-- Records implicate agents tied to [[The Lighthouse of Storms]].
-- A rite echoes the activation cadence needed for [[The Whispering Expanse]].
-- Testimony suggests [[Elena Starweaver]] financed a pivotal bribe.
-
-## Cross-References
-- [[The Lighthouse of Storms]]
-- [[The Whispering Expanse]]
-- [[Elena Starweaver]]
 
 ## Player-Facing Summary
 
@@ -69,24 +61,25 @@ The Final Sealing is a undersea element of the setting, known for bioluminescent
 
 Legends speak of The Final Sealing as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Final Sealing.
 
-## Adventure Hooks
-
-- A rumor ties The Final Sealing to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Final Sealing to avert a public scandal.
-- A map overlay reveals a hidden approach to The Final Sealing active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The Threshold]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

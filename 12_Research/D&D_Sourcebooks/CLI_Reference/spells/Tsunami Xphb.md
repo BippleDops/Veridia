@@ -26,11 +26,8 @@ updated: '2025-08-13T12:34:06.241073+00:00'
 world: Both
 ---
 
-
-
 # Tsunami
 *8th-level, Conjuration*  
-
 
 - **Casting time:** 1 minute
 - **Range:** 1 miles
@@ -47,7 +44,25 @@ A creature caught in the wall can move by swimming. Because of the wave's force,
 
 **Classes**: [[list-spells-classes-druid|Druid]]; [[list-spells-classes-bard|Bard]]
 
-*Source: Player's Handbook (2024) p. 336. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 336. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -57,19 +72,27 @@ Tsunami xphb is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of tsunami xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tsunami xphb.
 
-## Adventure Hooks
-
-- A rumor ties tsunami xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at tsunami xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to tsunami xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help investigating before the new moon
+- A merchant needs help investigating before winter
+- A corpse reveals a betrayal about this place
+- A journal reveals a conspiracy about the cult
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

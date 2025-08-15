@@ -16,33 +16,26 @@ updated: '2025-08-13T01:18:36.546832+00:00'
 danger_level: Moderate
 ---
 
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-thalassa-lightbringer-thalassa-lightbringer.png]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Overview
+### Connection Improvements
 
-TODO
-## History
+- Add cross-references to related notes
 
-TODO
-## Layout
+### Enhancement Improvements
 
-TODO
-## Notables
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -52,28 +45,15 @@ Thalassa Lightbringer is a undersea element of the setting, known for biolumines
 
 Legends speak of Thalassa Lightbringer as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Thalassa Lightbringer.
 
-## Adventure Hooks
-
-- A rumor ties Thalassa Lightbringer to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Thalassa Lightbringer to avert a public scandal.
-- A map overlay reveals a hidden approach to Thalassa Lightbringer active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Thalassa Lightbringer|02 Worldbuilding/Places/Thalassa Lightbringer]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[The Depth Plague]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

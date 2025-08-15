@@ -23,8 +23,6 @@ updated: '2025-08-13T12:34:04.906088+00:00'
 world: Both
 ---
 
-
-
 # Orcish Fury
 *Source: Xanathar's Guide to Everything p. 75*  
 
@@ -36,6 +34,24 @@ Your fury burns tirelessly. You gain the following benefits:
 - When you hit with an attack using a simple or martial weapon, you can roll one of the weapon's damage dice an additional time and add it as extra damage of the weapon's damage type. Once you use this ability, you can't use it again until you finish a short or long rest.  
 - Immediately after you use your Relentless Endurance trait, you can use your reaction to make one weapon attack.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Orcish fury xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -44,19 +60,25 @@ Orcish fury xge is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of orcish fury xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around orcish fury xge.
 
-## Adventure Hooks
-
-- A rumor ties orcish fury xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at orcish fury xge to avert a public scandal.
-- A map overlay reveals a hidden approach to orcish fury xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

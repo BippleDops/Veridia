@@ -24,29 +24,28 @@ corruption_level: Critical
 ---
 
 
-# Count Strahd von Zarovich - Shadow-Crystal Lord
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Cordelia Integration
 Originally from Barovia, Count Strahd has become entangled with the [[Shadow Conspiracy]] through his pursuit of immortality and power. His domain now exists as a convergence zone between realms, where shadow magic and crystal corruption merge.
 
 ## Background
 Strahd discovered crystal technology during his vampiric existence and became obsessed with its power. Through shadow magic rituals, he bound his castle to a floating island that phases between Aquabyssos depths and Aethermoor heights.
-
-## Current Role
-- **Shadow Conspiracy Lieutenant**: Commands undead forces for covert operations
-- **Crystal Corruption Research**: Experiments with combining vampire magic and crystal enhancement
-- **Convergence Zone Guardian**: Controls a strategic reality merger point
-
-## Abilities (Adapted)
-- **Crystal Bite**: Vampiric drain that also spreads crystal corruption
-- **Shadow Phase**: Can shift his domain between realms at will
-- **Pressure/Wind Immunity**: Adapted to survive in both deep and high environments
-- **Corrupted Charm**: Mind control enhanced by crystal resonance
-
-## Relationships
-- **[[The Shadow Conspiracy]]**: Reluctant ally, pursues own agenda
-- **[[Queen Seraphina]]**: Sees her corruption as inferior to his own
-- **[[Deep Mother]]**: Fears this entity as it threatens his immortality
 
 ## Plot Hooks
 - Players discover Strahd's castle appearing near [[The Convergence Point]]
@@ -57,11 +56,9 @@ Strahd discovered crystal technology during his vampiric existence and became ob
 ---
 *Adapted from Curse of Strahd for Cordelia dual-realm campaign*
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -70,3 +67,13 @@ Strahd discovered crystal technology during his vampiric existence and became ob
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

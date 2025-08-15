@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.705898+00:00'
 world: Both
 ---
 
-
-
 # Roleplaying an Orc; Orc Ideals
 *Source: Volo's Guide to Monsters p. 87* 
 
@@ -35,11 +33,29 @@ world: Both
 |----------|-------|
 | 1 | Strength. Showing superior strength brings honor to Gruumsh. (Any) |
 | 2 | Prowess. Killing all your enemies is the path to greatness. (Evil) |
-| 3 | Dominance. I will have achieved glory when all cower before my might. (Evil) |
+| 3 | Domice. I will have achieved glory when all cower before my might. (Evil) |
 | 4 | Intimidation. I can get what I want from weaklings that fear me. (Evil) |
 | 5 | Glory. The goals of the tribe don't concern me. Personal glory is what I crave. (Chaotic) |
 | 6 | Savagery. I will not be controlled. (Chaotic) |
 ^orc-ideals
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -49,19 +65,20 @@ Roleplaying an orc orc ideals vgm is a undersea element of the setting, known fo
 
 Legends speak of roleplaying an orc orc ideals vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around roleplaying an orc orc ideals vgm.
 
-## Adventure Hooks
-
-- A rumor ties roleplaying an orc orc ideals vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at roleplaying an orc orc ideals vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to roleplaying an orc orc ideals vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest ancient magic
+- A noble needs help finding before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

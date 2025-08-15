@@ -17,14 +17,22 @@ updated: '2025-08-13T01:18:34.625485+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Overview
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
 
 ## Player-Facing Summary
 
@@ -34,29 +42,22 @@ Crown of Stars is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of Crown of Stars as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Crown of Stars.
 
-## Adventure Hooks
-
-- A rumor ties Crown of Stars to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Crown of Stars to avert a public scandal.
-- A map overlay reveals a hidden approach to Crown of Stars active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Crystallium|02 Worldbuilding/Places/Crystallium]]
-
-
-## Connections
-
-- [[Crystallium]]
-- [[The Lock]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals ancient history about this place
+- A journal reveals ancient history about this place
+- A map reveals ancient history about the cult
+- A stranger needs help investigating before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

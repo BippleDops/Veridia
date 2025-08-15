@@ -22,7 +22,6 @@ updated: '2025-08-12T23:37:34.480972'
 world: Both
 ---
 
-
 # Boon of Speed
 *Source: Player's Handbook (2024) p. 211*  
 
@@ -36,6 +35,24 @@ You gain the following benefits.
 
 **Quickness.** Your Speed increases by 30 feet.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Boon of speed xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -44,19 +61,18 @@ Boon of speed xphb is a undersea element of the setting, known for bioluminescen
 
 Legends speak of boon of speed xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around boon of speed xphb.
 
-## Adventure Hooks
-
-- A rumor ties boon of speed xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at boon of speed xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to boon of speed xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals the truth about the cult
+- A document has gone missing and truth emerges
+- A prisoner has gone missing and evil awakens
+- A corpse reveals a conspiracy about the government

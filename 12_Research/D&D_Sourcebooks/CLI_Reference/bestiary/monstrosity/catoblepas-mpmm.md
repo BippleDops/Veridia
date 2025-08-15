@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:34.991293'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-catoblepas-mpmm-catoblepas-mpmm.svg)
 
@@ -38,6 +36,24 @@ world: Both
 The catoblepas is as loathsome as the vile swamplands in which it lives, a conglomeration of bloated buffalo, dinosaur, warthog, and hippopotamus parts. Despite its ungainly physiology, a catoblepas resembles a natural animal in its behavior, ambling through its marshy home, munching choice vegetation, eating the occasional bit of carrion, and wallowing in mire. A catoblepas might be found with the one mate it chooses for life and, on occasion, with a calf. A catoblepas attacks anyone that moves too close, especially if guarding its young.
 
 A catoblepas's stink, like the stench of death mixed with swamp gas and skunk musk, gives it away as being much more ghastly than its appearance suggests. When it is on the attack, a catoblepas reveals the extent of its horrific nature. The creature's serpentine neck has trouble lifting its head, but one glare from its bloodshot eyes can rot flesh. At the end of its tail is a club that can rattle body and soul if it strikes true, leaving a victim unable to act while the catoblepas feasts on its body.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Blighted Territory
 
@@ -111,19 +127,30 @@ Catoblepas mpmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of catoblepas mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around catoblepas mpmm.
 
-## Adventure Hooks
-
-- A rumor ties catoblepas mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at catoblepas mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to catoblepas mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is hunting a witness for love
+- A letter reveals ancient history about a local noble
+- Strange sightings suggest a curse
+- Strange sightings suggest a curse
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

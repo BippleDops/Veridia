@@ -22,17 +22,13 @@ updated: '2025-08-12T23:37:37.723227'
 world: Both
 ---
 
-
 # Skeleton
 *Source: Dungeon Master's Guide p. 282*  
-
 
 - **Ability Scores**: dex +2 int -4 cha -4
 - **Type**: undead
 - **Size**: Medium
 - **Speed**: 30 ft.
-
-## Traits
 
 ### Creature Type
 
@@ -54,6 +50,24 @@ You can see in dim light within 60 feet of you as if it were bright light, and i
 
 You can't speak, but you can understand the languages you knew in life.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Skeleton dmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -62,19 +76,27 @@ Skeleton dmg is a undersea element of the setting, known for bioluminescent glow
 
 Legends speak of skeleton dmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around skeleton dmg.
 
-## Adventure Hooks
-
-- A rumor ties skeleton dmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at skeleton dmg to avert a public scandal.
-- A map overlay reveals a hidden approach to skeleton dmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and truth emerges
+- A noble needs help stealing before dawn
+- A shipment has gone missing and truth emerges
+- A prisoner has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

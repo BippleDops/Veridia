@@ -20,34 +20,26 @@ updated: '2025-08-13T12:34:16.761152+00:00'
 world: Aquabyssos
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-dr-reef-brightwater-dr-reef-brightwater.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## History
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Layout
-
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -57,28 +49,20 @@ Dr. Reef Brightwater is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Dr. Reef Brightwater as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Dr. Reef Brightwater.
 
-## Adventure Hooks
-
-- A rumor ties Dr. Reef Brightwater to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Dr. Reef Brightwater to avert a public scandal.
-- A map overlay reveals a hidden approach to Dr. Reef Brightwater active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Dr. Reef Brightwater|02 Worldbuilding/Places/Dr. Reef Brightwater]]
-
-<!-- enriched: true -->
-
-
-## Connections
-
-- [[Coral Throne Syndicate HQ]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help stealing before the new moon
+- Someone is protecting a witness for love
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

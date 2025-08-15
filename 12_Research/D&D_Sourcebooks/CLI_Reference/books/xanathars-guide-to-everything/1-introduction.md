@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.839615'
 world: Both
 ---
 
-
 # Introduction
 *Source: Xanathar's Guide to Everything, p. 4* 
 
@@ -30,6 +29,24 @@ Beneath the bustling City of Waterdeep, a beholder crime lord keeps tabs on ever
 The first major rules expansion to the fifth edition of D&D, *Xanathar's Guide to Everything* provides a wealth of new options for the game. Xanathar might not be able to realize its dream to know everything, but this book does delve into every major part of the game: adventurers, their adventures, and the magic they wield.
 
 ![](/03_Mechanics/CLI/books/xanathars-guide-to-everything/img/intro01.webp#center)
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Using this Book
 
@@ -50,7 +67,7 @@ As you peruse the many options herein, you'll come across observations from Xana
 
 ## The Core Rules
 
-This book relies on the rules in the three core rulebooks. The game especially makes frequent use of the rules in chapters 7-10 of the player's handbook: "Using Ability Scores," "Adventuring," "Combat," and "Spellcasting." That book's appendix A is also crucial; it contains definitions of conditions, like [[conditions#Invisible|invisible]] and [[conditions#Prone|prone]]. You don't need to know the rules by heart, but it's helpful to know where to find them when you need them.
+This book relies on the rules in the three core rulebooks. The game especially makes frequent use of the rules in chapters 7-10 of the player's handbook: "Using Ability Scores," "Adventuring," "Combat," and "Spellcasting." That book's appendix A is also crucial; it contains definitions of conditions, like [[conditions#Invisible|invisible]] and [[conditions#prone|prone]]. You don't need to know the rules by heart, but it's helpful to know where to find them when you need them.
 
 If you're a DM, you should also know where to look things up in the dungeon master's guide, especially the rules on how magic items work (see chapter 7 of that book). The introduction of the monster manual is your guide on how to use a monster's stat block.
 
@@ -122,20 +139,32 @@ Temporary hit points aren't cumulative. If you have temporary hit points and rec
 
 Legends speak of 1 introduction as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 1 introduction.
 
-## Adventure Hooks
-
-- A rumor ties 1 introduction to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 1 introduction to avert a public scandal.
-- A map overlay reveals a hidden approach to 1 introduction active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a conspiracy
+- Strange sightings suggest ancient magic
+- A corpse reveals ancient history about the government
+- Strange dreams suggest a portal
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

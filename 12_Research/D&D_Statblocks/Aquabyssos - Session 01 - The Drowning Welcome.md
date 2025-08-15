@@ -23,7 +23,7 @@ MyContainer: None
 absent: []
 ap_gained: 2
 campaign: The Parliament of Shadows
-date: null
+date: 
 depth: 1500
 duration_hours: 4
 encounters:
@@ -61,44 +61,29 @@ session: Session 01 Aquabyssos
 shadow_level_change: 0
 updated: '2025-08-13T12:34:17.849223+00:00'
 world: Aquabyssos
-xp_awarded: null
+xp_awarded: 
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-# Session 01: The Drowning Welcome
-## The Parliament of Shadows - Act 1
 
 ## Session Summary
 The party arrives in Aquabyssos via Pressure Tube, experiencing molecular liquification and reconstitution. Upon arrival at the Inverse Palace, they witness Senator Hadrian dissolve into living shadow during a Parliament session. Their own shadows begin showing signs of independence as they settle into their inverted quarters.
-
-## Pre-Session Planning
-
-### Expected Events
-- Pressure Tube arrival and disorientation
-- Meeting with the Scattered Emperor
-- Senator dissolution incident
-- Shadow independence manifestation
-- Marina reveals adaptation changes
-
-### Prepared Encounters
-- [[Shadow Ambush - Optional]] (CR 3)
-- Environmental pressure checks
-- Social encounter with Emperor's eels
-- Investigation of quarters
-
-### NPCs to Include
-- [[Senator Glaucus]] - Shadow-replaced host
-- [[The Scattered Emperor]] - Paranoid warning
-- [[Marina Red Tide Coralheart - Aquabyssos]] - Adapted guide
-- [[Pressure Tube Operator Krill]] - First contact
-
-## Session Timeline
 
 ### Opening Scene
 **Location:** [[Abyssos Prime - Pressure Terminal]]
@@ -107,8 +92,6 @@ The party arrives in Aquabyssos via Pressure Tube, experiencing molecular liquif
 The party materializes from liquid form in the Pressure Terminal's reconstitution chambers. One member's shadow reforms a second late, moving independently for just a moment. Terminal guards check "molecular integrity" while making notes about shadow irregularities. Graffiti in Aquabyssos script on the walls reads: "The Harvest Comes."
 
 > **Read Aloud:** "Your consciousness snaps back like a rubber band as your body reconstitutes from liquid. The sensation is wrong—like being poured into a mold that doesn't quite fit. As you solidify, you notice your shadow on the curved glass wall. For just a moment, it waves while your hand remains still."
-
-### Key Events
 
 #### Event 1: The Emperor's Court
 **Location:** [[Throne of Bubbles]]
@@ -163,8 +146,6 @@ The party materializes from liquid form in the Pressure Terminal's reconstitutio
 **Cliffhanger:** 
 Party members wake to find their shadows standing at the foot of their beds, perfectly still, watching them. One shadow holds a knife. Marina bursts in: "Don't move. Don't even breathe. If you acknowledge them, they become real." Through the window, dozens of shadows dance in the Inverted Ballroom without their owners.
 
-## Encounters Run
-
 ### Environmental Challenges
 | Challenge | Location | DC | Consequence |
 |-----------|----------|-----|-------------|
@@ -187,20 +168,6 @@ Party members wake to find their shadows standing at the foot of their beds, per
 3. Attempt to drag victim into shadows
 4. Flee if reduced to half HP
 
-## Quest Progress
-
-### Started
-- [[Investigate Shadow Conspiracy]] - Parliament members being replaced by shadows
-- [[Discover Shadow Market Location]] - Encrypted invitation needs decoding
-
-### Hooks Discovered
-- Shadow Duchess arriving tomorrow
-- Parliament voting on Shadow Citizenship Act
-- Tenebrarum ambassadors are all shadows
-- Someone stealing shadows from Memory Meadows
-
-## Treasure & Rewards
-
 ### Items
 | Item | Found Where | Purpose | Value |
 |------|-------------|---------|-------|
@@ -209,41 +176,11 @@ Party members wake to find their shadows standing at the foot of their beds, per
 | Encrypted Shadow Market invitation | Quarters | Access to black market | — |
 | Palace safe zones map | Previous ambassador's things | Avoid shadow zones | — |
 
-### Currency
-- **Sorrow Pearls:** 200 (Aquabyssos standard currency)
-- **Distribution:** Party fund for now
-
-### Experience
-- **Roleplay:** Interacting with fractured Emperor
-- **Investigation:** Finding ambassador's journal
-- **Survival:** Adapting to pressure
-- **Combat (if triggered):** Shadow doubles
-
-## Character Development
-
 ### Adaptation Tracking
 Each character gains:
 - **Adaptation Points:** +2 (first exposure to depths)
 - **Shadow Independence:** Stage 0 → Stage 1 (shadows twitching)
 - **Pressure Exposure:** Must track exhaustion levels
-
-### Character Moments
-- Who showed fear during dissolution?
-- Who tried to communicate with Emperor?
-- Who noticed shadow irregularities first?
-- Who wants to investigate vs. escape?
-
-### Relationship Changes
-- [[Senator Glaucus]] - Suspicious (disposition: -2)
-- [[The Scattered Emperor]] - Paranoid but helpful (disposition: +1)
-- [[Marina Red Tide Coralheart - Aquabyssos]] - Protective guide (disposition: +3)
-
-## World Changes
-- Party's arrival noted by shadow conspiracy
-- Shadow independence accelerating
-- Parliament preparing for crucial vote
-- Pressure Terminal security increased
-- Shadow checkpoint procedures changing
 
 ## Hooks for Next Session
 1. Shadows becoming more active at night
@@ -252,82 +189,12 @@ Each character gains:
 4. Encrypted invitation needs decoding
 5. Shadow Duchess arriving soon
 
-## GM Reflections
-
-### What Worked
-- Pressure Tube body horror introduction
-- Emperor's fractured personality
-- Shadow independence building tension
-
-### What Didn't
-- 
-
-### To Improve
-- Track individual shadow independence levels
-- Emphasize time pressure for vote
-- Build paranoia about who's real
-
-## Player Feedback
-<!-- Post-session discussion notes -->
-- 
-
-## Prep for Next Session
-- [ ] Create Shadow Citizenship Act details
-- [ ] Prepare temporal paradox mechanics
-- [ ] Design Forgotten Faction amnesia effects
-- [ ] Plan Shadow Senator confrontation
-- [ ] Set up Vote Vault investigation
-- [ ] Prepare Shadow Duchess arrival
-
-## Depth & Pressure Tracking
-
-### Current Status
-- **Depth:** 1,500 feet (Crush Zone)
-- **Pressure DC:** 14
-- **Time Distortion:** 0.85x (slightly slower than surface)
-- **Shadow Density:** Moderate
-- **Memory Integrity:** 100%
-
-### Environmental Effects Active
-- Disadvantage on Perception (bubble-filled air)
-- Exhaustion checks every hour
-- Shadows semi-autonomous
-- Gravity inversion zones
-- Temporal stability: Normal
-
-## Session Notes
-
 ### Important Revelations
 1. Shadows can become independent beings
 2. The Emperor shattered himself to avoid replacement
 3. Marina has been switching with her shadow
 4. Parliament already compromised
 5. The party was specifically chosen
-
-### Mysteries Introduced
-- Who sent the encrypted invitation?
-- Why were the party's quarters pre-searched?
-- What is the Shadow Duchess's true purpose?
-- How many senators are already shadows?
-- What caused the original shadow independence?
-
-### Foreshadowing
-- "The Harvest Comes" graffiti
-- Bubbles showing shadow murders
-- Vote tomorrow will change everything
-- Marina's shadow behaving differently
-- Time distortion beginning to manifest
-
----
-
-## Quick Reference for Next Session
-
-### Active Conditions
-- Party shadows at Independence Level 1
-- 2 Adaptation Points accumulated
-- Exhaustion levels: Track individually
-- Shadow Market invitation: Encrypted
-- Palace safe zones: Mapped
 
 ### Immediate Threats
 1. Shadow independence increasing
@@ -347,28 +214,9 @@ Each character gains:
 
 *"In the depths, your shadow is your first betrayal."*
 
-## Cross-References
-
-- [[Campaign Index]]
-
-
-## Connections
-
-- [[Shadow Ambush - Optional]]
-- [[Pressure Tube Operator Krill]]
-- [[Marina Red Tide Coralheart - Aquabyssos]]
-- [[Throne of Bubbles]]
-- [[Abyssos Prime - Pressure Terminal]]
-- [[Discover Shadow Market Location]]
-- [[Inverted Ballroom Wing - Party Quarters]]
-- [[Inverted Ballroom Wing]]
-- [[Parliament of Echoes - Public Gallery]]
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -377,3 +225,20 @@ Each character gains:
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and chaos spreads
+- Strange accidents suggest a conspiracy
+- Someone is searching for information for power
+- Strange sightings suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

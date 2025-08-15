@@ -1,4 +1,5 @@
 ---
+
 title: Master Smith Priest Vulcan Depthforge
 type: Npc
 tags:
@@ -18,6 +19,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.563289+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +29,66 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-master-smith-priest-vulcan-depthforge-master-smith-priest-vulcan-depthforge.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more focused
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward negotiation
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward avoidance
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
 
 ## Player-Facing Summary
 
@@ -67,14 +97,6 @@ Master Smith Priest Vulcan Depthforge is a undersea element of the setting, know
 ## Lore Details
 
 Legends speak of Master Smith Priest Vulcan Depthforge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Master Smith Priest Vulcan Depthforge.
-
-## Adventure Hooks
-
-- A rumor ties Master Smith Priest Vulcan Depthforge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Master Smith Priest Vulcan Depthforge to avert a public scandal.
-- A map overlay reveals a hidden approach to Master Smith Priest Vulcan Depthforge active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +107,6 @@ Master Smith-Priest Vulcan Depthforge's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Protecting loved ones
@@ -124,8 +116,6 @@ Master Smith-Priest Vulcan Depthforge's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Master Smith-Priest Vulcan Depthforge harbors secrets that could change everything:
@@ -133,10 +123,6 @@ Master Smith-Priest Vulcan Depthforge harbors secrets that could change everythi
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Divine mission
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +141,6 @@ Master Smith-Priest Vulcan Depthforge is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Master Smith-Priest Vulcan Depthforge needs assistance with a delicate matter
@@ -164,8 +148,6 @@ Master Smith-Priest Vulcan Depthforge is currently engaged in:
 3. **The Secret**: Information about Master Smith-Priest Vulcan Depthforge's past surfaces
 4. **The Alliance**: Opportunity to work with or against Master Smith-Priest Vulcan Depthforge
 5. **The Crisis**: Master Smith-Priest Vulcan Depthforge is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,21 +161,15 @@ Master Smith-Priest Vulcan Depthforge is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[Master Smith-Priest Vulcan Depthforge]]
+## Cultural Practices
 
-<!-- enriched: true -->
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
 
-
-
-
-## Relationship Web
-
-- [[Duke Aldric Blackwater]]: *informant*
-- [[04_Resources_Assets_Symbols_symbol-heraldry-bexley-bexley.svg]]: *former lover*
-- [[04_Resources_Assets_Locations_location-city-crystal-master-prism-lightweaver-crystal-master-prism-lightweaver.svg]]: *competitor*
-
-## Connections
-
-- [[Temple Ward]]
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon

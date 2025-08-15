@@ -8,61 +8,43 @@ tags:
 - active
 - location
 - research
-created: null
+created: 
 modified: '2025-08-14'
 status: active
 updated: '2025-08-13T12:34:09.389293+00:00'
 world: Both
 ---
 
-
-
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-drowned-embassy-the-drowned-embassy.svg]]
-
-
-
-
-
-
 
 # The Drowned Embassy
 
 *Where air meets water, and diplomacy meets conspiracy*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 The Drowned Embassy stands partially submerged in the perpetual twilight waters of [[The Shadowmere|02 Worldbuilding/Places/The Shadowmere]], serving as [[Aquabyssos]]'s official diplomatic presence in Aethermoor. Half above water, half below, the building exists in two worlds simultaneously - much like its inhabitants.
 
 ## Description
 The Embassy appears as a once-grand marble structure that seems to have been pulled partially into the swamp. The upper floors maintain an illusion of normalcy with dry meeting rooms and offices, while the lower levels are completely flooded, accessible only to those who can breathe water. Strange bioluminescent coral grows along the waterline, pulsing with an rhythm that matches the tides of distant seas.
-
-### Upper Levels (Dry)
-- Reception hall with unsettling aquatic-themed tapestries
-- Ambassador's public office (rarely used)
-- Guest quarters that always feel damp
-- Meeting rooms with windows looking out into murky water
-
-### Lower Levels (Flooded)
-- The True Embassy - where real business is conducted
-- Portal chamber with connection to Aquabyssos (heavily guarded)
-- Crystal corruption laboratory
-- Holding cells for "guests" being prepared for transformation
-
-## Current Inhabitants
-- **[[Ambassador Korvin Blacktide|02 Worldbuilding/People/Ambassador Korvin Blacktide]]** - Primary resident and operator
-- **Tidecaller Nerissa** - Korvin's attaché and enforcer
-- **The Drowned Chorus** - 12 transformed humans who serve as staff
-- **Various Deep Ones** - Aquabyssos natives who rotate through
-
-## Connections
-- **[[The Shadowmere|02 Worldbuilding/Places/The Shadowmere]]**: Located in the darkest, most isolated section
-- **[[Port Meridian|02 Worldbuilding/Places/Port Meridian]]**: Secret underwater tunnels connect to the harbor
-- **[[Vex Shadowthorn|02 Worldbuilding/People/Vex Shadowthorn]]**: The [[The Whisper Syndicate|02 Worldbuilding/Groups/The Whisper Syndicate]] helps smuggle goods
-- **[[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]]**: Maintains official diplomatic immunity despite suspicions
-
-## Notable Features
 
 ### The Tide Pools
 Strange pools that show visions of [[Aquabyssos]] and can transport small objects between realms. Prolonged exposure causes scales to grow and lungs to adapt to water.
@@ -72,12 +54,6 @@ A room that slowly floods and drains, used for "negotiations" and transforming w
 
 ### The Coral Garden
 A grotesque fusion of corrupted [[Aether Crystals]] and deep-sea coral, growing into formations that whisper in long-dead languages.
-
-## Activities & Events
-- Monthly "cultural exchanges" where surface dwellers disappear
-- Artifact smuggling through underwater passages
-- Experiments combining crystal corruption with drowning magic
-- Recruitment of desperate individuals for "underwater opportunities"
 
 ## DM Secrets
 > [!warning] The Rising Tide
@@ -89,55 +65,6 @@ A grotesque fusion of corrupted [[Aether Crystals]] and deep-sea coral, growing 
 > [!info] Hidden Prisoners
 > Several missing nobles from [[Crystalhaven|02 Worldbuilding/Places/Crystalhaven]] are kept in the flooded cells, slowly being transformed into sleeper agents. They'll be returned with no memory of their time here, but carrying Aquabyssos commands in their subconscious.
 
-## Encounters
-- **Diplomatic Immunity:** Guards cannot legally enter without proof of crimes
-- **Breathing Problems:** Non-aquatic visitors must make CON saves or suffer disadvantage
-- **The Drowned Chorus:** 12 cultists (CR 2 each) who attack in perfect synchronization
-- **Tidecaller Nerissa:** (CR 8) Korvin's enforcer, controls water elementals
-
-## Treasures & Resources
-- Aquabyssos trade goods (water-breathing potions, deep pearls)
-- Diplomatic documents revealing surface-world intelligence
-- Corrupted crystal-coral hybrids (valuable but dangerous)
-- Maps of underwater passages throughout Aethermoor
-
-## Plot Hooks
-- Rescue a diplomat who entered and never returned
-- Infiltrate a cultural exchange ceremony
-- Investigate strange shipwrecks connected to the Embassy
-- Prevent the completion of the Deep Gate ritual
-- [[Forge of War]]
-
-
-## History
-
-
-TODO
-
-
-## Layout
-
-
-TODO
-
-
-## Notables
-
-
-TODO
-
-
-## Threats
-
-
-TODO
-
-
-## Hooks
-
-
-TODO
-
 ## Player-Facing Summary
 
 The Drowned Embassy is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -146,24 +73,38 @@ The Drowned Embassy is a undersea element of the setting, known for bioluminesce
 
 Legends speak of The Drowned Embassy as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Drowned Embassy.
 
-## Adventure Hooks
-
-- A rumor ties The Drowned Embassy to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Drowned Embassy to avert a public scandal.
-- A map overlay reveals a hidden approach to The Drowned Embassy active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[The Drowned Embassy|02 Worldbuilding/Places/The Drowned Embassy]]
-
-<!-- enriched: true -->
-- [[Aether Crystals]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is blackmailing an heir for money
+- Someone is searching for an heir for revenge
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

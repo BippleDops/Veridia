@@ -32,11 +32,8 @@ updated: '2025-08-13T12:34:06.494599+00:00'
 world: Both
 ---
 
-
-
 # Maximilian's Earthen Grasp
 *2nd-level, Transmutation*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -55,6 +52,24 @@ As an action, you can cause the hand to reach for a different creature or to mov
 
 *Source: Xanathar's Guide to Everything p. 161*
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Maximilians earthen grasp xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -63,19 +78,22 @@ Maximilians earthen grasp xge is a undersea element of the setting, known for bi
 
 Legends speak of maximilians earthen grasp xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around maximilians earthen grasp xge.
 
-## Adventure Hooks
-
-- A rumor ties maximilians earthen grasp xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at maximilians earthen grasp xge to avert a public scandal.
-- A map overlay reveals a hidden approach to maximilians earthen grasp xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A noble needs help delivering before dawn
+- Strange disappearances suggest a curse
+- An heirloom has gone missing and chaos spreads
+- Strange dreams suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

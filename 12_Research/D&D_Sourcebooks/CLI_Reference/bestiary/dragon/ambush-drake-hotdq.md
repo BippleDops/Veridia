@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.785455'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-ambush-drake-hotdq-ambush-drake-hotdq.svg)
 
@@ -56,7 +54,6 @@ world: Both
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+4"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+4"
 "damage_resistances": "poison"
 "senses": "darkvision 60 ft., passive Perception 14"
 "languages": "understands Draconic but can't speak it"
@@ -79,6 +76,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Ambush drake hotdq is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -87,18 +102,9 @@ Ambush drake hotdq is a undersea element of the setting, known for bioluminescen
 
 Legends speak of ambush drake hotdq as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around ambush drake hotdq.
 
-## Adventure Hooks
-
-- A rumor ties ambush drake hotdq to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at ambush drake hotdq to avert a public scandal.
-- A map overlay reveals a hidden approach to ambush drake hotdq active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

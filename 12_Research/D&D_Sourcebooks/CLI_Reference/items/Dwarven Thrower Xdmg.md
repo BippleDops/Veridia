@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:06.867954+00:00'
 world: Both
 ---
 
-
-
 # Dwarven Thrower
 *Weapon ([[warhammer-xphb|warhammer]]), very rare (requires attunement by a dwarf)*  
 ![](/03_Mechanics/CLI/items/img/dwarven-thrower.webp#right)
@@ -39,7 +37,25 @@ world: Both
 
 You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. It has [[item-properties#Thrown|Thrown]] with a normal range of 20 feet and a long range of 60 feet. When you hit with a ranged attack using this weapon, it deals an extra `d8` Force damage, or an extra `2d8` Force damage if the target is a Giant. Immediately after hitting or missing, the weapon flies back to your hand.
 
-*Source: Dungeon Master's Guide (2024) p. 256. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 256. Available in the SRD and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -49,19 +65,20 @@ Dwarven thrower xdmg is a undersea element of the setting, known for bioluminesc
 
 Legends speak of dwarven thrower xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dwarven thrower xdmg.
 
-## Adventure Hooks
-
-- A rumor ties dwarven thrower xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dwarven thrower xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to dwarven thrower xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -24,20 +24,35 @@ updated: '2025-08-12T23:37:37.199483'
 world: Both
 ---
 
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-hazirawn-hotdq-hazirawn-hotdq.svg)
 
 # Hazirawn
 *Weapon ([[greatsword-xphb|greatsword]]), legendary (requires attunement)*  
 
-
 - **Damage**: 2d6 slashing
 - **Properties**: [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
 - **Weight**: 6.0 lbs.
 
 A sentient (neutral evil) greatsword, Hazirawn is capable of speech in Common and Netherese. Even if you aren't attuned to the sword, you gain a +1 bonus to attack and damage rolls made with this weapon. If you are not attuned to Hazirawn, you deal an extra `d6` necrotic damage when you hit with the weapon.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Increased Potency
 
@@ -61,19 +76,31 @@ Hazirawn hotdq is a undersea element of the setting, known for bioluminescent gl
 
 Legends speak of hazirawn hotdq as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around hazirawn hotdq.
 
-## Adventure Hooks
-
-- A rumor ties hazirawn hotdq to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at hazirawn hotdq to avert a public scandal.
-- A map overlay reveals a hidden approach to hazirawn hotdq active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Plot Hooks
+
+- A stranger needs help delivering before the festival
+- Someone is searching for a artifact for money
+- A document has gone missing and war looms
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

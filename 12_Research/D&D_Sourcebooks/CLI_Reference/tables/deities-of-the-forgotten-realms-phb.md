@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.251121'
 world: Both
 ---
 
-
 # Deities of the Forgotten Realms
 *Source: Player's Handbook p. 293. Available in the Basic Rules (2014)* 
 
@@ -68,6 +67,24 @@ world: Both
 | Waukeen, goddess of trade | N | Knowledge, Trickery | Upright coin with Waukeen's profile facing left |
 ^deities-of-the-forgotten-realms
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Deities of the forgotten realms phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -76,20 +93,30 @@ Deities of the forgotten realms phb is a undersea element of the setting, known 
 
 Legends speak of deities of the forgotten realms phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around deities of the forgotten realms phb.
 
-## Adventure Hooks
-
-- A rumor ties deities of the forgotten realms phb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at deities of the forgotten realms phb to avert a public scandal.
-- A map overlay reveals a hidden approach to deities of the forgotten realms phb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help stealing before the new moon
+- A noble needs help stealing before the festival
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

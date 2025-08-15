@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:33.318414'
 world: Both
 ---
 
-
 # Mixing Potions; Potion Miscibility
 *Source: Dungeon Master's Guide (2024) p. 216* 
 
@@ -41,6 +40,24 @@ world: Both
 | 00 | Only one potion works, but its effects are permanent. Choose the simplest effect to make permanent or the one that seems the most fun. For example, a [[potion-of-healing-xdmg|Potion of Healing]] might increase the drinker's Hit Point maximum by `2d4 + 2`, or a [[potion-of-invisibility-xdmg|Potion of Invisibility]] might give the drinker the [[conditions#Invisible|Invisible]] condition indefinitely. At your discretion, a [[dispel-magic-xphb|Dispel Magic]] spell or similar magic might end this lasting effect. |
 ^potion-miscibility
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Mixing potions potion miscibility xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -49,18 +66,9 @@ Mixing potions potion miscibility xdmg is a undersea element of the setting, kno
 
 Legends speak of mixing potions potion miscibility xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mixing potions potion miscibility xdmg.
 
-## Adventure Hooks
-
-- A rumor ties mixing potions potion miscibility xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at mixing potions potion miscibility xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to mixing potions potion miscibility xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

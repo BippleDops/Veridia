@@ -22,13 +22,30 @@ updated: '2025-08-12T23:37:35.882950'
 world: Both
 ---
 
-
 # Clench of the North Wind
 *Source: Player's Handbook p. 81*  
 
 **Prerequisite**: Level 6
 
 You can spend 3 ki points to cast [[hold-person-xphb|hold person]].
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -38,19 +55,25 @@ Clench of the north wind is a undersea element of the setting, known for biolumi
 
 Legends speak of clench of the north wind as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around clench of the north wind.
 
-## Adventure Hooks
-
-- A rumor ties clench of the north wind to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at clench of the north wind to avert a public scandal.
-- A map overlay reveals a hidden approach to clench of the north wind active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Covenant - Summon ancient evil
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Winds
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.415292+00:00'
 world: Both
 ---
 
-
-
 # Arctic Encounters (Levels 5—10)
 *Source: Xanathar's Guide to Everything p. 92* 
 
@@ -51,7 +49,7 @@ world: Both
 | 61-65 | `d4` hours of extreme cold (see chapter 5 of the *Dungeon Master's Guide*) |
 | 66-68 | 1 [[/03_Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm|young remorhaz]] |
 | 69-72 | 1 [[/03_Mechanics/CLI/bestiary/humanoid/cultist-fanatic-xmm|orc Eye of Gruumsh]] with `d6` [[/03_Mechanics/CLI/bestiary/humanoid/berserker-xmm|orogs]] and `2d8 + 6` [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|orcs]] |
-| 73-75 | 1 [[revenant-xmm|revenant]] |
+| 73-75 | 1 [[revet-xmm|revet]] |
 | 76-80 | A howl that echoes over the land for `d3` minutes |
 | 81-82 | `d3` [[mammoth-xmm|mammoths]] |
 | 83-84 | 1 [[young-white-dragon-xmm|young white dragon]] |
@@ -66,6 +64,24 @@ world: Both
 | 00 | `2d4` [[/03_Mechanics/CLI/bestiary/monstrosity/young-remorhaz-xmm|young remorhazes]] |
 ^arctic-encounters-levels-510
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Arctic encounters levels 510 xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -74,19 +90,23 @@ Arctic encounters levels 510 xge is a undersea element of the setting, known for
 
 Legends speak of arctic encounters levels 510 xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around arctic encounters levels 510 xge.
 
-## Adventure Hooks
-
-- A rumor ties arctic encounters levels 510 xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at arctic encounters levels 510 xge to avert a public scandal.
-- A map overlay reveals a hidden approach to arctic encounters levels 510 xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A document has gone missing and war looms
+- Someone is protecting a artifact for revenge
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

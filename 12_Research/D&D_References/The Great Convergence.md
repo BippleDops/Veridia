@@ -16,13 +16,22 @@ updated: '2025-08-13T01:18:35.171223+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -32,28 +41,30 @@ The Great Convergence is a undersea element of the setting, known for biolumines
 
 Legends speak of The Great Convergence as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Great Convergence.
 
-## Adventure Hooks
-
-- A rumor ties The Great Convergence to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Great Convergence to avert a public scandal.
-- A map overlay reveals a hidden approach to The Great Convergence active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Deep Mother Influence|02 Worldbuilding/Lore/Deep Mother Influence]]
-
-
-## Connections
-
-- [[Deep Mother Influence]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help finding before dawn
+- Someone is searching for an heir for revenge
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

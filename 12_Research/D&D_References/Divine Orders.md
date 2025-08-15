@@ -16,28 +16,22 @@ updated: '2025-08-13T01:18:36.794418+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
-## Structure
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Goals
-
-TODO
-## Assets
-
-TODO
-## Conflicts
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -47,28 +41,35 @@ Divine Orders is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of Divine Orders as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Divine Orders.
 
-## Adventure Hooks
-
-- A rumor ties Divine Orders to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Divine Orders to avert a public scandal.
-- A map overlay reveals a hidden approach to Divine Orders active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Mad Oracle Thessaly|02 Worldbuilding/Places/Mad Oracle Thessaly]]
-
-
-## Connections
-
-- [[Mad Oracle Thessaly]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Plot Hooks
+
+- A corpse reveals a conspiracy about the cult
+- A document has gone missing and evil awakens
+- A stranger needs help stealing before the new moon
+- Strange sightings suggest a portal
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

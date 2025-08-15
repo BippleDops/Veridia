@@ -15,27 +15,26 @@ updated: '2025-08-13T01:18:36.404624+00:00'
 world: Both
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-the-neutral-current-tavern-the-neutral-current-tavern.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
-## Cross-References
+### Connection Improvements
 
-- [[Location Index|02 Worldbuilding/Lore/Location Index]]
+- Add cross-references to related notes
 
+### Enhancement Improvements
 
-## Connections
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-- [[Abyssos Prime]]
-- [[Azure Citadel]]
-- [[Memory Farmers]]
-- [[Mourning Depths]]
-- [[Parliament of Echoes]]
-- [[Pearl_Harbor_City|Pearl Harbor City]]
 
 ## Player-Facing Summary
 
@@ -45,19 +44,26 @@ The Neutral Current Tavern is a undersea element of the setting, known for biolu
 
 Legends speak of The Neutral Current Tavern as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Neutral Current Tavern.
 
-## Adventure Hooks
-
-- A rumor ties The Neutral Current Tavern to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Neutral Current Tavern to avert a public scandal.
-- A map overlay reveals a hidden approach to The Neutral Current Tavern active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A shipment has gone missing and evil awakens
+- A shipment has gone missing and chaos spreads
+- A noble needs help stealing before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

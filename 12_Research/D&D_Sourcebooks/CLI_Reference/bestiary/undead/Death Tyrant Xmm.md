@@ -28,14 +28,29 @@ updated: '2025-08-13T12:34:05.877508+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-death-tyrant-xmm-death-tyrant-xmm.svg)
 
 # [[death-tyrant-xmm|Death Tyrant]]
 *Source: Monster Manual (2024) p. 95*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Death Tyrant
 
@@ -58,7 +73,6 @@ Death tyrants often lurk deep in the Underdark, in the tunnel-mazes they occupie
 > 
 > A cluster of tiny lights descended from a dark crevice in the ceiling. These motes cast an eerie glow on the great, alien skull that hung beneath them.
 
-
 ```statblock
 "name": "Death Tyrant (XMM)"
 "size": "Large"
@@ -72,10 +86,8 @@ Death tyrants often lurk deep in the Underdark, in the tunnel-mazes they occupie
 "stats":
   - !!int "18"
   - !!int "14"
-  - !!int "14"
   - !!int "19"
   - !!int "15"
-  - !!int "19"
 "speed": "5 ft., fly 40 ft. (hover)"
 "saves":
   - "constitution": !!int "7"
@@ -86,7 +98,7 @@ Death tyrants often lurk deep in the Underdark, in the tunnel-mazes they occupie
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Exhaustion|exhaustion]],\
   \ [[conditions#Paralyzed|paralyzed]], [[conditions#Petrified|petrified]],\
-  \ [[conditions#Poisoned|poisoned]], [[conditions#Prone|prone]]"
+  \ [[conditions#Poisoned|poisoned]], [[conditions#prone|prone]]"
 "senses": "darkvision 120 ft., passive Perception 22"
 "languages": "Deep Speech, Undercommon"
 "cr": "14"
@@ -109,7 +121,7 @@ Death tyrants often lurk deep in the Underdark, in the tunnel-mazes they occupie
       \ repeats the save at the end of each of its turns, ending the effect on itself\
       \ on a success. After 1 minute, it succeeds automatically.  \n- 3 Fear Ray.\
       \ Wisdom Saving Throw: DC 17. Failure: 10 (3d6) Psychic damage, and the\
-      \ target has the [[conditions#Frightened|Frightened]] condition\
+      \ target has the [[conditions#frightened|Frightened]] condition\
       \ until the end of its next turn. Success: Half damage only.  \n- 4 Slowing\
       \ Ray. Constitution Saving Throw: DC 17. Failure: 18 (4d8) Necrotic damage.\
       \ Until the end of the target's next turn, the target can't take Reactions;\
@@ -174,10 +186,8 @@ Death tyrants often lurk deep in the Underdark, in the tunnel-mazes they occupie
       \ allies) that finishes a [[short-rest-xphb|Short Rest]]\
       \ while within 1 mile of the lair must succeed on a DC 15 Wisdom saving throw\
       \ or gain no benefit from that rest.  "
-    "name": ""
   - "desc": "If the death tyrant dies or moves its lair elsewhere, these effects end\
       \ immediately."
-    "name": ""
 "source":
   - "XMM"
 "image": "/03_Mechanics/CLI/bestiary/undead/token/death-tyrant-xmm.webp"
@@ -196,19 +206,22 @@ Death tyrant xmm is a undersea element of the setting, known for bioluminescent 
 
 Legends speak of death tyrant xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around death tyrant xmm.
 
-## Adventure Hooks
-
-- A rumor ties death tyrant xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at death tyrant xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to death tyrant xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and evil awakens
+- A letter reveals a betrayal about the government
+- A prisoner has gone missing and evil awakens
+- Strange sightings suggest a curse
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

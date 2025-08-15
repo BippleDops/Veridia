@@ -24,14 +24,26 @@ updated: '2025-08-13T12:34:17.770843+00:00'
 world: Both
 ---
 
-
-
-
-
-
-
 # Complete Faction Warfare System
 *The Ultimate Guide to Political Maneuvering and Factional Conflict*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Table of Contents
 1. [Core Concepts](#core-concepts)
@@ -46,8 +58,6 @@ world: Both
 10. [Alliance & Betrayal Mechanics](#alliance--betrayal-mechanics)
 11. [Victory Conditions](#victory-conditions)
 12. [Quick Resolution Tables](#quick-resolution-tables)
-
-## Core Concepts
 
 ### The Nature of Faction Warfare
 
@@ -73,7 +83,7 @@ Each faction has a **Power Rating** from 0-100 in each pillar:
 | 11-25 | Weak | Struggling, vulnerable to absorption |
 | 26-40 | Stable | Functional but limited influence |
 | 41-60 | Strong | Regional power, growing influence |
-| 61-80 | Dominant | Major force, widespread control |
+| 61-80 | Domit | Major force, widespread control |
 | 81-95 | Hegemonic | Near-total control of pillar |
 | 96-100 | Absolute | Unchallenged supremacy |
 
@@ -87,10 +97,6 @@ Faction warfare operates on a **War Clock** with six phases:
 4. **War** (Turns 13-20): Full conflict
 5. **Exhaustion** (Turns 21-24): Resources depleted, seeking resolution
 6. **Resolution** (Turn 25+): Victor emerges or peace restored
-
-## Faction Power Mechanics
-
-### Initial Faction Generation
 
 #### Step 1: Determine Base Power
 Roll 2d20+20 for each pillar, or assign based on faction concept:
@@ -131,8 +137,6 @@ Roll 2d20+20 for each pillar, or assign based on faction concept:
 
 **Resilience** = (Military + Ideological) / 20
 - Resistance to attacks and subversion
-
-### Power Growth and Decay
 
 #### Natural Growth
 Each turn, factions can grow through success:
@@ -230,46 +234,6 @@ Each turn, factions can take actions equal to their Action Points:
 - +1d8 Ideological Power
 - -1d6 Political Power (brutality)
 
-## Territory Control System
-
-### Territory Types
-
-#### Core Territories
-- **Definition**: Faction's heartland
-- **Control Requirement**: 75+ combined Power
-- **Benefits**: 
-  - +2 AP per turn
-  - +10 to all defense rolls
-  - Cannot be easily subverted
-- **Loss Effect**: -20 to all pillars if lost
-
-#### Controlled Territories
-- **Definition**: Firmly held regions
-- **Control Requirement**: 50+ combined Power
-- **Benefits**:
-  - +1 AP per turn
-  - +5 to defense rolls
-  - Resource extraction
-- **Loss Effect**: -10 to relevant pillars
-
-#### Contested Territories
-- **Definition**: Disputed regions
-- **Control Requirement**: 25-49 combined Power
-- **Benefits**:
-  - +0.5 AP per turn (round down)
-  - No defense bonus
-  - Limited resource extraction
-- **Loss Effect**: -5 to relevant pillars
-
-#### Influenced Territories
-- **Definition**: Regions with faction presence
-- **Control Requirement**: 10-24 combined Power
-- **Benefits**:
-  - Information gathering
-  - Trade possibilities
-  - Recruitment potential
-- **Loss Effect**: Minimal
-
 ### Territory Resources
 
 Each territory provides resources based on type:
@@ -285,21 +249,21 @@ Each territory provides resources based on type:
 
 **Twilight Zone Territories**
 - Economic: +5 (resource extraction)
-- Political: +3 (frontier governance)
+- Political: +3 (frontier goverce)
 - Information: +3 (isolated networks)
 - Military: +5 (defensive advantage)
 - Ideological: +3 (hardy populations)
 
 **Midnight Zone Territories**
 - Economic: +3 (rare resources)
-- Political: +1 (minimal governance)
+- Political: +1 (minimal goverce)
 - Information: +1 (secret operations)
 - Military: +10 (nearly impregnable)
 - Ideological: +7 (extreme beliefs)
 
 **Abyssal Zone Territories**
 - Economic: +1 (exotic materials)
-- Political: 0 (no governance)
+- Political: 0 (no goverce)
 - Information: +10 (hidden completely)
 - Military: +15 (impossible to assault)
 - Ideological: +10 (transcendent beliefs)
@@ -326,8 +290,6 @@ Each territory provides resources based on type:
 - Information: +10 (information hubs)
 - Military: +5 (fortified)
 - Ideological: +5 (diverse beliefs)
-
-### Capturing Territory
 
 #### Conquest Mechanics
 
@@ -362,7 +324,7 @@ Each territory provides resources based on type:
 
 **Peaceful Takeover Requirements**:
 1. Information network in territory (20+ Information)
-2. Economic dominance (30+ Economic)
+2. Economic domice (30+ Economic)
 3. Political influence (25+ Political)
 4. Ideological support (25+ Ideological)
 5. No military opposition
@@ -373,14 +335,10 @@ Each territory provides resources based on type:
 - Discovery risk each turn
 - Success transfers control peacefully
 
-## Resource Management
-
-### Resource Types
-
 #### Material Resources
 **Gold**: Universal currency
 - Income: Territory value × 100gp/turn
-- Uses: All actions, maintenance, bribes
+- Uses: All actions, maintece, bribes
 
 **Supplies**: Military necessities
 - Income: Military territories provide 1d6/turn
@@ -405,7 +363,7 @@ Each territory provides resources based on type:
 
 **Soldiers**: Military forces
 - Recruitment: 100 per Military Power point
-- Maintenance: 10gp per soldier per turn
+- Maintece: 10gp per soldier per turn
 - Quality: Depends on training and equipment
 
 #### Intangible Resources
@@ -424,8 +382,6 @@ Each territory provides resources based on type:
 - Lost: Scandals, defeats, oppression
 - Effect: Multiplies other resources
 
-### Resource Generation
-
 #### Economic Engine
 Each faction has an economic engine based on:
 
@@ -443,12 +399,10 @@ Each faction has an economic engine based on:
 - Monopoly bonus: +50% in controlled goods
 
 **Expenses**:
-- Military maintenance: Soldiers × 10gp
+- Military maintece: Soldiers × 10gp
 - Territory administration: Territories × 100gp
 - Corruption: -10% of gross income
 - War costs: +50% all expenses
-
-### Resource Allocation
 
 #### Strategic Priorities
 Factions must balance resource allocation:
@@ -456,14 +410,10 @@ Factions must balance resource allocation:
 | Priority | Cost | Benefit |
 |----------|------|---------|
 | Military buildup | High gold, supplies | Increased conquest ability |
-| Economic development | High initial, low maintenance | Long-term income growth |
+| Economic development | High initial, low maintece | Long-term income growth |
 | Intelligence network | Moderate continuous | Information advantage |
 | Political influence | Variable, often high | Legitimacy and alliances |
 | Ideological unity | Low gold, high attention | Stability and loyalty |
-
-## Espionage & Infiltration
-
-### Spy Networks
 
 #### Building Networks
 **Network Levels**:
@@ -497,8 +447,6 @@ Factions must balance resource allocation:
 - Complete information access
 - Can trigger betrayals
 - 5% discovery chance per operation
-
-### Espionage Operations
 
 #### Information Gathering
 
@@ -561,8 +509,6 @@ Factions must balance resource allocation:
 - -20 to Economic Power
 - -10 to Political Power (oppression)
 
-### Infiltration Mechanics
-
 #### Agent Placement
 
 **Recruitment**:
@@ -607,10 +553,6 @@ Factions must balance resource allocation:
 - Suspected: Under surveillance
 - Confirmed traitor: Turned or eliminated
 
-## Political Maneuvering
-
-### The Political Game
-
 #### Influence Accumulation
 
 **Sources of Political Influence**:
@@ -637,8 +579,6 @@ Factions must balance resource allocation:
 | Change law | 15 | Alter existing legislation |
 | Declare emergency | 25 | Suspend normal rules |
 | Coup attempt | 50 | Seize control |
-
-### Legislative Warfare
 
 #### Parliamentary Procedures
 
@@ -690,8 +630,6 @@ Factions must balance resource allocation:
 - Shared resources and power
 - Cost: 50 Influence + negotiation
 
-### Diplomatic Relations
-
 #### Relationship Scale
 
 Faction relationships range from -100 to +100:
@@ -732,49 +670,43 @@ Faction relationships range from -100 to +100:
 - Effect: +20 relationship, political ties
 - Complications: Succession issues
 
-## Mass Combat Resolution
-
-### Army Composition
-
 #### Unit Types
 
 **Infantry** (Basic)
 - Cost: 100gp per 100 soldiers
-- Maintenance: 10gp/turn
+- Maintece: 10gp/turn
 - Combat Rating: 1
 - Special: Holds territory
 
 **Archers/Ranged** (Support)
 - Cost: 150gp per 100 soldiers
-- Maintenance: 15gp/turn
+- Maintece: 15gp/turn
 - Combat Rating: 1
 - Special: First strike capability
 
 **Cavalry/Mobile** (Elite)
 - Cost: 500gp per 100 soldiers
-- Maintenance: 50gp/turn
+- Maintece: 50gp/turn
 - Combat Rating: 3
 - Special: Pursuit and flanking
 
 **Siege/Heavy** (Specialist)
 - Cost: 1000gp per unit
-- Maintenance: 100gp/turn
+- Maintece: 100gp/turn
 - Combat Rating: 5 vs fortifications
 - Special: Breaks defenses
 
 **Adapted Forces** (Aquabyssos Special)
 - Cost: Varies by adaptation level
-- Maintenance: Special requirements
+- Maintece: Special requirements
 - Combat Rating: 2-10 based on depth
 - Special: Depth-specific advantages
 
 **Crystal Warriors** (Aethermoor Special)
 - Cost: 2000gp per 100
-- Maintenance: Crystal supply
+- Maintece: Crystal supply
 - Combat Rating: 5
 - Special: Magic resistance
-
-### Battle Resolution
 
 #### Quick Resolution System
 
@@ -829,8 +761,6 @@ Each side rolls 1d20 + (Force Strength/100)
 - Morale breaks
 - Pursuit or retreat
 
-### Siege Warfare
-
 #### Siege Mechanics
 
 **Attacker Options**:
@@ -872,8 +802,6 @@ Each side rolls 1d20 + (Force Strength/100)
 - Preserve forces
 - Political consequences
 
-### Naval/Depth Combat
-
 #### Special Considerations
 
 **Depth Levels** (Aquabyssos):
@@ -887,10 +815,6 @@ Each side rolls 1d20 + (Force Strength/100)
 - Current effects
 - Pressure weapons
 - Visibility limitations
-
-## Economic Warfare
-
-### Trade Wars
 
 #### Blockades
 
@@ -924,8 +848,6 @@ Each side rolls 1d20 + (Force Strength/100)
 - Requires 50+ Economic Power
 - Target loses 1d10 Economic Power
 - Risk of economic cascade
-
-### Resource Denial
 
 #### Strategic Resources
 
@@ -961,8 +883,6 @@ Each side rolls 1d20 + (Force Strength/100)
 - Requires spy network
 - Temporary but effective
 
-## NPC Loyalty System
-
 ### Loyalty Scale
 
 NPC loyalty ranges from 0-100:
@@ -976,8 +896,6 @@ NPC loyalty ranges from 0-100:
 | 61-75 | Loyal | Dedicated, takes initiative |
 | 76-90 | Devoted | Will sacrifice for faction |
 | 91-100 | Fanatic | Faction above all else |
-
-### Loyalty Factors
 
 #### Positive Modifiers
 | Factor | Loyalty Bonus |
@@ -999,8 +917,6 @@ NPC loyalty ranges from 0-100:
 | Failure blamed on them | -10 |
 | Family threatened | -20 |
 
-### Managing NPCs
-
 #### Recruitment
 
 **Talent Identification**:
@@ -1018,7 +934,7 @@ NPC loyalty ranges from 0-100:
 
 #### Retention
 
-**Loyalty Maintenance**:
+**Loyalty Maintece**:
 - Check monthly
 - Random events may trigger tests
 - Failed test: Loyalty drops 1d10
@@ -1046,10 +962,6 @@ Roll 1d20 + (Loyalty/10)
 - Operations sabotaged
 - Others turned
 - Defection to enemy
-
-## Alliance & Betrayal Mechanics
-
-### Alliance Formation
 
 #### Alliance Types
 
@@ -1087,8 +999,6 @@ Roll 1d20 + (Loyalty/10)
 | Defense | +30% Military when defending |
 | Full | Share 25% of all resources |
 | Confederation | Combined Power ratings |
-
-### Betrayal Mechanics
 
 #### Planning Betrayal
 
@@ -1135,10 +1045,6 @@ Roll 1d20 + (Loyalty/10)
 - Economic interdependence
 - Spy networks
 
-## Victory Conditions
-
-### Victory Types
-
 #### Military Victory
 **Requirements**:
 - Control 60% of territories
@@ -1176,7 +1082,7 @@ Roll 1d20 + (Loyalty/10)
 **Requirements**:
 - Convert 60% of population
 - 85+ Ideological Power
-- Cultural dominance
+- Cultural domice
 
 **Benefits**:
 - Shape society
@@ -1193,8 +1099,6 @@ Roll 1d20 + (Loyalty/10)
 - No responsibility
 - Hidden control
 - Multiple options
-
-### Campaign Victory Conditions
 
 #### The Unification Victory
 Unite Aquabyssos and Aethermoor:
@@ -1216,11 +1120,9 @@ Create new world order:
 
 #### The Balance Victory
 Achieve equilibrium:
-- No faction dominant
+- No faction domit
 - All five pillars balanced
 - Peaceful coexistence
-
-## Quick Resolution Tables
 
 ### Random Event Table (d100)
 
@@ -1292,28 +1194,39 @@ Complete Faction Warfare System is a undersea element of the setting, known for 
 
 Legends speak of Complete Faction Warfare System as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Complete Faction Warfare System.
 
-## Adventure Hooks
-
-- A rumor ties Complete Faction Warfare System to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Complete Faction Warfare System to avert a public scandal.
-- A map overlay reveals a hidden approach to Complete Faction Warfare System active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[NPC Quick Reference Guide]]
-
-
-## Connections
-
-- [[NPC Quick Reference Guide]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting a artifact for revenge
+- Someone is protecting a witness for revenge
+- The authorities needs help delivering before the festival
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

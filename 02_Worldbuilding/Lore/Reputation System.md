@@ -1,4 +1,5 @@
 ---
+
 title: Reputation System
 type: Lore
 tags:
@@ -18,6 +19,7 @@ tags:
 - content/mechanics
 - shadow-touched
 - crystal-enhanced
+- prophecy
 created: '2025-08-08'
 modified: '2025-08-14'
 status: complete
@@ -26,6 +28,8 @@ created_by: auto-stub
 system: D&D 5e
 updated: '2025-08-13T12:34:16.395514+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -37,6 +41,71 @@ world: Both
 > *"In a world where surface and depth have collided, your reputation isn't just about what people think of you—it's about survival. The wrong word in the right place can seal borders, start wars, or save civilizations. Every action echoes through both realms, and memory runs deeper than the ocean trenches."*
 > — [[Social Navigator Coral Diplomacy]], Master of Cross-Realm Relations
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+- Explain guest rights and host obligations
+
+
 ## Overview
 
 The Reputation System tracks characters' standing with various factions, organizations, settlements, and influential individuals across both [[Aquabyssos]] and [[Aethermoor]]. Unlike simple approval ratings, this system recognizes that reputation is multifaceted—you might be feared by enemies, respected by allies, and unknown to neutral parties, all simultaneously.
@@ -46,8 +115,6 @@ Reputation affects everything from prices in shops to access to restricted areas
 The system operates on multiple scales: personal reputation with individuals, local reputation within communities, organizational reputation with factions, and realm-wide reputation affecting major political movements. Each scale influences the others but can be managed separately through targeted actions and relationship building.
 
 Recent convergence events have complicated reputation management as factions from both realms now interact regularly, creating opportunities for diplomatic bridges or catastrophic misunderstandings. Characters may find their reputation in one realm helps or hinders them in the other, depending on political alliances and cultural differences.
-
-## Core Mechanics
 
 ### Reputation Scales
 
@@ -123,10 +190,6 @@ Actions affecting one faction often impact others based on their relationships:
 | Royal Court | Rebel Movement | Enemy | -50% |
 | Temple Guards | Criminal Syndicate | Rival | -25% |
 
-## Major Faction Reputations
-
-### Aquabyssos Factions
-
 #### The Royal Court of Aquabyssos
 
 **Leadership**: [[Queen Seraphina]] and the Royal Council
@@ -147,7 +210,7 @@ Actions affecting one faction often impact others based on their relationships:
 #### The Silverscale Consortium
 
 **Leadership**: [[Director Hadrian Silverscale]] and the Board
-**Values**: Profit, efficiency, innovation, market dominance
+**Values**: Profit, efficiency, innovation, market domice
 **Benefits by Reputation Level**:
 - **Honored+**: 20% discount on services, investment opportunities
 - **Revered+**: 40% discount, exclusive contracts available
@@ -194,8 +257,6 @@ Actions affecting one faction often impact others based on their relationships:
 - Protecting memory vaults: +8 to +18
 - Stealing memories: -6 to -15
 - Destroying knowledge: -10 to -25
-
-### Aethermoor Factions
 
 #### The Crystal Court
 
@@ -248,8 +309,6 @@ Actions affecting one faction often impact others based on their relationships:
 - Hindering research: -6 to -15
 - Spreading corruption: -15 to -35
 
-### Cross-Realm Factions
-
 #### The Convergence Council
 
 **Leadership**: Representatives from both realms
@@ -283,8 +342,6 @@ Actions affecting one faction often impact others based on their relationships:
 - Destroying light sources: +3 to +10
 - Fighting shadow spread: -8 to -20
 - Purifying corruption: -12 to -30
-
-## Individual Reputation Management
 
 ### Important NPCs and Personal Relationships
 
@@ -338,14 +395,12 @@ Individual relationships often matter more than faction standing:
 - **Common Interests**: Engage in shared hobbies and passions
 - **Mutual Support**: Stand by them during difficulties
 
-**Relationship Maintenance**:
+**Relationship Maintece**:
 - **Regular Contact**: Stay in communication
 - **Remember Details**: Show interest in their life and concerns
 - **Celebrate Successes**: Share in their triumphs
-- **Offer Condolences**: Support during losses and setbacks
+- **Offer Condolences**: Support during losses and secks
 - **Respect Boundaries**: Understand and honor their limits
-
-## Reputation Consequences and Benefits
 
 ### Mechanical Effects by Reputation Level
 
@@ -455,11 +510,9 @@ Individual relationships often matter more than faction standing:
 - **Cultural Condemnation**: Public denouncement and shame
 - **Historical Infamy**: Negative legacy in official records
 
-## Advanced Reputation Systems
+### Reputation Decay and Maintece
 
-### Reputation Decay and Maintenance
-
-Reputation naturally decays over time without maintenance:
+Reputation naturally decays over time without maintece:
 
 **Decay Rates**:
 - **Extreme Reputation** (±81-100): -2 points per month
@@ -468,7 +521,7 @@ Reputation naturally decays over time without maintenance:
 - **Low Reputation** (±11-20): -1 point per three months
 - **Minimal Reputation** (±1-10): No decay
 
-**Maintenance Actions**:
+**Maintece Actions**:
 - **Regular Contact**: Prevent decay for one month
 - **Minor Services**: Slow decay rate by 50%
 - **Major Services**: Stop decay for 2-3 months
@@ -528,8 +581,6 @@ Some factions maintain secret reputation scores:
 - **Behavioral Analysis**: Predict reputation-affecting actions
 - **Counter-Intelligence**: Protect own reputation from similar attacks
 
-## Faction Relationship Dynamics
-
 ### Alliance Systems
 
 Faction relationships create complex political networks:
@@ -579,8 +630,6 @@ Faction relationships create complex political networks:
 - **Diplomatic Services**: Assistance in negotiating with hostile factions
 - **Economic Stability**: Trade relationships unaffected by political changes
 - **Balanced Perspective**: Advice uncolored by factional bias
-
-## Campaign Integration and Adventure Hooks
 
 ### Reputation-Based Adventures
 
@@ -637,24 +686,6 @@ Faction relationships create complex political networks:
 - Character actions create new reputation opportunities for other characters
 - Reputation networks become part of ongoing campaign world
 
-## Connected Systems and Cross-References
-
-### Related Mechanics
-
-- **[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Mental effects can impact reputation management
-- **[[Investigation Procedures]]**: Research faction interests and relationships
-- **[[Memory Alterations]]**: Faction memories can be modified to affect reputation
-- **[[Social Navigation Protocols]]**: Formal procedures for reputation management
-- **[[Diplomatic Immunity Systems]]**: Legal protection through high reputation
-
-### Key Locations
-
-- **[[Royal Embassy]]**: Cross-realm diplomatic reputation management
-- **[[Silverscale Banking House]]**: Economic reputation and financial influence
-- **[[The Coral Courts]]**: Social reputation and cultural standing
-- **[[Crystal Festival Grounds]]**: Public reputation through performance and display
-- **[[Memory Merchant Headquarters]]**: Information-based reputation management
-
 ### Important Organizations
 
 - **[[Diplomatic Corps]]**: Professional reputation management services
@@ -665,16 +696,6 @@ Faction relationships create complex political networks:
 
 The reputation system serves as both a mechanical framework for social interaction and a narrative driver for character development, political intrigue, and long-term campaign consequences. Success in the merged realms often depends as much on who trusts you as on what you can do.
 
-
-## Connections
-
-- [[Initiative Tracker]]
-- [[12_Research/D&D_Statblocks/Random Encounters]]
-- [[Silver Mask]]
-- [[The Deep Mother]]
-- [[The Restoration Movement]]
-- [[The Silverscale Conspiracy]]
-
 ## Player-Facing Summary
 
 Reputation System is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -683,44 +704,23 @@ Reputation System is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Reputation System as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Reputation System.
 
-## Adventure Hooks
-
-- A rumor ties Reputation System to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Reputation System to avert a public scandal.
-- A map overlay reveals a hidden approach to Reputation System active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[Master_Lore_Index|Master Lore Index]]
-- [[Crystal Festival Grounds]]
-- [[Investigation Procedures]]
-- [[Royal Embassy]]
-
-
 ## Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
-
 
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
 
-## Game Applications
 
-### Adventure Hooks
-- Discovery of related artifacts or texts
-- Conflicts arising from different interpretations
-- Prophecies beginning to manifest
+## Plot Hooks
 
-### Character Connections
-- Scholarly interest
-- Personal involvement in events
-- Hereditary knowledge or curse
+- A letter reveals the truth about this place
+- Someone is protecting a artifact for money
+- A stranger needs help delivering before the festival
+- Strange disappearances suggest a curse

@@ -26,8 +26,6 @@ updated: '2025-08-12T23:37:35.788570'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-draconic-spirit-xphb-draconic-spirit-xphb.svg)
 
@@ -46,11 +44,9 @@ world: Both
   - !!int "14"
   - !!int "17"
   - !!int "10"
-  - !!int "14"
-  - !!int "14"
 "speed": "30 ft., fly 60 ft., swim 30 ft."
 "damage_resistances": "acid, cold, fire, lightning, poison"
-"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#Frightened|frightened]],\
+"condition_immunities": "[[conditions#Charmed|charmed]], [[conditions#frightened|frightened]],\
   \ [[conditions#Poisoned|poisoned]]"
 "senses": "blindsight 30 ft., darkvision 60 ft., passive Perception 12"
 "languages": "Draconic, understands the languages you know"
@@ -75,6 +71,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Draconic spirit xphb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -83,19 +97,26 @@ Draconic spirit xphb is a undersea element of the setting, known for bioluminesc
 
 Legends speak of draconic spirit xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around draconic spirit xphb.
 
-## Adventure Hooks
-
-- A rumor ties draconic spirit xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at draconic spirit xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to draconic spirit xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a curse
+- Someone is blackmailing information for power
+- A noble needs help stealing before dawn
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

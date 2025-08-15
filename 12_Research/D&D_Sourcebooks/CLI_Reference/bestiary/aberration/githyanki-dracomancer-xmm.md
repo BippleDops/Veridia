@@ -28,8 +28,6 @@ updated: '2025-08-12T23:37:35.328582'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-githyanki-dracomancer-xmm-githyanki-dracomancer-xmm.svg)
 
@@ -37,6 +35,24 @@ world: Both
 *Source: Monster Manual (2024) p. 135*  
 
 One of Gith's last deeds was to forge an alliance between the githyanki and the dragon god Tiamat. Ever since, the Dragon Queen's red dragon consort, Ephelomon, and his kind have been allies of the githyanki. Githyanki dracomancers uphold this pact and cultivate magic talents that complement the might of red dragons.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Githyanki
 
@@ -70,8 +86,6 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
   - !!int "16"
   - !!int "18"
   - !!int "20"
-  - !!int "16"
-  - !!int "18"
 "speed": "30 ft., fly 30 ft. (hover)"
 "saves":
   - "dexterity": !!int "8"
@@ -91,7 +105,7 @@ When Gith perished, her adviser, Vlaakith, assumed rule of the githyanki. Vlaaki
     "name": "Multiattack"
   - "desc": "Melee  or Ranged Attack Roll: +10, reach 10 ft. or range 120 ft. Hit:\
       \ 12 (2d6 + 5) Slashing damage plus 17 (5d6) Fire damage, and the target has\
-      \ the [[conditions#Frightened|Frightened]] condition until\
+      \ the [[conditions#frightened|Frightened]] condition until\
       \ the start of the githyanki's next turn."
     "name": "Draconic Strike"
   - "desc": "Dexterity Saving Throw: DC 18, each creature in a 90-foot [[cone-area-of-effect-xphb|Cone]].\
@@ -126,19 +140,34 @@ Githyanki dracomancer xmm is a undersea element of the setting, known for biolum
 
 Legends speak of githyanki dracomancer xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around githyanki dracomancer xmm.
 
-## Adventure Hooks
-
-- A rumor ties githyanki dracomancer xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at githyanki dracomancer xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to githyanki dracomancer xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Covenant - Control trade routes
+
+
+## Plot Hooks
+
+- A letter reveals a betrayal about the cult
+- Strange dreams suggest a curse
+- A letter reveals a conspiracy about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

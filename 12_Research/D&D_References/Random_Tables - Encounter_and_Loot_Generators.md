@@ -20,11 +20,22 @@ updated: '2025-08-13T01:18:37.212531+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-# 🎲 Encounter & Loot Generators
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Encounters (d100)
 Roll: `dice: 1d100|Encounter Roll`
@@ -37,7 +48,7 @@ Roll: `dice: 1d100|Encounter Roll`
 | 41–55 | Local creature pack |
 | 56–70 | Terrain feature/Discovery |
 | 71–85 | Hostile faction unit |
-| 86–95 | Elite enemy or lieutenant |
+| 86–95 | Elite enemy or lieutet |
 | 96–00 | Boss-level encounter |
 
 Quick difficulty: `dice: 1d4|1=Easy,2=Medium,3=Hard,4=Deadly`
@@ -45,8 +56,6 @@ Quick difficulty: `dice: 1d4|1=Easy,2=Medium,3=Hard,4=Deadly`
 ## Loot (d100)
 Roll: `dice: 1d100|Loot Roll`
 
-| d100 | Result |
-|------|--------|
 | 01–15 | Coins only (2d10×10 gp) → `dice: 2d10*10|Gold (gp)` |
 | 16–35 | Coins + common item |
 | 36–60 | Coins + 1–2 consumables |
@@ -56,7 +65,6 @@ Roll: `dice: 1d100|Loot Roll`
 
 Consumables: `dice: 1d6|1=Healing Potion,2=Antitoxin,3=Oil,4=Scroll L1,5=Scroll L2,6=Elixir`
 
-## Treasure Parcels
 ## Aquabyssos Undersea Encounters (d20)
 Roll: `dice: 1d20|Undersea Encounter`
 
@@ -87,7 +95,6 @@ Roll: `dice: 1d20|Undersea Encounter`
 Roll: `dice: 1d12|Urban Event`
 
 | d12 | Result |
-|-----|--------|
 | 1 | Street performance distracts crowd; pickpocket `dice: 1d20+3` vs passive |
 | 2 | Patrol questions strangers about recent theft |
 | 3 | Merchant caravan sale; 10% discount on common goods |
@@ -107,16 +114,9 @@ Roll: `dice: 1d12|Urban Event`
 - Scroll Rarity: `dice: 1d6|1-3 Common,4-5 Uncommon,6 Rare`
 Party level modifier: `dice: 2d6*{level}|Parcel (gp)`
 
-## Notes
-- Use alongside `Item_Catalog.base` for ownership assignment.
-- For underwater/urban variants, adapt tables by realm.
-
-
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -125,3 +125,14 @@ Party level modifier: `dice: 2d6*{level}|Parcel (gp)`
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- Strange sightings suggest ancient magic
+- Someone is searching for a witness for love

@@ -22,14 +22,30 @@ updated: '2025-08-13T12:34:04.956711+00:00'
 world: Both
 ---
 
-
-
 # Chapter 6: Alarums and Excursions
 *Source: Princes of the Apocalypse, p. 148* 
 
 ![](/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/070-poa06-01.webp#center)
 
 This chapter presents secondary adventures loosely tied to the Elemental Evil storyline. First are adventures for 1st- through 3rd-level characters in and near Red Larch. Then come side treks for characters of higher levels.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Trouble in Red Larch
 
@@ -54,8 +70,6 @@ The Swinging Sword (area 2) is the only inn, and the Helm at Highsun (area 3) is
 
 ## Into the Wilderness
 
-> [!readaloud] 
-> 
 > Hills partitioned into fields and pastures by fieldstone fences or hedges surround Red Larch. A mile or so outside the town, cultivated areas give way to unspoiled wilderness. Miles of hills, woods, and grassland stretch on as far as the eye can see, filled with plentiful wildlife.
 ^5fa
 
@@ -65,8 +79,6 @@ The "Red Larch Surroundings" map shows the locations of several interesting site
 
 Constable Harburk (Red Larch, area 11) has heard rumors of a bandit lair south of town. If the characters investigate this lead, read the following:
 
-> [!readaloud] 
-> 
 > In a brush-choked dell a short distance from the Cairn Road is a makeshift camp in front of a cave entrance. Four surly humans sharpen their blades around the fire. Nearby is a wagon with a wooden cage atop it. Inside the cage, a black bear paws at the bars.
 ^5fc
 
@@ -82,8 +94,6 @@ Coins in the cave total 99 cp, 74 sp, and 13 gp, divided among several coin purs
 
 Minthra Mhandyvver's granddaughter Pell (Red Larch, area 14) knows where this tomb is, as does Mangobarl Lorren (Red Larch, area 8).
 
-> [!readaloud] 
-> 
 > A dark, rectangular hole gapes amid the grass and vines of a nearby hillside. A stone door can be seen, ajar, in the tunnel's dim depths. The door bears chiseled marks that might once have been a name.
 ^5ff
 
@@ -99,8 +109,6 @@ Geeraugh and Mougra built an improvised alarm made metal wagon wheel fittings ag
 
 When the characters enter, read the following:
 
-> [!readaloud] 
-> 
 > Inside the door is a passage, ten feet high by ten wide, running straight into the hill. Thirty feet later, it opens out into a square room, thirty feet by thirty feet, containing a stone block table. Stains and marks atop this slab suggest rusted objects were once arrayed on it. In the middle of the wall to the right of the entry passage, is a closed and severely rusted iron door.
 ^601
 
@@ -110,8 +118,6 @@ If the rusted iron door is touched, a ghostly armored male human wielding a spec
 
 The iron door is rusted shut. A characters can force it open with a successful DC 15 Strength check. Inside, the following is revealed:
 
-> [!readaloud] 
-> 
 > Beyond the rusted door is another square room, twenty feet by twenty feet, containing a stone coffin. The ceiling is cracked, allowing roots and water into the chamber from multiple points, although little collects here. At the coffin's feet is a rusty iron chest.
 ^603
 
@@ -123,17 +129,13 @@ The chest contains ruined cloth and the sodden remains of a book, but it also ha
 
 ### Bloody Treasure
 
-In the hills south of the Larch Path is a cave known to Red Larchers as Tricklerock Cave. Albaeri Mellikho (Red Larch, area 18) and Elak Dornan (Red Larch, area 12) point the characters to this location.
+In the hills south of the Larch Path is a cave known to Red Larchers as Tricklerock Cave. Albaeri Mellikho (Red Larch, area 18) and Elak Dor (Red Larch, area 12) point the characters to this location.
 
-> [!readaloud] 
-> 
 > In a ravine, an exposed rock face is split by a vertical crevice about three feet wide and fifteen feet high. Water trickles from the opening and spills into a nearby bog. In the mud around the crevice are many overlapping bootprints. Some head into the crevice, and some come out.
 ^606
 
 If the characters enter the crevice, read the following:
 
-> [!readaloud] 
-> 
 > The crevice leads twenty feet into the hillside before opening up into a cavern. Many trickles of water combine into a pleasant sound, and the walls glisten with moisture. Stalagmites dot the floor, and stalactites hang from the ceiling.
 ^607
 
@@ -143,19 +145,14 @@ The cave is home to four [[stirge-xmm|stirges]], which attack as soon as a chara
 
 Endrith Vallivoe (Red Larch, area 22) heard a report that might lead the characters here.
 
-> [!readaloud] 
-> 
 > A weathered human skull, jaw sagging, is pinned to the trunk of a tree ahead by a big black arrow protruding from one of the skull's eye sockets.
 ^609
 
 Black parchment (actually dyed human skin) is wrapped around the arrow just in front of the fletching. It is a message that reads, in Common:
 
 > [!note] 
-> 
 > The Last Laugh
-> 
 > You'll be next!
-> 
 > Valklondar
 ^60a
 
@@ -167,23 +164,15 @@ Characters who confront troublesome situations in the wilderness attract the att
 
 Southwest of Red Larch, Lance Rock is visible for miles. When the characters can see it, read the following text:
 
-> [!readaloud] 
-> 
 > Lance Rock is a narrow, twenty-five-foot menhir of bare, gray rock that juts eastward at a sixty-degree angle.
 ^60c
 
 The menhir is gray granite, unlike the surrounding limestone. (A dragon dropped it here long ago.) A few hundred feet south of the stone is a ravine choked with brush. A trail leads into the brush near a neatly-painted sign that reads, in Common:
 
-> [!note] 
-> 
 > Come no closer
-> 
 > lest you catch
-> 
 > the disfiguring plague
-> 
 > that afflicts me!
-> 
 > The Lord of Lance Rock
 ^60d
 
@@ -193,21 +182,16 @@ The trail continues down to a cave mouth. Another warning sign with the same mes
 
 An insane and reclusive necromancer named [[/03_Mechanics/CLI/bestiary/npc/oreioth-pota|Oreioth]]—the self-styled "Lord of Lance Rock"—has taken residence in the caves near Lance Rock. He poses no immediate threat to Red Larch but doesn't take kindly to trespassers.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/073-06-02.webp#gallery|Map 6.2: Necromancer's Cave]]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/074-poa7.webp#gallery|Player Version]]
 
 ### L1. Entry Cave
 
-> [!readaloud] 
-> 
 > The cave mouth opens into darkness from which a breezes blows, carrying the faint odor of death. Inside is a natural cave, its floor and ceiling uneven. The passage leads to the west, narrowing as it proceeds.
 ^610
 
 A body is sprawled on the floor 60 feet into the passage. When the characters get close enough to take a good look at the body, read the following:
 
-> [!readaloud] 
-> 
 > The corpse of a human male is sprawled here on its back. It wears only leather breeches.
 ^611
 
@@ -215,8 +199,6 @@ The body is a [[zombie-xmm|zombie]], but it animates only if touched. Then, it a
 
 ### L2. Guard Cave
 
-> [!readaloud] 
-> 
 > A round, high-ceilinged cave opens here. It has two narrow exits, one leading north and the other south. A flat boulder sits in the center of the cave. It's about six feet across, eight feet long, and three feet high. Dark stains color its top.
 ^613
 
@@ -226,8 +208,6 @@ Above the eastern entrance, two [[zombie-xmm|zombies]] stand on a ledge 10 feet 
 
 ### L3. Corpse Cave
 
-> [!readaloud] 
-> 
 > Motionless humanoid figures dressed in dirty clothes or scraps of armor are propped against the walls of this cave. Some are little more than skeletons with wisps of hair and skin stretched tightly over their bones. Others are fresher. A few old shortswords lie on the dusty floor.
 ^615
 
@@ -237,15 +217,11 @@ Twelve corpses are stored in this chamber. Seven are skeletal, and five are fres
 
 The passage that leads to this room from the north can be described as follows:
 
-> [!readaloud] 
-> 
 > This narrow passage is about ten feet high in most places, with rough, irregular walls. Protruding spurs on the walls are coated in dried blood.
 ^617
 
 Eventually this natural passage widens out:
 
-> [!readaloud] 
-> 
 > The star-shaped cavern ahead has many clefts in its walls. Only two, across the cavern, seem large enough to traverse. Three zombies lurch about the area. One is costumed like a bear, another is dressed as a lady in a frilly dress and thick makeup, and the last is costumed as a jester with jingling bells on its collar and sleeves.
 ^618
 
@@ -265,10 +241,7 @@ The iron chests are empty.
 
 ### L5. Workshop
 
-> [!readaloud] 
-> 
 > The passage opens into an enormous cavern illuminated by several guttering torches set in sconces on the walls. The floor is uneven, and the ceiling is forty feet up. Three flat boulders near the passage serve as tables for human corpses. Severed body parts sit in baskets by the corpses, covered in dry gore. A figure in a dark hood stands by the third table, its back to you. Matted hair juts from the hood, and the figure holds a bone needle threaded with dark cord in its hand.
-> 
 > Farther to the west, a stone stair climbs the north wall, ending near the ceiling. A stone slab like a counter juts from the wall across the room from the base of the stairs. It holds saws, knives, and other tools. Four skeletons stand beyond this tool bench, guarding a wide passage that exits the to the west.
 ^61c
 
@@ -278,7 +251,7 @@ The hooded figure is a [[zombie-xmm|zombie]], and five [[crawling-claw-xmm|crawl
 
 The "Lord of Lance Rock" is [[/03_Mechanics/CLI/bestiary/npc/oreioth-pota|Oreioth]] (see chapter 7), a wild-eyed Tethyrian human with a bristly beard and a shaved head. If the characters moved through area L4 alerting him, they find [[/03_Mechanics/CLI/bestiary/npc/oreioth-pota|Oreioth]] arranging and cleaning his tools on the tool bench. Otherwise, he watches warily from behind the four [[skeleton-xmm|skeletons]]. In any case, if confronted, he shrinks from conflict and orders his skeletons to attack while he retreats into area L6.
 
-The necromancer refers to himself in the third person and by his self-appointed title. He's afraid of physical confrontation, but he pretends bravery when his pets shield him, saying, "Bow before the Lord of Lance Rock! Me! Behold my dark terrors!" He's willing to magnanimously consider a surrender or offers of truce, as long as intruders leave the cave.
+The necromancer refers to himself in the third person and by his self-appointed title. He's afraid of physical confrontation, but he pretends bravery when his pets shield him, saying, "Bow before the Lord of Lance Rock! Me! Behold my dark terrors!" He's willing to magimously consider a surrender or offers of truce, as long as intruders leave the cave.
 
 #### Stairs
 
@@ -292,8 +265,6 @@ The stone counter serves as a tool bench. The tools here include saws, knives, a
 
 The workshop narrows into another passage that splits and links up twice. It gently descends to this area described as follows:
 
-> [!readaloud] 
-> 
 > An oval cavern opens here, forty feet wide and sixty feet long. Dark purple tapestries hang on the walls. At the center stands a pedestal fashioned of severed arms arranged to clutch one another in a cone. Cradled in the uppermost hands is a glowing crystal sphere. A dark sigil with an eyelike slit floats above the sphere.
 ^621
 
@@ -327,10 +298,7 @@ Characters who focus on the right set of rumors in Red Larch might discover the 
 
 If the characters don't find any leads to this scenario, a sinkhole opens in the middle of Red Larch, exposing the hidden chambers. In that eventuality, read the following text when you're ready to start:
 
-> [!readaloud] 
-> 
 > An ordinary afternoon in Red Larch is broken by a tremor. A second later, four small children and the old cart they are playing on slide down into a sinkhole that suddenly opens. They disappear from sight, shrieking for help.
-> 
 > A distraught woman runs out of a nearby house and sprints to the edge of the hole, which crumbles away, spilling her in as well. More people run from other homes. Calls of "A rope, a rope!" and "Get a ladder!" fill the air.
 ^625
 
@@ -338,22 +306,18 @@ Any creature that moves to the sinkhole's edge without taking precautions, such 
 
 When characters can see within, read the following:
 
-> [!readaloud] 
-> 
 > A dark chamber is about thirty feet below the level of the ground. It looks larger than the hole and extends into darkness on all sides. A heap of loose earth is piled in the middle. The children who first fell in are sitting on the mound of earth, coughing in the dust and sobbing with fright. "My boy, my boy!" a worried parent shouts, peeping over the edge. "Somebody do something!"
-> 
 > More townsfolk hurry up from all sides, staying clear of the edge. Among them are a few town elders, who pull people away from the edge and order the others to stay back. "Leave it to us!" says one of the elders. "We will tend to this matter! The children won't be harmed by being down there a little while, but no one must go down there. Keep back!"
 ^626
 
 The sinkhole exposes area T1 in the Tomb of Moving Stones. Townsfolk who've fallen in are scared, bruised, and unable to climb out without aid, but otherwise unharmed.
 
-The town elders trying to control the situation are Ilmeth Waelvur (male Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandit]]; see Red Larch, area 16), Albaeri Mellikho (female Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]; see Red Larch, area 18), and Ulhro Luruth (male Chondathan human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]; see Red Larch, area 19). Anxious to keep anyone from discovering that the sinkhole leads to passages, they make statements such as, "This isn't to be discussed in front of strangers!" and "The Delvers must not be angered!" and "The stones must not be moved!" Such commands elicit little obedience from the [[conditions#Frightened|frightened]] townsfolk.
+The town elders trying to control the situation are Ilmeth Waelvur (male Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|bandit]]; see Red Larch, area 16), Albaeri Mellikho (female Tethyrian human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]; see Red Larch, area 18), and Ulhro Luruth (male Chondathan human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]; see Red Larch, area 19). Anxious to keep anyone from discovering that the sinkhole leads to passages, they make statements such as, "This isn't to be discussed in front of strangers!" and "The Delvers must not be angered!" and "The stones must not be moved!" Such commands elicit little obedience from the [[conditions#frightened|frightened]] townsfolk.
 
 If no character has a rope, a helpful resident arrives with an old coil. He or she pushes past the elders to offer the rope to the characters. Children wail down in the pit as more onlookers arrive. It's clearly time for a rescue mission.
 
 Rescuing those who've fallen is a matter of lowering a rescuer down with a rope, tying it around a victim, and having people above haul away. The townsfolk are grateful for the characters' aid.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/077-06-03.webp#gallery|Map 6.3: Tomb of Moving Stones]]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/078-pam05_tombmoving_dm-zf-0998-75774-1-001-0.webp#gallery|Player Version]]
 
@@ -361,8 +325,6 @@ Rescuing those who've fallen is a matter of lowering a rescuer down with a rope,
 
 If the sinkhole opened up, this cavern has a pile of dirt in the center and a gaping, 20-foot-diameter hole in the 30-foot-high ceiling.
 
-> [!readaloud] 
-> 
 > This wide, irregularly shaped cavern has a floor of smooth bedrock. Damp dirt and stone, with tree roots protruding here and there, make up the walls. A five-foot-wide tunnel leads off to the north, and a stone slab—a door with a rusty pull-ring—stands to the east. By the stone door, a couple well-used cloaks and a waterskin are on the floor.
 ^628
 
@@ -374,8 +336,6 @@ The stone door to the east has no lock. It slides open smoothly. Beyond it, a pa
 
 This tunnel leads to the Mellikho Stoneworks quarry (Red Larch, area 18). If the characters investigate the tunnel, read the following:
 
-> [!readaloud] 
-> 
 > The tunnel is muddy. It winds north a long way before rising gradually. After two hundred feet or so, it ends at a wooden door that forms a sloping roof. A small wooden coffer sits on the floor by the door, and beside the coffer is a heap of damp sand from which the ends of torches protrude.
 ^62a
 
@@ -385,8 +345,6 @@ The damp torches were extinguished by being thrust into the sand. They are hard 
 
 ### T2. Stone Sentinels
 
-> [!readaloud] 
-> 
 > Sixty feet beyond the stone door, the tunnel levels out. Two stone reliefs of stern dwarves in chain mail and carrying battleaxes face each other across the tunnel. The carvings stand out from the passage walls, and they have gaps around them, so they could be doors. The passage continues past them.
 ^62c
 
@@ -396,8 +354,6 @@ The doors slide open easily if pushed. To the south, the door leads to a long st
 
 If the party continues east along the tunnel past area T2, they walk into a trap. Read the following text only if a character examines the ceiling:
 
-> [!readaloud] 
-> 
 > The ceiling consists of square stone panels about ten feet on a side. Rusty iron frames surround each panel. The panels are suspended about several inches from one another and the wall to either side. They form a row overhead that continues down the passage.
 ^62e
 
@@ -405,8 +361,6 @@ Ten iron cages are suspended from chains over the hallway, and the "panels" are 
 
 When the characters can see the eastern end of the hall, read the following:
 
-> [!readaloud] 
-> 
 > At the end of the passage is another stone door with an iron pull ring in it. It stands slightly ajar with darkness beyond. About five feet up, the door has a two-inch-wide, foot-long horizontal slit.
 ^62f
 
@@ -418,7 +372,7 @@ Grund's orders are to trap intruders. Anyone who isn't an intruder is supposed t
 
 Each cage's chain runs through a pulley secured to a heavy iron bar just inside the door in area T4. From where he is, Grund can use an action to release two chains. He starts with the cage at the western end of the tunnel, sealing off retreat, followed by a cage dropped on the party. Roll initiative at that point. Grund's uses his second turn to block the eastern edge of the passage with a third cage and to drop another cage on characters not already trapped.
 
-A falling cage targets the corresponding 10-foot square section of the passage. Targets in the area can stand still, taking no damage as the plaster on the cage bottom breaks and the cage seals them in. Those who wish to avoid a falling cage must succeed on a DC 15 Dexterity saving throw. Those who fail are caught in the cage. Anyone who fails by 5 or more is hit by the iron frame of the cage bottom. Such a creature takes 7 (`2d6`) bludgeoning damage and is pinned under the cage. While pinned, the character is [[conditions#Prone|prone]] and [[conditions#Restrained|restrained]].
+A falling cage targets the corresponding 10-foot square section of the passage. Targets in the area can stand still, taking no damage as the plaster on the cage bottom breaks and the cage seals them in. Those who wish to avoid a falling cage must succeed on a DC 15 Dexterity saving throw. Those who fail are caught in the cage. Anyone who fails by 5 or more is hit by the iron frame of the cage bottom. Such a creature takes 7 (`2d6`) bludgeoning damage and is pinned under the cage. While pinned, the character is [[conditions#prone|prone]] and [[conditions#Restrained|restrained]].
 
 A character who uses an action to make a successful DC 15 Strength check can lift the cage enough to allow one creature to escape. It takes a successful DC 20 Strength check to bend the rusty bars enough to allow everyone in or under the cage to escape. A character pinned under a cage lacks good leverage and has disadvantage on these Strength checks.
 
@@ -428,10 +382,7 @@ If Grund traps the characters in the hall, he runs to tell Baragustas in area T8
 
 ### T4. Antechamber
 
-> [!readaloud] 
-> 
 > This big, square chamber has been hewn out of the rock. In the center of the chamber's west wall is a stone door that has a narrow viewing slit. Beside the door is a set of iron bars bolted into the wall about three feet above the floor. Ten oiled chains are secured to the bars, leading up to a hole bored in the ceiling. Another solid stone door is in the middle of the east wall.
-> 
 > An eight-foot-tall rectangular stone stands upright in the room's center. The stone has an inscription on it that's hard to read from a distance. At the foot of the standing stone, a small human is pinned, face down, by rocks placed atop his arms, legs, and back. He is barefoot and wears ragged clothes.
 ^634
 
@@ -463,8 +414,6 @@ The inscription on the standing stone reads, in Common: "Displease not the Delve
 
 Characters catch the scent of death as they approach this room.
 
-> [!readaloud] 
-> 
 > The tunnel opens into a square room that reeks of decaying flesh. Three human corpses, reduced to little more than bloody bone and sinew, are sprawled in the room's center. Two oversized rats root among the bodies, stopping to chew flesh they've pulled free. Scuttling noises come from narrow crevices in the walls.
 ^63a
 
@@ -474,8 +423,6 @@ The bodies are those of travelers who disappeared near Red Larch. Each has the s
 
 ### T6. Hovering Stone
 
-> [!readaloud] 
-> 
 > The tunnel opens into a square room. In the center of it, a black rock about a foot across hovers three feet from the floor.
 ^63c
 
@@ -483,19 +430,13 @@ A normal rock floats here because of ancient magic that maintains an [[condition
 
 ### T7. Dwarf Statue
 
-> [!readaloud] 
-> 
 > This fifty-foot-square chamber is hewn out of rock. The floor is rough but flat, the walls show the chisel-marks of the original builders, and the ceiling is about ten feet high. Identical stone doors with iron pull-ring handles stand in the middle of the east, north, and west walls. In the center of the room stands a life-sized and lifelike statue of a dwarf warrior wearing a chain shirt, helm, and big boots. He carries a shield on his left arm and a battleaxe in his right hand. The statue has clearly been broken into, roughly, the head and upper torso, lower torso, and legs. These pieces have been reassembled and held together and upright in a stout wooden frame. A dagger along with several coins and gems lie on the floor in front of the statue, surrounded by an ring of fine gravel.
 ^63e
 
 The statue is a [[conditions#Petrified|petrified]] and long-dead dwarf. On the frame holding it together, a small, neat inscription reads:
 
-> [!note] 
-> 
 > Petrified Ironstar (?) dwarf,
-> 
 > found 1459 DR in Red Larch West Quarry
-> 
 > in broken condition.
 ^63f
 
@@ -519,8 +460,6 @@ The Bringers of Woe are six [[/03_Mechanics/CLI/bestiary/humanoid/bandit-xmm|ban
 
 ### T8. Approach
 
-> [!readaloud] 
-> 
 > A passage—ten feet wide, ten feet high, and hewn out of the rock—runs forty feet ahead. A small lantern hangs from a hook in the wall next to the door at the east end of the passage. Sitting on a wooden stool by the lantern is a balding, beardless old male human in patched and faded work trousers and a matching tunic. He is idly whittling a stick.
 ^643
 
@@ -544,8 +483,6 @@ Baragustas has 25 cp and 19 sp on him. He also has a simple silver wedding band 
 
 If the characters speak to Baragustas in area T8 or examine the door to this area, a [[/03_Mechanics/CLI/bestiary/humanoid/black-earth-priest-pota|Black Earth priest]] (see chapter 7) named Larrakh hears them. If he does, he quickly sets down his lantern and hides. The following descriptive text assumes this is the case:
 
-> [!readaloud] 
-> 
 > An enormous chamber with a twenty-foot ceiling has been carved out of the rock here. A lighted lantern rests on the floor near the center of the room. An odd array of stone monoliths—some upright standing stones, and others arranged in three-stone arches—stand around the chamber. Six low stone slabs are set against the walls around the perimeter of the room. Each holds humanoid bones, dressed in scraps of tattered cloth and rusted iron.
 ^648
 
@@ -659,7 +596,6 @@ This situation leaves Thaelond unwilling to appoint Muruin as his temporary repl
 
 Unknown to Chalaska and Nalaskur, an ambitious Zhentarim agent named Inglor Brathren (male dwarf [[/03_Mechanics/CLI/bestiary/humanoid/spy-xmm|spy]]) has established a cover identity as a handyman, allowing him to see and overhear secrets. Inglor thinks Nalaskur is lining his pockets at the expense of the Zhentarim. He suspects that Chalaska is turning a blind eye to Nalaskur's skimming, but he fears Chalaska and can't accuse her without proof. Inglor decides both need framing and replacing.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/080-06-04.webp#gallery|Map 6.4: Bargewright Inn]]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/081-pam18_bargewright_dm-zf-0998-75774-1-009-0.webp#gallery|Player Version]]
 
@@ -779,15 +715,11 @@ Alternatively, use one of the following options to draw the characters into this
 
 This encounter occurs early in the day. As the party travels, they spot smoke. Read the following text:
 
-> [!readaloud] 
-> 
 > The trail emerges from a dry gulch. A column of thick, black smoke rises at a slight angle over the trees. It looks like something is burning just over the next ridge.
 ^66c
 
 The burning farm is within five minutes' travel. Once the characters approach within sight, read the following:
 
-> [!readaloud] 
-> 
 > A fiercely burning homestead is nestled in a small valley slightly below your position at the top of the ridge. The barn is a smoking ruin and the house is half consumed by fire. Panicked livestock scrambles about a fenced corral on the far side of the barn.
 ^66d
 
@@ -801,8 +733,6 @@ Selwyn is just returning to consciousness in the house's front room when the cha
 
 If any characters approach within 60 feet of the house, they hear Selwyn coughing from the smoke and feebly crying for help. Once someone enters through the front door, read the following:
 
-> [!readaloud] 
-> 
 > The front room is filled with heat and smoke, and flames lick the ceiling. A slender half-elf with a bloody gash on his forehead is sprawled on the floor, feebly trying to rise. He struggles to sit up when he sees you. "Maygan!" he cries. "My wife! Please find her!" Then he collapses again in another fit of coughing.
 ^66f
 
@@ -816,8 +746,6 @@ The wagon and boot tracks of the departing orcs and their prisoners are obvious 
 
 The procession of orcs, prisoners, and wagon doesn't move very fast, so it's not difficult for the characters to catch up. Pursuing characters reach the orcs within thirty minutes of following their trail. If the characters move cautiously despite the rush to catch up, then they can gain surprise. Otherwise, the orcs spot them as they approach. In any case, read the following aloud:
 
-> [!readaloud] 
-> 
 > Four brutish orcs surround a wagon sitting in the shade of some stunted trees along a dry riverbed. Two human males in plain farming clothes have collapsed near the front of the vehicle. The wagon's wheels are sunk several inches into the loose, sandy soil. A female human is in the wagon, among supplies and other loot.
 ^671
 
@@ -831,7 +759,6 @@ The Dellmon family has lived in this area for several generations and is well kn
 
 Every able-bodied person on the premises pitched in to help bolster the defenses. They built a series of low earth ridges and ditches as defensive works running between the various buildings (see the map) and put together makeshift crenellations on the roof lines for missile combatants. They also stockpiled weapons and caches of ammunition.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/084-06-05.webp#gallery|Map 6.5: Dellmon Ranch]]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/085-pam11_iceshield_dm-zf-0998-75774-1-003-0.webp#gallery|Player Version]]
 
@@ -977,9 +904,7 @@ As the characters adventure in the Sumber Hills, rumor reaches them of a fire wi
 
 ### Nettlebee Ranch
 
-> [!readaloud] 
-> 
-> Nettlebee Ranch sprawls over a series of low, rolling hills where the forest has been cleared away for crops of oats and barley. The Nettlebees' prize livestock—sheep, ponies, and cattle—grazes in multitudes upon the hillside pastures. The ranch consists of a large two-story house and several low stalls and granaries. In the distance, an unnatural mound of earth rises over the ranch, its balding crown sparsely stubbled with the charred remnants of trees.
+> Nettlebee Ranch sprawls over a series of low, rolling hills where the forest has been cleared away for crops of oats and barley. The Nettlebees' prize livestock—sheep, ponies, and cattle—grazes in multitudes upon the hillside pastures. The ranch consists of a large two-story house and several low stalls and granaries. In the distance, an unnatural mound of earth rises over the ranch, its balding crown sparsely stubbled with the charred remts of trees.
 ^686
 
 Characters might investigate the ranch, the pasture, or the fields. They can also go to the barrow mound, which is described later in its own section.
@@ -1030,8 +955,6 @@ A few days before the characters arrived, Wiggan and Bertram set the barrow abla
 
 When the characters approach the barrow, they see the following:
 
-> [!readaloud] 
-> 
 > The barrow mound caps a high hill overlooking the surrounding countryside. The area around the barrow is still and charred. Burned trees reach like dark fingerbones from the bald earthen mound. It's noticeably chilly here.
 ^68e
 
@@ -1043,8 +966,6 @@ If they accompany the characters openly, Wiggan and Bertram cower at the edge of
 
 When the characters move to the barrow entrance, read the following:
 
-> [!readaloud] 
-> 
 > Tall monoliths line the earthen corridor that connects the barrow's entrance to the burial chamber far within. Motes of flame light the corridor and the chamber beyond. The air is cold and heavy with the scent of ash.
 ^690
 
@@ -1058,8 +979,6 @@ From the barrow entrance, the characters can see little within the burial chambe
 
 When the characters can see the burial chamber better, read the following:
 
-> [!readaloud] 
-> 
 > A crude fieldstone arch forms the entrance to the burial chamber. In three branching alcoves are three scorched altars—one of a tiger, another of an elk, and another of a bear. In the center of the chamber is a stone bier upon which rests a broken and blackened skeleton, its skull and limbs scattered about the chamber. The air of the sepulcher is deathly cold and scented with ash.
 ^692
 
@@ -1075,14 +994,11 @@ The burial hall is cold due to the presence of the chieftain's restless spirit. 
 
 After the characters have a minute to look around, read the following:
 
-> [!readaloud] 
-> 
 > The temperature drops further, and with a crackling sound, frost coats the entire chamber. Flames on the walls and in the hall go out, and a point of blue light appears over the bier and expands into a faintly humanoid form. The bones in the tomb, as well as antlers on the elk altar, stir then fly together into the light. In a flash, a massively built but very pale human male stands before you, his face darkly bearded, and his head crowned with the antlers. His milky eyes burn with blue flame briefly as he casts his gaze on you.
-> 
-> His voice is deep, resonant, and oddly accented. He says, "I return from a warrior's rest among the spirits to find my tomb burned and my bones desecrated. I know the desecraters are not among you, but who are you and why are you here?"
+> His voice is deep, resot, and oddly accented. He says, "I return from a warrior's rest among the spirits to find my tomb burned and my bones desecrated. I know the desecraters are not among you, but who are you and why are you here?"
 ^695
 
-The chieftain, Javor, was allowed to come here from the afterlife due to the overt and callous desecration of his tomb—a terrible insult among the Uthgardt. In this form, he is a [[revenant-xmm|revenant]].
+The chieftain, Javor, was allowed to come here from the afterlife due to the overt and callous desecration of his tomb—a terrible insult among the Uthgardt. In this form, he is a [[revet-xmm|revet]].
 
 Javor doesn't attack, and he is willing to briefly listen to the characters, whom he knows to be innocent of crimes against him. He doesn't know the name of the desecraters, but his Vengeful Tracker trait means he knows where to find Wiggan and Bertram. If asked the right question, he can tell the characters the desecraters are just outside the tomb.
 
@@ -1090,8 +1006,6 @@ Meanwhile, Wiggan uses a scroll of [[conjure-elemental-xphb|conjure elemental]].
 
 The elemental easily collapses the centuries-old entry tunnel. When it does, read the following text:
 
-> [!readaloud] 
-> 
 > Sunlight coming through the barrow's entry hall dims, as if a shadow has been cast on the entrance. Right afterward, a grinding of stone is followed by cascade of dirt and stone in the hall. A collapse!
 ^696
 
@@ -1103,16 +1017,10 @@ While the party fights the elemental, Javor works with supernatural fervor to cl
 
 When the characters emerge from the barrow, read the following text:
 
-> [!readaloud] 
-> 
 > A dozen barbarians surround Javor, forming a semicircle in front of the barrow. Two are mounted on horses. All but ignoring your arrival, they look on the returned chieftain with awe. One of the riders, her forehead marked with a tattoo of elk horns, dismounts.
-> 
 > She says, "My daughter's vision was true. This one is the ancient. He is one of us!"
-> 
 > She kneels before Javor, and her fellows follow her lead. "We come to see you avenged, ancient one," she says.
-> 
 > Javor nods with grim approval. He says, "You are in time for blood. The desecrater dwells there."
-> 
 > He points to the Nettlebee ranch in the valley below the barrow. Then, he begins to run in that direction.
 ^698
 
@@ -1134,11 +1042,11 @@ If the adventurers bargain for the safety of innocent Nettlebees, Javor can be s
 
 ### Final Confrontations
 
-The characters have many choices. They can do nothing, which allows the barbarians to loot and destroy the ranch and kill every Nettlebee. (The Uthgardt show no mercy.) If the party chooses to attack the Uthgardt before they arrive at the ranch, the adventurers must also battle the revenant. At the ranch, Javor focuses on finding and killing Wiggan and Bertram, giving the characters a better chance against the raiders. For their part, the Uthgardt, despite portentous visions, are unwilling to perish to serve Javor. If they suffer significant losses, including either berserker, they make a fighting retreat through the pastures to steal sheep and ponies.
+The characters have many choices. They can do nothing, which allows the barbarians to loot and destroy the ranch and kill every Nettlebee. (The Uthgardt show no mercy.) If the party chooses to attack the Uthgardt before they arrive at the ranch, the adventurers must also battle the revet. At the ranch, Javor focuses on finding and killing Wiggan and Bertram, giving the characters a better chance against the raiders. For their part, the Uthgardt, despite portentous visions, are unwilling to perish to serve Javor. If they suffer significant losses, including either berserker, they make a fighting retreat through the pastures to steal sheep and ponies.
 
 #### Nettlebees in Hiding
 
-Once the barbarians make it to the ranch, Javor bursts into the house's cellar. The Nettlebees, having seen the raiders on their way over the hills, hide there. The undead chief points to Wiggan and Bertram as the guilty ones. How the scene then plays out is up to you and the players, but halfling pluck and dark devotion make the wicked Nettlebees unlikely to back down easily. In fact, Wiggan tries to bribe the characters into defending Bertram and him "against these savages." He also uses his secrets to try to influence the characters, promising to tell them everything if saved. Javor might be influenced to stay his hand to allow Wiggan to tell his tale, but the revenant's reprieve is only temporary.
+Once the barbarians make it to the ranch, Javor bursts into the house's cellar. The Nettlebees, having seen the raiders on their way over the hills, hide there. The undead chief points to Wiggan and Bertram as the guilty ones. How the scene then plays out is up to you and the players, but halfling pluck and dark devotion make the wicked Nettlebees unlikely to back down easily. In fact, Wiggan tries to bribe the characters into defending Bertram and him "against these savages." He also uses his secrets to try to influence the characters, promising to tell them everything if saved. Javor might be influenced to stay his hand to allow Wiggan to tell his tale, but the revet's reprieve is only temporary.
 
 #### Wiggan's Gambit
 
@@ -1168,7 +1076,7 @@ The Nettlebee family is horrified and shocked by the brutal and supernatural bar
 
 #### Treasure
 
-The Nettlebee's wealth is hidden in an iron chest. Walled in with large, unmortared fieldstones that match the walls, the chest is hidden in a niche in the basement. Finding the niche requires a successful DC 10 Intelligence ([[skills#Investigation|Investigation]]) check. If the characters promised to return Javor's treasure, the revenant pulls the chest out and remains to identify his property. Once the characters return his treasure to the barrow, Javor disappears, leaving only his bones behind.
+The Nettlebee's wealth is hidden in an iron chest. Walled in with large, unmortared fieldstones that match the walls, the chest is hidden in a niche in the basement. Finding the niche requires a successful DC 10 Intelligence ([[skills#Investigation|Investigation]]) check. If the characters promised to return Javor's treasure, the revet pulls the chest out and remains to identify his property. Once the characters return his treasure to the barrow, Javor disappears, leaving only his bones behind.
 
 The chest is locked, but Wiggan has the key.
 
@@ -1202,7 +1110,6 @@ Recently, two unscrupulous treasure hunters, an oni named Obratu and a duergar n
 
 Reulek opted to seek the subterranean route, and he subsequently died in the Black Geode (see chapter 5, area G8). Obratu cut a deal with a dwarf named Grumink and his crew of renegade miners. The oni and its allies sneaked into the shrine, used deceit and magic to overcome the few worshipers, and began digging. They have gone unnoticed by other dwarves in the region.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/087-06-07.webp#gallery|Map 6.7: Shrine of the Tender Oath]]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/088-pam19_dancingwaters_dm-zf-0998-75774-1-010-0.webp#gallery|Player Version]]
 
@@ -1222,7 +1129,7 @@ After twenty steps, the stairs turn into a narrow path that follows switchbacks 
 
 Two-thirds of the way up, at a switchback turnaround, Grumink's miners constructed a trap. Its purpose is to make noise and warn the lookouts in area D2 above, but it's also dangerous. A character who has a passive Wisdom ([[skills#Perception|Perception]]) score of 15 or higher notices a steel tripwire fastened between boulders about two inches from the ground. A character who is looking for traps instead finds the tripwire with a successful DC 10 Wisdom ([[skills#Perception|Perception]]) check.
 
-If the tripwire is sprung, it tumbles one boulder along with a rush of smaller stones and gravel down the path. The first two creatures ascending the trail must make a DC 15 Dexterity saving throw. On a failure, the creature is knocked [[conditions#Prone|prone]] and takes 2 (`d4`) bludgeoning damage. A failure by 5 or more results in the creature being knocked from the pathway, sliding and falling to the next lower level of the path, and taking an additional 10 (`3d6`) bludgeoning damage.
+If the tripwire is sprung, it tumbles one boulder along with a rush of smaller stones and gravel down the path. The first two creatures ascending the trail must make a DC 15 Dexterity saving throw. On a failure, the creature is knocked [[conditions#prone|prone]] and takes 2 (`d4`) bludgeoning damage. A failure by 5 or more results in the creature being knocked from the pathway, sliding and falling to the next lower level of the path, and taking an additional 10 (`3d6`) bludgeoning damage.
 
 Cutting the tripwire triggers the trap. To disarm it, the wire must be disconnected, kept tight, and traced back to the wood panel it holds, shoring up the loose boulder and rocks. Then the boulder must be further supported until it can't fall due to lack of tension on the tripwire. Reworking the trap this way can be done in a few ways, but checks to do so are no worse than DC 10.
 
@@ -1230,8 +1137,6 @@ Cutting the tripwire triggers the trap. To disarm it, the wire must be disconnec
 
 As the characters reach the top of the switchbacks, read the following text:
 
-> [!readaloud] 
-> 
 > The path levels off and widens before an arch cut from the dark stone of the mountain. Flanking the arch are two statues of dwarves offering a greeting. Beyond the archway is an open courtyard with a statue on a raised platform in the center. All these features have been chiseled out of the side of the mountain rather than built from fitted stonework.
 ^6ac
 
@@ -1244,8 +1149,6 @@ In the latter case, the faint sound of hammering can be heard from somewhere bey
 
 ### D3. Courtyard
 
-> [!readaloud] 
-> 
 > This courtyard is open to the sky, and its walls have been carved with scenes of dwarves engaged in rituals, often in pairs, of a friendly or amorous nature. A twenty-foot-tall statue of a female dwarf in a gown stands atop a stone dais in the middle of the courtyard, her arms outstretched in a welcoming gesture, her face carved with a warm smile. Unlit stone braziers stand in each corner, while archways leading into dark interior spaces pierce the center of walls to the east, north, and west. Carved into the rock above the northern arch is a row of windows.
 ^6ae
 
@@ -1259,10 +1162,7 @@ The windows that run along the north wall, overlooking the courtyard, are 20 fee
 
 If the characters triggered the trap in area D1 or otherwise forecast their arrival to the guards in area D2, the renegade dwarves have time to prepare a ruse. Grumink sends six dwarf [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]] from area D7 to the courtyard, bolstered by the two dwarf [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]] from area D2. These eight dwarves don disguises to look like robed dwarves attending a private wedding ceremony. The [[oni-xmm|oni]], Obratu, is also present and uses Change Shape to appear as a female dwarf officiating the ceremony:
 
-> [!readaloud] 
-> 
 > East of the statue are several robed dwarves engaged in a ceremony. As they turn toward you, smiles light up their faces.
-> 
 > "Ah! More guests!" says the female dwarven priest officiating the ceremony. "Welcome to the wedding." The rest of the wedding party beckons for you to join in.
 ^6b2
 
@@ -1276,8 +1176,6 @@ Once combat erupts, the oni casts [[invisibility-xphb|invisibility]] on itself, 
 
 The passage west from the courtyard becomes a long hallway with a series of stone doors on either side. Read the following aloud the first time a character enters one of the rooms:
 
-> [!readaloud] 
-> 
 > A short hallway widens into a square room with a plain set of furniture. Each piece has been carved directly from the rock that makes up this place. A pair of beds line opposite walls, while a table with benches rests in the middle. Shelves and open cupboards are chiseled out of the walls, all of it smooth and perfectly formed. Cushions cover the benches, and mattresses rest on the beds. A variety of knickknacks sit here and there—everyday items common to someone's tidy and simple home.
 ^6b4
 
@@ -1287,15 +1185,11 @@ If the characters make a point of poking around, they spot a trace of blood or o
 
 The renegade dwarves dumped the bodies of everyone they slew in the southwestern cell. Even before the door is open, read the following aloud to the players:
 
-> [!readaloud] 
-> 
 > A faint but foul stench makes it obvious something rots beyond this door.
 ^6b7
 
 Once the characters enter, read the following text:
 
-> [!readaloud] 
-> 
 > The bodies of a dozen dwarves are stacked along the far wall. Judging from the smell and the decay, they died close to a tenday ago.
 ^6b8
 
@@ -1303,8 +1197,6 @@ Checking the bodies reveals that they are all robed dwarves, likely the inhabita
 
 ### D5. Chapel
 
-> [!readaloud] 
-> 
 > The short, arched passage leads into a chamber with a raised stone dais and altar at the far end. Above the altar is a carving of the same smiling, beckoning dwarven woman depicted in the courtyard statue. Two small braziers rest upon a white cloth draped over the altar, though neither is currently lit. An empty stone bowl sits in the altar's center. Cloth cushions are strewn haphazardly on the floor.
 ^6ba
 
@@ -1316,8 +1208,6 @@ If characters poke around the altar, a successful DC 10 Wisdom ([[skills#Percept
 
 ### D6. Hall of Vows
 
-> [!readaloud] 
-> 
 > Two unlit braziers flank the entrance just inside this wide hall. Detailed carvings of dwarves decorate both side walls. These images depict ceremonies, rituals of romance, love, and even passion. Two sets of stairs, side by side but spiraling away from each other, rise at the north end.
 ^6bd
 
@@ -1329,8 +1219,6 @@ Leaning against the corner behind the western brazier is a [[1-weapon-xdmg|+1 gr
 
 ### D7. Temple
 
-> [!readaloud] 
-> 
 > Passing through the curtain, you find yourself in a large ceremonial chamber. Steps rise toward a wide alcove in the north wall, where a dais and altar face forward. Along the opposite wall, light streams through a row of tall, narrow windows.
 ^6c0
 
@@ -1342,8 +1230,6 @@ Grumink and his team have been hard at work, trying to dig through the stone beh
 
 Read the following text aloud:
 
-> [!readaloud] 
-> 
 > A team of dwarves is hard at work, pounding on the stone behind the altar with stout tools. Watching them intently is another dwarf wearing black leather armor. Next to him, tapping its foot impatiently, is a blue-skinned ogre.
 ^6c2
 
@@ -1361,12 +1247,8 @@ Grumink carries fragmentary maps and partial journal entries that, when studied 
 
 Obratu carries a folded scrap of paper with the following message written on it, in Common:
 
-> [!note] 
-> 
 > Obratu,
-> 
 > There's too much sunlight up here. I'll try the route from the Underdark. Maybe we'll meet in the palace.
-> 
 > Reulek
 ^6c5
 
@@ -1388,7 +1270,6 @@ Nareen Dhest, a member of the Hand of Yartar operating in Triboar, pilfered the 
 
 The Hand of Yartar had no particular use for a fiery orb, so the thieves decided to sell it. Nareen put out the word that interested parties could submit their offers at the Wink and Kiss, a tavern in Yartar's market square. However, another Hand by the name of Haliyra Ravenfast found a different buyer: the Kraken Society, a sinister secret network with spies throughout the North. Haliyra cut a deal with society operatives to sell them the orb. They just need to eliminate Nareen and leave the Harpers, Zhentarim, and anyone else interested in the orb blaming one another for dealing in bad faith.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/091-06-08.webp#gallery|Map 6.8: Yartar]]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/092-pam17_murderinyartar_dm-zf-0998-75774-1-008-0.webp#gallery|Player Version]]
 
@@ -1403,8 +1284,6 @@ You have several good options to involve the characters in this side trek. Consi
 
 ### Arrival in Yartar
 
-> [!readaloud] 
-> 
 > Yartar is a small, walled city that stands on the east bank of the Surbrin River. Extensive docks line the city's riverfront. The city bustles with trade, and wagon trains constantly come and go along the Evermoor Way. West of the city, a wide bridge spans the river, leading to a walled citadel.
 ^6cb
 
@@ -1420,10 +1299,7 @@ The Wink and Kiss is a large tavern staffed by a dozen dancers, servers, and coo
 
 When the characters meet Nareen, read:
 
-> [!readaloud] 
-> 
 > A server leads you to a private room in the back of the Wink and Kiss. Inside is a dark-haired human female with icy blue eyes, dressed in traveler's garb. She is seated behind a large wooden table with empty chairs across from her. Two big human mercenaries in armor lean against the walls close by. She studies you for a moment, and smiles.
-> 
 > "The bidding starts at a fifteen hundred gold pieces," she says. "What's your offer?"
 ^6cd
 
@@ -1461,8 +1337,6 @@ After the encounter with Haliyra, Nareen wants out. She agrees to tell the chara
 
 When the characters successfully deal with Nareen and Haliyra, they learn where the [[devastation-orb-pota|devastation orb]] is hidden. The next step is to take possession of the orb, but Haliyra's buyers are already on the scene.
 
-> [!readaloud] 
-> 
 > The overgrown cemetery sprawls beneath the eastern wall of the city. Gnarled trees and crumbling mausoleums break line of sight all around. Three humans are gathered around the door of the crypt you're looking for, along with someone—or something—that stands almost eight feet tall and hides itself under a huge, sodden cloak.
 ^6d4
 
@@ -1500,10 +1374,7 @@ This adventure is best used late in the campaign for two reasons. First, the cha
 
 The characters receive a [[sending-xphb|sending]] spell, telling them to meet a faction agent at a local inn. When they do, read the following text:
 
-> [!readaloud] 
-> 
 > Just as the spell said, your contact—a hard-looking woman—is waiting at a back table in the inn. After pleasantries are exchanged, she unfurls a map of the Dessarin Valley.
-> 
 > "A powerful shadow dragon called the Dark Lady lairs underneath Rundreth Manor, right here." She points to a spot on the map. "One of our agents saw robed cultists leaving the manor. We've never seen anyone leave Rundreth Manor alive, so that could mean our enemies have a shadow dragon on their side." Her eyes narrow. "Your goal is to shatter this alliance any way you can. I recommend negotiation."
 ^6db
 
@@ -1513,22 +1384,17 @@ If the characters request payment, the contact is authorized to negotiate on her
 
 ### The Ruins
 
-> [!readaloud] 
-> 
 > What's left of Rundreth Manor stands on a small, steep-sided wooded hill just east of the Long Road, with a carriage drive opening off the caravan road just south of the hill and climbing its southern side to curve around and approach the back of the manor house from the east.
-> 
-> On the surface where the manor once stood are heaps of fallen stone blocks and the tumbled lines of walls, which form a T-shaped outline with two rectangular wings thrusting north and south out of an enormous east-west rectangular room. This room has three-floor-high remnants of walls in two places, clinging to soaring stone chimneys. It looks like it was once a truly impressive hall.
+> On the surface where the manor once stood are heaps of fallen stone blocks and the tumbled lines of walls, which form a T-shaped outline with two rectangular wings thrusting north and south out of an enormous east-west rectangular room. This room has three-floor-high remts of walls in two places, clinging to soaring stone chimneys. It looks like it was once a truly impressive hall.
 ^6dd
 
 The two wings of the manor are fallen stones and forest now. Bits of flagstone floor can be seen amid the bushes and trees growing in the feast hall. With a little exploring, the characters find a hole that leads to a stairway down into the earth.
 
-The flagstones within 10 feet of the top of the stair are laid loosely atop flimsy boards concealed with dirt. They collapse under 100 or more pounds. A character searching for traps can spot these loose stones with a successful DC 15 Intelligence ([[skills#Investigation|Investigation]]) check. A successful check also reveals the lip at the end of the loose flagstones that forms the top step of the stair is solid. If the trap triggers, those in its area can attempt a DC 15 Dexterity saving throw to catch the edge. On a failed save, the character falls 40 feet to the dirt floor of the pit, landing [[conditions#Prone|prone]] in the undercroft.
+The flagstones within 10 feet of the top of the stair are laid loosely atop flimsy boards concealed with dirt. They collapse under 100 or more pounds. A character searching for traps can spot these loose stones with a successful DC 15 Intelligence ([[skills#Investigation|Investigation]]) check. A successful check also reveals the lip at the end of the loose flagstones that forms the top step of the stair is solid. If the trap triggers, those in its area can attempt a DC 15 Dexterity saving throw to catch the edge. On a failed save, the character falls 40 feet to the dirt floor of the pit, landing [[conditions#prone|prone]] in the undercroft.
 
 ### Undercroft
 
-> [!readaloud] 
-> 
-> Gloom pervades a chamber seventy feet wide and a hundred feet long. The room is littered with the rotting remnants of long trestle tables fitted with sinks and littered with rusted-out metal platters, carry-bowls, and tureens. Its ceiling is a magnificent series of vaulted arches that crisscross to hold up a stone block ceiling, pierced in many places by the hanging roots of trees growing above.
+> Gloom pervades a chamber seventy feet wide and a hundred feet long. The room is littered with the rotting remts of long trestle tables fitted with sinks and littered with rusted-out metal platters, carry-bowls, and tureens. Its ceiling is a magnificent series of vaulted arches that crisscross to hold up a stone block ceiling, pierced in many places by the hanging roots of trees growing above.
 ^6df
 
 The air shimmers, and a female drow appears in the center of the chamber.
@@ -1563,8 +1429,6 @@ The Dark Lady wants the characters to attack the elemental cults and leave her a
 
 The Dark Lady converses with the characters as long as she's interested in the information they're providing. When she concludes that the characters have nothing further to offer, the illusion of the drow disappears.
 
-> [!readaloud] 
-> 
 > A new but familiar voice, an octave lower and far more menacing than the drow's, echoes through the chamber, saying, "Now depart, and never return! You are no longer useful to me. No longer useful alive, at any rate."
 ^6e1
 
@@ -1592,7 +1456,6 @@ Gargosh's greedy cousin, Drannin Splitshield, is also interested in finding the 
 
 Gargosh's other problem is the Harpers. That faction feels that the legendary axe should remain exactly where it is, hidden away and undisturbed, so that its power will not fall into the wrong hands. They have taken steps to prevent treasure hunters from getting too close, keeping vigilant agents in the vicinity of the Halls in order to head off any serious digging.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/095-06-09.webp#gallery|Map 6.9: Halls of the Hunting Axe]]
 > ![[/03_Mechanics/CLI/adventures/princes-of-the-apocalypse/img/096-pam25_huntingaxe-zf-0998-75774-1-012-0.webp#gallery|Player Version]]
 
@@ -1602,8 +1465,6 @@ This adventure is designed for a party of 11th-level characters. Yartar is an id
 
 Gargosh approaches the characters and pleads with them for their help. If one of the player characters is a member of the Lords' Alliance, someone from the faction introduces Gargosh to them. The Lords' Alliance has connections to Mithral Hall and would like to do the dwarves a favor by helping Gargosh find the axe.
 
-> [!readaloud] 
-> 
 > "It is very kind of you to hear my tale," Gargosh says. "I am looking for a great weapon, a legendary axe wielded by my ancestors, and I want you to help me find it. I would try and find it myself, as is proper to bring honor to my family and clan, but I simply cannot hope to succeed alone. The risks are more than I could overcome with my wits and talents. There, I said it. I'm just not good enough to try it by myself.
 ^6e6
 
@@ -1619,8 +1480,6 @@ Between the time the characters first meet with Gargosh and when they are to rec
 
 A [[doppelganger-xmm|doppelganger]] in the guise of Gargosh meets the characters at the appointed hour:
 
-> [!readaloud] 
-> 
 > When you spot the young dwarf at the agreed-upon time and place, he seems beside himself with consternation. "Unbelievable!" He fumes. "Someone stole my diary! Right out from where I had hidden it last night! I swear, you can't trust anyone these days!" He peers at you as if considering whether you might have had something to do with it, then dismisses the thought. "Doesn't matter," he says. "I have all my notes memorized!"
 ^6e9
 
@@ -1649,15 +1508,11 @@ Drannin and his crew arrive in Beliard one day ahead of Gargosh and the characte
 
 See chapter 2 for more information on the Stone Bridge. When the characters reach the middle of the bridge, read the following text:
 
-> [!readaloud] 
-> 
 > You see half a dozen figures on the bridge ahead—five dwarves in leather armor and a human in wizard's robes. They appear to be sitting on the edge of the bridge, facing north and enjoying the view. When they see you, they stand, move away from the edge of the bridge, and draw their weapons. The robed fellow pulls out a wand.
 ^6ee
 
 The figures on the bridge include five [[/03_Mechanics/CLI/bestiary/humanoid/tough-xmm|thugs]] (male shield dwarves) and a mercenary [[/03_Mechanics/CLI/bestiary/humanoid/mage-xmm|mage]] named [[/03_Mechanics/CLI/bestiary/npc/cavil-zaltobar-pota|Cavil Zaltobar]] (male Tethyrian human). Cavil is armed with a [[1-wand-of-the-war-mage-xdmg|+1 wand of the war mage]]. If the characters don't attack immediately, Cavil tosses a few words at them before ordering the thugs to attack:
 
-> [!readaloud] 
-> 
 > "Well met!" says the wizard. "Finally caught up with us, eh? Your adventure ends here, I'm afraid."
 ^6ef
 
@@ -1669,8 +1524,6 @@ The doppelganger posing as Gargosh doesn't take part in the fight, remaining on 
 
 If the characters take prisoners, they can interrogate their captives and learn that they were hired by a dwarf named Drannin. "Gargosh" feigns amazement:
 
-> [!readaloud] 
-> 
 > "My cousin Drannin? That cad! He stole my diary because he wants the axe and all the glory for himself! We need to make haste and catch up with him!"
 ^6f2
 
@@ -1684,8 +1537,6 @@ When the characters finally reach the ruined Halls of the Hunting Axe, "Gargosh"
 
 ### X1. Owlbear Greetings
 
-> [!readaloud] 
-> 
 > You find a road of broken stone that meanders through hills, stands of trees, and ancient ruins. The road passes under the occasional stone arch as it weaves northward. One such arch stands ahead of you, and perched on a rocky escarpment to the left of the arch is an owlbear. It shrieks at you but doesn't leave its perch.
 ^6f5
 
@@ -1699,8 +1550,6 @@ This ancient road merges with a ravine that has a small stream flowing at the bo
 
 The road passes through a free-standing arch—an example of how some of the Besilmer stonework has withstood the ravages of time.
 
-> [!readaloud] 
-> 
 > This grand arch is half-demolished, but what remains suggests that it was once a great, blocky edifice carved with runes, most of which are too weatherworn to be deciphered. Beyond the arch stands the crumbling shell of a once impressive hall and, to its right, the lower half of a monolithic statue.
 ^6f7
 
@@ -1708,8 +1557,6 @@ The Dethek runes on the arch once told visitors that they were standing amid the
 
 ### X3. Watchtower
 
-> [!readaloud] 
-> 
 > This massive structure was once a building topped by a great statue—a dwarf standing proudly with one arm outstretched, brandishing his greataxe. The head, shoulder, and arm of the statue have crumbled down and lie in a pile of rubble around the base of the building now; only the legs, waist, outstretched arm, and weapon remain.
 ^6f9
 
@@ -1717,15 +1564,11 @@ A stairway inside the building rises through the statue, and though it was origi
 
 ### X4. Ancient Hall
 
-> [!readaloud] 
-> 
-> Though mostly tumbled down now, this hall must once have been a shining example of Besilmer's architectural mastery. The jagged remnants of thick, soaring walls with high, narrow stained-glass windows can still be seen, and some of the collapsed great dome still sits on top.
+> Though mostly tumbled down now, this hall must once have been a shining example of Besilmer's architectural mastery. The jagged remts of thick, soaring walls with high, narrow stained-glass windows can still be seen, and some of the collapsed great dome still sits on top.
 ^6fb
 
 The four entrance arches (in the center of each wall) are more or less intact, though the doors themselves are smashed or fallen. Set into each arch is a narrow doorway leading to an equally narrow spiral staircase that descends into the earth. Each staircase leads to a small underground chamber containing dwarven machinery. When the characters first discover one of these four rooms, read the following aloud:
 
-> [!readaloud] 
-> 
 > This dark room contains a large stone flywheel connected to a series of gears. More of the machinery must be hidden behind walls or beneath the floor. Carved into the ceiling is a symbol.
 ^6fc
 
@@ -1751,8 +1594,6 @@ The doppelganger impersonating Gargosh can't figure any of this out on his own, 
 
 ### X5. Cistern
 
-> [!readaloud] 
-> 
 > Water, green with algae, partially fills a fifty-foot-wide cistern dug into the earth. The water's surface sits thirty feet below ground level. The remains of an aqueduct that come from a point higher up the bluff are still visible, but most of that has fallen into ruin.
 ^6fe
 
@@ -1762,8 +1603,6 @@ South of the cistern are some old ruins perched on the edge of the bluff. Hidden
 
 ### X6. Amphitheater
 
-> [!readaloud] 
-> 
 > A large, semicircular amphitheater built into the side of the bluff takes advantage of the natural rise and the acoustics. It is still structurally sound, though a few weeds, shrubs, and small trees grow up in cracks between the stones.
 ^700
 
@@ -1771,8 +1610,6 @@ South of the cistern are some old ruins perched on the edge of the bluff. Hidden
 
 ### X7. Entrance to the Crypts
 
-> [!readaloud] 
-> 
 > This structure isn't so much a building as it is a facade built into a bluff. Two alcoves flank an opening, and life-sized statues carved from the stone stand within each alcove: a pair of dwarves in full regalia, perhaps as an honor guard. The statues are badly weathered and have suffered damage from vandals and treasure hunters.
 ^702
 
@@ -1780,10 +1617,7 @@ The opening leads into a hallway that extends back about 60 feet before coming t
 
 ### X8. Hall of the Fallen
 
-> [!readaloud] 
-> 
 > The stairs open at last into a great hall filled with massive square columns twenty feet thick that rise to a ceiling thirty feet overhead. Stone braziers stand at the intersection of each pathway between the columns. Each column serves as a mausoleum, with an alcove carved into each side, offset so that the alcove takes up only the right-hand half of the facing. The alcoves once held stone effigies of the interred dead. Many of the tombs have been smashed open, revealing the bones of the dead inside. The crumbled and ruined stonework of the broken effigies lies smashed on the floor.
-> 
 > "Methinks we're in the right place," Gargosh says plainly, strolling among the crypts. "Somewhere in here is the secret entrance to King Flametongue's tomb. We just have to find it!"
 ^704
 
@@ -1795,8 +1629,6 @@ Each column holds four crypts, and each crypt is hidden behind an alcove that ei
 
 This particular crypt looks unremarkable among the others, but it reveals a secret.
 
-> [!readaloud] 
-> 
 > The effigy on this tomb depicts a dwarven king in full regalia clutching a stone scepter with one hand and pointing toward the floor with the other.
 ^706
 
@@ -1810,8 +1642,6 @@ The stone slabs are actually the topmost steps of a secret staircase that descen
 
 If Gargosh is present when the characters open the secret staircase, read the following:
 
-> [!readaloud] 
-> 
 > Gargosh stares in amazement. "We found it," he whispers. "The axe will soon be mine at last! See, I didn't need the stupid diary! Let's go!"
 ^707
 
@@ -1819,21 +1649,14 @@ If Gargosh is present when the characters open the secret staircase, read the fo
 
 The characters reach this area by descending the stairs from area X9.
 
-> [!readaloud] 
-> 
 > The wide stairs open into an odd-shaped room. Set into the wall next to the stairs is a stone lever in the "down" position. Braziers similar to the ones above burn with mysterious blue flames that give off no heat. In alcoves to either side, large dwarven statues stand at attention, saluting the beautifully engraved marble sarcophagus that sits alone against the far wall, which is carved with runes.
 ^709
 
 Any character who reads Dwarvish can translate the Dethek runes on the wall:
 
-> [!note] 
-> 
 > Here lies His Noble Majesty
-> 
 > King Torhild Flametongue.
-> 
 > He raised a kingdom in the sun,
-> 
 > Defending it with his dying breath.
 ^70a
 
@@ -1859,8 +1682,6 @@ Once the characters defeat the golems, [[/03_Mechanics/CLI/bestiary/npc/drannin-
 
 Once Drannin and his retinue come into view, read the following aloud:
 
-> [!readaloud] 
-> 
 > A wall of dwarves wearing splint armor and brandishing axes marches into view. Behind them, a handsome dwarf encased in plate armor claps while standing in the shadow of a 9-foot-tall construct. "Well done, my friends," says the clapping dwarf. "Well done. You found ol' Flametongue's tomb. I had my doubts. I can't wait to see the expression on poor Gargosh's face when he discovers that I, [[/03_Mechanics/CLI/bestiary/npc/drannin-splithelm-pota|Drannin Splithelm]], retrieved [[orcsplitter-pota|Orcsplitter]], not him!" The dwarf is beaming, but his smile fades quickly. "So, I guess this is farewell."
 ^710
 
@@ -1874,8 +1695,6 @@ Drannin wears the control amulet keyed to the shield guardian, as well as a [[ri
 
 ### X11. The True Tomb of King Torhild Flametongue
 
-> [!readaloud] 
-> 
 > This simple chamber has a slightly raised, circular marble dais in its center. Carved on the stone circle is an effigy of a dwarf lying in state, clutching a greataxe to his breast. An inscription is carved in runes around the perimeter of the dais.
 ^713
 
@@ -1911,20 +1730,28 @@ If the characters emerge from the dwarven crypts with [[orcsplitter-pota|Orcspli
 
 Legends speak of 06 chapter 6 alarums and excursions as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 06 chapter 6 alarums and excursions.
 
-## Adventure Hooks
-
-- A rumor ties 06 chapter 6 alarums and excursions to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 06 chapter 6 alarums and excursions to avert a public scandal.
-- A map overlay reveals a hidden approach to 06 chapter 6 alarums and excursions active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A letter reveals a betrayal about a local noble
+- Strange disappearances suggest a curse
+- Strange sightings suggest a conspiracy
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

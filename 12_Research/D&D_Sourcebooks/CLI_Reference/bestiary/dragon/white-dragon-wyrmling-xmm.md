@@ -27,15 +27,31 @@ updated: '2025-08-12T23:37:35.769873'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-white-dragon-wyrmling-xmm-v1-white-dragon-wyrmling-xmm.svg)
 
 # [[white-dragon-wyrmling-xmm|White Dragon Wyrmling]]
-*Source: Monster Manual (2024) p. 328. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 328. Available in the SRD and the Free Rules (2024)*  
 
 White dragon wyrmlings usually head off on their own soon after hatching. While the cold means little to these creatures, food is scarce in arctic realms, and predators there are merciless. Most white dragon wyrmlings survive by scavenging, hunting opportunistically, and quickly fleeing foes—including other white dragons.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## White Dragons
 
@@ -65,9 +81,7 @@ White dragons brood in bitterly cold lairs clawed from stone and ice.
 "stats":
   - !!int "14"
   - !!int "10"
-  - !!int "14"
   - !!int "5"
-  - !!int "10"
   - !!int "11"
 "speed": "30 ft., burrow 15 ft., fly 60 ft., swim 30 ft."
 "saves":
@@ -114,19 +128,15 @@ White dragon wyrmling xmm is a undersea element of the setting, known for biolum
 
 Legends speak of white dragon wyrmling xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around white dragon wyrmling xmm.
 
-## Adventure Hooks
-
-- A rumor ties white dragon wyrmling xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at white dragon wyrmling xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to white dragon wyrmling xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

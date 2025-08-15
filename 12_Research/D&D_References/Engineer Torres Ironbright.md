@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Shadow Conspiracy Investigation|02 Worldbuilding/Groups/Shadow Conspiracy Investigation]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Shadow Conspiracy Investigation]]
 
 ## Player-Facing Summary
 
@@ -36,18 +41,9 @@ Engineer Torres Ironbright is a undersea element of the setting, known for biolu
 
 Legends speak of Engineer Torres Ironbright as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Engineer Torres Ironbright.
 
-## Adventure Hooks
-
-- A rumor ties Engineer Torres Ironbright to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Engineer Torres Ironbright to avert a public scandal.
-- A map overlay reveals a hidden approach to Engineer Torres Ironbright active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

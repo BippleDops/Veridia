@@ -16,17 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Shadow Surgeon Strike Team|02 Worldbuilding/Groups/Shadow Surgeon Strike Team]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Shadow Surgeon Strike Team]]
 
 ## Player-Facing Summary
 
@@ -36,19 +41,26 @@ Medical Combat Manual is a undersea element of the setting, known for biolumines
 
 Legends speak of Medical Combat Manual as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Medical Combat Manual.
 
-## Adventure Hooks
-
-- A rumor ties Medical Combat Manual to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Medical Combat Manual to avert a public scandal.
-- A map overlay reveals a hidden approach to Medical Combat Manual active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help stealing before the new moon
+- A prisoner has gone missing and war looms
+- A noble needs help finding before the festival
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

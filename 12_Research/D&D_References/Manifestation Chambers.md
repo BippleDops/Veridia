@@ -17,13 +17,22 @@ updated: '2025-08-13T01:18:35.464070+00:00'
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
+- Add cross-references to related notes
 
-## Overview
+### Enhancement Improvements
 
-TODO
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -33,28 +42,23 @@ Manifestation Chambers is a undersea element of the setting, known for biolumine
 
 Legends speak of Manifestation Chambers as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Manifestation Chambers.
 
-## Adventure Hooks
-
-- A rumor ties Manifestation Chambers to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Manifestation Chambers to avert a public scandal.
-- A map overlay reveals a hidden approach to Manifestation Chambers active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-## Cross-References
-
-- [[The Parliament of Nobody|02 Worldbuilding/Groups/The Parliament Of Nobody]]
-
-
-## Connections
-
-- [[The Parliament of Nobody]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## Plot Hooks
+
+- Someone is hunting an heir for money
+- A prisoner has gone missing and truth emerges
+- A stranger needs help delivering before dawn
+- A stranger needs help finding before the festival

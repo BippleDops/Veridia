@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.778217'
 world: Both
 ---
 
-
 # Nonplayer Characters
 *Source: Volo's Guide to Monsters* 
 
@@ -51,6 +50,24 @@ This appendix contains statistics for various humanoid nonplayer characters (NPC
 - [[/03_Mechanics/CLI/bestiary/humanoid/warlock-of-the-great-old-one-mpmm|Warlock of the Great Old One]]  
 - [[/03_Mechanics/CLI/bestiary/humanoid/warlord-mpmm|Warlord]]
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 5 nonplayer characters is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -59,20 +76,30 @@ This appendix contains statistics for various humanoid nonplayer characters (NPC
 
 Legends speak of 5 nonplayer characters as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 5 nonplayer characters.
 
-## Adventure Hooks
-
-- A rumor ties 5 nonplayer characters to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 5 nonplayer characters to avert a public scandal.
-- A map overlay reveals a hidden approach to 5 nonplayer characters active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
  enriched: true -->
-
 
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

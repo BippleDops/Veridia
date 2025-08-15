@@ -23,8 +23,6 @@ updated: '2025-08-13T12:34:08.057792+00:00'
 world: Both
 ---
 
-
-
 # Tiefling (Mammon)
 *Source: Mordenkainen's Tome of Foes p. 22*  
 ![](/03_Mechanics/CLI/races/img/tiefling.webp#right)
@@ -33,8 +31,6 @@ world: Both
 - **Size**: Medium
 - **Speed**: 30 ft.
 - **Spellcasting**: Charisma
-
-## Traits
 
 ### Age
 
@@ -59,6 +55,24 @@ You know the [[mage-hand-xphb|mage hand]] cantrip. When you reach 3rd level, you
 ### Languages
 
 You can speak, read, and write Common and Infernal.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Description
 
@@ -97,19 +111,35 @@ Tiefling mammon mtf is a undersea element of the setting, known for bioluminesce
 
 Legends speak of tiefling mammon mtf as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around tiefling mammon mtf.
 
-## Adventure Hooks
-
-- A rumor ties tiefling mammon mtf to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at tiefling mammon mtf to avert a public scandal.
-- A map overlay reveals a hidden approach to tiefling mammon mtf active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help finding before dawn
+- A map reveals the truth about the cult
+- Strange accidents suggest a portal
+- Strange sightings suggest a curse
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

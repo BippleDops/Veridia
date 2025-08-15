@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.382289+00:00'
 world: Both
 ---
 
-
-
 # Implements - Uncommon
 *Source: Dungeon Master's Guide (2024) p. 329* 
 
@@ -78,6 +76,24 @@ world: Both
 | 99–00 | [[wand-of-secrets-xdmg|Wand of Secrets]] |
 ^implements-uncommon
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Implements uncommon xdmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -86,19 +102,32 @@ Implements uncommon xdmg is a undersea element of the setting, known for biolumi
 
 Legends speak of implements uncommon xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around implements uncommon xdmg.
 
-## Adventure Hooks
-
-- A rumor ties implements uncommon xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at implements uncommon xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to implements uncommon xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Hidden Alliance - Manipulate succession
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and chaos spreads
+- An heirloom has gone missing and chaos spreads
+- Someone is hunting a witness for power
+- A stranger needs help stealing before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

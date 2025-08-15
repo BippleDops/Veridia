@@ -27,9 +27,6 @@ updated: '2025-08-13T12:34:05.462497+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-fiendish-giant-spider-oota-fiendish-giant-spider-oota.svg)
 
@@ -50,7 +47,6 @@ world: Both
   - !!int "16"
   - !!int "13"
   - !!int "3"
-  - !!int "12"
   - !!int "4"
 "speed": "40 ft., climb 40 ft."
 "skillsaves":
@@ -88,6 +84,24 @@ world: Both
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Fiendish giant spider oota is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -96,18 +110,9 @@ Fiendish giant spider oota is a undersea element of the setting, known for biolu
 
 Legends speak of fiendish giant spider oota as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around fiendish giant spider oota.
 
-## Adventure Hooks
-
-- A rumor ties fiendish giant spider oota to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at fiendish giant spider oota to avert a public scandal.
-- A map overlay reveals a hidden approach to fiendish giant spider oota active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

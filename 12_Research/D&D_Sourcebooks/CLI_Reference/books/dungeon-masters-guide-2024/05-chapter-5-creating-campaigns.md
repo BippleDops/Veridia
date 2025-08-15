@@ -21,13 +21,30 @@ updated: '2025-08-12T23:37:34.789891'
 world: Both
 ---
 
-
 # Chapter 5: Creating Campaigns
 *Source: Dungeon Master's Guide (2024), p. 127* 
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/060-04-001-nautiloid.webp#center "The arrival of a mind flayer nautiloid means trouble for any world—and adventure for that world's heroes!"|The arrival of a mind flay...]]
+!]
 
 If encounters are the building blocks of a D&D adventure, then adventures are the building blocks of a D&D campaign, for a campaign is what you get when you string two or more adventures together. A campaign setting is the world in which those adventures take place—both a backdrop for your adventures and a hotbed of conflicts and personalities that can inspire and drive adventures.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Step-by-Step Campaigns
 
@@ -189,8 +206,6 @@ In this flavor of campaign, magic-users often symbolize the decadence and corrup
 
 An epic fantasy campaign emphasizes the conflict between good and evil, with the adventurers on the side of good. These heroic characters are driven by a higher purpose than selfish gain or ambition. Characters might struggle with moral quandaries, fighting the evil tendencies within themselves as well as the evil that threatens the world. And the stories of these campaigns often include an element of romance: tragic affairs between star-crossed lovers, passion that transcends even death, and chaste adoration between knights and nobles.
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/064-04-005-dragon-turtle-fortress.webp#center "Fortresses on the backs of dragon turtles rise from the depths, heralding the return of a long-lost dynasty"|Fortresses on the backs of...]]
-
 ##### Epic Fantasy Conflicts
 
 Conflicts like these highlight the themes of an epic fantasy campaign:
@@ -248,8 +263,6 @@ A mystery might set the stage for the whole campaign. The characters might uncov
 - **Criminal Syndicate.** A many-headed criminal syndicate seeks economic and political power. The syndicate has spies everywhere, including among the adventurers' families or friends.  
 - **Shape-Shifting Assassins.** A secret association of doppelgangers or other shape-shifters slowly assassinates prominent figures one by one.  
 - **To Catch a Thief.** An extraordinary thief steals only the most valuable jewelry and works of art. The characters might become a target of the thief when they acquire a priceless treasure.  
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/065-04-006-murlynd.webp#center "The bold adventurer Murlynd has visited many worlds and has a fondness for six-shooters and talking clocks"|The bold adventurer Murlyn...]]
 
 #### Swashbuckling
 
@@ -389,8 +402,6 @@ Remember, you'll always know more about your campaign world than the players do.
 
 Begin your campaign in a location you can detail, such as a village, a neighborhood in a larger city, an outpost, or a roadside tavern. Be prepared to give players enough information about that location to help them figure out what ties, if any, their characters have to it. Once you have this campaign hub fleshed out, create one or two local attractions that might serve as adventure locations, such as a haunted house on the outskirts of town or a dungeon complex tucked in the nearby hills.
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/066-04-007-time-of-sorrow.webp#center "A time of sorrow can bring people together and even launch an adventuring party"|A time of sorrow can bring...]]
-
 If you're using a published campaign setting, pick any location in that setting and develop it as you like. A published setting or adventure might give you all the details you need. "The Free City of Greyhawk", described later in this chapter, is an ideal starting location and illustrates the kinds of things to consider as you detail a starting location.
 
 If you're building your own setting, start small by detailing only this starting area. The rest of your setting can remain undeveloped for now. Don't spend too much time fleshing out the geopolitical landscape of your world or locations the adventurers aren't likely to visit right away; save those fun tasks for when you and your players have a better sense of where the campaign is headed.
@@ -405,7 +416,7 @@ If you're creating your own adventure for the start of your campaign, refer to t
 
 A D&D campaign is like a garden. Each new adventure plants new seeds in the garden, which requires regular tending lest it run wild. Over time, your campaign will grow and flourish in ways you expected and in ways that will surprise you. You might need to weed out elements that aren't resonating with your players while planting new elements to tantalize them.
 
-Most D&D campaigns grow organically, rather than having all their elements set in stone from the get-go. From time to time, the characters' decisions will require you to improvise and create new campaign elements on the fly. For example, a new location might need to be developed to address the needs of the unfolding story, or certain NPCs might need fleshing out at a moment's notice. Other parts of this book, such as the ""Nonplayer Characters"" and ""Settlements"" sections in "chapter 3", can help you expand your campaign quickly.
+Most D&D campaigns grow organically, rather than having all their elements set in stone from the get-go. From time to time, the characters' decisions will require you to improvise and create new campaign elements on the fly. For example, a new location might need  to address the needs of the unfolding story, or certain NPCs might need fleshing out at a moment's notice. Other parts of this book, such as the ""Nonplayer Characters"" and ""Settlements"" sections in "chapter 3", can help you expand your campaign quickly.
 
 ### Episodes and Serials
 
@@ -464,8 +475,6 @@ You can use player input whenever you want to pinpoint something meaningful to t
 - From the animate mass of murderous dolls scrambles a figure that reminds you of your favorite childhood toy. What is it?  
 
 Questions such as these don't need to draw on warm memories. Having players describe what unsettles or disgusts their characters can make menacing encounters more impactful as well. In any case, take note of interesting character details that your players share, and record them in your campaign journal, as these details might be useful inspiration for later adventures.
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/067-04-008-dragonlance-inn.webp#center "In the Dragonlance setting, Tanis and Tika call their local inn home: a place to see familiar faces like Fizban the Fabulous"|In the Dragonlance setting...]]
 
 #### Acknowledge the Incredible
 
@@ -599,8 +608,6 @@ The conflict between adventurers and chromatic dragons might follow this broad o
 - **Levels 11–16.** It eventually becomes clear that the behavior of the adult dragons the characters face isn't normal. The characters might get involved in one dragon's schemes to undermine or overthrow another, or the characters might hear whispers of the dragons' dream of liberating Tiamat.  
 - **Levels 17–20.** The conflict reaches its world-shattering conclusion, with ancient dragons threatening nations and clashing with each other in devastating battles. The campaign might end with Tiamat herself appearing in the Flanaess—perhaps emerging from the Riftcanyon (see ""Mysteries of Greyhawk"" in this chapter) or from the depths of the Nyr Dyv.  
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/068-05-002-tiamat-encounter.webp#center "Tiamat herself brings a campaign to a dramatic close"|Tiamat herself brings a ca...]]
-
 ##### Elemental Evil
 
 "Elemental Evil" is the name given to a host of destructive, extraplanar entities—demon lords, evil elemental princes, and elder gods—who ravaged the world of Oerth long ago. Many of these entities are now trapped in dungeons, with cults and monsters seeking to free and serve them. Adventurers are the only ones equipped to keep these malign entities from escaping their subterranean prisons.
@@ -653,7 +660,6 @@ The standard year is 360 days long and consists of twelve twenty-eight-day month
 ![[months-and-festivals-days-of-the-week-xdmg|Months and Festivals; Days of the Week]]
 
 > [!note] Your World's Calendar
-> 
 > What does your campaign's calendar look like? The more your campaign calendar resembles the one that's familiar to you and your players, the easier it will be to remember and use. Familiar names for months and days of the week lend your campaign a wonderful simplicity that many players will appreciate. A calendar that uses ten-day weeks or names such as "Moonday" and "Coldeven" is harder for players to internalize but reminds them they're in a fantasy world. The Greyhawk calendar has twelve months and seven-day weeks like the Gregorian calendar, but gives unique names to months and days and introduces festivals that fall outside the calendar's months, giving it a fantastical feel.
 ^your-worlds-calendar
 
@@ -678,11 +684,8 @@ The knights of the Order of the Hart were organized to preserve the freedom of t
 The Scarlet Order is a monastic order of Suloise militarists whose spies and assassins have infiltrated many courts and castles throughout the Flanaess, ready to strike. The leader of the order is a seemingly immortal being known as the Father of Obedience, Korenth Zan. He is rumored to be a Suloise monk who walked the lands of Oerik long before the Rain of Colorless Fire destroyed the Suloise Empire. Others claim Korenth is a red dragon—a former consort of "Tiamat" who became trapped in human form. Whatever the true story, the Father of Obedience is revered by all who pledge their lives to the Scarlet Order. His goals—and, by extension, the order's goals—are shrouded in mystery and could one day tilt the balance of power across the whole of Eastern Oerik.
 
 > [!note] Adventurers and Organizations
-> 
 > Factions and organizations aimed at player characters can connect adventurers to your world, providing ties to key NPCs and a clear agenda beyond individual gain. In the same way, villainous organizations create an ongoing sense of menace beyond the threat of solitary foes.
-> 
 > Having different characters tied to different factions can create interesting situations at the gaming table, as long as those factions have similar goals and don't work in opposition to one another all the time. Adventurers representing different factions might have competing interests or priorities while they pursue the same goals.
-> 
 > Adventurer organizations are also a great source of special rewards beyond Experience Points and treasure. Increased standing in an organization might come with concrete benefits such as access to an organization's information, equipment, magic, and other resources. See ""Renown"" in "chapter 3" for rules you can use to track characters' standing in an organization.
 ^adventurers-and-organizations
 
@@ -748,8 +751,6 @@ Throughout this section, if a creature's name appears in **bold** type, you'll f
 
 #### Start Here
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/072-05-004-white-plume-mountain.webp#center "White Plume Mountain is a natural wonder—and a haunt of evil"|White Plume Mountain is a ...]]
-
 The City of Greyhawk is a great starting point for a D&D campaign for many reasons, as discussed in the sections that follow.
 
 ##### Adventure Hooks
@@ -799,8 +800,6 @@ As a home base for characters, Greyhawk can serve as a place to live, train, and
 ##### Urban Adventures
 
 A city isn't just a place to spend time between adventures—plenty of adventures happen within the city walls. From wererats in the sewers to scheming bureaucrats in the halls of power, dangers lurk around every corner.
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/073-05-005-city-of-greyhawk.webp#center "The Free City of Greyhawk rises up behind the teeming city docks"|The Free City of Greyhawk ...]]
 
 #### City Overview
 
@@ -876,7 +875,6 @@ The locations detailed here can serve as a good starting point for your campaign
 ##### Black Dragon Inn
 
 > [!note] 
-> 
 > This three-story, slightly run-down inn is situated in the heart of the city. A sign carved to resemble the grinning visage of a black dragon hangs over the front door. A stable is located behind the inn.
 ^31d
 
@@ -898,8 +896,6 @@ Adventurers might visit the Black Dragon Inn for one of the following reasons:
 
 ##### Grand Citadel
 
-> [!note] 
-> 
 > A many-towered fortress looms above all quarters of the city from its position atop a low rise. Its outer walls, darkened by soot and smoke, could use a good scrubbing.
 ^321
 
@@ -923,8 +919,6 @@ Adventurers might be drawn to the Grand Citadel for one of the following reasons
 
 ##### Great Library
 
-> [!note] 
-> 
 > The front of this building is a grand sweep of granite walls and tall columns. A wide ramp leads to a pair of massive doors flanked by stone-carved dragons. Inside, it's cool and musty.
 ^325
 
@@ -950,8 +944,6 @@ Adventurers might visit the Great Library for one of the following reasons:
 
 ##### High Tower Inn
 
-> [!note] 
-> 
 > Conveniently located near the Selintan River, this inviting inn is distinguished by its tall tower, which is pointed at the top like the hat of an eccentric wizard. The clientele is notably wealthy, but the inn itself isn't at all ostentatious.
 ^329
 
@@ -973,10 +965,6 @@ Adventurers might visit the High Tower for one of the following reasons:
 
 ##### Silver Dragon Inn
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/074-05-006-silver-dragon-inn.webp#center "The Silver Dragon Inn is a lively hub of activity in Greyhawk's Foreign Quarter"|The Silver Dragon Inn is a...]]
-
-> [!note] 
-> 
 > This grandiose, multistory inn sports a wooden sign bearing the words "Silver Dragon Inn" in fancy silver script, the S shaped like a silver dragon. A more modest sign next to the front door reads, "No metal armor. Shields and weapons must be checked at the door."
 ^32d
 
@@ -1000,8 +988,6 @@ Adventurers might visit the Silver Dragon for one of the following reasons:
 
 ##### Temple of the Far Horizon
 
-> [!note] 
-> 
 > Hidden among the city's grander temples is a quiet, modest house of worship with clay-tiled rooftops, a corner bell tower, and well-tended vegetable gardens. Sick and hungry folk gather in short lines outside as they wait for priests to attend to their needs.
 ^331
 
@@ -1022,8 +1008,6 @@ Adventurers might visit the temple for one of the following reasons:
 
 ##### Temple of the Radiant Sun
 
-> [!note] 
-> 
 > This copper-roofed temple has a gold-inlaid symbol of the sun above its double-door entrance. During the day, sunlight shines through high windows to illuminate the temple's interior, which is adorned with golden draperies.
 ^335
 
@@ -1037,16 +1021,12 @@ Adventurers with the [[acolyte-xphb|Acolyte]] background might have served in th
 
 ###### Reasons to Visit
 
-Adventurers might visit the temple for one of the following reasons:
-
 - **Healing.** The temple sells [[spell-scroll-xdmg|Spell Scrolls]] of [[greater-restoration-xphb|Greater Restoration]] for 3,200 GP apiece and [[spell-scroll-xdmg|Spell Scrolls]] of [[remove-curse-xphb|Remove Curse]] for 300 GP apiece, and the priests have `d3` copies of each scroll in stock on any given day. The priests also have [[cure-wounds-xphb|Cure Wounds]] and [[lesser-restoration-xphb|Lesser Restoration]] spells prepared, which they customarily cast for free.  
 - **Raise Dead.** Archpriest Sarana is one of a handful of people in the Free City of Greyhawk who can cast the [[raise-dead-xphb|Raise Dead]] spell, but she needs the requisite 500 GP diamond to do so. Sarana can recommend a jeweler who sells diamonds of sufficient value. Before agreeing to cast the spell, Sarana casts [[zone-of-truth-xphb|Zone of Truth]] and asks questions about the deceased individual to make sure she's not returning to life someone who should stay dead.  
 - **Service to the Greater Good.** The temple might call upon the adventurers to perform good acts in the city or abroad. Sarana is particularly vigilant about the threat of Elemental Evil, since she was involved in the battle at the Temple of Elemental Evil seven years ago. In exchange for their service, the characters and their companions are entitled to a 50 percent discount on goods purchased at the temple.  
 
 ##### Unearthed Arcana
 
-> [!note] 
-> 
 > This quaint, two-story shop has a sign depicting a white-bearded human wizard holding a staff that has a copper ball affixed to its tip. Displayed in the store's window box are various potions, scrolls, wands, and wondrous oddities.
 ^339
 
@@ -1072,7 +1052,6 @@ Adventurers might visit Unearthed Arcana for one of the following reasons:
 
 #### Beyond the City Walls
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/076-map-5-02-greyhawk-and-environs.webp#gallery|City of Greyhawk and Environs]]
 > ![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/077-map-5-02-greyhawk-and-environs-player.webp#gallery|Player Version]]
 
@@ -1103,7 +1082,6 @@ The City of Greyhawk and Environs map shows the lands around the Free City of Gr
 
 The poster map in this book shows the entire region of the Flanaess, with the Free City of Greyhawk near the center. As characters venture beyond the confines of the city and its surrounding lands, you can use the map and the information on these pages to inspire your own adventures and world details.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/078-map-5-03-flanaess.webp#gallery|Flanaess]]
 > ![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/079-map-5-03-flanaess-player.webp#gallery|Player Version]]
 
@@ -1118,27 +1096,22 @@ The beginning of Aerdy's decline marked the high-water mark of Keoland's expansi
 With this big picture in mind, you can think of the Flanaess beyond the Free City of Greyhawk as five major regions, each with its own store of adventure possibilities waiting to be explored:
 
 - **Central Flanaess.** Diverse peoples clash against Iuz and the forces of Elemental Evil.  
-- **Eastern Flanaess.** The remnants of the Great Kingdom struggle to determine the fate of the lands in the overking's wicked clutches.  
+- **Eastern Flanaess.** The remts of the Great Kingdom struggle to determine the fate of the lands in the overking's wicked clutches.  
 - **Northern Flanaess.** In vast wilderness expanses populated by indigenous folk, one's mettle is tested by the environment and roving dragons.  
 - **Old Keoland.** The former provinces of Keoland contend against evil monsters from the western mountains, including dragons and giants.  
 - **Western Flanaess.** The Baklunish peoples and nations navigate complex political relationships.  
 
 > [!note] Living History
-> 
 > Greyhawk has a long history of ancient empires and more recent wars, but the only relevant details of this history are those that feature in your adventures. Highlight significant in-world details by revealing them in the course of your adventures. Use the following techniques to share lore with your players:
-> 
 > - **Echoes of the Past.** Features like a crater in the side of a mountain, a defaced statue in the town square, or a holiday celebrating a local hero provide concrete touchstones to past events. The characters might learn that a ruin they're exploring was destroyed in a catastrophic battle or natural disaster.  
 > - **Historical Records.** Written historical details might appear anywhere in an adventure: glyphs on ancient dungeon walls, books in a library, files in a royal vault, or tapestries depicting key events. Use such set dressing to share important details. Summarize what lengthy works say, and focus on the most plot-worthy parts.  
 > - **Scholarly Expertise.** Characters who have proficiency in the [[skills#Arcana|Arcana]], [[skills#History|History]], or [[skills#Religion|Religion]] skill can be fonts of useful information. When it would be helpful for a group to know something about the setting, ask such characters to make an Intelligence check using the relevant skill, then share plot-relevant details if their roll warrants it.  
 > - **Magical Footnotes.** Spells such as [[contact-other-plane-xphb|Contact Other Plane]], [[legend-lore-xphb|Legend Lore]], and [[speak-with-dead-xphb|Speak with Dead]] allow characters to learn information while leaving you control of the particulars.  
 > - **Primary Sources.** Personify the past through a tragic ghost, an otherworldly guardian, an artificial intelligence, an ancient sage, or another long-lived individual. Such NPCs give you a way to share relevant information and respond to questions from the party. If the characters miss an important detail, this NPC can reinforce details in a way books and recollected facts can't.  
-> 
 > Any one of these methods is useful for revealing a few details. You can combine them to share nuanced histories and help players feel like they're digging into a rich and realistic history.
 ^living-history
 
 #### Central Flanaess
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/080-05-008-holy-days-of-rao.webp#center "The Holy Days of Rao are occasions for joyful processions and festivals in Veluna"|The Holy Days of Rao are o...]]
 
 The rich soil and pleasant climate of the region between the Nyr Dyv and the Yatil Mountains—combined with healthy trade relations between these realms and their neighbors to the east, south, and west—make this a strong and prosperous region.
 
@@ -1146,7 +1119,7 @@ The rich soil and pleasant climate of the region between the Nyr Dyv and the Yat
 
 ##### Battle of Emridy Meadows
 
-Seven years ago, knights and soldiers from Furyondy, the Archclericy of Veluna, the Viscounty of Verbobonc, and the elven kingdom of Celene formed an alliance to repel an evil horde that had gathered in the grassy fields south of the Velverdyva River. This clash of armies—arguably the greatest seen in Eastern Oerik—was called the Battle of Emridy Meadows. The forces of evil were smashed, and their remnants were driven back into the dungeons under their stronghold, the Temple of Elemental Evil. The forces of good, under the command of Prince Thrommel IV of Furyondy, besieged the temple, which fell in a fortnight. Only a few of the temple's wicked leaders escaped, and it is suspected that these individuals were responsible for the subsequent kidnapping of the prince.
+Seven years ago, knights and soldiers from Furyondy, the Archclericy of Veluna, the Viscounty of Verbobonc, and the elven kingdom of Celene formed an alliance to repel an evil horde that had gathered in the grassy fields south of the Velverdyva River. This clash of armies—arguably the greatest seen in Eastern Oerik—was called the Battle of Emridy Meadows. The forces of evil were smashed, and their remts were driven back into the dungeons under their stronghold, the Temple of Elemental Evil. The forces of good, under the command of Prince Thrommel IV of Furyondy, besieged the temple, which fell in a fortnight. Only a few of the temple's wicked leaders escaped, and it is suspected that these individuals were responsible for the subsequent kidnapping of the prince.
 
 Prince Thrommel was engaged to marry Lady Jolene, a priest from a prominent noble family of Veluna. Their marriage would have united Furyondy and Veluna as a single entity, with the canon of Veluna ruling in matters spiritual and the king of Furyondy ruling in matters temporal. This combined state, with its powerful elf allies in Celene, could wage a steady war against the evil plaguing Eastern Oerik. The prince's disappearance has stalled these plans.
 
@@ -1230,8 +1203,6 @@ The Tomb of Horrors is detailed in *Tales from the Yawning Portal*.
 
 The chilly mists of the Troll Fens, located against the shoulders of the Griff Mountains and the Rakers at the head of the Yol River, cloak a place of unnameable horrors. As the name implies, the fens are infested with particularly large and vicious trolls. The Pale carefully hedges the place with watchtowers and keeps, and strong patrols ride the verges of the southern end of the Troll Fens to watch for unwelcome visits from the monsters dwelling within.
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/081-05-009-tomb-of-horrors.webp#center "The Tomb of Horrors lies deep within the vast swamp"|The Tomb of Horrors lies d...]]
-
 #### Northern Flanaess
 
 The northern region of the Flanaess includes three distinct areas populated by different peoples: the Baklunish horse riders of the Chakyik and the Wegwiur, the Suloise people of the North Kingdoms, and the Flan nomads of the Hunting Lands.
@@ -1254,11 +1225,9 @@ The Schnai are strong and numerous. When Queen Ingrid of the Schnai has a mind t
 
 As their distinct kingdoms suggest, the people of the North Kingdoms value their connection to their clan lineage. They preserve a love of learning from their distant ancestors of the Suel Imperium, and they value knowledge of the natural world as highly as they do the skills of hunting, sailing, and warfare. Their clothing includes shirts and pants made of wool, augmented with furs, capes, mittens, and warm boots. They often wear large pins, brooches, or emblems in their cloaks as a sign of wealth or accomplishment.
 
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/082-05-010-mammoth-north-kingdoms.webp#center "Adventurers in the North Kingdoms help a frost giant's pet mammoth find its way home"|Adventurers in the North K...]]
-
 ##### The Hunting Lands
 
-The People of the Hunting Lands (called Rovers of the Barrens by their neighbors) have a history of raiding the outskirts of Furyondy, the Bandit Kingdoms, Tenh, and Wegwiur, which hasn't won them many allies. The nomads' legendary dominance of the north has faded, as the forces of Iuz and the Horned Society wage steady war against them while raiders from the Hold of Stonefist prey on the Hunting Lands farther east. Many of the Rovers' mightiest warriors—the Wardogs—have perished in battles against all these relentless foes.
+The People of the Hunting Lands (called Rovers of the Barrens by their neighbors) have a history of raiding the outskirts of Furyondy, the Bandit Kingdoms, Tenh, and Wegwiur, which hasn't won them many allies. The nomads' legendary domice of the north has faded, as the forces of Iuz and the Horned Society wage steady war against them while raiders from the Hold of Stonefist prey on the Hunting Lands farther east. Many of the Rovers' mightiest warriors—the Wardogs—have perished in battles against all these relentless foes.
 
 The people of the Hunting Lands value a close connection to the natural world. They view nature as an entity to be respected, not controlled, and their myths and legends teach the value of accepting nature's bounty as a gift that evokes gratitude. They wear clothes made entirely of animal skins, including belts, capes, robes, and slippers, and decorate their skin with paints and tattoos.
 
@@ -1297,8 +1266,6 @@ The clothes worn in Old Keoland tend toward loose-fitting shirts and wide-legged
 ##### Old Keoland and Its Neighbors
 
 The long chain of the Lortmil Mountains forms a natural barrier between Old Keoland and the region of the Central Flanaess. The mountains contain some of the richest gem and precious metal deposits in Eastern Oerik. The humans, dragonborn, dwarves, gnomes, halflings, goblinoids, goliaths, and orcs that live in these mountains and their foothills are subjects of the realms that surround the mountain range, but they often band together to deal with greater threats on both sides of the mountains.
-
-![[/03_Mechanics/CLI/books/dungeon-masters-guide-2024/img/083-05-011-hellfurnaces.webp#center "Beneath the beautiful surface of the Hellfurnaces lie endless hidden evils"|Beneath the beautiful surf...]]
 
 ##### Old Keoland Adventures
 
@@ -1362,19 +1329,30 @@ Of course, the Western Flanaess has its fair share of monsters, dungeons, and ru
 
 Legends speak of 05 chapter 5 creating campaigns as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 05 chapter 5 creating campaigns.
 
-## Adventure Hooks
-
-- A rumor ties 05 chapter 5 creating campaigns to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 05 chapter 5 creating campaigns to avert a public scandal.
-- A map overlay reveals a hidden approach to 05 chapter 5 creating campaigns active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Shadow Covenant - Achieve immortality
+
+
+## Plot Hooks
+
+- A journal reveals ancient history about a local noble
+- A stranger needs help stealing before the new moon
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

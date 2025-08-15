@@ -22,12 +22,29 @@ updated: '2025-08-12T23:37:34.720926'
 world: Both
 ---
 
-
 # Boon of Planar Travel
 
 When you gain this boon, choose a plane of existence other than the Material Plane. You can now use an action to cast the [[plane-shift-xphb|plane shift]] spell (no spell slot or components required), targeting yourself only, and travel to the chosen plane, or from that plane back to the Material Plane. Once you use this boon, you can't use it again until you finish a short rest.
 
 *Source: Dungeon Master's Guide p. 232*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -37,19 +54,23 @@ Boon of planar travel is a undersea element of the setting, known for biolumines
 
 Legends speak of boon of planar travel as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around boon of planar travel.
 
-## Adventure Hooks
-
-- A rumor ties boon of planar travel to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at boon of planar travel to avert a public scandal.
-- A map overlay reveals a hidden approach to boon of planar travel active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Winds
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

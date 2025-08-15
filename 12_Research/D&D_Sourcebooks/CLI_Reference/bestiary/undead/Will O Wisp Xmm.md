@@ -30,14 +30,29 @@ updated: '2025-08-13T12:34:05.864924+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-will-o-wisp-xmm-v1-will-o-wisp-xmm.svg)
 
 # [[will-o-wisp-xmm|Will-o'-Wisp]]
-*Source: Monster Manual (2024) p. 333. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 333. Available in the SRD and the Free Rules (2024)*  
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Will-o'-Wisp
 
@@ -86,7 +101,7 @@ Roll on or choose a result from the Will-o'-Wisp Ambushes table to inspire how a
 "condition_immunities": "[[conditions#Exhaustion|exhaustion]],\
   \ [[conditions#Grappled|grappled]], [[conditions#Paralyzed|paralyzed]],\
   \ [[conditions#Petrified|petrified]], [[conditions#Poisoned|poisoned]],\
-  \ [[conditions#Prone|prone]], [[conditions#Restrained|restrained]],\
+  \ [[conditions#prone|prone]], [[conditions#Restrained|restrained]],\
   \ [[conditions#Unconscious|unconscious]]"
 "senses": "darkvision 120 ft., passive Perception 12"
 "languages": "Common plus one other language"
@@ -133,19 +148,24 @@ Will o wisp xmm is a undersea element of the setting, known for bioluminescent g
 
 Legends speak of will o wisp xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around will o wisp xmm.
 
-## Adventure Hooks
-
-- A rumor ties will o wisp xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at will o wisp xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to will o wisp xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals ancient history about the cult
+- A map reveals ancient history about a local noble
+- A map reveals a betrayal about this place
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

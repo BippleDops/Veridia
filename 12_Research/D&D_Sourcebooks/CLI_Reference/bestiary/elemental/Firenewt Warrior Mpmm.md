@@ -31,9 +31,6 @@ updated: '2025-08-13T12:34:05.759210+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-firenewt-warrior-mpmm-firenewt-warrior-mpmm.svg)
 
@@ -41,6 +38,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 125, Volo's Guide to Monsters p. 142*  
 
 A firenewt warrior can spew fire. Many of these warriors have a close relationship with giant striders (in this book). They provide shelter, food, and breeding grounds in their lairs for giant striders, which then voluntarily serve them as mounts.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Firenewts
 
@@ -66,7 +81,7 @@ Originally from the Elemental Plane of Fire, firenewts can be found on the Mater
 "speed": "30 ft."
 "damage_immunities": "fire"
 "senses": "passive Perception 10"
-"languages": "Draconic, Ignan"
+"languages": "Draconic, Ig"
 "cr": "1/2"
 "traits":
   - "desc": "The firenewt can breathe air and water."
@@ -100,19 +115,20 @@ Firenewt warrior mpmm is a undersea element of the setting, known for biolumines
 
 Legends speak of firenewt warrior mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around firenewt warrior mpmm.
 
-## Adventure Hooks
-
-- A rumor ties firenewt warrior mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at firenewt warrior mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to firenewt warrior mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

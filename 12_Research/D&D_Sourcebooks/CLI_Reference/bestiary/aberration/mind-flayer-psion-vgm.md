@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.292975'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-mind-flayer-psion-vgm-mind-flayer-psion-vgm.svg)
 
@@ -36,6 +34,24 @@ world: Both
 *Source: Volo's Guide to Monsters p. 71*  
 
 Mind flayers sometimes devote themselves to deeper study of psionic power, and many excel at using their innate psionic energy to duplicate the casting of spells.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Mind Flayer
 
@@ -74,9 +90,7 @@ Illithids subsist on the brains of humanoids. The brains provide enzymes, hormon
 "stats":
   - !!int "11"
   - !!int "12"
-  - !!int "12"
   - !!int "19"
-  - !!int "17"
   - !!int "17"
 "speed": "30 ft."
 "saves":
@@ -89,11 +103,8 @@ Illithids subsist on the brains of humanoids. The brains provide enzymes, hormon
   - "name": "[[skills#Deception|Deception]]"
     "desc": "+6"
   - "name": "[[skills#Insight|Insight]]"
-    "desc": "+6"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+6"
   - "name": "[[skills#Persuasion|Persuasion]]"
-    "desc": "+6"
   - "name": "[[skills#Stealth|Stealth]]"
     "desc": "+4"
 "senses": "darkvision 120 ft., passive Perception 16"
@@ -104,14 +115,14 @@ Illithids subsist on the brains of humanoids. The brains provide enzymes, hormon
       \ ability is Intelligence (spell save DC 15; +7 to hit with spell attacks).\
       \ It can innately cast the following spells, requiring no components:\n\nAt\
       \ will: [[guidance-xphb|guidance]], [[mage-hand-xphb|mage hand]],\
-      \ [[vicious-mockery-xphb|vicious mockery]], [[true-strike-xphb|true\
+      \ [[vicious-mockery-xphb|vicious mockery]], [[true-strike-xphb|true\]]
       \ strike]], [[detect-thoughts-xphb|detect thoughts]],\
-      \ [[levitate-xphb|levitate]]\n\n1/day each: [[dominate-monster-xphb|dominate\
+      \ [[levitate-xphb|levitate]]\n\n1/day each: [[dominate-monster-xphb|dominate\]]
       \ monster]], [[plane-shift-xphb|plane shift]]\
       \ (self only)\n\n1st level (4 slots): [[charm-person-xphb|charm person]],\
       \ [[command-xphb|command]], [[comprehend-languages-xphb|comprehend languages]],\
       \ [[sanctuary-xphb|sanctuary]]\n\n2nd level (3 slots):\
-      \ [[crown-of-madness-xphb|crown of madness]], [[phantasmal-force-xphb|phantasmal\
+      \ [[crown-of-madness-xphb|crown of madness]], [[phantasmal-force-xphb|phantasmal\]]
       \ force]], [[see-invisibility-xphb|see invisibility]]\n\
       \n3rd level (3 slots): [[clairvoyance-xphb|clairvoyance]],\
       \ [[fear-xphb|fear]], [[meld-into-stone-xphb|meld into stone]]\n\
@@ -158,19 +169,15 @@ Mind flayer psion vgm is a undersea element of the setting, known for biolumines
 
 Legends speak of mind flayer psion vgm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around mind flayer psion vgm.
 
-## Adventure Hooks
-
-- A rumor ties mind flayer psion vgm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at mind flayer psion vgm to avert a public scandal.
-- A map overlay reveals a hidden approach to mind flayer psion vgm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

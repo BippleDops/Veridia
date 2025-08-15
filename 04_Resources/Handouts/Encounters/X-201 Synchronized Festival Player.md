@@ -41,11 +41,9 @@ Possible outcomes
 - A scuffle starts at the edge
 - A dream from one world spills into the other
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 

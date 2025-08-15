@@ -1,4 +1,5 @@
 ---
+
 title: Intelligence Services
 type: Npc
 tags:
@@ -18,6 +19,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.488965+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,22 +29,72 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-intelligence-services-intelligence-services.svg]]
 
 
-## Cross-References
+## 🔧 Deep Evaluation Improvements
 
-- [[Intelligence Services]]
+*20 targeted improvements identified*
 
+### History Improvements
 
+- Add three historical eras with major events
 
+### Culture Improvements
 
-## Relationship Web
+- Define unique cultural practices and taboos
 
-- [[Corrupted Clients]]: *childhood friend*
-- [[04_Resources_Assets_Symbols_symbol-heraldry-the-scream-archives-the-scream-archives.svg]]: *informant*
+### Economy Improvements
 
-## Connections
+- Detail currency, trade goods, and wealth distribution
 
-- [[Shadow Ambush - Optional]]
-- [[Tenebrarum Ambassadors]]
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+- Detail common objects and their cultural significance
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
 
 ## Player-Facing Summary
 
@@ -51,14 +104,6 @@ Intelligence Services is a undersea element of the setting, known for biolumines
 
 Legends speak of Intelligence Services as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Intelligence Services.
 
-## Adventure Hooks
-
-- A rumor ties Intelligence Services to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Intelligence Services to avert a public scandal.
-- A map overlay reveals a hidden approach to Intelligence Services active only during specific tides/storms.
-
-
-
 ## Appearance
 
 Intelligence Services presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:
@@ -67,8 +112,6 @@ Intelligence Services presents a distinctive figure. Their bearing suggests both
 - **Distinguishing Marks**: [Describe unique features]
 - **Typical Attire**: Professional garments suited to their role
 - **Mannerisms**: [Describe habits and gestures]
-
-
 
 ## Personality
 
@@ -80,8 +123,6 @@ Intelligence Services presents a distinctive figure. Their bearing suggests both
 
 **Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives
 
-
-
 ## Background
 
 Intelligence Services's path to their current position involved:
@@ -90,51 +131,6 @@ Intelligence Services's path to their current position involved:
 - **Training**: Specialized education in their field
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
-
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-## Relationships
-
-### Allies
-- Professional colleagues and supporters
-- Political or business connections
-
-### Rivals
-- Competitors in their field
-- Ideological opponents
-
-### Neutral Parties
-- Those who could be swayed either way
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
 
 ## Motivations
 
@@ -145,8 +141,6 @@ Intelligence Services's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 Intelligence Services harbors secrets that could change everything:
@@ -154,10 +148,6 @@ Intelligence Services harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Prophetic visions
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -176,8 +166,6 @@ Intelligence Services is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: Intelligence Services needs assistance with a delicate matter
@@ -186,8 +174,6 @@ Intelligence Services is currently engaged in:
 4. **The Alliance**: Opportunity to work with or against Intelligence Services
 5. **The Crisis**: Intelligence Services is caught in a situation requiring intervention
 
-
-
 ## Notable Quotes
 
 > "Every challenge is an opportunity in disguise."
@@ -195,8 +181,6 @@ Intelligence Services is currently engaged in:
 > "Trust is earned through action, not words."
 
 > "The path forward is rarely the easiest one."
-
-
 
 ## Statistics (D&D 5e)
 
@@ -224,23 +208,29 @@ cr: 1/4
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
-## Character Arc
-
-### Starting Point
-- **Current State**: Ambitious
-- **Core Desire**: Redemption
-- **Major Flaw**: Pride
-
 ### Development Triggers
 1. **Catalyst Event**: Discovery
 2. **Challenge**: Must overcome moral dilemma
 3. **Growth Moment**: Learns acceptance
 
-### Potential Endings
-- **Redemption**: Overcomes flaw and finds peace
-- **Tragedy**: Succumbs to flaw with consequences  
-- **Transformation**: Becomes someone entirely new
-- **Stasis**: Refuses to change despite opportunities
+
+## Relationships
+
+- **Enemy**: [[portrait-npc-senator-glaucus-senator-glaucus.svg]]
+- **Blackmailer**: [[Assassin]]
+- **Lover**: [[Lighthouse Keeper]]
+- **Parent**: [[Assets Symbols Symbol Heraldry the Architects of Depths the Architects of Depths.svg]]
+- **Student**: [[Assets Locations Location City Ambassador Lysandra Silvertonge V1 Ambassador Lysandra Silvertonge.svg]]
+
+
+## Cultural Practices
+
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
+
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon

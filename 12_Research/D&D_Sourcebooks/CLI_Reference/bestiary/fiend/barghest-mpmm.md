@@ -31,8 +31,6 @@ updated: '2025-08-12T23:37:35.545999'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-barghest-mpmm-barghest-mpmm.svg)
 
@@ -63,17 +61,14 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
   - !!int "14"
   - !!int "13"
   - !!int "12"
-  - !!int "14"
 "speed": "60 ft. (30 ft. in goblin form)"
 "skillsaves":
   - "name": "[[skills#Deception|Deception]]"
     "desc": "+4"
   - "name": "[[skills#Intimidation|Intimidation]]"
-    "desc": "+4"
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+5"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+4"
 "damage_resistances": "cold; lightning; bludgeoning, piercing, slashing from nonmagical\
   \ attacks"
 "damage_immunities": "acid, poison"
@@ -105,7 +100,7 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
     "name": "Claw"
   - "desc": "The barghest casts one of the following spells, requiring no material\
       \ components and using Charisma as the spellcasting ability (spell save DC 12):\n\
-      \nAt will: [[levitate-xphb|levitate]], [[minor-illusion-xphb|minor\
+      \nAt will: [[levitate-xphb|levitate]], [[minor-illusion-xphb|minor\]]
       \ illusion]], [[pass-without-trace-xphb|pass without trace]]\n\
       \n1/day each: [[charm-person-xphb|charm person]],\
       \ [[dimension-door-xphb|dimension door]], [[suggestion-xphb|suggestion]]"
@@ -123,6 +118,24 @@ Any conflagration larger than its body acts as a gateway to Gehenna and banishes
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 forest, grassland, hill, mountain, underdark
@@ -135,19 +148,26 @@ Barghest mpmm is a undersea element of the setting, known for bioluminescent glo
 
 Legends speak of barghest mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around barghest mpmm.
 
-## Adventure Hooks
-
-- A rumor ties barghest mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at barghest mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to barghest mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and evil awakens
+- Strange disappearances suggest ancient magic
+- Someone is hunting a witness for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

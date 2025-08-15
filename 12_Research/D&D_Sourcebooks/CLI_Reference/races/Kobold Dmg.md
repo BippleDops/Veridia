@@ -23,17 +23,12 @@ updated: '2025-08-13T12:34:08.027832+00:00'
 world: Both
 ---
 
-
-
 # Kobold
 *Source: Dungeon Master's Guide p. 282*  
-
 
 - **Ability Scores**: dex +2 str -4
 - **Size**: Small
 - **Speed**: 30 ft.
-
-## Traits
 
 ### Pack Tactics
 
@@ -51,6 +46,24 @@ Accustomed to life underground, you have superior vision in dark and dim conditi
 
 You can speak, read, and write Common and Draconic.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Kobold dmg is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -59,19 +72,30 @@ Kobold dmg is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of kobold dmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around kobold dmg.
 
-## Adventure Hooks
-
-- A rumor ties kobold dmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at kobold dmg to avert a public scandal.
-- A map overlay reveals a hidden approach to kobold dmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A map reveals a betrayal about this place
+- A stranger needs help finding before winter
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

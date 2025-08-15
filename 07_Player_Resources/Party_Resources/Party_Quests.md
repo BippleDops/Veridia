@@ -10,22 +10,30 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Active Quests
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+- Add 07_Player_Resources-specific enhancement
+
 
 ## Main Quest
 *Current objective*
 
-## Side Quests
-- [ ] Quest 1
-- [ ] Quest 2
-
-## Completed Quests
-- [x] Introduction
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -34,3 +42,13 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and evil awakens
+- Strange disappearances suggest a curse
+
+## 07_Player_Resources Specific Content
+
+Contextual improvement based on 07_Player_Resources

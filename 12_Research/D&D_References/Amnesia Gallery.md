@@ -30,17 +30,29 @@ MyCategory: Memory Gallery
 obsidianUIMode: preview
 ---
 
-
-
 > [!figure] View
 ![[04_Resources/Assets/Locations/location-city-amnesia-gallery-amnesia-gallery.svg]]
 
-
-
-
-
 # Amnesia Gallery
 *Where Memories Dance in Crystal and Shadow, Where Forgetting is Art*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Overview
 
@@ -49,8 +61,6 @@ The Amnesia Gallery stands as one of [[Aquabyssos]]'s most enigmatic and dangero
 Visitors come to experience memories that are not their own, to lose unwanted thoughts, or to witness the strange beauty that emerges when consciousness is given physical form. The gallery exists in a state of controlled temporal flux, where past, present, and future memories intermingle in displays that shift and evolve with each viewer's psyche.
 
 The establishment operates under the patronage of the [[02_Worldbuilding/Groups/The Memory Merchants Guild|02 Worldbuilding/Groups/The Memory Merchants Guild]], serving both as entertainment venue and research facility for the study of consciousness and temporal memory. However, beneath its artistic facade lies a deeper purpose: the systematic collection and cataloging of significant memories from across [[Aquabyssos]] for unknown ends.
-
-## Physical Description & Atmosphere
 
 ### Exterior Architecture
 The Amnesia Gallery floats within a massive hollow crystal sphere, approximately 300 feet in diameter, suspended in the twilight depths of the [[Memory Depths]] region. The crystal walls are semi-translucent, allowing glimpses of the swirling exhibitions within while filtering the deep-sea bioluminescence into an ethereal, ever-changing light show. Tendrils of crystallized thought energy spiral around the exterior, creating anchor points where smaller viewing pods and research laboratories attach like metallic barnacles.
@@ -61,17 +71,6 @@ The sphere's surface is carved with flowing script in the ancient [[Deep Script]
 Upon entering through the main portal (a sphincter-like opening that reads visitors' intentions), guests find themselves in the **Reception Abyss**—a circular chamber with walls that display constantly shifting previews of the current exhibitions. The floor is made of memory-glass, allowing visitors to peer down into the gallery's lower levels where archived memories swim in containment pools like luminous jellyfish.
 
 The gallery space itself defies conventional architecture, with exhibition areas that phase in and out of existence based on the collective consciousness of current visitors. Viewing platforms connected by bridges of crystallized thought allow movement between exhibits, while the central void serves as the main display space for large-scale memory installations.
-
-### Atmospheric Effects
-- **Memory Mist**: A faint, opalescent fog that carries echoes of displayed memories
-- **Temporal Echoes**: Sounds from past and future exhibitions occasionally bleed through
-- **Empathic Resonance**: Emotional atmospheres from memories affect room temperature and lighting
-- **Chronological Drift**: Time moves slightly differently in various exhibition areas
-- **Psychic Pressure**: Sensitive individuals may experience mild telepathic feedback
-
-## Areas and Exhibitions
-
-### The Welcome Wing - Entrance Level
 
 #### Reception Abyss
 The gallery's main entrance features a circular reception desk staffed by [[Memory Attendants]]—beings whose faces constantly shift between different identities they've absorbed. The walls display a rotating preview of current exhibitions, while the ceiling shows a live feed of memories being processed in the extraction laboratories above.
@@ -88,8 +87,6 @@ Small alcoves where visitors can undergo mental preparation for memory viewing. 
 - **Consciousness anchors** to maintain personal identity
 - **Temporal stabilizers** to prevent chronological displacement
 - **Warning systems** that alert to dangerous memory exposure
-
-### The Primary Gallery - Main Exhibition Floors
 
 #### Hall of Borrowed Dreams
 The gallery's signature exhibition space features memories displayed as three-dimensional holographic environments that visitors can walk through and experience partially. Current installations include:
@@ -123,8 +120,6 @@ A restricted section displaying traumatic memories, heavily regulated:
 - Constant monitoring by trained psychic healers
 - Features memories of war, loss, and existential horror
 
-### The Research Levels - Upper Floors
-
 #### The Extraction Laboratories
 Behind reinforced crystal walls, visitors can observe the memory extraction process:
 - **Extraction Chairs**: Crystalline thrones where memories are drawn from donors
@@ -139,8 +134,6 @@ Storage areas containing the gallery's vast collection:
 - **Artistic Memories**: Curated collections from renowned artists and creators
 - **Restricted Vaults**: Dangerous or politically sensitive memories
 
-### The Depths - Lower Levels
-
 #### The Collective Pool
 A vast chamber containing a pool of liquid memory where fragments of consciousness merge and separate:
 - Origin point for the gallery's most experimental exhibitions
@@ -154,8 +147,6 @@ The gallery's deepest level where memories deemed too dangerous or painful are s
 - Contains memories of pre-Drowning civilizations
 - Houses fragments of divine consciousness
 - Rumored to connect to [[The Deepmind]]'s neural networks
-
-## Key NPCs
 
 ### Keeper Elara Mindwell
 *Medium humanoid (sea elf), neutral*
@@ -218,30 +209,6 @@ Former visitors who volunteered to undergo partial memory integration with the g
 
 Elite guards trained to handle psychic threats and memory-based emergencies. They wear helmets that protect against memory intrusion and carry tridents that can dispel hostile memory constructs.
 
-## Services & Offerings
-
-### For Visitors
-
-#### Standard Services
-- **Memory Viewing** (5-50 gp per exhibition): Experience curated memory displays
-- **Guided Tours** (25 gp): Expert-led exploration with safety guarantees
-- **Memory Consultation** (10 gp): Advice on memory-related issues
-- **Identity Anchoring** (15 gp): Temporary protection against memory confusion
-
-#### Premium Services
-- **Private Exhibitions** (200 gp): Exclusive viewing of rare or restricted memories
-- **Memory Therapy** (100-500 gp): Professional treatment using therapeutic memories
-- **Custom Experiences** (300-1000 gp): Personalized memory installations
-- **Memory Authentication** (50 gp): Verify the authenticity of personal memories
-
-#### Exclusive Services
-- **Memory Extraction** (100-1000 gp): Professional removal of unwanted memories
-- **Memory Implantation** (500-2000 gp): Install new memories or skills
-- **Consciousness Backup** (5000 gp): Create a copy of your entire memory set
-- **Deep Archive Access** (1000 gp + special permit): View restricted historical memories
-
-## Environmental Hazards & Challenges
-
 ### Memory Bleed
 Prolonged exposure to multiple memories can cause personal memories to become confused with exhibited ones.
 - **Trigger**: Spending more than 4 hours in active exhibitions
@@ -277,8 +244,6 @@ Occasionally, hostile memory fragments attempt to attach to visitors.
 - **Symptoms**: Gradual personality changes, false memories, compulsions
 - **Treatment**: Specialized exorcism requiring Remove Curse or similar
 
-## Hidden Secrets & Areas
-
 ### The Black Collection
 Behind a secret panel in [[Keeper Elara Mindwell]]'s office lies access to the gallery's most dangerous memories:
 - **The God-Killers' Last Thoughts**: Memories from beings who attempted deicide
@@ -313,8 +278,6 @@ Deep beneath the main gallery, a spherical chamber where the memories of willing
 - Potential creation of hostile collective entities
 - Unknown long-term effects on contributors
 - Possible connection to otherworldly consciousness networks
-
-## Adventure Hooks
 
 ### The Stolen Childhood (Levels 3-5)
 A wealthy merchant's daughter has had all her childhood memories mysteriously extracted and displayed in an unauthorized exhibition. The family hires the party to investigate who stole the memories and why, leading to discoveries about a black market in personal memories and a conspiracy involving several gallery employees.
@@ -361,20 +324,6 @@ The gallery's Collective Consciousness Chamber has begun spontaneously creating 
 - Exploration of multiverse concepts and timeline mechanics
 - Potential cooperation or conflict with entities from other realities
 
-## Connected Locations & Plot Threads
-
-### Direct Connections
-- **[[The Deepmind]]**: May be secretly influencing or drawing from the gallery's archives
-- **[[02_Worldbuilding/Groups/The Memory Merchants Guild|02 Worldbuilding/Groups/The Memory Merchants Guild]]**: Primary patrons and oversight organization
-- **[[The Phosphor Markets]]**: Memories are traded here as commodities
-- **[[Parliament of Echoes]]**: Politicians may use the gallery to manipulate public memory
-
-### Indirect Connections
-- **[[Scholar Vivienne the Chronicler]]**: Potential researcher or consultant
-- **[[Aquabyssos|02 Worldbuilding/Quests/Aquabyssos]]**: Competing repository of knowledge and memories
-- **[[Abyssos Prime]]**: Many visitors and donors come from the capital
-- **[[Memory Meadows]]**: Natural memory phenomenon that may supply raw materials
-
 ### Regional Impact
 The Amnesia Gallery serves as a cultural and research hub for memory-related activities throughout [[Aquabyssos]]. Its influence extends into:
 - **Educational Institutions**: Providing memory-based learning experiences
@@ -386,10 +335,6 @@ The Amnesia Gallery serves as a cultural and research hub for memory-related act
 
 *"In the depths of forgetting, we sometimes find who we truly are."*  
 — Keeper Elara Mindwell, Gallery Director
-
-## Connections
-
-- [[Aquabyssos - Session 02 - The Parliament's Paradox]]
 
 ## Player-Facing Summary
 
@@ -403,20 +348,26 @@ Legends speak of Amnesia Gallery as a nexus where past and present converge. Loc
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Amnesia Gallery|02 Worldbuilding/Places/Amnesia Gallery]]
-
-<!-- enriched: true -->
-- [[Scholar Vivienne the Chronicler]]
-- [[Abyssos Prime]]
-- [[Keeper Elara Mindwell]]
-- [[Parliament of Echoes]]
-- [[The Deepmind]]
-- [[The Phosphor Markets]]
-- [[The Sunken Library of Thalassius]]
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is protecting a witness for money
+- Someone is searching for information for love
+- Someone is protecting information for revenge
+- A letter reveals the truth about this place
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

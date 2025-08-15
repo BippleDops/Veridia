@@ -22,10 +22,8 @@ updated: '2025-08-13T12:34:04.022613+00:00'
 world: Both
 ---
 
-
-
 # Food, Drink, and Lodging
-*Source: Player's Handbook p. 158. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)* 
+*Source: Player's Handbook p. 158. Available in the SRD and the Basic Rules (2014)* 
 
 **Food, Drink, and Lodging**
 
@@ -57,6 +55,24 @@ world: Both
 | &emsp;[[fine-wine-bottle-xphb|Fine (bottle)]] | 10 gp |
 ^food-drink-and-lodging
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Food drink and lodging phb is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -65,19 +81,25 @@ Food drink and lodging phb is a undersea element of the setting, known for biolu
 
 Legends speak of food drink and lodging phb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around food drink and lodging phb.
 
-## Adventure Hooks
-
-- A rumor ties food drink and lodging phb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at food drink and lodging phb to avert a public scandal.
-- A map overlay reveals a hidden approach to food drink and lodging phb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- A prisoner has gone missing and war looms
+- A letter reveals ancient history about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

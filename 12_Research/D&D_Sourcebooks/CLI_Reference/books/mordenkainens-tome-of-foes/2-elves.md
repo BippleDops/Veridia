@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.764630'
 world: Both
 ---
 
-
 # Elves
 *Source: Mordenkainen's Tome of Foes, p. 35* 
 
@@ -31,11 +30,29 @@ The most ancient tales speak of elves as the children of the god Corellon. Unlik
 
 The gulf between the elves and Corellon, and the split between Corellon and Lolth, arose from the same transgression. That one incident set all the many races of elves on their present paths, determined their unique life cycle, and triggered an unflagging hatred between the drow and the elves of the Material Plane. No other event has had such momentous impact on elven history as the one that began it all.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## A Race Divided
 
 > [!quote] A quote from Amlaruil Moonflower, Last Queen of Evermeet  
 > 
-> Once we followed in Corellon's footsteps, but we strayed from that path. For our whole existence, we pay penance for a misstep. It is just? Mayhap not, but when is love just? Is loss and longing a matter for judges to decide? The heart knows what the soul wants.
+> Once we followed in Corellon's footsteps, but we strayed from that path. For our whole existence, we pay pece for a misstep. It is just? Mayhap not, but when is love just? Is loss and longing a matter for judges to decide? The heart knows what the soul wants.
 
 Long before elves existed, Corellon danced from world to world and plane to plane. A being of consummate mutability and infinite grace, Corellon was a god like no other-able to take the form of a chuckling stream, a teasing breeze, an incandescent beam, a cavorting flame, or a crackling bolt of lightning. On nothing more than a whim, Corellon's body could become a school of fish, a swarm of bees, or a flock of birds. When consorting with other gods, Corellon often adopted their appearances-male, female, or something else-but just as often kept their company in the form of a rose blossom or a delicate doe.
 
@@ -70,7 +87,6 @@ One group of elves, the eladrin, never left that first refuge. After being expos
 ## Living in Reverie
 
 > [!quote] A quote from Cymbiir Haevault, Lorekeeper of House Haevault  
-> 
 > History, my young friends? Just because your lives are as fleetingly swift as a hummingbird's flight is no cause to say mine constitutes history. History is the weave of things outside life, not for those still within its loom. Still I shall tell you of my lifetime and my clan's lifetime, as my clansong has not been sung in over a century. In reverie, the People may learn all that has passed for them and their predecessors. Now, in songs that were once only sung in celebration, I may teach you brief candles of humanity of the People and your own place among us.
 
 A memory is a curious thing. One can come into consciousness unbidden, evoked by an unexpected scent or the words spoken by a friend. A memory can also be elusive, foiling all attempts to recall it and sometimes remembered only after the hunt is abandoned, like a word on the tip of one's tongue. Some memories pull at the heart, weighing it down and holding it there as an anchor moors a ship. Others buoy it up or make it flutter joyously like the wings of a bird. Some memories lie in wait like predators, ready to leap out when the mind or the heart is vulnerable. Some linger like scars, not always visible but ever-present.
@@ -90,9 +106,7 @@ Because of the rarity of elf births, siblings might be separated in age by decad
 During a young elf's first few years, the memories evoked during trance are drawn not from current life experiences, but from the fantastic past adventures of the elf's immortal soul. Parents of young elves and priests of Erevan Ilesere encourage the youths to explore these memories and talk about them with one another, but they aren't to be discussed with adults until a memory of waking life first intrudes upon a youngster's trance. This experience, called the First Reflection, marks the end of childhood and the start of adolescence.
 
 > [!note] Half-Elf, Half Soul?
-> 
 > From the elven perspective, the birth of a half-elf represents a disruption of the natural order of reincarnation. Elves in different communities and across different worlds have numerous ideas about the nature of the disruption, because the gods have never given an answer that seems applicable to all. The soul of a half-elf might be an elf soul whose connection to the Seldarine has been weakened, or it might be a true elf soul trapped in the body of a half-elf until death, or the soul that lies beneath one's elf-like visage might be human.
-> 
 > Many elves, especially the younger ones, view the existence of half-elves as a sign of hope rather than as a threat-an example of how elf souls can experience the world in new ways, not bound to a single physical form or a particular philosophy.
 ^half-elf-half-soul
 
@@ -129,7 +143,6 @@ A handful of elves in any generation never experience an other-life memory durin
 ![](/03_Mechanics/CLI/books/mordenkainens-tome-of-foes/img/136866_cn.webp#center)
 
 > [!note] Dreams from beyond Memory
-> 
 > Elves can sleep and dream just like any human, but almost all surface elves avoid doing so. Dreams, as humans know them, are strange and confusing to elves. Unlike the actual memories of one's primal soul, present life, or past lives, dreams are uncontrolled products of the subconscious, and perhaps the subconscious minds of those past lives or primal souls as well. An elf who dreams must always wonder whose mind these thoughts first arose from, and why. Priests of Sehanine Moonbow are an exception: they sleep and dream to receive signs from their god, and elves consult such priests to interpret their own dreams.
 ^dreams-from-beyond-memory
 
@@ -185,7 +198,7 @@ Property crimes such as theft are usually considered evidence of significant cha
 
 ### Passion vs. Restraint
 
-The elven personality is a mixture of two opposing forces, which vie for dominance throughout an elf's life. How an elf handles the tension between passion and restraint colors their life experiences.
+The elven personality is a mixture of two opposing forces, which vie for domice throughout an elf's life. How an elf handles the tension between passion and restraint colors their life experiences.
 
 When they're young, elves approach life with great enthusiasm. Their joy is as intense as roaring flame, their sadness as deep as the sea. They dive into endeavors with seemingly inexhaustible energy, yet they typically do so without much display of emotion.
 
@@ -288,9 +301,7 @@ Cryptic shrines to the Mysteries of Arvandor appear throughout the planes, mostl
 Stories about the Mysteries are preached by many theologians as examples of Corellon's abiding love for his wayward children. Some sages imagine that, one day, all elves will be given this opportunity, after Corellon is satisfied by the completion of some great cosmic quest, and elves will once again be a people of unfettered form and unimaginable joy.
 
 > [!note] The Blessed of Corellon
-> 
 > Ever changing, mirthful, and beautiful, the primal elves could assume whatever sex they liked. When they bowed to Lolth's influence and chose to fix their physical forms, elves lost the ability to transform in this way. Yet occasionally elves are born who are so androgynous that they are proclaimed to be among the blessed of Corellon—living symbols of the god's love and of the primal elves' original fluid state of being. Many of Corellon's chief priests bear this blessing.
-> 
 > The rarest of these blessed elves can change their sex whenever they finish a long rest-a miracle celebrated by elves of all sorts except drow. (The DM decides whether an elf can manifest this miracle.) Dark elves find this ability to be terrifying and characterize it as a curse, for it could destabilize their entire society. If Corellon's blessing manifests in a drow, that elf usually flees to the surface world to seek shelter among those dedicated to Corellon.
 ^the-blessed-of-corellon
 
@@ -397,7 +408,6 @@ Because of all these difficulties, many elves resist the urge to visit Arvandor 
 ### Evermeet
 
 > [!quote] A quote from Ecamane Truesilver, High Mage of Silverymoon  
-> 
 > Uaul'Selu'Keryth. In your tongue, the name might be translated as "At War with the Weave." When twelve High Mages last performed this ritual, the world was torn asunder. It is a power no mortal should possess and no god should use.
 
 At one time or another, every surface elf, during every lifetime, pines for Arvandor. They might not know of Arvandor or be able to fully define the longing, but they can't escape it. Getting to Arvandor, on the other hand, is extraordinarily difficult for most mortal elves, requiring magic far beyond what most practitioners are capable of. Yet even if one could manage to open or find such a pathway, Corellon doesn't look favorably on elves from the mortal world who get near to him in this way. He suffers their presence only for a short time, forcing them to vacate the realm or be overcome by it.
@@ -433,7 +443,6 @@ Elves from the Material Plane who have researched eladrin culture blame these tr
 Although eladrin have the closest connection to Corellon because of their ancestry, they are alone among elves in feeling little affinity for Arvandor. Eladrin don't long to end their cycle of rebirth and rejoin Corellon, but rather to meld with the Feywild when they are reincarnated. They believe that an eladrin who excels in life throughout a series of incarnations can eventually come back as a member of the Seelie or Unseelie court or, in extreme cases, even as an archfey.
 
 > [!note] Fomorians
-> 
 > The hideous fomorians were once the most handsome of the giants. They lived in the Feywild alongside the elves, and the two societies were allies because of their mutual love for magic. But then the fomorians twisted their love into malice and turned magic into a slave that toiled for them to feed their lust for power. When they tried to conquer the Feywild and enslave the elves, too, the elves united with other fey to drive the fomorians underground. The giants, now grossly misshapen thanks to a curse brought about by their own inner foulness, retreated to the Underdark of the Feywild, where they remain today.
 ^fomorians
 
@@ -456,13 +465,9 @@ All this effort to please Lolth is a wise precaution. Though she resides in the 
 When Lolth is well served, she rewards her faithful with favors. When she is defied, she visits the Underdark in one of her forms and takes a direct hand in punishing the malefactor in a manner that discourages anyone who might be contemplating a similar kind of disobedience. Perhaps making an example of malcontents in this way is simply an aspect of how Lolth's cruel personality works. It also might be evidence of a lesson that she learned all too well from the way Corellon reacted to her betrayal of him: the smallest flame of resistance must be snuffed out before it grows into a conflagration.
 
 > [!note] Driders: Lowest of the Low
-> 
 > Much confusion and misinformation exists about driders among non-drow, but all dark elves know exactly what driders are: failures. They have either fared badly in Lolth's test or displeased her in some other way.
-> 
 > Once its transformation has taken hold, a newly created drider is shunned by its house and exiled from the community, with nothing but a few meager supplies and its knowledge of the Underdark to protect it. Drow congregate to throw stones at the still-dazed creature and drive it into the tunnels beyond the city's environs. If it's unlucky, it's attacked by a roper, a carrion crawler, or another drider. If it's lucky, the new drider finds a safe place to hide while its wounds heal.
-> 
 > So begins a drider's life in exile. Another widespread misunderstanding about driders is that they serve the drow as pickets, elite troops, or even suicide squads. They do none of those things. They are despised outcasts who live on the fringes of drow territory. Even though drow revile driders, they don't kill them, because a drider's punishment is to live a long life in wretchedness. Killing one would cut short Lolth's judgment and possibly earn the same sentence for the perpetrator.
-> 
 > Driders that survive for a long time can become accomplished hunters and navigators in the Underdark. Nothing will reopen the doors of drow society to them, but sometimes a drider can find a place in another community. Someone who needs a guide through the Underdark might not find a better one than a centuries-old drider that has faced every hazard those tunnels hold.
 ^driders-lowest-of-the-low
 
@@ -519,7 +524,6 @@ The Drow Deities table lists the members of the Dark Seldarine. For each god, th
 ![[drow-deities-the-dark-seldarine-mtf|Drow Deities (The Dark Seldarine)]]
 
 > [!note] Drow Trance: Entering the Void
-> 
 > Drow enter trance just as other elves do, but they do not experience memories of a primal soul or of past lives. Often they recall nothing at all, but simply dwell for a time in darkness and silence, a respite from the dangers of their daily lives. When drow do dream, whether in trance or in sleep, they look for signs from Lolth or others of the Dark Seldarine. That drow do not experience trance the way other elves do lends credence to the idea that their souls do not reincarnate. Did Corellon forever bar the souls of dark elves from Arvandor and change them in some fundamental way? Or does Lolth somehow weave new souls for her followers, in the way that Moradin forges new spirits for dwarves? Only those entities know for certain.
 ^drow-trance-entering-the-void
 
@@ -530,9 +534,7 @@ Unlike Corellon, who asks very little of his followers, Lolth is a demanding mis
 In return for victims and adoration, Lolth grants signs of her favor, such as great success during a slave raid on the surface, the matron of a rival house being struck down by an inexplicable illness, or an heiress to the house being born under propitious omens.
 
 > [!note] Holes in Lolth's Web
-> 
 > Lolth is far from omniscient, despite what her priestesses say. There are drow who live without bending to the tyranny of her worship. Communities of renegades who dispute Lolth's primacy often raise another of the Dark Seldarine up as their patron. Although this amounts to exchanging one evil oppressor for another, any escape from Lolth's web can feel like freedom.
-> 
 > The Acropolis of Thanatos, erected in the ruins of a drow city wiped out by plague in the Underdark of Faerûn, was home to a drow settlement of a few thousand ruled by necromancer clerics of Kiaransalee. It existed for a few decades before worshipers of Lolth and worshipers of Eilistraee teamed up to eliminate its leaders.
 ^holes-in-lolths-web
 
@@ -547,7 +549,6 @@ Those who are faithful to Lolth often oppose Ghaunadaur's cultists, driving them
 #### Keptolo
 
 > [!quote] A quote from Tezzeryn, Head Consort of House Bhaerynden, instructing his son  
-> 
 > Keptolo shows the way. Feed the vanity of your mistress, and all her treasures shall be yours. Be careful whom you offend, and keep an expendable companion nearby to hold culpable for your crimes. Gossip can be as deadly as the venom on an assassin's blade. Use the poison of words to destroy your rivals, that you may claim for yourself all they once presumed was theirs.
 
 The ideal of what a male drow can become, Keptolo is handsome, stylish, witty, hedonistic, an outrageous flatterer, and sought after as a lover. He is also dangerous in his aspects as a subtle assassin and a whisperer of rumors. For those attributes, he is worshiped by ambitious males who hope to emulate him. Some succeed admirably and achieve great things beyond the reach of most males, but many more succumb to excesses of the flesh, dissipation, and disease, or they are ruined or murdered by a rival-who is also a true disciple of Keptolo.
@@ -556,15 +557,15 @@ In most myths, Keptolo resides in the Demonweb Pits alongside Lolth, whom he ser
 
 #### Kiaransalee
 
-The drow god of vengeance and undeath, called the Revenancer, is portrayed in some legends as a fierce female clad in silver and translucent veils, and in others as a banshee. In either version, her hands bear many glittering silver rings, and this image is recognized as her symbol.
+The drow god of vengeance and undeath, called the Revecer, is portrayed in some legends as a fierce female clad in silver and translucent veils, and in others as a banshee. In either version, her hands bear many glittering silver rings, and this image is recognized as her symbol.
 
-Drow see Kiaransalee as the patron of vengeance because she is said to have died and returned from death to get her revenge, bringing an army of the dead back with her. Various communities of her worshipers have differing ideas about who killed her and why, but typically the murderer is portrayed as having the features of some kind of creature the drow have great hatred for. Followers of Kiaransalee don't trouble themselves greatly over these details, because all the stories could be true: the Revenancer is believed to have returned from death over and over again.
+Drow see Kiaransalee as the patron of vengeance because she is said to have died and returned from death to get her revenge, bringing an army of the dead back with her. Various communities of her worshipers have differing ideas about who killed her and why, but typically the murderer is portrayed as having the features of some kind of creature the drow have great hatred for. Followers of Kiaransalee don't trouble themselves greatly over these details, because all the stories could be true: the Revecer is believed to have returned from death over and over again.
 
 Vengeance is the aspect of Kiaransalee that appeals to most drow, because it becomes a necessity in every ambitious drow's life-usually more than once.
 
 The state of undeath is of less concern to them, but those who practice necromancy turn to Kiaransalee for guidance and for protection from undead.
 
-Some of her most fervent followers seek out the secret of attaining undeath for themselves. Kiaransalee favors them by bringing them back as undead, but unlike other gods of similar sort, Kiaransalee doesn't offer the undeath of lichdom but a lowly existence as a banshee, a revenant, or a wight.
+Some of her most fervent followers seek out the secret of attaining undeath for themselves. Kiaransalee favors them by bringing them back as undead, but unlike other gods of similar sort, Kiaransalee doesn't offer the undeath of lichdom but a lowly existence as a banshee, a revet, or a wight.
 
 Drow believe that Kiaransalee was driven mad by returning from death as a god so many times, but her followers aren't discouraged by this assessment. Despite her madness, her actions are guided by a deep and devious cunning-a trait that drow attach more importance to than they do to sanity.
 
@@ -659,7 +660,6 @@ Those who find a way to survive in the painful world of sunlight either live as 
 ## The Raven Queen and the Shadar-kai
 
 > [!quote] A quote from High Lady Alustriel Silverhand  
-> 
 > The Raven Queen is trapped by her fascination with the past. She sits in her fortress, amidst all the memories of the world, looking at the ones that please her most as though they were glittering jewels. Many great wizards have attempted to understand her motives, but like a raven she has always remained cryptic, keeping her cache of secrets just out of their reach.
 
 The Raven Queen is a being of dark mystery. Accomplished wizards talk about her in hushed tones, and with no small amount of fear, for even they can't say what power she wields in her realms, too subtle for mortal minds to sense. Rumors abound as to her current form, most coming from claims made by lunatics who have described an array of disturbing images: a terrible shadow that clawed at their innermost thoughts, a pale and regal elf who exploded into an untold number of ravens, a shambling tangle of slick roots and sticks that overwhelmed them with dread, or an unknown presence that pulled them screaming blindly into the gloom.
@@ -692,14 +692,13 @@ After the nagpas were created and then banished by the Raven Queen, the shadar-k
 
 #### The Fortress of Memories
 
-Since achieving divinity, the Raven Queen has filled her realm with shadows and memories, obsessively collecting such essences from remnants of dead gods and mortals that were strewn throughout the Shadowfell. From these metaphysical fragments she formed her new home, a twisted castle that the shadar-kai call the Fortress of Memories. The fortress is a mournful place, filled with incessant echoes of the past. Flocks of ravens that act as her eyes and ears darken the skies around it when they emerge from within, bearing her cryptic messages and omens far and wide across the multiverse.
+Since achieving divinity, the Raven Queen has filled her realm with shadows and memories, obsessively collecting such essences from remts of dead gods and mortals that were strewn throughout the Shadowfell. From these metaphysical fragments she formed her new home, a twisted castle that the shadar-kai call the Fortress of Memories. The fortress is a mournful place, filled with incessant echoes of the past. Flocks of ravens that act as her eyes and ears darken the skies around it when they emerge from within, bearing her cryptic messages and omens far and wide across the multiverse.
 
 ##### Bizarre Menagerie
 
 Within the Fortress of Memories are trinkets and items that the Raven Queen finds irresistible, memories plucked from people's pasts that have been invested with deep feelings of pain, sorrow, longing, guilt, or remorse. These items are brought to her as gifts from the shadar-kai. These trinkets can include furniture, clocks, mirrors, jewels, and toys. Also appearing in the fortress are ghostly visions of people, places, and pets. Any of these things can spontaneously appear about her lair, every object and apparition being a metaphoric representation of some story-great or small-that was saturated with raw emotion.
 
 > [!note] A Quest to the Fortress of Memories
-> 
 > Because the Raven Queen has godlike power, she can put an adventuring party inside a demiplane that is created from the psyche of one of the characters. On entering the Fortress of Memories, or encountering the Raven Queen, a character can find themselves transported to a strange fairy tale world pulled from their experiences, filled with metaphors, parables and allegories, all of which challenge that character's frailties, fears, and desires. Much can be learned from adventuring within the fortress and undergoing the Raven Queen's test, but much can also be lost. Many adventurers never return from the fortress, forever trapped within a world created from their own experience.
 ^a-quest-to-the-fortress-of-memories
 
@@ -728,10 +727,8 @@ Some adventurers claim to have been visited by the Raven Queen after their death
 The Raven Queen's reason for communing in this way is a matter of some dispute. Some sages posit that she is using people as pawns in an inscrutable game, the rules of which are known only to her and the Lady of Pain. Others suggest that she is balancing the multiverse by having mortals complete various tasks, and some say that it is in these moments of obeisance to her that the Raven Queen recalls a fragment of her former self.
 
 > [!note] Vecna's Obsession
-> 
 > One evil mind is fixated on wresting away the Raven Queen's power: the archlich Vecna. Vecna has long coveted her ability over knowledge and souls; to steal souls would give him the ability to amass an army of the dead large enough to conquer the Shadowfell and turn it into his own kingdom of death. There he would rule from the Fortress of Memories, and through the Raven Queen's power have access to all the lost knowledge stored within the souls she has trapped over the millennia. But to this day, all his attempts to gain a foothold there have been thwarted.
-> 
-> Because of his obsession with usurping the Raven Queen, and claiming the Fortress of Memories, Vecna has embroiled himself in a terrible conflict, leading his armies into relentless battles against the Raven Queen and her shadar-kai fanatics and against the vampire lord Kas, Vecna's former lieutenant, whom Vecna wants to see destroyed over all other enemies. Some say this war is just another of the Raven Queen's beloved tragedies playing out for her amusement.
+> Because of his obsession with usurping the Raven Queen, and claiming the Fortress of Memories, Vecna has embroiled himself in a terrible conflict, leading his armies into relentless battles against the Raven Queen and her shadar-kai fanatics and against the vampire lord Kas, Vecna's former lieutet, whom Vecna wants to see destroyed over all other enemies. Some say this war is just another of the Raven Queen's beloved tragedies playing out for her amusement.
 ^vecnas-obsession
 
 ### Servants of the Queen
@@ -793,19 +790,33 @@ This section provides tables for players and DMs who want to choose or randomly 
 
 Legends speak of 2 elves as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 2 elves.
 
-## Adventure Hooks
-
-- A rumor ties 2 elves to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 2 elves to avert a public scandal.
-- A map overlay reveals a hidden approach to 2 elves active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

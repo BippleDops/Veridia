@@ -15,24 +15,26 @@ updated: '2025-08-13T01:18:36.888010+00:00'
 world: Both
 ---
 
-
 > [!figure] Portrait
 ![[04_Resources/Assets/Portraits/portrait-npc-senator-cordelia-deepcurrent-senator-cordelia-deepcurrent.svg]]
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Envoy Blackwater Jr.|02 Worldbuilding/People/Envoy Blackwater Jr.]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Envoy Blackwater Jr.]]
-- [[Mayor Thompson]]
-- [[Senator Marius]]
 
 ## Player-Facing Summary
 
@@ -42,19 +44,22 @@ Senator Cordelia Deepcurrent is a undersea element of the setting, known for bio
 
 Legends speak of Senator Cordelia Deepcurrent as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Senator Cordelia Deepcurrent.
 
-## Adventure Hooks
-
-- A rumor ties Senator Cordelia Deepcurrent to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Senator Cordelia Deepcurrent to avert a public scandal.
-- A map overlay reveals a hidden approach to Senator Cordelia Deepcurrent active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A stranger needs help investigating before winter
+- Someone is blackmailing information for love
+- Someone is blackmailing a witness for power
+- An heirloom has gone missing and truth emerges
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

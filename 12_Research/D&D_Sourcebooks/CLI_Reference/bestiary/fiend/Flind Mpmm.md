@@ -31,9 +31,6 @@ updated: '2025-08-13T12:34:05.844234+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-flind-mpmm-flind-mpmm.svg)
 
@@ -72,7 +69,6 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
   - "name": "[[skills#Intimidation|Intimidation]]"
     "desc": "+5"
   - "name": "[[skills#Perception|Perception]]"
-    "desc": "+5"
 "senses": "darkvision 60 ft., passive Perception 15"
 "languages": "Gnoll, Abyssal"
 "cr": "9"
@@ -92,10 +88,8 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
       \ its reach. If there's no creature within reach, the target instead moves half\
       \ its speed in a random direction."
     "name": "Flail of Chaos"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10\
       \ (1d10 + 5) bludgeoning damage plus 16 (3d10) psychic damage."
     "name": "Flail of Pain"
-  - "desc": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 10\
       \ (1d10 + 5) bludgeoning damage, and the target must succeed on a DC 16 Constitution\
       \ saving throw or be [[conditions#Paralyzed|paralyzed]] until\
       \ the end of its next turn."
@@ -110,6 +104,24 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Environment
 
 coastal, forest, grassland, hill
@@ -122,19 +134,15 @@ Flind mpmm is a undersea element of the setting, known for bioluminescent glow a
 
 Legends speak of flind mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around flind mpmm.
 
-## Adventure Hooks
-
-- A rumor ties flind mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at flind mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to flind mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Depths

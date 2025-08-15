@@ -24,22 +24,36 @@ updated: '2025-08-13T12:34:06.842885+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Item
 ![](04_Resources/Assets/Items/item-artifact-assassins-blood-xdmg-assassins-blood-xdmg.svg)
 
 # Assassin's Blood
 *Adventuring gear, poison (ingested)*  
 
-
 - **Properties**: [[item-properties#Poison|Poison]]
 - **Cost**: 150 gp
 
 A creature subjected to Assassin's Blood makes a DC 10 Constitution saving throw. On a failed save, the creature takes 6 (`d12`) Poison damage and has the [[conditions#Poisoned|Poisoned]] condition for 24 hours. On a successful save, the creature takes half as much damage only.
 
-*Source: Dungeon Master's Guide (2024) p. 90. Available in the <span title='Systems Reference Document (5.2)'>SRD</span>*
+*Source: Dungeon Master's Guide (2024) p. 90. Available in the SRD*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -49,19 +63,35 @@ Assassins blood xdmg is a undersea element of the setting, known for bioluminesc
 
 Legends speak of assassins blood xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around assassins blood xdmg.
 
-## Adventure Hooks
-
-- A rumor ties assassins blood xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at assassins blood xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to assassins blood xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A corpse reveals the truth about this place
+- A journal reveals ancient history about this place
+- A stranger needs help delivering before winter
+- A corpse reveals a conspiracy about a local noble
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

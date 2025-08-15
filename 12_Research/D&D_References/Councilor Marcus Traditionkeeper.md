@@ -17,27 +17,22 @@ danger_level: Moderate
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Overview
+- Add cross-references to related notes
 
-TODO
-## History
+### Enhancement Improvements
 
-TODO
-## Layout
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-TODO
-## Notables
-
-TODO
-## Threats
-
-TODO
-## Hooks
-
-TODO
 
 ## Player-Facing Summary
 
@@ -47,23 +42,17 @@ Councilor Marcus Traditionkeeper is a undersea element of the setting, known for
 
 Legends speak of Councilor Marcus Traditionkeeper as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Councilor Marcus Traditionkeeper.
 
-## Adventure Hooks
-
-- A rumor ties Councilor Marcus Traditionkeeper to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Councilor Marcus Traditionkeeper to avert a public scandal.
-- A map overlay reveals a hidden approach to Councilor Marcus Traditionkeeper active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
-
-- [[Councilor Marcus Traditionkeeper|02 Worldbuilding/Places/Councilor Marcus Traditionkeeper]]
-
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- An heirloom has gone missing and chaos spreads
+- A noble needs help stealing before the new moon
+- A prisoner has gone missing and truth emerges

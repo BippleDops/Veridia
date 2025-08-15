@@ -21,7 +21,6 @@ updated: '2025-08-12T23:37:34.532431'
 world: Both
 ---
 
-
 # Chapter 5: The Town of Vallaki
 *Source: Curse of Strahd, p. 95* 
 
@@ -37,14 +36,30 @@ In the last festival, Baron Vallakovich had townsfolk parade through the streets
 > 
 > There is no light in the eyes of the men that feed off this land. They are as dead as the dead.
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Approaching the Town
 
 When the characters first approach Vallaki, read:
 
 > [!readaloud] 
-> 
 > The Old Svalich Road meanders into a valley watched over by dark, brooding mountains to the north and south. The woods recede, revealing a sullen mountain burg surrounded by a wooden palisade. Thick fog presses up against this wall, as though looking for a way inside, hoping to catch the town aslumber.
-> 
 > The dirt road ends at a set of sturdy iron gates with a pair of shadowy figures standing behind them. Planted in the ground and flanking the road outside the gates are a half-dozen pikes with wolves' heads impaled on them.
 ^328
 
@@ -120,8 +135,6 @@ The following areas correspond to labels on the map of Vallaki above.
 
 No map of the church is provided. If one becomes necessary, assume that this church has the same configuration as the one in the village of Barovia (chapter 3, area E5), but without the undercroft.
 
-> [!readaloud] 
-> 
 > This slouching, centuries-old stone church has a bulging steeple in the back and walls lined with cracked, stained glass windows depicting pious saints. A fence of wrought iron encloses a garden of gravestones next to the church. A thin mist creeps among the graves.
 ^331
 
@@ -129,7 +142,7 @@ This church is dedicated to the Morninglord and named after St. Andral, whose bo
 
 Father Lucian Petrovich (LG male human [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|priest]]) oversees the church and does his best to raise spirits. Assisting him is an orphan and altar boy named Yeska (LG male human noncombatant). A brawny lad with a perpetually furrowed brow named [[/03_Mechanics/CLI/bestiary/npc/milivoj-cos|Milivoj]] (see below) tends the grounds and digs graves.
 
-At night, the church is packed with `2d6 + 6` [[conditions#Frightened|frightened]] Vallakian adults (male and female human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]]) and `2d6` equally terrified Vallakian children (male and female human noncombatants). Father Lucian offers his nightly congregation his prayers and the promise of St. Andral's protection. Among Father Lucian's nightly flock is a sad old woman named Willemina Rikalova. Her son, the shoemaker Udo Lukovich, has been imprisoned for speaking out against the burgomaster (see area N3m). She prays that her son will be set free.
+At night, the church is packed with `2d6 + 6` [[conditions#frightened|frightened]] Vallakian adults (male and female human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoners]]) and `2d6` equally terrified Vallakian children (male and female human noncombatants). Father Lucian offers his nightly congregation his prayers and the promise of St. Andral's protection. Among Father Lucian's nightly flock is a sad old woman named Willemina Rikalova. Her son, the shoemaker Udo Lukovich, has been imprisoned for speaking out against the burgomaster (see area N3m). She prays that her son will be set free.
 
 ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/049-cos05-03.webp#center|Milivoj]]
 
@@ -152,8 +165,6 @@ The theft of the bones has left the church vulnerable to attack by Strahd's mini
 
 ### N2. Blue Water Inn
 
-> [!readaloud] 
-> 
 > Gray smoke issues from the chimney of this large, two-story wooden building with a stone foundation and sagging tile roof, upon which several ravens have perched. A painted wooden sign hanging above the main entrance depicts a blue waterfall.
 ^334
 
@@ -165,7 +176,6 @@ The inn offers a pint of Purple Grapemash No. 3 wine for 3 cp, or a pint of the 
 
 The inn's wine supply is almost depleted, and the latest delivery from the Wizard of Wines winery is overdue. If the characters claim to be adventurers, Urwin asks them if they would be so kind as to find out what's holding up the latest shipment, promising them free room and board if they return with the wine.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/050-014.webp#gallery|Map 5.2: Blue Water Inn (Area N2)]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/051-cos501.webp#gallery|Player Version]]
 
@@ -181,8 +191,6 @@ If the characters earn the trust of the wereravens in Vallaki, the Keepers of th
 
 If your card reading reveals that a treasure is hidden at the inn, the Keepers of the Feather don't reveal where the treasure is until they know the characters are capable of protecting it. As a way of testing their abilities, Urwin gives the characters the following quest:
 
-> [!readaloud] 
-> 
 > Urwin takes you aside and keeps his voice low. "My supply of wine is nearly gone, and the next shipment is overdue. I'll give you what you seek if you bring me my wine. The vineyard and winery is a few miles west of here. Just follow the Old Svalich Road and the signs."
 ^337
 
@@ -200,8 +208,6 @@ A wooden staircase hugs the outer wall of the inn and leads up to guest quarters
 
 #### N2c. Taproom
 
-> [!readaloud] 
-> 
 > Damp cloaks hang from pegs in the entrance portico. The tavern is packed with tables and chairs, with narrow paths meandering between them. A bar stretches along one wall, under a balcony that can be reached by a wooden staircase that hugs the north wall. Another balcony overhangs an entrance to the east. All the windows are fitted with thick shutters and crossbars. Lanterns hanging above the bar and resting on the tables bathe the room in dull orange light and cast shadows upon the walls, most of which are adorned with wolf heads mounted on wooden plaques.
 ^33b
 
@@ -223,7 +229,6 @@ These two are dour fellows, but they seldom pass up an opportunity to earn coin.
 
 On rare occasions when he has something to say, Szoldar speaks brusquely, while Yevgeni usually parrots his friend in not so many words. Szoldar has a notch in his bow for every wolf he's killed, while Yevgeni adds a new swatch to his wolfskin cloak every time he makes a kill. Both men have families but spend most of their time together, either drowning their sorrows or hunting in the woods. Most of the wolf heads that adorn the tavern walls are the result of their handiwork.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/052-cos05-05.webp#gallery|Szoldar Szoldarovich]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/053-cos05-06.webp#gallery|Yevgeni Krushkin]]
 
@@ -243,8 +248,6 @@ During his stay at the inn, [[/03_Mechanics/CLI/bestiary/npc/rictavio-cos|Rictav
 
 #### N2d. Wine Storage
 
-> [!readaloud] 
-> 
 > This hallway contains three curtained alcoves as well as a larger area stuffed with wine barrels.
 ^340
 
@@ -256,8 +259,6 @@ The double doors that lead outside can be barred shut from within.
 
 #### N2e. Kitchen
 
-> [!readaloud] 
-> 
 > This room looks like the kitchen of someone who loves to cook. It has piles of pots, walls lined with utensils and shelves of ingredients, and all manner of pleasant odors. Two lanterns hang above a sturdy pine worktable in the middle of the clutter. A pot of soup bubbles on the hearth.
 ^342
 
@@ -269,8 +270,6 @@ A secret door at the west end of the south wall can be pushed open to reveal a w
 
 The sliding wooden doors on the west wall of this room are held shut by an iron lock and chain. Urwin carries the key to the lock. The doors to the north and south can be barred shut from the inside but are usually unlocked.
 
-> [!readaloud] 
-> 
 > You hear the squawking of birds and the plaintive whinny of a horse as you peer inside this stable. The stalls are clean and well maintained. One of them contains a gray mare. A small door is set into the east wall, and a wooden ladder gives access to a loft overhead. Perched on the wooden railing that encloses the loft are dozens of ravens.
 ^344
 
@@ -284,8 +283,6 @@ This small room lies under a wooden staircase (area N2i). Hanging from wooden pe
 
 #### N2h. Ravens' Loft
 
-> [!readaloud] 
-> 
 > Dim light spilling in through a pair of dirt-encrusted windows reveals piles of hay with pitchforks sticking out of them. Ravens rule this roost—you can see hundreds of them.
 ^347
 
@@ -299,8 +296,6 @@ Inside the locked chest are 140 ep, 70 pp, two [[elixir-of-health-xdmg|elixirs o
 
 #### N2i. Secret Stairs and Hall
 
-> [!readaloud] 
-> 
 > A wooden staircase to the north descends fifteen feet to a landing. A window dimly illuminates a short, wood-paneled hallway that runs west to east.
 ^34a
 
@@ -310,8 +305,6 @@ At each end of this area is a secret door, each of which is easy to spot from in
 
 #### N2j. Great Balcony
 
-> [!readaloud] 
-> 
 > A wooden balcony stretches the full length of the taproom, enclosed by a wooden railing carved with raven motifs. The taproom's many lanterns illuminate the rafters and cast ominous shadows on the peaked ceiling.
 ^34c
 
@@ -321,19 +314,13 @@ A secret door at the south end of the western wall can be pushed open to reveal 
 
 #### N2k. Guest Balcony
 
-> [!readaloud] 
-> 
 > This twenty-foot-long balcony provides a clear view of the bar and has a wooden railing carved with raven motifs. The taproom's many lanterns illuminate the rafters and cast ominous shadows on the peaked ceiling.
 ^34e
-
-The balcony floor is 15 feet above the taproom floor.
 
 #### N2l. Guest Rooms
 
 These two rooms have identical furnishings.
 
-> [!readaloud] 
-> 
 > Two cozy beds with matching footlockers rest in the far corners of this fifteen-foot-square room. Wolf furs are heaped atop each bed. Between the beds, a lamp sits on a table under a shuttered window. Two tall black wardrobes stand against the wall by the door.
 ^350
 
@@ -341,8 +328,6 @@ The door to this room can be locked from the inside, and each guest gets a key. 
 
 #### N2m. Guest Room
 
-> [!readaloud] 
-> 
 > Four plain beds with straw mattresses line the north wall of this well-lit room. Each bed comes with a matching footlocker to store clothing and other belongings. A table and four chairs occupy the corner across from the door. An oil lamp resting on the table casts a bright yellow flame.
 ^352
 
@@ -352,8 +337,6 @@ The door to this room can be locked from the inside, and each guest receives a k
 
 [[/03_Mechanics/CLI/bestiary/npc/rictavio-cos|Rictavio]] has a key to this room, which is locked at all times. Urwin and Danika carry spare keys. The door's lock can be picked, but discretion is called for because the door is in plain view of the taproom below.
 
-> [!readaloud] 
-> 
 > This small guest room contains a bed heaped with wolf furs, a footlocker, a tall wardrobe, and a writing desk with matching chair. An oil lamp rests atop the desk near a journal bound in a red leather jacket.
 ^354
 
@@ -373,8 +356,6 @@ The journal on the desk is a bit of artifice that [[/03_Mechanics/CLI/bestiary/n
 
 #### N2o. Boys' Bedroom
 
-> [!readaloud] 
-> 
 > A large, painted toy box rests between two small, cozy beds. Murals of ravens in flight are painted on the walls above the wood paneling.
 ^357
 
@@ -392,8 +373,6 @@ A hidden trapdoor in the 8-foot-high ceiling opens into a secret attic (area N2q
 
 #### N2p. Master Bedroom
 
-> [!readaloud] 
-> 
 > Matching end tables flank a large wood-framed bed with a red silk canopy. Across from the bed hangs a tapestry depicting a beautiful mountain valley. The other walls are dominated by a fireplace and a wardrobe.
 ^359
 
@@ -401,12 +380,8 @@ Urwin and Danika retire to this room every night before heading to the attic (ar
 
 A secret door at the west end of the south wall can be pulled open to reveal the loft beyond (area N2h).
 
-A hidden trapdoor in the 8-foot-high ceiling opens into a secret attic (area N2q).
-
 #### N2q. Secret Attic
 
-> [!readaloud] 
-> 
 > This ten-foot-wide, thirty-five-foot-long attic has a ceiling that slants down toward the west, dropping from a height of eight feet to a height of five feet. Four straw nests cover the floor, and a locked iron strongbox sits against the north wall. A small square opening in the south wall leads outside. Two trapdoors with iron hinges are set into the floor.
 ^35b
 
@@ -426,8 +401,6 @@ If your card reading reveals that a treasure is here, it is in the iron strongbo
 
 ### N3. Burgomaster's Mansion
 
-> [!readaloud] 
-> 
 > This mansion has walls of plastered stone that display many scars where the plaster has fallen away from age and neglect. Drapes cover every window, including a large, arched opening above the mansion's double entrance doors.
 ^35f
 
@@ -435,7 +408,6 @@ People come and go from the mansion at all hours during the day. Guards bring cr
 
 If the characters knock on the front doors, a maid (LG female human [[/03_Mechanics/CLI/bestiary/humanoid/commoner-xmm|commoner]]) lets them in, escorts them to the den (area N3e), and leaves to fetch the baron.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/055-015.webp#gallery|Map 5.3: Burgomaster's Mansion (Area N3)]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/056-cos502.webp#gallery|Player Version]]
 
@@ -467,8 +439,6 @@ The baron's miserable son, [[/03_Mechanics/CLI/bestiary/npc/victor-vallakovich-c
 
 #### N3a. Entrance Hall and Vestibule
 
-> [!readaloud] 
-> 
 > Framed portraits adorn the walls of this grand foyer, which features a wide staircase with a sculpted railing. A long, carpeted hall attached to the foyer stretches almost the length of the mansion and has several doors leading away from it, including one at the far end. Bundles of twigs are heaped against the walls.
 ^365
 
@@ -482,8 +452,6 @@ Tucked in the northeast corner of the foyer is a vestibule packed with fine cloa
 
 #### N3b. Parlor
 
-> [!readaloud] 
-> 
 > This parlor contains a fine array of furnishings and draperies, with an overall feminine touch.
 ^367
 
@@ -493,8 +461,6 @@ The baroness sometimes entertains guests here.
 
 Characters can hear the chatter of female voices as they approach this room. The first time they peer inside, read:
 
-> [!readaloud] 
-> 
 > A chandelier of wrought iron fitted with wax candles hangs above a polished wooden dining table. Around the table are seated eight women of various ages in comfortable, high-backed chairs. They wear faded clothes, drink tea, and devour cake while a ninth woman, well dressed and very pleased with herself, circles the table and talks excitedly about decorations for the impending festival.
 ^369
 
@@ -506,8 +472,6 @@ A serving table stands in one corner of the dining hall.
 
 #### N3d. Preparation Room
 
-> [!readaloud] 
-> 
 > White sheets cover two plain wooden tables in the center of this room. Neatly arranged atop one table is a complete set of polished silverware. The other table is covered with wicker baskets containing turnips and beets.
 ^36b
 
@@ -521,8 +485,6 @@ The silverware set is worth 150 gp.
 
 Characters who ask to see the burgomaster are brought here.
 
-> [!readaloud] 
-> 
 > Padded chairs and couches line the walls of this cozy, carpeted den. The room reeks of pipe smoke, and mounted on the east wall is the head of an angry-looking brown bear.
 ^36e
 
@@ -530,8 +492,6 @@ The mounted bear's head is meant to unnerve visitors. It serves as a subtle warn
 
 #### N3f. Servants' Quarters
 
-> [!readaloud] 
-> 
 > This room contains four simple beds and an equal number of plain wooden trunks.
 ^370
 
@@ -539,8 +499,6 @@ The household staff consists of a maid (LG female human [[/03_Mechanics/CLI/best
 
 #### N3g. Kitchen
 
-> [!readaloud] 
-> 
 > A cook wearing a white apron over a black smock busies himself in this warm, well-appointed kitchen. A staircase in one corner climbs to the upper floor.
 ^372
 
@@ -548,8 +506,6 @@ The staircase leads to the upstairs gallery (area N3i). A door in the west wall 
 
 #### N3h. Pantry
 
-> [!readaloud] 
-> 
 > This pantry contains shelves of foodstuffs, although half of the shelves are bare. Two barrels of wine stand against the east wall.
 ^374
 
@@ -559,15 +515,11 @@ The pantry has not been fully stocked for as long as anyone can remember. The tw
 
 If the characters arrive here from the entrance hall (area N3a), read:
 
-> [!readaloud] 
-> 
 > The staircase climbs twenty feet to a beautifully appointed gallery that continues toward the west, running almost the length of the mansion. Framed landscape paintings line the walls, and red silk drapes cover a ten-foot-tall arched window of leaded glass.
 ^376
 
 If the characters arrive here from the kitchen (area N3g), read:
 
-> [!readaloud] 
-> 
 > The staircase climbs to a ten-foot-wide gallery that stretches almost the length of the mansion. Breathtaking paintings of landscapes line the walls. Two separate, narrow hallways lead away from the gallery to the north.
 ^377
 
@@ -577,8 +529,6 @@ The door to this room is locked. [[/03_Mechanics/CLI/bestiary/npc/izek-strazni-c
 
 The following description assumes the characters have met [[/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos|Ireena Kolyana]] (see chapter 3, area E4). If the characters haven't met her, don't read the last sentence.
 
-> [!readaloud] 
-> 
 > Dolls. This room is full of pretty little dolls with powder-white skin and auburn hair, some of them dressed beautifully, others plainly. Some of the dolls fill a long bookshelf, and others are arranged in neat rows on wall-mounted shelves. Still others are piled atop a bed and a heavy wooden chest. What's most odd is that all of the dolls, apart from their clothing, look the same. They all look like [[/03_Mechanics/CLI/bestiary/npc/ireena-kolyana-cos|Ireena Kolyana]].
 ^379
 
@@ -592,8 +542,6 @@ Each doll has a small tag stitched into its clothing that reads "Is No Fun, Is N
 
 #### N3k. Victor's Bedroom
 
-> [!readaloud] 
-> 
 > This handsomely appointed room contains a canopied bed, a low bookshelf, and a full-length mirror in a wooden frame on the wall across from the door. Set into the north wall is an arched window of leaded glass. Nothing here seems unusual.
 ^37c
 
@@ -601,15 +549,11 @@ Nothing about his bedroom betrays Victor's deviant nature or magical proclivitie
 
 #### N3l. Library
 
-> [!readaloud] 
-> 
 > Floor-to-ceiling shelves line every wall of this windowless room, and the number of books contained here is nothing short of astounding.A brass oil lamp sits atop a large desk in the center of the room. The chair behind the desk is comfortably padded and has the symbol of a roaring bear stitched into its back cushion.
 ^37e
 
 If the burgomaster has not been drawn elsewhere, he is here. Add:
 
-> [!readaloud] 
-> 
 > Standing behind the chair, holding an open book, is a bear of a man. His breastplate, rapier, silk tunic, and greasy beard glisten in the lamplight. Resting on small rugs to his left and right are a pair of black mastiffs.
 ^37f
 
@@ -629,8 +573,6 @@ The Vallakovich book collection contains old, leather-bound tomes on virtually e
 
 The door to this room is locked. The baron carries the key.
 
-> [!readaloud] 
-> 
 > Chained to the back wall of this otherwise empty closet is a badly beaten man wearing nothing but a loincloth. The iron shackles have cut into his wrists, causing blood to trickle down his hands.
 ^382
 
@@ -642,15 +584,11 @@ If the characters release Udo, his first desire is to return to his home. Later,
 
 #### N3n. Master Bedroom Closet
 
-> [!readaloud] 
-> 
 > Cloaks, coats, gowns, and other fancy apparel hang from hooks in this closet. Arranged on low shelves are many fine shoes, slippers, and boots.
 ^384
 
 #### N3o. Master Bedroom
 
-> [!readaloud] 
-> 
 > Time has faded the grandeur of this master bedroom. The furnishings have lost some of their color and splendor. A short pull-rope hangs from a wooden trapdoor in the ceiling.
 ^386
 
@@ -660,8 +598,6 @@ The trapdoor in the ceiling can be pulled down to reveal an attic room (area N3r
 
 #### N3p. Bridal Gown and Spirit Mirror
 
-> [!readaloud] 
-> 
 > This room smells of powder and fine perfume. A vanity with a mirror stands against one wall next to a faceless wooden mannequin wearing a white bridal gown. Mounted on another wall is a full-length mirror with a gilded frame. A door in one corner leads to a garderobe.
 ^388
 
@@ -676,13 +612,9 @@ The white gown stored here belongs to the baroness. It reminds her of happier ti
 A [[detect-magic-xphb|detect magic]] spell reveals that the gilded mirror on the wall radiates an aura of conjuration magic. None of the mansion's current occupants are aware of this fact, because the mirror's magic hasn't been used in generations. Casting an [[identify-xphb|identify]] spell on the mirror reveals that an assassin's ghost is magically bound to it. The spell also reveals the forgotten rhyme needed to summon the ghost:
 
 > [!note] 
-> 
 > *Magic mirror on the wall*,
-> 
 > *Summon forth your shade;*
-> 
 > *Night's dark vengeance, heed my call*
-> 
 > *And wield your murderous blade.*
 ^38b
 
@@ -702,8 +634,6 @@ If a character touches the mirror and speaks Strahd's name, there is a 50 percen
 
 #### N3q. Bathroom
 
-> [!readaloud] 
-> 
 > An iron tub with clawed feet stands against the back wall. Neatly folded towels rest atop a table near the door.
 ^38e
 
@@ -711,8 +641,6 @@ If a character touches the mirror and speaks Strahd's name, there is a 50 percen
 
 Characters are most likely to enter this room via a trapdoor in the ceiling of the master bedroom (area N3o).
 
-> [!readaloud] 
-> 
 > This dusty, twenty-foot-square room has a high-pitched ceiling that reaches its peak twenty feet above. The wooden rafters are shrouded in cobwebs. Except for an old table with a lantern on it, the room is empty.
 ^390
 
@@ -720,8 +648,6 @@ A door in the south wall can be pulled open to area N3s.
 
 #### N3s. Attic Storage
 
-> [!readaloud] 
-> 
 > This large attic is full of old, forgotten things draped in white sheets. Piled around them are barrels, crates, trunks, and old furnishings covered with cobwebs and dust. You see a clear footpath through the maze.
 ^392
 
@@ -737,8 +663,6 @@ If your card reading reveals that a treasure is here, the item is hidden in a tr
 
 Victor spends most of his time here, leaving only when he needs food or spell components. When the characters first set eyes on the door to this room, read:
 
-> [!readaloud] 
-> 
 > Someone has carved a large skull into this door. Hanging from the doorknob is a wooden sign that reads "ALL IS NOT WELL!" You hear a young man's voice beyond.
 ^395
 
@@ -748,15 +672,11 @@ The voice belongs to Victor. He is reading aloud from his spellbook. Anyone who 
 
 If the characters open the door, read:
 
-> [!readaloud] 
-> 
 > Someone has taken old, mismatched furniture and created a study is this dusty, lamplit chamber. Tables are strewn with pieces of parchment, on which strange diagrams are drawn, and a freestanding bookshelf holds a collection of bones. A dusty rug covers the floor in front of a pine box, on which lounges a skeletal cat. Several more skeletal cats skulk about. Most unnerving of all is the sight of three small children standing with their backs to you in the northeast corner of the room.
 ^396
 
 If the characters trigger the [[glyph-of-warding-xphb|glyph of warding]] or otherwise announce their arrival, Victor casts a [[greater-invisibility-xphb|greater invisibility]] spell on himself and hides in a corner. Otherwise, he's visible. If the characters can see Victor, read:
 
-> [!readaloud] 
-> 
 > In the center of the room, perched on a stool, is a thin young man with a premature streak of gray in his dark hair. He cradles an open leather-bound book in his arms.
 ^397
 
@@ -784,14 +704,11 @@ Victor's spellbook contains all the spells Victor has prepared (see the [[/03_Me
 
 ### N4. Wachterhaus
 
-> [!readaloud] 
-> 
-> This house seems disgusted with itself. A slouching roof hangs heavy over furrowed gables, and moss-covered walls sag and bulge under the weight of the vegetation. As you study the house's sullen countenance, you hear the edifice actually groan. Only then do you realize the extent to which the house hates what it has become.
+> This house seems disgusted with itself. A slouching roof hangs heavy over furrowed gables, and moss-covered walls sag and bulge under the weight of the vegetation. As you study the house's sullen countece, you hear the edifice actually groan. Only then do you realize the extent to which the house hates what it has become.
 ^39b
 
 The Wachter family, once an influential noble line in Barovia, owns and occupies a mansion in Vallaki. The house's reigning governess, Fiona Wachter, is a loyal servant of Strahd. She seeks to supplant Baron Vallakovich as the town burgomaster.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/058-016.webp#gallery|Map 5.4: Wachterhaus (Area N4)]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/059-cos503.webp#gallery|Player Version]]
 
@@ -815,8 +732,6 @@ If the characters come to Wachterhaus looking for help to overthrow the burgomas
 
 Lady Wachter has a different list of prepared spells from that of the [[/03_Mechanics/CLI/bestiary/humanoid/priest-xmm|priest]] in the "Monster Manual":
 
-> [!note] 
-> 
 > - Cantrips (at will): [[light-xphb|light]], [[mending-xphb|mending]], [[thaumaturgy-xphb|thaumaturgy]]  
 > - 1st level (4 slots): [[command-xphb|command]], [[purify-food-and-drink-xphb|purify food and drink]], [[sanctuary-xphb|sanctuary]]  
 > - 2nd level (3 slots): [[augury-xphb|augury]], [[gentle-repose-xphb|gentle repose]], [[hold-person-xphb|hold person]]  
@@ -839,8 +754,6 @@ The front door is locked and reinforced with bronze bands. All of the servants c
 
 If the characters knock on the front door, a servant opens a small window cut into the door at eye height and asks their business. Suspicious-looking strangers aren't invited inside, in case they're vampires.
 
-> [!readaloud] 
-> 
 > The front door opens into a narrow vestibule. Three stained-glass doors in wooden frames lead from it.
 ^3a2
 
@@ -848,8 +761,6 @@ Two closets flank the front door. The western closet contains Lady Wachter's out
 
 #### N4b. Staircase
 
-> [!readaloud] 
-> 
 > A wooden staircase leads up to a balcony. At the foot of the stairs is a landing with three stained-glass doors in wooden frames.
 ^3a4
 
@@ -869,8 +780,6 @@ The back door is locked and similar to the front door (area N4a) in every respec
 
 #### N4f. Servants' Closet
 
-> [!readaloud] 
-> 
 > Servants' coats and aprons hang from hooks in this room, and boots are neatly lined up against the wall.
 ^3a9
 
@@ -878,8 +787,6 @@ Anyone who searches the closet and makes a successful DC 10 Wisdom ([[skills#Per
 
 #### N4g. Secret Staircase
 
-> [!readaloud] 
-> 
 > Iron torch sconces cling to the wall of a stone staircase that cuts its way through the heart of the old house.
 ^3ab
 
@@ -887,8 +794,6 @@ The stairs connect the servants' closet (area N4f) with the cellar (area N4s). L
 
 #### N4h. Servants' Quarters
 
-> [!readaloud] 
-> 
 > The furnishing in this room are bereft of imagination: four simple beds with equally austere wooden chests.
 ^3ad
 
@@ -898,8 +803,6 @@ Lady Wachter's four servants (N male and female [[/03_Mechanics/CLI/bestiary/hum
 
 Lady Wachter greets her guests here, under the watchful eyes of her dead husband.
 
-> [!readaloud] 
-> 
 > Here three elegant couches surround an oval table made of black glass. All are set in front of a blazing hearth, above which hangs the portrait of a smirking nobleman sporting a broken nose and a tangle of hair graying at the temples. Several smaller portraits hang on the north wall.
 ^3af
 
@@ -909,8 +812,6 @@ The parlor shares the fireplace with the den (area N4k). Ernst Larnak lurks in t
 
 #### N4j. Dining Room
 
-> [!readaloud] 
-> 
 > An ornate dining table stretches the length of this room, a crystal chandelier hanging above it imperiously. The silverware is tarnished, the dishes chipped, yet all are still quite elegant. Eight chairs, their backs adorned with sculpted elk horns, surround the table. Arched windows made of a latticework of iron and glass look out onto the small, fog-swept estate.
 ^3b1
 
@@ -918,8 +819,6 @@ If the characters aim to oppose the burgomaster, Lady Wachter offers them a warm
 
 #### N4k. Den
 
-> [!readaloud] 
-> 
 > Wood paneling, embroidered rugs, colorful furnishings, and a blazing fire make this chamber stifling. Mounted above the mantel is an elk's head. Across from the hearth, tall, slender windows look out over dead gardens.
 ^3b3
 
@@ -931,8 +830,6 @@ The room contains several items of value, including a golden goblet (worth 250 g
 
 #### N4l. Upstairs Hall
 
-> [!readaloud] 
-> 
 > A hallway with a window at each end wraps around the staircase railing. Framed portraits and mirrors festoon the walls, surrounding you with judging looks and dark reflections. You hear something scratching at one of the many doors.
 ^3b6
 
@@ -940,8 +837,6 @@ The scratching noise comes from the door to area N4n, which is locked. If the ch
 
 #### N4m. Brothers' Rooms
 
-> [!readaloud] 
-> 
 > This bedroom contains nothing out of the ordinary: a neatly made bed, a table with an oil lamp on it, a handsome wooden chest, a slender wardrobe, and a window box with drapes.
 ^3b8
 
@@ -951,10 +846,7 @@ These two rooms belong to Lady Wachter's sons, Nikolai and Karl. There's a 25 pe
 
 The door to this room is locked from both sides, and only Lady Wachter has a key.
 
-> [!readaloud] 
-> 
 > This room is musty and dark. An iron-framed bed fitted with leather straps stands near a wall. The place has no other furnishings.
-> 
 > Scurrying away from you on all fours is a young woman in a soiled nightgown. She leaps onto the bed and hisses like a cat. "Little kitty doesn't know you!" she shouts. "Little kitty doesn't like the smell of you!"
 ^3ba
 
@@ -964,10 +856,7 @@ The young woman is [[/03_Mechanics/CLI/bestiary/npc/stella-wachter-cos|Stella Wa
 
 The door to this room is locked. Lady Wachter and her servants carry keys. A ghastly sight awaits those who peer into the room:
 
-> [!readaloud] 
-> 
 > Across from the door, a fire sputters and struggles for life in the hearth, above which hangs a framed family portrait: a noble father and mother, their two young sons, and a baby daughter in the father's arms. The sons are smiling in a way that suggests mischief. The parents look like uncrowned royalty.
-> 
 > Wood paneling covers the walls of the room. A closet and a framed mirror flank a curtained window to the south. To the north, a wide, canopied bed lies pinned between matching end tables with oil lamps. Stretched out on one side of the bed is a man dressed in black, his eyes each covered with a copper piece. He bears a striking resemblance to the father in the painting.
 ^3bc
 
@@ -985,8 +874,6 @@ If your card reading reveals that a treasure is here, it is in the iron chest th
 
 The double doors to this room are locked. Lady Wachter and her servants carry keys.
 
-> [!readaloud] 
-> 
 > This room is crawling with cats. Bookshelves hug the walls, but most of the shelves are bare. Other furnishings include a desk, a chair, a table, and a wine cabinet. The room has an irregular shape, and none of its angles seem quite right, as though the shifting of the house has set the whole place on edge.
 ^3bf
 
@@ -1002,8 +889,6 @@ A section of the bookshelf that stretches along the southernmost wall is actuall
 
 #### N4q. Storage Room
 
-> [!readaloud] 
-> 
 > Behind the hinged panel in the bookcase lies a dusty, ten-foot-square room with a curtained window and shelves lining three walls. On the bottom shelf rests an iron chest. The other shelves are bare.
 ^3c1
 
@@ -1027,8 +912,6 @@ Characters who have the [[tome-of-strahd-cos|Tome of Strahd]] (see appendix C) r
 
 If the characters approach the cellar door from the outside, read:
 
-> [!readaloud] 
-> 
 > A slanted, wooden cellar door with an iron pull ring and iron hinges stands against the foundation of the house.
 ^3c4
 
@@ -1036,8 +919,6 @@ The door is unlocked. On the other side of the door are stone steps leading to a
 
 #### N4s. Cellar
 
-> [!readaloud] 
-> 
 > This large root cellar has a dirt floor. Two ascending flights of stone steps enclosed by wooden railings stand across from one another. Tracks in the earth lead from one staircase to the other, and other trails go from both staircases to the center of the bare west wall. Four neatly made cots are set in a row against the south wall.
 ^3c6
 
@@ -1049,8 +930,6 @@ The footprints in the dirt give away the location of a secret door in the center
 
 #### N4t. Cult Headquarters
 
-> [!readaloud] 
-> 
 > Flickering candles in iron holders fill this room with light and shadows. This room has a ten-foot-high ceiling and a large black pentagram inscribed on the stone floor. At each point of the pentagram rests a wooden chair. Seated in four of the five chairs are men and women in black robes with hoods: a young man who has the face of an angel; a balding hulk of a man; a squat, middle-aged woman; and a taller, younger woman with an unsettling glare. They rise to confront you.
 ^3c8
 
@@ -1064,10 +943,7 @@ The pentagram is a nonmagical decoration, though Lady Wachter would have her cul
 
 ### N5. Arasek Stockyard
 
-> [!readaloud] 
-> 
 > This large stockyard has several locked sheds along its periphery and lies adjacent to a roomy warehouse. A wooden sign above the front gate reads "Arasek Stockyard."
-> 
 > Parked at the south end of the stockyard is a sturdy carnival wagon, its colorful paint peeling off. Faded lettering on its sides spells out the words "[[/03_Mechanics/CLI/bestiary/npc/rictavio-cos|Rictavio]]'s Carnival of Wonders." A heavy padlock secures the back door.
 ^3ca
 
@@ -1077,8 +953,6 @@ The stockyard is a general store and a facility where storage sheds can be rente
 
 The colorful half-elf bard [[/03_Mechanics/CLI/bestiary/npc/rictavio-cos|Rictavio]] (see area N2 and appendix D) paid Gunther and Yelena a generous amount of gold to watch his carnival wagon, no questions asked. If the characters approach the wagon, read:
 
-> [!readaloud] 
-> 
 > The wagon suddenly lurches, as though something big has thrown itself against the inside wall. You hear the cracking of wood, the scraping of metal, and the snarl of something inhuman. Upon closer inspection, you see that the sides of the wagon are spattered with dry blood. You also see an inscription on the wagon's door frame that reads, "I bring you from Shadow into Light!"
 ^3cc
 
@@ -1113,8 +987,6 @@ If your card reading reveals that a treasure is here, it is hidden with the othe
 
 ### N6. Coffin Maker's Shop
 
-> [!readaloud] 
-> 
 > This uninviting shop is two stories tall and has a sign shaped like a coffin above the front door. All of the window shutters are closed up tight, and a deathly silence surrounds the establishment.
 ^3d0
 
@@ -1130,14 +1002,11 @@ If the characters break into the store, Henrik offers no resistance. He tells th
 
 If the characters report the theft of the bones to the burgomaster, Baron Vallakovich dispatches four [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]] to arrest Henrik and retrieve the bones. If the guards show up during daylight hours, Henrik surrenders himself and the bones without a fight, claiming that vampires forced him to steal the bones. If the guards come at night, Henrik surrenders himself and tells the guards where the bones are hidden, but he won't retrieve the bones himself for fear of being killed by the vampires.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/063-cos05-13.webp#gallery|Map 5.5: Coffin Maker's Shop (Area N6)]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/064-cos504.webp#gallery|Player Version]]
 
 #### N6a. Coffin Storage
 
-> [!readaloud] 
-> 
 > Arranged haphazardly about the floor of this musty, L-shaped room are thirteen wooden coffins.
 ^3d2
 
@@ -1145,8 +1014,6 @@ Henrik stores and displays the coffins he has made in this room. All of them are
 
 #### N6b. Junk Room
 
-> [!readaloud] 
-> 
 > A table with four chairs is in one corner of this room, with a lantern hanging from a chain directly above. Two well-made cabinets stand against the east wall.
 ^3d4
 
@@ -1154,8 +1021,6 @@ The cabinets are packed with worthless items that Henrik has collected over the 
 
 #### N6c. Workshop
 
-> [!readaloud] 
-> 
 > This workshop contains everything a carpenter needs to make coffins and furniture. Three sturdy worktables stretch the length of the west wall.
 ^3d6
 
@@ -1163,8 +1028,6 @@ Henrik builds coffins and keeps his carpenter's tools in this room.
 
 #### N6d. Kitchen
 
-> [!readaloud] 
-> 
 > This kitchen contains a square table surrounded by chairs and shelves of provisions.
 ^3d8
 
@@ -1172,8 +1035,6 @@ Henrik prepares his meals here.
 
 #### N6e. Henrik's Bedroom
 
-> [!readaloud] 
-> 
 > This modest bedchamber holds a cot and several well-made pieces of furniture, including a table, a padded chair, a bookshelf, and a wardrobe.
 ^3da
 
@@ -1185,8 +1046,6 @@ The wardrobe in the southeast corner has a secret compartment in its base, requi
 
 #### N6f. Vampire Nest
 
-> [!readaloud] 
-> 
 > This large, drafty room is strung with cobwebs and takes up most of the upper floor. Stacks of wooden planks lie amid several crates marked "JUNK."
 ^3dd
 
@@ -1198,8 +1057,6 @@ Characters who teleport to this location from area K78 in Castle Ravenloft arriv
 
 ### N7. Blinsky Toys
 
-> [!readaloud] 
-> 
 > This cramped shop has a dark entrance portico, above which hangs a wooden sign shaped like a rocking horse, with a "B" engraved on both sides. Flanking the entrance are two arched, lead-framed windows. Through the dirty glass, you see jumbled displays of toys and hanging placards bearing the slogan "Is No Fun, Is No Blinsky!"
 ^3e0
 
@@ -1233,44 +1090,22 @@ Blinsky considers himself a student of a great inventor and toymaker named Fritz
 
 ### N8. Town Square
 
-> [!readaloud] 
-> 
 > The shops and homes that enclose the town square are decorated with limp, tattered garlands and painted wooden boxes filled with tiny, dead flowers. At the north end of the square stands a row of stocks, locked in which are several men, women, and children wearing crude, plaster donkey heads.
-> 
 > In the center of the square, peasants in patchwork clothes eye you suspiciously as they use cups and vases to draw water from a crumbling stone fountain. Standing tall at the center of the fountain is a gray statue of an impressive man facing west. All around the square are posted proclamations:
-> 
 > Come one, come all,
-> 
 > to the greatest celebration of the year:
-> 
 > THE WOLF'S HEAD JAMBOREE!
-> 
 > Attendance and children required.
-> 
 > Pikes will be provided.
-> 
 > ALL WILL BE WELL!
-> 
 > —The Baron—
 ^3e5
 
 The Wolf's Head Jamboree has already occurred, making the square's proclamations out of date. If the characters linger, they see the burgomaster's henchman, [[/03_Mechanics/CLI/bestiary/npc/izek-strazni-cos|Izek Strazni]] (see appendix D), arrive with two town [[/03_Mechanics/CLI/bestiary/humanoid/guard-xmm|guards]]. Izek orders one guard to tear down all of the old proclamations while the other posts the following new one:
 
-> [!readaloud] 
-> 
 > COME ONE, COME ALL,
-> 
-> to the greatest celebration of the year:
-> 
 > THE FESTIVAL OF THE BLAZING SUN!
-> 
-> Attendance and children required.
-> 
 > Rain or shine.
-> 
-> ALL WILL BE WELL!
-> 
-> —The Baron—
 ^3e6
 
 Most Vallakians have no idea whom the statue in the square represents. The burgomaster claims it is Boris Vallakovich, his ancestor and the town's founder, but there's no noticeable family resemblance.
@@ -1291,14 +1126,11 @@ If the guards fall to waylay the characters, Izek (if he's still around) flees t
 
 Several footpaths and horse trails lead to this location in the woods southwest of Vallaki.
 
-> [!readaloud] 
-> 
 > The woods part to reveal an expansive clearing: a small, grass-covered hill with low houses built into its sides. Fog obscures the details, but you can see that these buildings feature elegantly carved woodwork and have decorative lanterns hanging from their sculpted eaves. Atop the hill, above the fog, is a ring of barrel-topped wagons that surround a large tent with a column of smoke pouring out through a hole in the top. The tent is brightly lit from within. Even at this distance, you can smell the odors of wine and horses that emanate from this central area.
 ^3e9
 
 This natural clearing serves as a permanent campsite for the Vistani and their dusk elf allies.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/066-018.webp#gallery|Map 5.6: Vistani Camp (Area N9)]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/067-cos505.webp#gallery|Player Version]]
 
@@ -1320,7 +1152,6 @@ The dusk elves reside in small homes built into the hillside and are mostly self
 
 There are no women or children among the dusk elves. Strahd had all the female dusk elves put to death around four centuries ago as a punishment for Patrina's murder. Thus, the remaining elves can't procreate. A broken people, they are aware of the vampire's absolute hold over the land of Barovia. They keep a low profile and have no desire to incur Strahd's wrath again.
 
-> [!gallery]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/068-cos05-18.webp#gallery|Luvash]]
 > ![[/03_Mechanics/CLI/adventures/curse-of-strahd/img/069-cos05-17.webp#gallery|Arrigal]]
 
@@ -1328,8 +1159,6 @@ There are no women or children among the dusk elves. Strahd had all the female d
 
 If the characters approach the house at the base of the hill on the eastern perimeter of the camp, read the following text:
 
-> [!readaloud] 
-> 
 > Standing quietly in front of this house, bathed in the warm light of its lanterns, are three sullen, gray-cloaked figures, their angular features and black, flowing hair half-hidden under their cowls.
 ^3ee
 
@@ -1353,8 +1182,6 @@ If your card reading reveals that a treasure is here, it is in Kasimir's possess
 
 Six simple houses ring the base of the hill, three protruding from the north side and three from the south side.
 
-> [!readaloud] 
-> 
 > A grim, gray-cloaked figure stands in front of the door to this house.
 ^3f2
 
@@ -1364,8 +1191,6 @@ Each hovel is configured similarly to Kasimir's hovel. All are currently unoccup
 
 #### N9c. Vistani Tent
 
-> [!readaloud] 
-> 
 > Piled outside the wagon are several empty casks of wine. From inside the tent comes the crack of a whip followed by the howls of a young man. Three sputtering campfires fill the tent with smoke, and through the haze you see six Vistani passed out in various places on the dead grass. A barely conscious and shirtless teenager hugs the central tent pole, his wrists bound with rope and his back streaked with blood. An older, larger man in studded leather armor lashes the young man with a horsewhip, causing him to scream again. Standing in the bigger man's shadow is a third man also clad in studded leather. "Easy, brother," he says to the whip-wielding brute. "I think Alexei has learned his lesson."
 ^3f4
 
@@ -1393,8 +1218,6 @@ If the characters ask something of the Vistani but have not earned [[/03_Mechani
 
 #### N9d. Horses
 
-> [!readaloud] 
-> 
 > The hilltop is covered with steaming piles of horse dung. More than two dozen horses are tethered to stone blocks inside the circle of wagons but outside the tent. Most of the animals are draft horses, but a few of them are riding horses equipped with saddles.
 ^3f8
 
@@ -1402,8 +1225,6 @@ Twenty-four [[draft-horse-xmm|draft horses]] and six [[riding-horse-xmm|riding h
 
 #### N9e. Luvash's Wagon
 
-> [!readaloud] 
-> 
 > This barrel-topped wagon is nicer that the others. Drapes of golden silk hang in the windows, and the wheels have gold, sun-shaped hubcaps. An iron chimney pipe protrudes from the roof.
 ^3fa
 
@@ -1419,8 +1240,6 @@ The wagon's "golden sun" hubcaps are worth 125 gp apiece (500 gp total).
 
 There are four of these wagons at the camp.
 
-> [!readaloud] 
-> 
 > You hear heavy snores from within this barrel-topped wagon.
 ^3fd
 
@@ -1430,8 +1249,6 @@ Each of these wagons contains `d4` sleeping Vistani (CN male and female human [[
 
 There are three of these wagons at the camp.
 
-> [!readaloud] 
-> 
 > Loud voices and laughter spill from this barrel-topped wagon.
 ^3ff
 
@@ -1439,10 +1256,6 @@ Each of these wagons contains three Vistani (CN male and female human [[/03_Mech
 
 #### N9h. Vistani Family Wagon
 
-There are three of these wagons at the camp.
-
-> [!readaloud] 
-> 
 > This barrel-topped wagon is filled with the raucous screams and laughter of children.
 ^401
 
@@ -1450,8 +1263,6 @@ Each of these wagons contains one Vistani adult (male or female human [[/03_Mech
 
 #### N9i. Vistani Treasure Wagon
 
-> [!readaloud] 
-> 
 > Two iron padlocks secure the door of this barrel-topped wagon.
 ^403
 
@@ -1480,10 +1291,7 @@ Any of the following events can occur while the characters are staying in Vallak
 
 The Festival of the Blazing Sun takes place three days after the characters first arrive in Vallaki. You can delay the festival if the characters get waylaid or drawn elsewhere, or you can advance the timeline if the characters seem to be in a hurry.
 
-> [!readaloud] 
-> 
 > Under threatening skies, a parade of unhappy children dressed as flowers trudges through the muddy streets, leading the way for a group of sorry-looking men and women carrying a ten-foot-diameter wicker ball. The burgomaster and his smiling wife, who holds a sad bouquet of wilting flowers, follow the procession on horseback. As weary spectators watch from their stoops, the ball is borne to the town square. There, it is hoisted and hung from a fifteen-foot-high wooden scaffold, and townsfolk take turns splashing it with oil. Before the wicker sun can be set ablaze, the sky tears open in a sudden downpour. "All will be well!" cries the burgomaster as he brandishes a sputtering torch and marches defiantly through the rain toward the wicker ball, only to have his torch go out as he thrusts it into the sphere.
-> 
 > A singular laugh erupts from the crowd, drawing the burgomaster's fiery gaze as well as gasps from the townsfolk.
 ^408
 
@@ -1549,19 +1357,30 @@ If the characters thwart the attack on the church and protect Father Lucian, Str
 
 Legends speak of 07 chapter 5 the town of vallaki as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 07 chapter 5 the town of vallaki.
 
-## Adventure Hooks
-
-- A rumor ties 07 chapter 5 the town of vallaki to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 07 chapter 5 the town of vallaki to avert a public scandal.
-- A map overlay reveals a hidden approach to 07 chapter 5 the town of vallaki active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a conspiracy
+- A merchant needs help delivering before the new moon
+- Strange accidents suggest ancient magic
+- A prisoner has gone missing and evil awakens
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

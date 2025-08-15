@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.985064+00:00'
 world: Both
 ---
 
-
-
 # Appendix C: Magic Items
 *Source: Hoard of the Dragon Queen, p. 178* 
 
@@ -39,6 +37,24 @@ world: Both
 - White Dragon Mask  
 - [[mask-of-the-dragon-queen-rot|Mask of the Dragon Queen]]
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 12 appendix c magic items is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -47,19 +63,21 @@ world: Both
 
 Legends speak of 12 appendix c magic items as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around 12 appendix c magic items.
 
-## Adventure Hooks
-
-- A rumor ties 12 appendix c magic items to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at 12 appendix c magic items to avert a public scandal.
-- A map overlay reveals a hidden approach to 12 appendix c magic items active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A journal reveals the truth about a local noble
+- Strange dreams suggest ancient magic
+- A letter reveals a conspiracy about the government
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

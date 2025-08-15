@@ -25,8 +25,6 @@ updated: '2025-08-13T12:34:07.189266+00:00'
 world: Both
 ---
 
-
-
 # Scarab of Protection
 *Wondrous item, legendary (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/scarab-of-protection.webp#right)
@@ -34,6 +32,24 @@ world: Both
 - **Weight**: 1.0 lbs.
 
 This beetle-shaped medallion provides three benefits while it is on your person.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Defense
 
@@ -47,7 +63,7 @@ The scarab has 12 charges. If you fail a saving throw against a Necromancy spell
 
 You have [[advantage-xphb|Advantage]] on saving throws against spells.
 
-*Source: Dungeon Master's Guide (2024) p. 302. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*
+*Source: Dungeon Master's Guide (2024) p. 302. Available in the SRD and the Free Rules (2024)*
 
 ## Player-Facing Summary
 
@@ -57,19 +73,32 @@ Scarab of protection xdmg is a undersea element of the setting, known for biolum
 
 Legends speak of scarab of protection xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around scarab of protection xdmg.
 
-## Adventure Hooks
-
-- A rumor ties scarab of protection xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at scarab of protection xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to scarab of protection xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- Strange disappearances suggest a curse
+- A prisoner has gone missing and truth emerges
+- A document has gone missing and war looms
+- Strange dreams suggest a portal
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

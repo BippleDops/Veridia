@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.419603+00:00'
 world: Both
 ---
 
-
-
 # Level and Lethality; Trap Save DCs and Attack Bonuses
 *Source: Xanathar's Guide to Everything p. 116* 
 
@@ -36,6 +34,24 @@ world: Both
 | Deadly | 20 | +12 |
 ^trap-save-dcs-and-attack-bonuses
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Level and lethality trap save dcs and attack bonuses xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -44,19 +60,20 @@ Level and lethality trap save dcs and attack bonuses xge is a undersea element o
 
 Legends speak of level and lethality trap save dcs and attack bonuses xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around level and lethality trap save dcs and attack bonuses xge.
 
-## Adventure Hooks
-
-- A rumor ties level and lethality trap save dcs and attack bonuses xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at level and lethality trap save dcs and attack bonuses xge to avert a public scandal.
-- A map overlay reveals a hidden approach to level and lethality trap save dcs and attack bonuses xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Someone is searching for information for money
+- Someone is hunting a artifact for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

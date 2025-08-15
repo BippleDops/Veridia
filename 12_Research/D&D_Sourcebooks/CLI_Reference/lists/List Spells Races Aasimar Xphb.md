@@ -23,12 +23,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
-# Spells for Aasimar
+*20 targeted improvements identified*
 
-## Cantrip
+### Connection Improvements
 
-- [[/03_Mechanics/CLI/spells/light-xphb "XPHB"|Light]] as cantrip
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -38,19 +48,18 @@ List spells races aasimar xphb is a undersea element of the setting, known for b
 
 Legends speak of list spells races aasimar xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around list spells races aasimar xphb.
 
-## Adventure Hooks
-
-- A rumor ties list spells races aasimar xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at list spells races aasimar xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to list spells races aasimar xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- A merchant needs help investigating before dawn
+- A letter reveals a betrayal about the government
+- Someone is hunting a witness for money
+- Strange sightings suggest ancient magic

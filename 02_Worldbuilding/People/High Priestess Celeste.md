@@ -1,4 +1,5 @@
 ---
+
 title: High Priestess Celeste
 type: Npc
 tags:
@@ -10,6 +11,7 @@ tags:
 - active
 - universal
 - status/in-progress
+- bloodline
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +20,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.597337+00:00'
 world: Universal
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +30,72 @@ world: Universal
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-high-priestess-celeste-dawnbringer-high-priestess-celeste-dawnbringer.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more focused
-- **When Pleased**: Shows subtle satisfaction
-- **In Conflict**: Tends toward avoidance
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows quiet pride
-- **In Conflict**: Tends toward manipulation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+- Describe how this culture exists in other regions
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
 
 ## Player-Facing Summary
 
@@ -67,14 +104,6 @@ High Priestess Celeste is a undersea element of the setting, known for biolumine
 ## Lore Details
 
 Legends speak of High Priestess Celeste as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around High Priestess Celeste.
-
-## Adventure Hooks
-
-- A rumor ties High Priestess Celeste to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at High Priestess Celeste to avert a public scandal.
-- A map overlay reveals a hidden approach to High Priestess Celeste active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +114,6 @@ High Priestess Celeste's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Protecting loved ones
@@ -124,8 +123,6 @@ High Priestess Celeste's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 High Priestess Celeste harbors secrets that could change everything:
@@ -133,10 +130,6 @@ High Priestess Celeste harbors secrets that could change everything:
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Stolen identity
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +148,6 @@ High Priestess Celeste is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: High Priestess Celeste needs assistance with a delicate matter
@@ -164,8 +155,6 @@ High Priestess Celeste is currently engaged in:
 3. **The Secret**: Information about High Priestess Celeste's past surfaces
 4. **The Alliance**: Opportunity to work with or against High Priestess Celeste
 5. **The Crisis**: High Priestess Celeste is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,20 +168,39 @@ High Priestess Celeste is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[High Priestess Celeste]]
+## Bloodline
 
-<!-- enriched: true -->
-
+Member of House Lionblood - Trait: prophecy
 
 
+## Cultural Practices
 
-## Relationship Web
+### Greetings
+- Touch foreheads for equals
+- Bow deeply to superiors
+- Never shake with left hand
 
-- [[Scholar Emperor Thalassius the Wise]]: *debt holder*
-- [[04_Resources_Assets_Locations_location-city-temple-of-sacred-dreams-temple-of-sacred-dreams.svg]]: *debt holder*
+### Taboos
+- Speaking during sunset prayer
+- Wearing red on holy days
+- Pointing at the moon
 
-## Connections
 
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
+## Economic Structure
+
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
+
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
+
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

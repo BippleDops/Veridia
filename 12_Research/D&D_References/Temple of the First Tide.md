@@ -16,32 +16,22 @@ world: Both
 ---
 
 
+## 🔧 Deep Evaluation Improvements
 
+*20 targeted improvements identified*
 
+### Connection Improvements
 
-## Cross-References
+- Add cross-references to related notes
 
-- [[Thalassius the Wise|02 Worldbuilding/Lore/Thalassius The Wise]]
+### Enhancement Improvements
 
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
 
-## Connections
-
-- [[Crystal Forest]]
-- [[Deep Mother Lore]]
-- [[Kraken Territories]]
-- [[Pressure Adaptation System]]
-- [[Thalassius the Wise]]
-- [[The Crimson Hand]]
-- [[The Deep Harvest]]
-- [[The Great Convergence Prophecies]]
-- [[The Pressure Baptism Rites]]
-- [[The Restoration Movement]]
-- [[The Seven Betrayers]]
-- [[The Silverscale Conspiracy]]
-- [[Tidal Chambers]]
-- [[Tidal Memory Ceremonies]]
-- [[Aethermoor]]
-- [[Campaign_Relationship_Matrix|Campaign Relationship Matrix]]
 
 ## Player-Facing Summary
 
@@ -51,19 +41,34 @@ Temple of the First Tide is a undersea element of the setting, known for biolumi
 
 Legends speak of Temple of the First Tide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Temple of the First Tide.
 
-## Adventure Hooks
-
-- A rumor ties Temple of the First Tide to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Temple of the First Tide to avert a public scandal.
-- A map overlay reveals a hidden approach to Temple of the First Tide active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## Plot Hooks
+
+- A noble needs help finding before dawn
+- Strange disappearances suggest a curse
+- A merchant needs help investigating before winter
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

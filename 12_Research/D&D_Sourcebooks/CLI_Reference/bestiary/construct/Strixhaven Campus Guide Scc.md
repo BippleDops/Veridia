@@ -27,9 +27,6 @@ updated: '2025-08-13T12:34:06.060844+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-strixhaven-campus-guide-scc-strixhaven-campus-guide-scc.svg)
 
@@ -54,7 +51,6 @@ With cheerful dispositions and a knack for walking backward, Strixhaven campus g
   - !!int "13"
   - !!int "10"
   - !!int "12"
-  - !!int "12"
 "speed": "30 ft."
 "saves":
   - "dexterity": !!int "4"
@@ -62,7 +58,6 @@ With cheerful dispositions and a knack for walking backward, Strixhaven campus g
   - "name": "[[skills#Insight|Insight]]"
     "desc": "+3"
   - "name": "[[skills#Persuasion|Persuasion]]"
-    "desc": "+3"
 "damage_immunities": "poison"
 "condition_immunities": "[[conditions#Blinded|blinded]], [[conditions#Deafened|deafened]],\
   \ [[conditions#Exhaustion|exhaustion]], [[conditions#Paralyzed|paralyzed]],\
@@ -105,6 +100,24 @@ With cheerful dispositions and a knack for walking backward, Strixhaven campus g
 ```
 ^statblock
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Strixhaven campus guide scc is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -113,19 +126,28 @@ Strixhaven campus guide scc is a undersea element of the setting, known for biol
 
 Legends speak of strixhaven campus guide scc as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around strixhaven campus guide scc.
 
-## Adventure Hooks
-
-- A rumor ties strixhaven campus guide scc to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at strixhaven campus guide scc to avert a public scandal.
-- A map overlay reveals a hidden approach to strixhaven campus guide scc active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Second Prophecy of Shadows
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

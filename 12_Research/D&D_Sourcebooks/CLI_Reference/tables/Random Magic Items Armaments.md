@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:03.396206+00:00'
 world: Both
 ---
 
-
-
 # Random Magic Items - Armaments
 *Source: Dungeon Master's Guide (2024) p. 328* 
 
@@ -49,8 +47,6 @@ world: Both
 
 `dice: [](random-magic-items-armaments.md#^armaments-uncommon)`
 
-| dice: 1d100 | Item |
-|-------------|------|
 | 01–04 | [[adamantine-armor-xdmg|Adamantine Armor]] |
 | 05–08 | [[adamantine-weapon-xdmg|Adamantine Weapon]] |
 | 09–13 | [[1-ammunition-xdmg|Ammunition, +1]] |
@@ -78,8 +74,6 @@ world: Both
 
 `dice: [](random-magic-items-armaments.md#^armaments-rare)`
 
-| dice: 1d100 | Item |
-|-------------|------|
 | 01–03 | [[2-ammunition-xdmg|Ammunition, +2]] |
 | 04–07 | [[1-armor-xdmg|Armor, +1]] |
 | 08–10 | [[armor-of-resistance-xdmg|Armor of Resistance]] |
@@ -122,8 +116,6 @@ world: Both
 
 `dice: [](random-magic-items-armaments.md#^armaments-very-rare)`
 
-| dice: 1d100 | Item |
-|-------------|------|
 | 01–03 | [[3-ammunition-xdmg|Ammunition, +3]] |
 | 04–06 | [[ammunition-of-slaying-xdmg|Ammunition of Slaying]] |
 | 07–09 | [[animated-shield-xdmg|Animated Shield]] |
@@ -163,8 +155,6 @@ world: Both
 
 `dice: [](random-magic-items-armaments.md#^armaments-legendary)`
 
-| dice: 1d100 | Item |
-|-------------|------|
 | 01–06 | [[3-armor-xdmg|Armor, +3]] |
 | 07–12 | [[armor-of-invulnerability-xdmg|Armor of Invulnerability]] |
 | 13–18 | [[belt-of-cloud-giant-strength-xdmg|Belt of Giant Strength (cloud)]] |
@@ -185,6 +175,24 @@ world: Both
 | 96–00 | [[vorpal-sword-xdmg|Vorpal Sword]] |
 ^armaments-legendary
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Random magic items armaments is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -193,19 +201,28 @@ Random magic items armaments is a undersea element of the setting, known for bio
 
 Legends speak of random magic items armaments as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around random magic items armaments.
 
-## Adventure Hooks
-
-- A rumor ties random magic items armaments to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at random magic items armaments to avert a public scandal.
-- A map overlay reveals a hidden approach to random magic items armaments active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Shadows
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

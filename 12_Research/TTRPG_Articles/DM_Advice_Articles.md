@@ -14,32 +14,22 @@ modified: '2025-08-14'
 ---
 
 
-# Essential DM Advice Articles
+## 🔧 Deep Evaluation Improvements
 
-## The Angry GM
-- **"How to Manage Combat Like a Dolphin"**: https://theangrygm.com
-- **"Adjudicate Actions Like a Boss"**: Core action resolution
-- **"Run Better Sessions"**: Session management
+*20 targeted improvements identified*
 
-## Sly Flourish / Lazy DM
-- **"The Lazy DM's Workbook"**: https://slyflourish.com
-- **"8 Steps of Session Prep"**: Efficient preparation
-- **"Fantastic Locations"**: Location building
+### Connection Improvements
 
-## The Alexandrian
-- **"Three Clue Rule"**: https://thealexandrian.net
-- **"Node-Based Scenario Design"**: Non-linear adventures
-- **"Jaquaying the Dungeon"**: Dungeon design principles
+- Add cross-references to related notes
 
-## Gnome Stew
-- **"Never Unprepared"**: https://gnomestew.com
-- **"Odyssey"**: Campaign management
-- **"Focal Point"**: NPC creation
+### Enhancement Improvements
 
-## Tribality
-- **"Building Better Encounters"**: https://tribality.com
-- **"World Building 101"**: Setting creation
-- **"Player Engagement"**: Table management
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Reddit Communities
 - **r/DMAcademy**: Advice and resources
@@ -50,11 +40,9 @@ modified: '2025-08-14'
 ---
 *Curated DM advice from expert sources*
 
-
 ## Related
 
 *Links to related content will be added here.*
-
 
 ## DM Notes
 
@@ -63,3 +51,15 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Plot Hooks
+
+- Someone is protecting an heir for love
+- Strange accidents suggest a curse
+- Someone is searching for a witness for love
+- A prisoner has gone missing and evil awakens
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

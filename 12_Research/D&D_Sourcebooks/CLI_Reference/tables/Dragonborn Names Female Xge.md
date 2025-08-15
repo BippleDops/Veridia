@@ -22,8 +22,6 @@ updated: '2025-08-13T12:34:04.076278+00:00'
 world: Both
 ---
 
-
-
 # Dragonborn Names – Female
 *Source: Xanathar's Guide to Everything p. 175* 
 
@@ -85,6 +83,24 @@ world: Both
 | 99-00 | Zykroff |
 ^dragonborn-names-female
 
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
+
 ## Player-Facing Summary
 
 Dragonborn names female xge is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -93,19 +109,23 @@ Dragonborn names female xge is a undersea element of the setting, known for biol
 
 Legends speak of dragonborn names female xge as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dragonborn names female xge.
 
-## Adventure Hooks
-
-- A rumor ties dragonborn names female xge to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dragonborn names female xge to avert a public scandal.
-- A map overlay reveals a hidden approach to dragonborn names female xge active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]

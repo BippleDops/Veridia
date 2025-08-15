@@ -1,4 +1,5 @@
 ---
+
 title: Name Etymology Guide
 type: Lore
 tags:
@@ -23,19 +24,80 @@ status: complete
 obsidianUIMode: preview
 updated: '2025-08-13T12:34:16.313303+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
 
-# Name Etymology Guide
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### History Improvements
+
+- Add three historical eras with major events
+
+### Culture Improvements
+
+- Define unique cultural practices and taboos
+
+### Economy Improvements
+
+- Detail currency, trade goods, and wealth distribution
+
+### Religion Improvements
+
+- Create detailed religious observances
+
+### Lifestyle Improvements
+
+- Describe typical day for different social classes
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+- Add smells, sounds, and textures unique to this culture
+
+### Coming_Of_Age Improvements
+
+- Describe rites of passage and adulthood markers
+- Describe rites of passage and adulthood markers
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+- List common superstitions and their origins
+- List common superstitions and their origins
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
 
 ## Summary
 
 A comprehensive guide to naming conventions, linguistic origins, and cultural significance of personal names, place names, and institutional titles across both Aquabyssos and Aethermoor.
-
-## Aquabyssos Naming Conventions
-
-### **Personal Names**
 
 #### **Depth-Based Names**
 
@@ -64,7 +126,7 @@ Names incorporating underwater physics and navigation:
 - **Barometric** - Pressure measurement expertise
 - **Hydrostatic** - Water pressure knowledge
 - **Gradient** - Depth transition specialists
-- **Isobaric** - Equal pressure maintenance
+- **Isobaric** - Equal pressure maintece
 - **Pelagic** - Open water specialists
 
 **Navigational Heritage:**
@@ -82,8 +144,6 @@ Reflecting the importance of preserved wisdom:
 - **Scrollheart** - Scholarly tradition
 - **Wisdomdeep** - Profound understanding
 - **Truthkeeper** - Preserver of accurate information
-
-### **Titles and Honorifics**
 
 #### **Depth Rank System**
 
@@ -116,14 +176,12 @@ Guild and occupation-based naming:
 **Navigation Guild:**
 - **-course** suffix (Truecourse, Swiftcourse)
 - **-helm** suffix (Steadyhelm, Stormhelm)
-- **-anchor** suffix (Ironanchor, Deepanchor)
+- **-anchor** suffix (Irochor, Deepanchor)
 
 **Scholarly Guild:**
 - **-scroll** suffix (Wisdomscroll, Truthscroll)
 - **-mind** suffix (Deepmind, Brightmind)
 - **-lore** suffix (Ancientlore, Depthlore)
-
-### **Place Names**
 
 #### **Aquabyssos Geographic Naming**
 
@@ -142,10 +200,6 @@ Environmental features determining location names:
 **Pressure Features:**
 - **-pressure** compounds: High Pressure Quarters, Pressure Gardens
 - **-gradient** references: Thermal Gradient Plaza, Pressure Gradient Avenue
-
-## Aethermoor Naming Conventions
-
-### **Personal Names**
 
 #### **Wind and Sky-Based Names**
 
@@ -166,12 +220,12 @@ Names reflecting aerial environment and atmospheric phenomena:
 - **Cloudborn** - Family living at high elevations
 - **Crystalline** - Family associated with crystal technology
 
-#### **Crystal and Resonance Terminology**
+#### **Crystal and Resoce Terminology**
 
 Names incorporating crystal technology and harmonic principles:
 
 **Technical Heritage:**
-- **Resonance** - Harmonic expertise
+- **Resoce** - Harmonic expertise
 - **Harmonic** - Musical/technical precision
 - **Frequency** - Vibrational knowledge
 - **Amplitude** - Power and strength
@@ -191,8 +245,6 @@ Reflecting sky-based culture and elevation mastery:
 - **Cloud-** prefix: Cloudwalker, Clouddancer, Cloudseeker  
 - **Wind-** prefix: Windwright, Windrider, Windcaller
 - **Storm-** prefix: Stormcaller, Stormbringer, Stormwright
-
-### **Titles and Honorifics**
 
 #### **Altitude Rank System**
 
@@ -215,10 +267,8 @@ Social hierarchy based on elevation capability:
 
 #### **Professional Titles**
 
-Guild and occupation-based naming:
-
 **Crystal Engineering:**
-- **-wright** suffix (Crystalwright, Resonancewright)
+- **-wright** suffix (Crystalwright, Resocewright)
 - **-smith** suffix (Crystalsmith, Harmonysmith)
 - **-weaver** suffix (Soundweaver, Lightweaver)
 
@@ -232,8 +282,6 @@ Guild and occupation-based naming:
 - **-sage** suffix (Stormsage, Skysage)
 - **-keeper** suffix (Lorekeeper, Wisdomkeeper)
 
-### **Place Names**
-
 #### **Aethermoor Geographic Naming**
 
 Atmospheric and elevation-based location names:
@@ -245,15 +293,13 @@ Atmospheric and elevation-based location names:
 
 **Crystal Features:**
 - **-crystal** compounds: Crystal Heights, Crystal Gardens
-- **-resonance** references: Resonance Plaza, Harmony Resonance Academy
+- **-resoce** references: Resoce Plaza, Harmony Resoce Academy
 - **-harmony** places: Harmony Square, Crystal Harmony District
 
 **Altitude Markers:**
 - **-heights** suffix: Stormwind Heights, Crystal Heights
 - **-reach** suffix: Sky Reach, Cloud Reach
 - **-peak** suffix: Wind Peak, Storm Peak
-
-## Cross-Realm and Mixed Heritage Naming
 
 ### **Inter-Realm Family Names**
 
@@ -290,10 +336,6 @@ Occupations requiring expertise in both realms:
 - **-accord** (Accordkeeper, Accordwright)
 - **-harmony** (Harmonybuilder, Harmonykeeper)
 
-## Regional Variations and Dialects
-
-### **Aquabyssos Regional Names**
-
 #### **Hadal Depths Region**
 
 Names reflecting extreme depth culture:
@@ -322,8 +364,6 @@ Names incorporating geothermal features:
 - **Vent** features: Vent Market, Steam Plaza, Mineral Vent District
 - **Heat** references: Heat Quarter, Warmth Plaza, Steam Gardens
 
-### **Aethermoor Regional Names**
-
 #### **Northern Highland Region**
 
 Names reflecting mountain and high-altitude culture:
@@ -343,18 +383,14 @@ Names reflecting mountain and high-altitude culture:
 Names incorporating heavy crystal technology integration:
 
 **Personal Names:**
-- **Pure** crystal: Pureglass, Clearcrystal, Perfectresonance
-- **Hybrid** technology: Crystalwind, Harmonicstorm, Resonanceflow
-- **Advanced** mastery: Masterfrequency, Grandharmonic, Supremeresonance
+- **Pure** crystal: Pureglass, Clearcrystal, Perfectresoce
+- **Hybrid** technology: Crystalwind, Harmonicstorm, Resoceflow
+- **Advanced** mastery: Masterfrequency, Grandharmonic, Supremeresoce
 
 **Place Names:**
-- **Pure** crystal areas: Pure Crystal District, Clear Resonance Plaza
+- **Pure** crystal areas: Pure Crystal District, Clear Resoce Plaza
 - **Advanced** tech zones: Master Crystal Academy, Grand Harmony Center
 - **Integration** areas: Crystal-Wind Plaza, Harmonic Gardens
-
-## Naming Taboos and Restrictions
-
-### **Forbidden Name Elements**
 
 #### **Aquabyssos Taboos**
 
@@ -381,10 +417,8 @@ Names considered inappropriate or dangerous:
 
 **Discord and Chaos:**
 - Names suggesting harmonic failure avoided
-- "Discordvoice" or "Chaosresonance" considered cursed
+- "Discordvoice" or "Chaosresoce" considered cursed
 - Broken crystal references avoided in family names
-
-### **Sacred Name Restrictions**
 
 #### **Religious Protections**
 
@@ -414,22 +448,6 @@ Names indicating high social status:
 - Legendary hero names require demonstrated worthiness
 - Ancient ruler names prohibited for common families
 
-## Practical Applications
-
-### **For Dungeon Masters**
-
-- Use naming conventions to quickly establish character backgrounds
-- Name complexity indicates education level and social status
-- Regional name variations help establish geographic origins
-- Professional naming helps identify guild affiliations and expertise
-
-### **For Players**
-
-- Character names should reflect cultural background and depth/altitude adaptation
-- Name changes can indicate character development or cultural adoption
-- Professional titles unlock social recognition and guild access
-- Mixed heritage names create interesting roleplay opportunities
-
 ### **Campaign Integration**
 
 - Important NPCs should have names reflecting their cultural significance
@@ -441,15 +459,6 @@ Names indicating high social status:
 
 *"A name carries the weight of ancestry, the promise of potential, and the essence of identity. Choose wisely, for names have power in both the depths and the heights."* - Master Genealogist Marina Namekeeper
 
-## Connections
-
-- [[Depth Speak Variations]]
-- [[Wind Song Linguistic Guide]]
-- [[Common Idioms and Sayings]]
-- [[Professional Terminology]]
-- [[Cultural Exchange Society]]
-- [[Marriage Between Worlds]]
-
 ## Player-Facing Summary
 
 Name Etymology Guide is a undersea element of the setting, known for bioluminescent glow and pressure-glass. Its presence anchors ongoing storylines and offers clear player choices.
@@ -458,48 +467,41 @@ Name Etymology Guide is a undersea element of the setting, known for bioluminesc
 
 Legends speak of Name Etymology Guide as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Name Etymology Guide.
 
-## Adventure Hooks
-
-- A rumor ties Name Etymology Guide to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Name Etymology Guide to avert a public scandal.
-- A map overlay reveals a hidden approach to Name Etymology Guide active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
-
-## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
-- [[02_Worldbuilding/Groups/Cults_and_Movements/Cult of the Deep Mother]]
-
 
 ## Overview
 
 Name Etymology Guide represents an important aspect of the world's history, culture, or cosmology. This knowledge shapes understanding of current events and future possibilities.
 
-
 ## Historical Context
 
 The origins of this lore trace back through the ages, influenced by major events and cultural shifts. Its current form reflects centuries of development and interpretation.
-
 
 ## Cultural Impact
 
 Different cultures interpret this lore through their own lens, creating variations and conflicts in understanding. These interpretations influence daily life, politics, and belief systems.
 
 
-## Game Applications
 
-### Adventure Hooks
-- Discovery of related artifacts or texts
-- Conflicts arising from different interpretations
-- Prophecies beginning to manifest
+## Prophecy Connection
 
-### Character Connections
-- Scholarly interest
-- Personal involvement in events
-- Hereditary knowledge or curse
+Mentioned in The Second Prophecy of Depths
+
+
+## A Day in the Life
+
+### Nobility
+- 8am: Private tutoring
+- 10am: Court attendance
+- 2pm: Social visits
+- 6pm: Formal dinner
+- 9pm: Entertainment
+
+### Commoner
+- 5am: Morning prayers
+- 6am: Begin labor
+- Noon: Simple meal
+- 6pm: Return home
+- 8pm: Sleep

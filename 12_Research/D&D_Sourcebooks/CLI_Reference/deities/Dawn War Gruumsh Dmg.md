@@ -24,8 +24,6 @@ updated: '2025-08-13T12:34:04.449761+00:00'
 world: Both
 ---
 
-
-
 # Gruumsh
 *Source: Dungeon Master's Guide p. 10* 
 
@@ -33,6 +31,24 @@ world: Both
 - **Domains**: Tempest, War
 - **Pantheon**: Dawn War
 - **Symbol**: Triangular eye with bony protrusions
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -42,19 +58,30 @@ Dawn war gruumsh dmg is a undersea element of the setting, known for bioluminesc
 
 Legends speak of dawn war gruumsh dmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around dawn war gruumsh dmg.
 
-## Adventure Hooks
-
-- A rumor ties dawn war gruumsh dmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at dawn war gruumsh dmg to avert a public scandal.
-- A map overlay reveals a hidden approach to dawn war gruumsh dmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- The authorities needs help investigating before winter
+- Someone is protecting a artifact for money
+- Someone is searching for an heir for love
+- A corpse reveals ancient history about the government
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

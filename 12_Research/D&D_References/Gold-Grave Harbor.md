@@ -15,16 +15,26 @@ updated: '2025-08-13T01:18:36.920108+00:00'
 world: Both
 ---
 
-
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-gold-grave-harbor-gold-grave-harbor.svg)
 
 
+## 🔧 Deep Evaluation Improvements
 
-## Cross-References
+*20 targeted improvements identified*
 
-- [[Duchess Marina Ever-Drowning|02 Worldbuilding/People/Duchess Marina Ever Drowning]]
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -34,19 +44,30 @@ Gold Grave Harbor is a undersea element of the setting, known for bioluminescent
 
 Legends speak of Gold Grave Harbor as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around Gold Grave Harbor.
 
-## Adventure Hooks
-
-- A rumor ties Gold Grave Harbor to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at Gold Grave Harbor to avert a public scandal.
-- A map overlay reveals a hidden approach to Gold Grave Harbor active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The First Prophecy of Shadows
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

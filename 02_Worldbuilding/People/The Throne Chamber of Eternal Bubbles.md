@@ -1,4 +1,5 @@
 ---
+
 title: The Throne Chamber of Eternal Bubbles
 type: Npc
 tags:
@@ -10,6 +11,7 @@ tags:
 - active
 - complete
 - status/in-progress
+- prophecy
 created: '2025-08-11'
 modified: '2025-08-14'
 status: complete
@@ -18,6 +20,8 @@ class: Unknown
 location: Unknown
 updated: '2025-08-13T12:34:17.705796+00:00'
 world: Both
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
 
@@ -26,39 +30,72 @@ world: Both
 ![[04_Resources/Assets/04_Resources/Assets/Portraits/portrait-npc-the-throne-chamber-of-eternal-bubbles-the-throne-chamber-of-eternal-bubbles.svg]]
 
 
-## Overview
+## 🔧 Deep Evaluation Improvements
 
-TODO
-## Appearance
+*20 targeted improvements identified*
 
-TODO
-## Personality
+### History Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more calculating
-- **When Pleased**: Shows generous spirit
-- **In Conflict**: Tends toward avoidance
+- Add three historical eras with major events
 
+### Culture Improvements
 
-### Behavioral Patterns
-- **Under Stress**: Becomes more withdrawn
-- **When Pleased**: Shows open joy
-- **In Conflict**: Tends toward confrontation
+- Define unique cultural practices and taboos
 
+### Economy Improvements
 
-TODO
-## Goals
+- Detail currency, trade goods, and wealth distribution
 
-TODO
-## Relationships
+### Religion Improvements
 
-TODO
-## Hooks
+- Create detailed religious observances
 
-TODO
-## Stat Block
+### Lifestyle Improvements
 
-TODO
+- Describe typical day for different social classes
+
+### Material_Culture Improvements
+
+- Detail common objects and their cultural significance
+
+### Contradictions Improvements
+
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+- Include cultural hypocrisies and double standards
+
+### Evolution Improvements
+
+- Show how traditions are changing with new generation
+- Show how traditions are changing with new generation
+
+### Oral_Tradition Improvements
+
+- Add folk tales and children's stories
+- Add folk tales and children's stories
+
+### Death_Customs Improvements
+
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+- Detail funeral rites and afterlife beliefs
+
+### Superstitions Improvements
+
+- List common superstitions and their origins
+
+### Hospitality Improvements
+
+- Explain guest rights and host obligations
+
+### Sensory Improvements
+
+- Add smells, sounds, and textures unique to this culture
+
+### Diaspora Improvements
+
+- Describe how this culture exists in other regions
+
 
 ## Player-Facing Summary
 
@@ -67,14 +104,6 @@ The Throne Chamber of Eternal Bubbles is a undersea element of the setting, know
 ## Lore Details
 
 Legends speak of The Throne Chamber of Eternal Bubbles as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around The Throne Chamber of Eternal Bubbles.
-
-## Adventure Hooks
-
-- A rumor ties The Throne Chamber of Eternal Bubbles to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at The Throne Chamber of Eternal Bubbles to avert a public scandal.
-- A map overlay reveals a hidden approach to The Throne Chamber of Eternal Bubbles active only during specific tides/storms.
-
-
 
 ## Background
 
@@ -85,36 +114,6 @@ The Throne Chamber of Eternal Bubbles's path to their current position involved:
 - **Key Events**: Defining moments that set their course
 - **Rise to Position**: How they achieved their current status
 
-
-
-## Abilities
-
-### Combat (if applicable)
-- **AC**: 12 + relevant modifiers
-- **HP**: Appropriate to challenge rating
-- **Attacks**: Standard for their role
-
-### Special Abilities
-- Expertise in their professional field
-- Leadership or influence capabilities
-- Unique skills or knowledge
-
-
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
-
-
-### Connected NPCs
-- [[Unknown Ally]] - Trusted confidant
-- [[Unknown Rival]] - Professional competitor
-- [[Unknown Contact]] - Information source
-
 ## Motivations
 
 **Primary Goal**: Maintaining balance
@@ -124,8 +123,6 @@ The Throne Chamber of Eternal Bubbles's path to their current position involved:
 - Advance their organization's interests
 - Personal advancement or satisfaction
 
-
-
 ## Secrets
 
 The Throne Chamber of Eternal Bubbles harbors secrets that could change everything:
@@ -133,10 +130,6 @@ The Throne Chamber of Eternal Bubbles harbors secrets that could change everythi
 - **Public Secret**: Something widely suspected but unproven
 - **Private Secret**: Known only to a trusted few
 - **Deep Secret**: Prophetic visions
-
-
-
-
 
 ## Voice & Mannerisms
 
@@ -155,8 +148,6 @@ The Throne Chamber of Eternal Bubbles is currently engaged in:
 - Dealing with recent developments
 - Planning future operations
 
-
-
 ## Plot Hooks
 
 1. **The Request**: The Throne Chamber of Eternal Bubbles needs assistance with a delicate matter
@@ -164,8 +155,6 @@ The Throne Chamber of Eternal Bubbles is currently engaged in:
 3. **The Secret**: Information about The Throne Chamber of Eternal Bubbles's past surfaces
 4. **The Alliance**: Opportunity to work with or against The Throne Chamber of Eternal Bubbles
 5. **The Crisis**: The Throne Chamber of Eternal Bubbles is caught in a situation requiring intervention
-
-
 
 ## Notable Quotes
 
@@ -179,20 +168,39 @@ The Throne Chamber of Eternal Bubbles is currently engaged in:
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-## Cross-References
 
-- [[The Throne Chamber of Eternal Bubbles]]
+## Historical Timeline
 
-<!-- enriched: true -->
+### The Age of Founding (1000 years ago)
+- The First Settlement
+- Discovery of magical crystals
+- War with indigenous peoples
+
+### The Golden Era (500 years ago)
+- Economic prosperity
+- Cultural renaissance
+- Expansion of territory
+
+### The Time of Troubles (100 years ago)
+- Civil war
+- Natural disasters
+- Current power structures established
 
 
+## Economic Structure
 
+### Currency
+- Copper Drops (cp)
+- Silver Streams (sp) 
+- Gold Suns (gp)
+- Platinum Crowns (pp)
 
-## Relationship Web
+### Major Exports
+- Refined crystals
+- Exotic textiles
+- Trained beasts
 
-- [[Quest - Into the Wastes]]: *secret ally*
-- [[04_Resources_Assets_Symbols_symbol-heraldry-arcturus-lumenblade-arcturus-lumenblade.svg]]: *informant*
-
-## Connections
-
-- [[Throne of Bubbles]]
+### Wealth Distribution
+- 1% control 60% of wealth
+- 20% middle class
+- 79% working poor

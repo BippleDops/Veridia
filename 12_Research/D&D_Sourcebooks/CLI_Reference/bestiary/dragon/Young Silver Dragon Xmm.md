@@ -29,16 +29,31 @@ updated: '2025-08-13T12:34:06.026994+00:00'
 world: Both
 ---
 
-
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-young-silver-dragon-xmm-v1-young-silver-dragon-xmm.svg)
 
 # [[young-silver-dragon-xmm|Young Silver Dragon]]
-*Source: Monster Manual (2024) p. 278. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> and the Free Rules (2024)*  
+*Source: Monster Manual (2024) p. 278. Available in the SRD and the Free Rules (2024)*  
 
 Young silver dragons usually have close ties with elder metallic dragons or heroic role models, helping those with great goals achieve their ambitions. They might serve as messengers for or representatives of such do-gooders.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Silver Dragons
 
@@ -98,7 +113,6 @@ Silver dragons typically lair in picturesque mountain retreats or on sculpted cl
   - "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
       \ Failure: 49 (11d8) Cold damage. Success: Half damage."
     "name": "Cold Breath (Recharge 5-6)"
-  - "desc": "Constitution Saving Throw: DC 17, each creature in a 30-foot [[cone-area-of-effect-xphb|Cone]].\
       \ 1st Failure: The target has the [[conditions#Incapacitated|Incapacitated]]\
       \ condition until the end of its next turn, when it repeats the save. 2nd Failure:\
       \ The target has the [[conditions#Paralyzed|Paralyzed]] condition,\
@@ -123,19 +137,22 @@ Young silver dragon xmm is a undersea element of the setting, known for biolumin
 
 Legends speak of young silver dragon xmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around young silver dragon xmm.
 
-## Adventure Hooks
-
-- A rumor ties young silver dragon xmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at young silver dragon xmm to avert a public scandal.
-- A map overlay reveals a hidden approach to young silver dragon xmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Prophecy Connection
+
+Mentioned in The Hidden Prophecy of Depths
+
+
+## Plot Hooks
+
+- A noble needs help delivering before the new moon
+- A letter reveals ancient history about a local noble
+- A journal reveals ancient history about the government

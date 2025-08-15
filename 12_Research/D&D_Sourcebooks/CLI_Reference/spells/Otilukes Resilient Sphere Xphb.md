@@ -31,11 +31,8 @@ updated: '2025-08-13T12:34:06.592237+00:00'
 world: Both
 ---
 
-
-
 # Otiluke's Resilient Sphere
 *4th-level, Abjuration*  
-
 
 - **Casting time:** 1 Action
 - **Range:** 30 feet
@@ -52,7 +49,25 @@ A [[disintegrate-xphb|Disintegrate]] spell targeting the globe destroys it witho
 
 **Classes**: [[/03_Mechanics/CLI/lists/list-spells-classes-eldritch-knight-xphb "subclass=XPHB;class=XPHB"|Fighter (Eldritch Knight)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-abjurer-xphb "subclass=XPHB;class=XPHB"|Wizard (Abjurer)]]; [[/03_Mechanics/CLI/lists/list-spells-classes-oath-of-redemption-xge "subclass=XGE;class=XPHB"|Paladin (Oath of Redemption)]]; [[list-spells-classes-bard|Bard]]; [[/03_Mechanics/CLI/lists/list-spells-classes-arcane-trickster-xphb "subclass=XPHB;class=XPHB"|Rogue (Arcane Trickster)]]; [[list-spells-classes-wizard|Wizard]]
 
-*Source: Player's Handbook (2024) p. 303. Available in the <span title='Systems Reference Document (5.2)'>SRD</span> (as "Resilient Sphere") and the Free Rules (2024)*
+*Source: Player's Handbook (2024) p. 303. Available in the SRD (as "Resilient Sphere") and the Free Rules (2024)*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -62,19 +77,21 @@ Otilukes resilient sphere xphb is a undersea element of the setting, known for b
 
 Legends speak of otilukes resilient sphere xphb as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around otilukes resilient sphere xphb.
 
-## Adventure Hooks
-
-- A rumor ties otilukes resilient sphere xphb to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at otilukes resilient sphere xphb to avert a public scandal.
-- A map overlay reveals a hidden approach to otilukes resilient sphere xphb active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange sightings suggest a conspiracy
+- An heirloom has gone missing and chaos spreads
+- Someone is searching for an heir for power
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

@@ -1,4 +1,5 @@
 ---
+
 title: Quest Tree System
 type: quest-framework
 tags:
@@ -7,11 +8,11 @@ tags:
 - choices
 created: '2025-08-14'
 modified: '2025-08-14'
+evaluated: '2025-08-14'
+improvements: 20
 ---
 
-# Quest Tree System
 
-## Master Quest Network
 
 ### Quest_26
 **Prerequisites**: Complete [Quest C], Reputation: 55
@@ -33,114 +34,6 @@ modified: '2025-08-14'
 **Prerequisites**: Complete [Quest C], Reputation: 43
 **Unlocks**: Access to special vendor
 
-#### Alternative Solutions
-- Combat: Defeat 5 enemies using strategy
-- Diplomacy: Convince the merchant through blackmail
-- Stealth: Infiltrate the castle without alarms
-- Magic: Use divination to bypass obstacles
-
-#### Alternative Solutions
-- Combat: Defeat 15 enemies using brute force
-- Diplomacy: Convince the council through persuasion
-- Stealth: Infiltrate the temple without casualties
-- Magic: Use divination to bypass obstacles
-
-#### Alternative Solutions
-- Combat: Defeat 10 enemies using strategy
-- Diplomacy: Convince the council through blackmail
-- Stealth: Infiltrate the guild without casualties
-- Magic: Use transmutation to gain information
-
-#### Alternative Solutions
-- Combat: Defeat 17 enemies using strategy
-- Diplomacy: Convince the merchant through blackmail
-- Stealth: Infiltrate the guild without detection
-- Magic: Use divination to bypass obstacles
-
-#### Alternative Solutions
-- Combat: Defeat 20 enemies using ambush tactics
-- Diplomacy: Convince the merchant through persuasion
-- Stealth: Infiltrate the temple without casualties
-- Magic: Use illusion to alter reality
-
-#### Alternative Solutions
-- Combat: Defeat 5 enemies using brute force
-- Diplomacy: Convince the council through bribery
-- Stealth: Infiltrate the guild without alarms
-- Magic: Use illusion to alter reality
-
-#### Alternative Solutions
-- Combat: Defeat 9 enemies using brute force
-- Diplomacy: Convince the merchant through persuasion
-- Stealth: Infiltrate the guild without casualties
-- Magic: Use divination to bypass obstacles
-
-#### Alternative Solutions
-- Combat: Defeat 13 enemies using strategy
-- Diplomacy: Convince the merchant through blackmail
-- Stealth: Infiltrate the castle without detection
-- Magic: Use divination to alter reality
-
-#### Alternative Solutions
-- Combat: Defeat 17 enemies using brute force
-- Diplomacy: Convince the council through bribery
-- Stealth: Infiltrate the guild without casualties
-- Magic: Use divination to gain information
-
-#### Alternative Solutions
-- Combat: Defeat 7 enemies using strategy
-- Diplomacy: Convince the lord through persuasion
-- Stealth: Infiltrate the guild without casualties
-- Magic: Use divination to alter reality
-
-#### Failure Consequences
-
-- **Partial Failure**: Quest continues but rewards reduced
-- **Complete Failure**: Reputation damaged
-- **Catastrophic Failure**: City destroyed
-
-#### Failure Consequences
-
-- **Partial Failure**: Quest continues but time penalty
-- **Complete Failure**: Reputation damaged
-- **Catastrophic Failure**: Major NPC dies
-
-#### Failure Consequences
-
-- **Partial Failure**: Quest continues but rewards reduced
-- **Complete Failure**: Quest becomes unavailable
-- **Catastrophic Failure**: City destroyed
-
-#### Failure Consequences
-
-- **Partial Failure**: Quest continues but allies lost
-- **Complete Failure**: Reputation damaged
-- **Catastrophic Failure**: Major NPC dies
-
-#### Failure Consequences
-
-- **Partial Failure**: Quest continues but rewards reduced
-- **Complete Failure**: Enemy grows stronger
-- **Catastrophic Failure**: City destroyed
-
-#### Failure Consequences
-
-- **Partial Failure**: Quest continues but time penalty
-- **Complete Failure**: Quest becomes unavailable
-- **Catastrophic Failure**: City destroyed
-
-#### Failure Consequences
-
-- **Partial Failure**: Quest continues but allies lost
-- **Complete Failure**: Reputation damaged
-- **Catastrophic Failure**: Major NPC dies
-
-#### Failure Consequences
-
-- **Partial Failure**: Quest continues but time penalty
-- **Complete Failure**: Reputation damaged
-- **Catastrophic Failure**: War begins
-
 ### QuestChain_33
 
 1. **Introduction**: Mysterious message
@@ -153,92 +46,81 @@ modified: '2025-08-14'
 
 1. **Introduction**: Cry for help
 2. **Investigation**: Gather 7 clues
-3. **Confrontation**: Face the truth
-4. **Resolution**: New threat revealed
 5. **Epilogue**: Rewards granted
 
 ### QuestChain_35
 
-1. **Introduction**: Cry for help
-2. **Investigation**: Gather 7 clues
 3. **Confrontation**: Face the betrayer
 4. **Resolution**: Justice served
-5. **Epilogue**: World changed
 
 ### QuestChain_36
 
-1. **Introduction**: Mysterious message
 2. **Investigation**: Gather 4 clues
-3. **Confrontation**: Face the truth
-4. **Resolution**: New threat revealed
 5. **Epilogue**: New quests unlocked
 
-#### Reputation Changes
 
-- **The Crown Authority**: -25 reputation
-- **Order of the Flame**: -20 reputation
-- **Local Population**: Fear increases
+## 🔧 Deep Evaluation Improvements
 
-#### Reputation Changes
+*20 targeted improvements identified*
 
-- **The Circle of Mages**: -35 reputation
-- **Order of the Flame**: -44 reputation
-- **Local Population**: Respect increases
+### Combat Improvements
 
-#### Reputation Changes
+- Add encounter scaling table for parties of 3-6 players, levels 1-20
 
-- **Order of the Flame**: -21 reputation
-- **The Resistance**: +47 reputation
-- **Local Population**: Love increases
+### Rewards Improvements
 
-#### Reputation Changes
+- Create treasure parcels for each major encounter
 
-- **Merchant's Guild**: +41 reputation
-- **The Crown Authority**: +29 reputation
-- **Local Population**: Respect increases
+### Structure Improvements
 
-#### Reputation Changes
+- Add three-act structure with rising action
 
-- **The Circle of Mages**: +35 reputation
-- **The Resistance**: +25 reputation
-- **Local Population**: Respect increases
+### Choices Improvements
 
-#### Reputation Changes
+- Add meaningful decision points with consequences
 
-- **Merchant's Guild**: -12 reputation
-- **The Resistance**: +42 reputation
-- **Local Population**: Love increases
+### Roleplay Improvements
 
-#### Reputation Changes
+- Include ethical challenges without clear answers
 
-- **The Resistance**: -21 reputation
-- **Merchant's Guild**: -20 reputation
-- **Local Population**: Respect increases
+### Backup Improvements
 
-#### Reputation Changes
+- Add 'What if players skip this?' contingency
+- Add 'What if players skip this?' contingency
+- Add 'What if players skip this?' contingency
 
-- **The Resistance**: -20 reputation
-- **The Resistance**: +39 reputation
-- **Local Population**: Fear increases
+### Spotlight Improvements
 
-#### Reputation Changes
+- Include spotlight moment for each character class
+- Include spotlight moment for each character class
+- Include spotlight moment for each character class
 
-- **The Crown Authority**: -44 reputation
-- **The Circle of Mages**: -41 reputation
-- **Local Population**: Love increases
+### Soundtrack Improvements
 
-#### Reputation Changes
+- Suggest music/ambiance for each scene
 
-- **Order of the Flame**: +22 reputation
-- **Shadow Syndicate**: +16 reputation
-- **Local Population**: Fear increases
+### Level_Range Improvements
 
+- Provide scaling for different level ranges
+- Provide scaling for different level ranges
 
-## Connections
+### Props Improvements
 
-- See also: [[Campaign Guide]]
-- Related: [[Regional Politics]]
-- Connected to: [[Character Backstories]]
+- List physical props and handouts needed
+- List physical props and handouts needed
+
+### Accessibility Improvements
+
+- Include content warnings and safety tools
+- Include content warnings and safety tools
+
+### Art Improvements
+
+- Add AI art prompts for key scenes
+
+### Session_Zero Improvements
+
+- Add session zero integration questions
 
 
 ## DM Notes
@@ -248,3 +130,39 @@ modified: '2025-08-14'
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## Secret Connections
+
+*[Hidden from players]* Connected to The Secret Pact - Summon ancient evil
+
+
+## Plot Hooks
+
+- Someone is searching for a witness for money
+- Someone is searching for a artifact for power
+- Someone is searching for a artifact for power
+- A journal reveals ancient history about this place
+
+## Encounter Scaling
+
+| Party Level | 3 Players | 4 Players | 5 Players | 6 Players |
+|------------|-----------|-----------|-----------|----------|
+| 1-4 | CR 2 | CR 3 | CR 4 | CR 5 |
+| 5-10 | CR 7 | CR 9 | CR 11 | CR 13 |
+| 11-16 | CR 14 | CR 17 | CR 19 | CR 21 |
+| 17-20 | CR 22 | CR 24 | CR 26 | CR 28 |
+
+
+## Critical Decisions
+
+1. **The Prisoner's Dilemma**: Save the hostages OR pursue the villain
+2. **The Devil's Bargain**: Accept dark power OR fight with disadvantage
+3. **The Succession Choice**: Support the heir OR the usurper
+
+
+## Moral Quandaries
+
+- The villain's family begs for mercy
+- Stealing medicine to save a plague victim
+- Choosing between two villages to save

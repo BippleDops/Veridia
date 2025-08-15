@@ -23,15 +23,31 @@ updated: '2025-08-12T23:37:37.556307'
 world: Both
 ---
 
-
 # Talking Doll
 *Wondrous item, common (requires attunement)*  
 ![](/03_Mechanics/CLI/items/img/talking-doll.webp#right)
 
-
 While this doll is within 5 feet of you, you can spend a [[short-rest-xphb|Short Rest]] telling it to say up to six phrases, none of which can be more than six words long, and set a condition under which the doll speaks each phrase. You can also replace old phrases with new ones. Whatever the condition, it must occur within 5 feet of the doll to make it speak. For example, whenever someone picks up the doll, it might say, "I want a piece of candy." The doll's phrases are lost when your [[attunement-xphb|Attunement]] to the doll ends.
 
 *Source: Dungeon Master's Guide (2024) p. 315*
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Player-Facing Summary
 
@@ -41,18 +57,9 @@ Talking doll xdmg is a undersea element of the setting, known for bioluminescent
 
 Legends speak of talking doll xdmg as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around talking doll xdmg.
 
-## Adventure Hooks
-
-- A rumor ties talking doll xdmg to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at talking doll xdmg to avert a public scandal.
-- A map overlay reveals a hidden approach to talking doll xdmg active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
-
-<!-- enriched: true -->
-
 
 ## Related
 

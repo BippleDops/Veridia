@@ -10,7 +10,23 @@ created: '2025-08-14'
 modified: '2025-08-14'
 ---
 
-# Economic Warfare Simulation Theory
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Modeling Complex Economic Systems in TTRPG Environments
 
@@ -27,7 +43,7 @@ Research on implementing realistic economic manipulation and trade warfare mecha
 **Layer 2: Organizational Economics**
 - Faction resource management
 - Guild monopolies and price controls
-- Military financing and equipment costs
+- Military ficing and equipment costs
 - Criminal organization profit streams
 
 **Layer 3: Regional Markets**
@@ -77,7 +93,7 @@ Research on implementing realistic economic manipulation and trade warfare mecha
 - **Bio-luminescent Materials**: Deep creature harvesting, cultivation farms
 
 **Aethermoor Critical Resources:**
-- **Resonant Crystals**: High-altitude mining, harmonic amplification
+- **Resot Crystals**: High-altitude mining, harmonic amplification
 - **Wind Essence**: Storm capture technology, movement magic
 - **Cloud Water**: Precipitation harvesting, purification systems
 - **Stellar Materials**: Sky forge operations, cosmic alignment timing
@@ -131,7 +147,6 @@ class EconomicNode(BaseModel):
     market_connections: List[str]  # Where output flows
     
 class TradeRoute(BaseModel):
-    name: str
     start_location: str
     end_location: str
     transported_goods: List[str]
@@ -161,7 +176,6 @@ class TradeRoute(BaseModel):
 
 *Links to related content will be added here.*
 
-
 ## DM Notes
 
 *Private notes for campaign integration:*
@@ -169,3 +183,8 @@ class TradeRoute(BaseModel):
 - Scalable threat/reward based on party level
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

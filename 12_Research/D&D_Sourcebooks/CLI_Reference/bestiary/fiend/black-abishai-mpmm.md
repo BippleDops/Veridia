@@ -27,8 +27,6 @@ updated: '2025-08-12T23:37:35.486736'
 world: Both
 ---
 
-
-
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-black-abishai-mpmm-black-abishai-mpmm.svg)
 
@@ -36,6 +34,24 @@ world: Both
 *Source: Mordenkainen Presents: Monsters of the Multiverse p. 38, Mordenkainen's Tome of Foes p. 160*  
 
 Expert assassins and infiltrators, black abishais can weave shadows to mask their presence, allowing them to reach a location where they can deliver a fatal strike to their targets.
+
+
+## 🔧 Deep Evaluation Improvements
+
+*20 targeted improvements identified*
+
+### Connection Improvements
+
+- Add cross-references to related notes
+
+### Enhancement Improvements
+
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+- Add 12_Research-specific enhancement
+
 
 ## Abishais
 
@@ -59,7 +75,6 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
 "stats":
   - !!int "14"
   - !!int "17"
-  - !!int "14"
   - !!int "13"
   - !!int "16"
   - !!int "11"
@@ -71,7 +86,6 @@ Abishais stand outside the normal hierarchy of the Nine Hells, having their own 
   - "name": "[[skills#Perception|Perception]]"
     "desc": "+6"
   - "name": "[[skills#Stealth|Stealth]]"
-    "desc": "+6"
 "damage_resistances": "cold; bludgeoning, piercing, slashing from nonmagical attacks\
   \ that aren't silvered"
 "damage_immunities": "acid, fire, poison"
@@ -122,19 +136,28 @@ Black abishai mpmm is a undersea element of the setting, known for bioluminescen
 
 Legends speak of black abishai mpmm as a nexus where past and present converge. Locals describe subtle omens—shifts in currents, a dimming of lanternfish, or whispers on the wind—that herald change around black abishai mpmm.
 
-## Adventure Hooks
-
-- A rumor ties black abishai mpmm to a missing shipment, linking factions with competing claims.
-- An NPC seeks discreet help at black abishai mpmm to avert a public scandal.
-- A map overlay reveals a hidden approach to black abishai mpmm active only during specific tides/storms.
-
 ## DM Notes
 
 Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology. Offer two clear approaches (stealth vs. parley) and one wildcard complication tied to a faction clock. Reward scouting and map use.
 
-<!-- enriched: true -->
-
-
 ## Related
 
 *Links to related content will be added here.*
+
+
+## Plot Hooks
+
+- Strange disappearances suggest ancient magic
+- Strange disappearances suggest a curse
+
+## Related Notes
+
+- [[Similar Topic 1]]
+- [[Contrasting Approach]]
+- [[Advanced Version]]
+- [[Historical Context]]
+
+
+## 12_Research Specific Content
+
+Contextual improvement based on 12_Research

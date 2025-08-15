@@ -40,7 +40,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-whisper-witch-naia-softcurrent-v1-whisper-witch-naia-softcurrent.svg)
 
-
 # Whisper-Witch Naia Softcurrent
 
 ## 🔧 Deep Evaluation Improvements

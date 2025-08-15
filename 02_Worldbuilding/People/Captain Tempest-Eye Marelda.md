@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-tempest-eye-marelda-captain-tempest-eye-marelda.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

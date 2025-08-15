@@ -1,0 +1,51 @@
+{
+  "character": {
+    "name": "The Depth Wardens",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/The Depth Wardens.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Improvements",
+    "gender": "neutral",
+    "alignment": "Lawful Neutral",
+    "faction": "- npc",
+    "description": "title: The Depth Wardens\ntype: Npc\ntags:\n- aquabyssos\n- guardians\n- status/complete\n- military\n- content/faction\n- npc\n- character\n- content/npc\n- active\n- elite\n- complete\n- world/aquabyssos\ncreated: '2025-08-08'\nmodified: '2025-08-14'\nstatus: complete\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nMyCategory: Group\nMyContainer: None\nalignment: Lawful Neutral\ncategory: Military Organization\ncreated_by: auto-stub\ninfluence: High in Deep Ocean Territories\nobsidianUIMode: preview\nsize: Elite Unit (50-100 members)\nupdated: '2025-08-13T12:34:17.498455+00:00'\nworld: Aquabyssos\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "wise",
+    "appearance": "The Depth Wardens presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures]",
+    "divine": null,
+    "monstrous": [
+      "aberration"
+    ],
+    "pc": null,
+    "major": null
+  },
+  "style": "noir",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "friendly",
+    "expression": "smiling",
+    "lighting": "warm"
+  },
+  "prompt": "noir portrait of Unknown Unknown, The Depth Wardens presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures], weathered, smiling expression, warm lighting, high contrast style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.075Z",
+  "placeholder": true
+}

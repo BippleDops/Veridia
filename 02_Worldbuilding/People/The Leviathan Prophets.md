@@ -34,7 +34,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-leviathan-prophets-the-leviathan-prophets.svg)
 
-
 > [!figure] Portrait
 
 # The Leviathan Prophets

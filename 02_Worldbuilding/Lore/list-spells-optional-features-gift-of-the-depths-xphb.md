@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # list-spells-optional-features-gift-of-the-depths-xphb
 
 ## Overview

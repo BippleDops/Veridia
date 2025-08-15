@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-master-smith-priest-vulcan-depthforge-master-smith-priest-vulcan-depthforge.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

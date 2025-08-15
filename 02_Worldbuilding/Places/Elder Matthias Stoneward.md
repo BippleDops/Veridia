@@ -38,7 +38,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-elder-matthias-stoneward-elder-matthias-stoneward.svg)
 
-
 > [!figure] View
 
 # Elder Matthias Stoneward

@@ -59,7 +59,7 @@ world: Both
 | &emsp;[[dice set xphb|Dice set]] | 1 sp | — |
 | &emsp;[[dragonchess set xphb|Dragonchess set]] | 1 gp | 1/2 lb. |
 | &emsp;[[playing cards xphb|Playing card set]] | 5 sp | — |
-| &emsp;[[three dragon ante set xphb|Three-Dragon Ante set]] | 1 gp | — |
+| &emsp;[[three dragon ante set xphb|Three Dragon Ante set]] | 1 gp | — |
 | [[herbalism kit xphb|Herbalism kit]] | 5 gp | 3 lb. |
 | *Musical instruments* |  |  |
 | &emsp;[[bagpipes xphb|Bagpipes]] | 30 gp | 6 lb. |

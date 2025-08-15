@@ -1,0 +1,51 @@
+{
+  "character": {
+    "name": "Castellan Ironledger III",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Castellan Ironledger III.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "> - Maintains a deadman's switch that would release all secrets if he's killed",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": ".",
+    "description": "title: Castellan Ironledger III\ntype: NPC\ntags:\n- character\n- both\n- active\n- npc\n- conspiracy\n- prophecy\ncreated: null\nmodified: '2025-08-14'\nstatus: active\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nupdated: '2025-08-13T12:34:17.617718+00:00'\nworld: Both\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "",
+    "appearance": "## Abilities & Stats\n**AC:** 15 (Enchanted Clothing)\n**HP:** 45 (7d8 + 7)\n**Speed:** 25 ft.",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": [
+      "major NPC"
+    ]
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "standard",
+    "expression": "neutral",
+    "lighting": "balanced"
+  },
+  "prompt": "realistic portrait of Unknown Unknown, ## Abilities & Stats\n**AC:** 15 (Enchanted Clothing)\n**HP:** 45 (7d8 + 7)\n**Speed:** 25 ft., weathered, neutral expression, balanced lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.380Z",
+  "placeholder": true
+}

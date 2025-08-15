@@ -29,7 +29,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-golden-trade-route-the-golden-trade-route.svg)
 
-
 > [!figure] View
 
 # The Golden Trade Route

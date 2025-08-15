@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-warrior-thane-visionward-v1-warrior-thane-visionward.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

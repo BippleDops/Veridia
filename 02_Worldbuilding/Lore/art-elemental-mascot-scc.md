@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # art-elemental-mascot-scc
 
 ## Overview

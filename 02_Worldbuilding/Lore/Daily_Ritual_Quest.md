@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Daily_Ritual_Quest
 
 ## Overview

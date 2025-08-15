@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-doctor-helena-voidwalker-doctor-helena-voidwalker.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

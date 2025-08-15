@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # sphinx-of-lore-xmm
 
 ## Overview

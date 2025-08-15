@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-emergency-life-support-research-foundation-emergency-life-support-research-foundation.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

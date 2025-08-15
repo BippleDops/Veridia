@@ -29,7 +29,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-void-currents-v1-void-currents.svg)
 
-
 -08-11
 status: draft
 - both

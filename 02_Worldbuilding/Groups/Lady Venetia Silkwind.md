@@ -38,7 +38,6 @@ improvements: 20
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-lady-venetia-silkwind-lady-venetia-silkwind.svg)
 
-
 > [!figure] Heraldry
 
 # The Silk Trade Guild
@@ -350,3 +349,15 @@ Things widely suspected
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## Members
+
+### Leadership
+- *[Link to leader NPCs]*
+
+### Notable Members
+- *[Link to important faction members]*
+
+### Membership
+- **Size**: *[Approximate number of members]*
+- **Recruitment**: *[How they recruit new members]*

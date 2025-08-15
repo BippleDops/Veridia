@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # hobgoblin-warrior-xmm
 
 ## Overview

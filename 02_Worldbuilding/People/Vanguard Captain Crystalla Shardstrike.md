@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-vanguard-captain-crystalla-shardstrike-v1-vanguard-captain-crystalla-shardstrike.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

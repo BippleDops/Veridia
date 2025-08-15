@@ -44,7 +44,7 @@ world: Both
 - [[dice set xphb|Dice Set]]
 - [[dragonchess set xphb|Dragonchess Set]]
 - [[playing cards xphb|Playing Cards]]
-- [[three dragon ante set xphb|Three-Dragon Ante Set]]
+- [[three dragon ante set xphb|Three Dragon Ante Set]]
 
 *Source: Player's Handbook (2024) p. 221. Available in the SRD and the Free Rules (2024)*
 

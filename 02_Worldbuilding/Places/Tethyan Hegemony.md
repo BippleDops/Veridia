@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-tethyan-hegemony-tethyan-hegemony.svg)
 
-
 > [!figure] View
 
 # Tethyan Hegemony - The First Democracy of the Deep

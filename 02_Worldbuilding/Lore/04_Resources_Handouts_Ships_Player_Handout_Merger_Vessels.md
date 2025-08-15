@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 04_Resources/Handouts/Ships/Player_Handout_Merger_Vessels
 
 ## Overview

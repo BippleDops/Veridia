@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-intelligence-dealer-echo-whisperwave-intelligence-dealer-echo-whisperwave.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

@@ -1,0 +1,49 @@
+{
+  "character": {
+    "name": "Sorrow-Root Nightbloom",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Sorrow-Root Nightbloom.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "s: Common",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "that believes the only way to save nature is to weaponize it against civilization. They've begun experimenting with controlled corruption to create \"crystal-eating\" plants.",
+    "description": "title: Sorrow Root Nightbloom\ntype: NPC\ntags:\n- character\n- both\n- active\n- npc\ncreated: null\nmodified: '2025-08-14'\nstatus: active\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nupdated: '2025-08-13T12:34:17.671213+00:00'\nworld: Both\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "",
+    "appearance": "Their extreme methods might be the only thing preventing an even worse catastrophe, making them a villain who might be accidentally saving the world. Released in a populated area, it would kill anyone with any crystal exposure (nearly everyone) within days.",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": null
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "standard",
+    "expression": "neutral",
+    "lighting": "balanced"
+  },
+  "prompt": "realistic portrait of Unknown Unknown, Their extreme methods might be the only thing preventing an even worse catastrophe, making them a villain who might be accidentally saving the world. Released in a populated area, it would kill anyone with any crystal exposure (nearly everyone) within days., weathered, neutral expression, balanced lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.791Z",
+  "placeholder": true
+}

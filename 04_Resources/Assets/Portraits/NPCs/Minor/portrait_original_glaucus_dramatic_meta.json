@@ -1,0 +1,49 @@
+{
+  "character": {
+    "name": "Original Glaucus",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Original Glaucus.md",
+    "race": "Human (Adapted)",
+    "class": "Noble/Diplomat",
+    "age": "Improvements",
+    "gender": "neutral",
+    "alignment": "Lawful Good",
+    "faction": "'[[Parliament of Echoes]] (formerly)'",
+    "description": "title: Original Glaucus\ntype: Npc\ntags:\n- aquabyssos\n- senator\n- status/complete\n- npc\n- complete\n- shadow-victim\n- character\n- content/npc\n- active\n- prisoner\n- world/aquabyssos\n- tragic\ncreated: '2025-08-08'\nmodified: '2025-08-14'\nstatus: complete\nrace: Human (Adapted)\nclass: Noble/Diplomat\nlocation: '[[The Memory Meadows]]'\nlevel: 7\nMyCategory: Unknown\nMyContainer: None\nalignment: Lawful Good\ncreated_by: auto-stub\nfaction: '[[Parliament of Echoes]] (formerly)'\nobsidianUIMode: preview\nstatus_condition: Imprisoned, Slowly Forgotten\nupdated: '2025-08-13T12:34:17.701619+00:00'\nworld: Aquabyssos\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "",
+    "appearance": "Original Glaucus presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures]",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": null
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "dramatic",
+    "expression": "intense",
+    "lighting": "dramatic"
+  },
+  "prompt": "realistic portrait of Human (Adapted) Noble/Diplomat, Original Glaucus presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures], weathered, intense expression, dramatic lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.694Z",
+  "placeholder": true
+}

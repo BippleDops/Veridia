@@ -28,7 +28,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-surface-loyalist-safe-houses-surface-loyalist-safe-houses.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

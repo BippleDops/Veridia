@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # giant-ape-xmm
 
 ## Overview

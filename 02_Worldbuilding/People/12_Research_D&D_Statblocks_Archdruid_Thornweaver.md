@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # 12_Research/D&D_Statblocks/Archdruid Thornweaver
 
 ## Basic Information

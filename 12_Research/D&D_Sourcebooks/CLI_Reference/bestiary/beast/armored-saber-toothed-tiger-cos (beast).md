@@ -38,7 +38,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-armored-saber-toothed-tiger-cos-1-armored-saber-toothed-tiger-cos-1.svg)
 
-# [[armored saber toothed tiger cos|Armored Saber-Toothed Tiger]]
+# [[armored saber toothed tiger cos|Armored Saber Toothed Tiger]]
 *Source: Curse of Strahd p. 115*  
 
 ```statblock

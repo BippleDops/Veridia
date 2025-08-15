@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Weekly_Cleansing
 
 ## Overview

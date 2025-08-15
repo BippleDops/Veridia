@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Creatures/creature-creature-white-dragon-v1-white-dragon.svg)
 
-
 # White Dragon
 
 ## Overview

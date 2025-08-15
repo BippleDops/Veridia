@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-crystal-palace-complex-crystal-palace-complex.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

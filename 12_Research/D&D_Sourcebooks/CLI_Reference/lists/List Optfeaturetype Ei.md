@@ -56,7 +56,7 @@ world: Both
 - [[gaze of two minds xphb|Gaze of Two Minds]]
 - [[ghostly gaze xge|Ghostly Gaze]]
 - [[gift of the depths xphb|Gift of the Depths]]
-- [[gift of the ever living ones xge|Gift of the Ever-Living Ones]]
+- [[gift of the ever living ones xge|Gift of the Ever Living Ones]]
 - [[gift of the protectors xphb|Gift of the Protectors]]
 - [[grasp of hadar xge|Grasp of Hadar]]
 - [[improved pact weapon xge|Improved Pact Weapon]]

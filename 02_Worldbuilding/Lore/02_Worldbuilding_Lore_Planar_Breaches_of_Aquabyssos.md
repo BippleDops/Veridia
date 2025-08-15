@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02 Worldbuilding/Lore/Planar Breaches of Aquabyssos
 
 ## Overview

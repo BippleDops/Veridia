@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # black-bear-xmm
 
 ## Overview

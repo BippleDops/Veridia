@@ -10,7 +10,6 @@ created: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Portraits/portrait-npc-session-4-session-4.svg)
 
-
 # Session 4
 
 ## Overview

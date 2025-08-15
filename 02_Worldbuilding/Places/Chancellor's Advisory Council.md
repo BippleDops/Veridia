@@ -28,7 +28,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-chancellor-s-advisory-council-chancellor-s-advisory-council.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

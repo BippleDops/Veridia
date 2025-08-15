@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-giant-sea-horse-giant-sea-horse.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # Master Resots
 
 ## Basic Information

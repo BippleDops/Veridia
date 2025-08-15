@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # D 019_Oracle_Whale
 
 ## Overview

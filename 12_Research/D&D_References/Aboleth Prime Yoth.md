@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Portraits/portrait-npc-aboleth-prime-yoth-aboleth-prime-yoth.svg)
 
-
 # Aboleth Prime Yoth
 
 ---

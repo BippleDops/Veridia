@@ -45,7 +45,7 @@ world: Both
 | 16 | [[adamantine armor xdmg|Adamantine splint armor]] |
 | 17 | [[amulet of health xdmg|Amulet of health]] |
 | 18 | [[armor of vulnerability xdmg|Armor of vulnerability]] |
-| 19 | [[arrow catching shield xdmg|Arrow-catching shield]] |
+| 19 | [[arrow catching shield xdmg|Arrow catching shield]] |
 | 20 | [[belt of dwarvenkind xdmg|Belt of dwarvenkind]] |
 | 21 | [[belt of hill giant strength xdmg|Belt of hill giant strength]] |
 | 22 | [[berserker axe xdmg|Berserker axe]] |
@@ -98,7 +98,7 @@ world: Both
 | 69 | [[ring of resistance xdmg|Ring of resistance]] |
 | 70 | [[ring of spell storing xdmg|Ring of spell storing]] |
 | 71 | [[ring of the ram xdmg|Ring of the ram]] |
-| 72 | [[ring of x ray vision xdmg|Ring of x-ray vision]] |
+| 72 | [[ring of x ray vision xdmg|Ring of x ray vision]] |
 | 73 | [[robe of eyes xdmg|Robe of eyes]] |
 | 74 | [[rod of rulership xdmg|Rod of rulership]] |
 | 75 | [[2 rod of the pact keeper xdmg|+2 rod of the pact keeper]] |

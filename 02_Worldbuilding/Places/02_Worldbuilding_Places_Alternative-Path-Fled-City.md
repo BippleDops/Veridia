@@ -1,3 +1,7 @@
+---
+tags: ['location']
+---
+
 # 02 Worldbuilding/Places/Alternative-Path-Fled-City
 
 ## Overview

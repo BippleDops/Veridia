@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-chief-philosopher-marina-clearpool-chief-philosopher-marina-clearpool.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

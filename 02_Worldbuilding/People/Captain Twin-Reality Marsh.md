@@ -28,7 +28,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-twin-reality-marsh-captain-twin-reality-marsh.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

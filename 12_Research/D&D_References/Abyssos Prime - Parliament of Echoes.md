@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Portraits/portrait-npc-abyssos-prime-parliament-of-echoes-abyssos-prime-parliament-of-echoes.svg)
 
-
 # Abyssos Prime - Parliament of Echoes
 
 ---

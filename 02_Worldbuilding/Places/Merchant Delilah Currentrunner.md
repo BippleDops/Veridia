@@ -38,7 +38,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-merchant-delilah-currentrunner-merchant-delilah-currentrunner.svg)
 
-
 > [!figure] View
 
 # Merchant Delilah Currentrunner

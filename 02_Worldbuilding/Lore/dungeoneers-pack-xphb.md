@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # dungeoneers-pack-xphb
 
 ## Overview

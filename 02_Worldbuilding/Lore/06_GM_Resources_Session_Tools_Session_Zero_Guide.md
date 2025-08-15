@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 06_GM_Resources/Session_Tools/Session_Zero_Guide
 
 ## Overview

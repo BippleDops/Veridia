@@ -22,7 +22,6 @@ improvements: 20
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-royal-guard-royal-guard.svg)
 
-
 > [!figure] Asset
 
 ## 🔧 Deep Evaluation Improvements

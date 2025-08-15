@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 00_Indexes/Quick_Start_Guide
 
 ## Overview

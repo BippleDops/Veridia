@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-treasurer-goldenshadow-treasurer-goldenshadow.svg)
 
-
 > [!figure] Heraldry
 
 ## 🔧 Deep Evaluation Improvements
@@ -129,3 +128,28 @@ Mentioned in The Hidden Prophecy of Depths
 - A document has gone missing and truth emerges
 - A noble needs help finding before winter
 - The authorities needs help delivering before winter
+## Members
+
+### Leadership
+- *[Link to leader NPCs]*
+
+### Notable Members
+- *[Link to important faction members]*
+
+### Membership
+- **Size**: *[Approximate number of members]*
+- **Recruitment**: *[How they recruit new members]*
+
+## Relationships
+
+### Allies
+- **[Faction Name]**: *[Nature of alliance]*
+
+### Neutral Parties
+- **[Faction Name]**: *[Current status]*
+
+### Enemies
+- **[Faction Name]**: *[Source of conflict]*
+
+### Complicated Relationships
+- **[Faction Name]**: *[Complex relationship details]*

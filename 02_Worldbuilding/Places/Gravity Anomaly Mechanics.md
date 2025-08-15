@@ -47,7 +47,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-gravity-anomaly-mechanics-gravity-anomaly-mechanics.svg)
 
-
 > [!figure] View
 
 # Gravity Anomaly Mechanics

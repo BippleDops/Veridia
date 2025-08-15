@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-sunken-cathedral-of-perfect-order-the-sunken-cathedral-of-perfect-order.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

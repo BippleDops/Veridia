@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # polar-bear-xmm
 
 ## Overview

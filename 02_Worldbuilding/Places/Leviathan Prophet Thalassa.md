@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-leviathan-prophet-thalassa-leviathan-prophet-thalassa.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

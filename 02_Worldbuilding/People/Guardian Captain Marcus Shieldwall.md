@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-guardian-captain-marcus-shieldwall-guardian-captain-marcus-shieldwall.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

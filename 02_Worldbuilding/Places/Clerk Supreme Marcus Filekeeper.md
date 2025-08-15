@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-clerk-supreme-marcus-filekeeper-clerk-supreme-marcus-filekeeper.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

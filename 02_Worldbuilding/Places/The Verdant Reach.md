@@ -30,7 +30,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-verdant-reach-the-verdant-reach.png)
 
-
 > [!figure] View
 
 # The Verdant Reach

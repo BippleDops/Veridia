@@ -266,3 +266,63 @@ Different cultures interpret this lore through their own lens, creating variatio
 ## Secret Connections
 
 *[Hidden from players]* Connected to The Shadow Alliance - Control trade routes
+
+## Background
+*[Adventure setup and context]*
+
+### What Happened Before
+- *[Recent events leading to this adventure]*
+
+### Current Situation  
+- *[What's happening now]*
+
+### The Stakes
+- *[What happens if PCs don't act]*
+
+## Key NPCs
+*[Important characters in this adventure]*
+
+### Allies
+- *[Helpful NPCs]*
+
+### Antagonists
+- *[Opposition NPCs]*
+
+### Neutral Parties
+- *[Information sources]*
+
+## Locations
+*[Important places in this adventure]*
+
+### Starting Location
+- *[Where adventure begins]*
+
+### Key Sites
+- *[Major locations to visit]*
+
+### Optional Areas
+- *[Side locations]*
+
+## Rewards
+*[What PCs gain from completing this adventure]*
+
+### Experience Points
+- *[XP awards]*
+
+### Treasure
+- *[Gold and magic items]*
+
+### Story Rewards
+- *[Reputation, allies, information]*
+
+## Scaling
+*[How to adjust for different party levels]*
+
+### Lower Level Parties
+- *[Adjustments for weaker groups]*
+
+### Higher Level Parties
+- *[Adjustments for stronger groups]*
+
+### Large/Small Parties
+- *[Adjustments for party size]*

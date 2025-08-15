@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-high-techno-priest-lumina-skyweaver-high-techno-priest-lumina-skyweaver.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

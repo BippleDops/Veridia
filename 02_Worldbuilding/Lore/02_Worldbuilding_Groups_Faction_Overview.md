@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02_Worldbuilding/Groups/Faction_Overview
 
 ## Overview

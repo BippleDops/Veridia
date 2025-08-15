@@ -1,0 +1,55 @@
+{
+  "character": {
+    "name": "Surface Ambassador Lord Seaworthy",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Surface Ambassador Lord Seaworthy.md",
+    "race": "Human (Air-breathing)",
+    "class": "Unknown",
+    "age": "'52'",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "within Aquabyssos government",
+    "description": "title: Surface Ambassador Lord Seaworthy\ntype: Npc\ntags:\n- aquabyssos\n- world/surface\n- ambassador\n- diplomat\n- status/complete\n- npc\n- character\n- content/npc\n- active\n- complete\n- world/aquabyssos\n- aristocrat\ncreated: '2025-08-09'\nmodified: '2025-08-14'\nstatus: complete\nrace: Human (Air-breathing)\nclass: Unknown\nlocation: '[[The Diplomatic Quarter]] - Surface Embassy'\naffiliation: '[[Surface Kingdoms]] - Diplomatic Corps'\nage: '52'\ncreated_by: auto-stub\nrole: Surface Ambassador\nupdated: '2025-08-13T12:34:17.682008+00:00'\nworld: Aquabyssos\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "**Traits**: Curious, empathetic, loyal\n\n**Ideals**: Excellence in their chosen field, maintaining professional standards\n\n**Bonds**: Loyalty to allies, commitment to their cause\n\n**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives",
+    "appearance": "Surface Ambassador Lord Seaworthy presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures]",
+    "divine": [
+      "Celestial"
+    ],
+    "monstrous": [
+      "monster"
+    ],
+    "pc": null,
+    "major": [
+      "important"
+    ]
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "dramatic",
+    "expression": "intense",
+    "lighting": "dramatic"
+  },
+  "prompt": "portrait_miniature portrait of Human (Air-breathing) Unknown, Surface Ambassador Lord Seaworthy presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures], weathered, intense expression, dramatic lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.321Z",
+  "placeholder": true
+}

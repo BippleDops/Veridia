@@ -9,6 +9,26 @@ modified: '2025-01-15'
 
 # Character_Development_Survey
 
+## Portrait
+
+![[portrait_character_development_survey.png]]
+
+*Portrait reference for Character_Development_Survey*
+
+## Description
+
+*[Add detailed physical appearance and personality traits here]*
+
+## Personality
+- **Traits**: *[Key character traits]*
+- **Ideals**: *[Core beliefs and values]*
+- **Bonds**: *[Important relationships and connections]*
+- **Flaws**: *[Character weaknesses or quirks]*
+
+## Voice & Mannerisms
+- **Speaking Style**: *[How they talk and express themselves]*
+- **Mannerisms**: *[Distinctive habits or behaviors]*
+
 ---
 title: Character Development Survey
 type: Feedback Form
@@ -265,3 +285,21 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## Stats
+
+```statblock
+creature: Custom NPC
+```
+
+### Quick Stats
+- **AC**: *[Armor Class]*
+- **HP**: *[Hit Points]*
+- **Speed**: *[Movement speed]*
+- **STR/DEX/CON/INT/WIS/CHA**: *[Ability scores]*
+
+### Combat
+- **Challenge Rating**: *[CR level]*
+- **Proficiency Bonus**: *[+X]*
+- **Saving Throws**: *[Proficient saves]*
+- **Skills**: *[Skill proficiencies]*

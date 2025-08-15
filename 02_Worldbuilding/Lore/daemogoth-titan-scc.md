@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # daemogoth-titan-scc
 
 ## Overview

@@ -28,7 +28,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-memoriam-the-forgotten-continent-memoriam-the-forgotten-continent.svg)
 
-
 > [!figure] View
 
 # Memoriam - The Forgotten Continent

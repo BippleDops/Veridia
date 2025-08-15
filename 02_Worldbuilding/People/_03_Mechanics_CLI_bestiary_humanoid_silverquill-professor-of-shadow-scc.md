@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # /03 Mechanics/CLI/bestiary/humanoid/silverquill-professor-of-shadow-scc
 
 ## Basic Information

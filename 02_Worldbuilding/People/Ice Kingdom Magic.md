@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-ice-kingdom-magic-ice-kingdom-magic.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

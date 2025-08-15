@@ -25,7 +25,6 @@ improvements: 20
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-crystal-mines-crystal-mines.svg)
 
-
 > [!figure] Asset
 
 ## 🔧 Deep Evaluation Improvements

@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-count-viktor-pressureborn-count-viktor-pressureborn.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

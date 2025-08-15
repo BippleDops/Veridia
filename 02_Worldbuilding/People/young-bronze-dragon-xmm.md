@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # young-bronze-dragon-xmm
 
 ## Basic Information

@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-drift-harbor-district-drift-harbor-district.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

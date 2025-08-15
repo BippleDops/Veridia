@@ -10,13 +10,13 @@ created: '2025-01-15'
 # Similar Topic 1
 
 ## Overview
-This topic is referenced in [[NPC_Template]] and other parts of the campaign.
+This topic is referenced in [[NPC Template]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[NPC_Template]]
+- Referenced by: [[NPC Template]]
 - Related topics in the same category
 
 ## Details

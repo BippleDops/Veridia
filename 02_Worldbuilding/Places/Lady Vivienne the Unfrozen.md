@@ -37,7 +37,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-lady-vivienne-the-unfrozen-lady-vivienne-the-unfrozen.svg)
 
-
 > [!figure] View
 
 # Thornwhisper Manor - The Unfrozen Estate

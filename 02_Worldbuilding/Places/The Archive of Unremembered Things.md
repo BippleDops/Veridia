@@ -23,7 +23,6 @@ world: Both
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-archive-of-unremembered-things-the-archive-of-unremembered-things.svg)
 
-
 # The Archive of Unremembered Things
 
 ## Overview

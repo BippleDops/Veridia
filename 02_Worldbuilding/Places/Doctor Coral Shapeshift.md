@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-doctor-coral-shapeshift-doctor-coral-shapeshift.svg)
 
-
 > [!figure] View
 
 # The Metamorphosis Clinic

@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 04_Places/The_Grinding_Workshop
 
 ## Overview

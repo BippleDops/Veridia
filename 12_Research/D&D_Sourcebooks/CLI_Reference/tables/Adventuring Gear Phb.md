@@ -95,7 +95,7 @@ world: Both
 | [[holy water xphb|Holy water (flask)]] | 25 gp | 1 lb. |
 | [[hourglass|Hourglass]] | 25 gp | 1 lb. |
 | [[hunting trap xphb|Hunting trap]] | 5 gp | 25 lb. |
-| [[ink xphb|Ink (1-ounce bottle)]] | 10 gp | — |
+| [[ink xphb|Ink (1 ounce bottle)]] | 10 gp | — |
 | [[ink pen xphb|Ink pen]] | 2 cp | — |
 | [[jug xphb|Jug]] or [[pitcher|pitcher]] | 2 cp | 4 lb. |
 | [[climbers kit xphb|Kit, climber's]] | 25 gp | 12 lb. |
@@ -105,7 +105,7 @@ world: Both
 | [[healers kit xphb|Kit, healer's]] | 5 gp | 3 lb. |
 | [[mess kit|Kit, mess]] | 2 sp | 1 lb. |
 | [[poisoners kit xphb|Kit, poisoner's]] | 50 gp | 2 lb. |
-| [[ladder xphb|Ladder (10-foot)]] | 1 sp | 25 lb. |
+| [[ladder xphb|Ladder (10 foot)]] | 1 sp | 25 lb. |
 | [[lamp xphb|Lamp]] | 5 sp | 1 lb. |
 | [[bullseye lantern xphb|Lantern, bullseye]] | 10 gp | 2 lb. |
 | [[hooded lantern xphb|Lantern, hooded]] | 5 gp | 2 lb. |
@@ -120,7 +120,7 @@ world: Both
 | [[miners pick|Pick, miner's]] | 2 gp | 10 lb. |
 | [[piton|Piton]] | 5 cp | 1/4 lb. |
 | [[basic poison xphb|Poison, basic (vial)]] | 100 gp | — |
-| [[pole xphb|Pole (10-foot)]] | 5 cp | 7 lb. |
+| [[pole xphb|Pole (10 foot)]] | 5 cp | 7 lb. |
 | [[iron pot xphb|Pot, iron]] | 2 gp | 10 lb. |
 | [[potion of healing xdmg|Potion of healing]] | 50 gp | 1/2 lb. |
 | [[pouch xphb|Pouch]] | 5 sp | 1 lb. |
@@ -140,7 +140,7 @@ world: Both
 | [[spellbook|Spellbook]] | 50 gp | 3 lb. |
 | [[iron spikes xphb|Spikes, iron (10)]] | 1 gp | 5 lb. |
 | [[spyglass xphb|Spyglass]] | 1,000 gp | 1 lb. |
-| [[tent xphb|Tent, two-person]] | 2 gp | 20 lb. |
+| [[tent xphb|Tent, two person]] | 2 gp | 20 lb. |
 | [[tinderbox xphb|Tinderbox]] | 5 sp | 1 lb. |
 | [[torch xphb|Torch]] | 1 cp | 1 lb. |
 | [[vial xphb|Vial]] | 1 gp | — |

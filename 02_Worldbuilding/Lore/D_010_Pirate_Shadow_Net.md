@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # D 010_Pirate_Shadow_Net
 
 ## Overview

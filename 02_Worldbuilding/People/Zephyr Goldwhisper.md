@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-zephyr-goldwhisper-v1-zephyr-goldwhisper.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

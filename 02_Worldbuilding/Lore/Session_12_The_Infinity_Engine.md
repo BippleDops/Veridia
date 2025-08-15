@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Session_12_The_Infinity_Engine
 
 ## Overview

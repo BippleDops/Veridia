@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-paladin-commander-sir-radiant-dawnbreaker-paladin-commander-sir-radiant-dawnbreaker.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

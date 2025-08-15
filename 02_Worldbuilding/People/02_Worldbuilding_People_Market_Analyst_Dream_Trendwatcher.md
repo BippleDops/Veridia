@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # 02 Worldbuilding/People/Market Analyst Dream Trendwatcher
 
 ## Basic Information

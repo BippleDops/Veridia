@@ -1,0 +1,50 @@
+{
+  "character": {
+    "name": "The Current Merchants",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/The Current Merchants.md",
+    "race": "Sea Elf",
+    "class": "Storm Sorcerer/Divination Wizard",
+    "age": "'78'",
+    "gender": "neutral",
+    "alignment": "Chaotic Neutral",
+    "faction": null,
+    "description": "title: The Current Merchants\ntype: Npc\ntags:\n- aquabyssos\n- navigator\n- status/complete\n- world/aquabyssos\n- merchant-lord\n- trade-master\n- npc\n- character\n- content/npc\n- active\n- complete\n- entrepreneur\n- status/in-progress\ncreated: '2025-08-08'\nmodified: '2025-08-14'\nstatus: complete\nrace: Sea Elf\nclass: Storm Sorcerer/Divination Wizard\nlocation: '[[The Flowing Market]] - Current''s Edge Trading Post'\nlevel: 15\nMyCategory: NPC\nMyContainer: None\naffiliation: '[[Deep Current Trading Company]] - Founder and Supreme Navigator'\nage: '78'\nalignment: Chaotic Neutral\ncreated_by: auto-stub\nobsidianUIMode: preview\nrole: Guildmaster of the Deep Current Trading Company\nupdated: '2025-08-13T12:34:17.689216+00:00'\nworld: Aquabyssos\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "Nereon embodies the restless, ever-changing nature of the currents themselves. He is charismatic and charming when conducting business, but can shift to cold calculation when necessary. His mind works in patterns and flows, always seeking the most efficient route to his goals while maintaining multiple backup plans.\n\nHe possesses an entrepreneur's optimism combined with a navigator's caution, always willing to take calculated risks but never betting everything on a single venture. Nereon genuinely believes that trade and commerce are forces for good, bringing different communities together and raising the standard of living for everyone involved.\n\nHis greatest flaw is his tendency to see everything in terms of profit and loss, sometimes missing the human cost of his business decisions. However, he has begun to mature beyond pure mercantilism, recognizing that long-term success requires consideration of environmental and social impacts.",
+    "appearance": "Nereon is a tall, elegant sea elf standing 6'2\" with the lean, streamlined build typical of his people. His skin has taken on a subtle blue-green tint from decades of current-magic exposure, and it occasionally shows faint patterns reminiscent of flowing water. His hair is silver-white and moves constantly as if underwater even when in air-filled environments, a side effect of his deep connection to oceanic currents.\n\nHis most striking feature is his eyes, which shift between deep blue and bright silver depending on his emotional state and the strength of nearby currents. When he's actively using his current-sight abilities, his pupils become swirling vortexes that mirror the flow patterns he's observing. His ears are elongated and mobile, helping him sense changes in water pressure and current direction.\n\nNereon dresses in flowing robes made from specially treated kelp-silk that responds to his magical presence, creating the illusion that he's constantly surrounded by gentle currents. His jewelry consists of living coral pieces that serve as both status symbols and magical focuses, connected to different current networks throughout the realm. He carries a staff made from crystallized water that serves as both a walking aid and a powerful tool for current manipulation.",
+    "divine": [
+      "Celestial"
+    ],
+    "monstrous": null,
+    "pc": null,
+    "major": null
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "cruel smile",
+      "cold eyes",
+      "sinister expression",
+      "imposing presence"
+    ],
+    "accessories": [
+      "dark regalia",
+      "evil artifact",
+      "scars",
+      "ominous jewelry"
+    ],
+    "backgrounds": [
+      "dark throne",
+      "lair",
+      "storm clouds"
+    ]
+  },
+  "version": {
+    "suffix": "friendly",
+    "expression": "smiling",
+    "lighting": "warm"
+  },
+  "prompt": "portrait_miniature portrait of Sea Elf Storm Sorcerer/Divination Wizard, Nereon is a tall, elegant sea elf standing 6'2\" with the lean, streamlined build typical of his people. His skin has taken on a subtle blue-green tint from decades of current-magic exposure, and it occasionally shows faint patterns reminiscent of flowing water. His hair is silver-white and moves constantly as if underwater even when in air-filled environments, a side effect of his deep connection to oceanic currents.\n\nHis most striking feature is his eyes, which shift between deep blue and bright silver depending on his emotional state and the strength of nearby currents. When he's actively using his current-sight abilities, his pupils become swirling vortexes that mirror the flow patterns he's observing. His ears are elongated and mobile, helping him sense changes in water pressure and current direction.\n\nNereon dresses in flowing robes made from specially treated kelp-silk that responds to his magical presence, creating the illusion that he's constantly surrounded by gentle currents. His jewelry consists of living coral pieces that serve as both status symbols and magical focuses, connected to different current networks throughout the realm. He carries a staff made from crystallized water that serves as both a walking aid and a powerful tool for current manipulation., cruel smile, smiling expression, warm lighting, gold leaf details style, dark throne background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.333Z",
+  "placeholder": true
+}

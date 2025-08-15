@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-vex-shadowthorn-the-kingpin-v1-vex-shadowthorn-the-kingpin.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

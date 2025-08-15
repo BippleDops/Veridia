@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Items/item-artifact-staff-of-the-magi-xdmg-staff-of-the-magi-xdmg.svg)
 
-
 # Staff of the Magi Xdmg
 
 ## Overview

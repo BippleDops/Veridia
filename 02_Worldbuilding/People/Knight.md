@@ -28,7 +28,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-knight-knight.svg)
 
-
 > [!figure] Portrait
 
 # Sir Theron Crystalward

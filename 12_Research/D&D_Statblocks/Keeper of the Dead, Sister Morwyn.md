@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-keeper-of-the-dead-sister-morwyn-keeper-of-the-dead-sister-morwyn.svg)
 
-
 # Keeper of the Dead, Sister Morwyn
 
 ---

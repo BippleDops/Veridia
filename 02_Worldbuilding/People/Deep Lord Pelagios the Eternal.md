@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-deep-lord-pelagios-the-eternal-deep-lord-pelagios-the-eternal.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

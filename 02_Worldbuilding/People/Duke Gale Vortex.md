@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-duke-gale-vortex-duke-gale-vortex.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

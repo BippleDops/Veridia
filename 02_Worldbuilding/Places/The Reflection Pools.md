@@ -42,7 +42,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-reflection-pools-the-reflection-pools.svg)
 
-
 # The Reflection Pools
 
 *Where every choice not taken shimmers in the water*

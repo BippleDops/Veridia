@@ -42,7 +42,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-sunken-markets-the-sunken-markets.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

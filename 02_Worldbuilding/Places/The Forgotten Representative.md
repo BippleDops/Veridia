@@ -38,7 +38,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-forgotten-representative-the-forgotten-representative.svg)
 
-
 > [!figure] View
 
 # The Forgotten Representative

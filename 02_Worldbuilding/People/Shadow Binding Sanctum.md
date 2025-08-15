@@ -35,7 +35,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-shadow-binding-sanctum-shadow-binding-sanctum.svg)
 
-
 > [!figure] Portrait
 
 # Shadow Binding Sanctum

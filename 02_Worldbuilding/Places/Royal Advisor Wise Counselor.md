@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-royal-advisor-wise-counselor-royal-advisor-wise-counselor.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # list-spells-school-enchantment
 
 ## Overview

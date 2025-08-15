@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 04_Places/Lighthouse_of_Storms
 
 ## Overview

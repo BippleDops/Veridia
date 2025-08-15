@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-exotic-emporium-the-exotic-emporium.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

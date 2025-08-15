@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # stone-golem-xmm
 
 ## Overview

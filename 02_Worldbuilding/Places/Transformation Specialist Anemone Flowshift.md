@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-transformation-specialist-anemone-flowshift-transformation-specialist-anemone-flowshift.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

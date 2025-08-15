@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-goldwave-financial-offices-goldwave-financial-offices.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

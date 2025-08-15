@@ -77,7 +77,7 @@ world: Both
 | 58–59 | [[quaals feather token xdmg|Quaal's Feather Token]] ([[quaals feather token bird xdmg|bird]], [[quaals feather token swan boat xdmg|swan boat]], or [[quaals feather token whip xdmg|whip]]) |
 | 60–61 | [[ring of feather falling xdmg|Ring of Feather Falling]] |
 | 62 | [[ring of spell storing xdmg|Ring of Spell Storing]] |
-| 63 | [[ring of x ray vision xdmg|Ring of X-ray Vision]] |
+| 63 | [[ring of x ray vision xdmg|Ring of X ray Vision]] |
 | 64–65 | [[robe of eyes xdmg|Robe of Eyes]] |
 | 66 | [[rod of rulership xdmg|Rod of Rulership]] |
 | 67–68 | [[2 rod of the pact keeper xdmg|Rod of the Pact Keeper, +2]] |

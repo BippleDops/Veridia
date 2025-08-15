@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-risk-assessor-probability-risk-assessor-probability.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

@@ -10,13 +10,13 @@ created: '2025-01-15'
 # Forest Communities
 
 ## Overview
-This topic is referenced in [[Location_Name.png]] and other parts of the campaign.
+This topic is referenced in [[Location Name.png]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Location_Name.png]]
+- Referenced by: [[Location Name.png]]
 - Related topics in the same category
 
 ## Details

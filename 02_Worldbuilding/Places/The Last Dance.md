@@ -40,7 +40,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-last-dance-the-last-dance.svg)
 
-
 # The Last Dance
 
 ## 🔧 Deep Evaluation Improvements

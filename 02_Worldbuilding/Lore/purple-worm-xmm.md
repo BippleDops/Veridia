@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # purple-worm-xmm
 
 ## Overview

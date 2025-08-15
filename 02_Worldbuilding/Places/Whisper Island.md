@@ -40,7 +40,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-whisper-island-v1-whisper-island.svg)
 
-
 > [!figure] View
 
 # Whisper Island

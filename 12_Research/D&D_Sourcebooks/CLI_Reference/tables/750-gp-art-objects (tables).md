@@ -40,7 +40,7 @@ world: Both
 | dice: d10 | Object |
 |-----------|--------|
 | 1 | [[silver chalice set with moonstones xdmg|Silver chalice set with moonstones]] |
-| 2 | [[bundle of sheet music representing the lost dirges of a famous composer xdmg|Silver-plated steel longsword with jet set in hilt]] |
+| 2 | [[bundle of sheet music representing the lost dirges of a famous composer xdmg|Silver plated steel longsword with jet set in hilt]] |
 | 3 | [[carved wooden harp with ivory inlay and zircon gems xdmg|Carved harp of exotic wood with ivory inlay and zircon gems]] |
 | 4 | [[gold idol xdmg|Small gold idol]] |
 | 5 | [[gold comb shaped like a dragon with red garnets as eyes xdmg|Gold dragon comb set with red garnets as eyes]] |

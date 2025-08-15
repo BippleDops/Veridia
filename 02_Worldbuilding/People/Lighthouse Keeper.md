@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-lighthouse-keeper-lighthouse-keeper.svg)
 
-
 > [!figure] Portrait
 
 # Alaric Stormwatch, the Keeper of the Light

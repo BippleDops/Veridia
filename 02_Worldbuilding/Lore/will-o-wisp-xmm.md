@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # will-o-wisp-xmm
 
 ## Overview

@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02_Worldbuilding/Items/Elemental_Air_Filter
 
 ## Overview

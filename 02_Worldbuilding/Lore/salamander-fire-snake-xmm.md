@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # salamander-fire-snake-xmm
 
 ## Overview

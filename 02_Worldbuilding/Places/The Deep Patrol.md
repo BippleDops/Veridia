@@ -30,7 +30,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-deep-patrol-the-deep-patrol.svg)
 
-
 > [!figure] View
 
 # The Deep Patrol

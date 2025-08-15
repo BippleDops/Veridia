@@ -32,7 +32,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-constellation-codex-constellation-codex.svg)
 
-
 > [!figure] View
 
 # Constellation Codex

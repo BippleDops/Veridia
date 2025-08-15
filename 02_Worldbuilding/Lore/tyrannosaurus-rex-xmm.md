@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # tyrannosaurus-rex-xmm
 
 ## Overview

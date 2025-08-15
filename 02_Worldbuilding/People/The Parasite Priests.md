@@ -40,7 +40,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-parasite-priests-the-parasite-priests.svg)
 
-
 > [!figure] Portrait
 
 # The Parasite Priests

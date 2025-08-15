@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02 Worldbuilding/People/Dimensional Security Chief Echo Gatekeeper
 
 ## Overview

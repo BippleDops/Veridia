@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # adult-blue-dragon-xmm
 
 ## Basic Information

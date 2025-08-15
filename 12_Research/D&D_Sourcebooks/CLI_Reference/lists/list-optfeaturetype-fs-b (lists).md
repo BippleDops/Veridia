@@ -34,7 +34,7 @@ world: Both
 *Source: Xanathar's Guide to Everything, Player's Handbook* 
 
 - [[dueling xphb|Dueling]]
-- [[two weapon fighting xphb|Two-Weapon Fighting]]
+- [[two weapon fighting xphb|Two Weapon Fighting]]
 
 ## 🔧 Deep Evaluation Improvements
 

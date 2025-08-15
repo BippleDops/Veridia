@@ -33,7 +33,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-gilded-shard-the-gilded-shard.svg)
 
-
 > [!figure] View
 
 # The Gilded Shard

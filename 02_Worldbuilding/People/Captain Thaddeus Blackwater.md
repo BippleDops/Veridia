@@ -28,7 +28,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-thaddeus-blackwater-captain-thaddeus-blackwater.svg)
 
-
 > [!figure] Portrait
 
 # Captain Thaddeus Blackwater

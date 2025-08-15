@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-lady-seraphina-goldleaf-lady-seraphina-goldleaf.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

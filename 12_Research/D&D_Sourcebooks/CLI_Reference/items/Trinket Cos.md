@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Items/item-artifact-trinket-cos-trinket-cos.svg)
 
-
 # Trinket Cos
 
 ## Overview

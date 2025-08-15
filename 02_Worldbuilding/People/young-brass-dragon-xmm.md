@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # young-brass-dragon-xmm
 
 ## Basic Information

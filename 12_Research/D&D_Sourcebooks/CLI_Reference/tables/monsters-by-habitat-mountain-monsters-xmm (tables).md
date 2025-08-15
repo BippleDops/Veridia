@@ -42,7 +42,7 @@ world: Both
 | 1/4 | [[aarakocra skirmisher xmm|Aarakocra Skirmisher]], [[giant bat xmm|Giant Bat]], [[pseudodragon xmm|Pseudodragon]], [[pteranodon xmm|Pteranodon]], [[swarm of bats xmm|Swarm of Bats]], [[winged kobold xmm|Winged Kobold]] |
 | 1/2 | [[giant goat xmm|Giant Goat]], [[hobgoblin warrior xmm|Hobgoblin Warrior]] |
 | 1 | [[giant eagle xmm|Giant Eagle]], [[harpy xmm|Harpy]], [[hippogriff xmm|Hippogriff]], [[lion xmm|Lion]], [[ogrillon ogre xmm|Ogrillon Ogre]] |
-| 2 | [[azer sentinel xmm|Azer Sentinel]], [[bulette pup xmm|Bulette Pup]], [[griffon xmm|Griffon]], [[ogre xmm|Ogre]], [[peryton xmm|Peryton]], [[saber toothed tiger xmm|Saber-Toothed Tiger]], [[silver dragon wyrmling xmm|Silver Dragon Wyrmling]], [[swarm of stirges xmm|Swarm of Stirges]] |
+| 2 | [[azer sentinel xmm|Azer Sentinel]], [[bulette pup xmm|Bulette Pup]], [[griffon xmm|Griffon]], [[ogre xmm|Ogre]], [[peryton xmm|Peryton]], [[saber toothed tiger xmm|Saber Toothed Tiger]], [[silver dragon wyrmling xmm|Silver Dragon Wyrmling]], [[swarm of stirges xmm|Swarm of Stirges]] |
 | 3 | [[basilisk xmm|Basilisk]], [[hell hound xmm|Hell Hound]], [[hobgoblin captain xmm|Hobgoblin Captain]], [[manticore xmm|Manticore]] |
 | 4 | [[aarakocra aeromancer xmm|Aarakocra Aeromancer]], [[ettin xmm|Ettin]], [[red dragon wyrmling xmm|Red Dragon Wyrmling]] |
 | 5 | [[air elemental xmm|Air Elemental]], [[bulette xmm|Bulette]], [[earth elemental xmm|Earth Elemental]], [[troll xmm|Troll]] |

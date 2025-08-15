@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02 Worldbuilding/Factions/The Resoce Keepers
 
 ## Overview

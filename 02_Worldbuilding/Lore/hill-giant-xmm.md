@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # hill-giant-xmm
 
 ## Overview

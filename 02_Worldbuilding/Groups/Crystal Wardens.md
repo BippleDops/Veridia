@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-crystal-wardens-crystal-wardens.svg)
 
-
 > [!figure] Heraldry
 
 ## 🔧 Deep Evaluation Improvements
@@ -258,3 +257,29 @@ What they claim to pursue
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## Members
+
+### Leadership
+- *[Link to leader NPCs]*
+
+### Notable Members
+- *[Link to important faction members]*
+
+### Membership
+- **Size**: *[Approximate number of members]*
+- **Recruitment**: *[How they recruit new members]*
+
+## Relationships
+
+### Allies
+- **[Faction Name]**: *[Nature of alliance]*
+
+### Neutral Parties
+- **[Faction Name]**: *[Current status]*
+
+### Enemies
+- **[Faction Name]**: *[Source of conflict]*
+
+### Complicated Relationships
+- **[Faction Name]**: *[Complex relationship details]*

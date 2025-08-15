@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # adult-brass-dragon-xmm
 
 ## Basic Information

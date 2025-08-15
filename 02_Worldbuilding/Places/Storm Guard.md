@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-storm-guard-storm-guard.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

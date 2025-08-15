@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # gnoll-warrior-xmm
 
 ## Overview

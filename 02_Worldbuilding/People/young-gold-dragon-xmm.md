@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # young-gold-dragon-xmm
 
 ## Basic Information

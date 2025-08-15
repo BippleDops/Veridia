@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # kobold-warrior-xmm
 
 ## Overview

@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # young-copper-dragon-xmm
 
 ## Basic Information

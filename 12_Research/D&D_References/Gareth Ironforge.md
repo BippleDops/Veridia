@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Portraits/portrait-npc-gareth-ironforge-gareth-ironforge.svg)
 
-
 # Gareth Ironforge
 
 ---

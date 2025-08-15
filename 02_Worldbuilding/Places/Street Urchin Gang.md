@@ -31,7 +31,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-street-urchin-gang-street-urchin-gang.svg)
 
-
 > [!figure] View
 
 # Street Urchin Gang

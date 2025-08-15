@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-veiled-hierophant-v1-veiled-hierophant.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

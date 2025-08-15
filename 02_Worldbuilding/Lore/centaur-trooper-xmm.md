@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # centaur-trooper-xmm
 
 ## Overview

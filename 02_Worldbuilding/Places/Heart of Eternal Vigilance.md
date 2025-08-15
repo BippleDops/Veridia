@@ -25,7 +25,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-heart-of-eternal-vigilance-heart-of-eternal-vigilance.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

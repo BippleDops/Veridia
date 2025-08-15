@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # bone-naga-xmm
 
 ## Overview

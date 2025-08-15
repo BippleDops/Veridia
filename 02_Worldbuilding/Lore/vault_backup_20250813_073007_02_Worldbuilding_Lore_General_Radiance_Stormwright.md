@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # vault_backup_20250813_073007/02_Worldbuilding/Lore/General Radiance Stormwright
 
 ## Overview

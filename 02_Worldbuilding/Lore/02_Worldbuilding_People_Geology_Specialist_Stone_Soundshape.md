@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02 Worldbuilding/People/Geology Specialist Stone Soundshape
 
 ## Overview

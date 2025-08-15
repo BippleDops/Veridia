@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # aarakocra-skirmisher-xmm
 
 ## Overview

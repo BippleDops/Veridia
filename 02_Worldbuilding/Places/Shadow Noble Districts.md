@@ -28,7 +28,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-shadow-noble-districts-shadow-noble-districts.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # giant-crab-xmm
 
 ## Overview

@@ -34,7 +34,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-deepmind-conspiracy-the-deepmind-conspiracy.svg)
 
-
 > [!figure] Portrait
 
 # The Deepmind Conspiracy

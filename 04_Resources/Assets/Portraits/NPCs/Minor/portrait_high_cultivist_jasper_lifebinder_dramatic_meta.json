@@ -1,0 +1,49 @@
+{
+  "character": {
+    "name": "High Cultivist Jasper Lifebinder",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/High Cultivist Jasper Lifebinder.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Improvements",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "## Secrets",
+    "description": "title: High Cultivist Jasper Lifebinder\ntype: Npc\ntags:\n- both\n- npc\n- world/both\n- character\n- content/npc\n- active\n- complete\n- status/in-progress\n- prophecy\ncreated: '2025-08-11'\nmodified: '2025-08-14'\nstatus: complete\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nupdated: '2025-08-13T12:34:17.643926+00:00'\nworld: Both\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "**Traits**: Clever, honest, cautious\n\n**Ideals**: Excellence in their chosen field, maintaining professional standards\n\n**Bonds**: Loyalty to allies, commitment to their cause\n\n**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives",
+    "appearance": "High Cultivist Jasper Lifebinder presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures]",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": null
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "dramatic",
+    "expression": "intense",
+    "lighting": "dramatic"
+  },
+  "prompt": "realistic portrait of Unknown Unknown, High Cultivist Jasper Lifebinder presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures], weathered, intense expression, dramatic lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.492Z",
+  "placeholder": true
+}

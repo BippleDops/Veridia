@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-ancient-nobility-the-ancient-nobility.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

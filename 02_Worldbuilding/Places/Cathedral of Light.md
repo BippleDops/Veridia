@@ -49,7 +49,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-cathedral-of-light-cathedral-of-light.png)
 
-
 > [!figure] View
 
 # Cathedral of Light

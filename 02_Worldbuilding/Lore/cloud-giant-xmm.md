@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # cloud-giant-xmm
 
 ## Overview

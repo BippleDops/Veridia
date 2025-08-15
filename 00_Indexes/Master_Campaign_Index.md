@@ -77,16 +77,16 @@ SORT file.name ASC
 **Social/Political**:
 - [[12_Research/D&D_References/Faction Standing System]] - Reputation tracking
 - [[NPC Reactions]] - Social mechanics
-- [[02_Worldbuilding/Lore/Political Maneuvering]] - Intrigue rules
+- [[02 Worldbuilding/Lore/Political Maneuvering]] - Intrigue rules
 
 **Combat/Action**:
 - [[Underwater Combat Rules]] - 3D combat
 - [[Pressure Combat Modifiers]] - Environmental effects
-- [[02_Worldbuilding/Lore/Mass Combat Resolution]] - Large battles
+- [[02 Worldbuilding/Lore/Mass Combat Resolution]] - Large battles
 
 **Reality/Horror**:
 - [[12_Research/D&D_References/Reality Merger Mechanics]] - Dimensional rules
-- [[02_Worldbuilding/Places/Aquabyssos]] - Madness tracking
+- [[02 Worldbuilding/Places/Aquabyssos]] - Madness tracking
 - [[12_Research/D&D_References/Memory Absorption Rules]] - Memory mechanics
 
 #### Aquabyssos Campaign
@@ -127,9 +127,9 @@ SORT length(file.inlinks) DESC
 
 Every major system connects to:
 - [[12_Research/D&D_References/Faction Tracker]] - Live faction tracking
-- [[01_Adventures/Quest Campaign Tracker.base]] - Quest management
-- [[02_Worldbuilding/Lore/Npc Directory.base]] - Character relationships
-- [[06_Sessions/Session Log.base]] - Historical record
+- [[01 Adventures/Quest Campaign Tracker.base]] - Quest management
+- [[02 Worldbuilding/Lore/Npc Directory.base]] - Character relationships
+- [[06 Sessions/Session Log.base]] - Historical record
 
 ### Data Flow
 
@@ -155,12 +155,12 @@ Reality Stability → Merger Events
   "🔄 " + length(filter(file.lists, (x) => x.status = "in-progress")) AC "Active"
 ### Session Prep
 
-1. Check [[06_Sessions/Session Log]] for last session
+1. Check [[06 Sessions/Session Log]] for last session
 2. Update [[12_Research/D&D_References/Faction Tracker]] standings
-3. Review [[01_Adventures/Quest Campaign Tracker]] status
+3. Review [[01 Adventures/Quest Campaign Tracker]] status
 4. Check [[02 Worldbuilding/Lore/NPC Directory.base|02 Worldbuilding/Lore/NPC Directory.base]] for active NPCs
 5. Generate encounters with [[12_Research/D&D_References/Encounter Builder]]
-6. Prepare scenes with [[09_Templates/Scene Framing Templates]]
+6. Prepare scenes with [[09 Templates/Scene Framing Templates]]
 
 ### World Building
 
@@ -175,7 +175,7 @@ Reality Stability → Merger Events
 1. Direct players to [[12_Research/D&D_References/Player Portal]]
 2. Use [[Quick Start Guide]] for new players
 3. Reference [[12_Research/D&D_References/Rules Reference]] for disputes
-4. Track progress in [[06_Sessions/Session Log]]
+4. Track progress in [[06 Sessions/Session Log]]
 
 ---
 
@@ -214,16 +214,16 @@ updated: 2025-08-13T07:59:50.321845
 **Social/Political**:
 - [[12_Research/D&D_References/Faction Standing System]] - Reputation tracking
 - [[NPC Reactions]] - Social mechanics
-- [[02_Worldbuilding/Lore/Political Maneuvering]] - Intrigue rules
+- [[02 Worldbuilding/Lore/Political Maneuvering]] - Intrigue rules
 
 **Combat/Action**:
 - [[Underwater Combat Rules]] - 3D combat
 - [[Pressure Combat Modifiers]] - Environmental effects
-- [[02_Worldbuilding/Lore/Mass Combat Resolution]] - Large battles
+- [[02 Worldbuilding/Lore/Mass Combat Resolution]] - Large battles
 
 **Reality/Horror**:
 - [[12_Research/D&D_References/Reality Merger Mechanics]] - Dimensional rules
-- [[02_Worldbuilding/Places/Aquabyssos]] - Madness tracking
+- [[02 Worldbuilding/Places/Aquabyssos]] - Madness tracking
 - [[12_Research/D&D_References/Memory Absorption Rules]] - Memory mechanics
 
 #### Aquabyssos Campaign
@@ -241,9 +241,9 @@ updated: 2025-08-13T07:59:50.321845
 ### Cross-System References
 
 - [[12_Research/D&D_References/Faction Tracker]] - Live faction tracking
-- [[01_Adventures/Quest Campaign Tracker.base]] - Quest management
-- [[02_Worldbuilding/Lore/Npc Directory.base]] - Character relationships
-- [[06_Sessions/Session Log.base]] - Historical record
+- [[01 Adventures/Quest Campaign Tracker.base]] - Quest management
+- [[02 Worldbuilding/Lore/Npc Directory.base]] - Character relationships
+- [[06 Sessions/Session Log.base]] - Historical record
 
 ### Data Flow
 
@@ -277,16 +277,16 @@ updated: 2025-08-13T07:59:50.321845
 ## Semantic Connections
 
 *Related concepts and locations:*
-- [[02_Worldbuilding/Lore/insect-plague-xphb]]
-- [[02_Worldbuilding/Lore/secondary-tables-arcane-matters-xge]]
-- [[02_Worldbuilding/Lore/wizard-xphb-school-of-enchantment]]
+- [[02 Worldbuilding/Lore/insect-plague-xphb]]
+- [[02 Worldbuilding/Lore/secondary-tables-arcane-matters-xge]]
+- [[02 Worldbuilding/Lore/wizard-xphb-school-of-enchantment]]
 - [[12_Research/D&D_Sourcebooks/CLI_Reference/tables/githzerai-groups-githzerai-mission-purpose-mtf]]
-- [[02_Worldbuilding/Lore/trade-goods-phb]]
+- [[02 Worldbuilding/Lore/trade-goods-phb]]
 - [[12_Research/D&D_Sourcebooks/CLI_Reference/lists/List Spells Optional Features Gift of the Depths Xphb]]
-- [[02_Worldbuilding/Lore/Shadow Broker Maximian Darkmarket]]
-- [[02_Worldbuilding/Groups/guild-artisan-guild-merchant-variant]]
+- [[02 Worldbuilding/Lore/Shadow Broker Maximian Darkmarket]]
+- [[02 Worldbuilding/Groups/guild-artisan-guild-merchant-variant]]
 - [[12_Research/D&D_References/Advocate Lightfight]]
-- [[02_Worldbuilding/Groups/Deputy Archmerchant Scroll Deepmind]]
+- [[02 Worldbuilding/Groups/Deputy Archmerchant Scroll Deepmind]]
 
 ## DM Notes
 
@@ -296,7 +296,6 @@ updated: 2025-08-13T07:59:50.321845
 - Multiple entry points for different play styles
 - Connections to overarching campaign themes
 
-
 ## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02 Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02 Worldbuilding/Lore/Aethermoor World Guide]]

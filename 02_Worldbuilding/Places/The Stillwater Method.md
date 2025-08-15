@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-stillwater-method-the-stillwater-method.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

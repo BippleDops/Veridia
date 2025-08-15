@@ -47,7 +47,7 @@ world: Both
 | [[orc xphb|Orc]] | 5'4" | 175 lb. | +`2d8` | × (`2d6`) lb. |
 | [[tabaxi vgm|Tabaxi]] | 4'10" | 90 lb. | +`2d10` | × (`2d4`) lb. |
 | [[triton vgm|Triton]] | 4'6" | 90 lb. | +`2d10` | × (`2d4`) lb. |
-| [[yuan ti pureblood vgm|Yuan-ti Pureblood]] | 4'8" | 110 lb. | +`2d10` | × (`2d4`) lb. |
+| [[yuan ti pureblood vgm|Yuan ti Pureblood]] | 4'8" | 110 lb. | +`2d10` | × (`2d4`) lb. |
 ^race-base-height-base-weight-height-modifier-weight-modifier
 
 ## 🔧 Deep Evaluation Improvements

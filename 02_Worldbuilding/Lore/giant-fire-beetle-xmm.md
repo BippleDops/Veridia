@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # giant-fire-beetle-xmm
 
 ## Overview

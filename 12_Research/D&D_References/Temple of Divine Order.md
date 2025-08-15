@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Symbols/symbol-heraldry-temple-of-divine-order-temple-of-divine-order.svg)
 
-
 # Temple of Divine Order
 
 ## Overview

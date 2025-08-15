@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # 02 Worldbuilding/Artifacts/Shard of Dreams
 
 ## Basic Information

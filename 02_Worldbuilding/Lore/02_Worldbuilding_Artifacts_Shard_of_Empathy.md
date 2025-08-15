@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02 Worldbuilding/Artifacts/Shard of Empathy
 
 ## Overview

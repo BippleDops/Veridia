@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-ancient-treasury-of-tides-ancient-treasury-of-tides.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

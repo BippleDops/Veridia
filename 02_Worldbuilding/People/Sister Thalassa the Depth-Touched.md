@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-sister-thalassa-the-depth-touched-sister-thalassa-the-depth-touched.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

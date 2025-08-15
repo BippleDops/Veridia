@@ -16,7 +16,6 @@ updated: 2025-08-14
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-character-relationship-web-core-npcs-character-relationship-web-core-npcs.svg)
 
-
 # #NPCs
 
 ## Overview

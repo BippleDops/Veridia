@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # young-white-dragon-xmm
 
 ## Basic Information

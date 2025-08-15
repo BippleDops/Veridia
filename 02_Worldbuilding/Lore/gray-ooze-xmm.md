@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # gray-ooze-xmm
 
 ## Overview

@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-first-failure-the-first-failure.svg)
 
-
 # The First Failure
 
 ## Overview

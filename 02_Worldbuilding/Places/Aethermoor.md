@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-aethermoor-aethermoor.svg)
 
-
 > [!figure] View
 
 # Aethermoor
@@ -258,3 +257,11 @@ Mentioned in The First Prophecy of Depths
 - Speaking during sunset prayer
 - Wearing red on holy days
 - Pointing at the moon
+
+## Background Music
+
+Ethereal and uplifting
+
+Recommended tracks:
+- sky_realm_theme.wav
+- floating_city.mp3

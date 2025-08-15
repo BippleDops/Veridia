@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Session_10_New_Horizons
 
 ## Overview

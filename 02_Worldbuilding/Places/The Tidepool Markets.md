@@ -44,7 +44,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-tidepool-markets-the-tidepool-markets.svg)
 
-
 > [!figure] View
 
 # The Tidepool Markets

@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-dr-siphon-gillwater-dr-siphon-gillwater.png)
 
-
 # Dr. Siphon Gillwater
 
 ---

@@ -25,7 +25,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-scepter-of-winter-s-command-scepter-of-winter-s-command.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # githzerai-groups-githzerai-group-leader-mtf
 
 ## Overview

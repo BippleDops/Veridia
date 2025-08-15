@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-old-sally-seasprayer-old-sally-seasprayer.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

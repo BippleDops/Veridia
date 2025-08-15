@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # dwarves-on-the-move-group-leader-mtf
 
 ## Overview

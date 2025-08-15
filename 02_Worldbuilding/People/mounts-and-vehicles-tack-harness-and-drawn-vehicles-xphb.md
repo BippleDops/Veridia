@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # mounts-and-vehicles-tack-harness-and-drawn-vehicles-xphb
 
 ## Basic Information

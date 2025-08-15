@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Lighthouse_of_Storms
 
 ## Overview

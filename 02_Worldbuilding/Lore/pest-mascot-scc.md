@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # pest-mascot-scc
 
 ## Overview

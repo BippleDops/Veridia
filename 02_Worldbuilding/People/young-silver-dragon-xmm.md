@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # young-silver-dragon-xmm
 
 ## Basic Information

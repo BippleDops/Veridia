@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # guardian-naga-xmm
 
 ## Overview

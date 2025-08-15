@@ -33,7 +33,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-shadow-singer-naia-the-shadow-singer-naia.svg)
 
-
 # The Shadow Singer Naia
 
 ## Overview

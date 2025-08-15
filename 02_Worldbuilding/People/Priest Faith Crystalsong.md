@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-priest-faith-crystalsong-priest-faith-crystalsong.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

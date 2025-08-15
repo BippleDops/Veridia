@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # vine-blight-xmm
 
 ## Overview

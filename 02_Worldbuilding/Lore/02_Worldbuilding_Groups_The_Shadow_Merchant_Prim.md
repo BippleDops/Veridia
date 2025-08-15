@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02 Worldbuilding/Groups/The Shadow Merchant Prim
 
 ## Overview

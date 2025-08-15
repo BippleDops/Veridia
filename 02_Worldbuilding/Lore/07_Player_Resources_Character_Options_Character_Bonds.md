@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 07_Player_Resources/Character_Options/Character_Bonds
 
 ## Overview

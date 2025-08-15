@@ -22,7 +22,6 @@ improvements: 20
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-shadow-crystal-synthesis-the-shadow-crystal-synthesis.png)
 
-
 > [!figure] Heraldry
 
 ## 🔧 Deep Evaluation Improvements

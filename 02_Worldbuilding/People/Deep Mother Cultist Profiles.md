@@ -32,7 +32,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-deep-mother-cultist-profiles-deep-mother-cultist-profiles.svg)
 
-
 # Deep Mother Cultist Profiles
 
 ## Overview

@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # flying-snake-xmm
 
 ## Overview

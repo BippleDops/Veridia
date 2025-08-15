@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02 Worldbuilding/Procedures/Memory Coherence Testing
 
 ## Overview

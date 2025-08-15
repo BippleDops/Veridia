@@ -9,6 +9,26 @@ modified: '2025-01-15'
 
 # Character_Creation_Flowchart
 
+## Portrait
+
+![[portrait_character_creation_flowchart.png]]
+
+*Portrait reference for Character_Creation_Flowchart*
+
+## Description
+
+*[Add detailed physical appearance and personality traits here]*
+
+## Personality
+- **Traits**: *[Key character traits]*
+- **Ideals**: *[Core beliefs and values]*
+- **Bonds**: *[Important relationships and connections]*
+- **Flaws**: *[Character weaknesses or quirks]*
+
+## Voice & Mannerisms
+- **Speaking Style**: *[How they talk and express themselves]*
+- **Mannerisms**: *[Distinctive habits or behaviors]*
+
 ---
 title: Character Creation Flowchart
 type: Visual Handout
@@ -228,3 +248,46 @@ How does your character know the party?
 - [[Contrasting Approach]]
 - [[Advanced Version]]
 - [[Historical Context]]
+
+## Stats
+
+```statblock
+creature: Custom NPC
+```
+
+### Quick Stats
+- **AC**: *[Armor Class]*
+- **HP**: *[Hit Points]*
+- **Speed**: *[Movement speed]*
+- **STR/DEX/CON/INT/WIS/CHA**: *[Ability scores]*
+
+### Combat
+- **Challenge Rating**: *[CR level]*
+- **Proficiency Bonus**: *[+X]*
+- **Saving Throws**: *[Proficient saves]*
+- **Skills**: *[Skill proficiencies]*
+
+## Relationships
+
+### Family
+- *[Family members and relationships]*
+
+### Friends
+- *[Close personal relationships]*
+
+### Colleagues
+- *[Professional relationships]*
+
+### Rivals
+- *[Competitive relationships]*
+
+### Enemies
+- *[Hostile relationships]*
+
+### Romantic
+- *[Romantic interests]*
+
+### Party Relationship
+- **Current Status**: *[How they view the party]*
+- **First Meeting**: *[How they met the PCs]*
+- **Key Interactions**: *[Important encounters]*

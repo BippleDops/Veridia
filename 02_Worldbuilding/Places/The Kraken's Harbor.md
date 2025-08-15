@@ -30,7 +30,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-kraken-s-harbor-the-kraken-s-harbor.svg)
 
-
 > [!figure] View
 
 # The Kraken's Harbor

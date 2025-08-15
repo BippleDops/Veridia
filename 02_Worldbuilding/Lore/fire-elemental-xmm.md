@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # fire-elemental-xmm
 
 ## Overview

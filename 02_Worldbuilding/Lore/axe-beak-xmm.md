@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # axe-beak-xmm
 
 ## Overview

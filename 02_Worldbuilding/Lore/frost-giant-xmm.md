@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # frost-giant-xmm
 
 ## Overview

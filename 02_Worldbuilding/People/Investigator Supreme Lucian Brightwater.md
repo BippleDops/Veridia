@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-investigator-supreme-lucian-brightwater-investigator-supreme-lucian-brightwater.svg)
 
-
 # Investigator Supreme Lucian Brightwater
 
 ## Overview

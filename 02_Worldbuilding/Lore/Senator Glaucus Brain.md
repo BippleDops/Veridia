@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Asset
 ![](04_Resources/Assets/Portraits/portrait-npc-senator-glaucus-brain-senator-glaucus-brain.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

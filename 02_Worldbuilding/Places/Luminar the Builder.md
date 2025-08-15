@@ -28,7 +28,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-luminar-the-builder-luminar-the-builder.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

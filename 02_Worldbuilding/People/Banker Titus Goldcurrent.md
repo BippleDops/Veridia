@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-banker-titus-goldcurrent-banker-titus-goldcurrent.svg)
 
-
 > [!figure] Portrait
 
 # Banker Titus Goldcurrent

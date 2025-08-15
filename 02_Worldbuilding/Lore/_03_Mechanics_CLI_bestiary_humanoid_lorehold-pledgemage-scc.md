@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # /03 Mechanics/CLI/bestiary/humanoid/lorehold-pledgemage-scc
 
 ## Overview

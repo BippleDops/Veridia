@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # adult-black-dragon-xmm
 
 ## Basic Information

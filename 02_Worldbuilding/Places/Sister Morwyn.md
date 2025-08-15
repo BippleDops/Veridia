@@ -69,7 +69,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-sister-morwyn-sister-morwyn.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

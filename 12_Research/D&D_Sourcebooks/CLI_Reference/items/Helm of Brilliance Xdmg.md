@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Items/item-artifact-helm-of-brilliance-xdmg-helm-of-brilliance-xdmg.svg)
 
-
 # Helm of Brilliance Xdmg
 
 ## Overview

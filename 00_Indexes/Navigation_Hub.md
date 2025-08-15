@@ -82,10 +82,10 @@ LIMIT 20
 
 ### By Type
 
-- `type:npc` - [[02_Worldbuilding/People/All NPCs]]
-- `type:location` - [[02_Worldbuilding/Places/All Locations]]
-- `type:quest` - [[01_Adventures/All Quests]]
-- `type:session` - [[01_Adventures/All Sessions]]
+- `type:npc` - [[02 Worldbuilding/People/All NPCs]]
+- `type:location` - [[02 Worldbuilding/Places/All Locations]]
+- `type:quest` - [[01 Adventures/All Quests]]
+- `type:session` - [[01 Adventures/All Sessions]]
 
 ---
 *Navigation hub powered by Dataview - automatically updates with vault changes*

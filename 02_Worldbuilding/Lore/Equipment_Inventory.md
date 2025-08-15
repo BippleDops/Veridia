@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Equipment_Inventory
 
 ## Overview

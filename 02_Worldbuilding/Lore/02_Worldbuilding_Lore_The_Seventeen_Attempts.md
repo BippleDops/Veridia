@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02 Worldbuilding/Lore/The Seventeen Attempts
 
 ## Overview

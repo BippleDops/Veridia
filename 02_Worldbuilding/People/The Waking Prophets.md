@@ -35,7 +35,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-waking-prophets-the-waking-prophets.svg)
 
-
 > [!figure] Portrait
 
 # The Waking Prophets

@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Portraits/portrait-npc-marcus-the-shade-blackwood-marcus-the-shade-blackwood.svg)
 
-
 # Marcus the Shade Blackwood
 
 ---

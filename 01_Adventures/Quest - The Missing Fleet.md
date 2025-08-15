@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-quest-the-missing-fleet-quest-the-missing-fleet.svg)
 
-
 # Quest - The Missing Fleet
 
 ---
@@ -372,3 +371,63 @@ Play up tactile detail: sounds, pressure/wind changes, and meaningful symbology.
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## Background
+*[Adventure setup and context]*
+
+### What Happened Before
+- *[Recent events leading to this adventure]*
+
+### Current Situation  
+- *[What's happening now]*
+
+### The Stakes
+- *[What happens if PCs don't act]*
+
+## Adventure Hooks
+*[Ways to get PCs involved]*
+
+### Direct Approach
+- *[Straightforward hook]*
+
+### Indirect Approach
+- *[Subtle introduction]*
+
+### Emergency Hook
+- *[Urgent situation]*
+
+## Key NPCs
+*[Important characters in this adventure]*
+
+### Allies
+- *[Helpful NPCs]*
+
+### Antagonists
+- *[Opposition NPCs]*
+
+### Neutral Parties
+- *[Information sources]*
+
+## Locations
+*[Important places in this adventure]*
+
+### Starting Location
+- *[Where adventure begins]*
+
+### Key Sites
+- *[Major locations to visit]*
+
+### Optional Areas
+- *[Side locations]*
+
+## Rewards
+*[What PCs gain from completing this adventure]*
+
+### Experience Points
+- *[XP awards]*
+
+### Treasure
+- *[Gold and magic items]*
+
+### Story Rewards
+- *[Reputation, allies, information]*

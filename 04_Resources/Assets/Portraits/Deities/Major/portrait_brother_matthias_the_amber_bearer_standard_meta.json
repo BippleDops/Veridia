@@ -1,0 +1,53 @@
+{
+  "character": {
+    "name": "Brother Matthias the Amber Bearer",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Brother Matthias the Amber Bearer.md",
+    "race": "Human (Shard-bearer)",
+    "class": "Unknown",
+    "age": "'45'",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "## Secrets",
+    "description": "title: Brother Matthias the Amber Bearer\ntype: Npc\ntags:\n- status/complete\n- unknowing-bearer\n- seven-shards\n- amber-shard\n- npc\n- purist-coalition\n- content/npc\n- character\n- world/aethermoor\n- active\n- complete\n- aethermoor\ncreated: '2025-08-09'\nmodified: '2025-08-14'\nstatus: complete\nrace: Human (Shard-bearer)\nclass: Unknown\nlocation: '[[The Verdant Reach]] - Coalition Monastery'\naffiliation: '[[Purist Coalition]]'\nage: '45'\ncreated_by: auto-stub\nrole: Unknowing Shard Bearer\nupdated: '2025-08-13T12:34:17.712139+00:00'\nworld: Aethermoor\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "**Traits**: Creative, clever, disciplined\n\n**Ideals**: Excellence in their chosen field, maintaining professional standards\n\n**Bonds**: Loyalty to allies, commitment to their cause\n\n**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives",
+    "appearance": "Brother Matthias the Amber Bearer presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures]",
+    "divine": [
+      "Celestial"
+    ],
+    "monstrous": null,
+    "pc": null,
+    "major": [
+      "leader"
+    ]
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "standard",
+    "expression": "neutral",
+    "lighting": "balanced"
+  },
+  "prompt": "portrait_miniature portrait of Human (Shard-bearer) Unknown, Brother Matthias the Amber Bearer presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures], weathered, neutral expression, balanced lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.174Z",
+  "placeholder": true
+}

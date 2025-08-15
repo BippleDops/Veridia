@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # food-drink-and-lodging-xphb
 
 ## Basic Information

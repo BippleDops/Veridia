@@ -29,7 +29,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-temple-of-eternal-tides-the-temple-of-eternal-tides.svg)
 
-
 > [!figure] View
 
 # The Temple of Eternal Tides

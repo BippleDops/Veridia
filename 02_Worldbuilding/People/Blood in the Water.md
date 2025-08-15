@@ -34,7 +34,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-blood-in-the-water-blood-in-the-water.svg)
 
-
 > [!figure] Portrait
 
 # Blood in the Water

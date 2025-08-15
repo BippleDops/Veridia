@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Maintenance_Supplies
 
 ## Overview

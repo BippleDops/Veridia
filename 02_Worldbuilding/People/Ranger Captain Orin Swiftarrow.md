@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-ranger-captain-orin-swiftarrow-ranger-captain-orin-swiftarrow.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

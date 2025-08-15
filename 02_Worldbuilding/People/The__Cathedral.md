@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # The  Cathedral
 
 ## Basic Information

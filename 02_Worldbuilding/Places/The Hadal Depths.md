@@ -37,7 +37,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-hadal-depths-the-hadal-depths.svg)
 
-
 > [!figure] View
 
 # The Hadal Depths

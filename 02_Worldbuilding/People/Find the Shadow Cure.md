@@ -35,7 +35,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-find-the-shadow-cure-find-the-shadow-cure.svg)
 
-
 > [!figure] Portrait
 
 # Find the Shadow Cure

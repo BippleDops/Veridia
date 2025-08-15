@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-master-jeweler-sapphire-delicatehand-master-jeweler-sapphire-delicatehand.svg)
 
-
 # Master Jeweler Sapphire Delicatehand
 
 ---

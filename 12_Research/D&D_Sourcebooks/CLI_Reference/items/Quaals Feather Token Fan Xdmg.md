@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Items/item-artifact-quaals-feather-token-fan-xdmg-quaals-feather-token-fan-xdmg.svg)
 
-
 # Quaals Feather Token Fan Xdmg
 
 ## Overview

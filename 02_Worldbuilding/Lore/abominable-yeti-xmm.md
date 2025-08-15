@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # abominable-yeti-xmm
 
 ## Overview

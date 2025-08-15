@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02_Worldbuilding/Items/Cleaning_Kit_of_the_Ancients
 
 ## Overview

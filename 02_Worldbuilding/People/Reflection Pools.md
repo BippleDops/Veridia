@@ -35,7 +35,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-reflection-pools-reflection-pools.svg)
 
-
 > [!figure] Portrait
 
 # Reflection Pools

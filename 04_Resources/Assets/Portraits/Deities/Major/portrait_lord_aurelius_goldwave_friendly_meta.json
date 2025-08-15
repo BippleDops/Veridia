@@ -1,0 +1,55 @@
+{
+  "character": {
+    "name": "Lord Aurelius Goldwave",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Lord Aurelius Goldwave.md",
+    "race": "Unknown",
+    "class": "Enchantment Wizard/College of Eloquence Bard",
+    "age": "serve both genuine kindness and political positioning",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "'[[The Order of the Shattered Crown]]'",
+    "description": "title: Lord Aurelius Goldwave\ntype: Npc\ntags:\n- status/complete\n- noble\n- political-intrigue\n- npc\n- character\n- content/npc\n- world/aethermoor\n- active\n- complete\n- betrayer-descendant\n- lord\n- aethermoor\n- bloodline\ncreated: '2025-08-09'\nmodified: '2025-08-14'\nstatus: complete\nrace: Unknown\nclass: Enchantment Wizard/College of Eloquence Bard\nlocation: '[[Port Meridian]]'\nCR: 10\nMyCategory: Unknown\nMyContainer: None\ncreated_by: Claude\nfaction: '[[The Order of the Shattered Crown]]'\nobsidianUIMode: preview\nupdated: '2025-08-13T12:34:17.502860+00:00'\nworld: Aethermoor\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "Lord Goldwave embodies the complexity of nobility burdened by ancestral guilt:\n- **Charming Manipulator**: Uses wit, wealth, and magical persuasion to achieve his goals\n- **Guilt-Driven**: Every action stems from his need to atone for his ancestor's betrayal\n- **Strategically Generous**: Philanthropy and patronage serve both genuine kindness and political positioning\n- **Intellectually Ruthless**: Will sacrifice individuals for the greater good without hesitation\n- **Secretly Desperate**: Beneath the polished exterior lies a man racing against time and corruption",
+    "appearance": "Private Truth\n**Public**: Successful merchant-lord, patron of arts and education, advocate for responsible crystal use\n**Private**: Obsessed revolutionary planning to fundamentally reshape Aethermoor's power structure\n\n## Speaking Patterns\nLord Goldwave's speech reflects his bardic training and aristocratic upbringing:\n- *\"The past writes the present, but we hold the pen for the future's final chapter. The price of redemption, you ask? Everything I have built, everything I am, everything I could become.",
+    "divine": [
+      "Celestial"
+    ],
+    "monstrous": [
+      "Monster"
+    ],
+    "pc": null,
+    "major": [
+      "leader"
+    ]
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "friendly",
+    "expression": "smiling",
+    "lighting": "warm"
+  },
+  "prompt": "portrait_miniature portrait of Unknown Enchantment Wizard/College of Eloquence Bard, Private Truth\n**Public**: Successful merchant-lord, patron of arts and education, advocate for responsible crystal use\n**Private**: Obsessed revolutionary planning to fundamentally reshape Aethermoor's power structure\n\n## Speaking Patterns\nLord Goldwave's speech reflects his bardic training and aristocratic upbringing:\n- *\"The past writes the present, but we hold the pen for the future's final chapter. The price of redemption, you ask? Everything I have built, everything I am, everything I could become., weathered, smiling expression, warm lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.250Z",
+  "placeholder": true
+}

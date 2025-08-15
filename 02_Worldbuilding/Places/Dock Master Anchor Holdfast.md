@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-dock-master-anchor-holdfast-dock-master-anchor-holdfast.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

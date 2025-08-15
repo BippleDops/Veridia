@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02_Worldbuilding/Lore/The_Maintenance_Codex
 
 ## Overview

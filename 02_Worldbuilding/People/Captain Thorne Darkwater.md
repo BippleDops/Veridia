@@ -28,7 +28,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-thorne-darkwater-captain-thorne-darkwater.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

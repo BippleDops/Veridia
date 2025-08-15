@@ -53,7 +53,7 @@ It's up to you whether these spells are available at character creation, whether
 
 The spells are presented in alphabetical order.
 
-- [[abi dalzims horrid wilting xge|Abi-Dalzim's Horrid Wilting]]  
+- [[abi dalzims horrid wilting xge|Abi Dalzim's Horrid Wilting]]  
 - [[absorb elements xge|Absorb Elements]]  
 - [[aganazzars scorcher xge|Aganazzar's Scorcher]]  
 - [[beast bond xge|Beast Bond]]  

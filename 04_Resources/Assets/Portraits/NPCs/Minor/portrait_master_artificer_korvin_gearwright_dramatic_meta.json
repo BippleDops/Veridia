@@ -1,0 +1,49 @@
+{
+  "character": {
+    "name": "Master Artificer Korvin Gearwright",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Master Artificer Korvin Gearwright.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "while asserting his creative independence",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "## Voice & Mannerisms",
+    "description": "title: Master Artificer Korvin Gearwright\ntype: Npc\ntags:\n- both\n- npc\n- world/both\n- character\n- content/npc\n- active\n- complete\n- status/in-progress\n- bloodline\ncreated: '2025-08-11'\nmodified: '2025-08-14'\nstatus: complete\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nupdated: '2025-08-13T12:34:17.620186+00:00'\nworld: Both\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "",
+    "appearance": "But probably the first thing!\"*\n\n*\"The Purists call me mad, but they said the same about my self-stirring soup pot, and look how that turned out! Well, after the third version that didn't catch fire.",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": null
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "dramatic",
+    "expression": "intense",
+    "lighting": "dramatic"
+  },
+  "prompt": "realistic portrait of Unknown Unknown, But probably the first thing!\"*\n\n*\"The Purists call me mad, but they said the same about my self-stirring soup pot, and look how that turned out! Well, after the third version that didn't catch fire., weathered, intense expression, dramatic lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.617Z",
+  "placeholder": true
+}

@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # mage-hunter-scc
 
 ## Overview

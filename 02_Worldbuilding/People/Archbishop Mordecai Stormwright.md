@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-archbishop-mordecai-stormwright-archbishop-mordecai-stormwright.svg)
 
-
 > [!figure] Portrait
 
 # Archbishop Mordecai Stormwright

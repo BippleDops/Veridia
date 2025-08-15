@@ -36,7 +36,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-depth-warden-patrol-depth-warden-patrol.svg)
 
-
 > [!figure] View
 
 # Depth Warden Patrol

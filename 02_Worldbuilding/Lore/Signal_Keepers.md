@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Signal_Keepers
 
 ## Overview

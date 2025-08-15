@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # holy-symbol-varies-holy-symbols-xphb
 
 ## Overview

@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # ice-mephit-xmm
 
 ## Overview

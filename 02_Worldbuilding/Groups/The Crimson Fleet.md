@@ -25,7 +25,6 @@ improvements: 20
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-crimson-fleet-the-crimson-fleet.svg)
 
-
 > [!figure] Heraldry
 
 ## 🔧 Deep Evaluation Improvements
@@ -132,3 +131,28 @@ Things widely suspected
 - Someone is blackmailing information for money
 - An heirloom has gone missing and truth emerges
 - A journal reveals ancient history about the cult
+## Members
+
+### Leadership
+- *[Link to leader NPCs]*
+
+### Notable Members
+- *[Link to important faction members]*
+
+### Membership
+- **Size**: *[Approximate number of members]*
+- **Recruitment**: *[How they recruit new members]*
+
+## Relationships
+
+### Allies
+- **[Faction Name]**: *[Nature of alliance]*
+
+### Neutral Parties
+- **[Faction Name]**: *[Current status]*
+
+### Enemies
+- **[Faction Name]**: *[Source of conflict]*
+
+### Complicated Relationships
+- **[Faction Name]**: *[Complex relationship details]*

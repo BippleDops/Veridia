@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Creatures/creature-creature-salamander-xmm-salamander-xmm.png)
 
-
 # Salamander Xmm
 
 ---

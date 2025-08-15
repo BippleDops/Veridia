@@ -41,7 +41,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-botanist-rose-sundrinker-botanist-rose-sundrinker.svg)
 
-
 # Botanist Rose Sundrinker
 
 ## 🔧 Deep Evaluation Improvements

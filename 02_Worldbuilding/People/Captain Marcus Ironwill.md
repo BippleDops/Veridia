@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-marcus-ironwill-captain-marcus-ironwill.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

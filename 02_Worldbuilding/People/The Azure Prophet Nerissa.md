@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-azure-prophet-nerissa-the-azure-prophet-nerissa.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

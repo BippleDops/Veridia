@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-storm-empress-tempestas-maelstrom-storm-empress-tempestas-maelstrom.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

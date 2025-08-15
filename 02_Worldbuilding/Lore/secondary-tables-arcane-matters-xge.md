@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # secondary-tables-arcane-matters-xge
 
 ## Overview

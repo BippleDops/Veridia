@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Items/item-artifact-tankard-of-plenty-hotdq-tankard-of-plenty-hotdq.svg)
 
-
 # Tankard of Plenty Hotdq
 
 ## Overview

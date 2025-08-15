@@ -9,13 +9,11 @@ Total Tracks: 0
 
 ## Quick Access
 
-
 ### Location Playlists
 - [Aquabyssos Depths](#aquabyssos-depths)
 - [Aethermoor Skies](#aethermoor-skies)
 - [Abyssos Prime](#abyssos-prime)
 - [Bexley Harbor](#bexley-harbor)
-
 
 ### Activity Playlists
 - [Combat Encounters](#combat-encounters)
@@ -23,13 +21,11 @@ Total Tracks: 0
 - [Exploration](#exploration)
 - [Social Encounters](#social-encounters)
 
-
 ### Atmosphere Playlists
 - [Mystery & Intrigue](#mystery-&-intrigue)
 - [Horror & Dread](#horror-&-dread)
 - [Sacred & Divine](#sacred-&-divine)
 - [Celebration & Festival](#celebration-&-festival)
-
 
 ### Faction Playlists
 - [Parliament of Shadows](#parliament-of-shadows)
@@ -37,10 +33,7 @@ Total Tracks: 0
 - [Void Touched](#void-touched)
 - [Merchant Guilds](#merchant-guilds)
 
-
 ## Detailed Playlists
-
-
 
 ## Usage Instructions
 

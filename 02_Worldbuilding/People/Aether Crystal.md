@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-aether-crystal-aether-crystal.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

@@ -1,3 +1,7 @@
+---
+tags: ['faction']
+---
+
 # 02 Worldbuilding/Factions/The Order of the Veil
 
 ## Organization Overview
@@ -239,3 +243,16 @@ Secret locations for sensitive activities.
 
 ---
 *Tags*: #organization #order #faction #worldbuilding
+## Relationships
+
+### Allies
+- **[Faction Name]**: *[Nature of alliance]*
+
+### Neutral Parties
+- **[Faction Name]**: *[Current status]*
+
+### Enemies
+- **[Faction Name]**: *[Source of conflict]*
+
+### Complicated Relationships
+- **[Faction Name]**: *[Complex relationship details]*

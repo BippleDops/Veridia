@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # data/content validator.py
 
 ## Overview

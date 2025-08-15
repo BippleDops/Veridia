@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # gelatinous-cube-xmm
 
 ## Overview

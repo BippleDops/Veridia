@@ -1,0 +1,51 @@
+{
+  "character": {
+    "name": "His Own Shadow",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/His Own Shadow.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Resistances** Cold, Necrotic",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": ", valuing his infiltration abilities",
+    "description": "Umbra Mirrorbane exists as living proof that identity itself can be stolen, copied, and perverted. He is not born but rather manifested from the collective fears of those who doubt themselves, created when shadows gain enough sentience to resent their original casters.\n\nIn his natural form, Umbra appears as a constantly shifting humanoid silhouette, darker than the deepest ocean trench. His \"face\" is a void that seems to absorb light, with only two points of silver light marking where eyes might be. When impersonating others, he achieves perfect physical mimicry, but observant individuals might notice that his shadow moves independently or that mirrors reflect something subtly wrong.\n\nUmbra feeds on identity and self-doubt, growing stronger each time he successfully impersonates someone and causes them to question their own sense of self. His ultimate goal is not merely survival, but the complete erasure of individual identity in favor of a world where everyone is interchangeable.\n\nHe operates from the Reflection District, a maze-like area where mirrors line every surface and reality becomes questionable. Here, visitors often lose track of which reflection is real and which belongs to Umbra's machinations.",
+    "personality": "**Traits**: Brave, loyal, brave\n\n**Ideals**: Excellence in their chosen field, maintaining professional standards\n\n**Bonds**: Loyalty to allies, commitment to their cause\n\n**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives",
+    "appearance": "His Own Shadow presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures]",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": [
+      "Important"
+    ]
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "friendly",
+    "expression": "smiling",
+    "lighting": "warm"
+  },
+  "prompt": "realistic portrait of Unknown Unknown, His Own Shadow presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures], weathered, smiling expression, warm lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.513Z",
+  "placeholder": true
+}

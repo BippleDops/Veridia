@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 00 Indexes/Documentation
 
 ## Overview

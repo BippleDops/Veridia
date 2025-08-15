@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-engineer-prisma-depthwright-engineer-prisma-depthwright.svg)
 
-
 > [!figure] View
 
 # The Depthwright Laboratory

@@ -1,0 +1,51 @@
+{
+  "character": {
+    "name": "Surface Syndicate",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Surface Syndicate.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Improvements",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "- npc",
+    "description": "title: Surface Syndicate\ntype: Npc\ntags:\n- aquabyssos\n- world/surface\n- status/complete\n- content/faction\n- npc\n- character\n- content/npc\n- syndicate\n- active\n- complete\n- world/aquabyssos\n- conspiracy\ncreated: 2025-08-08 - Category/Groups\nmodified: '2025-08-14'\nstatus: complete\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nMyCategory: Criminal\nMyContainer: None\ncreated_by: auto-stub\nobsidianUIMode: preview\nupdated: '2025-08-13T12:34:17.523639+00:00'\nworld: Aquabyssos\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "",
+    "appearance": "Honor all debts and contracts within reasonable time\n3.",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": [
+      "Leader"
+    ]
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "standard",
+    "expression": "neutral",
+    "lighting": "balanced"
+  },
+  "prompt": "realistic portrait of Unknown Unknown, Honor all debts and contracts within reasonable time\n3., weathered, neutral expression, balanced lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.800Z",
+  "placeholder": true
+}

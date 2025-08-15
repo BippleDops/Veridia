@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # goblin-warrior-xmm
 
 ## Overview

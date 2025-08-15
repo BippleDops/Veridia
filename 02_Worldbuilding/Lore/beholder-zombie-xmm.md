@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # beholder-zombie-xmm
 
 ## Overview

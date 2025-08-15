@@ -29,7 +29,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-throne-of-bubbles-throne-of-bubbles.svg)
 
-
 > [!figure] Portrait
 
 # His Eternal Majesty, Keeper of the Throne of Bubbles

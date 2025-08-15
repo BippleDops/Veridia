@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # hell-hound-xmm
 
 ## Overview

@@ -46,8 +46,8 @@ world: Both
 | [[halfling xphb|Halfling]] | 2'7" | +`2d4` | 35 lb. | × 1 lb |
 | [[dragonborn xphb|Dragonborn]] | 5'6" | +`2d8` | 175 lb. | × (`2d6`) lb. |
 | [[gnome xphb|Gnome]] | 2' 11" | +`2d4` | 35 lb. | × 1 lb. |
-| [[half elf|Half-elf]] | 4'9" | +`2d8` | 110 lb. | × (`2d4`) lb. |
-| [[half orc|Half-orc]] | 4'10" | +`2d10` | 140 lb. | × (`2d6`) lb. |
+| [[half elf|Half elf]] | 4'9" | +`2d8` | 110 lb. | × (`2d4`) lb. |
+| [[half orc|Half orc]] | 4'10" | +`2d10` | 140 lb. | × (`2d6`) lb. |
 | [[tiefling xphb|Tiefling]] | 4 '9" | +`2d8` | 110 lb. | × (`2d4`) lb. |
 ^random-height-and-weight
 

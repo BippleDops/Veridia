@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # killer-whale-xmm
 
 ## Overview

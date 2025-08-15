@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # satyr-revelmaster-xmm
 
 ## Basic Information

@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-keeper-seafoam-the-neutral-keeper-seafoam-the-neutral.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

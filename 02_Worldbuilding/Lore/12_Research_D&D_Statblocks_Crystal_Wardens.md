@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 12_Research/D&D_Statblocks/Crystal Wardens
 
 ## Overview

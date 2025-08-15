@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-scholar-david-crossref-scholar-david-crossref.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

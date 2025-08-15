@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # mummy-lord-xmm
 
 ## Basic Information

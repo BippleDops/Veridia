@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-luminous-dawn-cathedral-the-luminous-dawn-cathedral.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

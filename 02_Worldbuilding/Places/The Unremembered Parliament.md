@@ -30,7 +30,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-unremembered-parliament-the-unremembered-parliament.svg)
 
-
 > [!figure] View
 
 # The Unremembered Parliament

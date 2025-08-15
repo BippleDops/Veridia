@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Creatures/creature-creature-kuo-toa-whip-xmm-kuo-toa-whip-xmm.svg)
 
-
 # Kuo Toa Whip Xmm
 
 ## Overview

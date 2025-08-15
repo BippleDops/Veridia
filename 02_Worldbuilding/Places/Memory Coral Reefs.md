@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-memory-coral-reefs-memory-coral-reefs.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

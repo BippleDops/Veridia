@@ -45,7 +45,7 @@ world: Both
 | 4 | [[gold idol xdmg|Gold idol]] |
 | 5 | [[gold comb shaped like a dragon with red garnets as eyes xdmg|Gold comb shaped like a dragon with red garnets as eyes]] |
 | 6 | [[bottle stopper cork embossed with gold leaf and set with amethysts xdmg|Bottle stopper cork embossed with gold leaf and set with amethysts]] |
-| 7 | [[detailed life sized dragonborn skull cast in electrum xdmg|Detailed, life-sized dragonborn skull cast in electrum]] |
+| 7 | [[detailed life sized dragonborn skull cast in electrum xdmg|Detailed, life sized dragonborn skull cast in electrum]] |
 | 8 | [[silver and gold brooch xdmg|Silver and gold brooch]] |
 | 9 | [[obsidian statuette with gold fittings and inlay xdmg|Obsidian statuette with gold fittings and inlay]] |
 | 10 | [[painted gold war mask xdmg|Painted gold war mask]] |

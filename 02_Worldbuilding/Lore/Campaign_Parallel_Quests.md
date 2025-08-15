@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Campaign_Parallel_Quests
 
 ## Overview

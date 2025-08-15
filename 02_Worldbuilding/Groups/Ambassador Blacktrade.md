@@ -25,7 +25,6 @@ improvements: 20
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-ambassador-blacktrade-ambassador-blacktrade.svg)
 
-
 > [!figure] Heraldry
 
 ## 🔧 Deep Evaluation Improvements
@@ -103,3 +102,28 @@ Mentioned in The Second Prophecy of Depths
 
 - A noble needs help finding before winter
 - A document has gone missing and chaos spreads
+## Members
+
+### Leadership
+- *[Link to leader NPCs]*
+
+### Notable Members
+- *[Link to important faction members]*
+
+### Membership
+- **Size**: *[Approximate number of members]*
+- **Recruitment**: *[How they recruit new members]*
+
+## Relationships
+
+### Allies
+- **[Faction Name]**: *[Nature of alliance]*
+
+### Neutral Parties
+- **[Faction Name]**: *[Current status]*
+
+### Enemies
+- **[Faction Name]**: *[Source of conflict]*
+
+### Complicated Relationships
+- **[Faction Name]**: *[Complex relationship details]*

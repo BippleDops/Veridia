@@ -37,7 +37,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-original-palace-the-original-palace.svg)
 
-
 > [!figure] View
 
 # The Original Palace

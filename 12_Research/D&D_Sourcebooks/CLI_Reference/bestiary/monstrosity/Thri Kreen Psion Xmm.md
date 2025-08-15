@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-thri-kreen-psion-xmm-thri-kreen-psion-xmm.svg)
 
-# [[thri kreen psion xmm|Thri-kreen Psion]]
+# [[thri kreen psion xmm|Thri kreen Psion]]
 *Source: Monster Manual (2024) p. 306*  
 
 Thri-kreen psions harness their psychic powers to avoid danger and manipulate objects from afar.

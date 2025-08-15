@@ -31,7 +31,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-character-relationship-web-core-npcs-character-relationship-web-core-npcs.svg)
 
-
 > [!figure] Portrait
 
 # Character Relationship Web - Core NPCs

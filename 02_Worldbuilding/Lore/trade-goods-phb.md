@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # trade-goods-phb
 
 ## Overview

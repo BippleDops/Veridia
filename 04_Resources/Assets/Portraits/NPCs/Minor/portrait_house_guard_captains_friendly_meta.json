@@ -1,0 +1,49 @@
+{
+  "character": {
+    "name": "House Guard Captains",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/House Guard Captains.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Improvements",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "## Secrets",
+    "description": "title: House Guard Captains\ntype: Npc\ntags:\n- both\n- npc\n- world/both\n- character\n- content/npc\n- active\n- complete\n- status/in-progress\n- bloodline\ncreated: '2025-08-11'\nmodified: '2025-08-14'\nstatus: complete\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nupdated: '2025-08-13T12:34:17.535604+00:00'\nworld: Both\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "**Traits**: Empathetic, ambitious, brave\n\n**Ideals**: Excellence in their chosen field, maintaining professional standards\n\n**Bonds**: Loyalty to allies, commitment to their cause\n\n**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives",
+    "appearance": "House Guard Captains presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures]",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": null
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "friendly",
+    "expression": "smiling",
+    "lighting": "warm"
+  },
+  "prompt": "realistic portrait of Unknown Unknown, House Guard Captains presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures], weathered, smiling expression, warm lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.515Z",
+  "placeholder": true
+}

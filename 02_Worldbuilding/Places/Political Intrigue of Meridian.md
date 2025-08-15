@@ -31,7 +31,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-political-intrigue-of-meridian-political-intrigue-of-meridian.svg)
 
-
 > [!figure] View
 
 # Political Intrigue of Meridian

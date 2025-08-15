@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # /03 Mechanics/CLI/bestiary/humanoid/duergar-warlord-mpmm
 
 ## Basic Information

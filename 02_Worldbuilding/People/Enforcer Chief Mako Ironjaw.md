@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-enforcer-chief-mako-ironjaw-enforcer-chief-mako-ironjaw.svg)
 
-
 > [!figure] Portrait
 
 # Enforcer Chief Mako Ironjaw

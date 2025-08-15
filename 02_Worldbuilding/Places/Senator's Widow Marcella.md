@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-senator-s-widow-marcella-senator-s-widow-marcella.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

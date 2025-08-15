@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-war-of-the-sunless-depths-v1-war-of-the-sunless-depths.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

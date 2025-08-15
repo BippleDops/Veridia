@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-master-artificer-korvin-gearwright-master-artificer-korvin-gearwright.svg)
 
-
 > [!figure] Portrait
 
 # Master Artificer Korvin Gearwright

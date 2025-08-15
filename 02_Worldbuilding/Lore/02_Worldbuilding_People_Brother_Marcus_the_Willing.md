@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02 Worldbuilding/People/Brother Marcus the Willing
 
 ## Overview

@@ -39,7 +39,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-threshold-chambers-the-threshold-chambers.svg)
 
-
 > [!figure] View
 
 # The Threshold Chambers

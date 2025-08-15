@@ -1,3 +1,7 @@
+---
+tags: ['location']
+---
+
 # Pearl_Harbor_City
 
 ## Overview

@@ -28,7 +28,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-ancient-echo-truthfinder-ancient-echo-truthfinder.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

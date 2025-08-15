@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Cleaning_Kit_of_Ancients
 
 ## Overview

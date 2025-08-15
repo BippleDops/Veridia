@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # ancient-black-dragon-xmm
 
 ## Basic Information

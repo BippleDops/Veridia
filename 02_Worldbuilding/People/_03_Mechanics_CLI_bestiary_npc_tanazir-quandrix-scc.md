@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # /03 Mechanics/CLI/bestiary/npc/tanazir-quandrix-scc
 
 ## Basic Information

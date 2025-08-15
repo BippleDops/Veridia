@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-militant-priest-abyssal-militant-priest-abyssal.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

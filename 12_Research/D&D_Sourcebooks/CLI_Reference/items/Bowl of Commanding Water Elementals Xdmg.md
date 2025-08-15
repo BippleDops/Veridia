@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Items/item-artifact-bowl-of-commanding-water-elementals-xdmg-bowl-of-commanding-water-elementals-xdmg.svg)
 
-
 # Bowl of Commanding Water Elementals Xdmg
 
 ## Overview

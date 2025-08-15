@@ -33,7 +33,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-gloom-gardens-the-gloom-gardens.svg)
 
-
 # The Gloom Gardens
 
 ## Overview

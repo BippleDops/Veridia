@@ -1,0 +1,51 @@
+{
+  "character": {
+    "name": "adult-brass-dragon-xmm",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/adult-brass-dragon-xmm.md",
+    "race": "**: Human",
+    "class": "/Profession**: Unknown",
+    "age": "ment capabilities",
+    "gender": "neutral",
+    "alignment": "**: Neutral",
+    "faction": null,
+    "description": "",
+    "personality": "- **Traits**: Professional, competent, focused\n- **Ideals**: Excellence in their craft\n- **Bonds**: Connections to local organizations\n- **Flaws**: To be discovered through interaction",
+    "appearance": "A distinguished individual whose presence commands attention. Their appearance suggests experience and capability in their chosen field.",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": [
+      "Leader"
+    ]
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "sad",
+    "expression": "sad",
+    "lighting": "soft"
+  },
+  "prompt": "realistic portrait of **: Human /Profession**: Unknown, A distinguished individual whose presence commands attention. Their appearance suggests experience and capability in their chosen field., weathered, sad expression, soft lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.990Z",
+  "placeholder": true
+}

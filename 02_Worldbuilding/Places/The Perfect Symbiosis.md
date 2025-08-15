@@ -42,7 +42,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-perfect-symbiosis-the-perfect-symbiosis.svg)
 
-
 # The Perfect Symbiosis
 
 ## 🔧 Deep Evaluation Improvements

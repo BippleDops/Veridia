@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-bloodline-carrier-the-bloodline-carrier.svg)
 
-
 > [!figure] Portrait
 
 # Lysander Crystalborn, the Bloodline Carrier

@@ -63,3 +63,27 @@ Confronting the source of the problem and determining outcomes.
 - Allow multiple solution paths
 - Reward creative problem-solving
 - Connect to ongoing campaign themes
+
+## Key NPCs
+*[Important characters in this adventure]*
+
+### Allies
+- *[Helpful NPCs]*
+
+### Antagonists
+- *[Opposition NPCs]*
+
+### Neutral Parties
+- *[Information sources]*
+
+## Locations
+*[Important places in this adventure]*
+
+### Starting Location
+- *[Where adventure begins]*
+
+### Key Sites
+- *[Major locations to visit]*
+
+### Optional Areas
+- *[Side locations]*

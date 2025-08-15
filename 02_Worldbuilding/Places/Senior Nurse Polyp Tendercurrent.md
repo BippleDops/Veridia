@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-senior-nurse-polyp-tendercurrent-senior-nurse-polyp-tendercurrent.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Creatures/creature-creature-ancient-brass-dragon-xmm-ancient-brass-dragon-xmm.png)
 
-
 # Ancient Brass Dragon Xmm
 
 ---

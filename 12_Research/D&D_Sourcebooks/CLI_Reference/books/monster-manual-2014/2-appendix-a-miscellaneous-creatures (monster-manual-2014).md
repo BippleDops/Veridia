@@ -120,7 +120,7 @@ This appendix contains statistics for various animals, vermin, and other critter
 - [[reef shark xmm|Reef Shark]]  
 - [[rhinoceros xmm|Rhinoceros]]  
 - [[riding horse xmm|Riding Horse]]  
-- [[saber toothed tiger xmm|Saber-Toothed Tiger]]  
+- [[saber toothed tiger xmm|Saber Toothed Tiger]]  
 - [[scorpion xmm|Scorpion]]  
 - [[seahorse xmm|Sea Horse]]  
 - [[spider xmm|Spider]]  

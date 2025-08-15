@@ -43,7 +43,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-shadow-parliament-shadow-parliament.svg)
 
-
 # Shadow Parliament
 
 ## 🔧 Deep Evaluation Improvements

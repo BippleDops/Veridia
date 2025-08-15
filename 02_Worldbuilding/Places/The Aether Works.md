@@ -30,7 +30,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-aether-works-the-aether-works.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

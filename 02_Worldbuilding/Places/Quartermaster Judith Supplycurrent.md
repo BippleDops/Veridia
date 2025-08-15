@@ -28,7 +28,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-quartermaster-judith-supplycurrent-quartermaster-judith-supplycurrent.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

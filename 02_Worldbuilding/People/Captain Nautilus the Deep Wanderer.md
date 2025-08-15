@@ -32,7 +32,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-nautilus-the-deep-wanderer-captain-nautilus-the-deep-wanderer.svg)
 
-
 # Captain Nautilus the Deep Wanderer
 
 ## Overview

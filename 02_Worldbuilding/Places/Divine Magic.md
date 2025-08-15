@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-divine-magic-divine-magic.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

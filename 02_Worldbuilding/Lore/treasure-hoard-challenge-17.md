@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # treasure-hoard-challenge-17
 
 ## Overview

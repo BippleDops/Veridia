@@ -179,3 +179,63 @@ improvements: 20
 | 5-10 | CR 7 | CR 9 | CR 11 | CR 13 |
 | 11-16 | CR 14 | CR 17 | CR 19 | CR 21 |
 | 17-20 | CR 22 | CR 24 | CR 26 | CR 28 |
+
+## Background
+*[Adventure setup and context]*
+
+### What Happened Before
+- *[Recent events leading to this adventure]*
+
+### Current Situation  
+- *[What's happening now]*
+
+### The Stakes
+- *[What happens if PCs don't act]*
+
+## Adventure Hooks
+*[Ways to get PCs involved]*
+
+### Direct Approach
+- *[Straightforward hook]*
+
+### Indirect Approach
+- *[Subtle introduction]*
+
+### Emergency Hook
+- *[Urgent situation]*
+
+## Key NPCs
+*[Important characters in this adventure]*
+
+### Allies
+- *[Helpful NPCs]*
+
+### Antagonists
+- *[Opposition NPCs]*
+
+### Neutral Parties
+- *[Information sources]*
+
+## Locations
+*[Important places in this adventure]*
+
+### Starting Location
+- *[Where adventure begins]*
+
+### Key Sites
+- *[Major locations to visit]*
+
+### Optional Areas
+- *[Side locations]*
+
+## Scaling
+*[How to adjust for different party levels]*
+
+### Lower Level Parties
+- *[Adjustments for weaker groups]*
+
+### Higher Level Parties
+- *[Adjustments for stronger groups]*
+
+### Large/Small Parties
+- *[Adjustments for party size]*

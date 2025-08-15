@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # black-pudding-xmm
 
 ## Overview

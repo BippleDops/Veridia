@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02 Worldbuilding/Equipment/Neural Activity Mappers
 
 ## Overview

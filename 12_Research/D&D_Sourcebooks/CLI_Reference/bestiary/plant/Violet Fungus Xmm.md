@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Creatures/creature-creature-violet-fungus-xmm-v1-violet-fungus-xmm.png)
 
-
 # Violet Fungus Xmm
 
 ---

@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-guard-peacehold-captain-guard-peacehold.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

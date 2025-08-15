@@ -34,7 +34,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-antiquarian-eliza-tidecaller-antiquarian-eliza-tidecaller.svg)
 
-
 > [!figure] View
 
 # The Tidecaller Antiquarium - Repository of Deep-Sea Wonders

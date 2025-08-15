@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-emperor-pelagic-the-last-emperor-pelagic-the-last.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

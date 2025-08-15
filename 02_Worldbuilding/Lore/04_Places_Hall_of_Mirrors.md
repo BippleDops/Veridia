@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 04_Places/Hall_of_Mirrors
 
 ## Overview

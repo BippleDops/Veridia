@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # venomous-snake-xmm
 
 ## Overview

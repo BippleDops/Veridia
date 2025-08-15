@@ -28,7 +28,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-coral-throne-syndicate-coral-throne-syndicate.svg)
 
-
 > [!figure] View
 
 # Coral Throne Syndicate

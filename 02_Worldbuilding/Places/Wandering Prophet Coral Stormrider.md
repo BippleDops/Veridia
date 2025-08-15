@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-wandering-prophet-coral-stormrider-v1-wandering-prophet-coral-stormrider.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

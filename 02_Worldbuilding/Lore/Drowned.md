@@ -23,7 +23,6 @@ improvements: 20
 > [!figure] Scene
 ![](04_Resources/Assets/Scenes/scene-scene-drowned-cathedral-vigil-drowned-cathedral-vigil.png)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-sea-spirit-priests-sea-spirit-priests.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

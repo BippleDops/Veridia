@@ -1,0 +1,49 @@
+{
+  "character": {
+    "name": "Refugee Camps",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Refugee Camps.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "d in:",
+    "gender": "neutral",
+    "alignment": null,
+    "faction": "## Secrets",
+    "description": "title: Refugee Camps\ntype: Npc\ntags:\n- both\n- npc\n- world/both\n- character\n- content/npc\n- active\n- complete\n- status/in-progress\n- conspiracy\n- prophecy\ncreated: '2025-08-11'\nmodified: '2025-08-14'\nstatus: complete\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nupdated: '2025-08-13T12:34:17.645848+00:00'\nworld: Both\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "",
+    "appearance": "## Background\n\nRefugee Camps's path to their current position involved:\n\n- **Early Life**: Formative experiences that shaped their worldview\n- **Training**: Specialized education in their field\n- **Key Events**: Defining moments that set their course\n- **Rise to Position**: How they achieved their current status\n\n## Motivations\n\n**Primary Goal**: Maintaining balance\n\n**Secondary Objectives**:\n- Maintain their position and influence\n- Advance their organization's interests\n- Personal advancement or satisfaction\n\n## Secrets\n\nRefugee Camps harbors secrets that could change everything:\n\n- **Public Secret**: Something widely suspected but unproven\n- **Private Secret**: Known only to a trusted few\n- **Deep Secret**: Prophetic visions\n\n## Voice & Mannerisms\n\n**Voice**: Deep and resot\n\n**Speech Pattern**: Carefully chosen words\n\n**Physical Habits**: Remains perfectly still\n\n## Current Activities\n\nRefugee Camps is currently engaged in:\n\n- Managing their regular responsibilities\n- Pursuing a specific objective\n- Dealing with recent developments\n- Planning future operations\n\n## Plot Hooks\n\n1.",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": null
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "standard",
+    "expression": "neutral",
+    "lighting": "balanced"
+  },
+  "prompt": "realistic portrait of Unknown Unknown, ## Background\n\nRefugee Camps's path to their current position involved:\n\n- **Early Life**: Formative experiences that shaped their worldview\n- **Training**: Specialized education in their field\n- **Key Events**: Defining moments that set their course\n- **Rise to Position**: How they achieved their current status\n\n## Motivations\n\n**Primary Goal**: Maintaining balance\n\n**Secondary Objectives**:\n- Maintain their position and influence\n- Advance their organization's interests\n- Personal advancement or satisfaction\n\n## Secrets\n\nRefugee Camps harbors secrets that could change everything:\n\n- **Public Secret**: Something widely suspected but unproven\n- **Private Secret**: Known only to a trusted few\n- **Deep Secret**: Prophetic visions\n\n## Voice & Mannerisms\n\n**Voice**: Deep and resot\n\n**Speech Pattern**: Carefully chosen words\n\n**Physical Habits**: Remains perfectly still\n\n## Current Activities\n\nRefugee Camps is currently engaged in:\n\n- Managing their regular responsibilities\n- Pursuing a specific objective\n- Dealing with recent developments\n- Planning future operations\n\n## Plot Hooks\n\n1., weathered, neutral expression, balanced lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.726Z",
+  "placeholder": true
+}

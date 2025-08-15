@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-pressure-tube-terminal-pressure-tube-terminal.svg)
 
-
 > [!figure] View
 
 # Pressure Tube Terminal

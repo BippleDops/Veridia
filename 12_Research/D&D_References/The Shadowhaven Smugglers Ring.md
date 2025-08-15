@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Symbols/symbol-heraldry-the-shadowhaven-smugglers-ring-the-shadowhaven-smugglers-ring.svg)
 
-
 # The Shadowhaven Smugglers Ring
 
 ## Overview

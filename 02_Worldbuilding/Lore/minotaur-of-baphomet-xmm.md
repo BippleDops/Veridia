@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # minotaur-of-baphomet-xmm
 
 ## Overview

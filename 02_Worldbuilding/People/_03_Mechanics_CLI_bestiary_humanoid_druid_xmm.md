@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # /03 Mechanics/CLI/bestiary/humanoid/druid xmm
 
 ## Basic Information

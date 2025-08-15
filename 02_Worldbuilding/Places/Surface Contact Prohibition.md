@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-surface-contact-prohibition-surface-contact-prohibition.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

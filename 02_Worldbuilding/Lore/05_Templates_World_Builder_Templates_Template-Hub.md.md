@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 05 Templates/World Builder Templates/Template-Hub.md
 
 ## Overview

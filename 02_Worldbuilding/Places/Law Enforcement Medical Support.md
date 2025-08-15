@@ -28,7 +28,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-law-enforcement-medical-support-law-enforcement-medical-support.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

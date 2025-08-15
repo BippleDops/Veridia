@@ -110,7 +110,7 @@ These feats are in the General category.
 - [[dual wielder xphb|Dual Wielder]]  
 - [[durable xphb|Durable]]  
 - [[elemental adept xphb|Elemental Adept]]  
-- [[fey touched xphb|Fey-Touched]]  
+- [[fey touched xphb|Fey Touched]]  
 - [[grappler xphb|Grappler]]  
 - [[great weapon master xphb|Great Weapon Master]]  
 - [[heavily armored xphb|Heavily Armored]]  
@@ -130,7 +130,7 @@ These feats are in the General category.
 - [[resilient xphb|Resilient]]  
 - [[ritual caster xphb|Ritual Caster]]  
 - [[sentinel xphb|Sentinel]]  
-- [[shadow touched xphb|Shadow-Touched]]  
+- [[shadow touched xphb|Shadow Touched]]  
 - [[sharpshooter xphb|Sharpshooter]]  
 - [[shield master xphb|Shield Master]]  
 - [[skill expert xphb|Skill Expert]]  
@@ -155,7 +155,7 @@ These feats are in the Fighting Style category.
 - [[interception xphb|Interception]]  
 - [[protection xphb|Protection]]  
 - [[thrown weapon fighting xphb|Thrown Weapon Fighting]]  
-- [[two weapon fighting xphb|Two-Weapon Fighting]]  
+- [[two weapon fighting xphb|Two Weapon Fighting]]  
 - [[unarmed fighting xphb|Unarmed Fighting]]  
 
 ## Epic Boon Feats

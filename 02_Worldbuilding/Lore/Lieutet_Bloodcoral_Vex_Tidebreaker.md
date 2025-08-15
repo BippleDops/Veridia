@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Lieutet Bloodcoral Vex Tidebreaker
 
 ## Overview

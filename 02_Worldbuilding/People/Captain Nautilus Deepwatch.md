@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-nautilus-deepwatch-captain-nautilus-deepwatch.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

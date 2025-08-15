@@ -491,3 +491,11 @@ Key stop on metals trade route
 - Noon: Simple meal
 - 6pm: Return home
 - 8pm: Sleep
+
+## Background Music
+
+Mysterious underwater atmosphere
+
+Recommended tracks:
+- underwater_ambience.wav
+- deep_sea_mystery.mp3

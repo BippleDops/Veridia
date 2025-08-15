@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # young-red-dragon-xmm
 
 ## Basic Information

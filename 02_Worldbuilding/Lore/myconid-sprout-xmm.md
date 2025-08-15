@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # myconid-sprout-xmm
 
 ## Overview

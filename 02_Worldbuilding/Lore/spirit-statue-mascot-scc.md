@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # spirit-statue-mascot-scc
 
 ## Overview

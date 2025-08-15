@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Artificer_PlayStation
 
 ## Overview

@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-court-herald-titus-court-herald-titus.svg)
 
-
 > [!figure] View
 
 # The Herald's Chambers

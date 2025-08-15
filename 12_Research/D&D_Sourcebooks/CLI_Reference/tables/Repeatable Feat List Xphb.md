@@ -67,7 +67,7 @@ world: Both
 | [[dueling xphb|Dueling]] | "Fighting Style" |
 | [[durable xphb|Durable]] | "General" |
 | [[elemental adept xphb|Elemental Adept]]* | "General" |
-| [[fey touched xphb|Fey-Touched]] | "General" |
+| [[fey touched xphb|Fey Touched]] | "General" |
 | [[grappler xphb|Grappler]] | "General" |
 | [[great weapon fighting xphb|Great Weapon Fighting]] | "Fighting Style" |
 | [[great weapon master xphb|Great Weapon Master]] | "General" |
@@ -95,7 +95,7 @@ world: Both
 | [[ritual caster xphb|Ritual Caster]] | "General" |
 | [[savage attacker xphb|Savage Attacker]] | "Origin" |
 | [[sentinel xphb|Sentinel]] | "General" |
-| [[shadow touched xphb|Shadow-Touched]] | "General" |
+| [[shadow touched xphb|Shadow Touched]] | "General" |
 | [[sharpshooter xphb|Sharpshooter]] | "General" |
 | [[shield master xphb|Shield Master]] | "General" |
 | [[skilled xphb|Skilled]]* | "Origin" |
@@ -109,7 +109,7 @@ world: Both
 | [[telepathic xphb|Telepathic]] | "General" |
 | [[thrown weapon fighting xphb|Thrown Weapon Fighting]] | "Fighting Style" |
 | [[tough xphb|Tough]] | "Origin" |
-| [[two weapon fighting xphb|Two-Weapon Fighting]] | "Fighting Style" |
+| [[two weapon fighting xphb|Two Weapon Fighting]] | "Fighting Style" |
 | [[unarmed fighting xphb|Unarmed Fighting]] | "Fighting Style" |
 | [[war caster xphb|War Caster]] | "General" |
 | [[weapon master xphb|Weapon Master]] | "General" |

@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # 02 Worldbuilding/Locations/Theater of Impossible Dreams
 
 ## Basic Information

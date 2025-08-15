@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Creatures/creature-creature-bone-devil-xmm-bone-devil-xmm.svg)
 
-
 # Bone Devil Xmm
 
 ## Overview

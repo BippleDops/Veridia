@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # merfolk-skirmisher-xmm
 
 ## Overview

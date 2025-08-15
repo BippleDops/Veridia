@@ -36,7 +36,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-vex-shadowthorn-s-apprentices-v1-vex-shadowthorn-s-apprentices.svg)
 
-
 > [!figure] Portrait
 
 # Vex Shadowthorn's Apprentices

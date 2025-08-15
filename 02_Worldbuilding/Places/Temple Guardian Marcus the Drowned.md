@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-temple-guardian-marcus-the-drowned-temple-guardian-marcus-the-drowned.svg)
 
-
 > [!figure] View
 
 # The Drowned Temple

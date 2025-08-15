@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # /03 Mechanics/CLI/bestiary/humanoid/quandrix-professor-of-substance-scc
 
 ## Basic Information

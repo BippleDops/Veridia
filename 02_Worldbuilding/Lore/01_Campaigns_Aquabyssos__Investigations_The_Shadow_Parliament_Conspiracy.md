@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 01_Campaigns/Aquabyssos/_Investigations/The_Shadow_Parliament_Conspiracy
 
 ## Overview

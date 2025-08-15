@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02_Worldbuilding/Places/The_Crystal_Gardens
 
 ## Overview

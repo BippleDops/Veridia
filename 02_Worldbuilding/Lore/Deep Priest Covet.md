@@ -10,13 +10,13 @@ created: '2025-01-15'
 # Deep Priest Covet
 
 ## Overview
-This topic is referenced in [[The Restoration Movement (D&D_References)]] and other parts of the campaign.
+This topic is referenced in [[The Restoration Movement (D&D References)]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[The Restoration Movement (D&D_References)]]
+- Referenced by: [[The Restoration Movement (D&D References)]]
 - Related topics in the same category
 
 ## Details

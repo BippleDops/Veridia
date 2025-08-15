@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # thri-kreen-marauder-xmm
 
 ## Overview

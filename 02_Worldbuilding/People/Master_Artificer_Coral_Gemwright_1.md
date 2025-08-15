@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # Master Artificer Coral Gemwright 1
 
 ## Basic Information

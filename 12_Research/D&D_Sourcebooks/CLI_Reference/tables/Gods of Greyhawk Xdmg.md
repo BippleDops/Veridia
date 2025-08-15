@@ -53,7 +53,7 @@ world: Both
 | [[greyhawk iuz xdmg|Iuz]] the Evil† | "Material Plane" | His subjects and allies | Grinning human skull |
 | [[greyhawk kord xdmg|Kord]], the Brawler | "Ysgard" | Athletes, berserkers | Spears and maces radiating from a point |
 | [[greyhawk nerull xdmg|Nerull]], the Reaper* | "Carceri" | Murderers, necromancers | Skull with a scythe |
-| [[greyhawk obad hai xdmg|Obad-Hai]], the Shalm | "Outlands" | Hunters, gatherers, hermits | Oak leaf and acorn |
+| [[greyhawk obad hai xdmg|Obad Hai]], the Shalm | "Outlands" | Hunters, gatherers, hermits | Oak leaf and acorn |
 | [[greyhawk olidammara xdmg|Olidammara]], the Laughing Rogue | "Ysgard" | Revelers, gamblers, pranksters | Laughing mask |
 | [[greyhawk pelor xdmg|Pelor]], the Radiant Sun* | "Elysium" | Healers, the compassionate | Sun |
 | [[greyhawk pholtus xdmg|Pholtus]] of the Blinding Light | "Arcadia" | Judges, lawyers, arbiters | Silver sun partially eclipsed by a crescent moon |

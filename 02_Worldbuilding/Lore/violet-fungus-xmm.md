@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # violet-fungus-xmm
 
 ## Overview

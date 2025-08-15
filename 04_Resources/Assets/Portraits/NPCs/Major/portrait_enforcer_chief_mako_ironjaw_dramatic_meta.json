@@ -1,0 +1,51 @@
+{
+  "character": {
+    "name": "Enforcer Chief Mako Ironjaw",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Enforcer Chief Mako Ironjaw.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Improvements",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": null,
+    "description": "title: Enforcer Chief Mako Ironjaw\ntype: Npc\ntags:\n- both\n- npc\n- world/both\n- character\n- content/npc\n- active\n- complete\n- status/in-progress\ncreated: '2025-08-11'\nmodified: '2025-08-14'\nstatus: complete\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nupdated: '2025-08-13T12:34:17.683468+00:00'\nworld: Both\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "",
+    "appearance": "His relentless pursuit of criminals, especially [[Jasper \"Three Eyes\" Flint|02 Worldbuilding/People/Jasper \"Three Eyes\" Flint]] and his organization, has made him legendary throughout the depths. ## Secrets\n> [!warning] DM Only\n> - His sahuagin parent was the leader of a resistance group during early submersion\n> - Has been secretly feeding information to surface world authorities about deep threats\n> - The iron teeth aren't just intimidation - they contain detection enchantments\n> - Maintains a private file on corruption within the Imperial government\n> - His squad includes members who are technically wanted criminals (reformed)\n> - Has been having prophetic dreams about threats rising from the deepest trenches\n> - The Emperor knows about his divided loyalties and approves\n\n## Voice & Mannerisms\n\n**Voice**: Sharp and precise\n\n**Speech Pattern**: Casual and relaxed\n\n**Physical Habits**: Maintains intense eye contact\n\n## Motivations\n1.",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": [
+      "leader"
+    ]
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "dramatic",
+    "expression": "intense",
+    "lighting": "dramatic"
+  },
+  "prompt": "realistic portrait of Unknown Unknown, His relentless pursuit of criminals, especially [[Jasper \"Three Eyes\" Flint|02 Worldbuilding/People/Jasper \"Three Eyes\" Flint]] and his organization, has made him legendary throughout the depths. ## Secrets\n> [!warning] DM Only\n> - His sahuagin parent was the leader of a resistance group during early submersion\n> - Has been secretly feeding information to surface world authorities about deep threats\n> - The iron teeth aren't just intimidation - they contain detection enchantments\n> - Maintains a private file on corruption within the Imperial government\n> - His squad includes members who are technically wanted criminals (reformed)\n> - Has been having prophetic dreams about threats rising from the deepest trenches\n> - The Emperor knows about his divided loyalties and approves\n\n## Voice & Mannerisms\n\n**Voice**: Sharp and precise\n\n**Speech Pattern**: Casual and relaxed\n\n**Physical Habits**: Maintains intense eye contact\n\n## Motivations\n1., weathered, intense expression, dramatic lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.444Z",
+  "placeholder": true
+}

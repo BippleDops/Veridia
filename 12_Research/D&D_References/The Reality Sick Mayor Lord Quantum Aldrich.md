@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Portraits/portrait-npc-the-reality-sick-mayor-lord-quantum-aldrich-the-reality-sick-mayor-lord-quantum-aldrich.svg)
 
-
 # The Reality Sick Mayor Lord Quantum Aldrich
 
 ---

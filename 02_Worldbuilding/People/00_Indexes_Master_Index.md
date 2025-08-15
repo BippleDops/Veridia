@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # 00_Indexes/Master_Index
 
 ## Basic Information

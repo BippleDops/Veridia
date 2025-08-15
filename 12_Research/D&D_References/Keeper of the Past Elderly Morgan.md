@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-keeper-of-the-past-elderly-morgan-keeper-of-the-past-elderly-morgan.svg)
 
-
 # Keeper of the Past Elderly Morgan
 
 ## Overview

@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # 02 Worldbuilding/People/Guildmaster Victoria Silvertongue
 
 ## Basic Information

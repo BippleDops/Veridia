@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02 Worldbuilding/Organizations/The Chroniclers
 
 ## Overview

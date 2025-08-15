@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-ghost-of-dr-thaddeus-brightwater-ghost-of-dr-thaddeus-brightwater.svg)
 
-
 # Ghost of Dr. Thaddeus Brightwater
 
 ---

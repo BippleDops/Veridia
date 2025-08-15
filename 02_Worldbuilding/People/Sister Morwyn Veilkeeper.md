@@ -23,7 +23,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-sister-morwyn-veilkeeper-sister-morwyn-veilkeeper.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

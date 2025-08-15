@@ -28,7 +28,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-coral-lifeshaper-coral-lifeshaper.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

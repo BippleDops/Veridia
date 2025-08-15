@@ -17,6 +17,12 @@ updated: 2025-08-14
 
 # Character_Creation_Extended.md_1
 
+## Portrait
+
+![[portrait_character_creation_extended.md_1_(03_people).png]]
+
+*Portrait reference for Character_Creation_Extended.md_1 (03_People)*
+
 ## Overview
 Character_Creation_Extended.md_1 is a notable figure in the realm, known for their unique skills and complex motivations.
 
@@ -55,3 +61,21 @@ Actively involved in current events, pursuing their own agenda while maintaining
 
 ## DM Notes
 *This NPC can serve multiple roles depending on campaign needs. Their true loyalties are intentionally ambiguous.*
+
+## Stats
+
+```statblock
+creature: Custom NPC
+```
+
+### Quick Stats
+- **AC**: *[Armor Class]*
+- **HP**: *[Hit Points]*
+- **Speed**: *[Movement speed]*
+- **STR/DEX/CON/INT/WIS/CHA**: *[Ability scores]*
+
+### Combat
+- **Challenge Rating**: *[CR level]*
+- **Proficiency Bonus**: *[+X]*
+- **Saving Throws**: *[Proficient saves]*
+- **Skills**: *[Skill proficiencies]*

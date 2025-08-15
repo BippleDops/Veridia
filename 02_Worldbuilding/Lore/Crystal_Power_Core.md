@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Crystal_Power_Core
 
 ## Overview

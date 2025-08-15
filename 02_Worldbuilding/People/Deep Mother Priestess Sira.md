@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-deep-mother-priestess-sira-deep-mother-priestess-sira.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

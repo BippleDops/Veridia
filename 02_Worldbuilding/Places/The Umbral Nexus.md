@@ -33,7 +33,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-umbral-nexus-the-umbral-nexus.svg)
 
-
 > [!figure] View
 
 # The Umbral Nexus

@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-keeper-finn-goodtide-keeper-finn-goodtide.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

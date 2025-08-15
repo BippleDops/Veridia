@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # S 004_Cloud_Canyon_Player
 
 ## Overview

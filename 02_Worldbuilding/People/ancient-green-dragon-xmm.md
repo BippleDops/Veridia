@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # ancient-green-dragon-xmm
 
 ## Basic Information

@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-admiral-lady-cassandra-stormwind-admiral-lady-cassandra-stormwind.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

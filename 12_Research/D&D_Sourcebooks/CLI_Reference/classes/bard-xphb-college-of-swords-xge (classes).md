@@ -83,7 +83,7 @@ If you're proficient with a simple or martial melee weapon, you can use it as a 
 At 3rd level, you adopt a style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if something in the game lets you choose again.
 
 - [[dueling xphb|Dueling]]  
-- [[two weapon fighting xphb|Two-Weapon Fighting]]  
+- [[two weapon fighting xphb|Two Weapon Fighting]]  
 
 ### Blade Flourish (Level 3)
 

@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # saber-toothed-tiger-xmm
 
 ## Overview

@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 03_People/Artificer_PlayStation
 
 ## Overview

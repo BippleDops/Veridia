@@ -25,7 +25,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-deputy-harbor-master-marina-stormwright-deputy-harbor-master-marina-stormwright.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

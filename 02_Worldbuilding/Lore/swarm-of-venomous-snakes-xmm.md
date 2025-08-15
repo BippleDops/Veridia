@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # swarm-of-venomous-snakes-xmm
 
 ## Overview

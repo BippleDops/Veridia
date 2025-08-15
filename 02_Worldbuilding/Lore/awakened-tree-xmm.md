@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # awakened-tree-xmm
 
 ## Overview

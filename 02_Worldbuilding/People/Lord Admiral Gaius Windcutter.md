@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-lord-admiral-gaius-windcutter-lord-admiral-gaius-windcutter.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

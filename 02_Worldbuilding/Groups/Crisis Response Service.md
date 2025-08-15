@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-crisis-response-service-crisis-response-service.svg)
 
-
 > [!figure] Heraldry
 
 ## 🔧 Deep Evaluation Improvements
@@ -106,3 +105,28 @@ Things widely suspected
 - The authorities needs help investigating before dawn
 - A prisoner has gone missing and evil awakens
 - A journal reveals ancient history about this place
+## Members
+
+### Leadership
+- *[Link to leader NPCs]*
+
+### Notable Members
+- *[Link to important faction members]*
+
+### Membership
+- **Size**: *[Approximate number of members]*
+- **Recruitment**: *[How they recruit new members]*
+
+## Relationships
+
+### Allies
+- **[Faction Name]**: *[Nature of alliance]*
+
+### Neutral Parties
+- **[Faction Name]**: *[Current status]*
+
+### Enemies
+- **[Faction Name]**: *[Source of conflict]*
+
+### Complicated Relationships
+- **[Faction Name]**: *[Complex relationship details]*

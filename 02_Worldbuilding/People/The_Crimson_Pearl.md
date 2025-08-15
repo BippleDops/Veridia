@@ -24,7 +24,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-crimson-pearl-the-crimson-pearl.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-moderate-depth-coalition-moderate-depth-coalition.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

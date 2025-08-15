@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Annual_Renewal_Event
 
 ## Overview

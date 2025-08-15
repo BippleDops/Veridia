@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # hook-horror-xmm
 
 ## Overview

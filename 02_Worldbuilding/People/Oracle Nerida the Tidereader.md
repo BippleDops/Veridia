@@ -34,7 +34,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-oracle-nerida-the-tidereader-oracle-nerida-the-tidereader.svg)
 
-
 # Oracle Nerida the Tidereader
 
 ## Overview

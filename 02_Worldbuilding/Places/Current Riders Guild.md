@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-current-riders-guild-current-riders-guild.svg)
 
-
 > [!figure] View
 
 # Current Riders Guild

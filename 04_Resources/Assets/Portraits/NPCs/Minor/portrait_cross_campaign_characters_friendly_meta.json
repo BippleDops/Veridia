@@ -1,0 +1,49 @@
+{
+  "character": {
+    "name": "#Cross-Campaign Characters",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/#Cross-Campaign Characters.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "**: Middle-aged",
+    "gender": "neutral",
+    "alignment": null,
+    "faction": null,
+    "description": "---\nclass: Unknown\ncreated: 2025-08-14\nevaluated: '2025-08-14'\nimprovements: 20\nlocation: Unknown\nmodified: '2025-08-14'\nrace: Unknown\ntags:\n- note\ntitle: '#Cross Campaign Characters'\ntype: npc\nupdated: 2025-08-14\n---",
+    "personality": "- **Traits**: Observant, calculating, pragmatic\n- **Ideals**: Knowledge is power, loyalty must be earned\n- **Bonds**: Connected to several influential organizations\n- **Flaws**: Tendency to overthink situations",
+    "appearance": "- **Age**: Middle-aged\n- **Build**: Average height, lean build\n- **Distinguishing Features**: Keen eyes that miss nothing\n- **Typical Attire**: Practical clothing suited for their profession",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": null
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "friendly",
+    "expression": "smiling",
+    "lighting": "warm"
+  },
+  "prompt": "realistic portrait of Unknown Unknown, - **Age**: Middle-aged\n- **Build**: Average height, lean build\n- **Distinguishing Features**: Keen eyes that miss nothing\n- **Typical Attire**: Practical clothing suited for their profession, weathered, smiling expression, warm lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:48.418Z",
+  "placeholder": true
+}

@@ -35,7 +35,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-dockmaster-bruno-steadyanchor-dockmaster-bruno-steadyanchor.svg)
 
-
 > [!figure] View
 
 # Steadyanchor Docks - Commercial Maritime Hub

@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 1 DM Toolkit/DM Board
 
 ## Overview

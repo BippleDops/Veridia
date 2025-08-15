@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Creatures/creature-creature-mouth-of-grolantor-mpmm-mouth-of-grolantor-mpmm.svg)
 
-
 # Mouth of Grolantor Mpmm
 
 ## Overview

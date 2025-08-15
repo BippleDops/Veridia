@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-thri-kreen-marauder-xmm-thri-kreen-marauder-xmm.svg)
 
-# [[thri kreen marauder xmm|Thri-kreen Marauder]]
+# [[thri kreen marauder xmm|Thri kreen Marauder]]
 *Source: Monster Manual (2024) p. 306*  
 
 Thri-kreen marauders employ weapons made of stone and bone, such as the spear-like gythka and throwing blades called chatkcha.

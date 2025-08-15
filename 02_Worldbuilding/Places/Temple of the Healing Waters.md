@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-temple-of-the-healing-waters-temple-of-the-healing-waters.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

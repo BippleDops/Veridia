@@ -1,0 +1,51 @@
+{
+  "character": {
+    "name": "Azure Shard",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Azure Shard.md",
+    "race": "Crystal-Touched Human (Transformed)",
+    "class": "Guardian/Oracle/Shard-Keeper",
+    "age": "s in the Floating Crystal Peaks",
+    "gender": "neutral",
+    "alignment": "Lawful Good (Cosmic Perspective)",
+    "faction": "The Seven Shard Guardians",
+    "description": "title: Azure Shard\ntype: Npc\ntags:\n- status/complete\n- npc\n- content/lore\n- character\n- immortal\n- content/npc\n- shard-guardian\n- world/aethermoor\n- active\n- complete\n- aethermoor\n- wisdom\ncreated: '2025-08-08'\nmodified: '2025-08-14'\nstatus: complete\nrace: Crystal-Touched Human (Transformed)\nclass: Guardian/Oracle/Shard-Keeper\nlocation: The Skyfall Observatory, Floating Crystal Peaks\nlevel: 19\nMyCategory: Unknown\nMyContainer: None\nalignment: Lawful Good (Cosmic Perspective)\ncreated_by: auto-stub\nfaction: The Seven Shard Guardians\nobsidianUIMode: preview\nstatus_condition: Active, Merged with Shard\nupdated: '2025-08-13T12:34:17.639328+00:00'\nworld: Aethermoor\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "",
+    "appearance": "Azure Shard presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures]",
+    "divine": [
+      "Celestial"
+    ],
+    "monstrous": null,
+    "pc": null,
+    "major": null
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "dramatic",
+    "expression": "intense",
+    "lighting": "dramatic"
+  },
+  "prompt": "portrait_miniature portrait of Crystal-Touched Human (Transformed) Guardian/Oracle/Shard-Keeper, Azure Shard presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures], weathered, intense expression, dramatic lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.171Z",
+  "placeholder": true
+}

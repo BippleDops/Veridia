@@ -1,3 +1,7 @@
+---
+tags: ['location']
+---
+
 # 04 Resources/Assets/Locations/location-city-the-deepmind-v1-the-deepmind.svg
 
 ## Overview

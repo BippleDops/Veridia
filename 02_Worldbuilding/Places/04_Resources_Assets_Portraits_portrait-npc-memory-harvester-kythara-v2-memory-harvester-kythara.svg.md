@@ -1,3 +1,7 @@
+---
+tags: ['location']
+---
+
 # 04 Resources/Assets/Portraits/portrait-npc-memory-harvester-kythara-v2-memory-harvester-kythara.svg
 
 ## Overview

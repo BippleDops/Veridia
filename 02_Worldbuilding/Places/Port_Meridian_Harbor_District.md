@@ -1,3 +1,7 @@
+---
+tags: ['location']
+---
+
 # Port Meridian Harbor District
 
 ## Overview

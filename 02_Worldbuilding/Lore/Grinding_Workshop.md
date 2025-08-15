@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Grinding_Workshop
 
 ## Overview

@@ -25,9 +25,9 @@ cssclass: mobile-optimized
 
 ## 📝 Notes
 
-- [[06_Sessions/Session Notes]]
+- [[06 Sessions/Session Notes]]
 - [[Player Notes]]
-- [[02_Worldbuilding/Lore/DM Screen]]
+- [[02 Worldbuilding/Lore/DM Screen]]
 
 ---
 *Optimized for mobile devices*

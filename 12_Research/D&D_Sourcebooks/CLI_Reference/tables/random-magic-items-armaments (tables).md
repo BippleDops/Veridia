@@ -40,9 +40,9 @@ world: Both
 | dice: 1d100 | Item |
 |-------------|------|
 | 01–10 | [[armor of gleaming xdmg|Armor of Gleaming]] |
-| 11–20 | [[cast off armor xdmg|Cast-Off Armor]] |
+| 11–20 | [[cast off armor xdmg|Cast Off Armor]] |
 | 21–30 | [[dread helm xdmg|Dread Helm]] |
-| 31–40 | [[moon touched sword xdmg|Moon-Touched Sword]] |
+| 31–40 | [[moon touched sword xdmg|Moon Touched Sword]] |
 | 41–50 | [[shield of expression xdmg|Shield of Expression]] |
 | 51–60 | [[silvered weapon xdmg|Silvered Weapon]] |
 | 61–70 | [[smoldering armor xdmg|Smoldering Armor]] |
@@ -86,7 +86,7 @@ world: Both
 | 04–07 | [[1 armor xdmg|Armor, +1]] |
 | 08–10 | [[armor of resistance xdmg|Armor of Resistance]] |
 | 11–13 | [[armor of vulnerability xdmg|Armor of Vulnerability]] |
-| 14–15 | [[arrow catching shield xdmg|Arrow-Catching Shield]] |
+| 14–15 | [[arrow catching shield xdmg|Arrow Catching Shield]] |
 | 16–18 | [[belt of hill giant strength xdmg|Belt of Giant Strength (hill)]] |
 | 19–20 | [[berserker axe xdmg|Berserker Axe]] |
 | 21–22 | [[daerns instant fortress xdmg|Daern's Instant Fortress]] |

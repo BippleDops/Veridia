@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-elder-whisper-in-the-dark-elder-whisper-in-the-dark.svg)
 
-
 > [!figure] Portrait
 
 # Elder Whisper-In-The-Dark

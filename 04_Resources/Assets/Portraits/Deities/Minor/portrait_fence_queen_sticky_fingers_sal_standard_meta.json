@@ -1,0 +1,51 @@
+{
+  "character": {
+    "name": "Fence Queen Sticky-Fingers Sal",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Fence Queen Sticky-Fingers Sal.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Improvements",
+    "gender": "neutral",
+    "alignment": null,
+    "faction": "## Secrets",
+    "description": "title: Fence Queen Sticky Fingers Sal\ntype: Npc\ntags:\n- npc\n- character\n- content/npc\n- world/aethermoor\n- active\n- complete\n- status/in-progress\n- aethermoor\n- bloodline\ncreated: '2025-08-11'\nmodified: '2025-08-14'\nstatus: complete\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nupdated: '2025-08-13T12:34:17.514587+00:00'\nworld: Aethermoor\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "",
+    "appearance": "## Background\n\nFence Queen Sticky-Fingers Sal's path to their current position involved:\n\n- **Early Life**: Formative experiences that shaped their worldview\n- **Training**: Specialized education in their field\n- **Key Events**: Defining moments that set their course\n- **Rise to Position**: How they achieved their current status\n\n## Motivations\n\n**Primary Goal**: Pursuing knowledge\n\n**Secondary Objectives**:\n- Maintain their position and influence\n- Advance their organization's interests\n- Personal advancement or satisfaction\n\n## Secrets\n\nFence Queen Sticky-Fingers Sal harbors secrets that could change everything:\n\n- **Public Secret**: Something widely suspected but unproven\n- **Private Secret**: Known only to a trusted few\n- **Deep Secret**: Stolen identity\n\n## Voice & Mannerisms\n\n**Voice**: Soft and measured\n\n**Speech Pattern**: Formal and elaborate\n\n**Physical Habits**: Gestures expressively\n\n## Current Activities\n\nFence Queen Sticky-Fingers Sal is currently engaged in:\n\n- Managing their regular responsibilities\n- Pursuing a specific objective\n- Dealing with recent developments\n- Planning future operations\n\n## Plot Hooks\n\n1.",
+    "divine": [
+      "divine"
+    ],
+    "monstrous": null,
+    "pc": null,
+    "major": null
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "standard",
+    "expression": "neutral",
+    "lighting": "balanced"
+  },
+  "prompt": "portrait_miniature portrait of Unknown Unknown, ## Background\n\nFence Queen Sticky-Fingers Sal's path to their current position involved:\n\n- **Early Life**: Formative experiences that shaped their worldview\n- **Training**: Specialized education in their field\n- **Key Events**: Defining moments that set their course\n- **Rise to Position**: How they achieved their current status\n\n## Motivations\n\n**Primary Goal**: Pursuing knowledge\n\n**Secondary Objectives**:\n- Maintain their position and influence\n- Advance their organization's interests\n- Personal advancement or satisfaction\n\n## Secrets\n\nFence Queen Sticky-Fingers Sal harbors secrets that could change everything:\n\n- **Public Secret**: Something widely suspected but unproven\n- **Private Secret**: Known only to a trusted few\n- **Deep Secret**: Stolen identity\n\n## Voice & Mannerisms\n\n**Voice**: Soft and measured\n\n**Speech Pattern**: Formal and elaborate\n\n**Physical Habits**: Gestures expressively\n\n## Current Activities\n\nFence Queen Sticky-Fingers Sal is currently engaged in:\n\n- Managing their regular responsibilities\n- Pursuing a specific objective\n- Dealing with recent developments\n- Planning future operations\n\n## Plot Hooks\n\n1., weathered, neutral expression, balanced lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.225Z",
+  "placeholder": true
+}

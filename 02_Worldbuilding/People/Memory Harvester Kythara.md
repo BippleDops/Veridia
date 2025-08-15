@@ -34,7 +34,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-memory-harvester-kythara-memory-harvester-kythara.svg)
 
-
 > [!figure] Portrait
 
 # Memory Harvester Kythara

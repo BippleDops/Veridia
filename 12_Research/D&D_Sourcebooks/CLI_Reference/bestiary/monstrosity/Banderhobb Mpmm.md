@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Creatures/creature-creature-banderhobb-mpmm-banderhobb-mpmm.svg)
 
-
 # Banderhobb Mpmm
 
 ## Overview

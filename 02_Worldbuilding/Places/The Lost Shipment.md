@@ -40,7 +40,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-lost-shipment-the-lost-shipment.svg)
 
-
 # The Lost Shipment
 
 ## 🔧 Deep Evaluation Improvements

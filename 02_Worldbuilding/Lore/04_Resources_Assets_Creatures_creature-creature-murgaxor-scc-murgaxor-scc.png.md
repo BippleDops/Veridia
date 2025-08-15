@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 04 Resources/Assets/Creatures/creature-creature-murgaxor-scc-murgaxor-scc.png
 
 ## Overview

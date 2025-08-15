@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-environmental-monitor-reef-ecowatch-environmental-monitor-reef-ecowatch.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

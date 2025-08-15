@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-smuggler-s-den-the-smuggler-s-den.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

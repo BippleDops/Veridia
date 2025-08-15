@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-free-current-the-free-current.svg)
 
-
 > [!figure] View
 
 # The Free Current

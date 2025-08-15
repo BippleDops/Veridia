@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
 
-
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-patriarch-valdris-lightbringer-patriarch-valdris-lightbringer.png)
 

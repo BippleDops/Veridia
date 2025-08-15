@@ -1,0 +1,51 @@
+{
+  "character": {
+    "name": "Tribune Cassia Deepcurrent",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Tribune Cassia Deepcurrent.md",
+    "race": "Human",
+    "class": "Unknown",
+    "age": "'48'",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "- campaign/hook",
+    "description": "title: Tribune Cassia Deepcurrent\ntype: Npc\ntags:\n- aquabyssos\n- status/complete\n- content/faction\n- campaign/hook\n- npc\n- politician\n- character\n- content/npc\n- active\n- parliament\n- complete\n- world/aquabyssos\n- conspiracy\n- bloodline\n- prophecy\ncreated: '2025-08-09'\nmodified: '2025-08-14'\nstatus: complete\nrace: Human\nclass: Unknown\nlocation: '[[Parliament of Echoes]] - Central Chamber'\naffiliation: '[[Parliament of Echoes]] - Centrist Faction'\nage: '48'\ncreated_by: auto-stub\nrole: Parliamentary Tribune\nupdated: '2025-08-13T12:34:17.511606+00:00'\nworld: Aquabyssos\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "**Traits**: Loyal, creative, clever\n\n**Ideals**: Excellence in their chosen field, maintaining professional standards\n\n**Bonds**: Loyalty to allies, commitment to their cause\n\n**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives",
+    "appearance": "Tribune Cassia Deepcurrent presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures]",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": [
+      "Leader"
+    ]
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "angry",
+    "expression": "angry",
+    "lighting": "harsh"
+  },
+  "prompt": "realistic portrait of Human Unknown, Tribune Cassia Deepcurrent presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures], weathered, angry expression, harsh lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.906Z",
+  "placeholder": true
+}

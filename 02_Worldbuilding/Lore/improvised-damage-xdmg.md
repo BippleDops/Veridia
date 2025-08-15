@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # improvised-damage-xdmg
 
 ## Overview

@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Crystal_Observatory
 
 ## Overview

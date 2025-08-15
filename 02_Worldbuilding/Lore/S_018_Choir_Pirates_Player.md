@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # S 018_Choir_Pirates_Player
 
 ## Overview

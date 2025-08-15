@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-deep-mother-spawning-pools-deep-mother-spawning-pools.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

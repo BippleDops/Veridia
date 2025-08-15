@@ -1,0 +1,51 @@
+{
+  "character": {
+    "name": "The Tidal Council",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/The Tidal Council.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Improvements",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "- npc",
+    "description": "title: The Tidal Council\ntype: Npc\ntags:\n- aquabyssos\n- council\n- status/complete\n- content/faction\n- npc\n- character\n- content/npc\n- tidal\n- active\n- complete\n- world/aquabyssos\ncreated: 2025-08-08 - Category/Groups\nmodified: '2025-08-14'\nstatus: complete\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nMyCategory: Government\nMyContainer: None\ncreated_by: auto-stub\nobsidianUIMode: preview\nupdated: '2025-08-13T12:34:17.616083+00:00'\nworld: Aquabyssos\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "",
+    "appearance": "Diplomatic mission to negotiate international water usage agreements\n\n## Resources\n**Research Facilities:** Advanced laboratories for marine studies\n**Observation Network:** Monitoring stations throughout region\n**Emergency Fleet:** Specialized vessels for disaster response\n**Information Archives:** Comprehensive historical records\n**Scientific Equipment:** Advanced tools for environmental measurement\n\n## Background\n\nThe Tidal Council's path to their current position involved:\n\n- **Early Life**: Formative experiences that shaped their worldview\n- **Training**: Specialized education in their field\n- **Key Events**: Defining moments that set their course\n- **Rise to Position**: How they achieved their current status\n\n## Motivations\n\n**Primary Goal**: Protecting loved ones\n\n**Secondary Objectives**:\n- Maintain their position and influence\n- Advance their organization's interests\n- Personal advancement or satisfaction\n\n## Secrets\n\nThe Tidal Council harbors secrets that could change everything:\n\n- **Public Secret**: Something widely suspected but unproven\n- **Private Secret**: Known only to a trusted few\n- **Deep Secret**: Divine mission\n\n## Voice & Mannerisms\n\n**Voice**: Warm and friendly\n\n**Speech Pattern**: Peppered with idioms\n\n**Physical Habits**: Maintains intense eye contact\n\n## Current Activities\n\nThe Tidal Council is currently engaged in:\n\n- Managing their regular responsibilities\n- Pursuing a specific objective\n- Dealing with recent developments\n- Planning future operations\n\n## Plot Hooks\n\n1.",
+    "divine": [
+      "Divine"
+    ],
+    "monstrous": null,
+    "pc": null,
+    "major": null
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "standard",
+    "expression": "neutral",
+    "lighting": "balanced"
+  },
+  "prompt": "portrait_miniature portrait of Unknown Unknown, Diplomatic mission to negotiate international water usage agreements\n\n## Resources\n**Research Facilities:** Advanced laboratories for marine studies\n**Observation Network:** Monitoring stations throughout region\n**Emergency Fleet:** Specialized vessels for disaster response\n**Information Archives:** Comprehensive historical records\n**Scientific Equipment:** Advanced tools for environmental measurement\n\n## Background\n\nThe Tidal Council's path to their current position involved:\n\n- **Early Life**: Formative experiences that shaped their worldview\n- **Training**: Specialized education in their field\n- **Key Events**: Defining moments that set their course\n- **Rise to Position**: How they achieved their current status\n\n## Motivations\n\n**Primary Goal**: Protecting loved ones\n\n**Secondary Objectives**:\n- Maintain their position and influence\n- Advance their organization's interests\n- Personal advancement or satisfaction\n\n## Secrets\n\nThe Tidal Council harbors secrets that could change everything:\n\n- **Public Secret**: Something widely suspected but unproven\n- **Private Secret**: Known only to a trusted few\n- **Deep Secret**: Divine mission\n\n## Voice & Mannerisms\n\n**Voice**: Warm and friendly\n\n**Speech Pattern**: Peppered with idioms\n\n**Physical Habits**: Maintains intense eye contact\n\n## Current Activities\n\nThe Tidal Council is currently engaged in:\n\n- Managing their regular responsibilities\n- Pursuing a specific objective\n- Dealing with recent developments\n- Planning future operations\n\n## Plot Hooks\n\n1., weathered, neutral expression, balanced lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.364Z",
+  "placeholder": true
+}

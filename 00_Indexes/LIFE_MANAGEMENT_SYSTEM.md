@@ -22,29 +22,29 @@ modified: '2025-01-15'
 
 - **Change humidifier water**: Empty and refill with distilled water to prevent mineral build-up and bacteria
   - *Campaign Integration*: Like maintaining spell components, daily care prevents degradation
-  - *Quest Hook*: [[Quest - The Purification Ritual]] - parallels real-world water maintenance
+  - *Quest Hook*: [[Quest   The Purification Ritual]] - parallels real-world water maintenance
 
 - **Clean coffee grinder after each use**: Empty grounds, wipe exterior, rinse catch cup; use narrow brush/cotton swab for chute
   - *Campaign Integration*: Similar to cleaning alchemical equipment in [[02_Worldbuilding/Items/Alchemy_Tools]]
-  - *NPC Connection*: [[03_People/Brewmaster Grindstone]] - shares grinding wisdom
+  - *NPC Connection*: [[03 People/Brewmaster Grindstone]] - shares grinding wisdom
 
 - **Wipe VR lenses and headset**: Microfiber cloth for lenses, damp cloth for exterior after each use
   - *Campaign Integration*: Maintaining scrying orbs in [[02_Worldbuilding/Items/Divination_Tools]]
-  - *Location*: [[04_Places/The Crystal Observatory]] - lens maintenance techniques
+  - *Location*: [[04 Places/The Crystal Observatory]] - lens maintenance techniques
 
 - **Quick AirPods wipe**: Dry lint-free cloth after use; thorough clean every 72 hours
   - *Campaign Integration*: Cleaning communication crystals in [[02_Worldbuilding/Items/Communication_Devices]]
-  - *Organization*: [[02_Worldbuilding/Groups/The Signal Keepers]] - audio artifact care
+  - *Organization*: [[02 Worldbuilding/Groups/The Signal Keepers]] - audio artifact care
 
 ### Weekly Tasks
 
 - **Clean humidifier thoroughly**: Unplug, disassemble, soak in white vinegar 30min, scrub, rinse, dry
   - *Campaign Integration*: Weekly temple purification rituals
-  - *Quest*: [[Quest - The Weekly Cleansing]]
+  - *Quest*: [[Quest   The Weekly Cleansing]]
 
 - **Wash VR face pads**: Remove foam/leather pads, wash with mild soap, dry completely
   - *Campaign Integration*: Cleaning armor padding techniques
-  - *NPC*: [[03_People/Armorer Padwick]] - padding maintenance expert
+  - *NPC*: [[03 People/Armorer Padwick]] - padding maintenance expert
 
 - **Clean AirPods and case**: Lint-free cloth, cotton swabs, soft brush; 70% isopropyl alcohol disinfection
   - *Campaign Integration*: Artifact cleaning procedures
@@ -62,7 +62,7 @@ modified: '2025-01-15'
 
 - **Clean robot vacuum parts**: Check/clean filters bi-weekly, remove hair/debris from brushes
   - *Campaign Integration*: Golem maintenance procedures
-  - *Quest*: [[01_Adventures/Quest - The Runaway Golem]] - maintenance gone wrong
+  - *Quest*: [[01 Adventures/Quest   The Runaway Golem]] - maintenance gone wrong
 
 - **Dust lamp shades and fixtures**: Remove shades, wash glass, clean bulbs, dry thoroughly
   - *Campaign Integration*: Lighthouse maintenance in coastal campaigns
@@ -74,7 +74,7 @@ modified: '2025-01-15'
 
 - **Monitor hard-drive health**: Check SMART status, scan errors, ensure 20% free space
   - *Campaign Integration*: Memory crystal maintenance
-  - *Organization*: [[02_Worldbuilding/Groups/The Memory Keepers]]
+  - *Organization*: [[02 Worldbuilding/Groups/The Memory Keepers]]
 
 ### Quarterly Tasks (Every 2-3 Months)
 
@@ -92,7 +92,7 @@ modified: '2025-01-15'
 
 - **Replace humidifier filters**: Install new filters every 1-3 months
   - *Campaign Integration*: Replacing spell focus components
-  - *Quest*: [[Quest - The Filter Exchange]]
+  - *Quest*: [[Quest   The Filter Exchange]]
 
 - **Defragment drives and update firmware**: Run optimization tools, install updates
   - *Campaign Integration*: Reorganizing spell libraries and updating enchantments
@@ -221,6 +221,6 @@ Your real-world maintenance mirrors campaign world systems:
 - [[00_Indexes/Master_Campaign_Index]] - Campaign management
 - [[09_Templates/Maintenance_Checklist_Template]] - Customizable checklists
 - [[02_Worldbuilding/Lore/The_Maintenance_Codex]] - In-world maintenance lore
-- [[01_Adventures/Quest - The Great Maintenance]] - Maintenance-themed adventure
+- [[01 Adventures/Quest   The Great Maintenance]] - Maintenance-themed adventure
 
 This system transforms mundane maintenance into engaging campaign content while ensuring both your real-world equipment and virtual adventures run smoothly!

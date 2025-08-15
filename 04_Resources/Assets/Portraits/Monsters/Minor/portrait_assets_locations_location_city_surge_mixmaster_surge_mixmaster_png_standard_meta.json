@@ -1,0 +1,51 @@
+{
+  "character": {
+    "name": "Assets Locations Location City Surge Mixmaster Surge Mixmaster.png",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Assets Locations Location City Surge Mixmaster Surge Mixmaster.png.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "d in professional duties and maintaining their position within the local hierarchy. Available for consultation on matters within their expertise.",
+    "gender": "neutral",
+    "alignment": "**: Neutral",
+    "faction": "## Notable Quotes",
+    "description": "title: Assets Locations Location City Surge Mixmaster Surge Mixmaster.png\naliases:\n- 04 Resources Assets Locations location city surge mixmaster surge mixmasterpng\ntype: npc\ntags:\n- character\n- active\n- npc\n- conspiracy\ncreated: '2025-08-14'\nmodified: '2025-08-14'\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "",
+    "appearance": "A distinguished individual whose presence commands attention. Their appearance suggests experience and capability in their chosen field.",
+    "divine": null,
+    "monstrous": [
+      "Monster"
+    ],
+    "pc": null,
+    "major": null
+  },
+  "style": "noir",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "standard",
+    "expression": "neutral",
+    "lighting": "balanced"
+  },
+  "prompt": "noir portrait of Unknown Unknown, A distinguished individual whose presence commands attention. Their appearance suggests experience and capability in their chosen field., weathered, neutral expression, balanced lighting, high contrast style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.050Z",
+  "placeholder": true
+}

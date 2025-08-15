@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # rust-monster-xmm
 
 ## Overview

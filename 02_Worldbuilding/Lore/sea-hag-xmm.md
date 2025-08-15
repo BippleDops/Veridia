@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # sea-hag-xmm
 
 ## Overview

@@ -1,0 +1,51 @@
+{
+  "character": {
+    "name": "Lord Commander Gareth Steelborn",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Lord Commander Gareth Steelborn.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "ment and development.",
+    "gender": "neutral",
+    "alignment": null,
+    "faction": null,
+    "description": "Lord Commander Gareth Steelborn represents a significant element within the campaign world, offering various opportunities for engagement and development.",
+    "personality": "",
+    "appearance": "svg)\n\n\n# Lord Commander Gareth Steelborn\n\n## Overview\nThis document contains important information regarding Lord Commander Gareth Steelborn and its role within the greater narrative.",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": [
+      "important"
+    ]
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "sad",
+    "expression": "sad",
+    "lighting": "soft"
+  },
+  "prompt": "realistic portrait of Unknown Unknown, svg)\n\n\n# Lord Commander Gareth Steelborn\n\n## Overview\nThis document contains important information regarding Lord Commander Gareth Steelborn and its role within the greater narrative., weathered, sad expression, soft lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.590Z",
+  "placeholder": true
+}

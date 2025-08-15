@@ -95,9 +95,9 @@ updated: 2025-08-14
 - [[12_Research/D&D_References/Ocean Ecosystem Management]]
 - [[12_Research/D&D_References/Crisis Intervention Chief Raven Darkstorm]]
 - [[Vehicles   Aethermoor Airships Catalog]]
-- [[02_Worldbuilding/Groups/Border Territories]]
+- [[02 Worldbuilding/Groups/Border Territories]]
 - [[12_Research/D&D_Sourcebooks/CLI_Reference/bestiary/elemental/Galeb Duhr Xmm]]
-- [[02_Worldbuilding/Groups/Border Fortresses]]
+- [[02 Worldbuilding/Groups/Border Fortresses]]
 - [[12_Research/D&D_Sourcebooks/CLI_Reference/bestiary/undead/Vampire Umbral Lord Xmm]]
 
 ## DM Notes
@@ -110,7 +110,7 @@ updated: 2025-08-14
 
 
 ## Related
-- [[02_Worldbuilding/Lore/Aquabyssos World Guide]]
-- [[02_Worldbuilding/Lore/Aethermoor World Guide]]
+- [[02 Worldbuilding/Lore/Aquabyssos World Guide]]
+- [[02 Worldbuilding/Lore/Aethermoor World Guide]]
 - [[02_Worldbuilding/Groups/Criminal_Organizations/The Shadow Conspiracy]]
 - [[01_Adventures/Seven_Shards_Campaign/Campaign_Overview]]

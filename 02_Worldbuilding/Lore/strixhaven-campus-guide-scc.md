@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # strixhaven-campus-guide-scc
 
 ## Overview

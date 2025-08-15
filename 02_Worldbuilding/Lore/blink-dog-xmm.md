@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # blink-dog-xmm
 
 ## Overview

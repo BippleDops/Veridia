@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # myconid-spore-servant-xmm
 
 ## Overview

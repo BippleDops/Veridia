@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # swarm-of-ravens-xmm
 
 ## Overview

@@ -39,7 +39,6 @@ improvements: 20
 > [!figure] Heraldry
 ![](04_Resources/Assets/Symbols/symbol-heraldry-master-chen-wei-master-chen-wei.png)
 
-
 > [!figure] Heraldry
 
 # The Order of the Flowing Current
@@ -357,3 +356,15 @@ Mentioned in The Second Prophecy of Shadows
 - Temple attendance mandatory
 - Ritual cleansing required
 - Tithing of 10% income
+
+## Members
+
+### Leadership
+- *[Link to leader NPCs]*
+
+### Notable Members
+- *[Link to important faction members]*
+
+### Membership
+- **Size**: *[Approximate number of members]*
+- **Recruitment**: *[How they recruit new members]*

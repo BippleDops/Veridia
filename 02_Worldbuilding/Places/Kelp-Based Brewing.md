@@ -28,7 +28,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-kelp-based-brewing-kelp-based-brewing.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

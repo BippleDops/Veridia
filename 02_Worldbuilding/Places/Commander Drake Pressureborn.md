@@ -34,7 +34,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-commander-drake-pressureborn-commander-drake-pressureborn.svg)
 
-
 > [!figure] View
 
 # Fort Pressureborn - Aquabyssos Military Command Center

@@ -38,7 +38,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-original-glaucus-original-glaucus.svg)
 
-
 > [!figure] Portrait
 
 # Original Glaucus Tidecaller

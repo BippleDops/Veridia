@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Creatures/creature-creature-fey-spirit-xphb-fey-spirit-xphb.svg)
 
-
 # Fey Spirit Xphb
 
 ## Overview

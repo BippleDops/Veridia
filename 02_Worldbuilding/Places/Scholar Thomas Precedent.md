@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-scholar-thomas-precedent-scholar-thomas-precedent.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

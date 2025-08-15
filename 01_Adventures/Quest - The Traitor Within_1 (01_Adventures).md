@@ -256,3 +256,51 @@ Legends speak of Quest   The Traitor Within as a nexus where past and present co
 - Civil war
 - Natural disasters
 - Current power structures established
+
+## Adventure Hooks
+*[Ways to get PCs involved]*
+
+### Direct Approach
+- *[Straightforward hook]*
+
+### Indirect Approach
+- *[Subtle introduction]*
+
+### Emergency Hook
+- *[Urgent situation]*
+
+## Key NPCs
+*[Important characters in this adventure]*
+
+### Allies
+- *[Helpful NPCs]*
+
+### Antagonists
+- *[Opposition NPCs]*
+
+### Neutral Parties
+- *[Information sources]*
+
+## Locations
+*[Important places in this adventure]*
+
+### Starting Location
+- *[Where adventure begins]*
+
+### Key Sites
+- *[Major locations to visit]*
+
+### Optional Areas
+- *[Side locations]*
+
+## Scaling
+*[How to adjust for different party levels]*
+
+### Lower Level Parties
+- *[Adjustments for weaker groups]*
+
+### Higher Level Parties
+- *[Adjustments for stronger groups]*
+
+### Large/Small Parties
+- *[Adjustments for party size]*

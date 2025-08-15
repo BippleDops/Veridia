@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # pushing-attack-xphb
 
 ## Overview

@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-duke-aldric-blackwater-duke-aldric-blackwater.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

@@ -33,7 +33,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-commander-thrace-ironwood-commander-thrace-ironwood.svg)
 
-
 > [!figure] Portrait
 
 # Commander Thrace Ironwood

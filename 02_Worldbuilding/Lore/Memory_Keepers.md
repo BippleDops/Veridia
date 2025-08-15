@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Memory_Keepers
 
 ## Overview

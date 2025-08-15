@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-medical-historian-nautilus-deepscribe-medical-historian-nautilus-deepscribe.svg)
 
-
 # Medical Historian Nautilus Deepscribe
 
 ---

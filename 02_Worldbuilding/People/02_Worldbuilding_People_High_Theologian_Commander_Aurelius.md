@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # 02 Worldbuilding/People/High Theologian Commander Aurelius
 
 ## Basic Information

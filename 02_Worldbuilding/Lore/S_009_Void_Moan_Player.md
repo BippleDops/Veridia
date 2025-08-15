@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # S 009_Void_Moan_Player
 
 ## Overview

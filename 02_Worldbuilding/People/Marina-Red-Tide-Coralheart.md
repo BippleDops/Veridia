@@ -84,7 +84,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-marina-red-tide-coralheart-marina-red-tide-coralheart.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

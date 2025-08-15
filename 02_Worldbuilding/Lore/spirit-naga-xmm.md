@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # spirit-naga-xmm
 
 ## Overview

@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-neutral-current-tavern-the-neutral-current-tavern.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

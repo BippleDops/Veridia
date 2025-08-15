@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-royal-treasury-depths-the-royal-treasury-depths.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

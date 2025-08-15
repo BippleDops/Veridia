@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Portraits/portrait-npc-vespara-nightwhisper-thorne-v1-vespara-nightwhisper-thorne.svg)
 
-
 # Vespara "Nightwhisper" Thorne
 
 ---

@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-echo-translator-vera-echo-translator-vera.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

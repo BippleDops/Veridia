@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # dire-wolf-xmm
 
 ## Overview

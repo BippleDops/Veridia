@@ -1,0 +1,50 @@
+{
+  "character": {
+    "name": "The Siren",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/The Siren.md",
+    "race": "Half-Elf (Crystal-Touched)",
+    "class": "Bard/Rogue",
+    "age": "Improvements",
+    "gender": "- Dwarves see a stocky bardic warrior",
+    "alignment": "Chaotic Neutral",
+    "faction": "Independent (Information Broker)",
+    "description": "title: The Siren\ntype: Npc\ntags:\n- mysterious\n- status/complete\n- information-broker\n- npc\n- spy\n- content/lore\n- character\n- content/npc\n- world/aethermoor\n- active\n- bard\n- complete\n- aethermoor\n- conspiracy\n- prophecy\ncreated: '2025-08-08'\nmodified: '2025-08-14'\nstatus: complete\nrace: Half-Elf (Crystal-Touched)\nclass: Bard/Rogue\nlocation: Various (Never stays in one place)\nlevel: 14\nMyCategory: Unknown\nMyContainer: None\nalignment: Chaotic Neutral\ncreated_by: auto-stub\nfaction: Independent (Information Broker)\nobsidianUIMode: preview\nstatus_condition: Active, Identity Unknown\nupdated: '2025-08-13T12:34:17.704025+00:00'\nworld: Aethermoor\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "honest",
+    "appearance": "**Forbidden**: Things that shouldn't be known\n\n### The Siren as Quest Giver\n1.",
+    "divine": [
+      "Divine"
+    ],
+    "monstrous": null,
+    "pc": null,
+    "major": null
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "cruel smile",
+      "cold eyes",
+      "sinister expression",
+      "imposing presence"
+    ],
+    "accessories": [
+      "dark regalia",
+      "evil artifact",
+      "scars",
+      "ominous jewelry"
+    ],
+    "backgrounds": [
+      "dark throne",
+      "lair",
+      "storm clouds"
+    ]
+  },
+  "version": {
+    "suffix": "dramatic",
+    "expression": "intense",
+    "lighting": "dramatic"
+  },
+  "prompt": "portrait_miniature portrait of Half-Elf (Crystal-Touched) Bard/Rogue, **Forbidden**: Things that shouldn't be known\n\n### The Siren as Quest Giver\n1., cruel smile, intense expression, dramatic lighting, gold leaf details style, dark throne background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.359Z",
+  "placeholder": true
+}

@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # D 201_Abyss_Mirror_Lake_Player
 
 ## Overview

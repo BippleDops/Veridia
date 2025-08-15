@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-lady-dawn-pureheart-lady-dawn-pureheart.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # 03_People/Brewmaster Grindstone
 
 ## Basic Information

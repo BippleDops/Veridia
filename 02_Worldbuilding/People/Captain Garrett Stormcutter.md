@@ -55,7 +55,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-garrett-stormcutter-captain-garrett-stormcutter.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

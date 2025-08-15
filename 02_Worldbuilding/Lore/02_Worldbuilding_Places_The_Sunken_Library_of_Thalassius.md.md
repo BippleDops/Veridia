@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02 Worldbuilding/Places/The Sunken Library of Thalassius.md
 
 ## Overview

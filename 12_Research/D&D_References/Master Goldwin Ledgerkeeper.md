@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-master-goldwin-ledgerkeeper-master-goldwin-ledgerkeeper.svg)
 
-
 # Master Goldwin Ledgerkeeper
 
 ---

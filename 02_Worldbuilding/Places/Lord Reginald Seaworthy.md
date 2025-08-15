@@ -45,7 +45,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-lord-reginald-seaworthy-lord-reginald-seaworthy.svg)
 
-
 > [!figure] View
 
 # Lord Reginald Seaworthy

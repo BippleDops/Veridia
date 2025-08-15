@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-progressive-coalition-headquarters-the-progressive-coalition-headquarters.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

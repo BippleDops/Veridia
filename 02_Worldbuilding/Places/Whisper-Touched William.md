@@ -72,7 +72,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-whisper-touched-william-v1-whisper-touched-william.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

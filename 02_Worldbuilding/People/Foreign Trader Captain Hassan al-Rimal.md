@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-foreign-trader-captain-hassan-al-rimal-foreign-trader-captain-hassan-al-rimal.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

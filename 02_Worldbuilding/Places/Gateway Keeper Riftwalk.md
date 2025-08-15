@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-gateway-keeper-riftwalk-gateway-keeper-riftwalk.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

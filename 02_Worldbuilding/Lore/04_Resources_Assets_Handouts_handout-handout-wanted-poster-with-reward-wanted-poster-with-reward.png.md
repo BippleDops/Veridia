@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 04 Resources/Assets/Handouts/handout-handout-wanted-poster-with-reward-wanted-poster-with-reward.png
 
 ## Overview

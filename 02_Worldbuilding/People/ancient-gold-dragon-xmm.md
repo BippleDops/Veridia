@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # ancient-gold-dragon-xmm
 
 ## Basic Information

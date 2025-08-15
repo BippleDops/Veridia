@@ -32,7 +32,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-memory-parasite-infection-memory-parasite-infection.svg)
 
-
 > [!figure] View
 
 # Memory Parasite Infection

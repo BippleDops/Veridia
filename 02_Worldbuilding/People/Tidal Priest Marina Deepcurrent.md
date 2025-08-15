@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-tidal-priest-marina-deepcurrent-tidal-priest-marina-deepcurrent.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

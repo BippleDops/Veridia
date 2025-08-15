@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # blood-hawk-xmm
 
 ## Overview

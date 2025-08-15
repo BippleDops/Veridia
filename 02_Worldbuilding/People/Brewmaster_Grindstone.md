@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # Brewmaster_Grindstone
 
 ## Basic Information
@@ -90,7 +94,7 @@ This NPC can serve multiple roles:
 
 ## References
 
-- First mentioned in:   - Related NPC: [[Brewmaster_Grindstone]]...
+- First mentioned in:   - Related NPC: [[Brewmaster Grindstone]]...
 - Related to: Local political structure
 - Connected plots: To be developed
 

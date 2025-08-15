@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-port-meridian-medical-institute-port-meridian-medical-institute.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

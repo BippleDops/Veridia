@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-deep-sea-explorer-captain-abyss-deep-sea-explorer-captain-abyss.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

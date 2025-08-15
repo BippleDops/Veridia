@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Filter_Exchange_Quest
 
 ## Overview

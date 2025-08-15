@@ -41,7 +41,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-saber-toothed-tiger-xmm-saber-toothed-tiger-xmm.svg)
 
-# [[saber toothed tiger xmm|Saber-Toothed Tiger]]
+# [[saber toothed tiger xmm|Saber Toothed Tiger]]
 *Source: Monster Manual (2024) p. 369. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements

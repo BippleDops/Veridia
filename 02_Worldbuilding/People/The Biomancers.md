@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-biomancers-the-biomancers.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

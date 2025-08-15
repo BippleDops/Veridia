@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Creatures/creature-creature-kuo-toa-xmm-kuo-toa-xmm.svg)
 
-
 # Kuo Toa Xmm
 
 ## Overview

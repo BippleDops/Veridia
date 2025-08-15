@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-his-eternal-majesty-keeper-of-the-throne-of-bubbles-his-eternal-majesty-keeper-of-the-throne-of-bubbles.svg)
 
-
 # His Eternal Majesty, Keeper of the Throne of Bubbles
 
 ---

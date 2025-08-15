@@ -31,7 +31,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-vault-maintenance-checklist-v1-vault-maintenance-checklist.svg)
 
-
 > [!figure] View
 
 # Vault Maintece Checklist

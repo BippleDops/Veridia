@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # awakened-shrub-xmm
 
 ## Overview

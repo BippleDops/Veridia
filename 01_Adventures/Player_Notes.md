@@ -112,3 +112,63 @@ modified: '2025-08-14'
 - Magic item (roll on Table F)
 - Ancient map fragment
 - 1d4 gems (50 gp each)
+
+## Background
+*[Adventure setup and context]*
+
+### What Happened Before
+- *[Recent events leading to this adventure]*
+
+### Current Situation  
+- *[What's happening now]*
+
+### The Stakes
+- *[What happens if PCs don't act]*
+
+## Adventure Hooks
+*[Ways to get PCs involved]*
+
+### Direct Approach
+- *[Straightforward hook]*
+
+### Indirect Approach
+- *[Subtle introduction]*
+
+### Emergency Hook
+- *[Urgent situation]*
+
+## Key NPCs
+*[Important characters in this adventure]*
+
+### Allies
+- *[Helpful NPCs]*
+
+### Antagonists
+- *[Opposition NPCs]*
+
+### Neutral Parties
+- *[Information sources]*
+
+## Locations
+*[Important places in this adventure]*
+
+### Starting Location
+- *[Where adventure begins]*
+
+### Key Sites
+- *[Major locations to visit]*
+
+### Optional Areas
+- *[Side locations]*
+
+## Scaling
+*[How to adjust for different party levels]*
+
+### Lower Level Parties
+- *[Adjustments for weaker groups]*
+
+### Higher Level Parties
+- *[Adjustments for stronger groups]*
+
+### Large/Small Parties
+- *[Adjustments for party size]*

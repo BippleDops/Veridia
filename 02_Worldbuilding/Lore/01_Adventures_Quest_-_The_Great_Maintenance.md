@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 01_Adventures/Quest - The Great Maintenance
 
 ## Overview

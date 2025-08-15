@@ -31,7 +31,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-marina-saltborn-captain-marina-saltborn.svg)
 
-
 # Captain Marina Saltborn
 
 ## Overview

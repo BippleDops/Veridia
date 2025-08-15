@@ -14,7 +14,7 @@ total_step: 5975
 - **Percentage**: 59.8%
 
 ## Work Completed
-- Placeholder for Phase 60 Step 75 implementation
+-  for Phase 60 Step 75 implementation
 - This step is part of the 10,000 step enhancement plan
 
 ## Next Steps

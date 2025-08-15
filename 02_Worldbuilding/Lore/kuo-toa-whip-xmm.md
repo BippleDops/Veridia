@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # kuo-toa-whip-xmm
 
 ## Overview

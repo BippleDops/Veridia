@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # vampire-spawn-xmm
 
 ## Overview

@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # inkling-mascot-scc
 
 ## Overview

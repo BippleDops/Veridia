@@ -42,7 +42,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-corroded-crown-the-corroded-crown.svg)
 
-
 # The Corroded Crown
 
 ## 🔧 Deep Evaluation Improvements

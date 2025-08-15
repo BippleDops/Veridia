@@ -10,13 +10,13 @@ created: '2025-01-15'
 # Void Prophet us the Erased
 
 ## Overview
-This topic is referenced in [[The Void Touched Depths (D&D_Statblocks)]] and other parts of the campaign.
+This topic is referenced in [[The Void Touched Depths (D&D Statblocks)]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[The Void Touched Depths (D&D_Statblocks)]]
+- Referenced by: [[The Void Touched Depths (D&D Statblocks)]]
 - Related topics in the same category
 
 ## Details

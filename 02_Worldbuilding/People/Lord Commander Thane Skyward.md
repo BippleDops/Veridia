@@ -28,7 +28,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-lord-commander-thane-skyward-lord-commander-thane-skyward.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

@@ -28,7 +28,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-mistwalker-captain-mistwalker.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

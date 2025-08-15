@@ -14,7 +14,7 @@ total_step: 6918
 - **Percentage**: 69.2%
 
 ## Work Completed
-- Placeholder for Phase 70 Step 18 implementation
+-  for Phase 70 Step 18 implementation
 - This step is part of the 10,000 step enhancement plan
 
 ## Next Steps

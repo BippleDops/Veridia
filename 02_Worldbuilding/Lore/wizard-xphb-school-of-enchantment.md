@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # wizard-xphb-school-of-enchantment
 
 ## Overview

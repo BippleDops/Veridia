@@ -1,3 +1,7 @@
+---
+tags: ['location']
+---
+
 # 02 Worldbuilding/People/Portal Engineer Shade Linkwright
 
 ## Overview

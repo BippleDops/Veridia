@@ -39,7 +39,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-merchant-viktor-geargrind-merchant-viktor-geargrind.svg)
 
-
 # Merchant Viktor Geargrind
 
 ## Overview

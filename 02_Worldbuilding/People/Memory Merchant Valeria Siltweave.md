@@ -33,7 +33,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-memory-merchant-valeria-siltweave-memory-merchant-valeria-siltweave.svg)
 
-
 > [!figure] Portrait
 
 # Memory Merchant Valeria Siltweave

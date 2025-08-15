@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # Master_Golemancer
 
 ## Basic Information
@@ -90,7 +94,7 @@ This NPC can serve multiple roles:
 
 ## References
 
-- First mentioned in:   - Golem overhaul: [[Master_Golemancer]]...
+- First mentioned in:   - Golem overhaul: [[Master Golemancer]]...
 - Related to: Local political structure
 - Connected plots: To be developed
 

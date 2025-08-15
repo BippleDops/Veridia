@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # air-elemental-xmm
 
 ## Overview

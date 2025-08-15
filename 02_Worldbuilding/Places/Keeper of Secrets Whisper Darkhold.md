@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-keeper-of-secrets-whisper-darkhold-keeper-of-secrets-whisper-darkhold.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

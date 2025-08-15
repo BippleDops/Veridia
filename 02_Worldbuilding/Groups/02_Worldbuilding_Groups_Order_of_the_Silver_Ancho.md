@@ -1,3 +1,7 @@
+---
+tags: ['faction']
+---
+
 # 02 Worldbuilding/Groups/Order of the Silver Ancho
 
 ## Organization Overview
@@ -239,3 +243,16 @@ Secret locations for sensitive activities.
 
 ---
 *Tags*: #organization #order #faction #worldbuilding
+## Relationships
+
+### Allies
+- **[Faction Name]**: *[Nature of alliance]*
+
+### Neutral Parties
+- **[Faction Name]**: *[Current status]*
+
+### Enemies
+- **[Faction Name]**: *[Source of conflict]*
+
+### Complicated Relationships
+- **[Faction Name]**: *[Complex relationship details]*

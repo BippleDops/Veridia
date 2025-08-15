@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-police-chief-sarah-lawkeeper-police-chief-sarah-lawkeeper.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

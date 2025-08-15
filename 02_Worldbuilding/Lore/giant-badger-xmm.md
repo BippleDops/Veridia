@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # giant-badger-xmm
 
 ## Overview

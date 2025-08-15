@@ -28,7 +28,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-futures-master-economic-sense-futures-master-economic-sense.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

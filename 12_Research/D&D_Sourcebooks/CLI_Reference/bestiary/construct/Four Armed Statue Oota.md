@@ -39,7 +39,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-four-armed-statue-oota-four-armed-statue-oota.svg)
 
-# [[four armed statue oota|Four-Armed Statue]]
+# [[four armed statue oota|Four Armed Statue]]
 *Source: Out of the Abyss p. 206*  
 
 ```statblock

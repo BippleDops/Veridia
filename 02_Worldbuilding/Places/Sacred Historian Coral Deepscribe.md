@@ -28,7 +28,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-sacred-historian-coral-deepscribe-sacred-historian-coral-deepscribe.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

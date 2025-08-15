@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Creatures/creature-creature-vegepygmy-mpmm-v1-vegepygmy-mpmm.svg)
 
-
 # Vegepygmy Mpmm
 
 ---

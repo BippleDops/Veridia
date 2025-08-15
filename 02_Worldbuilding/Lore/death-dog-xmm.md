@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # death-dog-xmm
 
 ## Overview

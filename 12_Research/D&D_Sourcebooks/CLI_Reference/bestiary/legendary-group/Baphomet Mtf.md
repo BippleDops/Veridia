@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Creatures/creature-creature-baphomet-mtf-baphomet-mtf.svg)
 
-
 # Baphomet Mtf
 
 ## Overview

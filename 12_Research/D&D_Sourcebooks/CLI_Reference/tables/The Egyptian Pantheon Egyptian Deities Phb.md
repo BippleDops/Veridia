@@ -38,7 +38,7 @@ world: Both
 
 | Deity | Alignment | Suggested Domains | Symbol |
 |-------|-----------|-------------------|--------|
-| [[egyptian re horakhty|Re-Horakhty]], god of the sun, ruler of the gods | LG | Life, Light | Solar disk encircled by serpent |
+| [[egyptian re horakhty|Re Horakhty]], god of the sun, ruler of the gods | LG | Life, Light | Solar disk encircled by serpent |
 | [[egyptian anubis|Anubis]], god of judgment and death | LN | Death | Black jackal |
 | [[egyptian apep|Apep]], god of evil, fire, and serpents | NE | Trickery | Flaming snake |
 | [[egyptian bast|Bast]], goddess of cats and vengeance | CG | War | Cat |

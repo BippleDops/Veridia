@@ -1,3 +1,7 @@
+---
+tags: ['location']
+---
+
 # 04 Resources/Assets/Locations/location-city-noble-quarter-salons-noble-quarter-salons.svg
 
 ## Overview

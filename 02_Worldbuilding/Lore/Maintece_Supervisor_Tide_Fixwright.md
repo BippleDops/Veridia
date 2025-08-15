@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Maintece Supervisor Tide Fixwright
 
 ## Overview

@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # adult-gold-dragon-xmm
 
 ## Basic Information

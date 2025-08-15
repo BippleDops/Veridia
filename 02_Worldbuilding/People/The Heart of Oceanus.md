@@ -41,7 +41,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-heart-of-oceanus-the-heart-of-oceanus.svg)
 
-
 > [!figure] Portrait
 
 # The Heart of Oceanus

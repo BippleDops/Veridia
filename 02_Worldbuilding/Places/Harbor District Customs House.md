@@ -33,7 +33,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-harbor-district-customs-house-harbor-district-customs-house.svg)
 
-
 > [!figure] View
 
 # Harbor District Customs House

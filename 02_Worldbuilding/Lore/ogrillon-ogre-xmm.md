@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # ogrillon-ogre-xmm
 
 ## Overview

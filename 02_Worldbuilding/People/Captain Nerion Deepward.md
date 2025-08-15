@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-nerion-deepward-captain-nerion-deepward.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

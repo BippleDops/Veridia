@@ -1,3 +1,7 @@
+---
+tags: ['location']
+---
+
 # 04 Resources/Assets/Locations/location-city-living-stone-v1-living-stone.svg
 
 ## Overview

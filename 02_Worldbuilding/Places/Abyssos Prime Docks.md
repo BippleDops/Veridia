@@ -31,7 +31,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-abyssos-prime-docks-abyssos-prime-docks.svg)
 
-
 > [!figure] View
 
 # Abyssos Prime Docks

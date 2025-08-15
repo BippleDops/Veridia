@@ -1,3 +1,7 @@
+---
+tags: ['location']
+---
+
 # 02 Worldbuilding/Organizations/The Academy of Fundamental Truths
 
 ## Overview

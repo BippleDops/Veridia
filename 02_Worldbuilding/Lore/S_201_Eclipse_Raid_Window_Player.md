@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # S 201_Eclipse_Raid_Window_Player
 
 ## Overview

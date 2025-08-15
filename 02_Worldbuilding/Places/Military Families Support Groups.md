@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-military-families-support-groups-military-families-support-groups.png)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

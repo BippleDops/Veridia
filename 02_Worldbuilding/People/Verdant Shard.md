@@ -42,7 +42,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-verdant-shard-v1-verdant-shard.svg)
 
-
 > [!figure] Portrait
 
 # Verdant Shard

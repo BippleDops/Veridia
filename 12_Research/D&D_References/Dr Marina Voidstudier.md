@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Locations/location-city-dr-marina-voidstudier-dr-marina-voidstudier.svg)
 
-
 # Dr Marina Voidstudier
 
 ---

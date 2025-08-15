@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-oracle-oracle.svg)
 
-
 > [!figure] Portrait
 
 # Pythia Deepgazer, the Tide Oracle

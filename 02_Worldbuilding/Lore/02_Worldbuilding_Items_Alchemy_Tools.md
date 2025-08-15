@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02_Worldbuilding/Items/Alchemy_Tools
 
 ## Overview

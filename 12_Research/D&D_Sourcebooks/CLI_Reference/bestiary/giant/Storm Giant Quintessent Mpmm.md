@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Creatures/creature-creature-storm-giant-quintessent-mpmm-storm-giant-quintessent-mpmm.png)
 
-
 # Storm Giant Quintessent Mpmm
 
 ---

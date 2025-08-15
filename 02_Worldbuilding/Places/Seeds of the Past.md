@@ -40,7 +40,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-seeds-of-the-past-seeds-of-the-past.svg)
 
-
 # Seeds of the Past
 
 ## 🔧 Deep Evaluation Improvements

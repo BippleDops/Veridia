@@ -10,13 +10,13 @@ created: '2025-01-15'
 # 04_Resources_Assets_Symbols_symbol-heraldry-the-cipher-current-the-cipher-current.svg
 
 ## Overview
-This topic is referenced in [[Draft_Content (People)]] and other parts of the campaign.
+This topic is referenced in [[Draft Content (People)]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Draft_Content (People)]]
+- Referenced by: [[Draft Content (People)]]
 - Related topics in the same category
 
 ## Details

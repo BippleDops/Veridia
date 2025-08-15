@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-war-machine-assembly-halls-v1-war-machine-assembly-halls.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

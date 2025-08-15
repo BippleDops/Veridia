@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-warrior-scarredheart-v1-warrior-scarredheart.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # D 005_Shadow_Bloom_Player
 
 ## Overview

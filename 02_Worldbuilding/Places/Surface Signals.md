@@ -42,7 +42,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-surface-signals-surface-signals.svg)
 
-
 # Surface Signals
 
 *The crackling voices from the world above the waves*

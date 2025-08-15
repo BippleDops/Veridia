@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02_Worldbuilding/Groups/The_Archive_Optimizers
 
 ## Overview

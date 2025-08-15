@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-replacement-survivor-support-groups-replacement-survivor-support-groups.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

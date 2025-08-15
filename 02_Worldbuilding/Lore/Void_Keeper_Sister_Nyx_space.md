@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Void Keeper Sister Nyx space
 
 ## Overview

@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Creatures/creature-creature-zombie-xmm-v1-zombie-xmm.svg)
 
-
 # Zombie Xmm
 
 ## Overview

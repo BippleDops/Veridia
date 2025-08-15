@@ -1,0 +1,49 @@
+{
+  "character": {
+    "name": "Captain Marcus Ironwill",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Captain Marcus Ironwill.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "d in:",
+    "gender": "neutral",
+    "alignment": null,
+    "faction": "## Secrets",
+    "description": "title: Captain Marcus Ironwill\ntype: Npc\ntags:\n- npc\n- character\n- content/npc\n- world/aethermoor\n- active\n- complete\n- status/in-progress\n- aethermoor\n- bloodline\ncreated: '2025-08-11'\nmodified: '2025-08-14'\nstatus: complete\nrace: Unknown\nclass: Unknown\nlocation: Unknown\nupdated: '2025-08-13T12:34:17.576415+00:00'\nworld: Aethermoor\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "",
+    "appearance": "## Background\n\nCaptain Marcus Ironwill's path to their current position involved:\n\n- **Early Life**: Formative experiences that shaped their worldview\n- **Training**: Specialized education in their field\n- **Key Events**: Defining moments that set their course\n- **Rise to Position**: How they achieved their current status\n\n## Motivations\n\n**Primary Goal**: Pursuing knowledge\n\n**Secondary Objectives**:\n- Maintain their position and influence\n- Advance their organization's interests\n- Personal advancement or satisfaction\n\n## Secrets\n\nCaptain Marcus Ironwill harbors secrets that could change everything:\n\n- **Public Secret**: Something widely suspected but unproven\n- **Private Secret**: Known only to a trusted few\n- **Deep Secret**: Hidden past\n\n## Voice & Mannerisms\n\n**Voice**: Deep and resot\n\n**Speech Pattern**: Direct and concise\n\n**Physical Habits**: Maintains intense eye contact\n\n## Current Activities\n\nCaptain Marcus Ironwill is currently engaged in:\n\n- Managing their regular responsibilities\n- Pursuing a specific objective\n- Dealing with recent developments\n- Planning future operations\n\n## Plot Hooks\n\n1.",
+    "divine": null,
+    "monstrous": null,
+    "pc": null,
+    "major": null
+  },
+  "style": "realistic",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "friendly",
+    "expression": "smiling",
+    "lighting": "warm"
+  },
+  "prompt": "realistic portrait of Unknown Unknown, ## Background\n\nCaptain Marcus Ironwill's path to their current position involved:\n\n- **Early Life**: Formative experiences that shaped their worldview\n- **Training**: Specialized education in their field\n- **Key Events**: Defining moments that set their course\n- **Rise to Position**: How they achieved their current status\n\n## Motivations\n\n**Primary Goal**: Pursuing knowledge\n\n**Secondary Objectives**:\n- Maintain their position and influence\n- Advance their organization's interests\n- Personal advancement or satisfaction\n\n## Secrets\n\nCaptain Marcus Ironwill harbors secrets that could change everything:\n\n- **Public Secret**: Something widely suspected but unproven\n- **Private Secret**: Known only to a trusted few\n- **Deep Secret**: Hidden past\n\n## Voice & Mannerisms\n\n**Voice**: Deep and resot\n\n**Speech Pattern**: Direct and concise\n\n**Physical Habits**: Maintains intense eye contact\n\n## Current Activities\n\nCaptain Marcus Ironwill is currently engaged in:\n\n- Managing their regular responsibilities\n- Pursuing a specific objective\n- Dealing with recent developments\n- Planning future operations\n\n## Plot Hooks\n\n1., weathered, smiling expression, warm lighting, oil painting style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:49.307Z",
+  "placeholder": true
+}

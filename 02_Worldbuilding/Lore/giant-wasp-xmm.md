@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # giant-wasp-xmm
 
 ## Overview

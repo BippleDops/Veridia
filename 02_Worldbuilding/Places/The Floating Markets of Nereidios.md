@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-floating-markets-of-nereidios-the-floating-markets-of-nereidios.svg)
 
-
 > [!figure] View
 
 # The Floating Markets of Nereidios

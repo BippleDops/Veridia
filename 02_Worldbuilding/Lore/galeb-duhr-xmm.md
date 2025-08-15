@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # galeb-duhr-xmm
 
 ## Overview

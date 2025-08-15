@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Runaway_Golem_Quest
 
 ## Overview

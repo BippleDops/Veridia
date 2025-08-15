@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # magma-mephit-xmm
 
 ## Overview

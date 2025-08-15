@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # fractal-mascot-scc
 
 ## Overview

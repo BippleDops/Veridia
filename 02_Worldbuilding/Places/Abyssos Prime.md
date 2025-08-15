@@ -67,7 +67,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-abyssos-prime-abyssos-prime.svg)
 
-
 # Abyssos Prime
 
 ## Overview
@@ -106,3 +105,11 @@ This content can be adapted and expanded based on specific campaign needs.
 
 ## DM Notes
 *Customize as needed for your specific campaign requirements.*
+
+## Background Music
+
+Dark and ominous
+
+Recommended tracks:
+- dark_capital.wav
+- sunken_palace.mp3

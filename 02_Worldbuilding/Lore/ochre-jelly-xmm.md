@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # ochre-jelly-xmm
 
 ## Overview

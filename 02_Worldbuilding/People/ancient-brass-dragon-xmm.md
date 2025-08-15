@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # ancient-brass-dragon-xmm
 
 ## Basic Information

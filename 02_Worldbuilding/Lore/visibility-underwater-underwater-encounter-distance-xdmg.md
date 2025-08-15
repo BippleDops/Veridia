@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # visibility-underwater-underwater-encounter-distance-xdmg
 
 ## Overview

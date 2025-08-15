@@ -40,7 +40,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-brother-matthias-inkdrinker-brother-matthias-inkdrinker.svg)
 
-
 # Brother Matthias Inkdrinker
 
 ## 🔧 Deep Evaluation Improvements

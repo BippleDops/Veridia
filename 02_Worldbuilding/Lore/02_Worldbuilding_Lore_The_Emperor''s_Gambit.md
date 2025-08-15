@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02 Worldbuilding/Lore/The Emperor''s Gambit
 
 ## Overview

@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-culinary-critic-marina-tastebud-culinary-critic-marina-tastebud.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

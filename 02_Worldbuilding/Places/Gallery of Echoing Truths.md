@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-gallery-of-echoing-truths-gallery-of-echoing-truths.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

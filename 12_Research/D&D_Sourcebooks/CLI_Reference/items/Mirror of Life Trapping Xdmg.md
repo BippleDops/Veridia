@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Items/item-artifact-mirror-of-life-trapping-xdmg-mirror-of-life-trapping-xdmg.svg)
 
-
 # Mirror of Life Trapping Xdmg
 
 ## Overview

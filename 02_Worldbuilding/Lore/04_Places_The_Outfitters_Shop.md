@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 04_Places/The_Outfitters_Shop
 
 ## Overview

@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02 Worldbuilding/Military/Guerrilla Fighters
 
 ## Overview

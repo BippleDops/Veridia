@@ -43,7 +43,7 @@ world: Both
 | 04–07 | [[1 armor xdmg|Armor, +1]] |
 | 08–10 | [[armor of resistance xdmg|Armor of Resistance]] |
 | 11–13 | [[armor of vulnerability xdmg|Armor of Vulnerability]] |
-| 14–15 | [[arrow catching shield xdmg|Arrow-Catching Shield]] |
+| 14–15 | [[arrow catching shield xdmg|Arrow Catching Shield]] |
 | 16–18 | [[belt of hill giant strength xdmg|Belt of Giant Strength (hill)]] |
 | 19–20 | [[berserker axe xdmg|Berserker Axe]] |
 | 21–22 | [[daerns instant fortress xdmg|Daern's Instant Fortress]] |

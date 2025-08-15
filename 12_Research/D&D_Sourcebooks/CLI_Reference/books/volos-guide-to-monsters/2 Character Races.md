@@ -60,7 +60,7 @@ If you're the DM, including any of these races in your campaign is a storytellin
 - [[orc xphb|Orc]]  
 - [[tabaxi vgm|Tabaxi]]  
 - [[triton vgm|Triton]]  
-- [[yuan ti pureblood vgm|Yuan-ti Pureblood]]  
+- [[yuan ti pureblood vgm|Yuan ti Pureblood]]  
 
 ## 🔧 Deep Evaluation Improvements
 

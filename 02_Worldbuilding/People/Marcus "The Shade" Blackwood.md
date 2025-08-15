@@ -25,7 +25,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-marcus-the-shade-blackwood-marcus-the-shade-blackwood.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

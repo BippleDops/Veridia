@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # shrieker-fungus-xmm
 
 ## Overview

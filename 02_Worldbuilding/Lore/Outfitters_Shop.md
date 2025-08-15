@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Outfitters_Shop
 
 ## Overview

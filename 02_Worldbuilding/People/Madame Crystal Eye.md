@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-madame-crystal-eye-madame-crystal-eye.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

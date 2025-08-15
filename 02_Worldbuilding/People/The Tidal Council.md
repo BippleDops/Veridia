@@ -33,7 +33,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-tidal-council-the-tidal-council.svg)
 
-
 > [!figure] Portrait
 
 # The Tidal Council

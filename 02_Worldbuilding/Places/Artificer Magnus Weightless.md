@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-artificer-magnus-weightless-artificer-magnus-weightless.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

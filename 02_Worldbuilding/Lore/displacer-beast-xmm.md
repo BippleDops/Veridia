@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # displacer-beast-xmm
 
 ## Overview

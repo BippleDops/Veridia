@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Items/item-artifact-wand-of-orcus-xdmg-v1-wand-of-orcus-xdmg.svg)
 
-
 # Wand of Orcus Xdmg
 
 ## Overview

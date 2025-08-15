@@ -1,3 +1,7 @@
+---
+tags: ['location']
+---
+
 # The Academy of Resoce
 
 ## Overview

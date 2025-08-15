@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Portraits/portrait-npc-quest-the-dying-forest-quest-the-dying-forest.svg)
 
-
 # Quest - The Dying Forest
 
 ---
@@ -144,3 +143,51 @@ Contextual improvement based on 12_Research
 ## 12_Research Specific Content
 
 Contextual improvement based on 12_Research
+
+## Adventure Hooks
+*[Ways to get PCs involved]*
+
+### Direct Approach
+- *[Straightforward hook]*
+
+### Indirect Approach
+- *[Subtle introduction]*
+
+### Emergency Hook
+- *[Urgent situation]*
+
+## Key NPCs
+*[Important characters in this adventure]*
+
+### Allies
+- *[Helpful NPCs]*
+
+### Antagonists
+- *[Opposition NPCs]*
+
+### Neutral Parties
+- *[Information sources]*
+
+## Locations
+*[Important places in this adventure]*
+
+### Starting Location
+- *[Where adventure begins]*
+
+### Key Sites
+- *[Major locations to visit]*
+
+### Optional Areas
+- *[Side locations]*
+
+## Scaling
+*[How to adjust for different party levels]*
+
+### Lower Level Parties
+- *[Adjustments for weaker groups]*
+
+### Higher Level Parties
+- *[Adjustments for stronger groups]*
+
+### Large/Small Parties
+- *[Adjustments for party size]*

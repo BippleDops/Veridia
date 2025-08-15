@@ -1,3 +1,7 @@
+---
+tags: ['location']
+---
+
 # 04_Resources/Assets/04_Resources/Assets/Locations/location-city-void-currents-v1-void-currents.svg
 
 ## Overview

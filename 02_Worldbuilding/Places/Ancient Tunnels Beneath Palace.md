@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-ancient-tunnels-beneath-palace-ancient-tunnels-beneath-palace.svg)
 
-
 # Ancient Tunnels Beneath Palace
 
 ## Overview

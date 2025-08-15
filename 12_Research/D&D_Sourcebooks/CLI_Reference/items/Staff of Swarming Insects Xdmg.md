@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Items/item-artifact-staff-of-swarming-insects-xdmg-staff-of-swarming-insects-xdmg.svg)
 
-
 # Staff of Swarming Insects Xdmg
 
 ## Overview

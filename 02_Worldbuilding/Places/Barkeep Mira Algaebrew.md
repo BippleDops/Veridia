@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-barkeep-mira-algaebrew-barkeep-mira-algaebrew.svg)
 
-
 > [!figure] View
 
 # The Algaebrew Tavern

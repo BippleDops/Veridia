@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # adult-green-dragon-xmm
 
 ## Basic Information

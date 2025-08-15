@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # maddening-darkness-xge
 
 ## Overview

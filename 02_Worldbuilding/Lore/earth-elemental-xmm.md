@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # earth-elemental-xmm
 
 ## Overview

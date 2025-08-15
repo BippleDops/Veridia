@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-age-of-wonders-age-of-wonders.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

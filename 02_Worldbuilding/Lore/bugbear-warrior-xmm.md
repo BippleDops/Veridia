@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # bugbear-warrior-xmm
 
 ## Overview

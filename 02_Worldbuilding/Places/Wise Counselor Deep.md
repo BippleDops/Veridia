@@ -25,7 +25,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-wise-counselor-deep-v1-wise-counselor-deep.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # The Loyal Remt
 
 ## Overview

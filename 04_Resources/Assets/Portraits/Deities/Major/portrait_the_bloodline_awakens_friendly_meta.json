@@ -1,0 +1,57 @@
+{
+  "character": {
+    "name": "The Bloodline Awakens",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/The Bloodline Awakens.md",
+    "race": "Unknown",
+    "class": "Unknown",
+    "age": "Stirs to Life*",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "s seek to exploit, study, or eliminate the Awakened for their own purposes.",
+    "description": "title: The Bloodline Awakens\ntype: Npc\ntags:\n- aquabyssos\n- access/secret\n- bloodline\n- supernatural\n- status/archived\n- phenomenon\n- status/complete\n- ancient-power\n- npc\n- character\n- content/npc\n- active\n- complete\n- curse\n- world/aquabyssos\n- awakening\n- transformation\n- bloodline\ncreated: '2025-08-08'\nmodified: '2025-08-14'\nstatus: complete\nrace: Unknown\nclass: Unknown\nlocation: Scattered throughout Aquabyssos\naffiliation: Ancient Bloodlines (Various)\ncreated_by: auto-stub\ndanger_level: High\nmanifestation_rate: Rare but Increasing\nrole: Supernatural Bloodline Event\nupdated: '2025-08-13T12:34:17.580157+00:00'\nworld: Aquabyssos\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "**Traits**: Patient, honest, wise\n\n**Ideals**: Excellence in their chosen field, maintaining professional standards\n\n**Bonds**: Loyalty to allies, commitment to their cause\n\n**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives",
+    "appearance": "The Bloodline Awakens presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures]",
+    "divine": [
+      "divine"
+    ],
+    "monstrous": [
+      "monster"
+    ],
+    "pc": [
+      "player character"
+    ],
+    "major": [
+      "leader"
+    ]
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "friendly",
+    "expression": "smiling",
+    "lighting": "warm"
+  },
+  "prompt": "portrait_miniature portrait of Unknown Unknown, The Bloodline Awakens presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures], weathered, smiling expression, warm lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.323Z",
+  "placeholder": true
+}

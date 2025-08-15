@@ -28,7 +28,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-experimental-medical-ethics-experimental-medical-ethics.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

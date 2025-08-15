@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # faerie-dragon-youth-xmm
 
 ## Basic Information

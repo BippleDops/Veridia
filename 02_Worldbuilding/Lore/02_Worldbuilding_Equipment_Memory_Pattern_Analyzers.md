@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 02 Worldbuilding/Equipment/Memory Pattern Analyzers
 
 ## Overview

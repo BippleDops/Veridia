@@ -25,7 +25,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-forge-of-war-forge-of-war.svg)
 
-
 # Forge of War
 
 ## Overview

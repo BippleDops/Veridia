@@ -1,0 +1,53 @@
+{
+  "character": {
+    "name": "Order of the Shattered Crown",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Order of the Shattered Crown.md",
+    "race": "Human (Heavily Crystal-touched)",
+    "class": "Unknown",
+    "age": "'73'",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "s who also sought the Shards.",
+    "description": "title: Order of the Shattered Crown\ntype: Npc\ntags:\n- status/complete\n- grand-master\n- campaign/hook\n- seven-shards\n- npc\n- character\n- content/npc\n- world/aethermoor\n- active\n- complete\n- aethermoor\n- conspiracy\ncreated: '2025-08-12'\nmodified: '2025-08-14'\nstatus: complete\nrace: Human (Heavily Crystal-touched)\nclass: Unknown\nlocation: '[[The Crystalline Wastes]]'\nMyCategory: Unknown\nMyContainer: None\naffiliation: Order of the Shattered Crown (Founder & Leader)\nage: '73'\ncr: '8'\ncreated_by: expansion\nobsidianUIMode: preview\nrole: Grand Master of the Shattered Crown\nupdated: '2025-08-13T12:34:17.711198+00:00'\nworld: Aethermoor\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "wise, cruel",
+    "appearance": "Order of the Shattered Crown presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures]",
+    "divine": [
+      "divine"
+    ],
+    "monstrous": null,
+    "pc": null,
+    "major": [
+      "Leader"
+    ]
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "standard",
+    "expression": "neutral",
+    "lighting": "balanced"
+  },
+  "prompt": "portrait_miniature portrait of Human (Heavily Crystal-touched) Unknown, Order of the Shattered Crown presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures], weathered, neutral expression, balanced lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.290Z",
+  "placeholder": true
+}

@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 10-chapter-10-descent-into-the-depths
 
 ## Overview

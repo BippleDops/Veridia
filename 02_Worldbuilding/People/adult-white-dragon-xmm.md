@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # adult-white-dragon-xmm
 
 ## Basic Information

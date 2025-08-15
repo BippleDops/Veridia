@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-trade-captain-current-trade-captain-current.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

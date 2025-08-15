@@ -1,3 +1,7 @@
+---
+tags: ['location']
+---
+
 # 04 Resources/Assets/Locations/location-city-port-nimbus-v1-port-nimbus.svg
 
 ## Overview

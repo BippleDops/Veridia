@@ -41,7 +41,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-astrologer-prime-cassandra-starweaver-astrologer-prime-cassandra-starweaver.svg)
 
-
 # Astrologer Prime Cassandra Starweaver
 
 ## 🔧 Deep Evaluation Improvements

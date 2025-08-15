@@ -434,7 +434,7 @@ Here are definitions of various rules.
 > ![[actions#Search|Search]]
 
 > [!embed-variantrule]- Shape-Shifting
-> ![[shape shifting xphb|Shape-Shifting]]
+> ![[shape shifting xphb|Shape Shifting]]
 
 > [!embed-variantrule]- Short Rest
 > ![[short rest xphb|Short Rest]]

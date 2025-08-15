@@ -54,7 +54,7 @@ world: Both
 | 24–25 | [[instrument of illusions xdmg|Instrument of Illusions]] |
 | 26–27 | [[instrument of scribing xdmg|Instrument of Scribing]] |
 | 28–29 | [[lock of trickery xdmg|Lock of Trickery]] |
-| 30–32 | [[moon touched sword xdmg|Moon-Touched Sword]] |
+| 30–32 | [[moon touched sword xdmg|Moon Touched Sword]] |
 | 33–34 | [[mystery key xdmg|Mystery Key]] |
 | 35–36 | [[orb of direction xdmg|Orb of Direction]] |
 | 37–38 | [[orb of time xdmg|Orb of Time]] |

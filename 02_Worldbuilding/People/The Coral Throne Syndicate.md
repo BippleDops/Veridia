@@ -42,7 +42,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-coral-throne-syndicate-the-coral-throne-syndicate.svg)
 
-
 # The Coral Throne Syndicate
 
 ## 🔧 Deep Evaluation Improvements

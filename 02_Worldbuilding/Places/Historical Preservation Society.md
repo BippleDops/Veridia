@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-historical-preservation-society-historical-preservation-society.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

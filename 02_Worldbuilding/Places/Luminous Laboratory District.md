@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-luminous-laboratory-district-luminous-laboratory-district.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

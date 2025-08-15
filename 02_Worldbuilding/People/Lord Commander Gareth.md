@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-lord-commander-gareth-lord-commander-gareth.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

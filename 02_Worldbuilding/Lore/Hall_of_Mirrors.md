@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Hall_of_Mirrors
 
 ## Overview

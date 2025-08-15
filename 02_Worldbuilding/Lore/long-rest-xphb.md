@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # long-rest-xphb
 
 ## Overview

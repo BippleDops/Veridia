@@ -10,13 +10,13 @@ created: '2025-01-15'
 # Anti Priest us
 
 ## Overview
-This topic is referenced in [[Find the Grief Bomb (D&D_Statblocks)]] and other parts of the campaign.
+This topic is referenced in [[Find the Grief Bomb (D&D Statblocks)]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Find the Grief Bomb (D&D_Statblocks)]]
+- Referenced by: [[Find the Grief Bomb (D&D Statblocks)]]
 - Related topics in the same category
 
 ## Details

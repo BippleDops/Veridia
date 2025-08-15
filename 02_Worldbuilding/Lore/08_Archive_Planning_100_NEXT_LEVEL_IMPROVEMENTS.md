@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 08_Archive/Planning/100_NEXT_LEVEL_IMPROVEMENTS
 
 ## Overview

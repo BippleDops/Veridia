@@ -34,7 +34,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-shadow-surgeons-the-shadow-surgeons.svg)
 
-
 # The Shadow Surgeons
 
 ## Overview

@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # mind-flayer-arcanist-xmm
 
 ## Overview

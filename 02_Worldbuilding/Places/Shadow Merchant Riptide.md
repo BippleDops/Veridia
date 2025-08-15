@@ -38,7 +38,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-shadow-merchant-riptide-shadow-merchant-riptide.svg)
 
-
 > [!figure] View
 
 # Shadow Merchant Riptide

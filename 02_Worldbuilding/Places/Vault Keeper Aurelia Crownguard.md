@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-vault-keeper-aurelia-crownguard-v1-vault-keeper-aurelia-crownguard.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

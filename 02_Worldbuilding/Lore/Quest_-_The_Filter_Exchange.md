@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Quest - The Filter Exchange
 
 ## Overview

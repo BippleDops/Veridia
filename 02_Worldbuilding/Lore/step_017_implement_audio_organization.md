@@ -10,13 +10,13 @@ created: '2025-01-15'
 # step_017_implement_audio_organization
 
 ## Overview
-This topic is referenced in [[Quest_Template]] and other parts of the campaign.
+This topic is referenced in [[Quest Template]] and other parts of the campaign.
 
 ## Description
 An important element of the campaign world that connects to various other aspects of the adventure.
 
 ## Connections
-- Referenced by: [[Quest_Template]]
+- Referenced by: [[Quest Template]]
 - Related topics in the same category
 
 ## Details

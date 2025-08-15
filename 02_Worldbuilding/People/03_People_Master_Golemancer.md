@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # 03_People/Master_Golemancer
 
 ## Basic Information

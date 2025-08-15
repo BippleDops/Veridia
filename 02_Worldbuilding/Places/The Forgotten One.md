@@ -42,7 +42,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-forgotten-one-the-forgotten-one.png)
 
-
 > [!figure] View
 
 # The Forgotten One

@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Creatures/creature-creature-elder-brain-mpmm-elder-brain-mpmm.svg)
 
-
 # Elder Brain Mpmm
 
 ## Overview

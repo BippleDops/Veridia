@@ -40,7 +40,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-current-merchants-the-current-merchants.svg)
 
-
 > [!figure] Portrait
 
 # The Current Merchants

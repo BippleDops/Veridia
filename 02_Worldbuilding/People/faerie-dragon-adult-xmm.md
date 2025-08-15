@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # faerie-dragon-adult-xmm
 
 ## Basic Information

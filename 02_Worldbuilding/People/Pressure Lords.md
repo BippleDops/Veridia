@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-pressure-lords-pressure-lords.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

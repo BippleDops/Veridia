@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # Elemental_Air_Filter
 
 ## Overview

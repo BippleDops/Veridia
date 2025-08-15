@@ -40,7 +40,7 @@ world: Both
 > [!figure] Creature
 ![](04_Resources/Assets/Creatures/creature-creature-half-dragon-xmm-half-dragon-xmm.svg)
 
-# [[half dragon xmm|Half-Dragon]]
+# [[half dragon xmm|Half Dragon]]
 *Source: Monster Manual (2024) p. 163. Available in the SRD and the Free Rules (2024)*  
 
 ## 🔧 Deep Evaluation Improvements

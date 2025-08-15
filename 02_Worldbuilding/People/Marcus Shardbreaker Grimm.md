@@ -22,7 +22,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-marcus-shardbreaker-grimm-marcus-shardbreaker-grimm.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

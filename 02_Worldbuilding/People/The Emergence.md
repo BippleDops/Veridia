@@ -34,7 +34,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-emergence-the-emergence.svg)
 
-
 > [!figure] Portrait
 
 # The Emergence

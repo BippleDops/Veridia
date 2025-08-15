@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # water-elemental-xmm
 
 ## Overview

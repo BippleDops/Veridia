@@ -41,7 +41,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-forge-master-petra-hammerdeep-forge-master-petra-hammerdeep.svg)
 
-
 # Forge Master Petra Hammerdeep
 
 ## 🔧 Deep Evaluation Improvements

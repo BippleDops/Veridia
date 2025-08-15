@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # brackish-trudge-scc
 
 ## Overview

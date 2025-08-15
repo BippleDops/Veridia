@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # gnoll-fang-of-yeenoghu-xmm
 
 ## Overview

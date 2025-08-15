@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-silhouette-surgeon-prime-the-silhouette-surgeon-prime.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

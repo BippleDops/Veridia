@@ -29,7 +29,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-high-inquisitor-maltheos-high-inquisitor-maltheos.svg)
 
-
 > [!figure] Portrait
 
 # High Inquisitor Maltheos

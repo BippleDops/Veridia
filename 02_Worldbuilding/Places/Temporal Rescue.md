@@ -32,7 +32,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-temporal-rescue-temporal-rescue.svg)
 
-
 > [!figure] View
 
 # Temporal Rescue

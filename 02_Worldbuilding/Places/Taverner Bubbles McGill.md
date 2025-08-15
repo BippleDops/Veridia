@@ -40,7 +40,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-taverner-bubbles-mcgill-taverner-bubbles-mcgill.svg)
 
-
 # Taverner Bubbles McGill
 
 ## 🔧 Deep Evaluation Improvements

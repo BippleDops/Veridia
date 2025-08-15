@@ -30,7 +30,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-iron-pits-of-malachar-the-iron-pits-of-malachar.svg)
 
-
 > [!figure] View
 
 # The Iron Pits of Malachar

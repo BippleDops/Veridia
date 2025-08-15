@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # 01_Adventures/The_Annual_Renewal
 
 ## Overview

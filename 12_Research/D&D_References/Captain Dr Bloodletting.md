@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Portraits/portrait-npc-captain-dr-bloodletting-captain-dr-bloodletting.svg)
 
-
 # Captain Dr Bloodletting
 
 ---

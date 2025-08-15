@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # ancient-blue-dragon-xmm
 
 ## Basic Information

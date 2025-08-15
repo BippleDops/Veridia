@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-surface-liaison-captain-reed-bridgewater-surface-liaison-captain-reed-bridgewater.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

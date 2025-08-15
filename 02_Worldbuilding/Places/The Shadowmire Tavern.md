@@ -41,7 +41,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-shadowmire-tavern-the-shadowmire-tavern.svg)
 
-
 > [!figure] View
 
 # The Shadowmire Tavern

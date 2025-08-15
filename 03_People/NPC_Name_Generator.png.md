@@ -18,6 +18,12 @@ improvements: 20
 
 # NPC_Name_Generator.png
 
+## Portrait
+
+![[portrait_npc_name_generator.png.png]]
+
+*Portrait reference for NPC_Name_Generator.png*
+
 ## Overview
 NPC_Name_Generator.png is a notable figure in the realm, known for their unique skills and complex motivations.
 
@@ -56,3 +62,21 @@ Actively involved in current events, pursuing their own agenda while maintaining
 
 ## DM Notes
 *This NPC can serve multiple roles depending on campaign needs. Their true loyalties are intentionally ambiguous.*
+
+## Stats
+
+```statblock
+creature: Custom NPC
+```
+
+### Quick Stats
+- **AC**: *[Armor Class]*
+- **HP**: *[Hit Points]*
+- **Speed**: *[Movement speed]*
+- **STR/DEX/CON/INT/WIS/CHA**: *[Ability scores]*
+
+### Combat
+- **Challenge Rating**: *[CR level]*
+- **Proficiency Bonus**: *[+X]*
+- **Saving Throws**: *[Proficient saves]*
+- **Skills**: *[Skill proficiencies]*

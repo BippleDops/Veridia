@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Creatures/creature-creature-blue-dragon-wyrmling-xmm-blue-dragon-wyrmling-xmm.svg)
 
-
 # Blue Dragon Wyrmling Xmm
 
 ## Overview

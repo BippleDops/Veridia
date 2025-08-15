@@ -1,3 +1,7 @@
+---
+tags: ['location']
+---
+
 # 04 Resources/Assets/Portraits/portrait-npc-queen-morwyn-lumengarde-v2-queen-morwyn-lumengarde.svg
 
 ## Overview

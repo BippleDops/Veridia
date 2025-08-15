@@ -1,0 +1,53 @@
+{
+  "character": {
+    "name": "Pressure Angel Benthia",
+    "filename": "/Users/jongosussmango/Library/Mobile Documents/iCloud~md~obsidian/Documents/ObsidianTTRPGVault Experimental/02_Worldbuilding/People/Pressure Angel Benthia.md",
+    "race": "Pressure Angel (Divine Being)",
+    "class": "Unknown",
+    "age": "Timeless (exists outside normal temporal flow)",
+    "gender": "neutral",
+    "alignment": "Neutral",
+    "faction": "s",
+    "description": "title: Pressure Angel Benthia\ntype: Npc\ntags:\n- aquabyssos\n- status/complete\n- guardian\n- npc\n- deep-mother\n- content/npc\n- character\n- active\n- divine-servant\n- complete\n- world/aquabyssos\n- conspiracy\ncreated: '2025-08-09'\nmodified: '2025-08-14'\nstatus: complete\nrace: Pressure Angel (Divine Being)\nclass: Unknown\nlocation: '[[The Hadal Depths]] - Pressure Nexus Points'\naffiliation: '[[The Deep Mother]] (Direct Service)'\nage: Timeless (exists outside normal temporal flow)\ncreated_by: auto-stub\nrole: Pressure Angel\nupdated: '2025-08-13T12:34:17.513326+00:00'\nworld: Aquabyssos\nevaluated: '2025-08-14'\nimprovements: 20\n---",
+    "personality": "**Traits**: Curious, loyal, empathetic\n\n**Ideals**: Excellence in their chosen field, maintaining professional standards\n\n**Bonds**: Loyalty to allies, commitment to their cause\n\n**Flaws**: Perhaps too focused on their goals, sometimes blind to alternatives",
+    "appearance": "Pressure Angel Benthia presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures]",
+    "divine": [
+      "divine"
+    ],
+    "monstrous": null,
+    "pc": null,
+    "major": [
+      "important"
+    ]
+  },
+  "style": "portrait_miniature",
+  "archetype": {
+    "features": [
+      "weathered",
+      "honest face",
+      "tired eyes",
+      "genuine smile"
+    ],
+    "accessories": [
+      "work tools",
+      "simple clothes",
+      "worn hat",
+      "produce basket"
+    ],
+    "backgrounds": [
+      "farm",
+      "workshop",
+      "tavern",
+      "street"
+    ]
+  },
+  "version": {
+    "suffix": "friendly",
+    "expression": "smiling",
+    "lighting": "warm"
+  },
+  "prompt": "portrait_miniature portrait of Pressure Angel (Divine Being) Unknown, Pressure Angel Benthia presents a distinctive figure. Their bearing suggests both competence and experience. Notable features include:\n\n- **Build**: Average height, athletic build\n- **Distinguishing Marks**: [Describe unique features]\n- **Typical Attire**: Professional garments suited to their role\n- **Mannerisms**: [Describe habits and gestures], weathered, smiling expression, warm lighting, gold leaf details style, farm background",
+  "size": "1024x1024",
+  "generated": "2025-08-15T02:48:50.296Z",
+  "placeholder": true
+}

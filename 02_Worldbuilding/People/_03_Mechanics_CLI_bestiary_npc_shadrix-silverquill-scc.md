@@ -1,3 +1,7 @@
+---
+tags: ['npc']
+---
+
 # /03 Mechanics/CLI/bestiary/npc/shadrix-silverquill-scc
 
 ## Basic Information

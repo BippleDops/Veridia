@@ -41,7 +41,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-divine-trial-the-divine-trial.svg)
 
-
 # The Divine Trial
 
 ## 🔧 Deep Evaluation Improvements

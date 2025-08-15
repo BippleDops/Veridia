@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-codex-of-forgotten-depths-codex-of-forgotten-depths.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

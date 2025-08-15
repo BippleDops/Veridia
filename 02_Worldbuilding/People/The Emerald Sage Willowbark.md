@@ -35,7 +35,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-the-emerald-sage-willowbark-the-emerald-sage-willowbark.svg)
 
-
 > [!figure] Portrait
 
 # The Emerald Sage Willowbark

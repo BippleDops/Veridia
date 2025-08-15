@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-voices-from-below-v1-voices-from-below.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

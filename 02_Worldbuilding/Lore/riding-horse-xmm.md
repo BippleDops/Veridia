@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # riding-horse-xmm
 
 ## Overview

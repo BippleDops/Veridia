@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Items/item-artifact-tome-of-the-stilled-tongue-xdmg-tome-of-the-stilled-tongue-xdmg.svg)
 
-
 # Tome of the Stilled Tongue Xdmg
 
 ## Overview

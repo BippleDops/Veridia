@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # gas-spore-fungus-xmm
 
 ## Overview

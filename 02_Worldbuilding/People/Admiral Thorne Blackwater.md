@@ -53,7 +53,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-admiral-thorne-blackwater-admiral-thorne-blackwater.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

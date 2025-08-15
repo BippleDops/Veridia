@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-master-of-currents-poseidon-master-of-currents-poseidon.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

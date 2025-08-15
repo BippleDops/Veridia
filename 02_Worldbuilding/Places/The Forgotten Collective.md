@@ -41,7 +41,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-the-forgotten-collective-the-forgotten-collective.svg)
 
-
 # The Forgotten Collective
 
 ## 🔧 Deep Evaluation Improvements

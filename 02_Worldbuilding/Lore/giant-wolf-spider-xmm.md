@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # giant-wolf-spider-xmm
 
 ## Overview

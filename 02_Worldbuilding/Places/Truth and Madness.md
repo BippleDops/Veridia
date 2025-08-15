@@ -41,7 +41,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-truth-and-madness-truth-and-madness.svg)
 
-
 # Truth and Madness
 
 ## 🔧 Deep Evaluation Improvements

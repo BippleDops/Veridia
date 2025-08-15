@@ -27,7 +27,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-pool-of-sacred-drowning-pool-of-sacred-drowning.svg)
 
-
 > [!figure] View
 
 ## 🔧 Deep Evaluation Improvements

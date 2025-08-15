@@ -26,7 +26,6 @@ improvements: 20
 > [!figure] Portrait
 ![](04_Resources/Assets/Portraits/portrait-npc-lord-chancellor-prism-valdrick-lord-chancellor-prism-valdrick.svg)
 
-
 > [!figure] Portrait
 
 ## 🔧 Deep Evaluation Improvements

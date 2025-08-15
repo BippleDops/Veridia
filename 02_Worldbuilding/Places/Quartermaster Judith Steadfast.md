@@ -35,7 +35,6 @@ improvements: 20
 > [!figure] View
 ![](04_Resources/Assets/Locations/location-city-quartermaster-judith-steadfast-quartermaster-judith-steadfast.svg)
 
-
 > [!figure] View
 
 # The Steadfast Supply Depot - Aquabyssos Logistics Hub

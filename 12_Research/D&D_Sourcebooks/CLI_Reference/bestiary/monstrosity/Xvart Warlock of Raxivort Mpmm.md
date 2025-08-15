@@ -10,7 +10,6 @@ modified: '2025-01-15'
 > [!figure] Asset
 ![](04_Resources/Assets/Creatures/creature-creature-xvart-warlock-of-raxivort-mpmm-v1-xvart-warlock-of-raxivort-mpmm.svg)
 
-
 # Xvart Warlock of Raxivort Mpmm
 
 ## Overview

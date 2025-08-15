@@ -1,3 +1,7 @@
+---
+tags: ['lore']
+---
+
 # fire-giant-xmm
 
 ## Overview

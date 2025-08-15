@@ -979,3 +979,27 @@ modified: '2025-08-14'
 ```json
 []
 ```
+\n\n## Aquabyssos creature prompts (2025-08-15T17:50:05Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos creature prompts (2025-08-15T17:54:05Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos creature prompts (2025-08-15T17:58:05Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos creature prompts (2025-08-15T18:02:06Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos creature prompts (2025-08-15T18:06:06Z)\n
+```json
+[]
+```
+\n\n## Aquabyssos creature prompts (2025-08-15T18:10:06Z)\n
+```json
+[]
+```
